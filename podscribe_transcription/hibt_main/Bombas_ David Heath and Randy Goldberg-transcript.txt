@@ -1,0 +1,980 @@
+0 (0s):
+We live in a world, a country, and a moment in time where there's so much important news and it is constantly changing. That's why up first is here for you. It's NPRs daily morning news podcast. In about 10 minutes, you can start your day informed, listen to up first on the NPR one app or wherever you get your podcasts
+
+1 (20s):
+Here at how I built this slack is our digital HQ. It's one digital space that brings together all of our people and all of the tools we need are built in having slack makes collaboration easier and more flexible. So we're a lot more productive. Our team works remotely from locations across the country. Working in slack channels has been a game changer. We share ideas, our feedback episodes that need to be approved and all of it is streamlined for everyone to see rather than getting lost in an inbox. More flexibility, faster, everything. Slack is your digital HQ. Get started at slack.com/dhq and tune into my new podcast.
+
+1 (1m 2s):
+The great creators available where you are listening right now presented by slack where the future works. Are you a small business owner looking to advertise on a streaming platform with some of the hottest shows on TV, Hulu ad manager, lets you get your brand on Hulu for as little as $500 per campaign. You can choose your audience, set your budget, upload your ad and track performance in near real time. It's simple. Go to Hulu ad manager.com/stream to get started. Hey, it's guy here with a very exciting announcement. I have a brand new podcast it's called the great creators in the launches on September 20th and each week I'll be interviewing some of your favorite actors, comedians, and musicians about their lives, their work and where they find creativity.
+
+1 (1m 52s):
+So please check out the great creators it's available, wherever you find your podcasts. And please do subscribe so you won't miss any of the episodes. And our first episode is with Steven Colbert. So check out the great creators, wherever you get your podcasts. And we'll include a link in the show notes to this episode two. Thanks now. Enjoy how I built this.
+
+3 (2m 17s):
+When I showed up talking about building a so company now is all but pretty much laughed out of the room.
+
+1 (2m 24s):
+Not exciting,
+
+3 (2m 25s):
+Exactly like how big could a sock company be or like, you know, it's a pretty, you know, boring category. And I think from a confidence level standpoint that made us like requestion things a little bit too. And so as a salesperson, that was pretty hard for me to take
+
+1 (2m 46s):
+Welcome to how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements they built I'm guy Raz. And on the show today, how two friends decided to take the tools of innovation and apply them to one of the least innovative products, socks, and ended up building a multimillion dollar company. Bombas A great idea is almost never an original idea. It's usually an improvement on an existing concept. You can apply this logic to some of the most innovative brands in the world.
+
+1 (3m 27s):
+Tesla didn't invent electric cars, but it made them so much more interesting and efficient. Google didn't invent the search engine. It just made a better one and Dropbox didn't invent cloud based storage. It just made it easier to use. Now all of these examples are technology companies and many of us typically associate the word innovation with technology. But the reality is the opportunity for innovation is often found in the most boring places in products that we don't even notice like women's shape wear no one really bothered to improve that category until Sarah Blakely came up with spanks and the same can be said for socks, socks have been for the most part and afterthought.
+
+1 (4m 18s):
+You've got your dress socks, your sports socks, and maybe some thick hiking socks, but no one was really thinking, Hey, you know what needs innovation socks? That is until 2011 when David Heath decided to do just that, how he got the idea? Well, you're about to hear that in a few minutes, but what David quickly realized is that no one was making a product that had the qualities of a high performance athletic sock and a casual dress sock all in one package. So with his friend, Randy Goldberg, David began the long process of trying to figure out if there was a market for his idea, they called their brand Bombas.
+
+1 (5m 1s):
+Now at the time, as you will hear, very few investors were interested. Socks just weren't seen as exciting or profitable, but it turns out socks are very profitable, almost like popcorn profitable. And over the course of 10 years, David and Randy have managed to build Bombas into a business that does more than a quarter billion dollars in revenue. David and Randy met around 2007 when they were both working for a men's lifestyle website called urban daddy. Randy Goldberg grew up in Baltimore, the son of entrepreneurs who ran a business, making lenses for glasses.
+
+1 (5m 42s):
+David Heath grew up in Westchester county, just north of New York. His dad was also an entrepreneur who actually pioneered the technology that makes wood chips for playgrounds. And like his dad, David wanted to pursue a life as an entrepreneur. So he went to Babson college to study well entrepreneurship, but it wasn't college that turned him into an entrepreneur. It was a job he had during college, a job selling knives door to door for a company called Cutco. David decided to become a Cutco sales rep after meeting a recruiter on campus.
+
+3 (6m 19s):
+And I like bought full in. I was like, this is it. I'm like I could do this. I'm a great salesperson. I was like very into the product. And I also just felt like, okay, this is something I can do on my own. So I ended up joining and over the course of the next four summers, I became one of the top sales reps in the Northeast. I had sold like $400,000 worth of Coco knives over four summers.
+
+1 (6m 46s):
+What was your sales pitch? I mean, I mean, you're, you'd call me up and you'd say, Hey, I've been talking to Susan and she gave me your number guy. And I know that from what I understand, you're in the market for some new kitchen knives and like what?
+
+3 (6m 58s):
+No, no, no, you don't even like, you don't even get there. You're just like, what do you do? All I need, you know, is 30 minutes of your time. You know, 30
+
+1 (7m 7s):
+Minutes of my time, my time's valuable David, I don't. And then you're gonna say what I
+
+3 (7m 12s):
+Wasn't calling people like you guys. I was calling, you know,
+
+1 (7m 15s):
+No anybody.
+
+5 (7m 16s):
+See if you can sell guys some knives, Dave sell 'em some
+
+1 (7m 19s):
+Knives. Yeah. Sell me some knives. Okay. Okay. 30 minutes of my time. And then, and then what are you gonna do with that time? Okay.
+
+3 (7m 25s):
+30 minutes of your time. You don't need to buy anything. I get college credit for
+
+1 (7m 29s):
+This. Okay. You get, oh, you get college credit for it. Okay. You
+
+3 (7m 32s):
+Really like leaned on the college part. Right? It's like, I'm a struggling college student.
+
+1 (7m 36s):
+You're a college student. You're getting credit for being involved in this business. Okay. I gotcha. Okay. That's interesting. Okay. Well, you know, I wanna help a college kid. Okay.
+
+3 (7m 45s):
+Well, and I'd say sure. You know, how's Tuesday at 3:00 PM and you know, I, you know, come over and I'd have my little roll up of knives, you know, before I even unrolled it, I'd like put 'em on the counter. Kind of create the mye of like, what is this thing? And I had a little like sales pamphlet and I'd say, actually, I can't even remember these days, but I just remember, you'd always start with, I'd say like, do you have a penny? Right? This is one of the big like Cutco, like things like, do you have a penny? And they'd say, yeah, why do you need a penny? You've got the penny and you'd take out these kitchen shears and you'd cut the penny into a cork screw.
+
+5 (8m 21s):
+I'm really enjoying this.
+
+3 (8m 22s):
+And they'd be like, what is going on? I was like, this is Cutco, right? Yeah. We make high quality American made kitchen cutlery. And then I'd like, please go get your three best knives. Right. And they'd like, get these night knife drawer with like rusty old, you know, dull things. And I'd have a piece of rope and it's like, we're gonna start by cutting, you know, with your knife. Yep. And like, you'd cut. It's like, you'd give, ask them to cut it and they'd be like, I can't cut it.
+
+1 (8m 50s):
+Cut. What? Like a chicken bone?
+
+3 (8m 52s):
+No. A piece of rope. Oh,
+
+1 (8m 53s):
+Rope. Okay. You'd bring the rope. Yeah.
+
+3 (8m 56s):
+I'd bring the rope. Yeah. Rope was provided by
+
+1 (8m 59s):
+Me. Yep. And they would try and they'd struggle with their
+
+3 (9m 2s):
+Ah, couldn't get through. Yeah. Then they'd be like, let me go get my sharpest knife. Right. They'd go. Yeah. Always go get a serrated knife. And like I got you, they'd cut it. And it would like tear the fibers of the, you know, the, the rope be like it's all over the place. And I was like, all right, now try it with a Cutco. Cause it had a double edge and it would cut the rope within one, like half of a pole just like, oh my God. Now you've built up this like tremendous amount of like wow. And value. I think, I think honestly the two things that this job told me or taught me was one of the skills of like how to sell, right.
+
+3 (9m 43s):
+How to like, yeah. You know, build value, handle objections, right? Like the, the like sales 1 0 1, they, they were incredible at sales training. Incredible. And really kind of teed me up for, you know, my interest in sales, but also my pursuit in kind of in, in, in wanting to be really good at selling and kind of that drive and hunt mentality. But I think the other part was always was realizing that it was really easy to sell a good product. Yeah. And I think this idea around if you have a great product, right. It almost sells itself.
+
+1 (10m 19s):
+Yeah.
+
+3 (10m 19s):
+And so I just, I believed fully in the product,
+
+1 (10m 23s):
+But to do that, you know, at 1819, and you made $120,000 in one summer selling knives as a college student.
+
+3 (10m 32s):
+Yep.
+
+1 (10m 32s):
+That's insane. That's a crazy amount of money. I mean, I mean, you were making, you were making more money than anybody in college
+
+3 (10m 42s):
+By far. And, and, and not to mention, I mean, I can't underscore the fact that again, I worked four hours a day, four days a week.
+
+1 (10m 49s):
+You were the original Tim Ferris. You're the four hour work week guy before Tim Ferris did it. He's getting rid that book. Alright. So you, so you're and when, when you graduated, did you think, you know, maybe I should just go to Cutco full time if I made 120 in one quarter times four, I mean, you know, you could be rolling in it right after college.
+
+3 (11m 14s):
+So no, I did not have a desire to continue to sell lives. Okay. But I, I did follow that, that line of thinking in the sense of saying, wow, I'm really good at sales. And I think like every broke college kid that comes out of school, especially I think as well, being a product of the nineties and the MTV cribs generation, everything was about make as much money as possible. Right. Yeah. I think, I think the newer generation of gen Z millennial that's like, do what you love. I'm like, thank God that they figured that out a lot earlier than I did. And so I remember approaching graduation, I, I looked at sales jobs and I figured out what industry do salespeople get paid the most amount of money and pretty consistently was in software sales.
+
+1 (12m 4s):
+Hmm. Wow. All right. So, so Randy, let, let me turn to you because, because by the time David was making like $120,000 on knives in college, you had already graduated from Georgetown university in, I think in around 2000 and went straight to a job at a, like a tech consulting company, I think in Boston, which was, I guess right. Red sort of before the.com crash, is that right? Yeah.
+
+5 (12m 33s):
+Things started to unravel pretty quickly. And I got laid off in April of 2001, so it was seven months into my first job. Wow. I'm out, you know? Wow. Yeah.
+
+1 (12m 44s):
+So seven months you're out and living in Boston,
+
+5 (12m 47s):
+Living in Boston.
+
+1 (12m 49s):
+And so what'd you do next?
+
+5 (12m 51s):
+So a moment where I had to decide, am I gonna move home and figure things out there? Or am I gonna sign a new lease and try and figure things out here? And I felt like if I moved home, I, I might get a little stuck. I wasn't really certain of what I wanted to do, but I, I made the, the decision to, you know, move into a new apartment with some friends, sign a lease and then start interviewing. So I got a, I got two jobs in the meantime just to pay the rent. I got a job at a wine shop and I got a job at a bar. I started out waiting tables and then eventually worked behind the bar and helped manage the place.
+
+5 (13m 32s):
+And I learned a lot pretty quickly, but in the whole, the whole time I was there, I was interviewing, you know, cuz I wanted to be doing something else.
+
+1 (13m 39s):
+Yeah. How long did you stay there?
+
+5 (13m 41s):
+Well, I ended up meeting some people who would come in regularly and we became friends and they worked at an ad agency and they said, you know, I think you would kind of be good at what we do. You know, do you want a chance to, to like to do a project with us as a copywriter? Hmm. And I took a job as like a copywriter working on a brand book for, for Johnston and Murphy. So the, the shoe brand, the
+
+1 (14m 8s):
+Shoe. Yeah.
+
+5 (14m 9s):
+Yeah. I had never done this before and it went really well. It was the kind of thing where, you know, it felt sort of natural to me to do this type of work. Couldn't believe it was a job that type of feeling. And I thought maybe there's something here. So I, I started pursuing writing more regularly and I was still working for this restaurant group for, for a while. After that for a couple years, as I started to build my career as a copywriter,
+
+1 (14m 35s):
+Freelance is doing freelance work,
+
+5 (14m 36s):
+All freelance. Yeah. All freelance. So like writing a campaign or picking a song for a commercial, things like that. And a lot of the work was working on brand books for companies that had sort of lost their way. Right. So larger companies that needed to be, be reminded of why they started in the first place. What was special about them? What was unique? And you're doing this for companies that had once been great, but had maybe lost their way. That's a very interesting practice.
+
+1 (15m 3s):
+Hmm. All right. Just hold that thought for a moment. I wanna go back to, to David here for a second. David, when you graduated from Babson around, I think around 2005, you landed the, sort of the coveted tech sales job that you wanted. I think it was from an Israeli company called nice systems based in New Jersey. So how did that job go?
+
+3 (15m 26s):
+I did incredibly well at the job. I, I hated the product. I find, I found no emotional connection to software. It's not anything I studied. It wasn't anything that I was like personally interested in. I was purely there just for the money. And so after a year and a half there, I kind of gave them an ultimatum. I was like either make me an outside sales rep or I'm gonna leave and go do something on my own. And by the time I was 24, I was kind of in this, you know, I'd made a bunch of money and put a bunch of money in savings. And I started my first business because they didn't gimme the job I left.
+
+3 (16m 6s):
+And I created a social networking site for apartment buildings called building neighbors.com.
+
+1 (16m 12s):
+And what was, how did the social network, how was it supposed to work?
+
+3 (16m 15s):
+So I had just broken up with my girlfriend of a few years and I was in this massive building with mostly young, you know, post-college you people in it. And you know, I was like 32 floors, two towers, you know, like a hundred apartments, each floor type of thing. To me, this was 2006 or five. Yeah. 2006. So Facebook was not what it is today.
+
+1 (16m 43s):
+It was out there. It was out there. It was
+
+3 (16m 45s):
+Out there, but it wasn't as prolific as, as it is today. Yeah. So I was like, and I also think this was the time when everyone was like social networking site for dogs, for apartments. Yeah. For people who like to cook, you know, I was just like, oh, maybe this is an interesting way, you know, to meet other people, to connect people in my building. Yeah. And I worked on that for a year and put about $50,000 of my savings into that.
+
+1 (17m 13s):
+How, how long did you end up working on this business?
+
+3 (17m 16s):
+So I, I worked on it for about eight months and as I watched my savings dwindle, without any cash flow coming in, I kind of quickly got nervous and was like, whoa, if this takes much longer, I'm, I'm not gonna have much left. So that's when I said, I'm gonna go back and get a job, you know, while I continue to work on this thing. And I said, okay, if this is a online, digital focused, you know, first type of company, I should probably go get some skills or experience in the online space. And my roommate at the time was working on this project with my roommate at the time. And I remember he came home one night and he said, I applied for a job for you.
+
+3 (17m 59s):
+And I was like, what do you mean? He was like, I applied, I sent your resume into this newsletter that I get that I really like, it's called urban daddy. I was like, I have no idea, like what this is. I'd never heard of it. And 30 minutes later, like my phone rings and they're like, Hey, it's Rob at urban daddy. Would you like to come in for an interview this afternoon? And I was
+
+1 (18m 20s):
+Like, wait, sorry. Back up, your friend applied to urban daddy on your behalf. What, why? I mean, you were not a, because,
+
+3 (18m 27s):
+Because he knew that I was like, wanted to get back and find something in the online space. Yeah. And again, we were, we were roommates and we were working on the building neighbors project together. Yeah. And I was bankrolling the whole thing and he knew that I was like stressed out about like my savings going away and you know, so I became pretty focused on like, let's find a job. And like, within like a few days he just like was like, oh, applied for this job for you kind of thinking it was a Lark. Like, I don't know. They're they're not gonna like reach out or apply like 30 minutes later they called me.
+
+1 (19m 3s):
+And so you had that obviously experience as a salesperson and, and, and this was a, just a, a, and did you know anything about this site? Was it,
+
+3 (19m 11s):
+Was it nothing? Nothing. I never seen it. I never knew, I didn't know anything about it
+
+1 (19m 15s):
+Called
+
+3 (19m 15s):
+Urban daddy. And I was like blindly walking into an interview. So
+
+1 (19m 20s):
+Yeah, it's a, it's a horrible name. It's a, it's a horrible name. Horrible, horrible, horrible name. Urban daddy.
+
+5 (19m 25s):
+I spent days
+
+1 (19m 27s):
+It's like, it's sounds sugar, daddy, what does it mean is it is like, this is my sugar, urban daddy. I don't understand what it
+
+5 (19m 35s):
+Means. It's not just weird. It's terrible. It's aggressively terrible and
+
+1 (19m 39s):
+Terrible name. It went on to be successful. I know, but it was an aggressively terrible name. Keep going. Sorry.
+
+5 (19m 43s):
+I spent days trying to convince them days trying to convince them to change it. Yeah. Branding exercises. We, we just tried so hard and the, the founder was, you know, it was his name and he loved it. So,
+
+1 (19m 58s):
+Yeah. All right. Okay. So, alright. So to David, you get this interview to be, to, to do business development for, for this website.
+
+3 (20m 6s):
+And this is an important part of the story, because I like you like you do when you get a job interview, I put on a suit and tie and yeah, I go downtown and I show up to this office. Office is a, is a stretch. I like open this door and there's like six people sitting at desks and like four interns sitting at a big table and then like one small office in the corner. There's a single chair.
+
+1 (20m 35s):
+And this is like 2005,
+
+5 (20m 36s):
+2007,
+
+3 (20m 37s):
+2007, 2000.
+
+1 (20m 39s):
+It's 2007. Okay. Yep.
+
+3 (20m 40s):
+So there's a single chair by the door and they're like, wait here. And I'm like full suit and tie in this like cool hip publication. Everyone's like super stylish, like staring at me. I'm
+
+1 (20m 55s):
+Like, it's New York. It's New York. Of course
+
+3 (20m 58s):
+This is so embarrassing. I'm like, I, I'm never getting this job. I'm leaving. This is awful. I go into the meeting, I meet with the head of sales and the founder. And 30 minutes later I had a job offer and I showed up like, whatever, two days later,
+
+1 (21m 14s):
+A job offer to run business development.
+
+3 (21m 16s):
+I was the second salesperson and like business development and partnerships to like grow our email list.
+
+1 (21m 22s):
+And sales would mean trying to get advertisers basically for the website. Yeah.
+
+3 (21m 26s):
+And then also try to get people to partner with us, to share email lists so we could grow our email list and distribution. And this is a key part of the story because my chair like backed up against Randy's chair. I
+
+5 (21m 41s):
+Remember Dave walking in for that interview as well in his suit and thinking, who is this guy?
+
+1 (21m 48s):
+Yeah. And, and you were, and, and Dave and Randy, you were a writer, right? You were writing articles or like
+
+5 (21m 54s):
+Pieces. Yeah, I was, I was writing the New York edition. Right. That, that was, that was my job. And I had started a month earlier. So I, it's not, like I had been there for a long time. You know, there was six of us and then Dave was seven
+
+1 (22m 6s):
+And, and just to be clear, urban daddy still exists. Yeah. But, but at the time it focused on and it was basically like cool places to go eat cool clothes to wear like place cool places to travel. Like
+
+5 (22m 19s):
+It was mostly about using the city New York.
+
+1 (22m 21s):
+Okay. Like
+
+5 (22m 22s):
+What is a new restaurant, a new club, something happening, you know, if, if you, if you were trying to go out or go on a date, it was a resource of like someplace to go to impress your friends or impress a date or take your parents. Like, it was really about like getting
+
+1 (22m 40s):
+Out. And it was for men, it was designed for young men. Yes. It's
+
+3 (22m 43s):
+Like geared towards, it was like a male vibe.
+
+1 (22m 46s):
+So tell me about how the two, I mean, you were, it was a office of seven, eight people. So presumably it wasn't that hard to meet each other. Did, did the two of you become friends right away? What do you remember about that, Randy?
+
+5 (22m 58s):
+You know, Dave has one of the loudest voices in America, right. So he comes into this tiny office. There's seven people now in this small office and we're all in one room. Right. So he's, his chair is backed up against my chair. There's no space. It's tiny, it's New York, right? Yeah. And he's sitting on sales calls all day
+
+1 (23m 21s):
+And just chat, just talking people's ear off. And it's
+
+5 (23m 24s):
+Like, he was screaming inside of my head.
+
+1 (23m 27s):
+You're hearing it all day. And I'm yeah.
+
+5 (23m 29s):
+You know, he's on a sales call and I'm sitting there trying to formulate an angle to write a story, which is the exact opposite environment.
+
+1 (23m 37s):
+Open space offices are not good, not good, bad trend, bad
+
+5 (23m 42s):
+To sorry. So there was some tension at first. And I, I, I just was, I remember being like, who does this guy think he is? And then you have an office of seven people. So we went out to lunch and I soon figured out who this guy really was. And I realized that we couldn't be more different in a lot of ways. Right? Like, like there's a lot about the two of us that's super different, but we have a very similar outlook on the world and we're both pretty entrepreneurial and Dave's got a big heart. And I was like, I like this guy. And we became fast friends. You know, it didn't take long to get over that. The guy bumping his chair in the loud voice and just realized like, this is one of my people.
+
+1 (24m 23s):
+And when did you start to, when did you start to think in your head? Like, was it, is it early on when the first, when the two of you met where you thought he might be the guy that I could start something with or, or was that, was he just like an office friend and you would just kind of chit chat about ideas?
+
+3 (24m 37s):
+I think because we spent nine hours a day together, we got to know each other's strengths, weaknesses, you know, what they valued very, very quickly. And then from a creative standpoint, we started just sharing ideas, right. That would like pop into our heads randomly add to that. The commiseration that we had over, what was a 50% like amazing office environment was super talented. You know, people that were doing great work with a 50%, like pretty toxic culture that was built on a lack of transparency and a lack of trust.
+
+3 (25m 21s):
+And I think our bond was further forged by the fact that we both felt mistreated a lot of the time or deceived or confused a around things that were promised to us that weren't delivered upon. And just this kind of feeling that if we ever had the chance to do something together, that we would, we would take the lessons learned from this experience and do things completely differently on the culture side. But, but, but realize the emphasis on what great talent can actually do and a great product.
+
+1 (26m 1s):
+Yeah. For sure. While you were, while the two of you kind of became better friends at what and started to talk about like things that you might do, cuz clearly both of you were motivated by this idea of one day having your own business, what kind of ideas would, would would the two of you talk about?
+
+3 (26m 19s):
+I remember Randy came to me and was like, I think, yeah, there's an idea for a universal gym membership and
+
+1 (26m 28s):
+He's like, class pass.
+
+5 (26m 30s):
+There you go. Class
+
+3 (26m 31s):
+Pass.
+
+1 (26m 31s):
+Yeah. We did
+
+5 (26m 32s):
+Not, not start class pass, but you know,
+
+1 (26m 34s):
+No pile's been on the show before. Yeah. So that was an idea.
+
+3 (26m 38s):
+And then another one I, I came to Randy and I was like, you know, cause I was like a single guy living in New York and I was like, I think there's an interesting idea around selling like pre-portioned food, like for menus, like for like recipes, cuz I was like, I don't need a whole onion. You know, I just need a quarter of an
+
+1 (26m 57s):
+Onion. You founded blue apron.
+
+5 (26m 59s):
+So we founded class pass and blue apron
+
+1 (27m 1s):
+And blue apron. Well you were dreaming of ideas,
+
+3 (27m 5s):
+But another idea where, you know, I, I lived in a walkup building with no doorman and my I'd have to like be home to get my packages. And so I thought of this other idea where it'd be like last mile delivery service that would aggregate all your Amazon packages and then like fresh direct, you could schedule a two hour window when you'd actually be home to get them. But now that didn't turn into anything
+
+1 (27m 30s):
+Either and then, and then Amazon locker kind of just,
+
+5 (27m 33s):
+Yes, Dave also invented Amazon locker. So yeah.
+
+1 (27m 37s):
+Wow. Amazing. You guys are guess are unstoppable, but actually, I mean, I mean, I mean for, for real David, I think around 2012 you left urban daddy and you did start a business with your, your brother Andrew. Right. I, which was based on like on truffles, not chocolate truffles, like the kinds of pigs look for in the woods, right? Like that you shave on poster, scrambled eggs,
+
+3 (28m 1s):
+Truffles caviar, wild edibles, like rare mushrooms and you know, different types of, you know, greens and fiddlehead ferns and ramps the usual.
+
+1 (28m 15s):
+And what did, what did you call the company by the way? It
+
+3 (28m 17s):
+Was called Rick Galles
+
+1 (28m 18s):
+REALIS. Okay. Yeah.
+
+3 (28m 19s):
+And I ended up getting another job at a private equity firm that paid really well. I was like, this is kind of interesting, but I don't have the time to run this. So my brother really stepped in to kind of run that business. My brother had just come out of MBA at Babson and was looking for a job. And I said, well, why don't you step in and run the operations and finance component of this business. So,
+
+1 (28m 44s):
+So you were basically a, a kind of a founder investor in regales, but you didn't have, you were kind of sort of in running it, but not really running. It was being brother this. Yeah. And, and, and I mean, eventually you sold, you sold your share of that company, right? Correct. All right. So you've got that going. You get a job in a private equity firm, meantime. I mean, clearly, you know, you were both looking for an idea. How did you land on socks? How did that come about?
+
+3 (29m 18s):
+So yeah, it's like meeting your partner, right? These stories happen in kind of the most interesting and unexpected ways. It was February of 2011. I was still working at urban daddy and I was scrolling on Facebook and I came across a post from the salvation army that said, socks are the number one, most requested clothing. I went homeless shelters. And I remember thinking to myself, that's both interesting and sad, right? It's like, I never would've thought that would be the most requested item I've thought would sneakers or jeans or a coat or something like that. And yet here's an item of clothing that I've never spent more than a few seconds a day thinking about.
+
+3 (30m 1s):
+And this is the number one most requested item for someone who's experiencing homelessness. And I remember walking over to Randy's desk and I said, I, I just saw this thing that was said, socks are the most requested item at homeless shelters. Like this was around the time that I think Tom's was in their fifth year of business. And like growing like crazy taking over the world yeah. Was like one for one business model
+
+1 (30m 27s):
+Shoes. Yeah.
+
+3 (30m 28s):
+Warby Parker had just launched in December of 2010,
+
+1 (30m 31s):
+The one with the one, one glasses I
+
+3 (30m 34s):
+Wear Mandy and myself kind of put two and two together. And we were like, oh, like maybe there's an interesting idea around solving this problem in the homeless community, by building a brand around a sock company that donates socks for every SOC item that we sell that was really kind of the initial like spark.
+
+1 (30m 56s):
+And so the spark was, wait a minute, if this is the number one most requested thing at, at homeless shelters, maybe there's a model we can build similar to Tom's or to Warby Parker. I mean, were you thinking along those lines or did it just kind of come to you? What do you remember?
+
+5 (31m 13s):
+It was community first. I'd say so first we, we asked why, why are socks the most requested clothing item in homeless shelters? So we, we made a call, we called a shelter and we said, is this true? First of all, and why? And they said, well, you know, if you, if you're living on the street, you might not take off your shoes at night. And you know, a fresh pair of socks means a lot. You walk everywhere, you, you have hygiene issues around your feet and then it can be a huge issue if it rains, if this is a big issue. And because socks are aware through item, we don't allow people to donate them. So you cannot donate, use socks to the majority of shelters and organizations that help in the homeless community.
+
+5 (31m 59s):
+And they said, so we end up having to buy socks. So it's a big issue.
+
+1 (32m 4s):
+Hmm. All right. So, so it was around 2011, you read that quote and it, it sparked the idea of, of whether Sox could be a one to one business model, but you didn't launch right away. Right? Like that, that wouldn't happen for another two years. Officially, David, you had left urban daddy and, and Randy, I think you hung on. So what made you guys actually take action and, you know, pull the trigger.
+
+3 (32m 34s):
+So, and Randy, you wanna jump in or
+
+5 (32m 36s):
+No, go ahead. I mean, we should probably at some point talk about the godfather.
+
+3 (32m 41s):
+Yeah. Yeah. I was gonna, I was gonna get to that.
+
+1 (32m 43s):
+The, the movie or a person called the godfather.
+
+5 (32m 46s):
+No, no, no. This is a person called the godfather.
+
+1 (32m 50s):
+When we come back in just a moment, how a key connection gave Randy and David a leg up in the sock industry and how they struggled, but eventually found their footing without venture capital, stay with us. I'm guy Raz. And you're listening to how I built this, Hit the road this month with an award-winning electric bike from north America's biggest e-bike brand rad power bikes. There are a lot of reasons to ride a rad bike. First of all, they're so fun to ride. They make getting around town the best part of your day.
+
+1 (33m 33s):
+You just pedal when you want and throttle, when you don't plus they're better for the planet, they help you save money on gas and with bike racks in front of every store, it's pretty much V I P parking everywhere you go. If you've had your eye on an e-bike, there's never been a better time to buy right now, you can take advantage of rad power bikes, biggest sale of the season. Take up to $400 off select e-bike models and up to 30% off select e-bike accessories. And with a 14 day free trial and flexible financing options, you can start riding for less than a tank of gas. They'll even cover the shipping, change your ride for good take advantage of this limited time offer@radpowerbikes.com today, rad power bikes.com on how I built this.
+
+1 (34m 25s):
+We feature brands that are doing things so differently. They're changing entire industries. And when it comes to furniture, burrow is setting a whole new standard with their beautiful, durable, and easy to assemble designs, burrow designs, everything in house, which means the entire team is truly in tune with what people actually want and need from stain and scratch resistant fabric to solid hardwood frames, burrow, selects materials that will stand up to everyday life. Plus every order, no matter how small or large is delivered directly to your door for free, which can save you well over a hundred dollars when it comes to big pieces like couches or beds.
+
+1 (35m 10s):
+Thanks again to burrow for supporting the show. Listeners can get $75 off their first order at burrow.com/built that's burrow, B U R R O w.com/built for $75 off burrow.com/built. Hey, welcome back to how I built this guy or eyes. So it's around 2012 or so, and Randy and David are starting to put together a team to launch and run their sock business, but they realize pretty quickly that they know nothing, really nothing about the sock industry.
+
+1 (35m 54s):
+So enters stage, right? The godfather.
+
+3 (35m 58s):
+I remember sitting down for dinner with my dad one night and I said, you know, I'm thinking about starting this sock company. It's gonna donate a pair for every pair of purchase, but I don't know the first thing about making a pair of socks. And he turned to me and he said, well, you know, your godfather spent 40 years in the Huy business and did incredibly well, I don't know what, huh? I don't know what he did, but you should give him a call. And so I didn't talk to this guy in 15 years. So I give him a call.
+
+1 (36m 25s):
+Where did he live?
+
+3 (36m 26s):
+He lived in, in Westchester. Okay. I call him up and I said, Hey, Steve, I have this idea for a sock company. And it turns out that Steve Lowenthal was the president and CEO of gold toe in the late eighties and nineties, which is like
+
+1 (36m 42s):
+Gold toe socks. I remember gold. They must be still around, right? Yeah,
+
+3 (36m 47s):
+Definitely big time.
+
+1 (36m 48s):
+Gold toe socks. The, to the toes were gold. Yes. I mean, not real gold. They were gold colored color fabric. And the idea was that that that's a quality, right? You got your toes and the gold part of the sock, that's the quality sock.
+
+3 (37m 3s):
+He left gold toe and then started one of the first and largest private label, sock manufacturing, like distributors in the country. He worked for brands like NAA and polo and,
+
+1 (37m 16s):
+And he would make their socks like white label,
+
+3 (37m 19s):
+Their socks as a white label. Right. So he understood global supply chain when it came to socks. And so me, Randy, Andrew, and Aaron sat down with him in this meeting once.
+
+1 (37m 33s):
+Andrew's your, just to, just to
+
+3 (37m 35s):
+Andrew's my brother,
+
+1 (37m 36s):
+Andrew's your brother. And Aaron is
+
+3 (37m 39s):
+The fourth. Co-founder who I'd worked on regales with from the branding perspective. So the four of us sit down with him and we say, here's our idea. And he said, tell me the product you wanna make. And I will introduce you to the best factories in the world. Wow. And so we start working together on figuring out what are the components from each individual sock that we like the most, you know, the toe from this one, the calf from this one, the fabric from this one, the arch support from this one, it kind of Frankensteined this sock together. And we like cut up a bunch of socks, put 'em in a plastic bag and handed them to the godfather. And he said, let me come back to you in a few weeks and see what I come back with.
+
+3 (38m 22s):
+Ended up introducing us to this factory partner in Asia and because of his legacy and credibility in the SOC business, they were willing to work with us. I mean, mean, this is a factory that produces for Nike and, you know, Sony and smart wall and some of the biggest sock brands in the world. Yeah. And here they were talking to us and we, they don't even, we don't have like two nickels to rub together, let alone like a full blown brand or concept. Right. And their willingness to work with us for almost a, almost two years on product development where we'd go back and forth and say, we like this.
+
+3 (39m 3s):
+We don't like that. Send us some samples. We'd give them, we'd try 'em out. We'd give them to friends. And this development process that, you know, ultimately led us to a product that we thought was pretty great.
+
+1 (39m 16s):
+All right. The, it reminds me a little bit of, I mean, Warby Parker saw a gap, right. And, and the gap was glasses. Shouldn't be so expensive. I mean, they're, they're, it's, you know, the markup is crazy and, and they figure out a way to make them more affordable through this direct to consumer model. How did you identify, I mean, how cuz now you look back on you're like of course cuz socks were like made by Nike or Adidas or there were tube socks you'd buy in packets at target or dress socks that you would buy, you know, or, or whatever. It was thin, dress socks, athletic tube socks. And you know, but, but now I can look back and say of course there was a gap, but it, it didn't, I can't imagine it was super clear to you at the time.
+
+1 (40m 0s):
+Was it?
+
+5 (40m 2s):
+I think it was pretty clear pretty quickly. I mean, we didn't have the data we weren't in the apparel business, you know, and I think this was a big advantage for us. Yeah. We just look, we took a look around and we just saw what was available and what was available was always the same over and over and over again. And it just, it felt like an afterthought. I don't know, Dave, maybe you have a different perspective on this, but I think we knew pretty quickly.
+
+3 (40m 26s):
+Yeah. I think the sampling process for us was a pretty big eye-opening experience. Right. We didn't go into the product development process with margin or pricing targets or, you know, this speaks to Randy's, you know, comment around us not having any experience in the manufacturing or you know, retail apparel world. So we kind of came at it from a pretty blank slate of just saying like what's the best product that we could make. And then as part of the development process, we would give samples out to friends and family and they would come back and they'd say, wow, these are really great. And then we'd be like, yeah, but maybe they say that because they're our friends and family. And so I very distinctly remember bringing samples to the gym with me and I'd walk up to complete strangers.
+
+3 (41m 11s):
+And I'd say, I know this is really strange, but I'm developing a sock company. Would you be willing to try these socks for me? And you know, if I see you next week, tell me what you think. And I'd get a lot of really weird looks. And inevitably though, I'd show up the next week and those same people would come back and be like, where can I get those? Those are amazing. Like what are they
+
+1 (41m 33s):
+All right. I wanna talk about the design process because the four of you are working in these factories in China, China.
+
+3 (41m 39s):
+Yes.
+
+1 (41m 40s):
+And, and so they agreed to work with you on product development, which meant that what they, they had a designer there, or you would sort of send them socks you liked and say, or sort of email them pictures and say, I want a sock that looks like this, but has these features
+
+3 (41m 55s):
+More the latter?
+
+1 (41m 57s):
+So you'd send 'em a photo and say, I like this, but I want these features in the sock,
+
+5 (42m 0s):
+We'd also send physical samples and we would send pieces of socks and okay. They would, you know, they started with a prototype. Yeah. And they'd send us things.
+
+1 (42m 10s):
+And while you were working with this factory to just get samples, I mean, presumably you had to pay them something. So what did it cost you?
+
+3 (42m 18s):
+Luckily, the sampling was like the inexpensive part. I think they were thinking longer term like, oh, if this is turns into something, we'll get the business. And again, by having my godfather tied to this, I think they were less concerned or they had a higher degree of faith that it would be successful. You know, we, you know, I had to incorporate the business, right. So I hired a lawyer and ultimately when we decided to launch on Indiegogo, we had to pay for the, you know, video and, and some of the creative assets. But our whole approach to launching this business was try to have bootstrap as much as possible.
+
+3 (42m 58s):
+I think by the time we launched on Indigogo I had about, I don't know, 12 to $18,000 of credit card debt.
+
+1 (43m 6s):
+Okay. So it was, it wasn't, it was not insignificant, but it wasn't like, it wasn't, it was doable. I mean, there was four of you involved and by the way, how did you, how did you decide how to divide up the business? Was it based on how much money each person could put in,
+
+5 (43m 21s):
+In terms of the ownership or the work
+
+1 (43m 23s):
+Time? Yeah, the ownership.
+
+3 (43m 25s):
+So it was pretty, it was pretty easy cuz wow. I have to say it was pretty easy. A lot of hard conversations early on.
+
+1 (43m 34s):
+That's a front conversation. Yeah. I've had this conversation with my business partner. Yeah. So I know it's not easy. Yeah.
+
+3 (43m 40s):
+A lot of hard conversations early on. Yeah. That I think were determinant of, you know, I had kind of put most of the capital upfront in terms of, you know, paying for the legal incorporation and some of these other things think the, the rest of it was kind of determined by, you know, who could take the risk to, you know, jump first, you know, Aaron had a family at that time. Right. So he was like, he valued being able to keep his day job and keep us steady
+
+1 (44m 18s):
+As a graphic designer as a, as a creative yeah, mom.
+
+3 (44m 21s):
+Yeah. Andrew was working at regales. So he had a paycheck coming in. Yep. So the most likely, you know, person to kind of take the leap first, like I didn't really, really have anything else going on and I didn't really like the job I was working at. So I kind of took the leap first and kind of front loaded a lot of this stuff. Right. And I just think naturally, you know, while certainly difficult, it wasn't, it was never like argumentative or contentious. And I think everybody kind of just agreed to let you know, kind of made separate agreements and decided to divide the business up, you know, the way we decided to divide it up,
+
+5 (45m 2s):
+We had the luxury of time guy. Right. Because you know, like we took two years, there was no pressure from anyone but ourselves to build this at that time because it was bootstrapped and it gave us time to develop the idea and yeah. You know, like Dave said, he lept first and then in early 2013, when I was no longer an urban daddy, we sat down to write the script for our Indiegogo campaign. Yeah. And that was sort of a moment where we felt like we were writing the covenant of the business. It took three months for us to write that and something today that would take, you know, three hours for a copywriter to do. But it was putting all of our ideas down on paper in the right way and getting our storytelling, you know, around this product that we believed in at the time.
+
+1 (45m 51s):
+And, and by the way, the name Bombas was that the name from the beginning.
+
+5 (45m 54s):
+Yep. That was the name from the start.
+
+1 (45m 57s):
+And it, it means B bumblebee. Right? It's like the Latin word for bumblebee.
+
+5 (46m 0s):
+Yeah. So the word Bombas comes from the Latin word for bumblebee. You know, obviously we're a company that's community based bees live in a hive. They work together to make their world a better place. We love like the inspiration and the idea of things coming together in hive to work together, to improve their world.
+
+1 (46m 17s):
+How did you, did you just come up with a name or did you work with like a branding agency to help you come up with a name?
+
+3 (46m 23s):
+So I think when we got to the point where we were ready to like name it, Randy and Aaron said, give us the weekend. Right? Let us, we kind of know what this company's kind of feels like and stands for. So let's throw a bunch of things up on the wall and come back and present, you know, me and Andrew in the group with a broader set of ideas. And the, the two that kind of, they came back with that were the most, you know, the top where something around bees or ants, because there two animals that are naturally altruistic that work together as a community to
+
+1 (47m 2s):
+They're collaborative,
+
+3 (47m 3s):
+Collaborative. And so didn't think that ants were that marketable bees tended to be a little bit more playful and fun. And so kind of landed on bees. And I think it was mostly Aaron had kind of come up with this idea of naming it, Bombas. The Latin word for bumblebees is Bombas, but with an a, B a M B a B U S. Right. And kind of our thought was, well, if you Google Ambu, you're gonna get a bunch of like beekeeper information, you know? And so we thought all change the a, to an O and make it a little bit more unique and ownable. Wow.
+
+1 (47m 41s):
+So you guys came up with a name over a weekend. It's a great name. I mean, it doesn't, it doesn't like, I'm sure there are people who are like, well, but it doesn't scream, socks, just call it, like call it beat mittens or call it. You're hired, you know, you know, whatever, like, right. Did, did, did anybody say that to you? Like call it, call it something that screams out socks.
+
+5 (48m 4s):
+We had somebody tell us that you have to write socks with an X Sox. It's the only way you're gonna stand out in the, I mean,
+
+1 (48m 11s):
+People spanks.
+
+5 (48m 12s):
+Yeah. People tell you crazy, crazy things. You know, you have to have conviction around, you know, the, the reasons you put a brand together and how you build the world of a brand. Yeah.
+
+1 (48m 21s):
+Yeah. Fair enough. All right. So, so how, I mean, you get, you're getting all these samples back and forth and, and, and I guess we should say like, I mean, doing, doing research about this interview, I discovered a lot about socks, you know, like this arch support in socks and you know, these like honeycomb weaves and stuff like that. When did like at, at what point, you know, cuz I know you landed on like mainly cotton and Marino wool. I think you also do some synthetics now, right? Yes.
+
+3 (48m 55s):
+Yeah. Cotton was what we launched with
+
+1 (48m 57s):
+Cotton. Okay. And a different kind of toe sea and like this honeycomb arch support. So how many iterations of the samples did it take? Do you remember before you were like, that's it, we got it.
+
+3 (49m 10s):
+Hundreds,
+
+1 (49m 11s):
+Hundreds,
+
+5 (49m 12s):
+Hundreds and hundreds. Yeah. I mean guy, just for the calf sock tension level alone, it took us 137 tries
+
+1 (49m 21s):
+Tension on the foot,
+
+5 (49m 23s):
+On the calf. Like if you pull up a sock on the calf, like on a calf sock, you pull up a calf sock, right? Yeah. You wanted to feel comfortable and not too tight, but not so lucid stay down and you want it to be supportive. Right. But you don't want it to leave a mark. So we just were, these are the types of details where once you're in it and you have the luxury of time, like this is the type of, this was the approach. Right. And this is still sort of the way we approach product design today. But that is it. Right? Like thinking about each little detail and the idea that all these little things that nobody thought about or cared about could when you put them together, just come up with something that's greater than the sum of the parts, right? Like you don't have to remember that the honeycomb arch support or a seamless toe or a wide stitched heel, or that we used, you know, Pima, cotton.
+
+5 (50m 12s):
+But when you put it on the feeling is this feels different. And I like it more and I wanna wear this every day. That's what we were going for.
+
+1 (50m 21s):
+Yeah. You know, it's interesting. I'm looking at my sock now here and I got a seamless yeah. I guess, I guess that toe, right. There's like that little, little toe thing there. And I never thought about that really. You know?
+
+3 (50m 34s):
+Yeah. This is a product that we discovered most people don't think and or care
+
+5 (50m 40s):
+About. Yeah. This is where the opportunity comes in. Right. Like you're a thoughtful guy, but you, you haven't spent a lot of time thinking about, well, it's not something people think about. It just wasn't right. Like we didn't Dave and I didn't grow up dreaming of being in the sock business. I mean, nobody did, right? Like this is something that we stumbled upon. Yeah. But it, it was, it was an opportunity to test out an approach and a brand and do something great. And it was all really motivated because we wanted to make a difference. Right. The idea looming out there was how can we donate as many pairs of socks as possible? And that is a real motivating factor when you're building a product.
+
+1 (51m 21s):
+All right. So you have this, so you land on this idea, you land on this sock. And at what point do you feel Randy comfortable quitting your job and, and, and quitting your steady paycheck to actually go into this full full-time full force?
+
+5 (51m 40s):
+I think things were coming to an end for me at the end of 2012 at urban daddy, Umhmm, you know, it, it, it was time to move on. It wasn't a good situation at the end, there was conflict. There was, it wasn't ideal, but we were also, you know, things were moving, moving pretty quickly compared to how they had started. Yeah. With Bombas, we started to get a little momentum and Dave had left his job and you know, there's that moment where you have to say like, okay, now's the time let's, let's do this thing. And again, we, we had other things going on. So we had a little bit of safety.
+
+5 (52m 20s):
+Yeah. But you know, after having a job for six years to be in a position where you're just building something, building multiple things, even it's a moment. And I think a lot of people face that moment when they're doing this and you just have to, you have to give it a little bit of a leap and you have to have to have put in the legwork. I think,
+
+1 (52m 38s):
+You know, it's interesting cuz you launched this product as an Indiegogo campaign, essentially. Right. You went out on Indiegogo to raise some money, to see if you could get the capital to do a presumably to do a first run of, of socks. But it's interesting cuz now that I think about that, I talk a little bit more about this in a second. It's kind of David, it kind of reminds me of your job at Cutco, right? Because you would, you weren't selling people knives, you were a college student who was genuinely earnestly trying to gain experience and that was a gateway in, and then you had this great product that you could also sell. And it seems to me that there's a connection between what you were also offering here, which was the Indiegogo campaign was saying, Hey, you can help give people socks and you can also get a pair of socks too.
+
+1 (53m 28s):
+Is that, is that a fair kind of analogy?
+
+3 (53m 31s):
+We felt like this was really our one shot to get it. And so being relentless, I even think to a certain degree shameless, you know, I found a way to download my entire Gmail contact database. Yeah. And I don't mean like just the people that are like in my contacts. I mean every single person that I'd ever emailed with ever in my Gmail, you can like find a way to do this in Gmail. And I remember downloading this like 12,000 person email file and sending it out, not knowing who was on it entirely. And I got response back from people who are like, this is awesome. I sold you a set of concert tickets on Craigslist four years ago. Like I'm gonna buy a pack of socks.
+
+3 (54m 12s):
+And then I had people,
+
+1 (54m 13s):
+Wow. You just, everybody you would ever
+
+3 (54m 16s):
+Person that I went to like sleepaway camp with eight years ago was like, haven't heard from you since this seems interesting. I also had a fair amount of people be like, bleep, you don't ever email me again, stop spamming me. And I was just like,
+
+1 (54m 30s):
+Whatever. It's actually amazing because you really, I mean, you really had developed all of these tools that would lead you to this moment, right? Like Randy, you know, you're sort of copywriting and David like selling, just selling stuff and understanding like how to sell stuff and it all kind of coalesced, it all kind of arrived at this moment on Indiegogo. I'm just making the observations on a question. It's just so smart. How you sort of landed on this, this approach because you know, Indiegogo, you're not gonna raise that much money, you know, but if it works, if it catches fire, it can get a lot of attention.
+
+5 (55m 14s):
+Yeah. And it's a it's attention, attention that we were after validation. Right. You know, our friends and family said, we loved it, but you know, your mom loving your socks is not that hard, but a complete stranger putting their money in to say, I will, you know, buy this product before it's available to me and wait however many months to get it. That to us was enough validation to keep going.
+
+1 (55m 38s):
+All right. So you launched an Indigogo and I think the, the goal is to raise 15,000, but you had raised within, I think the 30 day period, like 140,000.
+
+3 (55m 49s):
+Yeah, we did $25,000 in our first day.
+
+1 (55m 52s):
+I mean, it, now the idea was to do how many, like initially, what was your idea? How many socks pairs of socks were you gonna make?
+
+3 (55m 60s):
+We, we weren't, the $15,000 was the minimum amount we needed in order to place the minimum order production run for like all the styles and colors that we
+
+5 (56m 13s):
+Had. But we, we knew that if we only got $15,000, it was probably curtains.
+
+1 (56m 19s):
+So you needed to make more money to raise more money, a hundred with $140,000. That's now you gotta fulfill all these orders too. Right. And so, yeah, I mean, did you just basically go to the factory and just hit the go button and say, let's go and I'm assuming you just had one skew, one, just one kind of socket at that point. Or did you have multiple colors and options or, or was it just like you're gonna get ankle white Sox and that's it?
+
+3 (56m 45s):
+No, we had a calf and an ankle in a black and a gray base with four accent colors. You could like select what you wanted on, you know, when you like fulfill the order. And so about halfway through when we were at about $50,000 of sales, we that's when we actually hit the go button on the order. Cause we were just like, well, we've clearly surpassed, right? We've got plenty of time left. Like this is yeah. Way more than we thought we placed the production order so that we could at least beat the lead time that we would have on the, on promising people when they would get delivered.
+
+3 (57m 26s):
+And there was a thought, well, get them delivered before the holidays so that if we have more inventory, people could come back and rebuy for Christmas. And
+
+1 (57m 33s):
+What was the plan once you got the socks delivered? Cause this is like, I mean Shopifys around and, and kind of this, these, you know, these kind of drop shipping thing is starting to happen, but well, I mean, I'm assuming you're, you're, you're gonna get a huge container maybe or half a container, you know, full of socks. And then what are you guys gonna package it yourself and slap on ups labels or USPS labels and send 'em to people?
+
+3 (58m 1s):
+Well, Randy, do you remember? We like looked, we talked about, we did the math and we said to pack 2300 orders. And this is where my brother came in with his like finance brand. He was like, well, it would probably take the four of us two weeks in a garage to pack 2300 orders,
+
+1 (58m 21s):
+No way. And
+
+3 (58m 21s):
+We looked at each other and we were like, no, I don't think that's a good use of our time. That's not us. Yeah. So Andrew went out and found a local three, PL that was willing to do what, what at the time was a very small run.
+
+1 (58m 34s):
+Oh, what's a three PL again,
+
+3 (58m 36s):
+A third party logistics
+
+1 (58m 37s):
+Provider, third party logistics, like
+
+3 (58m 39s):
+A warehouse that would do the pick packing and shipping of the product.
+
+1 (58m 42s):
+And, and so they would handle all that. Okay. So you had 2000 plus orders to fulfill, was it quick? You're just reminding me now about all the Indy camp kickstart campaigns I've contributed to and never got my product. Yeah.
+
+5 (58m 56s):
+This was a big
+
+1 (58m 56s):
+Issue. So where's my damn, where's my damn drone that I bought in 2014. Sorry about your drone. I know I gotta, I gotta go back to my Gmail account and find that thing. But how quickly were you guys able to get these socks to people?
+
+5 (59m 10s):
+Well, like Dave, Dave was smart about this, right? Because he said about halfway through the campaign, he hit go on the order and that's a little risky cuz we don't know exactly how much it's gonna be, but we were very, very adamant about trying to deliver our product within the window that we promised. And then following up every person that ordered with a personalized email, thanking them and listen, like you launch on how
+
+1 (59m 34s):
+Did you do that?
+
+5 (59m 35s):
+It's it was, we did it in, in phases, right? Like every week there'd be order.
+
+1 (59m 40s):
+Did you use the AI software that you were selling back in the day, David, to make that work or was, it was a human beings typing. Thank you for your order. You
+
+3 (59m 49s):
+Know, we used some of our old email tricks from urban daddy to yeah. You know, personalize,
+
+1 (59m 54s):
+Personalize them. Yeah. But you wanted everybody who ordered to get an email. Awesome.
+
+5 (59m 59s):
+We, we had a product and now we had customers and we had orders to fulfill, but we didn't have a website and we didn't, we didn't really know what to do next cuz we weren't sure how this was gonna go. Right. And we started to see it happening. We started to plan. Yeah. Okay. What do you do now? Okay. Like we know how to build websites. We've done, I've done this for lots of other companies, but now you gotta do it for yourself and what are we saying? And how are we putting it together? You know, Shopify was not the Shopify. It is now. So we had a lot of like technology decisions to make at the time and we needed to move quickly. Yeah. You know? So this was like a little bit of a, the period where you say we've got something here, we've validated it in the marketplace.
+
+5 (1h 0m 42s):
+We've got these 2,500 customers. Let's build something and then, then just take one step at a time.
+
+1 (1h 0m 50s):
+All right. You guys, so you have this momentum and I think pretty, not too long after in 2014 you decide to go out and raise a little bit of money. Initially. I think a seed round, mostly from friends and family. And it's about a million dollars that you raised because now you've gotta stand up a website and try to get the word out because E even with the customers that you got from Indigogo, you now have to build a customer base, right. You need to create awareness around this product. So you need money to do that and tell me, and then I know that later that year you raised another 3 million and this is from angel investors. But tell me with that. I mean, was that money primarily to, for marketing or was it just to make more product?
+
+3 (1h 1m 35s):
+Yeah. So after Indigogo we launched the website, ship the orders and we kind of wanted to see like, would people come back, would they be rebuy? Would they tell their friends about it? Yeah. The following few months we did another couple hundred thousand dollars of the sales in the beginning of 2014, we said, okay, feels like we have something here. You know, as you mentioned, we ended up raising money from angel I investors. But at first, you know, I went out to the broader venture community. Right. I met with first round capital, general catalyst Navron, you know, all the names that we know today of backing some of the, you know, biggest and best brands and companies and despite having connections or relationships with people.
+
+3 (1h 2m 21s):
+When I showed up with a deck, talking about building a sock company, it was all, but you know, pretty much laughed out of the room. Like how,
+
+1 (1h 2m 30s):
+How not exciting big could
+
+3 (1h 2m 32s):
+A sock company be, or like, you know, it's a pretty boring category. And I think from a confidence level standpoint that made us like requestion things a little bit too. And so I think as a result of that, we said, okay, like maybe let's not push it as hard as, as we could. And let's just focus on building a great brand with great product and give back to the community and kind of see where it goes. Right. And we kind of were tempered our expectations a little bit. Yeah. And so as a salesperson, that was pretty hard for me to take,
+
+5 (1h 3m 3s):
+But it ended up being good for us guy, you know?
+
+3 (1h 3m 6s):
+Oh, amazing.
+
+1 (1h 3m 7s):
+Right. Because you didn't, did you, did you raise beyond a series, a, did you ever raise any more money after
+
+3 (1h 3m 12s):
+That? We brought in a private equity partner, but we never raised any more primary capital.
+
+1 (1h 3m 17s):
+Wow. So that's, you got incredibly lucky that those venture firms decided not to invest because it didn't dilute your ownership stake. I mean, in the end it worked out great.
+
+3 (1h 3m 27s):
+And it also, yeah, it also allowed us to focus the business on sustained profitable growth versus go out, raise 50 million, build a multi hundred million billion dollar brand, but be losing hundreds of millions of dollars every year, which we're starting to see how that's playing out for those companies today.
+
+1 (1h 3m 49s):
+When we come back in just a moment, how against all odds, a truly lucky chance at a TV show, changes the scope of Bombas literally overnight and how that momentum is nearly derailed with a very unlucky server malfunction, stay with us. I'm guy Raz. And you're listening to how I built this. If every person in the United States suddenly visited your website, would it crash? Not if it was built on Wix that's because every site on Ws runs on its superior infrastructure engineered for high performance and overwhelming resilience.
+
+1 (1h 4m 35s):
+W's multi-cloud hosting gives you the unified power of AWS, Google cloud Fastly and its own exclusive data centers alongside a global distribution of over 200 CDN nodes with these best in class technologies. Your site infrastructure can automatically scale in response to traffic and transaction spikes. And with built in automatic disaster recovery, your site maintains an industry leading 99 point 98% uptime. When the platform detects a potential outage, it will proactively redirect site traffic to the nearest stable location. You stay up. Even if other sites go down W's infrastructure processes, 3.8 billion requests daily and is engineered for significantly more traffic than this.
+
+1 (1h 5m 23s):
+So think big WICS can handle it. The great resignation supply chain hiccups, digital finance. There's no shortage of volatility in business today, but volatility isn't the problem doing nothing is within all of these challenges, lie, hidden opportunities and better ways of doing things with specialized experience and audit tax advisory and consulting Crow can help you embrace volatility in today's economy. Visit embrace volatility.com to see how Crow can work with you. Once again, that's embrace volatility.com.
+
+1 (1h 6m 9s):
+Hey, welcome back to how I built this I'm guy Raz. So it's 2013 and Randy and Dave have raised some money and they're feeling pretty good, but at the same time, they don't have an easy way to get their products noticed in a bigger way.
+
+5 (1h 6m 27s):
+You know, my dad, he said, at some point, you guys should go on shark tank. And we said, yeah, good luck with that. You are crazy. And then they
+
+1 (1h 6m 36s):
+Get probably a thousand pitches a week.
+
+5 (1h 6m 37s):
+Absolutely. I mean, what did they say, Dave? 30,000 people companies apply every year. Something like that. Yeah. So it seemed like a long shot. And then out of nowhere in April of 2014, Dave got an email and it was from a Gmail account. So we weren't sure if this was somebody like a friend of ours that was just pranking us or if it was real or not. But it was, it was a shark tank producer reaching out and asking about our company. They had seen our product on Indigogo our campaign. And they were curious about where we were in the process. And that started the conversation for us getting on shark tank.
+
+1 (1h 7m 12s):
+Wow. Did, did all four of you flight to LA to, to film it or just the two of you? All
+
+3 (1h 7m 17s):
+Four of us went, but Randy and I went on the show.
+
+1 (1h 7m 20s):
+All right. And I know the way it works is you don't meet the sharks until they like open the screen. They're like, and well, you know, and here are the sharks like, right. You don't really like schmooze them beforehand.
+
+5 (1h 7m 28s):
+No, there there's no contact. Yeah. You are basically in a bubble for a week. Right.
+
+3 (1h 7m 32s):
+They know nothing about us. We, we only know what we know about them from the TV show, that's it. Right.
+
+1 (1h 7m 38s):
+Okay. Nervous. You must have been nervous as hell.
+
+5 (1h 7m 41s):
+I'll tell you this. The week that we were set to film shark tank, my father passed away. So he passed away on father's day in 2014 and we were supposed to fly that day to LA. So we almost didn't go, Dave and I had a conversation. They, you know, we talked to the show, we decided we were keeping the date. I went down to Florida where my parents were living at the time and my mom and I dealt with the arrangements and we had like a really like interesting conversation. And I said, you know, I'm not gonna go, Dave will go on by himself.
+
+5 (1h 8m 22s):
+We'll figure this out. And she said to me, you know, if your father knew that you were skipping this opportunity because of him, he'd be furious at you and you have to go and we've done all the work and the funeral will be next week and, you know, go, which was very hard. And I got on a plane. Dave picked me up at the airport with Aaron and Andrew. And the four of us had a moment where, you know, we'd been preparing for this. So we felt prepared in a weird way. This took a lot of the pressure off because it just, you know, it was an important moment, but it also, you know, it was just in a very different space.
+
+5 (1h 9m 3s):
+And Dave and I were sharing a hotel room that week. Right. And so I was there with my friend and I was away from my family and it was really hard, but we were here to, to do this thing and it sort of, it galvanized us and, and at the same time took the pressure off. But yeah, to your point, you get to that moment and it is a moment of nerves. You know, you, they open those doors and you walk down that hallway and you, you think to yourself, Hey, that looks like shark tank, you know? And you're like, oh, okay. Like I'm on shark tank and you walk in that room and then, you know, it's, it's on.
+
+1 (1h 9m 38s):
+All right. So you guys are on the set, make your pitch on shark tank,
+
+7 (1h 9m 43s):
+BAAs or athletic leisure socks, engineered to look better, feel better. And with the mission to help those in need,
+
+8 (1h 9m 49s):
+The mass market athletic sock hasn't changed in decades. Same basic colors, same styles, same cardboard feel until now. But
+
+1 (1h 9m 58s):
+As soon as finished with your pitch, you got lots of pushback from the sharks. I, I think at first, like not a single one was interested in investing, but, but then like at the last minute, one of them Damon, John who's, who's been on the show. He, he kind of stepped out.
+
+9 (1h 10m 13s):
+Okay, guys, I'll tell you what, I'll try to meet you somewhere in the middle. I'm gonna finance the inventory $200,000 for 17 and a half percent. That's it?
+
+8 (1h 10m 22s):
+No line of credit.
+
+9 (1h 10m 24s):
+I'm I'm financing. The, the goods I'm already I'm on the hook for the goods right now.
+
+8 (1h 10m 29s):
+Can we, can we take a moment and call our CFO?
+
+9 (1h 10m 33s):
+No. Your CFO gave you the bad advice already to ask for that valuation.
+
+1 (1h 10m 40s):
+Damon, John did make an investment. I think deal with the original deals, like 200 grand for like 17 and a half percent equity. I guess what a lot of viewers don't realize is that you don't actually have to take the deal. Even if you accept it on the show. And then sometimes you can renegotiate the terms, which from what I understand is what happened, right? Like you accepted the, that deal on the show, but then you renegotiated the terms.
+
+3 (1h 11m 3s):
+Yeah. You accept the deal in good faith. It's kind of a good faith clause. And you know, a big part was let's even see if the episode airs, right? Cause they, they film something like 150 businesses and then they air like a hundred, right? So it was a 33% chance that we weren't even gonna get on air. And so we told Damon or Damon told us, like, let's see if this thing comes on air and then we can talk about it because kind of no sense in doing anything, if it gets cut and we were out fundraising at the time. And so we were like, all right, we're gonna run our business as if we were never on shark tank and we never got a deal and continue to fundraise over that summer.
+
+3 (1h 11m 45s):
+And beginning of September, we get a phone call that says your episode is gonna air in three weeks on the season. Premier get ready. Wow. So pick up the phone call Damon. We said, all right, well, we've gotta get a deal done. And we had just closed our million dollars of seed funding and basically said, look, we don't need any more cash. So, you know, can we renegotiate the deal to provide you with some upside, with no kind of cash investment? And the two of us Damon and Bombas came to an agreement that both parties, I think we're pretty amicable with and set the foundation for a really, really amazing relationship that is only built over the years.
+
+3 (1h 12m 34s):
+And I think, you know, both people feel really happy with what they got out of it.
+
+1 (1h 12m 40s):
+Alright. That episode airs. And what happens to, I mean, do you see an instant spike?
+
+5 (1h 12m 46s):
+Yeah. Our website crash guy. And it was terrible. I mean, yeah, that was, you know, it was like a super joyous moment and a huge moment. And then a moment filled with dread and terror. I think we were, we had a, a viewing party. I mean, do you remember this day? Like, and just looking at each other and thinking
+
+3 (1h 13m 7s):
+We'd been up for the last 48 hours, we didn't sleep the night before because we were working on the website and we were like trying to get the website ready for this massive event. We were like trying to scale up customer service people. Cause that's the one thing we heard was like, people were like, oh, hire a bunch of temporary people to answer the phones and answer emails, cuz like you will not be able to do this on your own. And so we didn't sleep for almost two days. We're at this like viewing party that we had put on or like zombies and then we're getting phone calls that the website's crashing over and over and over and over
+
+5 (1h 13m 42s):
+Again. Yeah, yeah. It was a nightmare.
+
+1 (1h 13m 45s):
+All right. So this happens, the orders start coming in. And is it, I mean at this point, what, what are the hires that you're making? I mean, are you thinking about, you gotta come up with new designs, you gotta come up with a, do you start to kind of expand your team and, and designers and, and marketing experts and, and what, what do you start to think about in terms of expansion?
+
+5 (1h 14m 9s):
+Well, I, I think in that moment, you know, there was sort of a new floor for the business. It's kind of the way we thought of it. We had all these new customers and we had made a lot of promises through this business, right? Like we promised we'd be donating a pair of socks and how do we show people the work that we're doing on the donation side, we promised a certain level of comfort and quality with our product. How do we ensure that people understand that in what we're communicating and how do we back that up? So customer service became super important. Dave mentioned, he took every customer service call for the first, you know, year plus of the business. We would be out at a bar, he'd get a call and he'd go outside and disappear for now talking to a customer.
+
+5 (1h 14m 50s):
+But in that shark tank moment, we brought in a team and you know, that was the beginning of our customer service team and our happiness guarantee. And then we realized that like we had, we had brought somebody on to help fill that marketing gap. Right. We just always wanted to surround ourselves with people that were smarter than we were about the things that we didn't know a ton about. We had our skill sets, right. Dave was a, a great leader, a salesperson, right. Aaron and I could handle the creative and the design. Andrew was running the finance and operation side of things. And we just started to fill in the gaps around us. So eventually that was customer service, marketing product design, right?
+
+5 (1h 15m 30s):
+These were, and then we had a sort of like GM and PR figure who was our first employee, Emily. And like this early team started to really galvanize around what we were doing and all with the same attitude of let's figure out the things that we need to do to keep building this, to keep pushing it, to keep growing it and be really honest about what we don't know. Yeah.
+
+3 (1h 15m 51s):
+I think this is an important moment to though interject that, you know, at a pretty high pinnacle moment. So in the first 13 months before shark tank, we did about $900,000 in sales, pretty organically. And then in the two months following shark tank, we did 1.2 million. It sold out of every single item of product that we had leading into holiday. And we felt like we were on top of the world and we just closed this million dollar seed round. And I think you put, you know, three people like me, Aaron and, and, and Randy in a room right. Were pretty optimistic, you know, growth focused. And we were like, oh, like, let's go for it. And Andrew really became like the voice of reason from a CFO perspective and kind of, this is your brother is my brother.
+
+3 (1h 16m 39s):
+And really instilled this moment of, you know, let's focus on continuing to build a good foundationally unit economic positive business that generates profitability. And we weren't gonna sacrifice profitability at the expense of growth. Right. So, because we didn't feel like we were getting the recognition or validation from the venture community, that this might be a little bit of a harder road for us to go down. And I think it was also the moment where we looked at the brands and companies that we admired most, right? The Nikes, the Lulus, the under Armours, the Patagonias of the world, right. Brands that had endured the test of time over decades and decades and decades of growth.
+
+3 (1h 17m 23s):
+And the one consistent thing that we found in those companies that was different than our peer set of, you know, the aways and the wares of the world is that they didn't grow by raising hundreds of millions of dollars of capital. Right. And trying to skyrocket the highest valuation possible in a short amount of time, they did it brick by brick slowly over time, sustained growth year over year, over year, over year. And that was the playbook at that time that we kind of, at that moment was a pretty pinnacle moment for us to say that, you know, we're not gonna try to be the biggest company as quickly as possible. We just want to be the best company and be around as long as possible.
+
+1 (1h 18m 1s):
+Yeah. I think you reached profitability by year three.
+
+3 (1h 18m 5s):
+We did, we were profitable in year one in year two. We made a lot of capital investments in inventory, mostly that, you know, cuz we were growing so fast that we were just like, sure, gotta stay on top of inventory. And inventory kind of became the, the cash crunch for us always every single year heading into holiday where we would do about 50% of our business. That September PO order was always very expensive. Yeah. Because we were F frontloading these costs and wouldn't really get those back until, you know, the books closed at the end of the year.
+
+1 (1h 18m 41s):
+So I, I wonder, I mean, you know, you're growing every year, over year, over year and COVID hits in 2020 and most D to companies were freaking out. Of course it turned out to be a, a good year depending on the company and including for, for you guys. But, but before you started to see a spike in sales, were you preparing for the possibility of layoffs and of, of retrenching
+
+3 (1h 19m 9s):
+A hundred percent? I mean, we watched our business go from like 50% year over year in growth in that January to a negative 12% year over year growth. Yeah. In March of that year. And I'm grateful that within a matter of weeks it had rebounded and we were back at like 30% plus year over year and then 40%. And then, then we're like had comps that were insane. But yeah, I, I don't think anybody was prepared for that moment. And I actually think the biggest fear for us is that we had built this amazing, incredible culture that we felt like fostered innovation and efficiency and was so collaborative.
+
+3 (1h 19m 52s):
+Yeah. And we'd just built out a brand new 33,000 square foot office in union square, you know, millions of dollars of investment took over a year to build it. And then two months later everyone's remote and we're just like, Hmm, how, how do we operate? How does the, you know, are people gonna show up to work anymore? Are they, you know, just gonna mail it in or turn their videos off or whatever. And probably one of the proudest moments I've ever had as a leader was we shut the office down on that Friday. And by Monday, everything was like up and running and like people were showing up to meetings and they were like, yeah, it was almost, it almost like rallied us.
+
+3 (1h 20m 35s):
+I think people were like, and, and, and this is a point actually where I think the mission comes back, right. Because totally it became this moment where like, wow, this is actually a time where we can step up and use this other arm that was mostly used to just distribute socks. And now here we are, as a, you know, as a platform that's helping a lot of our peer brands learn how it, what it means to give in times of need.
+
+1 (1h 21m 4s):
+What, what, what is the ultimate? I mean, you do have investors and people who put in some seed money and, and you're profitable, but you know, at some point, right, you either sell or you, you go public. So I know there's been some chatter about maybe going public. Tell me about, about, about the possibility, you know, possibilities of selling the company or going public or, you know, something along those lines because obviously you have, you do have investors, you have some investors involved.
+
+3 (1h 21m 34s):
+Yeah. I think the way we think about that is we're incredibly opportunistic. We didn't, we didn't design this business from day one to say, oh, it's gotta be X billion dollar valuation, or we're gonna sell it to this person. Or I think again, in hindsight, looking back by not having influence from large institutional partners early on, it allowed us to really kind of make up our minds and decide that like, we're just gonna run a great business. And if someone comes and is interested in buying us, we'll talk to them and you know, if it's a good fit and we feel like they'll be good stewards for the product, the brand and the mission going forward, then we'd entertain that if not, you know, and there's an opportunity in the public markets to kind of fortify, you know, what we've built and, you know, help us kind of build the dream that we're looking to build in the future will go that route too.
+
+1 (1h 22m 38s):
+Oh, you know, when you think about this, this, you know, the partnership and you guys sort of meeting at this company and kind of batting around ideas and then coming together and, and building this brand that is really big, you know, and, and even the fact that you got you, you couldn't raise capital and all these things that happened along the way, the fact that your godfather happened to be involved in the, so business, how much of, of this do you think has to do with, you know, all the work that you put in the skills and that you brought to the table and how much do you attribute to luck?
+
+3 (1h 23m 11s):
+So I practice stoicism and one of the great stoic is Seneca. And he has a quote that says luck is when preparation meets opportunity. And so I think for me, we were very opportunistic and we were really prepared. You know, we, we put ourselves in a lot of these positions, right. We saw this quote and decided to do something about it. We went out and researched product, but then led us to my godfather, which then, you know, so I think a lot of certainly Locke that played in part to, you know, the moment in time in which we formed this company to, you know, all the fortuitous events that have led us here.
+
+3 (1h 24m 3s):
+Right?
+
+5 (1h 24m 4s):
+Yeah. You know, it, it is, it's a combination of course, right. That's, that's kind of the only answer we we've, we time things, well, which feels like luck, but you know, everything that led us here personally, the two of us to that moment, the four founders to this moment to start the company and then the things that we committed to doing and that we stood by through the years, you know, things that we've put against tough decisions and those core values, Dave mentioned like understanding what we're great at and what we need help with being humble leaders, like really committing to, to doing something that benefits our neighbors in need.
+
+5 (1h 24m 45s):
+Like all these ideas, like that feels like the hard work. And then let's, it lets you be opportunistic around some of the lucky moments and capitalize on some of the lucky moments and things like that. So it, it's a wild combination and it's been a good ride because of that.
+
+1 (1h 25m 5s):
+That's David Heath and Randy Goldberg co-founders of Bombas, by the way, didn't one of you guys like make a promise to customers that you would like, that you wrote into your FAQs, like really early on. What can you tell me that promise
+
+5 (1h 25m 21s):
+If, if we get to a million pairs donated, Dave wrote this in he's promised that he would get a tattoo to celebrate. And we thought that this would take 10 years. Right.
+
+3 (1h 25m 34s):
+And mind you, I had none at the time, like, so this was not like a yeah.
+
+1 (1h 25m 38s):
+Oh
+
+3 (1h 25m 39s):
+Right. Whatever. I'll go get another tattoo. Like I had zero.
+
+1 (1h 25m 42s):
+Right. None. Right.
+
+5 (1h 25m 43s):
+Yeah. So at about the two year mark, we started to look at each other and we'd say, yeah, we're, we're about to hit a million pairs donated already. And yeah. You know, promise is a pro a promise is a promise, right? Dave?
+
+1 (1h 25m 57s):
+And yes, Dave got the tattoo and yes, it is a B, but with two words under it be better. It's actually their slogan. Hey, thanks so much for listening to the show this week. If you wanna support what we do, please spread the word or post about how I built this on social media. We really do appreciate it. This episode was produced by Carrie Thompson with music composed by Reine era Louey. He was edited by Andrea Bruce with research help from Sam Paulson. Our production staff also includes JC Howard Neva grant, Casey Herman, Liz Metzger, Alex Chung, Josh lash, Katherine cipher, Elaine Coates, John Isabella Cini and Carla estab.
+
+1 (1h 26m 45s):
+I'm guy Raz. And you've been listening to how I built this. Hey everyone. So I wanted to make sure you knew of all the different ways you can listen to how I built this. The show is always free and available wherever you listen to podcasts, whether it's Amazon music, apple podcasts, or wherever you're listening right now. But if you wanna listen to the next episode of how I built this today, one week early, you can do that on Amazon music, or you can listen to it early and add free by subscribing to Wondery plus in apple podcasts or on the Wondery app.
+
+1 (1h 27m 37s):
+So please do follow us on your podcast app. So you always have the latest episode downloaded and get your, how I built this merch and gear@wonderyshop.com. Another way to support the show is by filling out a survey at wondery.com/survey. And thanks
+
+10 (1h 27m 58s):
+Every day, it seems like there's a new story about the January 6th house committee hearings, someone getting subpoenaed or even rated by the FBI. So it's hard to parse all the information and really understand how things happened, how they've come together and what's coming next from pineapple street and Wondery will be wild as a podcast that explains all of that. Exploring the human stories left out of the instruction, headlines stories about the people who took part that day, the people who saw it coming and the people who feared it was just the beginning. There's even a new bonus episode, focusing on what we've learned from the hearings, the shocking moments and the deeper takeaways, and a look ahead at what's coming up as the hearings wrap and the midterms reshape Congress to listen to this new episode and all the rest be sure to follow will be wild on Amazon music or anywhere you get your podcasts.

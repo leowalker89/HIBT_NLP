@@ -1,0 +1,809 @@
+0 (0s):
+Support for NPR and the following message come from Amazon web services, putting your data to work on the most scalable, trusted, and secure cloud. Learn more at go AWS slash data, hyphen and PR.
+
+1 (14s):
+Hey, really quick, before we start the show, a lot of you have a lots of questions about how I built this. Like how do you pick guests or where do you record the show? Or how can I get in touch with Howard Schultz? Spoiler alert on that one. We can't help you, but we can try and answer any questions you might have about the show, our work, or even me. If you'd like to submit a question, please visit <em></em> dot com and fill out the form. And we'll answer some of your questions right here on the show in the coming weeks. Again, that's G U Y R a z.com.
+
+3 (51s):
+One of my roommates, her dad worked for Budweiser and they had made these bass guitars that were Budweiser themed. It
+
+1 (60s):
+Said Budweiser on the base.
+
+3 (1m 2s):
+Yes, it did. It was like, it looked like a can of Budweiser. I have no memory of that. And then somehow it turned into Mac teaching me how to play bass. And I think that was all a ploy because I did have a boyfriend at the time.
+
+1 (1m 17s):
+He wasn't teaching you how to play bass. Apparently From NPR. It's how I built this show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built. I'm guy Ross. And on the show today, how to indie rockers launched a record label named it after a roadside and grew merge into one of the most influential names, independent music Building a successful business basically means being able to make smart bets, right?
+
+1 (2m 3s):
+Especially if you're in the business of venture capital, the business is basically betting. You invest millions of dollars in a lot of promising startups, knowing that most of them will falter or fail outright, but you're betting that every now and then you will invest in a winner, a business that maybe five or 10 years down the road we'll have a liquidity event, which is a polite way of saying that they few people are going to make lots of money. Anyway, one of the things that struck me when I was doing research for today's show is that in indie record label or any record label really is sort of like a VC fund, just like a VC fund.
+
+1 (2m 47s):
+The label takes a chance on a lot of maybes with a hope of eventually hitting a winner. In this case, a band that will sell hundreds of thousands of albums and make a ton of money for themselves. And of course for the label, but unlike many VC funds, most indie record labels, don't start with lots of cash to invest. They are almost by definitions, small and scrappy with an artistic vision that at least in the beginning may be more important than making a lot of money. And this basically is where Laura balance and maca McConn began when they started the indie label merge in 1989, Laura and Mac were musicians themselves.
+
+1 (3m 30s):
+They were part of the band Superchunk and in fact, playing and touring and being immersed in the indie scene in the late 1980s was one of the things that inspired them to start their own label in the early years, income from Superchunk and basically helped Laura and Mac keep merged from going bankrupt. And that income allowed them to make a lot of small bets on lesser-known indie artists until eventually in the early two thousands. One of their bets paid off with the massively successful band arcade fire. But the story of merge is also the story of the rise of indie rock. In the 1990s, the label became hugely influential and helped to introduce bands like spoon neutral milk hotel, the magnetic fields, and many others to music fans around the world.
+
+1 (4m 21s):
+And all of this happened because of the creativity and also the tension between Laura and Mac who are professional partners today. But at one point we're also romantic partners. The two of them met in chapel hill, North Carolina, when they were both college students. And before that Laura spent her high school years in Raleigh and Atlanta. It was the early 1980s and she was already following the punk music scene and going to lots of clubs.
+
+3 (4m 50s):
+He started going to shows at the metroplex, which was a punk rock club that we were able to go to as under-aged kids. I think most of us, if we saw our kids going to that place, now we would be really scared. It was in this warehouse like abandoned warehouse, part of town, you know, it was, it was pretty,
+
+1 (5m 15s):
+What do you remember about the music that attracted you to it? I mean, you know, from everything I've read about you, you're, self-described introvert, you're quiet, you're shy, you get anxious being in front of people. And then there's this really intense and often loud, angry, explosive music that you were listening to. Can you connect the dots for me on that?
+
+3 (5m 39s):
+I guess, because of my personality and because of things that had happened in my youth, I felt different. I felt like an outsider and being introduced to the punk rock community. I felt like I had found all the other, not normal people, you know, like I had found a place to be where it was okay to not be normal. Yeah. And the music was an expression of that too.
+
+1 (6m 10s):
+You sort of, you described yourself as like an outsider and like, you know, the kind of kids who would be called freaks or, you know, right. Or weirdos today. It's funny, it's hard to find a teenager without blue hair or right. Or who, who looks like what would be described as different in the seventies and eighties? Or are you that kind of kid, like, were you, did you dress differently than other kids? And did you wear your hair differently than other kids? Yes.
+
+3 (6m 35s):
+What did it look like to? Well, at one point I had like Calico hair. I sort of settled into having black hair and teasing it up and crimping it. And back then also, like, it was harder to like, whatever you want it to look like, you had to assemble it yourself. You had to make it happen. Yeah. You couldn't just go to hot topic.
+
+1 (6m 58s):
+People put safety pins in their clothing. Yeah.
+
+3 (7m 2s):
+Or like, for some reason I would even like put egg whites in my hair to make it more like stiff as opposed to going and buying some Aquanet.
+
+1 (7m 13s):
+And would you, if somebody saw you when you were 16 or 17, would they say, oh, there's Laura, she's a goth. Yes. That's what they would say.
+
+3 (7m 22s):
+Yeah. Yeah. I remember when I went to high school, especially at first walking down the hall and there would be these girls who had, you know, to make fun of me, they would act like they were scared and jumped out of the way and against the lockers. Like they had to get out of my way. Cause I was a monster walking down the hall and I would just kind of, you know, pretend that I didn't notice. Cause I didn't know what else to do. Yeah.
+
+1 (7m 52s):
+All right. I want to turn to you Mac as a kid. Do you, did you get into music pretty early or did it happen later when you were a teenager?
+
+4 (8m 0s):
+I was into it pretty early, just in the sense that my dad was really into listening to music and had a record player and records, you know, when you would get into my, my dad's car, much to my mom's chagrin, the radio would be set to like blasting. So when you start off, started the car, remember that, you know, the radio beyond really loud. And, and you know, at that time, the radio that we were listening to was I guess what you would now call classic rock at the time. It was just rock. It was contemporary. But yeah, so I knew that my dad was even though from looking at him, you wouldn't necessarily know it.
+
+4 (8m 43s):
+He was really into rock and roll. And
+
+1 (8m 46s):
+Can you say that looking at him, you wouldn't know it because he was a lawyer. Right?
+
+4 (8m 49s):
+Right. So he just looked, I mean, he didn't, he didn't look rock and roll, I guess you would say. Right. But yeah. So exile on main street was a record that we listened to a lot. And my dad was a big led Zeppelin fan as well. Yeah. One time I asked him why he didn't have any Beatles records and he said they weren't heavy enough, but yeah, I was really into the who, but also like ACDC was probably my favorite band, I guess I would say at that time,
+
+1 (9m 21s):
+When do you remember your kind of tastes and music veering more toward the kind of things that, that Laura was listening to, like hardcore and punk to did that happen when you were a teenager?
+
+4 (9m 35s):
+I think I was probably more like, so Laura was in a high school in Raleigh. I was in Durham and I met people at school who were both into the who and led Zeppelin and ACDC, but they were also listens to the college radio stations. And so finding out about that is what it kind of exposed me to other kinds of music,
+
+1 (9m 59s):
+A story about how, I guess when you were in your, like in early teens, you went to like, see a couple of hardcore bands playing at a coffee house. And that was sort of a moment where it blew your mind. Cause it was live music and it was loud music that kind of got you thinking about maybe starting your own band. Is that, is that right? Is that true?
+
+4 (10m 22s):
+Yeah. I saw a flyer for a show at the duke coffee house, which is an all ages place on campus at duke. And the flyer is for a band called the ugly Americans and also a band called the band with no name and the band with no name was super weird. I don't even know if you would call it punk. Really. I think it was just more like odd
+
+1 (10m 43s):
+And thrashing, just shouting, like DIY
+
+4 (10m 47s):
+I've. I feel like it was noise and maybe like Casio or a drum machine or something. I don't know. It was strange. And then the ugly Americans played and that was kind of more what I knew to be like punk, but yeah, so that was at the duke coffee house and punk shows where we're usually all ages, unlike shows that the clubs where you would hear a song on the radio by a band like oncology radio, and you'd be like, oh, this band, you know, the rain parade they're, they're playing at the cat's cradle and you'd be really into it and then realized like, you couldn't go to that show because it was drinking age only. Yeah. Yeah.
+
+1 (11m 21s):
+All right. So you see you're getting into the live music scene and, and I guess around this time you're also starting to play guitar, right. And so by the time you graduate high school, you you're playing in a few bands and you, and, and this guy named Jonathan Newman, I guess you start a band together called the slush puppies. And w was it fair to describe like the bands that you were playing in? Were they, how would you describe the sound, the new sort of like new wave you described like a new wave cover band?
+
+4 (11m 50s):
+I would say like new wave and then slush puppies were like a little more punk. Got it. Punky. But also, you know, there was this kind of music that at the time you would have a lot of bands fell under the broad umbrella of like college rock or something, you know? Right, right. And so like, art guitars were distorted and everything, but we weren't playing a million miles an hour. It was more punk along the lines of like the Buzzcocks or something. Yeah.
+
+1 (12m 18s):
+I mean, you must've been a pretty good student in high school. You went to Columbia for college in New York.
+
+4 (12m 24s):
+Yeah. I mean, I did, I did find in some classes and not great in other classes and really going to New York city was the thing that I was the most excited about. I mean, being in New York, between 1985 and 1990, it was like a really good time to be in New York, both for like New York music, as well as the fact that I was living in a place where every band played, no matter where they were from.
+
+1 (12m 48s):
+I get, I guess after a year end at Columbia, you decided to take a year off and go, come back to North Carolina and you move to chapel hill. Did you, was there a reason why he did that?
+
+4 (12m 60s):
+Well, I ended up taking year off after two years at Columbia. It was originally because as much as I loved New York, I also missed being in North Carolina and being able to play music because playing music was what was difficult about being in New York. You know, you can't just have a band playing in your dorm room or your apartment like you can and in chapel hill or whatever. And I did have a couple of times of like taking my amp and my guitar on the subway downtown to practice space. And it's just like, that was it. That was a drag. So then I had a year off, which was awesome because it was, you know, living in North Carolina, playing music, working at Kinko's and pizza place and
+
+1 (13m 46s):
+Record store and just doing different things, just doing different
+
+4 (13m 49s):
+Things.
+
+1 (13m 50s):
+Yeah. And I guess that was, that's how you and Laura met. Right. Because she was going to college at chapel hill and, and both of you are working at the pizza place.
+
+4 (13m 59s):
+Yeah. Pepper's pizza.
+
+1 (14m 1s):
+And you were at a UNC Laura. Right. And, and Mac was this guy that you met there and I mean, did he make an impression on you from the beginning or what, what do you remember? What what's, what's your recollection of, of when you first met him?
+
+3 (14m 17s):
+So there's the thing where the Raleigh scene and the chapel hill scene were kind of, they were separate and there was some sort of rivalry, which I picked up on the kids in Raleigh seemed like more serious and more into the kind of like more menacing side of punk rock or something. And the chapel hill kids seemed to be more goofy. Like Raleigh was more hardcore to me. And chapel hill was more like poppy punk. And I met Mack, Jonathan Newman and grey Brooks, I guess, around the same time. And to me, they were this sort of unit, but
+
+4 (14m 59s):
+I was in a band with Jonathan and gray was our friend that we had also gotten to high school with us. Right.
+
+3 (15m 5s):
+You know, we're always cracking jokes and being silly. And my impression was that was it, Mac was one of these three funny guys. Got it.
+
+4 (15m 13s):
+I mean, we say we met at peppers, but, but we were both going to the same, like concerts and shows at clubs and stuff like that. And Laura made an impression because she was so God,
+
+1 (15m 23s):
+Like when you say so goth like goth, like an Edward Gorey character, like,
+
+4 (15m 27s):
+Like not like that guy, you know, you know, black hair make up chains, all the couture mom.
+
+3 (15m 36s):
+Yes. I had the accoutrement, but I have to say, I did tone it down a bit. Cause I decided that it
+
+4 (15m 42s):
+Wasn't worth the trolley. Wasn't ready.
+
+1 (15m 44s):
+Got it. Got it. And, and did you guys become friends right away?
+
+3 (15m 50s):
+No,
+
+4 (15m 51s):
+Not necessarily right away.
+
+3 (15m 53s):
+I feel like, you know, we got to be friends when we were working at peppers together at the same time. Right. It's like trial by fire, you know, it brings you closer together working in a place like that.
+
+1 (16m 4s):
+Yeah. Meantime Mac from, from what I understand, like during the year, when you came back to chapel hill in the middle of your time in college, you and Jonathan, your friend, Jonathan got back to kind of recording music for the slush puppies or really kind of took it seriously. And you actually got a gig opening for Fu Gazi, which anyone who's, who knows anything about like hardcore punk, American punk knows that band knows in my Chi classic DC hardcore band, he was a big deal. You get, and you guys got to open for him at that at the cat's cradle. That's kind of a legendary club right. In chapel hill. Right. Cat's cradle.
+
+4 (16m 44s):
+It is. And it's, it's been in a few different locations, but the cat's cradle has been around for over 50 years now in different, in different locations. And yeah, I mean, th th the most exciting thing about being in a band like slush puppies was who you got to open for. You know, there's a lot of local bands and everyone's trying to get to up and for the cool bands who came through on tour, you know, whether that was for Ghazi or the volcano suns, or who, who, whoever was Sonic youth, whoever was going to be, so this was they're going to be their third show ever. So I was excited about being able to set that show up at the cat's cradle and being able to open that show. Of course, it was very exciting. So, yeah, that was a big deal playing with them.
+
+1 (17m 23s):
+And I guess around this time, Mack, you were, you were playing a bunch of different bands and there was one project that, that you started to attract. She kind of plant the seeds from merge records, I guess, where, where, what you thought, Hey, let's, let's put out a record with a bunch of other bands, like a limited number of records and, and just sell them ourselves. Well, what, like, how did that come about what is, what story?
+
+4 (17m 47s):
+So the band slash puppies, we talked and another band I was in called wax with two W's and three other local bands. We put out a box set of 700 singles, and this was something that was kind of masterminded by the bass player and wax Wayne Taylor. He talked about it like, oh yeah, like, I know how this, I know how we do this. Like, we get this, the place that we get records suppressed, a local printing place called barefoot press can make this sleeves for us or make some booklets to go in the boxes. And our friends who are in a silkscreen and company, Tanis, route bill and Barbara, they can silk screen the front of this box set. That's going to be this compilation of all these singles of local bands.
+
+4 (18m 31s):
+That was kind of the idea, like a snapshot of the scene, the local North Carolina music scene at that time.
+
+3 (18m 39s):
+And, and the way that it came about was really a community effort to all those, all those different businesses that Mack just mentioned, you know, they were part of the community. And, and I think all the bands pitched in, in various ways to, in labor and cash to have the records press,
+
+4 (18m 57s):
+It was just doable. I mean, I think it was mysterious to me before then, how that, how that, how that all happened. But, but that's kind of how we learned, you know,
+
+1 (19m 8s):
+And some, some time, at some point, I, I guess in sort of 1988, the two of you start dating, what do you remember? How, how did it happen? I mean, you, you guys had worked at the pizza place together and presumably became friends and then became boyfriend girlfriend.
+
+4 (19m 24s):
+And we started playing music around that time too. I think,
+
+3 (19m 28s):
+I think it started with one of my roommates. Her dad worked for Budweiser and they had made these bass guitars that were Budweiser themed and she had gotten one and didn't know how to play it. She had never played an instrument.
+
+4 (19m 45s):
+It said, Budweiser on the base.
+
+3 (19m 47s):
+Yes, it did. It was like, it looked like a can of Budweiser.
+
+4 (19m 52s):
+I have no memory of that. And,
+
+3 (19m 55s):
+And she wanted Mack to come over and teach her how to play bass. And he was like, oh yeah, okay. Yeah, we need a bass player. Maybe, you know, you can cut, I'll come over and, and, you know, teach you how to play bass. And then somehow it turned into him teaching me how to play bass. And I think that was all a ploy because I did have a boyfriend at the time, but my boyfriend was in Raleigh. He
+
+4 (20m 16s):
+W he wasn't teaching you how to play bass, apparently.
+
+1 (20m 21s):
+Yeah. So you were teaching Laura how to play bass and that's because you didn't play any instruments before that, right? Laura?
+
+3 (20m 28s):
+No,
+
+4 (20m 30s):
+It was kind of, so we can have a band with Jonathan. You
+
+1 (20m 33s):
+Wonder if you aren't, you thought Laura would be great in a band. And so you were like you,
+
+4 (20m 37s):
+Yeah. Jonathan had drums. I played guitar and we needed a bass player. Right.
+
+3 (20m 42s):
+But I think that was just a way for us to start dating really, because we could, we would hang out more because we were playing in a band together and it sort of evolved that way.
+
+1 (20m 53s):
+Well, Mack, you then. Okay. So you go back to finish out your time at Columbia. How did, how did you and Laura, I mean, were you Laura, were you going up to visit Mac? Where are you coming to get back down to chapel hill all the time? Like, cause you, cause you start what would become a six year relationship, right?
+
+4 (21m 9s):
+Yeah. I mean, I came home on vacation and New York was a pretty common trip for anyone from North Carolina to make, in terms of going to see bands up there or whatever. Like, it didn't feel like that big of a deal. So there's a lot of travel back and forth.
+
+1 (21m 26s):
+All right. Meantime, you're going back to college and playing a bunch of bands and, and you and Laura are dating. And from what I understand at some point, maybe it was like, like what, between your junior and senior year in college. So I guess this would be like the summer of 1989. You start another band called chunk a with Laura. Is, is that how you remember it?
+
+4 (21m 52s):
+Yeah, that seems, that sounds right. It was that summer chunk was the band that we started that summer with Chuck Garrison and Jack McCook.
+
+1 (22m 3s):
+And, and this is after the drummer in the band. Right. Who's who actually, his name was Chuck, but he somehow inspired the name chunk for the band.
+
+4 (22m 13s):
+Apparently he was listed in the phone book as chunk Garrison.
+
+3 (22m 17s):
+Yeah. They had, it was a misprint.
+
+4 (22m 19s):
+It was some misprint. So that's, that's a, that day where that name came from. Right.
+
+1 (22m 25s):
+So P inspires the name chunk. And here's my question for you Mac, every time you formed a new band in your mind, was it like this is going to be the band that's going to make it, or was it just like, this is fun. Let's just do a band.
+
+4 (22m 39s):
+It was much more the latter. I don't think I ever had the idea, like trying to quote unquote, make it in the music business or whatever. You know what I mean? It was just more like, Hey, like we all live within five blocks of each other, but we might as well have a band.
+
+1 (22m 53s):
+And so what did you think you were going to do when you graduated from college?
+
+4 (22m 57s):
+I honestly just didn't know. I mean, I think that I probably thought I was going to like work in a record store or something like that. You know, I didn't have a grant plan.
+
+1 (23m 9s):
+You said you were the main, you were the lead singer and lead guitarist. Right. And Laura, you were bass guitarist. How would you describe the sound of what was then called chunk before it would become super Chuck, but how would you describe the sound?
+
+4 (23m 22s):
+I would say punky,
+
+3 (23m 25s):
+But poppy also like people at the time compared us to the Buzzcocks, but it was also sort of college rock at the same time
+
+4 (23m 34s):
+We did a Shangri laws cover on the B side. So there's definitely pop happening.
+
+1 (23m 40s):
+All right. So you guys formed this band and that summer you took a road trip to and in Seattle, from what I understand, you guys actually went to the sub pop offices to meet with Bruce Pavin and Jonathan parliament, who who've been on the show before. Did you guys go there for any specific reason thinking maybe you could sign your band to their label? Like what, why did you go visit sub pop?
+
+4 (24m 6s):
+Well, one of my friends from school, Aubrey summers was friends with them just from growing up, I guess, from high school or something like that. And so it wasn't like a, you can get your band signed. It was just more like we're fans of mud, honey and sub pop. And she's like, oh I can, I know those guys. I can, we can go see their office. It wasn't like really a business proposition as just like, we're
+
+1 (24m 31s):
+Just like, let's go check it
+
+4 (24m 32s):
+Out. Yeah. This is going to be cool. It's just
+
+1 (24m 34s):
+Fun. And did you meet them?
+
+4 (24m 36s):
+I think we did meet them. I think we did. I just don't remember, but I do remember thinking like, oh, this is cool, but it's also like just, it looks like an office. Yeah. It was not exotic. It was exotic. Cause it was sub pop and we were in Seattle, which is wild, but it was also very normal.
+
+1 (24m 54s):
+Well, I mean, you had this band called chunk, but what, like, how did the idea come about to start a record label? How did that conversation even start? Was it on that road trip? It was,
+
+3 (25m 4s):
+It was on that road trip. Yeah. Mack brought up the idea of starting a record label that we should start a record label and we should put out our own records, you know, do do seven inches and stuff. And it sounded pretty casual and like fun. And we knew, you know, we knew it was possible. You know, the, the, the veil of mystery had been removed from the idea of making,
+
+1 (25m 31s):
+Because Mack, a couple of previously had already been involved in pressing vinyl records. And it was just a thousand records, but still you kind of knew that it wasn't this scary thing that it was possible to actually make records and Selvin.
+
+3 (25m 47s):
+Yeah. Yeah. And to actually do it in a sort of casual way, because when that group of artists and Raleigh made that box set, none of them were trying to start a record label. There wasn't a lot of promotion done. There was no marketing done. It was just, we're making this, do you want to buy it? That seemed like something that wasn't intimidating and something that we could do. If I had thought that it was going to turn into what it is now or, or that, that was the goal I would have said, no, I don't want to do that. That sounds like too much work. No way
+
+1 (26m 25s):
+When we come back. And just a moment how Laura and Mac juggle the demands of launching a new record label while managing a band and their own relationship, stay with us. I'm guy Roz. And you're listening to how I built this from NPR support for this podcast and the following message come from. Klayvio the email and text marketing platform that puts creators in control. If you're the creator of an e-commerce brand, you need a platform that hustles as hard as you do, Klayvio unlocks the power of your e-commerce data. So you can personalize and automate messages that keep customers coming back. Creators communicate with Klayvio get started for free@klaviyo.com slash NPR.
+
+1 (27m 14s):
+This message comes from NPR sponsor, mini Cooper. This holiday season, it's time to ask for something that won't fit in a sleigh stop by the mini season of drive event at your local mini dealer and deck the roads with tire tracks of mini. Consider it a fast lane to the nice list, go to mini usa.com for details. If you ever wonder how the world's most successful leaders got to where they are, what struggles they faced and what kept them going. There's a show for you each week on my new podcast, my guests reveal how to think more like a leader, check out wisdom from the top, from NPR and luminary.
+
+1 (28m 3s):
+Hey, welcome back to how I built this I'm guy Ross. So it's the summer of 1989 and Mack and Laura are back in North Carolina after a road trip to Seattle. And this turns out to be a pretty eventful year because not only have they started a band called chunk, they've also decided to start their own record label to the idea of starting a label come out of frustration with major labels or with the fact that no, none of your bands were signed. No, it was not had nothing to do with that.
+
+4 (28m 36s):
+No, it was more, it wasn't a reaction to something that we didn't have. It was more like, wouldn't this be cool? Like, I think in other words, like it didn't even have to really be discussed like, oh, it'll be like this kind of label. And not like that kind of label. It was just like, we, we knew what we were into, for instance, like we had just gone to see the sub-pump offices and just being able to make something of our own, that was both like what sub pop would do, but not sub, but, but, but our own thing, you know what I'm saying? Right.
+
+3 (29m 15s):
+And we know all these bands, maybe they'll let us put out a seven inch with their music on it. And plus Mack was in a million bands. Right. So there was plenty there that we could
+
+1 (29m 27s):
+Pronounce. But you weren't, you weren't thinking about this as like a business, you were thinking about this as a fun thing to do.
+
+4 (29m 35s):
+Yeah. More like an, like, I don't know if art project is the right word, but more of an artistic endeavor rather than a business and never write.
+
+1 (29m 44s):
+And by the way, how did you come up with the name merge merge records?
+
+3 (29m 48s):
+Well, we were on a road trip
+
+1 (29m 51s):
+And you saw a sign that said merge.
+
+3 (29m 53s):
+Yes. Yes. We were. We were driving along trying to name it and I found myself just looking around, going antelope yield, merge and merge seemed okay. I mean, really naming anything is terrible. It's hard. And, and when you first name it, it has the meaning of the word. And then over time it loses the meaning of the word and becomes just a word it's the same with naming your band. Anything you say for a name for your band sounds really stupid until you've lived with it for a while. Yeah. And whenever we have to explain how we named merge it's, it's, it's sort of embarrassing to me because it's so just straightforward.
+
+3 (30m 37s):
+Well
+
+4 (30m 38s):
+Could have been antelope records.
+
+1 (30m 40s):
+Yeah, we are. What, I mean, you guys had a band, cause I know that later that summer in 1989, you actually recorded some songs. Your first few songs, you recorded at a studio, but what did having a label mean? The label that you had would be in charge of like getting the record pressed and, and getting artwork made and then getting it to record stores. Is that what the, the role of the label would be?
+
+3 (31m 12s):
+Yeah. And, and having helped assemble those box sets. Something else that really appealed to me was the sort of craft aspect of it, the idea of making these objects and putting them together and, you know, designing them really appealed to me. I had always liked making things and having seven inches made, which is one of my, what I was thinking about then starting a record label, we would get to decide whether they were going to look like, and then put them together. And that appealed to me.
+
+1 (31m 43s):
+But did it, if in fact it was, it was about just distributing and printing and doing all this stuff for chunk. Why did you even need to create a label?
+
+3 (31m 51s):
+It wasn't just going to be for chunk. It was going to be for other,
+
+1 (31m 55s):
+For other bands, two bands out, I
+
+3 (31m 57s):
+Got you. Right. Like other bands in our community and also max other bands.
+
+4 (32m 3s):
+Right. And I think that to answer your question, like why have a label, right? Not just be like, here's a chunk record to me, the idea of the label, wasn't the mechanism, the place that like does the printing and the manufacturing and the distribution, blah, blah, blah though. It was that in reality also I thought of a label as the kind of aesthetic umbrella of like a certain group of artists. In other words, like when I thought of record labels, I thought of for a D or sub pop or discord or teen beat records, like they each had their own kind of voice, even though there was different bands within those families, you know what I mean?
+
+4 (32m 44s):
+So to me, the idea of the label, it was more like, here's a, like I said, like a voice or like here's an umbrella. That, that means something. When you see that name,
+
+3 (32m 56s):
+I think it also helps when you're trying to sell the object when you're calling record stores or calling distributors, if you alright, calling saying, I want to sell you a seven inch by my band.
+
+1 (33m 12s):
+Right. It was different if you were advocating on behalf of somebody else. Right.
+
+3 (33m 16s):
+So I'm calling from merge records.
+
+1 (33m 20s):
+I have this great band. Yes.
+
+4 (33m 24s):
+We happen to be in the band, but you don't need to know that.
+
+1 (33m 26s):
+Yeah. That makes sense. So you record, you know, you record some tracks, you've got the label going, by the way out of curiosity, did you form like it, I mean, you're, you're still in college, both of you. Did you form like an LLC? Did you an a Mac? I mean, I'm just projecting here, but your dad was a lawyer. Did he help you guys like set up the business? Did you do any of that? Not
+
+3 (33m 47s):
+Right away.
+
+1 (33m 48s):
+It was just, you just called it merge records and it kind of lived in, I don't know, your, your apartment Laura or your dorm room or something. Yeah.
+
+3 (33m 57s):
+I was living with some other women in a house and merge records was in my bedroom on a shelf and it wasn't too long before Mac's dad figured out what we were up to. It was like, you guys need to need to
+
+1 (34m 13s):
+Incorporate, incorporate.
+
+3 (34m 15s):
+I suggest you're an S-corp. Oh, really?
+
+1 (34m 18s):
+So, so, so that's, so that's how it happened. He kind of gave you some advice on what to do and
+
+3 (34m 23s):
+Yeah, I mean, he basically did it and then he was like, here, sign the papers.
+
+1 (34m 28s):
+And I guess you, what you were going to start simply just producing singles and, and like cassettes. But even to do that, I mean, did, did you have any money? And he start up money.
+
+4 (34m 39s):
+We borrowed money from friends and family almost on like a per release basis. Like our friend, Lydia, I think lend us like $500 or something maybe for our first single or something.
+
+1 (34m 54s):
+And by the way, what would $500 buy you? Like how many copies of the single that you could then sell?
+
+4 (35m 2s):
+You know, maybe that would pay for printing the sleeves or something. I can't remember exactly.
+
+3 (35m 6s):
+I mean, thanks for cheaper back then. I think that it may have been enough to press 500 records. Yeah. They cost less than a dollar. Yeah.
+
+4 (35m 16s):
+And sometimes like the band would chip in money to press the record and then we would pay them back. So any money that we had was like profit, the small amount of profit after paying someone back for helping us press the record.
+
+1 (35m 31s):
+Meantime you put out for trunk, you put out some music on this label merge that you have, and this is complicated. Cause I read that in like early in 1990, you signed a deal, a record deal with a record label called Matador, which went on to, you know, released its huge bands and become a really successful label in and of itself. You sign the three record deal. The band chunk does with Matador records. So what gets a little complicated? Can you kind of break that down for me and help me understand why you would do that? If you already had your own record label?
+
+4 (36m 7s):
+Well, with merge, we were doing tapes and then vinyl seven inches. So the idea of putting out a full length album, it just requires a lot more money and possibly know how and other things too. So Matador was interested in signing chunk to do albums. And if you remember at that time, if you did an album, you'd have to make a vinyl LP and a compact disc and a cassette. So you're manufacturing a lot of stuff. That's expensive, it's expensive. And so the idea of, of chunk signing to Matador was more like a parallel track of, okay, we can keep doing stuff on merge two singles, and then our band will be able to kind of take this step up in terms of being able to put out a full like that.
+
+1 (37m 2s):
+And right around the time you signed to Matador, you also had changed the name of the band from chunk to super Chuck, right? Yes. And do you remember what the dollar amount was when, when you signed with Matador, was it tens of thousands of dollars? Was it thousands of dollars? Hundreds of thousands,
+
+4 (37m 25s):
+Several thousand. So it was like, it was like
+
+1 (37m 28s):
+Four or 5,000 bucks. We'll pay you this advance. We'll we'll cover the costs of the record and the distribution. And then, you know, once we hit this amount of money, you you'll get a percentage of royalties. It was like that.
+
+4 (37m 41s):
+Yeah. Like it was a small deal, right? I mean, we knew how to do things cheaply and we knew how to work fast as in terms of recording as a band and work in a local studio. Like we weren't trying to, like, we didn't think of this as, oh now we're in the big leagues. We just thought of like, oh, we get to do kind of what we would do anyway.
+
+1 (38m 2s):
+Here's here's, here's what I wonder you graduate from Columbia. You go back to chapel hill, your full-time job. Now Mac is super chunk and merge. And I think Laura, at that point you still had another year of college left, but what I'm trying to figure out, it's like, how do the economics of this work? Right. Because yeah. I mean, super chunk was, you know, was gaining a, sort of a cult following on college campuses and, and you know, you were touring, but you were never in the billboard charts. Right. You never had like mass, you're never selling like hundreds of thousands of copies of your records. But in those early days where the economics such that you could actually live off of what you were making from Superchunk
+
+4 (38m 44s):
+No, no. They get the economics of, of that were that we had day jobs. What did you do worked in the record store? Worked at Kinko's
+
+1 (38m 53s):
+Well, did anybody ever come up to a Kinko's and say, dude, your Mac from Superchunk?
+
+4 (38m 58s):
+I don't think we were just, well, enough we're well known at all. I got,
+
+1 (39m 3s):
+But as you started to like get some more airplane stuff, you know, on college stations, could you just focus on super chunk or did you still have to have other jobs?
+
+3 (39m 14s):
+We had other jobs for a long time. I think maybe after our third record came out. Wow. We were touring enough that it seemed like we could support ourselves with the proceeds from our tours. And you know, it sort of got harder to keep a job at Kinko's because you'd be gone for six weeks or two months, and then you'd come back and try to get on the schedule again and then have to leave again. Six weeks later. Did
+
+1 (39m 48s):
+You, did you feel like you had to tour a lot because that was the primary source of revenue and income for you guys? Is that, was that a factor in why you toured so much and you performed live so much?
+
+3 (40m 2s):
+I think it was, well, if you put out a record that was especially back then, that was the main way to promote the record aside from getting it on college radio, you had to tour and not only were we doing it to promote the record, but because it was fun and it was how you connected with people,
+
+1 (40m 23s):
+Your, your record, no Paki for kitty comes out it's around the time of maybe like a month after, nevermind by Nirvana comes out, which really kind of, there's an explosion of attention to small labels and you know, all of a sudden, just that explosion and then the major record labels kind of realizing that these, these bands in Seattle and indie bands or, you know, potential goldmines. And, but, but around that time, when you guys started to get a lot of media attention, right, like people were saying, oh, this is the next Superchunk is the next breakout band. Did you remember that attention?
+
+4 (40m 58s):
+I remember it from the point of view of people who worked for major labels wanted to take us out to lunch type attention. But beyond that, I kind of feel like we were in our own world to a certain extent. And I thought Nirvana was awesome, but it felt like they were kind of on another, a different level. It didn't feel, I never felt like, oh, that's going to be us.
+
+1 (41m 26s):
+And meantime, you had your own label. I mean, at what point was there a band that kind of came that you who's the first band you signed? You know, I mean, it was built originally for your own band, but also to distribute other music. Who did you w was it mostly like chapel hill bands that were coming to you?
+
+3 (41m 45s):
+Chapel hill and Raleigh, you know, and, and like, we weren't really signing bands. We were putting out seven inches, you know, which are one-off things. Not, not something that anybody signs a document over and plus like, yeah, it was all among friends. It didn't feel like we had to sign anybody. And then in 1992, we heard from Corey Rusk who ran touch and go records. And he had noticed what we were doing with merge. And he said that he would like to have touch and go manufacture and distribute on behalf of
+
+1 (42m 22s):
+Merge. And they were based in Chicago. Right. They were
+
+3 (42m 25s):
+Based in Chicago. And this would enable us to do full length records
+
+1 (42m 32s):
+Because you couldn't afford to do that. You guys didn't have the cash. So they would like print the records and all the, the labels and everything. And you guys would be the distributor or the,
+
+3 (42m 43s):
+They would just manufacture it for us and then distribute it for us. So that left us basically in the position of having to choose the bands were
+
+1 (42m 51s):
+The talent spotters.
+
+3 (42m 52s):
+Yes. And then also do the promotion, like the, the, trying to get people to write about it, trying to get it on the radio, trying to get MTV to pay attention,
+
+1 (43m 1s):
+But she wasn't paying attention to your music.
+
+3 (43m 5s):
+Yeah. But, but I think the first band that we signed was, or didn't sign was Pavo.
+
+4 (43m 11s):
+You mean in terms of doing a full link
+
+3 (43m 13s):
+And yeah, that's the first band we did a full length with and we, they were handshake deals. We didn't do agreements. We sort of based how we dealt with bands on how touch and go, did you know what Corey did was a profit split. And so we thought that seemed fair. And so that's what we did with the bands that we started working
+
+1 (43m 32s):
+Anyway. So initially you would, the band, you would sign a band and by signing it, you wouldn't even do a contract. It was just be like, yeah, we're, we're going to ask you guys to commit to like three records with us and
+
+3 (43m 43s):
+Say that, but would you say, we would just say, we'd love to put out an album by you guys. Would you be into that? And they'd say, yeah. And that was it. Yeah.
+
+1 (43m 51s):
+And then what did that mean? You would finance the recording and the production of the record.
+
+3 (43m 58s):
+I don't even remember giving Paul though in advance. We would take the masters, give him to touch and go and they would manufacture it. I don't know. Do you remember it differently? Mac? I feel
+
+4 (44m 9s):
+Like we probably gave Pavo a couple thousand dollars to record that record at ducky studios or something, but I mean, it was more like, it wasn't like here's a big lump of money. Go do whatever it was kind of like how much did it cost for you to record? Okay. Like, well, here's that,
+
+3 (44m 26s):
+But there was no commitment. There was no talk of how many records we were going to do with them. I mean, our
+
+4 (44m 31s):
+Assumption, I think to this day is that if we're doing a good job, then why wouldn't you want to do another record with us? We do use contracts now, but we were taking the handshake deal model from labels, like touch and go and discord and labels on the punkier side of the industry.
+
+1 (44m 53s):
+Now, at this point, I think around 92, 93, the two of you split up. You are no longer together as a couple, which, you know, I mean, that's a long time to be together, even though you were super young, but still, yeah, it's still a long time. And I imagine that was not easy, but here we are today. I mean, you know, 25 years later, more, 30 years later still talking, talking the two of you and clearly you're not together. You both have your own families and you're put your business partners. Then when you split up as a couple, get a band together and you had a business, this Berge label together.
+
+1 (45m 34s):
+So what did you have a conversation and say, let's keep this going. Yes. Was it like that mature and adult
+
+3 (45m 41s):
+W I dunno if it was maternity culture, but, but basically it felt, I mean, I felt like what, what we had built with Superchunk and merge was larger than us at the, at this moment when we were splitting up personally, you know, like it was, it felt like it had merged and Superchunk both had a life of their own in a way. And like us not being together as a couple, didn't have to mean that these other things had to dissolve to
+
+1 (46m 17s):
+When we come back in just a moment, how Laura and Mac keep their businesses together, even though they have split up and how merge eventually makes a big bet on a little known band called arcade fire, stay with us. I'm guy Ross. And you're listening to how I built this from NPR. This message comes from NPR sponsor, Squarespace, the easy to use website builder designed by world-class designers.
+
+1 (46m 59s):
+Squarespace's all in one platform is dedicated to making it easy to establish an online presence with domains, marketing tools, analytics, and more go to squarespace.com/npr for a free trial. And when you're ready to launch, use the offer code NPR to save 10% of your first purchase of a website or domain. This message comes from NPR sponsor DocuSign. When you're running a small business, you want to maximize every minute and every dollar that's where DocuSign can help DocuSign can give you the freedom to complete your business agreements anywhere in real time and get signed versions back in minutes.
+
+1 (47m 39s):
+It's that simple visit docusign.com today to learn more about how DocuSign can help add valuable time back into your day. Hey, welcome back to how I built this I'm guy Roz. So it's 1993 and Mac and Laura have just ended their romantic relationship after being together for about five years, but they are still very much together, very much partners when it comes to the record label merge and their band, super Chuck, but maintaining that delicate balance is not easy.
+
+3 (48m 18s):
+It was not an especially like touring with somebody you just broke up with like being, yeah, it was hard.
+
+1 (48m 26s):
+And he was the lead singer. Yeah. And singing songs that may have been connected to, I dunno, maybe not, but you know, connected to love or relationships or feelings. And I mean, that must've been hard to
+
+3 (48m 40s):
+Yeah. I think like, yeah, I remember after foolish came out touring for that record and being, you know, listening to him, singing those songs and like, you know, being on stage and being angry and being sad and, you know, sometimes crying behind my hair, you know, like just, it was a hard time for sure.
+
+1 (49m 3s):
+What, what I'm curious about is at this point, mergers only three and a half years old and so super chunk, they were still new. Neither of them were making a lot of money or, but clearly you saw something in those two things that even though it was still early days and you were far, far away from becoming a sustainable in any way, you saw something in merge and even in Superchunk that convinced you guys to work through your personal differences. I think,
+
+3 (49m 33s):
+I think a lot of that was how much it meant to other people. Like it's a responsibility that is hard to put down, you know, once you start doing it and you realize that other people are attached to it, it's harder to think about just deciding to do something else.
+
+4 (49m 51s):
+I mean, on a more selfish way, I feel like, you know, we started the band and the label. We were like doing things as fans in the sense that, well, I like the way this record label does things, or I like the way this band makes me feel when I see them live, I want to do that. And so from a selfish point of view, as opposed to like, well, I can't take this away from these fans. It was more like we've spent a lot of time like making this thing. Why should we give it up?
+
+1 (50m 25s):
+Yeah. So, so you're like 26, 27. You're still really young, but a really kind of mature decision. I mean, I, I guess maybe, I dunno. I mean, I re I remember when I was 26, I don't, I don't know if I would've made such a mature decision. I, I might, I think I would have been like, screw you this done goodbye. But, but really that's why, I mean, and maybe people listening are like, well, why are you so surprised about the decision they made guy, but I'm just telling you, so I'm thinking out loud here. I just, I, I do think it was a mature and we've had stories in a show of couples who, you know, EO products, the founders divorced, and they kept going, kept going, amazing story. Stacy's pita chips.
+
+1 (51m 5s):
+You know, they had a split, but kept going, kept it going.
+
+4 (51m 9s):
+Yeah, I think, I think it's, I mean, it was, it was mutual to the extent that neither of us wanted to punish the other person. Yeah. So like, I think that maybe if there was something that had been more, like one person was more angry about it than the other person, then that person could take it out on that person by being like, well, we're, we're breaking up the band or something, but like, we didn't, there wasn't really that feeling. So Y trash this, yeah. This thing that you've put so much into it.
+
+1 (51m 36s):
+And sometimes that decision and a band can lead to a number one hit, like, don't speak by no doubt, because she wrote it about the other, someone else in the band that they split up. And then she wrote that song. And there you go, number one song
+
+4 (51m 48s):
+Now, you know what we were really going for. It didn't work.
+
+1 (51m 52s):
+Yeah. But really like, you're grinding away. You're doing a lot of Torah. Here's, what's interesting about that. Super trunk never became, I think I'm right to say, and you're still around, but it never became like hugely commercially successful. It had a huge strong fan base, but right. Is it fair to say, like never became hugely a huge commercial act. Right. True. And just to be clear, if you had only done super chunk, just from a business perspective, could the two of you have had, had sustained your lives and your family's lives and pager mortgage and your bills and all this things. Had you only done Superchunk
+
+4 (52m 32s):
+No, I don't think so. No,
+
+3 (52m 35s):
+But, but yeah, like once we started slowing down the touring and we're able to focus more on merge, I think that like enabled merge to grow more.
+
+1 (52m 45s):
+That's the thing. Right. Because super chunk was the band merge was the label. I don't know if, if, if one of those alone would have worked without the other. Right. Because while you guys were touring, I imagine you would meet other bands, you know, while you were touring and playing festivals. And then probably people heard more and more about merge records. And so there was kind of like this cycle, like this ecosystem that was formed, like people saw you perform or knew about the band and then found out about the label or knew, kind of knew about the label and met you guys. And then people say, oh, you should check out, you know, talk to Mac and Laura, cause they've got, you know, from Superchunk because they put this label.
+
+1 (53m 27s):
+Is that, is that right? Is that how those two things were connected?
+
+4 (53m 31s):
+Definitely. And like we would find out about bands and then other bands that were already on merge would tell their friends about merge, as you said, or they would come to us and say like, Hey, my friend's got a band. Like you might not like them, but I think they're great and send us their demos, you know? And so that's before merge was big enough to be known by, I don't know, managers or whoever, like we're finding out from people that we already trust kind of thing, you know?
+
+1 (53m 58s):
+So here's what I'm trying to figure out. You're basically spending most of, much of the 1990s touring and also simultaneously building this label while also kind of dealing with the aftermath of your relationship. It's a lot going on, but why would a band go and work with you if they could go and work at that time, if they could go work for a bigger label that would give them a bigger advance.
+
+3 (54m 27s):
+When you started a band, a punk rock band or a band, it wasn't because you thought you were gonna make a bunch of money and become famous. It was because you did it. Cause it was fun. And then it turned out you wrote some good songs and you were like, oh, I think we're good enough. We should make a record. But you didn't think you were going to get on the billboard charts. You didn't think that you were going to be able to make a living off it. Even, you know, it was super chunk was very lucky that we got to a point where we could support ourselves. And that we reached a point where we didn't have to have day jobs other than running merge. Once we got home, which we didn't get paid for.
+
+3 (55m 7s):
+Right. So like whether buying a band would sign with us or not, it wasn't about money. It was about who do I trust and who will I feel good about working with? And that changed at some point, I feel like now things are different. Yeah. But, but I think if there was a point you were making earlier, which is very true, that, that, like, I think the success of both Superchunk and merge their codependent, one fed the other, we couldn't have just started merged by itself without Superchunk also, and be where we are now.
+
+1 (55m 42s):
+It's almost like super chunk was like your, I mean, I hate to put it in his crew terms for today. Like we talk about social media marketing. Right. And so like, Superchunk was your kind of like the publicity arm. I know it wasn't, but it sort of was because people who like the band then learned about merge and then it created this momentum.
+
+4 (56m 5s):
+True. And, and from the other side, from the, we talked a little bit about this, but from the artists relations side, bands are more open to working with the label, knowing that the people writing the label are also in the band. Right. They trust
+
+1 (56m 22s):
+You. Yeah. Yeah. Because they know that or they hope that they're not going to get screwed by you. I should have mentioned that for, for most of the first decade of the two thousands, supercharges took a hiatus, you just really kind of stopped the band and focused on the label we did. And it wasn't, I mean, we couldn't have planned it. Yeah. But it did happen to coincide with merge, becoming a much busier bigger label, which was kind of lucky timing in that sense. How did the two of you have
+
+3 (56m 58s):
+There been times let's say after you split up, right. And you're running this, this label where you guys had some significant enough differences between the two of you, that there was a chance that that merge wouldn't survive. It. I mean, we've definitely had disagreements, but I never, I never felt like what's going to happen. Will there be a merge? Did disagreements ever, ever get into shouting matches? I mean, I can't imagine either of you ever shouting cause you're so soft-spoken and chilled out, but maybe this is just in the interview. I don't know. Did you ever shout at each other shouting on an email? Yeah. Email shouting, all caps. It's terrible.
+
+1 (57m 36s):
+Like disagreeing over what? Over, over what kinds of things
+
+3 (57m 40s):
+In a while, since we've had one of those, I'm trying to remember what the last thing was, where we were disagreeing, but you know, for the same reasons that we broke up, probably we have difficulty communicating with each other. If I feel like I'm trying to say something and I feel like Mac is refusing to hear me, instead of figuring out a better way to say it, I turn into a lizard and, and I just am an angry lizard under a rock. And, and like, I, it's hard for me to express myself. I'm just mad and just
+
+1 (58m 16s):
+Fume you just silently fume.
+
+3 (58m 20s):
+I either silently fume or I send off some ill, poor worded email that doesn't come across. As I intended,
+
+1 (58m 26s):
+I want to ask you about what I think is probably one of the turning points in March. Cause I think it would take at least a decade before you were even barely profitable. Right? But I want to ask you about a record that you released in 1998. So, so eight years in nine years in the records called in the aeroplane over the sea, by the band neutral milk hotel. This for people that don't know that record hugely influential, it became just a hugely important like cult record among a certain kind of music lover, you know, indie rock or whatever we call it called college rock, whatever, whatever it was. But I love this record.
+
+1 (59m 6s):
+It's a beautiful record. I'll just be honest with everyone listening. How did you come across that record? Because it was a slow burn. It wasn't like a huge hit right away. It didn't become a cult record for many years until after it was released. How did it have to come to you? How did you guys
+
+4 (59m 23s):
+Get that record? Well, that was the second album that we released by neutral milk hotel. Right. So we had that relationship, but as awesome as an airplane over the sea is I don't remember feeling like when we got it and we heard it. I remember thinking this is awesome, but I don't remember thinking like, oh my gosh, this is so different than the last record. This is going to blow people's minds. Yeah.
+
+3 (59m 51s):
+Exceeded my expectations of what it would sell.
+
+4 (59m 55s):
+Sure. Because it's not like when you hear a neutral milk hotel, you think like, well this is going to be some popular music. You know, it's like a very unique thing that that band is doing everyone in it, you know, it has, is doing something interesting. Whether it's Julian playing the saw, I mean the, the drumming is wild, the horns, you know? Yeah. But what's interesting about that record is, as you said, it was kind of a slow burn and the band did not tour it for that much longer after that record came out and they split up and then they split up and then that's kind of when the record grew in people's minds and in the public perception that
+
+1 (1h 0m 33s):
+The record is still was on many lists of best album, one of the best albums in the nineties. I'm assuming that must have been the first time that emerge record got that much attention.
+
+4 (1h 0m 47s):
+I mean, I think that, you know, this was definitely talked about in a different way and it was kind of funny to me that it was spoken of with some sort of mystery, because in our experience, they're also just like a band stopping at taco bell on tour. Like, you know what I mean? Like they were people, they weren't, they weren't ghosts, you know? Yeah.
+
+1 (1h 1m 8s):
+I'm curious about your selection process, right? I mean, how did you guys, and how do you make decisions? I mean, do you just listen to thousands and thousands and thousands of demos over the years? And if you like one, that's how you pick, I mean, what's your criteria.
+
+3 (1h 1m 26s):
+That's part of it. Like, I mean, that's a big part of it. You just listened to it and what's you try to figure out what sticks with you and what's different and interesting. And also I think it helps a lot if they're nice people like that is a big part of it too.
+
+1 (1h 1m 44s):
+And, and did you, I mean, as you sort of got better and better known in that first decade, or you just being inundated with demos
+
+4 (1h 1m 52s):
+Yes. A ton of demos, tapes and CDs. I mean, the good thing is you can often tell within 30 seconds or so whether this is going to be something that you're into or not, you know, sometimes without even listening to it from the way that it's being presented to you, you can tell. So you're not literally listening to thousands and thousands of entire demos, but there's a lot to go through and you don't want to miss something that could be amazing. You know,
+
+1 (1h 2m 18s):
+Is there something that ever came to you that you guys did miss that you and some, and then somebody
+
+4 (1h 2m 23s):
+Else picked it up and then you heard it and you were like, oh my God, we miss this. Well, there's certainly things that we wanted to put out that we didn't get to. So I do know that after we put out the first arcade fire album, more than one booking agent called and said, you know, I could have booked that band. I had that CD sitting in a stack of demos on my desk and I just never listened to it.
+
+1 (1h 2m 41s):
+This is the, this is the next, I think hugely pivotal moment for the label you released arcade fire's funeral, that that band would go on to become your selling band on the label. How did you, how did you guys keeping get connected with arcade fire? Because I mean, not only did they become a hugely commercially successful that, and they won Grammys and worker of the year at Alvin the year and all this stuff, like hugely <em></em> lists of best albums of, of, of all time. How did they come across your radar?
+
+3 (1h 3m 16s):
+The best way for any demo to get to us is for it to be handed to us by someone we know. And over the years of touring, of course, we met a lot of people. One of them was this guy, Howard Billerman. He sent us a demo of the arcade fire. He said, you know, they, they came to record in his recording studio and, you know, he was like, I think they're really good. And, and you, you need to check them out. And the CD sat on Mack's desk for a while and he listened to it. It sat on my desk for awhile and I listened to
+
+4 (1h 3m 55s):
+It and the CD wouldn't play didn't
+
+3 (1h 3m 57s):
+Work. It was like, I don't, I didn't remember that
+
+4 (1h 3m 60s):
+It was like a DVD or something weird, like, Ugh. And I was like, Howard stemo I can't listen to it. Okay. I'll send you another one. Like he said, he said, send another desk. So we finally got a disc that we could play and it was so good. And so I was into it to the point where I would play for other people and be like, is this really good? Or is it just reminding me of things that I think are good? You know, like I loved it.
+
+3 (1h 4m 26s):
+You know, it went around the office and everybody liked it, but we're always, we make decisions very slowly. This is something that has always been sort of a, we try not to rush into working with the band. And in this case it took us so long to make up our minds that when we finally reached out to the band, apparently they were on the verge of signing a contract with a Canadian label and they got out of it and wound up on merge.
+
+1 (1h 4m 58s):
+How'd you convince them to sign with you?
+
+3 (1h 5m 1s):
+Well, I guess I w you know, at that point, merge had enough of a reputation that it was, it was a more attractive choice than the one they were about to go with.
+
+1 (1h 5m 11s):
+I have to imagine that that record, and then their subsequent records really helped grow merge by an order of magnitude. Right. It's sort of like, I think of like Bloomsbury publishing that it was a small publishing house in London, and they signed an obscure writer and JK Rowling in like 1997 or something, you know, like 10 years after it was founded. And then of course, Falloon spray publishing became enormous because Harry Potter became that series. You know, it's like the Bible it's sold, you know what it is, it was arcade fire sort of like that former,
+
+3 (1h 5m 47s):
+I think. So. Yeah. I mean, we had to grow in order to do what we needed to do to support that record.
+
+1 (1h 5m 55s):
+Yeah. Cause it just, it just took off.
+
+3 (1h 5m 58s):
+Yeah. Like we had to grow really fast to keep up with that record. And like yet again, we had, we, you know, we were like, okay, I think this is gonna, this record's going to be really, it's going to do really well. It's going to sell at least 4,000 copies
+
+4 (1h 6m 12s):
+And for a first record, by a new band, that would be really good. And yeah,
+
+3 (1h 6m 17s):
+They also, I mean, the album art for that record involved, some elaborate foil stamping, and it involved multiple steps in which the printing place would have to like, let this one part dry before they then do the next part. Otherwise they'd stick to each other and like, you know, come, the stuff
+
+1 (1h 6m 37s):
+Would peel off. So it was expensive,
+
+3 (1h 6m 39s):
+It was expensive and slow. And so when the record came out and people started buying it, we didn't have anymore. And we couldn't make them fast enough. And we kept like, you know, ordering more. And then by the time we got those, those were already sold out and we'd have to do it again. And again,
+
+4 (1h 6m 60s):
+Sorry, I would say is like a terrible feeling for us not being able to keep up with a record that people want to buy.
+
+1 (1h 7m 7s):
+Yeah. I mean, how did, can you explain? And maybe there's no explanation, maybe it's just fate or whatever, but how does that happen? I mean, I mean, this record, their first record funeral certified gold in the U S which means a sold more than half a million copies, double platinum and Canada platinum in the UK. Why this record? I mean, obviously it's an amazing album, but still you need people to notice it and to talk about it. It's just, some things kind of take off.
+
+4 (1h 7m 34s):
+I think it's a combination of how good that band was live, makes people talk about them and makes them tell other people about them. Right. And then hearing those songs on record and they're as good as the band is live. It's an awesome combination. I remember when that band did their first, like real us tour their opening for unicorns, I think. And they came through chapel hill, they had a day off and we got them a show in a tiny club in chapel hill called the cave it's underground. It holds maybe like 50 people or something like that. And that was the first time we had seen them live and they just blew everyone away. And you could just see like, wow, like this is we're blown away, but this is going to blow everyone away.
+
+4 (1h 8m 18s):
+And I remember getting emails from people we knew around the country. The first time they would come through town. I remember Britt from spoon emailing the day after they played in Austin for the first time saying, like, I just saw arcade fire. And I simultaneously feel like I want to quit music. And like, I want to start a new band, like, you know, so like they were just making a huge impact on whoever saw them. And I feel like that's one of the most powerful ways to communicate with people.
+
+1 (1h 8m 47s):
+I mean, th they have sold millions of records. I think funeral probably close to a million and definitely suburbs more, more than a million. I mean, just to put this in perspective, I mean, that's, that's a lot of money. I mean, that's tens of millions of dollars in record sales. I mean, you guys said you weren't prepared for it. Like I know that you weren't thinking in terms of money and in business, but I mean, it was like a lottery ticket in some ways, right? I mean, it just like the fact that they sold so many records obviously reflects on, on how good the music is, but also resulted in, in merge becoming more than just a, a small little indie label.
+
+4 (1h 9m 30s):
+Well, it's interesting because the way that we work, just like we were saying like, oh, if they sell 4,000 records, like that'll be a success for a new band on their first album. We go into things trying to keep a reign on, you know, how much money we're spending, because it's the band's money to, you know? Yeah. And so for better or worse, that does put us in a position of not having made the 50,000 records that we could've sold from the get-go. But, you know, we also can't assume because that would be insane to think that the next record we put out by any band is going to be like that. So in other words, we can't just scale merge up to handle a funeral every time, because it's almost never going to be a funeral.
+
+1 (1h 10m 14s):
+So, so once that record came out and all of a sudden, you just, you didn't have the support to staff. How did you, what did you do? How did you, how'd you cope with that?
+
+3 (1h 10m 24s):
+Some of what you do is you hire like independent publicist know independent publicity people, you know, you hire out to contractors to do certain parts that you feel like you, you know, you find the right people and you hire them, you know, temporarily just for the project. That's,
+
+4 (1h 10m 40s):
+That's a lot of it. The other thing is that when a record gets as big as our, our band gets as big as arcade fire, there's a percentage of people that know what label that record is on, but there's a much bigger percentage of people that don't know. And don't care. Like even what a record label is. They're just like, I love arcade fire. You know, like when something gets popular beyond what you think of as like alternative world or whatever indie world, that's not people who really think to look at the back of a record necessarily, or even buy a record.
+
+1 (1h 11m 9s):
+You were, you wanted to make a lot of money in the, throughout most of the 20th century, you would become a newspaper publisher because you would print classified ads. I was like printing money. Like, if you want it to make a lot of money, you know, in the 50, 60 seventies, you could start a eighties, nineties, you start a record label. Right? I mean, I mean, the, the guys who started Lantech, I mean, people were making money with, but if you wanted to lose a lot of money in the last 20 years, you'd start a record label. Right. Because, because music went digital people, I just went to amoeba records, legendary record store in Berkeley, California. And it's just wonderful. You walk through there and it's like, there's records and there's, there's, there's vinyl and there's CDs.
+
+1 (1h 11m 50s):
+And it's reminds me of when I was a kid and I'd go to tower records. And in Los Angeles, just such a, it's such a powerful feeling, but you know, there are very few record stores compared to when I was a kid. Obviously I think, you know, I read that like in 94 there were like a billion records shipped by 2007. It was like half of that by today. It's probably half of that. I mean, this is not been a good time to be a record label. And somehow you guys like have been thriving growing. What, what explains, I mean, people are going to Spotify. They're not buying records are not buying CDs.
+
+1 (1h 12m 31s):
+So what, what explains the fact that you guys are doing better than, okay.
+
+3 (1h 12m 37s):
+There's moments where it feels like a struggle. I mean, it's definitely not as easy as it was, you know, when people were buying downloads on top of buying
+
+1 (1h 12m 47s):
+CDs, which they're not doing anymore,
+
+3 (1h 12m 49s):
+They're not doing anymore, but you know, I think something else that has helped in the last seven to 10 years has been final coming back. Yeah. I wonder how many of these vinyl records are actually being listened to sometimes, but like that is helping a lot to support artists and, and record labels and record stores.
+
+4 (1h 13m 10s):
+Yeah. One thing that's difficult is that even though the way people consume music means that they don't really have to pay for it so much. All the things that we do on behalf of bands, because we, our job is really to get the band's music out there to as many people as we can make them aware of the band, get the bands, music in a place where the people can hear it easily and know about the band. All of that stuff still requires just as many people as it used to, if not more on our end. Yeah. Plus we are still making vinyl and CDs and tapes, even. So all of the jaw, all the jobs are still there for people on our end, but people don't have to pay for it on the other side.
+
+4 (1h 13m 56s):
+So that that's, what's difficult now. I mean, it's interesting because in some ways the most old fashioned ways of promoting music are still the most successful and powerful and touring is one of those. Because if you see a band live and they blow you away, like that stays with you more even than if you're just like you're in a coffee shop. And you're like, I like the song you hitches am and see what it is. And, you know, you might remember to go check that out when you get home, you might not. But if you see a band live and they blow you away, like you're going to support that band.
+
+1 (1h 14m 29s):
+Yeah. When you think about the journey you've been on, right. I mean, 30 years, I think you celebrate your 30th anniversary is as abandoned label in 2019. Do you, could you have ever imagined that 30 years later, you know, we'd be talking about the band and the label as these really influential kind of iconic institutions in, in independent music in America?
+
+3 (1h 14m 56s):
+No, I mean, I definitely, yeah. I definitely never would have imagined that I love what we've done and I've enjoyed it very, very much, but sometimes I resent it. Like sometimes I even I'm like, damn it, like there were other things I wanted to do too. And now I don't, I haven't had time because, because this has turned out to be successful. It's it's, it's been a gift though. Yeah.
+
+1 (1h 15m 27s):
+Do you think that, that what happened with merge and the influence of had, had to do with just getting lucky, like just luckily finding the right artists, or do you think it had to do with like the kind of the strategic, you know, and hard work approach that you guys took?
+
+3 (1h 15m 42s):
+Both? Probably. I think that our strategy has always been to be careful and grow slowly and we never had big goals on the long-term and I think that has served us well in a way, cause we we've been cautious enough to avoid in general overextending ourselves. Yeah. And that has led to our longevity. I think
+
+4 (1h 16m 8s):
+Mac. Yeah. I think it's, I think it's a combination because of course luck is always involved and you happen to run into the right person or pick up a, and put in a demo tape at the right time of day and it appeals to you in a certain way and end up working with that band or whatever. But at the same time, you can build on that with doing things the right way and treating people well and doing a good job for your artists. You know,
+
+1 (1h 16m 36s):
+I just want to ask one more thing about the two of you, because, because of course this is, this, isn't just a story about the label or about Superchunk, it's, it's a story about your relationships. So what do you think explains the success of your business partnership? Like what, from your perspective, like, why do you think it's worked? I mean, you were boyfriend girlfriend in your twenties, you split up and that now you in your, you guys are in your early fifties. So it's, you can look back and laugh or fondly. Remember it, there's no bad connection that, that that's gone, but, but still your business partnership and your friendship has really survived and thrived.
+
+1 (1h 17m 19s):
+Why, what explains it?
+
+4 (1h 17m 22s):
+I think probably because we, like, I'm not trying to do the business side. Right. You know, like we're not trying to, like, I'm going to do that. I need to do that. I need to do that. Like we're not trying to do step on each other's toes in some way, but
+
+3 (1h 17m 39s):
+I would say also that, you know, Mack and I are very different from each other. Like he's got big ideas and
+
+4 (1h 17m 46s):
+I'm the person going, like we should do this. And then she's the person saying like, why, or I don't want to, or something like, I don't know. But that is kind of like the, the relationship, you know?
+
+3 (1h 17m 58s):
+Yeah. We fulfilled different parts of what the business needs to succeed. And I suspect if you had two max running merge merge, wouldn't have
+
+4 (1h 18m 7s):
+Kept going. It'd be awesome.
+
+1 (1h 18m 20s):
+That's Laura balanced and Mack MCON founders of merge records and members of the band super track. The band was on hiatus for much of the early two thousands. But over the past 10 years, they've been back performing together, live and in studio. In fact, they have a brand new single just out it's playing behind me right now. And it's called endless summer Hey, thanks so much for listening to the show this week.
+
+1 (1h 19m 1s):
+If you want to reach us, our email address is H I B t@npr.org. If you want to follow us on Twitter, we're at how I built this or my account at rise. You can find us on Instagram at how I built this NPR or mine at guide dot Roz. This episode was produced by JC Howard with music composed by Ramtin era bluey. It was edited by Neva grant with research help from Claremore Ashima. Our production staff includes Casey Herman, Juliet Carney, Elaine coats, Farah safari, Liz Metzger, and Harrison BJ Choi. Our intern is Catherine cipher. Jeff Rogers is our executive producer I'm guy Roz, and you've been listening to how I built this This is NPR.
+
+1 (1h 19m 57s):
+This message comes from NPR sponsor. Kendra Kendra designs builds, manages and modernizes the mission critical technology systems that the world depends on every day, Kendra, the heart of progress.

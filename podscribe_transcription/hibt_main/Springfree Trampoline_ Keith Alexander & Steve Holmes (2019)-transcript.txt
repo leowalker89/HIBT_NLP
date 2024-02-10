@@ -1,0 +1,671 @@
+0 (0s):
+This message comes from NPR sponsor GoDaddy, making a different future starts with you. Go, daddy helps you create, sell, and get found online so you can create change or build an empire stark different@godaddy.com. Hey, everyone just want to let you know that next week our team will be back from our August break. And really we can't wait to bring you a brand new episode of how I built this and many more after that our new lineup of shows starts next Monday, but today we're going to round out the summer with a really fun episode from the archives. This is a story of an engineer from New Zealand and a businessman from the other side of the world who shared the same vision for the perfect trampoline.
+
+1 (48s):
+I decided to invest in some fundamental research and I wanted to ask myself one question, did any retailer in America believe that trampolines were dangerous, so dangerous that they wouldn't sell them? The answer was yes. And that was Costco. The CEO of Costco was a man named Jim Senegal. And Jim said I will not sell trampolines. Wow. And so I made it my mission to try and sell Costco trembling
+
+0 (1m 19s):
+From NPR. It's how I built this show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Raz and on today's show how a shine New Zealand professor with a crazy invention and a Canadian businessman who believed in its potential teamed up to create spring free. They call the world's safest backyard trampoline. So you might remember a while back. We did an interview with James Dyson and Dyson of course, is the inventor of the Dyson vacuum cleaner.
+
+0 (2m 1s):
+And he described how he came up with his vacuum. He worked in his backyard, Shetty built prototype after prototype, after prototype testing and perfecting his invention. And for a lot of inventors, that's a familiar story, right? Finding a problem tinkering until finally a solution. But the next part of the Dyson story, the part where James Dyson manufactured the vacuum cleaner, scaled his business and then became one of the wealthiest people in the UK. Well, that's not exactly the typical inventor story because for a lot of inventors, the end goal is the patent. The patent that someone else will buy and take to market because a lot of times inventors don't have the time or resources or ability to go into business themselves.
+
+0 (2m 50s):
+So today on the show, we're going to do something a little different. We're actually going to tell two stories, the story of one man, Keith Alexander, who invented a safer trampoline, maybe even the safest trampoline ever. And then the story of Steve Holmes, the man who took that invention and made it into a commercial success. Because even though Steve and Keith aren't technically business partners, spring free trampoline couldn't have been a success without one or the other. Keith Alexander grew up in New Zealand. His dad was an engineer. And at first Keith wasn't really sure what he wanted to do with his life. So he joined new Zealand's version of the peace Corps.
+
+0 (3m 30s):
+And for awhile, he worked as a grade school teacher, but then he decided to go back to the university of Canterbury in Christchurch. And he found that he actually really enjoyed engineering.
+
+2 (3m 42s):
+Yes. I started doing my engineering degree at Canterbury and suddenly realized that was what I loved. I wish somebody had told me many years before that I was actually an engineer. I found I could get A's quite easily. So I did a master's and then did a PhD.
+
+0 (3m 58s):
+And where are you? Like, where were you? The kind of engineer who just, who just always loved to tinker and like a tool shed. Like where do you always tinkering with things?
+
+2 (4m 6s):
+Well, yes. I was always tinkering, especially through my PhD and had have a workshop. I always had a workshop that's right. A bench put up a bench somewhere. If it wasn't there. I had these tool wrecks that I made with all the tools on and I could take them off the wall, pack them up and take them somewhere else. You do. What would you make? Well, I made all sorts of things. Did an art exhibition. I made a six-foot mousetrap for that art exhibition, a collapsing chair. I made walk on water shoes. In fact, I funded myself through my PhD by winning walk on water competitions.
+
+0 (4m 35s):
+Wait, sorry. Let's break this down a bit. What's what's the walk on water shoes
+
+2 (4m 40s):
+Up more issues. Radio Avon, which was the radio in Christchurch at the time, put up this competition or walk on water competition thousand dollars. Oh,
+
+0 (4m 49s):
+Into what? Sorry. They sit to their audience. Hey, we have a competition. If you can figure out how to walk on water, we'll give you a thousand dollars.
+
+2 (4m 56s):
+That's about it. That's about it. Okay. Wow. At that time, my father had been developing some walk on water shoes in Oakland. He and I had been playing around with it because we had a dingy and we'd been figuring out how to do this. You need some flotation. Yeah. The competition put limits on, on how big these flotation things could be. So it ended up being even allowed to have anything long within one meter. And it was, didn't take much for an engineer to work out how big the piece of polystyrene had to be taken care of.
+
+0 (5m 25s):
+I see. Okay. So you, you were coming up with some kind of flotation device that you could put on your feet and you could sort of walk on water with that device that was balanced, that would allow you to kind of, you know, hover on the surface of the water.
+
+2 (5m 38s):
+Yeah. That balance thing is, is that the first, the first big step and the solution is put your feet on the bottom. So you cut a hole in it and you put a bit of plywood on the bottom, so your feet go right through to the bottom and then it stays upright. Okay. The polystyrene is around your ankles. That's right. And you invented this. Yes, my father and I invented this. We had to make it fit the competition for them. So I flew back from Oakland where I'd gone to stay with my parents and I built these shoes to compete in this competition. And I managed to win the competition two years in a row. And then one of the third one in Oakland. And that helped fund my PhD because you got a thousand bucks back then a thousand bucks was quite a lot more.
+
+2 (6m 21s):
+It's more like 5,000 now. Wow. So what
+
+0 (6m 25s):
+Were some of the things that you came up with or you tried to invent? Well for the art
+
+2 (6m 29s):
+Exhibition, we hit, there was quite a few there. One of my enduring experiences was having a haircut during my PhD at university. And this lady was giving me the hair cut. And she said, do you realize you're thinning on top? It was really embarrassing. So I thought that would be a good thing for young guys to have, because you can never see the top of your head. So I made this bald patch and specter is what I call it. So it was a couple of mirrors. So you can look in my mirror and you can see in the other Moran, you could move the leavers and it would adjust the mirror. So you can see the top
+
+0 (7m 0s):
+Of the Tapir. You could stand in the mirror, move a lever, it would reflect the other mirror and it could show you the top
+
+2 (7m 7s):
+Of your head. Exactly. Yeah. And you could see whether you're going bored. What did you do once you finished your PhD? Well, at first I thought if I want to come back and go academic life, I really need some engineering experience. I don't think I'm a valid teacher of engineering, unless I've got some engineering experience. So I moved back to Oakland and got a job in an engineering consultancy. What kind of work did you do? I started off as a value or they wanted a value. What does that mean? What is that? I knew nothing about what valuation was. Okay. It was looking at a piece of machinery and working out how much it costs, how old it is. And after two weeks I was getting pretty good at it.
+
+2 (7m 46s):
+After two weeks they found I could do other things as well, working for a consultancy, you got a variety of things. It was quite a bit of insurance work. There was a crash investigations. There was a bit of court work as well. So it was quite a broad range of stuff, but I wasn't particularly happy with it because it all comes down to the money in the end. It's all. How much have you been able to invoice this week? And I really liked spending time on things, putting more time into it and thinking it through properly.
+
+0 (8m 15s):
+This is like, I guess the mid 1980s, you were late thirties, early forties remarried.
+
+2 (8m 24s):
+I got married in 1985. Yes. So it was while I was at the engineering consultancy
+
+0 (8m 28s):
+In Oakland. And did you have kids pretty soon after
+
+2 (8m 32s):
+About two and a half years later, 1987, your first child was born. His child was born. How many kids do you have? We've got three. So
+
+0 (8m 41s):
+I, my assumption is you are doing consulting work, got a young family, and this is a, probably a pretty steady lifestyle, like, right. Yeah. So when you would come home from your consulting job, would you come home and, and go into your, the work bench area and tinker and build things
+
+2 (9m 1s):
+Much to the regret of my wife? Yes. She took her a while to get used to that.
+
+0 (9m 7s):
+So, yeah. You were like the mad scientist in the back garden working on your crazy idea? No,
+
+2 (9m 13s):
+Not all the time. Not all the time. One of the early ones was a magnetic flying machine, which was a post to use the magnetic field to fly. But I was very proud of what I did, but it didn't work.
+
+0 (9m 25s):
+Just the laws of physics actually support that
+
+2 (9m 27s):
+Idea. Yes. In the end, one of the best ideas would be to go to the south magnetic pole and put a big ring of conductive material around the magnetic field there and put a huge current through it. And it would actually fly into space. Wow. It's kind of hard to get. Yeah. It's not a very good place for a spaceport.
+
+0 (9m 48s):
+It sounds to me that like what, like what really motivated you was just this idea trying to solve problems. Like, is that right? Like, is that how you would explain it?
+
+2 (9m 58s):
+That's pretty good. Yes. If other people haven't been able to solve it, I want to solve it. That's a real challenge for me. That's something that excites me. No one else has done this. I want to do this because no one else has done it.
+
+0 (10m 9s):
+So. Okay. So what, like, what was it that eventually like made you start thinking trampolines?
+
+2 (10m 16s):
+When I, when I was a kid I'd love the trampoline, I just loved the idea of being in the air, but you couldn't buy a trampoline in those days unless it was a gymnastics trampoline. And we, we had one at the school and in the gym class, you get 30 kids there and we had to get on jump three, three bounces, seat drop, get off the next person. And that was it. That was my jumping. I love this. I love this thing. Get three jumps. Yeah. And that really frustrated me. So when they started to become available in the shops and I had a young child, I thought, right, I've got to get one of these. Of course, of course she's only 18 months old, but you know, let's start it young and then I'll be able to bounce on it too. And so I said to my wife, you know, we've got to get a trampoline for Katie.
+
+2 (10m 60s):
+And she said, no, I take her to play center. They don't have a trampoline at place center. They're just too dangerous.
+
+0 (11m 6s):
+This isn't like 1989. This
+
+2 (11m 8s):
+Is 1989. And she said, trampolines are not safe. I think, all right, well I'll just prove her wrong. I'll look at the research and see what I can find. So I looked at the research and sure enough, even in New Zealand, there'd been some research done on the increase in injuries from trampolines. And I thought, well, they really are dangerous. Maybe I can do something about it. I'm an engineer. I should be able to do something about this. And that's when it started,
+
+0 (11m 33s):
+You look at this research and you, you realize your wife was right. Trampoline
+
+2 (11m 38s):
+Dammit. My, my wife is right. Dammit. Yeah. Yes. But you wanted a trampoline and you wanted one for your daughter. So I had to think of a way around that. So what'd you deal? So I thought, right. Well, if I can design one, I'm sure a trampoline is pretty simple. Surely I can cause I've got a PhD in. Sure. And I love designing things like this. Surely I'll be able to do it. So let's design one that she'll accept and maybe we can even sell it. I dunno.
+
+0 (12m 3s):
+So, so take me back to that moment. You're thinking, I want to see if I can come up with a trampoline, where do you start? I mean, do you, there's no internet at the time. I mean, there's no easily available internet. So w how did you even start to think about how you would do this?
+
+2 (12m 20s):
+Well, what are the issues here that we have to solve? And, and the traditional trampoline has got a steel bar around the outside of the edge and Springs, right beside it. And then of the mat that you jump on in the middle, and I can see that it's dangerous. Cause the accident rates have gone up and it's pretty obvious. You give this nice bouncy things to kids and they'll bounce all over it and they'll lose control and they'll fall on the bar or they'll fall down the hole between the Springs. So, or they fall off or they fall off. But the thing that would probably hit first is the steel bar around the edge. That's the thing that impressed me most. I thought that steel bar, that's not fair. Let's see if we can get rid of that steel bar. That's a good step. Huh? So I'm thinking, well, inflatable things are soft.
+
+2 (13m 1s):
+What have we replaced the steel frame with an inflatable ring? Just like a big inner tube and then stretch the trampoline mat across the top of that. Would that work? Oh,
+
+0 (13m 9s):
+I see like a giant heavy duty inner tube tire. And then you would have like a S the canvas inside of it. And the springy part would come from the inner tube.
+
+2 (13m 19s):
+First. I thought, right. Well, put Springs on. I mean, we can put rope around there to hold the Springs and we could talk, I have the mat connected to the Springs. So I sketched this up and I got a canvas company to make a map for me. And I've got some trampoline Springs and some rope, a barn call it a Seabiscuit at the time, which is like a big inflatable Zodiac, but circular. Yes, that's right. And you towed it behind the boat. That's what, that's what it was for. So I borrowed one of those from, from the canvas company actually tried it out and it seemed, seemed to work at that time. My son was about two and a half years old and he bounced on it. He could bounce on it. All right. It was only about the height of it, a chair. So if the kid fell off, they didn't have far to go and the edge was inflatable and soft
+
+0 (14m 3s):
+Rubber. So you actually literally made this, you stretched canvas over this giant rubber tire boat dinghy thing. And, and you had your kids jump
+
+2 (14m 13s):
+On it. That's right. So that's the first one. And then I thought, right, let's make a purpose built one. So the one that we formerly made and I paid a couple of thousand dollars for just had the mat sewn into the top edge of this big ring. And that was good for the kids at the time. And your wife was happy with that. She was totally comfortable with it. He was really happy with that. This is something the kids could actually pick up and cut around the backyard. And this was like, how big was it? That was about eight feet across the mat of course was more like five feet because it was on the top of it. The big problem with it. Well, several big number one, the material cost for them was about $800.
+
+2 (14m 56s):
+And back at that time, just the material costs. So there's no manufacturing on that at all. And it always leaked. There's always somebody that's air would come out. Yes, it was supposed to be tight. It didn't matter how many times I pulled it apart in front of find the leak. And that was a problem. Two problems there. Third problem. It just wasn't bouncy. I mean, I couldn't get any height on it. This did not
+
+0 (15m 19s):
+Bring you back to your school days where you had those three jobs. That's right. There's massive giant jumps where you could
+
+2 (15m 25s):
+Get lots of air I'm flying,
+
+0 (15m 28s):
+Maybe 12 inches or something off the ground,
+
+2 (15m 31s):
+Which is pretty safe for kids. You don't really want three is all. You don't want them jumping too high. So it was great. It was great for the kids to have it, but it wasn't what I wanted. Okay.
+
+0 (15m 41s):
+So you, you start to realize that the scene is just not going to fly. This is not going to be the thing that make it be fine for a while for the kids, but it gets deflated and it can't jump very high. And in any way you can market this thing. So when you do you go back to your, to the garage and start again well
+
+2 (15m 60s):
+Around about that time, I, I sat down and summarized all the sketches. I'd gotten all the ideas I've got because this is not bouncy. I've got to come up with other ways of doing it. And I went through a whole range of ideas and came up with her several quite complicated ways of using Springs. So at this stage I was working at the university, your
+
+0 (16m 20s):
+Job at the university of Canterbury in Christchurch, teaching mechanical engineering, I'm assuming,
+
+2 (16m 26s):
+Yes, I had a contract, only a contract. It wasn't a full-time job, so I didn't have tenure, but I had a job there. And that meant that I could for educational purposes, give students projects to do so. The final year of engineering, the students get an individual project that will go the whole year. So I put that up as a project. Here's an idea for making a trampoline completely differently with Springs and a different way. What can you do as a student? What can you come up with?
+
+0 (16m 54s):
+So just to, just to get a sense of one, this is, we're talking about the mid 1990s here, right? Like 95, 96, somewhere around then
+
+2 (17m 0s):
+Started at university in 96. I ran a couple of university projects and 96, 97. And I gave him pretty close guidelines. Cause I put a lot of thought into it. Here's a way I think we could do it. Could you build one? Could you do the analysis on it? And at that time I had this idea in my mind and I found it very difficult to imagine. I never seen anything. Like it was a bit like a basket with these are, these are things. Say like fishing rods, obviously, if you've caught a fish on the end of a fishing with a fishing rod, it's going to bend it. It'll keep it flexible. Keep some tension on. Maybe I could make one like that
+
+0 (17m 38s):
+Out of that material, something
+
+2 (17m 40s):
+Like fiber fiberglass, like a fishing rod material. And I thought, well, if you stuck a fishing rod in the ground over there and you're stuck another one over here and you're tied something, them, you get the tension, but then they're sticking up. These things are sticking straight up. And if you are on a trampoline on the top and you fell on it because they're vertical. If you fell right on the edge, you can empower yourself on them. So what if we laid them over? So that they're 45 degrees. Then if you landed on them, they'd been down. So that was the idea.
+
+0 (18m 8s):
+Just to picture this in my mind, the idea was, could you get some kind of material? That's a fishing rod, like a bit shorter, obviously. Yeah. And angle it at 45 degrees in a circle, let's say and stretch canvas over that. And essentially that would be the trampoline. You would bounce on the canvas that was laid over these angled rods that were bendy.
+
+2 (18m 32s):
+That's a pretty good description of
+
+0 (18m 33s):
+It. So you had students working on, I'm making a, like a prototype of this new trampoline design, but by the, how they
+
+2 (18m 41s):
+Made full-size ones, eight foot diameter.
+
+0 (18m 45s):
+And how did it work using using those like fiberglass
+
+2 (18m 48s):
+Fishing rods? I have a glass rods that seem to work. All right. That seemed to work. All right. It was certainly, it was more bouncy than the inflatable one. So I was going in
+
+0 (18m 56s):
+The right direction. Promise it wasn't exactly there yet, but it had more promise.
+
+2 (19m 0s):
+Yes, you're right. I was thinking, I need to get a commercial person involved by this stage. I don't know how to commercialize it. I don't know whether it's going to be commercial at all. Had no idea let's contact them.
+
+0 (19m 12s):
+All right. I want to ask you about what I would imagine was a slight complication, which is at this point, you weren't Keith Alexander, a backyard tinkerer. You were also Keith Alexander professor at this university. What did that mean about all the work you did? Right? Because, because oftentimes it's as the case that you S when you work on something, the university it's their property. If it's MIT or Stanford or Harvard or whatever. Well,
+
+2 (19m 41s):
+That's exactly right. But I'm supposed to be doing is publishing papers. But we did have this new policy that just came in a couple of months after I'd started. They said, if you come up with an idea, that's commercializable, you've got to tell this new commercialization office that we've just developed that you've done it. And because it belongs to the university a hundred percent, or, and I thought, well, I haven't already thought of this. I've been doing this at home for awhile. And now I've got a job at the university. Well, I can't commercialize it. I don't know how to do that. They say they know how to do it. Okay. I'll sign the paper. So now
+
+0 (20m 17s):
+Every idea you have, they own, which is not uncommon.
+
+2 (20m 21s):
+It's not uncommon. So I went along with it. I'll let them have it if they can commercialize it. Great. So I took it to them, showed them. They said, oh, that's fine. It's a kid's toy. See what we can do. And, but,
+
+0 (20m 31s):
+But in the meantime, they, they were just like, yeah, do whatever you want to do. They, nobody was, yeah. They were not paying attention. They're
+
+2 (20m 38s):
+Not paying attention. What they wanted is something that's going to make millions of dollars. They don't really want a child. No.
+
+0 (20m 44s):
+They want like a biotech.
+
+2 (20m 46s):
+Something I at the time was the thing. Yeah. I was competing with nano
+
+0 (20m 51s):
+To like, enjoy your kid's trampoline. We're we're paying attention to these guys working on nanotech. Yeah.
+
+2 (20m 57s):
+So I looked in the yellow pages. I found the biggest trampoline manufacturer in New Zealand. He was selling 400 trampolines a year. I rang him up and he said, yeah, I'm interested. Send me some photos. I'll be in Christchurch. I'll come and have a look. Huh? So he came and I had them all there for him to try and have a look at, he jumped on him. He jumped on them. He said, well, the inflatable one, I like that. But not as a trampoline. I like, it's a great pool toy. The one with the rods. Yeah. That's got some promise, but it it's too low. It's gotta be high. It's got to be dangerous. It's got to make the kids think it's dangerous and it's gotta be bigger. It's far too small. So I want something that's 10 feet diameter and it's got a pack down so it can be shipped.
+
+2 (21m 41s):
+So you have to be able to pull it off a partner, assemble it. And it's gotta be able to be assembled by a solar mother with no tools in half an hour on Christmas Eve after she's had a glass of wine. Wow. Because I always get people ringing me up on Christmas Eve saying, how do I assemble my trampoline? So you've got to sort that out. So if you can sort out those problems, I'll be interested and you thought, and I thought, okay, there's a challenge. And we've got a company now that's interested and I'll pay one of these students who was happy to work over the summer to build this 10 foot version and see what we can do. So that's what we did over the next year. We had this student working away, he built up this 10 foot trampoline that was higher. We could test it, we could pull it apart, put it together again.
+
+2 (22m 24s):
+We could put it all into boxes. We couldn't assemble it in half an hour, but all the other things we could do. And we found that there was another company in New Zealand that was quite specialist in portrait of the fiberglass. In fact, they had used it in as a spring and we were using it as a spray glass Springs and they experienced it that, so we started forming a relationship with them. So we formed a relationship with them. And this company who would making 400 tramp planes a year, and we started to build some prototypes for customer trials, five prototypes for customer
+
+3 (23m 1s):
+Trials and had a turnout.
+
+2 (23m 4s):
+Well, it was, I was pretty pleased with it. I thought we were going to market at this stage because I had a commercial person. I had, we had five products with customer trials. And the guys from the commercial arm of the university came along to have a look because there was a bit of Toronto going on. They had a look at it and they said, this is not market ready. You need another 50,000, a hundred thousand dollars to make it market ready. And then they went away. The university said this. Yeah. And so what does that mean? Well, I thought that was the end of it. Really. I thought I can't get a hundred thousand dollars or $50,000. I thought it was market ready, but I was very depressed.
+
+0 (23m 44s):
+And you needed the university's permission because they owned it. They own the IP,
+
+2 (23m 48s):
+They owned it. I didn't have to do any more. I was doing all this work, supervising this and trying to get the money to, to support making these customer trials. So
+
+0 (23m 59s):
+The dream dies over. Well,
+
+2 (24m 2s):
+I thought so that I, I always just liked challenges. And my mother-in-law she'd ring up to talk to my wife. And when she'd get me on the phone, she'd say and keep how's that trampoline going. I hope you're still working on it. So this was a problem in the world that needed to be solved. Parents can't buy a safe trampoline. I've got to do something about this. I'll decide to keep going around this time. The commercial arm of the university hired another person and he'd actually taken product to market before. And he had a look around New Zealand trying to find if there are any investors in New Zealand that were interested. And in the end, he looked in Canada and found someone in Canada and said case we've got someone in Canada, I'm going to send him a photo.
+
+2 (24m 47s):
+And we'll see where we go from here.
+
+0 (24m 53s):
+When we come back almost 15 years after Keith started tinkering on a new, safer kind of trampoline, he gets to see his invention. Finally come to market, stay with us and guy rise. And you're listening to how I built this from NPR support for this podcast and the following message come from. Klayvio the email and text marketing platform that puts creators in control. If you're the creator of an e-commerce brand, you need a platform that hustles as hard as you do.
+
+0 (25m 35s):
+Klayvio unlocks the power of your e-commerce data. So you can personalize and automate messages that keep customers coming back. Creators communicate with Klayvio get started for free@klaviyo.com slash NPR. This message comes from NPR sponsor. Click up on average. People can lose three hours every day between all of their work apps, click up, has the solution bring all of your essential tools into one place, allowing you to prioritize tasks, collaborate on docs, chat with your team and track goals. Companies like Uber and Webflow use click up as their mission control center.
+
+0 (26m 17s):
+Click up guarantees to save you one day every week and it's free forever. So try click up today at <inaudible> dot com slash NPR support for how I built this in the following message. Come from Culturelle, who wants you to know that an estimated 45 million Americans may have IBS according to the international foundation for gastrointestinal disorders, cultural IBS, complete support is a food for the dietary management of IBS. It's designed to relieve symptoms like abdominal pain, bloating, diarrhea, and constipation in a safe well tolerated. Once daily dose save 20% with promo code radio@culturelle.com.
+
+0 (27m 2s):
+This message comes from NPR sponsor, Touro, a global car sharing marketplace, empowering entrepreneurs of all sizes to start and scale a small business earning up to $10,000 annually per car in the U S with some hosts pulling in six figures, sharing multiple cars. Turo provides an easy to use platform and mobile app protection plans to cover vehicle damage insurance from Liberty surplus insurance corporation, and more visit turo.com and click become a host or download the app and list your car. Hey, welcome back to how I built this from NPR.
+
+0 (27m 43s):
+So it's the early two thousands and Keith's university finds an investor. Who's interested in the trampoline and his name is Steve Holmes. And at this point Steve's in his mid thirties. He's living in Toronto and he's already been involved in a couple of successful small businesses. So Steve knows some investors and he's got access to a little bit of capital and eventually Steve and Keith get on the phone to start discussing the details of Keith's invention.
+
+1 (28m 11s):
+The end of the phone call, I remember saying to Keith, okay, Keith, can you mail it to me? Can you send it to me? Ship me the trampoline, just ship me the trampoline. And there was pause because I think the money was an issue, right? You know, like, how am I going to ship the trampoline, Keith rabbit, try and figure it out. I said, I'll send you $10,000. We shipped me the trampoline.
+
+3 (28m 30s):
+And then he said, well, it shouldn't be the trampoline. Keith,
+
+0 (28m 34s):
+What do you remember about that call? It was similar. Like you were on the phone with Steve and you, you just kind of explained this invention to him.
+
+2 (28m 42s):
+I find it pretty hard to remember. I was really anxious about anything like that, that that call would have made me would have freaked me out and shipping something overseas. I didn't even know that you had to dial 0, 0 1 to get to America first. But one of the things that did make an impression though, is Steve said, I'm sending, I'm sending you guys $10,000 so that you can do what needs to be done to get me information that I need and get me a trampoline. And I didn't have that sort of money. So when someone says, please ship it to the other side of the world. It was a big deal. And when someone says, I'll give you a $10,000, that was a big deal.
+
+0 (29m 16s):
+So, all right, so, so how long did it take for, to arrive a couple of weeks,
+
+1 (29m 21s):
+Six weeks in shipping? I can't remember if we airfreighted or not. We at the time had a backyard which really didn't have any grass. So that was a problem. We had a patio. And so when I got it, it was a little overwhelming. So I assembled it. It probably took me about three hours and several bruises. And my kids, interestingly enough, at the time were of 16, 14, and 12. And so my 12 year old daughter jumped on it and she loved it. All right.
+
+0 (29m 51s):
+So, so, so she, she's jumping up and down on this thing. And you realize from that, maybe there's something to this,
+
+4 (30m 1s):
+You know,
+
+1 (30m 2s):
+When it comes to good ideas, I believe you measure it by the reaction of the people you hope to sell it to. And there wasn't a kid in the neighborhood who didn't want to jump on it. Everybody came to your backyard. Well, anybody that we'd let in. And so you, you get caught up in the enthusiasm of your kids. So
+
+0 (30m 21s):
+When did the switch go off in your mind where you thought, okay, I'm in, like, I need to pursue this. And cause at this point you'd sent $10,000, but you did not have a business. You were not in business with the university. You didn't, you didn't own this patent, nothing. It was just a, you just had one really great trampoline in your backyard. And, and so you had presumably a lot to consider before you're going to invest the money in buying this patent. You have to find out how much it would actually cost to manufacture it because you had to model this out, whether this was going to be a viable business, did you do that?
+
+1 (30m 55s):
+We did. October of 2002, we had secured the Payton with effectively a letter of intent agreement in principle. We had locked up some period of time. And first thing we did was we went to the super show in Las Vegas, Nevada, which is like a toy. No, it was, it used to be the sporting goods manufacturing association. This was 2000, January of 2003. I went to see what the reaction was. You
+
+0 (31m 23s):
+Brought you, you built one and you displayed it there. We
+
+1 (31m 26s):
+Built one, we took a prominent spot at the show. We hired some dancers from Siegfried and Roy to be our jumpers, along with my daughters, my youngest daughter and her three friends. And we just said like, this is go big or go home.
+
+0 (31m 43s):
+Did you, I mean, how, how big was the trampoline market at, at that point?
+
+1 (31m 49s):
+I would've said it was pretty small. I think that we had measured that we thought that the trampoline market that maybe it was a five to $600 million trampoline market globally. So you
+
+0 (31m 59s):
+Were looking for a bite out of that five to 600 million.
+
+1 (32m 2s):
+Yeah. I've never been greedy. A small business can be a good business. Absolutely. I guess we took a philosophy internally, which was to think big, but start small. And so we try.
+
+0 (32m 13s):
+And what was, what was the reaction at the show? Like would it be
+
+1 (32m 17s):
+What was really quite amazing? Actually, we had lots of different reactions. The first we had was from a retailer who came up and said, well, you can't sell this in America. You don't have an enclosure. And I said, well, hold on an enclosure, isn't mandatory. They said, yeah, but no retailer will sell a trampoline without an enclosure. And then I had somebody come up to me and said, you know, I have a patent on the enclosure and you'll never sell this product in ever. And I went, I had the patent on the exclusion, on the enclosure. And then I had the, at the time, the CEO from what was a very large sporting goods, retailer come up to me and said, you know, this may be the most innovative product we've seen at the show in years. So you walk out of that show and what are you thinking? It's not dead.
+
+1 (32m 58s):
+It's not dead. So I decided to invest in some fundamental research and I wanted to ask myself one question, did any retailer in America believe the trampolines were dangerous, so dangerous, but they wouldn't sell them. What was the answer? The answer was, yes. And that was Costco. The CEO of Costco was a man named Jim Senegal. And Jim said I will not sell trampolines. Wow. And so I made it my mission to try and sell Costco trampoline.
+
+0 (33m 29s):
+Okay. But before we get to Costco. Sure. So at what point did you say, all right, I'm going in, we're going to get this, we're going to buy the pet patented production
+
+1 (33m 37s):
+Finished. We had, I was advancing all of this very quickly. I think contractually was all locked up by probably may of oh three. And what did it cost you? To be honest? I wouldn't even remember the number more than a million dollars. Yes. More than a million dollars to buy the patent. You had to buy everything when everything was all said and done and all the settlements with the university. I think it was, it was probably close to that. Yes. Okay. So Keith,
+
+0 (34m 3s):
+You are a professor at the university. You come up with this invention, they sell the patent to Steve and presumably you, you get a check for it.
+
+2 (34m 12s):
+Yes. The arrangement with the university was that whatever he paid would be split three ways. So I got a check and that was huge for me.
+
+0 (34m 21s):
+And I'm curious at this point, did you, I mean, did you kind of have to deal with the fact that, you know, the rights are sold to someone else and, and now like this guy, Steve is going to make it and like go
+
+2 (34m 32s):
+That's right. And that was a very sobering moment for me. And I thought, yeah. Okay. I guess that's the way it is. I guess I can let it go now. I don't feel like it, but I guess that's the way it goes. There's a check coming and I've got to think of other things. And then Steve says, I'm going to need a bit of a helping hand because I don't have any trampoline engineers. So do you mind giving me a hand with this? Give me some technical input. I said, yeah, yeah. Fine. Okay. Yeah.
+
+1 (35m 4s):
+And, and, and that came in fairness, you know, w Keith and I had a conversation once about risk and reward. And so I asked him, what level of risk are you willing to take versus the economic reward you expect? And he said, well, I have, I don't want any risk. Yeah. I want, I don't want any risk. And so we reached an agreement at that point as to what his role would be and how he would be compensated. And, and so it was good.
+
+0 (35m 31s):
+Okay. So Steve, you are running the business from Canada and Keith, you are still in New Zealand on the, I guess on the engineering side, right? Yes. Yeah. So w w what was the next step?
+
+1 (35m 42s):
+Well, Keith and I created the spring free enclosure, and we kept looking at all of the principles of our design and said it better be soft. It can't be hard. And everybody had produced enclosures with steel poles, and we kept looking at this American patent and saying, we can't infringe this. So we didn't sell any products. We didn't make any products. We just spent a year building an enclosure.
+
+0 (36m 8s):
+So you had left that convention in Las Vegas, determined that you had to solve this problem, that if you were going to make this thing as safe as possible, it had to be enclosed. That's it.
+
+1 (36m 18s):
+And we decided that we would give ourselves a deadline and the deadline would be the January super show, which was to be held in Orlando, Florida in January of oh four, the 2004 superstar.
+
+0 (36m 29s):
+And what, by the way, what made the enclosure different? How are you able to create this thing that
+
+2 (36m 34s):
+Are safe? So Steve said, we've now got a relationship with the people who make the poultry lid fiber fiberglass. You've got to make the poles out of those same material. And I said, well, they need to be strong enough to hold this knit up. So that's all I can, we, we can try it had a post-grad student who's needed some money. So he's working in our backyard. We got these 12 of these around the trampoline fitted on and tied the top of them together with, with some cord. Let's see what happens when you put on it on. So I said to this post-grad student, you've got to spend the next few days finding some sort of net talk to all the fishermen, people around the place to see if we can get us some data. And after about four days, he come back with some fishing knit that he lashed on there at the top and the bottom.
+
+2 (37m 20s):
+So it was more or less like an enclosure and in a sense, different than the ones that are out there, but it was this really flexible thing. And so then when I came home from university and the kids were still on it, they were bouncing off the walls. They were running into it and bouncing off and I'm thinking, Hey, this is really something we didn't expect. We've got a new place surface here that other trampolines don't have. We've made a rubber room. Now, this is way better than I expected. It's not just a safety net. This is another place surface.
+
+0 (37m 54s):
+All right. So you've got the enclosed trampoline. You're ready to introduce us to the world. 2004,
+
+1 (38m 1s):
+Go to the super show in Orlando, Florida. And they had a competition there, which was called the product of the year, basically. And if you got to a finalist or the top 10, you would be displayed in a specific area of the super show, independent of your booth. So we made all the applications necessary and we became a finalist. This was the unveiling of spring
+
+5 (38m 25s):
+Free. This was it. And how did
+
+0 (38m 27s):
+You do, how many, or did you get any orders? Well,
+
+1 (38m 30s):
+We got one important order by Costco, Canada. Wow. I decided, okay. If we, it in Canada, there doesn't seem, it's not as litigious. They're all really nice people there. They don't seem to Sue each other. Maybe we'll try it in Canada. And they put a test in, for an essence. It worked out that we put in a test for 400 pieces.
+
+0 (38m 47s):
+Let's try selling and castle. They put an order for 400 units. You know, we had,
+
+1 (38m 51s):
+The first order was 400 pieces on a trip, by the
+
+0 (38m 54s):
+Way. And by the way, where were you manufacturing them in New Zealand?
+
+1 (38m 56s):
+These first 400 units, we made a, I guess 480 or 490. I think something like that in New Zealand was one container load, one container load.
+
+0 (39m 6s):
+And what was the retail price for
+
+1 (39m 8s):
+Four? From that time, the retail price, we put it out to Canada was 9 99. Wow. Just
+
+0 (39m 14s):
+To, just to clarify something, this was at that time going to be one of the most expensive trampolines, right? So it was a big risk. And you had to make the case that this was worth the cost.
+
+1 (39m 27s):
+Yeah. I mean our value proposition when we had that very first product that we're led to is the same as what it is today, which is that we provide the world's safest trampoline. We produce it out of the highest quality materials. We give the longest warranty. It's 10 year warranty on everything. It's still that today. And so that was what we kept selling. On the retailer side.
+
+0 (39m 48s):
+You are selling them for about 999 bucks. That's a thin margin because it probably costs you. It was more than that.
+
+1 (39m 55s):
+We were losing money on every property. We had to do that to find out if we could create a market. Okay. All right. So they
+
+0 (40m 1s):
+Roll them out and Costcos in Canada. And how did they do move
+
+1 (40m 6s):
+Very fast? Very, very fast
+
+0 (40m 9s):
+In a second order.
+
+1 (40m 10s):
+Well, because we had put it on a test and that was the spring of that year of oh four, the next recurring order, wasn't going to really take place until their next spring by which was oh five. So then it was, oh crap. What do we do between now? And then?
+
+0 (40m 25s):
+Yeah, because you, you, you got to generate some revenue and you're still making these in New Zealand, which is presumably expensive.
+
+1 (40m 32s):
+Now we had transitioned right about, then we knew we couldn't continue. They were costing about $1,450 to make wine, to make one. Wow. And so we knew we couldn't continue. And one of the things that it materialized at the super show in 2003, in 2003, I said to you that I had people come up to me with various things. I had an individual come up to me with a business card who said, I manufacturer sporting goods in China. If you ever need a manufacturer, call me. And when we reached the stage with Costco at the end of oh four, we said, okay, we gotta make the call.
+
+0 (41m 11s):
+I have to assume was going to be an important move, right? Because it's going to reduce your costs pretty significantly.
+
+1 (41m 17s):
+Here was the thing that was so critical to us is that key CIP was, was essential. We had to make sure we could get intellectual property protection, but
+
+0 (41m 25s):
+In China everything's copied, not everything, but a lot of things,
+
+1 (41m 28s):
+It is you have to be careful. And we had to be careful. And the other thing is that the rods Keith had done were really, they were all about technical know-how. And so we weren't prepared to move that. So even to this day, most of the original manufacturing components, the rods and the net material that we use, we are using the exact same manufacturing partners. Wow. They've come a long way, the whole way through the whole journey. We've never deviated from that, but we moved all of the steel at a hundred percent of the labor associated with producing an assembly into China.
+
+0 (42m 4s):
+All right. So 2005, you got to wait until 2005 for this next big order. How many people were on your, on your payroll at that? Well,
+
+1 (42m 11s):
+I think at that point, we, between our engineering group, our sales teams, we might've been 35 and you're burning through cash. Yeah. We were burning cash. We were hanging on for that Costco delivery in spring oh five. So when
+
+0 (42m 28s):
+Costco came back to you for their spring of oh five, you know, worked
+
+1 (42m 33s):
+Out to be about thirty two hundred and sixty five pieces. Yeah. 3000,
+
+0 (42m 36s):
+265 pieces. And, but, but you needed to finance that. Right? Cause they don't pay you first. They pay you like 90 days later. Sure.
+
+1 (42m 44s):
+That's right. So we, we, I hit the street and found, I found somebody who bought into a Costco PO
+
+0 (42m 52s):
+This is somebody. And this is interesting. This is somebody who looks for people like you who get a, get a purchase order from Costco, need financing to actually make the product. And they'll loan you the money at a high interest at a high interest rate. Yeah. That was your lifeline.
+
+1 (43m 6s):
+It was our lifeline. And it, and it, to be fairness to this day, it is the reason we survived and thrived.
+
+0 (43m 14s):
+Even though that order alone was not going to make you profitable profit, you still had a long road to get, right. We weren't profitable. But, but
+
+1 (43m 22s):
+It proved that we, because Costco represented a much bigger animal than just Canada. We went from Costco, Canada to Costco, UK, because UK was viewed as being safe. And we got to go from Costco, Canada to Costco, Japan, which made no sense to us. We didn't really know what we're going to do in Japan, but we ended up selling 370 travelings in Japan through Costco. And then we got to go on costco.com their e-commerce new platform for them not in store in 2007, I guess.
+
+0 (43m 56s):
+So Costco is up until this point up until 2007, your biggest contract virtually
+
+1 (44m 5s):
+In the Northern hemisphere. And, and our only, we were selling direct in places where we could, but they were basically 90% of our distribution. Wow.
+
+0 (44m 16s):
+So you are now 2008, they stopped, they stopped selling the trampoline.
+
+1 (44m 23s):
+Yeah, that was probably the hardest point. So what happened is that as we got more and more and more successful with the product in Costco, some of the buyers, they were really proud. And so they would show off the product in a real flamboyant way, you know, having it in a prominent position, in a society, inside a Costco's and Mr. Senegal was, he opened every Costco. He came to every Costco opening and there was a big opening in Halifax, Nova Scotia on May 13th, it was a Wednesday oh nine, never forget the date in my business career. And he had gone into the store. And at the time he was still opposed to trampolines, even though we were being really successful, he was still uncomfortable with it.
+
+1 (45m 8s):
+And, and so what, he walked into the Halifax store, I got a phone call from the president at the time of Canada Costco. And they said, we're done. I said, what, what do you mean we're done? And they said, we're done. I said, no, no, no. I don't understand where we're not, how can we be done? And, and, and we skipped a par guy, which is in 2008, we decided to build our own factory in China because we weren't satisfied with the quality. So I invested $5 million in building a Chinese factory. We did it because this was Costco. We were going to be in store. This was going to change the face of everything. And so we had been, we opened that factory in October of 2008 and all in preparation for our 2009 with Costco.
+
+1 (45m 52s):
+And on the May 13th, we were told we're done. And it was just because they had gone overboard in that store. They had made the trampoline, one of the single biggest highlights in this grand opening in Halifax.
+
+3 (46m 4s):
+And he was just pissed
+
+0 (46m 7s):
+The CEO. Yeah. Because, because it was so present and visible, he walks in there and says, what is this trampoline doing in the center of my Costco? That's it? Those are the exact words.
+
+1 (46m 19s):
+I don't think he really knew. I think we were, oh, the radar. We were doing great numbers. We're doing great numbers for sporting goods. And so I was told if you need to talk to Mr. Seneco, you got to call them on a Saturday morning in Seattle, I was given a telephone number to his direct dial to his desk. And you called on the Saturday morning, shaking in my boots. I called
+
+3 (46m 38s):
+He was extremely polite. He shared his reasoning within
+
+1 (46m 43s):
+Reason. Yeah. And he said, I've made my decision, Mr. Holmes, but I will honor any purchase orders that we have issued up until the end of this month. So any purchase orders that are issued up until the end of the month, we'll honor those purchase orders. And I hung up the phone and I went,
+
+4 (47m 1s):
+Oh, crap.
+
+1 (47m 3s):
+And my next call was to every Costco buyer I could find, give me a PO, gave me a PO, gave me a PO, you got a month left. I had less than a month. I had just, that was the, that was the 16th of May. It was a Saturday morning. And I had 14 days and POS took longer than that to get usually. Wow. So what'd you do what was really good business skill learning session. I stepped back and I said, okay, we have a product that unbelievable safety, quality and innovation characteristics. We have customers who love our product. I mean, our best marketing is an existing spring free customer. If a spring free customer has a spring free trampoline, if a parent who says, well, I really don't like trampolines.
+
+1 (47m 46s):
+They'll sell it for me to other friends and neighbors. And 50% of our sales came from our customers. So we said, wherever spring frees are and backyards, we have to make it really easy. And our biggest market at the time, based on Costco delivery addresses was California and Seattle. So we opened our own first spring, free retail store on the off ramp of the Costco headquarters
+
+5 (48m 12s):
+In Seattle, in Seattle. So this is in 2000 late, 2009.
+
+0 (48m 17s):
+So there you had a showroom. People could try it. Kids can jump on 'em yeah,
+
+1 (48m 23s):
+We called it, we called it the spring free experience center. And that store proved to be phenomenally successful. We were blowing the doors off the profits and we were just going, like, there was an, I think there were very few retail stores that were doing the profit per square foot that we were doing out of that store,
+
+0 (48m 42s):
+That store. I mean, they were just flying off the shelves because it was not the shop shelf, but that store was started to just sell these things like,
+
+1 (48m 51s):
+Well, let me say this. We had a great dealer network. We established as quick as we could in the U S they had trampolines on parade floats. They, they went to every fair. They went to every neighborhood. They connected with the communities because we knew where we had shipped. So we had, you know, we had these, whether it was a pop-up store or whether it was a permanent experience center, we went to consumers, we went out there, we did the shows. We had the stores and showed that there was a business model, which was different than Costco. And so we took a direct to consumer model and we use Keith as the face of the organization. So he was the one who conveyed the story, the, the attributes and the commitment to safety and quality.
+
+1 (49m 34s):
+So, Keith,
+
+0 (49m 35s):
+How did you like, so all of a sudden, like you've got to represent this product right. To the world. You do media interviews, you've got a TV. Like you are a self-described introvert. I can only imagine that was somewhat torturous for you to do. Yeah. Yeah.
+
+2 (49m 52s):
+You're right. You're right. Steve did give me warning. He said, w would you like to be the Dyson of spring free? I said, what do you mean? Well, you know, Dyson, Dyson, vacuum cleaners. So I went and had a look and there's Dyson doing his thing. I thought, I suppose I could do. Then I said yes to Steve. So then he says, right, well, come to Toronto, we're going to have a week, a week of filming. And I'm thinking, right, this is big deal. This is not just one or two little afternoons. So it was one of the scariest weeks of my life, really. So up in Toronto and this big studio and find myself with three cameras there and lights people all around and microphones in front of me.
+
+2 (50m 38s):
+And they said, right, we'll just talk. And you did. Yeah. So, so I talk and then they say, oh, you come across really genuine, you know, it's it's you, you really come across well. And how did it come out? Phenomenal was okay. In the end. Okay.
+
+0 (50m 54s):
+So here's my question for you. I mean, it sounds like you were actually expanding pretty fast at this point. We were over 400 employees.
+
+6 (51m 1s):
+This is, bye bye. Late
+
+1 (51m 3s):
+2010. Yeah. I guess by then we were 400 employees.
+
+0 (51m 6s):
+What I'm trying to understand is how did you expand to that number of employees? When just two
+
+6 (51m 10s):
+Years before that Costco pulls out, will, you know,
+
+1 (51m 15s):
+Sometimes she'd do stupid things. What we did is we decided to, we could have gone home and Costco pulled out, but we actually went deeper. So we increased our commitment in the factory. In China, we increased our direct strategy. We increased our ability to open and direct retail stores.
+
+3 (51m 32s):
+Did you have to raise money?
+
+1 (51m 35s):
+Fortunately enough, we had, we had been reasonably wise. We had been saving for those expansion opportunities and rainy days. So we needed to raise, we probably invested maybe five to $7 million in the factory construction, and then a couple more million in some other stores. And I think we had a debt raise of a boat at the time, $3 million, but I have to assume
+
+0 (51m 60s):
+2009, even maybe 2010, we're talking. Yeah, they were
+
+1 (52m 3s):
+Very, very tough years, but we didn't stop investing. We kind of said like, you know, this is that risk. We, we kept thinking that that opportunity, the big, big opportunity was to stay ahead of
+
+3 (52m 13s):
+Us. When did you start to see that light?
+
+1 (52m 17s):
+Yeah, I'd say 2010, 2011, 2011 to 2013 were phenomenal years for us within the globally. We had what happened. Well, I give lots of credit to Keith. His design was always flawless. So that, that issue of safety that we kept talking about, we now had eight years of experience. So instead of saying where the world's safest trampoline, but we've only sold 2000, you know, we were actually saying, well, we've got, there's a couple of hundred thousand trampolines out there. And we actually have statistics now. And Keith started writing research papers and measuring our statistics. And we were going, you know, we remove 90% of the product related injuries.
+
+1 (52m 57s):
+So he's taken, his design has removed 90%. And so we got that message out Keith's videos and the way we distributed them and we got traction and we got real true.
+
+0 (53m 8s):
+How much, how much does a spring free trembling cost today? Well,
+
+1 (53m 13s):
+We have six different sizes, so it ranges anywhere from probably a 1600 to 2,400.
+
+0 (53m 18s):
+So this is a premium product, and this is a very, this is an investment that you're going to make for a while.
+
+1 (53m 25s):
+Keith said that when he put a spring free into somebody's backyard and I've agreed with them and we've continued that it should be that's it, they should paid the money. It should go in the backyard. There should be zero maintenance costs and there should be zero, you know, support costs. So in other words, if they got a problem, we back it. So we have a 10 year warranty on the whole product. And
+
+0 (53m 46s):
+How many are you selling on average of a year now? You know, we,
+
+1 (53m 49s):
+We look at the, you know, our probably 30,000 is our annual volume and, and we build our business model around that. We've had years that have gone much higher and we've had some years at a bit of a little lower to based on some of the economics. I mean, we opened a factory in 2008, we lost Costco and there was a global financial crisis. I can tell you that wasn't the best year. Yeah. So we, we had a tough, you know, we had a tough year that
+
+3 (54m 10s):
+Might've been a 18,000 piece here. I can only imagine
+
+0 (54m 14s):
+This first four or five, six years. It was nonstop. Just non-stop hustling, working, trying to get this out to market, calling people, getting rejected, people saying to you, why trampoline, who, who's this? What are you talking about? No, they're not safe at all. And, and is it, is it, is it still like that today?
+
+3 (54m 38s):
+You know, for some of our staff, there's no question, but it's fun. Like I got to tell ya, you know, you want
+
+1 (54m 44s):
+To be in a fun business, be in the trampoline business. Cause there's never
+
+3 (54m 47s):
+Been a circumstance where when the mom and dad
+
+1 (54m 50s):
+Have to see their kid on the trampoline for the first time after they've made a spring free purchase, that they don't go,
+
+3 (54m 56s):
+Wow, this is great.
+
+1 (54m 58s):
+Most people don't know we exist, but when they see us, they go, ah,
+
+3 (55m 2s):
+I get it. Do you have a,
+
+0 (55m 4s):
+A trampoline at the headquarters in Toronto?
+
+1 (55m 7s):
+Yeah. Every, every one of our offices has trampolines. Absolutely. And we, you know, they're constantly being used in various forms. Do you do like board meetings on your trampoline? We do a, you can see some office meetings that will occur
+
+0 (55m 20s):
+On a trampoline. Do people have to synchronize or they're bouncing we're, we're still
+
+1 (55m 25s):
+One at a time trampoline company. So yeah.
+
+0 (55m 30s):
+So do you, do you consider yourself to be lucky that you know, this business has managed to become, you know, a sustainable or, or do you think it's because of your intelligence and hard work?
+
+1 (55m 44s):
+I don't know about the intelligence part, but about a due respect for the employees of our organization and for my wife and my kids who suffered through the early days, this has been about hard work. I was very fortunate to meet Dr. Keith Alexander, but being fortunate was about a lifelong friend that I got. And Keith,
+
+0 (56m 2s):
+What about you? Like, do you feel lucky that all this happened or, I mean, do you think it's just a product of your persistence and perseverance and grit?
+
+2 (56m 11s):
+It's it's both of those. Of course it's both of those. I do
+
+0 (56m 15s):
+Feel very lucky to admit someone like Steve who's been prepared to be very persistent. One of the ways I like to think of it for me, the invention process. That's my part of it is that it's, it's like having a child. The moment of conception is quite exciting. And then you carry it and you feed it for years and eventually it starts to meet people of its own. And then you get less control, less and less control and who your child meets and where they go and how they grow up. There's not very much in your control at all. There's a lot of luck there. So in that sense, I've been very lucky as Steve's taken over the pot to get it to the customers.
+
+0 (56m 57s):
+So it's doing pretty well. That's Keith Alexander inventor of the spring free trampoline and Steve Holmes, CEO of spring free. We first ran this interview in April of 2019 and this past year with all those restless kids cooped up during the pandemic lockdown sales of trampolines, more than doubled. And according to the company since its launch spring free has sold nearly half a million trampolines worldwide. Thanks so much for listening to the show this week. If you are not yet a subscriber, please do subscribe or follow wherever you get your podcasts. If you want to write to us, our email address is H ibt@npr.org to find us on Twitter.
+
+0 (57m 41s):
+It's at how I built this, or at guy Ross and on Instagram, it's at how I built this NPR or at guide dot Ross. This episode was produced by Casey Herman with music composed by Ramtin Arab Louis. It was edited by Neeva grant with research help James Della Hussein. Our production staff includes Rachel Faulkner, JC Howard, Julia Carney, Elaine coats, Farah safari, Liz Metzger, and Emily sober. Our intern is Harrison BJ Choi. And Jeff Rogers is our executive producer. I'm guy Ross. And you've been listening to how I built this.
+
+1 (58m 17s):
+This is NPR. This message comes from NPR sponsor, Samsung with the Samsung galaxy Z flip three 5g unfold. Your screens are your best angle. Choose what you want to capture. Set it down, stand back and shoot 5g connection and availability may vary check with carrier.

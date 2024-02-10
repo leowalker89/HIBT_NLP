@@ -1,0 +1,557 @@
+0 (0s):
+This message comes from NPR sponsor NerdWallet with their podcast, smart money with weekly updates on financial news and answers to money questions, smart money is unbiased. Experts can help level up your finances, subscribe to NerdWallet's smart money wherever you listen to podcasts. Hey everyone, just a quick announcement before we start the show. So a lot of you may know how much I miss seeing all of you at the live in-person shows that we do around the country turn normal times. So I am really excited to finally announce our first, how I built this virtual event. It's happening next month with Jay Shetty Jay is a best selling author, former monk and wellness coach.
+
+0 (44s):
+And if you're searching for purpose, peace and clarity in your life, or you're struggling to find meaning and motivation at work, you will not want to miss this conversation. Please join us. It's happening on Thursday, March 11th, and anybody around the world can take part for more information and tickets, head to NPR presents.org, and I hope to see you there. And one more quick thing, just a quick note, there is a little bit of salty language in this episode. So if you are listening with kids just to be aware and thanks,
+
+1 (1m 24s):
+I would have my computer running 24 hours a day under my bed. Most of them are mobile phones were turned on to the loudest ring tone. They possibly could. We'd alternate which nights we were on call and get up to two in the morning and try and answer the phone call is like the last of us. And that's where trying to sound like you're in a cogent at that time in the morning. And then we realized that actually a, it was, it was just such a terrible business that almost anything would be better.
+
+0 (1m 58s):
+NPR is how I built this a show about innovators, entrepreneurs, and idealists, and the stories behind the movements they built I'm Guy rise. And on the show today, How two friends from college, started a business name for a Greek Titans, and Built a modern day empire Atlassian as a software company that's been valued at over $50 billion. Back in 2018, there was an article in a major Australia newspaper or the Sydney morning Herald that headline read at last year and the $30 billion tech giant, nobody understands Today to modify that headline slightly to read the $50 billion tech giant, nobody understands.
+
+0 (2m 47s):
+So let me try and explain as best I can at LaSeon is a software company that makes collaboration tools mainly used by software engineers and project managers. There are applications been used by teams who sent the curiosity Rover to Mars by Domino's every time you order a pizza and by Audi's designers who rely on Atlassian is project management tool called Jira by market cap. Atlassian is one of the 20 or so biggest software companies on the planet. And those other companies, you probably know some of them, Microsoft, Oracle, Adobe, Autodesk, Salesforce, Intuit, et cetera.
+
+0 (3m 29s):
+Anyway, if you look at the top 30 or so biggest software companies on earth, he'll start to notice a pattern. Most of them are based in Northern California in Silicon Valley, which makes it last year and Australian tech company an outlier back in 2015, when the company went public, it turned its founders Mike Cannon Brookes and Scott Farquhar into Australia's first tech billionaires. But the thing is Atlassian success may have a lot to do with where it started far away from the tech hubs of Northern California and Seattle. And while that may sound counterintuitive, launching a tech company in Australia in 2001, meant for starters, less competition, less noise and fewer distractions and for Mike and Scott that also meant not a whole lot of access to startup capital.
+
+0 (4m 25s):
+In fact, in the early days there was none. And so the two founders didn't really have any investors breathing down their necks, trying to micromanage the business, and it gave them room to experiment and to make mistakes and to grow Mike. And Scott met in college. They both grew up in Sydney, but they also both came from a very different backgrounds here. Scott
+
+2 (4m 49s):
+My dad originally did some computing early in his career, but if you have a sleep disorder and that affected his ability to do work as a computer programmer. And so he ended up doing our jobs. So he worked at a service station at night. If he did some manual labor, my mum was a housewife growing up for the most of her life and interspersed that with different jobs. And one of the only ones that I remembered is she was a queen in someone else's house once a week, then she'd worked at target or Tashay as we were to call it in Australia and McDonald's are different at different stages. And so I would say it's a middle-class upbringing. You know, we didn't want for anything, but, you know, we had one holiday year to have the same place every year type of thing.
+
+0 (5m 31s):
+And when you were growing up a teenager, did you feel compared to other kids that you knew or places you saw that you guys didn't really have a whole lot?
+
+2 (5m 43s):
+I didn't really notice the difference in our economic status. I guess when you're growing up, you go to a school and everyone in Australia was the school uniform. So there's not a real difference in fashion. I remember in high school, I ended up dating a girl who was from one of the private schools in Sydney and we would go to all the different people's houses. And I do remember quite a few of those houses that were very, very different to the house where we grew up in, you know, the house and a bit of that, my parents got divorced. We ended up living at a much smaller houses and when your entire house could fit in someone else's living room, you sorta realize that there's a, a, a very different, you know, a way of people living out there that I never felt that we missed out on anything. I think maybe we'd all with one notable exception, which I remember clearly is that I remember my friends had computers and I remember kind of asking my parents, why couldn't we have a computer?
+
+2 (6m 33s):
+And I do remember crying as I went to sleep one night, like, dad, why can't I get a computer?
+
+0 (6m 39s):
+What are you going to be able to get one?
+
+2 (6m 42s):
+It was a month later, some old computers that I guess had been extended exceeded. I used to live at his work, but came available. And he, he bought them and brought them home thinking, you know, he'd done an amazing thing and helped his son. And, but it turned out those computers were not compatible with any of the games that I wanted to play. And I think my foray into programming or even using computers was hours, weeks, months of time spent trying to get those computers to play.
+
+0 (7m 11s):
+Hm Scott I'm going to ask you to, just to stick around for, for a moment. And I want to, I want to turn to you Mike, for, for a minute, I'm going to guess your upbringing was substantially different than Scott's you're. Dad was a banker, and I guess your family moved around quite a bit when you were young and you went to a boarding school in the UK, right?
+
+2 (7m 30s):
+Yeah. I was five when we moved to Australia and I went to a boarding school in England from the age of seven to 12, and then came back to Australia for high school at the age of 30.
+
+0 (7m 39s):
+Wow. So you were like far away from your parents' for like seven years,
+
+2 (7m 44s):
+Six years. Yeah. Which is, it's kind of odd. It's how I got started in computers 'cause they started the frequent flyer program. So I was flying from Sydney to London for times a year, back and forth and racking up lots of frequent flyer points as a seven year old, eight year old, nine year old. And my parents gave me the catalog one Christmas or in a year and said, Hey, you know, you've, you've earned all of these points. What do you wanna get? And you kind of look into like bottles of wine and holidays, and it's an eight year old kids. None of this is a really good for me and a at the back was this computer and Amstrad PC 24 color masterful device. And so I was like, I guess I'll get that.
+
+2 (8m 25s):
+And then it was how I got my, at my first computer of myself, my own at a eight and a half through a frequent flyer
+
+0 (8m 30s):
+Points. What did you do with a computer?
+
+2 (8m 33s):
+I used to play lots of really bad video games. That seemed like the best thing in the world at that time. And the internet took off. So it was on the internet pretty early. Luckily my sister, one of my sisters went to university in Edinburgh, in Scotland, and he managed to convince my parents that we could email her. And that this would be a lot cheaper than sending letters, you know, paying for 45 cents stamps would be expensive. So instead we joined a, a, an ISP in Sydney called dialogues, which I can still remember. It was 1 cent per minute, and it was all text-based and had the old motor, making those funny noises as you logged in and all that sort of thing, but that got the internet into our house. Yeah, that was definitely a revelation for me.
+
+0 (9m 14s):
+The sister's email address is probably something like S T e372559@edinborodotac.cc.uk.
+
+2 (9m 24s):
+If it was something that was very close to that. Yeah.
+
+0 (9m 26s):
+I remember those days. Yeah. And I guess when it was time for you to go to college, you got this pretty prestigious, like computer science scholarship to go to the university of new South Wales, which is In as in Sydney. Right. An and this is a program, I guess, where like part of the deal is you get a scholarship to be part of this program, but you kind of agreed to go work for one of the companies that is going to sponsor the sponsor is a scholarship. Right. Is that right?
+
+2 (9m 54s):
+Yeah. It's called the co-op scholarship. So the whole idea is the triangle between industry academia and the students
+
+0 (9m 60s):
+That's right. And this is where the two of you met because Scott had been accepted into the same program, right? Scott
+
+2 (10m 7s):
+Yes. And a, there was a, quite, quite a lot of luck involved in where Mike and I ended up. And one of the lucky things was that the programming languages that we got taught and the skills we got taught were actually pretty in line with what we need to build a software company. We weren't being taught, you know, esoteric programming languages that you couldn't use, or a compiler, you know, the details where you are sort of down to the bowels of a computer, trying to get it to work were actually building languages in a programming language is that could be used to build applications and are built specifically to build a web applications, which is of course is where most software is, is these days.
+
+0 (10m 43s):
+And Scott, were you in Mike close friends in college or, or did you kind of have your own, like your own groups or did you hang out a lot?
+
+2 (10m 50s):
+I think both of us gravitated towards a group assignments where other people much smarter than us did all the work. So I think we found ourselves in, in for the same group assignments early on, we go to the same parties together, but I don't think we'd be hanging out on a Tuesday night at each other's houses.
+
+0 (11m 7s):
+And Mike, what was your first impression of, of Scott? Do you remember him?
+
+2 (11m 10s):
+Yeah, I remember in my early impressions, he was clearly a leader. Like, Hey, I'm going to take charge in a situation. I'm going to sort it out, whatever it was, whether we were organizing which pub to go to or how we should all plan for studying or where we should meet or whatever. And, you know, there were a certain kids who just took charge and he was very much a, a take charge kind of a leader, which was, which was really good. And he was closely into the same things. So I was, you know, computers and it was, it was always a good thing.
+
+0 (11m 35s):
+<inaudible> all right. So you're in this program, it's like part where it's like a work study program and you got to do a couple of months of school of like classwork and then a couple of months of working in a company and you get your assignments. And w w w w what did you end up doing? What, where did you have to work? Mike? So we supposed to do three,
+
+3 (11m 54s):
+Six months assignments. And I got my first assignment, which was at Bay networks, which is a networking vendor that became Nortel networks before I joined. Cause they got bought by Nortel. This was in the sort of late nineties where a net networking equipment at Cisco, you know, this was a real hot, hot area. I spent six months just plugging in machinery. It was the most boring, a six month assignment. I could say that. And then Nortel's out that a business. So it was not a fun or exciting six months. And I think that was one of those signs that maybe, maybe the big corporate thing wasn't, wasn't so much for me. I was like, man, if this is what work life is going to be like, this sucks. Yeah. So I actually left the scholarship program after that.
+
+3 (12m 36s):
+A lot of that six months were spent working on my first startup with another scholarship kid called Nikki, who now runs Australia's best a venture capital firm. And we actually dropped out of the scholarship coarse to pursue that start-up after that first of three, six months stints. So about two years into a four year degree.
+
+0 (12m 55s):
+Wow. So you dropped out of the scholarship program and Emma, what was your startup by the way?
+
+3 (13m 1s):
+It was called the bookmark box. So Hotmail had just kind of appeared and we were going back and forth from home to This it placement two student computers at school, you know, you had to log in on the student network and everything. And we sync to people's bookmarks across their browsers and different things to read kind of a web app. And I've always said it was a one-year amazing experience, right? The two of us, I can viscerally remember the formative moment. We got an office in a local kind of what would now be an accelerator or incubator at the Australian technology park. And the office was a room about the size of this podcast studio. And we got our own whiteboard and we had a table and we walked in and the two of us were like, right now, we've been at least, you know what I mean?
+
+3 (13m 45s):
+The, the, the, the staring at a blank white board in your first office or with no windows, I was very much, okay. Now it's time to get serious, but we learned a ton. And what happened at a startup that we ran for about 12 months, we raised a little bit of money from what would now be called friends and family, the parents and uncles and stuff who felt sorry for us and gave us five grand or 10 grand. And we had two competitors. One was called blink.com. And one was called something else to go to. The other one is called anyway, they blink rate is $35 million. And we were sitting in Sydney and we were just like, Holy shit, we can't get smoked. There's no way. So we called up the two or three guys that are raised at a bunch of money and said, look, we got, we got a couple of million bookmarks.
+
+3 (14m 28s):
+And we got, I think we had a couple of hundred thousand uses. Do you wanna, do you wanna buy this thing for us? And one of them said, yes. So I flew to New York and did a bit of a negotiating with blink and we sold it to them for a couple of hundred grand or something and tidy, invest it back their money. And ironically, ah, the, the, the, the worst that, one of the funniest part about that story, my dad would hit me saying, this is he,
+
+2 (14m 52s):
+I think my, my dad put in five or 10 grand and, you know, barely got his money back kind of thing. And I decided that maybe I wasn't worth backing. And so he never invested in the last year. And he is always kind of said, amen, I'm back the wrong one there, basically. Right. Yeah. And I was like, well, sorry.
+
+0 (15m 9s):
+Did your parents support your decision to, to drop out of the scholarship program?
+
+2 (15m 13s):
+No, no, my mom was not, this was not, not an okay thing. I remember her saying to me that the only thing she made me promise is that I would get my degree.
+
+0 (15m 22s):
+So Scott all right. You are still in the program. You do not drop out of it. And while you were in this program, did you start to have thoughts about what you would do and it was over, did you just assume that you'd end up working for one of these companies that sponsored the scholarship
+
+2 (15m 36s):
+Worked for three companies during my scholarship, it was IBM then PWC, then ASX or the Australian stock exchange, all three letter acronym companies. And my experience with that was working in a large organization was just full of people that we're trying their best, but didn't seem to be really on the path to success. And, and I remember during my IBM a process that was the middle of the year 2000 Y2K problem. And my job was not to go into the code and fix the Y2K problem. If it existed, it was really to go and make sure that all the contracts that they had with their customers excluded that so that they wouldn't be legally liable if that if they had any problems.
+
+2 (16m 21s):
+And I, you know, roughly similar experiences at the other companies that I worked at. And so after that, it was definitely not an encouraging sign in terms of working for corporate Australia. Hmm.
+
+0 (16m 31s):
+All right. So, so Scott sounds like you're clearly getting disillusioned with, with the corporate work that you're doing as part of this scholarship program. And, and Mike, you've left the program, but you're still a student at the university in, and you've already sold your first company at this point. That's all right. And then I guess what, around 2001, Mike you sent out an email, like to some of the people in your class or your cohort of friends, see if anyone wanted to do another start-up with you? Like what, w what was the email that you sent out? W what was the pitch?
+
+2 (17m 2s):
+Yeah. Send an email to a bunch of folks saying in, before you all take grad jobs, kind of things, do you want, does anyone want to do something, something crazy and try our own thing? And their thinking was to not to get a real job. Right. Right. Like is even if we built a really crappy company and we'd be able to kind of survive and go through that would of been more exciting to me than going to work in a very large company with a suit and ties all our friends, you know, a sort of heading to do it just wasn't, wasn't my thing, you know? And so I wonder if other people wanted to have that fun experience too,
+
+0 (17m 36s):
+And a bunch of people to answer to that email. Right. Just one, just one,
+
+2 (17m 40s):
+Just the one I think. Yeah. So ended up pretty quickly just Mike and myself and email and said I'm in. Yeah. I mean, okay, great. What are we gonna do? We're gonna get a website and we've got to get going to do that.
+
+0 (17m 54s):
+Yeah. What was the idea of, what were you going to sell? What was your business?
+
+2 (17m 57s):
+Look, I think it was obvious. It was going to be some sort of a digital business. Right. Right. We were in technology. We were, we were all, you know, into using technology and building technology things. I should probably formally at some stage think IBM PWC. And the ASX for putting Scott off the corporate career. Cause that was probably one of the reasons he said, yeah, let's try something else because he'd also had a pretty negative journey there. And then, you know, we kind of hung out a lot and tried things, tried various ways to make money
+
+0 (18m 27s):
+Scott and I'm trying to understand how you would of taken that kind of risk at, at that age, because you didn't grow up with the money and you've got the scholarship. I'm sure everyone was really proud of you. I'm sure your parents were really proud of you and you're going to be sad and you are going to have a really good, solid, stable job. You're going to make decent cash. And you were giving that up. So why, why were you willing to take that risk at that point?
+
+2 (18m 52s):
+It sounds trite, but it didn't feel like a big risk to, to give up, you know, a corporate job. Maybe we were young and naive, but I always felt that landed on my feet and with whatever I'd done, you know, that's a smart kid. I could, you know, they were always be jobs for smart kids out there. And if I didn't get a job with this particular graduate year, I'll get a job in the next graduate a year. And I just felt like, wow, I've got better things to do with my wife. Then, you know, kind of the downstream of a whole bunch of poor choices. And I remember the local Thai place and three satay chicken skewers, and rice was $4 50 at the, at the local Thai place. And I, if I could get dinner for $4 50, and you don't, you don't need much money to live.
+
+2 (19m 36s):
+And Mike was a really smart guy.
+
+0 (19m 37s):
+You thought, Hey, this guy already took a risk, started something successfully sold it. So maybe, yeah, maybe there's something there and, and you knew him already and you liked him.
+
+2 (19m 48s):
+Yeah. He's a smart guy. He's totally trustworthy. And the decision to start with Mike, you know, it wasn't, it didn't seem really risky because the graduate salary, I remember it was $48,500. If you went to work to at PWC. And the thesis was if we can own $48,500 and not have to wear a suit to work in a title, work and work with, you know, kind of average people, then, you know, we won.
+
+0 (20m 12s):
+So what was the idea that was the business that you came up with?
+
+2 (20m 16s):
+The initial business was essentially a pretty bad business, a I idea. And as a grateful that it was so bad that it failed, but the original business idea was to provide support for someone else's software. And there was a company out of Sweden that produce software and we'd been using it previously. We thought it was a great bit of software, but they had terrible support you in a great software, terrible support, like, wow, we can provide that amazing support I could a match made in heaven. So we got an email address, got a web server, put up some content so that people would find us. We, our pricing model is horrifically broken. We would have at such that you would only pay us if we were successful in solving your case, which meant that, wow.
+
+2 (20m 57s):
+And I think you had to pay a $300 if we have a successful 60 us dollars was the initial price.
+
+0 (21m 3s):
+And, and did you get authorization from the company that made this software to be their tech support? Not really, no. I got you. Okay.
+
+2 (21m 10s):
+The way we in is having an amazing software and terrible documentation support everything. So we thought, well, if we write their documentation, sort of people will come and read it. And then when they have a problem, they'll, they'll call us and maybe they'll pass the money to do that. Now, the problem is that documentation we wrote was pretty good that they would only call us with the hardest possible problems. And then the $360 was totally not a worthwhile business model to solve. What were the 1% of really, really hard problems. One of our first support calls was at a party. I'm a member of disappearing upstairs in the middle of this party was actually at Mike's house. And I had to get him to give me his password for his computer.
+
+2 (21m 50s):
+And I had a sound, you know, a very official like how over the last year. And then of course there's party going on, music, people screaming like people Downing alcohol. And I think that I spent the next five hours trying to debug this person's support call. And it was surprising. I didn't end up solving that customer support call at 4:00 AM in the morning in Sydney time. But I do remember waking up the next morning. I don't know what time it was, 11 or something and walking down the street and coming to me that the answer to their support call, I ended up solving it, I guess, in my sleep that night and ah, that weekend with us or computer associates or someone, someone like that, they faxed us. I remember they, their check 360 bucks.
+
+2 (22m 31s):
+It's on the fax machine.
+
+0 (22m 32s):
+And you called the business at LaSeon from the beginning, right? Yes. Where did that name come from? I mean, Apolis, I guess,
+
+2 (22m 40s):
+So my mum is a Latin and ancient Greek major, I suppose you would say in America. And because we were initially going to provide customer service, that's what we were doing. They were providing tech support. Atlas was a Greek Titan. He was actually a bit of a bad guy and his punishment was to theoretically hold up the sky. And so we thought this was kind of a, what we're used to. We had this branded term, legendary service. We were going to go above and beyond just to go to this amazing legendary service. Right. And he was a legend that was providing service to the world, holding up to the sky sky would have fallen down theoretically. And so we sort of turned it into an adjective 'cause that was.com was taken at last year and was a, an Atlassian effort.
+
+2 (23m 25s):
+I was, there was a legendary service effort.
+
+0 (23m 28s):
+So when you started this tech support a company and you're both so young, you were two kids, you had some experience starting up a business Mike and, and selling it. But did you guys go through the whole formal, like in the U S you would incorporate and do an LLC? I mean, sometimes it, I mean, you would have a conversation about equity and who got, what did you, did you do that, any of that in those days?
+
+2 (23m 52s):
+So we did, we did the incorporation thing. Yeah. We went and bought a business name in Australia. It was a, a $110 or so you'd get into with a little local agency in some way that we still have a, as a laminated piece of paper with the last year and a business name somewhere. And then, you know, there was two of us, so there's a a hundred shares. I think you have 50 shares each. And I remember actually going into a bank and because we wanted to set up a business account and I remember going to the bank and thinking shit, I hope no one knows notices that I have no idea what I'm doing. And like, are we a legitimate business, like at your ad open a business account? Like, do we need to have done something businessy before we could open this account? And then, you know, all the later on in life, we, you know, got a lawyer too, kind of walk at the, you know, when we start having employees and we wanted to make sure it was more solidified, I guess, in a shareholders agreement.
+
+2 (24m 44s):
+And the way I know, sort of say, it's a great, it was a 50 50. If you're going to settle a dispute, how do you, you know, settle it. And I think that there was some escalation processes, but at the very end, it's like, well, what's the final way of doing it. And we put it in a Roshambo or rock paper scissors into our shareholders' agreement. And so it's changed now, we're a public company. We can't solve problems like that anymore. But you know, for the first few years, if we disagreed, it would have ended up at rock paper scissors, and I was highly incentivized to never let that happen. Cause I think I, I was at every single game of that, whether I've ever played with Mike. So it was last every game of rock, paper scissors, if they're an hour, it's a statistically, very unlikely that that is possible, but it feels like that.
+
+0 (25m 25s):
+Yeah. It's I mean, statistically rock wins the most of course. Yeah. So you guys have, you've got the service business, this tech support business for this one product. And how long does that last? How long are you in the service business before you realize it's not working?
+
+2 (25m 44s):
+I think it was less than a year that we were in the service business. I would have my computer running 24 hours a day under my bed, you know, so they have the sort of a fan spinning up and, and down where your trying to sleep, both of our mobile phones were turned on to the loudest ring tone. They possibly could. We'd alternate, which nights we were on call. And you'd get up to two in the morning and try and answer the phone calls like a lot that's. Yup. And we're trying to sound like you're in a cogent at that time in the morning. And then, you know, trying to sound like you're a big company. We realized that actually a, it was, it was just a terrible business that almost anything would be better. And our true passion was not supporting software.
+
+2 (26m 25s):
+It was building it. And from that, we then started exploring where we wanted to build software.
+
+0 (26m 32s):
+Was there a point where if it were one or both of you are consciously set down and said, Hey, you know, this isn't working, let's do something different or did it just did that just happen organically? What do you remember? I think what we started do is we started to write
+
+3 (26m 45s):
+Software to try to make our own business better. So we wrote an application to put a lot of that content that documentation online kind of is like a knowledge base type of thing. We wrote a email archiving tool because a lot of it was done via email. And if you had no archives of the shared inboxes sort of thing. So we wrote one of those, a and then we wrote a support system, which actually we call the Atlassian support system, which has since gotten us in a lot of trouble because it was known by its acronym. And it was not a particularly well-branded great acronym. Yeah. We totally know that he realized this for a year. I gotta be honest. And then suddenly someone said, Hey, do you realize? And we're like, Oh no.
+
+3 (27m 25s):
+So that was an application to provide that support. Right. So people could file a ticket and there was comments and all that sort of,
+
+0 (27m 31s):
+This is like a pre Google docs where you could just put everything in the margins. You were just like sending these back and forth.
+
+3 (27m 37s):
+Yeah. It was a pretty primitive application for, for providing support online, I suppose. And that writing of software convinced us that that was a much more, both fun thing to do. And obviously in the application that they were supporting, we saw that they were making a lot more money in selling the software thousands of times, and writing at once. Then we were every single time to make a dollar. We have to provide this support. There was a very non-scalable business, right. If we'd read enough business books, we would of probably realize that a lot earlier than we did. So we sort of pivoted to try to sell some of the applications that we had made for ourselves thinking maybe other people wanted to use these software.
+
+0 (28m 18s):
+And, and just to be clear, these were basically applications to, to assist people who were building online businesses at the time. Right? Yeah.
+
+3 (28m 26s):
+Back then that all the scaffolding to build an internet business didn't exist. Right. There was no Eloqua, there was no front, there was no HubSpot SurveyMonkey kind of all of these things that people take for granted just didn't exist. And so we built almost all of them from scratch in-house and you know, so yeah, we built an email archiving tool that would be, you know, probably equivalent to something like a front door, you know, other email group tools. Today we built a way to track our visitors across our website. We'd build a content management system, you know, sort of everyone uses a WordPress Today, but we built our own version of that. You got to remember, we are on the far side of the planet right here. And we had done the evening thing that wasn't any fun working overnight all night.
+
+3 (29m 10s):
+We also didn't have any money, so we couldn't hire anybody. So the last year and business model came because we knew we needed to sell software somehow online because we didn't have any sales people who couldn't afford to hire them. We didn't have any money. So it kind of had to sell itself. And that required us to do a lot of this tracking and more modern things for a long time.
+
+0 (29m 32s):
+I want to, I want to sort of dive into a little bit to actually the ideation of the products that you started to build, because people who listen to the show know that the majority of the things that we do in the show are like consumer facing products, right? Like pita chips or a cosmetics brand. And your products are mainly used by businesses. And M really used by software developers. It's still a huge business and we'll get to that. But how did you begin to, to think about what pieces of software to build? Like, were you guys sitting in a room together saying, Hey, let's build this because maybe businesses we'll use we'll use it.
+
+0 (30m 14s):
+And maybe we should use our time and energy building something like this, or was it just more like, Hey, you know, we need to solve this problem for ourselves. Let's build it. Like, what was the process?
+
+2 (30m 27s):
+It's all that easy to explain to your parents what you do, if you're a seller, right. That sounds like, that sounds great. But the, for us, it was building stuff that we needed ourselves and realizing that there's going to be a lot of other people out there that are going to need the same thing. And it really was a, a, a process of constraints. I really think if we had grown up in Silicon Valley and had venture capital all around us, that we would've built a very different company, that wouldn't have been as disruptive as ours has been, because we didn't have venture capital. We didn't have people that had done it before to sort of drag us back to the mean, and we just grew up without anyone telling us the way, you know, it couldn't be done. And our experiences of computers was downloading and using a computer games.
+
+2 (31m 10s):
+And that was a very different worlds to the way that enterprise software was sold back then. But not today, like, you know, these days you download to enterprise software in the same way you would download a computer game. And I just think we were at the forefront of how that happened. And almost the thing we built in that model is actually almost less important than the fact that we changed the business model of how people adopted software to be a much more consumer, like to Scott's point. I think we built three applications in the early days that we needed. And we put them out to say, did anyone else need this sorta do a little online promotion and this and that, and that lasted in a support system kind of became the guts of what is now Jira, which is still our biggest application.
+
+0 (31m 50s):
+And in simple terms, Jira is basically software that helps teams of people manage projects. I guess, initially this was the first software building projects, but now all types of projects. Right?
+
+2 (32m 3s):
+Sure. Yeah. Yeah. It definitely started with the software developers, right. Software developers, we're great audience 'cause they went and found tools to solve their problems. And they worked with a lot of other groups inside those companies. So we would watch people using our software and say, Hey, why is your marketing department using this? And they would say, well, because we bought it in and they weren't with us and they like it. And so they started using it with that. Great. And it turns out there's way more non software developers in a company to sell to them. They're our software developers, but this is still a great sort of entry into the company if you like.
+
+0 (32m 36s):
+So the two of you really just kind of hammering at the keyboards, you Built Together what became Jira Jess and how long did that take the first version?
+
+2 (32m 47s):
+I think that the first version probably took us three months or so I think before we put something on the website, that was a surprise to anyone would have downloaded it. And I think it probably took us six months till we get to what we would say is a 1.0 version. So that's something that we felt was, you know, good enough for people to know.
+
+0 (33m 4s):
+And was it, did it require a lot of resources or cash or was it just literally the two of you and you had to pay for an internet connection and he just started coding.
+
+2 (33m 14s):
+If you look at what are our costs, we didn't pay ourselves for a long time. And even after that, I think we paid ourselves $300 a week for the first two years. So we were relatively inexpensive. And then I was the cost of broadband internet Back then cost of a website and, you know, the bandwidth costs, which you had to pay for separately. So it was relatively cheap. We say that we put it on a credit card. What are they really mean by that? As we put it on Mike's credit card? Cause I think I had about a $1,000 limit on my university in a credit card. I think Mike had, you know, 10 or 20 grand. And so we could afford to build our business on that and it consumed at a time to, you know, we didn't have anything else to do, but work. And so when you have your own business, especially one that's 24 seven, you know, we, we didn't have a cafe that we have to open and close a certain ours.
+
+2 (33m 57s):
+Right. And so if there was something else on would go do at a friend's who are going to the pub, you know, we'd go at six o'clock and we'd go have a couple of beers and at 10 o'clock we would go back to the office if we didn't want to go to sleep and keep working. Yeah.
+
+0 (34m 9s):
+It sounds like you guys really had it together. I mean, I, it, and I guess I shouldn't be surprised, but it sounds like you really had this plan. And then when did you feel different from your peers? Did you feel like you guys were kind of odd balls and that way,
+
+2 (34m 24s):
+And I felt different to API's on a couple different fronts. One is they've all taken saved jobs and there was a high pressure, as a matter of we fucked this up, we are going to look like the idiot's, right? Like we know the way that we are the ones that are kind of not going to be working for these people or meet kind of crawl back to corporate world. And there'll be our bosses in a couple of years. And so I think there is a high level of kind of anxiety around, you know, proving that you've done something, especially when your peers have all taken a very different path. But also I think in Australia, like the idea of a entrepreneur just didn't really exist. And so there wasn't even really a category for me to even to be cold that, whereas today I think people were, are, you started in a company, that's a valid career path.
+
+2 (35m 6s):
+My girlfriend at the time, my now, now wife, she a is an investment banker. And that was back then in all her investment banking, friends would tell her like, why are you dating? Scott he, he doesn't really even have a job. And, and so it was just such, it's so unusual. And I think you have something to prove. And I think you had simple. I was gonna say, it's a simple existential goals. I mean, if we didn't make money, we were going to die. Right? If there was no big well of money behind this business, it was just us. So the fear of death was pretty clear when we come
+
+0 (35m 38s):
+Back. And just a moment how Mike and Scott started to market their software. Are you using some pretty clever guerrilla tactics? One of which involved several a hundred bottles of fine Belgium beer stayed with us. I'm Guy Roz. And you're listening to how I built this
+
+4 (35m 55s):
+From NPR.
+
+0 (36m 3s):
+Hey, everyone, just a quick, thanks to our sponsor. Discover any credit card can offer cash back, but only discover matches all the cash back. You burned at the end of your first year. It's like getting one of those birthday cards that shaped like cash. So you already know there's cash inside before opening it. But in this case, it's stuffed with your first year cash back match and you don't even have to send a thank you note cash back match. Only buy a discover card, learn more at discover.com/match. Discover something brighter.
+
+5 (36m 39s):
+This message comes from NPR sponsor. Adyen. Adyen is the payments platform for Today tomorrow and whatever comes next with Adyen as a single solution, its simple to accept all kinds of payments and app online in store touch-free and beyond, and it seamlessly adapts with your business. So keep your customers happy and your business growing with Adyen business, not boundaries. Visit a D Y E n.com/ NPR.
+
+4 (37m 12s):
+Hey, my name is Peter Sagan and I am here to help you with the most pressing problem facing civilization today, there are two, many good podcasts to listen to now why not avoid that whole problem by listening to an extremely silly podcast hosted by me on wait, wait. Don't tell me it's wisecracks about the week's news shenanigans for our jokes and general silliness. And doesn't that sound pretty great right now. Listen to the wait, wait. Don't tell me a podcast from NPR.
+
+0 (37m 38s):
+Hey, welcome back to how I built this from NPR I'm guy Ross. So it's around 2002 and Mike Cannon Brookes and Scott Farquhar who have decided to turn at LaSeon. There are two persons tech support company into Atlassian, a software development company in their hopes, hang on a set of development tools known as Jira
+
+5 (38m 2s):
+Jerry has to sell it for $800. Again, it was a terrible pricing scheme. I was $800 for everything. All you could like that was it. And we needed to sell one copy of the week. Then if we sold one QAPI we would pay rent through all the things that I was at a a hundred dollars to split two ways and everything else, right? If we didn't sell one copy, what are we going to go bust? If we didn't sell one copy for too many, but you know, some weeks we would sell two copies is that it was amazing, right? But then somebody should sell a zero. The motivation of such a simple goal. I remember like there's a reason you went back to work after the pub is like, it's we haven't sold anything
+
+2 (38m 36s):
+This week. We need to sell one thing. So you'd go home back to the office and you'd answer to every customer service email as quickly as you could or you'd get back to someone or you'd get on the phone to try to ring them. Can we help you? Like what? Cause you needed to sell just one thing a week for 800 bucks. And in the early days, our website would always make it seem like we were bigger than we were. You know, we'd say a lesbian has a number of international offices. That number just happened to be one. We'd have sales at Alaskan and accounts at the last unit, support it at last year. And then that we'd all go to Mike and myself both equally. And you know that people are caught up at a DUI. Oh cool. Can I speak to a two accounts and be like, ah, sure.
+
+2 (39m 16s):
+I'll get a count on the line. And like Mike your accounts now. Okay. And so in your hand, the phone over to Mike from accounts, if you're going to be an accounts payable, how can I help her? So, you know, we just did every, every job that there was to do. And sometimes we put different hats on when we did them at different voices.
+
+0 (39m 35s):
+So you have a website for your business at LaSeon and, and what I mean, you just kind of hang a shingle out and say, Hey, here's Jira you can download it to, to try or to buy it. But how did you even market it? I mean, how did you get anybody to even know what it was? Did you start calling people? Did you just kind of hope that people would land on the webpage by accident?
+
+2 (39m 57s):
+I think there's a, a belief that if you put it up that people will come and totally not true. No, I, I think that there was a couple of things that worked well for us. We were at the very early days of internet marketing. And so we could buy, you know, Google AdWords, which are just new Back fan and things that would now cost you a 10 or $20 for a click would cost us 10 or 20 cents. And I always wish we had more money to spend on that. You know, with our marketing budget might of been, you know, a, a a hundred dollars a month or a, a a hundred dollars a week. Like it was a very small dollars back then we would turn up to software events and obviously that's where the bulk of our customers would be, but we couldn't afford a booth at the software events.
+
+2 (40m 37s):
+And so we would turn up as attendees and try and hand out business cards or try and, you know, corner people in the hallway to give them a demo. We didn't, we did plenty of guerrilla marketing. And remember we went to, was in San Francisco somewhere. We printed out a whole bunch of flyers basically, and then snuck them into the conference. And we're just judiciously leave 20 on a random bar top table. That was the kind of walk around the conference and just keep leaving fliers around for hopefully some of them.
+
+0 (41m 4s):
+And then you guys are going that early in your business, you were, you are going to the U S to promote this product.
+
+2 (41m 11s):
+That was us and Europe. Yeah. That's where our customers were. And so we were at a conference in Belgium, which is one of the biggest technology conferences. And they had a session where they were going to do a live podcast at three o'clock in the afternoon in front of an audience. Right. And so we thought we ask them if we could provide beer for their session for that sort of five, six, a hundred people that are them, you know, the three of them on this panel podcast. And of course they said, sure, yeah, whatever that sounds great. We did not in a conference organizer is of course, because we would of gotten in trouble and it wouldn't work. So instead we took our little rental car to a local bottle shop and bought in many cases, have a really good Belgian beers we could. And then we stood at the front as people we're going in.
+
+2 (41m 53s):
+And every time someone walked in, we would put a sticker that said at the last seen on the front of the beer as if it was kind of obvious and then give it to the attendees. Right. And they thought this was fantastic. This was like the best session ever. And we had four or five, everyone on stage had one. And we would just do sort of stunt marketing like that to the right communities, which got our name kind of noticed.
+
+0 (42m 14s):
+I love that. That's so great. So in the first sort of year after you released Jira, was it, I mean, I can't imagine it was a massive hit. I have to imagine it was like kind of, you know, you'd sell it here in there and people who bought it liked it, but it wasn't, I can't imagine it like flying off the shelf so to speak,
+
+2 (42m 32s):
+We started with a one coffee a week, a, I don't know, that's flying off the shelf. We didn't really have a shelf or it wasn't, it certainly wasn't flying anyway, but by the end of year one, it was doing all right. I think we made maybe a hundred grand in year one. Yeah. And in the early days it was very much kind of hand to hand combat. Like every customer is someone that you have spent a long time handholding through to the sale and a big milestone for us was I still remember it when the, the, the facts cam off the fax machine and Back then, and it was an American airlines and a American airlines basically fax to us a, you know, a purchase order, a cheque for the a hundred dollars.
+
+2 (43m 13s):
+And I went to Mike and said, Mike I haven't been doing with the American airlines. Like, Jay ya, thanks for doing all the work behind the scenes, getting them across the line. And I said, I haven't done any work in an American airlines either. And so they looked at each other like, Holy cow, like American airlines just send us money over the internet for doing my thing. And obviously they, you know, they benefited from our software, but that was sort of the moment when we went from having a, almost like a corner store business to having a scale, the business
+
+0 (43m 40s):
+And my God, American airlines cheese, that's a bar. I mean, they just spent $800. It's a way that, that, that didn't even have to go through like anybody that was just some random person, the American airlines who authorized it. Cause you know, that's nothing, it's a, not even a rounding error for them. And was that, I mean, then that was it. It was like, you would just buy it and then you own it.
+
+2 (43m 60s):
+Yeah. You bought the $800. Got you one year. Right. Unlimited usage, but updates for one year. So we were improving the software every week or two weeks. And so our hope was they would buy a, a maintenance contract, which was $400 for the second year and the third year in the fourth year. And that maybe they would pass for a hundred dollars a year, assuming we kept adding value to the software. Right.
+
+0 (44m 23s):
+What is that common in 2002, 2003 to, you know, updates software that regularly
+
+2 (44m 30s):
+Was, it was very, and it's almost like a back then. It was like, say days, every person you'd buy a CD. And once you bought it that, you know, the artists had to go out and produce more soft, you know, more, more music. And it was very early on. We said, well, that's not a great model because that means we're incentivized to hold back on all the new features. It's like, you know, it's a Dell had a great album and she had great songs. She was like, well actually I'll keep it half of them and the good album and I'll save half for the good songs for the next album, because I only get paid by, you know, selling albums. Whereas we thought that the model was, was better if you are aligned by, Hey, if you use our software and continue using it and being happy with it and you pay us to go over that, it was incredibly unusual. Back
+
+0 (45m 11s):
+And you know, it's interesting, a couple of weeks ago we had the founders of riot games in the show and they, they may know their, their, their game, a league of legends. Right. Very big game. One of the biggest pieces in terms of all the time and what made that game really popular early on with gamers was how complex it was actually its a very, very complex game. And, but that was actually an advantage that they had because people really got into it. The, the, the, the learning curve was really steep, but then once people got it, they were hooked. And from what I understand, its kind of similar with Jira that it was actually pretty complicated for people to figure out at first. But that actually is something that developers liked.
+
+0 (45m 53s):
+Was that intentional. Did you make it complex?
+
+2 (45m 57s):
+Yeah. I wouldn't say we intentionally made it complex. We were madly adding functionality to the application for, for many, many, many years. The good side about that as the people who got up the curve of understanding the power of JIRA became the huge fans and they became superstars at their company 'cause they could solve all these problems for the company really, really cheaply again, Hey, we've already spent the 800 bucks. You've got another problem. I'll solve that with JIRA. So the people who solve the complexity are understood it. They saw the matrix if you like. Right. And we ended up hiring a whole bunch of those super fans as well. Like people who were like massive Jira fans, we'd say, Hey, I want to come work for us. Like, you know, so much about our application and they would then make it better.
+
+2 (46m 39s):
+Now over time, we've had to remove a lot of that complexity and we've tried to simplify it, but keep the power. But in the early days we were just, yeah, we were certainly just adding, adding parent clusters.
+
+0 (46m 49s):
+And I'm curious because there's, there's a concept of now it's of course taught in business schools and it's, you know, every venture capital firm looks for this called the network effect basically. And, and it's this idea that a way that if you can create a product that can sell itself and you've hit the Holy grail. So for example, Dropbox, we had drew Huston on the show recently and he created a product that when you used it, when somebody sent you a file, you had to sign up for a Dropbox account that it was free, but that's how it grew. And then you had it. And then if you wanted to send somebody a file, they are. And so there's a chain and it's something that really happened with your product, with Jira from the start, right.
+
+0 (47m 32s):
+That it really kind of became the self perpetuating. Yes.
+
+3 (47m 36s):
+So what's important here is his team's. So are a viral effect is not like a Facebook or a Slack or a Calendly. They're all fantastic applications are viral effect is teams, right? Often we talk about the individual gets all the credit, but the team really did the work, right? Neil Armstrong landed on the moon, but there was a massive team of people at NASA that put that thing into the air and go to the moon and everything else. And so teams who are the people who really do the work and we believe that. And if it's true, so we would have an early goal. We want to get one team to solve one problem with our application brilliantly because most people in companies don't work on one team. They actually work on three or four different teams on different projects, different things.
+
+3 (48m 17s):
+They work with other teams, et cetera. So, you know, almost all our applications now are basically for free for a team. Why? Because we want one team to download or sign up to an online applications, use it and get value and think this is brilliant. Then we want him to go to the other team that work on and be like, man, working on this team stinks. We're so inefficient. Can we use the thing that we use on that other team? And so we would find one team, two teams, five teams, 10 teams, you know, when you go to a big company, they're, there are hundreds of thousands of teams in these big companies,
+
+0 (48m 49s):
+I guess by like 2006, right. Is, is just insane to me. This is just three, four years in, I mean you had 14 and almost $15 million in revenue. You've got 50 people. Okay. So let me, let me just, I want to kind of back up from the product for a moment and just talking about the business side because you know yeah. I get Scott and you'd kind of have the leadership tendencies and Mike, you know, you had to a little startup, but, but really both of you are S w were most of the time, those early years, it was a two of you just grinding way at a computer. What did you know about how to lead 50 people and run a business?
+
+0 (49m 30s):
+Like that must have been a pretty steep learning curve.
+
+3 (49m 34s):
+I still not sure that we know everything there is to know about waiting people. I mean, I think we, we, you know, we had increasing confidence over time that we knew what we were doing. I think one of the most important things is we were always very first principle driven. I mean, you sort of said it in your question, we were both incredibly naive. The good thing is we knew that we didn't know what we were doing. Yeah. We knew that we didn't know anything about business. And so we had to figure it all out from first principles. So for example, when it came to people, we both knew that we'd had terrible experiences working other places. And so we want to build somewhere that we want to come to work and hopefully other people will want to come to work there too.
+
+3 (50m 15s):
+All right. I have a strong memory when we were very early on in that last scene and our friends had just joined all of these big companies and we used to go and have lunch together. And I remember this distinctly, we were downstairs at a young child 'em
+
+2 (50m 28s):
+And one by one people sort of bitched about their jobs. They complained about the people they worked for warrant smart. They complained that they weren't listened to. And I remember, you know, after that lunch and coming back to Mike and thinking, wow, I never want to be a build a company where these incredibly talented people, many times smarter than me who have gone to work and they don't feel empowered to get a job done or in their own way to improve things as the bitch, to their friends at lunch.
+
+0 (50m 56s):
+Yeah. I'm trying to understand how you, and I know you've sort of jokingly probably there's some serious to this, but that, you know, when you say, well, we're still trying to figure out how to be leaders, but here you guys are, at this point, you're in their late twenties, she was still really young. Right. And you've got a growing team at this point, like 50 and then the next year, a a hundred. And that becomes tricky, right. That, that starts to create potential points of friction. And I wonder whether you guys really understood how to manage people, right. Was it was a pretty easy where people just kind of self-directed or did you know what you were doing?
+
+0 (51m 36s):
+Look, I'd say we've probably made every management mistake in the book in the first five to 10 years and probably some more in the last 10 years. But we were honest enough to know when we made those mistakes. Scott
+
+2 (51m 49s):
+In the early days. I remember distinctly when you're a startup, you hire the first dozen people that, you know, a few thousand people yourself and at some stage the transition hiring from you doing it to people that you've hired, hired the next people in that I would say the first 50, we hide ourselves in the next 50, you know, who are hired by other people. And we looked around one day and realized that second 50 people who had hired really weren't fitting in I they had turned up because, you know, we were a cool place to work. We had beer in the fridge. We had, we got a ping pong table Back then, but they weren't aligned with how we wanted to work our work ethic or our mission as a company.
+
+2 (52m 29s):
+And Mike, and I sat down and said, well, and obviously that's not the fault of the people that have done the hiring. Like we haven't told them what's important. And we did a exercise that Jim Collins actually created where you effectively do a mission to Mars. And you say, if we're going to recreate it last year and a NAS, which people would you want to transplant and make it feel like the same company. And in many cases, they're not the senior leadership, you know, it's that one person that embodies something about the company that is really important. And what you do is you identify those, you know, a half a dozen people, and then you Back solve and say, well, what, what is it about those half a dozen people that makes them at last year? And you know, and, and as a result, we sort of want a bit of butcher paper at an offsite.
+
+2 (53m 12s):
+We, we wrote up what has become a value and values. And they haven't changed in that sort of 14, 15 years since we created them. But that really came because we screwed up early on a scooter by picking the wrong people. Yeah. And one thing we've always is,
+
+3 (53m 26s):
+You know, if our business is going to double every two years as individuals and as leaders, we can only justify our positions if we are more than doubling our capabilities every two years, because logically, otherwise you end up with that kind of constraints at the top, write in us. And that sort of been our, I guess, mantra for self-development right? You can read the stuff in a book, you can go and talk to other people. You can learn, however you learn yourself, but we knew that we needed to grow faster than the company. Otherwise it wasn't going to fulfill its mission
+
+0 (53m 59s):
+When we come back. And just a moment Mike in, Scott explain how you can have a meeting about possibly being acquired without knowing you are having a meeting about possibly being acquired, stay with us. I'm Guy Roz. And you're listening to how I built this from NPR.
+
+5 (54m 19s):
+This message comes from NPR sponsor. Adyen. Adyen is the payments platform for Today tomorrow and whatever comes next with Adyen single solution, it's simple to accept all kinds of payments and app online in store touch-free and beyond, and it seamlessly adapts with your business. So keep your customers happy and your business growing with Adyen, business, not boundaries, visit a D Y E n.com/ NPR.
+
+0 (54m 49s):
+Thanks also to NerdWallet, they bring together the smartest credit cards, mortgage lenders, and more so you can compare and shop all in one place for all your money questions, turn to the nerds@nerdwallet.com. How do we reinvent ourselves? And what's the secret to living longer. I'm a new Zomorodi each week on NPR is Ted radio hour. We go on a journey with Ted speakers to seek a deeper understanding of the world and to figure out new ways to think and create, listen now, Hey, welcome back to how I built this from NPR.
+
+0 (55m 32s):
+So it's around 2006, 2007. Atlassian is about five years old. And at this point it's revenue is like 20 to $30 million a year. And it's safe to say the company is starting to get noticed. So I'm guessing that, that you guys already had people coming to you looking to acquire you when you were like doing, you know, 10, 15, $20 million. D did that happen? I mean, did you, did you have companies coming to see if, if you guys would sell? We didn't have a lot,
+
+3 (56m 6s):
+A lot of explicit office in the early days for acquisitions, because we are on the far side of the world and everyone assumed we were a far smaller than we were
+
+0 (56m 13s):
+Australia wasn't really, if there was a bride was not a tech map. No,
+
+3 (56m 17s):
+No, that's true. And by the time anyone did show up, I think we were even more in our own abilities and the business, which made it very easy to say no to, to any sort of offers along the way. Right. We were always looking at and saying, well, we know how big we're going to be three years from now. We're really confident in that. Now, why would we do this? It just, it just never made any sense. So was, it was always a pretty, relatively easy decision for us along the way. Do you wanna tell the story about the moon
+
+0 (56m 44s):
+Reading that ended up in retrospect, a acquisition meeting, but we didn't realize it.
+
+3 (56m 49s):
+I did have one relatively famous. What I now know is an acquisition meeting. I was with our then president and we were in, you know, some Silicon Valley office park at this big firm, famous guy running. And I want to say who it was and everything was going on. And they were kind of a competitor, I guess you might say, but we worked together in some ways and you know, this and that. And then we were just getting through the pleasantries of that meeting, sort of discussing roadmaps and various other bits and pieces. And then a fire alarm went off a kid. You're not the fire alarm goes off and they're like, Oh, we've got to get out of here. So we all pile into the fire stairs and go down. This Silicon Valley office park is three floors and were all standing out in the carpark. It's almost like it's, I remember in the car CapEx thinking, wow, I'm, I'm literally in office space here.
+
+3 (57m 31s):
+Like I'm looking at this big boring building. We're all in a car. And you know, we must have shared some numbers and back and forth, and they're kind of confused. And, and we must of been having to have three different conversations, fire alarms over, we all go back upstairs into the conference room two to three pleasantries meeting over where we all go, wait to get out of here. Thank you. I'm like, what, what happened? I said, well, a prison. What, what, what, what just happened there? Like we are having a good meeting and then the fire alarm went off and it seemed like they just kicked us out. He's like, Oh yeah, they realized that we're bigger than they are. And they were trying to buy us. And in the, in the fire alarm cop rock, they had realized that based on revenue, we were actually larger than they were. Wow. And so
+
+0 (58m 9s):
+It wasn't gonna happen. So they just kicked it out of the room. And I was like, wow, that totally didn't understand that you knew that you had, you were looking at the trajectory and you knew that you were, you are going to get bigger and bigger and bigger. You could just see that from, from the growth and the sales,
+
+3 (58m 24s):
+We were very confident in our business model and its ability to deliver growth into the future. Yes. Patiently. Right. Right. I mean, what's really important about the Alaska business journey has been patients, patients for revenue to come later, but with a more solid model behind it, if you like, and part of that was we're very patient people. We're a very, long-term thinking we've always had these super long-term goals for the business. The second part of that is Australia. We're a very resourceful sort of survivor nation, right? It's a pretty rough country. It's, it's super hot. It's super dry. You know, we've had to figure out how to farm the land.
+
+3 (59m 5s):
+We've had to figure out how to, what products can we make down here and shipped to the rest of the world because we're a million miles from anywhere we have to be patient because we couldn't afford to hire any sales people. And we had to figure out how to sell things online. And once we had done that and saw effect of that, patient's all we did is kind of continue to double down that model every year. Right. We would hire more engineers instead of once we get to afford to hire sales people who were saying, well, hang on a second. If we make the product better, we're not going to sell a dollar this year. We know we'll sell $2 next year and $3 a year afterwards. That's a way better equation for us over a three to five year period. So let's go hide that extra engineer. If you can demonstrate value to someone, you don't need a sales person that they've already using a product, they already got the value.
+
+3 (59m 48s):
+They get it,
+
+0 (59m 50s):
+I guess in 2009. So this is like almost 10 years, and I'm not in eight years. Both of you got married that year and you turned 30 and each of you separately took a three month sabbatical like to travel with your partner and the other person around the company for that time when you did that, was there any thought along either of you that maybe you should just, you know, you did well, you could probably sell it cash in and move on. Was that ever a thought that or ever a conversation the two of you had kind of probably walked away with, you know, 25, 30 million bucks each, maybe.
+
+3 (1h 0m 28s):
+Yeah. So we had a, such a good story. Cause I think you have those moments where you have to stop and think, and it was around 2009, maybe early 2010. We had spent eight years at the time building the business. You know what I mean? And I often describe it as we were heads down. Like we are looking at a feet just trying to run and not fall over it for many, many, many years. And for some reason, maybe it was turning 30, maybe it was getting married. Maybe it was whatever. We both had a bit of a life inhalation, a bit of a pause. Right. And the business was probably on its own feet by the end. I mean, it sounds ironic. I think we had like 50 million bucks in a bank and probably $50 million in revenue kind of scale and a profitable, but we felt like, okay, it's not going to die.
+
+3 (1h 1m 13s):
+Now. We didn't really intend to get here. What do we want to do? What are we really want to do? Like what's what's next? And you sort of had, it was almost a look back, look forward kind of moment. You know, he was eight years in and we sort of realized, Hey, wow, we could, we could probably sell this thing to someone we had taken, no, no, no capital, no investment. We still are under a hundred percent of the company. You know, we could probably sell this thing and be pretty set. Right. And it sounds naive now what we actually thought we were going to get, get for it. And we, we kind of, you know, we did a lot of really good talking and thinking and realized that we weren't done. You know what I mean? We both believed that the next decade was going to be better than the last decade for the company. And that was really a really powerful moment.
+
+3 (1h 1m 56s):
+So that's when we, as you said, said, well, okay, well, we got to take a sabbatical
+
+0 (1h 2m 1s):
+In Scott. What was it? Was that time like for you?
+
+3 (1h 2m 4s):
+It's weird. I remember in quite an emotional time that it was sort of just even opening up that door and saying, well, hang on. That's even something we should consider its kind of a tough conversation to have to sort of, you know, even to throw that on the table and say, Hey, there's an option here that we should talk about. And that's, that's pretty emotional. And also I feel that, you know, when you're grinding a wifi use, it's tough because your, your identity is the company. And I remember for a while I, you know, talked to him with my wife about this is that when, when you first meet, you're a partner in life. So it's like, well, what's more important the company on my, well, I thought, nah, you know, and in the early days, if it's the company, right, like, you know, girlfriends come and go and then at some stage you go, actually my wife thought, and it is more important than the company.
+
+3 (1h 2m 48s):
+Yup. And I think over time you start extracting your emotional state, you know, your kind of identity from the company, but it was, it was a pretty emotional time to sort of even just consider it, you know,
+
+0 (1h 2m 59s):
+First of all, the founders of the co-founders of ever interviewed, I think the two of you are most similar. I know that you've got differences obviously, but most similar in temperament. And I wonder, I'm just, I just wonder whether you were always aligned. I mean, you now had employees, you had a growing company, you were, you know, the leaders of this company. I'm trying to figure out how you were always able to see eye to eye and not have conflicts. Cause I I've never ever seen that with co-founders ever, but we had, we had, this is his paper rock solution ready
+
+3 (1h 3m 33s):
+At any time. And so when you know that that's the end solution, you like, how are we better work this out because of it, get to that man, shit, we might just lose. I think it's always helped us as well. Been more helpful than less helpful that we're in exactly the same life phases at each stage. So when we started getting paid nothing and drinking the cheapest beer, we could find we were both doing that. So that felt fine. And we didn't really know any different around that time. You're talking to 2009, 2010, we were both getting married. We got engaged within a year of each other. And so it was a similar view on life. Right. I often think if one of us at that stage had been 50 and looking to retire and you know, the kids are going to college or something and we had Built like, it might have been a different view on the world, but because we were kind of had similar views on where we were at and then it's, you know, his family started to come along.
+
+3 (1h 4m 26s):
+We had kids, you know, it's a super brutal times for sleeping, trying to run a business and everything else. But because you know, a kind of through that time of this, that you'd give the other person a lot more Slack because you're like, Oh man, I understand, man, I've been there. That sucks. That's a really hot period as you grew. And eventually you, you, you know,
+
+0 (1h 4m 45s):
+Became, you decided to go public at a certain point. I mean, you became, I think you're the first so-called Australia in unicorn billion dollar plus company. Today your market cap. I was, I think last time I checked 50 billion us dollars as you really started to grow and become huge. You also started to become visible people in Australia and Australia is a, it's a big country, but it's also a small country in a sense, right?
+
+3 (1h 5m 10s):
+Yeah. We have a Australia about 25 million people.
+
+0 (1h 5m 14s):
+And do you, how have you dealt with that visibility of being visible? I mean you're now you're no, let's just put it out there. You'd see. Two of the richest people in the country. Multibillionaires when you think about wealth, is it, does it mean anything or is it just like a number on a piece of paper from a bank statement? That's not, doesn't really mean anything.
+
+2 (1h 5m 35s):
+It's been hard coming from a background where, you know, I always viewed a time and money is a sort of almost the same scale and you can generally spend money to save time. And in many cases you can do many at the same things. If you have enough time without the money. And I went for a drive around Tasmania or over the weekend, lucky we've opened up in Australia and I remember thinking, wow, I really need to fill up the petrol tank before we return the car. Like that was, you know, that I'm going to screw me up on the pedal on the petrol. Yeah. I was thinking that, hang on, like, is that really worth sort of 15 minutes out of my way, you know, to say probably $8 on petrol and you know, in a different wife, like a way that I would have done that.
+
+2 (1h 6m 17s):
+Yeah. And it was a really hard, I think to sort of go actually, no, I value my time at more than, you know, the $8 it would've saved. And so I was just a thousand things like that, that change and you know, to try to make the right choice, which may be different now than it was growing up in that sort of time value, time, money trade-off yeah.
+
+0 (1h 6m 36s):
+You know, possibly the only one of the few places, more of a secure to start a tech company and then in Sydney at the time was Ottawa Canada, which is where Toby led QI started Shopify and Toby was in the show a year or so ago. And he said that if he, that Ottawa actually is why Shopify became successful, that he really resisted starting that company or, or scaling a company in Silicon Valley, even though investors really tried to push him to do that, that Ottawa was the secret weapon, you know, finding really talented, committed people in this freezing cold place that enabled him to build this hugely successful business.
+
+0 (1h 7m 17s):
+There were a lot of challenges to starting this company in Australia. Certainly when you did it. Cause there was no there's no community, but do you think that starting in Australia actually turned out to be what made it successful, but had you done this elsewhere? It may not have worked.
+
+2 (1h 7m 31s):
+Totally. Yeah. Starting Alaska in, in Australia is the only reason we're successful. We have a venture capitalist telling us that we couldn't build a company. You know, we, we were a bit of a billion dollars of revenue and they said, Oh, that's a really nice, you, you built a tiny little tiny company. You can even be able to $10 billion of revenue and went back then $10 million in revenue. And they were like, yeah, well you never get to a a hundred. And we sort of stopped going back after that. And I think just the fact that we didn't have people, you know, that was the only person telling us the way we couldn't do it, allowed us to do things totally differently. And you know, it's the right time when the unit's coming out. That's what was needed was totally different thinking. And Out, our tenure is better. Like we've got, you know, employees are to stick around for a very long time and it's been totally critical to our success, but we also have one foot
+
+3 (1h 8m 16s):
+In, in Silicon Valley. If you started the company in Australia, in the seventies, you wouldn't be able to tap into the podcasts and the blogs and the email newsletters and all the information that flows around the world is flat or in some ways than it's ever been before. And so I think that combination has made us successful.
+
+0 (1h 8m 33s):
+How has, I know Australia is in a different place than the United States and many countries around the world when it comes to COVID, you're in a much better situation in and have handled it infinitely better. The United States has, although everybody has, how has COVID changed your, your, your business and has changed it forever?
+
+3 (1h 8m 52s):
+I would say was separated. Two things in that that are really, really important. First is the ability for people to choose where they work. W we're not saying we're going to close our offices. We're sending, if you want to come to an office, he can, if you don't want to come to the office, you can do that too. That's let us to separate how we work as a company, from where we work. We were a long way down that path before COVID hit, you know, we had, I don't know, maybe five or 600 people working from home on a given day and a bunch of remote employees. And then we sent 5,000 people home in one day and you know, the world's largest telecommunity experiment has taught us all how to do that and the goods, the bads, but that's really forced us to solve those problems in a really rapid fashion.
+
+3 (1h 9m 32s):
+Yeah.
+
+0 (1h 9m 33s):
+Has that also changed? Do you think the way, I mean, companies used to say, well, you got to be here right the last year and you got to play ping-pong you got to have that, you got to do that. I go to the meat, people walk around and that's the campus, there's a cafeteria. But now it seems like that idea is completely evaporated, that everyone is saying, you know, actually distributed the distributed model works. You can, you can actually have executives who live in a different times or in a different country. What do you think? I mean, do you think that the office culture is, is crucial to maintaining a company's culture?
+
+3 (1h 10m 8s):
+It suits Australia. I would say we've always been, you know, colloquially on the ass end of the world. And so traveling and moving around and other things have been a part of the Australian existence and business for a long time. And hence we use a lot of Virtual technologies. We're very early technology adopters, I believe because of that. Right. It's a lot easy to get on a zoom call than a fly to San Francisco in Back trust me, I've done it. I don't know, a, a thousand times in the last decade and a half, probably more, but we're still going to need to meet each other. Right. One of the things we value is human connection. The question is, do we meet each other to work or do we meet each other to connect? Yeah. So we're increasingly having meetings. You know, if you're going to fly to meet your team or your group, you're going to do that.
+
+3 (1h 10m 50s):
+But when you do that, don't work right. Do the work at home when you are remote from each other. And when you're meeting build a social bonds, go out to dinner, like Ron exercises, whatever you're going to do, but don't meet to do work.
+
+0 (1h 11m 3s):
+Both of you are 40, I think right now, 41,
+
+3 (1h 11m 7s):
+41 of two days a year. And
+
+0 (1h 11m 9s):
+You've got a lot of life ahead of you. You're really rich. You can just stop working right now and have a foundation and giveaway a bunch of money and, you know, whatever, wherever you want you to do, whatever you want to do, what's stopping you from doing that. Why, why wouldn't you just kind of walk away now
+
+2 (1h 11m 27s):
+The, I think that, you know, with everyone's life, you try and work out. How do you have the biggest impact in the world? Or at least for me, like in my life, it's been a big park and like our mission in Alaska and is down the list, the potential of every team. And I keep thinking, okay, well, if I, if I worked at last year and where would I go to, or what would I do to have a bigger impact? You know, the teams that use our products, put people in space that they create a electric cars. They, you know, decarbonize the planet. They're, you know, the American red cross, like our customers. And we get to help them do their, their work better. And I don't know, I feel if there was something better out there, you know, I'd be tempted, but like the day to just doesn't seem a better opportunity to have a big impact in the world.
+
+2 (1h 12m 7s):
+I think it's not in our DNA because you got to start out by trying to build a product and solve a problem. Not start. If people start a business that I want to make money, you are like, okay, well that, what are you going to do to do that? Right? You got to provide some value to a customer, but secondly, if they were lucky enough to provide some value to our customer, they would have left long ago, once a business passed, I don't know, $5 billion in revenue or a $10 billion in revenue that Mike and Scott would have sold back then they would, if they would of been gone. So they wouldn't be here. So then you're asking a question, well, hang on you. If I didn't sell it yesterday and I didn't want to go and sit on a beach or whatever, why would I sell tomorrow on the answer is the same reason I've been here every day for the last 20 years
+
+0 (1h 12m 44s):
+Before I let you go. Last question for both of you, and I'm going to ask you the same question. How much of your success do you attribute to your hard work in your, your intelligence and grinding away? And how much do you think it happened? Because you got to lucky Scott first to you.
+
+2 (1h 13m 1s):
+I think you need both. Like, I really believe that you make your own luck to some extent. And so you need to work really hard and teach yourself and so forth. But a there's been a lot of things that worked out in retrospect, we were lucky, you know, we were in an era in a time when Australia can operate on a world stage. If I were born 50 years earlier, that would be what harder or, you know, the internet came around. So there's a whole lot of things that were the right timing. And we just managed to take advantage of them cause of who we were in our schools.
+
+1 (1h 13m 32s):
+Mike I would say 50% luck, 50% Scott is hard work smarts and ingenuity. So you just sat around and eat bonbons. Yeah. All right. I guess I did that's Mike Cannon Brookes and Scott Farquhar co-founders of Atlassian and just remember the secret to their successful relationship. Three words, rock paper, scissors, try that. There's the easy way to win rock paper scissors, or rather not, not lose. What is that? What you do is you, you have to control the timing. So when you're going to scissors, paper, rock, whatever, do
+
+3 (1h 14m 12s):
+It, start to slow it down and go really, really slowly and then just watch their hand. And if their hand stays Together or start to moving, as soon as they are hand starts moving to go scissors, because you're going to know their either paper or scissors. And if their hand doesn't move right, if you go for a paper and so, you know, you're going to get a draw or not. And so if you can do that and you can usually statistically well more than 50%,
+
+0 (1h 14m 37s):
+But if you tell somebody that statistically rock works the most wins the most, then you can always play some paper against them.
+
+3 (1h 14m 44s):
+Ah, you say that you've got the game theory going on. Guy yeah.
+
+0 (1h 14m 47s):
+Yeah. I got two kids, so I always win rock paper scissors. Hey, thanks so much for listening to the show this week. If you're not a subscriber to our podcast, please do so. Wherever you get your podcasts, if you want to write to us, our email address is HIBT at NPR dot org. If you want to follow us on Twitter, we're at how I built this or mine at Guy rise. And if you want to follow me on Instagram, I'm at Guy dot Ross. This episode was produced by James Della who see with music composed by rotini Arab bluey. Thanks also to Liz Metzger, Ferris Safari, Derek gales, JC Howard, Julia Carney, Neeva grant, and Jeff Rogers.
+
+0 (1h 15m 27s):
+Our intern is Janet who John Lee I'm Guy Roz. And you've been listening to how I built this. This is NPR.
+
+5 (1h 15m 41s):
+This message comes from NPR sponsor capital one, offering capital one, shopping a downloadable browser extension, and that searches various sites for shoppers what's in your wallet more at capital one, shopping.com.

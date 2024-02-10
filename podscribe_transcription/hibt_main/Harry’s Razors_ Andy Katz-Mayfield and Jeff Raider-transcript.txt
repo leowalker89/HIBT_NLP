@@ -1,0 +1,716 @@
+0 (0s):
+Hey Prime members You can listen to how I built this early and ad free on Amazon. Music Download the app today.
+
+1 (9s):
+Think of all the things you can do in 10 minutes or less. Scroll through social media, check your bank balance, make a sandwich or learn about the surprising economics behind all these things. The indicated from Planet Money is a quick hit of insight into the economics of business work and everyday life. Every weekday in less than 10 minutes. Listen now to The Indicator podcast from npr,
+
+0 (31s):
+How I. Built. This is pleased to have Upwork as our presenting sponsor. Visit Upwork dot com to get hiring. Upwork has a message for you, Everything. you know about business. it was made up by a bunch of guys a hundred years ago. Don't stay bound to their antiquated rules like the nine to five workday, commuting to an empty office building, or only hiring full timers. Embrace a new way of working with Upwork. It's a portal to the future of business and it's disguised as a website. Go to Upwork dot com. There you'll see the light And. also find talent for projects of any size From, simple deliverables to complex projects, From, short term help to full time hires. you can finally let those old business titans and their tired ideas rest in peace.
+
+0 (1m 14s):
+This is how we work now. Visit Upwork dot com to get hiring talented professionals today. Maybe you've stayed at an Airbnb before and thought to yourself, this actually seems pretty doable. Maybe, my place could be an Airbnb. It could be as simple as starting with a spare room or your whole place when you're away. You could be sitting on an Airbnb and not even know it. Maybe, your kid is heading off to college in the fall and you'll have an empty bedroom. You could Airbnb it and make some extra cash while they're away. Or, if you have a vacation plan for this summer, that could be a good time to Airbnb your entire place. Whether you could use a little extra money to cover some bills or for something a little more fun, your home or spare room might be worth more than you think.
+
+0 (1m 60s):
+Find out how much at Airbnb dot ca slash Host. You know, we hear a lot about pivots on How, I, Built, This, how a simple change in perspective can create a whole new opportunity. And this made me think of a conversation I recently had with Keenan Thompson, who's the longest running cast member of Saturday Night Live ever 20 seasons. And I asked him, what if one day, instead of performing on snl, you were given the keys to run snl? You will definitely want to hear his answer. Check out my interview with Keenan Thompson over on my other podcast. The Great Creators just search for the great creators with Guy Raz, wherever you listen to podcasts.
+
+0 (2m 42s):
+And now onto today's show.
+
+3 (2m 51s):
+We tried to convince them that like we were legit and then we committed to buying a million razor blades, which for them at the time was like a meaningful
+
+0 (2m 59s):
+Number. But I mean, when you made a commitment to buy a million Razors from these guys, did you have a, did you have millions of dollars at that point to give to them? Nope. Nope.
+
+4 (3m 15s):
+Welcome
+
+0 (3m 16s):
+To How I. Built This. A show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. I'm Guy Raz and on the show today how two friends took on one of the biggest companies in the world to launch. Harry's a shaving brand that started online and is now a leader in the category. Sometimes being David can be a huge advantage, especially when Goliath isn't paying attention. Airbnb is a great example.
+
+0 (3m 56s):
+They kind of just snuck into the hotel and hospitality industry without any of the big players noticing. Can you imagine if Marriott or Hilton came up with a similar model when Airbnb was just a three man operation? They'd probably have crushed it. But the reality is big corporations don't always have the flexibility to move quickly and under the right circumstances, a savvy entrepreneur can strike just at the right moment. This is sort of what happened in the shaving industry for most of the past few decades. There was really only one player, Gillette. At one point, Gillette had about 70% market share.
+
+0 (4m 37s):
+And to be fair, Gillette is still pretty dominant. Close to 50% of all Razors and cartridges sold globally have the name Gillette on them. But the reason its market share has dropped over the past decade has to do largely with two upstart brands. Dollar Shave Club and Harry's. Both of these brands pioneered a direct to consumer model that made it easy to order Razors and shaving cream online. And they did it sort of under the nose of the big players who still preferred to sell their products in retail stores. Now, this is not an anti Gillette episode, In fact, I love their Razors. They're pretty great. But for a long time, Gillette had no competitors and their profit margin on Razors was massive.
+
+0 (5m 23s):
+But in 20 12, 2 friends, Jeff Rader and Andy Katz Mayfield thought they might be able to offer an alternative, a high quality razor for maybe up to half the price of a Gillette. Except there's one massive challenge. Making a razor that literally shaves a layer of skin off your face or legs or underarms and does it deftly and precisely is really hard, so hard that there are just a handful of factories around the world in very specific countries that have the technical know-how to do this. For starters, You need specialized steel and that steel has to be milled and ground with such precision to make sure it doesn cut someone's face off.
+
+0 (6m 6s):
+And another thing, most of those factories are either owned by Gillette or they have no capacity to make Razors for a new brand. And when Jeff and Andy decided to enter this industry, they had no idea the obstacles they were about to face. And like all great founder stories, these guys were well, pretty naive, which may have worked to their advantage so much so that they soon realized that in order to make their idea work, they had to figure out how to buy their own Razor Blade factory. Jeff Rader and Andy Katz Mayfield grew up three towns away from each other in the suburbs of Boston, but they didn't meet until around 2004 when they were both still in college and wound up in the same internship program at the consulting firm Banyan Company.
+
+3 (6m 55s):
+I literally remember the first day sitting there in like business casual. I think I was like literally wearing a Brooks Brothers shirt that my mom had bought me. Like just kind of looking around like trying not to screw this up and like I really need a friend. And seeing Andy and being like, yeah, that's essentially being like, Hey, we're kind of in the same experience together. It's up. I'm Jeff. And we just kind of got to know each other then. And then there were 10 people in our intern class and a bunch of us became like pretty good friends.
+
+5 (7m 24s):
+Yeah, I mean ge, Jeff's habits when he was particularly stressed out was like about a three or 4:00 PM McDonald's run to the Times Square McDonald's around the corner from our office. So yeah,
+
+3 (7m 35s):
+From time to time I'd be like, Andy, I just need like a walk. Come take a walk with me.
+
+5 (7m 38s):
+I was like, what meal is this, Jeff? It's three 30 in the afternoon. it doesn matter. I need a cheeseburger.
+
+3 (7m 42s):
+It's always a good time for Chicken McNuggets.
+
+0 (7m 44s):
+Yeah. Yeah. Great. All right, so you guys become friends and, and you career paths kind of merge. I mean you both were Bain for a while, you worked there for a while, and then you both go to another, like a private equity group called Charles Bank in New York. And then you both go to business school, different ones. Jeff, you, you went to Wharton and, and Andy, you went to Stanford. And did you guys keep in touch while you were at different business schools?
+
+3 (8m 8s):
+Yeah, we talked a bunch. I remember seeing Andy back in New York when we were both back on break. And I remember actually sending him, you know, when I was at Wharton, we started working on Warby Parker. and in the early days I was just looking for advice and I remember sending him like a very early version of our business plan from Warby Parker, literally like I send Andy this business plan and I get like a markup red pen version back being like, not sure about this, this one, here's a question I'd have. And so yeah, I think we were always kind of in touch.
+
+0 (8m 40s):
+All right, so let me, let me kind of dive into this with you, Jeff, because as you mentioned, you were part of the founding team of Warby Parker and we told this story on the show many years ago. Neil Blumenthal and David Gilboa were on the show talking about, you know, the founding of the company, which was started at Penn. They were all, you were all business students. It was like, I think four of you, four of us, four of you guys, you were all students at Penn. And tell me how you, like how, I mean from your perspective, how did it, how did it start?
+
+3 (9m 12s):
+Yeah, so for me, the journey at Warby started when I was sitting around after class with Neil one day and Dave walked up to us and said, what do you guys think of the idea of selling glasses online? And at the time I was wearing prescription glasses that I'd had for many years and I was like, Ugh, that I would love, you know, a pair of glasses that, you know, sort of well made that spoke to who I like the sort of fashion statements that I would wanna make, kind of, you know, were a representation of who I am and that I could get at a much better price. And Neil was just sitting there being like, you could totally do that. Like the reason that glasses are so expensive is because, yeah, the industry's been dominated by a couple companies and there's a significant markup between sort of the cost to make the products and then the cost that they're sold for pretty quickly.
+
+3 (9m 60s):
+Four of us, Neil and Dave, our other co-founder, Andy Hunt and and I got together and, and started working on Warby. This
+
+0 (10m 7s):
+Really became business school for you. Totally. You guys launched, you started, you, you, you pulled some money together. I think you presumably you had some money from your time at Bain and Yeah,
+
+3 (10m 17s):
+I had an interesting situation. I had worked at Charles Bank, as we mentioned, they had paid for me to go to business school and then I had agreed to come back afterwards for a couple years. And so I had business school paid for it. What we did, what I did was took out loans, but otherwise I would've used to pay for business school and then used whatever extra capital we had to to start to fund Warby Burger. Wow.
+
+0 (10m 37s):
+So you guys pulled somebody together and from, from what I remember, Neil and Dave when they were on the show a few years ago, I mean you guys had all these great resources on campus. You had business school professors and people with experienced starting businesses. So you are asking lots of people for advice.
+
+3 (10m 52s):
+Yeah, it was awesome. I mean, we would get to go to professors at the end of class, but I know we just did a case on Coke and Pepsi, but we really need your help in terms of like, how do you price eyeglasses? You know, like how do we think about like what the right price is and how we make margin and how we deliver people great value and how we could sell glasses online but also give people the chance to try them on. And I remember one of our professors being like, why don't you just do Netflix?
+
+0 (11m 16s):
+Like Netflix or eyewear. Yeah.
+
+3 (11m 18s):
+Like when Netflix was sending DVDs back and forth to each other, like, ah, that's it. Yeah, interesting idea. And David kind of come up with the idea independently and we both got together in a meeting and we're like, we should do Netflix. And he's like, I totally think we should do Netflix. And that ended up becoming a really important part of Warby Parker today we have a home try-on program where you can try on five pairs of glasses Sure. For free. And that enabled I think people to feel comfortable, you know, getting to try them before they bought them online.
+
+0 (11m 41s):
+Do you think you would've stayed at Warby Parker had you not had made the commitment to go back to Charles Bank?
+
+3 (11m 48s):
+You know, I don't, I don't know. It was never like a thing that I actually never, a real life scenario that I had to contemplate. Charles Bank's main offices are in Boston where I grew up and I, I always thought I'd move back to Boston and I think only after having the Warby Parker experience did I realize that I actually might be happier doing something else professionally. It Warby Parker like changed my life in that way.
+
+0 (12m 14s):
+Yeah. Alright. So you are at, you know, working back at this private equity firm. Yep. And Andy, you are, this is now 2011. You've graduated from, from school, you're living in la Were you guys, I mean were, were you in touch just generally to kind of shoot the breeze about ideas?
+
+5 (12m 38s):
+Yeah, you know, we would talk occasionally. He came out and visited at Stanford when they did this Warby Parker, you know, trunk show. And I did think that what Warby was doing was interesting and, and unique. So I kind of had that in the back of my mind that the idea of building a brand, launching it direct to consumer, obviously that's not such a novel idea and in 2023, but it was a pretty novel idea. and in 2010, 2011, yeah.
+
+3 (13m 8s):
+And I, I remember we had lunch I think in Boston like 2010, early 2011. And I think at that point it was kinda like a year into Charles Bank and I think I was like, Hey, I think I'm gonna do something else entrepreneurial at some point. I think you may had just graduated. I'm, I'm probably don't have the dates. Totally right. But you were like, yeah, I'm thinking about stuff too.
+
+0 (13m 30s):
+So October, 2011, Andy, you get an idea for what would become this business we're about to talk about. Tell me, tell me how that, what happened?
+
+5 (13m 41s):
+Yeah, so I was driving home from work. I stopped at a drugstore actually right around the corner from where I'm sitting right now on 14th and Wilshire in Santa Monica. And I knew I needed to buy razor blades cuz I needed to shave. The next morning, I think I had a meeting or something like that and I had run out and I went into the drugstore. The product was locked away. And still to this day, oftentimes razor blades are, are locked away and they're locked away because they get shoplifted all the time and they get shoplifted all the time because they're extraordinarily expensive. So I'm wandering around the store looking for an associate to come open the case, which I'm kind of like, this is sort of an absurd experience.
+
+5 (14m 26s):
+I'm not buying, you know, a $5,000 diamond bracelet or something like that. I'm buying razor blades and you know, as I'm waiting for this associate to come and unlock it, I'm looking at sort of the packaging and in the brands, and I think there was literally a picture on one of the packages of a razor blade, like kind of getting shot into space, you know, flying over the moon or something like that, which I understand what this brand was trying to communicate to me, which is like, yeah, you should pay an exorbitant amount because there's a lot of technology in this product. But it felt, you know, not resonant, a little bit inauthentic to me as a, as a consumer. And then I get my razor blades, I go to the cashier, I check out, you know, I pay $25 for four, you know, four cartridges effectively, which I knew I was getting ripped off and getting taken advantage of, but you're sort of trapped is is a pretty negative reaction.
+
+5 (15m 17s):
+Yeah, I could have bought sort of a cheap disposable product, but so, you know, I'm taking a knife to my face, I care about quality. And so the light bulb sort of clicked for me that, hey, you know, there is a single player that really dominates this industry. And that was also true of Warby Parker. And one of the reasons why prices were so inflated is that there was effectively a monopolist. And so I immediately drew some, some similarities to, in my mind from an industry standpoint to, to Warby. and, you know, I was, you know, thinking about it that night and sent a, a note to, to Jeff and said, Hey, like I just had this experience last night, like what do you think about, you know, shaving or grooming as, as another category that might, you know, be ripe for, for disruption.
+
+5 (16m 9s):
+But that was the beginning of the dialogue and the idea.
+
+0 (16m 12s):
+Jeff, what do you remember about that conversation about when, when you first heard this idea?
+
+3 (16m 17s):
+Yeah, I was sitting at work and Andy G chats me and it felt to me like the early days of Warby Parker when I was like, oh, I just want a pair of glasses, you know, that are great, that don't cost very much. And so I think like his experience resonated and I was like, let's, let's go look into this. Like this is exciting. And I think, you know, the first conversation we had was, was I think about the brand and being able to deliver high quality product at good value and then a lot on like direct to consumer. Like we felt like that was an exciting channel and opportunity to go and get to engage with people. Like the one thing that I learned at Warby, or one of the things I learned at Warby was like, it was an amazing place to have direct dialogue with customers.
+
+3 (17m 1s):
+And the cool thing about shaving is that it was gonna be a repeat purchase. And so you're gonna have multiple bites at the apple to get to know people and try to sort of tailor an experience to them, which at the time was exciting. And I think what enabled us to bypass at least to start a lot of the existing industry dynamics so that we could build something that was a little more consumer-centric, at least as, as we defined it.
+
+0 (17m 23s):
+When, when, so when Andy sort of brought this idea up to you, this is October of 2011, how quickly before you, you were like, let, let's, let's dig into this. Yeah,
+
+3 (17m 34s):
+We started digging into it pretty quickly, if I remember correctly. And I think we did a couple things. I think one, we started to like truly understand the industry, you know, what is the structure of the industry? Who makes razor blades? How big are these companies? How profitable are they? And what was cool, what was interesting is like, you know, Gillette who had dominated the industry, had sold a Proctor and Gamble for like over 50 billion and before they sold they would report their, you know, kind of financials. They were like one of the most profitable CPG companies ever built. And so we kind of looked at that like, huh, they're making a lot, a lot, a lot of profit. Like, you know, the reason that they're upcharging so much is because they're, they're so profitable.
+
+3 (18m 14s):
+Like they, they really, truly have figured that out in this market how to just, and
+
+0 (18m 18s):
+It and dominate and dominate
+
+3 (18m 19s):
+And dominate. And then we started talking to a bunch of our friends about it. Yeah. And I think they had the same feelings that we did. And so all of those things were kind of signed to like, hey, there is an opportunity here if you could make really high quality blades at good value. That was kind of like the, if
+
+0 (18m 35s):
+Andy, you were in LA and Jeff was in New York and you guys were just both kind of doing research from, you know, from, from where you were and then you would kind of reconnect every couple days.
+
+5 (18m 48s):
+Yeah. You know, we, well Jeff had access to like, you know, analysts and industry stuff through Charles Bank and I actually had access to some of that stuff through like the Stanford Library database that I still had access to as a business school student. So we could get some of that stuff. I remember we ran a consumer survey and you know, we spent a lot of time just trying to sort of network to people that knew something about the industry and then just talking to, you know, our friends guys in general. And, and to, to what Jeff said, I think in some ways that last thing was the most confirmatory because when you talk to guys, everybody was like, yes, I have had that experience. I hate it.
+
+5 (19m 29s):
+But yeah, this was like nights and weekends. I mean, as Jeff mentioned, I, we probably spoke every night. I could never, I had, I had like a job, but it wasn't, you know, in all consuming job. Yeah. And, and I was doing this, Jeff had like a really serious job plus Warby plus this. I was like, I don't know when this guy sleeps, but we, we, we spent a lot of time on it very quickly because I think we were really excited about the idea.
+
+0 (19m 52s):
+So it would be, I mean, it would be a year of research and kind of digging into this before you would launch Harry's, which we'll get to in a bit. But I want to, I wanna spend some time on, on this sort of nine months to a year process because you had a lot of questions that You need answered. Why is this so expensive? How do you make this stuff? And, and so first of all, I mean, the expensive part makes sense, right? If one company has such a huge dominance in the market, they can make slight alterations and changes to their Razors and just charge a lot of money and people are kind of stuck. But there's another component here, which is, from what I understand, making razor blades for shaving is very complicated.
+
+0 (20m 37s):
+It's not actually as easy as many people might think. Super hard. Yeah, that's
+
+3 (20m 41s):
+Totally right.
+
+5 (20m 42s):
+And that was, that was the biggest thing that we didn't understand immediately going into this. Because you're like, okay, Gillette's a monopoly. They charge all these prices, like, you know, and, and most consumer packaged goods are reasonably commoditized. There's probably a hundred manufacturers, you know, throughout the world, right? That can make, or, you know, thousands that can make soap or hair styling products or whatever, and razor blades not. So there is a ton of really sophisticated technology and intellectual property that goes into the design. And then even if you had accents to all of the IP and and kind of design know how the manufacturing process is really complicated as well.
+
+5 (21m 31s):
+And so we could build a brand and, and a and a customer experience I that, that would be different in Superior. But then we started trying to figure out how to make this product cuz obviously You need a product to go with your brand and, you know, trying all these, you know, non-branded alternatives and researching manufacturers. And we were like, oh, like these products are really bad. There's not a lot out there. Like, this is gonna be a real challenge
+
+0 (21m 58s):
+When we come back in just a moment. Jeff and Andy use Google Translate to partner with a razor factory in Germany and come up with a name Harry's, because, well, it's friendly. Stay with us
+
+5 (22m 11s):
+. I'm Guy Raz and you're listening to How I Built This.
+
+MasterClass (22m 26s):
+One of the reasons I love this time of year is that more and more fruits and vegetables are coming in season and it's an opportunity to prepare fresh meals in my own kitchen. In fact, I learned so much about choosing seasonal ingredients when I took a class with Chef Alice Waters on masterclass. With masterclass, you can learn from the best to become your best anytime, anywhere and at your own pace. Annual membership start at $10 a month and you get unlimited access to every instructor. Thousands of online lessons, exclusive content insights, and much more. There are over 180 classes to pick from everything from Jazz with Herbie Hancock to self-Made Entrepreneurship with Sarah Blakely, and new classes are added every month. The Alice Waters class, for example, teaches the art of home cooking with amazing insights on building a home pantry and essential tools for the kitchen, yet unlimited access to every class. And right now as a How I Built This listener, you can get 15% off when you go to masterclass.com/built. That's masterclass.com/built for 15% off an annual membership masterclass.com/built.
+
+Burrow (23m 35s):
+Once a company knows what they do best, where do they go from there? Well, if you're borough the furniture company known for reinventing everything you thought you knew about furniture, you go outside. That's right. Burrow's new outdoor collection just launched with a strong chip resistant, galvanized steel frame and easy to clean fabric. Burrow's outdoor collection is built for everyday use and to withstand the elements, the modern sleek look and quick drying plush foam cushions bring the comfort and style of indoors outside and the easy to remove cushions make for easy storage when You need to put it away. It's also customizable. Choose from 19 different configurations and purchase individual pieces or bundles to fit your seating needs. And as always, get free shipping on every order, which can save you up to $100 on large items. Like the outdoor furniture in this collection, How, I, Built This listeners can get 15% off their first order at Burrow dot com slash built. That's Burrow b u r r o w.com/built for 15% off Burrow dot com slash built. One more thing before we get back to the show, please make sure to click the follow button on your podcast app so you never miss a new episode of the show and it's totally free.
+
+0 (24m 56s):
+Hey, welcome back to How I. Built This. I'm Guy Raz. So it's 2012 and Jeff and Andy are trying to answer the question, does the world need another razor company? And to answer it, they're doing a lot of shaving. You guys were literally presumably buying every razor you could buy and just shaving with it.
+
+3 (25m 17s):
+Yes, we tried. Everything I think came to the termination that Andy mentioned pretty quickly that like there's a significant difference between, you know, kind of high performing products in this market and lower performing products in this market. and in order for us to build a brand, we had to be in that kind of high performance tier, otherwise it just wouldn't work. And
+
+0 (25m 37s):
+We're we're most, most Razors made, I'm assuming probably China, Germany, Korea?
+
+3 (25m 46s):
+No, there's a significant concentration probably relative to lots of other industries of manufacturing in North America and in Europe. And the reason is, one reason is because a lot of this stuff is highly automated. You're talking about machines that have to make little grind a perfect edge on little blades, millions and millions and millions of times over with like zero deviation. Otherwise you're gonna feel it in your shave experience and then slot them into cartridges with like immense precision. And so what you, I think where, where the industry grew up was in places with really, really strong engineering cultures and, and the, the dynamic in the industry, what's interesting is that most of the brands are fully vertically integrated.
+
+3 (26m 26s):
+They
+
+0 (26m 26s):
+Do everything. Yeah.
+
+3 (26m 28s):
+Gillette owns all their own manufacturing.
+
+0 (26m 30s):
+It's harder to find like a co-packer, as you say in the food industry.
+
+3 (26m 34s):
+It's very, very hard. Yeah. And so when we started, that was our biggest concern. And then the other thing we were really concerned about was even if we could find quality razor blades, how could we make sure that they were unique and distinct to Harry's? Yeah. Because our, you know, concern is like, let's say we, we scour the earth and we find the one place that could make amazing razor blades for us, which we, we, we ended up thinking we actually did. Then we have to make sure that those people don't just turn around and sell the exact same razor blades to, you know, Larry's and berries and whoever, you know. Right. Because then what's gonna be unique about us?
+
+0 (27m 8s):
+And what about, what about you Andy? I mean was it, was it also just all consuming you, you became really convinced that this could work? I mean you mentioned that there were a few moments where you thought, okay, we've hit a roadblock and maybe, maybe this isn't gonna work.
+
+5 (27m 23s):
+Yeah, I mean it, it was all consuming and I think there was kind of a trifecta of, of factors as I, you know, was getting increasingly excited about the idea and you know, also trying to make a rational decision of like, all right, do I wanna make this jump? Do I want to, you know, spend all my time and energy on this and take that level of, you know, career risk? But in Jeff, I had somebody who I respected tremendously, obviously he had the Warby Parker experience and we'd worked together, but you know, we were also close friends. It felt like almost the perfect match for somebody who you would wanna start a business for. So, and yeah, the thing that the really, the only thing that was giving me pause was this, Hey, can we make a product that actually works and performs and in is sufficient quality?
+
+5 (28m 9s):
+Yeah. Given the stakes involved, you know, you're literally taking a knife to your face and, and it's in a pretty important experience. Probably the most important grooming experience for guys from sort of a both practical and emotional standpoint that if the product doesn't perform, nobody's gonna come back and buy your product again. Like they're gonna be resigned and go back and spend, you know, $25 on Gillette. And, and that's the model that had worked for Gillette forever.
+
+0 (28m 35s):
+All right. So you guys are digging into this and you're looking for some partner that could manufacture blades that would be somewhat different. And so yeah. How did you, how did you identify what that would be?
+
+3 (28m 53s):
+I was reading like a shave blog one night written by like real shave enthusiasts, you know, who, who tend to use double edge blades.
+
+0 (29m 2s):
+That single edge blades that you can blade, that you can
+
+3 (29m 5s):
+A single blade that goes into a safety razor
+
+0 (29m 7s):
+And you can use both sides.
+
+3 (29m 8s):
+Yeah, use both sides. Exactly. And they were talking about this factory in Germany called fine technique that they said made some of the best double edge blades in the world. And I was like, huh, that's interesting German factory, I wonder if they make anything else. And so I literally just like Googled it, you know? Right. Looked them up online and they made, you know, like more advanced razor blade products, they made, you know, three blade and five blade razor systems so you know where you have a cartridge and it connects into the handle. And the next step was for us to try to get in touch with them. We ended up just like literally reaching out cold and I think maybe sent them an email and I was like, Hey, I started this company called Warby Parker and we've had some success in eyewear and we think there's an interesting opportunity to apply a similar model to shaving, but in order to do that we need to find a partner who can make us an amazing product.
+
+3 (30m 2s):
+And then we said, okay, before we'd move it forward, send us, will you just send us some to try? And so I think I literally remember getting a box sent to New York, I got home immediately tried the product, walked to the bathroom, like saw my wife. I was like, these are good. Like these will work. These are good. All
+
+0 (30m 17s):
+Right. Let me just ask you about the razor blade technology for a moment. You mentioned that you first heard about them cuz it, cuz you heard they made a great double-edged single razor, right? Yep. Which is like the old school like, like my grandpa used to use and some people still use 'em, especially people who get, you know, irritated skin. Totally. And then over the years, you know, these three blade systems and then four blade systems and now five blade systems were introduced, which is what many people use these cartridges you attached to a handle and it's got literally four or five blades and so it like shaves under the skin, it shaves so close.
+
+0 (30m 57s):
+Right. It like actually takes a micro layer of skin off basically.
+
+5 (31m 2s):
+Yeah. It also just, it covers like more surface area. So they're, they're absolutely superior products in terms of, you know, shave performance like quality and comfort relative to, you know, an older style. And so in the grinding process, which is really where the secret sauce of razor blade manufacturing comes in, it's, it's the actual grinding of this very thin steel. To get that edge and get that shape is a very hard process to perfect. And to get billions of these things made at very, very high velocity in a consistent way is really where the complexity of the process like comes into play.
+
+0 (31m 43s):
+Were were they using like special steel for example?
+
+3 (31m 46s):
+I think ours comes from Sweden. Yeah. So very sort of technical manufacturing of the steel itself that we, you know, we source,
+
+5 (31m 54s):
+Yes, there's special steel, there's a process effectively to heat and cool the steel, which is what kind of makes it malleable first, which has to be done at extremely high temperatures, extremely low temperatures. It's, you know, and in a ton of precision and in how that happens in these giant ovens that are literally like the length of a football field.
+
+3 (32m 18s):
+And then the thing that kind of blew my mind when I went to the factory the first time is through this heating and cooling process that Andy mentioned, you actually changed the metallurgical composition of steel. You like liquified in the heating process and then you cool it to harden it and you actually need a harder form of steel to put the edge on that we, that Andy just mentioned. And so we actually changed the steel itself. E even if someone was gonna source the same exact steel, the manufacturing process, the first step of the process actually is to change the steel itself. Wow. Such that you can then grind this edge in a way that's gonna sort of work well
+
+0 (32m 55s):
+It's like using a diamond to cut a diamond. You kind of have to do that.
+
+3 (32m 58s):
+Yes. Yeah. Yeah. I guess, I guess, so
+
+0 (33m 1s):
+You guys get these samples from fine technique, this factor in Germany and I guess you decide we gotta go there, we gotta go check it out.
+
+3 (33m 10s):
+Yeah, I think the first time we went was January of 2012.
+
+5 (33m 13s):
+Yeah. We, I think we got the product right before Christmas or right maybe right around Thanksgiving. What
+
+0 (33m 18s):
+Was the goal of that trip?
+
+5 (33m 19s):
+Well, as Jeff mentioned, you know, for us what was gonna be important was, you know, they had sort of a catalog and they would've just sold us off the shelf product, but we wanted to build a brand that looked and felt very different, that had a more elevated aesthetic and so it was gonna require some level of customization. So we needed them to buy into doing that for us.
+
+0 (33m 42s):
+Sorry, when you say customization like that the cartridges would connect with your handles?
+
+5 (33m 47s):
+Cartridges would connect with our handles that we could make our own handles that had a very different look and feel and design that we wanted the, the head to bend in a specific way that we thought was gonna be best for the consumer. Right. We wanted, you know, different color ways, so things that would make our product look and feel and In fact be unique and different.
+
+0 (34m 8s):
+Tell me about your impressions. I mean you get to Germany, this is, it's a tiny town. It's like, I I looked at it on the map I think, is it, is it in the former East Germany? Yep.
+
+5 (34m 18s):
+Yeah, it's, it's very rural. It's this very small town where there are a few manufacturers there, but Feintechnik was kind of the biggest employer and, and biggest Cayman town. And yeah, I remember getting there, it was late January, you know, at night it was freezing cold.
+
+3 (34m 34s):
+We were like, what are we doing here? And I remember we got there and it was so cold.
+
+5 (34m 40s):
+I mean the, the name of the town where the factory is is is Ice Feld, which literally translates to Icefield if it gives you any, any sense for the, for the environment there.
+
+0 (34m 50s):
+So when you get there and you talk to them about this vision, what's their response? I mean, you guys were, you know, a couple of young guys out of, you know, business school, they probably had no idea what Warby Parker was, and I don't know if that impressed them and they were happy to just sell you Razors or, or, but, but you wanted something a bit more complicated.
+
+3 (35m 15s):
+Yeah, I think it took us time to try to build some credibility there. In the early kind of days they would, we'd be emailing with them, they would email to each other in German and then we would obviously look at the, all this German back and forth between them and you know, put it into Google Translate and be like, what, what are they talking about? And like they would literally like in their emails being like, the American internet boys would like to order, you know, x, y, z from, they'd like us to customize the razor cartridge in this way. And we're like, oh my gosh, they're calling us the American internet boys. But you know, I think, I think that through a set of a long set of interactions, again, like over many months, we tried to convince them that like we were legit and then we committed to buying a million razor blades.
+
+3 (35m 59s):
+Like we signed a contract to buy a million razor blades, which for them at the time was like a meaningful number. Yeah. And that I think also indicated that we were legit and we gave them a forecast based on kind of some of our early trajectory at Warby and some kind of modeling that we did that said, yeah, the million could turn into many millions pretty quickly if, if we can get this thing moving. And so I think that was helpful for us in terms of building credibility, but that definitely took time. What,
+
+0 (36m 27s):
+But I mean, when you made a commitment to buy a million Razors from these guys Yeah. Did you have a, did you have millions of dollars at that point to give to them?
+
+3 (36m 37s):
+No. Nope. No,
+
+0 (36m 38s):
+Because at that point you had not raised money yet.
+
+3 (36m 41s):
+Right. So we had to come back to the States pretty quickly and yeah, at that point told the folks at Charles bank, I was leaving, we were on the hook for a million razor blades, so we need to make this business come to life. Yeah.
+
+5 (36m 53s):
+It was $300,000. I remember that. It was like 30 or $350,000, like 35 cents at cartridge I think.
+
+3 (36m 59s):
+No, it was more, it was like 500 or
+
+5 (37m 3s):
+More. Was it 500? Oh, I guess our prices came down over time.
+
+3 (37m 6s):
+Yeah. It was euro cents versus dollar cents. And so we had to figure that all out and we were like, you know what, what do we do? Like how do we figure this out? And, and so yeah, we wrote a business plan, we had a contract, like literally a physical contract and we, and we had good investor relationships with early stage venture investors, you know, because of Warby Parker, Warby Parker at that point had raised a couple rounds of capital and had a great investors. And so I, I knew some of them and some of them I, I got introductions to. But we had a bunch of Warby Parker investors who I, you know, in retrospect are gonna do great on Warby Parker who invested early at Warby Parker not invest in Harry's.
+
+3 (37m 46s):
+And so it wasn't like everybody was rolling out the red carpet. Like we still had to, you know, go out and do our best to, to get that capital. And yeah, we were very fortunate to have a bunch of folks who, who believed in us enough to, to want to do it.
+
+0 (38m 2s):
+Be before you at, at what point did the two of you, I mean obviously you, you're, you've got traction now, you know, it's the summer, you know, almost the fall of 2012, and I think that's when the two of you left your day jobs and you officially founded Harry's in September of 2012. Yep. I mean, when, first of all, I mean, when did you decide, do you remember when the two of you said, we're going to go for this Yeah. Quit our jobs and we're gonna start a business like it must have been a few months before that?
+
+5 (38m 36s):
+Well, I remember a distinct, so we went back to Germany in May of 2012. That was our second trip and that's when we actually negotiated and signed the contract. And so I remember being in the rental car with Jeff driving back to the airport and kind of looking over at him and be like, we're doing this right because like, I'm gonna go quit my job. Are you gonna quit yours? I don't wanna quit mine if you quit yours. and it was like, yeah, yeah, we're gonna do this. I was like, okay. So that, and that at least for me was sort of the, the, the point of no return in the moment in time when you know it was gonna go from a nights and weekend adventure to, to a full-time endeavor. I don't know if that was it for you, Jeff?
+
+3 (39m 14s):
+Yep. That was it. Ride back from the factory in May after we had a deal.
+
+0 (39m 20s):
+Wow, okay. And the deal was to buy
+
+3 (39m 22s):
+A million razor blades. A million
+
+0 (39m 24s):
+Razor blades. Okay. So you had to go back and, and, and at that point, did you have a name for this potential business?
+
+3 (39m 31s):
+I'm not exactly sure when we, when we had Harry's as the name, but I think we were at least
+
+5 (39m 35s):
+It was around then.
+
+0 (39m 36s):
+How did you come up with a name? Is there a person named Harry?
+
+3 (39m 40s):
+Yeah, so there was a grandfather figure of mine named Harry who we liked. We liked the idea of shaving being passed down from grandfathers to fathers and fathers to sons as like a general idea. So we, we wrote down all of these kind of like people in our lives who were kind of grandfather father figures as like a beginning of inspiration. Then we saw Harrys and we're like, can we really call a shaving brand Harry's? And we both kinda laughed. It was like a, you know, funny in that way. And then when we started talking to people about it we're like, you know, what do you think about calling it Harry's? They're like, oh yeah, like my Uncle Harry or like my neighborhood bar Harry's like, and we were like, that's what we want. Like that's the, the feeling we want. And then we felt like we could pair it with kind of warm masculine colors like Navy and an olive green and burgundy to make it kind of, you know, build this kind of warm but but sort of design-centric world around it.
+
+3 (40m 26s):
+Which I forget the references we were thinking about at the time, but like we liked, you know, Barneys or even Fred Siegel, you know, they were just like kind of these like, yeah, Fred
+
+0 (40m 34s):
+Elevated Barney, but warm Fred and Barney. And
+
+3 (40m 37s):
+So we felt like that was a good kind of place in contrast to the other brands in the category that we felt like maybe we're trying to tell guys to be the best and perfect and you know, the traditional kind of shaving kind of like ads of a guy with a six pack looking off into the distance with like a perfect jawline shaving one side of his face as like a woman runs the other. Like that was kind of like what was out there and maybe what wasn't as appealing to us. And we just wanted to be like this kind of like honest, open, warm, approachable, friendly brand that's like, we don't actually, we're two guys just like you.
+
+0 (41m 9s):
+And and what about, I mean, you mentioned colors I think of orange or that blue as Harry's colors. Yeah. Were were those colors from the beginning?
+
+3 (41m 18s):
+Yeah, so we were sitting around with this design agency that we work with today, they're called Mythology. At the time they were called partners in Spade. One of the folks there looked at us and was like, you guys should make Razors that look like traffic cones. And we're like, what? And he is like, yeah, tra orange traffic cones, just try it, it'll be cool. And we're like, okay. Like I'm, why not? And so we mocked up a sample of an orange razor that we looked at and we're like, this looks cool. And then we started to meet with people and everyone would be like, what's up? This orange one looks awesome. Like, I love the orange. And over time we're like, huh, there, there really is something to orange. Orange was our number one handle when we started and it w totally surprised us.
+
+0 (41m 60s):
+Alright, so you have, you've got the name and you've got the, you've got this commitment to get the Razors made, but you've gotta raise the capital to pay for them and also to make the handles and then to, to start this business. So, so you, Jeff had had obviously experience raising money with Warby Parker. How much initially did you, did you guys need to raise?
+
+3 (42m 25s):
+I think we ended up raising $4 million in our, in our first round.
+
+5 (42m 30s):
+Now, now it sounds quaint, you know, there's like 10 million seed rounds, but at the time it was actually a pretty big seed round and people were like, well, you know, what's what's, you know, minimum viable product mvp. Were like, oh, there isn't really like an MVP here. Like, we need this thing to work out of the gate. Like it's a, it's a razor. We, we need the product to be good. We need the inventory. Yeah, I think we, I think we set out trying to raise three and line up raising four, something like that.
+
+0 (42m 51s):
+And how did you guys split the company between the two of you? Was it just, you know, 50 50 simple.
+
+3 (42m 59s):
+I, I think that's actually been really important for us too, like having the same economic incentives all the time, same ownership, like it's just good, you know, equal partnership. I, that's, I'm really glad we did that in retrospect.
+
+0 (43m 12s):
+All right, so you guys have this money to launch. And did you, I mean, by the end of 2012, you've, you've, you've raised the money and you've got a plan here. So what was the plan? What was the idea? I know you launched in 2013 in March of 2013, but what did you do to prepare for that launch? Did you hire people? Did you, what, what happened during that time?
+
+5 (43m 36s):
+We, so we raised money over the summer of 2012. I quit my job, like around Memorial Day and I think Jeff stayed at Charles bank through Labor Day. We had all these designs, we had to go manufacture the product and, and ensure that, you know, we, we needed packaging, we needed the handle, we needed the cartridges, we needed to assemble all this stuff we needed to website and we needed some people to help us do those things. Neither Jeff nor I had really operated before. and you know, Jeff had a little bit of experience with Warby Parker, but, you know, and, and actually one of our, our, our, our biggest earliest investor, they were like, look we'll back you guys, but You need to find somebody that actually knows what they're doing. Like from an operational standpoint, you guys seem smart, but, but you've never done this before.
+
+5 (44m 19s):
+And so they introduced us to this guy Will, who's still our COO to this day I would say that, you know, Jeff spent more of his time and energy and what he's really, really good at, you know, sort of brand and design and, and consumer and marketing. So he was really leading the charge on a lot of that work and a lot of those decisions. I spent a lot more time and energy on the operations and setting up the manufacturing partner. And so that was sort of how we divided and conquered things through that. I guess it was about a nine month period from when we raised capital to when we launched in March of 2013.
+
+0 (44m 55s):
+I mean the I and the idea was was what, at the beginning it was to just, it was to, was it to be like a, a monthly subscription? Was it to be selling, you know, just Razors and blades a la carte? What, what was, what was it gonna be?
+
+3 (45m 16s):
+We, we always thought of Harry's as a brand first. And so the way that we started was not on subscription actually, but we, we made these shave sets. They were a razor, we still have 'em today. A razor? Yeah. With a handle on it plus two additional handles and in a and a shave cream for $15.
+
+0 (45m 35s):
+And were you, were you making the, what was it, branded Harry's Shave Cream from the beginning? Yeah. Okay. Yeah,
+
+3 (45m 40s):
+Yeah. Harry's branded shave cream. So what we did is we tried to find the labs that made the most prestige products that we could and the chemists. And then we were like, okay, can you just make us that? But we're not gonna charge $20 for it, we're gonna charge eight and try to make that kind of part of the Harry's brand identity, which is like, we can deliver you kind of great value across the line prestige products at mass prices.
+
+0 (46m 1s):
+I mean, so it's not like one product, one co-packer, one manufacturers, there's a lot of different Right. Suppliers here.
+
+3 (46m 11s):
+That's right. And as Andy mentioned, kind of while I was dreaming up ways to sell stuff, he was diligently with our team figuring out how to bring all that together. And
+
+0 (46m 19s):
+By the way, where were they all put together? Were they, were they all brought together to like a central warehouse somewhere and packaged?
+
+5 (46m 25s):
+We actually had the razor blades shipped from Germany to China where they were assembled onto the handle and put into the packaging there. So there was like an assembly operation in China. Then those were shipped over to this three PL in Connecticut are shaving cream and shaving gel were manufactured at a facility in New Jersey. We had another supplier in New Jersey that was making the, these boxes and these inserts that the initial like kits would be assembled into that would ultimately be shipped to the, to the customer. So yeah, it was a, it was a crash course in supply chain.
+
+5 (47m 6s):
+Yeah,
+
+0 (47m 6s):
+So basically, and and when you, when you were ready to launch, how many, how many people did you, did you have full-time as, as full-time employees? Yeah,
+
+3 (47m 18s):
+We had like 12. Right, okay. People as full-time employees and turned the website on, got a bunch of great press right at the start and kind of we were off to the races.
+
+0 (47m 30s):
+How, how did you do that? Did you, did you hire the same PR firm that, that worry Parker had used?
+
+3 (47m 36s):
+Yep, yep. We hired the same pr we actually worked with two PR firms and leveraged every personal relationship we had just to try to get, yeah, we were like literally running around New York for the, the few weeks before launch, just trying to meet with as many people as possible to tell them about Harry's before Harry's actually launched. In that process, we were getting incredible feedback from people on the brand and how they thought about it and how we should talk about it. And that was great.
+
+0 (47m 60s):
+And so what happened, I mean, when you launched you already had press and so did your, I mean, did, did you guys have tons of traffic right away?
+
+3 (48m 9s):
+Yeah, we were kind of blown away. There was this great, it still is this great men's blog called Uncrate, and I'd reached out to the, to the guy who ran it. I
+
+0 (48m 17s):
+Know that blog. Yeah.
+
+3 (48m 19s):
+And, and he never responded, so I was like, oh, I guess he didn't, you know, didn't wanna talk about Harry's. And then all of a sudden right after we launched, we sent him a sample right after we launched. I just got an email from him that says, hope you have a good server son. And then he posted the link to the Uncrate article and like our whole website like blew up. And I was like, oh gosh. We immediately just started to see like a ton of demand.
+
+0 (48m 42s):
+And I think what within like a couple of weeks or maybe a month you sold out of everything that you had bought that you ordered?
+
+3 (48m 50s):
+Yeah, we had more coming, but for a little while we were sold out and we started this thing internally that we weren't gonna shave until our customers were shaving. So we were like walking around three weeks after launching this stuff with like, you know, 10 day beards with people being like, what's wrong with you? I'm like, well, we're trying to get in stock, you know, and once we do, we'll shave ourselves.
+
+0 (49m 10s):
+Now this manufacturer fine technique, I mean c were they able to, I mean, given the demand, right? Yep. and you had ordered a million blades from them. Yep. But each kit was coming with three to five blades, I guess three.
+
+3 (49m 25s):
+Yep.
+
+0 (49m 25s):
+I mean, were you confident that they could ramp up production for you?
+
+3 (49m 29s):
+In the short term? Yes. In the medium to long term, we knew that we were gonna need many millions a month.
+
+5 (49m 35s):
+Moreover, while the product, when we launched we thought was really good, we immediately, and we sort of knew this already, but one of the beauty of, you know, having direct relationships with customers is that we immediately started getting all sorts of feedback, which like, oh, we, I like this, but could you add that trimmer blade thing on the back? Could you, you know, make the thing more flexible? It's, it would be really difficult to meaningfully In fact inflect product improvement without actually owning the manufacturing process. So from even before we launched, we're like, we're gonna, we're gonna have to own this thing at some point, may, maybe not the whole factory, but we need to own our own production line. Like we have to be vertically integrated.
+
+0 (50m 13s):
+So, so it was clear to you that one solution could be to build a product line in their factory that would be dedicated just to Harry's and, and that was a, an op that was a potential solution. Did, did you propose this idea to anyone?
+
+5 (50m 29s):
+Yeah, in some ways that would've been the logical place to start. So we did have that conversation with them and what, what wound up happening is the conversation moved from, well, we could, you know, try to have some sort of joint production line or, you know, we could buy this thing outright.
+
+0 (50m 49s):
+Wow. I mean, this is like two months into your business where you're having this conversation, I think. Something like that. Yeah,
+
+5 (50m 55s):
+It was a little bit crazy. And you know, I actually remember one of our investors who invested personally in our seed round, his name's Lee, you know, we were talking about this, the idea of vertical integration with him in the seed round. And he was like, well, how much money would it cost to buy the factory? And I was like, I don't know, probably like a hundred million dollars. And he was like, well, you should probably launch the brand first and see if it works, but if it does, come talk to me. So I think Jeff and I sort of like, took that to heart and yeah, we, we said, well, you know, probably didn't intend to try to go find a hundred million dollars to buy a factory two months into our company's existence, but the time is now, so let's, let's go see if we can make it happen.
+
+0 (51m 38s):
+When we come back in just a moment, how Jeff and Andy deal with the inevitable angst of marrying an old school German company with an upstart American one. Stay with us. I'm Guy Raz, and you're listening to How I. Built This. Today's sponsor, Canva for Teams is a design platform that makes it easy for anyone to create stunning visual content, even if you're not a graphic designer. Our team uses it to create episode artwork, social media posts, and graphics for our website. Canva has endless templates for things like presentations, business documents, brainstorms, posters, and more turn inspiration into design in no time with canvas wide selection of premium fonts, photos, graphics, videos, audio tracks and animations.
+
+0 (52m 32s):
+Canva also has AI powered magic features to help kickstart your creative process like Magic Wright, simply enter a prompt and Magic Wright will generate a first draft. It's the perfect way to banish writer's block, increase your output or get to a first draft fast design and collaborate with Canva for teams. Right now, you can get a free 45 day extended trial when you go to Canva dot me slash built. That's ca nva.me/built for a free 45 day extended trial. Canva dot me slash built These are our hiring goals. They say they're very aggressive, but when everyone looks to you, you're calm.
+
+0 (53m 13s):
+Why Because? you know you don't need a miracle. You need indeed. Indeed is the hiring platform where you can attract, interview and hire all in one place. One of the things that I really appreciate about Indeed is that, that it helps you easily schedule and conduct virtual interviews and not just that. Indeed s matching tools really make it easy to find quality candidates. In fact on Indeed, over 85% of employers find quality candidates whose resume matches their job description the moment they sponsor a job. Start hiring now with a $100 sponsored job credit to upgrade your job. Host at Indeed dot com slash built this offer good for a limited time claim your $100 credit now at Indeed dot com slash built.
+
+0 (53m 57s):
+This terms and conditions apply. Hey, welcome back to How I. Built This. So it's around 20 12, 20 13, very early in the business, and Jeff and Andy are already looking to acquire a German company that makes their Razors and one of the reasons they wanna move quickly, they're worried about competition.
+
+5 (54m 25s):
+Yeah, I was, I was very worried that we would have our legs cut out from underneath us, and particularly, you know, the risk of, you know, Gillette or somebody like that, buying this thing and basically putting us out of business. And so we did not want, if we could avoid it, like a full-blown competitive sales process. So time was of the essence to try to preempt that. Hmm. Yeah. So we started talking to them and outlining what a deal, you know, could look like and then had to go figure out how to, how to find a hundred million dollars to Yeah. To finance it.
+
+0 (54m 59s):
+So how did you, I mean, how did you do that?
+
+5 (55m 2s):
+How did we do that? Yeah. Well, we called Lee, who as I mentioned, had invested personally in our seed round, and he was at a, a hedge fund, tiger Global, and called him and said, Hey, Lee, remember about that, that factory thing we chatted about back in December? Well, we launched like the business is doing well and there might be an opportunity to actually go buy that. And he said, well, okay, cool. Come up next week and talk to me and my partner about it. So we went up to Midtown to meet with him and his partner and pitched them on this idea.
+
+3 (55m 42s):
+And we had a bunch of other great existing investors. And so I think with like, you know, Lee's excitement and support that helped us to start to build like what, you know, a syndicate essentially of, of investors who, who, who would wanna do this with us.
+
+5 (55m 57s):
+Hmm. And so we, we were able to get commitments for 65 million of equity. We then went to Germany to raise 35 million of debt, which was a whole different challenge to convince these like very conservative German bank lenders to lend us the money to go buy this factory.
+
+3 (56m 17s):
+The funniest thing about the negotiating process was that we, we didn't have a conference room in our office, and so Andy was sitting in like with like a makeshift table in the stairwell next to our office doing all of this, you know, on the phone with Germany, with papers are everywhere, like for for months on end.
+
+0 (56m 35s):
+All right, so now, I mean once this is, this is done, I mean, you now own a razor blade company. I want to ask you about so many things about it, but just, I mean, essentially this makes you what, you know, it's a term we hear a lot on the show and in elsewhere it's vertically integrated. Now you own, you're not dependent on a supplier to make your your product, you make it yourself.
+
+5 (57m 1s):
+Yeah. We went, you know, from a, you know, a, you know, a sort of technology enabled startup, you know, that was doing, I dunno what we were doing at the time, Jeff, you know, five or 10 million of revenue on an annualized basis to like a fully vertically integrated global consumer package goods company overnight, which was both exciting and, and daunting. I I, I distinctly remember, you know, they put us up effectively on like milk crates on the factory floor and gathered all the workers to like announce this and to introduce ourselves. And we're looking out there at 300 or 400 German factory workers. and it was definitely like an oh crap moment of, you know, like, it was exciting, but the other time was like, what did we get ourselves into here?
+
+0 (57m 47s):
+And, and now you, you went from 30 people who worked for Harry's to having 420 additional people who worked for this company. Yeah.
+
+3 (57m 55s):
+And we felt a lot of responsibility to them. Felt like the whole town of ice felt was there hearing us talk about the future of this factory and like, we better make it work.
+
+5 (58m 5s):
+I, I think in retrospect, we were slow to really Yeah. Say, Hey, this is Harry's, you know, we've got a certain set of values, we've got a certain way of doing things because, you know, they were bigger than us and, and we didn't want to upset the apple cart and we didn't know. Yeah. You know, like we're not manufacturing experts, you know, we're trusting them to run the factory, but we did, we did need to integrate in some way, shape, or form.
+
+0 (58m 30s):
+And and what about just cultural differences? You know, what were some of the challenges that you had to work through?
+
+5 (58m 39s):
+We might need three hours for my, my German American, you know, cultural Yes. Like adventures. Probably the biggest difference that we had to work through is that, you know, we were a fast moving entrepreneurial culture. Like tests learn, iterate like two steps forward, one step back. And the Germans perceive that as just, these guys have no idea what they're doing. It's, it's complete chaos. It's, it's unorganized, disorganized, but you know, the Germans are pada planning before doing, and the American perception of the German team was, they're not doing anything. Why they're not working. They're moving slowly. And of course in a manufacturing environment like You need to be more planful. You can't just like test and learn things on the fly on a website, you can do that stuff.
+
+5 (59m 22s):
+So it was, it was challenging
+
+0 (59m 24s):
+Now that you owned this factory, I mean, there were competitors out there and there were some competitors who started even before you, like Dollar Shave Club and you know, obviously the big ones like Gillette and, and Sheik, now that you owned your own production facility, presumably it, it puts you in a, I mean, a slightly different position than say like a Dollar Shave Club, which I don't think owned its own factory.
+
+3 (59m 48s):
+Right. And I think that did differentiate us from, from others. I think we, we sort of at one point said, said we were kind of the only truly vertically integrated company in the shave industry in that we literally grind steel and make razor blades and deliver them to your door vis-a-vis our own kind of co e-commerce platform. And having that whole loop from the customer back to the factory was like an area of, of advantage for us. I think at the time. And as Andy mentioned, we had all these ideas from customers and how we wanted to improve the product, and now we actually had the capability to go back to the very source and do that directly.
+
+0 (1h 0m 23s):
+I, I wonder with respect to your, your competitors, I mean, you know, sometimes people on the shelf say, well, I didn't, I don't pay attention to my competitors. I don't, but I'm not sure that's necessarily a good thing. I mean, I, I think that sometimes it's important to look at what your competitors are doing and to, to have a competitive sensibility to, to feel like you really wanna beat them. And did you guys have any of that?
+
+5 (1h 0m 48s):
+It was an interesting dynamic because Gillette globally had, you know, 70% market share, like truly insane. and you know, some people looked at that and said, my gosh, like, you know, that's crazy to take those guys on, like how, you know, and they're owned by Proctor and Gamble, the biggest, baddest CPG company on the planet. And I think for us it was always helpful to sort of have this, you know, there was like a David and Goliath narrative that I think played into our brand and that played into, you know, customers getting behind us. And I think we paid a lot less attention to Dollar Shave Club or, you know, other upstarts, like what everybody else was doing was sort of immaterial at the end of the day relative to what Gillette was doing.
+
+5 (1h 1m 37s):
+Yeah.
+
+0 (1h 1m 38s):
+Tell me how you, I mean, so, so essentially you got this, you've got your, your production facility, and I think you, you guys really went, maybe aggressively is the right word, but she really went for it in terms of raising capital for the next, you know, couple years. And there's debate about this right now. A lot of people there, lots of people who are saying, well, you know, the last 10 years this idea of growth, growth, growth, growth, Maybe you not the best approach. Other people say, well, but that's, that is the best approach. You've gotta raise a lot of money and grow because otherwise you won't be able to establish a foothold.
+
+0 (1h 2m 18s):
+Tell me, talk to me a little bit about the strategy of raising money and raising more capital. What, I mean, I'm assuming it was to, to fuel faster growth.
+
+3 (1h 2m 29s):
+Yeah. So one of the things that happened at Harry's really started beginning in late 2013, so call it six months after we launched and then through 2014, was that we started to really learn how to market to people online and get them to come to our, our website and started to grow in ways that we had, you know, not not anticipated. And so, you know, in 2014, I think our plan was to do like 10 million of revenue or something. And by like June we'd already done 10 million of revenue and we were gonna on the way to do 20 or more. And then at the same time we were recognizing we were running out of factory capacity. and, you know, the industry was starting to change, like, as you had mentioned, dollar Shave Club had launched, Gillette was out there changing.
+
+3 (1h 3m 11s):
+Like it was just a dynamic picture. And so we're like, okay, we, I think this is an important time for us to actually continue to grow to really establish ourselves as a strong brand in, in this space. And as a result we ended up raising a fair bit of capital. I would say at least half of that capital, those kind of early rounds of capital went to Germany to, you know, sort of build out the factory in the plant. I remember sitting there, gosh, this was probably 20 16, 20 15, with a reporter who was asking us the same question. And I was like, look around. There were like cranes building new buildings and dropping in heavy equipment like everywhere. I was like, this is where all the money's going.
+
+0 (1h 3m 50s):
+So as you mentioned earlier, getting people to try something once is one thing, but then getting them to, to try it again and again is another thing. And and part of that was obviously the quality of the product and the design and the price point. But did you also see, you know, Gillette lowering its price to, to start to match what you, you guys and some of the other competitive companies were offering at, at lower rates?
+
+3 (1h 4m 19s):
+Yeah, I, I think actually when, when we really started to sort of have competitors take notice was after we launched a retail Yep.
+
+0 (1h 4m 27s):
+16, you weren't Target, right?
+
+3 (1h 4m 29s):
+We launched a Target. We, we met Target in 2014. We spoke at their design like design month and we liked them. I mean, I think that what struck me when we first met them was that they talked about their customer as a guest. Like we feel like if, I don't know, we're not sure about Harry's, but if, if the guest tells us they want Harry's, then we should be serious about giving the guests some Harry's and, and with Target. And then we, you know, we launched at Walmart in 2018 and then we had to kind of work with Target to try to bring Harry's to life in their stores in a way that would be unique and sort of exciting and compelling to us. and in an aisle that, you know, was some, was a source of frustration for lots of guys. It was one of the reasons why we started the company.
+
+3 (1h 5m 10s):
+And so we didn't just want to kind of do the same thing as everybody else.
+
+0 (1h 5m 14s):
+And so when you started to sell in Target, you started, this is when you started to see Gillette change, its you respond and, and what did, what did you see?
+
+5 (1h 5m 24s):
+Yeah, when we launched in Target, we took over 50% market share of the category at Target overnight. Wow. And so whoever was sitting in Cincinnati at Proctor and Gamble when that report came through, probably fell out of their chair.
+
+0 (1h 5m 40s):
+Yeah, that's crazy.
+
+5 (1h 5m 42s):
+I mean, it blew all of our ex, I mean, it blew target's expectations away, it blew, you know, our own personal expectations away. It certainly sent us into a bit of crisis mode as it related to supply chain and, and manufacturing ISR blades. And I think it was that moment probably that some of the traditional C P G players got religion that like, hey, these aren't like e-commerce startups. Like these are serious consumer brands that are threatening our core franchises. And yeah, that's when you start to, to see much more aggressive responses in terms of price action. Yeah.
+
+3 (1h 6m 15s):
+And I honestly feel like that was one of like the greatest victories that we've had since we started at Harry's. Like we got one of the biggest companies in the industry to drop their prices to be more consumer centric to try to sort of engage with us. and in on the marketing side, I think the place where we, we went public the most was they created a campaign. It was to the song Welcome Back, and it said that most of the customers who try Harry's leave Harry's. And that just wasn't true. Like we had all the data of our direct to consumer business. And so we sent them back a letter with literally all the data we're like every cohort of customers since the beginning of Harry's, the majority of customers who try Harry's stay with Harry's.
+
+3 (1h 6m 60s):
+They didn't really respond. And so we eventually just took that letter and made it public. It was written by our lawyers, but it was kind of funny tongue in cheek. I think that's the point when our customer base really came to our defense and said, okay, like it's kind of messed up that these guys are picking on you. And, and did,
+
+0 (1h 7m 13s):
+Did Gillette back off or
+
+3 (1h 7m 15s):
+They just stopped running the campaign?
+
+5 (1h 7m 16s):
+Yeah, they stopped. I think they realized that them as the Goliath picking on the David was not a good strategy.
+
+0 (1h 7m 23s):
+One of the things that, that I'm curious about, something that you did, you know, around around 2018 is you, you, you establish an, an incubator you call Harry's Labs. And I know it's changed somewhat a little bit from what it originally was designed to do, but, but essentially it's an accelerator, right? You, you, you, you've developed products and in house and then you've purchased kind of small brands and, and made them bigger. But before we talk about the details, what was the idea here about diversification? Because at some point, right, there was gonna be more competition in this space and your market share might, you know, might have stalled out.
+
+0 (1h 8m 8s):
+So was that the idea behind creating an an internal incubator?
+
+3 (1h 8m 13s):
+Yeah, I think that was part of it. You know, Harry's was doing great, but we were kind of looking at this saying, okay, how big could Harry's really, really be over time, even if we got to, you know, huge market shares everywhere. Like there's gonna be some cap on our growth and shave. And so if we thought about it, we thought, hey, like, you know, if we could in, in increase our addressable market, not just to kind of men's grooming and personal care, but to all of cpg, that's a pretty significant sort of shift in the opportunity set that we have. And then we're starting to build good relationships with some of these great retailers like Walmart and Target and, you know, later Kroger and Grocery and, and Meyer and Costco and CVS and Walgreens and all these places.
+
+3 (1h 8m 57s):
+And they're excited about this. They're excited about us building brands online that are kind of modern brands that have interest and awareness around them. And then coming to retail eventually. Yeah.
+
+5 (1h 9m 7s):
+You know, the vision really evolved from, hey, we're gonna build, you know, a next generation Gillette or a next generation Old Spice, you know, from a Harry's brand standpoint to, hey, we're gonna build a next generation, you know, Proctor and Gamble. Like we want a, we want a family of brands. We had, you know, an idea for a woman's brand in the space. So that was kind of a logical place for us to start.
+
+0 (1h 9m 31s):
+So while you're, you sort of launch the, the lab and begin to incubate IDs, I think the first one was Flamingo, which is a woman's razor skincare brand. Yep. You are approached by Edgewell, which is a company that think that owns Shick and tons of other, you know, banana Boat and Hawaiian Tropic a bunch of different brands. Yep. Essentially they decide they, they offer to acquire you and in May, 2019 it's announced that they would buy Harry's for close to 1.4 billion in stock and in cash. I'm assuming that, you know, now you're, you know, roughly six years in your investors may, may wanna return.
+
+0 (1h 10m 18s):
+And was that the thinking behind, behind the acquisition agreeing to it? It was
+
+5 (1h 10m 22s):
+Certainly a benefit of doing the deal, but it wasn't, it was a little bit more serendipitous than that in that Edgewell as you mentioned, owned Schick and Schick historically had been the number two to, to Gillette and Gillette is the 300 pound gorilla. And we thought it was potentially compelling to combine with Schick and have a more formidable competitor vis-a-vis Gillette. and you know, we were actually, you know, Jeff and I were talking about like, Hey, could we buy these guys? I actually talked to a couple private equity firms about, cuz Edgewell was a public company, but a reasonably small public company about trying to buy them, take them private and fold it into our business.
+
+5 (1h 11m 6s):
+That was actually how it started. And we could never get the math to work to take them private, but it's a small industry. And so we got to know them Yeah. A little bit through that process. And yeah, at some point they turned around and said, well, why don't you, why don't we buy you guys, but we'll just give you the keys.
+
+0 (1h 11m 22s):
+You guys were gonna be the co-presidents of Edgewell
+
+3 (1h 11m 25s):
+Yeah. In North America. Yeah,
+
+5 (1h 11m 26s):
+It was, it was very much fine technic all over again in that sense. Wow. You know, wow. While they were acquiring us, it was a reverse merger and in practice and, and yeah, it was the same level of skepticism of like, Hey, do these guys, you know, Jeff and Andy, do they value, you know, what we bring to the table? They're, you know, they've got their young fancy New, York, you know, startup workforce and we're out here in suburban Connecticut, you know, doing things more traditionally. And so there was a lot of, you know, trust building and, and you know, the same as Jeff mentioned, we were gonna need our team to stick around to make this work, but we were also gonna need their team to stick around and make this work and figure out a way to bring these cultures together. So you were,
+
+0 (1h 12m 6s):
+So you were really investing a lot of time and energy into this because I mean, obviously he wanted it to go well. Yep. But ultimately the merger got blocked and in what, not by you or, or Edgewell, but but by the Federal Trade Commission. Yeah. They, they basically said it was like, if you guys were one company, it would stifle competition. Like it, like it would be an antitrust thing.
+
+3 (1h 12m 33s):
+Yeah.
+
+0 (1h 12m 34s):
+So do you remember the moment when you heard about that?
+
+5 (1h 12m 38s):
+Yeah, we, the actual moment was, was not a surprise because as things continued to progress, it got clearer and clearer that we were fighting an uphill battle. And so, you know, while it wasn't a surprise, it was certainly still, you know, a bit of a, of a gut punch and, you know, we felt like we had sort of let our team, you know, down this path and, and on this journey and, and you know, kind of had to, to then mea culpa and, and, and pick ourselves up and, and get everybody re-motivated around, you know, a standalone vision and path.
+
+3 (1h 13m 13s):
+It started I think with Andy and I apologizing. So as Andy mentioned, we had to do this mea culpa, which was important for us to say both to each other and to the team. Like, Hey, you've trusted us on this journey. We're really sorry that like this happened the way that it happened. Hmm. We didn't think it was gonna happen this way. And we know that it's caused you all a lot of work. We still believe that we have a really compelling and exciting vision for the future. This whole thing about NextGen cpg, in some ways it's gonna be easier and better for us to just build these brands from scratch ourselves or buy them. And actually, Andy and I were talking about this the other day. I remember a couple of folks coming up to us, like, people have been at Harris for a long time and being like, just so you guys know, we're in whatever You need we're in, we got you. Like, we're gonna make this thing awesome.
+
+3 (1h 13m 55s):
+And for us that was like so uplifting and inspiring and investors too, just calling us and being like, we got your back.
+
+0 (1h 14m 2s):
+Yeah. And then three weeks later, COVID starts. Yeah.
+
+5 (1h 14m 6s):
+Nice. One, two punch for us, huh?
+
+3 (1h 14m 7s):
+Yeah, I know in some ways, in some ways Covid was a good thing for us and in some ways it was a hard thing and in the, on the good side, you know, all the people who were like, oh my gosh, Harry is like, this business isn't crisis, this deal got blocked. What are you gonna do? Like now everyone was in crisis and they were like, welcome to our worlds. Like that was a good thing. Also, our business did really well during Covid, so, you know, people stopped buying razor blades in stores so much, but they started buying lots of stuff online and you know, Flamingo, which is a brand we mentioned, has an amazing wax at-home wax product and people stopped going to, you know, sort of salons to get wax. And so that product totally took off. And then our online business, you know, DTC also started to grow in a significant way because people weren't going to stores.
+
+3 (1h 14m 53s):
+And so I think we actually, we also turned the business to profitability. We were EBITDA positive. And so, and I think that business underlying business momentum then helped us to start to give into the team that, hey, like this is gonna be awesome. Like we have a great sort of standalone business and exciting future vision. Like let's all kind of do this together.
+
+0 (1h 15m 16s):
+Yeah. So when you think about where you are today, right now, what are we about 11 years in to the company, 10 years into the company? Yeah,
+
+3 (1h 15m 26s):
+A little over 10.
+
+0 (1h 15m 28s):
+And that
+
+3 (1h 15m 28s):
+Makes us feel old, by the way.
+
+0 (1h 15m 31s):
+You're, you're, you're both still pretty young. You're both in your, appreciate that guy both in your forties, right? How, how much of, of where you are today do you, do you attribute to, to the work and the, and the strategy and how much do you think has to do with, with luck? F first to you, Jeff?
+
+3 (1h 15m 49s):
+I think that there's certainly been a lot of serendipity in luck in my life. Like, you know, having been sitting with Neil after class one day when Dave walked up with the idea for Warby Parker, like Andy having gotten to know Andy at Bain, like, gosh, I could have made a hundred different decisions in life that I wouldn't have where I wouldn't have gotten to know him. And I think like in making the ideas come to life, I think we've, we've worked really hard to go do that and I think made a lot of conscious decisions over time. Some days I'm like, oh gosh, I just wish we could get a break. And then we get a great break and it's awesome and we learn something new. But I think that's probably a function of the fact that we have a team that's continuing to iterate and innovate.
+
+3 (1h 16m 31s):
+And so I guess, you know, in that way, like we do kind of manufacture our, our own, our own luck success.
+
+5 (1h 16m 37s):
+I think Jeff's being modest because I would find he'd be a really lucky guy to have started two multi-billion dollar brands and just gotten lucky. So there, there's probably, you know, 15 or 20 people on the planet who can say that they've successfully started two multi-billion dollar companies. I would ascribe the lucky part to be like situation and circumstance. Like I was lucky having access to like amazing education and, you know, the, the a network where fundraising was easier than it might be for somebody who was born into a different environment. You know, I think the adversity along the way and kind of determination to sort of push through that adversity is, is not luck at all.
+
+5 (1h 17m 22s):
+It's just hard work. It's me and Jeff that, that have to sort of steer the, the ship there. So, you know, I, I don't think that part is, is luck. A lot of that's hard work.
+
+0 (1h 17m 33s):
+That's Andy, Katz, Mayfield and Jeff Rader, co-founders of Harry's. So Jeff, are you excited to teach your 11 year old to shave one day? Oh
+
+3 (1h 17m 45s):
+Yeah, totally. You know, we had at Harry's, we made these Razors in our very early days that were kids Razors. So they had like kind of toy teds and you could just like shave with them, not actually have blades in them. And we used to sort of stand there next to the mirror and shave together him with like his, you know, little razor and, and, and me with like a regular Harry's racer and it was great.
+
+0 (1h 18m 9s):
+Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show and it's totally free. This episode was produced by Liz Metzger with music composed by Ramtin era Bluey. It was edited by Neva Grant with research help from Katherine Sypher. Our production staff also includes JC Howard, Casey Herman, Carrie Thompson, Sam Paulson, Alex Chung, Elaine Coates, John Isabella, Chris Masini, and Carla Estevez. I'm Guy Raz and you've been listening to How I Built This Hey Prime members.
+
+0 (1h 18m 53s):
+You can listen to how I built this early and ad free on Amazon. Music Download the Amazon music app today. Or you can listen early and add free with Wondery Plus in Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built This merch and gear at Wondery shop.com. Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.
+
+Ontario Place (1h 19m 20s):
+Get ready for more at Ontario Place more fun, more to explore, more to see and do. Discover amazing places to share a meal, Spark your creativity at the all new Ontario Science Center. Enjoy festivals or dance and sing along to your favorite band. Make a splash at new beaches along the waterfront and explore new trails and parks. Get ready. There's more fun to come for everyone at Ontario Place To learn more, visit ontario.ca/ontario Place paid for by the government of Ontario.

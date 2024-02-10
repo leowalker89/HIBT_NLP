@@ -1,0 +1,587 @@
+0 (0s):
+This message comes from NPR sponsor, Amazon web services, and Amazon connect with Amazon connect and easy to use cloud contact center. You get access to all the latest tech innovations, but pay only for what you use. Learn more at aws.com/connect. Hey,
+
+1 (17s):
+Really quick, before we start the show, a lot of you have lots of questions about how I built this. Like how do you pick guests or where do you record the show? Or how can I get in touch with Howard Schultz? Spoiler alert on that one week. Can't help you, but we can try and answer any questions you might have about the show, our work, or even me. If you'd like to submit a question, please visit <inaudible> dot com and fill out the form. And we'll answer some of your questions right here on the show in the coming weeks. Again, that's G U Y R a z.com. You know, one thing we're really hoping to start up again next year is our, how I built this live shows in real theaters with real human audiences, because there is so much great energy in those shows so much joy.
+
+1 (1m 7s):
+And I have to tell you, I really miss them. So this holiday season, I want to take you back to a very joyful conversation. I had a few years ago, live on stage with Seth. Tibbott the founder of Tofurky. We did it in Portland, Oregon, and it's hard to figure out who's having a better time here, him or me or the audience. So happy holidays and enjoy 20 years, 20 years of losing money. What I mean, how are you paying your employees? How are you?
+
+3 (1m 43s):
+Well, that was the question that my tax guy always asked me every year. When he would say, I got two questions for you, how much money did you lose this year? And how are you still in business?
+
+1 (2m 1s):
+From NPR. It's how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built. I'm guy Roz. And on the show today, how Seth Tibbott built a brand new bird out of tofu, then grew his company into a multi-million dollar business with one of the best names ever tofurkey. So if you're a vegetarian or vegan, you may already be well aware that meatless meat is kind of having a moment restaurants that built their entire business models on feeding us ground up.
+
+1 (2m 46s):
+Animal flesh are experimenting with legitimate plant-based burgers. Even KFC is experimenting with a new product called VFC, which is a bucket of vegan fried chicken coated with the Colonel's secret blend of 12 herbs and spices. Now, before we get too ahead of ourselves, I should mention that humans are consuming more animals than ever before. The percentage of vegetarians and vegans in the U S hasn't substantially increased since 2000, but there is a growing segment of the population that is cutting back on meat, not vegetarians, but flexitarians meanwhile, a lot of innovative entrepreneurs believe there is serious money to be made in plant-based protein.
+
+1 (3m 29s):
+Just last month, Ethan Brown's company beyond meat had one of the most successful IPO's of the year and another company, impossible burger just raised a bunch of money at a $2 billion valuation. Anyway, one of the people who envisioned this decades ago, or at least hoped really hard that all of this would happen with Seth Tibbott back in the early 1980s, Seth was a committed vegetarian living in Oregon, making and marketing a food that hardly anyone had heard of at the time 10 bay. And for years, Seth barely scraped by. He even lived in a tree house to save money, but everything changed when he started selling a frozen holiday roast called Tofurky, which was a Turkey substitute made.
+
+1 (4m 13s):
+As you probably guessed from tofu, the Tofurky quickly, he became a symbol of vegetarian pride and the butt of many, many late night jokes. And all of that helped to raise its profile. And as more people became vegetarian or vegan, Seth was eventually able to grow Tofurky into the roughly $40 million a year company. It is today. The company now makes all kinds of plant-based protein in hood river, Oregon, not far from Portland. I sat down with Seth in front of a live audience last month in Portland, to hear more about how he did it.
+
+3 (4m 48s):
+I was a scrawny little kid and I was a very picky eater. I subsisted on brown sugar and butter sandwiches and little baby peas that my mom would shuck. And she'd leave me the baby peas, raw baby peas, which actually is probably one of the better foods you could eat raw things, but, you know, I grew up and I actually kind of hated Thanksgiving to be honest, because I would go down to my aunt, Glen and uncle Ned's farm in rural Virginia pal, my river, Virginia. And I didn't like Turkey. I didn't like mashed potatoes in like the green bay. I didn't like any of the food cranberry nut. And my mom would be slipping me like peanut butter and jelly sandwiches under the table.
+
+3 (5m 33s):
+I was a picky eater.
+
+1 (5m 35s):
+And what, like what, how would you describe yourself as a kid? Were you studious? Were you academic or are you,
+
+3 (5m 41s):
+I was maybe a B student growing up, not really academic. I was more sports-minded followed the local sports teams and like to play baseball. My career goal was second base for the Washington senators baseball team didn't happen, but not yet. I'm still here. Yes.
+
+1 (6m 1s):
+It's going to happen. So we're working on it. I've got to get those senators back. All right. 1969, we're jumping a hell of boom, 1969. You go to college in Ohio. I think you went to two different colleges. One was Wittenberg Bergen, and then Antioch. And what did you study in college?
+
+3 (6m 21s):
+Well, first just sort of general courses. And then I, when it came time to declare a major, I liked kids. So I studied elementary education and until I started taking these classes and found out they were pretty boring and yeah, so I dropped out of school and ended up in Antioch.
+
+1 (6m 39s):
+So the, just to put this in context, I mean, this is like the height of the Vietnam war. Like, you know, post, summer of love, early seventies, right? This is just, just, and there's a bit for shedding, but like, did you have any sense that you were going to do a business? And what did you think about people who had businesses? What was your mindset about that? Then
+
+3 (7m 0s):
+I laughed at business majors, me and my friends. We did not, you know, union carbide, DuPont, those generals, general motors, general electric. They were the enemies. It wasn't the hotbed of social change. So we really, I don't, I never took a business class in college and never
+
+1 (7m 19s):
+Had any aspirations to be a business.
+
+3 (7m 21s):
+No, no, none at all. So after I dropped out of school, I became a naturalist, actually, a teacher naturalist at Glen Helen outdoor center, which was run by Antioch college. And it was there that I really discovered a love of doing things positive in the outdoors with kids. And I was like, this is what I want to do. I want to teach kids, but I want to be on the other side of the classroom on the outside. So I learned that trade. And then I came west and I got a job right here in the Portland area in Washington county teaching
+
+1 (7m 58s):
+Around this time, you're in your early twenties. You come across this book diet for a small planet, which has a huge effect on you. What is the book for people don't know it. And what, what did you learn?
+
+3 (8m 11s):
+And from that book, well, this was a book by Francis Morella PEI and she was the first person to point out to the American public. And to me personally, that the, there was no sense of feeding all of these grains through animals. You know, you take 15 pounds of grains and put it in to an animal and you get maybe eight ounce or a pound of meat, as opposed to, if you feed grain directly to people, boom, you know, you've saved so much grain and resources and land and everything. And it made sense to me as a naturalist because I was really concerned about habitat loss.
+
+3 (8m 52s):
+And I thought, well, if there was the sufficient way of protein for people that there would be a lot less habitat loss, and
+
+1 (9m 0s):
+That inspired you to become a vegetarian, like right away.
+
+3 (9m 4s):
+Well that and a meal from a beautiful young woman named Laura McKellan who cooked a recipe of lentils, rice, and onions. And I just, she talked about not needing to eat animals. And I thought, boy, this will be great
+
+1 (9m 22s):
+Vegetarian. So when you became a vegetarian, what did your diet mainly consist of vanilla
+
+3 (9m 26s):
+Wafers? Yeah. Candy bars. It wasn't so good. Cause this was
+
+1 (9m 33s):
+Like still kind of not mainstream. Right?
+
+3 (9m 36s):
+So there wasn't any, there really wasn't a lot of knowledge about any aspect of vegetarian diet.
+
+1 (9m 44s):
+But then I guess th there was a point in, in the summer of maybe it was like 74, 75, you ended up visiting a hippie commune in Tennessee called the farm, right. Where you first discovered this incredible thing called Tenpay. What was that? What was that visit? What was going on there? How'd you end up there?
+
+3 (10m 6s):
+Well, they were pure vegetarians and they took a vow of poverty. They only ate beans and fruits and vegetables. They had soy dairies all over the world, Sri Lanka, Guatemala. And when the hurricanes and tornadoes would go through Tennessee, they'd go out there and they'd build houses for people. And they do really good. They were a great force for good in the world and it wasn't just sit around and get high. It was, you know, and although they smoked a lot of marijuana vegan food,
+
+1 (10m 45s):
+I'm really, I'm really surprised at, at a hippie commune in the seventies, they smoke a lot of marijuana tracking. So, so is this, this is the first time you are introduced to this like thing called TemPay. What do you remember when you first
+
+3 (10m 60s):
+It was like heaven. It was so good. You know, we, I remember making it in that hot Tennessee summer, which is a middle it's like Indonesia, Indonesia, if you haven't been there, like about 88 degrees, which is the perfect Tempe incubating temperature, right. And Tennessee was the same way. And so I had the, all the staff was sitting around on a weekend and I was making the Tempe and I put the beans that are <inaudible> beans out into a field, just in a stainless steel pan. And the next day I went over there and I pulled up the lid of the tinfoil and there was this beautiful white cake of mold growing all over the beans.
+
+3 (11m 47s):
+And it had little droplets of water on it. And I was just like, this looks great. And everybody on the staff was like, we're going to probably die from eating. There's this crazy guy,
+
+1 (11m 58s):
+Seth, I know that we are in Portland. And so everyone in this audience can tell me everything about bay, but just for the people who are listening, who don't know what it is, can you just tell me what TemPay is the, yeah,
+
+3 (12m 10s):
+Absolutely. So Tempe is an Indonesian protein food from Indonesia it's soybeans. And the way you make it is you take the haul off, which makes the beans split into two pieces to cuddle lead-ins you cook the beans and you dry the beams and inoculate them with rhizopus oligos, spore us, which is a mold member of the mold family. And you incubate it for 24 hours or so at 88 degrees. And it binds the beans together into the stick cake. That's about the texture of like a paperback book almost, and you can slice it so good. So, so,
+
+1 (12m 48s):
+All right. So you're, you're thinking, all right, this is actually pretty good, right. You, I guess, ended up going back to Oregon after the summer in Tennessee and you kept making TemPay right?
+
+3 (12m 59s):
+Right. So I started making Tempe for friends and family, and there were retreat groups that would come out. So they wanted some TemPay and I got an old refrigerator and I strung Christmas tree lights up inside, inside the refrigerator refrigerator as a heat source back then not the led lights. These were the big old,
+
+1 (13m 20s):
+The big Christmas lights. And you plugged it in, close the fridge. And then you had like a warm refrigerator to incubate
+
+3 (13m 27s):
+Them back. When you could burn a house down with your Christmas tree
+
+1 (13m 30s):
+Lights. And I'm imagining you were living in like a, like a little apartment in
+
+3 (13m 35s):
+We're living in a teepee in the summer and a barn in the winter.
+
+1 (13m 40s):
+This is the most NPR meets Portland conversation I've ever had in my life. So. All right. So, and how are you, how are you cooking the tempo? Just like, what was your, you were just cutting it up and frying it up, like
+
+3 (13m 56s):
+Again or what? Well, I was giving it to the cooks at the retreat center who would cook it and very, there's a very talented cook. And so the retreat groups loved it and it was little income, right? Pocket, five pounds of Tempe. You, it would bring in $7.
+
+1 (14m 13s):
+When did you, I mean, when, when did you get this idea to turn this into a business? Like how, how did that idea come to mind? Well,
+
+3 (14m 22s):
+My girlfriend, Kim and I moved into a house in Manning, Oregon, which is on the way to the coast on highway 26, right down the street was this restaurant called the Java restaurant. And it was right in Manning, which is a town of about 50 people. It's was the only Indonesian restaurant, a hundred yards from my house. And I was, this is a sign. And so I got to go down and meet him. So I met this woman, I Anna, and she was the proprietor of it. And I said, it doesn't look like you have Tempe the menu. And she goes, you know how to make TemPay you know, about Tempe? And I said, yeah, I can make you some. And she said, really? And so she ordered two pounds and I, and she said, but it's gotta be good Tempe.
+
+3 (15m 4s):
+And if it is I'll order more and I'll sell it to all my friends. So I went there and I made that temp and I brought it back. She liked it and she ordered 10 more pounds. And because of that, I felt like, you know, this is a good sign. So I went to the local co-op forest Grove and I asked if they would rent me their kitchen at night. And they said, yeah, we can rent it out to you for $25 a month. So it was like, great. So at December 1st, 1980, I sent in my stamped envelope to the state of Oregon and registered turtle island, soy dairy as a business, as a business.
+
+1 (15m 47s):
+When we come back in just a moment, Seth TemPay business grinds along for years until it's revived by a Turkey roast, native tofu, stay with us. I'm guy Ross. And you're listening to how I built this from NPR. This message comes from NPR sponsor. Edmonds finding deals on new and used vehicles has been difficult due to car shortages and increased demand. Edmonds is here to help. They've been taking the stress out of the car shopping process for more than 50 years, offering price, guidance, and shopping advice.
+
+1 (16m 28s):
+All in one Edmond's free appraisal tool gives you an accurate price for your vehicle in minutes. Visit edmunds.com to get your free online appraisal today, and start searching for vehicles in your area for cars. There's Edmonds support for this podcast. And the following message come from 80 and T active armor fraud calls are annoying, especially when they interrupt your work from home flow, thankfully at and T makes your security a top priority. Helping block fraud calls with at and T active armor. It's not complicated. T and T active armor, 24 7 proactive network security fraud call blocking and spam notifications to help stop threats at no extra charge compatible device service required.
+
+1 (17m 15s):
+Visit att.com/active armor for details.
+
+4 (17m 25s):
+There are millions of books out there just waiting for you, but how to keep up introducing and PRS book of the day. Every weekday, we feature some of our favorite conversations with authors and writers about their latest books. You can check it out in about the time it takes a walk, the dog happy reading.
+
+1 (17m 52s):
+Hey, welcome back to how I built this I'm guy rise. So it's late 1980 and Seth Tibbott has just launched a temp, a business in forest Grove, Oregon, but he has to spend a lot of time answering the very basic question. What is Tempe? And I mean, I have to imagine like 99.9% of the people you came across her, like what's Tempe, what tempo, like, would you having to explain this over and over and over again to people?
+
+3 (18m 23s):
+Oh yeah. And not only were people saying what is Tempe, but people were telling me, you know, this is a pretty bad idea. Yeah. Like I was teaching at the school and in forest Grove substitute teaching to make some money. And I went into the last day of teaching. I announced the lunchroom of teachers that, you know, I'm going to start making Tempe. Yeah. And it was just like, oh my God, silence. They were like, what? And then I was like, yeah, it's moldy soybeans. And they were like,
+
+1 (18m 58s):
+That tastes like a paperback finding.
+
+3 (19m 1s):
+I didn't mention that again, showed up, but they, and then finally one of the teachers said, well, you can always fall back on teaching, always
+
+1 (19m 11s):
+One of a fallback. I always say that to entrepreneurs. Right. You always want to, you know, if plan a doesn't work, you got plan B right. Template and teaching. All right. And you were doing this all by yourself? Yeah.
+
+3 (19m 23s):
+Okay. I was doing it by myself and I was driving in my three door, beat up somebody damaged Datsun station wagon. And then it was really the co-ops that kind of embraced it most at first.
+
+1 (19m 39s):
+And who was buying TemPay in 1981. Was it just like really kind of hippies? I mean, I just, for the record, you know this cause we talked backstage. I love Tempe. I make my own Tempe bacon. All right. I'm just going to be clear about this full disclosure who was buying TemPay in 1981.
+
+3 (19m 57s):
+It was the early adopters in marketing terms.
+
+1 (20m 4s):
+All right. So you're, you're starting to get, you know, it's really starting to ramp up production. We should put this in context cause you're not really making any money, but you have to find a bigger space, I guess in 1981 and two
+
+3 (20m 19s):
+To Houston. Well, yeah. So in Washington, parole of 1981, a distributor called Applegate, natural foods out here in Tigered and called up and said, we need you to make us a thousand pounds of Tempe a week. Wow. And I was making like a hundred pounds a night on a good night. And a lot of it was coming out bad and I was composting it in my garden, much to the delight of the local Rufus cited Toby population.
+
+1 (20m 47s):
+So you had to find a
+
+3 (20m 48s):
+Way to do that. So I needed a bigger space. Now we were grossing like $1,300 a month at that point. And so I started looking outside the Portland metropolitan area. And I went up to <inaudible>, which is about 70 miles from here, east of here, small little town. And I looked in the window of a school building. There was an old vacant school building out there and I looked in the window and there was this perfect 10 bay kitchen. It was like
+
+1 (21m 19s):
+Vacation. Let's just be, well, it was in
+
+3 (21m 20s):
+My mind, it was a TV kitchen, kitchen, right. It was a commercial kitchen.
+
+1 (21m 25s):
+You're looking at that. You're saying 10 bay kitchen.
+
+3 (21m 27s):
+Yeah. And it had two big, huge stainless steel sinks. It had stainless steel tables hood, and it even had to store rooms that were just the right size for a temporary incubator. It was just sitting there and it was the first sale sign on it. And so I called up the superintendent and he was saying, yes, we really want to sell this. But as we spoke, he was thinking we haven't had anybody offering on it. So maybe we would rent it to you. So I said, could you put me on the docket for the school board meeting? And so he was nice enough to do that. And so my brother Bob came out and we cooked up some Tempe for the local school board
+
+1 (22m 12s):
+And where they think, well,
+
+3 (22m 17s):
+This is 1981. And people, even the earlier, they weren't the early adopter. Let me say that they were skeptical, but they were open to the presentation and I made TemPay salad and I cooked up some Tempe sort of strips and I fed it to them. And then the conversation turned to, well, how much could you afford for rent if we did rent this to you? Which was the conversation I was dreading because I didn't have much money. So I said, how about $150 a month? It was just like silence. And nobody said anything for a minute.
+
+3 (22m 59s):
+And then this one woman who was kind of like really enjoying the Tempe, She goes, I say, we take it. What do we have to lose? Wow.
+
+1 (23m 13s):
+So you get amazing. So you get this commercial space and abandoned school for 150 bucks a month. You got to make a thousand pounds of temp a week, by the way, what did you know about running a business at that point?
+
+3 (23m 29s):
+Oh, I knew nothing about business. I was a Tempe maker. I felt like I never felt like I, you know, businessman, like my third, I never opened up and he said,
+
+1 (23m 41s):
+Yes ma'am did you even do any accounting? Or did you keep any books or anything? No. No.
+
+3 (23m 46s):
+Nothing
+
+1 (23m 46s):
+Like that? No. Double ledger. No,
+
+3 (23m 49s):
+No. You know, I've always felt like a little misfit in the business world, so still do in a lot of ways.
+
+1 (23m 56s):
+So just to be clear, I mean, you are making TemPay it's like 1983, you are not making money. You are not profitable, right? No, you're living kind of pretty modestly, I think at a, at a certain point that year you couldn't afford your rent. What did you do?
+
+3 (24m 14s):
+Well, there was a couple of strategies, but one was the postmaster of the town had given me a apartment to rent free. She said, we just need somebody to live there. And so I was living rent-free and I was thinking, how am I going to make money and turn this thing around? And I said, I've got three classrooms that I can rent out. And so one classroom, I rented out to my friends who had a graphic art business and they were good payers. I had the other classroom. I rented out to a mom and pop wooden fruit basket company that were making fruit boxes. Okay. And then I had this one more classroom and I'm like, what am I going to do with, or her classroom?
+
+3 (24m 55s):
+I couldn't find a rented, you know, this is poor part of Klickitat county. And one day I'm sitting there in my office and I look outside and here comes this purple truck and it's got a yellow umbrella on the top and it pulls up and these two guys get out and they come in and they go, my name is ACE and this is space and we're clowns. And I'm like, okay. And they said, and we tune pianos when the clown business is soft.
+
+1 (25m 28s):
+Okay.
+
+3 (25m 31s):
+And we need a space for our clown business to build props. And I was like, I think I can provide you that space. Yeah. And they were, people were like, you're going to rent to these clowns. I'm like, you had me at ACE and spin.
+
+1 (25m 50s):
+So, but you're living rent free, but eventually you got what you got kicked out of your part.
+
+3 (25m 55s):
+Well, the rent market got a little better. And so now there were people that would really pay for that apartment.
+
+1 (26m 1s):
+So you got kicked out. Yeah.
+
+3 (26m 3s):
+So I don't have a place to live. And one of my employees, Ambria, Isaac had a piece of land right outside Houston. And she offered to rent me four trees for $25 a month trees
+
+1 (26m 19s):
+For $25 a
+
+3 (26m 20s):
+Month. And then I could build a tree house. It
+
+1 (26m 23s):
+The Treehouse for $25 a month, which you did in a tree house for seven years.
+
+3 (26m 34s):
+I did. Didn't
+
+1 (26m 36s):
+Have like running water, electricity phone. Oh yeah. Well, what, what did you have in
+
+3 (26m 42s):
+There? Well, it had a wood stove, so it was insulated and you know, it was very warm and cozy in the winter. It had three levels. It had a 11 foot by 16 foot ground floor and then a
+
+1 (26m 55s):
+Sleeping loft above that and a little coupla up on the top. And it was kind of the first tiny house and the tree house was on a Frisbee golf course.
+
+3 (27m 8s):
+So I'm living on a golf course, American dream.
+
+1 (27m 12s):
+Pretty amazing. Right. You are going to the school everyday making 10 bay, but no, I mean seriously, like you're, you know, you know, you're sort of approaching your late thirties and you're really, you're not making any money and you're living in a tree house, which is cool, but it's, you know, I was just wondering what you stressed out. Like where's any part of you? Like I gotta figure another, figure something else. I need a new strategy because I don't know if this is gonna be a sustainable life.
+
+3 (27m 40s):
+Yeah. The thought came up and actually in 1986, I had an offer to sell the Tempe business to a local tofu company. And they offered me $25,000 for the
+
+1 (27m 57s):
+Business, which would have been life-changing money flow. Yeah.
+
+3 (28m 1s):
+And then I could go work for them for a thousand dollars a month. And I thought about it long and hard. It took me about nine months to decide whether I'm going to take this or not. And I went through a lot of those questions at that time. And the end of the line, I just said, I like I'm growing and I'm going to stick with this. So I kept the business. I turned down the big money. Yeah.
+
+1 (28m 32s):
+And this is amazing. There was like a period of eight years. And probably that these are the Treehouse years where your entire take-home pay over a period of eight years was 30,000
+
+3 (28m 45s):
+31, 3. Nobody could live on 30,000, 30,
+
+1 (28m 50s):
+30, $1,000 over an eight year period.
+
+3 (28m 54s):
+Yeah. Nine years technically.
+
+1 (28m 58s):
+Did you, I mean, where are you? Were you ever like kinda, I don't know. Did you ever have anxiety over, would you ever think, I don't know what I'm doing with my life or
+
+3 (29m 8s):
+I had some existential nausea time to time. How about that? You know, I did feel like a failure in the business sense, but I felt like the mission sense, you know, seeing this TemPay business grow and seeing people eating more and more of the product, it was satisfying. And I was involved in local activism in the ICO world. I had a very fulfilling life. I never, I mean, there was a period towards the end of that, where I was really starting to wonder whether it was ever going to take off. And I was looking for ways out,
+
+1 (29m 45s):
+I guess, from around 1989, you, you were dating somebody who would become your wife. Sue, did she move into the tree house with you? Or I dunno, like
+
+3 (29m 57s):
+No work, you know, it's funny because right now people ask Sue, they go, did he make you sign a prenup? And she goes prenup. I was the one that needed the prenup. He lived in a tree, I had a
+
+1 (30m 13s):
+House. So she said that you got to move in
+
+3 (30m 16s):
+With her. So yeah. She had a house on the ground. Yeah. And so, yeah,
+
+1 (30m 27s):
+Eventually I guess, I guess around 92, you made your way to hood river here in Oregon and where your plant is still today. Why did you move from Washington state to that, to that location?
+
+3 (30m 40s):
+Well, towards the end of the Houston run, the school district had sold the building to a guy who turned out to be a crook and did jail time. But then it fell into the local firehouse. So the it's now the firehouse a few sums. So it was a great deal. And so you
+
+1 (30m 57s):
+Had to find a new
+
+3 (30m 57s):
+Span. I had to find a new space and there was an old tortilla factory in hood river, which is 10 miles from Houston. And we rented out 5,000 square feet of this 26,000 square foot building. And I borrowed the $160,000 from Bob, your
+
+1 (31m 16s):
+Brother, my brother to finance a retrofit.
+
+3 (31m 19s):
+And he always in the early days was a funder of
+
+1 (31m 24s):
+Your brother. Yeah. He had this like business sense.
+
+3 (31m 27s):
+Well, yeah, and he, but he had a bigger heart than a business sense and he was always loaning me money and I would be paying it back, not always on time, but we paid it back.
+
+1 (31m 38s):
+So I'm curious. I mean, because it's really is the, this is where the story pivots, this is where something totally unexpected happens. And I guess there's like a, these vendors that work with you, they weren't a catering businesses, couple the Robles and there, they were like a vegetarian catering business. They're buying TemPay from you. Correct. And they they're making like this tofu roast that you'd kind of come across. What, what, what,
+
+3 (32m 5s):
+It's a story. Yeah. So Hahn's and Rhonda Robel run the higher taste, which is a great sandwich company. And it's been in business since the early 1980s. And Han's especially anything. He touches turns to gold. He's like one of the best chefs that I've ever met. And he was in 1994, I was delivering Tempe to him. And he was making those around Thanksgiving. These stuffed tofu roasts that he had been working on. And he was selling them about 25 or 50 a year. And they were a dome of tofu, was stuffing in the middle. And I was always looking for something to eat at Thanksgiving.
+
+3 (32m 46s):
+And we had tried all these stuffed pumpkins that kind of collapsed in the oven, gluten rows that were too tough to cut with a chainsaw. So we were failing and then I saw it with Hahn's. This is like something, this is kind of possible. It's good. And so, and Sue had been working on a burger at that point that we had rejected. Cause it tasted like Thanksgiving and we thought, Hmm, I wonder if we make these into not burger shapes, but drum Mets. And so we made them into 10 Pedro
+
+1 (33m 18s):
+Mets, TemPay dramatics.
+
+3 (33m 20s):
+We made dramatic right out of 10
+
+1 (33m 23s):
+And you went to the Robles and you said, what you said, can we maybe collaborate on
+
+3 (33m 28s):
+Thing or right. And so that first year we bought the Tofurky to market here in this city with Hans and his team.
+
+1 (33m 38s):
+What came with that? So it was, it was a frozen tofu loaf
+
+3 (33m 42s):
+Stuffed with, oh, it was like whole wheat bread, crumb and cranberry stuffing. It was really delicious.
+
+1 (33m 48s):
+And what else
+
+3 (33m 49s):
+Came in the box? And then there was a tub of gravy that once again, Hans had created those, a nutritional yeast gravy. Okay. And then there was these eight, 10 Pedro minutes because we thought that there was going to be eight vegetarian sitting around
+
+1 (34m 4s):
+Eight legged. This is not an eight legged Turkey.
+
+3 (34m 7s):
+No, but we didn't know what Tofurky has looked like in the wild at that time. But we knew they had a legs.
+
+1 (34m 17s):
+When we come back in just a moment, how an eight legged Thanksgiving roast grew into an entire brand of plant-based foods, stay with us. I'm guy Ross. And you're listening to how I built this from NPR.
+
+6 (34m 43s):
+This message comes from NPR sponsor. Grifols senior director of corporate affairs. Vlasta Hakes explains the science behind the plasma derived medicines. The company produces
+
+7 (34m 55s):
+Plasma, contains proteins and antibodies. There are people who are missing those antibodies or they're missing a protein that helps their body function. And what Grifols then does is we collect this plasma and then I select those proteins and antibodies to produce a medicine,
+
+6 (35m 11s):
+To learn more about donating plasma and to find a Griffel center near you visit Grifols plasma.com.
+
+1 (35m 18s):
+This message is brought to you by NPR sponsor, Airbnb millions of people earn extra income by hosting their extra space on Airbnb income that can help with home renovations paying for vacations or saving for retirement. Maybe you have questions about whether hosting might be right for you. You can now ask a and get free one on one help from Airbnb's most experienced hosts, go to airbnb.com/ask Superhost and start asking, Hey, welcome back to how I built this I'm guy Ross. So it's the mid 1990s and Seth Tibbott is working with a catering team, hons and Rhonda Robel to sell a holiday roast made out of tofu.
+
+1 (36m 8s):
+They are making the, this like stuffed tofu dome it's around Thanksgiving time. How do you name it? How do you come up with a name for it?
+
+3 (36m 17s):
+Okay. So I didn't invent the name Tofurky right in 1981, when I was delivering TemPay around Portland, there was a Tofurky sandwich, T O F U R K E Y. And it was being made by king harvest local sandwich maker here in
+
+1 (36m 34s):
+Portland. And it was slices of tofu or deal
+
+3 (36m 36s):
+With slices of tofu, sort of Turkey ish.
+
+1 (36m 39s):
+Right. Just baked or something. Yeah. Yeah.
+
+3 (36m 42s):
+And I thought I would buy those and I really liked it, but I always loved the name Tofurky. A lot of people were against the name, but at that point I was ready to change something because I had been trying to play it straight as a businessman and make it look like a hippie didn't get within 10 feet of this food. And then in Tofurky, I mean was more whimsical and fun. And I just thought it was more me. I wasn't getting anywhere by pretending to be a businessman. So why not just
+
+1 (37m 16s):
+Tofurky. Right. Tofurky. All right. So you guys collaborate, you, you decide to sell the first batch of Tofurky is I guess they were in the freezer section and they were frozen frozen. And you sold them for $30 each in 1995. That is super expensive. Did you get pushback from retailers who were like $30 in the freezer section? Who's going to buy this?
+
+3 (37m 42s):
+Yeah, we did. You know, but the once again it was the co-ops that rallied to embrace the concept and, and people loved it. I mean, we put self-addressed stamped postcards in every Tofurky that year we sold 818 and the
+
+1 (37m 58s):
+Postcards were for
+
+3 (37m 59s):
+Feedback. It was for feedback from the customers. People said, oh my God, I've been waiting 20 years for this product. Wow. And it was just so heartening to right away feel like finally, I can see my way through this and Thanksgiving. Yeah. And through this Thanksgiving thing, I mean, PCC up in Seattle was another one that embraced it. They put in a Tofurky hotline, they were getting so many orders and they were going crazy for it.
+
+1 (38m 28s):
+I think about spent a year after making the first Tofurky is you, you and the Robles kind of went your separate ways. You, you
+
+3 (38m 36s):
+Actually know. The second year we were making, we went to a tofu maker and Han said a baked tofu, which baked out some of the sponginess out of the tofu. And it didn't look so pretty plated. So it was still a problem. But that was the year that we actually went online and sold 300 of these online. You know, that Tofurky was one of the first frozen products ever to be sold on the internet. Wow. The first thing that was ever sold online was a pepperoni pizza in 1994, the first food was sold online.
+
+3 (39m 17s):
+So this is 1996 and you're selling we're selling.
+
+1 (39m 22s):
+And when did you, I mean, a certain point, you had to change the recipe, right? Because tofu alone was not going to cut it. Right. You want it to presumably kind of make it into a thing that you could slice and really it was, it wasn't gonna be spongy. So
+
+3 (39m 36s):
+You do so the third year in 1997, a friend of mine who had had a failed Satan company called meta wheat came to me and he said, Yeah, yeah. He had figured out how to extrude these roasts in, have stuffing in the middle. And they would have Satan on the outside and we tried it and we thought it's good. But I wonder what it would be like if we had a tofu to it. And so we added
+
+1 (40m 9s):
+Tofu and it makes the Satan and the tofu. Yes.
+
+3 (40m 12s):
+And it became Tofurky.
+
+1 (40m 14s):
+And that's essentially what it is today. It's
+
+3 (40m 16s):
+Essentially the same thing. We ended up actually buying the recipe from
+
+1 (40m 21s):
+The amazing thing. And I guess it's not that amazing when you think about it now, but like, because it was called Tofurky, you got all this attention fast, like the today show and comedians were joking about it. Oh yeah. And it, and you were, you did not have an advertising budget when you saw comedians joking about it and people mocking it. Were you, were you sad? Did you feel humiliated or were you like, yeah, right on keep doing that.
+
+3 (40m 46s):
+It was more like the right on, cause you know, up to that point, our marketing and then all of the natural food marketing wasn't very whimsical or funny or fun, and this was like fun, but it was also in the early days, people kind of took offense to it a little bit because you were taking on an iconic American meal and a holiday and everything and bringing a Tofurky to a dinner was always controversial. And yet
+
+1 (41m 17s):
+Even into the late nineties and you're really pivoting now to Tofurky your business is not yet profitable. You start this in 1981, you are not yet cashflow positive. Correct. How are you keeping the lights on? Are you keeping things going? You know, well,
+
+3 (41m 36s):
+A lot of it was what they'd call a paper loss, but it was still a loss. We weren't really making money, but we were, you know, paying the light bills and paying employees. But at the end of the day and we were borrowing money where needed and it was, but most of the money that was being borrowed was for investment into equipment and things like that.
+
+1 (41m 56s):
+Were you able to, in the late nineties, you start to see a light at the end of the tunnel because I mean, where you thinking, God, I've been doing this for 20 years and we are still not profitable or were you at that point saying, you know what? I actually can see where this thing might be headed.
+
+3 (42m 10s):
+Oh yeah. Just from the first response to the Tofurky, it just felt so different than anything I had felt before marketing TemPay that I really felt like this is going to really turn around at some point. And it, it really did. And you're right. That a lot of the media exposure from the wall street journal to the New York times, and at one point I had to put the Washington post on hold to talk to the New York times. It was just crazy. So these, that was like our bully pulpit kind of it really then Thanksgiving rolled around the trees would turn golden brown and here would come the tofurkey and here would come the media to us.
+
+3 (42m 54s):
+And so we had,
+
+1 (42m 55s):
+Yes, Seth, as a, you know, now you're 20 years in, I mean, how was your business acumen at that point?
+
+3 (43m 2s):
+Little better, you know?
+
+1 (43m 5s):
+I mean like managing people, did Sue help, did you have more?
+
+3 (43m 10s):
+Yeah. Sue was doing the books at that point and doing a great job. Book's good at, so we had books counting. Good. No, it was improving. And I was becoming less stupid every month when we turned profit. And it's just
+
+1 (43m 25s):
+Like 2000, 2001. Yep.
+
+3 (43m 27s):
+Right about then it became really profitable because we brought the production of the Tofurky internet in a house. We were buying it from a manufacturer co-manufacturer and then when we brought it in house and we started making sausage and deli slices, and we went to these same buyers and said, Hey, would you like deli slices? And we found that the Tofurky and this new recipe sliced really well.
+
+1 (43m 53s):
+So you can use the same recipe, spices, slightly different,
+
+3 (43m 57s):
+Right. And smoking. And we smoked it in a real smoke house and created this smoke Hickory smoke.
+
+1 (44m 3s):
+So when did the slices first cut
+
+3 (44m 4s):
+Out? Those came out in 1998
+
+1 (44m 8s):
+And then the sausage is followed
+
+3 (44m 9s):
+And the sausage followed
+
+1 (44m 11s):
+Years later. And did they become popular pretty much right away.
+
+3 (44m 16s):
+Did they really took the industry by storm and we became happened in the company.
+
+1 (44m 23s):
+So when did you actually, I don't know. Do you remember the point where you, I dunno, you woke up and you were like, we're making a of money. Like this is, this is not me in a tree house. Sure. Not Tempe at a bathtub. Like we're actually making
+
+3 (44m 39s):
+Yeah. It was an odd feeling. Do you remember? Cause I was pretty good at losing money.
+
+1 (44m 45s):
+Would you remember when that happened?
+
+3 (44m 47s):
+Well, you know, when we, I do and at the end of the year, you know, and having enough money to give some nice bonuses and pay off a lot of debt.
+
+1 (44m 57s):
+Was that what? 2004?
+
+3 (44m 58s):
+2005. Yeah. Right in there. You know, it was really a, a new world for me and people that wouldn't talk to us about TemPay we're now clamoring for Tofurky. And it took us, Tofurky, took us from being a regional west coast distribution to a, a national distribution.
+
+1 (45m 19s):
+I think today you've got to stay the art factory today in hood river. We do, it's a lead certified building. You've got 200 employees. I mean, your, your, your revenue is somewhere between 40 and $60 million a year, which is unbelievable. I mean, you're everywhere, right? You're not just at like whole foods and co-ops and trader Joe's. You're like Walmart target and like,
+
+3 (45m 45s):
+Right. What we're seeing right now is the mainstream, you know, plant-based foods and we're in 27,000 plus stores worldwide. It's really a, a friendly world for plant-based foods now. It's we love to see all great tasting vegan companies succeed, partly because we're altruists and we're a mission-driven company. And we want to see plant-based foods grow all over the world, but there's a business reason too, which is that it's easier for us to place products in a category.
+
+1 (46m 21s):
+And then mainstream places like Walmart and target, right? I mean, it's Costco. So here's the thing, right? You are entirely family owned, correct. A hundred percent. You, your brother may be some other family members own Tofurky. I have to imagine over the years, certainly over the last few years, you've been approached by private equity, by big companies who have offered you a lot of money to buy you out.
+
+3 (46m 50s):
+Yeah. That would be correct. So
+
+1 (46m 52s):
+Why not cash in? Why not? Why not take the money? And, and, you know, you, you worked for in a tree house for seven years, made $30,000 over nine years. You, you, I mean, right now, only at this point in your life, are you actually seeing real money? I mean, you could, you could be rich beyond your wildest dreams and for the next six generations, why not take it?
+
+3 (47m 14s):
+Yeah. I feel like I'm rich beyond my wildest dreams right now, to be honest. I mean, to have to be in this business has been, you know, it's a good joy and a great feeling of my life. And it's taken me places that I still am. I'm able to travel around the world. I'm able to work with nonprofit groups, like began, you wary that are just getting, going over here. I can't think of a better dream at this point in my life. I just feel like the luckiest guy in the world.
+
+1 (47m 48s):
+So this is important. Cause I've, I've been reading that you actually cannot produce enough of your products for the demand. It seems like the answer to that challenge is a cash infusion to build another production line.
+
+3 (48m 2s):
+Right. We've we have just borrowed some money from a ethical investor that we really feel,
+
+1 (48m 10s):
+But it's alone. It's not an Equinox.
+
+3 (48m 12s):
+It's alone. We haven't sold equity yet. You know, we'd like to keep our equity so that we can keep the mission at the center of our lives. And so that nobody can tell us what we can do or can't do. Yeah. And
+
+1 (48m 30s):
+Just out of curiosity, what percentage of your sales now does TemPay account for
+
+3 (48m 35s):
+TemPay is roughly 10 to 15% of sales, but it's really outpacing some of our other products and growth right now. So we're just growth doubling. Yeah. I would just look this morning at the new incubator, which we're building, it's going to double our Tempe capacity. So we're pretty excited about that. I just may have been about four decades early on the tempo thing.
+
+1 (48m 59s):
+I have to assume that you're not using Christmas lights to make Tempe anymore. That
+
+3 (49m 4s):
+Would be correct.
+
+1 (49m 5s):
+All right. So as, as you know, Seth, and as, as many of you know, I almost always end my interviews with one final question. I've got, I'm just curious to hear how people answer it, you know, and we get a bunch of different answers and that's how I'm going to ask you this question, which is how much of this story and the success of this company do you think is, is because of your hard work and your work ethic and your skill and your intelligence and how much, how much of the story do you think is just luck and timing. Yeah,
+
+3 (49m 32s):
+That's a good question. Certainly luck and timing come into play. I was lucky enough to jump on this jet stream of natural foods that was just starting up in the 1980s and nineties, and then helping blaze a trail for other meat, alternative companies that come on now. But a lot of it is just persistence and hard work and trying to be less stupid.
+
+1 (49m 60s):
+Yeah, that's a good strategy set. Tibbott thank you so much. <inaudible> founder of Tofurky. I spoke with Seth two years ago at revolution hall in Portland, Oregon in 2014, Seth stepson, Jamie Athos took over duties as CEO, since its debut in the mid 1990s, the company has sold about six and a half million Tofurky roasts. Oh, and you know what? Seth and Jamie and others at the company called actual turkeys fake Tofurky.
+
+1 (50m 41s):
+Hey, thanks so much for listening to this live episode of how I built this. This episode was produced by James DeLuise with music composed by Ramtin Arab Louis. It was edited by Neeva grant with research help from Candace Lim. Our live events team in Portland was Allie Prescott, Nicole Schaller, and John Isabella. Our production staff includes Casey Herman, JC Howard, Julia Carney, Elaine coats, Farah safari, Liz Metzger, and Harrison VJ choy. Our internist Catherine cipher. Jeff Rogers is our executive producer and guy Roz. And you've been listening to how I built this. This is NPR.
+
+1 (51m 21s):
+This message comes from NPR sponsor. Kendra Kendra designs builds, manages and modernizes the mission critical technology systems that the world depends on every day, Kendra, the heart of progress.

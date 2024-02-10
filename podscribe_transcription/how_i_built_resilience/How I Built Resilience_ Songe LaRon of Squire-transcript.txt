@@ -1,0 +1,188 @@
+1 (0s):
+Hey everyone, and welcome to how I built this resilience Edition on these episodes were talking with entrepreneurs and other Business Leaders about how they're thinking creatively during this very disruptive moment. And today my conversation with song Lauren. The co-founder of Squire Squire is an app that connects barbershops with clients song founded Squire in 2016 with his best friend Dave solvent to modernize the barbershop experience and nowadays their app. Is not only booking appointments but also helping Barbershop stay open if they're allowed to ask focus on a few days ago about Squire and the barbershop industry, but first song let me know that he actually wasn't at home.
+
+1 (45s):
+I should mention that you are actually in an office of a barbershop right now in Connecticut what you can you can hear a little bit of it behind you, it's engineer. No, that's fine. That's fine. So, so first of all our barber shops and can Get open
+
+2 (1m 1s):
+yes. Yes, they are. They are open. I think Connecticut is probably phase 3 or whatever whatever phases where barber shops and other service-based businesses are open. So yeah, they're open they're open for business. And what's the
+
+1 (1m 14s):
+protocol narrow The Barbers wearing masks and the customers
+
+2 (1m 17s):
+were yes Barbers were masked customers were masks. There's no waiting in the barber shop anymore customers will have to wait outside or in their car until their appointment time is ready. And there's also no social distancing between chairs. They spread out the share so that they're you know, they're servicing less fewer customers as a result. Our say that Barbers are probably one of the few types of professionals that are very well equipped in this in this new environment because they actually go to school for this in order to get a barbershop a barber license. You have to study, you know, disinfecting and taking different precautions.
+
+2 (1m 57s):
+So, you know unlike, you know, maybe Waiters Or other types of people who are providing Services. I think Barbara's are one of the few that actually already had to get a license and go through education, you know to be prepared for this environment. So I'm a big proponent of shopping opening. This is
+
+1 (2m 15s):
+that yeah. I'm in California and now barber shops are closed and I have to be honest like I'm a little I'm still nervous about I would still be nervous about going, you know, I've given myself to very bad haircuts over the last six months with with clippers and my kids is too but what I mean when you go now to a barbershop, what are they doing? Everyone's everyone's wearing a mask, but are they disinfecting the seats between customers and you
+
+2 (2m 39s):
+know, yeah the disinfecting. I mean, they already have to disinfect tools between every cut that should be doing that and now they're also disinfecting the seating area many of them are using disposable BBQ chips or they're using this one per customer says they'll have a supply of radius of the Reusing the caves. Yep. A lot of them are not doing certain services like they want to beard work or they won't do Shades anything that would require the client to remove the mask. Yeah, I think that there hasn't been a lot of evidence of barber shops being one of the high transmission services. Yeah worth anything there's risks.
+
+2 (3m 19s):
+This is brisk walk out outside and any day and it's going to be some risk involved and it's just a matter of you know, the balance of how much you want that service. So it makes sense, you know, if you don't feel comfortable getting hair. Cutting there was this
+
+1 (3m 31s):
+article you probably saw it a couple days ago of a hair salon where I'm to of The Stylist had tested positive for covid but none of the more than a hundred thirty customers at went in you know over the course of the few days tested positive. Everybody was wearing masks and it sort of suggests that mass really do work
+
+2 (3m 48s):
+massive room to work. If there's one thing I wish everyone could kind of agree on I think that you know, we are
+
+1 (3m 54s):
+Masterwork. Yeah. Can we can we just say that right now
+
+2 (3m 57s):
+all of those people
+
+1 (3m 58s):
+who are on the hike That I went on over the weekend who were not wearing masks when you pass by me on the trail. That was this why please wear a
+
+2 (4m 6s):
+mask, please.
+
+1 (4m 9s):
+All right, let's talk brass tacks Here song. So I mentioned a little bit about Squire for people who don't know the app to tell us more about
+
+2 (4m 16s):
+it. Yeah. So Squire is a business management and point of sale software focusing on barbershops. So we do essentially everything that a barber shop needs to run their business from handling the books. Looking interface to the backend inventory. It's really customized specifically for the barbershop Ministry. And then on the consumer side is the client. You can actually find a barbershop book pay and tip all in the app or on the website.
+
+1 (4m 46s):
+And and what's the business model? How do you guys make money through the business
+
+2 (4m 49s):
+main ways from handling of payment processing? So that's really core to our business. There's a subscription component. So the shops that use our Form will pay $100 to 250 a month and then there's a customer booking fee. So if you book and pay on Squire you pay about a dollar extra and that Revenue goes to square
+
+1 (5m 11s):
+the most people don't know this but a lot of Barbers are independent contractors, you may go to a barbershop and they made have a chair there, but they actually are their own business, right? Yeah. So
+
+2 (5m 22s):
+this to Central models for Barbershop business models one is where you mentioned which we call kind of differential model. Where you Barber is essentially an independent contractor. They run their own business. They manage their own schedule. They go and come as they please and then they pay rent to the owner usually on a weekly basis. And then the other model is what we call a commission model where those Barbers are cheated a little bit more like employees. They have certain hours that they come and in that case they split the percentage of the transaction with the shop. Usually it'll be 60 40 or 50 50. And the owner will get a piece of every
+
+1 (6m 2s):
+transaction you come out of this with your friend Dave solvent. Tell me how you guys had the idea. I know I mean you studied philosophy as an undergraduate and then he went and got a law degree and Dave was an old friend. I guess. How did you guys come up with this idea?
+
+2 (6m 17s):
+Yeah, so I could try to found this choir. I was out of corporate law firm and Dave was actually business school and both of us wanted to do something more entrepreneurial didn't want to go to corporate. Route, so we would just brainstorm ideas on the weekend and we eventually stumbled on the idea of barbershops and the idea came out of our own experience. I haven't gone to a barber shops for decades like most people I started going with my dad as a kid around 6 to 7 and the experience of going to the barbershop hadn't changed very Antiquated low tech industry cash faced need to call to make an appointment long wait times.
+
+2 (6m 58s):
+So all of those pain points that The real experience form the basis of why we came up with the idea of this is something that we wanted to work
+
+1 (7m 6s):
+on. Yeah, my Barbershop they don't take appointments. You have to just get there when the doors open at 8:30 and they have a chalkboard and there's usually a line and it's cash only it's 35 bucks and you can get there at 8:30 and you might only get an appointment. I like 11:45 and some days. I like ride my bike down there at 8:30 and then they only have an appointment or a time where have a live interview and I can't get an appointment. I can't get A haircut, but basically that's that's been the model for their ever and ever for most Barbershop.
+
+2 (7m 35s):
+Yeah, so and that's that's what we're solving because that's not her really an ideal experience for you as a customer and it's not a good experience for The Barbers either in terms of efficiently running their business, but getting a haircut is such such a great experience and it's such an important part of your life that you're willing to go through. You know that poor customer experience. To get the service but we don't we think that we can make it better
+
+1 (8m 4s):
+than that. How have you liked? How do you approach barbershops? I mean I have to imagine like there a lot of barber shops that are like, I don't want to give up my cash or I don't want to give up, you know percentage of my business or percentage of my income. I mean, it's presumably you get some pushback from potential customers. How do you make the case for people to sign up? Yeah. I mean
+
+2 (8m 24s):
+we sell to them is that this is going to make their lives easier. It's going to save them time and this is actually going to enable them to be better business owners and make more money and we can show them that that's what this the software the software actually does early on we did get more pushback from cash only shops. So our Focus was more on shops that are already taking cards, but that's really the trend just in the world generally consumers are used to paying for services with cards. So the shots that are cash only there will be some segments that just doesn't want to pay X is quite frankly, but you know, we're seeing more and more particularly, you know, the newer shops that are opening they understand that they want to meet their consumers and provide a really great experience to their clients that they have to kind of accept cars and it enables them to charge them or you know, we know that assess people will pay more on card versus cash and if you want to charge $30 a haircut or your other haircuts as is the case in many many cities, it just makes sense.
+
+1 (9m 27s):
+I have to imagine that bookings are significantly down. Down because there's so many states. You can't you can't go to a
+
+2 (9m 33s):
+barbershop? Yeah. So Brookings definitely took a dip when the shred balance started March April and our Revenue essentially went to 0. Yep. And we also decided to waive all of our subscription charges to current and new customers into October because we knew that their revenue is also going to go to zero we and want them to have that overhead. So as a result, you know, we expected ask why essentially wouldn't be making any money but we were okay with that because this is just Such a difficult time what we have seen though is that that shops that our customers are reopening. They are getting booked out there getting booked out relatively fast and then and then their bookings are continuing to stay consistent.
+
+2 (10m 14s):
+You know, that that just kind of speaks to how much of an e there was like a pent-up demand from their clients to get haircuts. And I think that there's something about just the barbershop experience and the community element of it that people, you know men in particular really look forward. Add to that normalcy and to being able to get a haircut and feel great about themselves and feel the way things work. They were before covid. So we're actually seeing it for the shops that are reopening higher than usual bookings. And you know, we'll see how that Trend continues in the months to come so far. That's what we're saying.
+
+1 (10m 47s):
+There's something I read that you you would have said about barbershops. He called them a fail proof service, which I think is right, you know, I think you said look they bring in roughly half the population that He's grooming. But this pandemic which nobody predicted and nobody anticipated has shown that nothing is fail-proof. Everything can fail even the most resilient ideas. So however, the past few months kind of made you rethink your business
+
+2 (11m 15s):
+model. It's made me understand that you can never predict the future. There's always going to be an unknown unknown. We always thought that that are a recession was coming at some point, right? You know the good the gravy train Tank on. Forever. I always thought that our business was with Fair relatively well in a downturn because you know, people will continue to get haircuts and we've seen this, you know in the past that these type of services no tend to remain consistent and downturns. I mean, this is a total Black Swan event. I didn't I just never would have predicted append America at the scale. But if anything I've this is made me believe that our business is even more.
+
+2 (11m 60s):
+Is there anything I thought before just seeing how we've been able to kind of adapt to the reality and make changes on the Fly push features that we know our customers need during this time? And as a result of what we've seen in the last two months actually more inbound and more customers signing up than we ever have in the life of the
+
+1 (12m 22s):
+company. Let me come back in just a moment. We'll hear from song about running a business during a global economic crisis and his plans for getting Squire through the pandemic stay with us. I'm Gyros and you're listening to how I built this resilience Edition from NPR.
+
+2 (12m 42s):
+Support for this podcast and the following message come from the American Jewish World Service working together for more than 30 years to build a
+
+1 (12m 50s):
+more just and Equitable World. Learn more at a jws dot-org. Hey, welcome back to how I built this resilience addition last month song. Lauren was able to raise some pretty significant Venture Capital, but he's taking extra precautions to make sure that this influx of cash will last Squire for the next few months song. I know you guys did a round that you raised more than 30 million dollars during this crisis, but I have to imagine that you're trying to keep your cash balance sheet relatively strong and probably are cutting costs and trying to Fairly careful about how you spend cash in case this lasts a long time, right?
+
+1 (13m 34s):
+You need that cash to last to get you through this economic
+
+2 (13m 37s):
+crisis. Yes. Yes. Absolutely. You know when we started seeing Stacey opening it was a positive sign because I Revenue started rebounding relativity quickly. In fact it May and June exceeded a pre coded numbers just because of all the new business that we're bringing on so that kind of showed okay things are trending toward best case and then now we're seeing stays. Closing again. We're dealing we didn't really expect like California is very close. So just goes to show you can never really know but it's always safe to us kind of assume. The worst case is be prepared for the worst-case. Wish we were prepared to go to go to zero revenue for over 12 months.
+
+2 (14m 17s):
+Wow. I thought that that was in the realm of
+
+1 (14m 19s):
+possible. We're getting a bunch of questions on Facebook from our audience on ask you a question from Dante Richardson. What are some principles that you've discovered an executed over? The course of your entrepreneurial Journey that have contributed to your success.
+
+2 (14m 35s):
+One of the principles is I believe in bringing the best people into your team and really looking for people that can complement your skill set and are better than you are what they do. And if you're an employee at a big company a big Corporation you want to be the smartest guy or girl in the room you want to excel over other employees so you can kind of move up the ranks and you know, that's that's how your you'll be successful as a Founder. You do not want to be the smartest person in the room, right? You want people in the room who are way better than you at what they do so that collectively you can make the company Excel and that will you know in turn make you successful as a Founder.
+
+2 (15m 21s):
+So kind of like a successful founder is only as successful as the people that they bring in and also I don't believe in micromanaging I believe it. In people in and giving them room, you know to make mistakes through Excel to learn from those mistakes. If you have to micromanage people that you hire you probably have their own person. And yeah, so those are just two things off the top that I think are worthwhile. I'm going to go to another
+
+1 (15m 46s):
+question from our audience is from Claire morishima. Hello Claire Claire asks, how have you kept your professional relationships during this time? I mean with your team with your co-founder who's like one of your best friend's is like across country and LA. Ha have you been doing that and making sure that you keep morale
+
+2 (16m 3s):
+up? Yeah, that's that's a great question. It's been a challenge to keep those relationships remotely. I mean we had had a little bit of an advantage because we were already somewhat distributed. So, you know, we had an office in Buffalo New York City Engine engineering team was all spread out. I sales things all spread out. So we're already used to collaborating on Zoom. On it and communicating on slack, but this took it to a whole new level because it just there's no physical presence anymore. So, you know, we'll do like a virtual happy hour and not even talk about business things like that help. It's not as never replacement for the physical, you know, one-to-one interaction, but it does it does
+
+1 (16m 49s):
+help. I want to I want to ask you about and you've written about this and tweeted about this black entrepreneurship in America is declined over the last 30 years. Is also also entrepreneurship. Has. I mean there were more black owned banks in the 80s and insurance companies in the 80s and there are today if you were talking to like a young college graduate black man or woman and they were like, hey, should I become an entrepreneur today would you say now is a good time to start a business in this uncertain economic
+
+2 (17m 20s):
+environment. That's a tough question. It's a good question. I do think that the tides are changing especially recently with Attention to the plight of black Founders and black people in general. So I think that now is probably a better time than ever to be an entrepreneur Black entrepreneur that being said, it's still, you know going to be challenging to be an entrepreneur period let alone a black option or you know, the odds are kind of against you, you know to be to be frank. So I would encourage them that if I can worship is a dream and if that's kind of what they see themselves doing then I have to pursue it.
+
+2 (18m 1s):
+I always encourage people to take risk for measured risks. So if you're at a periodic big company and you're you know, making a decent salary save as much personal Runway as you can before making leave understand that you may go 6 months to 12 months with little to no income and just know what you're getting yourself into but I do believe that I can nourish your particularly in tech provides opportunity for wealth creation that is and Short period of time that is really unparalleled most other Industries. I mean, I'm I believe in it. I believe in entrepreneurship, you know clearly that's what I've committed my life to so I would never tell so much and not to sue it but it was risky particularly now particularly now
+
+1 (18m 46s):
+you and Dave really launched your company after sort of before but really were able to launch it with Grant that you received after entering into an entrepreneurship contest in Buffalo, New York. Has it been difficult over? The years for the two of you to raise
+
+2 (19m 1s):
+money, it's been difficult so that if that company is called a 43 North and it actually wasn't a grand it was this is an investor investment as an investment 600,000. We won the competition So that's its Equity investment in your company. There was an equity. Yeah. Yeah. I was that structure the structure doesn't warrant that converted to equity when we raise the price ground, but prior to that. Yeah raising money is not is not easy. Particularly. I As a first time entrepreneur is somebody who doesn't have a track record in Tech and didn't have the network at that point. It was challenging. We were fortunate both my co-founder and I have to have a pretty decent network of Professionals in New York City from my law finance and you know other kind of like high-paying Industries and we actually we're able to get many of them are African-American were able to get some of our early life friends and family just friends around her friends and you know / angel It helped us get to the next level but for us fundraising until we raise series days and Series be was always a real kind of like just a grind, you know, get it get one check that will take us a couple of months and then go out and try to get it out.
+
+2 (20m 15s):
+We never really stopped when raising. It was it was a constant thing that we're doing to keep the business afloat and quite a few times when we came close to, you know, one month of Runway. Wow, so
+
+1 (20m 26s):
+you're running a business you're you know, you've got a staff of 60 you've got to show Oh up and inspire people and be their leader and but also like you are a human and you were in New York in the midst of mass demonstrations against racial Injustice, which I can't imagine couldn't was not you know was was an incredibly emotional time for you and probably some people on your team. How did you guys navigate that and cope with that it did you talk about it openly it with each other and were there days where you just didn't you just didn't want to get on that Zoom call.
+
+2 (20m 59s):
+Yeah. Yeah, I mean one of the things that kind of unfortunately you have to learn to do as an option or is compartmentalize something can be weighing on you that's outside of your business. You kind of have to learn how to put it in a one place in your mind and focus on things you have to focus and then kind of give it attention when the time is right aside from everything that's going on the road just in life. That's that's kind of a skill set that The founders not from Roars have learned about have to develop so, you know that that was kind of my approach to it is like if I unfortunately if I were to stop working every time a black person was killed by the police.
+
+2 (21m 43s):
+Yeah, it would just be such a distraction. I would never be able to be successful. That's kind of like personally on a personal level what I've had to do but as far as a company goes, yeah, we try to be very sensitive to employees and what they're going through, you know, we communicated to them that you know as a company we stand on the side of black lives matter black lives mattering shouldn't even be a controversial statement and that we really want to give our employees space to process and we told everyone they could take time off if they needed to they wanted to just you know, be if their emotions or if they wanted to go protest or they want to do whatever they want to do.
+
+2 (22m 23s):
+We also make kind of made a statement as a company saying, you know Our position and we made some public donations to some nonprofits. So, you know as a company those are things that we felt was the right thing to do and you know on an individual basis as a black man. Yeah. It is. It's very difficult on one side. You want to help you want to do what you can to kind of support the movement but on the other hand, you know that one of the most beneficial things you can do is create a successful company and be an example of what's possible and hopefully make it. It easier for black Founders in the future to following your footsteps. So that's really the him.
+
+2 (23m 4s):
+That's what I'm focused on.
+
+1 (23m 5s):
+Yeah. What do you want to take away with you from this moment, you know in five years time when you when you're running this company, which will be much bigger and you look back at this moment. You say I learned that then and I'm so glad that we carried it into what we do today. What would that thing be?
+
+2 (23m 22s):
+I think that I'm glad that we remained one focused on this space Barber. Laughs and putting our customers first that that's one of our core values customers are our lifeblood and I think that when this happened nobody expected it nobody expected, you know, pretty much all of our customers to be shut down or not operating we had to make some decisions about what to do and we optimized for doing what would provide the most value to them. So, you know, we immediately switch Focus to how can we help these people during This time and then I make money. How can we help them? Keep the doors open so that when the shutdown is over they can reopen their doors and I think that so far it looks like those decisions were the right decisions just because of the way, you know, our customers in the marketing industry has reacted.
+
+2 (24m 15s):
+And also we're seeing, you know, the features that we've rolled out actually really, you know, helping them reopen successfully. So hopefully we'll look back and we'll say you know what we made the right decision and Lord knows what crises Wait us in the future. But you know we're going to we're going to have the same approach. You know, that that that will enable it's quiet. If you're successful if we can make our customers successful will be successful.
+
+1 (24m 40s):
+Yeah song Thank you so much for joining
+
+2 (24m 43s):
+us. Thank you. It's been a pleasure.
+
+1 (24m 45s):
+That's an excerpt from my conversation with song Lauren the co-founder of Squire to see our full interview. You can go to facebook.com how I built this just click on videos and if you want to see all our past live Use you can also find them there or at youtube.com slash NPR if you want to find out more about the how I built this resilience series or other virtual NPR events, you can go to NPR presents dot-org. This episode was produced by Candice limb with help from Ali Prescott L mannion, Gianna, Kappa Dona, John Isabella, Julia Carney Neva Grant and Jeff Rogers. Thanks for listening. Stay safe, and I'll see you back here in a few days.
+
+1 (25m 27s):
+I'm garre's and you've been listening. to how I built this from NPR

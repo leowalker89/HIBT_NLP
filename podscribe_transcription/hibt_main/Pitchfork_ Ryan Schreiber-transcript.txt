@@ -1,0 +1,827 @@
+Rough Translation - NPR (0s):
+I'm Gregory Warner posted the podcast, rough translation on our new season. We're telling stories about the cultures of work, the nine to five, it's a myth and rest around the world. I came into this totally prepared to defend my American productivity At work. The new season of the NPR podcast, rough translation.
+
+AT&T (20s):
+When building a business, there are tons of moving parts. One that's often overlooked is having the right network, thankfully with at T and T business, you can pick the best wireless plan for your small business and offer your employees the features they need. Plus the best at and T business plans include nationwide 5g. Wherever business takes you@andtbusinesshasthefeaturesyouneedvisitatt.com slash B I Z U Y w. 5g requires a compatible plan and device 5g may not be available in your area. Visit att.com/5g for you for more details
+
+Airtable (54s):
+in the ever-changing landscape of work, how can you ensure your people workflows and data stay connected. We do it with air table. Air table allows you to create flexible systems that help your team operate as one. It's essentially a Lego kit that gives you the building blocks to create tools that work, how you do. We actually use air table to manage our workflow right here at built a productions. It serves as our database for guest contact information and the place where we schedule episodes and move them through our production pipeline. So our remote team knows exactly where each project stands in real time without it we'd have to use multiple tools, and maybe you can relate to this. We already have enough online tools to juggle as it is. So yes, you could say that in a way you can thank air table for helping us make sure our episodes drop every week. Air table brings teams together and helps teams like ours. Run smoothly. Give it a try for free@airtable.com today. That's air table.com to get started for free.
+
+4 (1m 60s):
+I love doing the creative side of this so much that I like never focused on the business, but I did have one advertiser who had like actually reached out to me and said, Hey, we want to advertise at the top of your site. How much will it cost?
+
+3 (2m 14s):
+What was the advertiser?
+
+4 (2m 15s):
+They were up an online record store called in sound.
+
+3 (2m 18s):
+And what will they pay you a month to remember?
+
+4 (2m 20s):
+They asked me to name a price and I, so I went, oh my God, I wonder how much. So I just pulled out the biggest number that I could think of, which was $500 a month.
+
+3 (2m 33s):
+Wow. How about $500?
+
+4 (2m 37s):
+I was like, oh my God, that'll pay almost. That'll almost pay my rent each
+
+3 (2m 41s):
+Month. And they're saying they're gone. Sure, no problem.
+
+4 (2m 44s):
+Yes.
+
+3 (2m 52s):
+Welcome to how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind movements. They built I'm guy Roz. And on the show today, how Ryan Schreiber taught himself how to write reviews about the music he loved and grew that into Pitchfork. One of the most influential music publications in the world. If you met Ryan Triber in 1995, you'd be hard pressed to predict that his webpage of his own music reviews would one day become a powerful media company for the first few years, hardly anyone noticed what he called Pitchfork.
+
+3 (3m 41s):
+In fact, Ryan's day job was as a clerk at a local record store, outside Minneapolis, but slowly in fits and starts with a few near death moments. Ryan built Pitchfork into a multimedia company that could make or break new artists. Ryan was just 20 years old. When he started posting reviews on a website, he had no training or formal experience as a writer or a critic. He was just a music band. And in many ways that black of experience served him. Well, he wasn't trying to build something big or profitable or influential at least at the start, but eventually Pitchfork was reaching millions of readers a month and employed an army of reviewers writers, producers and event planners in 2015 Pitchfork was purchased by the media giant Conde Nast.
+
+3 (4m 34s):
+And all of a sudden, Ryan Trevor found himself sitting in meetings with some of the most powerful figures in media. People like Anna, winter of Vogue and David Remnick of the new Yorker. It was an unexpected path for a guy whose main ambition in life was to work at a record store. Ryan grew up in the suburbs, outside Minneapolis. His parents were realtors and not surprisingly from an early age. Music was a central part of his life
+
+4 (5m 1s):
+From the earliest point in my life before my memory, my mom tells me about, you know, how putting music on would make me just like, if I was like throwing a tantrum or crying in the crab or something like that, she figured out that if she put on music, like I would just be silent and listen. So even though they weren't, you know, they were very into the arts or music or anything like that, they were, you know, casual music fans. We had some country music records around some like three dog night and captain Antonio and whatever else they, they liked. But once they saw how enamored I was of music and that I would just sit in front of the stereo all day and just listen and listen, they just started bringing me records.
+
+4 (5m 49s):
+And I wasn't really particular about the records that they brought. The, it was sort of a quantity over quality thing. At that point. I just wanted to absorb as much as I could
+
+3 (5m 59s):
+In terms of like the school side of things. How are you? Was school hard for you? Did you not care?
+
+4 (6m 6s):
+School was very hard for me. I was neither a good student nor was I like at all socially adept. So I was definitely, you know, kind of a loner. I was also sort of sort of textbook ADHD case. So I was always sort of acting out of bad combination in general, but you know, but at the same time, you know, I was actually also really fortunate because my parents actually really instilled a lot of self-confidence in me. So if I would get rejection from my classmates, I always kind of had a sense. It's like, we're not close. You don't know me. You don't know what you don't see the parts of me that I see
+
+3 (6m 46s):
+Teach you as a kid. Did he play any sports?
+
+4 (6m 49s):
+No completely unathletic. I played, I did play piano, kind of a sport, a musical sport,
+
+3 (6m 54s):
+Definitely.
+
+4 (6m 55s):
+But I knew that I was going to do something in music. And unfortunately just going to public high school, the programs, weren't amazing. Most of the programs that you could take, I took, but it wasn't, it wasn't teaching anything. I didn't know. I was very much a self-learner when it came to music and I mean, and then socially things got much better in high school, but I was still definitely on the fringe. And there was definitely a point where I considered going to college, but you know, I didn't have the, I didn't nearly have the grades. Like I kind of barely graduated.
+
+3 (7m 31s):
+Yeah. Tell me about, I mean, cause you really, this is the early nineties in the suburbs of Minneapolis, Minneapolis, obviously legendary music town, prince Husker, do the replacements and, and, and, and others. Yeah.
+
+4 (7m 46s):
+I was really fortunate to grow up in Minneapolis because music is such a big part of the culture there. And alternative music in particular was very, very well nurtured in the city at that time. And very appreciated. We had FM radio stations in 1990, that would play Jesus and Mary chain. And I mean YouTube, but Nick cave. And I mean stuff that, you know, a very rare format at that time. And those were stations that like, honestly kind of taught me, you know, here's a way to take music that is really subcultural and really kind of deep into alternative culture and make this presentable, you know, for sort of a wider audience because you know, a lot of independent alternative music was also quite experimental.
+
+3 (8m 35s):
+Did you, would you hang out at record stores in high school?
+
+4 (8m 39s):
+Oh, constantly. Oh my God. It was like the only place I ever went and I would spend hours, hours of the record store. So I got to know all the people at the record stores, you know, I'm like 15, 16, like asking them for recommendations. And I like this, what should I listen to? And how has this, have you heard this new album by the cure? How's that? And just constantly digging and, you know, looking at all the artwork. And they had like actually at my local record record store in Minnetonka, we had, at that time, it's no longer there, but there's a big record store chain in Minneapolis called cheapo. And I just, I spent all my time there. They had a listening station in the back.
+
+3 (9m 20s):
+You pop in a CD.
+
+4 (9m 21s):
+Yeah. If it was, if it was used and it was already open, they would just like, let you bring stacks back there and just listen.
+
+3 (9m 27s):
+Yeah. I remember those.
+
+4 (9m 28s):
+Yeah. Eventually. I mean, they were just little CD boombox.
+
+3 (9m 33s):
+Yeah.
+
+4 (9m 33s):
+But eventually I kind of was like, okay, this has a tape deck on it. So eventually I started bringing in tapes and making mix tapes in the record store from,
+
+3 (9m 47s):
+We just hit record and record record tracks.
+
+4 (9m 51s):
+Yeah. I would, I haven't, I was sneaking it and it was I'm sure very conspicuous. And I would guess that probably they'd seen me do it, you know, once or twice and turned a blind eye. Sometimes I did get caught and they were like, you can't do that. Come on.
+
+3 (10m 3s):
+This is like stealing music before a Napster.
+
+4 (10m 7s):
+Yeah. It is actually. Now that you mentioned it
+
+3 (10m 9s):
+Now,
+
+4 (10m 10s):
+It was so valuable. I mean, it was hard to get, it was expensive. You know,
+
+3 (10m 14s):
+People don't realize people of a certain age don't realize there was a time when people would hit record and play on their boombox to catch a song on the radio. So then they could hear it later on.
+
+4 (10m 25s):
+Yeah.
+
+3 (10m 26s):
+You would just wait and you would time it.
+
+4 (10m 28s):
+Yep. You would time it and you know, yeah. Press that on pause. Just sit by the radio and wait, you know, wait for that sound
+
+3 (10m 36s):
+To come
+
+4 (10m 36s):
+Around on the hour.
+
+3 (10m 37s):
+There is Spotify. No, no fun anymore. You don't have to hit real quick, quick record hit record on the boombox. Yeah.
+
+4 (10m 45s):
+I mean, in a sense it's hard to be tuned to soldier about it. I think the art of the tape is like one of the main things I'm more nostalgic about because there was such a, you're like handcrafting an object. It's not just like a collection of songs that you're putting together on a tape. It's like the whole package.
+
+3 (11m 2s):
+Yeah. It's not the same. Exactly. All right. So you graduate you're 18 and you're not going to go to college. So what, what did you do? I mean, where did you, did you get a job right away?
+
+4 (11m 15s):
+I did. I graduated. And then I applied at this very like cool local record store. And I was very adamant about my application and like calling, did you get it? You know? And they got back to me a couple of weeks later and they said, Hey, we really appreciate your enthusiasm, but you need to have some prior record store experience to get this job. So I said, wow, where can I get that? Where can I get that? Where I can also get a job, but the mall of America had just opened. So I went down the mall of America. I applied at the music land store.
+
+4 (11m 55s):
+I was in like that and worked there for the minimum amount of time, six months before I went and reapplied at the other,
+
+3 (12m 3s):
+You know, what was the name of that record shop by the way
+
+4 (12m 5s):
+It was called down in the valley. It's still there.
+
+3 (12m 7s):
+And was it like in high fidelity? Was it like that, like you were a bunch of like sort of music snobs who were also working in a record shop, was it, or is that completely off base?
+
+4 (12m 20s):
+No, it was, it was a lot like that. It was a lot like that the, the store itself was, you know, it was a record store slash head shop. It was one of these, you know, with the counter in the back and lots of grateful, dead stuff around pink Floyd in the sense burning like the whole nine,
+
+3 (12m 38s):
+By the way, where are you into any of that?
+
+4 (12m 39s):
+No, I wasn't. What's so funny is I was not like I would sometimes have to go back and work the head shop counter, and they would, they're just slinging terminology, you know? And I'm like, they're like, give me that dugout and that one hit her. And I'm like, can you, could you just point that out to me for me? Like, I was insane, but yeah. So we had people who were like into all kinds of music working there, lots of, you know, personalities, of course we were like all snobby, you know, like I didn't think we were like snobby or the customers like right. You know, that sort of a record store, a record clerk stereotype, and for good reason, because I've been, I know I've experienced it too. Like no end also, right.
+
+4 (13m 20s):
+Like being on the other side
+
+3 (13m 21s):
+Of that record.
+
+4 (13m 23s):
+Exactly. You know? Oh, are you sure about this? You know, or just a, you know, a light grown or a heavy sigh.
+
+3 (13m 30s):
+Yeah. By this point, I mean, there was obviously those rolling stone, there was spin, there were other publications, music, magazines, they were, they were already changing. Right. But there were still some really good music magazines coming out of the UK, like melody maker and NME. Would you ever go to newsstands in Minneapolis and like, look for those?
+
+4 (13m 51s):
+Yeah. I mean, that's another thing I would do. I would go to like the local borders or Barnes and noble, where they had just like infinite magazines, every subject and the music magazine section was so deep. I would just sit and read. I would like listen to my headphones and read. I mean, really, I actually loved Q at that time. Q is so solid on
+
+3 (14m 10s):
+It.
+
+4 (14m 11s):
+Great. It was really thick too. I mean, they did so much coverage. Their captions on all their images were hilarious. Like it was so biting and that I think that that kind of UK sensibility of, of the UK music press was one of the things that really influenced me to kind of be cattier or more vicious early on.
+
+3 (14m 32s):
+And where are you? I mean, this is a time when like mid nineties, when this is like the kind of the golden age and the beginning of like alternative weeklies in, in cities really kind of start to blow up and scenes, people would make scenes, people would like to use word PageMaker or a cork express on a Mac and print out pretty nice layout pages, and then you could photocopy them into zenes and then sell them. Were you ever, were you into, into those?
+
+4 (14m 60s):
+I was, I was very into zenes. You know, most of them were really interviews with artists and record reviews. I mean, you know, the Indian community was very, like, there was a deep camaraderie, like we're all sort of outsiders, we're all kind of in this together. And we all support kind of, you know, people in the scene. So there wasn't a lot of negativity in the reviews, which I think in hindsight, you know, kind of, kind of a nice thing, but at the same time, you know, you could always kind of detect, oh, well, if you're into this or that you might like this blah, blah, blah. I was like, where's the negativity? Like we're all music fans too, you know, and music fans have.
+
+4 (15m 40s):
+We just, we have strong opinions. So that's like kind of the, you know, that's one of the most fun things about engaging and having conversations with other music fans is this heated debate about, you know, what matters. What's good. What's not, and having not seen any of that in a lot of the local zenes or the Indies eons, I was like, we need to shake this up.
+
+3 (16m 2s):
+You S you see these kind of like this scene kind of seeing pop up around you. I mean, how did you, I mean, did you start to think, you know, I want to make one of myself.
+
+4 (16m 12s):
+Yeah. I was actually really drawn to the idea, but I just, I had no, I mean, working in a record store doesn't, you know, I was fortunate to be able to live at home while I did that. So my expendable income, I could, whatever was, there was not much, it's certainly not enough to support even something like creating 200, 300 copies of something to distribute around town. The overhead was just kind of out of reach for me. So yeah, there, there was always kind of like an instinct, like, oh, I could do this. Look at the, look at these kids doing this. They got like 10 minutes on the phone with like, you know, Ian MCI
+
+3 (16m 51s):
+From, for Gaza. Yeah. But, but he's a guy you can actually call up he and would answer the phone.
+
+4 (16m 57s):
+Yeah. But, you know, there would also be, you know, oh, they got David burn, you know, and people who were like less accessible, I saw that they were getting that kind of access and they were just local zenes. So I knew that there was a way,
+
+3 (17m 11s):
+What was the Genesis of, of how you came to the idea of starting your own Xen, like thing?
+
+4 (17m 19s):
+So, while I was working at the record store, this is 1994, I had already been on local bulletin board systems. These like services that you could call up that a person would host a computer. And it would be sort of like a local regional message board. But in 19 94, 1 of these people introduced me to the internet. He was online already and showing me all websites and showing me how everything worked. And he had made a website and I was like, how do you do this? You know, he's like, it's actually super easy if you know, Photoshop, which I'll teach you and, you know, five HTML tags, and you have an FTP client. I'm like, this is the sounds complicated.
+
+4 (17m 59s):
+He's like, no. So he actually walked me through it and it didn't take long to learn. So I basically just started learning that software. And you don't even really need to know that, frankly, I just wanted to make sure that we had images and you know, that it was visual as well as texts. And then I started to see other publications kind of popping up online.
+
+3 (18m 18s):
+So you set up a website basically. And I think he called a turntable initially. Right. And it, and this was just a static website, maybe with like a photo and just like text links. And then what do you remember writing on, on it? Like what would I have found on turntable?
+
+4 (18m 36s):
+You would have found first you would have found the interviews. Because the first thing that I did was try to talk to artists. I was like, you can't have a Xen without interviews. Yeah,
+
+3 (18m 46s):
+No, you get,
+
+4 (18m 47s):
+That was actually the big draw for me at first. My first interview was with Lowe, believe it or not, but they, at that time were just, you know, a local band starting out and Duluth, Minnesota, who would come to the city all the time in play.
+
+3 (19m 1s):
+And did you just call them and say, Hey, can I interview you for my, my Xen, my website? Or do you remember what, how you pitched it?
+
+4 (19m 8s):
+So I actually called the record labels because I didn't know how to reach the bands. You know? I mean, nobody had a website at that point, not even the labels, how to websites. So in order to find the, in order to get in touch with the label, what I would do is I would call the Minneapolis public libraries information desk, and I would ask them for, can you find, is there a phone number for Matador records in New York? Is there a phone number for an up records in Seattle or in Washington? And I would hang on the phone for like a half an hour while this wonderful library and lady would go and look through, I don't know,
+
+3 (19m 48s):
+God bless public libraries, keep going
+
+4 (19m 51s):
+Seriously. And, and so, yeah, it would take a while. And then she'd finally come back though. And she would have to have the three phone numbers for me. And at first I didn't even know what department I'm looking for. I'm like, so I have ezine and I want to do like an interview with this artist. Do you know who I talked to about that? They're like, ah, you want publicity? Hold on. And so I w I would finally get in touch with the publicists and I'd be like, I mean, all I would want is like, can I get 10 minutes on the phone with this person? It doesn't have to be big, you know, like I had no interview skills at that point anyway, and it was kind of novel. I mean, there were definitely interviews that I got really early on. Like, I did get to talk to David Byrne really early on like 1998.
+
+4 (20m 32s):
+Wow. I mean, for me early on, and I got to actually meet him at, you know, it was something like the state theater in St. Paul before his show. And like, I'm sitting down with David Byrne, like asking him about the soup he's eating or whatever, you know, and,
+
+3 (20m 47s):
+And what would you ask them? I mean, would you just ask them, I don't know about how they made the record or how, how would you conduct the interviews
+
+4 (20m 54s):
+Often? I wouldn't, I wouldn't talk that much about the music. I want to know. I, again, I just like, kind of wanted to have like a friendly conversation. And so I would kind of come up with a list of questions in case there was not necessarily like any form of chemistry, but often there would be, some of the questions were also just joke questions. I think I asked can coffee of the butthole surfers. Do you have any naked pictures of your mother, which he said no. And I said, do you want to buy some? And that was the end of the interview. Wow.
+
+3 (21m 28s):
+Wow.
+
+4 (21m 29s):
+I mean, the music present that time was also so irreverent and just, you know, I mean, it was, that was sort of gen X slacker culture.
+
+3 (21m 36s):
+I mean, you have this natural confidence, which is incredible. I mean, you're very lucky that you had that because being young is hard. I mean, you remember this being like 18, 19, 20, 21, it's hard. It's scary. Like you don't, you, you know that there are things you can do, but you don't quite have the language and the experience to express that to people who are older in positions of power, but somehow you were like, you would just go out and, and just see if somebody would do an interview with you.
+
+4 (22m 7s):
+Yeah. When it came to music, I knew that I knew what I was doing. I knew that I knew where I was talking about, even if I didn't necessarily have the skill set yet, I was like, there's only one way to do this, you know? And that's again. So after the first couple of interviews I had on an artist who, whose new record was coming out, but hadn't been released yet. And when I asked her to the interview and I had set the interview up, they're like, oh, do you want to hear the record? I'm like, well, isn't it not out for another month? They're like, well, we'll send it to you. I'm like, you'll just send it like for free. Like, you'll just send it to me for free, like before it's out. And once I found out that that was, that was what happened at music publications that you'd get on a mailing list and they just send you piles of free music, everything that's not out yet or stuff, that's just come out across every genre and listen to whatever it was I wanted to listen to and then like start writing about it.
+
+4 (23m 4s):
+But yeah, once that started to happen, I started to go, I have so much music here that I can cover myself. Maybe if I put out like, you know, a post on the website, I can find other people I can send these CDs to, they can write about it. And maybe we can like really amp up our output. And that's what happened.
+
+3 (23m 24s):
+But how did you know how to talk about music even had a breakdown, the instruments, or how to talk about how it was recorded on multi-track or how did you even have that language to where did, where did that come from? How did you learn about it?
+
+4 (23m 38s):
+Well, that came from reading, you know, all the music publications. That's where I got, you know, I mean, I read so much me. I, every piece of music press that I could get my hands on from the time that I was 13. So by the time that I was 17, I had kind of a pretty strong handle of at least the terminology and, you know, the handy rock critic, cliches, or turns of phrase, or, you know, so I had an innate, I had a really strong knowledge just from self-educating, you know, 24 7.
+
+3 (24m 11s):
+I know that what was originally called turntable, you, I think very quickly had to change the name because you, there was another company called turntable, right? Yeah.
+
+4 (24m 19s):
+Yeah. They were called turntable media and they, I think they did make like sorta magazines, CD ROMs, or like they did video interviews and things like that. I remember like, oh, I don't know, six months into me doing it. And they sent, they sent a season to size, which
+
+3 (24m 33s):
+Scared you
+
+4 (24m 34s):
+Scared the hell out of me, you know, just league. This is from a lawyer what's going on. I guess, you know, I'll just change the name. Well kind of just circumvent this entirely.
+
+3 (24m 44s):
+So how did you come up with Pitchfork?
+
+4 (24m 46s):
+I came up with Pitchfork. I was, I was watching Scarface as teenagers do. And there's a scene in the movie where Albert Chino's being interrogated by the feds or something. And they, they noticed this Pitchfork tattoo on his arm and they're like, oh, what does that mean? That means assassin. And I'm like, oh, that's cool. That's cool. Like I needed a new name and I needed a new, new name pretty fast. And I'm like living in rural Minnesota. I kind of liked the angry mob connotations, which at that time were not so tea party affiliated. And it was more just general angry villagers kind of vibe. But I liked the, I liked all the connotations and I thought, you know, it's sort of like, it's sharp.
+
+4 (25m 29s):
+And I really wanted pitch work to be more aggressive in its review style to be harder on music. And I don't know, have a higher bar.
+
+3 (25m 40s):
+All right. So you kind of rebrand this as Pitchfork. This is still a hobby, right? And I, and I want to, I want to illustrate this by reading your, the first review you wrote on Pitchfork it's it's of the amps. It's a record. It was a Kim deal from the breeders, from the Pixies. She puts out this record and I want to basically read, I want to read this is written by you to give it an 8.2. You say initially, I wasn't sure if there's record was, for me, it seems so low fi that it was barely audible. The songs didn't stand out immediately. And I was just like Jesus, compared to the breeders. This is terrible. After a couple more lessons, I couldn't believe I wasn't pulled into the awesome rock melodies and the brilliant lyrics from the beginning.
+
+3 (26m 21s):
+And you go on to explain it with a few more words, and then you write at the end, it won't leave my disc man for at least three days. Well, that's kind of a long time, I guess that is great. It's very short it's to the point. This is not Robert Chris Gow or Jim Debra got a style review. It's it's the review of, of, you know, a young guy who's just starting out, but unselfconscious let
+
+4 (26m 44s):
+Me tell you, when you read it in that voice, it gives it a lot more character than I think it, it leaps off the page with naturally. So thank you.
+
+3 (26m 54s):
+Why don't we come back in just a moment, how Ryan begins to grow Pitchfork out of his parents' house, telling them to please never answer the phone because you never know when it might be David Vern, stay with us. You're listening to how I built this,
+
+Whoop (27m 18s):
+How I built this is brought to you by whoop the world's most powerful wearable health and fitness coach whoop isn't like other fitness trackers. It measures your vital signs, including heart rate variability or HRV resting heart rate and your nightly sleep cycles, their algorithms process, all those data points to provide you with a daily personalized recovery score. This guide can help, you know, how you should approach your day. In fact, I spent a few weeks wearing the whoop tracker while I exercised and throughout the day. And it was amazing to see all of the data that it gave me every single day. Sleep better, recover faster and workout smarter with whoop. The all new device is free. When you sign up for a membership, go to woop.com, w H O O p.com and enter built at checkout to save 15% today. There's power in getting together with the people you love.
+
+Vrbo (28m 15s):
+And today your family, isn't just about people with shared DNA. It's also about the chosen family. You've found who like what you like and know what you've been through. Maybe getting together with your people means reconnecting with your childhood friends or watching the game with your college teammates or seeing your new baby meet your best friend's baby for the first time. Or maybe it's about reuniting with the whole crew or laughing until you can't breathe or big sister real talk, or just sitting in silence with someone who truly understands you. One thing is clear. Today's families don't often live in the same city, let alone have a single place to come home to VRBO knows the best places with your people. With millions of vacation homes, your place can be anything from a charming mountain cabin or Lakeside lodge to a city apartment or luxury home with private pools, hot tubs, full kitchens, and extra bedrooms. VRBO homes provide the space and comfort. You need to focus on the people who matter visit vrbo.com or download the VRBO app to find the perfect vacation home for your people, VRBO a place for together.
+
+3 (29m 30s):
+Hey, welcome back to how I built this I'm guy Ross. So it's the mid 1990s and Ryan Schreiber is working out of his parents' house, writing pithy and unpretentious reviews about indie music for his new online publication Pitchfork.
+
+4 (29m 46s):
+I started writing two reviews a day after awhile. At that point, it was really uncommon for websites to be updated daily. I mean, in this, at this point, you know, 19 95, 96, when I started publishing almost everything out there was static. There were just a few publications like McSweeney's I think was already around. There were a couple of others that would update and they'd have something every day. And of course I like, oh, well, these are the ones that are kind of becoming established and like getting a reputation. If we start, if I start doing something, every weekday, I can build a daily audience and you know, but even when they're like that, when they're that short, that quick, they're just so easy to knock out.
+
+4 (30m 26s):
+Yeah. But, you know, I was very fortunate to be able to establish Pitchfork at a time when there was zero competition, there was nothing on the web for these artists. So, so again, by the time that people did start to log on 1999, 2000, these search results would lead so many people to Pitchfork. And that's that really helped it get a, get a strong footing.
+
+3 (30m 49s):
+I mean, the first two years, it was just you kind of writing. Well, really what I would describe as like, almost like a public diary of the music you're listening to. And you were working at the record shop. And also, I think you got like, you're doing some telemarketing also to earn some cash. Yes. Which you were good at, right. You were pretty good at it.
+
+4 (31m 8s):
+I was kind of good at it. Yeah. The record store kind of stopped cutting it. You know, I wanted to move
+
+3 (31m 12s):
+Out. You want to move out of your parents' place.
+
+4 (31m 14s):
+Of course. And I needed to support myself in some way. And when I did apply to the job and I got in really easily, I mean, this is a room full of like 30 or 40 people who come in from five to 9:00 PM. We do cold calls from these cards that we get issued from the mortgage company. And we just call these numbers. And the idea was to call them, ask them, you know, a series of questions about their home. I was, I mean, I was such a kid. I know I sounded young. And so I'm calling people, you know, at dinner, like after work and there's this child asking them about their 15 year adjustable rate mortgage or whatever, you know? And so the way that it actually worked was that it was totally commission-based.
+
+4 (31m 58s):
+So you set an appointment with them, you got $5. If they came in for the appointment, you get an extra $10. If they ended up submitting to a mortgage proposal or submitting a mortgage, you'll get 25. If they closed, you'd get $50. So like off one call, you could reasonably make like, you know, almost a hundred dollars. I started to actually make kind of like really good money doing that in the evenings, you know? And that would free me up during the day to do pitch work from like nine to five. I would be able to work on it as a full-time job.
+
+3 (32m 29s):
+But this is not a business. You are not thinking of this as a business. I mean, w did you see this as like your future where your parents, like this is your future Ryan? Or was it just like, like this little kind of side project?
+
+4 (32m 41s):
+I actually did see it as my future.
+
+3 (32m 44s):
+Wow. And, and by the way, I wasn't trying to be, what's the word condescending I'm like really trying to understand how you saw it because you probably weren't one of the few people who did see it as your future.
+
+4 (32m 58s):
+Yeah, I think so. I mean, I definitely was one of the few people. My parents did not understand the internet. They didn't understand what I was doing in my room, on my computer all day. I was telling them about it. They would get strange phone calls, like, Hey, Brian, some buddy is calling you from, you know, Sony music
+
+3 (33m 15s):
+And David Burns on the phone.
+
+4 (33m 16s):
+I mean, exactly. You know, a mom don't answer the phone. Like, you know, I got my, my, my setup, my tape recorder. Okay. But to her great credit, she paid that phone bill every month. And was, I didn't hear about it so many years later, but,
+
+3 (33m 35s):
+But you did see this thing that you were doing as, as what, like, when you say you saw this as your future, what did you cause? 1997, the internet. I mean, yeah. I mean, there was, there was a big boom happening in California and people were making lots of money and Yahoo, but when you had this little basically blog
+
+4 (33m 53s):
+Yeah. You know, it didn't take a lot of foresight to see that people were going to be logging on in mass numbers in short order, that that was going to be happening. There was already like, it was growing just at an insane pace, exponential. And so, you know, I'm looking at like how much time I spend online versus how much time I read magazines. And I'm like, well, look, if you know all of these magazines, all of these magazines transition online or have an online presence, like, you know, I was already asking myself those questions, like, am I going to continue to buy the magazine? Or we're just going to do this. But for me, I was also like, well, look, they have advertising and magazines. We can have advertising on websites. So even though I knew that I did not yet have a readership enough to support actual real ads, but I did start looking at how other zenes and, you know, sort of those, the, the like mid tier kind of indie magazines, like magnet and Wigan.
+
+4 (34m 49s):
+And I actually, in some cases, one right there, their sales department and be like, oh, I'm interested in, in advertising. Can I get like a copy and just like learning and figuring out how they did it.
+
+3 (34m 59s):
+Wow. So you, you would write to some of these music magazines say, Hey, I'm potentially interested in advertising. They can send you their rate card. So you could learn about how they were making money. Right.
+
+4 (35m 9s):
+And I would go, okay, this is what their distribution is. You know, this is the audience they're reaching. This is what they're charging for a full-page ad. Oh, wow. They charge.
+
+3 (35m 19s):
+So the gears are turning in your head, you were thinking, how can I turn this thing into something that actually could be my job.
+
+4 (35m 27s):
+Yes.
+
+3 (35m 28s):
+But, but you were not, you had not only were you not making any money from it, you had no money to, to get people to help you out. Right. I mean, right. So how did you eventually, cause then eventually you did get a couple more people writing reviews. So it's just friends just kind of did it for fun for free.
+
+4 (35m 44s):
+Well, the first writer who started writing was my, was my best friend at the time was so one of my best friends, Jason Joseph's and, and it was just like a hobby for us. It was fine. I was like, I'll, I'll give you some CDs and you write about them. He's like, okay, great. You know, because again, the reviews were so short, like it was effortless and it was clearly all kids, you know what I mean? I don't think we had a writer who was older than 24 at that point.
+
+3 (36m 6s):
+And how would you find the writers? He would post where
+
+4 (36m 8s):
+I posted on the main page of the site and I said, Hey, you know, we're looking
+
+3 (36m 13s):
+For writers,
+
+4 (36m 13s):
+We're looking for writers, you know, send us submissions and your examples. And I got kind of amazing, like huge number of submissions, even as early as 1998. And in fact, a lot of people in the first and second sort of group of writers who kind of came on board, you know, ended up becoming sort of like Pitchfork lifers. It's like, I mean, most of these people were way better writers than I was. So I was like, oh, this is incredible. You know, people want to write about music. It's a good way to get experience or whatever. And so Mark Richardson, who became the editor in chief for many, many years, and probably one of the most well-known names associated with Pitchfork,
+
+3 (36m 52s):
+He just answered this post from your Jerry A. Little blog
+
+4 (36m 55s):
+March, 1998.
+
+3 (36m 57s):
+Wow. Yeah. You know, I'm wondering, I mean, as you sort of really begin to think about this as a potential business, did you file like an LLC? Did you, I mean, in 19 98, 19 99 was Pitchfork like a registered business.
+
+4 (37m 17s):
+Did
+
+3 (37m 18s):
+You add it? No, no,
+
+4 (37m 19s):
+I don't even close. No, I had, no, I had not the first idea about how or why to do that. And in fact, I don't think we were even incorporated officially until like 2004. It was a very long time.
+
+3 (37m 34s):
+What was the impetus that gave you the confidence to, to jump into, to a full-time? Cause I think, you know, you were doing record store or telemarketing, but by 1999 you decide to move to Chicago to leave Minneapolis.
+
+4 (37m 51s):
+Yes.
+
+3 (37m 52s):
+W was that for a job or was that just because you want to live in Chicago or what was,
+
+4 (37m 58s):
+Yeah, I had made road trips, a series of road trips to Chicago where like the, I mean the very first road trip I took and I'm like in the city for the first time. I mean, I'm not actually in the city limits for 30 minutes before I decide like, oh, this is exciting. I would love to live here. I wonder if I could figure out how to do this, you know? And, and so I actually just started saving up and at the same time, eBay had just kind of come out and I noticed that people were selling music and sewing bootleg things CDs, and you could get, I mean, just absurd amounts of money on, you know, the auction block was eBay for, you know, things that you could just go buy at your local record store practically.
+
+4 (38m 45s):
+So I just started selling this stuff that I already had in my collection, kind of like whittling it down and what can I get rid of? And what's worth a lot. And through doing that, I made, I don't know, probably five grand, but I moved to Chicago with that much money in my hand and was determined. I was like, look, I love doing the creative side of this so much that I like never focused on my business. I'm going to not give myself an opportunity to mess up. Like, I'm going to have to work on this as a business. I did have one advertiser who had like actually reached out to me and said, Hey, we want to advertise at the top of your site. How much will it cost?
+
+3 (39m 22s):
+What was the advertiser?
+
+4 (39m 24s):
+They were up an online record store called in sound, which no longer exists, but was kind of a, a force at the time.
+
+3 (39m 30s):
+And what would they pay you a month to remember?
+
+4 (39m 33s):
+They asked me to name a price and I, so I went, oh my God, I wonder how much. So I just pulled out the biggest number that I could think of, which was $500 a month.
+
+3 (39m 49s):
+Wow. How about $500?
+
+4 (39m 53s):
+I was like, oh my God, that old pay almost that'll almost pay my rent each
+
+3 (39m 57s):
+And they're seeing a gun. Sure. No problem. Yes.
+
+4 (40m 2s):
+I mean, because are at the top of every single page of the website, you know, everybody who comes up and I mean, 1500 readers a day, people who are completely obsessed with music, people who are looking to buy music
+
+3 (40m 14s):
+Online deal.
+
+4 (40m 16s):
+Yeah. Yeah.
+
+3 (40m 17s):
+So you go down to Chicago and I have my theories as to why, I mean, Chicago was a hugely fertile place for amazing music in the nineties. I mean, just, we go on and on Wilco and, and toward us and probably for getting a million bands, I mean, okay, go came out of there. But so many bands are coming out of Chicago.
+
+4 (40m 36s):
+Yeah. I mean, there's touching go as out of their drag city was out of there. And so, you know, it was an extremely fertile music scene and, and that to me was really exciting and really inspiring, you know, I just want it to be in the middle of, of it.
+
+3 (40m 52s):
+Did you get an office or no, presumably you were just doing this out of the apartment. You're renting, right?
+
+4 (40m 57s):
+Yes. I rented this apartment. I mean, it was $600 a month. Totally cockroach infested, but like, that was my HQ. Yeah.
+
+3 (41m 5s):
+And we're the costs of running the site high at all? Like the server costs or anything like that? Or was that relatively cheap?
+
+4 (41m 11s):
+No, it was actually dirt cheap. It was crazy. There was like no overhead whatsoever. So, you know, it was all upside, which was very fortunate because I wouldn't have been, you know, if it hadn't been, I wouldn't have been able to make it work any other way.
+
+3 (41m 24s):
+And I guess one of the things that's important to emphasize here is that the reason why so many of these turns out to be incredibly talented writers were writing for free was because it was really, really hard to get published in a, in a print publication in the early two thousands. I mean, it was a very, even an alternative weekly, like these were, you know, these were really, really like buttoned up places in a lot of ways that was really hard to break in. And so, and then the big websites, the salons, the slates also really hard to get into this. So this was a way for people to just kind of get their name out there.
+
+4 (42m 3s):
+Yeah. And also, I mean, Pitchfork had, even from, you know, the late nineties on Pitchfork had, you know, among those whatever 1500 people who read it every day, you know, had a, quite a lot of credibility in the music space, even though a lot of our reviews were so not review, like some of them were, I've been, especially with a lot of these other writers started the writing got a lot better, a lot more quickly, but because we're turning out such massive quantities review, it's kind of like the review factory, you know, there, it was something that people who were really true music heads and were online and especially if they were, you know, interested in independent music followed pretty closely.
+
+4 (42m 48s):
+So it had a certain cachet, even maybe that some of the other publications might not have, even though certainly you get paid at those publications.
+
+3 (42m 60s):
+So you're in Chicago still. I mean, this is still a labor of love for everyone involved. You're living off your savings and it's late now or 99 when he moved there. And I think one of the first, really what I guess in hindsight was a real turning point was a review that the sky Brent Dick credenza writes about the new Radiohead album kid a yes and a so, so here's, here's, here's this a lot, a couple of lines kid, a makes rock and roll childish considerations on its merits as rock are pointless, comparing this to other albums is like comparing an aquarium to blue construction paper.
+
+3 (43m 45s):
+This review gave the album a 10, essentially calling this the greatest record ever. And I wouldn't disagree with him by the way, this is probably one of my two or three favorite albums ever. Yeah. It's an amazing review. And I guess that got you a little bit of attention.
+
+4 (44m 5s):
+It did. I mean, it's funny now when I look back on that review, there was a, there was a time I think for a little while there where I was kinda like, oh my gosh, because the reviews spawned such polarizing,
+
+3 (44m 16s):
+Right? Cause it's over the top, really over the top, but, but, but beautifully written,
+
+4 (44m 20s):
+It's probably one of the most over the top reviews I've ever read in my life. And at the same time, this is how we both felt about this record. We were both like, I mean, we were AUSTRAC, this record was transcendent.
+
+3 (44m 32s):
+I mean, he writes this review, so unselfconsciously, and again, we should emphasize Pittsburgh is still small potatoes at this point. Like it is a tiny, like really tiny place for a tiny group of people go to, but like the writing of this review is, is so unselfconscious that, it's just wonderful. And I don't know Brenty credenza, but thank you, Brent, for that review.
+
+4 (44m 57s):
+Yeah. I mean really thank you, Brent, because that review totally. I mean like Pitchfork was growing really quickly at that point we had probably something like an average 3000, maybe 3,500 readers a day, But I was like really gunning for that fi you know, it was kind of like, it was weird how like analytics at that time, it was sort of like gamifying it for me. I'm like, okay, I got to push this number higher and higher. How can I do that? Like what can we, what can we write? What can we say if it's outrageous? You know? And, and how can we grow in a way that like lends further authority, but also grows the readership. And that, like, that record was I actually, for that, I went out and I entered, like sent a bunch of emails to all the radio had fan sites, which I knew also had huge readership.
+
+4 (45m 43s):
+And so I was like, Hey, we're going to be running this review tomorrow. Just FYI heads up. If you want to link it, that'd be awesome. Whatever, just so you know,
+
+3 (45m 51s):
+So that brought in a lot of traffic.
+
+4 (45m 53s):
+It brought in a staggering amount of traffic. We ease handily broke that 5,000 mark and the day that review came out. But yeah, and you know, for so many people that is their very first impression of what Pitchfork is. So, and because it reads nothing like anything else in the music writing space, no people are like, what is this? This is so hyperbolic. It's so purple. And it's so like, unrestrained, like, wow, that's so uncool. You know what I mean? Like he just reign it in, you know, if that had just been, you know, a pretty straight faced, you know, if it had red, like it, any other music, journalism, I don't think people would have even really necessarily noticed us.
+
+3 (46m 45s):
+All right. So let's talk for a moment about the business. It's it's you, you've got some writers you got, but clearly you're trying to branch out. Like you're very strategically doing smart things. Like when a radio had review comes out, you're, you're emailing all the Radiohead fan sites and probably doing this with other reviews too, which is driving traffic. You've got an advertiser where you going out and seeking out other potential advertisers too, at the same time where you were, you like the biz dev guy to,
+
+4 (47m 16s):
+Yeah. I mean, I was the everything guy, like everything. I mean, I just worked on Pitchfork, like nonstop, but by that point I had gone through this period where like I had, you know, failed Chicago my first year and I had to move back to this cabin. My parents had in rural Minnesota.
+
+3 (47m 34s):
+W what do you mean you failed in Chicago? What, how did you feel? Wow.
+
+4 (47m 37s):
+I mean, what, I, I couldn't make my rent because even though I gave myself like no alternative, but to turn Pitchfork into a successful business, I couldn't do it that quickly. And, you know, even though I was like calling record labels and trying to get them to advertise, like not everyone was biting, it wasn't enough to sustain, you know,
+
+3 (47m 55s):
+To pay your rent,
+
+4 (47m 57s):
+To pay the rent nev you know, and, and to, for me to eat, you know, for example. Yeah. So I was something like four months behind in rent and I'm just like, I had to go home. I called my folks and fortunately had like a lake cabin way, rural Minnesota, I mean, an hour and a half, two hours outside the city, like little 600 square foot thing. And basically I would got to go up there for six months and kind of get my grounding again. Wow.
+
+3 (48m 26s):
+Did you, did you spend the winter? Did you spend the winter there?
+
+4 (48m 29s):
+No, no, no. I spent, I spent the summer there because the place wasn't winterized. So I actually only had from April to October elitist to get out of there. And I was like determined, dead set to go back to Chicago. I was like, I'm going to make this work.
+
+3 (48m 45s):
+Why don't we come back? And just a moment, how Pitchfork got profitable and stayed proudly independent until a changing media landscape, put it on a very different path. Stay with us. I'm guy Ross. And you're listening to how I built this.
+
+Masterworks (49m 4s):
+do you go from punching a monkey to founding a billion dollar business with just 30 employees? Just ask the founder of this New York city based FinTech unicorn. You remember those banner ads where you punch the monkey and win a free iPad? Well, that simple idea became one of the most visited sites on the internet. Thanks to Porter's five forces model with its emphasis on finding areas with a lack of competition and utilizing an early understanding of ad tech masterworks quickly blossomed into over 100 employees, helmed by its founder, who at this point was wrapping up his senior year of high school. But now there's an even bigger market that he's disrupting one valued at an estimated $1.7 trillion and one with no competitors who are doing what these guys are doing. So why does this matter now? Find out@masterworks.com promo code built that's masterworks.com code built see important regulation, a disclosures@masterworks.io slash CD.
+
+ExpressVPN (50m 11s):
+Everyone needs a VPN internet service providers know every single website you visit. They can sell this information to add companies and tech giants who use your data to target you. Express VPN is easy to use, and doesn't slow your internet connection. You won't even realize you have it on plus express. VPN engineered all their servers to run only in Ram. All user data gets wiped on every reboot, making it impossible for their VPN servers to store your info, even if they want it to. I use VPN all the time, especially when I'm on public wifi at airports or in coffee shops, because it gives me the comfort of knowing that my data is secure, secure your online activity by visiting express vpn.com/built today. That's E X, P R E S S V P n.com/built. And you can get an extra three months free express vpn.com/built.
+
+4 (51m 22s):
+Hey, welcome back to how I built this guy Roz. So it's the summer of 2000 and Ryan is holed up in a cabin in rural Minnesota, trying to figure out how to make Pitchfork work as a business. I started to work as much on the ad sales as I did on the copy so that I could just reach that next step. And so that's how I spent that summer, like really just doubling down on like actually getting a, a stable of, of regular advertisers in rotation.
+
+3 (51m 53s):
+So you go back to Minnesota for what, almost a year,
+
+4 (51m 57s):
+Probably six, six to eight months, something like that.
+
+3 (52m 0s):
+Right. And, and then you head back to Chicago, right? To kind of start up again with a few more advertisers. Can you estimate, like roughly how much you were bringing in and ad revenue at that point?
+
+4 (52m 12s):
+Well, I don't have a firm recollection of exactly how much I was bringing in at that point. It was probably a thousand to 12 or 1200, something like that.
+
+3 (52m 20s):
+So when did you first get like a brick and mortar space where you, where you could work out of, do you remember? What, what year was that?
+
+4 (52m 28s):
+That was 2003.
+
+3 (52m 30s):
+And what was the, what was the turning point? How were you able to do that? Cause that's gotta pay rent and you've got to get off as equipment and internet connections and phone lines. What, how did you have the cash to do that?
+
+4 (52m 42s):
+Well, by the end of 2001, I had a very healthy network of advertisers. And so I started to be able to put some of that money back into the business, but the first thing I wanted off my plate was the thing that I like doing the least, which is the ad sales. And once we already had a client roster, sort of, of, you know, we had a lot of people in rotation. I was kinda like, okay, I think I could afford to pay one person a salary. I actually offered one of my brighter friends from Philadelphia who had wanted to move to Chicago. I like offered it to him because I was like, he would be fun to work with. Not because I thought he would necessarily be great at selling ads as like, oh, it'd be fun to work with him.
+
+4 (53m 26s):
+So he came, he came out to Chicago, I got us an office. I gave him a little salary and we did that for, I guess, almost a year.
+
+3 (53m 35s):
+So he's your first employee, real employee, but sort of, cause you weren't, you hadn't even incorporated as a business yet. Like this is still, it's still like a friends kind of just writing them a check. Here's your check for the week.
+
+4 (53m 47s):
+Not paying taxes by the way, either.
+
+3 (53m 49s):
+And meantime, you have this stable of writers who are writing reviews. So we're, I mean, from the business side, was it stressful or was it just like you know what, this is fine. We got it. I'm editing these things and we were paying our rent and we've got, you know, a couple thousand bucks coming in and in advertising revenue.
+
+4 (54m 10s):
+Oh my God. Life was good. I mean, like the point that I was at with, with Pitchfork, like being like I can support, you know, I can, I'm like working with somebody, we have like a real office. Like we get to go to concerts every night. Like we have artists will stop by our office and like, hang out, we'll interview them. And
+
+3 (54m 28s):
+Because you start get, cause you had built a reputation now, you know, it's important to point out that because I think some people hearing this will be like, well, how did she get, are these, all these artists interested or record labels? And we're not talking about like stadium, arena, artists. These are like indie artists. But the reason why is because no one else was doing this, right, like rolling stone and spin, like the big players kind of seated that ground to whoever else was doing it. Which was you.
+
+4 (54m 59s):
+They did, they sort of see today. I mean, there was there, there was, it's not like they weren't covering this music. They were, but I think they were covering such a wider array of music, but also I, most of them didn't have websites, stone. Yeah. And also just like were younger and, you know, kids like reading stuff by kids their own age. And you know, also being able to put a lot of those bands forward to a larger audience was one of the single most rewarding things. And think that the things that I loved about running Pitchfork the most, it's not that these artists wouldn't have been heard or discovered it's that if you're kind of able to provide more broader coverage or maybe help it happen faster than it might've happened.
+
+4 (55m 48s):
+But also just to be able to champion artists who deserve it, artists who are doing things, you know, that are, that are progressive,
+
+3 (55m 56s):
+There was a review that came out in 2004, which is like probably the, one of the, if not the most, one of the most infamous reviews ever posted by, by Pitchfork and it's of record by an artist named Travis Morrison, who is part of a pan that it was buzzy for a while called dismemberment plan. And the, the writer of that review crystal and gave it 0.0 on a 10 point scale, right? Saying it, it fails. So bizarrely that it's hard to guess what Morrison wanted to accomplish in the first place. It was a devastating review. And needless to say, Travis Morrison is not an artist anymore. I don't believe he makes music anymore today.
+
+4 (56m 35s):
+He's a writer. Now
+
+3 (56m 36s):
+He's a writer. Okay. That had a huge impact. I mean, right. Record stores, weren't selling the record. And it was, I think one of the first moments where it was clear that you, you could actually make or break artists. Do you remember that moment?
+
+4 (56m 52s):
+I do. I mean, I actually kind of remember very early on trying to write reviews of artists that like were not in the press at all, like going, sorting through our, the stack of promos that we would get to find something deeply obscure, but that looked interesting. And I would pull out and just listen to these CDs, like really pour through this stack, try to find something nobody else was covering, but we're also still kind of tied up with this kind of, you know, super irreverence, naughty, goofy publication at the same time. And so we like to do things that would, you know, get attention or be outrageous in a way. And that was one of those moments that was like, w you know, I was like, we haven't given a 0.0.
+
+4 (57m 35s):
+Like, have we ever done it? We should do it. You know? And, and unfortunately, that was also the point at which I realized when I realized that pitch work could, could break careers, could like break artists in the bad way. I was like, yeah, that really gave me pause. Because the reaction to that, I did not, I mean, I didn't expect it to end his career for God's sake. You know what I mean? So when that happened, we took a beat, you know, and we're like, okay, we need to reevaluate how we're using this authority that we managed to accumulate. And we, we've got to be a little more responsible with this cause that, you know, that doesn't feel, that doesn't feel right
+
+3 (58m 20s):
+As you were growing. Right. And, and able to hire one person. How did you figure out how to be a manager of people? I mean, before you answer a question, when was, when were you started? When were you able to hire additional people like on payroll?
+
+4 (58m 37s):
+So what happened was in early 2004, Eric Carr, who had been selling ads was like, I actually hate doing this. I don't think I can do this anymore. But Eric had managed to like, expand it even a little bit more like the base. Right. So I was kind of comfortable. I was like, okay, if I actually hire a person who's really good at this, we'll really be set. We can really grow from there because at this point, the readership is, I mean, 30,000 readers a day or something, you know,
+
+3 (59m 6s):
+By 2004
+
+4 (59m 7s):
+Easily, probably much higher than that. It might've been, you know, 75,000 readers a day or something like it started to get enormous. And I mean, probably around 2001 was when it started to just skyrocket just completely
+
+3 (59m 22s):
+I, 75,000 readers a day. That's a medium-sized daily.
+
+4 (59m 25s):
+Exactly. Yeah. It was a, it was staggering to watch this number just like explode.
+
+3 (59m 30s):
+Did you, were you, I mean, did you start to become actually profitable?
+
+4 (59m 34s):
+Yes. It started to become quite profitable, quite profitable. So I, you know, I was like, okay, well I can afford to hire the right person for this job now. And once again, I just went the same route that I always did, which is putting out a call on the site saying, Hey, you know, we're looking for a person who's an ad salesperson. And let us know, you know, apply here, send your resume. And then I found the very last application that came in was from a salesperson at the onion. And he had in his resume, all these like benchmarks. And like I took sales revenue from, you know, increased it like 25% and this way, and I did this and that and that.
+
+4 (1h 0m 17s):
+And like, he actually could, he quantified his results and the resume, which I was like, oh, this is it. This is the guy I like, don't even need an interview. Like this is him. So yeah. And his name is Chris Caskey. And he went on to basically become like, he ran the entire business of Pitchfork from that point on.
+
+3 (1h 0m 34s):
+Wow.
+
+4 (1h 0m 35s):
+And so once he came on board, he was so good at what he did. And he was able to like branch out beyond, you know, indie record labels, which had been our primary target before to get like, I mean, you know, American apparel started advertising and, you know, like huge companies with a real marketing budget started advertising
+
+3 (1h 0m 57s):
+As you start to hire more and more people. Right. And finally, you can do this 2005, 2006. You can finally start to hire 2, 3, 4 people. Yes. This is a, this is a business, you know, you probably what I mean, can you estimate what you were bringing in a year more than $200,000 a year in revenue?
+
+4 (1h 1m 16s):
+Yeah. It w it would have been something like that because by 2005, yeah. We probably had something like six employees at that point.
+
+3 (1h 1m 26s):
+I'm curious, like, in terms of leading and leadership, I mean, you were the editor and you were doing everything, but now you've got like four or five people, six people. I mean, how did you, because managing once you have multiple people, it's can start to get tricky.
+
+4 (1h 1m 43s):
+Yeah. I mean, people were like, everybody was, there was really on board. It didn't require like I wasn't having to breathe out anyone's neck about anything. And, but, but leadership was definitely not at that point at all. A natural skill. I mean, you know, when you think about my background and like the kind of my social ineptitude from, you know, from the earliest, it's not like that ever went away. You know what I mean? That was a big, that's always was a huge learning curve for me, but I did end up learning so much about leadership from watching Chris, Chris had an innate ability to lead.
+
+3 (1h 2m 19s):
+And this is your ad guy who, who is basically your business operations guy.
+
+4 (1h 2m 24s):
+He was, yeah. I mean, he was, I mean, from the time that he joined the org chart of the company was me and Chris side by side and everybody else.
+
+3 (1h 2m 32s):
+So without him, it's very likely it would not have ever become really a professional business. He kind of the fact that his resume was the last one that you pulled up was kind of a stroke of luck.
+
+4 (1h 2m 43s):
+It was a stroke of luck to a large degree. I mean, there was a, I could have, you know, if I kept searching, if Chris hadn't come along of it kept searching. I'd like, because I already had, like, I w w we're already kind of on a roll at that point. I think it would have been able to become, you know, a much bigger business, but it would not be anything like what we know Pitchfork has today.
+
+3 (1h 3m 4s):
+And, and so, I mean, as, you know, as you sort of became more and more influential, right, with this sort of the Pitchfork effect, right. You start to get attention, media, attention that even national media attention, did you ever did it, did you ever think about like raising money and, and turning it into like a massive media operation?
+
+4 (1h 3m 28s):
+Yeah. You know, at a certain point we started to see people who had kind of come up alongside us, start to do that. I remember when I was in Minneapolis, you know, vice started out as a Montreal operation.
+
+3 (1h 3m 44s):
+Yeah. We had them on the show and on season one, the story advice.
+
+4 (1h 3m 47s):
+Right. And I remember getting, you know, an, a copy of vice, then it was still a newsprint. I thought it was the funniest thing I'd ever seen in my life. And then just didn't see another issue again for a while. But like, then they started to kind of like, once again, like the web came along, they started to have like a really strong presence. And they like, I mean, they just skyrocketed, like they had so much investment. They were so good at raising capital that like, it was almost insane to watch, but at the same time, like Pitchfork was growing so well. Like we didn't, we didn't really have that many aspirations beyond being the music publication. Right.
+
+4 (1h 4m 27s):
+That's what I really wanted because I didn't have a lot of interest in culture beyond that. I just didn't didn't have it. If we had started to cover movies, like I would have been pretty hopeless. And so we love being independent so much. We love not having to answer to anybody and, and God we're making so much money from advertising by that point. But it was just like, you know what? This is good. This is comfortable. We don't need to, we don't need to go that route.
+
+3 (1h 4m 51s):
+You guys got into the festival business in 2005, there was a festival called the intonation music festival. And you were, you guys were hired to curated, which was a chance for you to kind of get your feet in your fingers into that business. Cause that's a complex business.
+
+4 (1h 5m 10s):
+Yeah. We were very fortunate that intonation kind of came to us that we were, I mean, again, this was an advantage of being in Chicago. This would never happened if I hadn't moved there. So they asked us to join up and just asked us if we wanted to choose the, choose the bands. We were like, yeah. Sounds amazing, obviously. Wow. Yeah, let's do that. You guys run it and we'll just choose the artists and promote it. That sounds like a good deal, sir. Let's do that. We ended up selling that first year. I think something like 12,000 tickets for two days or something, maybe three, maybe 13, 14,000. It was a lot, a lot, a lot of tickets. And so fortunately, essentially the festival director whose name is Mike Reed was really, I mean, just incredible promoter producer.
+
+4 (1h 6m 1s):
+And we worked with him every step of the way on putting this thing together. But I mean, he was really leading that side of it. And then Mike actually ended up leaving parting ways with the company that founded intonation because essentially we just wanted to do that together. We were like, this is great. We love working with you. We don't know about these other guys. You're having problems with them. Like, let's just go in on this and, you know, and work together on building this and as the Pitchfork music festival from Huron
+
+3 (1h 6m 31s):
+And, and just, I'm just curious, like from a business perspective, was that good for your business? I mean, it's good in the sense that you really become a cultural well-known festival, but is it possible to make money relatively easily on a festival?
+
+4 (1h 6m 45s):
+You know, we found out kind of the hard way pretty early on that first year. I mean, Mike already had understood like, you know, the finances of it the first year and it kind of added explained it to us and walked us through P and L for that. So we were always kind of like, okay, this is clearly not going to be the major revenue driver that you would think it would be. There is so much overhead that it's also like kind of a, a delicate dance where all of these things have to just happen just right. You know, you have to have a reasonable artist's budget with which you can attract talent. That's not going to the competing festivals, say Lalapalooza, riot Fest, et cetera.
+
+4 (1h 7m 29s):
+You've got to, you know, make sure that the ticket sales are like fair, reasonable that you can attract a big enough crowd. You've got security concerns, fenders. There's just, there's so many moving parts. If one of those things doesn't come together. If you have like inclement weather all weekend, because it's an outdoor festival. I mean, these things can really crash the festival enterprise altogether, like kill the business. So it's a very, very high risk business. And one that we fortunately by staying mid-sized and not trying to scale up and not trying to compete with the Lollapaloozas and Coachellas and Bonner Roos, we were able to manage to make it profitable break even.
+
+4 (1h 8m 18s):
+So, no, it wasn't a big, it was probably, it might've been 10% of our overall revenue.
+
+3 (1h 8m 23s):
+You, you eventually moved to New York. I think. And the editorial office stayed in Chicago for awhile would eventually move to New York. But I think by, by like 2010, you had 20 full-time staffers in New York and Chicago, like, you know, freelancers as well. You're doing like two and a half million unique visitors a month, 400,000 visitors visitors a day. So you're really on the map. You're a really major force in, in music journalism, but there were competitors right there, obviously a lot of these upstart news media websites that now are out in the world.
+
+3 (1h 9m 2s):
+Right. We know that Buzzfeed, I mean their Huffington post is out there. Some of these publications are branching out into music, NPR launched NPR music. I can't remember when, but that was becoming a pretty important force. Yes. Were there people kind of saying to you, Hey, we've got to like protect our turf or we've got to look out for these competitors cause we're, we can get eaten alive. I mean, you, you, you can just see what, what happened to newspapers and that could happen to us too.
+
+4 (1h 9m 26s):
+Yeah. I mean that we were cognizant of that. We're, we're very cognizant of that. I mean, Chris was stressed out all the time. You know, we did start to see the writing on the wall a little bit. And we did kind of like as, not necessarily as a direct result, but sort of, we did try to kind of like branch out into other directions and, and attempt, you know, a couple of other sort of arms of the company, one was of course was like Pitchfork TV, the video arm, which did quite well. We also tried to put a movie site together and a couple of other things, but
+
+3 (1h 10m 2s):
+They didn't work.
+
+4 (1h 10m 3s):
+They, we didn't really have enough resources by ourselves to put into all of the things that we wanted to do, frankly. It was just a little bit too. I don't know. It was kind of like at that point in the, you know, the, the band's been together for 15 years and everybody's sort of wants to start their own side projects. You know, there was a little bit of that to it. And so it wasn't our strategy wasn't the best, but at the same time, because we were trying to do too many things at once without any, you know, without any help.
+
+3 (1h 10m 36s):
+There are many things that you guys tried try to print magazine. Yes. You tried Pitchfork TV. There were there's even, he got into like games and collaborations with a bunch of different publications. All these things are, I think are smart. Right? You weren't try things in a lot of those things didn't work out, but I mean, year on year until you were acquired, which we'll get to in a moment, where are you growing every single year where you were you growing in your, was your revenue growing every year where there here's where it was up and down, up and down,
+
+4 (1h 11m 4s):
+The revenue was growing year over year, but our expenses, you know, varied. I think it really wasn't until probably, yeah, something like 20 13, 20 14, that we started to kind of feel the effects of what would become kind of the influencer model of marketing and that kind of shifting the entire landscape from, you know, a banner ad driven economy to a totally social media focused like marketing economy
+
+3 (1h 11m 42s):
+When you were approached by Conde Nast in 2015, who, who eventually acquired you to purchase Pitchfork? I mean, I'm sure, sure. For you, it was incredible. It was publication was valued. Must've been valued quite high at that point, but I wonder also was a calculation in your mind that you were looking at the future and at competitors and at media consolidation and, and maybe we're concerned that without, you know, without being part of a bigger organization like Conde Nast, Pitchfork might not survive for another 10 or 20 years. Cause it was 20 years at that point that you've been running this.
+
+4 (1h 12m 22s):
+Yeah. I mean, again, we could see very clearly what was coming down the path and, you know, seeing where we are today, where if you don't have a paywall, you're struggling. Yeah. You know, I, it, it was clear that the whole model was going to change or was already changing on one hand. I was like, look at this. Now the business is going here. And like the future of this business and how difficult it's going to be to continue to adapt with what is still ultimately a niche publication, you know, a well-read, but ultimately still very niche. You know, that's, that's, that's going to become harder and harder to do. We're going to have to start making difficult decisions.
+
+4 (1h 13m 4s):
+And we're going to have to probably downsize a little bit, you know, or there's this offer on the table that I'm not likely to ever see anything like this. Again, if we do follow that road and at the same time being met with these promises that kind of, they offer of, you know, investing in the business and helping to grow it. And at the same time, being able to tap into their huge network of like luxury brand advertisers and things of that nature. So it was kind of like, well, okay, babe, I've been doing this forever. There's 32 brands, like where not only is this something that like, kind of elevates it as further escalates Pitchfork and is more of like a success story kind of approach.
+
+4 (1h 13m 46s):
+It feels like we're going to need to band. These publications are going to need to band together in order to make this work going forward.
+
+3 (1h 13m 54s):
+And you had a lot of people that depended on, on it for employment. So I'm sure that was a lot of pressure.
+
+4 (1h 13m 58s):
+Oh my God. By that time we had 50 some employees. Yeah. Yeah. I'm also kind of a, I don't know, superstitious in ways, like things in my life have tended to happen at the right time for certain reasons. And that just seemed to be one of those moments where like this wouldn't have fallen out of the sky. If it wasn't the path I was supposed to take,
+
+3 (1h 14m 21s):
+You stayed on as an editor for another few years and then stayed on with Conde Nast, I think for four years after the acquisition, how did you adapt to that environment, guys? Corporate, you were moved to the world trade center in New York, the Conde Nast offices. You're part of like, I don't know, like, I, I think I'd be scared as hell to be in a conference room with Anna Wintour, but there you go. You're in that world.
+
+4 (1h 14m 47s):
+Yeah. I mean, on one hand, on one hand it was intimidating to be, you know, like having come from the background that I came from, where I never gone to school for, you know, for a journalism or editorial. And I'm in a room where, you know, my peers are David Remnick, multi Pulitzer, winning genius editor of the new Yorker and, and, and a winter who is the creative director of Conde Nast. So who you interface with regularly about more business, you know, and among numerous other legends, like w magazine, like vanity fair, GQ, Jim Nelson at GQ.
+
+4 (1h 15m 28s):
+I mean, these are genius, genius people and not to denigrate, you know, myself, but like, you know, yes, it was deeply intimidating going into, especially with my general, like social awkwardness that I already innately have when I'm nervous and nervous situations. So like that didn't help. But you know, at the same time it was also kind of like this crazy like media college camp. Like there were so many amazing journalists, amazing and amazing business minds there as well that you could kind of go to and tap whenever you needed to. And like, that was all open. And that was another big reason why this made sense to do. It's like if we all kind of bring our knowledge together, you know, moving forward together, it's going to be a lot easier.
+
+4 (1h 16m 13s):
+But you know, w at the same time, obviously when we got to Conde Nast, Conde started to make decisions as to what should, you know, what we should continue to focus on and what we should,
+
+3 (1h 16m 26s):
+So they didn't want to support, like all the different projects that you guys had going, like the film publication or the print version of Pitchfork or whatever, like th they didn't want to pursue those things.
+
+4 (1h 16m 37s):
+Yeah. These were both things that Conde decided weren't worth, you know, the, the ROI basically, you know, they, when we, when we got to Conde Nast, like they were very much like, oh yeah, this is a niche business. And for very complicated reasons and machinations behind how Conde operates, even though you would think a print publication would be something they would embrace with arms wide open. Not exactly. So, so yeah, these were things that were on their way up. They were, you know, I mean, had really good reputations had really had strong readership, but were not able to be nurtured to the degree that we wanted to nurture them.
+
+4 (1h 17m 22s):
+Especially at, at that point,
+
+3 (1h 17m 24s):
+You are no longer part of Pitchfork. You, I think, officially left in 2019. Yeah. I know that you're writing a book written history of the, of Pitchfork, which will come out in a couple of years. Do you miss that daily interaction? All those people being steeped in that world meetings talking about, I don't know, ideas, do you miss that date? Day-to-day
+
+4 (1h 17m 49s):
+Oh, it's M it's hard not to miss, you know, like all the activity and excitement of a newsroom. Yeah. I mean, it's the most thrilling for me. It's our life. It's the most thrilling thing in the world at the same time, you know, kind of like having this sort of more isolated, like for one thing I stopped writing in 2004, just mostly stopped doing it publicly and stopped doing it almost period. So it took a while to kind of get back into the swing. When I started kind of writing kind of mapping out, like if I was to write a book, what w what would it look like? And writing is something that I've just recently realized is kind of, it's totally my calling, but also, you know, the idea of running businesses that are innovative, that do help kind of change the landscape, I mean, is, is just as much a part of who I am and what my interests are as it's been sus since the beginning of the web.
+
+3 (1h 18m 42s):
+I think I, I might know the answer to this question, but I'm still going to ask it because I'm curious, you knew that this was going to be the thing you wanted to do. You knew that this was at a certain point a year or two into this blog. You knew that this was what you wanted to do with your life. But if you, if you could see yourself in 19 95 96 and have seen that journey, what would you do you think you would have been like, yep, I can see that happening. I can see building this into a multi-million dollar business and selling it to a massive media, you know, juggle just huge media organization. Do you think you, you would have been surprised?
+
+4 (1h 19m 23s):
+I think I would have, I would have been elated. I would have been thrilled just to the very core to see everything that patchwork has been able to accomplish and not quite beyond my wildest dreams, because I absolutely dreamed that something like that could happen with it. And I tried every day to make it be that, I mean, considering most people interact with and engage with new music discovery now through algorithms, primarily that it still has significant influence in the world of music, journalism, and music listeners. It's incredible. Yes, it is. It is wild that, that we all, and I say we, because I naturally, I mean, there's many more people who are just as crucial and pivotal to this story as me, but, and just as responsible for its success, but it's in a, and now it's, it's kind of like, it's like a kid that, you know, you have a kid and it grows up and goes away to school, and then it starts making its own decision.
+
+4 (1h 20m 27s):
+And it's an, it's an adult now. And you kind of like, you know, you can't, you know, you're no longer have the input that you used to have. That's going to go out and make its own mistakes. And you know, you'll just idly stand by. You go, I might disagree with that, but you know what? I'm really proud of you. Anyway.
+
+3 (1h 20m 43s):
+That's Ryan Triber, the founder of Pitchfork, by the way, what's your, your favorite album of all time?
+
+4 (1h 20m 51s):
+It's impossible. It's an impossible question. I mean, think of all the music that you've listened to in your life, can you say at any given day?
+
+3 (1h 20m 58s):
+All right. Top five, no order. Just, just five great records. No order.
+
+4 (1h 21m 2s):
+Okay. Five great, great records. No order. DJ shadow. Introducing.
+
+3 (1h 21m 7s):
+Yes. Pet sounds beach. Voice.
+
+4 (1h 21m 10s):
+Yeah, it's good. I like it.
+
+3 (1h 21m 13s):
+Marvin Gaye. What's going on?
+
+4 (1h 21m 14s):
+That was going to be the next one. I was going to say actually, Marvin Gaye, what's going on? She can't not have it.
+
+3 (1h 21m 18s):
+Radiohead kid.
+
+4 (1h 21m 19s):
+Yeah. That's certainly one of my favorite albums talking heads remain in light of the record by a UK duo called the KLF it's record called chill out
+
+3 (1h 21m 31s):
+Prince side of times.
+
+4 (1h 21m 33s):
+Oh my God. Why did you even have to ask me purple? Rain is my favorite album of all time. Princess prince is my number one of all time.
+
+3 (1h 21m 42s):
+Hey, thanks so much for listening to the show this week. If you want to hear every episode one week early, check out Amazon music. If you want to listen one week early and add free subscribed to wondering plus in apple podcasts or on the Wondery app, please do follow us on your podcast app. So you always have the latest episode downloaded. And another way to support the show is by filling out a survey at wondery.com/survey. If you want to contact the team, our email addresses H I B t@iddotwondery.com. If you want to follow us on Twitter or Instagram, our account is at how I built this. And mine is at guy Roz and on Instagram I'm at guy dot Ross.
+
+3 (1h 22m 27s):
+This episode was produced by Liz Metzger with music composed by Tina bluey. It was edited by Neeva grant with research, help prepare safari. Our audio engineer was Brian Jarbo. Our production staff also includes JC Howard, Casey Herman, Josh lash, Alex Chung, Carrie Thompson, Sam Paulson, Catherine cipher, Elaine coats, John Isabella, Christmas Sini, and Carla estimates. I'm guy Roz. And you've been listening to how I built this.
+
+3 (1h 23m 7s):
+Hey, everyone. So I want to make sure you know, all of the different ways you can listen to how I built this. As you probably know, you can follow the show on Amazon music, apple podcasts, or wherever you're listening right now, but a one let you know that you can actually listen to the next episode of how I built this today. One week early on Amazon music, you can also listen to it early and ad free by subscribing to Wondery plus an apple podcasts or on the Wondery app. Please do follow us on your podcast app. So you always have the latest episode downloaded. And another way to support the show is by filling out a survey at wondery.com/survey. And thanks
+
+LinkedIn (1h 23m 47s):
+As the sun comes out and small businesses are back in business, LinkedIn jobs makes it easier to grow your team. LinkedIn jobs helps you find people. You want to interview faster and for free create a free job post in minutes on LinkedIn jobs to reach your network and beyond to the world's largest professional network of over 810 million people, then add your job in the purple hashtag hiring frame to your LinkedIn profile to spread the word that you're hiring. So your network can help you find the right people to hire simple tools like screening questions, make it easy to focus on candidates with just the right skills. So you can quickly prioritize who you'd like to interview and hire. It's why small businesses rate LinkedIn jobs. Number one in increasing the quality of hire LinkedIn jobs helps you find the candidates worth interviewing. Did you know that every week, nearly 40 million job seekers visit LinkedIn post your job for free at linkedin.com/acquire that's linkedin.com/acquire to post your job for free terms and conditions apply.

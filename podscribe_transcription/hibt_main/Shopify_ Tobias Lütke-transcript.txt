@@ -1,0 +1,788 @@
+1 (1s):
+Really quick before we start the show. I want to let you know that there are just a few tickets left for the how I built this Summit supported by American Express. It's happening October 22nd and 23rd at the Yerba Buena Center in San Francisco. It is going to be an incredible event. You'll be able to hear from and probably even meet Founders from companies like away slack Instagram spanks JetBlue Clif Bar, Jeni's Splendid ice cream and many many more. You can get your tickets and learn more about the summit including how it can help grow your business or build your big Ideas at Summit dot npr.org. I also want to let you know about a few how I built this live shows we've got coming up on the East Coast this fall also supported by American Express will be heading to New York on September 10th where I'll be talking with Christina Tosi of Milk Bar, and then we'll be in Washington DC on September 12th with Tristan Walker of Walker & Company.
+
+1 (56s):
+You can get tickets and find out more about our East Coast tour at our presents dot-org So, how are you doing as the CEO of the company?
+
+2 (1m 13s):
+I'd not good. I mean my team was very very patient with me. There was a lot to learn. It's a tough. It's a very subtle job, you know, wonderful things about computers is when you tell them what to do. They will keep doing it evaluate forever until you stop like turns out humans are not like humans are different. Yeah. It was a very large learning curve.
+
+1 (1m 36s):
+From NPR it's how I built this show of that innovators entrepreneurs idealists and the stories behind the movements. They go I'm guy Roz and on the show today how a young programmers ambition to sell some snowboards on the internet grew into Shopify a platform that now Powers billions of dollars of e-commerce every month. So back in August of 2018 and you might remember this Kylie Jenner made the cover of Forbes. The issue was dedicated to female billionaires and Kylie Jenner made her Fortune from a Cosmetics Empire called Kylie Cosmetics.
+
+1 (2m 23s):
+Now when I started to read the article, I was struck by a few things in particular things that just weren't possible even five years ago for starters. Kylie's billion dollar company employs just seven full-time people all of the products are manufactured and packaged by a private label Cosmetics producer in Oxnard, California. Kylie's PR and marketing team is her iPhone from what she can reach a hundred and forty million of her Instagram followers. And this is the thing that really blew me away all the sales and fulfillment. This is handled entirely by a software platform called Shopify Shopify does all the stuff behind the scenes.
+
+1 (3m 7s):
+Means to make e-commerce work when you click add to cart or by it. Make sure the transaction will happen seamlessly. If you've bought something online outside of Amazon or Ebay there's a pretty good chance. You bought it from a store powered by Shopify. It is now used by more than 800,000 e-commerce companies around the world. Now within two years online sales will account for 13% of all retail transactions in the u.s. So you can imagine this is a big business last year alone Shopify processed more than 40 billion dollars in sales for its customers. The company went public in 2015 and shopify's market cap is now just below General Motors and Ford and yet unless you're in tag or have an online shop.
+
+1 (3m 57s):
+There's a chance you have never heard of Shopify which in a way it's the personality of the company's co-founder and CEO Toby Luka, Toby. A low-key guy. He's the kind of guy who literally wrote his used bike to VC pitch meetings and even as recently as five years ago at a time Shopify had already raised well over a hundred million dollars in Venture Capital funding. Toby was still living in a spare room at his in-laws house to save money, but before all that Toby grew up in koblenz in Germany and as a kid, it was pretty clear to his parents that Toby was bright, but he also struggled with learning.
+
+2 (4m 39s):
+I mean, I got diagnose faults of learning disabilities and it was very hard for me to perform well in the tests and so on and I don't think I ended up getting a full diagnosis of it. But now it was pretty clear cut way of ADHD HDMI, I grew up with dyslexic. So, you know just reading was hard. Yeah, and it was it was always a big question about what exactly was going on. But basically I was bored. Ben the way the curriculum and Germany was taught it was really basically here's all these Solutions you might find useful later in life, but they're very little time spent talking about a particular problem set that was solutions would help you with and if I don't understand the problem, I'm trying to solve it's very hard for me to to learn a solution to a problem huh, and so that but it is particular didn't work.
+
+2 (5m 30s):
+Well for me.
+
+1 (5m 31s):
+So after we finish the 10th grade Toby realize that school wasn't the right fit, so he left and joined a German apprenticeship program to learn how to become a software engineer and he ended up starting as an apprentice on a small team at a subsidiary of the German manufacturing giant Siemens.
+
+2 (5m 51s):
+I found this one team but just seemed really fun. We were sort of in the basement. It was run by this wonderful guy. His name's Logan star was like fantastic engineer programmer, and he would always come on this like W motorcycle to work and you would have long hair and he was not wearing a suit like you were supposed to and so it's like total Rebel but so good but no one could complain, you know, and I just like me really gravitated to him and his little group of rebels. They were working on really interesting things. They've often prototyping new things for customers and so on and so I wanted to be part of a group and so starting with 1600 Rabe 17 and year two of my apprenticeship.
+
+2 (6m 35s):
+I started getting paid to program all day and it's all I
+
+1 (6m 38s):
+did I loved it.
+
+2 (6m 40s):
+I loved it and I still love it. It's computer programming is you can do you can forget all time around you you just can like I can turn everything off if I'm looking on an interesting
+
+1 (6m 51s):
+problem, huh? And there's another part of your life, which I'm curious how you got into it. Just snowboarding right? You are snowboarder. Did you grow up snowboarding? Did you just come to it on your
+
+2 (7m 2s):
+own? No, my I mean my parents had a place in the pipes feed often drove. About was a five-hour drive. And this kid. Yeah fast forward a little bit took some friends be took this vacation initially try to go to the United States. But then like the Canadian dollar was so low that we decided to go to Canada to cat at Whistler.
+
+1 (7m 23s):
+It's like mm.
+
+2 (7m 25s):
+This is around 2000. Yeah. Yeah. And so this was the first time I said, okay, I'm just going to snowboard. I'm not going to take skis like this is like this is spent all our time. They and that's really when I fell in love with snowboarding and also on that same trip met my now wife.
+
+1 (7m 42s):
+Yeah. How did you this is Fiona your wife? How did you meet her just there the mouse that's it. Right. I mean you meet her on the ski trip and what you say. I'm going back to Germany, but I think like I think there's something here.
+
+2 (7m 53s):
+Yeah exactly. I maybe stay in contact afterwards and she just said, you know what I'm done with my bachelor's degree. Why don't I just come to Germany
+
+1 (8m 1s):
+her parents must have thought she was nuts don't you meet this guy is skiing and you're gonna go
+
+2 (8m 7s):
+Move to Germany. I'm I'm perpetually impressed by her parents to they are the most wonderful people.
+
+1 (8m 12s):
+So she comes to Germany you are working
+
+2 (8m 15s):
+programming for who at that yeah before I bust a little startup and don't want and what did she do during that year she ended up getting a job editing academic writing. Yeah, we live together for ten months and she said, okay. Well, I'm need to go back and start my master's program in Ottawa and she asked me if I want to come as that.
+
+1 (8m 38s):
+Yes, because you could take what you know and do it
+
+2 (8m 41s):
+anywhere. Yeah, whatever reason why I went is because I grew up on American Media like everything cool in the world came from United States. I always sort of figured I'm got that's where I want to end up. I would like to move and then you know your wife and you figure out oh, you know what Canada is America for Europeans and the
+
+1 (9m 1s):
+this is great. So so 2002 you move to Canada your 22 You're like, whatever. Let me try this. What was the job that Jude did
+
+2 (9m 12s):
+there so I was working still the people from the start up like remotely but that was doomed to failure because it the tools weren't there was no Slackers. No, you know,
+
+1 (9m 23s):
+it's just email contact, right? Yeah. What was the startup? It was an attempt at
+
+2 (9m 28s):
+writing and different browser? Okay, but it's sort of I basically ran out for clock. It was everyone we knew it wasn't gonna do anything it people are starting to leave. We're talking like after the.com
+
+1 (9m 41s):
+crash. Well, that's why I'm wondering I mean your 2223 this point was there any part of you nervous? Like I'm in Canada. I'm living with this woman. Like I don't really, you know know what I'm gonna do with my life, like were you feeling any anxiety that just like get something stable
+
+2 (9m 58s):
+I had was I would be lying if I said I wasn't I knew I had very valuable skills. I could always do more of a I was doing recently or was doing for Siemens. I was just hoping I kind of didn't have to in some way
+
+1 (10m 13s):
+work for a big company. Yeah,
+
+2 (10m 15s):
+why like work for Siemens has been probably one of most important things I've ever done in my life because it kind of taught me what I don't want it was in so many ways a strange company culture in the way that it felt exceptionally Miss trusting of everyone right? Like even you know, fairly strict dress code Words, which is basically the company saying hey, we don't trust you guys to dress yourself and it was so much of that which just felt wrong 20 year old. Toby would not have a career there and so over time I was it's up in Canada. We are in Ottowa very cold place in a
+
+1 (10m 56s):
+winter nine months out of the year. You basically eight months as this court.
+
+2 (10m 59s):
+Yeah, it's six months. She got sorry my feel like okay, but but you can't run a strategy of waiting for summer you Really have to do something before winter and for me by was go to Hills and snowboard and I got increasingly into that. And as I do I researched everything there was about snowboarding. I'd wanted to know every option that existed and build these big spreadsheets of every technology, but you can use to build a snowboard and at some point it clicked and said maybe using my technical skills to start an internet business. It's not what would be her way to do it
+
+1 (11m 36s):
+an internet business selling snowboard. Yes.
+
+2 (11m 38s):
+I think I did get a job offer from a fun small local company that I was actually interested in working for but then I went to the basically to sign the papers and one of her topics that came up was the topic of a work permit which I like found out at this point, but I needed a work permit 282222 were not legal. I well I was allowed to be there because I was under in the process of getting a permanent residency. Okay. Wasn't illegal in the country, but my status didn't give me the permit. Right and I talked with a friend of family and employment lawyer and he said it's going to take you a while basically until you get here permanent residency to until you get this but just so you know, you can start a business
+
+1 (12m 23s):
+like you could not go work for the company that you are were you could study says that was your only option that I want to make any was
+
+2 (12m 30s):
+my only option like I could try to work remotely again for German company or something like this oddly enough. That's okay, but I couldn't work for a local company. And so what I end up doing is I use my technical skills. I was thinking of setting up some online store software because I figured that would exist and then use that as a way
+
+1 (12m 50s):
+to sell snowboards.
+
+2 (12m 52s):
+That's know what's make money while snowboarding hopefully and have a good life.
+
+1 (12m 57s):
+All right. So there's a guy that you met around this time named Scott Lake who would go on to become your co-founder. Yeah. How'd you meet him?
+
+2 (13m 3s):
+So Scott booked for that company almost. At hired for and so we kept talking and he was a friend of a family and he was a friend of Fiona's exactly exactly who are also living with at that time. You were living with where the Fiona's parents. So you
+
+1 (13m 18s):
+were living with her parents in
+
+2 (13m 19s):
+Ottawa, you know exactly
+
+1 (13m 21s):
+was that uncomfortable. I mean, you're like this German kid dating their daughter or your living in their house. It's a little weird but
+
+2 (13m 28s):
+amazingly supportive and honestly his reality. I don't think I could live anyone's parents, but I can live with Dale and bruised for made it incredibly easy very very just to most kind genuine and played massive roles like Dale. She was Diplomat for Canadian government is your now mother and this is exactly my mother-in-law and she ended up being our like after we had an office which is a bit later if she did over payroll and accounting and everything and Bruce ended up saving the company later. So it's entrepreneurship is See, right and it's a journey that you like even if you make the choice yourself to Embark in entrepreneurship kind of everyone around you is coming onto the trip.
+
+2 (14m 16s):
+There's a lot of people who end up mattering a lot and I clearly Was Naive about it. I probably would never committed my surrounding towards the craziness that ended up there doing your Shopify, but it worked out.
+
+1 (14m 30s):
+Alright, so you are you living with her parents? Yeah. You've got the snowboard idea. You meet this guy Scott who's working at this other company? What does he come to you and say hey Toby, I think I think I want to work with you. Yeah, it
+
+2 (14m 42s):
+went snowboarding together. So he became like a person I you know, I was saying hey, you know, he has for what I'm thinking and he loved the idea and was super supportive and it was really Scott who ended up developing the relationships for the vender sent doing a lot of a business set up and all these kind of things like, I mean, this is a classical co-founder situation. I was looking after the G and
+
+1 (15m 8s):
+steal the business side. Yeah, and and I guess your startup costs were not incredibly insanely High because you were doing all the code programming and and you had to obviously invest money and snowboards you had to keep some inventory or would you yeah was the idea to wait until orders came in though.
+
+2 (15m 25s):
+Now we had an inventory rear end was pretty old school and in bad boy, if you really wanted to build a brand right we wanted to build something something which we hope would become big. What did you call it, by the way, it was called snowed
+
+1 (15m 38s):
+ever snow devil. Okay, like how are you going to get this out into the world to like make sure people were aware of it.
+
+2 (15m 45s):
+So I mean step number one was let's go find technology. This was ended up being a really important moment. I didn't anticipate it
+
+1 (15m 53s):
+because Knology to to like put it up on the
+
+2 (15m 55s):
+internet to start it. And so we were saying start online first partly because it's cheaper. We didn't have a capital for signing a long-term lease, but we wanted to also have a physical store. Later, eventually, okay, and I budgeted maybe a week to get their online store or online. This was my expectation that you do in a week. Yeah, and I first aside with open source software and again this 2004 of you're talking about so I looked at some commercial software, but mostly we couldn't afford it and I just got really confused because I in 2004 were sitting in front of my computer absolutely stunned realizing that we haven't figured out how to build online
+
+1 (16m 37s):
+store software yet. I'm trying to go back to 2004. I mean, I would order books from Amazon and and so you needed a way to get photos of the snowboards up on the site in a way for people to search what snowboards are available you needed a way for people to pay for the snowboards and then get a message to you somehow than order came through that you could fulfill in fact and that wasn't easy to find off the shelf.
+
+2 (17m 2s):
+There's no software that would make this easy and quick especially for credit card part. You also had I think novel or at least modern ideas about what how we wanted the website to look like. We wanted to tell stories like we every snowboard for this old. We actually took on a mountain and we will Chronicle the way we spent the day, you know, this is also the time of emergence of blogging. So if it's what we had in mind was something that wrapped good storytelling around products that people are excited about like trying to break away from the Sears catalog metaphor, right? But it is much too early.
+
+1 (17m 38s):
+I'm curious when when you and and Scott sort of sat down and said, yeah, let's do the snowboard company. Let's let's launch no devil, like did you need but both of you need to put in money to start this and how do you remember how much money you need it? Yeah, we both put
+
+2 (17m 53s):
+money into the company. I think we both took 20,000 Canadian dollars and put that's that's a capital B had
+
+1 (18m 0s):
+which was your savings from programming was all I had
+
+2 (18m 3s):
+there's all your money. Yeah, and one thing we It is we kept our costs really downright like no rent. No, where was your office various coffee shops is right. I tried to explore my new city of Ottawa by just taking random buses and walking into that found a coffee shop and broken from
+
+1 (18m 24s):
+there and you were living rent free basically. Yeah. All right. See you and Scott are working at a cafe is you both put about 20,000 bucks. You start sourcing the snowboards, but there's no off-the-shelf software to actually write out the company. So you decide I'm going to write this thing. I'm going to do
+
+2 (18m 43s):
+it. So exactly I was like, there's only two ways forward like I compromised my idea and do something that's very undifferentiated except for snowboards. Okay, or I'm going to fall back on my programming skills and I would build something that hopefully would be able to power his
+
+1 (19m 3s):
+business. So, what did you how did you start to build? That I mean, I guess it was a read about this this sort of language that you found called Ruby on Rails. What was that? And why was that so
+
+2 (19m 13s):
+significant? So I had this realization that I probably got to be the only program will ever work on this so I don't actually have to choose something that lots of people. No, I can actually choose just the best tool for the job. And so I've always been this programming language called Ruby which I just absolutely loved it was you know, people don't usually talk about programming languages like this, but I find like I really really love a process of constructing something in your brain having this idea is it's a little bit also like painting if you have an idea for something and then the program language ends up being the mechanism for translating this perfect picture you have in your head onto a canvas, right?
+
+2 (19m 55s):
+And so, you know, if you have like a an amazing landscape and then they give your crayons it's possible to make a masterpiece of crayons, but it will be it will always be a cranes painting. So so this is sort of in the way Java and of us they just didn't match the way my brain and it up constructing the relationships that make up software. And so Ruby was this thing. I sometimes played with open source and it opens those Japanese. There's only Japanese documentation around this time for it. I learned The Language by looking at the source code and but
+
+1 (20m 28s):
+the source code is in let Latin characters letting character looks good. But the the instruction manual was in Japanese,
+
+2 (20m 34s):
+but it exactly so and all the forms went up right now these kind of things and like I remembered that. Hey, I have the power to choose the tool and so why don't I go and use Ruby because that would be way more fun
+
+1 (20m 47s):
+using this coding language this programming language to build the infrastructure. That would allow you. How long did it take you to actually build the shop front?
+
+2 (20m 58s):
+Hi-yah be launched. It's not about two and a half months later so fast, it was really good technology. And I mean I also admit I probably spent six hours a day doing that. So a lot of Coca-Cola and pizza and very unhealthy lifestyle but it didn't feel like I was doing crazy hours or anything like this and I would never recommend anyone to do this but like there was literally nothing more interesting in the world for sure it was time.
+
+1 (21m 25s):
+So is it pretty quick from the time you launch the website to the time you got your first orders
+
+2 (21m 31s):
+it took let me let me just double click on this because you know, I was working from coffee shops at the time. I had my first Auto actually remember almost like everything about that day. This is actually ended up being really profound experience because I wrote the software at some point doing writing the software. I actually had to type the email that the software would send to me. Yeah, and so, you know, I went to a coffee shop. Open my laptop and it was a real order from a gentleman in Pennsylvania. No one I ever met and it really felt like I think that's what makes you an entrepreneur like the first time you sell something or first time someone hires you for when the phone rings or something like this because until then you just some who build something which is already great.
+
+2 (22m 19s):
+But like it's that moment and it's something when I meet Shopify customers, I often ask them. Hey, where were you when you got that first order and everyone can remember
+
+1 (22m 29s):
+it and you see your first order and you're thinking oh my God some kind Pennsylvania's ordering from
+
+2 (22m 33s):
+me. Yeah actually had to walk home to call Scott because I didn't have a cell phone turns out that we had an order and school
+
+1 (22m 42s):
+day and how are people finding out about the best no devil.
+
+2 (22m 47s):
+I mean we tried to do basic promotion to try
+
+1 (22m 50s):
+to Flyers and stuff like
+
+2 (22m 51s):
+this, but very tired of 2004 was so different right like there was Google AdWords was a new product. Both days, it turns out that the minimum bid for an ad for click is 20 cents and we paid minimum bids for almost every search for generator converting on a $500 Box nobody so you cut you could get the
+
+1 (23m 10s):
+word out through Google ad ads and there were not that many online snowboard shops presumably. So how did Snow devil do as a business?
+
+2 (23m 20s):
+It did really well. So what's have really good or had really good profit margins on them and your biggest problem was keeping inventory and and getting inventory back and we were just basically out of stock the entire time, but the we had an
+
+1 (23m 35s):
+excellent season. I need you guys recoup your investment pretty quickly
+
+2 (23m 38s):
+very quickly and then we had some a good amount of savings from from that for the next phase
+
+1 (23m 44s):
+and it was just you and Scott or did you quickly have to grow and bring in other people to help you with inventory and shipping and fulfillment
+
+2 (23m 51s):
+081642057 B. We did everything mostly it's got bent. The opposite of a post office
+
+1 (23m 59s):
+and he was literally driving them to the post
+
+2 (24m 1s):
+office. Yeah, or biking man. We figured out a way to
+
+1 (24m 5s):
+the next thing like a brown paper wrap snowboard and shoulder.
+
+2 (24m 11s):
+Yeah, exactly. That's exactly what picture it was fun. It was really fun.
+
+1 (24m 16s):
+Okay. So you're running the snowboard business with Scott and it sounds like it's going pretty well because we're making money and I mean what happened next
+
+2 (24m 25s):
+here's what happened to be says slowed obviously in Spring and we sort of had began the conversations around, you know to make this a really sustainable year on business. We need to ever sell skateboards surfboard skateboards or do something
+
+1 (24m 40s):
+else. So you were considering hey, it's a spring maybe we should do kite boards and skateboards. Yeah other things.
+
+2 (24m 47s):
+Yeah. I mean that would have been the natural thing sure to do to to go year-round again we Scott and I said we wanted to start a location in town, but I Doing the development of it. I was now spending all this time. Like I was tweaking the software. I did not stop programming. I was just okay now, let me try things. Let me make it fast. So let me use different approaches. And so increasingly I got people sending me emails and asked me if I would license no devil to them because they wanted to start something similar
+
+1 (25m 20s):
+people were saying. Hey, can you just license you built this? Yes this can we use it for our e-commerce shop,
+
+2 (25m 26s):
+right and exactly because it was it was just different. It wasn't it wasn't the normal grid. It was a told stories. It was clearly modern. It was sort of web Tuohy and so people were saying I would love to just bit my business based on that
+
+1 (25m 39s):
+foundation and the amazing. It's it reminds me so much of the story of Squarespace and Squarespace was essentially started because the founder he couldn't find a good way to do a Blog and website all-in-one. And so he basically created his own way to build a website, right? He did himself. It's similar story here story.
+
+2 (25m 59s):
+Yeah, but what I needed was something that helps me in the Journey of Entrepreneurship from verse from scratch and I'm not that different from other people. Like if I needed this at some point, there's going to be at least a couple of thousand people were alternately, right? So if it was like spring 2005 at some point Scott and I just said, okay skateboards or software. It was pretty obvious that we should go with software
+
+1 (26m 27s):
+So eventually I guess we bring in the sky Daniel wine and who is he and why did you bring him aboard?
+
+2 (26m 34s):
+Yeah, so we decided it's going to be software and I called Daniel who was really good friend. My best friend really from Joe was in Germany and said, hey, here's what I would like to do and I think I need another half year to build with do you want to spend a summer in Canada? And we do this together and like we could work together and that will be
+
+1 (26m 52s):
+fun. So you you and Daniel spend that summer, I guess summer of
+
+2 (26m 56s):
+2005. It became like a year and a half but
+
+1 (26m 59s):
+yes, can I sit here and a half trying to build this software together? It's like and what point do you stop selling
+
+2 (27m 5s):
+snowboards around that time? It was basically the summer and we didn't reopen after we
+
+1 (27m 10s):
+just didn't reopen. How did you come up with a name Shopify for this
+
+2 (27m 14s):
+software? I was Scott's idea. It was we talked about what we wanted it and putting shop and simplify together was pretty straightforward and when we went I think on GoDaddy and register.com, are you go but take people back and saying hey I was times were different.
+
+1 (27m 32s):
+Alright, so you've got a Shopify in building this thing and really it sounds like from that moment from the beginning you're thinking this is going to be our business. We're going to build the software that will enable people to open eCommerce sites easily and simply exactly
+
+2 (27m 48s):
+it's you know, all this so much to building business. There's so much complexity and like if you get an order, how does it money make it to you how to get Video get shipping labels from how do you make a truck show up to actually send it anywhere like Shopify just does all these things for yeah, that was a goal because you know that moment that I described I got my first sale we got our first sale from that point on I can never get that again, but that was such a profound moment. Like what I want to spend my time on it's like I can't I just had other people have that experience, huh that became sort of a guiding principle of how we build our company
+
+1 (28m 28s):
+and I have to imagine that you gotta at some point raise some money to pay for server space pay for you know, the kind of the costs associated with building this technology and then marketing it. When did you first start to think about bringing in some money?
+
+2 (28m 48s):
+So around that time the ask friends and family for money.
+
+1 (28m 53s):
+This is MM 6. Mm. Yeah.
+
+2 (28m 55s):
+Mm around 500 can be did.
+
+1 (28m 57s):
+Around like Fiona's parents anyone, you know with any cash
+
+2 (29m 0s):
+exactly people from my family. I mean, you know amazing that people trusted us so
+
+1 (29m 6s):
+much and how much money did you think you needed at that
+
+2 (29m 8s):
+time? It was two hundred thousand
+
+1 (29m 10s):
+dollars, which is a lot of money and when people said Toby what are you need $200,000 for what would you say
+
+2 (29m 18s):
+is she has to experience up to this point. This is valuable. I know it's valuable because I would have needed it and their more people like me,
+
+1 (29m 26s):
+but meantime all these sort of like people were still asking you for this and what were you saying to them? Were you saying Hang on we're working on something just hold tight. We'll get it to you.
+
+2 (29m 35s):
+Yeah, I kept have a Blog there. I sort of talked about my experience building it. I also had a landing page collecting emails, which
+
+1 (29m 43s):
+is no of and the landing page was Shopify.com or
+
+2 (29m 47s):
+and he is like a demo which we pointed people to snow devil to explained why we were doing this and Bible time launched in 2006. I think we had four or five thousand emails. So it's not but that seems like a lot. Well, yeah.
+
+1 (30m 2s):
+All right, you've got the seed money. You've got
+
+2 (30m 5s):
+a small office. We ended up taking a very small office space. We actually moved above the coffee shop. I got that first day. Okay. We actually we never got internet like we always use their Wi-Fi, right but some desks and that's from where we
+
+1 (30m 19s):
+worked and it's time to launch. You've got 4,000 emails or so from the landing page. And did you just send like a blast of email saying? Okay, we're live. We're here. We're ready to go. Is that how you want?
+
+2 (30m 31s):
+So just a blast email
+
+1 (30m 32s):
+and what was the
+
+2 (30m 33s):
+response so people signed up to just try it out which was really really exciting and Frank about hostile business running on Shopify that then actually started on that day, which is wow markable, but it wasn't it was a lot. I mean think about what an online story is its two most of our customers. This is their livelihood right if that It's not there suddenly or something goes wrong. But this is different which is huge responsibility and people that trusting three guys in Canada
+
+1 (31m 1s):
+and was it free initially
+
+2 (31m 3s):
+it started out free for the first year we decided against the multiple tear monthly caution, right? Okay, because we figured that this it's going to be so hard to get people to trust us that making it cheaper would be more likely for people to give it a try and have a model of us. I think they charge like three and a half of 3.75 percent per per sale. It was a complete failure of a business model because for basically everyone who didn't expect to have sales thought it was amazing and people who expect to sell a lot foot there was way too much money. So we ended up switching it a year after launch actually the night before my wedding for a reason.
+
+2 (31m 44s):
+I will never figure out why I did that night before your wedding you
+
+1 (31m 46s):
+switch to a subscription
+
+2 (31m 48s):
+model. Yeah, and we be grandfathered everyone but suddenly everyone called us and said hey I promised So on so that you can use this for free and suddenly it costs money you and so I got all these phone calls like doing my ready. So that's sort of a bit stressful.
+
+1 (32m 2s):
+So you see you change the model in 2007 still living with your in-laws now, but now married with your in-laws how many people do you remember like in those early days like the first year so actually signed up for the service.
+
+2 (32m 19s):
+I mean if it was a couple of thousand accounts and I would say like maybe a hundred active and in the year two, we had a interesting event. I mean this is I think that Indianapolis team won the Super Bowl around that time and that they actually had a or local newspaper actually had a Shopify store created which they started like two days before the Super Bowl and it just was selling T-shirts with the front page saying we want the Super Bowl like a front like a picture on the beach what the newspaper would look like if a Lee happened to win and I'm ended up winning and they're sold tens of thousands and hundreds of thousands of dollars worth of his t-shirts on on that day.
+
+2 (33m 3s):
+And that was like a stunning experience for us because that was what was so like someone just had a really good idea in an office and turned it into like a real economic. Yeah event, you know, these events started accumulating people were kind of experimenting more with online retail very new businesses for starting instead of people coming to us saying, hey, we want to reduce costs and switch to you.
+
+1 (33m 28s):
+It says it was a slow burn though. It wasn't like an overwhelming rush. It was like incremental, you know, 2006-2007, but you're still at this point, you're still operating off of the seed money raised and any Revenue you were generating. Yeah. How was the money situation where you were was it just self-generating where
+
+2 (33m 46s):
+you know, I know it was we had paying customers but We were going trending towards zero fast. Yeah, like we eventually were if I mean we did basically run out of money around this time the luckily met an angel investor who ended up putting I think $400,000 around 2007 and that saved us as an individual by the name of John Phillips. I think part of the reason behind that is because his parents were in Ottowa and I think he wanted something else to do in town rather than a stir visit his parents, but he ought to really like the business. So he ended up becoming our investor and basically mentor to
+
+1 (34m 28s):
+accompany. It was a very prescient investment because I think at that time the company was valued at three million dollars around this time 2008 Scott leaves. He decides I want to move on. What do you what do you remember about that
+
+2 (34m 42s):
+decision? I mean it was he had the job of CEO. I think he just realized at some point that we have a software industry was going as most of the people who are CEOs, but actually highly technical parts of a founding teams. I think he also realized that I will end up being the person with the care most about this company in the long run. And so, you know, that was okay we decided to part ways Maureen
+
+1 (35m 11s):
+worried about it because he was a CEO
+
+2 (35m 14s):
+I was hugely worried about it because like I was I was not in convinced that I should have a CEO job, but someone gave me told me that if a great VC invest in your company, they would have a network to find a CEO the right kind of CEO. Yeah. And so I was like, okay. Well maybe I really should talk to venture capitalist and that was a timer I traveled to soak in Valley to talk with PCS.
+
+1 (35m 39s):
+So just to be clear, this is 2008 you decide I better go. Silicon Valley find a venture investor who then can help me find a CEO. Yeah, so you fly out there 2008. Yeah with a couple of appointments.
+
+2 (35m 54s):
+Yeah a couple of appointments and and just drinks with friends and people I knew and second most the first time I was to her came to Silicon Valley. Did you have a deck absolutely not. My intention was to build 20 people company. That's what I wanted to
+
+1 (36m 9s):
+do 20-person company super-efficient providing the software to people not a massive company will be easy what you wanted to have. You just want to sustainable. Nice
+
+2 (36m 20s):
+life. Yeah. I didn't need the money because I didn't think this was a venture I was building and so I went not really being too worried about the results. I was more worried about the amount of money it would cost for me to fly to a bad area and accommodations and so on.
+
+1 (36m 37s):
+Where did you stay?
+
+2 (36m 39s):
+So a little hostile
+
+1 (36m 40s):
+it is a youth hostel. Yeah, like in a bunk bed
+
+2 (36m 43s):
+room. Have you had a roommate like incidentally was also a computer programmer? So it's actually great. I actually bought a bicycle on
+
+1 (36m 50s):
+Craigslist and your for a week or two
+
+2 (36m 53s):
+weeks or I was scheduled to be there for a week. I ended up staying I think two of two and a half maybe because what happened pretty quickly is, you know, I would have my first meeting and again, this is me biking it from the youth has no you search the 2010 to the road and showing up and they probably already fought who is this and so I would have my the first meeting and I had my notepad and they would ask me it started out. I have a sort of explaining the business and but then we would ask me some questions about you know usage and Market size means kind of things and some of us I could answer and I would get really interested.
+
+2 (37m 37s):
+But the problem was that they quickly they ask me questions. I couldn't answer like various questions around khaki Shows and and lifetime value and all these kind of things. I would write down the terms. I would then look up what they meant. Yeah. Usually I would get an equation of back because if it's some equation but you're supposed to apply to business. I would then go to our database and get all the relevant data plug them in the equation. I would get the numbers. So I had one more question. I could answer the next meeting huh? And then so basically this is how I went through these meetings. I remember that I mean I ended up getting a kind of term sheets people actually frankly dream about it, which I again when I was mostly like I got Benchmark of isn't
+
+1 (38m 20s):
+it somewhere from that from that visit? Yeah.
+
+2 (38m 23s):
+I'm meeting free by the time I I kind of figured
+
+1 (38m 25s):
+out so people actually really weren't there were some people who are
+
+2 (38m 28s):
+interested some people were interested. But all the offers were always conditional on moving accompany to Second value.
+
+1 (38m 35s):
+They all said well, we'll support you. We got to move it here.
+
+2 (38m 37s):
+Yes, so I got the office I had term sheets and some of them referred me to Potential CEOs. I had a bunch of late night meetings of people who could take over as
+
+1 (38m 48s):
+CEO combat want to be CEO
+
+2 (38m 50s):
+because I wanted to play with technology. That was what I was good at. That was my identity. So I said, okay clearly if you want to be do this now and if I get good numbers, you're going to give me this
+
+1 (39m 0s):
+latest actually, so you figured I don't know.
+
+2 (39m 3s):
+Let's slow this down I go back. I talked with my team I think about
+
+1 (39m 8s):
+this and how many people are on your team at this
+
+2 (39m 10s):
+point as about just five people. I had someone fill customer support. I was doing all the customer support initially and then eventually the rest of my team told me my English wasn't good enough. So
+
+1 (39m 20s):
+by the way, how are you paying people?
+
+2 (39m 22s):
+This was now after we got Angel investment. I was still wasn't taking salary.
+
+1 (39m 27s):
+It's your Runway was not very
+
+2 (39m 28s):
+long. No it's but there was income now. It was it was we're still burning but it was it got slower and slower
+
+1 (39m 34s):
+because it was cut income coming in from subscribers
+
+2 (39m 37s):
+exactly. So I go back and then we are talking 2008 so Lehman Brothers at some point. Now the world was falling apart
+
+1 (39m 46s):
+Lehman Brothers collapse markets collapse 2008. You've got term sheets that you've kind of rejected and now you're about to face a global financial
+
+2 (39m 56s):
+crisis. So basically I got this around this time notice that term she's will no longer be honored because everyone needs to tighten bells and so on basically initially I thought we were toast
+
+1 (40m 12s):
+When we come back after the break have a global recession actually turned out to be a huge opportunity for Shopify and have Toby lidka learned to do the job of CEO a job never wanted in the first place stay with us. I've guy Roz and you're listening to how I built this from
+
+2 (40m 29s):
+NPR.
+
+1 (40m 45s):
+Hey everyone, just a quick thanks to two of our sponsors who helped make this podcast possible first to zip recruiter hiring used to be hard multiple job sites stacks of resumes. But today hiring can be easy and you only have to go to one place to get it done. Zip recruiter zipper Cooter sends your job to over 100 of the web's leading job boards, then zip recruiter scans thousands of resumes to find people with the right experience and invite them to apply to your job. Try it for free @ zipper Cooter.com built. Thanks. Also to Capital One with a Capital One Saver Card. You can earn four percent cash back on dining and entertainment that means four percent Bunch shaking out that new French restaurant and 4% on bowling with your friends.
+
+1 (41m 34s):
+You'll also earn 2% cashback grocery stores and one percent on all other purchases. Now when you go out you cash in Capital One what's in your wallet? terms apply I'm Shankar vedantam host of NPR's hidden brain think deeply here to tell you about our
+
+2 (41m 54s):
+summer series you
+
+1 (41m 56s):
+2.0 ideas and advice about how you can respond to Life's chaos to adjust Chuck to my inbox. Just check just check just checked my phone real
+
+2 (42m 5s):
+quick with wisdom.
+
+1 (42m 8s):
+Listen to Hidden brain every week. Hey, welcome back to how I built this from NPR. I'm guy Roz. So it's 2008 and the global financial crisis hits at this point. Toby Luca is the CEO of Shopify the BCS who had been interested in investing weren't quite so interested anymore and Shop if I didn't have that much runway, the money was running out but then something surprising happened. It turned out that lots of people who were newly laid off had lots of ideas about starting their own online stores
+
+2 (42m 49s):
+people who lost their jobs could reach for their own independence and engage in entrepreneurship using Shopify. And I said, why don't I give this a go like I'm gonna try this thing. I always wanted to try right and I'm going
+
+1 (43m 4s):
+like it. Did you see start to see users and and subscribers start to take up. Yes. You saw is a measurable change in
+
+2 (43m 11s):
+2008-2009 before at the numbers. Fall off a cliff and what they actually did is we started climbing and
+
+1 (43m 17s):
+accelerating what you should anticipated a completely different outcome.
+
+2 (43m 21s):
+Yes. I was ready to think about how to shut tell people that I can't meet payroll at some point and instead basically in 2009 the company now hit first types of cash flow neutral like we can write out whatever downturn this is and start thinking about long-term investment like infrastructure projects and I saw on again.
+
+1 (43m 44s):
+Okay meantime, you are the CEO. How are you doing as the CEO of the
+
+2 (43m 50s):
+company? I'd not good. I mean my team was very very patient with me. There was a lot to learn. It's a tough. It's a very subtle job and you know, wonderful things about computers is when you tell them what to do, they will keep doing it about three forever until you stop like turns out humans are not like humans are different. Yes. So it was a very large learning curve and I would say 2009 to 2010. I truly had for company back from what I could have and should have probably
+
+1 (44m 21s):
+become you held it back. Yeah, what do you
+
+2 (44m 24s):
+mean? Like if it comes from engineering, you know, something's obviously bottleneck and and for moment you remove that something else becomes a bottleneck and it's same goes for companies at this point. I intentionally need slow down the growth of a company a little bit just because I needed it to be manageable for me and I was wavering on the most important decision, which was is this a lifestyle business or is is this actually a
+
+1 (44m 49s):
+venture and by this point your revenue is over a million dollars a year. Yeah, right, but which sounds like a lot but obviously you've got huge expenses. You've got a growing staff. Yeah. Did you ever get the feeling like, oh my God all these programmers and people are now like working for me in there depending on this thing. And I don't know if this is gonna
+
+2 (45m 7s):
+work guys. It's crushing. It's a crushing responsibility right like it's You're responsible for everyone who was there right and my family's people had families people kids my family like it's not a wealthy family like its I mean people gave me money that didn't really have like up till this point. It was really just your money from John Phillips for my family. And then for the last year for my father-in-law who gave me money for folk to meet payroll.
+
+1 (45m 40s):
+She's giving you money to me
+
+2 (45m 41s):
+payroll and we were living together and had dinner together. It's amazing that this worked. I mean, I just couldn't believe he was doing that because he's like, he was a bureaucrat. This was his savings. Basically he was putting his life savings into this money on fire. Everyone was just unbelievably supportive because they somehow believed in this idea.
+
+1 (46m 6s):
+Did you have trouble sleeping at night?
+
+2 (46m 8s):
+Pretty often? Yeah, you know like so one thing I found about entrepreneurial Journey or least mine. as you basically exists in two different States versus state of things are coming together and I think if we do this via unbeatable And the state of complete dread and we're dead with that the dead tonight and I don't think that actually ever went away. I still to this day have us but thing but changed is it used to be like a month in one state and one month another and then eventually became a week and now a day and now it this can happen like I can still complete three times before breakfast, you know, like but at the bottoms like the bottoms are deep and the implications of what failure means is it just means so much it changes.
+
+2 (46m 55s):
+Everyone's life story to a significant degree,
+
+1 (46m 57s):
+right? How did you manage that? Did you go for long runs? Did you take Prozac did yeah you do.
+
+2 (47m 5s):
+I know I basically just programmed which actually often wasn't the best use of my time. Did you
+
+1 (47m 11s):
+talk would you talk to Fiona about it? If
+
+2 (47m 13s):
+your wife? Yeah. She was unbelievable support
+
+1 (47m 15s):
+of yeah, so I'm around this 2009. You don't like really wavering on this decision, right? Which is like do you build a nice table? All lifestyle business with Shopify or do you try again for for big money for VC money and make this thing huge? So what happened?
+
+2 (47m 36s):
+So I would look at my bank account multiple types of mine from just compare. You know what it was last time you and I if it was going up. Basically we said, okay, should we invest this in another team member or should be attempt marketing? So I finally said, okay, I'm going to save and try five different ideas for marketing programs. We said if any of those meaningfully accelerate our growth then I have to go fundraising again and actually go on the clock towards an IPO or to eventual
+
+1 (48m 7s):
+exit is the money really you needed for marketing at this
+
+2 (48m 10s):
+point at this point it Beaver held back by not engaging in
+
+1 (48m 13s):
+Market. I got five projects and you went to your team. You said you guys come up with something need we need
+
+2 (48m 19s):
+ideas for you voted on by ideas. We came up for things and we tried them. And what
+
+1 (48m 25s):
+worked? Oh they all work every single one of the ideas.
+
+2 (48m 30s):
+We did adverts the rest of us took a little bit longer, but we will release the book on the concept. We just tried it like these sponsored actually a podcast, you know, like every one of those will be tracked and it's like these were directly mathematically trackable like we've made the money back in like five six months of our face Investments and when we like, okay now, we're not talking about fundraising anymore based on isn't it? Cool to be going after market now we're talking about I have a formula and I need to plug bigger numbers into the formula. And so then picked up a phone called The Venture capitals, which really impressed me and said, okay you were right.
+
+2 (49m 12s):
+This is a venture I have data.
+
+1 (49m 15s):
+So you you go back out to Silicon Valley you convince a few VC firms to invest eraser. Seven million
+
+2 (49m 25s):
+dollars so fairly modest. I mean it's this sound like massive numbers to Rose
+
+1 (49m 29s):
+to videos of all time Saint Anne don't remember what the valuation
+
+2 (49m 32s):
+was like twenty five
+
+1 (49m 34s):
+twenty five million dollars. Yeah at this point. Once you get your bring in seven million dollars those Venture capitalists are also buying a seat on the board. You can develop a board you're now right and there you gotta have regular calls with them. If they email you they're expecting you to get back to them. Was that stressful or overwhelming or was it helpful?
+
+2 (49m 56s):
+I thought it was very helpful. I've always had a fantastic relationship with all the people who invested in the company proudly because I told him straight up about like saying like I'm not going to pretend I know things I don't know and I really hope you're going to help me in this journey. And so I think our relationship has always been we were all on the same side of the table trying to put this thing and I hope at anyways, but I'm fairly quick study right and so bit by bit while Shopify it provided all the kinds of situations. I needed to learn the skills are
+
+1 (50m 29s):
+needed. Did you have to and it was a still five or ten people or was it still at that what I think it was at 17 or 20 but 20 people. Okay. And so all of you guys are really doubling down on marketing getting the word out and what kind of businesses were being launched on Shopify.
+
+2 (50m 46s):
+I mean into a direct businesses new businesses like, you know, sunglass business watch business, right, you know, just new ideas boosted boards, like, you know, all birds.
+
+1 (50m 58s):
+Yeah. Yeah,
+
+2 (50m 59s):
+right great examples of a kind of business that we're coming out and 10 months after the series a Jeremy and Trevor from Bessemer came to me and said you are still massively constrained by money. How about instead of you spending a bunch of months on fundraising we'll just for Drupal the valuation of a company and put much more money into this thing because You can grow this way faster. They basically said they basically saved me from from doing a fundraising
+
+1 (51m 29s):
+around. They said we see the potential here. You're going to give you 15 million dollars more.
+
+2 (51m 34s):
+Yeah, exactly. It was just so obvious and this is why I said earlier that I had to accompany back because I knew this would
+
+1 (51m 42s):
+happen. You knew it would happen. But you said you had all this anxiety about all these people. So if you knew it what explains the freaking
+
+2 (51m 50s):
+out, I think I was looking at what I had to do like the HR problems, but the system's I had to build the everything like all the decisions and I thought if I also would be sitting on a perpetually exploding rocket ship right now on top of all that that's happening. I could not deal with it. I needed to take another year of a breather before I could actually do the first things
+
+1 (52m 12s):
+simultaneously 2012. I think he finally move out from Fiona's parents place. You have a kid at this point today. You've got
+
+2 (52m 21s):
+three. Yeah. I think I Say must have been 2014 that we actually moved out. So it was we were living at people 14 years actually,
+
+1 (52m 32s):
+no not to think of it raised a hundred million dollars in 2013. You're still nervous
+
+2 (52m 38s):
+about I was making basically minimum wage. So it's if I would have probably would have given me more money. I would have probably given me back because I figured top if I could use a better than I did. So yeah and feel net income so that
+
+1 (52m 50s):
+but personally your lifestyle wasn't in require a whole lot of money.
+
+2 (52m 53s):
+No, as long as I had my laptop, I was good. All right, so you
+
+1 (52m 57s):
+guys are are balancing like raising kids and this company is really starting to take off like and of 2013. You've got 80 thousand customers about like 300 employees. But but in a lot of ways when you're still under the radar like like no one knew who you
+
+2 (53m 15s):
+were. Yeah it rather like Beth was by Design. So it like hit my board members always said shop if I was turned out to be our company only Canadians could have built because We said our job is to make our Merchants look good. Like this is why we exist so we wouldn't put Shopify on the merchants stores like at this point these investors we would meet but ask me, you know, like I'm looking at these numbers. This is significant company. How come I've never heard of you and I said you bought something on Shopify will last half-year amazing because basically everyone did this if you bought something online and it wasn't on Amazon and you like to experience it was Shopify. So it just doesn't say Shopify you don't go to shop at vericom.
+
+2 (53m 56s):
+It's it's it's other people's like it's their other people build their home on the internet. And so we're happy with that. We didn't even put shopping for new buildings
+
+1 (54m 5s):
+these input the name Shopify the grown-ups now, You were in 2014. You were named the CEO of the Year by by The Globe and Mail, which is one of the biggest papers Canada. So that was really one of the first times people eat even heard of Tobias Luca was that weird for you too, cause like now you're recognized and people like, oh my God, who's this guy? And you just moved out of your in-laws?
+
+2 (54m 28s):
+Yeah. Exactly. It was pretty surreal. It's not something I was seeking actually said she
+
+1 (54m 36s):
+thought you were a crappy CEO. They're naming you the CEO of the year for years before that. You're still struggling to like figure this
+
+2 (54m 42s):
+out. Yeah, that's exactly you perfectly summarize my experience. Honestly, it's like it was it was if you didn't quite know what they were writing. So I was a little bit of a surprise to me. Yeah what came out of it, but I love and this is something I am Daniel talked about and Scott. We all talked about this in the early days of going for beer after a week of programming. I said what would happen if it's just doesn't work and this was before Investments and so on so we felt it felt a little bit easier to you can even think and yep conceptualize these kind of issues and we said that would be okay because you know what no matter what we're going to learn a lot.
+
+2 (55m 24s):
+This is going to be part of all of our Lives Journeys and all of our stories and we will be able for rest of our lives to do things we couldn't do if he wouldn't embark on this journey because there's no way that the residue learning office is not going to be significant for all of us
+
+1 (55m 39s):
+you guys go public in 2015 you went public because presumably your investors wanted you wanted to kind of give them return people had said wait a long time. This is 2015 people have started giving you money in 2004. Was that the reason why you in
+
+2 (55m 56s):
+public it probably would have become the reason eventually but not at this point of time because the Investments only happened five years before that and Took the Investments knowing that I'm going to be racing the clock to either go public or gets old. That was The Duality of outcome. And by the way, this is true for every person who sells shares of a company just most people don't realize that that's what what's happening, but I haven't in into the Venture World pretty clear idea about what it means. And so I really wanted to set up a company to become an independent public company because my private investors have all seen Shopify perform under-promise over-deliver month after month in board meeting of the board meeting all of them fully trusted for company and and further good performance was not really buying as any fear
+
+1 (56m 48s):
+you today. I think there's more than 800,000 Shopify Merchants. So there's a good chance of anyone listening will have purchased something on a site that's powered by Shopify. There's a very good shape Blaster
+
+2 (57m 2s):
+and like since we've talked about stats. Here's the most gratifying of all the Numbers related to Shopify and it's actually been a star for company every 52 seconds. Someone has that experience of getting a first sale. Well the one which are described and it's so many cases. Someone is going from being a builder to now being an entrepreneur, you know, it's like there's so few things, but you can do it actually change your identity to a meaningful degree. Right and this company is hard is really really the for entrepreneurial process and trying to make this simpler what's been so fascinating is that this initial idea behind snow devil the idea that being able to write computer software is like a specialized tool on a climbing trip if I wouldn't have a specialized to of with me.
+
+2 (57m 53s):
+I would have had to turn around because some walls are just couldn't have come. And then for Shopify really is it's a safavieh. I wish they would have found right like it takes all these vertical walls and turns them into inclines. Like they're not it's not flat. It's like still hard to build a business but at no point do you need it's not a technical client exactly. And so because of that significantly more people succeed in building businesses because they are just not be so discouraging experiences, which make you give up even though you shouldn't have and so what we have found is the best thing we can do for the business of Shopify is find another one of those things, which is an incline and just flatten it as much as we can and every single time you do it more people succeed and more businesses get
+
+1 (58m 39s):
+created chubby in 2004. You did not even have a work permit in Canada five years ago. You would moved out of your in-laws place today. I have to imagine that shopify's easily the biggest employer in Ottawa aside from the federal government the Canadian government. You are wealthier than you could probably have ever imagined and might be weird to be a billionaire. I mean, it's totally crazy. Is there any part of you that could have imagined this? No
+
+2 (59m 11s):
+honestly even know that you talked about us as Sons crazy to me right? I probably tried to just not think too much about it. It's hugely gratifying but it's also I think the important thing is just that I I remind myself how much of his was luck the most amazing were coming wonderful family here in Canada to support us along the way the incredible timing of when we started like this is not a kind of company that could have been started even two years later, right? It needs to be sawed right then and I need to be ready and good by the time of opportunity around her financial crisis came around all these things when we when we went public and luck is such a major component of in Journey so like why am I the person who ended up, you know winning the lottery five times in a row?
+
+2 (1h 0m 4s):
+I don't know
+
+1 (1h 0m 5s):
+you like equations a number so you sort of half answered my last question, but quantify for me. What what percentage do you think of this journey is luck. And what percentage do you think is your incredible skill as a programmer in your talent. I think it's
+
+2 (1h 0m 23s):
+I don't know. You know what I can't quantify it. It's a huge component might it I would say it's
+
+1 (1h 0m 28s):
+90% luck.
+
+2 (1h 0m 30s):
+Basically. All I can do is enjoy it and be honest about what happened here and it's definitely the best idea I've ever had and I hope that I can run this to a end of my career because I think that would be amazing.
+
+1 (1h 0m 45s):
+That's totally liquor co-founder and CEO of Shopify since its launch. The Shopify platform has been used for over a hundred billion dollars e-commerce sales worldwide. And by the way, Toby has his own little side hustle on Shopify. Do you like a secret Shopify store like JK Rowling has like, you know pseudonyms achieve your own like secret shop. Yes, of course you do. Yep. What do you sell?
+
+2 (1h 1m 12s):
+Socks Bailey as my best. Yeah.
+
+1 (1h 1m 15s):
+What's the store called?
+
+2 (1h 1m 17s):
+I'm not telling you.
+
+1 (1h 1m 28s):
+And please do stick around because in just a moment. We're going to hear from you about the things you're building, but first a quick message from one of our sponsors Squarespace design and build your own websites with features, including mobile editing go to squarespace.com NPR for a free trial then use offer code NPR to save 10% off your first purchase of a website or domain. Hey, it's Marie a new hose on host of NPR's Latino USA every week. We bring you a mix of reporting diverse voices and coverage of current and emerging issues that impact our lives that the USA is one of a kind featuring stories from the heart stories that make you think and maybe even inspire you to action.
+
+1 (1h 2m 19s):
+Listen And subscribe now. Hey, thanks for sticking around because it's time now for how you built that in today's story starts about four years ago in Houston, Texas when Barb heilman was babysitting her granddaughter Eve and was quickly running out of things to do with her. I mean I wanted to take her to Gymboree and I wanted to take her to the park but then I said but wait, I can't really put her in the car seat. And the reason Barb couldn't put Eve in the car seat is because she has arthritis in our thumb and pushing that big red button to release the seat buckle. It's hard.
+
+1 (1h 2m 59s):
+Yes, it's very hard. And I mean, it's just I mean even people that can do it sort of hate it because they have to struggle and it hurts for safety reasons. It actually takes about nine pounds of pressure to release that red button. So how do you do that? If you don't have enough strength in your hand, well fortunately for Barb it turns out she had the perfect set of skills to solve this problem. I'm an occupational therapist which means her job is to help people with disabilities accomplish daily tasks. So using some pliable plastic that she had lying around the house Bart made a tool that could help her release the buckle on Yves car seat. It's kind of a c-shaped device and the upper arm has a peg in the center.
+
+1 (1h 3m 43s):
+So okay, you take this clamp like thing you slide it under the car seat buckle, you've placed the peg over the red button and then you push and you kind of pinch and that will release the Buckle so a super simple idea that actually work the first time Barb tried it I was pretty excited and honestly just started using it and it was really Rebecca that said mom. There's probably other people that would like this enter Barb's daughter Rebecca. Hi, Rebecca is baby Eve's mom and she also happens to have a background in business. I think I said to her I said Mom, you know, what if we what if we made this and sold it what if this was a business and you know, I've always had kind of Entrepreneurship in the back of my mind, but neither Rebecca nor Barb knew if they were Onto something.
+
+1 (1h 4m 29s):
+So while Barb kept working on different prototypes to get the clamp exactly right Rebecca started to poke around a little to do some research. So I actually remember learning about the ABC Kids Expo one of the largest juvenile product trade shows in the country and we ended up going it was kind of a last-minute decision. So they traveled to Las Vegas to go to this big convention. Oh my gosh, it was it was amazing. It was one of the most, you know, energizing experience as I can. Remember people just saw it and thought yes that is a need and that is solving a problem that's in the market next game all the traditional Milestones a Kickstarter campaign finding a manufacturer and delivering the first orders, but then a not-so-happy sign of success other vendors were starting to copy their device.
+
+1 (1h 5m 19s):
+You know, it's kind of a gut punch when you see it. We just both went. Uh, it just it makes you feel just so defeated because you know, you know that they Went gone through the sweat and the iterations and the bucketful of prototypes Rebecca and Barb did manage to get the two patents for their product and they've been able to shut down some of the knockoffs and meanwhile Rebecca says that by going into business with her mom. She has seen an entirely new side of her when it comes to this business. I think my mom, you know, it's such a go-getter and she's you know gets on the phone and she'll call up retailers and you know, she's got the hustle and its really been kind of a cool experience.
+
+1 (1h 5m 59s):
+Rebecca Davidson and Barb Hellmann's product is called unbuckle me. They're now selling it online and at some major chains like byebye baby. And since they launched the business two years ago, they've made about 350,000 dollars. If you want to find out more about their business or here previous episodes had to our podcast page how I built this dot npr.org. And of course if you want to tell us your story go to build dot npr.org. We love hearing what your buildings and thanks so much for listening to the show this week. You can subscribe it Apple podcasts or wherever you get your podcast. And while you're there, please do give us a review. You can also write to us at HIV tea and npr.org and if you want to send a tweet, it's at how I built this.
+
+1 (1h 6m 43s):
+I'm at guy Roz our show is produced this week by Casey Herrmann with music composed by rumty. Narrow Bluey. Thanks. Also to Julia Carney leave a grandson as Michigan for and Jeff Rogers are in turn is David job. I'm guy Roz and even listening. how I built this this is NPR.

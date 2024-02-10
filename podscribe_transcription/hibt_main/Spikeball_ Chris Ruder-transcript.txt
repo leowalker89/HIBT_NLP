@@ -1,0 +1,653 @@
+0 (1s):
+Hey Prime members You can listen to how I built this early and ad free on Amazon. Music Download the app today.
+
+1 (9s):
+Think of all the things you can do in 10 minutes or less. Scroll through social media. check your bank balance, make a sandwich or learn about the surprising economics behind all these things. The Indicator from Plan of Money is a quick hit of insight into the economics of business, work and everyday life. Every weekday in less than 10 minutes. Listen now to The Indicator podcast from npr
+
+Airbnb (30s):
+Maybe. you stayed in an Airbnb before and thought to yourself, this actually seems pretty doable. Maybe, my place could be an Airbnb. It could be as simple as starting with a spare room or your whole place when you're away. You could be sitting on an Airbnb and not even know it. Maybe, your kid is heading off to college in the fall and you'll have an empty bedroom. You could Airbnb it and make some extra cash while they're away. Or, if you have a vacation plan for this summer, that could be a good time to Airbnb your entire place. Whether you could use a little extra money to cover some bills or for something a little more fun, your home or spare room might be worth more than you think. Find out how much at Airbnb dot ca slash Host.
+
+Indeed (1m 14s):
+These are our hiring goals. They say they're very aggressive, but when everyone looks to you, you're calm. Why Because? you know you don't need a miracle. You need indeed. Indeed is the hiring platform where you can attract, interview and hire all in one place. One of the things that I really appreciate about Indeed is that it helps you easily schedule and conduct virtual interviews and not just that. Indeed's matching tools really make it easy to find quality candidates. In fact on Indeed. Over 85% of employers find quality candidates whose resume matches their job description the moment they sponsor a job. Start hiring now with a $100 sponsored job credit to upgrade your job. Host at Indeed dot com slash built this offer good for a limited time claim your $100 credit now at Indeed dot com slash built. This terms and conditions apply.
+
+1 (2m 7s):
+Hey, you know we hear a lot of stories on How I, Built This about overcoming self-doubt. I recently talked with Sigourney Weaver about this exact thing and why she was reluctant to pursue acting for so many years. I know it's hard to believe that one of the most acclaimed actors of her generation almost didn't act. You should definitely check out. My interview with Sigourney Weaver on my other podcast is called The Great Creators Just Search for the Great Creators with Guy Raz, wherever you listen to podcasts. And now on to today's show.
+
+3 (2m 43s):
+At that time, I had no idea how much He wasn gonna cost to manufacture. I had no idea how much to make a website. You know, back then all websites were hand coded, so they're really expensive to make packaging, marketing, et cetera.
+
+0 (2m 56s):
+What did you think you needed? How much money did you think you needed to, to raise?
+
+3 (3m 0s):
+We actually didn't set a number. We kind of just said, invest whatever you're comfortable losing, because chances are very good that you're gonna lose it.
+
+0 (3m 18s):
+Welcome to How I Built This. A show about innovators, entrepreneurs idealist, and the stories behind the movements they built. I'm Guy Raz and on the show today how a game with four players, one ball and a circular net was almost forgotten until Chris Ruder revived it and turned it into a thriving brand. Spikeball. Sometimes products or ideas come out too early. General Motors built an electric car in 1996, but there wasn't a whole lot of interest, so they killed the program three years later.
+
+0 (4m 3s):
+Today GM is once again in the electric car business, but now frantically trying to catch up. In around 2000, Microsoft released a tablet computer. Bill Gates even said it would outsell personal computers within a few years, except it didn't. And Microsoft shelved it until many years later after the iPad started selling like crazy. Anyway, today's story is also about an idea way ahead of its time. It's a game actually. You've probably seen people playing it on a beach or at a park. It's called Spikeball and it looks like a cross between volleyball and four square. But instead of hitting the ball over a net or bouncing it on the ground, you bounce it on what looks like a mini trampoline.
+
+0 (4m 49s):
+And over the past few years, Spikeball has grown a lot, but the game actually dates back to the late 1980s. For a couple of years you could buy Spikeball sets at places like Toys R Us, but alas, it never took off and eventually was discontinued. That is until Chris Ruder and a few friends decided to revive it and try and turn it into a competitive sport. And to say that He wasn a grind, or at least initially a quixotic business idea, well that would be an understatement. For starters, Chris had to contact the inventor of the original Spikeball and deal with the delicate matter of who actually had the rights to the game.
+
+0 (5m 32s):
+Then for six years he ran the business all by himself while simultaneously holding down a full-time job to provide for his family. And at times he struggled with sales, but he noticed an interesting trend among a few particular groups of people that would actually help get Spikeball on a different trajectory in one of those groups, the Amish. But we'll get there. When Chris was growing up about an hour south of Chicago, he wasn't that interested in sports. He actually dreamed about being a photojournalist, like for National Geographic or something. And in his early twenties he moved to San Francisco to try to make it in the world of journalism.
+
+0 (6m 13s):
+But instead he found himself working in advertising sales in the midst of the.com explosion
+
+3 (6m 20s):
+Without trying to overdo it. I think intoxicating is the word I'd use. You know, I was there from 98 to oh two and the city was just exploding. You know, the amount of money people were raising, the new businesses were starting. and you know, another thing I liked about it, like nobody was really from there. Everybody was kind of in search of something better, myself included, and yeah, the whole city was just on fire back then.
+
+0 (6m 46s):
+Yeah. Alright, so I mean you are basically the, in San Francisco surrounded by all these people working in this like tech startup world and but you were in like a different environment, like a different community of people, right? I mean, because you were getting jobs in like enterprise sales I think, and eventually I think you, you went to go work for monster.com, which is a big job site, right? And and you did enterprise also enterprise sales there.
+
+3 (7m 15s):
+Yeah, so when I took that job, that was right after sort of the dot bomb implosion in oh two. Yeah. And moved to Cincinnati for that job.
+
+0 (7m 26s):
+So you leave San Francisco and you moved to Cincinnati and, and did you have, I mean this is like, you know, early two thousands, around 2002, 2003 ish. Did you have any ambitions at the time to start a business or were you thinking Yeah, you know, I'll, I've got a good job, I've got benefits and you know, I'll, I'll just kind of climb up the ladder as much as possible.
+
+3 (7m 47s):
+I think I always wanted to, you know, my dad was an entrepreneur, my grandfather was, both my grandfathers were. My brother runs his own business and I saw the freedom that they had and I didn't have that at any of my jobs and that really bothered me. And I don't know why, but it really bothered me when I'd have to ask for vacation days.
+
+0 (8m 8s):
+Yeah.
+
+3 (8m 9s):
+You know, if I'm doing your, if you're doing your job well and everything and you know you're gonna make sure things are covered while you're out, you know, the default answer should be yes. And maybe, or
+
+0 (8m 18s):
+It should just be like, Hey, tell me when you wanna take vacation days.
+
+3 (8m 20s):
+Exactly. Exactly. And so that never sat right with me. He wasn just one little thing. So yes, I absolutely wanted to run my own thing, but I didn't have an idea. I didn't know what He wasn and I remember having this conversation with this guy in Cincinnati. I stumbled on some article about how broken windshields, I guess they take up an, a massive amount of space in landfills. And somebody had created this like huge piece of machinery to figure out how to recycle windshields. And I must have spent two hours on a call with this guy. Like I read the article, looked him up, called him, and he was selling the machinery and I was like, Hmm, can you actually make money selling that, those raw materials?
+
+3 (9m 5s):
+And I wasn't convinced I could, so I didn't move forward with it. But I remember getting really excited about that for maybe a few weeks a month, but then like a lot of other things, it just kind of fell by the wayside and inertia took over and I went back to my day job.
+
+0 (9m 19s):
+Yeah. So, alright, so you're working in Monster meantime, there's, there's a sort of a side story in your life, which is you, you, in 2003 you go on vacation to Kauai with some friends and family and I guess this, this was ostensibly to propose to your now wife, right? Is that, is that what, what the trip was originally for?
+
+3 (9m 44s):
+Yeah, so we went to, we meaning me, my brother, my now wife, childhood friends, Tim and Pat Kennedy. Yeah. And I knew I was going to propose, I knew we had this trip coming up and I was like, you know what, I think this would be a perfect place to do it. So my wife and I snuck away for the afternoon and landed at this like little waterfall and had a little lunch and then went swimming and I dropped to a knee and rest is history.
+
+0 (10m 12s):
+Wow. All right. So you engaged, you're on va and these are like childhood friends who live on your block, right? Yep. Pat and Tim. Yep. Kennedy. Yeah. And on this trip they bring a game with them, which is, what was the game they brought?
+
+3 (10m 31s):
+The game is Spikeball. They had purchased one years ago. So this was 2003, I believe Spikeball was launched in 1989. So I was 14 at the time. You know, I was kind of that annoying brother, so I wasn't really allowed to play with them, but I'd kind watch from afar and I'm like, yeah, that's, that's kind of cool. And didn't really play much until that trip in Hawaii. and you know, they had this beat up set that was probably 10 plus years old, you know, had duct tape on it, it had a different ball, you know, that's the same one. He wasn kind of falling apart. But it worked.
+
+0 (11m 2s):
+And I guess we should explain here how Spikeball works a little bit. I mean, because the rules are, I think a little like volleyball except the net is on the ground and it's, it's round. It's like a, like a, like a mini trampoline sort of. Yep. And basically it's two teams playing against each other, two on two. Right. And, and so like volleyball, you can hit the ball up to your other teammates three times in the air up to three times. But, but on the third hit it has to be spiked at the net. Right. And then the other team has to either spike it back on the net or hit it to another teammate and when the other team misses it, you get a point and, and if you can't catch the ball that's like traveling and basketball Right.
+
+0 (11m 43s):
+You can't catch it.
+
+3 (11m 44s):
+Exactly. You can play two on two rather than hitting a volleyball over the net with Spikeball, you hit the ball onto the net three hits, essentially a bump set spike motion and yeah.
+
+0 (11m 56s):
+Alright, so you guys are playing this game. You guys have fun with it and that's it. You go back to Cincinnati.
+
+3 (12m 2s):
+Yeah. So side note, we moved to Chicago in January of oh three, right?
+
+0 (12m 8s):
+Okay. So you go back to Chicago after this trip to Kauai and that's, that's it. Th this, that's the end of the story really. But there was something about playing that game that stuck in your head. Tell me what what He. wasn.
+
+3 (12m 23s):
+Yeah. So, you know, sports has never really been my thing. He wasn my brother's thing. and you know, when he and I were kids, we were not all that close. And I remember when we were playing Spikeball and He wasn, he and I on a team together, it felt great and I was like, wow, this is, you know, I, I love the game. I love that it's bringing my brother and I closer together. I'm having a blast doing this. There's strangers walking by asking us about this game. So seemingly they're into it as well. And I think He wasn more of that social side, bringing people together side that I found so attractive.
+
+3 (13m 3s):
+It wasn't necessarily, I want to be the best player, I want to absolutely win. Like of course I want to, but that wasn't really my driver. Yeah. And we did start talking like, huh, I wonder if we could like bring this thing back to life and you know, we'd talk about it for four or five minutes, but that was about it, you know? Yeah. Really never did anything.
+
+0 (13m 24s):
+Yeah. I remember I had this dream in 1994 to bring blow pops, you know, charms, blow pops to England cuz I was studying abroad there and everyone loved them and I really thought I could do this, but I, I realized I couldn't do it cuz you had to have a lot of money to do it. But, but so people have these ideas, you're like, oh, wouldn't it be cool if Absolutely. Like, this is a conversation that's happening right now, like a hundred thousand people around the world are having this. Like, wouldn't it be cool if we did this? And like 99,999 of those conversations don't go anywhere. Right?
+
+3 (13m 57s):
+Absolutely. And yes, like we would get together, you know, me, Matt, Tim, pat and other friends and would occasionally talk about Spikeball and you know, somebody would casually mention like, yeah, it would be, you know, wouldn't it be cool if, and you know, that happened every once in a while, but nothing ever really took root. While I'm not certain, I do believe, I remember the, my, my first couple years at Monster were great, I loved it. But the last couple years, culture went kind of toxic company got in some trouble with the s e c, I think maybe an exec or two went to jail and it became a pretty toxic environment and kind of, I don't know if that was what wound up pushing me to say, you know what, I'm actually gonna do some research and see if we can actually do this.
+
+3 (14m 45s):
+I'd imagine if I were able to go back in time and interview myself, that probably was a factor. And yeah, when I started researching it, it wasn't like, oh my God, this would be amazing. We can make so much money, but He wasn, this would be a fun side project.
+
+0 (14m 58s):
+Yeah. And, and, and as you mentioned, Spikeball had been around for a while. Like, it, it had been around for, for about 15 years, I think when you guys played it in Hawaii. So, so I mean, when you really started to look into this, I would, I would imagine that the first thing you would've done would be to go to Google and, and type in Spikeball like, or, or owner or something like that. Did is, is that how it started?
+
+3 (15m 22s):
+Yeah, yeah. I looked it up and reached out to an attorney friend and he looked it up and he's like, yeah, there, there never was a patent on the product. So the design itself is kind of open and the trademark, which protects the name Spikeball, has been expired like 10 years or something like that. So
+
+0 (15m 40s):
+Wait, hold on, let me, let me just clarify something. I think, I mean this is a game that was actually introduced in 1989 and He wasn Invented by this guy named Jeff Krick. I hope I'm, I'm pronouncing that right. Yep. And he, he, I guess he was working for like, some small company and they, they worked with Tomi, the Japanese toy company, He wasn Japanese toy company. I remember Tomi when I was a kid, Tomi toys, I remember watching, you know, GI Joe or cartoons on Saturday. You always see Tony toys and they actually put it out and marketed it as this, as He wasn was He wasn an net with the ball and He wasn a game. Right. And, but it went nowhere like He wasn, that was it. And, and then they just stopped making it after in like 1991.
+
+3 (16m 20s):
+Yeah. I think their main retailer was toys or us, if I remember right. And You need not great hand eye coordination, but I'd say probably age 11 or 12 and up is probably what's appropriate. and you know, there's not many teens or people in their early twenties or at least there weren't shopping at toys or us back then.
+
+0 (16m 42s):
+So there's no patent on this product. This is a trademark on the name had expired 10 years earlier in 1995 and this is now 2005. Okay. So that's kind of interesting. So you're probably thinking, huh. Okay, so what did you do next?
+
+3 (16m 59s):
+I don't remember the timeframe, but you know, through googling and research we did learn that Jeff had Invented it and
+
+0 (17m 7s):
+And when you say we He wasn you and your brother and the Kennedy brothers.
+
+3 (17m 10s):
+Exactly. Yeah. and you know, it's not like we were having formal meetings on this and saying, okay guy, here's here guys, here's the plan. I think, I think I said something along the lines of, guys, we've been talking about this for quite some time. Yeah. I'm gonna reach out to an attorney and see what options we have if any.
+
+0 (17m 30s):
+Right. and you located Jeff Nerk, you, you found out where he lived?
+
+3 (17m 34s):
+Yeah, yeah. I think we found his email address somewhere
+
+0 (17m 38s):
+And you reached out and, and you were like, Hey, can we talk? And, and, and then what happened?
+
+3 (17m 45s):
+Yeah. So I, if I remember right, I think I sent the email saying, you know, absolutely love the game me and my buddies do. We'd love to consider bringing it back to life. You know, we'd love to chat. And I think his response was something along the lines of, Hey, glad you love it. Got good news and bad news. Good news is it's coming back and it's most likely gonna be in a bunch of stores next year. Yeah. But that said, you know, bad news Chris, is, you know, rights have been sold so I guess you guys can't do it. But you know, the attorney had told me nobody owns anything so you guys can do what you want per the attorney's advice. Legally we didn't need to reach out to Jeff.
+
+3 (18m 27s):
+You know, I felt, you know, he had Invented it and I wanted to like, you know, yeah, maybe we can launch this thing together. So that's why I reached out and you wanna do the right thing. But
+
+0 (18m 35s):
+The news you got was, Hey, sorry, we're, we were already moving on and working with somebody else.
+
+3 (18m 41s):
+Yeah. So I didn't quite know what sort of the truth was or what was going on, but I think we maybe spoke on the phone once, maybe twice. We swapped emails a few more times over a few months. And I think he said, look, if if we were to do something, there's some other guys that would need to be involved and these people would need to get, I don't know, like a royalty or something, but He wasn getting murkier and murkier and I was kinda like, yeah, I don't understand a lot of what I'm hearing.
+
+0 (19m 14s):
+Hmm. All right. So I, I wanna pause here for a second and kind of drill down into this a bit more because Jeff Kak, the, the guy who Invented the game, we did reach out to him to, to find out, you know, his, his story. And what he told us was that the way it worked in the toy business was that trademarks and patents were expensive and most game designers and inventors didn't pursue them because they couldn't, they, you know, they couldn't afford to do that. And what they would normally do is they'd find a manufacturer that would buy the rights to the game and then they would get a royalty agreement and then the, the manufacturer would bear the expense of patenting or trademarking the game, which clearly Tomi never did.
+
+0 (19m 59s):
+Right. And so he says in his view, even though, you know, it's perfectly legal and it, this is going to be, I'm gonna just say this caveat this year, it might be a a little bit painful for you to hear it, but I just want to say what he said to us was that he, he still believes that He wasn, He wasn unethical that it's not the way things are done in the toy and game industry. And he may not be, I don't, I'm not saying he's right, but that's how he feels.
+
+3 (20m 28s):
+So, especially back then, I did not know how the toy and game industry worked. And when I did reach out, I genuinely believed there was a decent chance we were gonna launch this thing together. It's, it's unfortunate that, you know, Jeff feels that way. I, I get it, I don't agree with it and do believe that I did the right thing by reaching out. And he did email us saying, Hey, see that you guys went ahead and launched. You seem to be taking the route that we probably should have, which is, you know, creating it as a legitimate sport and, you know, going after high school and college age, et cetera, you know, and met him at a tournament a few years after that, from what I understand, he's still, he, he's running a tournament of zone and he is sponsoring some, some players today.
+
+3 (21m 20s):
+So still trying to help grow the sport.
+
+0 (21m 23s):
+You know, I wonder if, I mean, to me it, it seems like sometimes these kinds of tricky uncomfortable situations are often resolved in a very simple way, which is just people just wanna be acknowledged, you know? And, and if you go to the Wikipedia entry it says Jeff Krik, you know, he inspired the, the game.
+
+3 (21m 44s):
+Absolutely. and, you know, not that I do many podcasts or interviews or if I'm talking to a college class or whatever, I almost open every single one with I did not invent Spikeball.
+
+0 (21m 57s):
+Yeah. I brought
+
+3 (21m 58s):
+It back to life and I'm crystal clear about that.
+
+0 (22m 3s):
+Okay. So now once you knew that you could get the trademark, you could get this name and you could manufacture this product cause there's no patent on it. How did you actually decide to pursue this? Like He wasn, you, your brother Matt and what, like you a couple other guy, like who did you find people and say, Hey, let's pull our money. Like how did you, what'd you do?
+
+3 (22m 26s):
+Yeah, so before we pulled the money, once we knew we had a pretty strong chance at getting the trademark. Yeah. I learned that somebody else owned the url Spikeball dot com right? And I remember thinking, okay, if we can't get the url, then we need to come up with an entirely different name because that is gonna be absolutely critical. And I thought that the person that owned this, that owned the URL was one of those like domain companies that, you know, like kind of hold some hostage and you have to pay tens of thousands of dollars for the name. And so I spent a couple months trying to come up with a better name and I came up with nothing. Eventually tracked down the owner of Spikeball dot com and you know, did a, I think it's a, who is search so you can see who owns what domains.
+
+3 (23m 7s):
+And I called him, explained myself, said, you know, Chris Ruder thinking about, you know, bringing Spikeball back to life, you know, I see you own Spikeball dot com. And I was kind of playing dumb. I was like, oh, do you like, like the game or whatever. And he's like, I didn't even know He wasn a game. I just thought He wasn a cool word. I thought my kids might wanna make a website one day. And I'm like, oh, all right, well is there any chance you'd be interested in selling it? And he says, yeah, sure, how much are you thinking? And I said, I don't know, a hundred bucks. He says, sure. So we got Spikeball dot com for a hundred dollars.
+
+0 (23m 42s):
+Wow. When we come back, how Chris builds a following for Spikeball, literally one person, one email at a time until he discovers the power of PE teachers and Christian youth groups. Stay with us. I'm Guy Raz and you're listening to How I Built This.
+
+Squarespace (24m 10s):
+You know, I've talked to hundreds of founders on How, I, Built This, and I've heard time and time again How important. It's to have a strong web presence in order to really grow a business. Squarespace is an all-in-one platform for building a brand and engaging customers online. Squarespace lets you easily create a dynamic website and sell anything your products and services and even the content you create. Squarespace makes it really easy to get started with best in class website templates for all types of businesses that can be customized to fit your specific needs. Squarespace also provides the tools You need to run your business smoothly, including things like inventory management, a simple checkout process, and secure payments. Whatever you sell, Squarespace has merchandising features to make your products look their best online. And every Squarespace website and online store comes with a suite of integrated features and useful guides that help maximize prominence among search results. Check out Squarespace dot com slash built for a free trial. And when you're ready to launch, use offer code built to save 10% off your first purchase of a website or domain.
+
+Allbirds (25m 16s):
+This is the summer to explore, but before you set foot out the door, set foot in the ultimate travel shoes from Allbirds. Allbirds are versatile enough to go with any outfit durable enough to wear on any terrain and lightweight enough to make packing a breeze. I actually have a pair of the Plant Pacers, which are made with 100% plastic-free vegan plant leather. And I absolutely love them. They're super stylish, they're comfortable, they're durable, they're basically everything you'd want in a shoe. I would also recommend checking out the collection of Allbirds Tree shoes. They're all made from insanely comfortable breezy eucalyptus fiber. There's the Tree dasher, which is a running shoe with extra grip and responsive foam. The tree lounger, it's a super packable slip-on with a minimalist design and maximum comfort. And the tree skipper. It's a silky smooth boat shoe that fits naturally into any situation. Get in vacation mode before you even leave the house with Allbirds tree shoes. Find your perfect pair@allbirds.com today and use code built for free socks with a purchase of $48 or more. That's a L l B i R d s.com code built.
+
+0 (26m 26s):
+One more thing before we get back to the show, please make sure to click the follow button on your podcast app so you never miss a new episode of the show and it's totally free. Hey, welcome back to How I Built This. I'm Guy Raz. So it's around 2007 and Chris has the trademark for Spikeball and the url, but of course in order to revive the game, he needs money. So to start fundraising, he partners with his brother Matt and his childhood friends, pat and Tim Kennedy
+
+3 (27m 2s):
+They were in. And we did cast a bit of a wider net to other friends, et cetera. and you know, vast majority they were cool about it, but He wasn kind of a thanks, but no thanks. What
+
+0 (27m 15s):
+Did you think you needed? How much money did you think you needed to, to raise?
+
+3 (27m 18s):
+We actually didn't set a number. We kind of just said invest whatever you're comfortable losing, because chances are very good that you're gonna lose it. Now we're gonna have fun doing this. But you know, I don't recall like, you know, cuz at that time I had no idea how much He wasn gonna cost to manufacture. Had no idea how much to make a website. You know, back then all websites were hand coded so they're really expensive to make packaging, marketing, et cetera. So we wound up raising I think a little over a hundred thousand dollars. So He wasn roughly 10, $15,000 ahead.
+
+3 (27m 59s):
+And yeah, I remember we met at this bar called Casey's Tavern in South Loop in Chicago. And that was sort of our first official gathering and where kind of everybody said, yes, I'm in or I'm out. And yeah, once we had that, then yeah, everybody kind of started doing some research to see, okay, how can we actually make this thing happen?
+
+0 (28m 23s):
+And I mean, this is 2007 and just kind of a gut check, I imagine that there were some people who might have been a little skeptical of this, who were like, Chris, you know, you've got a good job. And like, do you think this is really gonna work? And and by the way, you've never run a business before, like what do you know about starting a business?
+
+3 (28m 44s):
+Yeah, and I wouldn't blame them, right? Like not only have I not run a business, not that into sports, yeah, I have a degree in photojournalism. I talked my way out of anything close to finance in college. So you know, just looking at it on paper like I should be the last one running this. So those that said, no, I do not blame them one bit, but I think those that said yes, saw the passion that I had and I think they also thought it'd be a fun project and like, you know what, maybe they weren't in love with their day jobs either, and like, huh, this'll be fun. Like do it with some friends and let's, you know, roll the dice and see what happens.
+
+0 (29m 26s):
+And by the way, I think around this time you get a new job working for, I think for Xbox, for Microsoft Xbox, yes. And do doing like biz dev kind of stuff, business development,
+
+3 (29m 38s):
+Advertising, sales. So it's kinda a cool job. The product at there were advertisements that actually showed up inside the game.
+
+0 (29m 44s):
+Oh, okay. I gotcha. All right, so that's your job and, and this is a new job that you gotta focus on in the meantime, you've got this side thing, but really did you think that the Spikeball thing, did you see it initially as a side hustle, just as a side fun project? Or did you have a bigger vision for it?
+
+3 (30m 3s):
+No, absolutely side job. And I remember talking with my brother, I don't know if He wasn oh 8, 0 9, whatever, but I remember saying if this thing is, you know, success to me is if this thing one day could like pay for a family vacation for me, me and my family, you know, quitting my day job and going full time, you know, cause by that time I had been in, you know, the corporate world for, I don't know, seven, eight years or something, you know, making pretty good money, you know, benefits, all that. And I'm like, there's no way this little rinky dink Spikeball thing could come close to that. And my brother was like, yeah, wouldn't it be cool if like maybe one day, like in 20 years the company's big enough to maybe one of our kids could work there.
+
+3 (30m 44s):
+Meaning like there would be one full-time employee at the company, it would be one of our children. Hmm.
+
+0 (30m 49s):
+Alright, so you got, so you've got this new job at Microsoft Xbox and, and also kind of, you know, the side project and, and with a hundred thousand, roughly a hundred thousand dollars, where, where did you start? Where like who did you go to to manufacture the Spikeball sets?
+
+3 (31m 6s):
+Yeah, I remember talking to Tim Kennedy and at the time he worked at Ronald McDonald House, which is, you know, the nonprofit arm of McDonald's. Yeah. And Tim knew somebody that worked for the company that makes all those little plastic toys that go in Happy Meals. Huh. You know, with McDonald's being a Chicago company, of course nearly all of their suppliers have offices in the area as well. So we got a meeting with those guys and they wound up being our first manufacturer. So
+
+0 (31m 35s):
+You basically brought it to this, this manufacturer, this, this their office in Chicago, and you're like, well this is it, we wanna make these. And they're like, yeah, we can do that.
+
+3 (31m 43s):
+Yeah. Well we took it to them and we said, we've got some ideas on how we wanna make it better, make it stronger, change design cetera. But that was, that was the prototype or sort of the, the base. And they were nice. But you know, as you can imagine, a company like that is used to making quantities of I would assume 20, 30 million units of something. And I think our first order was 1000 units and
+
+0 (32m 5s):
+They agreed to make them 40. You
+
+3 (32m 7s):
+They did. And if I remember right, I think He wasn about 40,000, maybe $50,000 for those first thousand sets.
+
+0 (32m 18s):
+Alright. So you get the first thousand prototypes made in the meantime you're doing your day job. But the idea was, and this is 2007, 2008, maybe 2008, by the point, by the time you get them made, e-commerce is still not really, I mean it's, it's still a couple years before it starts to take off, but the idea was to sell it through a website, Spikeball dot.com. That was the idea.
+
+3 (32m 43s):
+Yeah. Yeah. And I, I kind of had a feeling like even if we wanted to get into stores, I just didn't think we would be able to, like, it's a weird looking trampoline, it's kind of complicated to explain how you play and you know, I still had that sort of.com buzz from Yeah. San Francisco and kind of this in general, I love challenging the status quo and I feel like the normal way a company would launch would be, yeah, the first thing you do is you call Dick's Sporting Goods and you try to get in there and I'm like, you know what? We're gonna actually do our own thing and let's do Spikeball dot com and see if we can do it our own way.
+
+0 (33m 21s):
+So the idea was we're gonna sell through a website. Yep. And, and the site goes live in June of 2008. The Spikeball sets are available. You got a thousand for sale, they're 50 bucks, 49, 99. Meantime, tell me how, how the operation is working, right? Because it's you, you've got your day job, your partners have their day job, and how did you guys divide and conquer who did what?
+
+3 (33m 48s):
+Yeah, that was never very clear in hindsight. So we did a conference call, I believe every other week. And on that conference call, each person would sort of identify what work they were gonna do during those next two weeks. And I remember if at times it felt like my role would kind of be like, you know, just nagging, just like, Hey, this work didn't get done, what's going on? And like it got fairly frustrating and I remember talking to my brother a month or two later and he said something along the lines of, Chris, I think what we're learning is most of us I think want to be silent partners.
+
+3 (34m 28s):
+Hmm. We want to be involved, we're pumped that we invested, but the day-to-day work isn't really of interest. So we came up with a plan that said, okay guys, I'm gonna essentially gonna do all the work, but I need to somehow be compensated for that. But the company really doesn't have any money to pay me. So I came up with, I think He wasn like a three year plan where if I hit certain sales numbers, I would've earned stock from them. If I didn't hit the number, then I don't get anything. And some of the guys were cool with that, some were not.
+
+3 (35m 9s):
+But you know, I spoke with a couple of them and I'm like, guys, look, I'm not trying to be greedy here, but if I'm staying up till two in the morning working and you're asleep in bed or going to a movie or hanging out with friends, then there needs to be, we somehow need to reconcile that. And eventually everybody was on board and I, I thankfully hit all three years of the sales numbers and it worked wound up working out for everybody.
+
+0 (35m 36s):
+Yeah. Alright, so the cycle's live June, 2008, Spikeball dot com and you know, you're not, I mean, it's just you and these guys like your, your buddies in Chicago, it's not like you've got a big marketing budget. How, how did you even, who is going to find out about this? How, how were you going to even get any of these sold? What, what did you do to create awareness?
+
+3 (36m 2s):
+Grassroots marketing is what it's officially called But. in our world, what that meant was going down to North Avenue Beach in Chicago and yeah, we had like a Thursday night league that we'd play. So I like just started emailing a bunch of friends that lived in the area and yeah, like, and any time I'd see somebody like stop their bike or stop running and just kind of look at us, I'd like walk up to 'em, introduce myself, oh, I'm Chris Ruder just started this company and we got a league here. If I can get your email address, you know, I would love to add you to the newsletter. And I literally had a clipboard and a pencil and that's how our email lists began. Other times I'd, you know, see people playing volleyball and I'd walk up to them with, with this weird trampoline looking thing and ask people if they wanted to play.
+
+3 (36m 50s):
+And Yeah.
+
+0 (36m 51s):
+Did they, did, did they catch on? Were they like, oh this is awesome or were they like, oh yeah, well, you know, not so much
+
+3 (36m 58s):
+Walking up to them. I thought, I'm like, you know, cuz the rules of the games are nearly identical. So walking up to these players, I was pretty confident they're gonna love it. And they played and like anybody that plays those first five to 10 minutes, you, it's kind of awkward. You don't know how far the ball is gonna go. You don't know if you should have a flat hand or kind of cup it a little bit. and you know, these were also two on two volleyball players, so you know, you gotta be a pretty good athlete to play two on two. So they were used to being at the top of their game. They were used to looking pretty good when they play their sport and they looked like absolute fools when they were using a Spikeball.
+
+0 (37m 34s):
+Yeah. Cuz it, it's, it's not a game that you can necessarily catch right away, right? It takes a couple of tries, right.
+
+3 (37m 41s):
+But once you have that first rally or that first spike, you're hooked. And that's where, you know, you can literally see the light bulb go off and that person like smiles a little bit more. Maybe they start talking some trash to their friends, but as long as they're willing to play for five to 10 minutes, they'll get it. But if they give up before then our chances of keeping them are pretty low.
+
+0 (38m 8s):
+Alright, so you, you launch and, and how, how were sales in that first, those first few weeks?
+
+3 (38m 17s):
+If I remember right, in the month of June we did about $4,000. All
+
+0 (38m 24s):
+Right. So, you know, not bad.
+
+3 (38m 26s):
+Yeah. I thought He wasn pretty good. And then I think in July I think we did like $700 and I was like, oh my God, what's happening? This is
+
+0 (38m 35s):
+Not right because, because most of those sales in the first month were probably people who knew you.
+
+3 (38m 39s):
+Yeah. I consider nearly all of those pity sales, you know, people that didn't necessarily want the product. They're like, oh Chris and these guys are starting this new company. We'll, we'll we'll support them. Yeah. and you know, I see all the orders coming in and I knew nearly every single name in that month of June, but we finished that year at I believe $10,882,
+
+0 (39m 1s):
+$10,882. So that's, you're selling what about over 200 that year? And that means you're left with a little, little less than 800 to go in your inventory. And, but, but, but you had a day job. I mean you were working for Microsoft, so I have to assume you weren't super stressed out about that.
+
+3 (39m 25s):
+Yeah, and actually I didn't know if 10,882 was good or bad. He wasn 10,882 more than we had the year prior. Right, right. So we hadn't even launched. But He
+
+0 (39m 35s):
+Wasn like, but that wasn't gonna cover your costs. I mean
+
+3 (39m 38s):
+Right. But again, if the lens I'm looking at this through is it's a fun side job and okay, if we did 10,000 this year, if we can do, I don't know, 15,000 next year, that'd be amazing.
+
+0 (39m 50s):
+Yeah.
+
+3 (39m 52s):
+And so, and yes, even if sales went to zero, I still got the day job.
+
+0 (39m 57s):
+So really, what, what was the plan? I mean, you, you do a a little over 10,000 in year one and then I think a year two you did a little better 18,000. Yep. But what were you relying on? I mean, how were people gonna find out about it? I mean, you had your launch party, you had your Thursday night Spikeball meetups in Chicago, but aside from that, what were you doing to create awareness? What, what resources did, did you even have to do that?
+
+3 (40m 30s):
+I had been gathering the email addresses. So I do like an email newsletter. I don't remember if He wasn once a week or two a week or something like that. Yeah. That was part of it. It's interesting to hear you say what was the plan? Like I remember googling how to write a business plan and I found a, a format and He wasn like, I dunno, a 20 page document or something and you could just basically start filling in the blanks.
+
+0 (40m 55s):
+Yeah.
+
+3 (40m 56s):
+And I think I made it to page three before I gave up and I remember thinking like, am I really gonna get value from this? Oh I should do it because business plans, that's what like real businesses do. And I hope Spikeball one day would become that. But you know, I was almost doing it almost as if I feel like obligated. Like that's what you're supposed to do.
+
+0 (41m 14s):
+Yeah.
+
+3 (41m 15s):
+Not because I was gonna really get value from it. And I think, yeah, by the time I got to page three I'm like, no, I actually need to work on a Facebook post or an email newsletter or trying to find some content rather than, you know, I'll get back to this document and I never did to this day our, you know, we don't have a formal business plan, but Yeah.
+
+0 (41m 38s):
+But even with the, I mean your newsletter was going to people who'd already bought one. So how did new orders come in? Where, what do you know about where people were finding out about it from? So
+
+3 (41m 48s):
+Nearly, nearly every customer that bought at Spikeball dot com would get a personal email from me. Right. He wasn not automated. Yep. But let's say He wasn somebody that lived in San Francisco, a guy named Mike. Yep. And the order came through. I would send Mike an email saying, Hey Mike, thanks for the order. I'm actually gonna head to the post office tonight and drop your box off. So it should arrive there. I dunno. Thursday. See you live in San Francisco. I used to live there. What an absolutely beautiful city. If you don't mind me asking, how did you hear about Spikeball? Yeah, that was the general format and I wanted people to know that there's an actual human behind this business.
+
+3 (42m 29s):
+and it wasn't this just kind of nameless, faceless thing. I think people, when they got that email, they were kind of confused like, wait, the CEO is emailing me saying that he's gonna personally drive this box to the post office. Like what is going on here? But I think a lot of people were intrigued by it.
+
+0 (42m 45s):
+So I, I'm curious about one order that you received. I think fairly early in into this, you know, maybe two years in and He wasn from somebody just outside of Nashville.
+
+3 (42m 57s):
+Yeah. He wasn Eve. And she works at Young Life, which
+
+0 (43m 2s):
+Is I think one of the largest Christian youth groups in in the US maybe in the world.
+
+3 (43m 7s):
+Yeah. It's, it's massive. And I had never heard of it, but yeah, I asked her like the question, how'd you hear about it? And she said something along the lines of, oh yeah, I work with Young Life and it's becoming very popular with our kids. And so I googled young life and yeah, like I think there's like literally millions of high school kids that are a part of this all over the world. She explained to me that, I don't know if it's every week or every couple weeks, the kids get together at somebody's house. So there may be like 50 kids in somebody's living room and I believe it's like a two hour meeting, the first hour I believe they're talking about their faith. And then the second hour is some sort of group activity.
+
+3 (43m 48s):
+And the preferred activity, at least in suburban Nashville was Spikeball.
+
+0 (43m 55s):
+Once you start to kind of hear about that, cuz that's, I mean you're talking about Christian Youth group, you, you're potentially able to expose this product to hundreds of thousands, millions of kids. So once you found out about this, did you immediately think, okay, this is a huge opportunity or, or not quite yet?
+
+3 (44m 16s):
+Yeah, I, I thought I was onto something and I, you know, back then I was also reading a lot of Seth Godin books and I remember him talking about how You need to give away a ton of your product for free. Yeah. And if the product can't really travel on its own, it can't market itself, then you might not have that great of a product. So as I'm talking with Eve, I was like, oh, do you have any other young life friends that you think may be into some, some free sets? And she'd give me some names and I'd ship them. And I then stumbled on, went to the Young Life website and saw that there was a directory of like, I think they call 'em young life leaders, like a global directory open to the public.
+
+0 (44m 56s):
+And, and when you would send these out to some of these folks or around Nashville and some of these Christian youth leaders, did thats, did you start to see an impact? Like would you see sales spike from Nashville on your, on your website or the Nashville area?
+
+3 (45m 13s):
+Yeah, I'd see that. And then yeah, as I, you know, again, He wasn only available on Spikeball dot com so I'd see the emails come in and I'd start seeing more email addresses that ended with at Young Life and He wasn like, okay, this is starting to, the, the fire is growing.
+
+0 (45m 29s):
+You also started to hear from ultimate Frisbee players, which is interesting cuz that's also kind of a, a niche game, right? There is a group of people who play Ultimate Frisbee.
+
+3 (45m 40s):
+Yep. And they would call it Ultimate, I learned that, I used to think He wasn called Ultimate Frisbee, but they corrected me and I think they were attracted to this sort of odd slash alternative slash niche nature of Spikeball and Yeah.
+
+0 (45m 59s):
+And, and, and then PE PE teachers too. Which, which makes sense to me because you know, you've got mixed gender groups and different levels of athleticism, but this was a game that you could basically put a bunch of kids in and volleyball's can be hard, especially for short kids. I remember being, when I was, when I was little, I was short, but you could get, you know, boys and girls around the net and Yeah. But that makes, and so you started to hear from PE teachers.
+
+3 (46m 26s):
+Absolutely, yeah. They'd tell us like, you know, we're always looking for cool new innovative games. One thing we did hear from 'em, which I loved, they're like, you know of a group of let's say a class of 25 kids, there's usually three to four that are pretty difficult to engage. You know, they may not wanna participate and do what everybody else is doing, but when we bring out the Spikeball nets, those are the kids that are most wanting to engage and they're most into it. So that was one draw it. We've heard from, you know, teachers that have, you know, students in wheelchairs and stuff and I've seen countless videos of four kids in wheelchairs playing and they absolutely love it.
+
+0 (47m 7s):
+This one, one story I read about another, cuz you had, I mean initially the sub kind of subcultures were like PE teachers and ultimate players and Christian youth groups, but apparently also like Amish and Mennonite communities. Did you know about this, that He wasn like super popular in among Mennonites and, and and in the Amish?
+
+3 (47m 30s):
+I did not. Initially I knew He wasn very popular in central Pennsylvania, especially Lancaster, Pennsylvania. And we got an email from a reporter at the Wall Street Journal saying, Chris, I'd love to interview you about the Amish and Mennonite influence or participation and Spikeball. And I was like, holy smokes. and you know, what a dream to get a note like that from the Wall Street Journal, but not in a million years did I think that would be the topic.
+
+0 (48m 2s):
+Yeah.
+
+3 (48m 3s):
+And I had seen some pictures on social media before of people in what I would consider traditional Amish clothing or Mennonite clothing playing. And yeah, we wound up getting a front page story on the Wall Street Journal i, that topic.
+
+0 (48m 22s):
+Amazing. I mean you had, you know, I think year three you're doing about $45,000 in revenue for that whole year, which is obviously promising still, you know, a small, not a whole lot of money, but, but was that also financing the, the, I mean how are you manufacturing more product with such little revenue coming in?
+
+3 (48m 46s):
+Yeah, I believe the initial raise we did to start the company was maybe a hundred right around a hundred thousand. And then I think He wasn in year three, I think we raised another 20,000 from the same guys. And that is what got us through.
+
+0 (49m 4s):
+You weren't making a salary at all.
+
+3 (49m 7s):
+Yeah, I had, I was getting literally zero and we were spending next to nothing on advertising. Yeah. So yeah, manufacturing the sets was by far the biggest expense we had. Right.
+
+0 (49m 19s):
+Alright. So was it still manageable? Were, I mean, because He wasn still just you, you didn't have anybody helping you out?
+
+3 (49m 27s):
+Still? Just me. And I forget what year that we kind of outgrew my basement, but got a larger self storage unit in my hometown in can about an hour away. So whenever my basement would start running low on inventory, I'd drive down there, bring those back to my house in Chicago, put 'em in the basement. That inventory may last a couple weeks and then, you know, depending on the time of year, go back to Kankakee, reload the car, et cetera. And yeah,
+
+0 (50m 2s):
+So I think it's around 2013, like, like five or six years after you launch the business that you hit a, a big milestone, a a million dollars in revenue. and you, at this point, you still had your, your day job, I guess you had moved on from, from Microsoft at this point. I think you, you were working for Live Nation. Yep. But anyway, I mean at this point, I guess you decide you can quit, right? You can quit your, your day job to focus on Spikeball for like full-time, right?
+
+3 (50m 29s):
+Yeah. So we had a million dollars with zero full-time employees in 2013. Amazing. And that's when my wife and I agreed He wasn safe to quit the day job
+
+0 (50m 38s):
+Yeah. And maybe hire somebody to help.
+
+3 (50m 40s):
+Yep. Yep. That's when Uhs Scott Palmer, our current COO joined and yeah, He wasn about a year later that when Dick's Sporting Goods actually reached out to us and said, Hey, we'd love to carry your product. They
+
+0 (50m 54s):
+Reached out to you.
+
+3 (50m 56s):
+Yeah.
+
+0 (50m 57s):
+How did they find out about you?
+
+3 (50m 58s):
+I was floored. I was like, wait, what? I'm not sure how, you know, people were playing in very high visible areas. So Harvard was one of the first colleges to really take off with this. And they're playing in Harvard Yard where, you know, tons of tourists, international tourists, sheep's Meadow in Central Park, tons of people playing. So I would imagine some employee at Dick's kind of stumbled on it and He wasn like, huh, this is kind of cool, let's take a peek.
+
+0 (51m 29s):
+And when they called you, did they say, we're gonna put you in every Dick's store and or were they gonna start at, you know, just in a couple locations? At the beginning
+
+3 (51m 38s):
+They emailed us and when I saw it I was like shocked. I was like, wow. Like I thought if we were ever to go into Dick's Sporting Goods, we'd have to call them and beg and plead and Yeah. But I remember my initial response was, I didn't say this to them, but I remember thinking like, I'm not sure I really want to go into Dick's Sporting Goods cuz you know, that's, that's a big box store and we're Spikeball we're this like cool cult underground brand where, you know, we're kind of too cool for that sort of thing. And I remember talking to a friend of mine and I said this to him and he kind of smirked and I forget exactly what he said, but he essentially said, Chris, get over yourself. This is Dick's Sporting Goods.
+
+3 (52m 19s):
+Like, are you kidding me? You know, that that's exactly what I needed. I needed to hear. So Dick's did want to go in all stores. I was nervous cause I was like, wait, if we go into all stores and we fail, they're not gonna give us a second shot. So I said, all right, how about this guys? Let's start with maybe 25 or 50 stores, and if we do, well maybe we add another a hundred or 200, but we'll eventually get to all stores. But the risk to go and all of them on day one, that's just too much for me. And they said, yeah, we'll go whatever speed you want to Chris. So that's how we got in.
+
+0 (53m 1s):
+So once you got into Dick's, I mean that doesn't necessarily guarantee success, right? I mean it's, there are thousands of products in a, in a, in a store, sporting goods store like that. Yep. You still, you, you know, people still have to notice it. Well, did that, did that change the equation for you guys quickly? Did it make a difference?
+
+3 (53m 23s):
+It did. I remember, I think the product had been on the store shelf for literally four or five days or something like that. Mm. And Dick's reached out and said, guys, sales data's off the charts. We're ready to go all in when you are, but we'll, we'll go at whatever pace you want. So they, they, you know, the, the first couple days were incredible. And then we eventually added, I think maybe another 50 and then a hundred and I think they have north of 700 stores now, or 800, something like that. And the tricky part though was wildly different cash cycle when selling to Dick's Sporting Goods than selling on Spikeball dot com.
+
+3 (54m 8s):
+You know, when you sell on Spikeball dot com, you literally get that money in your bank 24 to 48 hours after the person buys it. Mm. When you're dealing with a retailer, especially the larger ones, yeah. You don't get paid sometimes two, three months after you ship it or sometimes after when they receive it.
+
+0 (54m 29s):
+Yeah.
+
+3 (54m 30s):
+And I almost got in some trouble in the early days not recognizing that I was a member of this group called the Junto Institute, who's like an entrepreneurial group. And we all had to show up with our finances, balance sheet, p and l, et cetera, cashflow forecasts. And I remember showing it to the instructor and he said, Chris, you realize you're gonna go outta business and run outta cash here in a couple months. And I was like, you're crazy. We're growing like crazy. We just got to exporting goods. Like what are you talking about? And he said, Chris, sometimes companies die from growing too fast. You know, I think the line is you die from indigestion, not necessarily starvation.
+
+3 (55m 10s):
+And what he showed me in very clear terms was, yeah, Chris, you're shifting from this e-commerce business where you get your money in one to two days to a wholesale one where you're gonna have to wait a couple months and you're gonna need to figure out how to do that transition. It terrified me
+
+0 (55m 31s):
+When we come back in just a moment, why Chris walks away from a half million dollar deal he's offered on Shark Tank and why he decides to Embrace the idea that Spikeball needs a new name. Stay with us. I'm Guy Raz and you're listening to How I Built This.
+
+ButcherBox (55m 54s):
+So many of you all know that I really love to cook, and when I make a dish with meat, I really try to use high quality, humanely raised meat, and that's where ButcherBox comes in. I recently made a veggie stir fry with a 100% grass fed beef ribeye, and I didn't have to go to the grocery store and stand in line and go through the checkout stand. He wasn delivered right to my front door. And next time I might get chicken or wild cut salmon in my box because every single box from ButcherBox is completely customizable and shipping is always free, and ButcherBox is giving us a special deal. Sign up today@butcherbox.com slash HIBT and use code HIBT to get flank steak for free in every box for three months plus $20 off your first order. That's butcherbox.com/ HIBT and use code HIBT to claim this deal.
+
+Canva (56m 53s):
+Today's sponsor, Canva for Teams is a design platform that makes it easy for anyone to create stunning visual content, even if you aren't a graphic designer. Our team uses it to create episode artwork, social media posts and graphics for our website. Canva has endless templates for things like presentations, business documents, brainstorms, posters, and more turn inspiration into design in no time with canva's wide selection of premium fonts, photos, graphics, videos, audio tracks and animations. Canva also has AI powered magic features to help kickstart your creative process like magic design. Start by uploading an image and watch as a collection of you unique templates appear curated specifically for you. Customize them to your liking or simply finish them with a few personal touches. Design and collaborate with Canva for teams. Right now you can get a free 45 day extended trial when you go to Canva dot me slash built. That's c nva.me/built for a free 45 day extended trial Canva dot me slash built.
+
+3 (58m 8s):
+Hey, welcome back to How I. Built This. So it's around 2013 and Chris manages to avert a big potential cashflow problem by taking out a line of credit at the bank. Meanwhile, around the same time he decides he could raise even more money by applying to be on Shark Tank. So yeah, the way it works is you, you know, of course fill out an application, like a paper application, but then they want you to send in a video and it's, you know, super low budget, just a selfie video of you telling your story and you send in version one and then the producers give you some tips and they say, okay, like why don't you tighten this up or tell us more about this, or maybe go outside where you've got better lighting.
+
+3 (58m 51s):
+And I felt like I went through maybe three or four versions of each video becoming better and better. And yeah, eventually made it to the point where they said, all right Chris, here's the dates we're gonna film, so come on out.
+
+0 (59m 5s):
+So, alright. I've heard we've had some of the sharks on the show as guests and, and it's interesting because in every case they're very nice. Mark Cuban's been on the show a few times and and he's really nice and on the show he can be a real jerk too. And what I've realized is that they are acting, there are, they are, they're sort of, you know, caricatures of themselves in some way and, and part of that is because the, that gives them more airtime. Like if, if there's a zing or like a one-liner, they get more airtime. Yeah. And I've seen your appearance on Shark Tank and was your experience actually in the studio similar to what viewers ultimately saw when He wasn cut down and Edited?
+
+3 (59m 52s):
+Yeah, the Sharks were all super nice and I do think when, whether it's Mark Cuban or the other Sharks, I think if you see them taking some jabs at the entrepreneur, I think it's usually because the entrepreneur didn't come prepared. Or one thing that I also have noticed when watching the show is if they get a feeling that the person is there just to get exposure and they don't want actually want to get a deal, they really don't like that.
+
+0 (1h 0m 17s):
+And you wanted a deal, you were really looking for a deal.
+
+3 (1h 0m 20s):
+Absolutely.
+
+0 (1h 0m 21s):
+And you did get an offer from Damon John for, for half a million dollars for 20% of the company, which you agreed to. Yep. But the deal actually fell through because, because they you to actually negotiate it after off air. What happened? Why didn't it go through?
+
+3 (1h 0m 36s):
+Yeah, so we filmed in I think He wasn September of 2014 and I think I spoke with him maybe like a month or two after we filmed. That was the first time I spoke with him since filming. And he was nice. He said, look Chris, we can do the deal at what we agreed to on the show or we can throw that deal out and if you wanna do something different, I'm open to that. And when we talked about sort of what direction it would be or what do we want to do, his main interest lied in licensing. So I think he said something along the lines of, you know, Chris, I've got friends at Marvel Comics, let's maybe explore like a Spider-Man branded set or something along those lines.
+
+3 (1h 1m 18s):
+And while that sounds kind of cool, it kind of felt like we're treating it like it He wasn a toy and you know, I consider ourselves like a sporting goods business. I want this to become a legitimate sport. And that didn't quite align with How. I wanted to take the business and when I expressed some discomfort with that, he said, okay, how about we license it? You know, he said, I got some friends at the nhl, let's make some NHL team sets. And I was like, I Licensing in general, at least at this stage for our business doesn't feel right. I want to build our own brand. Yeah, yeah. You know, we never officially called the deal off, but as some relationships go you just kind of stop calling each other.
+
+3 (1h 1m 58s):
+Yeah. And that's kind of how it went.
+
+0 (1h 2m 1s):
+Alright. That's filmed in the fall of 2014 and it's aired in May of 2015. What did that do to sales? Did it have, I have to assume it had a significant impact cuz millions of people are gonna watch that episode.
+
+3 (1h 2m 16s):
+Yeah, He wasn, He wasn, massive He wasn the final segment of the season finale. So yeah, we had a massive party at our office, huge sales on Spikeball dot com that weekend and in the weeks to follow. But the real lift was we started getting tons of inbound requests from retailers primarily like smaller mom and pop sporting goods stores, toy stores, et cetera. And yeah, the thing I didn't plan for or think about was reruns. So we got that initial pop, which was amazing. And also He wasn a big pop, but a lot of people also DVD it so they'd watch it a few weeks later and, but reruns are still running to this day.
+
+3 (1h 2m 57s):
+So it's this gift that just keeps giving.
+
+0 (1h 3m 1s):
+Alright. Now you've been on national tv and by the way, I mean Spikeball is so, so we're talking about this game called Spikeball or this Spikeball is a brand and it's very intentionally a brand because you made a conscious decision to decouple Spikeball from the game and to encourage people to use the name Round net. Can you explain the reasoning behind that?
+
+3 (1h 3m 30s):
+Absolutely. So Spikeball is a company that makes equipment for the sport of round net. And okay, I got to know a woman named Mary Woth, she's the former chief marketing officer of Rollerblade. Mm. And she was there back in the nineties when it absolutely exploded. Yeah. And back then people were using the name Rollerblade, a lot of people were using it in a generic fashion. Let's go play Rollerblade hockey, let's go rollerblading, et cetera. And she realized that if people kept using it that way, that they could potentially lose their trademark and Rollerblade would become a generic term. So she is the one that coined the phrase or the term inline skates.
+
+3 (1h 4m 12s):
+So that's why at the X Games there is no competition, no roller blade competition, there's an inline skating competition. And she saw how we were using the name Spikeball as the name of the sport I, and you know, sometimes in a generic fashion. And she and some others folks I spoke with said, yeah, You need a name for the actual sport similar to baseball, basketball, football, you know, those are all generic terms that nobody owns their rights to. And I remember thinking like, okay, what, what makes our product unique? Well, the biggest thing I believe is it's a round net. Like I can't think of a single other sport that has a round net in it.
+
+3 (1h 4m 54s):
+It's a super boring word when you think about it round net. But if you take away everything you know about the name basketball or football or baseball, those are all pretty boring names as well. But what you know about the sport, all the brands, the athletes, et cetera, that's why you get excited when you hear those names. and you know, when I did come up with the word round net part of me, I'd say 10% of me was like, don't do it. Because I of course want the whole world saying the word Spikeball. But 90% of me was like, look, if you are that controlling this thing will probably never get the sport definitely will not get to the size that I think it can be.
+
+0 (1h 5m 39s):
+And, and so you, you basically decided to create this like a, like a governing body for a sport called Round net.
+
+3 (1h 5m 48s):
+I came up with the name round net. But as tournaments started becoming more and more of a thing, different leaders within the community started speaking up saying, Hey, I like this rule, or I don't like that one. And yeah, it sort of emerged that governing bodies started coming around and it's pretty well developed right now. You know, there's the, yeah, international Round Net Federation that's sort of the global governing body. And then I think it's 37 countries also have governing bodies and they all report up and into the irf.
+
+0 (1h 6m 22s):
+We've seen this with pickleball. I mean, pickleball has been around since I think the sixties, but now it just exploded in the last like five years. It's absolutely everywhere. And I, I, I wouldn't be surprised if He wasn an Olympic sport in 10 years. But tell me about your ambitions with Round Net. What do you imagine round net to be in like 20 years from now? An Olympic sport? I mean, professional leagues, tell me, what do you think? Yeah,
+
+3 (1h 6m 45s):
+I absolutely think we will be recognized by the Olympics. I think there will be professional round net players and we will be considered a legitimate sport. The one thing that is a bit unique about us is that this is all being driven by the players, by the community. So, you know, I didn't sit in a conference room with some other Spikeball employees and say, huh, we should start doing tournaments, groups of friends. Were getting together with like a clipboard and drawing up some brackets and the competitive juices were flowing. Same with the Olympic recognition, the IRF formed and their tagline is paving the pathway to the Olympics.
+
+3 (1h 7m 26s):
+Hmm. They are the ones studying what is needed, what's required. And I think You need, I don't know, 60 or 70 countries to have governing bodies. We've already got 37, that's a pretty darn good start.
+
+0 (1h 7m 40s):
+And, and do you go to, are you, are you planning on going to any of these international tournaments or competitions?
+
+3 (1h 7m 47s):
+Yeah, I was at first ever world championship in Belgium last fall.
+
+0 (1h 7m 52s):
+Oh wow.
+
+3 (1h 7m 53s):
+And I was just having this like out of body experience. Like I can't believe I'm standing in a field in Belgium watching a group of Japanese people play a group of Mexican people around net. You know, nothing more gratifying than to see that this is what millions of people are choosing to do.
+
+0 (1h 8m 11s):
+Yeah. Alright, so now you've created this name Round net and there are tournaments around the world. And let me ask you about the marketplace for Round Net, because if you go to Amazon and you type in Spikeball, understandably there's gonna be a bunch of competitors and they look pretty similar, you know, and, and, and they're, some of them are, you know, significantly less expensive, but that's, they're allowed to do that, right? This is not a patented product, anybody can make it.
+
+3 (1h 8m 38s):
+Yeah, I mean we do have, we've got some patents that have been filed for some that have been accepted, but yeah, the the general concept yeah. Is not protected. And I remember when, I think the first one showed up in 2014 or 15. Who
+
+0 (1h 8m 57s):
+Was that? Who, who did it?
+
+3 (1h 8m 60s):
+Franklin Sports, I believe. He wasn Spider Ball.
+
+0 (1h 9m 3s):
+Oh wow. That's a big company. and it and He wasn exactly like what you guys were doing
+
+3 (1h 9m 8s):
+Lower end, you know, the same shape in general. Same concept.
+
+0 (1h 9m 13s):
+Yeah.
+
+3 (1h 9m 14s):
+And I was at the Toy Fair in New York when I first saw it, so I was absolutely terrified. I'm like, there's absolutely no way we can compete. Yeah. I was like, I can't, I've got three kids at home, my a hundred percent of my income now is from Spikeball and I cannot believe I just quit a cushy corporate job. I'm toast.
+
+0 (1h 9m 36s):
+Yeah.
+
+3 (1h 9m 36s):
+And then a year or so went by and didn't really feel anything. We kept growing and then another one showed up and then another one, and I think there's like over 40 now or something like that.
+
+0 (1h 9m 49s):
+Right. But when you go to like the USA round net website or the International Round Net website, it's, it's fairly clear everybody's playing on Spikeball nets. So I mean, you have managed to position this strongly, but essentially at these international round net tournaments, Spikeball tends to be the main sponsor.
+
+3 (1h 10m 12s):
+Yeah. And even if we're not the sponsor, they are choosing our product.
+
+0 (1h 10m 16s):
+Yeah. The, the last numbers I saw were from 2021 where you, you you report about over 20 million in revenue and, and, and probably by now higher than that. But I wanna ask you about the, I mean the business is still growing, obviously you've had an impact. I mean you see Spikeball, I see them every time I go to a beach or a park everywhere. But I have to imagine that from a business perspective, you have to think about diversification strategy, right? Because the tournaments are definitely gonna promote the sport and more people will buy the product. But generally people are gonna buy the Spikeball set once, twice and that's it.
+
+0 (1h 10m 58s):
+Right. And, and so tell me about, because I know you guys acquired this software company called fgo back in 2021, and, and I have to imagine that that's part of your strategy to grow. Tell me about what that does and how that will grow the business.
+
+3 (1h 11m 17s):
+Yeah, I'm very, very excited about fgo. FGO is a platform that makes running tournaments much, much easier. So created for Round Net and this gentleman Alex Zel, he was running round net tournaments and I think he, like most others, I think He wasn like a Google Doc or something that they were using to run the event. And He wasn very clunky. So he designed it and started using it. And then other tournament directors started asking him about it. And he's like, yeah, you can use it. Go ahead. And everybody fell in love with it. And we became friends with Alex and said, Hey Alex, would you be up for selling your business?
+
+3 (1h 11m 59s):
+Like we'll buy it and you join us as a full-time employee, but you keep doing what you've been doing, you'll just have some more resources. And the exciting part we've been seeing the last few months is there's fairly significant interest from the pickleball world.
+
+0 (1h 12m 13s):
+Wow.
+
+3 (1h 12m 14s):
+We are hearing from pickleball tournament directors saying, this is a heck of a lot better than what we've got. and it makes life a lot easier. And yeah, I see tremendous potential there. And we've seen people using it for like board game tournaments, volleyball tournaments, wow. Lacrosse tournaments. Like it's so very excited about its potential and it's still very, very early.
+
+0 (1h 12m 36s):
+So How, I mean how much, in terms of like looking at the future of the business, what percentage of the business do you hope Wango to be in 10 years from now versus the product line?
+
+3 (1h 12m 49s):
+I think it can become a significant profit driver. If you think of consumer products where you're making a physical product, margins aren't that great. Right? You have to make a thing. Yeah. You have to ship it and there's all sorts of stuff involved. Yeah. If you think of software businesses, you make the thing once and if a million people use it, you don't have to make it a million more times. Yeah. So, yeah, I'd love to see it. And I don't think it'll be able to be, you know, with round that the sport being the size it is today, it's not gonna be a major money maker. So in order for Fgo to become a significant driver to our bottom line, it needs to become a player in some other sports.
+
+3 (1h 13m 30s):
+and you know, if it's pickleball, it happens to say, yeah, we like this, then okay, we're gonna start working on some features. So if you like it today, you're gonna love it tomorrow.
+
+0 (1h 13m 40s):
+When you, I mean, you know, when you think about the, the journey you've took and here you are and you've got, you know, a great sustainable business and it's growing, you know, how much of, of where you are do you think has to do with the work you put in and the time and the effort? And how much do you think has to do with just luck in this serendipity of this game catching on?
+
+3 (1h 13m 60s):
+I think I'd probably put serendipity at number one. You know, had the Kennedy's never purchased that set years ago, I never would've seen it.
+
+0 (1h 14m 8s):
+Yeah.
+
+3 (1h 14m 9s):
+Luck is right up there as well. And I think another one is, you know, actually took that first step. So I'm grateful that I did take that first step and had a group of friends and family that took that step with me and completely recognized that I'm very privileged in that, you know, had friends and family that were able to write sizeable checks and not everybody has that.
+
+0 (1h 14m 35s):
+Yeah, I have to, you're you're pretty good at the game now.
+
+3 (1h 14m 41s):
+I used to be, now if I stumble on some rookies on the beach, maybe they're 22 years old and you know, in general way better athletes than me. But if this is the first time they've been playing, yes, I will beat them. But if I go to a tournament, I get absolutely smoked. Yeah, it's depressing.
+
+0 (1h 15m 3s):
+That's Chris Ruder of Spikeball by the way. Jeff Kak the original inventor of Spikeball, turns out he's now the cartoonist and co-creator behind jumble the word puzzle that's syndicated in hundreds of newspapers around the world. And he still sponsors Spikeball teams and promotes a sport through his own club and website. It's called Club Spike. Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show. And it's totally free. This episode was produced by Chris Maccini and Edited by Neva Grant, with music composed by Rum Teen Arablouei. Our production team also includes JC Howard, Casey Herman, Sam Paulson, Liz Metzger, Alex Chung, Elaine Coates, John Isabella, and Carla Estevez.
+
+0 (1h 15m 52s):
+I'm Guy Raz and you've been listening to How I Built This Hey Prime members. You can listen to how I built this early and ad free on Amazon. Music Download, the Amazon music app today. Or you can listen early and ad free with Wondery Plus and Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built This merch and gear at Wondery shop.com. Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.
+
+TD Insurance (1h 16m 30s):
+When you've had a vehicle accident, there are often uncertainties and what ifs that come next. What if I had turned left instead of right back there? What if I Checked that mere twice? What if I just stayed in bed? What ifs are natural? What's next is a visit to a TD Insurance Auto Center. TD insurance customers get the benefit of a one-stop auto claim shop for advice, repairs, and rentals, and a TD insurance claims advisor who will be with you every step of the way, taking The uncertainty out of your auto claim and repairs. Learn more about TD Insurance Auto centers@tdinsurance.com.

@@ -1,0 +1,542 @@
+2 (1s):
+This message comes from NPR sponsor Adian the future-proof payments platform. Welcome all payments be on The Cutting Edge of customer experiences and grow your business with Adian. Visit a dyn.com NPR to learn more. Hey, really quick before we start the show the how I built this book is now a New York Times and Wall Street Journal bestseller. So thank you to all of you who ordered it and for your support of this show if you haven't picked it up and you want to learn Learn the secrets of how to develop an entrepreneurial mindset how I built this the book is for you. It's now available wherever books are sold and in most countries around the world or by visiting how I built this.com or guy Roz.com and thanks.
+
+1 (51s):
+I'm trying to work these different leads on co-founders and then I met had met this kid Kyle and so Kyle's like hey, you should talk to my friend
+
+2 (58s):
+Arash and what do you know about her rash at that point virtually nothing just a recommendation from somebody else's like hey this guy he might be good co-founder. Yeah,
+
+1 (1m 8s):
+and he's a stone school, right? So we get together in the student center and just start hashing it out. And that was what was so crazy. I was just like like you gotta drop out of school to do this. Yeah, and I'm like, all right. I'm expecting have to talk to the parents and like do all this stuff right? He just bounces a couple days later. He had just dropped out of school
+
+2 (1m 32s):
+from NPR how I built this show them innovators entrepreneurs idealists and the stories behind the movements. They built I'm guy Roz and on today's show. How true Houston came up with the idea for Dropbox on the day. He forgot to bring his thumb drive for a weekend in New York and how that idea grew into a multi-billion dollar business. I probably don't have to explain why walkie talkies are sold in multiples. Yes in practice. You could use just what I suppose maybe to scan the frequencies or he's drop on other two way radios or you could just talk into it and hope someone hears you but that's no fun and not really what these things were designed to do to get the most out of a walkie-talkie.
+
+2 (2m 30s):
+Ideally, you have someone else or even Lots Other people talking on the same channel in this idea is basically what Venture capitalists and other investors called the network effect. And in the past few years products that grow through networks have become extremely attractive to these investors and why because the network effect allows a product to grow on its own without a whole lot of marketing. So here's an example. Someone sends you a survey to complete and the survey was Has created using SurveyMonkey you fill it out and send the back and by doing that you have seamlessly become a Survey Monkey user and the next time you want to create a survey you are likely to use Survey Monkey.
+
+2 (3m 18s):
+It's the same story for calendly when someone invites you to schedule a meeting you get an email from calendly inviting you to use the service as well slack Works in a similar way if one person on our team uses it. Rest of the team will jump on as well. It's a concept called Product LED growth. If you use it, your friends have to use it to engage with you and then you are all users and the product grows and grows and grows. And this early Insight back in 2006 is what allowed Dropbox to scale into a multi-billion dollar business in a few short years because Drew Houston knew that the product he was building.
+
+2 (4m 3s):
+Would grow organically and exponentially all at the same time because when one person signs up for a Dropbox account and wants to share a file or document with another person that second person also has to sign up for a Dropbox account and most people do because it's free the vast majority of Dropbox users. Don't pay a dime for it yet. The company makes huge profits from the three to five percent of its customers who pay Family businesses. Now if you don't already know Dropbox is basically a hard drive in the cloud and you can seamlessly access all of your data from any of your devices Andrew came up with the idea when he took a weekend trip from Boston to New York and forgot to bring his thumb drive.
+
+2 (4m 52s):
+So after mulling over the idea for a few months Drew decided to apply to the now legendary accelerator program y combinator or by sea, but before that happened before Before he grew Dropbox into a company with a seven and a half billion dollar market cap Drew was not surprisingly the kind of kid who was obsessed with computers from a very early age. He grew up in Acton, Massachusetts. It's a suburb outside of Boston his mom was the school librarian and his dad was an electrical engineer. And when Drew was just five years old, he wrote his first line of code in basic
+
+1 (5m 30s):
+I doubled in programming, but then I my dad would bring Home computer games from work. So these adventure
+
+2 (5m 36s):
+games like
+
+1 (5m 37s):
+king's quest and things like that. So place is great. Yeah. So I played a ton of computer games when I was little and then was also just interested in figuring out how they worked and making my own computer games
+
+2 (5m 50s):
+and and I guess like at age 14 you really jumped into computers as a job like a summer job to work for the gaming company. What what's the
+
+1 (5m 60s):
+story? Yeah when I was in eighth grade, I think I've signed up to test this online game. So I started poking around under the hood of the game and I found all these security vulnerabilities and I emailed the developer of really is over icq. I'm like hey, you know, you guys need to tighten up a few of these things and they're like, okay got it. You're right. Would you like to fix that for us? Huh? There's a start-up. So they're like, well, we can't really pay you a salary, but we can give you stock options
+
+2 (6m 33s):
+today. You're working by the
+
+1 (6m 34s):
+way. Yeah, then I'm like, this is all I'm like is it okay if my dad signs of paperwork and they were fine with me working remotely and part-time and
+
+2 (6m 41s):
+everything. Wow, so they gave you equity in the business. And by the way, did that ever not ever come anything? Absolutely not. No. Okay. I got you smooth basically smoke and dust
+
+1 (6m 53s):
+right? Yeah, but it's a great experience. I mean, it was awesome. Yeah, the guy was a game developer. This is my dream. I thought that's what I was gonna do. Wow my
+
+2 (7m 0s):
+life. Are you working for this company and you're in high school and this is become like what you do throughout High School, like you're not doing car washes. You're working for this company or you go work for other companies doing similar things.
+
+1 (7m 15s):
+Well, it was really important stepping stone because you know my resume before that was babysitting. So having a programming job became a way in to get another programming job at a different look whilst the different startup those local so There was this the startup called Soft Servo systems and what I did there was they had they were running everything on Windows the I was like, hey, if you if we can move this stuff over from Windows to Linux, which is free. Then you could save even more cost on the hardware. So, you know, like figuring out how to move all this stuff and these are just it was just kind of one interesting project after another see you
+
+2 (7m 58s):
+you finish high school and you went to MIT. Yeah. And your ambition from what I gather from this conversation is was to go on and maybe start a gaming company or make game somehow was that is that right?
+
+1 (8m 11s):
+Well, I had during high school as I had these because I was a literal game developer, but then these other experiences with startups expanded my horizons. So I'm like, all right in college and like I definitely want to do engineering definitely want to be involved in
+
+2 (8m 26s):
+startups.
+
+1 (8m 27s):
+And my first
+
+2 (8m 28s):
+company was an SAT prep company called a Gallade this is why you were at
+
+1 (8m 33s):
+MIT. Yeah. I took a leave of absence in the middle of MIT and teamed up with a teacher at my high school who actually had his own his own little SAT prep business and that is running out of his living room, you know the SATs changing because it went from 1600 points to 2400. I'm like now all of those books like all that material is now obsolete because it's a system. Yeah, and there's not really a great way to do this online. So, What if we teamed up and did that and you know, we met in a Chili's and Westford and for hashing out try to figure out how do you incorporate a company and all these and then that really began the entrepreneurial Journey.
+
+1 (9m 14s):
+So I basically took a leave of absence. My junior year is important that I come back and finish my degree. So I did that and then I got a job at a network security company called that night, which so anyway, I was working during the day at that star. Tup, and I was Moonlighting on my on a contactless. I see professor said this is it this is
+
+2 (9m 36s):
+important because a lot because you know, you hear a lot of people say, oh, you know, I this is my fifth startup or my 6 startup and I think a lot of people have this idea that oh, you know, all engines are go and you need startup and you raised a lot of money and you come up with a product that actually is startup can just be two people working on their computers and and the business might be a file folder and that might be the start up by the way is a company still around it's not it's not. Okay. So did the Just kind of just kind of fizzle
+
+1 (10m 3s):
+out. Well, we had constraints like right so he was not going to leave his teaching job and neither of us were really ready to kind of throw in completely and we got it reasonably far along and we had customers we had income we had at least the rudiments of a working product, but it made us a nice good kind of side income but it's a seasonal right? So there's only a couple months a year where you're really I'm going and then it's hard to keep momentum. And so I started getting really distracted and then another one of my friends Adam Smith his he started. He runs a company called kite now.
+
+1 (10m 45s):
+He started a company called job knee but he got into YC and it was just this amazing experience and I
+
+2 (10m 51s):
+actually because of the because of the support and the resources of Y combinator.
+
+1 (10m 55s):
+Yeah, and it just felt like they were just getting to escape velocity a lot faster. Hmm.
+
+2 (11m 1s):
+Kind of doing it the right way and as the SAT prep idea kind of started to fizzle out were you thinking about other things you could do is because it doesn't sound like you really wanted to stay as a as a, you know, a programmer or a tech person suffer an engineer forbidden. I like doesn't seem like that's really what you want to do. You were just kind of about your biding your time earning a paycheck.
+
+1 (11m 25s):
+Well, I love the work and I was learning a lot. So what ended up happening was with Accolade is I had to work across a bunch of different computers. It was this huge pain to move around I'd use a thumb drive, but it was slow and it kept most putting it in the washing machine. And yeah, but I was really frustrated by the problem. Like why can't I just have my stuff everywhere.
+
+2 (11m 47s):
+I read that around this time in 2006. You were taking the bus a lot from Boston to New York.
+
+1 (11m 52s):
+Yeah, why are you doing that? I had a lot of friends who had moved to New York and every month or two I try to get out there and see them so I would take The songhua the Chinatown Bus that's now-defunct and so on one of those rides I was like, I have a few hours each way to get work done. So I'm like, okay, so and I open up my laptop as the busted pulled out at station. I realized I'd left my thumb drive back at home. And I'm like now I can't do anything like all right, I can't get any work done. And then I'm like well now it I'm just sitting there being like I just never want to have this problem again. Yeah, and so I started coding
+
+2 (12m 31s):
+he started coding. Thing we're
+
+1 (12m 32s):
+on the bus on the bus coding code for what? I'm like I'm just gonna have this thing that like watches this folder and just keeps everything in sync didn't have a name.
+
+2 (12m 42s):
+And by the way, is that easy to do like it just for yourself? Is that take? Like, can you do that on a three-hour bus ride?
+
+1 (12m 50s):
+You certainly can't finish it, but you can certainly start the programming is relatively. It's really easy to make something that kind of works very very hard to make something that works in a bulletproof way. Yeah. And so I just became obsessed with this problem.
+
+2 (13m 5s):
+All right. See you are is this is late? I think it's late late 2006.
+
+1 (13m 10s):
+Yep. It's around Thanksgiving
+
+2 (13m 12s):
+and Thanksgiving and you start to Tinker with this idea. But you're still working still an employee of this cyber security company. Yeah, and I want to get a sense of where your head was where you like. This is it this is the thing that I am gonna do or did that was a Slow Burn to take longer for you to get there.
+
+1 (13m 33s):
+Well, I could feel that sense of lift off in terms of my passion because I'm like, this is totally in my Strike Zone. I'd love to get into y combinator the next application deadlines in April, but I'm like, you know, this is doable like I could probably find at least make it exist. And then maybe it's a business maybe not but I wasn't really think about that Mike. I just want to build this thing. I need it and if I could just like not have to carry my thumb drive around and I have one customer me like great.
+
+2 (14m 1s):
+Indeed is a kind of consumed you pretty quickly after like you start to spend nights and weekends just like trying to build this thing for
+
+1 (14m 10s):
+yourself. Oh, yeah totally obsessed and it came together really quickly. How care is a that was kind of around Thanksgiving then I had a conversation in January with my boss at bit nine and I'm like, hey, you know, I'm really going to go for it and start a company and getting Y combinator and but it was pretty clear. We're early on that. I'm like, yeah, this is going to get going and I just remember. Try to Think Through the name. This is made so that Christmas 2006. I'm just on I am with one of my high school buddies and we would have these Lan parties back in high school.
+
+1 (14m 51s):
+Everybody bring their computers to someone's house and you play video games together on a local network. But anyway, so one thing we would always do is everybody would set up a shared folder called a Dropbox on their computer. So I'm like maybe it's just called Dropbox and that was it really that I am. Somewhere where I settled on the name and I'm just like photoshopping the logo.
+
+2 (15m 11s):
+So the base of the the logo for Dropbox today is what will you kind of designed and yeah, like under computer. Yep,
+
+1 (15m 18s):
+and since then are the pros of taken over and simplified it a
+
+2 (15m 20s):
+lot, right? Okay, so got a name and now it's 2007 and you've got a prototype that you kind of like created. Yeah, and you had this goal which was to get into y combinator. Yep. All right, so what you do,
+
+1 (15m 37s):
+so So I started working it I had so many friends who had Adam had shipped out to California at this point. And so I got to know a lot of the other y combinator Founders socially so I go out and visit them in San Francisco where I went to like one of the social events at Y combinator and I'm literally like walking around this party with my laptop like trying to demo Dropbox to anyone who will pay attention, but one thing that was very clear from the Y combinator guy. Finds is that you need a co-founder? They don't just fund single founder. They
+
+2 (16m 11s):
+said to you if you want if you want us to consider you you need a
+
+1 (16m 15s):
+co-founder you need a co-founder
+
+2 (16m 17s):
+and this is like Paul grams thing like Paul Graham is one of the co-founders and partners of the Y combinator program. Yes. I'm like, this is his one of the main criteria for investing is is is a co-founder because yeah because as anyone who listens to this show knows starting a business can be really tough right and their moments where you want to Give up and quit but what the thinking is, it was a co-founder you kind of increase your chances of not giving up because when you might be low the co-founder might be at a different mental or emotional place. And so I'm assuming that's probably why they wanted you to find.
+
+1 (16m 52s):
+Yeah, exactly. So the Y then I'm trying to find a co-founder, you know, if it's March in the application deadlines like April Fool's Day cut like a few weeks to get married to someone and I'm not even dating. So I started shaking the trees, but my search hadn't really turned up anyone yet. So my friend Aaron he was a classmate of mine MIT errands. Like I just I love Dropbox. It seems really interesting if Paul Graham is interested, then I'll do it,
+
+2 (17m 23s):
+but you needed him to be interested. Yeah, and you couldn't wait to be formally admitted to this thing, you know, so I'm like,
+
+1 (17m 31s):
+well, I'm going to drop by the YC office and see what I can do. You know, I'd show up on my laptop. Op and then I knew Jessica who was one of the partners and you knew her from where I had attended a couple y combinator dinners and just been kind of in the mix. So I was like, hey Jessica. Hey, do you mind if I is Paul busy? I just want to jump something and she's like now we know he's not busy. Yeah go on in and so I kind of take a deep breath and like go for a walk over and crack the door open a little bit like Paul. Hey, you know, I'm really sorry to bother you. So just take a minute and he cuts me off here. Like no interview not want to see your demo the whole reason we have an application process.
+
+1 (18m 13s):
+And so we don't have like random people coming by and pitching us on stuff. So absolutely not. Yeah, and I'm like, oh my God because I'm just like total
+
+2 (18m 22s):
+failure. Well and you probably I mean cause you were pretty young at the time 25, maybe
+
+1 (18m 28s):
+20. Yeah 24
+
+2 (18m 30s):
+probably thinking I screwed this
+
+1 (18m 32s):
+up. Oh, I was a disaster because I'm like that failed and now I've like torpedoed my chances of like getting my sea funding at
+
+2 (18m 38s):
+all. So so what happened next like what did you do to like make up for that and and eventually get into the program so I'm like, all right. Well,
+
+1 (18m 50s):
+my application needs a hook. Like I need some way of kind of standing out. So I thought about what might get Paul's attention and I figure like well, what is he doing in his office? Then? He's probably doing what I do every day just like browsing heck. It's and just keep hitting Refresh on
+
+2 (19m 8s):
+that. What's Hacker News for people who don't
+
+1 (19m 11s):
+know. So Hacker News is basically startup news that it's a start-up news site kind of like Reddit. Yeah, but focus on technology and startups for the most part, so I'm like, I wonder how I could get something on Hacker News that could draw some attention. I'll make a demo video of what I'm doing and it wasn't just for Paul. It was really just to see if this is a viable
+
+2 (19m 34s):
+concept and what was the video what it look like it?
+
+1 (19m 37s):
+It was a it was called a screencast so which is just to say like I did see a video of your screen and then I'm narrating right Mike. Here's Dropbox. If you have multiple computers that are too dense very kind of it's still on YouTube somewhere, right, but I make this to three minute video stay up all night doing it, you know the night before the application deadline finish the application. I'm like, I don't have a co-founder working on it. Well, hopefully get there before interviews and then I posted my demo video too. Hacker News and it hit the top of Hacker News for like two
+
+2 (20m 10s):
+days. What was so I'm just curious. What was the thing about it? That was such a big deal among that Community it was it because there were ways to save information and data in the cloud at that point not great stuff, but was it the yeah I did but why was there so much interest in this video? I think it was just kind of
+
+1 (20m 32s):
+getting your files on multiple computers kind of a niche probably like most people had one computer. You turn, right you didn't have a smartphone but this audience very technical audience. Like they're the early adopters virtually all of those people were carrying on a thumb drive the title of my post I think was like throw away, you know Dropbox throw away your thumb drive. Yeah, what goes into a click baby
+
+2 (20m 53s):
+title and it's a title throw away your thumb drive, you know.
+
+1 (20m 55s):
+Yeah, and so I think it just made sense. It was simple it was in like a lot of the Tech Community it struggled with the
+
+2 (21m 3s):
+same problem. All right, so you make this video to get attention. Some hacker leaves you put your application in but you still need the
+
+1 (21m 11s):
+co-founder. Yep, and I get a one-line email from Paul Graham. Yeah saying they like the idea certainly like your software but you need a co-founder like thanks Paul,
+
+2 (21m 22s):
+right? Okay, that's good. That's a good sign
+
+1 (21m 25s):
+progress. Yes. And so then I'm trying to work these different leads on co-founders and then I met had met this kid Kyle who had been in the entrepreneurs club with me at MIT again. So Kyle's like hey, you should talk to my friend Arash Arash sent me an email saying hey, I saw your screencast on Hacker News looks pretty interesting and he's just don't school. Right so we get together in the student center and just start hashing it out
+
+2 (21m 53s):
+at MIT at MIT. And what do you know about Arash at that point virtually nothing just a recommendation from somebody else's like hey this guy he might be good co-founder. Yeah, like he's smart. He's good at yeah.
+
+1 (22m 7s):
+He had been the director of the computer science programming competition at MIT had been one of the finalists and I had done that too. So I'm like, okay, that's a pretty good feel to the starting filter and we just hit it off. I mean as a practical matter, I'm like, yeah, I need a co-founder, you know, usually these co-founder stories start with like, hey, we played we're on the same t-ball team, but definitely not here and we kind of just went for it. That was what was so crazy. I was just like you got To drop out of school to do this and he's like, yeah wait,
+
+2 (22m 41s):
+this was based on one conversation.
+
+1 (22m 44s):
+No is a series of conversation, you know, but not a lot, you know as like a the equivalent of a few days. Okay, if you're you know a few coffee dates basically and I'm like, all right. I'm expecting have to talk to the parents and like you have all this stuff and he just bounces a couple days later. He had just dropped out of
+
+2 (23m 1s):
+school. He just says, all right. I'm good. I'm out. Yeah, and I'm like
+
+1 (23m 6s):
+respect, okay.
+
+2 (23m 7s):
+All right, so he joins U and Y combinator gives you the green light there you're in. Yep, and that comes with a lot of support and and introductions but also $15,000 which imagine was not nothing in 2007. Which got you. What is $15,000 get you
+
+1 (23m 26s):
+some desktop some Ikea furniture a couple months of rent, right so we can into YC April May and then the summer program for YC is in Boston, so we spent the Summer together he was living in this dorm. You know, we'd just be in the trenches like we'd wake up at
+
+2 (23m 42s):
+noon. I pick him up from his
+
+1 (23m 43s):
+dorm. We code till 4:00 5:00
+
+2 (23m 47s):
+in the morning pizza and stuff like that
+
+1 (23m 49s):
+again. Yeah. I mean it's kind of very
+
+2 (23m 53s):
+very unhealthy.
+
+1 (23m 54s):
+Yeah dorm kind of experience that the prototypical start experience where we just like cut it working everyday coding. But yeah, and it was Boston doing what commentators like we really found our element. There are It's like 50 other Founders roughly 20 companies really got put on the rails and then we move out to California together into this, you know to splitting this two-bedroom and kind of corporate like furnished apartment. Anyway, we finish every company gets we got seven minutes. There are a lot shorter now, you know, they put they take a room of investors. They take the company's. Yeah, but seven minutes for our demo YC ends of demo day and then all the investor conversations kind of pick up where that leaves off so So we had to
+
+2 (24m 38s):
+go start raising money when we come back in just a moment how Drew in a rush is little business started to attract big attention from some of the biggest Tech entrepreneurs in the valley and how that attention turned Drew to an enemy's of none other than Steve Jobs stay with us. I'm guy Roz and you're listening to how I built this from NPR. Hey everyone, just a quick thanks to our sponsor Invesco. Who knows the world is propelled forward by the ideas of inventors scientists and Engineers.
+
+2 (25m 23s):
+So they created a way for ordinary people to invest in the innovation of the future with Invesco QQQ consumers have the opportunity to access a hundred of the largest non-financial companies on the NASDAQ in the last four months companies and invest goes QQQ fund have used algorithms to help doctor. Understand the coronavirus and implemented a low contact Airline experience to learn more visit in best co.com QQQ. There are risks involved with investing in ETFs including possible loss of money ETFs are subject to risk similar to those of stocks and investment cannot be made directly into an index before investing consider.
+
+2 (26m 6s):
+The fund's investment objectives risks charges and expenses visit Invesco.com for perspectives. With this information read carefully before investing Invesco Distributors Inc. Thanks also to 3M committed to finding solutions for problems big and small in ways that improve lives to learn how 3M is helping the world respond covid-19. Go to three m.com covid 3M science applied to life. If you need a break from the news pop culture happy hour now has you covered five days a week.
+
+2 (26m 46s):
+We're here to help you find new TV shows movies music books and video games to keep you company in these difficult times. Listen now to the pop culture Happy Hour podcast from NPR. And one more thing the New York Times best-selling book how I built. This is now available. It's a great read and a great gift for anyone looking for ideas inspiration wisdom and encouragement to have the courage to put out an idea into the world. It's filled with tons of stories. You haven't heard about how some of the greatest entrepreneurs, you know and respect started out at the very bottom check out how I built this the book available wherever You buy your books.
+
+2 (27m 39s):
+Hey, welcome back to how I built this from NPR. I'm guy Roz. So it's mid-2007 and Drew and his co-founder Arash finish up at y combinator. They're living in San Francisco and gearing up to raise money and tried to figure out how to convince investors that their idea is a risk worth betting on
+
+1 (28m 0s):
+when I first talked to investors for doing in Boston. They were like no one's really ever made this work before. This is a commodity The Google Microsoft you name it was going to do this your lunch and
+
+2 (28m 14s):
+and that's what people would say that it left. These big companies are going to do this. You know, it says going to make
+
+1 (28m 19s):
+what you're doing irrelevant or obsolete. Yeah, and I totally agree. I was like, yeah, obviously so how did you get beyond
+
+2 (28m 29s):
+that feeling of agreeing with the doubters?
+
+1 (28m 33s):
+Well, the fact remained though that no one had really done this properly. And at this point I hadn't you only need one or two investors really be into it. And so by the time we got to through demo day we had come up with a pretty compelling pitch. Can you
+
+2 (28m 51s):
+explain something to me? What was I mean? I don't know if it's possible to explain this in a simple way. But let's try it. Sure. The idea here was to enable people to share files seamlessly across different their computer their laptop and this is when iPhones just started Out and Yeah, smartphone Revolution is going to be about to begin. What was so complicated about it. Why was this so hard? Well,
+
+1 (29m 17s):
+people had bitten off little pieces of the problem, but we were trying to do something bigger. And what was really challenging was how do you basically build a hard drive large enough to be everybody's hard drive. So there's a whole server and infrastructure component of it. That's very complicated. Hmm. There's a Algorithmic component which is hard meaning how do you make it so that you can verify the correctness of the system? So, how do you how do you design something that doesn't stomp on people's baby photos or you know tax returns getting under the hood. That's a pretty hard engineering problem. So same for a lot of the same kinds of reasons that you know a Google search.
+
+1 (29m 59s):
+It's like your type words into a text box and you get links to webpages. How hard can it possibly be? It's actually pretty hard. So it's that kind of problem and then there's a design element of How do you make this really simple and accessible for normal people and then we want it to work with all
+
+2 (30m 14s):
+platforms? And when did you have a beta version ready to go? Like that was up and running
+
+1 (30m 20s):
+by the fall of 2007. We started opening up the video a little bit
+
+2 (30m 23s):
+and so it's around this time where you start to attract potential investors and you get the attention of Sequoia. Yeah, which is a huge deal and Michael Moritz. I guess who's a big deal to fund a senior? Honors from what I understand he comes to your apartment in San Francisco a couple days after you meet him. They basically wanted to make a deal. Do you remember remember him arriving your apartment?
+
+1 (30m 50s):
+Yeah. It was a whirlwind because we had just had our first meeting with Sequoia on a Friday and I wasn't super familiar with how these things work. But yeah Mike we do the pitch and then on Saturday morning. Yeah, Mike Morse shows up at our little apartment complex world. Q and we walk them through. It doesn't say a lot because a couple questions about competition and Google but then leaves with little Fanfare. He's like come by on Monday to finish the whole partnership which is kind of like the final
+
+2 (31m 22s):
+boss and during that pitch meeting where the were the partners throwing like tough skeptical questions, or did it seem like they really wanted to do this.
+
+1 (31m 33s):
+I'd say it was thought they all had kind of a poker face. I think they were interested, but you Do your pitch you leave don't get a lot of feedback initially and then get a happy phone call or sad phone call and we got a heavy phone calls saying hey come to dinner. We want to hammer this out. Wow, and we had a handshake deal that night. So one business day turnaround. Wow, which we were not
+
+2 (31m 54s):
+expecting and all of a sudden you guys have a million bucks
+
+1 (31m 57s):
+in the bank to work with. Yeah. What were
+
+2 (31m 59s):
+some of the things you did at that point? Like did you start to hire other Engineers? Did you get office space or did you just continue you in a rash working out of Europe? Men with a million
+
+1 (32m 9s):
+dollars. So there's a lot to do once you have a deal coming you need a lawyer. Then you have money in the bank you need an accountant. Then you have money you need employees. So we started recruiting the smartest people we knew from MIT as engineers. And so we would do these recruiting trips out there off and I would go meet people in the dorms and pitched our first few
+
+2 (32m 32s):
+Engineers that way so you start to build it out. And what does that mean? I mean are you guys because you And Iraq should already been pulling all-nighters for like months and months and months to give to this phase. Now. Does it slow down a little bit or does it actually
+
+1 (32m 45s):
+accelerate it accelerates? Because at every point you just have this expanding circle of things you need to take care of because you have from a product standpoint you have this prototype, but then you need it to get it ready for Primetime you need users. And so we kept doing all of these unconventional things to try to get attention hmm based on what had already worked before so the same kind of video. I put together to put on Hacker News. We did a another one that was a little more oriented around a broader audience that we put on Reddit and digg in March 2008. And so we are placing bets on how many people are going to get on here.
+
+1 (33m 26s):
+And I think the high water mark was maybe ten thousand people. So
+
+2 (33m 30s):
+one of things that I guess you've said is that Dropbox actually took longer to launch than other startups at the time like it took you almost a year from the time. I'm you move from San Francisco to launching it. Why did it take so long? Why couldn't you just put something out there and like January of 2008 that was good enough.
+
+1 (33m 48s):
+We knew early on that. We would not have a lot of margin for error and so, you know move fast and break things. What's not going to work for? All right, because if you once you lose people's trust It's very hard to get it back. It didn't have to be perfect, but it had to be very good. Right so you can't kind of bait. It's hard to beta test a pacemaker and we knew that if there's a spectrum from like little website you can kind of throw up in the day to Pacemaker like we were much closer to that end of the Continuum, right? And so the other thing is this only became a mainstream need after the iPhone because most people had one computer home, but then suddenly with a smartphone everybody's got to And for the first time you need to get stuff back and forth very easily and the only way to do that is through the cloud suddenly this winter from a problem that the propeller had said to a problem that every mainstream iPhone
+
+2 (34m 42s):
+user and and how did people find out
+
+1 (34m 44s):
+about it. Well, I had read this book Crossing the chasm which talks about how technology is adopted starts with early adopters and then moves to kind of an early mainstream and so on and so this is the technology adoption life cycle and we're like we started with the early adopters. We're like who are the people that are like actively looking for something like this there they tend to be the kinds of people that hang out on the Y combinator startup news site or Reddit or sites like that. So we seated the audience with their and then it was viral because sharing is really important part of the Dropbox experience. And if I share something with you, you have to become a Dropbox user if it's a shared folder and so the virality was a critical part of our distribution strategy.
+
+1 (35m 30s):
+Because and we tell you that cause things like Facebook and Facebook platform Works bloating and growing super fast and it's pretty hard to build a big consumer service without having some kind of viral growth
+
+2 (35m 42s):
+element. I think, you know within two years or something you had like 15 20 million users of such a huge number. Yeah people clearly. This is resonating me clearly. This was something that was working. It's kind of crazy within two. And a half years your valuation of up to four billion dollars. Yeah. It
+
+1 (36m 4s):
+was like we were very careful to get the product right through the beta and then a public launch we turned on the paid version and we sort of became accidentally cash flow
+
+2 (36m 13s):
+positive after that because it was just growing so quickly. I mean, this is what's amazing to me is I think by 2011 you have 50 million users. Yeah, and your revenue is like almost a quarter of a billion dollars, but only 4% of you Others were paying you the rest of the 96% were using the free version which only gave you 2 gigabytes or whatever of storage space. But so all that money was just coming from four percent of the users. Yeah, hang like 10 bucks a month or something. Yep. And was that had you model that out. Did you know that that's all you needed? You just need to like yeah a tiny percentage of people to
+
+1 (36m 54s):
+pay. Yeah, and there is this new business model that have been popularized around then called free me. Yeah, we're you know you start with a free version and then there's a premium version if you need if you need that,
+
+2 (37m 6s):
+by the way, I should mention I read that Mark Zuckerberg like sent you a Facebook message. Yeah, and like 2009 saying hey, I'm interested in learning more about your company. And you said it was like a prank.
+
+1 (37m 19s):
+It was wild. I mean we got on his radar because we were recruiting some of his alumni, right and you know, you have Facebook open in that tab all day at work and in something like wait
+
+2 (37m 30s):
+what? So but it was he interested in maybe acquiring you or just wanted to to meet
+
+1 (37m 34s):
+he was interested in potentially an act in acquiring Dropbox. We were still building so we weren't really interested in that and then we stayed in touch and then we became friends
+
+2 (37m 45s):
+and and I guess also that year in 2009. I read that Apple was interested in Dropbox to yeah, and that you even had him had a meeting with Steve Jobs. Is that is that right? What's the story
+
+1 (37m 60s):
+well? Surreal, we weren't expecting that it was is there was I was meeting with one of the PPS who reported the Steve and he's like Steve would like to meet you and so I was pretty intimidated because then I started talking to my friends and like this story is about Steve meetings were very scary. Yeah.
+
+2 (38m 22s):
+Yeah. This guy said he wants to meet with you not today, but at a future time,
+
+1 (38m 27s):
+yeah, he's like where we'll get something set. Okay. I'm like Guess I'm not going to say no. Yeah
+
+2 (38m 32s):
+sure can't say no. Yeah, Steve Jobs.
+
+1 (38m 34s):
+Yeah, so get there. We're like we're here to see Steve Jobs. They're like, okay have a seat and then a rash and I are like, oh man, maybe he hasn't seen the product we have to do our kind of get our demos which already so we're furiously trying to set that up and few minutes later Steve comes in and I think the first thing he said is you guys have built a great product. So, you know on my little bucket list under the table, I'm like, okay check good. I guess we might be getting a happy Steve story not an angry speed story, but we'll see and he was basically saying like, you know, you should really throw in with us because we're like a start-up with infinite resources.
+
+1 (39m 16s):
+And
+
+2 (39m 17s):
+will you was it clear to you when you were going to meet him that this is what was going to happen. He was going to make an offer to buy you out.
+
+1 (39m 23s):
+Probably I was hoping you wouldn't get into numbers, right? Yeah. I'm I thought about goals for the meeting. Yeah. I was like, what am I trying to accomplish here? I think the primary goal from that from my meeting with him was just don't piss him off. Yeah,
+
+2 (39m 39s):
+so he's telling you all the great things about being part of apple. And yeah and then does he does he
+
+1 (39m 43s):
+throw that number? No, he's like we'd love for you to to really consider this thing be great. And then, you know sort of like I'm like well look we admire everything you and Ethel do and have done love to find a way to work more closely together for sure, but We want to build this company and think it has a bright future and that's what we're focused on like I'm in want to stay independent. Like I'm sure
+
+2 (40m 8s):
+you understand and he said, of course I do. I was an entrepreneur myself fair enough
+
+1 (40m 13s):
+sort of he was like, alright well in so many ways. He's like you all you guys are a feature not a product, you know, we're gonna have to build our competitor and I guess we'll have to get to work on you know in so many words killing you guys wait he was
+
+2 (40m 27s):
+saying to you. Hey if you're not going to With me then we're just going to crush you. We're going to build our own. Yeah. No, we're just gonna take you down. Yeah,
+
+1 (40m 35s):
+and here are your problems. You don't have the operating system you need like Partnerships for distribution, like all these things and so because I was like in my head disagreeing with a bunch of what he was saying, but you know, and I'm just like again don't piss him off. So I'm just like, all right created this agree. But yeah, I mean the, you know that part of the conversation was over pretty quickly and he just kind of stuck around he's like, so you Know where you guys where you guys from and you know, I started just talking about the the history of sort of the second coming of apple. And so I think we were lucky in that we got kind of a happy Steve meeting but I stuck around for another, you know, 30 40 minutes, but that was last time we talked.
+
+1 (41m 18s):
+Wow, I mean,
+
+2 (41m 20s):
+well he passed away in 2011. But before he passed away, he did make good on his promise. I think it was his last keynote where he unveiled iCloud. Yeah, and and he he name-checks drop and you probably saw that keynote.
+
+1 (41m 37s):
+Oh, yeah, and so did my entire team
+
+2 (41m 40s):
+and was your heart pounding watching that keynote. Yeah, it was
+
+1 (41m 45s):
+but before that it was clear that there is definitely kind of a winter is coming Reckoning that was going to happen at some for Dropbox. Yeah, and I would say that from the moment we founded the company we were kind of always living in the shadow of whatever Google's thing would be Apple's they are you know, and then you'd hear a rumor and the Tremors of that would kind of reverberate through our
+
+2 (42m 7s):
+psyche. You knew that there were a lot of big businesses in the Bay Area that that went down right? Yeah. That's K Escape my say a party must have been thinking we're
+
+1 (42m 21s):
+next Well, we'd show those like tombstones very literally,
+
+2 (42m 26s):
+you know on a slide in front of the company, you know, you communicated this idea to your own. Employee. Yeah,
+
+1 (42m 32s):
+because hey we need a focus. We need to execute their a lot of dead companies that were once great. It wasn't so much about Apple as much as the whole kind of constellation of competing products. So we use those moments as a galvanizing Force to get us to really focus and execute quickly and motivate the team
+
+2 (42m 50s):
+and and how would you do that? I mean, I mean, I guess one of the ways to make sure that you wouldn't be buried would be to build very quickly build Partnerships like be everywhere be the
+
+1 (43m 0s):
+Oh to right. Yeah, but it was clear that we were going to be moving into a new at some point with there would be a new act. So we were spreading our wings. We started building new products. We acquired a company called mailbox built a photo showing product called Carousel and I think we were you know, all that is to say this was sort of these are the years where I kind of had shift from being like a Founder to really being a CEO and getting good at the game. Yeah, so I remember going home for Of July and I reread the book only the paranoid survive and so the book talks about this concept of a strategic inflection point we're sort of at the business is doing well, but things seem off and everybody has this moment where they they recognize that things have really changed.
+
+1 (43m 48s):
+So for us what that meant was we have to really understand. What are we what's the value are we that we're providing to our customers and our happiest and most profitable customers were using Dropbox at work. And so we decided to go all in On on for all intensive purposes getting out of the consumer business
+
+2 (44m 4s):
+being focused on business clients
+
+1 (44m 6s):
+yet being focus on business clients and just use addressing the the work use cases. It did mean that if pretty embarrassing moment where I'm like, oh my God all the stuff that you know, it was on stage saying is the future of the company like Carousel and mailbox and all these other things like we're just going to shoot. I'm not to shoot all of her
+
+2 (44m 25s):
+you just going to shut these things down to focus on just shutting
+
+1 (44m 28s):
+down and like so many things that I had proclaimed for the future of the company were like not going to be the future of the
+
+2 (44m 35s):
+company. I mean, it is amazing that
+
+1 (44m 38s):
+your product was kind of made
+
+2 (44m 40s):
+for these times. Yeah, I mean it's designed for people to share and collaborate and they don't have to be there in person. So I have to imagine you're one of these strange positions where covid the pandemic section been good for your business.
+
+1 (44m 54s):
+Yeah. I mean folks have been turning to Dropbox for distributed work since the beginning and in fact, I was Built it not to back up my photos I built it to be able to work from anywhere. So yeah, there's a through line from the beginning here, but we're thinking about okay now we're painting on a much bigger canvas, for example, the big one of the problems we all have is just our stuff is everywhere right? A lot of our work happens in Cloud tools have various forms and our content is scattered and 15 different places. And we live in a world where it's easier to search all of human knowledge than my company's knowledge. Right. So there are these big opportunities hidden in plain sight that for reasons that are very similar to like why the problem for Dropbox in the first place was unsolved.
+
+1 (45m 40s):
+Like there are huge challenges that are right in front of us. The landscape is always shifting. And so there's always new
+
+2 (45m 49s):
+opportunity. Let me let me shift and sua a more personal question. Your company is now the market caps about eight billion dollars. Yeah, and you are on not just on paper but in reality I'm a billionaire. What does that mean to you mean? Does it do like kind of yeah,
+
+1 (46m 6s):
+definitely not what I had in mind when right, you know when I was at a point in
+
+2 (46m 10s):
+my life. Well, that's a thing most of the people in the show don't set out to become billionaires. They set up to solve a problem. They know they're going to if they're before except I'll make money but the problem you want to solve was how to seamlessly integrate files and from one pressure than x but you weren't thinking oh, you know, I'm going to live in a gilded Palace and sit in a vault full of Coins and throw them up in the air all day.
+
+1 (46m 33s):
+Yeah, I was always I just remember early on the idea of like scaling a company. It was so scary that on the money front. I was just like look as soon as the company's worth a million dollars, that would be unbelievable. Then we started getting Venture money thinks they're like, okay if I got about a hundred million dollars after taxes like that. I'm good. I'm done Beach. Yep. So happily ever after and then in the Process of talking to some of our Angel Investors, you know, one of them had a really successful exit and he's like the day I sold the company was like one of the unhappiest days of my life and so getting back in touch with like why you do what you do is a really challenging and important conversation to have with yourself and for me it was like I love reverse engineering things.
+
+1 (47m 27s):
+I love building things. I love I will never get tired of seeing like Dropbox icon over someone's shoulder in a coffee shop. Yeah.
+
+2 (47m 34s):
+I know. I'll always look uh, yeah, you know, I
+
+1 (47m 38s):
+never get tired of that. And so that sense of purpose is really
+
+2 (47m 42s):
+important when you think about your story and your success do you think that it has to do with how hard you worked in and your skill and your intelligence or do you put more of it in lock or how do you what Dropbox folders do you put all those things in 2016 you need
+
+1 (48m 0s):
+you? Need both. So I think about it like surfing like the waves will come and in our case like we had we caught this tidal wave in order to sort of sitting there on our board and then oh my God, you know suddenly were 50 feet off the ground but inevitably that wave-like slows down and then it's like about cats and another one and another one and another one. So I think there's a lock in terms of when and how any given wave shows up and where you are in your board, but then there's a lot of skill and staying on and and finding the Ways that matters a lot that's Drew Houston co-founder and CEO of Dropbox. And by
+
+2 (48m 39s):
+the way, remember how in the early days of Dropbox prove got a Facebook message from Mark Zuckerberg who is potentially interested in acquiring the company. Well, wow that didn't happen the two stayed friends and earlier this year. Drew was invited to become a member of Facebook's
+
+1 (48m 56s):
+board.
+
+2 (48m 59s):
+Hey, thanks so much for listening to the show this week. You can subscribe wherever you get your podcast. You can also write to us at HIV T is npr.org and if you want to set in tweak, its at how I built this or add guy Roz and my Instagram is at guy dot Roz. Our show is produced this week by Casey Herrmann with music composed by R Mt. Narrow Bluey. Thanks also to Julia Carney Canada slim Eva Grant Sarah saracen, and Jeff Rogers are in turn is Farah Safari. A guy rise and even listening to how I felt
+
+1 (49m 34s):
+this.
+
+2 (49m 44s):
+This is NPR. On the next episode of louder than a riot Bobby Shmurda is transition from the streets to superstardom and how viral Fame led to infamy. I don't ask people from the hood with they got criminal activity going on.
+
+1 (50m 2s):
+I know and Hip-Hop the batter the better
+
+2 (50m 5s):
+listen now to louder than a riot from NPR music. This message comes from NPR sponsor 3M who continues to expand production of the respirators Frontline workers need globally and is on track. To supply two billion by the end of 2020 more at three m.com covid 3M science applied to life.

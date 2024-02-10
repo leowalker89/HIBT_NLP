@@ -1,0 +1,371 @@
+Black Stories. Black Truths. (1s):
+This is my voice. It can tell you a lot about me and I'm not changing it for anyone In NPRs, Black Stories, Black Truths, you'll find a collection of NPR episodes centered on the black experience search. N, P R Black Stories Black Truths, wherever you get podcasts.
+
+0 (24s):
+Hello and Welcome to How I Built This Lab. I'm Guy Raz. So it seems pretty clear that within say 50 years, most cars will likely be electric. The internal combustion engine is on its way out, but that's not necessarily the case for air travel. So far it's been difficult to figure out how to create a long range commercial electric airplane, but when it comes to shorter distances, electric planes will start to play a much bigger role, especially in transporting goods like medicine and packages. One of the leading companies in the space is BETA Technologies. They've developed electric planes that can fly more than 350 nautical miles.
+
+0 (1m 6s):
+The company's founder, Kyle Clark, is a bit of a jack of all trades. He's a serial entrepreneur who started three other companies and he's also a former N H L hockey player. But he's always been mainly interested in building planes. In fact, the name of his company could be traced back to his early reputation as a tinkerer.
+
+2 (1m 26s):
+My passion was designing things, building things, and you know, even the name of our company, BETA, which which is named because of my nickname in hockey, because BETA was the nerd in the, in the Matrix movie in the back, always hammering away on his computer. And, and on the hockey team everyone had a, a nickname. And my nickname was BETA 'cause I was a nerd and I was always studying and I was doing applied math and engineering. And so, so on the hockey team, I was a little bit of an outsider, respected, but an outsider focused on designing things and building things.
+
+0 (2m 2s):
+I read that your dad ran a machine shop that, that made items for researchers at, at, at the University of Vermont. and you as a teenager and as a kid, we used to go to that machine shop and like take parts and just tinker around and make stuff. So what were the kinds of things you were making?
+
+2 (2m 20s):
+Yeah, I mean this was probably the best education a kid could ever have. It was called the instrumentation and model facility, where professors would come in with wacky ideas and the machinists would figure out ways to build it. And so my jobs there were actually taking, you know, 20 years of drawings and converting them into computer models and, and then serving them back to the machinists or sorting 'em to the professors. And all I was doing was really copying the designs of other people. And on the side I was building parts for airplanes, for ice boats, for go-karts, you know, after hours we called it government work or G jobs.
+
+2 (2m 59s):
+And, and, and I built a whole lot of stuff in that machine shop, which I can say now 'cause my dad's retired and, you know, no repercussions for him at the university.
+
+0 (3m 8s):
+So when you got to, to Harvard and you studied material science and engineering, did you think that you would go into aviation? Was that sort of your goal?
+
+2 (3m 19s):
+Yeah, there's no, there was no question in my mind at that point that I was going into aviation. In fact, I was building all kinds of airplanes in my dorm room. And
+
+0 (3m 28s):
+When you say building airplanes, like model airplanes?
+
+2 (3m 30s):
+Yeah, mostly model airplanes. But, you know, I'd go over to local airport and help people build experimental airplanes. And even before that, in high school, started building real scale ultra lights and, and airplanes.
+
+0 (3m 44s):
+I I read that while you were an undergraduate, you wrote your thesis on designing a hybrid electric airplane. And at the time, this is 2004, some of your mentors there and professors were like, this is not realistic. You can't really, this, this won't work. Can you, can you tell me what you were designing?
+
+2 (4m 4s):
+Yeah, it was a hybrid electric design because I started to realize that electric propulsion had unique advantages over traditional reciprocating engines. And, and that was actually called BETA Air. And that was kind of the, the, the germ of the whole BETA air idea. Of course it wasn't fully baked, it was just the beginning of it. Alright,
+
+0 (4m 24s):
+So you do this thesis, but, but after you graduate, you, you actually kind of went in a different direction. You went on to found a few other companies, including a company called Ither M Technologies and, and another one called Energy Management Systems B, both of which you would go on to sell. And then you also started another company called venture.ceo, which was a, I guess like a social network for entrepreneurs. But all the while in the back of your mind, you were, you were still thinking about something in aviation.
+
+2 (4m 53s):
+Oh, it was straight in the front of my mind. I I was developing notebooks and notebooks of ideas on how to make BETA error a reality.
+
+0 (5m 1s):
+And, and so the idea that you had for BETA at the time, what, what was it, was it exactly as you laid out in your thesis or had it evolved into something different by that point? Yeah,
+
+2 (5m 13s):
+It had evolved to a passenger aircraft, a two person passenger aircraft with a high wing, a hybrid drive train and a pusher propeller.
+
+0 (5m 20s):
+Your vision was to do a two passenger electric aircraft, like a drone that could be used. What, for like leisure or for just private aviation? 'cause presumably it would, you know, it wouldn't go that far
+
+2 (5m 33s):
+That that's correct. It would, it was a private plane that you could, you could take to an airport disconnect parts of a motorcycle from it. There's a whole idea around enabling point to point travel. Wow.
+
+0 (5m 45s):
+It would be a motorcycle embedded into an electric plane.
+
+2 (5m 49s):
+That's right. Wow. And, and look, the, it's like
+
+0 (5m 51s):
+A transformer.
+
+2 (5m 52s):
+It it is. And it, it was really, it still is a very elegant design and someday I'm gonna go and bring it to the market.
+
+0 (5m 58s):
+Cool idea. I want that.
+
+2 (5m 60s):
+Me too.
+
+0 (6m 1s):
+So you would Yeah, because it's like when you see like a, an RV with like a, you know, towing like a small vehicle behind it basically, or a motorcycle. You basically could fly somewhere, drop the plane off and get on your motorcycle and go to the final destination. That's
+
+2 (6m 15s):
+Right. and you would actually ride your motorcycle straight out. And that's what made it hybrid because you'd use the high power density motorcycle engine to maintain the charge on batteries. That would be the primary propulsion to the airplane.
+
+0 (6m 28s):
+Wow. Alright. So this is your idea. And, and did you have any interest, anybody who were like, who was like, this is it, this is, this is, I'm in,
+
+2 (6m 37s):
+I I met a few people that were in, but nobody that, that was able to, to, to catalyze it alongside me. and you know, meanwhile I was sponsoring teams at the university here to, to build elements of it. So I had several years of actually senior design teams that had built a flying drone that you flew from the ground doing the same idea of fixed wing aircraft. He flew from the ground. Ironically, those people now work here. But I was just materializing and formulating the ideas. There were a lot of believers in what I was doing. But look, it takes a lot of dough to, to bring an aircraft to market.
+
+2 (7m 21s):
+Yeah. And, and so it, it, you know, there's, there's a bit of a, a bit of a, a initiation cost to bring it from that we're flying scale models, flying, computer simulations, have designs to look, we're gonna go build a real airplane and fly it. Yeah.
+
+0 (7m 36s):
+I mean, even with your access to the University of Vermont and, and students there and the fact that you had sold businesses previously, were you, did you have the capital to independently finance this?
+
+2 (7m 48s):
+No, not independently. and I and I was aware of that. It, you know, this is, this is hundreds of millions of dollars even, you know, optimistically.
+
+0 (7m 56s):
+Yeah. Alright, so meantime, I guess you are invited to present or to go down to either a conference or some kind of presentation that was hosted by a woman named Martine Rothblatt, who some people will know that name. A pioneer, a very famous engineer. She's a co-founder of SiriusXM United Therapeutics. You know, she's given Ted Talks, have seen her, her Ted Talks, amazing story of, you know, of, of innovation. She's working on an electric helicopter, I guess. And what you're invited down to go assess it or what, what, what was the story?
+
+0 (8m 39s):
+Yeah,
+
+2 (8m 40s):
+Exactly. So Martine through a couple other colleagues that I knew had been very interested in having people download to her thoughts on Electrifying aviation. And one of the entry points was the assessment of this electric helicopter, like you said, she had commissioned to be built and So I was given, you know, a rough outline of what it was, and, and asked to come and present how batteries, inverters, and motors are either fit or unfit to electrify aviation. Hmm. And, and about halfway through my presentation on batteries, this gal who I didn't know at the time, Martine Rothblatt, she, she kind of interrupted me and she said, who are you and where are you from?
+
+2 (9m 22s):
+and I said, I'm Kyle, I'm from Vermont. I've worked a lot in batteries, motors, inverters and other such things. And she goes, are you getting paid to be here? and I said, no. And she goes, I can tell. and I didn't know quite how to Yeah. Respond to that, but, 'cause maybe
+
+0 (9m 36s):
+She was like, I can tell you're, you're an idiot, but Yeah.
+
+2 (9m 38s):
+Well that's, that was my first thought. Right. But, but what she meant was that I was expressing so much passion and so much care about this, that, that this wasn't a job for me. Yeah. And she goes, we, we should talk. And, and so after the meeting, you know, we're standing in the entryway of the Philadelphia Yacht Club where this meeting was, and she goes, come to see me on Friday morning at my house in Vermont. And, and So I planned to do that.
+
+0 (10m 7s):
+So just, just to sort of clarify what she was working on, she was interested in coming up with some kind of electric helicopter. 'cause she had started this company, United Therapeutics, and she wanted to figure out a way to transport, I guess, synthetic or, or donated organs from hospitals to patients. But she wanted to, to do it in an environmentally responsible way. So she's trying to figure out this challenge. Right?
+
+2 (10m 32s):
+Yeah. She, I mean, she said to me, there's no sense in creating a Unlimited supply of lungs to save people's lives if we're gonna destroy our environment. Yeah. So what's interesting about Martine and, and a lot of folks that I've met, that she actually doesn't have a concept of how to do it. And she, but she has an idea of the elements to get it done and what she wants done or what is feasible. So she had written this 10 point spec of what she thought was realistic and aspirational at the same time to move organs. And actually she didn't care what it looked like, whether it was a helicopter or a drone. A a fixed wing plane, a balloon, as long as it met this spec. Hmm.
+
+0 (11m 10s):
+Okay. So you end up going to Martine's house and you spent pretty much all day with her, right? Like, like talking about this electric plane project and, and aviation more broadly. And what then what, like at the end of your time together, I guess she gave you some, some sort of special assignment.
+
+2 (11m 26s):
+Yeah. So, I leave there somewhere before 11 o'clock at night. And she goes, listen, why don't you write down how you would elicit critical thinking in aviation. And again, that's another like, interesting not how you'd build an, an airplane, but how would you elicit critical thinking in aviation? And So? I went home, I painted a watercolor, wrote all over it and sent it to her at about 4:00 AM And, and I went to bed for a couple hours, got up a couple hours later, went out to, to the garage, was building another motorcycle. And my wife comes out with my phone and there's a text on it from Martine and it just says two words. It says, you're on. And I'm like, wow.
+
+2 (12m 6s):
+I, I mean, I now I gotta actually like, create this company. I've got a customer, I've got a vision. And, and, and I told her that in 10 months we would create this electric aircraft and fly it across the country.
+
+0 (12m 22s):
+We're gonna take a quick break, but when we come back, Kyle spends months building an aircraft just to scrap it and start all over again. Stay with us. I'm Guy Raz and you're listening to How I Built This lab.
+
+NetSuite (12m 40s):
+If you're an entrepreneur growing your own business, then you've probably experienced times when your team was buried in manual work or when it took forever to close the books. Maybe you have too many manual processes and the things you used to do in a day are now taking a week. If this is you, you should know these three numbers. 36,000, 25, 1 30 6,000. That's the number of businesses which have upgraded to NetSuite by Oracle 25. NetSuite turns 25 this year. That's 25 years of helping businesses do more with less close their books in days, not weeks. And drive down costs. One, because your business is one of a kind. So you get a customized solution for all of your KPIs in one efficient system with one source of truth, manage risk, get reliable forecasts and improve margins. Everything you need all in one place. Right now. Download NetSuite's popular k p i checklist designed to give you consistently excellent performance absolutely free at netsuite.com/built. That's netsuite.com/built to get your own k p i checklist netsuite.com/built.
+
+Shopify (13m 53s):
+Customers are rushing to your store. Do you have a point of sale system you can trust or is it a real p o s? You need Shopify for retail. Shopify is the commerce platform revolutionizing millions of businesses worldwide. With Shopify, you get a powerhouse selling partner that effortlessly unites your in-person and online sales into one source of truth. Track every sale across your business in one place and know exactly what's in stock. Connect with customers inline and online. Shopify helps you drive store traffic with plug and play tools. Built for marketing campaigns from TikTok to Instagram and beyond. Plus, Shopify's award-winning help is there to support your success every step of the way. Do retail right with Shopify. Sign up for a $1 per month trial period at shopify.com/built. Go to shopify.com/built to take your retail business to the next level today. shopify.com/built.
+
+2 (15m 10s):
+Welcome back to How I Built This lab. I'm Guy Raz and my guest today is BETA Technologies founder Kyle Clark. Back in 2017, he started designing an all electric aircraft for transporting organs and critical medical supplies.
+
+0 (15m 23s):
+So, alright, so you get this commitment from Martine Rothblatt and, and at that point, I guess she wired you one and a half million dollars in seed capital for BETA Technologies.
+
+2 (15m 34s):
+Yeah, she, and interestingly enough, it wasn't actually in seed capital, she proposed to be a customer, so she did not take an equity position in the company. She just said, I believe in what you're doing, let me fund this as a customer.
+
+0 (15m 50s):
+Wow. So with a $1.5 million, you said this is nuts, you said within 10 months I'm gonna have a prototype.
+
+2 (15m 60s):
+That's right.
+
+0 (16m 2s):
+So how so how did you do that? How did you start to even do that?
+
+2 (16m 7s):
+Look, I, I mean you have to be like wildly audacious and and stupid to do any of this stuff, knowing that the probability of failure is pretty high. However, what I did then is I opened up my black book and I called the 20 smartest people that I've ever worked with and started to convince them to come and work with me. And my pitch was simple, look, let's go change the world. I'm not gonna pay you anything and I don't know where this is going. And they started joining the team. But I'll tell you what the, the other interesting thing I did is I had this early revelation that it was more important to me that this business and this idea was successful then I got any financial gain out of it.
+
+2 (16m 47s):
+Yeah. So day one I took 70% of the business and usually people take eight or 10 or seven or 5% of the business and say that's gonna be the employee pool. I took 70% of the business and I said this is what I'm gonna use to attract people to be really meaningfully a part of this. Hmm. And, and, you know, diluted myself, but I would rather be a, a meaningful business and a smaller equity holder than a big equity holder in a business that can't do something.
+
+0 (17m 16s):
+So your initial idea was to have a two passenger aircraft. Her idea was totally different. It was not to transport passengers, it was to transport medical supplies organs. Right. So now you're focusing on creating a plane designed really purpose-built, designed for transporting goods.
+
+2 (17m 37s):
+Yeah, I mean there was a couple big points that she made was no more of this hybrid talk. We're going all electric full, all electric, zero operational emissions. We'll figure out how we charge that in a, in a sustainable way as well. We wanted vertical, we needed to go hospital to hospital and, and we needed to move cargo, like you said. Now the most critical cargo you can imagine is human organs. Right. Somebody's life's on the line. It's very valuable and, and it doesn't, you know, it's, it's it's cost per mile or per hour or whatever is nearly irrelevant relative to the benefits it's providing.
+
+0 (18m 12s):
+Alright. So you have got this team gathered. You're gonna start to work on building this electric transport aircraft and was the original design gonna be a drone, sort of a fixed wing drone design?
+
+2 (18m 25s):
+Yeah, we started with a fixed wing drone design with eight rotors that that took off vertically thrust vectored forward. That means the rotors tilt in the air to push the air backwards after it's pushing it down. And we designed, built and flew a 4,000 pound version of this with me in it after 10 months. And we kept our promise. And when we did that, Martine looked around and she's like, wow, not only did you elicit critical thinking in aviation, you just like blew past companies that were funded to the tunes of hundreds of millions of dollars with this small scrappy, you know, proactive and, and and frankly pragmatic team in Vermont.
+
+2 (19m 8s):
+I want you to build me a commercial version of that.
+
+0 (19m 11s):
+Alright. So you figured out how to build this and when you, you, you had this prototype, what did it do? I mean, how far did it fly?
+
+2 (19m 19s):
+It it flew for about 17 minutes at a time and, and we were really restricted to flying over the airport. Right. So we did about a hundred test flights in it though. Wow. And, and we brought it up to about 65 knots. You know, shut the, shut the torque down, put it on the wing, you know, did it in heavy cross winds, a lot of maneuverability. It was actually a remarkably good performing aircraft.
+
+0 (19m 44s):
+And did you go in in some of those early flights yourself?
+
+2 (19m 49s):
+Oh, I did 'em all. Yeah.
+
+0 (19m 50s):
+And and how did it fly? I mean, I mean did it feel like you were flying a helicopter or, or a plane or Not quite either.
+
+2 (19m 57s):
+No. What's fascinating about it is that this particular plane had eight 11 foot diameter rotors. Okay. And they were, they were positioned four spots coaxially. So they were turning in alternate directions at each corner of the airplane.
+
+0 (20m 10s):
+And you, and by the way, and these rotors would, would rotate up and sort of down midair to sort of fly horizontally. That's right. But then they would rotate to land. So you could just like land like a helicopter.
+
+2 (20m 20s):
+Exactly. Okay. Exactly. So you take off like a helicopter, but it wasn't that beating sound of a helicopter 'cause every rotor is turning at a different speed. So it almost felt like you were swimming and it was like a whooshing sound yet because electric motors produce instantaneous torque. It was incredibly responsive. Yeah. Almost dangerously responsive. And you've seen a drone Yeah. Do aerobatics. It is. You're inside that and, and, and the, the aircraft handled way better than any helicopter I'd ever flown. And, and, and all of a sudden you're like, this sounds different. It feels weird and the controllability is spectacular.
+
+0 (20m 57s):
+Yeah. I mean it's like an electric car when you, the first time you sit in one, you hit the, you hit the gas or you the accelerator and just takes off like a rocket.
+
+2 (21m 5s):
+That's right. I mean even the cheapest electric car feels like a Porsche,
+
+0 (21m 8s):
+Right? Yeah. It's amazing actually. So, alright, so you get this off the ground and Martine Rothblatt who had huge contracts with other, there were other companies working on this technology, essentially took most of, most or maybe all of the, those contracts and just diverted it to your, your company.
+
+2 (21m 28s):
+That's exactly
+
+0 (21m 29s):
+Right. Almost $50 million.
+
+2 (21m 30s):
+That's right. Yeah. $48 million she had out in contracts elsewhere and she, she brought those back in 'cause they were behind schedule, not keeping promises and she redirected that at us and said, go build a commercial version that I can move organs with. Yeah. So, so we did, but you know, we learned what not to do in that aircraft. 'cause in all those test flights we really learned what was not reliable, which was problematic from a noise and e m I perspective and and focused all our efforts on making the simplest, most elegant aircraft that we could.
+
+0 (22m 2s):
+Alright, so you spend most of 2018 trying to commercialize this prototype, but after working on this for about a year, I guess you decided to kind of tear up the plans of this thing that had worked that you liked, that Martine liked and you sort of were like, no, we gotta start over. What, what, what happened?
+
+2 (22m 24s):
+Yeah, I mean the, the reality was that all that testing and all that critical thinking revealed that we had an aircraft that probably couldn't be certified and probably wasn't the highest performing aircraft
+
+0 (22m 37s):
+In terms of it. It didn't in terms of range. In terms of what?
+
+2 (22m 40s):
+Yeah. Range and payload range and payload and, and, and some of the big realizations we had were that, that it was too complex to make truly redundant. What we need is a really simple aircraft. So it was hard, I had to go to Martine and say, look, I think the right thing to do for our program is to retire Ava. That's what we call the first aircraft and start designing this new one and here's what it's gonna look like in concept. And she came to me and she said, I remember this very specifically. She goes, if you're asking me if you kept your promise Kyle, you did. And that's all she said to me. And, and I sat there thinking about it. And what she was really saying was that you did the right thing, you elicited critical thinking in electric aviation, now go do the thing you said you're gonna do.
+
+0 (23m 29s):
+Alright. Tell me a little bit about what some of these specs were in terms of, you know, things that, that that we would, you know, understand non-technical people. Like for example, how far did you want these to fly? How much, you know, what kind of payload, what, what could it, it, you know, how much freight could it carry? What were you trying to get to?
+
+2 (23m 50s):
+Yeah, so the initial specs that Martine had outlined, and she did this by taking simple physics around four elements of flight lift over drag ratio, which is how slippery the aircraft is. The empty weight fraction, which is how much is left over for batteries, the battery energy density and the conversion efficiency. All of those things together said the theoretical maximum of an electric airplane was to fly about 250 nautical miles within the context of flying at a hundred knots and carrying 600 pounds and having less than a 50 foot wingspan. And, and I could tell you all the reasons for those things, but fundamentally we wanted to be able to deploy them immediately without regulatory change or helipad changes and do meaningful work, which was move organs.
+
+0 (24m 37s):
+So can you describe how you redesigned it?
+
+2 (24m 39s):
+Yeah. After we did all these analyses, we realized that, that the simplest and most elegant and lowest drag version of an electric vertical takeoff and landing aircraft was to kind of make it really simple. It has a big 50 foot wing that's on the top of the fuselage. It's 44 feet long from the tip to the tail. It has two longitudinal, we call 'em booms. You can imagine just two big long tubes Yep. Down, down the wing. And on the four corners of those two long tubes are 12 foot diameter rotors with motors underneath them. And, and that's what picks the airplane straight up in the air. And then right at the tail there's a conventional propeller with another electric motor.
+
+2 (25m 20s):
+And the way it works is that those four rotors on the top pick the aircraft up off the ground at the hospital. And then if you imagine that rear rotor turning on and pushing the aircraft forward, those top rotors start reducing their thrust as the wings starts to develop lift. Hmm. And 30 seconds after you take off, you've totally shut down your top rotors and you, and you stow them like javelin straight into the wind. Hmm. And the pusher motor is pushing you now through the air. So you have this super slippery airplane that used a lot of power, but remember energy is the integration of power over time. Yeah. But it was a very short amount of time, so you didn't use a lot of energy to pick this thing up and make a runway in the sky and then you're off to deliver the organ and at the other end you do just a reverse.
+
+0 (26m 8s):
+Wow. Alright. So how long did it take you to get Alia up and running another 18 months?
+
+2 (26m 15s):
+That's right. That's about it. What it took, it, it took us from August of, of 2018 and, and our first round, the pattern flight was January 1st, 2020. So it took us under 18 months with a fresh, you know, clean sheet design where we had to build the molds and the structure, design a flight controller, write the code, build the propellers, and, and put it in the air safely. That that is actually an exceptionally fast program.
+
+0 (26m 44s):
+So now as you were obviously, you know, building this out, you ha have to assume you had to raise a lot more money and you have, because this was going to become much, much more expensive to do that. Did, at what point did, did the business model kind of evolve to, and maybe it didn't evolve, maybe it was always the idea, but it seems like now the model is to really work with transport and delivery companies down the road like u p s and and Federal Express and Amazon. Did that become clear pretty soon after you started to collaborate with Martine that that's what this could be?
+
+2 (27m 25s):
+Absolutely. Yeah. I mean, her and I talked a lot about this, the cost to develop an aircraft program and everything. And what we agreed to was that even though she was funding to, like you said before this $46 million contract to develop the aircraft, she knew that that wasn't enough to develop an aircraft. So she took a license to be able to use this in organ and tissue delivery. Yet we maintained the ability to build this airplane for military passenger cargo, logistics, surveillance, all these other applications. And that allowed us to go to the financial markets and say, look, we've got a, not only a launch customer, but a launch customer that is funding r and d and, and she only wants, you know, one and a half percent of the total market opportunity.
+
+2 (28m 10s):
+All these other massive markets are available to us. And, and, and we believe we have the best design. And when we started, you know, our business has gone through a few phases. We were a think tank, we were a product development company, we're an engineering company. Then we went into this, in this, this commercial exploration over the last, you know, I'd say 2022, where we started doing demonstration flights for U P s and Amazon and, and and the, the Marines and, and, and the army and the Air Force. And, and the thing really worked and we were able to prove to our customers that we had something that worked really well. And in doing so, we got orders and of course that led to funding.
+
+0 (28m 53s):
+We're gonna take another quick break, but when we come back more from Kyle on commercializing beta's electric aircraft and how the company is changing logistics as we know it, stay with us. I'm Guy Raz and you're listening to How I Built This Lab. Hey, it's guy here. And while we take a little break, I wanted to let you know about an episode of How I. Built This we released a couple of weeks ago. It's about how Sal Khan, the creator of Khan Academy, is using AI to make education more accessible. We've all heard about the rise of generative AI technology and the popularity of things like chat G P t.
+
+0 (29m 36s):
+Well, at Khan Academy Sal Khan is working on ways to build this technology into a new tool to help students learn more effectively by providing a personal learning experience. Of course, like all technology, this has its risks. But Sal believes that generative AI could reshape the classroom for good and help us close the massive learning gap left by the pandemic by supporting students and teachers alike. You can find this episode by following How I Built This. And scrolling back a little bit to the episode titled, when AI is your personal tutor with Sal Khan of Khan Academy or by searching Khan Academy, that's K H A n Academy, wherever you listen to podcasts.
+
+0 (30m 26s):
+Welcome back to How I Built This Lab. My guest today is Kyle Clark, co-founder and c e o of BETA Technologies. It's a company that's building and commercializing all electric aircraft. So, alright, let's talk about how this impacts logistics and delivery, right? Like, I think, I think the two main logistics hubs in the US are Louisville and Memphis. Those are really important hubs, but, you know, a a DC nine or whatever is being flown is still gonna land at L A X or SS f o or whatever these Alia planes, electric planes. What will their role be?
+
+2 (31m 3s):
+Yeah, absolutely. So right now, you're right, it's a radial network where if I ship something from Vermont to Buffalo, New York, it'll go from Burlington to Manchester, New Hampshire to Philadelphia, down to Louisville at the hub, gets sorted along with another five to 8 million packages, and then it'll get sent out to Buffalo, which by the way is only 130 miles from where I sit today.
+
+0 (31m 25s):
+So even if you do like next day air, it's gonna go on three or four different planes before it goes back to Absolutely.
+
+2 (31m 30s):
+Because look, they get, they get to bring everything to the hub and then redistribute it. Now if they're very short range, they drive it. Like if it's going from Hartford to Boston or New York to to, to Hoboken. So, so that, that's a 1300 mile trip from, from Burlington to Buffalo. If you go that route where if you go direct, it's 130 miles, right? So the, the hub and spoke network of yesterday will be replaced by a mesh network of the future where we have already saturated, as you pointed out, Memphis and Louisville, you can't put any more jets in there every night. The jets can be bigger, but the the biggest jets, the seven 50 sevens and the MD elevens, they're already going and outta there.
+
+2 (32m 13s):
+And, and so these logistics companies, the, the express cargo companies, they need a way to grow and and accommodate the growing e-commerce shipping market. Hmm. So, so they imagine, and, and this is what we've been demonstrating by the way, we just completed a bunch of flights with these guys. They, they imagine doing a direct point to point, like I said, a mesh network of the future. What fundamentally enables it is the airplane because not only is it sustainable and all electric, but it's substantially lower cost. And when you put those things together, you can start to rightsize the aircraft and sweat the asset and use it continuously from point to point, from Burlington to Buffalo, Buffalo to New York City, New York to Portland, Boston to Hartford.
+
+2 (32m 58s):
+And, and it starts to kind of hit parody with trucking and the whole logistics world changes.
+
+0 (33m 5s):
+And these aircraft essentially can land in these sort of purpose-built helipad type areas, maybe at airports where they would just be charged as they That's right. As they sit there. And then, so, so let's say you wanna send something from Burlington to Buffalo. What you're essentially saying is that you would, you would maybe drop it off at a u p s store, that u p s you know, a a van would deliver them all to Burlington Airport as they do now, but instead the, the, you know, the packets package is going to, the northeast would be flown to Boston on one of these electric planes instead of going down to Louisville.
+
+2 (33m 42s):
+Yeah. But even better than that. So, so in the near future, the next few years they'll go to the airport only because of regulatory challenges of putting off airport landing sites. But in the next four to six years what'll happen is these aircraft will actually go to the distribution center, which is where the u p s truck goes. They don't even have to go to the airport and it'll go directly from a distribution center. And when there's sufficient package volume between Burlington and Buffalo, they'll fly the airplane directly to Buffalo. And so it omits all the handoffs and the trucks and the airport access. And, and that's, we're gonna get there, it's gonna take a couple steps, like you said, it's gonna go to the airports first, but, but, but that's, that's the future of what we call a distributed mesh network of cargo and logistics.
+
+0 (34m 31s):
+So are you commercializing any of this right now? Ca I mean, you're, are you restricted from commercializing it because you still need f a a approval for, you know, for flying these aircraft and, you know, in, in a commercial setting?
+
+2 (34m 45s):
+Yeah, it's, it's not a yes or no answer. So we are commercializing in the, with the military. So we received what they call a military flight release to get paid to fly for the military. So we're doing that, we've been doing that for more than a year. We've had Air Force and army pilots flying our planes, we're deploying planes into bases and we've flown into bases and, and they're doing operational experimentation. And then domestically, we've been flying trial missions with Amazon and U P s and other customers where we're not allowed to get paid. So we move packages for charity, for example, because we don't have fa certification yet. When we get fa certification, they can use it for commercial hire.
+
+2 (35m 26s):
+But the, the secret little knob there is that we just got regulatory approval to do this over in the Middle East for hire for commercial making money in what
+
+0 (35m 37s):
+Countries?
+
+2 (35m 38s):
+The, the first regulatory letter we have is from the u a e between Abu Dhabi and Dubai. And
+
+0 (35m 43s):
+They're oftentimes like two or three years ahead of the rest of the world and what they're sort of willing to, to experiment with.
+
+2 (35m 52s):
+Yeah. and you know, it's neat. It's, it's a fascinating thing where here in the US when you go and you and you propose a new thing in a regulated environment, the first question is, is how does that relate to our entire, you know, mental inertia and prejudice of what regulation means in the context of what's already been certified over there. They ask the simple question like, prove to me it's safe, it's reliable for the mission that you're going to do. And you're not trying to redefine what a turbine engine is. They're looking very forward here. We kind of compare it to all the stuff we've already done first before we can move forward. So they just fundamentally move faster in a regulated world.
+
+0 (36m 30s):
+And right now, are there any operational charging stations or, or, or not yet.
+
+2 (36m 36s):
+Yeah, absolutely. We've built a network for all these test flights that goes from here in Vermont down to Arkansas. We've commissioned a bunch down the east coast and right now we're building a network that connects Texas to Florida and Wow. And so we have about 105 permits around the country for charging stations.
+
+0 (36m 52s):
+And are they at airports or near airports?
+
+2 (36m 55s):
+Yeah, they're predominantly at airports. and you know, the neat thing is we put a charger in and then we put a dispenser like the, the part that plugs into the vehicle on the airport side and on the parking side. And we have been flooded with people who go to the airport to use a super fast charger. 'cause it's, you know, it's higher power than a Tesla super charger to charge their cars or their trucks or their package delivery vans. Wow.
+
+0 (37m 19s):
+So realistically, what, what is the timeframe? I mean, you know, this future, we're talking about having these short hops, 250 mile hops where packages are delivered, maybe even humans are delivered on, on, on these all electric planes. I mean, they fly, I think you've, you've had 22,000 lifetime miles on these aircraft. So they work, you know, they work, you've flown them all over the United States realistically. Do you have a sense, like, are you able to say, you know, by 2025 this is just gonna be normal, it's gonna be like, you know, like the internet just I'm anticipated 20 years ago?
+
+2 (37m 57s):
+Yeah, absolutely. I mean, look, I, I'm at the risk of sounding too optimistic. By 2030 you'll see more electric airplanes in the air than gas powered airplanes. And when you walk into our production facilities, people walk in and they're like, what are you doing? Like, how could you, you're proposing to build more airplanes out of this facility than the largest producer of general aviation aircraft right now. And I'm like, of course we are. And if you walk into our facility, you'll see it'll be the largest net zero building east of the Mississippi. And, and we're turning it on here in a couple months and we're already building conforming product. And, and, and those aircraft will go into type certification testing and yes, by 2025 they're doing commercial operations here in the US and, and then we just basically build them as fast as we can.
+
+2 (38m 46s):
+I mean, we have a 600 unit backlog right now. Right. We, we have to, we, we have to, our, our biggest impediment right now is ourselves and, and we're working our tails off to industrialize this, put these aircraft in the air and like there's a line around the block to get 'em. Like I said, it it is, it is amazing. And, and it's not complicated why, you know, you're at a six to half the cost of flying gas powered airplanes and you're doing it sustainably. The the, the aircraft doesn't need much more than that. And,
+
+0 (39m 17s):
+And, and I guess you don't really have to worry. I mean, are you, are you thinking about, you know, cross country, you know, a a range that could, you know, 3000 miles? Or is that just
+
+2 (39m 28s):
+Absolutely, yeah, I mean look here, two two comments on that. It is just a matter of time. Anybody who's gonna pretend that the, the everything that can be invented has been invented, then they, they shouldn't be in, in in technology. Right? We aren't that smart yet. We're getting smarter every day, therefore battery energy NC is gonna go up. But here's the interesting thing, it's an entire new paradigm in aviation because when you buy an airplane, it's worst performance will be on its first day. And every year when you put new batteries into that, you, you get better performance. And then, and then if you say, I'm not gonna put batteries in this year, I'm gonna put a hydrogen fuel cell, I'm gonna put a hybrid system in. Yeah. We're flying thousands of miles already with that technology.
+
+2 (40m 13s):
+And, and now you put it into something that has this ever increasing adoption of, of, of energy storage mediums. It, it's a fascinating new paradigm in aviation. So we absolutely will be flying coast to coast. I mean, I know I'm an evangelist. I'm, I've recognized that I'm about to jump through the microphone right now 'cause I'm so excited about it. But it's, it is, it, it's, it's an entire new paradigm that people are in some cases in denial of because their businesses don't allow 'em to accept it yet. Hmm. and you know, the other thing that I think people are under appreciating is when I take people up in the electric planes and they get in it, and the propeller remember is, is 20 something feet behind you and the windows go from your forehead all the way down to your feet and it's silent.
+
+2 (40m 56s):
+It's silent inside the cockpit. Yeah. So you lose the claustrophobia, you lose that anxiety from all the noise and the percussion of the, of the propeller and it's beautifully quiet and the visibility and the, you can hear the air coming over the wings and over the fuselage and you feel like a bird. I know that sounds corny, but you can hear the wing stay like near a stall and then you bring it down, you go faster and it starts accelerating. It's like you don't even need an air speed indicator 'cause you just feel the plane strapped to your shoulders, which you never get. You get it in a glider sometimes, but, but in an electric airplane it's magical. And, and, and nevermind how good it feels to me for passengers that are flying these in the future. They're not gonna be like, oh God, I gotta go in that beating drum of a claustrophobic plane.
+
+2 (41m 40s):
+They're like, this is awesome. Yeah.
+
+0 (41m 42s):
+How much of an impact can this have on reducing carbon emissions?
+
+2 (41m 49s):
+Look, if, so, so cars are going electric scooters, motorcycles, marines going electric rail went hybrid a long time ago and it's incredibly sustainable. Aviation has this bow wave of unconsumed technology and we prioritize weight and performance over sustainability. And so unfortunately we operate in this cognitive dissidence as aviators that we're doing something good as we fly around the country. But what we're doing is we're using 1960s technology and turbines and, and jet engines and we're polluting the environment. And even with leaded fuel in piston engines, right? So, so with that as a foundation and the fact that new technology isn't being adopted by 2035, if we don't do anything about aviation, it will be the biggest producer of carbon emissions and transportation.
+
+2 (42m 35s):
+We're doing something about it, right? Not only that, as we, as we get to higher, higher and efficiencies and battery energy den goes, go get better and better, we start to capture more and more of aviation. Not only do we curtail that awful trajectory it's on now we start to bring it down to one of the most sustainable modes of transportation because it doesn't require all this infrastructure and other things. And the last little bit there is you have to charge it in a sustainable way. So, you know, part of our, the reason that we own the charging network is so that we can control where that energy comes from and that we're charging it in a clean way. I mean, I mentioned briefly that we built a a net zero manufacturing facility.
+
+2 (43m 15s):
+Our job as millennials is to turn the corner on climate change. And, and we're not gonna do it with our head in the sand. And so how big of a difference can it make you ask? It is the biggest difference that we can make as a company and I can make as a person. So a big difference.
+
+0 (43m 29s):
+Kyle Clark, thanks so much.
+
+2 (43m 30s):
+Thank you.
+
+0 (43m 32s):
+That's Kyle Clark, c e o and founder of BETA Technologies. Hey, thanks so much for listening to How I Built This Lab. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show. This episode was produced by Sam Paulson with music composed by Ene Arablouei and Sam Paulson. It was Edited by John Isabella with research help from Casey. Herman. Our audio engineer was James Willetts. Our production staff also includes JC Howard, Alex Chung, Kerry Thompson, Elaine Coates, Neva Grant, Chris Masini, Carla Estevez, and Ramel Wood. I'm Guy Raz and you've been listening to How I Built This Hey Prime members.
+
+0 (44m 20s):
+You can listen to How I Built This early and ad free on Amazon Music. Download the Amazon Music app today, or you can listen early and ad free with Wondery Plus in Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built This merch and gear at Wondery shop.com. Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.

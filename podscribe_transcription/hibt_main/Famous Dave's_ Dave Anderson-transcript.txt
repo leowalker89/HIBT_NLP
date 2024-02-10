@@ -1,0 +1,590 @@
+1 (1s):
+This message comes from NPR sponsor Adian the future-proof payments platform. Welcome all payments be on The Cutting Edge of customer experiences and grow your business with Adian. Visit a dyn.com NPR to learn more. Hey, really quick before we start the show the how I built this book is now a New York Times and Wall Street Journal bestseller. So thank you to all of you who ordered it and for your support of this show if you haven't picked it up and you want to learn Learn the secrets of how to develop an entrepreneurial mindset how I built this the book is for you. It's now available wherever books are sold and in most countries around the world or by visiting how I built this.com or guy Roz.com and thanks.
+
+1 (52s):
+Did you give it the name Famous Dave's as kind of a joke because you weren't get famous.
+
+3 (57s):
+Right? Well on the road out of town. There's like Dave's guns Dave's antiques Dave's boats. So I was going to name my place Dave's famous barbecue shack. I get my business cards and it said Famous Dave's Barbecue. I am mad can't believe the printer messed up my business cards and my wife today's calm down. Why don't you just leave it? So Famous Dave's the rest is history.
+
+1 (1m 34s):
+From NPR is how I built this show about innovators entrepreneurs idealists and the stories behind the movements they built. I'm guy Roz and on the show today have a passion for smoked ribs LED date Anderson to open a barbecue shack in the middle of nowhere and how it grew into Famous Dave's one of the biggest barbecue chains in the country. So most of the biggest restaurant chains started in small places McDonald's was born in San Bernardino, California Domino's in Ypsilanti, Michigan Sonic Shawnee, Oklahoma Arby's Boardman, Ohio.
+
+1 (2m 20s):
+There are a number of reasons why this is the case. There's usually less competition. The rent is lower and if what you're offering is new or different people will stand in line for it. As they did at the original Boardwalk fries in Ocean City Maryland, which is how a franchise company with more than a hundred locations nationwide. They stood in line the chicken salad chicken Auburn Alabama, which now has a hundred forty stores same with Five Guys in Arlington, Virginia and Empire of more than 1,500 locations today. And as you will hear in the mid-1990s people came from far and wide for some of the best.
+
+1 (3m 2s):
+The pit barbecue they ever had and it wasn't in Texas Hill Country or Eastern North Carolina. But rather in Hayward, Wisconsin a town of 2,300 people in the northern reaches of the United States where in January it can get down to minus 17 degrees. This is where Dave Anderson after years of trying out different business ideas decided to open Famous Dave's Barbecue in Any for today Famous Dave's has about a hundred and twenty five locations nationwide making it one of the largest barbecue chains in the country, but the story of Dave's is also a story of how a simple passion for serving smoked ribs chicken and brisket can grow too big and too fast and how a Founder can almost lose complete control of a good idea Dave Anderson grew up.
+
+1 (4m 2s):
+Up in a working-class family in Chicago in the 1950s and 60s both his parents were Native Americans who grew up on reservations in different parts of the
+
+3 (4m 12s):
+country. My dad's a full-blood Choctaw Indian from Idabel, OK Oklahoma, and if you were to look at a map of Oklahoma, you would see that Idabel is in the Southeast corner of Oklahoma, which is way down south and then my mom is from the liqueur a reservation, which is way up North She's a member of the liqueur a Lake Superior band of Ojibwe.
+
+1 (4m 38s):
+So she grew up in Wisconsin. He grew up in Oklahoma. And how did they meet
+
+3 (4m 43s):
+both of my parents? I think is you know, the unfortunate part of my story where taken by the Bureau of Indian Affairs away from their families and stuck in Indian boarding schools. Basically making orphans out of them now fortunately for me though, my parents met at Haskell Institute for Indians and Lawrence
+
+1 (5m 3s):
+Kansas, so both just a cliff. I said both your parents grew up on Indian reservations. They met at a boarding school that I guess was where Indian kids from across the country where brought to I don't know
+
+3 (5m 16s):
+basically the mainstream on because yeah my dad when he was brought in to a boarding school didn't speak English. She was constantly a Choctaw speaking Indian and when he got put into these boarding schools he can remember Were actually being beat and having his mouth washed out with soap until he would forget his language and only speak English didn't happen in Abraham Lincoln's day or George Washington's day, but this generation my parents. I think that's a story that sometimes people in America never here.
+
+1 (5m 53s):
+No, they don't what did your dad do for a living when you were a kid?
+
+3 (5m 57s):
+My dad was an electrician and my mom was a secretary she Worked as a secretary. So I was like a lot of kids that lived in a working-class neighborhood and we didn't have a lot but we always had food on the table. I think growing up though. I always knew that my family was different because when all the other kids are going out for pizza and hot dogs, especially in Chicago being a great pizza town and Chicago hot dogs. My dad would load us up into the family car and we were headed down to the south side of Chicago for ribbed. And growing up. I knew every black own barbecue joint in Chicago and I can remember as early as 1959 eating rib tips at Lems barbecue and 59 that State
+
+1 (6m 47s):
+Street. Yeah, I mean Chicago became obviously hugely important as a barbecue Capital because of the Great Migration so many African-Americans who migrated out of the Jim Crow South moved to Chicago. And brought with them their culinary
+
+3 (7m 4s):
+Traditions, you know, they also brought Blues what a great combination and so Chicago throughout the years has always been known as a great Blues town and also great barbecue
+
+1 (7m 17s):
+tape as a kid. Did your mom and dad in still strong Indian values in you? Did you did you have a strong Indian identity as a
+
+3 (7m 26s):
+kid? You know growing up in a Native American family. We were cognizant that we were America's first people. My dad was very proud of as Choctaw Nation. My mom was proud to be from the liqueur a reservation and for us that got carried over in that we ate Indian foods. My dad was very insistent that he had his foods from the south my mom. She was growing up. She did a lot of fishing and she harvested wild rice. And so throughout the years. My dad would always what I almost called make pilgrimages down to the South so he could get his banana, which is a corn type of bread, you know, almost like a tamale wrapped up in corn husks.
+
+3 (8m 17s):
+And then my mom would always take us fishing up north and we would Harvest wild rice and but more importantly to raise money. E for the family my parents would have a Indian frybread stand and my dad would Grill and smoke up venison. My mom would make Indian frybread and also wild rice soup, but we would sell venison fry bread sandwiches along with bowls of wild rice soup. I think attending Indian powwows with my mom where we would have this Indian frybread stand really taught me a lot about cooking cooking Outdoors, but also, So the appreciation for foods that are harvested naturally being able to harvest wild rice fishing and all of those are experiences that I think throughout the years of always carried over to me.
+
+1 (9m 10s):
+How are you as a student? And how was school difficult for you or were you pretty good student?
+
+3 (9m 18s):
+I was not a good student. I thought I was the dumbest kid in class. You know, I I can remember my dad sitting me at the kitchen. kitchen table I would have a blank piece of paper in front of me and I would cry because I didn't know what to do and it wasn't until years later that I found out that I had attention deficit disorder which explains a lot, you know explains why I was bouncing around all the time and you know back then I don't think there was a name for attention deficit disorder other than your problematic kid, you know, if it wasn't for an art teacher telling me he said Dave he I know you struggle in the rest of your classes.
+
+3 (9m 60s):
+He said but when I watch you you may not be the best artist, but you see things that other people don't see, you know, I would have never heard that from an English teacher. I'd never would have heard that from math teacher and that really stuck with me all these years. I'm able to see things other people don't see I'm able to visualize I'm able to see where things can go
+
+1 (10m 23s):
+you clearly high school was not a good school was not Not did not come easy for you and was challenging for you. And I guess when you were 18, you kind of had your first experience with entrepreneurship something about selling fuel additives or some what was that tell me about that.
+
+3 (10m 42s):
+So I was right out of high school and that year I had gotten a call from a friend who said Dave. Do you have a suit? Of course? I got a suit. He said put your suit on picking. Up. So I put my suit on. I have no clue what's happening. We drive to a beautiful hotel near O'Hare Airport and he still won't tell me what's going on. And then we go on to the lower level we go into this beautiful room, and there's a lot of people in there and he said you are about to witness one of the most incredible things you'll ever see and then all of a sudden the most dynamic person comes Zout and starts telling all the people in this room.
+
+3 (11m 30s):
+That's incredible Story how it doesn't matter where they've been what they've been through or what they think of themselves. They can be successful. And this person was none other than Zig
+
+1 (11m 42s):
+Ziglar the famous motivational speaker six.
+
+3 (11m 45s):
+Yeah, I mean listening to Zig Ziglar share how I could become an entrepreneur selling oil additive and gas conditioner. And I never heard anybody so motivating. So inspiring telling me that I could be successful. So go home and my dad asks why put on a suit and Where'd I go? I said, you know, I heard the most amazing thing that I could be successful. I could all my own business and I said dad you got to hear this guy. He's having another meeting tomorrow night. Would you please go with me? I begged them so he goes with me.
+
+3 (12m 26s):
+The the next night and hear this guy sounded like my dad. This guy was from Yazoo City, Mississippi. He spoke with a Southern accent. He said it doesn't matter where you come from doesn't matter what you've been through anybody could succeed in my dad was blown away to our the first time. He thought his son maybe could be a businessman maybe you know, and it's oil conditioners that's do with a car and maybe my son can do that.
+
+1 (12m 57s):
+So you went to see Zig Ziglar speak? And by the way, we had Holly Fagor Don who founded supergroup who also was influenced by his tapes. How did you find this opportunity to get involved in selling a fuel additive was that connected to Zig Ziglar was at completely separate?
+
+3 (13m 16s):
+I think Zig Ziglar was the spokesperson for our multi-level company got it cost $2,500 to join now $2,500. In 1971 was a lot of money my dad for the first time realize that his son who wasn't the best student who barely got through school who had ADHD. Maybe this was something that he could do. So my dad had some savings and then he borrowed some money to give me this
+
+1 (13m 49s):
+chance what just out of curiosity. What was the product tell me what the product that you were trying to sell
+
+3 (13m 56s):
+it was called. Steed conditioners there is a gas additive which major car run better. There was an oil
+
+1 (14m 5s):
+conditioner, right? And did you have success selling it?
+
+3 (14m 11s):
+I don't think I sold one case of the stuff. My dad had a garage full of Steed oil and gas conditioners which never went away. I didn't sell anything. But here's the thing part of this opportunity was so we had to go through a five-day how to sell training program that training program changed my life and because part of the training program every day was they would tear down everything you thought about yourself and then they would build you up.
+
+1 (14m 44s):
+I read that you even you would like standard for of a mirror and practice shaking hands to gain confidence as a Salesman would you do
+
+3 (14m 52s):
+that? Yeah, because you know growing up. I was really probably the shyest bashful kid in class and here I am trying to be a Salesman and so for years in my dad's basement. I stood in front of a five dollar mirror that I got from Kmart and I had a candle and I would say ABC and I tried to put the candle out with my voice and I would practice smiling in the mirror today. Everybody thinks I'm I think I've got a good smile. Well, I worked at that smile. In fact, I even would wink at myself but these were the things that I did because I realized I had to change who I was I had to go from being a shy bashful dumb kid into being somebody that could go into Roman be able to share a story being able to tell somebody who you were
+
+1 (15m 47s):
+huh, but meanwhile the gas conditioner business did not work out and I guess you you then got like another job working at a at a new store location for Eddie
+
+3 (15m 58s):
+Bauer. Right? And that was that was a pretty important turning point in my life because I helped open up a brand new store start to finish which would help me later on in life, but I went over there and the significant part of this is that not only did I meet my wife there who is selling men's wear. Eddie Bauer that's kind of how I get into selling terrariums. Wait terrariums. Yeah. There was a young lady there who was selling these little bubble balls at Christmas that had Partridge berries in what they call Princess Pines wrapped in some moss and I never seen anything.
+
+3 (16m 42s):
+So so beautiful. Well, she had said that she just couldn't go out and sound and said, well I can sell and so on my own time when I wasn't working at 80 Bauer I would go out and I would go to a flower store and show me these bubble balls and they like them then I realized that I should be doing this for myself. So I started making my own line of terrariums in planted
+
+1 (17m 11s):
+dish Gardens and you would just make them yourselves. He would just make the little garden inside the balls.
+
+3 (17m 16s):
+Yeah, you know, I actually had a corner in my dad's basement where I would be These huge bags of dirt and sand and other ingredients to make the right dirt for these terrariums and then my dad being electrician set up a whole line of grow lights and his basement. So I started bringing in hundreds and hundreds of
+
+1 (17m 43s):
+plants. How did you know what to do? You just kind of figured it out. How did you know how to make them look
+
+3 (17m 47s):
+nice? Well, I think it goes back to my art teacher who said Dave you see things. Other people don't see so I think I had this ability that I could take these little plants and arrange them so that there was almost this sort of magical feeling to them, you know, they were alive they had color and and I was able to arrange them so they really look special and I think that's what the florist you know saw when I would bring my samples and they saw something that was really special.
+
+1 (18m 18s):
+So, so did you start to make some sales?
+
+3 (18m 21s):
+Yeah, the First time I have my own samples I go to Richard link floors and I got my first order from mr. Ash met Richard Lang florist. And that Mother's Day. I went to his flower shop because I knew it was going to be busy. And you know, what a lot of people don't realize is that Flores unlike retail store that can order toys three months in advance Flores have to work like days Around the Clock. Talk because it seems like everybody forgets have a mother until Mother's Day. But all of these flower arrangements have to be fresh. So I went to him and I help them.
+
+3 (19m 2s):
+I busted down his boxes. I swept his floor. I even cleaned his bathroom for him and that I helped him deliver flowers. And after that Mother's Day everybody's exhausted he comes up to me and he said here put this in your pocket and he hands me a fist full of cash and I said Mr. A strike. I can't accept this I came here to help you because that's how grateful I am. You gave me my first opportunity. Mr. Ashton couldn't believe that I would work for nothing and he went and told everyone of us florists that he was good friends with you said you got to meet this kid.
+
+3 (19m 42s):
+He's a hard worker. He's got beautiful stuff give them a chance give them an opportunity. So after that first summer, I had almost every major retail fluorescence. A
+
+1 (19m 53s):
+Chicago. Wow buying your terrariums
+
+3 (19m 56s):
+find my terrariums planted this Garden.
+
+1 (19m 58s):
+Yeah. So are you starting to feel pretty confident about the
+
+3 (20m 2s):
+business? Well, you know part of my story is that I'm Native American just started out in business. My parents don't have money. I don't have money my business is growing and I can't get a bank loan. I must have pounded the streets of Chicago. I went to bank after bank and always got Down you got to have assets you got to have collateral and I said well I'm starting out. I really don't by the way what what's an asset. I mean, I would have stacks of orders and I would go into a bank and I wasn't able to get anywhere but something else.
+
+3 (20m 42s):
+Mr. Ashton or shared with me one day. He said, you know Dave if you really want to get ahead. You've got to join the local Chamber of Commerce. So I just just up and I went to a chamber of commerce meeting and here every mover and Shaker in the community that was in business was there and they always had a speaker and so I like that I joined, you know, my local Chamber of Commerce and I was there religiously, in fact, I started helping set up and one day I was at a chamber of commerce meeting in a one of the presidents of the bank.
+
+3 (21m 23s):
+Actually after meeting his name was gerhardt boom. Laughs he was the president of the Bank of Chicago on Wilson Avenue. He said Anderson Jim a Schnur speaks highly of you. He said I'm having a promotion at my bank this Saturday. How would you like to set up in our lobby? I'm going to have somebody on the other side pass out hot dogs and balloons and popcorn and you can sell your dish Gardens. So the next morning I show up at the bank. I set up and I sell out. Wow, I'm packing up my boxes and about ready to leave in the president of the bank gerhardt Loom Loft uses Anderson.
+
+3 (22m 3s):
+He said I want to see you in my office. I am sweating bullets. I think I must have pissed off one of his customers and I start to go back to his office and I have never seen a desk as big as this desk and he says pretty good job, Andy. I heard about your dish Gardens and you really did a good job with my bank clientele here. He said I also understand that you're looking for a loan. I said, yes, sir. He said well, how much do you need? I said $10,000 and he was looking at me since well, what kind of assets do you have? My heart sunk.
+
+3 (22m 44s):
+I knew I was going to get my loan. I said well sir, I don't have assets. I figured I had a you know net worth of $400. And he didn't say anything for quite a while. He sat there looking at me. Finally. He reaches down into his desk drawer. He said we don't usually do this, but I just watched you today sell out every one of your products. He said I'm going to take a flyer on this and with that he wrote out a check for $10,000 on my signature alone. Wow.
+
+1 (23m 23s):
+And obviously any you were really able to grow this business. I read that like at a certain point you were doing more than like three hundred thousand dollars in Revenue a year and you hired a bunch of people, you know, you got employees, but then I guess it ground to a halt a it eventually like when under what
+
+3 (23m 44s):
+happened. Well Act of God, he like a rod explain the other than the Chicago blizzard of 1979 look, Up, you will see snow that goes over the roof of cars. The mayor of City of Chicago could not clean city streets for three months because of that blizzard that snow storm that just created a gridlock in the city of Chicago. A lot of businesses went bankrupt and in the flower business. I had a whole bunch of floors that could not pay me at all and then four months no orders
+
+1 (24m 21s):
+at that time. You were in your 20s. Were you married? Yeah teach you have kids at that point when you were when you have the terrarium
+
+3 (24m 28s):
+business. I we just had one young son James and you know, a lot of people don't realize when you can't pay bills, you know back then I was digging through seat cushions to find change just so I could buy my kids milk. It was tough. It was just so tough that because the snowstorm I ended up going bankrupt.
+
+1 (24m 53s):
+Everything because of that. Yeah. So this is the early 1980s and and when that business collapse, I guess because she worked at a few other jobs in sales before you landed a Consulting gig with a Native American tribe in Wisconsin. What what kind of what kind of business do they have that they need help with?
+
+3 (25m 16s):
+Well, it was my mom's tribe the like Superior band of liqueur a right Ojibwe. They get called me up and they said day. Dave we understand that you owned your own business in Chicago. We could really use your help. They had a cranberry Marsh. They had a Logging company. They had a construction company that was building houses for Indian people. They had a grocery store. They had a printing company. They had a gas station and they had a bingo hall but one of the things I noticed right away was every time I was in one of these businesses. We were failing we were losing Money like water flowing out of us if hundreds of thousands dollars easily a half a million dollars a year we were losing and then I realized that the problem was is that with any of the people working Within These businesses.
+
+3 (26m 7s):
+They didn't think successfully they didn't talk about
+
+1 (26m 10s):
+achievement. So they wanted you to help them kind of turn their businesses around and you kind of realize that that morale was actually the biggest problem. It wasn't mismanagement it. Wasn't but morale was the top
+
+3 (26m 26s):
+challenge not just morale just the basic understanding of thinking successfully. Yeah, they didn't talk about profits. They didn't talk about achievement. That's when I called up Zig Ziglar. I said Sig remember me? You met my dad where the Native Americans from Oklahoma might gets Choctaw is I remember you Dave. I said, I would like to bring 20 of my managers and my assistant managers. Down to Dallas, Texas to go through your born to an course. So I bring this group down there I come back and boy did I catch holy how the tribal leadership comes to me and said we heard you took all of our managers down to Happy Camp.
+
+3 (27m 10s):
+We could have used that money to have groceries for the poor. We could have built roofs of the elderly I said, yeah, but you're failing in your business is because nobody thinks about success
+
+1 (27m 22s):
+and when they came I'm back from the Zig Ziglar experience or sessions like the team that you brought there. Were they transformed
+
+3 (27m 30s):
+very much. So we had a group of natives business people who went from doing a job to becoming entrepreneurs in a way that really wanted to be successful in their businesses and within three years. We turned around all the businesses. We're now making money. We now have accountability and we got I spy President Reagan's commissioned an Indian Reservation economies as being one of the top eight most Progressive tribes in the country.
+
+1 (28m 3s):
+So on I guess on the strength of this success you you decided to go and get more education you decide to do a master's degree in the mid 80s. And by the way, just because we didn't talk about this much. You actually went to college back in the 70s. You want to Roosevelt University in Chicago. Iago but you never finished but still you went and pursued a master's degree in public administration at Harvard had that happen.
+
+3 (28m 32s):
+Well kind of what happened for years. I mean years, I would enroll every fall religiously I would roll in school and I always dropped out. I mean, I think if you went back and looked at Roosevelt universities records you'd laugh because you'd see enrolled dropped out enrolled dropped out. I just could never make it. I think what made the difference for me at Harvard was I was able to take the courses that I wanted to take and I took courses that I understood because once you get into any master's program in Harvard or any graduate program, you can basically go to any school there and take a course.
+
+3 (29m 17s):
+So having worked for a tribe. I really flourished in a course that had to do with Community Development, and so I was able to design a course that really made sense to me and I was passionate about it. And I did well, I I I mean, in fact I did really well so by then I'm starting to understand that maybe I'm not as dumb as I thought
+
+1 (29m 43s):
+so in 1986 you get your degree from Harvard or master's degree and and you are then I guess sort of recruited by another. Their tribe in Minnesota to help them with their bingo operation and this is like early days. I mean sort of Indian casinos and Indian gaming was still in kind of its nascent phase at that point. So tell me what you what you w get there and they were they had like bingo parlors there that and that was a how they were making some of their money
+
+3 (30m 17s):
+right and I didn't know a thing about Bingo but again, you know, one of my strengths is seeing things that other people people don't see so I'd watch as bingo game and I would see generally ladies and some guys all the guys that come to bingo, you know, spend a few dollars and have a good time and I got to thinking, you know, some of these gals really spend a lot of money playing bingo. So I asked this other guy who was kind of helping me. I Said Fred I said, what do you think they spend here? Sometimes he said, you know, they may spend anywhere from $20 to $50. I said really well this place. This can hold 400 people. Where was it held it wasn't a skating rink for kids and I said why don't we hold a big bingo game because back then the bingo games generally had a jackpot $1,000, but I was thinking well if I could fit 400 people in here and they spent $50 that's $20,000.
+
+3 (31m 17s):
+So I Said Fred, why don't we offer a 20,000 dollar jackpot and he Looked at me like I was crazy. I said I think we can do it. I said if you were to have $20,000 bingos, what do you think? They would pay? You said? I think they'd spend $100 and said great. Let's charge $100 and see if we could sell
+
+1 (31m 37s):
+it and two people I mean $20,000 jackpot. I'm assuming it's attracted attracted people to the bingo hall.
+
+3 (31m 43s):
+God wait, we now have only sold out we had people they were like banging on the door. We literally had to lock the doors and we had hundreds of people. Standing outside with that wanted in and that's a really kind of started my being known in Indian country because then I started like a Consulting business that I would help other tribes figure out how to do big bingos and I was doing a consumption Consulting for the Mille Lacs Drive in the tribal chairman came up to me said I foresee that casino gaming is going to be a big thing. Could you help get us started?
+
+3 (32m 25s):
+And so we were able to put together a financing group? So I was one of the original founders of grand casinos.
+
+1 (32m 33s):
+And so all these casinos were on Indian tribal lands.
+
+3 (32m 37s):
+We started out that way and then we got to be so successful. We actually took Grand casinos public. So that's the first time I was part of a company that went public wow, and we went on to build eight casinos all over the The ACT also built Stratosphere. I'll transfer
+
+1 (32m 57s):
+the the hotel in Las Vegas. Yeah. So this is kind of a turning point. It sounds like a pretty significant turning point in your life because I'm assuming that really for the first time you actually came into some significant personal wealth.
+
+3 (33m 12s):
+Yeah, but we were also helping tribes become successful in emerging gaming markets, but I want to be careful when I say this because Because not every tribe does really well with Casino gaming. Yeah, there's a lot of small tribes that have small gaming Enterprises. But the one thing they're able to do is keep people employed and there's probably only a handful of tribes that really have come into significant wealth, but a lot of these tribes also help other tribes because now there's access to Capital
+
+1 (33m 49s):
+but I guess kind of in the early 90s or maybe the mid-90s. You assert decided to take yourself out of the gaming World. Why what
+
+3 (33m 59s):
+happened? Yeah, I can remember the day that Stratosphere opened my wife and I were in a limousine on the bottom watching this wonderful skyscraper casino that really changed forever the skyline of Las Vegas, and I said, I think I'm going to leave tomorrow. Wow. I didn't want Casino gaming to be Be what I was known for in life. I really was a Native American. I was an entrepreneur. I really don't want my kids to think that gaming was where Dad hung his hat and life. And yeah, that's when I made the decision to quit.
+
+1 (34m 39s):
+So I guess I mean as you were, you know, you were working for Grand casinos, but in in the back of your mind, it's in like the mid 90s you started to come up with an idea for a barbecue restaurant, and I know you had Obviously a BBQ fan and you know, I know your dad was really into barbecue and would take you to places in the south side of Chicago. But were you always kind of experimenting over the years with like building fires and smoking meat and Grilling meat like people knew you as the guy who made great barbecue.
+
+3 (35m 12s):
+Well, I can remember it was still in grade school, but I had come home and my dad was home and I can remember opening up the porch door and I was just overwhelmed by this Aroma and he had been to the south side of Chicago. He had gone to one of his favorite barbecue joints and see my dad pulling this rack of ribs out of his lunch bucket that was wrapped in newspapers. This was the real deal real wood real Flames real fire and I tasted that rib, and even though I've been eating barbecue all these years.
+
+3 (35m 53s):
+It was that day that time that rib, I'm going to learn how to make our meeting.
+
+1 (35m 59s):
+Why did you want to open up a restaurant?
+
+3 (36m 2s):
+Well, I don't think I started out that I wanted to open up a restaurant. I just wanted to make great barbecue and so I started inviting friends over to my cabin and say hey, why don't you guys come over this Friday and I'll cook you up some barbecue. Yeah. They said sure So then they start showing up and they'd say oh my God gave this stuff's phenomenal your open up your own Rib Shack. Well, the more that happened finally the dream started to come together and so in the North Woods of Wisconsin, I started building
+
+1 (36m 37s):
+this Barbecue Shack. So wait you you decide I'm going to open this up. I think it you opened up in Hayward, right and was Hayward, Wisconsin as I right
+
+3 (36m 45s):
+Hayward Wisconsin low town of only 2,000 people.
+
+1 (36m 48s):
+I mean, let's just be honest most people when you say, Wisconsin, I think southern barbecue.
+
+3 (36m 55s):
+No Wisconsin's all about bratwurst and cheese.
+
+1 (36m 58s):
+Right? Exactly. Right? It's Brower some cheese and and did anybody say to you? Hey, you know, you make great barbecue Dave, but they're two thousand people in this town how you gonna make this a sustainable business. I mean, did anybody say that?
+
+3 (37m 14s):
+Um, as I was building my Barbecue Shack people would drive by and say hey Anderson, what are you doing? I said, I'm building a rib shack. Jack hey literally would laugh at me and they would say are you crazy Hayward, Wisconsin? Why don't you go down to Memphis or Kansas City Nashville some place down south would become really no barbecue is you got to be nuts
+
+1 (37m 40s):
+coming up after the break why Hayward Wisconsin turned out to be just the launch pad the Dave needed to become famous and how that first restaurant fueled an aggressive expansion the Broke the business stay with us. I'm guy Roz and you're listening to how I built this NPR. Hey everyone, just a quick thanks to our sponsor Invesco. Who knows the world is propelled forward by the ideas of inventors scientists and Engineers. So they created a way for ordinary people to invest in the innovation of the future with Invesco QQQ consumers have the opportunity to access a hundred of the largest non-financial companies on the NASDAQ in the last four months companies and invest goes QQQ.
+
+1 (38m 35s):
+Have used algorithms to help doctors understand the coronavirus and implemented a low contact Airline experience to learn more visit Invesco.com QQQ.
+
+3 (38m 47s):
+There are risks involved with investing in ETFs including possible loss of money ETFs are subject to risk similar to those of stocks and investment cannot be made directly into an index before investing consider. The fund's investment objectives risks charges and expenses. Is it
+
+1 (39m 5s):
+Invesco.com for a prospectus with this information read carefully before investing Invesco Distributors Inc. After months of campaigning, we are finally on the cusp of knowing what happens next in the White House and in the halls of Congress, the NPR politics podcast will be there with you every day with the latest results will tell you what you need to know in these uncertain times. Hey, welcome back to how I built this from NPR. I'm guy Roz. So it's 1994 and Dave Anderson has decided to open up a barbecue shack in the little town of Hayward Wisconsin and he set himself a pretty high bar
+
+3 (39m 54s):
+before I even open the doors. I had already determined that I was going to have the best ribs. I was going to have the best honey buttered corn bread the best barbecue baked beans I had this list and you know, I started Not with my dad's recipes, but I visited every barbecue joint every time I was going anywhere. I always look at who have barbecue joints in town. I learned things. I liked how somebody did their corn bread or I liked maybe how they had one type of sauce how they were doing the briskets and guy. I know you've been all around this country. And if you were to tell me that you know for a fact they have better coleslaw and Anchorage Alaska I will be On a plane today.
+
+3 (40m 38s):
+I will be flying up to Anchorage Alaska and by tomorrow night. I will have stolen it recipe
+
+1 (40m 44s):
+but I mean you I mean you knew like you had recipes because you were you were making barbecue like from the time you were a kid, right?
+
+3 (40m 52s):
+Yeah. I can remember even back then. We were the first family on our block that had a charcoal grill. And so I started learning how to grill foods and and then I wanted to smoke things and we Didn't have a smoker. So I took a an old trash. Can I cut a hole in the bottom? I took rebar put it across so I could put my ribs on top of that. And so by time I open Famous Dave's I actually have been working on my recipes for 20 years because you know, the ingredients that you use to create the sauce has the seasonings barbecue is not easy.
+
+3 (41m 33s):
+It's hard because the to make a good barbecue sauce. Sauce, you know, it's almost like Chinese cooking. There's a lot of flavors involved in making a good barbecue sauce. It's our it's got a robust spiciness to it. It's sweet and then there's different forms of sweetness to it. You've got your brown sugars. You have your honey's you've got your fruit sauces. There's a lot of nuances to making great tasting barbecue sauce. And I think especially when you're creating robust flavors that heat is very Important a lot of people may not realize this but every menu item at Famous Dave's is hot.
+
+3 (42m 13s):
+My coleslaw has a bite. My beans have helped. He knows in them. Yeah that heat opens up The Taste Buds and that's when you really can. Enjoy the full flavor of my cooking.
+
+1 (42m 24s):
+And did you give it the name Famous Dave's as kind of a joke because you weren't get famous.
+
+3 (42m 29s):
+Right? Well the road to Famous Dave's not only are we in a small town, but I was also eight miles out of Of town and on the road out of town. There's like Dave's guns Dave's antiques Dave's boats. So I was going to name my place Dave's famous barbecue shack. We're getting ready to open. I get my business cards and it said Famous Dave's Barbecue. I am mad. I can't believe the printer messed up my business cards and my wife and all her wisdom said Dave calm down. Why don't you just leave it? You know, we're about ready to get Open just leave it. So Famous Dave's the rest is
+
+1 (43m 11s):
+history. Wow, I read that like you were obsessed with all kinds of things. Like when you when you set out to make the restaurant you wrote down a hundred things that you wanted to be the best at not just like the best ribs in the best brisket and The Best Coleslaw but like the best bathrooms like the is that is that right that you want to put a lot of attention into the bathrooms in the
+
+3 (43m 34s):
+restaurant. I believe that I'm the first one. That coined the term bathroom marketing. I think that's one of the things that people talked about was was my bathrooms. My ladies bathroom had imported rose painted basins in 24 karat gold faucets on a marble base. I had wrought iron around the mirror. I had crown molding. I mean who puts crown molding in a bathroom, but I can remember when we first opened. I got a call within the first weeks of 87 Anderson write me down for 8:30 on Thursday your women's restroom. I said what she said. You heard me 8:30.
+
+3 (44m 15s):
+I want your women's bathroom. She said I'm going to hold my next cocktail party in there. Wow,
+
+1 (44m 21s):
+so it's really just about you know, there's all kinds of details wasn't just great food, but you wanted people to talk about the bathrooms.
+
+3 (44m 29s):
+Wasn't just the bathroom. So I think it goes back to my best of the best list for instance my music. I personally inventoried every blues song that was played in the famous days. I had something like 6,000 Blues CDs back. Then I knew the difference between jump Blues push beat Blues. I didn't want any old blues. I wanted all as sort of Chicago jump Blues. So when people are sitting in a Famous Dave's I almost wanted it to be Emily they had to start getting in this groove and they felt good and they were bopping around so that was all the experience. I wanted to touch all five senses from the smell of the wonderful wood Aromas of meat smoking in my bed to them feeling good because of the music and then the visuals I put a lot of antiques in my Famous Dave's so everything about Famous Dave's was really sensory.
+
+3 (45m 29s):
+Overload. Furlong
+
+1 (45m 30s):
+I'm looking at Hayward on on the map and it is I mean, it's up there. It's the northern Wisconsin. It is far from everything. It's like got to be what two hours from Minneapolis 3 hours 3 hours. Seriously,
+
+3 (45m 43s):
+we're out in the middle of nowhere. And even though I never advertised it wasn't but months that the word quickly has spread throughout Wisconsin and even as far away as Iowa, we're serving six thousand people a week and as Be walking through the restaurant people would grab me and they'd say Dave you got open up one of these in my town I said, well, where are you from? Well, we're from Des Moines, Iowa. We drove all the way up here. We heard about your barbecue. We just came all the way up here just to eat people actually demanded us to have Famous Dave's and so thus the first Famous Dave's outside of Hayward was in Minneapolis.
+
+3 (46m 24s):
+I found an abandoned gas station. It was only 2,900 square feet. We only had 50 seats and we opened up again without any advertising but within weeks I've got a line around the block we're doing phenomenal numbers. I can't even keep food in stock. I had to get a refrigerator truck to park next to my little restaurant just so we had food to cook.
+
+1 (46m 48s):
+What was the I mean, what was it that you were that you were doing? That was it? I mean, obviously your food was good. But you gotta put the word out. How are people finding out about it was just Word of Mouth
+
+3 (46m 60s):
+You know, it was like word of mouth on steroids. I you know, I have no idea but people were telling friends and friends telling friends. You got to try the barbecue, but you know, I think that's what speaks to Famous Dave's is that I went through all of the things that took to make great barbecue slow-smoked our ribs until they were tender I flame chart him. So we were able to caramelize the sauce on them we but more than anything guy. It's America's food. BBQ is how America celebrates you know, if you want to have a good time, you tell your friends. Come on over. We'll have a backyard barbecue can
+
+1 (47m 42s):
+you know, I know that why you were starting to get Famous Dave's up and running you were also kind of struggling in your personal life. You were drinking heavily at the time and you would later recognized that as alcoholism. Can you can you tell me about about what was going on in your life?
+
+3 (48m 2s):
+Well, I'm pretty open that my life as had some very dramatic Transformations. I do think sometimes that our Native American folks struggle with alcoholism. I know my my mom's side it was in the family. I know on my dad's side it was the family and but you know, you didn't talk about those things. So I wasn't really aware that was something I needed to watch out for and you know over the years it just kind of built up where you know, I couldn't wait till Friday so I could party and couldn't wait till Saturday so I could party after work and you know, what I didn't realize was that pretty soon.
+
+3 (48m 47s):
+I was partying on Sunday and it wasn't too long. After that. I was partying on Monday Tuesday. Wednesday is partying all the time. And one morning my wife came to the bedroom. She said Dave you got some friends downstairs. You better go down and see him I said, I don't remember inviting anybody over. She said well, they're here and they say your friends of yours. I'm all confused. I have no idea what's going on. So I go downstairs and sure enough there was people that I knew and it didn't take me too long to figure out what was going on. They were doing an intervention on me. And that was a tough thing, you know, nobody wants to admit that they struggle with alcoholism.
+
+3 (49m 33s):
+Nobody wants to admit that they need help. But here I was listening to my wife my son and some really close friends. Tell me how much my drinking was taking a toll on the family and when they said Dave you got a choice here. What are you going to do? I said, you know, let's do this thing.
+
+1 (49m 55s):
+How are you able to did you go to
+
+3 (49m 57s):
+treatment? Yes, I you know treatment sounds like a tough thing and I think it's one of the reasons why people were struggling kind of don't want to have anything to do with it because it sounds like something people do to you. But today I am so grateful 25 years this April than sober that I today. Look at treatment is really recovery and Recovery is a
+
+1 (50m 24s):
+gift. And in the meantime things were moving fast with Famous Dave's like you open that first location in 94 and then a second one in 95 and Minneapolis and then by 96, you've got four restaurants. I think all of them in that region, but then with just four restaurants you decide that year to take the company public hearing.
+
+3 (50m 51s):
+Well, you know, I'm very open about it. I think that was one of the worst mistakes of my life going public because I didn't realize that when you go public you don't own it anymore, but we went public and we actually oversold we were supposed to open up at six dollars. We ended up opening at
+
+1 (51m 10s):
+11. Wow. So Famous Dave's goes public in 1996 and a new CEO is named Douglas Lanham. Did you did you bring Douglas on because you were now a public company and you thought it was better than He kind of run the operation.
+
+3 (51m 30s):
+Well, one of the things I was told by the Wall Street guys was that I was just a barbecue guy that I need to hire Wall Street Savvy casual dining Executives. Yeah. The one thing was is that they tried to run Famous Dave's as a casual dining company. When really we were a Barbecue Company, we sort of lost our heritage of being just barbecue and and people were trying to turn it into something else.
+
+1 (51m 59s):
+So you are basically the chairman of the board Douglas Lanham lasted like a year or so before he stepped down because the stock price was falling and and I guess around 2000 Famous Dave's kind of shifted or pivoted into a franchise model. Did you support that idea?
+
+3 (52m 16s):
+I think I was always supportive looking back though. I wish we had kept it within the family, but you know, we had some good franchise. There's but I think one of the problems early on was they tried to get rid of the lines that we had around the block and so they thought that the way to Levy 8 that was to build bigger
+
+1 (52m 38s):
+boxes. Today. We're giant they were just giant restaurants too big
+
+3 (52m 43s):
+too big and today. There's a lot of 6,500 square foot boxes that probably should have never been
+
+1 (52m 49s):
+built. But to me the franchise model is going to be tough for Famous Dave's because it was your recipe it was there was a whole technique and your kind of handing that off to franchisees and you you risk giving up the quality right when you when you turn to a franchise model.
+
+3 (53m 8s):
+Well, I think that's one of the things that Hallmark about Famous Dave's is that we never really lost the quality of our food. My original menu is actually inspired by Jimmy John's dad James leotard, who he said Dave. He said first of all you want to keep everything simple. In the second thing, you always want to do everything in threes. And he said there's something magic about 3s. Whether it's the the Holy Trinity. It's the Three Little Pigs The Three Amigos on your mark get set go ready aim fire people remember things in threes. So the original famous States menu is really pork beef and chicken coffee milk and pop coleslaw beans and potato salad is all in threes in even how we trained people.
+
+3 (53m 57s):
+We would season smoke and serve now. There might be several steps underneath but everything was done in threes. And I think that speaks to going back to that 100. Best of the best things that I wanted to accomplish was. I wanted to have the best training program in America. So I literally days I spent about two million dollars developing my training programs and I created this leadership from the heart training program that actually She's focused on building up the people the second thing I did was I created Hog Heaven University. I wanted to create certified Pitmasters.
+
+3 (54m 37s):
+And then I also created a train the trainer program. And so we spent a lot of money on training. In fact people would look at Famous Dave's and they say wow, you guys spend a lot of money training people what happens when you spend all this money training and they leave all I had to do was look at it and say well what if I didn't train them with the best training I could do and they stayed
+
+1 (55m 6s):
+after the company went public and you kind of found it outside CEO and then you know, there were other kind of corporate folks who are brought in to run the company. Did you feel like you were losing control over the business that this idea that you had was kind of slipping away from you.
+
+3 (55m 24s):
+I think for the most part The only thing I regretted was the company building these bigger boxes and you know barbecue is a type of thing that grows slow and it's slow smoking. I think that tried to grow too fast. I think there was one of the problems of being a publicly traded company now, it seemed like we were being run by the quarterly earnings report and if we were to miss earning statement by one penny my God the Got slaughtered and as a Native American I didn't have a lot of people around me that could counsel me, you know, I was sort of at the mercy of people that knew how to run publicly traded companies on Wall Street that you know that that's what I think I didn't feel comfortable with
+
+1 (56m 20s):
+so when you had ideas with a listened to you when you said, hey, let's do this. Let's do that or would they say? Well on day we got this we know we should do.
+
+3 (56m 31s):
+You know, I think that's the struggle with any growing businesses. I think they thought of me even though I was the founder and I was the the the creator of all this they sort of thought of me as the entrepreneur. Yeah. They thought that you know, the corporate people needed to take over and and that the entrepreneur just sort of mess things up and in I wish I had fought harder and I had trusted my gut more because I would have stayed to these smaller Footprints and I would stayed to a smaller core menu
+
+1 (57m 12s):
+2003 you stepped down to become an assistant secretary at the Bureau of Indian Affairs in Washington DC must have been an exciting opportunity for you. So you just kind of at that point just left Famous Dave's entirely like you walked out. And said, look, I'm going to go do this job and maybe I'll be back and see you in a
+
+3 (57m 31s):
+couple years. Well, the reason why I left is I had to when you accept a job with as an assistant secretary or any high-level government job, you basically have to sign away all of your rights to any of your business interests. And so as much as I wanted to stay involved I couldn't I had to if I was going to do this job for the president. So the White House I had to sign away all my business introduce looking back. I wish I had never did that because why well, I think what happened when I went to Washington DC all my entrepreneurial Spirit got lost in the politics of being in government and I should have listened to people who constantly and said Dave you don't want to go to Washington DC and I said, but I really believe that I can make a Difference I wanted to encourage entrepreneurship within the tribes.
+
+3 (58m 30s):
+I really had some great ideas. But when I got there boy did I get an Awakening that you know change doesn't happen in Washington DC like people think and as an entrepreneur who's used to getting things done. I was stifled here and I was really frustrated and you know, it just seemed like every turn of the road everything was gridlocked.
+
+1 (58m 53s):
+So you step down and 2005. Clearly frustrated with with your job in Washington and I guess you tried to come back to the board of Famous Dave's but the board refused to give you a seat it is that right?
+
+3 (59m 9s):
+Yes, that's one of the unfortunate things of publicly traded companies. They felt they didn't need me. You know, they'd
+
+1 (59m 17s):
+be were still shareholder.
+
+3 (59m 19s):
+I was still a major shareholder.
+
+1 (59m 20s):
+Yeah, but you had no other influence over the company at that
+
+3 (59m 24s):
+point. No, no, wow, they felt that. They didn't need me
+
+1 (59m 27s):
+anymore. Wow. How did you take that? I mean, what are you bad? What are you hurt or you how did you respond to that?
+
+3 (59m 34s):
+I was devastated. I was devastated everything that I worked hard for all my life. My ambitions is just like shattered. It is like this was my dream. I had worked hard all these years, you know in my kitchen working on seasonings working on recipes working on my barbecue sauces it looked back and I How can they do that?
+
+1 (1h 0m 0s):
+When we come back just a moment why Dave Anderson decides to walk away entirely from business and the surprise phone call that eventually brings them back stay with us and I Rise and you're listening to how I built this from NPR. On the next episode of louder than a riot
+
+3 (1h 0m 24s):
+Bobby Shmurda is transition from the streets to
+
+1 (1h 0m 26s):
+superstardom and how viral Fame led to
+
+3 (1h 0m 30s):
+infamy. I don't ask people from the hood with they got criminal activity going on. I know in hip-hop the batter the better
+
+1 (1h 0m 37s):
+listen now to louder than a riot from NPR music. And one more thing the New York Times best-selling book how I built. This is now available. It's a great read and a great gift for anyone looking for ideas inspiration wisdom and encouragement to have the courage to put out an idea into the world. It's filled with tons of stories. You haven't heard about how some of the greatest entrepreneurs, you know and respect started out at the very bottom check out how I built this the book available wherever You buy your books.
+
+1 (1h 1m 20s):
+Hey, welcome back to how I built this from NPR. I'm guy Roz. So after losing a seat on the board of Famous Dave's Dave Anderson continued to do publicity work and Consulting for the company, but had much less of a say in how it was being run the day-to-day Famous. Dave's was going through a lot of management Shake ups and in 2014 the job of CEO went to a former CEO from McDonald's named ed.
+
+3 (1h 1m 48s):
+Rensi. Try to turn Famous Dave's into a McRib got rid of a lot of the history of Famous Dave's there was a lot of fun antiques that were part of the decor. He started pulling the stuff off the walls. He started getting rid of, you know, our hunting buttered corn bread. He thought it would be easier to take the honey butter off the top of the corn bread. Just put it in the cornbread, but there's a, you know, one of the most interesting stories At Famous Dave's was in the beginning. I did have money enough to have a smoker. I used a garbage can lid and so our All-American barbecue Feast is served on a garbage can lid well as renzi got rid of the garbage can lids and try to put it on some type of stainless steel platter and I can remember people just coming up to me and saying Tafe my family just absolutely loves the garbage can lid with all your barbecue on it.
+
+3 (1h 2m 48s):
+Where's the garbage can lid? There's a lot of things that just was being the heart and soul of Famous. Dave's was being ripped out.
+
+1 (1h 2m 57s):
+I guess you were so angry that you I read that you like severed ties with the company in 2014 is what happened?
+
+3 (1h 3m 7s):
+Well, I wasn't going to listen to some guy who ran McDonald's tell me how to be a BBQ Pitmaster. I had barbecue sauce running through my veins. I wasn't To stand for it and I I just said look if the board at the time wanted to have somebody like Ed renzi. This is what you're going to do. I'm not going to be part of it. And so I basically emotionally legally financially the separated out of Famous Dave's
+
+1 (1h 3m 40s):
+wow financially to everything you divested. So I'll go on sold all his dogs.
+
+3 (1h 3m 46s):
+Well, I didn't have much stock left. Yeah, you know what a lot of People don't realize is they may think I had a lot of stock well over the years in the beginning, you know, like any business you have your highs and you have your loves. Well, there were times when Famous Dave's had it slows where I put up my stock as collateral and there were margin calls and by time things were where they were there wasn't much left
+
+1 (1h 4m 15s):
+your name was still on all these storefronts all over the Tree.
+
+3 (1h 4m 21s):
+Well, you know one of the things I didn't realize is that when the company went public is you don't own your name anymore. Yeah, so consequently, I lost something that I had worked all my life for and you know, I wish I had attorneys that had given me better counsel in the early days because you know, I'm a Native American. I don't have a community of people around me that could give Good Counsel and if the attorneys really cared for me what they should have said was Dave you shouldn't go public you really have something special. You should really keep this in your family.
+
+1 (1h 5m 4s):
+So you step away and the the Brandis tis not doing well at this point. There are number of management shakeup sand and I guess in 2016 you get a call late some they want you back there. I want you to come help them Rebrand and return to their Roots. What what's the story?
+
+3 (1h 5m 26s):
+So I'm kind of out of Famous Dave's and one day I get a call from Mike Wright who was running the famous products retail line and really Mike was a good friend and he called me up. He said Dave he said I'm in the area. Do you mind if I stop over some Mike shows up my house. He said Dave. He said there's something We got talk about you said the company misses you all the franchise owners miss you your customers. They miss you people who love Famous Dave's are missing you. You've got to come back. And I said, well, I don't think the leadership wants me.
+
+3 (1h 6m 6s):
+He said that's not true. He said people want you they want you involved and I said, well, I am out of Famous Dave's I'm not going back and he really laid a guilt trip on me. He said Dave if there was Ever a time and they're in may never be another time. If there was ever a time that you come back. You got to come back now because Ed runs he's not going to be around the company really needs you. There's new leadership. We need you
+
+1 (1h 6m 33s):
+back that must have felt pretty validating.
+
+3 (1h 6m 38s):
+I was in tears. Yeah. I thought I would never hear that again. I after Mike left my wife and I talked and it was really, you know. Tough conversation of what do we do Famous? Dave's has really been such a love-hate relationship where I love the food. I created I love being with our guests. And the reason why I came back was my wife and I came to an understanding that it was really the people that we cared about. It was the franchise owners. It was the people who came to Famous Dave's who've loved the food and I think it was for that is I Knew I had to come back
+
+1 (1h 7m 20s):
+to you you start to I guess essentially consult with with a company to help them like do a Rebrand and one of the things like I guess you kind of suggested was to just kind of bring back the the classics right the the Cajun chicken sandwich and the brisket burgers and other things but also I guess at that time, this is 2016 and even to this day. I'm Famous Dave's started to buy back some of its Isis in order to kind of retake control, I guess of the
+
+3 (1h 7m 53s):
+business. Yeah, one of the things I think the company realized is that there was some franchise owners who probably had enough there was a number of management changes over the years and and they kind of got disenfranchised with the, you know, not having a Passion they once had so one of the things the company realizes that the only way they could write this ship was they probably had to buy back. Some of the franchise reinvest in them get back the training programs that we used to have and just kind of reinvent ourselves and bring back the basics getting back to what made us famous in the beginning.
+
+3 (1h 8m 34s):
+We needed to be devoted to making people happy
+
+1 (1h 8m 38s):
+a new CEO came in and 2018 Jeff crivello. And I guess I mean did he started to ask, you know, kind of bring back some of those things like that the trash can and the history. I mean you going Website now and your story is right there front and center.
+
+3 (1h 8m 54s):
+Well, I think one of the things that makes just so special is that he grew up eating Famous Dave's in Chicago. He loved Famous Dave's he was the first CEO who actually called me up on a regular basis. I mean Jeff and I talked all hours of the night. He'll call me up at 11 o'clock and we'll talk to one in the morning. This is how passionate this guy is Jeff. Reaches out to the franchise Partners, you'll see Jeff and a restaurant actually pushing a broom when we were doing a remodel on one of the restaurants Jeff was there with a paintbrush. I had never seen any prior CEOs actually get in the restaurant and want to work
+
+1 (1h 9m 37s):
+and end Your Role really in the company in a sense and this is not hope this is sounds complimentary. I mean you really are you're like Colonel Sanders. I mean you really are the kind of the Ambassador the brand ambassador. Serve the company do you feel like you are listened to more now than you and you were in the past
+
+3 (1h 9m 56s):
+today? There's without a doubt Jeff listens to me. Jeff is the first CEO that actually brought me back to the board and said, you know the Board needs to hear your ideas Dave because after all, you know, I am one of the few barbecue restaurant owners that was actually inducted into the national barbecue Hall of Fame. Yeah, I'm a celebrity judge at all of the big barbecue events. I live in this world of barbecue. Yeah,
+
+1 (1h 10m 26s):
+but there is a company still publicly traded
+
+3 (1h 10m 29s):
+today. Yes, the company still publicly traded. I think our stock is around three bucks. Right? So, you know, the only place you can go is
+
+1 (1h 10m 37s):
+up. Do you think that I mean we're in the midst this pandemic right and many states in which Famous Dave's is operating have certain restrictions and and there's a lot of delivery and as you know, the restaurant industry has really been hit hard. Do you know I mean, how is Famous Dave's doing in the midst of this this
+
+3 (1h 10m 59s):
+crisis, you know Famous Dave's really is built on what's basically picnic food BBQ travel. And it travels really well when you look at our menu and when you're serving barbecued ribs pulled pork sandwiches beans coleslaw, that's the type of food that travels the Famous Dave's restaurants are built for take-out. We have our own dedicated take out doors and that's why I think famous days for the first time in a long long time is on the road to recovery. So we're actually able to thrive unlike a lot of restaurants who are
+
+1 (1h 11m 37s):
+struggling. You're given given all the ups and downs of of your career and a lot of incredible ups and a lot of just incredible triumphs and successes. But also some really tough tough breaks. I mean, you know, even even with Famous Dave's, you know, kind of taking a public and then, you know, losing the business for a while and the brand and of course now you're back involved with it, but I mean when you kind of look back on on the different decisions you made Would you have done things differently or do you think that you kind of had to make the mistakes you made in order to in order to learn how to do things right?
+
+3 (1h 12m 20s):
+You know guy I struggle I think every day sometimes thinking that I wish I could do things differently. But you know, the reality is I really have overcome a lot of adversities in my life. I have done things in my life that I wish. I hadn't done I should have been dead three times. I've been broke three times. But every time I've always come back stronger, you know often tell people that life is not always on top of the mountain. It's the valleys and it's a struggles down there that you have to come back from where you learn things.
+
+3 (1h 13m 1s):
+I think that's how you grow. And so if you're not out there on the edge making things happen, how do you know what's possible? but one of the things I go back to is that the food a famous day is my original recipes are still holding the test of time and as much as we shoot ourselves in the foot as much as we've made our mistakes and growing is that people have always resonated with my food and so yes, we've had our tough times at Famous Dave's but but look at what we've also accomplished our barbecue products are in Big Box retailers like Like Target Sam's Club Costco.
+
+3 (1h 13m 41s):
+We are all over America. It could not have happened if things were easy. So, you know, I think my story of my struggles and overcoming the my ADHD overcoming my alcoholism overcoming the tough times in my life is no different than the story of Famous Dave's.
+
+1 (1h 14m 4s):
+Yeah. I mean, that's the thing Dave, you know you your legacy? We'll continue to live on after you're gone because this is some point where all gone right obviously and this brand will continue. And is that more important to you that Legacy then than wealth or are they both equally
+
+3 (1h 14m 22s):
+important? Well, first of all, I don't think I've ever worked to to get a paycheck more than I've worked to be a positive difference in the lives of other people. I've worked really hard to be good at what I do. But more than that guy, I think if anything people remember about me, I've been able to build something and give jobs to families and create opportunity where there was none. And a lot of people sometimes say God would I wish I was in your shoes. I have to laugh at I don't think so. But the one thing I can share is that I am grateful.
+
+3 (1h 15m 4s):
+I live a life of gratefulness. I live a life of sobriety and I The life that I am so fortunate to be living this country because the things that I have done, it doesn't make sense. There's no Rhyme or Reason that I was able to get a bank loan on my signature alone much less having a 1.98 grade average in high school. No undergrad and getting into Harvard University who would ever known that from some Indian kid growing up on the west side of Chicago. Yeah.
+
+1 (1h 15m 38s):
+When you think about your story and and everything you accomplished it to you. Do you think that what happened to you happened because of your skill and and hard work and perseverance or do you think a lot of it had to do with
+
+3 (1h 15m 54s):
+luck? Well, I don't know about luck. I wish I'd been lucky, you know, you know, I think luck is created when you have a dream you're willing to work for that dream you're willing to work hard. You know, I think luck is a byproduct of you just being a hundred percent devoted to never ever giving up.
+
+1 (1h 16m 23s):
+That's Dave Anderson founder of Famous Dave's by the way, some of you may remember that several years ago Dave competed in a Food Network BBQ challenge called Best In Smoke and he made it all the way to the finals until
+
+3 (1h 16m 38s):
+toe right at the very end. They pull a surprise. You've got 20 minutes to cook something out of tofu bites. What's TOEFL and all my years of cooking I had no clue what tofu was and today. I know there's like a
+
+1 (1h 16m 53s):
+Tofu squares like a silky jet off
+
+3 (1h 16m 55s):
+medium. Well, they gave us the silky smooth and I lost $50,000 because I could not cook
+
+1 (1h 17m 2s):
+cannot Grill silky tofu.
+
+3 (1h 17m 4s):
+I tried it fell through the grill grates.
+
+1 (1h 17m 10s):
+Hey, thanks so much for listening to the show this week. You can subscribe wherever you get your podcasts. If you want to write to us our email addresses H IB T at npr.org if you want to follow us on Twitter. We're at how I built this or at guy Roz and on Instagram. It's at guy dot Roz. This episode was produced by JC Howard with music composed by run teen Arab Louis. Thanks also to Liz Medford Eric Gales, Julia Carney Diva Grant and Jeff Rogers. Our intern is Ferris of Sorry, I'm guy Roz and even listening to how I built
+
+3 (1h 17m 44s):
+this.
+
+1 (1h 17m 49s):
+This is NPR.

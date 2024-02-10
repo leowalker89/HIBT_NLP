@@ -1,0 +1,818 @@
+0 (0s):
+Support for NPR and the following message come from Amazon web services, putting your data to work on the most scalable, trusted, and secure cloud. Learn more at go AWS slash data, hyphen and PR.
+
+1 (14s):
+Hey, really quick. Before we start the show, a lot of you have a lots of questions about how I built this. Like how do you pick guests or where do you record the show? Or how can I get in touch with Howard Schultz? Spoiler alert on that one week. Can't help you, but we can try and answer any questions you might have about the show, our work, or even me. If you'd like to submit a question, please visit <em></em> dot com and fill out the form. And we'll answer some of your questions right here on the show in the coming weeks. Again, that's G U Y R a z.com. You've basically been profitable every single year and you've been growing every single year. And then all of a sudden, you're not only unprofitable, you're losing a lot of money.
+
+1 (58s):
+Were you worried about whether you guys are making? I actually,
+
+2 (1m 1s):
+Personally myself, I rise in a crisis. That being said, I mean, the relationships definitely frayed
+
+1 (1m 7s):
+Ethan among the founders. Oh
+
+2 (1m 9s):
+Yeah. Amongst the founders came out. So the inefficiencies in the business, the way we're organized, this is why older people have gray hair. You know, when people say they have grew up gray hair from something like this was our Seminole gray hair event
+
+1 (1m 22s):
+And you have some gray hair. I have a
+
+2 (1m 24s):
+Lot of gray
+
+1 (1m 30s):
+From NPR. It's how I built this show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Roz. And on the show today, hi, Ronan Harari. He started out making novelty gifts from panty hose and sawdust and spent 25 years building a toy company and launched the multi-billion dollar children's franchise pop patrol. Let me start out by saying, I love this episode and I love it. Not only because the toy category is a joyful one, but because this story hits just about every single lesson you could possibly think of when it comes to building a business product, market fit and failure, intuition versus research, pattern, spotting, solving a problem.
+
+1 (2m 26s):
+You have that others have smart bets and spectacular crashes. I could go on and on, but I don't need to because you'll hear it for yourself. So let me just mention how hard it is to build an enduring generational brand. It's really hard, especially when it comes to toys, there are just a handful and you probably know them. Lego Barbie, hot wheels, monopoly, Mr. Potato head Etch-a-Sketch super soakers and many others. Kids are among the most fickle customers on earth. A hot toy is likely to be hot for a very short period of time.
+
+1 (3m 7s):
+Remember, pods are Koosh balls with a Steve Urkel doll and upset, but here's the great insight that Ronin Harari and his co-founders of spin master had back in the late 1990s when they were just starting out the specific toys, kids like me change, but their patterns of play don't since the beginning of recorded history, kids around the world have played with balls, dolls, puzzles, and their imaginations. The key to figuring out what works is to find something that fits into those play patterns since founding their upstart company in the mid 1990s Ronan and his co-founders Anton Robbie and Ben Verity were relying on their own intuition to figure out what makes a toy.
+
+1 (3m 54s):
+Great. So they tried stuff, stuff they thought they'd want to play with as kids. And it meant that it would take them many, many years of trial and error before they built a company that produced a truly intergenerational brand. If you were a kid or have known a kid over the past 20 years, then you know, some of the iconic toys that these guys put out into the world back Hogan AirHogs flicks tricks, and most iconic of all pop patrol. It's not an understatement to call pop patrol. One of the most successful kids brands in the past 20 years. And the remarkable thing about Papa patrol is that spin master built it very intentionally is a 360 degree brand from the beginning first as an animated cartoon, then as action figures.
+
+1 (4m 48s):
+And now as a brand that is on everything from pajamas to lunchboxes to stuffed animals, we're done Harari was born in South Africa, but his parents moved the family to Toronto. When he was around five years old, his dad ran a carpet business in the city and Ronan grew up working at the shop. He remembers being an average student in part because of a learning disability.
+
+2 (5m 13s):
+It's a learning disability called dysgraphia. So it's the inability for your hand to keep up with your writing. And then my handwriting's not very legible. And then I got to go back and I got to correct the, what I wrote. And then when you go back and you correct what you wrote, you know, you lose your stream of consciousness of what you're thinking, and then you got to stop. And then it's like rebooting. You have to reboot a ton a bunch of times. So for me to like write an essay, it will take me twice as long. Right? But the nice thing was I actually, I call it learning gifts. And the reason why I call learning gift is because your brain is wired slightly differently. And as a result of that, you get some extra benefits. My, my attention to visual detail is, is very high.
+
+2 (5m 54s):
+Like when we were developing toys or engineering, I could see like little changes when we were debugging the toys and people would use rulers and I could just see it with my eyes. So I think that's the wonderful thing about having a learning gift. It's just the challenges that the school systems are set up for the majority of people it's not set up for individuals. And then that's what makes it difficult.
+
+1 (6m 15s):
+You know, it's interesting. Cause you say you're an average student, but you went to the university of Western Ontario. And from what I gathered, it's a pretty good university, right? It's not, not super easy to get into. Am I right about that?
+
+2 (6m 26s):
+I guess it's in the middle. It's in the middle. Okay. No, it's definitely a good school. Listen, I don't get me wrong. I mean, I worked hard and my, my grades were decent, but I didn't get many A's. I can't remember any A's in my, in my day. So it was mostly BS and some CS, but I actually knew from a very young age that I wanted to go into business.
+
+1 (6m 43s):
+Why did, why did you know that
+
+2 (6m 45s):
+While I was averaged to sports and academically I was average. So I figured that business was the right path for me. I saw it as something that had endless potential and not a lot of constraints.
+
+1 (6m 59s):
+And I guess while you were in college, you actually launched a business, right? It was, it was with a friend of yours from childhood, a guy named Anton Robbie. And I think it was like a, like a poster company. Is that like, tell me about it.
+
+2 (7m 12s):
+Yeah. Well for, well, first after our first year of university, Anton, I actually sold fertilizer door to door because both of us had to pay for part of our education.
+
+1 (7m 22s):
+You worked for like a fertilizer company.
+
+2 (7m 24s):
+Exactly. We worked for fertilizer Auburn, and then we started this poster business. So the business was actually taking pictures of kids during frosh week and then creating a collage of all the pictures frosh week
+
+1 (7m 37s):
+Is the first week for freshmen presumably. Right. Exactly. Exactly.
+
+2 (7m 40s):
+Okay. So we would take pictures of the kids during frosh week, and then we cut all pictures out. We create a collage and then around the perimeter of the claws, we would sell advertising. And then we printed up 9,000 posters and then gave it to the students for free.
+
+1 (7m 53s):
+Wow. That was a business. That was, that was a business. That
+
+2 (7m 56s):
+Was a business. Yeah. And then we ended up doing it in five universities across Ontario. By the time we graduated, I think we grossed about a hundred thousand dollars.
+
+1 (8m 5s):
+And then what happened when you graduated?
+
+2 (8m 7s):
+Yeah. What, what actually happened was, so I graduated after three years, Anton was in a four-year program. And then just before Anton graduated, my mom was reading the , which is the largest is really newspaper. And in there, there was an article about all these six different Israelis that were manufacturing. This product called the grass at, it was a small little potato had made out of grassy, nylon sawdust, and had a little happy face on it. And you'd put it in water and grow grass for hair. So someone said like a chia pet.
+
+1 (8m 38s):
+It's like a, I guess like a little ball, imagine like a little like nylon, like pantyhose, nylon ball stuffed with sawdust or whatever and, and seeds, grass seeds. And you would like drop water on it, drop her new benching, grow hair.
+
+2 (8m 53s):
+You would fully immerse it in water, immerse the whole thing. And then just let it sit. And like, because the sod us held the water C's were able to germinate. So she read about it. She translated the article for me. And in the article it said that there was all these six different people in Israel that were selling them. And that literally every person in Israel bought one. And it was just like the biggest, the biggest craze in the country. And two weeks later, my late grandmother came to Canada for a visit and she brought me and my sisters one is a gift. And so I looked at, and I was like, no, one's manufacturing. You're selling here in Canada. Why don't we, why don't we do it? And so I spoke to Anton. I was like, why don't we sell these, these earth buddies?
+
+2 (9m 34s):
+We called it earth buddies. And he looked at me and he thought that I was literally crazy.
+
+1 (9m 39s):
+Yeah. I mean, it does sound crazy because why would you think that the first thing is, why would your mom read that article and go, Hey, I need to translate this article. Like out of all of the articles, like not the one on the peace process or I don't know. Some, like, I want to tell you guys about the grasping things, something about that she thought was interesting. And I'm just trying to figure out why, like, how did you see that and say, Hey, this could be something
+
+2 (10m 5s):
+My mom's credit. She was very entrepreneurial and she's, she's very much a doer. She was like, well, something's happening. So I sat to Anton. I was like, why don't we do it? And we literally went to Kmart and we bought pantyhose and we bought sawdust and grasses and everything. We start prototyping the products and we had a solarium in my house and we were growing everything and in the solarium
+
+1 (10m 28s):
+And they kind of look like, like nature's troll dolls
+
+2 (10m 32s):
+A little bit. Yeah. That's pretty good guy.
+
+1 (10m 34s):
+That's a fair, fair description. Great description. All right. So you convince Anton to join you on this journey to make the earth buddy. And presumably you didn't need to license it, right. This was not like a patented technology. You were just making what was out there. Am I right?
+
+2 (10m 51s):
+Yeah, that's correct. You know, in the, in the article it said the original vendor or the product came from somewhere in Turkey and no one really knew who it was.
+
+1 (10m 60s):
+So you and Anton start to just stuff, these little buddies, and this is 1994. And what was the plan? The plan was to make tons of them and then just sell them. I don't know, at a craft fair. Like what would you, what was the next step?
+
+2 (11m 17s):
+Yeah, basically we said, let's make 5,000 pieces for mother's day and go from there. And that was the plan. And so we got my sister and my brother-in-law involved. My sister designed the packaging, my brother-in-law ex brother-in-law. Who's an incredible engineer. He designed the contraptions. So we can manufacture these things that at some sort of scale
+
+1 (11m 39s):
+As a contraption, like a feed tube.
+
+2 (11m 42s):
+Yeah. It was like a plumbing tube. You could take the nylons and wrap it around the tube. And then on the side, there was a feeder where you can dump the seeds and the sawdust. And there was a way for you to tie it off. It was, it was actually really clever. We found an, a small factory space, warehouse space and
+
+1 (11m 59s):
+Finance this with the money that you had from your poster company,
+
+2 (12m 3s):
+Pretty much, we started with $10,000.
+
+1 (12m 5s):
+But before you started to, when you guys said, let's make 5,000 of these for mother's day, presumably you're thinking we're, we're going to sell these. So where were you going to sell them?
+
+2 (12m 14s):
+Well, we sold them on the street. We set up tables at eight different corners, all around Toronto. And we sold basically 800 out of the 5,000. And we came into the office Monday morning and we're like, okay, well you got to figure out some other distribution. And then we found a gift distributor, pewter, who took on the product and started selling it to the gift channels. And then again, through my mom, she had a contact of a company that sold toys called Samco sales and showed them the product. And I said to them, would you guys be interested in distributing the product for us? And they said, sure, no problem. And two weeks later, they called us with an order for 26,000 pieces from where?
+
+2 (12m 57s):
+From Walmart, Canada.
+
+1 (12m 59s):
+Amazing. Yeah. But, but now you guys are renting a warehouse space to make these, and I guess at this point you bring in your third founder, this guy, Ben Varady. Yep. And what did he know about like manufacturing and you know, was he an expert in, in like a hetero factory?
+
+2 (13m 20s):
+Yeah. He actually had no manufacturing experience. He came to our office and we literally made a deal within 45 minutes. And then he went down and started running the factory. You know, Ben was, he's a smart guy, man. He went to business school and he just figured it out. But then would tell you that he wouldn't have gotten through the manufacturing if it wasn't for this gentleman by the name of Bob Wakelam. So Bob actually, when we started the first place, we actually went to look for people to work in the factory was we went to a homeless shelter. It was just people that needed work. So that's where we went, but there was two individuals, there was Bob and this other gentleman Grenville who ran shipping, both
+
+1 (13m 59s):
+Ends, were homeless. They were living in a homeless shelter. Correct.
+
+2 (14m 3s):
+And so Bob walked into Ben's office one day and he said, you know, Ben, like I used to run a factory. Will you let me help you? And Ben said, yes. And literally within two days he had all these like Gantt charts up and this, and he started like balancing out the lines between the workers and the raw materials and all this type of stuff.
+
+1 (14m 22s):
+So you get this order, this order for 26,000 earth buddies from Walmart, Canada, which is pretty great. And how did they do
+
+2 (14m 30s):
+The degree? But it started selling like crazy. All right.
+
+1 (14m 33s):
+So you would eventually get a massive order from Kmart, which would prove to be transformational. How did you even get on there?
+
+2 (14m 43s):
+You know, the universe works in funny ways. Anton was backpacking in Europe, a couple of summers before, and he met this guy who came from a very well connected family. And when we wanted to break into the United States, Anton called him and he said, do you have any get in touch with this guy? He kept in touch with them. Well, that's one of the things Anton does extremely well he's he keeps in touch with everybody. And so he called me and said, do you have any relationships at Kmart? And they said they did. So I don't know why, but I was the one that actually took the meeting. And so I drove down, it was in Troy, Michigan. I pitched the buyer, do like a 30 minute pitch. I had a full box of earth buddies.
+
+2 (15m 23s):
+It looks fun. And after 30 minutes, the buyer said to me, he goes, thank you very much for coming, but I'm not the buyer. And I'm like, and I'm like, this can't be true.
+
+1 (15m 33s):
+I'm like, who are you? Well, why am I talking to you? Yeah. Like,
+
+2 (15m 36s):
+And then I'm like, okay, well, could you mind doing me a favor? Can you find out who the buyer is? Because I drove all the way from Toronto. So he comes back with this name written on a piece of paper and said, Adrian Zach's. So I said, thank you very much. And I took my box earth buddies, and I started walking around the offices of Kmart, looking for the Spire. She was sitting at her desk when I found her. And she said, okay, I'll see you at three 30. And then the guys that we came with, they're like, let's go for lunch, dah, dah, dah. And I said, I'm not going to go anywhere. Cause like, maybe she'll call me early or something like that.
+
+1 (16m 11s):
+Maybe they won't let you back in the building or maybe they won't like,
+
+2 (16m 13s):
+I just, yeah, that's true. So I waited there until three 30 and the craziest thing is, as I walked into her office on the left-hand side of this counter, she had about eight other birth buddies
+
+1 (16m 30s):
+There, the eight other products that were pretty similar.
+
+2 (16m 33s):
+Exactly the same under different names. Were
+
+1 (16m 36s):
+They these products from Israel?
+
+2 (16m 38s):
+No, no, no. They were, there were other manufac.
+
+1 (16m 40s):
+So you're thinking I'm never going to make this. This is
+
+2 (16m 43s):
+Nope. What went through my mind was we were going to charge you $2, 65 cents us. And I dropped the price to 1 65 in my mind right then and there, because
+
+1 (16m 54s):
+That if you could get it, if you could offer the most competitive price, then she wouldn't go with you.
+
+2 (16m 59s):
+I knew we could still make money, especially because of the Canadian dollar was low at the time. I didn't want price to be a factor. And I figured she's got so many options here, so we better give her a compelling reason to go with us. And so I pitched her, I showed her exactly what we were doing. And she gave me this big book, which was the vendor agreement. She said, okay, well I'll give you an order for 48,000 pieces. And if it goes well, I'll give you an order for half a million pieces. Wow.
+
+1 (17m 27s):
+Yeah. All right. So she does 48,000 orders, correct? For a dollar 65, a piece that's an almost $80,000 order, which is pretty great. You go back to Toronto where you guys able to scale up to 48,000 pieces quickly in your little facility in Toronto,
+
+2 (17m 45s):
+We have to move again to another facility. Every time we got more orders, we would move a bigger factory and built more machines and we just hired more workers. And
+
+1 (17m 53s):
+How did you finance that? Do you remember? Yeah,
+
+2 (17m 56s):
+The product was selling very well. So we had money coming in from the other sales. And I mean, in our peak, we were producing 17,500 pieces a day.
+
+1 (18m 6s):
+And by the end of that year, I think earth buddy, your sales, from what I understand, hit a $1.8 million. That's pretty great for a company that you started earlier that year. But at what point sort of did the three of you say, you know, we should focus on toys. Was it already in 1994 after earth buddy took off or not? Not quite,
+
+2 (18m 28s):
+No. It was only a 95 when we started selling a product called devil sticks, that product that really well. And so it was after that, after the devil sticks,
+
+1 (18m 38s):
+The devil sticks is your next product. Because you know, as we know, the life cycle of novelty items is short can be short. Right. And you probably saw that at that point, you, you probably knew that you needed to go to the next thing. Yes. Earth buddy. Wasn't going to, you couldn't build a sustainable company based on that product alone. I'm assuming. Yup.
+
+2 (18m 57s):
+It was novelty. It was going to run its course. And what else are we going to have?
+
+1 (19m 0s):
+So the next thing that you come across are these things you called devil sticks. And they're like these batons, you can, it's like a Baton and you can juggle this other Baton in between them and do tricks. And I remember this, this was like the mid nineties I'm in college. And you had those kids who played hacky sack and devil sticks. That's right. Am I right? Yep. That's right. That's the demo. Right?
+
+2 (19m 22s):
+Grateful. Dead shows. Exactly. So
+
+1 (19m 24s):
+This was a product that existed. What, tell me this story. Did you, you, you kind of renamed them, devil sticks. How did you come across them?
+
+2 (19m 31s):
+You know, I actually, I played with them when I was in high school for some reason in 94, we started noticing that a lot of kids in the schools were actually playing with the devil sticks. So maybe there's a little bit of a trend going on. We had our factory. So we said, well, why don't we figure out how to mass produce the devil sticks and we'll, we'll sell them. So it was just based on this trend that we saw as we designed this packaging and the same distributor that got us the sale at Walmart, Canada. They introduced us to their partner in the United States called a uni world. And so suddenly we found ourselves a toy fair in 1990
+
+1 (20m 8s):
+And toy fair was in New York, in New York. Yes. And this is a convention where you'd go and you'd show your products. But so let me understand what the devil, the devil sticks are. These Bhutan's you juggle. And this, there was no patent on them and anybody can make them, you basically created a brand called devil sticks. You gave it that name.
+
+2 (20m 26s):
+Oh six is the generic term. And so we called ours a spin master devil sticks. So that's, that's, that's the origin. And the company name is from the devil sticks
+
+1 (20m 36s):
+At that toy fair. Did you, who was doing the demo or you doing the demo? I
+
+2 (20m 42s):
+Did the demo myself.
+
+1 (20m 44s):
+You did a demo. So you know how to juggle the devil sticks.
+
+2 (20m 47s):
+I told you, I played with them eyes go. So I did the
+
+1 (20m 49s):
+Demo. And as I understand it, pretty soon after that toy fair, you managed to get those devil sticks into like two of the biggest toy retailers in north America at the time toys R us and KB toys.
+
+2 (21m 3s):
+I mean, there was one thing that was working in our favor, which was, there was something in the zeitgeists at the time that made devil sticks appealing to young kids. It was like seven-year-olds eight-year-olds nine-year-olds ten-year-olds it was like, it was like analogous to like the yo-yo. So we did the marketing, but I don't think, I think the marketing helped, but there was something in the Zeit guys that actually made the product pull.
+
+1 (21m 25s):
+There's a documentary that has been master made, I think on the anniversary of 20 years. And I watched it. And at that time you said we weren't sleeping a lot. We were definitely stepping on each other's toes. And there were a lot of disagreements and fighting, which I think is very normal. When you've got three strong partners in a company. Will you stressed out about the disagreements between the three of you at the time?
+
+2 (21m 49s):
+I dunno if I got stressed out, but I think that we would just fight. And so
+
+1 (21m 54s):
+G about product, about who to work with about where to spend money, all those things.
+
+2 (21m 60s):
+I think it was everything, but the one nice thing is that through the fighting and it wasn't like when I say fighting, it wasn't like you're angry at the person. It was just advocating for your opinion. But, you know, we were young guys and, and very excited. Everybody really wanted to win and everybody wanted the success. So maybe we were a little bit,
+
+1 (22m 21s):
+Was it? I mean, and this is a question that's come up in a lot of episodes of the show with, with co-founders, which is everybody has a different perspective. How did you resolve?
+
+2 (22m 34s):
+We've always shot for unanimous consent. And we would keep on debating until we actually got the consent. And then there was one other thing which was, if we stepped over the line, everybody was able to say, sorry, which I think is a huge, which is a huge thing. So sometimes if you weren't, if you didn't say, sorry, you asked for the story and you always got the, sorry,
+
+1 (22m 57s):
+It's actually my favorite word and Canadian. Yeah. That's a great Canadian word at that time. Right. Okay. So you've got two hits now under your belt, you've got earth buddy devil sticks. You know, you're probably doing four or $5 million in revenue by year two. How big were your ambitions were with the three of you already in year two of your business saying we're going to be a huge toy company? Was that the ambition or was it just like, let's just get this thing, sell this and we'll figure out the next thing
+
+2 (23m 27s):
+It was. Let's just keep on going. Let's find some other products to sell. We did make a couple of strategic, like macro decisions, which were, we didn't want to after earth buddies and devil sticks, which were both, you know, call it public domain products. Yeah. We said, we want to design and develop our own products and we want sell them globally around the world. And we don't want to just be a Canadian distributor. And then we said, we're open to ideas wherever they come from and let's go search for these ideas. So in 96 we started meeting with twin vendors. And so Ben was living with this girl by the name of Jen Irwin from the Erwin toys family, which is a famous Canadian toy company.
+
+2 (24m 7s):
+And that's
+
+1 (24m 8s):
+Great. Wow. That was, that was who he was living with.
+
+2 (24m 10s):
+Yeah, it was very coincidental. Yeah. So between her and Austin's company called Canada games, which was run by the Albert family, they told us that this whole network of toy inventors globally around the world that come up with ideas, but they don't commercialize them. And so Ben started going around with our wares and meeting all these twin vendors and trying to solicit ideas.
+
+1 (24m 33s):
+And by the way, was that hard to do because you were so small at that time,
+
+2 (24m 39s):
+You know, they weren't put it to us where they, they were not showing us their best products. And they were basically dusting off the stuff in the back of the closet,
+
+1 (24m 46s):
+Like Hasbro and Mattel wouldn't even, wouldn't even look at correct,
+
+2 (24m 50s):
+But they were showing us stuff and we're getting to look at stuff. And we were developing relationships and contacts. And so in 96, we actually came across this invention, which was an airplane that you pumped up and would fly for about 45 seconds. And it came from these two British inventors, John Dixon and Peter manic. They actually came to Toronto, came to visit us and we flew this airplane and it was probably one of the most magical experiences. Seamless was plane flight.
+
+1 (25m 18s):
+Describe what it was. It was like a airplane with work styrofoam airplane that you pumped air into it. Yes.
+
+2 (25m 25s):
+It's basic. It's a plastic bottle foam wings on top foam fuselage. And they had developed this pneumatic engine that literally the air would actually drive the piston up and down, spin the propeller and fly the plane
+
+1 (25m 40s):
+A hundred, a hundred yards,
+
+2 (25m 42s):
+Right? Yeah. It was a hundred. It would fly 45, 50 seconds and flying a circle.
+
+1 (25m 46s):
+How'd they demo this for other toy companies. Yes.
+
+2 (25m 50s):
+We, we didn't realize after we signed the product, we didn't realize that every toy company had turned it down.
+
+1 (25m 55s):
+Wow. So you see it and you're like, this is amazing, but they had not had any success getting anybody to pipe.
+
+2 (26m 3s):
+Correct. I think they were trying to sell it for five years.
+
+1 (26m 6s):
+All right. So you've guys love it. And what'd you do, you basically bought the license from them.
+
+2 (26m 11s):
+Yeah. The way it works in the toy industry is you license the product and perpetuity and you pay a 5% royalty on your sales. Got it.
+
+1 (26m 18s):
+So you get the idea, but really what you're then doing is building a brand around it because I'm assuming it was a kind of crude, right. It wasn't like a fully developed toy. It was a plastic bottle. And, and in a body of, of an air plane with styrofoam, right. There was no branding or logos or shape to it.
+
+2 (26m 38s):
+Yeah, exactly. The difficult thing with, with the AirHogs, which is what we called it was how do you mass produce it? We ended up finding this company called K development and they did all the design work in terms of how the engine is going to actually function at work. And, and we actually didn't have a lot of money to pay them at the time. So they agreed to do a, a backend royalty deal. And literally we spent probably a year and a half, two years building the prototype, rebuilding the prototype, test it and see if it's flying and see if it was reliable and durable and all that type stuff. Okay. Got all the engineering done. And then we went to China, found a factory which was called can sing.
+
+2 (27m 18s):
+And so we sent all the plans there and they started actually building out the product
+
+1 (27m 24s):
+For us. W when you found that factory in China to make them, you are making a big commitment, you were putting a lot of eggs in this basket. Did you have orders already for the air hug?
+
+2 (27m 35s):
+You know, we did everything in parallel. I would say this. When we, when we signed the product, we basically put all the money we'd made to date into the design and development. The design, the development was very, very
+
+1 (27m 46s):
+Expensive, a million dollars more or less.
+
+2 (27m 49s):
+All I remember was it was pretty much all the profits that we had. Yeah. Yeah. Everything was going into this product everything's done in parallel. So, you know, we had no orders at the beginning, but as we started designing, developing it, then you start the sales process and we were going to the toy fair. And at the toy fair, we were starting to sell it. And so before we actually got into production, we did have orders. So
+
+1 (28m 10s):
+Here's a question. This is a big commitment in money. And it was a two year process, right? From 1996, when you got this license to when it actually debuted, I think two years later, how did you know that it was going to work? I mean, did you do market research? Did you test it on kids? Did you, what kind of research did you do? If
+
+2 (28m 35s):
+We did no research, nothing.
+
+1 (28m 41s):
+You did no market research. You went to no kids, you went to no schools, nothing. You was just like, yeah, we love this is cool. Let's do it. Yup. So it could have been a hundred percent wrong. Correct. And that would have been a disaster. You, you just thought it was super cool.
+
+2 (28m 55s):
+Yup. Loved it. It was just so much fun to fly.
+
+1 (28m 59s):
+Why don't we come back in just a moment, how the team at spin master began to realize that succeeding in the toy business means never staying still. If you have one hit idea, you better start thinking about your next one. And the one after that, stay with us guy Roz. And you're listening to how I built this from NPR.
+
+GiveWell (29m 27s):
+This message comes from NPR sponsor. GiveWell donating money to help people can be a wonderful and selfless act, but are your donations improving or saving lives the most effectively give well recommends only a few of the highest evidence backed charities. If you've never donated to a GiveWell recommended charity before your donation can be matched up to $250 before the end of the year, or as long as matching funds last, go to givewell.org pick podcast. Then enter how I built this at checkout.
+
+1 (30m 1s):
+This message comes from NPR sponsor at LaSeon ready to amp up your it strategy at LaSeon JIRA service management turns it teams into rockstars unlocking service delivery at high velocity, more at atlassian.com/jira service management. Next time on rough translation who wants to snack Oreo scallion ice cream
+
+5 (30m 26s):
+Sandwich. We are hungry for the snacks that take us far away and for the dishes that bring us back home, traveling through taste, ready to eat, it's ready to eat. That's on rough translation from NPR.
+
+1 (30m 47s):
+Hey, welcome back to how I built this I'm guy Ross. So it's 1998 and spin master starts selling the air hog at toy stores. And unlike the earth buddies or the devil sticks, the air hog is much more complex and requires a lot of engineering.
+
+2 (31m 5s):
+We took so much care and that's why it took so long. It was like how to make the propeller say, put a foam nose coat on it, super light. The wings would pop off. So they wouldn't break. And you know, one of the biggest things was usually it got stuck in a tree. So
+
+1 (31m 21s):
+People said,
+
+2 (31m 23s):
+Well, are you climbing the tree
+
+1 (31m 25s):
+Or buy another? We buy another one. So here's, here's the thing. So you, you make this product right. You get this Chinese company to make them. And do you remember what, how many did you initially intend to make like a million, half a million?
+
+2 (31m 37s):
+You know, I can just tell you that. By the end of 1998, we started marketing in that year. We had gross $35 million in sales. I think we had sold over a million, a million and a half piece or something like that. And I think our wholesale was about $20 at the time.
+
+1 (31m 55s):
+And it costs you probably $10 to make them Nope.
+
+2 (31m 57s):
+It costs about five 50.
+
+1 (31m 60s):
+How did I mean, aside from the fact that it's super cool. I remember air AirHogs and they're still around, but how did you, how did you market it? Did it, did you have to do anything at all to market it or was it just a product that sold?
+
+2 (32m 11s):
+No, we did a lot of, we, we did the TV commercial, we bought media against it. We found distributors around the world. We came up with these really creative point of sale displays where you could actually pump up the air hog and flick the propeller. And here are the magical sound that came from the motor. And I think we had them at like Walmart and Kmart at a lot of places. So that was definitely in the marketing budget.
+
+1 (32m 34s):
+So this, this comes out and by the way, is, had you guys raised any money for the company? Are you entirely, self-financed
+
+2 (32m 41s):
+Entirely self-funded financed other than the bank would actually let us borrow against our inventory and receivables. So we were able to use those monies, which weren't our bunnies, but at least they were up against the, the orders that were going to come. And again, apply that to actually purchasing the goods and doing marketing and all that other type of stuff. So
+
+1 (33m 1s):
+This product blows up. So you're, you guys are growing really fast, but do you remember thinking to yourself this is different? This is next level.
+
+2 (33m 12s):
+Oh yeah. I mean, I mean the engineering development, it was a priceless education designing and developing and marketing. That product was priceless. It was so difficult. It was so we taught ourselves everything. We hadn't done anything close to that. It's not really even a toy. It's a mechanical flying object. So we really stretched herself to actually get that to market. But the nice part was all the inventors that we were visiting. They were like, wow, these guys can actually design develop and manufacture something. And, and so that really opened up the doors to future products for us.
+
+1 (33m 47s):
+Here's, here's what I wonder. I mean, the AirHogs take off in 1998 at that point. Can you just focus on that product and really build that out for the next few years or already? Do you have to start thinking about the next thing that's going to come out after that
+
+2 (34m 4s):
+You do both.
+
+1 (34m 5s):
+And is that because kids are fickle and they just, the life cycle of a toy is short
+
+2 (34m 10s):
+Toy business is all a bit fresh and new. Even if you have a brand within the brand, you still need to bring fresh and new. So we knew straight away after our first product, we were like, okay, what other innovation could we do in flying toys? So we came up with the B wing, which was like a stealth flying plan. And then we were thinking about other types of flying toys. So yes, you always have to be innovating within the brands. And then we also want it to diversify as a company. So we were thinking about what other categories can we get ourselves into to meet?
+
+1 (34m 39s):
+It just seems like my God, you guys were just playing toys. Like how joyful, like how amazing, how fun, like, but this was real serious business. You guys were heads down like really focused or was it throwing Nerf balls around the opposite? I dunno, what w what was it like?
+
+2 (34m 58s):
+No, it wasn't that much fun and games. It was, it was serious. First of all, the toy business is very competitive, hyper competitive business. And it's very fast paced. And, you know, the three of us wanted to win. So we were actually quite serious. I think we were probably too serious. We didn't have the foosball tables. We didn't know the pool tables. It was more about when we're in the office, let's do the work and then let's go enjoy our time afterwards. It's intense. The other thing about the toy industry is that you're dealing with kids and you're dealing with safety, and you got to make sure that everything's, you got to manufacturer something at a low cost. That's safe. That has an innovation attached to it.
+
+2 (35m 37s):
+So
+
+1 (35m 38s):
+1998 really is a pivotal year for you guys, because the AirHogs just takes off. You you've successfully manufactured a product now overseas, and now you've got a strategy. You are going to really begin to assess a bunch of inventions. I read you grew to 28 employees. You were assessing about a thousand inventions a year at that time. So were, were people just coming to Toronto and showing you stuff? Or were you, was it all happening at toy fairs or were you actively tapping into this network of inventors or all three of those things?
+
+2 (36m 12s):
+The majority was actually Ben Verde and Ben Dermer on
+
+1 (36m 17s):
+The road. Ben DerMarr was, was another person you hired at that time to help out.
+
+2 (36m 21s):
+Yeah, he helped right then with the vendor relations. And so they would literally go from city to city, to city and visit the inventors and go to their offices. And I'd say that was like 80% of the work was done that way on location
+
+1 (36m 35s):
+Did zero research for the AirHogs, but it really took off. Yep. Did that make you, and I'm not trying to ask this in like a, a snarky way, but I just, I think that if I was in your shoes, I'd have been like, oh my God, look at my judgment's amazing. I can do no wrong. Like, I might have become a bit arrogant at the time thinking we know how to pay kids. Did you guys have any of that at all?
+
+2 (36m 58s):
+No, because we had some other products that alongside of the AirHogs that failed, and we had a product called don't free Freddy, and it did not do well. It was basically a little furry monster and his hands were handcuffed together. And then you press a button and he, the handcuffs would pop open. His arms would flip up and he would roar at you. And we just thought it was funny, but the kids didn't think it was that funny.
+
+1 (37m 23s):
+How did you, in those early days, how would you give something in the Greenlight? Did you have to have total consensus? No.
+
+2 (37m 29s):
+So sometimes there are certain products that I loved and I would when Ben over, but he wouldn't come very easily. But the one thing that we did find over the, over the years is that when we did have universal consensus, the likelihood of success was much higher.
+
+1 (37m 44s):
+All right. So you have air hogs and you're like assessing like a thousand inventions a year at this time. And the next thing I think you come across as these little like miniature BMX bikes, which are called flip tricks. And I think the guy who pitched them to you was this inventor named Jeff Ray Kemper.
+
+2 (38m 4s):
+Yeah. No. And then the one thing you have to understand about an inventors. Okay. And the reason why you want to go visit them vendors, rather than them coming to you is like, they're really the kids in the equation. Okay. And when they invent something, they want to show it and they get so excited about it. So on one of my trips to Chicago, when we were developing the AirHogs, Jeff actually showed me the little flip tricks and straight away, I was like, this is so much fun.
+
+1 (38m 31s):
+Any market research, taking them to kids, to sitting behind two-way glass, watching them play it, anything like that?
+
+2 (38m 37s):
+Nope, Nope. Nothing like that. Nothing other than the fact that kids were really into BMX bikes at the,
+
+1 (38m 42s):
+Yeah. Would you analyze like market data around that? Did you have statistics?
+
+2 (38m 47s):
+Nothing. I wouldn't even, I wouldn't even know where to get them.
+
+1 (38m 51s):
+So you are literally just saying, yeah, I think this is cool.
+
+2 (38m 55s):
+It was so much fun. The key to being in the toy businesses, you've got to always think and feel like a seven year old.
+
+1 (39m 0s):
+Is this common by the way, in the toy industry? Or am I just complete? Cause I'm have I talked to too many McKinsey consultants
+
+2 (39m 5s):
+And you can not consult yourself in the toy industry. It is one of the most intuitive creative industries out there. It's a field industry, but it's also a history industry. Like you need to know what happened in the past. What did well, what didn't do well, and then it's very iterative. Like everybody's adding on an innovation from the past and everybody's looking for like play patterns. Yeah. So it's all about the play pattern and stuff like that. And so, you know, kids played with die-cast cars.
+
+1 (39m 33s):
+Sure. I did. I loved
+
+2 (39m 34s):
+Them. Kids still play and collect hot wheels today. And so the association was, well, this is kind of similar to hot wheels is die-cast is a collectible aspect to it. You know, we went out, we licensed all the VNX bike companies that time, like Hoffman and red line and all that type of stuff. So you can collect them, you can play with them. So there was an association and a confidence in the play pattern.
+
+1 (39m 57s):
+And this is so different from so many other industries. Essentially what you're saying is it's a very hard to create a toy for kids in a boardroom with all the market research and looking at kids two two-way glass. Like actually that doesn't work that off.
+
+2 (40m 11s):
+Not really. I mean, you, you can get some false positives too. I mean, kids get excited about a lot of stuff. Yeah. You can see if kids are really bored, you can probably see if they really don't like something. But then again, it's like what's valuable is more like is a too big for their hands is a too small for their hands. Can they hold it that type of stuff, more functionality, but testing the magic very difficult. The only way you're going to test is by putting it at retail, but this place
+
+1 (40m 37s):
+Pattern idea's really interesting. I mean, you know, like when I was a kid, I used to build Lincoln, these elaborate Lincoln log houses, or, you know, kids have played with Lego for a long time, had mechano. I loved loved action figures. And so w what you're saying is elements of all those things, they've always existed through time and Memorial. When humans were in neolithic villages, they played with, they played in the same patterns. Kids played in same patterns, but just with the rocks or whatever.
+
+2 (41m 4s):
+Yeah. I mean, it's interesting for you to go that far back in time, but I guess I would say like, in the last a hundred years, like the play patterns started to solidify, like there's 11 categories and toys. So you got plush, which has stuffed animals. Like there's a way for kids to interact with plush. And then, like you say, action figures, how do you play? You know, action figures is all about, you know, fantasy and, and trying to become that character yourself. Yeah. So the toy companies creatively, we're able to create around the way kids like to interact. And so now it's like, can you bring something new and different to the play pattern, to spark joy in the kids to get them excited.
+
+2 (41m 45s):
+And that's what, that's what we look for all the time.
+
+1 (41m 48s):
+So should, I guess like around 2001, you guys have had, what I think was your first, like large-scale failure, which was a product called key charm cuties. And I guess you were competing, it's like a Mattel product that sitting at the Mattel was putting out against Polly
+
+2 (42m 5s):
+Pocket. Right, right,
+
+1 (42m 6s):
+Right. Polly pocket. So w what, what, what was the thing you guys were making?
+
+2 (42m 9s):
+It was a small fashion dolls and, and you can change their clothes in a unique way. And they came in these purses that you can carry them around with. And when it came to key charm, cuties, this really, we were up against Mattel and their marketing and their design and our design couldn't compete. Like our dolls didn't look as nice as theirs. Our patching wasn't as good. Our commercial wasn't as good. We didn't have the brands. We didn't have enough money to develop a brand. So that was our first lesson against the big guys.
+
+1 (42m 42s):
+Did you conclude that it wasn't worth it to go up against a Mattel or Hasbro?
+
+2 (42m 46s):
+No, because I mean, the flip tricks we're going right up against Mattel. It was going up against hot wheels. We have no problems competing with Hasbro Mattel, and we all always like respected them and learn from them. But we actually had no choice if you want it to be in the toy industry. Those were, those were the players that you were competing against. All right.
+
+1 (43m 3s):
+From what I understand, you started to go to Japan in 2000. And I lived in Japan when I was little kid from age four to six, my dad was there and I still remember the toys were unbelievable. Like years ahead, you start to go to Japan in 2000. Presumably because Japan, I think is still like, when it comes to toy innovation, probably the center of the world, right.
+
+2 (43m 28s):
+That's one of the most creative places you can go, but it is probably, it's very seminal to the journey of the company has taken. We actually went there with a, with a mission in hand, which was to try to find products in Japan that we could bring to north America.
+
+1 (43m 44s):
+And what is it about in your view? What, what is it about Japan? Why is Japan? This is sort of the, the Silicon valley. Let's say of toys.
+
+2 (43m 52s):
+I just think that their minds are very open and they, I think they just look at the world very differently and they look at things differently. And what would be strange to us is normal to them. Now, like when you think about like the Tamagotchi, like what a unique toy to come up with, or you look at something like, , I don't know if you've ever seen the preschool show on Vermont. It's the, one of the strangest characters you've ever seen in your life, you know? So it's like,
+
+1 (44m 20s):
+Or like Japanese candy. It's just amazing. Yeah.
+
+2 (44m 23s):
+I haven't eaten a lot of candy, but I think they, like, they just, they're just into doing different. They're good with different
+
+1 (44m 29s):
+W one of the decisions you made in 2005, which I think is a pivotal decision, maybe I'm wrong, but I think it was, is you moved your director of global licensing to Japan, and you really kind of wanted to figure out how to bring something from Japan, because I think 2005 would eventually a few years later lead to your biggest toy of all time up to that point, which, which was Bakugan. Am I right? That, that story begins in 2005. Yeah.
+
+2 (44m 60s):
+2006. And,
+
+1 (45m 1s):
+And can you, can you explain what Pakistan was? It was like
+
+2 (45m 5s):
+Marbles meets transformers. Yeah. So they were these marbles and that you roll them a table and you're aiming towards the card. The card, and in embedded in the card is a sheet of metal. But as soon as the ball hits the card, the magnet inside of the ball has activates a spring and then pops open and transforms the character, the ball into a character.
+
+1 (45m 28s):
+This idea came from some like a kid, a 23 year old named <em></em> who submitted this idea to spin master. You had, did you have like a, an open submissions, like a way to submit ideas?
+
+2 (45m 43s):
+He asked, no, it actually came. Audrick invented the item. So his, his genius was the idea to put an action figure into marble. Yep. And we took it in, we, we did a whole bunch of development. And then what happened was we said, well, you know, in Japan, they're so good with these like micro mechanisms. Maybe we can partner with someone in Japan. So we did a trip over there and we took it to Sega toys and we presented it to Mr. Coco, Bon, who doesn't speak a stitch of English.
+
+1 (46m 13s):
+He's the founder or the CEO of Sega at the time. He's
+
+2 (46m 16s):
+The president of secretaries
+
+1 (46m 18s):
+Sega like the video game company to,
+
+2 (46m 20s):
+Yeah, exactly. But his history was, he was an incredible toy inventor and a real true blue toy guy. So he saw the magic and he saw the potential. He said, sure, we'll partner with you guys.
+
+1 (46m 33s):
+And you knew because of play patterns, you knew that kids like marbles cause of like marbles for a long time. And they like to roll things on the ground and they like transformers things. And you knew all those elements suggested that this would take off.
+
+2 (46m 48s):
+Yes. I mean, when we licensed a product that had two elements, it had the marble and it had an action figure and a marble. So those were the two to play patterns with a really, really cool, magical sensation. Like when it popped open, like you got excited and then your ability to close it was automatic. Like you just, just to get two fingers and it closed. So there was like, it was very fidgety in terms of opening, closing and opening closing.
+
+1 (47m 12s):
+All right. So you're developing this toy, this new toy box. And I guess you decided to do something that you'd sort of learned about in Japan, which is when you launch it, you also launch a cartoon about, about the characters. And I don't, hopefully this, this doesn't sound crass cause it's not, this is a business show. I think that from a business perspective, this is absolutely brilliant strategy, but I mean, a cartoon is essentially a 22 minute advertisement for, for the product. Right.
+
+2 (47m 43s):
+I would say it's a way to actually accentuate the magic of the toy and it enhances the toy because how are you going to know the characters of the Bakugan, unless you can see them on the screen and hear them talk and see how they battle and how they work and all that type of stuff.
+
+1 (48m 2s):
+So what happened when <em></em> was released to kids? I mean, I remember to the 2000 tens, seeing that toy every in the hands of every kid, between the age of five and 10, 12,
+
+2 (48m 14s):
+It became a billion dollar franchise, that
+
+1 (48m 17s):
+Billion dollar franchise.
+
+2 (48m 20s):
+Yes. They've got billion dollar franchise. It had aired in literally 150 countries around the world. We did four seasons over 200 episodes. It just captured the hearts and minds of kids.
+
+1 (48m 30s):
+And I think around 2008, you transitioned from being a toy company to a 360 media company, which I think is fair to describe that, that way today.
+
+2 (48m 40s):
+Yeah, that was one of our, one of our goals was to have an entertainment division and Bakugan was the Genesis for it. And then after Bakugan we, we launched a show called , which was based on this really innovative card system that we created. Everybody was excited about it, all the retailers bought into it and it was a huge disaster. Like you could not give the product away. It probably took the retailers like two, three years to actually clear out the products.
+
+1 (49m 11s):
+What happened with the recession of 2008, nine and beyond, I mean, does that affect toys? Are toys relatively, you know, inelastic.
+
+2 (49m 22s):
+We actually had our best years in 2008, 2009 during the recession. So we didn't, we didn't really feel anything. Parents are not going to cut on. They're going to cut on their kids last in terms of consumer expenses and stuff like that. It's quite recession proof. The flip side of the toy industry. It's not a high growth industry, but it's just very, it's just very stable.
+
+1 (49m 40s):
+All right. So you've got the Bakugan I think by 2010 it was driving almost half of your sales. It was over 45% of your income came from BOQ Hogan, which is great, but also kind of scary, right? That one product is so dominant because if it, that revenue stream dries up you're in trouble, which I think kind of started to happen around that time. Right.
+
+2 (50m 5s):
+That's exactly what happened. So basically in 2011, the sales started to go down. And so basically our sales went from 2010. I think we peaked at about 950 million. And then by 2013, the sales were down to 500 million.
+
+1 (50m 26s):
+Wow. That's huge decrease. And that's because you put too many, you relied too heavily on Bakugan.
+
+2 (50m 34s):
+It was a combination of that. And all the products that we had coming up behind Bucca gone, those products didn't they just didn't work. They didn't connect with the consumer. Basically the product line just wasn't robust, that was falling up, buck a gun. We didn't think Bakugan would, would drop in sales as quickly as it did.
+
+1 (50m 51s):
+Why did it happen that by the way, what do you think happened? You know, I think
+
+2 (50m 54s):
+It's, I think it's actually a natural is, is that those types of toys have a certain life cycle to them. And they're usually a three or four year life cycle. And then they actually go down. So by 2013, we were, we actually retired back a gun. So it went from like hundreds and hundreds of millions of dollars a year in sales to syrup.
+
+1 (51m 16s):
+Once we come back after the break has spin. Master is airlifted out of its slump by a year old boy named writer and six search and rescue dogs, otherwise known as Papa patrol, stay with us. I'm guy Ross. And you're listening to how I built this. This message comes from NPR sponsor, click up. Did you know that people can spend 40% of their time on non-work-related tasks while at work, as we've shifted to work from home, we can lose our productivity to distraction, disorganization and work app fatigue, click up delivers a flexible platform that brings your tasks, docs, goals, chat, and more in one place used by 200,000 plus teams from companies like Uber, Google and web flow.
+
+1 (52m 12s):
+Try click up for free today at kickup.com/npr. This message comes from NPR sponsor DocuSign every day, someone signs something that means everything millions of people use DocuSign to share and sign legal documents from purchasing a car to closing on a first home or adopting a pet into the family. DocuSign has helped facilitate those important moments in their customers' lives. Learn how DocuSign e-signature can help be there for the next important moment in your life. Visit docusign.com today, DocuSign as real as it gets.
+
+1 (52m 55s):
+Hey, welcome back to how I built this I'm guy Roz. So it's 2012. And for the first time, since the company's launch, spin master is not turning a profit. In fact, it's losing millions of dollars and Ronan understands that in order to keep going, the company needs to come up with another hit but until that happens, he has to make some hard decisions.
+
+2 (53m 22s):
+We had to do two things. We had to lean into developing and really keying in on what are the right categories? What are the right products? And we should be launching. I think we got to the point where we had a lot of hubris and we were like, whatever, we're going to put out there, it's going to go. And, and
+
+1 (53m 39s):
+Cause you had so many
+
+2 (53m 40s):
+Hits, we had so many hits and we had so much success and everybody gets excited like, so we had to become much more judicious in the product selection. And then on the flip side, we had to restructure the company at that point in time, I think we had about 900 employees and we had to let go 350 people in a matter of 24 months, third, a third of the people. Wow. And we'd never done it before. It was an excruciating process. And we did four times four restructurings just because, you know, no one really wants to believe that the sales are going to go down. And so when we did the restructuring, everybody was like, you know, we don't need to let go of that. Many people, you know, the sales are gonna pick up, et cetera, et cetera. And it just never happened.
+
+2 (54m 20s):
+So it was like, it kept on jerking and the whole company, you know, like every single time you had to go out and make an announcement and make people feel comfortable in the company's. Okay. So when you do it four times, you know, you lose a lot of credibility and it's hard to keep the morale high
+
+1 (54m 34s):
+I'm sure. I mean four rounds of laughs. People must have been really worried and nervous about their jobs and it, it, it has to affect the, the,
+
+2 (54m 43s):
+The atmosphere that was stressful. The other stuff wasn't stressful, this was stressful. But I will say that, that we really, it was the time where we actually dug in and, and we're like, we need to tighten our marketing. We need to reduce our skew counts. We don't need to do as many things financially. We actually had no choice because in those two years, the company lost money and substantial amounts of money. So there really wasn't any, any options, but to me,
+
+1 (55m 13s):
+Right the ship. And then in addition, you have to come up with a new magical product. The next Bakugan the next air hogs. What did you
+
+2 (55m 21s):
+Do? We just got really focused. The one thing we didn't do is we didn't cut our R and D budget. We kept that and we kept on spending and we kept on investing and we were like, let's keep on trying. Let's keep on. Trying with new television shows. Let's keep on trying with new toys and we'll just be a smaller company, but let's just be a profitable company.
+
+1 (55m 39s):
+Ronan did you? You'd basically been profitable every single year and you've been growing every single year. And then all of a sudden, you're not only unprofitable, you're losing a lot of money. Were you worried about whether you guys are making?
+
+2 (55m 52s):
+No, I don't think I wasn't. I wasn't nervous. I actually, personally myself, I rise in a crisis and I'm actually better in a crisis. That being said, I mean, the relationships definitely frayed. We have, we have a saying, you know, I'm sure, you know, it was like growth hides, a multitude of sins. And when you're not growing all the sins come out. So everything came out, our relationships got challenged and tested, you
+
+1 (56m 16s):
+Know, keep it among the founders. Oh
+
+2 (56m 18s):
+Yeah. Amongst the founders came out the inefficiencies in the business, the way we're organized, everything came out. But I don't think that anybody was in a panic. It was more of like, this is not easy. And this is why older people have gray hair. You know, when people say they have grew up gray hair from something like this was our Seminole gray hair event
+
+1 (56m 40s):
+And you have some gray hair, I have a
+
+2 (56m 41s):
+Lot of gray.
+
+1 (56m 43s):
+All right. See you, you restructure the company, but you're also trying to find the next thing. And from what I understand, this, this concept, I mean, you knew that the concept of an animated show and, and products was successful and, and what, like be put out like a request for proposal from, from different creators, you knew for like a new kind of animated show. Tell me, tell me the Genesis of Papa patrol. What had, how did it start?
+
+2 (57m 13s):
+So I think one of the things that Dawn does is like, it's very hard to get success in the same genre more than once. So why don't we take focus on the preschool category? And we were like, well, why don't we do a show for preschoolers? And we said, what if we took the magical aspects of transformation and the kids loved and Bakugan, and they love and transformers and why don't we bring it to a preschool audience?
+
+1 (57m 40s):
+And by the way, a preschool audience, because that is, you know, is a good demo for, I don't know,
+
+2 (57m 48s):
+It's an incredible demo for toys, very steady demo for toys, and no one had ever done anything with that play pattern for that demographic. So we put out this brief, can you come up with a conceit or a story around transformation for preschoolers? We sent to the five different creatives around the world, and we got back a whole bunch of interesting proposals. And the one that we liked best came from the creator of Bob, the builder, his name is Keith Chapman, an incredible human being. And he came up with this great idea.
+
+1 (58m 20s):
+What was the idea? What was his concept? So his,
+
+2 (58m 23s):
+His idea was it was called Robbie and the rescue pups. And it was this idea of these five dogs that each had their own personality. One was a fire dog. One was another construction dog and other one was a police dog. And they go out and they solve difficult situations that happen in the town. So
+
+1 (58m 44s):
+He sends you this concept and it's not going to be called Robbie and the rescue dogs. Correct. Cause Robbie becomes writer later on, I think. Right, correct. When you saw this concept, did you, did you all say, this is it, this is the one.
+
+2 (58m 57s):
+Yeah. That's, that's what we landed on. We are like saw it as having incredible story, potential, incredible character potential. And then we said, well, how do we figure out the transformation? And we said, well, it'd be magical if we put backpacks on the pops and the backpacks transformed and what if their dog houses transformed into vehicles and that's how we marry it up. So we had the transformation plus straight story, good character, all that stuff mixed together. And we were like, let's, let's move. Let's try.
+
+1 (59m 30s):
+And I think, I think the show pop patrol debuted in, in 2013 is that right? 2013 and to take off right away,
+
+2 (59m 38s):
+It took off pretty quickly. But I will say this much as that the show got developed and refined over time. Awesome.
+
+1 (59m 47s):
+Through that, that concept. Right. I mean, you can do, I remember that they, I mean, I know the action figures, like it's everything, it's, it's toys, it's stuffed animals. It's pajamas, it's lunchboxes. It's I mean, I'm just scratching the surface, right. It's endless what you can do with a character that sticks. Yep.
+
+2 (1h 0m 5s):
+Yeah. You're exactly right. I mean, there's, that's the magic is when you have a character that kids love and trust and can relate to, then they'll want to spend time with them in different form factors. So it definitely helped turn around the business
+
+1 (1h 0m 18s):
+Hard to overstate how all those elements came together into this perfect match. Because I believe that pop patrol as a franchise is one of the biggest toy franchises since mighty Morphin power Rangers.
+
+2 (1h 0m 36s):
+Yes. Is it is a once in a lifetime, once in a generation franchise that has exceeded all expectations. And it's something that, that we've worked towards. You know, originally we had Papa five and we had Paul for 10, you know, we're coming on the 10th anniversary. And now we have a motto, which is Paul forever. Our job is to just keep it fresh. Exciting. You know, we just came up with the movie, came out this past August. The first time we did a feature length film, animated film. And so that was a milestone for pop patrol. We didn't do another film in 2023. You know, we want pop patrol to be around for, for a hundred years.
+
+2 (1h 1m 16s):
+You know, it's our Mickey mouse.
+
+1 (1h 1m 18s):
+What is it about a character that makes it enduring? I mean, why does Mickey mouse endure? And, but not, you know, I don't know Garfield who I watched when I was a kid or the Smurfs even. I mean, he had to get it, but the Smurfs aren't as big as they, I don't think they're as big as they were when I was a kid.
+
+2 (1h 1m 35s):
+I think a lot of it has to do with keeping them relevant. You know, if you look at, let's say like franchise, like Spiderman, they're always doing movies there and they're taking risks with their Moonies. You look at transformers, they did films and they were really innovative with their films.
+
+1 (1h 1m 49s):
+They're so different from the cartoon that I watched as a kid that,
+
+2 (1h 1m 52s):
+You know, so they're, they're relevant and they're timely. And I think that, you know, stuff, other franchises, they just didn't keep things fresh and kids, they can sense it. So it's, I think that we're, we're following that model.
+
+1 (1h 2m 8s):
+What do you think the value of that franchises today? If you could put a price on it, priceless
+
+2 (1h 2m 15s):
+It's multi-billion dollar franchise. Wow.
+
+1 (1h 2m 19s):
+You decided to go public in 2015. So 20 years after you launch, imagine for a variety of reasons, one is to raise money, but to, you know, to reap some of the rewards of what you, you had built, was that the decision behind why you went public?
+
+2 (1h 2m 34s):
+No, it really wasn't the, the real decision why it went public was to actually set the company up for success. In the future, we felt that for the company to outlive the founders, it's best for the company to be in a public construct rather than a private company. It was like, we knew we were getting a little bit older, who knows what's happening in the future. And as an entity, it's not reliant on three shareholders. At the end of the day,
+
+1 (1h 3m 2s):
+You had this challenge with Baku gone, where it was accounting for 44% of your revenue. And then when the sales went down, you took a hit. And presumably you learned the lesson from that. But I have to assume that the pop patrol is still the biggest driver of revenue for the company. Is that fair to say,
+
+2 (1h 3m 19s):
+You know, it's significant that being said, after what happened in the downturn years, we became very conscious on diversifying our revenue. And so we went out and we bought a company called swim ways, which specializes in the pools when we talk
+
+1 (1h 3m 35s):
+A float
+
+2 (1h 3m 36s):
+Float is, and it's counter seasonal. It's great. In spring and summer,
+
+1 (1h 3m 40s):
+You've got Etch-a-Sketch
+
+2 (1h 3m 42s):
+At just get, we have a whole activity part of our business, which is at a sketch. We also diversified into the games business. So that's very stable, reoccurring revenue. We bought a company called Cardinal in 2015. So we're the largest manufacturer of puzzles and chess sets and poker chips and all that type stuff. Yeah.
+
+1 (1h 4m 1s):
+And I don't mean as a pun head spinning, spin masters, head spinning to me, the industry's head spinning vertigo, just thinking about all of the things that you're part of 20,000 products, a media arm games, digital products, it seems like in this industry, you just can't, you have to continue to move, you cannot stop or else you die.
+
+2 (1h 4m 24s):
+I think that's entertainment. That's the essence of the entertainment business. I mean, I mean, the way you describe it, it sounds like exhausting, but, but I think at the same time, you know, the flip side is that it's exciting. It's exciting to work on new and fresh and to design stuff and to create stuff. And I think the creation processes is, is where the magic is. No, sometimes I wish we were just like a one product company or one, you know, one idea, but I think it would actually be boring if we just, it was just one product. And that was it.
+
+1 (1h 4m 55s):
+Now that you decided to step down, I can't believe you.
+
+2 (1h 4m 59s):
+I like to, I like to use the, I like to use the word step up,
+
+1 (1h 5m 2s):
+Actually step up. Okay. Yeah. I can't believe you were in the leadership position with the company for 25 years, a long time. You're still young. I mean, I think you're maybe close to 50 or just 50. That's great. You can still sell a lot of time to enjoy your life. But I mean, man, I imagine that that was your thinking. You're like, I'm done, I did it. I can play a different role in the company.
+
+2 (1h 5m 27s):
+No, that actually wasn't that wasn't a hundred percent the thinking it was the co CEO model that Anton and I had and Ben it traditionally is not a good model. So it's incredible that lasted this long. And one of our biggest goals is for this business to live beyond the founders. And so this was part of the transition plan to enable that to happen. So we're very much connected to the business and, and engaged in and want to guide and shepherd it into the future. We'll just guide and shepherd it differently.
+
+1 (1h 6m 2s):
+Ronan. When you think about this trajectory, you know, you started this business with the pantyhose stuffed with sawdust and grass seed and turned it into a, a $4 billion company. How much of that do you attribute to how hard the three of you worked and, and your intelligence and how much do you think has to do with, with getting lucky with, with toys and products and ideas?
+
+2 (1h 6m 24s):
+I think we're lucky that we found each other. I think we're lucky the people that decided to join our company, the people that we've been able to attract and partner with and people that wanted to take the journey with us, whether it was Bakugan or pop patrol and these partnerships, I think that's where the luck came in. And then, you know, we put in the time, you know, I have a saying, you know, you don't go, you don't get. And we went out a lot, you know, Anton, like, you know, he opened up all the offices in Europe. He, you know, he did all the sales with all the retailers, manners, all those relationships. Ben was constantly going out and meeting with the inventors, going to their offices, doing inventor trips. We did all that stuff. And the last thing I'd say is that we never blamed anybody for failure because it's too complex in our business.
+
+2 (1h 7m 8s):
+There's too many stakeholders when you're doing creative things that you can blame one single person. So for sure, listen to the universe works in strange ways. And a lot of is, is out of our control, but we need to show up too at the same time. So it's a combination of
+
+1 (1h 7m 25s):
+That's Ronan Harari co-founder of spin master, by the way, VOC Hogan was discontinued in 2013, but after a major rebranding, it was brought back in 2019 with upgraded characters, a card game, and a new anime series. Oh, and one other thing, next time you watch pop patrol, pay close attention to one pup in particular, Rocky, he's a mixed breed mud with white paws and white Tufts of hair. Rocky is resourceful and handy and despises water, especially baths. And he happens to be modeled on Ronan Harari.
+
+1 (1h 8m 8s):
+Hey, thanks so much for listening to the show this week, please do follow us on your podcast app. So you always have the latest episode downloaded. If you want to contact us. Our email address is H ibt@npr.org. And if you want to follow us on Twitter, our account is at how I built this. Mine is at guy Ross. Our Instagram is at how I built this NPR and mine is that guy, doc Roz. This episode was produced by Casey Herman with music composed by REM, Tina or bluey. It was edited by Neeva grant with research help from Claremore Ashima. Our production staff also includes their safari, Liz Metzger, JC Howard, Juliet Carney, Carrie Thompson, Elaine coats, and Harrison BJ Choi.
+
+1 (1h 8m 48s):
+Our intern is Catherine cipher. Jeff Rogers is our executive producer and guy Roz. And you've been listening to how I built this. This is NPR. This message comes from NPR sponsor. Kendra Kendra designs builds, manages and modernizes the mission critical technology systems that the world depends on every day. Kendra, the hardest
+
+8 (1h 9m 22s):
+Progress this message comes from NPR sponsor. Goldman Sachs companies with diverse founders are more likely to have industry leading profitability. That's why Goldman Sachs set up launch with the GS a $1 billion investment strategy for underrepresented founders.

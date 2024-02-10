@@ -1,0 +1,443 @@
+0 (0s):
+Hey Prime members. You can listen to how I built this early and ad free on Amazon Music. Download the app today.
+
+Indeed (9s):
+These are our hiring goals. They say they're very aggressive, but when everyone looks to you, you're calm. Why? Because you know you don't need a miracle. You need indeed. Indeed is the hiring platform where you can attract, interview and hire all in one place. One of the things that I really appreciate about Indeed is that it helps you easily schedule and conduct virtual interviews and not just that. Indeed's matching tools really make it easy to find quality candidates. In fact, on Indeed, over 85% of employers find quality candidates whose resume matches their job description the moment they sponsor a job. Start hiring now with a $100 sponsored job credit to upgrade your job. Host at indeed.com/built this offer good for a limited time claim your $100 credit now at indeed.com/built. This terms and conditions apply.
+
+Airbnb (1m 2s):
+Maybe you've stated an Airbnb before and thought to yourself, this actually seems pretty doable. Maybe my place could be an Airbnb. It could be as simple as starting with a spare room or your whole place when you're away. You could be sitting on an Airbnb and not even know it. Maybe your kid is heading off to college in the fall and you'll have an empty bedroom. You could Airbnb it and make some extra cash while they're away. Or if you have a vacation plan for this summer, that could be a good time to Airbnb your entire place. Whether you could use a little extra money to cover some bills or for something a little more fun, your home or spare room might be worth more than you think. Find out how much at airbnb.ca/host
+
+Peloton (1m 46s):
+working out is tough. And finding a workout program that sticks is even tougher, which is why I always look for people to work out with because they hold you accountable. But it doesn't have to be that way. In fact, Peloton built an app that'll make you crave your workouts. The free Peloton app has classes like yoga, strength training, hit cardio and boxing. That can be done wherever. Whenever. Whether you have five minutes or 20 minutes, there is a workout for you. And Pelotons classes don't feel like a regular workout class. They feel like entertainment. They're fun, exhilarating, laugh out loud, hilarious, and make you wanna come back to them over and over and over. Ready to give it a try. Get started and download the free Peloton app today. Peloton app. Available through free tier or paid subscription. Paid membership. Start at 1699 a month.
+
+0 (2m 41s):
+Hello and welcome to How I Built This Lab. I'm Guy Raz. So back in 2008, Tina Roth Eisenberg got tired of working alone at her home office. Tina's a graphic designer by training and she knew a bunch of other designers who felt the same way. So that year she rented an old office in Brooklyn and turned it into a co-working space and she invited a bunch of friends to join her. Now what happened next? As she remembers it was magical conversations flowed. Ideas were germinated. Collaborations forged. The ideas exchanged. Over lunchtime conversations actually inspired multiple business ideas for Tina, including Tattly, a temporary tattoo company, and to-do a simplified to-do list website.
+
+0 (3m 27s):
+These conversations were everything Tina had hoped for, and so she started inviting other people to the co-working space to join in. Those meetups morphed into something Tina called Creative Mornings. Fast forward to today and Creative Mornings now has more than 200 chapters around the world that host free monthly meetups and talks. Tina was born in Switzerland where she studied graphic design and not long after she graduated from college, she decided to move to New York City.
+
+1 (3m 57s):
+When I graduated at 25 from graphic design school, I saved enough money. I was like, I am going, I have enough money for three months. I'm gonna try to find an internship. And I got on a flight.
+
+0 (4m 7s):
+All right, so you get to New York, you're in early twenties, you get, I think you get an internship in the city at a, at a design studio. Yeah,
+
+1 (4m 17s):
+It was pretty magical. I had one interview lined up in a small design studio in downtown Manhattan, and that interview was 16 hours after arriving in New York. And after five minutes of walking into that studio and talking to Matthew Waltman who ran it, he looked at me and said, you will never leave New York. You will marry a tall Jewish man. And you got yourself an internship. And set me down. Wow.
+
+0 (4m 43s):
+And did that all happen?
+
+1 (4m 45s):
+Yes, it all happened
+
+0 (4m 46s):
+Even tall. He was a tall man. He
+
+1 (4m 48s):
+Was a tall Jewish man. Yes. Wow.
+
+0 (4m 51s):
+It's like a, yeah, like a crystal ball. He's like, you're gonna stay in New York. You're gonna marry tall Jewish man and you're gonna work in design.
+
+1 (4m 56s):
+He's a, he's a bit psychic.
+
+0 (5m 1s):
+So Right. So you end up, you know, taking this job is, and, and what kind of design were you doing?
+
+1 (5m 7s):
+I was an extremely multiverse designer. I was able to do print and I taught myself HTML and, and web design. And so I was, I was like a, a typical Swiss army knife. I could just do it all. But then very quickly became the web girl within that small design studio.
+
+0 (5m 24s):
+Yeah. I know that you, at that time, in those early days, you would, I mean, New York was probably this incredible, I mean, especially from a design perspective, cuz it's a center of design, one of the global centers of design. You, you were exposed to all these kind of creative people going to parties and going to art shows. And te tell me about that world that you landed in in New York.
+
+1 (5m 49s):
+Oh, it was incredible. It was still the, the dotcom heydays. I remember I made a really, really small salary and could barely afford, you know, living in New York City. But thank God for all these free internet parties at these internet startups. It was, it was a magical time when the web was sort of ex, you know, exploding and everybody thought it's gonna change the world forever, which it did to a certain extent. But I feel like we have similar hypes right now, you know, around just recently NFTs and then now ai. And just reminds me a bit of that time
+
+0 (6m 27s):
+In 2005 you started a blog which is still going, which is for people I haven't seen this. Awesome. I love it. It's such a great blog. And it's called Swiss Miss, not the Coco, you are a Swiss person who's a Swiss miss. It's a great name. Do you ever, do you ever get any grief from Swiss Miss Coco?
+
+1 (6m 47s):
+Oh no, never. You know, I actually got the trademark for events and design related things and my lawyer thought it was really, really bold and they agreed to it. They said if you put in there that you will never sell any chocolate related products, we're okay with it. It's pretty wild.
+
+0 (7m 4s):
+Yeah, yeah.
+
+1 (7m 5s):
+In my heyday, they really missed an opportunity to partner with me because I had like 2 million readers a month at the time. Wow. And I sent him so much, I mean so much traffic cuz everybody put in Swissness without desk Swiss miss. Yeah, yeah. It was
+
+0 (7m 18s):
+Pretty bad. That's what happened to me. I was like, huh, I typed in Swiss Miss and I was like, wait, Swiss Miss Coco, I wonder what their website looks like. And it's a great name tell. And this is like early blog days, this is like, it's still kind of the Geo Cities era of blogging. Tell me, tell me about that blog. What, what was the, the idea behind starting that?
+
+1 (7m 37s):
+Well, I, you know, I was just a curious designer working in a design studio at the time. And every morning I will come in and I would spend a few minutes sort of seeing, you know, what's new on the web. It was such an exciting time because web was such a playground. It was not a self-promoting universe as it is now. It was just really playful and, and I just love discovering new products or websites or typefaces or whatever it was. And, and I was like, I need a place to kind of keep my personal archive to go back to it and find it again. And so I just started a block for myself to sort of have my personal archive. And a few months in my friend said, do you realize that people are linking to you?
+
+1 (8m 20s):
+Do you ever look at your stats? And then I realized that my personal archive was actually not that personal. And obviously yeah, that was very exciting when I realized that people are enjoying what I'm sharing.
+
+0 (8m 31s):
+And it was just cool sort of things from the design world.
+
+1 (8m 35s):
+Yeah, I mean, I have a very distinct and specific taste I would say. Hmm. And, and I feel like now more than ever, I personally really appreciate sort of, I call them gardens on the internet, where people carefully curate them with their taste, with their lens on the world. Yeah. And, and that's what I'm trying to do. And it's just cool that people can tap into it.
+
+0 (9m 2s):
+Yeah. Alright, so you're working on your blog Swissness again, love, love the name. And meanwhile you're working at this design firm for I think a pretty long time. Right? And, and it was, I mean, you were there for a long time, but I guess in the mid two thousands something happened in your career, which would eventually lead you to, to creative mornings, which we'll talk about in a moment. But, but what was going on at the time?
+
+1 (9m 25s):
+Well, actually the big thing that happened was in 2006 or 2005 when I became pregnant with my daughter, my, my first kid. And I had some weird introspective moment going on, like with an angelic choir coming down of saying, Hey Tina, it's time to start your company. So I started my design studio when my daughter was born. And then through, through that I intuitively wanted to create a space for people like me. So they are not alone at home. And this is before coworking spaces were a thing. Yeah. I just had a hunch that there's people like me out there who are creative, who are entrepreneurial, who are, you know, sort of believe in living a creative life and who wanna surround it themselves with kind and heart-centered people.
+
+1 (10m 9s):
+And so I built the space and I said, where
+
+0 (10m 12s):
+Was, where was this space?
+
+1 (10m 13s):
+This was in Dumbo. It was very cool. It was like a white box. Yeah. In Dumbo, Brooklyn, a white box on the East River and Wow. Talk about build it and they will come. It
+
+0 (10m 22s):
+Was a, it was like a, it was like a warehouse that you rented and you built it out inside. It was
+
+1 (10m 25s):
+Just like a very raw office building, you know, was no heat, the bathrooms was just shitty. I'm sorry. It was horrible. Yeah. I had to organize the cleaning, but I didn't care. I was just like, you know, let's be scrappy. It's fine.
+
+0 (10m 36s):
+You wanted just to be clear and you wanted a place where like five other people could come every day and like work if they wanted to, but just also cuz you were working from home. This is before people worked from home. Exactly. This, this is what you did. Yeah. This is, you were pre-work from home long before everyone, everyone else cut on. But, but you were, you were sort of thinking, hey, there are other people like me, creative people that work from home, they're not interacting with other people like me. They didn't have an office space to kind of throw ideas around, let's do something. And this was the idea. Exactly.
+
+1 (11m 5s):
+And I just had a hunch that really magical things will unfold when you are surrounding yourself by people with similar values and sort of a creative outlook on life. Yeah. And it was exactly what happened. Like our lunch conversations were magical. The amount,
+
+0 (11m 20s):
+And this was originally, it was called, you called it studio mates, right? Yes. We
+
+1 (11m 23s):
+Called it studio mates. And we attracted just the most magical, smart people on the internet. Like, it was just like, when you can turn around or like just have lunch every day with people that are extremely driven and smart and working on super exciting projects that is, it's like a little mini Ted talk every day for lunch.
+
+0 (11m 45s):
+And everyone kind of basically paid a fee to obviously to cover rent. Right, I imagine. And it was just not a, it doesn't sound like this was a money-making venture. No. Really is designed to just be a And how did you find the people? Like, I mean, I'm assuming you had some friends that you're like, Hey, you wanna join up and, and like, work in this place with me every day?
+
+1 (12m 3s):
+Well, I was lucky because I had my, my blog, I had an outlet. And I feel like just over the years of running my blog with so much integrity and heart and generosity, like there was just, you know, a a trust that people had in that I would also equally, you know, curate a, a physical space. Yeah. As I'm curating an online space.
+
+0 (12m 24s):
+When I was reading about the reason that you gave for, for how you originally came to this idea, you had, I guess you'd read a quote from Seth Goden. I love this quote and I'm gonna read it. And it basically says, who you hang out with determines what you dream about and what you collide with. And the collisions and the dreams lead to your changes and the changes are what you become.
+
+1 (12m 45s):
+That's so true.
+
+0 (12m 46s):
+And change the outcome by changing your circle. He wrote, and so I guess that quote really applied here. Like, you were, you were thinking, well yeah, let's, let me surround myself with people who are thinking in creative in different ways.
+
+1 (12m 59s):
+I mean, your environment matters. Yeah. You know, what are your, the people in your environment dream about pushes you. And, and, and I think that's what the world needs. We need to gently push each other to think bigger, to think bolder, to think in new ways. And that's what my coworking space does every day.
+
+0 (13m 18s):
+We're gonna take a quick break, but when we come back, how Tina Roth Eisenberg went from operating a single coworking space in Brooklyn to launching Creative Mornings, an event series that brings creatives together in cities all around the world. Stay with us. I'm Guy Raz and you're listening to How I Built This Lab.
+
+Canva (13m 37s):
+Today's sponsor, Canva for Teams, is a design platform that makes it easy for anyone to create stunning visual content, even if you're not a graphic designer. Our team uses it to create episode artwork, social media posts, and graphics for our website. Canva has endless templates for things like presentations, business documents, brainstorms, posters, and more turn inspiration into design in no time with canvass wide selection of premium fonts, photos, graphics, videos, audio tracks and animations. Canva also has AI powered magic features to help kickstart your creative process. Like Magic Wright, simply enter a prompt and Magic Wright will generate a first draft. It's the perfect way to banish writer's block, increase your output, or get to a first draft fast design and collaborate with Canva for teams. Right now you can get a free 45 day extended trial when you go to canva.me/built. That's c a nva.me/built for a free 45 day extended trial canva.me/built
+
+2 (14m 43s):
+In the aftermath of a shocking crime. People always ask, why, why would someone do something like that? What could possibly push them to commit such a horrible act? Was it money revenge? What makes people like that tick. I'm Candace DeLong, host of the podcast Killer Psyche, where I explain the thoughts, motivation, and behaviors of the most violent figures and history. You may think you know these cases, but trust me, you do not. Using my decades of experience as an F B I agent and criminal profiler, I dig deeper into the twisted psychology of why many of the cases covered on Killer Psyche.
+
+2 (15m 25s):
+I actually worked on like the serial killer Ted Kazinski, the Uni Bomber and Dennis Rader, also known as B T K Follow Killer Psyche. Wherever you get your podcast, you can listen ad free on the Amazon Music or Wondery app.
+
+0 (15m 51s):
+Welcome back to How I Built This Lab. I'm Guy Raz and my guest today is Tina Roth Eisenberg, a serial entrepreneur who, among other ventures, opened a co-working space in Brooklyn back in the mid two thousands that eventually sparked the idea for the well-known event series Creative Mornings. Alright, so you've got this group of like six people coming in, bringing in their lunch chatting, sometimes working on their laptops, but there's something happening, there's an energy in this little office that you put together and, and I guess this sparks an, an idea that would become a much, much bigger thing, and that we know now is Creative Mornings.
+
+0 (16m 31s):
+But tell me the origin of, of that. How did, what was the initial spark?
+
+1 (16m 36s):
+Well, so as I started seeing just a magic that unfolded by gathering these creative, heart-centered humans in my co-working space, I, I realized just how much that puts fuel into my personal chat pack. Like just human connection is, is what makes me thrive. And you know, my desk was literally on the East River looking at Manhattan and, you know, in moments where my heart was bursting out of my chest because what we created was so magical and so beautiful, I kept thinking there's so many more out there. And so I became, I, I call myself a human gatherer at heart and I was like, I wanna gather them all. I wanna create an opportunity that we can, you know, open up the circle.
+
+1 (17m 17s):
+And also, just to backtrack for a second, when I moved here in 1999, I literally did not know one soul here in New York. I was really wondering where my people were. Yeah. I was like, where are they? Where do I find them? And my salary was so low, I could not, I could not afford industry events. So it's also kind of like a, I wanted to build the community I wish existed when I first moved to New York. And, and so it was a bit of a, a combo of, of hunches. And that's how the idea for Creative Morning started.
+
+0 (17m 51s):
+You knew something magical has happened just to, to I I'm just curious, what, what was the magic happening in that space that, that got you to think, Hey, we need to expand this out. Like what were the co was it conversations? Was it ideas? What, what was going on
+
+1 (18m 5s):
+There? There was just goodness and a sense of possibility in the air and a playfulness. And we had that. We were working hard, but we were also having a, a really good time. And I just felt energetically that the world needs more of that. Yeah.
+
+0 (18m 24s):
+So you guys decide, Hey, let's have an event here and just what you just like put it on your blog like, Hey, we're gonna just creative people come by this address. Is that what you did?
+
+1 (18m 36s):
+Yeah.
+
+0 (18m 37s):
+And it was just like, it was like, just come by and we'll hang out. There was no agenda. Yeah. It
+
+1 (18m 42s):
+Was just breakfast, let's hang out. Right. We fill a room with gentle strangers and we'll just meet each, we'll see what each chat.
+
+0 (18m 49s):
+And this was in September of 2008 at, at this space in Dumbo. And how, how many people showed up?
+
+1 (18m 55s):
+I think about 55, 60. Yeah.
+
+0 (18m 57s):
+All right. So cool. And a bunch of people coming in. And did magic happen? Was it, was it like all these creative people in this room and then just sparks were flying? Or, or, or not quite. Well,
+
+1 (19m 8s):
+Funny enough, the first one we had in our space and the, the elevator was broken. The bagels were stale. It was, and I was like, well, I'm taking notes. This is not great. And there was no talk, which I realized made it very networky. I, I don't know, I don't think it was magical, but people were excited together. Yeah. I I I think whenever there's a pure intention in gathering humans, people are somewhat buzzing. Yeah. Yeah.
+
+0 (19m 34s):
+All right. So they show up and, and there was no agenda. So, so how did you feel about it? I mean, was that, did you feel like, oh, we should do this again? Or, or maybe we should rethink this or what?
+
+1 (19m 47s):
+Well, you know, the, the beauty of being a trained designer is that I think in a prototyping mindset, and I will never take this for granted, because oftentimes when I work with people that did not sort of come out of a creative space, they always think that they have to create something and it needs to be perfect. So to me, it was totally fine. I was like, okay, here's the things we can improve. And to me, it was clear that I'm gonna keep going and keep prototyping and keep chiseling away at it. And so I just kept gathering humans every month, you know, it was such a simple concept once a month breakfast and a talk
+
+0 (20m 23s):
+And a talk. Okay. So, so you decide it's not enough to just gather people. Let's have, let's have a presentation about something.
+
+1 (20m 29s):
+Yes. It was a really interesting project, but I think the, the magic that I started realizing that was unfolding is people really loved seeing into other work environments. Yeah. So the first few years we were hosted at agencies design studios, or even within six months we were hosted at Google, which really to me was an indicator, okay, there's something happening here if, if Google invites us in.
+
+0 (20m 53s):
+Yeah. And it was entirely, I mean, this was launched through your blog, and it was just an idea. Like, I mean, of course there were in our TED Talks, for example, which are very kind of, you know, more formal and people have, you know, sort of a set amount of time. But the idea was these would be very informal talks and, and we just, you would just do one and people would come and there'd be free breakfast and it was free, and that would be it.
+
+1 (21m 19s):
+Yes, yes. Absolutely. And what I realized very quickly is that giving people a chance to share their gift is a really beautiful thing. And then me telling them, Hey, you are gonna get, I don't know, a hundred, 150 people's attention their time. What are you giving to them? What gift are you unfolding for them on stage?
+
+0 (21m 45s):
+So you start this in September of 2008 as a one-off and decide, let's keep doing this monthly, this monthly gathering, and we'll call it Creative Mornings. How soon before you were like, you know, maybe we should like, incorporate this and, you know, and make this formalize this thing.
+
+1 (22m 3s):
+Well, I would say the big, the big moment was when I received an email from Ben Chestnut, the co-founder of MailChimp,
+
+0 (22m 14s):
+Who has been on how I built this. Yeah, I know,
+
+1 (22m 16s):
+I know Story. Yeah, I know. He's become a good friend since.
+
+0 (22m 18s):
+So he, he contacted you, what, just a few weeks or months after you launched? Four
+
+1 (22m 23s):
+Months into launching. So apparently he read my blog and he emailed me and says, Hey, my team, like, literally it said, my team would poop their pants if they saw us team up. So can, can I support you? Wow. And I remember sitting there going, I don't know. And I just emailed back, do you wanna pay for breakfast? And he's like, deal. And so it was beautiful. The, the journey of sponsorship or partner, I call it partnerships, started with Ben
+
+0 (22m 49s):
+And you just put up a sign that said, like, supported by MailChimp?
+
+1 (22m 52s):
+Well, no, see, that's the beauty is that I then got connected to who at the time was the head of marketing, who's still there and is still involved in a lot of things at MailChimp. So I was connected to him and I was like, fully prepared to hang banners and do ads and whatever. And he goes, Tina, no, no, no, no, no, no, no, no. Like, I'm gonna send you some t-shirts and some monkeys. Let's make this fun. Wow. And just from out of the gates, I mean, I could not have had a better partner in showing me that. Just like I believe, you know, radical generosity is a thing. I mean, MailChimp was literally the patron of the creative community. The things they have enabled generously is just on rail.
+
+1 (23m 33s):
+Wow.
+
+0 (23m 33s):
+All right. So you have a sponsor and you're doing these, and, and how were you curating the talks? Were you, were people reaching out to you and saying, Hey Tina, can I talk this month? Or, or were you reaching out to people and what, and what did you say? Like, what did you look for in a talk?
+
+1 (23m 50s):
+I was reaching out to people, but I have to admit, man, I look back now and I kind of cringe at my curation a little bit is where that's fine. But I guess this is where we, that's part of see growth, that's design process. Yeah. Yeah. This is where we see growth. Well, I was just, in the beginning, it was extremely designed heavy, of course, to speakers because I was still running a design studio. And so the talks were mostly design-centric. And I just, you know, I, I think I just had a antenna out, like who would have something interesting for this community to share, period. To the point where I remember when I thought I have to stop running it when I was pregnant with my son in 2010, and I thought, I'm gonna go out with a bang and I'm gonna ask my dream speaker. I never forget when I walked up to Michael Berut of Pentagram at this event, and I said, Michael, I'm Tina.
+
+1 (24m 34s):
+I run Creative Mornings. Would you give a talk in January? And he just said, yes. Hmm. And then he gave such an incredible talk that I figured that's the universe telling me I can't stop. So I didn't stop.
+
+0 (24m 47s):
+And, and Pentagram's a big design company Yes. I should mention for people who don't know yet. Yeah.
+
+1 (24m 51s):
+They're as renowned as it gets.
+
+0 (24m 54s):
+And I guess also that year, that summer you went back to Switzerland for the summer and decided to, to like put on a Creative Mornings event, just coming for fun there.
+
+1 (25m 5s):
+Yeah. I sort of didn't wanna have gaps in, in hosting it because it's just an event once a month. Yeah. So I boldly decided to reach out to the Fry Tuck company that's like the coolest company in Switzerland. They make bags out of truck tar. Oh
+
+0 (25m 21s):
+Yeah. Oh, I know this company. Yeah. Out of, out of billboards, right? Yeah.
+
+1 (25m 24s):
+Yeah. Actually truck, truck tarps and
+
+0 (25m 26s):
+Yeah. Yeah. It's a cool company. Yeah. Super cool. Oh
+
+1 (25m 29s):
+My God. And I reached out to them, to the founders, like, Hey, do you wanna speak or do you wanna host us? And man, they hosted us in their factory. It was the coolest thing. And we just, yeah, we did it. I mean, it was just me. I remembered Yeah. Flying in with my kids and I was like, look at this. You can, you can be so scrappy in putting on events. Like, that's what I want the world to know. Yeah. Like, don't overthink it, you know, scrappy is where it's at.
+
+0 (25m 52s):
+And were you, were you video recording these too? Yeah, initially, yeah. It's online. Yeah. Okay. So you were videoing them and putting, and you were putting the videos up, but it seems like the, the community that was showing up to these things would not let you stop this. Like, you, you wanted to kind of put the, put this to bed, but they did not want that to happen. Yeah,
+
+1 (26m 10s):
+That's what I started feeling. And that's, I have to say, that's a really amazing feeling when you start something and you start realizing you can't really stop it. Yeah.
+
+0 (26m 19s):
+Because people, people start to become dependent on this. And, and really it was just initially, and I mean, you did a couple of these one-offs in Zurich, but really it was New York. It was in New York where you were based, you do 'em once a month. But I guess people started to come to you even in Zurich, and they were like, Hey, we wanna keep this going in Zurich. Is that what happened?
+
+1 (26m 42s):
+Yeah. The second time I brought it to Zurich, this young man, Daniel Fry, he basically cornered me with a whole team. And he says like, we're not gonna let you go until you tell us that we can bring this to Zurich. And I mean, he said it very kindly, and I was like, okay, so lean into this. And, and my gut just told me like, Tina, figure it out. Figure it out. What do you mean to let people run this and sort of create the container for it, that it's protected yet free? Sort of asking myself, what are the non-negotiables? What do I need to tell someone that they keep the spirit of it alive, but yet I give them enough freedom to put their own stamp on it. All
+
+0 (27m 19s):
+Right. So you basically, people are like, Hey, I wanna start a chapter. And, and then other people are like, I, Hey, can I do one in la? And, and just, first of all, how did you initially feel about that? Were you like, I don't know, it's just too much for me to manage and like, what was your thinking around that? Well,
+
+1 (27m 39s):
+I, to be very honest, I was super scared. I, I was very scared. And, but I also know that when I'm scared, that's when I need to really pay attention, because that's where the growth happens. Yeah. And, and I had to ask myself, what are you scared of, Tina? And what I realized is that what I have created was so deeply personal. It's a real extension of my values of how I wanna live my life. I believe in living a very generous life. I believe, I believe in gathering humans. And so to me it was like, what if, what if people don't keep that spirit alive? What if it becomes an event that doesn't feel good? Yeah. So I was afraid it would reflect badly on me.
+
+1 (28m 22s):
+But then I also realized that I'm a big believer in trust breeds magic. That trust is the biggest compliment of all. And if you set people up, right. And o obviously do your homework. Did, did people that ask me originally, I just knew they were really good people. Yeah. Also, what I've learned over the years is that these were people that were in service of community. There's type of humans that are just showing up like that. And yeah. And, and so in the end of the day, I, I leaned into the discomfort of it, you know, sort of, I'm also sometimes someone who just closes my eyes and says like, oh, I hope it's gonna go okay. Yeah, yeah. Denial is a good thing.
+
+0 (28m 59s):
+We're gonna take another short break, but when we come back more from Tina about giving up complete oversight and control and letting others start Creative mornings, chapters all around the world. Stay with us. You're listening to How I Built This Lab.
+
+5 (29m 20s):
+Shh.
+
+6 (29m 21s):
+Coming soon from the People.
+
+7 (29m 23s):
+Another sequel. Could it really be as good as the original In the case of Ca Insurance, it can, it's from the same people that bring you ca roadside assistance. And just like you can count on ca to help when your car breaks down, you can count on Ca Insurance to help keep you and your family protected. Call it an instant classic ca insurance company, making things better.
+
+8 (29m 47s):
+Hi, I'm Lindsay Graham, the host of Wonders podcast, American Scandal. We bring to life some of the biggest controversies in US history. Presidential lies, environmental, disastrous corporate fraud. In our newest series, we look at the Kids for Cash Scandal. A story about corruption. Inside America's system of juvenile justice in Northeastern Pennsylvania, residents had begun noticing an alarming trend. Children were being sent away to jail in high numbers, and often for committing only minor offenses. The FBI began looking at two local judges. And when the full picture emerged, it made national headlines. The judges were earning a fortune, carrying out a brazen criminal scheme, one that would shatter the lives of countless children and force a heated debate about punishment and America's criminal justice system.
+
+8 (30m 33s):
+Follow America's scandal. Wherever you get your podcasts, you can listen ad free on the Amazon Music or Wondery app.
+
+0 (30m 49s):
+Welcome back to How I Built This Lab. My guest today is Tina Roth Eisenberg, the entrepreneur behind Creative Mornings. It's a free event series for creatives with more than 200 chapters all around the world. Alright, so 2011 really was Turning Point. You, you have like a chapter opens or a Creative Mornings group opens in LA and one in San Francisco. And from there it really began to, I guess, expand organically and as that happened, right? How did you start to think about managing it and, and you know, and, and kind of organizing it and, and, and making sure that you could protect the brand?
+
+0 (31m 31s):
+Or did you, or maybe you didn't worry about that.
+
+1 (31m 33s):
+I never really worried that much about it, to be honest. What I realized is that I needed help. I am, yeah, I am good with system to a certain extent, but then I kind of am not good at maintaining them. So I needed someone to really think through the processes of what this means. So I was very lucky to get introduced to this really smart young man. And I hired him part-time and I literally just sat him down at the co-working space and said like, Hey, here's an inbox full of emails of people wanting things from us or wanting to collaborate or starting a chapter. Can you figure out systems? And he was just incredible. And he helped me systemize what Creative Mornings is and how we work from four chapters to 111.
+
+1 (32m 14s):
+Wow. He was incredible.
+
+0 (32m 16s):
+And and so as you were growing, right, when somebody said, Hey, I wanna start a chapter, what were the parameters that you gave them and what do you, what, what did you say to them as they, you said, okay, well this is what it is. What explained to me how you explained it to them? Well,
+
+1 (32m 30s):
+Basically we told them what the non-negotiables are. If you wanna become the ambassador to host of a chapter in your city and there's only one per city, you have to commit to putting on an event once a month in the morning for free. You have to find sponsors to make it happen. You have to tape the talk, you have to upload the talk
+
+0 (32m 54s):
+To the, to the YouTube page, right? Yes.
+
+1 (32m 56s):
+At the time we used Vimeo.
+
+0 (32m 58s):
+Okay. And it's always free. Everything's free to go. Yeah.
+
+1 (33m 1s):
+Everything is free. Yeah. The events have to be free. So we basically told people, you have to organize a local volunteer team. You have to organize your group, you have to get them excited. You know, some, I would say a host invests probably about 40 hours a month into putting onto the events. Yeah. But I also was very quickly able to, to articulate in saying like, this will make you so visible within your city. It will make you a leader in the creative community. You will be seen as someone, you know, who, who gathers the creative community. So, and it really attracted the people that just saw the currency in that.
+
+0 (33m 40s):
+Yeah. Is there a guiding principle around creative morning talks? I mean, is it like, like in general it could be somebody just coming and talking about their life or somebody talking about something cool they did or somebody talking about how they created something. Is it, is it that and, and, and more?
+
+1 (34m 1s):
+It's completely open for me. What it just needs to be is like, it needs to be hope inducing, it needs to be inspiring. I really don't care. And if I'm really honest guy, I don't care about the talk that much. I edit the talk because I didn't want people to feel like they're in a networking event. But where my heart really opens is the half an hour when we have breakfast, when people start talking to each other. Yeah. Or the, the minutes of audience engagement that we, like, we have learned from our chapters around the world how to engage the community. Like there's, there's things that we have integrated into our events now before the talk and after the talk that make people talk to each other or get to know each other.
+
+1 (34m 45s):
+And I, if I'm really honest, I believe we're in the business of connection. Yeah. And not in the business of talks. Ted does that really well.
+
+0 (34m 55s):
+Yeah. You know, it's, it's amazing cuz it is a for-profit company, creative Mornings, but really, I mean it's, it's certainly not running on like a, you're not a, you're not like Capitalist Sharks here. I mean it's free. The, the the the fee to join is, I I don't, there's no fee for somebody to start a chapter, right?
+
+1 (35m 15s):
+No, it's completely free. I mean, to be honest, the fact that we exist the way we do and the sheer size globally Yeah. Is a miracle. I mean, we are a nine people team running a global organization on a extremely scrappy budget. Wow. But that is possible because the power is in the collective, you know,
+
+0 (35m 36s):
+And they're volunteers, right? Everyone and, and these volunteers are kind of curating and organizing these events monthly in their cities and they're doing all the work of like finding a space, finding some company that will give them a free space and finding a sponsor to pay for the breakfast and, and then getting the word out. Like, and I know you've got a creative warnings website so that it's, there's a way to find these, these, but it's really, it, it's a totally distributed volunteer based organization, but with a small professional staff in New York City.
+
+1 (36m 8s):
+Yeah. I mean, radical generosity is our business model. Yeah. You know, and you couldn't pay a PR company to help us get to this reach. Yeah. But when you have so many people invested and they poured their hearts into it, that is unmatched. It's just unmatched the energy. And also the one thing that I was lucky enough that Bill Uri who wrote getting the book getting to Yes. Yeah. He wants,
+
+0 (36m 36s):
+Yeah. He's given Ted Talks. Yeah, sure.
+
+1 (36m 37s):
+Yeah. He's wonderful. He, I met him at a very tiny conference I was invited to, to speak at and he was sitting in the audience and he, he afterwards came up to me and said, do you mind me telling you why? What do you do works? And I love nothing more than people reflecting back to me in their own words what I'm doing because I'm so into sauce and it's just so intuitive what I do that sometimes I'm like, I don't have the words for it. And so I was like, yes, please. And he said, you know, what you're doing is based on non-transactional giving. You are inviting people in to your space. But if you were to sell a ticket, then it's a transaction. You buy it a ticket, you expect a good coffee and a breakfast and the talk.
+
+1 (37m 18s):
+And if it's not good, you know, like, and then it's done. The transaction is over. But when you create an invitation that is just so generous, and then when you come to our events, they're so, you, you're basically wrapped in a blanket of love. People are so upbeat, people are so nice. You leave that space going, how can I contribute? How can I be part of this? How can I, you know, like it's, it's an invitation to contribute. And I really think that's the magic, the magic sauce of Creative Born Exam.
+
+0 (37m 51s):
+And how do you finance the, the, the, the operations of professional staff? Cuz there are people who are employees who have to, you know, kind of administer it from New York. How are they, how, how is that financed?
+
+1 (38m 4s):
+Well, thanks to the support, like companies like MailChimp, who by the way is insane. They have been our supporter for 14 and a half years straight. Wow. Anyone who does partnerships probably goes, what the heck right now because that is unheard of. And so the, the, the way I've been able to run this for the last 15 years is because we had what we call partners like MailChimp and they were basically mostly big tech companies like, you know, base Cam, Squarespace, WordPress, Wix, Adobe, you know, giving us a slice of their marketing or brand budget and supporting us.
+
+1 (38m 45s):
+What is really interesting, what is happening now, and I'm, this is also one of the reasons why I became a full-time c e o just recently, is that just the landscape of that that business model is changing. And we're, we're trying to figure out sort of, I, I believe that the future of Creative Mornings is community led and community supported. So we're trying to sort of shift a business model into what creative mo mornings actually always should have been. Just
+
+0 (39m 12s):
+The business model is, is shifting to accept more community based support. And, and presumably you, you own Creative Mornings, right? Yes. And so is, I mean, I have to assume that in in, you know, from time to time people may come to you and say, Hey, you know, we should, you should do this or that, or you should monetize this or that, or you should, you know, publish books based on, on the talks or you should, you know, charge money or something like that. I mean, is is there a world where this becomes a, you know, where you, you you would be okay with it becoming a money making venture?
+
+1 (39m 48s):
+Yes. If it feeds back into the system and if it's the money making itself is based on making the community better. And I can give you an example with what I mean with that. When the pandemic hit and we realized people are really hungry for connection, we, we obviously moved to online gatherings, which I would've never done before ever. Cuz I believe in real connection happening in person. And it was a real moment of realizing I had blinders on. So we moved our chapter events to Zoom and very quickly realized how we can translate the magic of creative warnings to actually online events. But we also moved something that we called and we were experimenting with here mostly New York, which were called field trips, small community led workshops.
+
+1 (40m 37s):
+We moved those to Zoom too. And they have been growing massively. It's basically what I, what I envision they will turn into is the world's most drastically generous peer-to-peer learning space. And I don't know if you've, if you've seen it on our site, but we have about 10,000 people show up every month for community-led workshops from how to do SEO to make pom-poms, to stretching, to, like, you name it. We have about 20 events a month of which each one of them average has 450 signups. And also we had big tech companies come to us and say like, Hey, can we do some organic field trips where people like, sort of, you know, we onboard 'em onto like, we did this with Adobe Express with their software and they're so not webinary, they're so like grassroots and beautiful.
+
+1 (41m 28s):
+And, and I'm starting to sort of see a business model emerge that is a literal win-win for everyone involved.
+
+0 (41m 35s):
+I mean, one of the things that, that we didn't mention and I should mention is that it in the midst of the, of starting Creative mornings and how it kind of grew and, and expanded, you also created two other businesses. One is called TuDu, T E U X D E U X to do, it's a, an app to the to-do list. And the other was you, you started a temporary tattoo company called Tattly. Were those, I mean, do you think those came out of these creative gatherings, these, these interactions, those ideas?
+
+1 (42m 12s):
+They came out of my coworking space. The original, they were both ideas that basically happened over lunch. And then, you know, my personal rule of like, the best way to complain is to make things I just can't, I can't really stop myself. I really like to figure things out. So I I I kind of created them and then I had to maintain them.
+
+0 (42m 32s):
+Yeah.
+
+1 (42m 32s):
+I don't know how to stop. That's my
+
+0 (42m 34s):
+Role. So you started this temporary tattoo company called Taly and, and, and you ba basically it's designers who, who designed the tattoos?
+
+1 (42m 43s):
+Well, the, the basic idea was that my daughter will bring home these hideously designed temporary tattoos from birthday parties. And they were an insult to my Swiss aesthetic. So I just as a joke said, I can make this better. And asked my designer illustrator, artist friends to come up with some cool temporary tattoos and, you know, I was a web designer. I could just create a website and put that, you know, put about 16 designs online. And, and it was pretty wild to see after years of me celebrating other people making cool things on my blog for the first time ever, I, I actually talked about something I made and that I was selling. And that was a real moment when that printer started printing orders.
+
+1 (43m 27s):
+And at the first day we had about 150 orders coming from all over the world and was like, okay, we're onto something here. Yeah.
+
+0 (43m 34s):
+And so while you were kind of watching this cr Creative Mornings thing really explode, which has had a, you know, obviously Global Impact, you were running this temporary tattoo business?
+
+1 (43m 48s):
+Yeah, it's, you know, when you say it like that or whenever people ask me about it, I mean, it, it sounds so silly. Like, I did not wake up one day thinking I wanna run or redefine the temporary tattoo space, but I did. So we became, we very quickly became sort of the, you know, the the high end temporary two brand and, and then I kept running it up, up until last year. And to be very honest, not knowing how to get off this carousel. Yeah. Like, that's one thing that I think a lot of founders do not talk about. You know, it's, it's easy. I mean, to me it's easy to build a thing. It was much harder to get off the car.
+
+0 (44m 25s):
+You sold, you sold Tally to, to Bic the, the company that best known for Pens last year in 2022. And so, and, and did that change your involvement with Creative Mornings? Did you kind of double down on your involvement?
+
+1 (44m 42s):
+Yes. I mean it, the, the reason why I wanted to sell it really came out of the pandemic as well because I mean, like all of us, we probably had a bit of a introspection moment. And what became really clear to me is while I love Taly and all the companies I've built, creative Mornings is really my legacy and the closest to my personal values and what I believe in and something I, you know, I believe we need to leave the world a little better than we found it. And I think Creative Mornings is my contribution to that. And so I really wanted to be able to, to focus a hundred percent on Creative Mornings and, and before I, I wasn't, before I was, you know, sort of scattered all over the companies. And so now I'm a hundred percent c e o of Creative Mornings.
+
+0 (45m 23s):
+So where, where do you see creative warnings like in, you know, I mean these are free events, they happen all over the world. It's, it's usually one talk once a month. Is that essentially what it will be in your view in, in five years, 10 years from now? Or do you see it as something different?
+
+1 (45m 40s):
+I actually think Creative Mornings is just getting started and I, I always try to explain it in a way that I want Creative Mornings to be an organization that no matter where you are at in your discovery of that, you are a creative person. We have something to offer to you. I want Creative Mornings to either inspire you or help you find your people, help you find your community. Like I see Creative Mornings a bit as like church for creativity and as a friendship engine and an academy for Living a heart-centered life.
+
+1 (46m 24s):
+There's just so many ways that Creative Mornings is helping people up level, helping people step into their fullest potential, making them realize they're safe. There is a better future. And when I say I really think we're only getting started is because the, the amount of ideas we have, what we can build and what we will build is, is pretty phenomenal.
+
+0 (46m 47s):
+Awesome. Tina, thank you so much.
+
+1 (46m 49s):
+Thank you.
+
+0 (46m 50s):
+That's Tina Roth Eisenberg founder and CEO of Creative Mornings. Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show. And it's totally free. This episode was produced by Carla Estevez, with editing by John Isabella. Our music was composed by Arab Bluey. Our audio engineer was Brian Jarbo. Our production team at How I Built This includes Alex Chung, Casey Herman, Chris Messi, Elaine Coates, JC Howard, Liz Metzger, Sam Paulson, and Carrie Thompson. Viva Grant is our supervising editor. Beth Donovan is our executive producer. I'm Guy Raz and you've been listening to How I Built This.
+
+0 (47m 41s):
+Hey, prime members, you can listen to how I built this early and add free on Amazon Music. Download the Amazon music app today, or you can listen early and add free with Wondery Plus in Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built this merch and gear@wonderyshop.com. Before you go, tell us about yourself by completing a short survey at wondery.com/survey.
+
+ontario.ca (48m 9s):
+Get ready for more at Ontario Place more fun, more to explore, more to see and do. Discover amazing places to share a meal. Spark your creativity at the all new Ontario Science Center. Enjoy festivals or dance and sing along to your favorite band. Make a splash at new beaches along the waterfront and explore new trails and parks. Get ready. There's more fun to come for everyone at Ontario Place To learn more, visit ontario.ca/ontario Place paid for by the government of Ontario.

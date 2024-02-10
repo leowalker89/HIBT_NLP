@@ -1,0 +1,761 @@
+NPR Podcasts (0s):
+What's happening with NPR podcasts, more shows, issues, ideas, stories, flavors, and personalities, and you can shake a stick out. Why are we whispering the more the world that you hear? The more you hear the world as it really is. So come experience more neighborhoods, identities, or species, more perspectives, NPR, podcasts, more voices, all ears. Find NPR, wherever you get your podcasts.
+
+Principal (30s):
+No one is slowing down in this hiring race for the best talent and offering the right benefits may help you reward and retain your team. Helping them feel valued, motivated, and ready for the future. And that can make all the difference for your business. Principal offers retirement and group benefits plans customized to help you meet your goals. Your company's future depends on its people. Show them they are valued and give them the tools they need to succeed. Talk to your financial professional today about the right benefits and retirement plans from principal and visit them at principal.com/business.
+
+AT&T (1m 7s):
+This message was brought to you by principal financial group, but it's important to their wonderful lawyers that we share their legal name, which is the principle life insurance company, Des Moines, Iowa. For important information about their products, visit principal.com/disclosures. When building a business, there are tons of moving parts. One that's often overlooked is having the right network. Thankfully with eight T and T business, you can pick the best wireless plan for your small business and offer your employees the features they need. Plus the best at and T business plans include nationwide 5g. Wherever business takes you@andtbusinesshasthefeaturesyouneedvisitatt.com slash B I Z U Y w. 5g requires a compatible plan and device 5g may not be available in your area. Visit att.com/five G for you for more details.
+
+3 (1m 60s):
+So we're scaling up and we're also realizing that the product now in 2011 is it's just not working. It's just not working. And at this point there are competitors coming out that are launching mobile first mobile only. And we've been on the web. I mean, honestly, it's like the entire consumer market and expectation just changed underneath us and we missed it.
+
+2 (2m 37s):
+Welcome to how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built. I'm guy Roz and on the show today, how a hungry hundred pound dog on a snowy night inspired Leah Solomon to launch task rabbit, a service that will take care of your Leah Sullivan's idea for a business grew out of a very specific problem. She wanted to solve on one snowy evening in Boston. The problem of getting a big bag of dog food for her yellow lab to her apartment.
+
+2 (3m 20s):
+And did she really want to go out in the middle of a snow storm? Not really, but was there someone else who might be willing to do it for the right price? Now, that was an interesting question, but the thing Leah found most compelling about this problem was not that the solution might one day turn into a business. Instead, Leah, who at the time was an engineer at IBM, saw the problem as more of an engineering challenge. Like, do I have the coding skills I need to solve the dog food delivery problem. And if, for example, I were to start an online business for home deliveries, is the market ready for that to happen?
+
+2 (4m 1s):
+Well, the answer to these questions turned out to be a resounding yes, because not only did Leah know how to code, she also knew how to connect the dots. And at that time, in 2008, she was connecting three very important dots in particular three technologies that were about to intersect in a critical way, mobile location services and social media. Those three developments would of course, eventually power companies like Lyft and Uber and Airbnb and Instacart and door dash. But as early as 2008, even before any of those companies came on the scene, Leah was coding the beginnings of what would become task rabbit.
+
+2 (4m 45s):
+It's a marketplace that matches users with freelancers who provide all types of services from delivery to furniture, building to gardening, working out of a Boston coffee shop. Leah found a group of moms to be her first users. And she recruited people from Craigslist to be the first errand runners. And over the next few years as the company grew, it also navigated a series of hairpin turns, including some management shakeups and at least one major rebranding that was hated by many of its loyal users, but task rabbit continue to grow. And nine years after launch, it sold to Ikea for an undisclosed amount.
+
+2 (5m 25s):
+And Leah moved on having created one of the best known mobile marketplaces in the country. Leah grew up in a little town outside of Boston. Her dad ran training programs at a nearby air force base while her mom looked after the family, as a young girl, Leah was really into dance. But when she got to college at sweet Briar in Virginia, she took her first programming courses and got hooked on C plus. Plus
+
+3 (5m 52s):
+For me, it was the opportunity to be, to build whatever was in my mind. I mean, I, I, I am very imaginative. I have ideas all the time and I'm not really good at delegation. And so the, the idea that I could take what was in my head and build it so that someone else could see it or use it or interact with it was really exciting. I mean, I remember it was the simplest simplest assignment, which was taking this little JPEG robot and being able to code it so that with the arrow keys on the keyboard, it could move around the screen. And honestly, it was, that was enough for me to understand how powerful programming and engineering could be.
+
+2 (6m 39s):
+Yeah. All right. So you fall in love with programming C plus plus, and this was your first exposure. Like you, I mean, you weren't like a kid who had like, you know, the apple two at home and then like a PC clone and, and you were using basic and, and, and your, and you were like, I don't know, reading computer magazines in high school.
+
+3 (6m 59s):
+Yeah. Nope. Well, so not really, but a little bit. Let me explain. So, you know, programming in college was my first exposure to actual engineering in high school. I dated someone who eventually became my husband, who I started task rabbit with Kevin and Kevin was really into computers. Right. And so we would spend like Friday nights, I would help him build computers. We would go to computer shows on the weekends.
+
+2 (7m 27s):
+So you were plugging in the components into the
+
+3 (7m 30s):
+Slot once or twice,
+
+2 (7m 34s):
+Actually. It's fun.
+
+3 (7m 35s):
+Okay. Yeah, it is fun. We go to computer shows and buy parts and that was very helpful. Yeah.
+
+2 (7m 42s):
+All right. So 2001, I believe you, you graduate from Sweetbriar with a degree in computer science and, and I think you get a job as an engineer at a small software startup, which I guess eventually gets merged into IBM. And what are you doing for them? W w w where are you coding?
+
+3 (8m 0s):
+I actually started as a quality engineer, so I wasn't doing any programming. They wouldn't let me touch the code, but I was the tester. So I would find all the bugs in the code. I'd write up the bugs and then I'd work with the developers and the engineers to fix them. I did that for five years, but I always wanted to be the programmer. I always wanted to be the coder. It was really hard for me to break into that side though, you know, and I saw other IBM, you know, interns coming in right out of school and joining us engineers. And I'm like, why aren't I coding? Why aren't I programming? Cause
+
+2 (8m 37s):
+You knew how to do it. But
+
+3 (8m 39s):
+I did. I did. I finally, I finally worked my way into it. And the only way that was possible is I got another job offer at another
+
+2 (8m 49s):
+Startup program story of my life. I
+
+3 (8m 51s):
+Know. So I was like, I can do this. I can go do it at this other company or I can stay here and do it. And
+
+2 (8m 56s):
+So don't go
+
+3 (8m 57s):
+Exactly. Oh, we really value you. Don't go. And so finally I get to start coding and I joined a new team and I really loved that team in my time there, I still stay in touch with my mentors and technical leads there on that team.
+
+2 (9m 14s):
+Meanwhile, you got married really early, like right out of college with your tier high school sweetheart, right? Kevin?
+
+3 (9m 21s):
+Yes. Yeah. I was 22. He actually also worked at Iris associates, which was bought by Lotus and then Lotus was bought by IBM. And so we worked together there for many years and then he left first, he left and started joining startups in the Boston area, focused mostly in the healthcare space and I stayed. Right.
+
+2 (9m 42s):
+And it was a stable job. I mean, you had probably had health insurance, I'm sure you do get health insurance and a retirement plan. I mean, it's, IBM's the mother ship, right? So you were there for like, I think seven, some like seven years or six years.
+
+3 (9m 54s):
+Almost eight years. Almost eight years. Yeah. Yeah. It was consistently one of the top a hundred places to work for women. And that mattered to me and I thought I can just stay here. I can move up. I always wanted to stay on the technical side. They kept trying to put me in management, go manage people. I was like, I don't want to manage anyone. But by the end, the last, the last couple of years, I felt a little bit loose in the saddle. I know for a fact that I was seen as very ambitious. And in fact there was one incident that occurred on my team where, you know, one of the other engineers said to me, wow, Leah, you're really ambitious. And he said, it like, it was a problem.
+
+2 (10m 36s):
+Like they're criticizing you for being ambitious.
+
+3 (10m 40s):
+And I was super confused. I, I, his tone, like, it didn't make sense to me exactly. But you know what? That actually was part of what made me realize that IBM wasn't the long-term fit for me. And I was really ambitious and I did always have this sort of fire in my belly. And so I think people saw that people knew, I mean, that's hard for me to hide,
+
+2 (11m 2s):
+I guess I should, we should also clarify it wasn't it probably wasn't even IBM. It was just a big company with a bureaucracy that wasn't gonna cut. It. It couldn't, it couldn't, it couldn't accommodate your ambitions. Right. You, you had to do something and it wasn't going to happen at a big company.
+
+3 (11m 20s):
+That's right. And I think in hindsight, what I've realized, just a pattern in my career, a pattern in my life is in really, I mean, back into college too. I only liked to work on problems that I feel like I can uniquely solve. And if, if, if I feel like there's someone else who can also do it and do it just as well, like I become very disengaged and very bored and uninterested in working on it. And, and so I think that was where the ambition came from. And, you know, I was always thinking like, I can do more. I, I want to be doing more.
+
+2 (11m 59s):
+All right. So you start to get itchy feet, right. You're starting to think, okay, I'm just getting bored here and you're, you know, in your late twenties. Right. And what, what what's going through your mind? What are you, I mean, do you start to think like, maybe I could do something on my own maybe. I mean, were you searching for something or were you just, what do you remember about that time? Around 2007, 2008?
+
+3 (12m 26s):
+Yeah. So at that point we were living in Charlestown, a neighborhood of Boston. I was working out of the Cambridge office for IBM and I did start to think, you know what? I have the skillset, I have ideas. Like maybe I should just go code some things. And I started a blog, mostly about technical engineering projects, ideas. There was one idea I had in the real estate space where I was, you know, doing these, I'm going to open houses and doing, write ups about them. And then letting you know, buyers engage with a blog entry.
+
+2 (13m 4s):
+Oh, you would write the right red review of the house. Like this house sucks. Don't bother. It would save a lot of time.
+
+3 (13m 11s):
+Yes. And it was anonymous. Right. It was all anonymous. No one knew it was me. Yeah. Absolutely. And I, and it was really, yeah, it was really fun. I mean, I've, since now invested in a company, that's
+
+2 (13m 24s):
+Sort
+
+3 (13m 24s):
+Of do it. Yeah. Like it's doing a version of this. It's very exciting. But yeah, that was back in 2006, 2007. And so I also built a dog-walking site for our dog Walker so that he could expand his business. And then I started building dog-walking sites for all of his dog walking friends. And then I had the idea for what became task rabbit.
+
+2 (13m 46s):
+So tell me how that, that, that happened. I mean, what, how did the task rabbit I would become task rabbit. How did that idea first come to you?
+
+3 (13m 57s):
+Yeah, so I was in this very entrepreneurial mindset. I was looking for a problem to solve. And so it was February of 2008. It was cold and snowing outside. It was we're getting ready to go out to dinner in Boston with some friends. And we realized we were out of dog food. And at the time we had this hundred pound yellow lab named Coby, who we kept very well fed
+
+2 (14m 26s):
+A hundred pounds. That's a human, that's not a dog.
+
+3 (14m 29s):
+It's a big guy.
+
+2 (14m 30s):
+It's another human in your house.
+
+3 (14m 32s):
+He was, he was the best. And so we realized we're out of this dog food and I'm talking with Kevin and I'm like, God, there's gotta be a way to get this dog fit. A really gonna, we're taking a cab to dinner. We don't want to drag the dog food with us to dinner. We don't have,
+
+2 (14m 46s):
+You're talking about a 30 pound bag of dog food,
+
+3 (14m 50s):
+A big bag of dog food. That's that's right. What if all the stores are closed on the way home it's snowing outside. And I was like, you know, what would it be nice if there was just a place online, you could go say, you need a dog food name, the price you're willing to pay. There's probably someone in our neighborhood right now. That'd be willing to help us out. And maybe there's even someone at the store at this very second and we should be able to connect with them. Yeah. And the iPhone had just come out. And so I grabbed my iPhone and I was like, we should be able to connect with whoever who's ever at the store right now. I said, okay, if a site like this existed, what would it be called?
+
+3 (15m 31s):
+And I typed into my iPhone into go, daddy run my errand.com. And the domain name was available for 6 99.
+
+2 (15m 42s):
+Great.
+
+3 (15m 42s):
+So I bought it on the spot and I was like, okay, well, we now own run my errand.com. What are we going to do with it? And so we ended up going to dinner. We met friends at dinner. Like it was that dinner where we're talking about this idea with friends,
+
+2 (15m 57s):
+You start talking about this idea and let's say, I was at dinner with you. I would have said to you at the time, cause I'm, I'm like a buzzkill, not anymore, but I would have been, then I would have said, but now I might still say to you, I say, but what about a pea pod? That's around pea pod exists. I know it existed in Boston in 2008, you can get pea pod to deliver food, your house.
+
+3 (16m 17s):
+That's right. There's also a grocery company. I think home run or something like that. And there was
+
+2 (16m 23s):
+Cosmo,
+
+3 (16m 24s):
+Cosmo had just like flamed out all kinds of, you know, sort of dead companies in this space.
+
+2 (16m 33s):
+But before you got that, that discouraging news, that's that dinner, your friends are like, oh my God, this is amazingly a, you should do this as incredible. Was it like that kind of dinner?
+
+3 (16m 42s):
+Yeah, it was. But they weren't in tech either. So they were doctors, my friend, I was like a sweet Briar college roommate who was going to medical school. I mean, they were kind of like, huh, that's interesting. You know?
+
+2 (16m 54s):
+And it sounds interesting. Like I, might've also said at the time, you know, I would totally use that. Yeah. I hate going down the snow. And this is before Uber. This is before like that we've now come to depend on unfortunately, or fortunately, depending on your perspective, but yes, I might've said to you. Yeah, I would totally, somebody could just be like, bring it to my house. I could just go online. And
+
+3 (17m 15s):
+Absolutely. Yes. It was, people were excited. It made sense. They were like, hold on, someone must be doing this. Like this already exists. I mean, it was a lot of like, this must exist already. But I think the key, like I knew as an engineer that no one was using mobile yet technologies, right. The app store was just emerging. It was very early. I knew no one was using location-based awareness. And so as an engineer, again, I was like, I want to find the person at the store at this moment. How do I find that person? And then the other key for me from a technical standpoint was Facebook was just emerging and coming out of the college scene.
+
+3 (17m 57s):
+Yeah. And honestly, the biggest piece of feedback we got in the early days, including at this dinner was why would I trust a stranger to bring something to me or to come into my house? You know, what, if there, you know, an ax murder, I mean, people would say this to me all the time. And so I saw Facebook as a way to leverage the social graph, to build trust between people. So if I could tell you that, you know, you need your dry cleaning picked up and the person that was going to pick up your dry cleaning was two degrees of separation from you and your friend, Bob. Like you're going to be okay with that.
+
+2 (18m 34s):
+But initially the idea was to just have people run errands for you. It wasn't like to come and fix things in your house. It was just like, go eat your dry cleaning, go get your groceries and deliver food or whatever it might be. And you had all of these. I mean, you had this kind of unfair advantage because of your background as an engineer. Like you, you, did you understand intuitively how you could do this? Like how, how like did you understand that the technology existed to make this possible?
+
+3 (19m 7s):
+I did. And that was the key driver for me, I think as an engineer and as someone who wanted to work on something, I saw those three technologies, social location and mobile. And I, that was what was interesting to me at the time. I was like, I can mash up these three technologies and create a new platform that no one has launched before.
+
+2 (19m 29s):
+It is amazing because it is a very simple concept. It's have somebody deliver something to you, but the challenge was a technology challenge. It wasn't a, yeah. I mean, the idea was simple. You weren't coming up with a, I mean, this is, people have been delivering stuff for centuries. It was. How do you connect the person to the person who needs the service? That was what ha what, what you had to solve.
+
+3 (19m 56s):
+Yes. And I I've always said, I am not the first person who had the idea for task rabbit. Many people have had this idea, many, many people, but it was the way that I leveraged the technology that was available at the time that made it all work.
+
+2 (20m 13s):
+By the way, same story with Google and Facebook, they did not invent those technologies. They just made them better. Yeah.
+
+3 (20m 19s):
+Yes. Yes. And that's the cycle of innovation. I mean, just building sort of on the backs of what has come before you.
+
+2 (20m 27s):
+Yeah. Okay. So now from what I understand, you're working at IBM and you're still employed there. You're not going to leave your job, but this idea stays in your mind so much so that you really start to do the kinds of things that, that I think really smart entrepreneurs do, which is you first start to research it. You first start to kind of, you talk to people, you, you, you try to understand whether this is possible and viable. Yeah. But you reached out
+
+3 (20m 55s):
+The first person that was sort of pivotal that I reached out to was Scott Griffith, who running Zipcar.
+
+2 (21m 2s):
+Wow. And Zipcar was really started take off in 2008. I remember using it back then. Like I would just get my card and sh you know,
+
+3 (21m 9s):
+Slowly it was taken off. And he had taken over from the founders from Robin chase and it was in Cambridge. And I met Scott through a friend of a friend. I mean, it wasn't an obvious connection, but again, we had been out to dinner one night with friends and talking to my, talking about this idea, and my friend says, oh my gosh, you know, you should talk to my friend, Scott. He would love this idea. I used to work with him back at my old company. I had no idea. He was the CEO of Zipcar. She failed to mention this. And I emailed Scott. This note, I'm like, hi, Scott. My name is Leah. And I'm working on this new idea. And to his credit, you know, he wrote me back Sunday morning.
+
+3 (21m 52s):
+And he was like, wow, this sounds interesting. Why don't you come by my office this week? And then I see in his signature that he's the CEO of Zipcar. And I, I lose my breath. I'm like, oh my God, I can't believe I just emailed the CEO of Zipcar cold email.
+
+2 (22m 8s):
+So, all right. So, and, and when you told him the idea, how did you describe it?
+
+3 (22m 14s):
+So I went to his office and I said much, like, you're thinking about Zipcar, where you share cars in a neighborhood. I want to create a platform in a marketplace where you can share errands and share services. And he immediately was like, wow, I think you're onto something here. Let's meet again next week. And so he, he just was so brilliant and so nice. And he said, why don't you come by every week for an hour and sit with me? And we can brainstorm. I was still at IBM. Yeah. And so I started meeting up with Scott once a week. I go by the office, tell him more about the idea. I've talked to him about challenges I saw in the marketplace.
+
+3 (22m 54s):
+He would tell me about Zipcar as well, and his experiences there. And finally, after a few months of that, you know, he said to me, you know, Leah, I really feel like you're onto something here. Why don't you just see how far you can take it? And it was sort of his nice way of saying, like, what are you still doing at IBM When we come back in just a moment, Helia taps into Craigslist and her local coffee shop to launch run my errand just in time for the onset of the global financial crisis, stay with us. I'm guy Ross. And you're listening to how I built this
+
+Life360  (23m 42s):
+Family. Life is busy with work school, sports, hobbies. Everyone's moving in a different direction. Life 360 can give you peace of mind knowing that each family member is safe on the road online and everywhere in between life 360 is the number one safety membership designed for every stage of family life. Even the awkward ones. Life 360 offers different membership plans, including one for free. So you can customize your safety with true peace of mind. Parents can be who they always wanted to be for their kids. Learn more@lifethreesixty.com that's life three sixty.com,
+
+The Execution Of Bonny Lee Bakley (24m 18s):
+Small town girl, Bonnie Lee Bakley always dreamed of marrying a movie star. Her obsession with celebrities resulted in nine divorces until Bonnie eventually married, famous actor. Robert Blake. However, Bonnie learned being close to the spotlight comes with consequences within a year of her marriage. Her Hollywood dream came to a tragic end when she was found fatally shot outside of a diner in north Hollywood from Wondery the execution of Bonnie Lee Bakley is a thrilling new chapter in the hit Hollywood and crime podcast series. Robert Blake knew Bonnie spent most of her life as a con artist who dreamed of being famous. But when Robert Blake reluctantly let Bonnie stay in his guest house, it began the role. He become most famous for an accused murderer. Explore the darker side of fame, listened to the execution of Bonnie Lee Bakley on Amazon music, apple podcasts, Spotify, or you can listen early in ad free by joining wonder repless in the Wondery app.
+
+2 (25m 21s):
+Hey, welcome back to how I built this I'm guy Ross. So it's 2008 and Leah is still working full time at IBM, but in her spare time on nights and weekends, she's thinking about how to get, run my errand on its feet. And she's workshopping her business plan. Every chance she gets,
+
+3 (25m 41s):
+I would sit next to someone on the bus going into Boston. I'd be like, Hey, do you want to hear about this new idea? I mean, I would talk to anyone who would listen to me, but one of the places where I got a lot of great feedback was a little coffee shop in Charlestown called zoomies, and I'd go hang out there. And I would code and I'd program. And there were a bunch of moms that would come into the coffee shop with their kids. And I'd say like, Hey, do you have a second? I'm working on this new thing. Like, what'd you use a service like this? How much would you pay? What, like, what sorts of jobs do you need help with? What do you need done? The owners of the coffee shop were so fabulous. They, they were very nice to let me hang out there, you know, for hours and hours and talk to their
+
+2 (26m 20s):
+Customers, using their wifi,
+
+3 (26m 22s):
+Using their wifi, eating their muffins. It was all good. Yeah.
+
+2 (26m 25s):
+Yeah. Sending for $7 for four hours. Wifi.
+
+3 (26m 31s):
+Yes. And, and so in Charlestown, this one square mile neighborhood of Boston, I figured out that there was this mothers association and I'm not a mom at the time. Right. I'm still like, I don't have, so I don't fully understand, but I think moms are busy and like, they'd probably use the service. So I go to the head of the Charlestown mothers organization and I say, okay, I have this idea. I've talked to a lot of the moms in town and I want to build a beta for you. I want to build a beta just for you, 900 moms in one square mile of Boston, you know, will you advertise it through your newsletter if I build you this beta.
+
+2 (27m 8s):
+Right. Okay. I understand that part. Yeah. That makes sense. I'm wondering how you can do the other part, which is to find the people to do the task.
+
+3 (27m 16s):
+And that was easy. I just went to Craigslist.
+
+2 (27m 19s):
+Okay.
+
+3 (27m 19s):
+Yeah. So I build the site for the moms closed beta and I posted an ad on Craigslist. And I say, I'm looking for some help running errands. And I got hundreds, hundreds of inquiries I'll help you. I'll help you. You know? And so I'm like, wow, okay. There's a lot of demand out there for people that want to run errands. And so I started meeting potential at the time we called them runners. Cause it was run by
+
+2 (27m 46s):
+Erin.com. They would come to meet you face to face.
+
+3 (27m 48s):
+Yeah. I met everyone face-to-face to start because I was terrified that, you know, there was going to be a trust and safety issue early on. Yeah. And so I met them all at Zumiez coffee shop, 30 minute interviews, and I brought on 30 of them to start the site.
+
+2 (28m 5s):
+Yeah. You don't, I'm just curious, just it's a bit of an aside, but this is the time when Uber and Lyft and Airbnb are really kind of starting to come together. It's still not known yet now widely used yet. Right. What would become known as like the gig economy or peer-to-peer economy? Did you even know about that? Had you, were you kind of looking around and saying, you know, this is going to be a thing?
+
+3 (28m 32s):
+Not yet. That was still so early. It was so early. I mean, yeah. I mean, Uber hadn't started yet relay rides was started in Boston and that was kind of like a Zipcar, but with people that own their cars right now it's Toro,
+
+2 (28m 50s):
+But you weren't, but you weren't like looking at the landscape and saying this, this peer to peer economy is going to be, cause it's amazing that you were already thinking like this. I mean, and who, I mean, who knew that it was going to become a huge thing?
+
+3 (29m 4s):
+It was the engineer in me. I was really driven by the technology. That was it. I had no exposure still to Silicon valley or what was happening, you know, like I didn't really know what was going on on the west coast. And so I was driven by the technology and what I, I saw what was possible with the technology.
+
+2 (29m 22s):
+All right. So you land like 30 people to be Aaron runners and you've got this group of moms. And then what, then what, how did you get them to like, cause it's a chicken and egg problem, right? You need the, you need the problem. You need to solve really the sovereignty of the problem. So how did you get them to, you know, to, to start?
+
+3 (29m 43s):
+Yeah. So I posted in the Charlestown mothers association newsletter that run my errand.com was open to them and them alone. And that I had vetted, you know, these 30 taskers or runners at the time. Yeah. And then as soon as I posted, some moms were trying it out, they needed dry cleaning, picked up, they need groceries delivered, you know, just like simple, easy little tasks. I then had created the algorithm. Right. Which would alert all of the runners, all of the taskers at the time that a new job had been posted. So they'd get an alert on their phone. And at that time it was a bidding system. Tasker runners at the time would pick up jobs.
+
+3 (30m 23s):
+They would do the errands, they would be rated and reviewed, but you know, by the customer. But I personally right. Would get an alert every time something was posted. I mean, this was a closed beta. I would be sweating bullets to see how long it would take for a runner for Tasker to pick up the job. I was like, oh my God, is someone going to pick this up? I mean, like, I didn't know it was a marketplace. It was someone would pick it up or they wouldn't pick it up. I ended up being the one, doing a lot of the early jobs. I had this little scooter that I wrote around Boston Charlestown area. And I would do a lot of the early jobs myself. And so I would then get like firsthand knowledge of what it was like to be a Tasker, a runner to do these jobs.
+
+3 (31m 9s):
+And that actually helped a lot in building out the service, having that knowledge.
+
+2 (31m 13s):
+All right, now this is a lot of work. There's a lot going on here. But at what point did, where you, I mean, did you have to leave your day job because you know, I don't think you left your day job until June of 2008.
+
+3 (31m 29s):
+Yeah.
+
+2 (31m 30s):
+Where you just like going to work during the day and then just trying to do all this stuff at night.
+
+3 (31m 34s):
+Yes. Nights, weekends. I mean, it was a lot and it really was Scott who kinda nudged me to, to make the leap. He saw the progress and everyone I had talked to, no one had said, you're insane. This won't work. Everyone's reaction
+
+2 (31m 51s):
+Was
+
+3 (31m 52s):
+Yes, everyone everywhere. And so I finally decided to make the leap and quit. IBM,
+
+2 (31m 60s):
+Did you have savings some money that you saved up?
+
+3 (32m 3s):
+So I had $27,000 in my IBM pension program that, you know, we could withdraw with a penalty because it was for retirement, but I was like, whatever, let's just withdraw this money. And so I gave myself like six months to make something happen.
+
+2 (32m 20s):
+And meantime, I mean, you, I guess, because you were married, Kevin probably had some income coming in, so you didn't have to worry about like feeding yourself.
+
+3 (32m 27s):
+That's right. That's right. It's interesting. Because you said in the beginning you have the stability of IBM. I was the stable one for many years. Well, Kevin kind of jumped around different startups and we talked and he's like, you, what? This is such a great idea. I'll be the stable one. You go like, go see what you can do with this.
+
+2 (32m 45s):
+Yeah. So what would the user experience be like in 2008? You know, you'd go on, you had people who, who are available to run errands and, and then what would you do as a, as the person who needed an errand taking care of?
+
+3 (32m 59s):
+So I built it modeled after eBay, you know, the big marketplace at the time. And so you'd go on and you'd say, I need dry cleaning picked up. I'm willing to pay you $10 to do it. And a Tasker would come on, they'd get an alert on their phone. And they'd say, will I do this for $10? Or do I want to make a bid on the job? Oh, I'll do it for 15. So some runners, taskers, Aaron runners, they would bid on jobs. Others would just do the buy now price. Right. And connect. And then that was it. And then the transaction would courier offline and then they'd come back to leave each other ratings and reviews.
+
+2 (33m 34s):
+Okay. So it's June of 2008. You've got some of these moms that you're working with. You're starting to onboard some errand runners in the beta and, and how does it go?
+
+3 (33m 51s):
+It goes really well. And the moms in Charlestown start referring their moms and other neighborhoods of Boston, but it's not open in those neighborhoods. And so I'm thinking, wow, maybe I should just open this up in more neighborhoods. But that means I need to go recruit more runners in these neighborhoods, but I'm then frantically posting Craigslist ads and interviewing runners all over the city, but it's going well. And I get to the point where I think, okay, maybe I should try to do a little bit of marketing or, you know, get the word out more than just word of mouth.
+
+3 (34m 32s):
+So I March into the Charlestown Patriot bridge, which is the local newspaper in Charlestown. And I kind of, I pitched the guy there, the story about run my errands starting and how I'm opening it up. It's been in the Charlestown mothers association. It's gone really well. And he's so nice. And he loves the story and he's like, oh yeah, let's write it up. I'll publish it. And honestly that drove so much traffic. I mean, I think the readership was like 13,000 people. It drove so much traffic to the site and all over Boston, it wasn't just Charlestown. And so I was like, okay, wow. There's some, there's something here.
+
+2 (35m 9s):
+Yeah. I think you opened it up wide. Right? The beta phase ended in like September of 2008, right. Something like
+
+3 (35m 18s):
+That. Yeah.
+
+2 (35m 21s):
+But September, 2008 was wow. I mean, that was like Lehman brothers and, and you know, it was just, the world is collapsing. And then you had like the Madoff Ponzi scheme was exposed in December and then the, just the financial crisis in 2009. I actually remember it very well because I was living in Cambridge, Massachusetts in the fall of 2008 for a year. And that was a crazy time, crazy time. It was like, whoa, you know, do you remember having any anxiety over like, Ooh, I left my job and I'm starting to yeah,
+
+3 (36m 0s):
+Yes. I was freaking out as a, what am I doing? I had this stable job at IBM and the world feels like it's falling apart. Yeah. No one wants to give me money right now. Investors don't want to write checks right now. Yeah. It was very stressful. But I did realize something, which was the runners, the taskers, the people that wanted to make money on the platform. It was overwhelming
+
+2 (36m 26s):
+Because people were losing jobs.
+
+3 (36m 28s):
+Yes. It was overwhelming. And I mean the, the skill sets and the talent and these people were educated and they'd gone to college, they were pharmacists, they were lawyers, they were teachers, they were being laid off and they were looking for new ways to make money.
+
+2 (36m 44s):
+So you were getting overwhelmed with people who were responding to the Craig Craigslist ad.
+
+3 (36m 48s):
+Yes. And so that motivated me that despite my own personal panic, around leaving my own job to do this, that there was something interesting here to be built.
+
+2 (37m 0s):
+Yeah. But from, from what I've read, like in order to attract more users, right. To run my errand, you, you tried a bunch of different, interesting strategies. Like for example, you, you offered like the first errand would be free. And so I'm assuming you guys would have pay the, the, the TA the, the errand runner. So you were losing money on it, but you had to attract users. So you, so that, and then, and then like, you were trying to talk to, I guess corporations like IBM, I think even approach IBM to see if they would adopt your service. Right?
+
+3 (37m 37s):
+Yes. We tried everything. A lot of what I would call gorilla marketing techniques. I mean, one of my actual favorite sort of stunts we did in Boston was to do a marketing program during the Boston marathon. And we called it, run my marathon and we actually hired runners, Aaron runners to run portions of the marathon all the way along the marathon route. But yeah, I mean, we, we just, it was boots on the ground knocking on doors, cold talking to these business owners about the service.
+
+2 (38m 15s):
+Meantime, you can't run this without any money. Right. So I, from what I understand, you raised a little bit of money, like just to keep it running. Is that right?
+
+3 (38m 25s):
+Yeah. I mean, it's even sort of a more in-depth story than that, which is, so I had that $27,000 pension that I knew would last us from June when I left IBM, December six months,
+
+2 (38m 37s):
+Minus the penalties and attacks
+
+3 (38m 39s):
+That's right. Then we're putting the mortgage on the credit card. Like we're putting everything on credit cards after that. Yeah. And so September rolls around, we've got the beta launch. There's good feedback. People are using it. Scott introduced me to some investors. I start, you know, going around Boston and talking to people. And these conversations with investors are not going well. They're not going anywhere very quickly. And I remember Scott calling me on Christmas Eve of 2008 saying, Hey, like, are you getting the round clothes? There were a couple of angels that were the first investors in Zipcar that, that were going to come in.
+
+3 (39m 19s):
+He's like, Hey, are you getting the round closed? So it was supposed to be $250,000. I said, I don't know the money hasn't come in yet. Like, I don't know what's going on. And so in the new year, I go and sit down with, with the investors and we're there with lawyers. We're supposed to be closing the round. I actually have a co-founder at the time too. That's going to leave her job. And, you know, I've offered like 20% of the company to, to come on as my co-founder. So we go, we meet these investors and they're like, listen, this financial crisis has hit us hard. We were getting cold feet. We really love what you're doing. We love the idea, but we can't, we can't put all this money down right now.
+
+3 (40m 1s):
+We're just, we're nervous. And so we'll, we'll give you some money, but it's going to come and tronches and you, you have to meet certain milestones to get the next check. And I am like, oh my God, it's been now nine months since I left IBM, everything is going on credit cards. And this round is not coming together.
+
+2 (40m 23s):
+Yeah.
+
+3 (40m 24s):
+So we leave that meeting. She decides she can't leave her full-time job to join me after all.
+
+2 (40m 30s):
+So show you lose your co-founder
+
+3 (40m 31s):
+Lose the co-founder and the investors say, let's start with 50 K, we'll give you 50 K. Let's see how you do. So we start with 50 K. That was March in 2009. And I just, I just make it work. I just stretch it and keep going.
+
+2 (40m 49s):
+Now how, from a, from a user's perspective, at this point, it's only available in the Boston area,
+
+3 (40m 56s):
+Right?
+
+2 (40m 56s):
+Like I have to imagine you're still, you still have a tiny number of people using it. Probably you're bringing in, I don't know, 5,000, 10,000 bucks a month. At most, at that point,
+
+3 (41m 9s):
+I probably last, honestly, probably less Boston was a tough market. Even at scale with TaskRabbit, Boston was like number 10 market for us.
+
+2 (41m 19s):
+And I mean, you had $50,000, which is going to give you some runway, especially if it's just you pretty much doing everything, but it's, it's not, it's it's limited. You had some revenue coming in, but really small amount. It was really mainly sounds like you were, it was really mainly data. You were collecting
+
+3 (41m 39s):
+That's right. It wasn't big enough yet to sustain anything, let alone pay for the, you know, web server costs of running the site. And so I just kept expanding at that point though, I was working out of the Zipcar office. So Scott very nicely said, why don't you just come work out of here, you know, for as long as you want. And one day he said, you know, there's another entrepreneur from California coming by his name's John Zimmer. He runs a company called Zimride. Yeah. I want you guys to meet we're we're going to do a deal with them. And sip car said, cool. And so later that day I meet John and he's like, Hey, you know what? There's this incubator program, Facebook is going to launch this summer.
+
+3 (42m 21s):
+You should apply. I know the people who are going to run it, I'll put in a good word for you. I was like, okay, great. So I go back, I tell Scott, he's like, yeah, that sounds really good. Why don't you apply to that program? And in the meantime, we had closed a little bit more angel money, you know, in total it became around $150,000. And so I apply to this program called FB fund. I do a phone interview for it. And, and then we, we get it, we're offered it. And John says, you know what? I think it's like $250,000. Like it's a, you know, an investment from Facebook. And I say, oh, that sounds great. That sounds a great way to raise money. So we get the offer from Facebook to come out, to do the incubator program.
+
+3 (43m 3s):
+It's $15,000. And it's for a chunk of the company. It's like, you know, that few percentage points of the company
+
+2 (43m 11s):
+For 15 grand
+
+3 (43m 12s):
+For 15 grand. And I said, well, what happened to the two 50? And they're like, yeah, well, it's different for everyone because what they tell me, they decide how much they're going to offer you. Okay. Right. So I am talking to Scott about it. He's like, don't do it. That's not worth it. It's 15 grand. Don't do it.
+
+2 (43m 30s):
+Yeah. And so they're offering you 15 grand, but presumably also mentorship and connections. It's Facebook. So what did you do?
+
+3 (43m 39s):
+So I decided to do it. I decided to go for it, even though most people thought it would not be worth doing. I felt like this is the connection to Silicon valley. This, there are things happening there. Let's go do it.
+
+2 (43m 54s):
+And the incubator program presumably was in, in California,
+
+3 (43m 58s):
+It was, it was in Palo Alto. So I'd spend a week in Boston on the ground. And then I'd spend a week over at the Facebook program. And I told Facebook, I was like, Hey, listen, like I've got this company running in Boston. I can't just go there for the summer. So I just went back and forth all summer. I mean, that was a pivot. It ended up being a pivotal moment and that program was life changing.
+
+2 (44m 19s):
+And I think I'm assuming if they, if they ran it like Y Combinator and others, at a certain point, they would, you would be able to present to investors. Is that, is that how it worked?
+
+3 (44m 30s):
+Exactly. There was a big pitch day at the end of the program. And I remember on the first day of the program, one, I was surrounded by all of these other amazing entrepreneurs and founders and people. And that was the first time in my life. I had been surrounded by that type of energy and it was really exciting. So day one day one, they get us to stand up, introduce ourselves and give our 32nd pitch. And they it's like 20 companies. And then we get rated on how well we did on day one out of 10. I got like up to, they
+
+2 (45m 7s):
+Were like by the
+
+3 (45m 10s):
+Person running the program.
+
+2 (45m 11s):
+Okay. Because you didn't what you didn't properly explain what you were doing or do you didn't have a doozy autism? What was the feedback?
+
+3 (45m 18s):
+It wasn't enthusiasm. They, they said that I used too many technical buzz. And so I really had to make the shift away from being a technical engineer and into what is the value prop is like, what are you actually building here for consumers? Right. And so that was very helpful. I mean, I actually worked on the pitch then for the next 12 weeks. And at the end, there was a big demo day and you know, it was online and there were investors there as well. And I was just like, I am making this round happen. Like, this is my chance. I have to bring around together at the end of this program.
+
+2 (45m 58s):
+And I think, what, what, what were you looking to raise? Cause you hadn't really done a seed round yet, right?
+
+3 (46m 3s):
+No, I, I, based on the advisors or mentors there, they said, you know, raise a million dollars, raise a million dollars.
+
+2 (46m 12s):
+Yeah. And it's 2009. Right. And that there are people with money. There are people that are investors, but still even on Sandhill road. I mean, I've heard stories of, of, of companies looking to sell at the time for like pennies on the dollar that, you know, today are worth many, many tens of billions of dollars. It didn't do it. But you know, it was like a bloodbath in 2009.
+
+3 (46m 38s):
+Yes. It was. And I didn't fully understand yet either, you know, just how to do this or the dynamics around it. But one of the people that was very pivotal in the rays and that came out of Facebook fund was Tim Ferris,
+
+2 (46m 54s):
+Tim Ferris.
+
+3 (46m 55s):
+Yes.
+
+2 (46m 57s):
+Fabulous. At the time four hour workweek was like all was a huge deal, right? Yeah.
+
+3 (47m 2s):
+Okay. So I had read four hour work week and particularly as it related to run my errand.com, I thought, oh my God, I could get Tim as an advisor to this company, that's going to be a huge win for us. And it just so happened that Tim was going to speak at Facebook fund on a Monday morning. Now I was flying back and forth right a week in Boston, a week in Palo Alto. So the head of the Facebook program says, okay, Monday morning, Tim Ferriss is going to be here. Surprise what, you know, everyone can sign up for 15 minutes with Tim on Monday. I'm literally on a flight back to Boston when I get this email and I'm like, oh my God, do I really turn around?
+
+3 (47m 44s):
+Just so I can have this meeting with Tim. I look online to see how much a plane ticket is to fly back. It was like $700. It was a lot. And I think, okay, it's a 15 minute meeting with Tim. Like, is this really worth it? But I decide that I'm going to make it worth. I'm just going to, I'm going to make sure that he comes on and advisor, like whatever it takes. And so I booked my ticket back on Sunday night. So I'm in Boston for a day, go back on Sunday night. And on the way there, I read the four hour work week again. So I just have it fresh in my mind. I have the 15 minute meeting with Tim and I'm showing him the side and I'm describing, run my errand to him.
+
+3 (48m 29s):
+And he's giving me feedback about the homepage and it's 15 minutes. So I'm like, oh my God, the clock is ticking down. Like how do I ask him to be an advisor in a 15 minute meetings? So I decide that that's too much too much to ask for an 15 minute meeting. All I need to do is ask for another meeting. Yep. And so it gets down to like 12 minutes, 13 minutes. He's given me tons of great feedback. And I'm like, Hey, you know, Tim, would you be willing to spend more time with me? Like, could, could we set up another meeting? And he's a little hesitant to be honest. He's like, well, why don't you reach out to my admin? And like, we'll see what we can make work. And I say, okay, great.
+
+2 (49m 4s):
+It's kind of incredible because that, I mean, that could have been where things sort of ended, but, but I guess you called as assistant, you actually were able to get a lunch meeting with Tim a few days later, right?
+
+3 (49m 16s):
+Yes. And over that lunch meeting, we just really bond and connect over four hour workweek and run my errands and how they're so collaborative and ask him to be an advisor. And on the spot he says, yes. And he says, and I want to introduce you to my good friends that are investors. And Miraco at floodgate and Steve Anderson at baseline ventures. Wow. You know, I was like, if I can turn this into a, a million dollars of funding, it'll be worth it. And so that was just my mindset. I had to make it work.
+
+2 (49m 50s):
+All right. So this was a, a crucial, this was like a crucial meeting that you had to have. You felt like this was going to, and it did, it helped open. It, opened the doors. So you raise that, you raise that million dollars, I think by sort of the, the sort of late 2009, but you're in Boston and you're running this out of Boston. And I mean, it sounds like Boston wasn't really, you could see that and everyone that you talk to love this idea, but for some reason it was really taking off like wildfire in the way you'd hoped it would.
+
+3 (50m 25s):
+That's right. I think the culture of is a very do it yourself mentality.
+
+2 (50m 30s):
+Yeah.
+
+3 (50m 31s):
+And so that was some friction for this type of service. And I felt like if we could just get to San Francisco where, you know, it's the tech company Capitol of the world, like this is the consumer market where we actually prove this is a real business.
+
+2 (50m 52s):
+Why don't we come back in just a moment. Helia proves that run. My errand is indeed a real business, but how, when she's really ready to scale it, she realizes she has the wrong team at the wrong time. Stay with us. I'm guy Ross. And you're listening to how I built this. Hey, welcome back to how I built this I'm guy Ross. So it's the summer of 2010 and Leah and her husband, Kevin decided to move to San Francisco so she can relaunch run my errand from there.
+
+2 (51m 36s):
+And one of the first things she decides is to change the name of the business.
+
+3 (51m 41s):
+I did not like the name run my errand about 20 minutes after I bought it off of GoDaddy, February of 2008. But it did get us pretty far. It was clear. It was descriptive. I felt like what we could build was bigger than errands. Yeah. I felt like the, the word run, my errand was a command and it felt demeaning. And I wanted, I wanted the site in the service to feel uplifting and innovative and push the thinking forward. And so we came up with task graph.
+
+2 (52m 18s):
+So had you been thinking already at this point, you know, we can't just limit our brand to errands that eventually it could be more like Angie's list where people do repairs or where people do contracting work, or maybe it's going to be something bigger. Was that where you start to think about that?
+
+3 (52m 37s):
+Yes. I mean, we saw the main use case was errands, but we even saw early days in Boston, people posting really interesting, different things. They needed help with a birthday party or, you know, they needed a costume sewn or there were, so there was like all kinds of crazy things that people would come up with. And so, you know, we did a little bit of press. We did a lot of the on the ground guerrilla marketing, like we had done in Boston.
+
+2 (53m 7s):
+And how was the response in the city?
+
+3 (53m 10s):
+It was much faster than it was in Boston. And so from the very early days of launching San Francisco, I could see that just the consumer in the bay area was going to use the service differently. I mean, it was under a new name brand as well, so that helped, but people were really creative with their use of the service. You know, they, they were using it much more often than people in Boston were, the weather was nicer. So there were a lot more outdoor tasks being done. It was definitely growing faster than we were in Boston.
+
+2 (53m 43s):
+And at this point, I guess you're able to hire someone who can take over the coding for you. I think this is somebody you knew from IBM brand Leonard. And also, I think pretty soon after you arrived to San Francisco, you started to fundraise for, for a series a, this was, and this is going to be big. Like this was going to be like, like 5 million bucks.
+
+3 (54m 3s):
+That's right. That's right. It's yes. So we start to rent fundraise for the series a and we, Brian and I sort of hit up and down Santo road and we pitch investors. And even given all of that, the fundraise was not easy. It wasn't easy. And we talked to a lot of investors. I remember one such meeting where we were on sand hill road, Brian and I, and we park, you know, at the investor's office and I get out of the car and I like somehow close the door awkwardly and it slams my right hand and the door and I'm barreled over in pain.
+
+3 (54m 46s):
+Brian is like, oh my God, are you okay? What just happened? We've got to get into this meeting. And I'm like, I'm okay. I'm okay. I'm okay. I'll deal with it. Later. We just go into the meeting. I walk in, I say nothing. I shake everybody's hand with my broken hand, grimacing, sit down at the table and start the pitch. And at this point, Brian and I, you know, had done this pitch many times. Part of the pitch was also, you know, we're building out the team still. It's just four of us. And in this particular meeting about halfway through the investors, interrupt us, they interrupt. And they're like, hold on, hold on, hold on. Does anyone on your team speak Spanish?
+
+3 (55m 30s):
+And I'm confused. I'm like, well, my father's Puerto Rican. I speak a little Spanish. Like why he's like it just dawns on me. You could, you could really build a huge housecleaning business with this platform. And I was like, what, what is he talking about? And he was thinking that if we spoke Spanish, we could market to the Spanish community and bring them on. As I, it was just, was like so far off from what we were pitching that day. And my hand is broken and I'm just completely destroyed by this meeting. So, you know, we, we continue to talk to investors and we finally get connected with the team over at Shasta ventures.
+
+3 (56m 15s):
+And then we meet Todd. Who's one of the founders of Shasta and after several meetings with them and, you know, they invite, they invite me out to dinner, which is so nice. It's very old school. I don't know if this happens anymore, but they're like, let's go out to dinner and we'll discuss terms, you know? And so then they put together a $5 million term sheet, you know, it was, it was so exciting. It was a great interaction too. I remember Todd saying, you know, we never go back on our word. We've never pulled back a term sheet. And like, we're really excited about working with you and that was it. And so we, we decided to move forward with Shasta and it was a great partnership with them
+
+2 (56m 57s):
+Around this time. You're closing the, this round of financing that the closing in 2011, may of 2011, you decide that, that you should not be the CEO of the company, that you should find an outside person with more experience or what, tell me what you were thinking at the time
+
+3 (57m 17s):
+I was thinking I had always wanted a business partner. I am an engineer. That's, that's how I was trained,
+
+2 (57m 25s):
+Which is really smart, by the way, it's a really smart way to think about it.
+
+3 (57m 28s):
+I always wanted that business person. And so at this point, we're like, we're open in two markets. We're four people, but I know we need to raise more money. And I know that having more operational and business help is going to help get that done. And so we met a lot of different people over the course of many months, we ran a whole search process.
+
+2 (57m 51s):
+All right. So you reach out to somebody to become the CEO and who was it?
+
+3 (58m 2s):
+It was a man by the name of Eric Grossa. He was one of the early guys@hotwire.com hundred million dollar business had sold to Expedia referenced very well. And, and I mean is an amazing human being. I think when I look back, it was more about timing because the business was too early to bring in someone that was a step away from the core vision and the business still needed me to really drive the momentum forward.
+
+3 (58m 44s):
+He was brought into scale.
+
+2 (58m 46s):
+Yeah.
+
+3 (58m 47s):
+It was too early to scale. And the way that man can scale a company, right. I mean, he's brilliant.
+
+2 (58m 53s):
+He brought them credible businesses.
+
+3 (58m 55s):
+Yes.
+
+2 (58m 56s):
+And you guys were still just getting started.
+
+3 (58m 59s):
+That's right. That's right. But you know, we did go out and raise our series B with Eric. So Eric and I then hit the road and I got to say like, oh my God, it was such a relief.
+
+2 (59m 11s):
+Yeah. Because investors are looking at the two of you and they're saying, okay, great product, great engineer. And then super experienced operations person.
+
+3 (59m 21s):
+Exactly.
+
+2 (59m 22s):
+So here's a check.
+
+3 (59m 24s):
+Here's the check. And it was the largest. It was the largest round that we raised. It ended up being $18 million led by Lightspeed. It came fast because we had brought on this amazing talent.
+
+2 (59m 38s):
+All right. Now, meantime, there's no way the task rabbit is profitable because most startups are not profitable for a long time. Some are still not profitable after a very, very, very long time. But what was the business model that, that you start to land on at this point? Obviously this is a question that investors are asking, how are you going to make money?
+
+3 (59m 57s):
+So it was always just a commission from every task that went through the site. And that was always the business model. So we were always making money and the unit economics looked good. We were profitable on a task basis. We're always making money on every task. When, you know, at that point now at this time, you're also starting to see Uber and Lyft and Airbnb, all these other, you know, peer-to-peer economies really start to take off and start to emerge
+
+2 (1h 0m 29s):
+And of 2011. Yeah. Yeah. Yeah.
+
+3 (1h 0m 31s):
+And so we're kind of in the midst of this monumental moment for consumers and task, rabbit actually feels pretty slow and sluggish compared to yes, yes. Compared to the Uber's and the lifts, and it's not happening as instantaneously as the consumer starts to get trained, to expect. And so this is the point in the business where like, wow, we, we need to make instant connections and things happen have to happen in real time.
+
+2 (1h 1m 10s):
+But just to ask about the business model for a moment, I mean, the, the model of taking a commission from every task doesn't seem to me to be sustainable in the long run, because you would have to have millions, hundreds of thousands of tasks happening every day to hit profitability. Because if it's like, I don't know, 40 bucks, I don't know, maybe I'm wrong, but it seems like there had to be other revenue streams that you had to focus on. Is that, is that right? Did that happen?
+
+3 (1h 1m 37s):
+You know, the main revenue stream was the commissions and the average task size at that time was about $150. Right. And so it, the numbers, the numbers worked, we took anywhere between 20 and 30% of, of a task. And that was, you know, net profit to us. Right. So yeah, that, that was always the main business model.
+
+2 (1h 2m 0s):
+All right. Now Eric was brought in to really scale the company you had now, a pretty nice war chest. Yes. But you were in the process of trying to scale, it sounds like the adoption rate wasn't actually, it wasn't moving as quickly as you'd hoped.
+
+3 (1h 2m 16s):
+Yeah, that's right. Cause it never really felt like a rocket and always felt like we were on the brink of getting on the rocket ship. Right. Yeah. And so the lever and the model was always this repeat usage metric. Like if you could get someone to post two tasks a month or one time a week, that was the huge lever in the model that like really made all the numbers work. But on average, people were posting about one time a month at the time. And so we're like, okay, why is it only happening one time a month? Where is the friction in the model? Yeah. At the same time, Eric is really like, he's starting to scale the company the way he knows how to scale companies. It's like bring on sales and marketing.
+
+3 (1h 2m 57s):
+And you know, I, you know, I need more engineering. We need business development, people, we need operations. Like, so we're scaling up. And we're also realizing that the product now in 2011 is it's just not working. It's just not working. And at this point there are competitors coming out that are launching mobile first mobile only. And we've been on the web. Like we have, we have a mobile product, but it hasn't been given a lot of attention because we've been so focused on the web. I mean, honestly, it's like the, the entire consumer market and expectation just changed underneath us.
+
+3 (1h 3m 38s):
+And we missed it.
+
+2 (1h 3m 40s):
+I think Eric would end up being CEO for like less than a year before you kind of took re reassume that role. Can you, can you tell me what, what happened to ultimately, cause it doesn't sound like it was a, it was like dragged down, you know, I hate you. I hate you. It was just the wrong fit, what
+
+3 (1h 4m 2s):
+It was,
+
+2 (1h 4m 2s):
+What, yeah,
+
+3 (1h 4m 3s):
+It was the wrong timing and it was the wrong fit. And it turned out that we needed to really change the trajectory of the product into this mobile first fast paced on demand service, which was more analogous to Uber and Lyft and all these other services and all these other competitors, frankly, that were popping up. But we had scaled a team that was built to run a traditional web business. And so we decided as a board, you know, that I would step back in and, and become CEO again, it was slightly reluctantly.
+
+3 (1h 4m 46s):
+I mean, I really felt like I had failed. I mean that this process had failed. Right. I mean, I, I wanted help. I wanted a business person and that didn't work and now I have to step back in and I also need to like change the trajectory of this giant ship that's going in the wrong direction.
+
+2 (1h 5m 5s):
+Where are you worried about your burn rate?
+
+3 (1h 5m 8s):
+Extremely worried about the burn rate. I mean, at that point, I think we were burning probably over a million dollars a month.
+
+2 (1h 5m 14s):
+And you had, you had money in the bank, but still
+
+3 (1h 5m 17s):
+We did. We did. We had over $20 million in the bank. I remember, you know, so it was kinda like, okay, you've got a lot of funding, but the burn is high. We've hired a lot of people and we've also built a team that may not be the right team to execute what we need to do next.
+
+2 (1h 5m 37s):
+All right. In the middle of 2013, you, you had to lay off about 30% of the team. You restructured the company. Tell me what you were thinking of in the summer of 2013.
+
+3 (1h 5m 52s):
+Yes. So it ended up being about 20% of the team.
+
+2 (1h 5m 58s):
+How many people do you remember
+
+3 (1h 5m 59s):
+At that point? We were probably 80 people. And so it was under 20 people that we transitioned out. I had to look them in the eye and say, you know, this, this isn't working anymore. And we've got to, we've got to move on at the time. I was six months pregnant with my first baby Amelia. And I remember going into the office that morning, just feeling totally sick to my stomach. You know, I deliver the news to this group of people, you know, in segments and chunks.
+
+3 (1h 6m 40s):
+And we had enough money in the bank to really make sure that we took care of them financially. So that was important, but it was going to be a huge morale hit at the same time. You know, this is my first pregnancy and I'm nervous. Cause I, I feel like, you know what, I haven't felt the baby move today. And it's just a lot of stress and like, maybe it's okay, but like, I don't know. And so I call my doctor in the afternoon and she's like, I need you to come in. So I go in, they monitor the baby's sluggish.
+
+3 (1h 7m 21s):
+She's like, no, this isn't in your head. You're not making this up. Like, are you under a lot of stress? Like, oh my God, am I under a lot of stress? And you know, it turned out everything was okay.
+
+2 (1h 7m 40s):
+Everything's
+
+3 (1h 7m 41s):
+Okay. Baby's okay. Amelia is nine. Now she was okay. But it was, it was just like, my body was reacting to the amount of stress I was under. And you know, my doctor said to me, she said, listen, I told her what had happened. And I'm like crying, you know, she's like, listen, you're not going to kill your baby. She said that out to me, flashy, you're not going to kill your baby. I was like, okay. All right. And I was, I was kind of all right, that's what I needed to hear because I need to go back and take care of some things too. But you know, she monitored me for a few hours. I came back to the office, like things were settled down, you know, and we moved, we moved forward.
+
+3 (1h 8m 22s):
+We, we all move forward.
+
+2 (1h 8m 26s):
+All right. Meantime. So you've got, there's just a lot going on. Right. You also realize that the, the model you have, which was kind of like this bidding system or the book now system, it was confusing. There were people who liked it because they could, you know, haggle over a price. And, and even some of the, the, the, the task rabbit, what were they called? The errand runners.
+
+3 (1h 8m 51s):
+Taskers.
+
+2 (1h 8m 52s):
+The taskers. Yeah. Like they, some of them liked it, but you knew that there was too much friction with this model that it wasn't easy to get. And I remember this, I remember going on task rabbit and like 2013 and being like, this is confusing. Yeah. It's like, I don't want to bid it's I'm not good at haggling. Like I just, just tell me the price. And so you, you really, the team started to come up with a new, a completely new model that you would eventually, you guys called it the Booker T model, I guess, after like bookers and the model T is that
+
+3 (1h 9m 20s):
+Yes, that's right. That's right. And this was an idea that came out of the product team
+
+2 (1h 9m 26s):
+And what was it going to, what was going to be different? It was going to just be like, here's a price. And here's how it works.
+
+3 (1h 9m 31s):
+It was going to be a direct booking platform. And what we needed to do was remove more friction from the biddings. So we got rid of bidding, you know? And so people could just post, I want to pay this much money and then taskers would take it or leave, you know, there wasn't like a lot of back and forth. So that helped.
+
+2 (1h 9m 50s):
+And when you introduce this from, from what I understand, you actually started in, in London and the UK to test it out. But w when you brought it to the U S like, I think there was a pretty strong minority of users, pretty strong, maybe strong and vocal minority of people who, who hated it.
+
+3 (1h 10m 9s):
+It's a very loud minority.
+
+2 (1h 10m 11s):
+Yeah. And they really hated it. And what did they say?
+
+3 (1h 10m 16s):
+Oh my God, this was so hard because millions of people were using task rabbit in the U S and thank God we launched this new product in London, because we saw at work, we saw the mobile product work, this on-demand booking platform. It worked the metrics, doubled the repeat usage. And we're like, okay, this works. Now we need to take a million people in the U S and 60,000 taskers that are on the platform. And we need to transition them to a completely new way of working. We actually brought a Tasker from London, from the UK who is operating in the London market. And we had her train taskers in the U S city by city, in these little community gatherings.
+
+3 (1h 11m 1s):
+Thank God we launched that London product, because if we hadn't, we would have been completely overwhelmed by that vocal minority. And we, we could have pulled back. We could have completely decided not to move forward just based on the feedback, because it was so visceral, but, but we saw it working. We knew it was going to work.
+
+2 (1h 11m 23s):
+Where did you see the, where, what was the most popular task? Was it Ikea furniture building
+
+3 (1h 11m 30s):
+Literally since day one, Ikea furniture assembly was always, yeah. I mean, it was always in the top five tasks and it, number one all the time
+
+2 (1h 11m 40s):
+Task rabbit, it became in my mind, I remember I was like, oh, you just went to just get a task rabbit person to do it. If you don't have time. I remember people saying that in like 2014, 15, I remember having those conversations.
+
+3 (1h 11m 53s):
+It was always, always Ikea furniture, somebody. And it was so funny because it took years and years to, to make contact with them. And, you know, finally we did obviously, but, but that was great for us. That was great.
+
+2 (1h 12m 5s):
+And meanwhile, you guys actually start to become profitable around this period and, and you also start to have conversations with Ikea. I mean, I mean, and you knew that tons of people are coming to TaskRabbit to get their Ikea furniture built. So it was like a, like a match made in heaven. So initially, when I started to talk to you guys, was it was a talking about a potential acquisition or, or did it start with like a partnership conversation?
+
+3 (1h 12m 33s):
+It started with a partnership conversation and they knew that we were live in London and London is one of their biggest markets. And London for us was number four out of all the markets we were launched. And so we were doing very well in London and they wanted to talk about a partnership in store so that they could drive up sales. Right. And have people buy more Ikea furniture because it would then be assembled by a task rabbit.
+
+2 (1h 13m 3s):
+And so initially it was let's. Yeah. Let's have some kind of partnership.
+
+3 (1h 13m 7s):
+Yeah. And it was great. So we launched in the London market, a partnership between Ikea and task rabbit. And what I really got excited about with Ikea is particularly being in their headquarters, you could feel that they had similar values around sustainability and culture, just their way of thinking about the business. It felt really aligned with task rabbit and that company really excited about working with them.
+
+2 (1h 13m 38s):
+All right. So I Kia acquires TaskRabbit in 2017 and, and not long after you leave, you, you step away from the company.
+
+3 (1h 13m 49s):
+Do
+
+2 (1h 13m 49s):
+You feel, I mean, you're, you know, five years plus removed from task rabbit now, is it, I mean, do you have any emotional attachment to it or, or not anymore?
+
+3 (1h 13m 60s):
+Oh, God. I, I do. It's it's so as a founder, I always felt like one of the amazing to build something that lives beyond you and that's what I got to achieve. And that was incredible. Now the flip side of that is there's this company that lives beyond me that I have no control over anymore, but everybody associates with me. And so sometimes I'm on the opposite end where people are like asking me questions about like, oh, and you know, what do you think about this with task rabbit? And what do you think about this decision or that, and I'm just like, wow, like I have no input.
+
+3 (1h 14m 44s):
+No, I'm very detached, very detached. I, I know a handful of people at that company today. So it is sort of odd for me because it, it was my baby. It is my baby. It was the first, the first baby. And so it is this very conflicting feeling at times, I'm proud that it lives on beyond me. And I also sometimes feel a conflict that I'm no longer a part of it.
+
+2 (1h 15m 11s):
+Yeah. I mean, it's an amazing story. Like, you we'll start with this in an apartment in Charlestown Boston and did everything. I mean, you, you, you built the site and all the functions and features and you recruited the users and you recruited the taskers and you formed the LLC and you did it for a year and a half before you hired somebody. I mean, that's amazing. And that's, and then you built a brand, a brand that people know they're they know that name.
+
+3 (1h 15m 43s):
+Yeah. I mean, looking back, it was a lot. And could I go back and do it all again? Oh my God. I don't know. Could I go back and even do that whole product pivot change in 2014? I don't know, but I'm really, really glad that I did when I did. I'm proud of the journey that I had that we had, but it was a lot.
+
+2 (1h 16m 15s):
+Do you, when you think about, you know, what happened with TaskRabbit and your, and, and everything that you created and builds, obviously with great smart collaborators, do you think that that what you achieved there was because you, you worked really hard or do you think there was luck involved too?
+
+3 (1h 16m 33s):
+I think it's definitely both. I think that there are definitely times that through circumstance, I was very lucky. For instance, being able to be out to dinner and get connected with Scott Griffith from an old coworker, like, Hey, you can't plan some of these things to happen. The Sarah. And there was a lot of serendipity. And I think at the same time, given the serendipity, you have to be able to capture it and execute on it. And so for me, I feel like it was very much both.
+
+2 (1h 17m 12s):
+That's Leah Sullivan, founder of TaskRabbit. Right now, we as helping lead an early stage venture capital firm called fuel capital, by the way, she and her former husband, Kevin divorced a few years after the sale Ikea, but they still remained friends. And Leah is now remarried. And from time to time, she still hires taskers. In fact, a while back after task rabbit went fully remote. We had heard that they had to get rid of the eight foot wooden logo that used to hang outside the office. She hated to think of someone throwing it out. So she hired a Tasker to deliver it to her house. And then now sits in her garage.
+
+2 (1h 17m 52s):
+Hey, thanks so much for listening to the show this week. If you want to contact the team, our email address is H I B T S I d.wondery.com. And if you want to follow us on Twitter, our account is at how I built this. And mine is at guy Ross on Instagram or at how I built this. And I'm at guide dot Ross. This episode was produced by Carrie Thompson with music composed by REM team Arab, Louie. It was edited by Neeva grant with research help from Sam Paulson. Our production staff also includes JC Howard, Casey Herman, Liz Metzker, Alex Chung, Josh lash, Catherine cipher, Elaine coats, Christmas. He ne Carlos Tevez and John Isabella I'm guy Ross.
+
+2 (1h 18m 35s):
+And you've been listening to how I built this. Hey, everyone. So I wanna make sure you know, all of the different ways you can listen to how I built this. As you probably know, you can follow the show on Amazon music, apple podcasts, or wherever you're listening right now, but a one let you know that you can actually listen to the next episode of how I built this today. One week early on Amazon music, you can also listen to it early and ad free by subscribing to Wondery plus an apple podcasts or on the Wondery app.
+
+2 (1h 19m 18s):
+Please do follow us on your podcast app. So you always have the latest episode downloaded. And another way to support the show is by filling out a survey at wondery.com/survey. And thanks.

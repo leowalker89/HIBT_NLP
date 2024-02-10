@@ -1,0 +1,713 @@
+0 (0s):
+Need some really good advice. Dear Life Kit. Each episode will answer one of your most pressing and intimate anonymous questions about life, love, and how to keep it together. New episodes every Saturday until October 8th from NPRs Life Kit.
+
+2 (19s):
+How I Built this is pleased to have Slack as our presenting sponsor. Slack, where the future works. Let's Slack be your digital hq. It's one digital space that brings together all of your people and all of the tools you need. Having Slack makes collaboration easier and more flexible so you can be a lot more productive. Don't wait to see what you can accomplish with your own digital hq. Head over to slack.com/dhq to get started. Slack where the future works. Don't you hate it when you can't find your phone or your keys in your bag, Or worse when your water bottle leaks all over the bottom of your bag because it was rolling around and the cap got unscrewed.
+
+2 (1m 3s):
+Well, the performance Bag brand Dagney Dover can help their bags keep up with your busy lifestyle and help you stay organized. I got the Arlo tech organizer from Dagney Dover right before leaving on a family trip. Everything was so practically designed, stylish and a lifesaver for keeping our cords and chargers organized. First time customers get 10% off using code built@dagneydover.com. That's D A G N E D O V E r.com and code built
+
+3 (1m 39s):
+That first. Revenue check.dot dot was $500,
+
+2 (1m 46s):
+$500,000.
+
+3 (1m 48s):
+That's what I was, I, I thought like is it, is the decimal point just in the wrong place? Is there a typo on this check?
+
+2 (1m 56s):
+But for three months of, of web advertising, your 50% rev share,
+
+3 (2m 1s):
+It was $500.
+
+2 (2m 4s):
+Wow.
+
+3 (2m 4s):
+We looked at this and said, Oh, massive sigh. We got a massive problem ahead of us. Cause there's no other way to say it. We just had a failed business model.
+
+2 (2m 24s):
+Welcome to how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. I'm Guy Raz and on the show today how Steve Coffer overhauled a disastrous business model to build TripAdvisor, a travel website with over 400 million visitors a month. Wanna book a restaurant or a hotel, or even search for a product on Amazon. I almost never pay too much attention to the rating.
+
+2 (3m 5s):
+What I do though is I read the reviews because even if a hotel or a restaurant has five stars, you're obviously gonna find out a lot more from the words and descriptions of someone who's been there. A lot of times the ratings have nothing to do with the food or the comfort of a hotel room. People will ding you for stupid reasons. The parking lot was full one star. They didn't refill my water. One star, the line for the bathroom was too long. One star, which is why I have a love hate relationship with most review sites, but there's one that's actually been pretty reliable. TripAdvisor. I have literally changed a reservation because one reviewer thoughtfully pointed out how wonderful the hotel was, but also how it wasn't really a great place for kids.
+
+2 (3m 55s):
+And I've left reviews of hotels that are amazing if you have kids, but horrible if you're looking for peace and quiet. But remarkably, what makes TripAdvisors so useful, the user generated reviews was an afterthought. It wasn't part of the plan. When Steve Coffer launched the site in the late 1990s, the idea was to aggregate a bunch of hotel reviews from the internet and then try and sell that information to other websites like Expedia and Yahoo. But that model didn't work. Turns out Yahoo wasn't that interested. And so just months before TripAdvisor looked like it would become another casualty of the dot combust of the early two thousands, Steve Coffer came up with a new plan, get hotels and airlines to pay a fee anytime someone booked through TripAdvisor and eventually get travelers to write reviews.
+
+2 (4m 51s):
+That plan wouldn't just save TripAdvisor, it would turn it into a multi billion dollar travel and review website. Steve Coffer grew up in Los Angeles and majored in computer science in college. When he graduated in 1985, he and a few friends decided to start a software company in Boston and that turned out to be his first legitimate business. He stayed at that company for over 10 years.
+
+3 (5m 16s):
+I think we incorporated in 1985 or 86 and did the typical thing of, well, we're gonna live together in the same apartment and we're gonna code in the night. And we went to our day jobs during the day as we tried to get it off the ground.
+
+2 (5m 33s):
+Who did you do this with?
+
+3 (5m 34s):
+So this was with Sesha per top and Russ Lopez, Two classmates from school.
+
+2 (5m 39s):
+And so the company that you started, tell me what did it, what did you make, Help me understand what was the problem that you were solving for?
+
+3 (5m 47s):
+You know, when you go through school and we were taught to program in C, every kid spends an inordinate amount of time up really late at night trying to find the darn bug or bugs that are in the software. So some of what our software did was automatically check for errors in the code, both when you first wrote it and then when it was running. So we sold a productivity tool and every, almost everyone that tried it found that to be pretty effective and, and sales sales did pretty well.
+
+2 (6m 26s):
+So how, how quickly, I mean, I mean this company, you, you ran this company, you were part of this company for I think 12, 13 years.
+
+3 (6m 35s):
+Yes, it grew, we grew up to 150, maybe 160 people. Wow. 18 million in revenue. And then, you know, market changed a little bit. You know, the company grew up and then it started having growth challenges and then it started to contract. And so it finally sold to a company called Comper in 98. And the company was less than a dozen people at that time.
+
+2 (7m 3s):
+Wow. I mean that's, it sounds like it was happening sort of in real time. Like you, you grow to a hundred hundred 50, 160 people and then by the time you are sold, you've got 12 left. There must have been a point where with leadership sort of looked around and said, we gotta quickly make some decisions here cuz we're losing market share. Or you know, we're, you know, we're losing business.
+
+3 (7m 26s):
+Oh yes. And we had proverbial blinders on. We kept telling ourselves, if we just did one more thing with the product, sales would revive. And then when we invested in building a different product, we made the absolute classic mistake of, hey, we thought this was what our customers would want. But we neglected to find customers that would say, Yeah, if you build that, we will buy it before we actually built
+
+2 (7m 58s):
+It. So essentially you didn't adapt quickly enough. You had this great product, $18 million in revenue at a certain point, but there were clearly competitors who were, who were focusing on, on a completely different market that began to dominate the sector, I guess.
+
+3 (8m 19s):
+That's right. The big turning point, frankly, was when we had to do our first round of layoffs, ironically, or perhaps not surprising to you, but I learned way more on the downhill trend of that company than the upswing. Yeah. And so that stuck with me to, you know, to to this very day as a like, wow, just like really messed up managing this company and I just really never wanted to have to go through that again.
+
+2 (8m 50s):
+Hmm. So in 1998, you and the other founders sold I think half of the assets of the company, basically. It sounds like there was no choice. You would not, you wouldn't have survived. You had to sell.
+
+3 (9m 4s):
+That's right. It was a fire sale or bankruptcy part of the sale to, to comper involved me staying with the company for a year for the transition.
+
+2 (9m 15s):
+So So you walked outta that 13, 12, 13 year experience. Not a rich guy.
+
+3 (9m 20s):
+Yeah. Nothing there.
+
+2 (9m 22s):
+So you didn't walk out with like a $10 million payday?
+
+3 (9m 26s):
+Nah, it was closer to a zero payday. Wow.
+
+2 (9m 30s):
+So we get to a fateful moment in, in your life. And, and, and really, I mean if, I think I'm probably oversimplifying it cuz I don't think it was so dramatic that it, it was like a light bulb. And then the next thing you, you have this company, but you go on vacation to Mexico. This is 1998. And tell me about, about that vacation or what, what happens on that trip that that actually sparks an idea?
+
+3 (9m 55s):
+Well it was actually the planning of that trip. My wife and I walked into a travel agency and they, you know, a nice, it's usually a lady, lady says, You know what, how about Mexico? We said, Sounds good. And we settle on a place called Play del Carmen, which just south of Cancun. And she hands us three brochures of resorts. Yeah. And said, Well this one is not very expensive. This one is moderately priced, this one is on the luxury side where we like to stay. I laughed when I think about it cuz cause when we got home I'm like, Hey, so we're gonna stay in the cheap one, right?
+
+3 (10m 37s):
+And my wife was like, Well let, let's make sure that that is still up to our standards. I'm like, Yeah, great idea. So I went online, Super disappointing. I come to a travel agency site in Cincinnati, Ohio. It's got a low res picture of the beautiful picture that I already had in front of me from the brochure and a one 800 number to call to make a reservation. This was not helpful to me. I wanted the pros, the cons, the people that loved it, that hated it. I wanted the candid photos, not what I suspected were touched up photos that were in the brochure.
+
+3 (11m 17s):
+Fast forward a few days later cuz I'm, I can be pretty persistent. I want to figure out how to find a site that wasn't a travel agency. So using, it's called negative keywords. So I don't find me the pages that talk about this hotel that don't have the word facts or deal on it. Because that turned out to give me pages that weren't travel agencies. Cause every travel agency had a fax and a telephone number. And it gave me a page. And eventually I found, you know, this person's precursor to a travel blog. They had wrote up their trip that stayed at this property and they had actually posted a couple of photos that they had taken.
+
+3 (12m 2s):
+And lordy the difference between those photos and the ones in the brochure night and day. I showed them to my wife. We looked at each other and like, wow, thank goodness we didn't pick that place. Yeah. Went on the week vacation, had a great time, and kind of on the way home she's like, Maybe you should start a company that that could help make this easier for other people. And I remember saying, Eh, but I did write it down. And a year later that was still the kinda the, the founding story that got us off the ground.
+
+2 (12m 41s):
+All right. So the idea was, hey, there's nothing out there. And this is, this is 98. When, when, when you first were planning a trip to Mexico, certainly there was not, there was almost nothing out there that, you know, I mean, travel agencies were how you booked your trips and you know, you kind of trusted travel agents. Or, I actually remember, I think in like 1996, I went on a, a Thomas Cook package, holiday tour. I was living in England. It was a student, it was really cheap to Italy. And you know, the hotel was a, you know, was, it was not so great. But, but I, you know, you just had to kind of hope that it was gonna be good enough.
+
+2 (13m 22s):
+And there really, it was no way of knowing at the
+
+3 (13m 25s):
+Time. That's right. There was huge information asymmetry. It was an incredibly important purchase. This a vacation, it was a big purchase in your annual budget. You couldn't return it like, Hey, I bought a tv, I don't like it. I'm returning it. And you know, Expedia had, you know, just launched maybe a couple years earlier, so travel, I think was like the number three or number four industry on the internet at that time. Yeah. And our goal was to become the best travel search engine. And technically the first name I, again, my nerdy come out was called trip research.com.
+
+3 (14m 12s):
+That was the first url. Registered
+
+2 (14m 15s):
+Trip research.com.
+
+3 (14m 17s):
+Yes. Nice. As my co-founders. And I soon discovered that name did not excite people to go on vacation
+
+2 (14m 26s):
+Trip research.com. Where, what are you gonna do? Very, I'm gonna go to trip research.com. That's where I do all my research for my trips. It's very clear.
+
+3 (14m 33s):
+Right. And it was a terrible name. Fortunately, we recognized that before we actually launched anything. And so by the time we had to print stationary and, and have a demo site up, we had changed the name to, to TripAdvisor,
+
+2 (14m 46s):
+Which is a, a, a softer version. Right. It's like you're a friend. Yes. The TripAdvisor, not, not the trip researcher.
+
+3 (14m 53s):
+It, it did not convey, Oh my god, I have to go to the library.
+
+2 (14m 57s):
+But what was the concept in your head? What would it do? What was, it was gonna be a website, What was it gonna be?
+
+3 (15m 5s):
+So we were gonna build, we were gonna search the entire web for all this fantastic information that we figured was already out there,
+
+2 (15m 13s):
+Information about
+
+3 (15m 15s):
+Where to go, Okay, I should go to Cancun, or I should go to Aruba or Paris. What's great to do in all these places, Amazing experiences, where should we stay? But if you think about the timing on this, this is very late 99, early 2000 we incorporated in February. And so like hmm, around that time, all of the, or many of the.com companies that were super high flying had spent zillions of dollars acquiring eyeballs as they were called back then.
+
+3 (15m 55s):
+Many had gone up in flames. And so we decided a much better opportunity. We laugh at this to this day, would be a B2B or business to business type offering where we would search the web, find all this incredibly valuable information, license it to all the other travel sites or anyone else who wanted it that already had visitors. So a client could be Yahoo Travel or Expedia or American Airlines or any of the other folks that wanted a better travel search experience on their own site.
+
+2 (16m 36s):
+All right, so this was the idea. And, and, and how would you, how would, how would you make money from that? You would make money every time somebody used one of these search engines to search for travel and it basically dug into your search engine full of travel information.
+
+3 (16m 51s):
+That's right. Any client of ours would pay us a, a penny, a query, or a small amount. So our business would scale beautifully. Right. The LICOs or, or let's take American Airlines as a potential client. They always want to get people who are already on their site to go plan more vacations. But if you were on American Airlines and you search for, for Aruba, they'd tell you flight schedules, but they wouldn't give you any great content about why to go to Aruba or where to stay. And so we approached them and would say like, Hey, let us power a great destination service for you. So if someone searches on Aruba, you can give them a link to say, explore more about Aruba.
+
+3 (17m 36s):
+We'll do all the work for you. We'll, you know, build that part of your site. It'll be on your site, You'll sell more airline tickets and we promise, or we hope you'll sell more airline tickets than it will, will cost you in fees to us for the, for the service.
+
+2 (17m 53s):
+All right. So you've got this business model, you've got this concept and, and I guess you eventually bring on three co-founders to launch this thing with you. That's right. And one of them is this guy, Langley Steiner, who, who had worked at a, at a VC fund who I guess helped you raise some, some of the money to get started, right?
+
+3 (18m 11s):
+Yes. We raised 1.2 million to begin with and Langley gets a ton of the credit for that. But I immediately called up our two other co-founders, Tom Polka, Nick Hanney, and persuaded them to, to come on out and, and I acted as kind of CEO and and product guy in a way we
+
+2 (18m 33s):
+Went. All right. So you've got the four of you and where do you start? I know you, you had, I mean, did you get office space? Were you, did you start working out of your home? What, what was the first, what was the first physical spot that you guys worked at?
+
+3 (18m 49s):
+So conveniently, my wife was running a spinoff company of Centerline software called Centerline Development Systems. And she had that office above the pizza parlor in Needham, Massachusetts. And there was enough room for six or eight people. And, you know, so we made, you know, several hires that worked out of that office.
+
+2 (19m 14s):
+Help me understand, was we, I mean, you did not have a consumer facing product, right? I mean, tripad, like, if you went to tripadvisor.com, it would look like a, like a corporate website.
+
+3 (19m 26s):
+Well, for the first six months it just had a splash page coming soon. And then we did kind of launch a demo.tripadvisor.com is the way I think about it. But yeah, it's a fair question. You're a B2B company, what do you need a site for? And our answer was, well, when we would talk to the folks at American and Airlines or whatever, they would wanna like, Well, I don't understand what content you have, Right? Where can I see this thing? And our answer was, Hey, go to demo.tripadvisor.com, I'll give you the password to get in and then you can see how everything's organized.
+
+2 (20m 3s):
+I see. But it was not, this was, there was no intention to build a consumer facing site initially. Right. That was not the That's right. Okay. And wh where do you go? Who do you start to call to, to pitch your product to?
+
+3 (20m 17s):
+Whew. It was everyone that we could wrangle a connection to in the travel space. It was Expedia, it was, you know, Yahoo search. It was like coast, it was American Airlines. It was anyone and anyone that could or would take the call. And, and that was, that was tough going.
+
+2 (20m 39s):
+Why was it tough going? Because I mean, what were, you were basically saying, Look, you know, people are gonna search for this stuff and we've got this content.
+
+3 (20m 48s):
+Yeah,
+
+2 (20m 49s):
+Yeah. You know, what would, what were some of these potential partners saying like when you, I guess AOL was a big one at the time. What, what were, what would they say when you offered your services?
+
+3 (20m 58s):
+So we could not get any sales for the first like nine months of, of trying. And you know, Yahoo's response is etched in my brain. They said, Cuz you know, we got to some fairly senior folks there and they said, Hey, we love your search. You guys do a really good job of delivering travel specific results and yeah, we'll put your, what do you call your company? TripAdvisor logo right next to the we'll put powered by TripAdvisor right next to the search box.
+
+2 (21m 29s):
+This would be on, this would be on like Yahoo Travel. Right.
+
+3 (21m 32s):
+Right. And it just became very apparent that they wanted us to pay them a million dollars a year for our logo to be featured there to help us build our brand. And we're saying, No, no, no guys, we need you to pay us a million dollars a year for the benefits of all this amazing content that we have. And when they realized that we weren't about to be a paying client to them, and we realized that yeah, this group was not remotely interested in improving their product using somebody else's search results. Yeah. Forget it.
+
+2 (22m 10s):
+So I imagine there, there was a lot of investor interest in this sector. Did you, when you pitched the idea to investors to raise money, what did they say?
+
+3 (22m 19s):
+Yes, travel was a great category for the internet. You didn't have to worry about shipping something. Your reservation was already electronic kind of before the internet. So that all fit pretty well. But like we had this business model of licensing search results. And so the proverbial nine out of 10 venture firms that we went to said, Yeah, thanks, but no thanks. I get the consumer value proposition, but just not, just not sure that there's a company here versus it being a feature or something else.
+
+2 (22m 57s):
+They just thought it was, this was not valuable. The money really was in booking travel.
+
+3 (23m 2s):
+Right.
+
+2 (23m 3s):
+Which was a fair thing to say. I mean, I think fair enough. Right?
+
+3 (23m 7s):
+Absolutely. And all, all of the, they were a hundred percent right cuz our B2B model did not work.
+
+2 (23m 15s):
+So in the first nine months of TripAdvisor, you did not sign up a single client at all. Not one.
+
+3 (23m 21s):
+Yes. And we attributed that to the fact that, well we didn't even have a site, a database. So the first nine months we're still building the product. Right. When we launched in October, the next nine months, Okay, now we're launched, people can see what we have, let's go get 'em, rah rah. And you know, we hopped on planes, We, I thought we did all the right things to try to land the client. And really it wasn't until I think second quarter of 2001 that we got our first client and you know, was a big client, but, you know, but one client was not gonna make the company.
+
+2 (23m 59s):
+That client, I believe was Lycos, which was a, i I remember a big search engine at the time. I think it was like in the top three or four, right? It was like Yahoo, AOL LICOs.
+
+3 (24m 11s):
+Yes. All of a sudden on LICOs Travel, now you could look for hotels in Boston, you could see a ranked list of which hotels were the best ones you could click off to read why we thought they were the best ones. But it was a, it looked strikingly similar to demo tripadvisor.com. But LICOs had the eyeballs, their travel section was, was huge. At least we thought it was huge. And we had a major marquis client that we had hoped would open the doors for many more.
+
+2 (24m 46s):
+All right. Before I, I get into how that relationship worked, I wanna ask you about the content again. You had no editorial team at TripAdvisor, right? At, I mean, because you, you say that you could now go to LICOs and search hotels in Boston and get a ranking of the top 10. But who was making that ranking? How was that determined?
+
+3 (25m 4s):
+So that was our, our, our software, our algorithms. We had a very small sort of editorial team in the sense that they were helping us to find all of the articles and then we would, we would scrape the web, we would find reviews of the popular hotels on these other sites. And again, I named them Lonely Planet or Fedoras. Or Frommers. Those folks would've given them a score. We took that score, we aggregated it with some other information that we had and produced an overall rank it.
+
+2 (25m 41s):
+So the idea was this was gonna be like value added content. That was the argument you were making to companies like LICOs, if you run this, if you, if you use this, more people will come to your site cuz they'll know you've got this quality information available.
+
+3 (25m 53s):
+Exactly. And LICOs said, Okay, well we don't really want to pay you for this content on a per query basis, but we'll do a rev share with you. So for all the people that come to the page, you'll get half the revenue that we make for, from selling ads on those pages. We thought that was a great deal given how big LICOs
+
+2 (26m 19s):
+Was. Sounds great. So, So 50 50 rev share. I mean,
+
+3 (26m 22s):
+Yeah, I mean we were high fiving, this was a quarterly revenue check and you know, we didn't know that Lycos by themselves would pay all of our bills, but with them as a major client, Yeah. Hey, things weren't, things were looking up.
+
+2 (26m 39s):
+All right. So that first quarter ends with this deal and they send you a check. How much was it?
+
+3 (26m 48s):
+Yeah, can we, we'll digress for a minute because at that quarter, September of 2001 was nine 11. Right? And so like, who, thank goodness we had
+
+2 (27m 7s):
+Lycos because they're still getting advertising on their site and you were gonna get a cut of that.
+
+3 (27m 11s):
+They're still getting advertisers. What enable us to weather the storm. And so to your question, that first revenue check, dot, dot dot was $500,
+
+2 (27m 24s):
+$500,000.
+
+3 (27m 26s):
+That's what I was, I, I thought like is it, is the decimal point just in the wrong place? Is there a typo on this check? What the heck could be going on? But I looked at it, I showed her, I'm like, it was $500,
+
+2 (27m 41s):
+$500.
+
+3 (27m 43s):
+I actually, I did not panic. I was not worried about this. Of course this was just a mistake. No. Like they didn't have all the tracking codes, blah, blah blah. So you, I called them up, I'm like, hey, something must be wrong here. Like for a quarter we got $500 check. What's going on that
+
+2 (28m 1s):
+For three months of, of web advertising, your 50% rev share was fi this must be a mistake.
+
+3 (28m 7s):
+Exactly. Poignant because the $500 wasn't even gonna cover our, you know, free lunches on Mondays to the company. Yeah. But sure enough, I talked to the product manager, very nice lady who just kind of pointed out, cuz I'm like, but I see ads on, on like it's travel site all the time. And she, you know, calmly pointed out like we tried to lower your expectations a bit, but like most of those ads are what we call house ads. So light bulb goes off in my head like, holy cow, I'm getting 50% of a $0 ad.
+
+3 (28m 50s):
+How dumb is that?
+
+2 (28m 52s):
+Oh wait, a $0 ad wait because they were using unsold inventory to just run what? Like
+
+3 (28m 60s):
+They were advertising All the ads that I was seeing when I looked at the side were ads for other Lacoss products, LICOs games, LICOs Finance.
+
+2 (29m 10s):
+Oh so they were, they were running self promotional ads, which they don't obviously pay for or make any money from cuz it's their own ads.
+
+3 (29m 18s):
+Right. And when they did have a paying client in general, they ran those ads on a page that they got 100% of the revenue for and they didn't have to share it with anyone. Wow. And so like the blindfold came off, we looked at this and said massive sigh. We got a massive bra ahead of us. Cuz travel industry is in total disarray. We have, you know, just a, there's no other way to say it. We just had a failed business model. Yeah. And like, okay, what's next? Team,
+
+2 (29m 57s):
+When we come back in just a moment, how's Steve and his team figure out how to make the business work and why they walk away from a big deal with the company that once shunned them. Yahoo, stay with us. I'm Guy Raz and you're listening to How I Built This. Many of us have had to wear an uncomfortable work uniform at some point in our lives. Sometimes they were way too big or an unflattering color made from a scratchy fabric or just plain not cool. If you're a business owner looking to elevate your brand, don't put your logo on just any uniform.
+
+2 (30m 38s):
+Create an extension of your brand with custom apparel from Lands End Business. For the past few weeks I've been wearing Lands End Business, customized clothing, including their soft shell jacket and fleece beanie. They're super comfortable and the quality is excellent, especially when you compare them to the usual company swag that's out there. Whether you're a carpet cleaner, mechanic moving company or local pizza shop, Lands end business has your uniform needs covered. See why thousands of companies count on lands and business. Go to business dot lands and.com/built and use promo code built for 25% off your first product. That's business dot lands and.com/built promo code B U I L T for 25% off your first product.
+
+2 (31m 27s):
+American Giant believes in doing things the right way. It's also the hard way, but a lot of things worth doing are hard by choosing to make all of its clothes in the United States. American Giant is supporting local communities while also producing the highest quality goods on the market. American Giant invests locally right back into the people and places that make the products they sell. And unlike how most clothes are made today, clothes from American Giant are made to last not to wear out. I've been wearing their clothes for years, their hoodies, their t-shirts, their jeans, even their socks. I've been a huge fan of their products and just recently got a brand new full zip hoodie.
+
+2 (32m 8s):
+It is really the best hoodie I've ever had. Full stop. You can find out more about their story and you can shop their classic full zip hoodie@americangiant.com slash built and get 20% off when you use code built at checkout. That's american giant.com/built promo code built. Hey, welcome back to how I Built this. I'm Guy Raz, so it's around 2001 and TripAdvisor is doing all the things that a startup does not want to be doing.
+
+2 (32m 49s):
+It's burning through money, it only has one client and so far that client's biggest check is 500 bucks.
+
+3 (32m 58s):
+And we went into a controlled panic mode. We were like, everything is all about how can we get a dollar? Yeah. What new business models could we tried and, and we tried three or four very, very different ones. But you know, it was touch and go
+
+2 (33m 15s):
+And, and the business model you eventually arrived at the one that that of course wound up working, I guess kind of grew out of this really critical decision that you, you made around this time, which was to make the site public, right? You basically opened TripAdvisor up so that anyone could see it, right?
+
+3 (33m 33s):
+Yes. And so search engines were finding us and you know, some folks were, were finding it and you know, and we had our web analytics, ah, some people are coming to the site. And what we eventually did find leveraged the fact of like, if you are a consumer, if you're a traveler on the site and you are looking at the Marriott Marquee Hotel in the middle of New York City and we give you some reviews and some rankings and I'm like, hey, I might wanna stay here. The consumer insight says the next thing that traveler wants is, is it available for when I'm gonna be in New York and how much is it gonna
+
+2 (34m 21s):
+Cost? Yeah.
+
+3 (34m 22s):
+So we created a text link that said check price in availability and if you clicked on that link we sent you to the Marriott Marquis page on Expedia.
+
+2 (34m 36s):
+Right?
+
+3 (34m 37s):
+And so we called up Expedia and said, Hey, we just tested something, we got people over to your site, so would you be willing to buy some leads from us? And they said, Never heard of you. We don't buy leads, but we'll essentially give you a rev share on reservations that you make. I'm like, okay.
+
+2 (35m 0s):
+So if somebody, in other words, if somebody clicked to a hotel that opened up the Expedia reservation page, they were willing to give you a cut of that reservation if the, if the person made a reservation on the page.
+
+3 (35m 13s):
+Exactly. If the person made the reservation. Right. And so no risk for Expedia and we were desperate, but we eventually agreed to was 50 cents per click,
+
+2 (35m 25s):
+50 cents per click even if the person did not make a reservation?
+
+3 (35m 28s):
+Correct. Okay. And then they did the math on their end. Big top secret, can't possibly share that information with you guys. So in November we did a test, which since they had all the power, it was a free test. Yeah. We sent them 10,000 clicks and called them up at the end of the test and they said, Oh, looks like you got some conversions, we're willing to, you know, keep the test going. And we said, Well it's not a test anymore, it's a paid order now. And we sold our very first, you know, real revenue client, 20,000 clicks for $10,000 in the month of December, 2001.
+
+2 (36m 11s):
+And you could actually track it because you could see when somebody clicked, you didn't need to audit Expedia. You could, you would know exactly how many people were going to their site.
+
+3 (36m 21s):
+That's right. And at the end of the month when we called them, cuz we're looking like, Hey, can we do this again for January? And I vividly remember these like magic words at the end of that conversation, which was, Hey, you know, the quality of your leads is pretty good. We're happy to continue order, if you have more leads you can send, we're happy to spend more. Sure. So long as the quality stays high,
+
+2 (36m 51s):
+The quality of the people who are going to hopefully book.
+
+3 (36m 55s):
+Right. And that became a very beginning of a very long term relationship with Expedia and eventually all of Expedia's competitors to form a business model that has us selling leads on a cost per click basis Yeah. To people who make, wanna make reservations.
+
+2 (37m 15s):
+But, but here's the thing. You're now starting to send people to drive traffic to Expedia. Right. But what you don't know is how many of those people are actually booking. I'm assuming Expedia wasn't sharing that information with you at the time. Right. Cause that goes, that's where the real money is.
+
+3 (37m 33s):
+Yes. But you know, we knew from just reading around that, you know, maybe 5% of our leads were actually booking something. So one out of 20. So we figured if we were getting 50 cents a click, the fastest way to get Expedia to pay a dollar a click was to get another client on the site who would be positioned above Expedia in the list of places you could go make a reservation for this
+
+2 (38m 5s):
+Hotel. Always. So, Okay, I see. So now what you're saying is that, that you had the 50 cents per click from Expedia, but maybe there might be someone else out there, I don't know who maybe Travelocity is also interested in. And maybe we will put the Travelocity option higher up on the list and maybe Travelocity will pay us a dollar a click instead.
+
+3 (38m 29s):
+And so isn't this a great experience for a consumer who's looking at this hotel who says, Alright, let me me see how much it costs on Expedia. Let me see how much it costs on Travelocity. That's a good like price comparison, value proposition for a traveler. And you know, if that user clicks on both links, I just got paid twice.
+
+2 (38m 51s):
+So it's not that dissimilar from what travel agents traditionally were doing. Right. Which is or any, any kind anyone who's, who's referring business to somebody else. Like Right. That's, that is essentially it was just a an updated model. An updated version of that business model.
+
+3 (39m 7s):
+Exactly.
+
+2 (39m 8s):
+All right, so you have this site and still collecting information from or aggregating information that was out there, Professional reviews mainly, but you enabled people who are reading the reviews, I guess to comment on the reviews to, to react to the reviews on the website.
+
+3 (39m 29s):
+Well it was actually we had, if you went to that hotel page, you could click off to a fedoras or Lonely planet or, or a travel blog somewhere to read and somebody, and unfortunately it's, it's a bit lost in TripAdvisor. Lore came up with the idea of like, well let's just let users write their own review on the site. I'm like, there was split opinions. Yeah. A couple of people said like, why would anyone be interested in one random person's opinion? And other folks said, Well sure, but that's gonna be their opinion from the stay they had last week. That's super relevant, I really want to hear that. So we said, Sure, we'll test it.
+
+3 (40m 10s):
+And sure enough, a lot of people wanted to do that, you know, and, and obviously quickly grew and quickly took over and our users on our site were skipping over the reviews of Fedora plan and the others and going straight to the section that had reviews from their peers, essentially just other travelers. And there was a, a book out at the time called, or it came out a little bit later I think, Wisdom of the crowds and it was Sure. Examples of how, you know, like the collective wisdom of a whole lot of people was gonna end up being more accurate than even an expert.
+
+2 (40m 53s):
+Yeah. I mean I think in, in, you know, shortly after September 11th, 2001 when when you received $500 from Lycos when you were really on the ropes, you, you kind of took this Hail Mary approach and came to an agreement with Expedia to get 50 cents for every referral. By March of 2002, you guys were making like 70 grand a month in these, through these referral fees. That's a very, very fast turnaround.
+
+3 (41m 23s):
+Super fast turnaround. And that, that march marked our first month of profitability. Hmm. Since we didn't know how long it would take to turn things around. If we could turn things around, we had cut back on everything non-essential. And so our burn rate was about 70 and March, we made it a profitable month and we were literally profitable every quarter thereafter until the pandemic.
+
+2 (41m 49s):
+But now you're a consumer brand, now you are a consumer facing brand. You are not a business to business brand anymore.
+
+3 (41m 56s):
+You bet. We now needed more traffic to our website. Yeah. And we looked and said, Hey, we, we don't have a lot of time because somebody else could copy us. Yeah. And our, our answer we thought and was going to be, well look, if we can build this massive marketplace of reviews globally, it's really hard for somebody else to catch up.
+
+2 (42m 25s):
+But how did you attract more users? I mean, you did not have a significant marketing budget. How are you getting more traffic? Cuz that your site now depended on two things. It depended on traffic and then it depended on people writing reviews. So how, how did you do that? How did you get people in, into the door
+
+3 (42m 43s):
+For the former getting more traffic to the site? Well, we hadn't focused on that at all. So it was like learning a new skill and we looked around like, well how are other sites and oh, search engines. For the first couple years we worked really hard at making sure TripAdvisor would appear in as many different searches as possible.
+
+2 (43m 5s):
+This was like the, let's be honest here, this was sort of like the golden age of search engine optimization. It was like, I mean, if you knew how to do it in 2002, 2003, it was like shooting fish in a barrel. You could do it fairly cheaply and you could get a lot of conversions if you, if you, if you understood how to make your listing come up on top.
+
+3 (43m 25s):
+And we were very good at it.
+
+2 (43m 29s):
+Right. I mean, you can't do that today. Today it's much harder.
+
+3 (43m 32s):
+Absolutely much harder. But there, there's also, there's a lot more great content on, on lots of websites out there. So, you know, again, wine, wine, the clock back, nobody else that I can remember had a website that had all of the hotels in the United States, let alone the world that were crawlable or available for users to see without having to search for something. And of course it was brand new in, in a category and the category itself, travel was exploding.
+
+2 (44m 8s):
+All right. So this was like, I mean it was a, it was a combination of doing search engine optimization, but also we, I guess you have to remember at this time people loved seeing what they wrote on, on the internet. I mean this is, this is the story of Facebook. People were like, wait, you wanna know my favorite music and books and my friends? Yeah. I'm gonna tell you all about that cuz it's cool to see it up here. Now I think people have a different view of it, but reviews are different cuz it, it allows people to, it's like comment sections. It's like it gives people a chance to, to feel empowered and I guess it was just a self generating phenomenon.
+
+3 (44m 51s):
+Right? You have to remember, most people were still not of the contributor mindset. Yeah. Oh, I don't wanna write a review. I don't know what to say.
+
+2 (45m 1s):
+Cause they were embarrassed that they weren't good enough or something
+
+3 (45m 3s):
+Embarrassed Good enough. Too busy. Lots and lots of reasons. Yeah. But if you just do the math, if you have a hundred thousand people coming in a month and 1% of them will write a review, then you've got a thousand new reviews. And that happens all the time. And as you gather more traffic, you're getting more visitors, more visitors, more reviews, more reviews. And then of course we got, you know, much smarter about how to get somebody who is a contributor to write more reviews. First thing you do is you thank them. The second thing you do is you thank them profusely.
+
+3 (45m 46s):
+And then the third thing you do is you let them know how much other travelers really appreciate their comments. And all of that's just like, it's the dopamine, it's the extra little pad on the back that says, Oh, I'm appreciated. Let me go write another review.
+
+2 (46m 5s):
+How, when, when did you say think to yourself, wait a minute, this is, we could build a massive business on people's opinions.
+
+3 (46m 15s):
+The notion that we were onto something was really apparent by the time we got to, to 2003, 2002 was still like, Oh wow, we can make some money do this 2003. I'm like, oh we're scaling this. We're growing by like leaps and bounds here. I think we closed 2003 with over 20 million in annual revenue,
+
+2 (46m 39s):
+20 million in annual revenue from, and this is purely from clicks to other sites.
+
+3 (46m 45s):
+Right? And that was off of nothing or a, a whopping $10,000 in 2001. So that's a really like skyrocket approach. And at that point, like, whoa, let, let's, let's harness this. Let's, let's keep going, let's expand geographically. Let's very much go global. Go multi-language. Let's, let's become the, the well we set our vision for the number one travel site in terms of traffic and that we entertained some thoughts about, well we did it for travel, could we also do it for other, other verticals?
+
+3 (47m 25s):
+Cuz this notion of UGC or user generally content was pretty darn powerful.
+
+2 (47m 31s):
+How did you, I mean clearly knowing that this was valuable and knowing that you, the more user reviews you had, the more valuable the site became. How did you encourage users to write reviews?
+
+3 (47m 45s):
+We've done a bunch of things over the years, but one of the best things we did was literally just thanking people. And we quickly discovered that people didn't, didn't want to thank you from TripAdvisor. They wanted to thank you from other travelers. So when we asked people why did they write reviews in the first place, the answer in general was, we found the site so helpful, we want to pay it forward. That traveler didn't give a hoot about whether TripAdvisor as a corporation succeeded. They wanted to have help some other traveler the way previous reviewers had helped them.
+
+2 (48m 25s):
+All right. So now my, I'm thinking if I'm, if I'm in in there right? Cuz you're, you guys are doing $20 million by the end of 2003. I mean, I'm thinking I'm coming to to, to my fellow founders. I'm saying, All right, listen, we need a piece of this booking money. I mean we're, we're we're sending all these people to Expedia and to Travelocity and Priceline Rivers out there. We gotta get in in this game. We gotta be a travel agency too. That's what I'd be thinking.
+
+3 (48m 58s):
+Well we didn't have that approach. We looked at it and said, you know, 2003, 2004, you know, we had I think 10 million unique users a month. Yeah. Something like that. So decent size. But we were far from the biggest and we already had a business model that had gone through more than one pivot that was phenomenally profitable. We had very few sales reps cuz we didn't have that many clients Yeah. To generate that 23 million in revenue. So our magic ticket was taking the 12 million unique users a month to 120 million unique users a month, 10 x growth and traffic and therefore 10 x growth and revenue.
+
+3 (49m 51s):
+So our first goal for the first, you know, five, 10 years was like grow traffic. And the faster we could get to critical mass of enough reviews everywhere, the harder was gonna be for anyone else to come in and, and offer reviews as, as a major service.
+
+2 (50m 10s):
+All right. Around 2003, maybe late 2003, from what I gather, you, you entered into talks with Yahoo about potentially getting acquiring you. Tell, tell me what happened. Is that, is that true? Did you guys start to talk to Yahoo about maybe acquiring you?
+
+3 (50m 30s):
+Yes. Yahoo had, you know, was investing in their travel section and they were Yahoo. Yahoo was big.
+
+2 (50m 40s):
+They were the 800 pound gorilla.
+
+3 (50m 42s):
+But you know, we were growing fast and we went through a fair amount of due diligence with them.
+
+2 (50m 48s):
+This is just like a 18 months after they said, or maybe two years after they told you we're not interested. If you wanna work with us, you gotta pay us. Now they're coming to you to maybe acquire The irony of that must have been quite delicious. I think
+
+3 (51m 3s):
+It was delicious. Yes. That's a good way to phrase it.
+
+2 (51m 7s):
+All right, so you go into an exclusive negotiating period of the Yahoo is quiet, this is in 2003, which is pretty great. And it's just, you know, three years after you launch and they're going into your data, they're doing all the diligence. Were you, were you, did you think it was gonna go through that Yahoo was gonna be the acquirer?
+
+3 (51m 28s):
+We thought it had a good likelihood, but then they started kinda like pushing back on some of the price as steel negotiators do. And yeah, at the end of the day, in January of 2004, our traffic just shot up. Cuz we didn't realize it at the time, but January was a really big traffic month. Everyone after, after they opened their Christmas presents, they hit the internet and start planning to travel somewhere and we saw a massive spike, which in our mind meant the company was meaningfully more valuable.
+
+3 (52m 10s):
+Yeah. And that was too hard for Yahoo to swallow. So we, we took a very deep breath and, and walked away
+
+2 (52m 21s):
+In, in January of 2004 when you saw traffic spike, do you remember roughly how many employees you had at TripAdvisor?
+
+3 (52m 29s):
+Probably around 30, something like that. God,
+
+2 (52m 31s):
+Wow. So this was like truly an efficient, I mean it was like, I mean I don't want to minimum to to trivialize it like it was like printing money and you had 30 people doing more than 30 million in revenue a year. And that's, that's amazing.
+
+3 (52m 49s):
+Yes. We, we were stunned ourselves.
+
+2 (52m 53s):
+Well, okay, so let me, let me ask you about this. So if you, when you decided not to work with Yahoo, that you were gonna walk away cuz I, I have to assume it was at least a hundred million dollars they were gonna pay you. Okay. I don't know. You may not remember. You probably do, but you don't have to tell me. But you were gonna walk away. You might have walked away with 20, 30 million bucks at that point, which is a lot of money in that, that would've totally changed your life. So you must have been really confident that you guys were, were gonna own this space that you were not because a Yahoo at that point could have decided to just go all in and taken you on.
+
+3 (53m 36s):
+We assume that they would if they didn't buy us, just go compete head to head. Yeah. We knew Yahoo had a ton of free traffic that they could point at their own product and to, to one degree. I'm like, okay, bring it on. There's a ton of competition. We also thought Yahoo is a pretty big company at that point. And like many big companies, it's hard to get something done. So. Right. Even though we were small, we thought we we could truly out out maneuver them out, out build them in, in innovations. And you know, to the point of your question, yeah it was a massive gulp choosing to walk away from a deal that was on the table for a hoped for potential deal down the road.
+
+2 (54m 29s):
+Why don't we come back in just a moment, how another business buys TripAdvisor for a better price and how the site deals with a chronic problem. Fake reviews stay with us. I'm Guy Ross and you're listening to How I Built This. Autumn is a really busy time of year. I just launched a new show so I don't have a ton of time to do the things I want to do, like reading books, which is why I love Audible. Because Audible offers this incredible selection of audio audiobooks across every genre from best sellers and new releases to mysteries and thrillers, books on wellness business and more.
+
+2 (55m 18s):
+Plus you get access to exclusive audible originals from top celebrities, renowned experts and exciting new voices in audio. You can even listen to my book How I Built This right now on Audible Plus. It's narrated by me and I would love it if you checked it out. Let Audible help you discover new ways to laugh, be inspired or be entertained. New members can try it for free for 30 days. Visit audible.com/built or text B U I L T to 500 500. That's audible.com/built or text B U I L T to 500 500 to try audible free for 30 days.
+
+2 (55m 59s):
+audible.com/built. Reboot your credit card with Apple card. Apple Card is the credit card created by Apple. It gives you unlimited cash back every day on every purchase up to 3% and you can use that cash right away. No waiting and waiting for rewards. Just daily cash you can use right away on anything. Apply now in the wallet app on iPhone and start using it right away. Subject to credit approval. Daily cash is available via an Apple cash card or as a statement credit see Apple card customer agreement. For terms and conditions Apple Cash card is issued by green.bank member F D I C.
+
+2 (56m 50s):
+Hey welcome back to how I built this. I'm Guy Ross. So it's around 2004 and TripAdvisor is in a pretty good place. It's traffic is growing and it's turning a profit, but it's business model is still kind of vulnerable. You were dependent, there were two things you were dependent on. You were dependent on these booking sites and there were an infinite number of them. There were a limited number of them. So your client base was relatively limited. I think. And this was also Google was now starting to become a much more important player and a lot of the search was connected to Google, right?
+
+2 (57m 35s):
+Am I, am I right about that?
+
+3 (57m 36s):
+Yes. And like prices could fluctuate. It's not like we had these
+
+2 (57m 41s):
+Yeah.
+
+3 (57m 42s):
+These were not year long contracts. If we got a call from any client that says, you know, I'm outta budget this month, I'm gonna turn you off next month, boom. That could be half of our revenue could disappear. Yeah.
+
+2 (57m 57s):
+And that could have happened.
+
+3 (57m 58s):
+Yes. We recognized like what could interfere with this rocket ship we were on and we didn't stay a 30% company. We were trying to grow as fast as we can. Our, our goal was not to be at a 50% profit margin. Our goal was to reinvest in and scale the business. And maybe it was a, a year or so later we started buying some search engine traffic as well cuz that at least was more in our control on the traffic
+
+2 (58m 26s):
+Side. So from, from what I gather, while you are in negotiations with Yahoo, clearly this is what happens in the industry is other potential competitors catch wind of this. And it's, and and as in any industry, when when someone is interested in you, then other people become interested in you. When no one's interested in you then no one's interested. And this is what happened. Yes. Basically, iac, Barry Dills company, iac, you know, they kind of catch wind of this and, and they say, Hey can, can we talk?
+
+3 (59m 0s):
+Right. And you know, we were a, a party that was interested enough in selling. We just wanted it to be a fair reflection of the value we had created. I see. Turned up with a, a number that everybody was, was super happy with and it was truly life changing money for all of the founders. The venture firm, you know, everyone that had put a dollar into the company and they came with the message. Their game plan for us was, look, keep doing what you're doing. You think you're early on Steve, we want you to stay CEO team, we want the entire team.
+
+3 (59m 47s):
+You know, as an aside, I didn't necessarily believe them, but yeah, they were certainly saying the right things. Yeah. You know, I, I'm sometime at sometimes asked, Hey, was that a good decision to sell or not? I'm like, well financially it was a crazy bad decision.
+
+2 (1h 0m 4s):
+Yeah.
+
+3 (1h 0m 4s):
+But given everything I knew at the time with the risks you outlined before, the fact that it, it was kind of a life-changing experience for everyone at the company was absolutely the right decision.
+
+2 (1h 0m 19s):
+I mean, hindsight's always tricky cuz you say financially it was a bad decision, but at the, you'd raised money at a 10 million valuation. From what I have read, you sold for 210 million. That is an incredible return. Right? I mean a $10 million valu do 2 million sale in three years is unbelievable. You got a a piece of that. Obviously, you know, TripAdvisor would go on to be value a multi-billion dollar company, but maybe not without the support of IAC and everything that came after. Right. It's very possible that would not have happened. Yeah.
+
+3 (1h 0m 59s):
+There was like always lots of works in the road and Expedia was our biggest client at the time. Expedia was owned by iac.
+
+2 (1h 1m 9s):
+Yeah.
+
+3 (1h 1m 9s):
+So it would've been a hardball negotiation tactics for IAC to say, Hey Expedia, do you mind stopping your spend on TripAdvisor or for the rest of the year that'll help get the price down. Or you know, that that'll make them into more of a negotiating mood. So like, there's all sorts of factors going on. Yeah. It was a, don't get me wrong, please, it was a wonderful story to be bought by i c they did a fabulous job and then when, you know, fast forward, we were moved from IAC into the public company, Expedia, when that was formed about a year later.
+
+3 (1h 1m 53s):
+And again we were division within Expedia and to, to their infinite credit, they, they let us continue to operate on our own. You know, even though we were selling our, our leads and our traffic to their direct competitors.
+
+2 (1h 2m 7s):
+Yeah. I mean I guess this is a little complicated cuz IAC bought Expedia I think from Microsoft, right? And then they, they bought you guys then they spun out Expedia as a separate company and Expedia was the parent, became the parent company of many brands hotels.com, Hotwire and TripAdvisor.
+
+3 (1h 2m 27s):
+That's right.
+
+2 (1h 2m 28s):
+But, but I should also mention here Steve, that, that are right around this time you were going through an extremely difficult time in your personal life. Cuz I think, I think during this time your wife Caroline was diagnosed with pancreatic cancer. You had I think four kids at that time, and she, she passed away in 2005. This was all happening, all of this happening in the business was happening while you were dealing with this. I can't even imagine how challenging that that was in your personal life.
+
+2 (1h 3m 13s):
+How are you doing that? How are you, how are you dealing with that? And also everything we just talked about,
+
+3 (1h 3m 21s):
+You know, my wife and my kids came, came first. We did the best we could by way of caring. It was a pancreatic neuroendocrine tumor. It's a really tough type of cancer to deal with. But yeah, that, that was my priority. TripAdvisor was second. The board knew it, the company knew it. I, you know, I also liked being able to put my head in work at times because I was, that that's all, that's all encompassing, that's all, you know, I, I, I can do the context switch from when I'm home to, to when I'm at work. But, you know, for all the chemo appointments and like, yeah, that was of course, in my view, that was me at the hospital with her, just as I would expect the same for.
+
+3 (1h 4m 9s):
+And, and how I feel we've, we've supported all of our employees that have gone through anything similar.
+
+2 (1h 4m 15s):
+You became a single dad at 42 and I know you had help, of course, including from, from family. Steve, I'm, I'm sorry to ask you this, but I think it's a really important question to ask cuz I think you, you can at least offer some insights on, on your experience. And I, I hesitate cuz it, you know, I can't imagine how traumatic that time was, but how did you manage your own grief? Yeah,
+
+3 (1h 4m 47s):
+A fair question. You know, when you, when you first get a diagnosis, you're like, Oh my God, this up ends your life. This changes everything. And I, you go into like, well what am I gonna do about it mode? And you try to find the best healthcare you can, you set things up so, you know, you disrupt the kids' lives as, as little as as possible. And my late wife was, was a trooper about it in terms of accepting what the outcome was likely to be. And, you know, being part of the journey with the kids and grief is in chatting with other people, you know, very individualized.
+
+3 (1h 5m 28s):
+Yeah. I found TripAdvisor to be much more of a blessing than a burden. Cuz as I said before, I'm like starting with, you know, Nick and Tom and Langley as co-founders. Like, these were great people to work with. They could run the company without me. I I really appreciate that level of confidence that my teammates provided during that time.
+
+2 (1h 5m 54s):
+So you now are founder, CEO running TripAdvisor within Expedia and, and thus begins, I I think it's an understatement to say a a, a rapid, not rapid. A a long march of acquisitions. I mean, this lasted, continues to, to happen. But starting in 2007, TripAdvisor really went on a buying spree, buying a bunch of different companies. So let's, let's talk about this strategy. Was it basically we gotta, we gotta just grow, grow, grow, grow, grow, buy, buy, buy, buy, buy and, and just own, you know, create as much of a moat around our, our core business as possible.
+
+3 (1h 6m 37s):
+You know, the different companies that we acquired over the years, and you're right, we have bought quite a few. There's the transformational, and I put Viator and La Forchet into those categories.
+
+2 (1h 6m 50s):
+Yeah. LA Fort's, the, it's like OpenTable in, in Europe or France mainly, I think, Right?
+
+3 (1h 6m 55s):
+That's right. The four, which is the new name for La Foche and Viator in the attraction space. Were like our two biggest acquisitions, fortunately our two most successful acquisitions. And they're really in the, like, transform the company over the next five to 10 year in terms of what it does for our audience.
+
+2 (1h 7m 18s):
+Hmm. Now some, some of these sites like the Fork or Vitor, I mean they, they also rely on user reviews, right? Just, just like TripAdvisor does. And I mean this kind of gets us into the subject of reviews, right? Because this is, I mean we had Jeremy Stoppelman of Yelp on the show several years ago and we went down this rabbit hole and it's important, you know, you, you are a rational player in this world and I know what you, you probably think, which is don't look just at one review, look at many reviews. Don't trust a site. If it just has two or three reviews. You want to see if it has a lot of reviews. Thousands of reviews. Yeah. And I, I, but I'm sympathetic to people who get angry about it because I'm also reviewed, if you go to any podcast website, they're reviews of this show and some of the reviews are just so infuriating cuz it's not about the content, it's not about what we do.
+
+2 (1h 8m 11s):
+We give this show away for free. And you can pay to be a subscriber, which means you get this show a week early and that's it. Otherwise, if you wait a week, it's free. But some people have written one star reviews cuz they're mad about this. And, and over time that does have an impact right on the show. So I'm sympathetic to restaurants that get dinged for stupid things because it's their livelihood.
+
+3 (1h 8m 36s):
+I understand that quite well. I was on the board of Glassdoor for many years, an employer review site. And I would read the reviews about Steve Coffer and I'd see the anonymous review and be frustrated. That didn't have enough detail. I I appreciate constructive criticism, I really do. I just want to know how I can go and fix this. Yeah. And so, but having said that, if you are in the hospitality business, this is your life. Don't be in the hospitality business if you can't take feedback and if you can't take feedback, some of which is good and some of which is not living up to expectations, however unreasonable they might be.
+
+3 (1h 9m 21s):
+You just shouldn't be in the hospitality business. So we went through phases where businesses would like, how dare you even list me on your site. Yeah. I'm like, hey, sorry, we are out, we are squarely on the side of the traveler here. We want to help them avoid hotels, restaurants, whatever that are bad and stay at the great ones.
+
+2 (1h 9m 47s):
+Now of course what started to happen, and I, and and, and I know that there have been in many attempts to resolve this and some, some successful, some less successful is there are content or there are farms that have made, that have turned this into a business. Right? Or they, they have attempted to just write positive or negative reviews for a fee. And, and how do you, I mean you, I can't, let's, let's just start with this, this proposition, you cannot eliminate fake reviews. You can't eliminate them a hundred percent. Right?
+
+3 (1h 10m 22s):
+The beauty is you don't, you don't need to, you just have to deliver what the user expects. There's a whole bunch of ways that we've developed over the years to catch this level of fraud. We know where people are, they have to advertise their services. And then we go talk to a hotelier that we suspect is paid for the services and we say, Look, you know, we have some strong evidence that you paid for this review. They will face a penalty from us because they've been trying to buy their way to the top. And the most extreme is example is called the a red badge, where we're posting on their page and we drop them in the ranks as a penalty.
+
+3 (1h 11m 6s):
+And by evidence that it's been tremendously successful over the years is the fact that, that we see on, you know, what you might consider the dark web. We, we see these review places offering to write fake reviews on Google and some other sites. And then they say accept TripAdvisor because like yeah, if like if they try we catch 'em, we shut 'em down. We viewed that as core to our success way back in 2002, 2003, 2004. Cuz if people came to TripAdvisor to get recommendations and the actual place didn't live up to the expectations, they wouldn't use her site again
+
+2 (1h 11m 55s):
+In, I think in 2011, you, you, the company once again kind of spun out of Expedia and went public. What, what's the story behind that? What, why did you, or how and why did you become an independent company again?
+
+3 (1h 12m 9s):
+Yeah, the general answer was we were a fast growing, successful, profitable media company. And Expedia was a traditional online travel agency transaction company. And there was an opinion around that said like, we're kind of probably looking at different types of investors yet we were one ticker. Yeah, we were one stock. And so eventually they said, Hey, this, let's just make it easier for our investors. We will dividend to share a trip advisor to all Expedia shareholders and they will be two completely separate independently run companies.
+
+3 (1h 12m 55s):
+Big change for me was all of a sudden I was the public company ceo and I had never done that before. And like, it, it was never a goal of mine to be a public company ceo, but sounded like it would be interesting to say the least. So I was up for it and, and that's how it happened.
+
+2 (1h 13m 17s):
+We, we talked about nine 11 earlier and how that almost sunk the company and, and there would be anything remotely like it until March of 2020. Really? And it hit you guys heart. I mean you saw, I I I read in the second quarter of 2020, your revenue dropped 86% from the year before. I mean that is, that's, I can't even imagine how we, how you even absorbed that.
+
+3 (1h 13m 44s):
+It, it was something that we never thought could happen. We had always been a company that had been wonderfully profitable at planned for contingencies. Look, there have been horrific terrorists events between nine 11 and here that caused bumps and, and blips. But, you know, travel was very elastic. And I gotta admit, pandemic was just not on our radar screen.
+
+2 (1h 14m 10s):
+I mean, you, you, you, like many companies, you had to do, I mean at the time I remember many companies just, just hoarded cash. They had to just hold onto the cash, they had to cut back on marketing, they cut back on anything they could, including employees. There were a lot of layoffs. You guys had, you had to lay off a lot of people very quickly.
+
+3 (1h 14m 31s):
+We did most painful chapter of Drip advisor period. Mm. And we just didn't know how long, how severe, how bad could it get. And we didn't have a really big cash balance at that point. We had to go reach out to the financial markets, which fortunately were open, borrow some money and it forces you to really be focused in what you are going to work on. Because we wanted to come out of the pandemic, a different looking company, The opportunity to come out, you know, leaner and meaner was what we set our sites towards.
+
+3 (1h 15m 11s):
+And by and large that's, that's what we achieved.
+
+2 (1h 15m 15s):
+So, you know, you clearly travels back, but you also announced that you were going to step down. And I should mention, cuz we talked a lot about that tragedy in your life that, that you did actually, you do, you have been, you got remarried almost 10, 10 years ago, I think Yes to, to a woman who had I think three or four kids of her own. It's like right, You had four kids, it was like, kinda like the Brady Bunch
+
+3 (1h 15m 42s):
+Married to an absolutely lovely woman. She has four children. I have four. We are entirely blessed that they all get along. And yes, we moved, we did move in together. The house does have a lot of bedrooms. We're now empty nesters. The kids are all off outta college or in medical school or whatever. They're off to. Yes. Things, things look good on that front.
+
+2 (1h 16m 7s):
+22 years you lasted and thrived. I mean clearly, you know, you, you left on your own terms. Maybe not. Maybe someone, maybe somebody tapped you on the shoulder and they're like, Steve, it's time to go. I don't know. But
+
+3 (1h 16m 21s):
+For, No, no, this was my choice.
+
+2 (1h 16m 24s):
+It's a long time. I mean, you sold this company in 2004. You stayed until 2022. What do you think explains that? I mean, it's, it's very unusual in my experience with people I've interviewed to, to stay at one place so long.
+
+3 (1h 16m 39s):
+Yeah. I, I I fell in love with like being an entrepreneur and then scaling things and then the thing that I craved personally the most was the level of impact that the company had. And like 400 million unique users a month with a lot of duplication, you're still counting of impacting the lives, the vacations of a couple of billion people and that's with a b and like, why was I ever going to, you know, when it was 200 million unique users a month and I could see how you could get it to 400.
+
+3 (1h 17m 22s):
+Why was I gonna walk away from that level of opportunity to impact people?
+
+2 (1h 17m 31s):
+When you think about, you know, all, all of this now, you know, first business, you walked away from that with zero equity, nothing start this business really not going to the business models terrible. You're all on the ropes and then three months later you're doing 70,000 bucks a month in, you know, in fees, in in revenue is pretty great complete, you know, selling it in 2004, over two 10 million, running it for 20 years, 22 years. When you think about all that, how much of that do you attribute to your intelligence and your work and your work ethic and your skills and how much do you think it has to do with being lucky?
+
+2 (1h 18m 11s):
+Getting lucky?
+
+3 (1h 18m 12s):
+Oh, it's a, it's a great question. So like 50 50 maybe. Absolutely a ton of luck in there. But we had to make some good choices and work our tails off because very few businesses have a straight line to success. Yeah. But after 22 years, I wanna do it again. I want not in travel, not in software tools, but I figure I have one more startup left in me and as I turn 15, as I had turned 59 years old, I look around and say, okay, better get moving.
+
+3 (1h 18m 53s):
+And so I am just open for another adventure that can have something akin to the type of impact that Trip advisors had. If I could get that lucky. Yeah.
+
+2 (1h 19m 4s):
+So yeah, cuz you're not yet 60, so you're looking now, maybe just start the next thing.
+
+3 (1h 19m 9s):
+Indeed,
+
+2 (1h 19m 10s):
+Thinking about ideas.
+
+3 (1h 19m 11s):
+Ping me on LinkedIn. If any of your listeners have ideas,
+
+2 (1h 19m 14s):
+I got one for you.
+
+3 (1h 19m 16s):
+I'm all ears.
+
+2 (1h 19m 17s):
+A lot of people are talking about crypto That Steve Coffer, co-founder and former CEO of TripAdvisor included among the site's. 1 billion plus reviews are these ones from disappointed travelers, the Golden Gate Bridge, One star, it's covered in fog, it's pointless. Buy a postcard, you'll see more New York Central Park, One star, it's just grass and trees surrounded by buildings. And finally, three stars, Fortman Beach in Guam. It's a great beach. Just to Sandy, hey, thanks so much for listening to the show this week.
+
+2 (1h 20m 1s):
+If you enjoyed it, please help us spread the word. Tell someone about how I built this or post about it on social media. And thank you. If you wanna contact the team, our email address is ibt id.wondery.com. If you wanna follow us on Twitter, our account is at How I Built This and mine is at Guy Roz and on Instagram. I'm at Guy dot Roz. This episode was produced by Liz Metzker, with music composed by Arab Louie. It was edited by Neva Grant with research help from Sam Paulson. Our audio engineer was co Takai Chervin. Our production staff also includes JC Howard, Kerry Thompson, Alex Chung, Josh Lash, Catherine Cipher, Elaine Coates, John Isabella, Chris Masini, and Carla Estevez.
+
+2 (1h 20m 47s):
+Our intern is Susanna Brown. I'm Guy Raz and you've been listening to How I Built This. Hey Prime members, you can listen to how I built this early and add free on Amazon Music. Download the Amazon Music app today, or you can listen early and add free with Wondery Plus and Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built this merch and gear@wonderyshop.com. Before you go, tell us about yourself by completing a short survey at wondery.com/survey.
+
+6 (1h 21m 24s):
+Remember the days before streaming services. You know when you come home from high school, and it was only a few hours until that TV show everyone was watching was gonna come on. Your friends were on their way over for the watch party and the smell of popcorn fill the room. Well, in 1999, that show everyone was watching was Buffy the Vampire Slayer. In the new podcast from Wondery, the re watcher Buffy the Vampire Slayer, we're taking it back to 1999. So get out those knee-high boots, put your chokers on and paste that poster of Angel on the wall. It's time to enter the Buffy verse. If you've ever listened to the True Crime Podcast, Morbid, then you already know your hosts. Join Morbid Co-hosts Ash and Elena as they slay their way through Buffy's Drama Action and Romance episode by episode.
+
+6 (1h 22m 10s):
+Listen to the re watcher, Buffy the Vampire Slayer on Amazon Music, Apple Podcasts, or wherever you're listening right now. You can also listen one week early and ad free by subscribing to Wondery Plus in the Wondery app.

@@ -1,0 +1,548 @@
+0 (0s):
+This message comes from NPR sponsor 99 designs by Vista print, a creative platform, making it easy for small business owners to get custom designs work with expert designers around the world and build your brand, find the right designer for your needs at 99 designs.
+
+1 (21s):
+So the internet bubble had burst into the stock market. Wasn't as interesting to people, but the housing market was on a tear and somebody basically drew a stock chart on the board and said, what if we could create this stock chart, but have it be your husband, you, and that's when everybody kind of inhaled simultaneously. We're like, oh, that is interesting
+
+0 (50s):
+From NPR. It's how I built this show of them. Innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Raz and on today's show how rich Barton's many frustrations with booking travel and buying real estate led to two startups that transformed those industries forever, Expedia and Zillow. Back in 1970, the economist, George Akerlof wrote what would become a groundbreaking paper on a concept called information asymmetry it's work that won a Nobel prize in 2001, that paper argued that used car sellers have an information advantage over buyers.
+
+0 (1m 41s):
+They know more about the quality of the car. So they have the upper hand because they can set the price is basic idea was that sellers almost always have the upper hand in any transaction because they have more information about the product they're selling her. Life's work, spawned a whole series of business ideas that set out to put an end to information, asymmetry, things like Carfax, a service that made a car's entire maintenance and accident history available to a buyer or financial services companies like Vanguard that introduced transparency into consumer investing.
+
+0 (2m 22s):
+But the idea of disrupting industries with an asymmetric advantage really took off with the rise of the internet. And in the early 1990s, a young Microsoft employee named rich Barden was obsessed with this kind of disruption. It's an obsession that led him to co-found three major tech companies, companies that offer services that you have most likely used. There was a time when, if you want it to book travel, things like flight schedules, hotel availability, car rentals, all that information was only available to travel agents who had access a proprietary booking system and rich wanted everyone to have access.
+
+0 (3m 5s):
+So he came up with what would become Expedia after it was sold. He turned his focus towards asymmetry in the real estate market. Because up until that point only real estate agents had easy access to home values or what price your neighbor sold their house for. So rich, he co-founded Cylo. And then in 2007, along the same lines, rich helped a friend. Co-found another site to share data about work culture and average salaries at major companies. This time they called it glass door. Yes, this one person has been a driving force behind Expedia, Zillow and Glassdoor.
+
+0 (3m 49s):
+Rich Barton grew up mainly in the Northeastern part of the U S his dad was an engineer and his mom was in charge of the family in the mid 1980s. He moved out west to attend Stanford, and it was his first taste of life on the west coast.
+
+1 (4m 6s):
+Didn't love this lack of focus on what's your name and who's your daddy. And where'd you go to school in California. It just felt more egalitarian and more future leaning and you know, more free. I moved out there and even as kind of a dumb 18 year old, I completely remember the feeling I, so I had a Honda civic and I drove it back and forth across country every year for school. And I distinctly remember going through, you know, that tunnel just north of San Francisco, you know, right after you go over the golden gate bridge. Sure. I remember coming through that tunnel. I literally had the grateful dead on, I think I had estimated profit, which the refrain is something like California, basically knocking at your golden door.
+
+1 (4m 53s):
+Right. And so I was listening to that, going through that tunnel with the rainbow painted and then crossing the golden gate bridge and having this feeling that, you know, it's hard to describe. I was so excited and wide-eyed, and, you know, ready for the future, you know, ready for possibility.
+
+0 (5m 11s):
+Hmm. I guess that after you graduated from Stanford, you got a job in consulting. And from what I understand it, not too long after that, you decided that it wasn't for you and you were like, it's kind of just looking for an exit.
+
+1 (5m 25s):
+It was in fact I was my, really one of my great friends from Stanford. She took a product manager job there at Microsoft and moved to Seattle right out of school, which was an interesting little company that recruited on Stanford's campus. The week after she got there, she started calling me up and saying, Richie, this is the place for you. This is where you should be. So it took a while, but eventually she, and a few other key people there helped get me an interview. And then soon as I could, I moved out. Wow.
+
+0 (5m 59s):
+And what were you hired to do there?
+
+1 (6m 2s):
+It's hard to be product manager of Ms. Dos, Ms. Dos version five. I know you're not a tech geek at least guys. So that's not going to mean much to you, but some somebody listens.
+
+0 (6m 14s):
+Yep. I said, still pre windows.
+
+1 (6m 17s):
+This is pre windows. It's on the cusp of windows. Yeah. It was exciting. Actually we sold DAS five. Ms. Dos five was the first time that egghead software, which was the big retailer software retailer at the time had ever seen. They, they, they ran a midnight madness sale on the first day that the DAS five upgrade was released and they had people camping out in lining up outside of Vegas so that they could get an operating system. I know that seems crazy. But that's what happened
+
+0 (6m 44s):
+When you got to Microsoft, did it already seem like a giant place?
+
+1 (6m 49s):
+It was a pretty small company when I got there. Probably just a few thousand people,
+
+0 (6m 54s):
+Not that small, but, but I mean, compared to today's to certainly good, but like the, kind of like the kind of place where it wasn't odd or unusual to like see bill gates walking
+
+1 (7m 3s):
+Around. Yeah, for sure. It was a small company. I knew most of the other product managers. I was one of the younger ones. Most of the people that come out of business school, but I was quite a and people from international people from all over the world, because we were localizing all our products all over the world, but it was, it felt like we knew magic before everybody else did. You know, it's just like the technology that we were working on, we knew had immense future ramifications for the way people live and work. And we knew how to build stuff. We did have a sense of being exceptional and kind of a sense of destiny. It was quite exciting.
+
+0 (7m 40s):
+So you work on, on the dust, you've worked as a product manager on the dust system for, I guess, two or three years. And I guess around 90, 19 94, you actually request a transfer to Microsoft consumer division. Which can you tell me about that decision?
+
+1 (7m 58s):
+Well, I was basically getting ready to leave Microsoft and start my own business. I always wanted to be an entrepreneur and I figured if I was going to start something, it was going to look more like a consumer product than nos. And so I actually jumped over to the consumer division at Microsoft at the time, which made all of these consumer products. Most of them on multimedia CD, ROMs. Yeah. One was called Rockmania. One was called cinema mania. Believe it or not, one was called multimedia Beethoven. And one of them was an idea for a encyclopedia of travel guides, multimedia encyclopedia, travel guides on CD rom. And that's how I ended up working on
+
+0 (8m 38s):
+Which to me seems a little weird because you're not going to bring your computer with you when you travel around the world, but presumably somebody thought let's make this, people will print them out. Like what, what was the thinking behind that? That's exactly
+
+1 (8m 50s):
+What I thought I'm like. Okay, sure. It's a bunch of pictures and texts. That would be great to have a whole library of on your, on a CD rom. But I, you know, the smallest portable computer at the time was the size of a suitcase from compact, but it weighed like 20 pounds. So of course, yeah, it wasn't going to work as a travel guide in the field, which led me to look at different ways. We might be able to have a travel guide, be portable and actually led me to thinking about how we actually plan and purchase travel itself, which I found way more interesting.
+
+0 (9m 29s):
+So what did you start to do? Or what did you start to think about?
+
+1 (9m 34s):
+Well, I was quite a business traveler and planning was pretty difficult the way we had to pick up the phone and call a corporate travel agent and say, I've got this three-step trip. And I could, I remember hearing the click click click of the keyboard. I knew that the travel agent I was talking to was looking at a screen, right. I wanted to jump through the phone, turn the screen towards me and do it myself. Yeah. I figured I would care more about my routing and my timing and my hotel than anybody else would. Right. And so I was using prodigy. There was a service on prodigy that enabled me to access directly the airline and hotel reservation systems. I could spoof being a travel agent and I always had a user of that.
+
+1 (10m 15s):
+And so I looked at that and you know, I had a team around me as well, and we looked at that and then we were like, well, that would be, be interesting to bring to normal consumers. Like people would go crazy, give power to the people, to book this themselves, to turn on the lights in the room to see it all. Anyway. So that ended up being my pitch to bill gates. Sorry.
+
+0 (10m 37s):
+So you had this idea, there was this idea that maybe we can look on prodigy. You can start to pretend like you're a travel agent and directly book your own stuff. Maybe we can actually build this out. You got a chance to go to bill gates and pitch that to him.
+
+1 (10m 50s):
+I did bill gates at the time, Microsoft was still relatively small and ran these what were called product reviews every year. And the product teams would come through his boardroom and say what they're working on, what they wanted to work on in the future, what was cool, what was not and get feedback. And so at that time, you know, every six months or a year, I would be part of a team that would go in front of bill and other, you know, Steve Palmer and Nathan Myhrvold and, and talk about what we were doing. Wow. So
+
+0 (11m 25s):
+You go in to pitch bill gates on this idea to create some kind of online travel booking site that would also include travel guides.
+
+1 (11m 35s):
+Yes. I showed him prodigy and it was all a command line, really ugly thing. But I talked about how I could seem doing a kind of a windows version of this and giving it to consumers could be a complete game changer for consumer empowerment. And he agreed,
+
+0 (11m 53s):
+And this is still pre Netscape, like Netscape, I think just because I remember using it, I think I used it for the first time in 1995. So this is still pre like what we now think of as the web, but your, what you were pitching was, Hey, let's build this out and make it really user-friendly like windows. He looked at this and said, yeah, maybe we can do this.
+
+1 (12m 17s):
+He did. Yeah, you're right. And that's the Cape had not shipped yet. The graphical web really hadn't launched. It was about to, but there were these online systems that did have these kind of hacked together, graphical interfaces. Microsoft was working on one itself called MSN. Right. And so the context of the pitch was we'll build it as an MSN app.
+
+0 (12m 38s):
+So MSN was supposed to, was looking at prodigy, CompuServe and AOL and, and saying, we're gonna make our own kind of version like this
+
+1 (12m 46s):
+That's right. We were, we were building a competitor to those services and this would be an app, you know, we saw it as a potential killer.
+
+0 (12m 52s):
+Yeah. And do you remember, I mean, was, was, I mean, you're making it sound really simple. Like he was like, yep. I'm sold. Was it that simple?
+
+1 (13m 2s):
+Yeah. It's hard to remember, but yeah, it seems that way. It was pretty obvious idea. We'd been tasked by bill gates and a team there to think about how the coming internet might change industries. And so this was one of the ideas that we had. I mean, I
+
+0 (13m 18s):
+Remember at that time, people were talking about how, you know, in the future, you're going to just sit in front of your TV and just order things. And, and it still seemed kind of far-fetched, but I mean, were you hearing murmurings in the industry that other people were working on things like this or, or not?
+
+1 (13m 34s):
+Well, there was a small, you know, tech is a big industry right now. It was a rather small world back then. And there was this sense of destiny. Every people who understood technology did feel the revolution coming. And so there was an excitement and a pressure and a competitive zeal. And for me, the excitement was all around how we could give power to the little guy in the face of the travel industry in this case, in the travel industry. But also the same. I was actually thinking, I mean, on my team Lloyd and I were thinking about that relative to several industries, stock investing was the same way.
+
+1 (14m 18s):
+It was just, there were all these industries that seemed rigged against the consumer that we felt the connected PC was going to reorder. You don't have to see too far into the future. If you can see a little bit further into the future, then the rest, you know, you can, you can really get way ahead. And we were just lucky that we were at the epicenter of all of this technology ideation. And we were in a incredible environment where we were given free reign to dream big, take big swings that was encouraged.
+
+0 (14m 57s):
+So bill gates gives you the green light. Yes. And what, what do you do? You like gather a team and you have to come up with a name for this thing and they called it Expedia, which by the way, how did that happen? Yeah, we did a,
+
+1 (15m 11s):
+We hired one of those naming consulting firms and we tried, I've participated in the creation of lots of made-up brands. And that was my first experience with it. Then I learned a tremendous amount. I believe when for those of you out there who, who are dreaming of starting a company or naming something, creating a new word is very ambitious and very long-term and very difficult. But if you are successful, you completely own that word in the dictionary, so to speak and you get to fill it with whatever, meaning you, you can infuse into it. So it takes it's a lot longer and a lot harder, but it ends up being much more valuable to have a brand name that you've you've made up.
+
+1 (15m 52s):
+And so I came into with that belief, Expedia was one of many names that we had to pick from, we liked it because it had an excellent, which is a high point Scrabble letter. So that means it's unique. It sounded like speed, expedite, expedition, all good associations for travel. One thing I did learn is that I didn't like ultimately that it had so many syllables, but that was hindsight since then I've liked two syllables. I think that's the most memorable thing. Having it sound like a dog's name, a good dog's name can be turned into a verb is a bunch of rules I have now. So
+
+0 (16m 28s):
+Explain something to me. I mean, you start to work on this product, right. And in the meantime, Netscape hits, right? And the worldwide web becomes a thing. How challenging was it to build a, a site that would allow people to directly book their travel with the airlines? I mean, was there any resistance from the airlines or where the airlines like, we love this?
+
+1 (16m 53s):
+Oh, no, they didn't love this. And Microsoft was scary. Microsoft was a very scary company to all industry at the time because it was executing so well, it was making so much money and it kind new magic that everybody else hadn't figured out yet. However, we knew that if we started to travel agency that from an equal access perspective, we ought to be able to plug into these electronic, these big mainframe based reservation systems that ran the industry and act like a travel agent. And if we got discriminated against, we could blow a whistle and say, that's not fair. And that's, I remember being a very young, you know, techie kid and going into very senior airline executives, offices.
+
+1 (17m 37s):
+I remember one in particular at American who just belittled and was very arrogant with me saying, you know, it would never work. And, and I, you know, I worked hard to be as gracious as I could and explain what I thought the future looked like and how, if you bet on empowering consumers and you bet on what people want and you build products for what consumers want, how could you possibly go wrong? That was my, you know, position. And, but it was difficult. I got a lot of resistance.
+
+0 (18m 7s):
+You guys formed a travel agency at Microsoft in order to, I guess, credit qualified to be able to do this. Yes. Yeah. Even though you were passing on that power to consumers, to users, that's
+
+1 (18m 19s):
+Correct. And we were an electronic travel agent and that's what consumers want it
+
+0 (18m 25s):
+Launched Expedia in 1996. What was the public response to it?
+
+1 (18m 29s):
+Well, the web wasn't very, so we were building for MSN, which we recognized wasn't going to probably succeed as a platform. And so we quietly pivoted to building a web app and we kind of didn't tell anybody. And so we launched, we never launched on MSN. We launched on the broad internet and it was a hit instantly. Now the web wasn't very big. So I hit at the time in 1996 was very different from now. I don't remember the exact numbers, but everybody sat up bolt upright in their seats who saw it was like, oh yeah, this is it. That's the future.
+
+0 (19m 7s):
+And so this launches and it transform travel in an instant.
+
+1 (19m 14s):
+It did. And in hindsight, and at the time to us, it was, it was obvious. And the stuff that really got us excited was the consumer aspect, the consumer empowerment aspect of it guy, not a lot of people like to talk about disruption, and I know you do too, but these are about empowering consumers. And then let the chips fall where they may, from an industry perspective, right. Building for the future of what consumers want was what we were trying to do. And we were really secondarily thinking about the organization of the industry and how those dynamics might change. And that just wasn't our primary concern because we knew if we had the consumer on our side and we had millions, tens of millions and hundreds of millions of them coming every month to our service, that we would ultimately get the business model figured out and get those partners to
+
+2 (20m 4s):
+Come. Hmm. Microsoft
+
+0 (20m 7s):
+Spun out Expedia as a, as a public company in, in 1999. And, and you became the CEO still pretty young of a public company at the time. But I guess pretty soon after that, just a few years later, the company was purchased by Barry Diller's IAC. I mean, clearly the company was, was doing really well was financially successful. But, but I guess in 2003, you left, right? Yes. And so what'd you do
+
+1 (20m 35s):
+Well, I'd worked pretty hard and I wasn't the greatest work-life balance guy. I was having kids, my twins, which were my second and third, it was pretty tough, pretty tough pregnancy. They came a little bit early and it was scary. So we decided my wife, Sarah, and I decided we wanted to pursue a dream that we had of moving abroad and living abroad. So she was in her OB practice and took another six months for her to kind of work through her backlog of patients before we left. But we moved to Florence, Italy with all family for a year. It was a lovely, wow.
+
+0 (21m 15s):
+But, but I guess, I mean, it wasn't like you were retiring forever, right? I mean, you were presumably you're just like taking a break. And so during that year, were you starting to think about the next thing? I mean, did, were you, was that when you started to think about real estate, something with real estate,
+
+1 (21m 32s):
+We moved back because Sarah's dad began to get sick. And when we came back, we knew we needed to find a new house because our family had just grown by two people. And so in order to stay out of my wife's hair, I took an office with an ex Expedia early Microsoft, Sanford friend of mine, Lloyd Frank. And we just were staying out of our wives hair and brainstorming business ideas. And we happened to be shopping for houses, both of us at the time.
+
+1 (22m 14s):
+And it's just like so many business ideas, they are born of frustration.
+
+0 (22m 21s):
+And that frustration was, you've got to get an, an agent you've got to, right. And the agent's going to get the commission and that's going to inflate the price. What are those, the frustrations you were thinking
+
+1 (22m 32s):
+Of? It was more that we just couldn't get the information that we wanted to get in order to have a successful, complete, transparent shopping experience. Like it's 2005. And the web has been around for now nine years or 10 years, but still I couldn't get pictures of homes and complete listings and prices and addresses even like, I couldn't get the address of a home I was shopping for online. It was just obvious to us. We were trying to answer a simple question. What is that house worth? What should we offer if we wanted to buy it? And so, anyway, that was the first one
+
+0 (23m 10s):
+In 2005. If you were looking for a new home, was there a single place online? You could go to see all the homes available? No,
+
+1 (23m 19s):
+There wasn't a single place. There wasn't a single place. It was like, I'd liken it to shopping in a dark grocery store with a flashlight, you know, worse than that, the flashlight is being held by an agent who you have to ask to point it at something. It was not a great user experience. And it was so obvious to Lloyd of me that, oh, here we are, again, the lights need be turned on in this particular store to just like, just like the last one that we did was your,
+
+0 (23m 49s):
+Were you starting to think? Cause I'm thinking if I'm you and Lloyd, you'd worked on Expedia, I'm thinking, Hey, maybe we can do this with real estate. Like we can just put all these things up and people can just make the transaction through a site. Was that, was it literally like, that was the conversation you were having
+
+1 (24m 5s):
+Pretty much pretty much. And we also, we also loved the category of real estate from a consumer perspective, just like travel. It's this really interesting blend of the yin and the yang of emotion and finance it's like homes are so entertaining to shop for. I mean, I was one of those kids who rode around in the backseat of my mom's car on Sunday afternoons. And we'd just go look at open houses. You know, like shopping for homes is entertainment because it's, it's, you're dreaming. And by the way, shopping for travel, a lot of that was dreaming too.
+
+0 (24m 41s):
+When you describe this to people, I mean, obviously you had a successful exit, but were, was anyone who's saying, you know, travel's complicated. It's kind of regulated real. Estate's really complicated, super regulated. There's like really powerful industry, lobbying groups. Like it's really hard to break into that. Did anybody say that to you, everybody. Everybody, when we come back in just a moment, how rich and his co-founders figured out, the one thing that would make users flack to their new real estate site and how, when that finally happened, they were totally unprepared. Stay with us. I'm guy Ross.
+
+0 (25m 21s):
+And you're listening to how I built this NPR support for how I built this. And the following message come from Culturelle, who wants you to know that an estimated 45 million Americans may have IBS according to the international foundation for gastrointestinal disorders, cultural IBS, complete support is a medical food for the dietary management of IBS. It's designed to relieve symptoms like abdominal pain, bloating, diarrhea, and constipation in a safe well tolerated.
+
+0 (26m 4s):
+Once daily dose save 20% with promo code radio@culturelle.com. This message comes from NPR sponsor, go daddy, making a different future starts with you. That's why GoDaddy does more than help. You find a name you can create, sell, and get found online. So any small business can be a driving force to create change, or build an empire. So whatever it is you have in mind that will help make a different future, find everything you need to get started@godaddy.com because the future isn't decided yet it's up to us to make it happen.
+
+0 (26m 44s):
+Start different@godaddy.com.
+
+2 (26m 52s):
+An internal investigation found that a cop with the California highway patrol sexually harassed 21 women, but those findings were kept secret until a new state transparency law passed. We dug through hours of tapes to find out what happens to officers who crossed the line, listen to on our, watch a podcast from NPR and KQBD
+
+0 (27m 21s):
+Hey, welcome back to how I built this I'm guy rise. So it's around 2004, 2005 and rich, his friend Lloyd Frank and their fellow founders are trying to figure out the best way to build a real estate marketplace on the internet. And they decided to experiment with selling houses in an online auction.
+
+2 (27m 43s):
+Yes, we didn't. We
+
+1 (27m 45s):
+Thought functioning was quite interesting as a price discovery mechanism basically was pretty hard to figure out what a house was worth. Right? And we extended kind of testing period where we kept adding really smart people that we mostly we'd worked with before and was just a, it was an idea lab. It was an idea incubator around real estate. Everybody on the team loved real estate. As we were recruiting people, we didn't tell him what we were doing. You know, it was kind of, there was some mystery. We didn't really know what we were doing. We were just playing around and we did a deal with a guy. We went to Stanford with Gordon Stevenson, who was a regional broker here in Seattle.
+
+1 (28m 27s):
+And we said, Gordo, let us try to sell one of your houses. We want to just try it. So we didn't have to take any risk. Really. We just tried to run a test auction on it and it didn't fail miserably. How did
+
+0 (28m 41s):
+You do that? You put his house on this website and then how did you even get people to know
+
+1 (28m 46s):
+Silly? Like I remember our CTO, who's CTO to the state, David Vitale. I remember David and Lloyd and I running around with literally flyers in the rain of the north gate mall and putting flyers under people's windshield wipers. I mean, it was very scrappy, but fully tests. I mean, we knew we weren't doing things that we thought would be scalable. We were doing things to learn. Anyway, one of the things we learned in that, that the whole team learned was just how difficult it is to sell homes. And we gained a real appreciation actually for what real estate agents do, honestly,
+
+0 (29m 24s):
+Did anybody, I mean, did anybody get the property?
+
+1 (29m 27s):
+No, we didn't sell it. He didn't sell it, but Gordon was selling it himself, you know? So he, he, he ultimately sold it. We just didn't sell it. Right.
+
+0 (29m 33s):
+And by the way, did you have the name of the business Zillow? Yeah, we
+
+1 (29m 37s):
+Do. I had it for awhile because we like to make up words. As I said before, we really liked the word Zillow. We knew it was going to be real estate. So we brainstormed over coffee and beers and whiteboards. And we came up with Zillow, which I really like just a totally made up word. I tell you, we did. We knew we wanted a high point Scrabble letter. So Z was just the very, very best, very best. And we knew that there was this yin and yang of real estate, this kind of highly emotional portion of real estate. And then the highly financial, you know, it's the biggest transaction most people do in their lives. Right? And so we literally on a whiteboard had a column of words that were meant to imply money, lots of data, you know, analysis kind of geeky column of words.
+
+1 (30m 26s):
+And then we had this emotional column of words, picket fence, window door, mat, pillow pillow was one of them. And in the first column, the zillions zillions of data points, zillions was one of them. And so we literally just started making words by drawing lines between the two columns and Zillow. We hit Zillow and everybody's like, that's it, that's it. Well, and it costs 9 99 to buy the URL, which I was kind of cheap. And people wanted to sell us homes.com for $5 million. And I was like, but I can make up a word and spend 9 99.
+
+0 (31m 2s):
+And you and, and Lloyd initially were financing this, you didn't go out. You didn't have to go out and get any financing initially. Right.
+
+1 (31m 9s):
+That's, that's correct. We'd both had resources from Expedia and Microsoft. And in this really brainstorming phase of the business, we didn't need to, nor could we conceive of even raising money against no
+
+0 (31m 24s):
+Plan. All right. So from what I understand, you recruited a pretty high level team that you'd worked with at Microsoft and then that Expedia, but a year, almost a year into this Zilla venture, like you really, you weren't really kind of going anywhere.
+
+1 (31m 42s):
+No, we were always going somewhere. We always were making progress. We never had a period where, you know, we felt stuck. We had crises ahead,
+
+0 (31m 51s):
+But I mean, were any of those people, like who had joined you thinking, Hey, you know, we get tip,
+
+1 (31m 56s):
+We got to go get jobs. No, no. We were having a blast and we were paying people. So it was super fun and everybody felt like we were close. We were on the cusp of, of the aha. And we had it pretty shortly after the failed auction. We had the, the kind of light bulb moment. But what was it? Well, back to the idea of price discovery, we kept experimenting around that. And at one point on, do you remember who it was? We were talking about how the home is so emotionally important, but it is the most valuable asset for most Americans. And this was at a time when house prices were really appreciating very rapidly.
+
+1 (32m 36s):
+If you remember back in this new stage, right. And so four, five, it was insane. Right? So the internet bubble had burst into the stock market. Wasn't as interesting to people, but the housing market was on a tear. And we literally, somebody basically drew a stock chart on the board and said, what if we could create this stock chart, but have it be your house value? And that's when everybody kind of inhaled simultaneously, you're like, oh, that is interesting. Like, people would really be excited about that. If people
+
+0 (33m 9s):
+Could follow the ups and downs of their home price.
+
+1 (33m 12s):
+Yes. And everybody else's.
+
+0 (33m 13s):
+And by the way, even stay like when you apply for a loan or something or you buy a house, like it gets assessed by a professional assessor. And that was, and I guess that was the only way you would know what your house was assessed at or valued at. But otherwise, if you just lived in the house, you would have no idea what it was worth or not a strong idea, not a very strong idea. The
+
+1 (33m 36s):
+Way people did it was to just basically watch the market in their local neighborhood. Right. Which was kind of hard too. But if you keep some basic tabs on homes around your you, or like yours that are being sold, what they're listing for, what they're selling for, it was hard to find out what they sold for, but you could see what they're listed for. And people would kind of triangulate and make guesses. So they're running their own little version of the Zestimate algorithm now. But anyway, this they're, they're doing math and you're saying, oh, that place across the street, that's listed for $600,000, that's got one less bedroom. And we were a little bit bigger and our views a little better, maybe our house is worth $700,000. People were doing that, but there was no resource to go to.
+
+0 (34m 20s):
+So I imagine you were a small team, right. There was like fewer than 10 of you in that first year. Is that right? Yeah, that's right. And did you, I mean, when people said to you, so rich, how are you guys going to make money off this? Did you know, did you have an answer to that question at that point or not quite
+
+1 (34m 35s):
+Yet? No, we didn't. And I was very comfortable with that. Fundamentally we knew we were fishing in a big pond. Okay. Real estate, the biggest industry. Okay. And if you're fishing in a big pond and you have good fishermen, you're going to figure it out. And so we knew that if we could build something that consumers loved and, and people talked about on the sidelines of their kids' soccer games, we knew if we could attract audience, we could turn that into a business model somehow.
+
+0 (35m 4s):
+So the idea was, if you could create something compelling enough to capture eyeballs, you could figure out the business model afterwards. That's right.
+
+1 (35m 13s):
+We were marketplace builders, we had marketplace mentality. And, and, and so we knew the elements of building a great marketplace and it was unique and rich content that was difficult to find elsewhere, having all kinds of pricing information, having historical transaction pricing information, think about the stock market and the bid and the ask and the historical transactions and the pricing. And we knew that that same kind marketplace were wanted to be built in real estate. We dreamed of having a bid in and ask on every home in the country. Why not? Why not every home in the country ought to be for sale at the right price. And so if we could somehow have a rich database of information and pricing information, which would enable a new kind of digital marketplace, we knew that we were at the nexus of something important.
+
+0 (36m 1s):
+All right. So you're trying all these different things. How do you eventually stumble on what would become something that was going to work?
+
+1 (36m 10s):
+Well, the, you know, the scene I described where, where we drew the stock chart on the whiteboard, but not stock, it's your house. It's an address. That was it. That was the moment at that point, we dropped everything else that began to figure out how to build that,
+
+0 (36m 26s):
+Had to build something that would give anybody the opportunity to see what the value of their home was just like their stock portfolio if they had that's right.
+
+1 (36m 35s):
+And so we landed on the estimate pretty early, pretty early on and further mapping on the web was still relatively new that we fantasized about having that God-like, that bird's-eye view looking down on the rooftops in neighborhoods and having little prices on having little numbers, you know, values on every roof and then having that updated every day. And we thought that was just a head slapping, really obvious viral killer product
+
+0 (37m 3s):
+That everybody could look at their home and see the number attached to it. That's right. And their neighbor's home
+
+1 (37m 9s):
+Around their neighbors for go fly around neighborhoods that they were interested in shopping at, just to see. And if we could do that, we wouldn't have to spend any marketing to get people to come to the site because of course everybody would want to come.
+
+0 (37m 20s):
+It would ever want to just tell other people about it. Oh, did you see when my house, your house is? Did you
+
+1 (37m 24s):
+See what your ex boyfriend's house is worth, right. When that you didn't decided not to,
+
+0 (37m 29s):
+Because adults talk about really boring things like real estate, as my children have told me, why do adults talk about real estate dad? It's so boring. Yeah. All right. So you have this idea and how did you get suck in all this data and, and process it and cause you can't do, it's not one person typing each home value by hand into a database. How did you guys do that? Well,
+
+1 (37m 54s):
+We're technology people, so big databases didn't scare us. And so it was simply a matter of doing the business deals to license the data.
+
+0 (38m 2s):
+But a lot of it was not online. I guess I imagine it in 2005,
+
+1 (38m 6s):
+No, not online, not online. So we went to companies whose business, it was to sell this information to say the mortgage industry for analysis, et cetera. And we came along and we said, Hey, we want to license your data as well. So these
+
+0 (38m 22s):
+Were companies that would go to like, I dunno, the Suffolk county courthouse and just literally take the paper documents and then just put it into a database by hand. Correct. Digitize it. And then they would sell that, that information to mortgage lenders and realtors and other people. Exactly. So that was available was it was all of it in the U S available. Most of
+
+1 (38m 44s):
+It through different providers, which we had to go cut deals with multiple providers. And they were very wary of us. As you might imagine, if you're licensing data, you don't want somebody to license it from you and then provide it free to consumers, which is what, which is what our intent was. Right. And so we didn't get the market leader at the time. Wouldn't do business with us, but there were two other companies that would cause we just kept writing bigger checks, Lloyd and I are digging into our checkbooks to do it. But we wrote shockingly large checks early
+
+0 (39m 15s):
+On. I can understand why they wouldn't want to give you that information because you could argue that that would be the end of their business. Right. That's right.
+
+1 (39m 21s):
+You know, we had to agree to stuff like not selling it to businesses, right. And we wrote big checks and most, most managers of businesses, when you write a big enough check, we'll take it cause they get a bigger bonus,
+
+0 (39m 33s):
+But say you got like the data of a house, right. That was purchased in 1960. And this is now 2005. And it was maybe purchased for our own 15, $20,000. And now it's 2005 and you got the lot size and you had some information about improvements. You had to then figure out how to create a formula to value that house. Right.
+
+1 (39m 55s):
+That's where the magic was. And that's where, that's where the magic of, of having people who understand artificial intelligence and can write interesting algorithms to be able to ingest data and do smart things with data and make smart predictions from data. That's what we do did.
+
+0 (40m 11s):
+So this was a math challenge. Like you basically had to come up with a formula that would enable you to give a plausible value home value
+
+1 (40m 20s):
+And to save formula is simplifying it. But yes, initially, you know, now we run all of these, you know, galactically complex artificial intelligence models and just feed as much raw data as we can get our hands on into these machines, these software machines and see what comes out. And then of course, we get to test the results every day because there are more transactions every
+
+0 (40m 44s):
+Day. And this is 2005. And when were you planning on launching publicly launching this website? As
+
+1 (40m 50s):
+Soon as we got it done, as soon as it hits some acceptable level of bugginess, I suppose we figured we'd open it up as a beta, which was a cute way that technologists have of releasing buggy products. I'd say, look, you know, use it at your own risk right. Network as well as you want it to, but Hey, it's free. Tell us what's wrong with it.
+
+0 (41m 10s):
+So you start to suck in this data and process it and then run it through a proprietary formula, not over simplifying, but it starts to spit out estimates for homes all across the country. That's right.
+
+1 (41m 24s):
+We do develop it now becomes how well our latest algorithm does in guessing home values. How much better can we get? How much closer can we get? What is the median margin of error? We wanted to get it as good as we possibly could before we unveiled it.
+
+0 (41m 44s):
+You launch February, 2006 and by the way, was it totally stealth? Like, did you kind of, I don't know, let the real estate industry know that this was going to come out on the yellow people involved in that industry or did you just kind of put it out into the world
+
+1 (41m 58s):
+Completely stealth engineered by Amy Burtynsky, our marketing chief, we used stealthiness as intrigue. And so, and there was a lot of it. We were known entrepreneurs and we did a good job of dribbling out little tidbits of crumbs to get people interested. And so people were watching and waiting and wondering, I
+
+0 (42m 18s):
+Think it was leaked right by the wall street journal.
+
+1 (42m 21s):
+Well, we, so we finally are ready to unveil it. And I don't know if you remember what Mossberg, you know, he had that personal technology column. And so I flew to DC to go pitch wall to should give Walter preview secret preview. And we did that with several reporters and we asked them to be embargoed until a such and such a date and wall just because he was Walt kind of broke embargo by three hours and published a little bit early. And it just, the world showed up at our, you know, at
+
+0 (42m 54s):
+Zillow, that article in the journal, all of a sudden bam. And what happened did, did it, was it able to handle the traffic? No,
+
+1 (43m 3s):
+No, I can't remember exactly, but it was down by 8:00 AM. It had tipped over and was sad and sick and dead by 8:00 AM with the launch day. Like, yeah, it immediately crashed. Everybody
+
+0 (43m 15s):
+Was looking to see what their house is worth that's right. And
+
+1 (43m 19s):
+Just, it just sounded like, well, you know, while wrote about it, I can't remember what his headline was, but real estate porn or something. And everybody was curious. So they showed up. I remember being kind of curled up in a ball on David <inaudible> or CTO's couch and just kind of rocking back and forth saying, make the pain, stop, get things back up because it crashed the server crashed because it crashed all these people. We knew all these people were showing up and seeing nothing.
+
+0 (43m 47s):
+When we come back in just a moment, how's the Zestimate became a provocative new tool of real estate. And why after just a few years into the business, rich decided to step away as CEO to then why he came back, stay with us. I'm guy Ross. And you're listening to how I built this support for this podcast and the following message come from the American Jewish world service working together for more than 30 years to build a more just and equitable world. Learn more@aijws.org.
+
+0 (44m 33s):
+Hey, welcome back to how I built this guy rise. So it's early 2006 and the brand new real estate platform Zillow has just launched and just crashed because it can't handle all the traffic and rich is freaking out about it. But Amy, the head of marketing, Amy made
+
+1 (44m 53s):
+Lemons out eliminate on this one. She was ready for it. Cause she figured it was going to fall over and lemonade out of lemons for her. It was basically a round of stories saying, wow, it's so popular tipped over. It just made more people want to go.
+
+0 (45m 7s):
+I think you had about 60 million homes at that point. So not, not every home in the U S was on there, but you were adding it that information as quickly as you, you had the data. Yeah, we
+
+1 (45m 18s):
+Figured 60 million was good enough out of a hundred, maybe a base of a hundred million is estimates were good enough. They weren't great, but they were good enough. I mean, kids just imagine if you're in the market for a home, you're going to go look right. You know, cause it's key marketplace information. Like what did the Zillow folks think this house is worth? And I'm looking at
+
+3 (45m 35s):
+What's my house worth.
+
+0 (45m 37s):
+I imagine when this was launched, a lot of people were pissed off starting with real estate agents and assessors like right away, because this is like, what are you doing? Who are you? They must've been really pissed off. Yeah.
+
+1 (45m 51s):
+I mean, I might use provoked. So the industry being provoked was, was for sure certain, most of the industry, people kind of dismissed us as a parlor trick.
+
+0 (46m 4s):
+They were saying, oh, this is nonsense. These estimates are not accurate. Don't even pay attention to them. Right. Exactly. And, and by the way, real estate agents for experienced still do say that they
+
+1 (46m 15s):
+Do, but we have 235 million users a month. And many of them real estate is it provokes and kicks off a conversation about what real value is and the great professionals and the, the forward thinking professionals in the industry recognized that immediately and saw it as a tool, a tool to start conversations with clients and potential clients.
+
+0 (46m 40s):
+Hmm. In those early days, after you launched shortly, before you did launch, you took some outside investment. And I have to assume that, that you had to think about how's this business going to make money. So, I mean, did you start to like build a team to get her advertisers on board? Things like that? Yes,
+
+1 (46m 59s):
+Absolutely. The easiest thing for us to do is to drop Google ad ad-words and start generating a little revenue, which it did immediately. And then we started hiring business people to actually go sell custom ads that were targeted and relevant to real estate for us to experiment with running ads alongside all this traffic.
+
+0 (47m 20s):
+So yeah, you thought that, you know, Hey, we can get real estate agents to advertise on the site. And what about other ways too? Because advertising alone would, I'm assuming wouldn't be enough. What other ways were you thinking of generating revenue?
+
+1 (47m 35s):
+Well, it turns out when you have a big enough audience advertising can work quite well. And when you can have super targeted, relevant advertising in the product experience, it isn't viewed as intrusive or advertising by the consumer. It's actually viewed as valuable content. And so a real estate agent advertising alongside a listing to say, Hey, if you have questions about this property, give me a buzz. Here's my number. Well, that seems helpful. And it is helpful and it's advertising too.
+
+0 (48m 11s):
+Yeah. And what about, was there part of the, the idea initially was let's eventually get into the business of selling homes. Did did that cause that was initially the idea let's do auctions, but now you're listing home prices where you've started to think about, okay, maybe we can do this digital real estate.
+
+1 (48m 30s):
+Well, our dream right from the start was to bring e-commerce to real estate with right through to the transaction and to take all this kind of frustration and inefficiency and scariness out of the transaction. And so our way in was through search and find in this estimate and kind of the turn on the lights in the room aspect of the kind of first era of Zillow and that worked extremely well. And we got a great business model based on that, but the hard work of digitizing the transaction and turning this into a proper e-commerce transaction, that's just begun. So it's exciting
+
+0 (49m 11s):
+While you are launching Zillow co-founded glass door, which is another similar kind of site where you can go and see what companies pay their employees. And it's a review site on businesses. Some people hate it. Some people love it. Are you just, I don't know. Do you have like an attention thing? Like, could you like what's going on?
+
+1 (49m 32s):
+I've always liked to do lots of things. And we had just such a great, the kind of Microsoft slash Expedia, diaspora, such a talented group of people that I loved. And one of those great people, Robert Hohman who had been a development manager at Expedia, he had laughed and he was a gamer and he had spent like six months in his basement playing StarCraft or something. And his wife had had it. She's like rich, you got to help me get Bob out of the basement. And so Bob and I started brainstorming about new businesses and we landed on, you know, this is Bob, you know, Bob baby, we had in a glass door and I helped him out. Well, you know, provocation is a fantastic marketing strategy.
+
+1 (50m 13s):
+I've had many companies now where I've used this as a tool, being able to see what salaries are at different companies for different jobs, you could call that creepy, or you could call that just and fair and transparent and empowering.
+
+0 (50m 29s):
+So back to the Zillow situation, I mean, not that long after you launch the stock market crashes, it turns out that the housing market in the U S was totally all of a sudden it collapses when you started to see that in late 2008 and certainly began really began to hit hard in 2009, 2010. First of all, what happened to your business? Well,
+
+1 (50m 53s):
+We were still pretty small. We didn't have much business to be at risk, but we were very concerned about, you know, the next few years ahead. And so it was an incredibly scary time and quite a shock. Truthfully, our traffic held up quite, quite nicely throughout the whole thing, but because of massive uncertainty around business model and the pretty high expense burn rate we had, because at the time we had about 150 people at the company, this was the most difficult six months of my professional career because we had to downsize the company.
+
+0 (51m 29s):
+Good to let go of people because you saw a drop in your revenue.
+
+1 (51m 35s):
+Our revenue did drop, but the scarier thing was that we didn't know when and how revenue was going to come in the future. When it was, I kept a diary at the time, it was pretty tough. I mean, these are people that, you know, I loved and gone through a lot of hard, hard work with in the trenches. And, you know, we had to, we had to let them go. It was a learning experience and it turned out to be a fairly short term bump in the road for the company. But it was tough time
+
+0 (52m 6s):
+When the bottom fell out of the housing market in the us homes lost like $2 trillion in value. Right. So all of a sudden Zillow is not that fun to look at. You're just watching your house like tank and value. Just kind of explained to me how Zillow's like prospects are tied to the real estate industry at that point. I mean, and maybe still to this day, are they, are, are they joined at the hip?
+
+1 (52m 30s):
+No, not at all. And it's because the big trend is the move from the old way to the new way from the offline difficult legacy to the new digital efficient pick your vertical industry. That is the history of the last two decades of technology taking offline things and moving it online. That is what drove has driven Zillow right from the start. And that trend exists regardless of the minor ups and downs in the housing market.
+
+0 (53m 1s):
+All right. So you, you're now like five years in I'm still, I guess, is getting ready to go public in 2011, you were the CEO of the company and right before you do go public use around that and you stepped down and the title CEO goes to Spencer Rascoff, who was a co-founder of yours. Why did you, why did you step down and were you just bored, reluctant to do something else?
+
+1 (53m 26s):
+No, Spencer was ready to run the company and he was excited to take a company public. I had had that experience and knew the joys and woes of being a public company, CEO and taking a company public. And so, and I had a lot of things going on. And so we decided to switch chairs around a little bit. And I kicked myself upstairs to executive chairman. I didn't leave the company. I was still an executive, the company as chairman, but Spencer took over the day-to-day leadership.
+
+0 (53m 57s):
+I think you come back to run the company in 2018 and Zillow grew a lot, obviously it's publicly, publicly traded. And there was lots of acquisitions, including of Trulia and other, some other brands. Why did you return to, to the CEO spot in 2018, we
+
+1 (54m 17s):
+Had accomplished the kind of first false summit that we were after in amassing a huge audience that we empowered with information they hadn't had before. But as we were speaking about before, we had not yet streamlined and integrated and digitize the transaction itself and that, that we kind of all decided that that new mission required a set of skills out of the captain that were more like a startup. And so Lloyd and Spencer, and I'll kind of decided that this was the, a good opportunity for me to come back and put my hands on the wheel.
+
+0 (54m 58s):
+One of the things that I don't know, if you, you were sort of overseeing our fruit started before you returned was this, this new product you offer. It was like called Zillow offers where basically people can offer to sell their homes to Zillow directly, and Zillow can acquire the home, fix it up and then resell the home. And this is now something you offer, right?
+
+1 (55m 19s):
+That's right. What we're basically trying to do is solve the frustration problem that anybody out there who sold a home has gone through and knows as well, which is how much is it going to sell for? When is it going to sell how many people are going to come through my house and not wipe their shoes and use my bathroom and go through my closets. And, and by the way, how am I going to line up the timing to get into the new place? Cause I'm moving somewhere. It's a fraught and emotional and financially fraught process, right? And so we saw a way with Zillow offers to offer a service, kind of a market-making service to say, look, we're going to give you a fair price for the house so that you can pick your date and timing.
+
+1 (56m 5s):
+You don't have to have anybody other than us come through your house. You can get your next house all lined up. And then on a date of your choosing magically, click your heels and push a button and move. So
+
+0 (56m 15s):
+Basically Zillow buys a house from the seller. And what I mean, does that mean it eliminates a lot of the transaction costs.
+
+1 (56m 23s):
+We basically can eliminate a bunch of the transaction costs and streamline the whole thing because there's a bunch of waste in the process, but we do charge a fee for the service. We charge around five to 7% of the transaction to be the market maker.
+
+0 (56m 38s):
+So the value proposition is not necessarily saving money. It's just saving the hassle of like open houses and that stuff, correct.
+
+1 (56m 46s):
+Eventually as we scale, maybe it's maybe it's saving money too, right? Eventually, you know, maybe it's that rich.
+
+0 (56m 52s):
+I'm curious because you also have to manage a constituency that you also depend on. Like when you had Expedia, there were lots of travel agents who were mad about it as well. You could argue, look, that's technology guys. You know, this is the way the world is going. And there are some very successful travel agents today who provide very high level service. I have to imagine that real estate agents didn't like this, but they are also a constituency that you need because you know, you work with them. So talk about managing that relationship and how you assure them that you're not going after their turf.
+
+0 (57m 32s):
+Look, it's
+
+1 (57m 32s):
+Not as tricky as it might seem the future for those who care to look is pretty clear, the trends are pretty clear. You know, the consumer wants access and control. The consumer wants less frustration. The consumer wants 3d shopping and wants to be able to go visit the house as many times as they want and use their Zillow iPhone app to let themselves in. This is what the consumer wants. Okay. Great. Real estate professionals absolutely know that as well. Like you're mistaken. If you think we're trying to replace the agent and replace the industry. Yeah. We're literally just trying to give consumers a better experience and let them choose the door they want to go through and we're, we're there to help them no matter how they want to do it.
+
+0 (58m 19s):
+I'm wondering about this past year, the pandemic, because it's actually your stock prices just like skyrocketed along with other companies. What does that have to do with the way consumer behavior has changed during the pandemic? Well,
+
+1 (58m 37s):
+I guess in park guy, but I guess the first thing I'd say to that is that obviously the company isn't in reality that much more valuable in the space of one year, which just highlights how the stock price is not the business. The business is the business and in the long-term the stock price reflects the business. Hmm. Warren buffet likes to say in the short run, the stock market is a, is a voting machine, a popularity contest, right in the long run, it's a weighing machine. That's how much, what, how big is, you know, how much of a business did you create? And so we try not to focus too much on that.
+
+1 (59m 19s):
+Now, all that said, pick your trend, be it business, political, social, pick your trend that pre-existed COVID and I'll show you something that was accelerated by at least five years during COVID. Yeah. And this transition from offline to online, from legacy to digital, it was in real estate. It was accelerated just like e-commerce was accelerated for Amazon. And just like, you know, Netflix became even more essential. And has it changed
+
+0 (59m 50s):
+The way people are buying homes? Like, I mean, presumably because it's still you go on there and there's, you know, your home value, but let's say you want to buy a house. Like, does it change how people are using your platform? Well,
+
+1 (1h 0m 4s):
+They're using it a lot more, just like they're using Netflix more. It's more important there. They're not only being entertained, but everybody wants to move. But more interestingly, even than that, is that all of these digital tools that we've been using for safety purposes during the COVID, so 3d touring, remote touring, digital closing, like I don't want to show up anywhere to sign the 300 pages of documents that happen at a closing. Let's do that all digitally. Okay. So all of this was required for safety during COVID has been and still continues to be, but of course, all of these things are going to be the convenient, you know, going to be demanded as convenience in the future post COVID.
+
+1 (1h 0m 49s):
+So yes, the move towards e-commerce in the real estate business has been accelerated
+
+0 (1h 0m 54s):
+Dramatically, permanently rich. I know that you guys have introduced a whole bunch of different offerings. You've got rental listings now and, and other kinds of, of listings that, that generate revenue, but Zillow has, is yet to turn a profit. Is that just par for the course, from, from your point of view, like, well, you know, it's just going to take some time. Well, of course
+
+1 (1h 1m 15s):
+I want to show a profit and we've actually recently had a few quarters that we have, you know, I just, because I'm such a, I dream so much about what can be in the future. And as long as we, as a team and our investors truly believe in the long term growth opportunity, investors are more than willing to take, you know, not much profit in the short term for a chance at a much bigger business in the longterm and look no farther than Amazon or Netflix or yeah, most
+
+0 (1h 1m 47s):
+People are uncomfortable with this topic. And as you probably know, as a listener to the show, I'm uncomfortable with almost nothing. You have more money than, than you will ever need. And for many generations after, what do you plan to do with it? Well,
+
+1 (1h 1m 60s):
+It'll be fun to give it away. Have you started
+
+0 (1h 2m 3s):
+To do that yet or not? Not quite yet. Oh yes.
+
+1 (1h 2m 5s):
+Yes. I mean, I, I would say we're, we're fairly mature philanthropists, Sarah and me, when we sold Expedia, we created a family foundation. So this was a long time ago though. The, the scale of our philanthropy is increasing dramatically and will continue to do so. And that's, you know, that's very exciting to me and it's exciting to Sarah and it's hard to do well. Yeah. We're very focused on criminal justice reform. So that's been the primary focus of what we've done, but we will do a lot, a lot more into the future.
+
+0 (1h 2m 38s):
+When you think about your journey and all of the things that you were able to do, you know, and, and the opportunities you had, do you attribute your success to how hard you work and how smart you are, or do you think more of it has to do with luck? What, what, what do you think?
+
+1 (1h 2m 57s):
+Yeah, I mean, I'm a grateful guy. I feel like I have been consistently lucky to team up with such an insanely smart and hardworking bunch of people who kind of who knew, who knew magic, that, that I didn't necessarily know. And that I've always been good at painting a mission that was exciting that I felt I was passionate about. And so passionate leaders have come to join the team, but there's really, I'm having so much fun doing this. We really are on the cusp of changing the biggest industry there is.
+
+1 (1h 3m 38s):
+And I am lucky. I'm not just being coy. When I say I really love what I'm doing and I have no plans to do, to do anything else.
+
+0 (1h 3m 49s):
+Co-founder of Zillow and Glassdoor and founder of Expedia, by the way, traffic to Zillow skyrocketed this past year in 2019, the site had a 1.5 billion views, but it rose to more than 9.6 billion views in 2020. Thanks so much for listening to the show this week. If you're not yet a subscriber, please do subscribe wherever you get your podcasts. If you want to write to us our email addresses, H I B t@npr.org. And if you want to follow us on Twitter or at guy Ross, or at how I built this, you can also find us on Instagram.
+
+0 (1h 4m 30s):
+That's at how I built this NPR or my personal account at guide got rods. This episode was produced by Casey Herman with music composed by Ramtin Arab Louis. It was edited by Neeva grant with research help from Doris gales. Our production staff includes JC Howard, Rachel Faulkner James DeLuise, Julia Carney, Ferris safari, Liz Metzker, Janet Lou, John Lee and Emily sober. Our intern is Harrison VJ choy. And Jeff Rogers is our executive producer I'm guy Roz. And you've been listening to how I built this.
+
+0 (1h 5m 12s):
+This is NPR. This message comes from NPR sponsor, web flow, empowering designers to build custom websites in a visual canvas without the need for code. It takes the pressure off of engineers so that marketing and design teams can manage your site faster web flow, the modern way to build for the web.

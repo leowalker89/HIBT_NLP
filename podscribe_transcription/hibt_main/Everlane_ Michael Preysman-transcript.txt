@@ -1,0 +1,719 @@
+0 (0s):
+Wondery Plus subscribers can listen to How I Built This early and ad free Right. now join Wondery Plus in the Wondery app or on Apple podcasts.
+
+Indeed (10s):
+What's better than finding quality candidates? Finding them fast. With Indeed. you can attract talent interview candidates and hire all in one place. As soon as you sponsor a post on Indeed, you get a short list of quality candidates whose CVS match your job description. Boom, just like that. So. start hiring now with a 100 pound sponsored job credit for your job. Post at Indeed dot com slash how I built Offer good for a limited time claim your 100 pound credit now at Indeed dot com slash how I built Just.go to Indeed dot com slash how I built and support this show by saying you heard about it on this podcast. Indeed dot com slash how IBU terms and conditions apply Need to hire you need indeed.
+
+Pipedrive (58s):
+This episode is brought to you by Pipedrive, the easy and effective CRM for closing more deals and to drive small business growth. With Pipedrive, you can track your sales pipeline, manage leads, and automate your entire sales process in one central place so you can focus on selling Plus. Pipedrive is easy to use, it's fully customizable for your needs and produces visual reports for your business. To unlock even more sales success. sign up today and get a special 30 day free trial right now at Pipedrive dot com with the code built terms and conditions for the discount apply.
+
+0 (1m 41s):
+Hey, it's guy here and before we start the show, I wanna share something I heard recently from Stephen Colbert. It's about learning from failure. He told me an incredible story from way back when he was doing improv in Chicago and how he broke on stage one night, which he initially thought was the worst thing ever, but it actually changed his life and his approach to comedy forever. To hear my conversation with Stephen Colbert and other incredible creative people. Listen to my other podcast, the Great creators just search for the great creators with Guy wherever you listen to podcasts and now onto today's show.
+
+2 (2m 27s):
+So the strangest thing you would never expect if you were to build a brand today and you start with a T-shirt, your next product, what might be denim. Our next product was literally ties and bow ties.
+
+0 (2m 38s):
+Ties and bow ties.
+
+2 (2m 39s):
+Ties and bow ties. It,
+
+0 (2m 41s):
+It just seems like an like a kind of a, just throwing a dart at a dartboard. Let's do bow ties.
+
+2 (2m 45s):
+It is weird. Yeah, we didn't have a lot of connections and it was, we would have to wait six to 12 months to be able to launch a sweatshirt. And our alternative was we had a guy that could make ties and bow ties in two months.
+
+0 (3m 1s):
+And how did those do?
+
+2 (3m 3s):
+We never made ties and bow ties again. Let's just put it that way.
+
+0 (3m 13s):
+Welcome to How I. Built This. A show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. I'm Guy Raz and on the show today how Michael p Preysman set out to start an online retail platform, fell into the apparel industry and built the multimillion dollar brand Everlane In early 2023 KPMG. The global consulting firm did some research around consumer behavior and they found that about a third of people think about a company's social mission when they decide what to buy.
+
+0 (3m 57s):
+So, for example, about a third of consumers might choose Ben and Jerry's over say the supermarket brand because Ben and Jerry's is perceived to care about things like the environment. Over the past 20 years, this kind of research has led to an explosion of consumer-focused brands and companies that emphasize their commitment to social responsibility. There's even a name for it, social enterprise. And for the most part that's a good thing, right? We want our companies and brands to do less harm, but the problem is that being celebrated as a so-called social enterprise can also make you vulnerable when you can't always live up to your ideals.
+
+0 (4m 39s):
+And that is part of why Everlane hit a bumpy patch in the past few years. If you don't know the brand, they sell clothing, mainly basics like t-shirts, jeans, sweaters, sort of like the gap from the nineties. Everlane was one of the first direct to consumer brands that really leaned in on the concept of radical transparency. The company laid out the actual costs of making clothing So. for example, a T-shirt can cost between four and $6 to make what we're all paying for is the brand name. But you know that and so do I. Everlane wanted to double down and not just show you the true cost of making clothing, but everything about it.
+
+0 (5m 21s):
+The factory, the shipping process where raw materials were sourced and the idea was to educate consumers to show them that they could basically buy the same product from Everlane, but for a fraction of the price and they could do it ethically. When Michael p Preysman co-founded the brand in 2011, he wondered whether he could sell a simple T-shirt on the internet and turn that into a brand. His concept tell people the true cost of a shirt and then sell it for less than anyone else was a big hit. And for many years the company grew at an eye popping rate. But as you will find out, the pandemic had other plans for Everlane and its business took a pretty significant hit.
+
+0 (6m 6s):
+Today the company is back on a path towards profitability in large part because it has also narrowed some of its ambitions. Michael Preysman didn't set out to have a career in fashion. He's the child of Russian immigrants and grew up in the eighties and nineties in the Silicon Valley as a kid, perhaps not surprisingly, he was into computers. And after Michael graduated from college at Carnegie Mellon, he landed at a private equity firm in New York.
+
+2 (6m 34s):
+And I'm just feeling a lot of angst and the kind of angst that just feels like something's not right. And I didn't know what it was, but I remember, I don't think this can be my life. And I had this period of two to three months where I was trying to figure out why am I feeling this way? What can I do about it? And I had, I did this one exercise and I remember I, I was, I said, okay, I'm gonna write down everybody I admire. Hmm. And I wrote my down, my father, he had actually started a couple of businesses. I wrote down big names Michael Eisner at the time, or Steve Jobs, Steve Wozniak.
+
+2 (7m 14s):
+And they were kind of big names, but when I wrote down every single name, I realized not a single one worked in finance. And all of them had operated or built something from scratch. And I said, oh. And that was the moment for me. It was as simple as that, that I realized I've got to go and start something.
+
+0 (7m 30s):
+So you thought, alright, I've gotta figure something out. And presumably you had a few years where you were watching, you know, startups and people pitch ideas and, and, and maybe some of those ideas you thought, well, this doesn't seem so complicated. Or, or, or, or maybe not. Oh,
+
+2 (7m 46s):
+It definitely seemed complicated. And I will tell you, I, having had the chance to work in the finance side, it's a pretty, it's a hard job, but it's a financially oriented low risk job. Yeah. And so you look at your life and you say, Hey, I, if I stick here and stay here, I'm made, I'm fine by all measure. And so to be in New York at that time, I started hanging out with entrepreneurs, but I had the fortune of having grown up in the Bay Area. So I'd been exposed to what you could call the best of the best. And I started hanging out with entrepreneurs and I just didn't feel the energy in New York. So it was the summer of 2010 and I actually packed up my bags and moved back to California and moved to San Francisco with the intention to start something or work for a very select few companies that I had on my list.
+
+0 (8m 35s):
+Alright. So you moved back to the Bay Area in 2010. Yeah. And did you have any ideas at all?
+
+2 (8m 41s):
+I had a little bit of an idea. You know, what I was really inspired by at the time was this company that still exists in some shape or form called Guilt Group, which had really changed how people bought Luxury online. No one had really bought luxury items online and all of a sudden Guilt group came around during the recession and exploded because people could get Prada. Yeah. Gucci, all these companies that say 50% off. And while it was a discount business, which isn't what I love, it was a eye-opening experience that people were willing to buy these brands online. Yeah. And I had, the idea for me was really critical was I wasn't technical, even though I studied computer engineering, I didn't code, which is strange.
+
+2 (9m 24s):
+I don't know, it just never really sang to me. And so I was really set on finding a co-founder and I, you know, happened to link up with a really great guy, Jesse Farmer,
+
+0 (9m 35s):
+And he was a com he, he was a coder, he was a technical guy.
+
+2 (9m 38s):
+He's more than just, yeah. He's a technical product leader, but very technical and able to write code and, you know, did development and end-to-end. And
+
+0 (9m 48s):
+You knew that whatever it is that you were gonna start, you, I mean you had the sort of the, you could handle the finance or maybe the, the business side, but you needed somebody who could handle the technical side because obviously this is gonna be a digital based business.
+
+2 (10m 1s):
+Yep. It was gonna be digital based. And in the early days it wasn't retail necessarily. Jesse and I were in explore mode to be honest. We ended up at a place called Dogpatch Labs, which has a really storied history to it. But we, we ended up working there for a number of months, just iterating through ideas. Yeah.
+
+0 (10m 22s):
+And, and what do you do? You start talking about like what do you remember about ideas you talked about?
+
+2 (10m 28s):
+Yeah. I can tell you there were a whole ton. So the question for us was how can we rethink online shopping? Okay. What, what does that mean and what can it look like? Yeah. And we each put down, opened up a bank account and each committed and said, let's just put down $10,000.
+
+0 (10m 45s):
+And the money being spent was to decide what this business was going to be. But you knew it was gonna be an online retail. Yep. Two and by the way, this is 2010.
+
+2 (10m 54s):
+Yep. End of 2010. Might be early 2011. Okay. And we were trying different things. So I'll give you an example. One of Jesse's big beliefs was building on top of audiences. And in the early days we said, okay, let's, let's see how we can rethink shopping. And we were looking at all kinds of different platforms. Etsy is an example. Yep. And we built a tool on top of Etsy that basically turned your Etsy shopping into feeds and you could follow different shops and then you would get updates on their newest items. Okay. And it worked and it was very cool and a lot of people loved it. And then we realized very quickly that building a business on top of Etsy was a losing proposition.
+
+2 (11m 36s):
+Hmm. And so then we went from Etsy to Tumblr, which was a big platform at the time. And we said, why don't we see, can we build shopping on top of Tumblr? Yep. So we start building tools on top of Tumblr. So one of the thoughts for us was can we build curation and can we create so much buzz around products that we can drive people to find the products they love, buy them. And then we would get an affiliate fee of some sort. And the concept was an iPhone case store. Hmm. We would design iPhone cases based on the number of likes they got on Tumblr. We would actually put them into production and sell them.
+
+0 (12m 10s):
+Where did you get the iPhone cases from?
+
+2 (12m 13s):
+We went online and there was a place where you could upload graphics and then they would make iPhone cases on demand.
+
+0 (12m 17s):
+Who was designing the cases?
+
+2 (12m 19s):
+The cases were designed by a group of five or six different graphic freelancers. We found we would have people design very cool graphics of different sorts. Okay. Some culturally related, some beautiful whatever. And we would post 'em on Tumblr and say, if this gets X number of likes, we'll make it and sell it. And then based on that it would link to a store that we had where people could buy things. And indeed people would like certain things. We would put them up and they would sell. And it was sort of the beginning of creating this buzz and wait list. But we were buying all of these iPhone cases from some site, I don't know, call it custom iPhone cases.com. And we would pay 20 bucks and sell them for 30.
+
+2 (13m 0s):
+So the margin wasn't very good. We were making $10 and then we realized, huh, these $20 iPhone cases, I don't know how, why we made this assumption, but we made the assumption that they probably cost two or $3 to make and that we're only making $10 but generating all the demand. And this custom iPhone case company is making a ton of money off of us. Right. And that was this aha moment that said, wait, the markups in retail are actually pretty massive, and why don't we just become the manufacturer and sell direct to the consumer. Hmm. And in, at the time that we were building this iPhone K store, I do want to say that we had gone out and raised a small amount of money.
+
+0 (13m 41s):
+And how, how much money did you raise?
+
+2 (13m 43s):
+A million dollars. I guess it's not that
+
+0 (13m 46s):
+Small. No. And, and, and it was, you raised that money in 2011 based on building an iPhone case store? Or, or was the pitch about doing other things? The
+
+2 (13m 55s):
+Pitch was building a new retail platform on top of Tumblr.
+
+0 (13m 59s):
+Okay. And you would sell, you'd start with iPhone cases, but you could go into all kinds of accessories over time. You got it. Okay. Yep.
+
+2 (14m 6s):
+Exactly.
+
+0 (14m 7s):
+And, and, and who, who gave you the money? Was it, was it professional investors, venture capitalists? Was it friends and family? It,
+
+2 (14m 14s):
+It was, you know, we had, we just had a good network. Yeah. And we were surrounded by people doing other interesting work. And so quickly people introduced us to the right people. And it was the, the, you know, famous Ssv Angel, Ron Conway, it was Kleiner Perkins, put in a little bit of money. Wow. It was a whole host of different people that just said, Hey, this sounds cool Tumblr shopping, these guys seem smart. We'll give them a shot.
+
+0 (14m 42s):
+Yeah.
+
+2 (14m 43s):
+And, and when I go back to thinking about why I moved to California versus New York, that was the reason the belief in California has always been give it a shot. Let's see what happens.
+
+0 (14m 54s):
+One of the things that I I I read that you, while you were kind of searching around for ideas and, and what might work and what might not work, is you reached out to a bunch of different entrepreneurs and I know one of 'em was Dave Gilboa who started Warby Parker. 'cause you probably loved that brand and they were a hot brand. Tell me what, you just reached out to him cold.
+
+2 (15m 17s):
+I did. Dave was particularly helpful because indeed he had launched in 2010, I believe, or oh, February, 2010. So they were about a year and a half in. And I had, you know, we had just launched our iPhone cases and we said, wait a second war, be selling direct. Why can't we sell direct and build a brand around that? And Dave was just immensely helpful and just tell, helping us think through the early days of what we were building. Yeah. And I was learning what mattered from Dave. And then I remember in the early days also just learning how to manufacture because we decided we were gonna be the manufacturer.
+
+0 (15m 58s):
+Yeah. I mean, I mean obviously what what Wordy Parker did was they realized that glasses were being marked up extraordinarily high. And that most glasses most people wore were controlled by one company, most brands. And, and so that model of like producing or owning sort of the, the, the means of production and then lowering costs, that was their model. And so clearly that that had an, you know, that I, I imagine that inspired you to some extent.
+
+2 (16m 29s):
+It inspired me and us in an, an immense amount. And what, what it was when we, I remember these iPhone cases, we realized the markups were so high and we said, okay, well we're not gonna start a company around iPhone cases, but what if we start a brand and for what, whatever reason it was, we realized that the basic T-shirt, you know, I remember loving a, a brand called James Purse that sold t-shirts at the time, $45. Now they're probably 80. And I found out those T-shirts cost $7 $6 to make. Hmm. And that seemed borderline unethical, that a $7 T-shirt was marked up to $45 and the consumer had no idea.
+
+0 (17m 11s):
+Is it unethical or is it just capitalism? I mean Alright.
+
+2 (17m 14s):
+And that's the idealism I had in the, in the early twenties. Yeah. Yeah. Now you could say in the thirties, that's capitalism Good for you. And then you could say, our version of capitalism was great, we're gonna sell it for less and tell our story. Yeah. But in the early days it felt more than that. And it felt like there was an opportunity to reshape the industry. And we said, if the basic T-shirt can be marked up seven times, let's build a brand around that concept. Because the T-shirt is the most basic part of a wardrobe.
+
+0 (17m 45s):
+And these were plain T-shirts, just no, no design. It's just a no pockets, just a plain T-shirt.
+
+2 (17m 52s):
+We did eventually have a pocket for sure. But yeah, in the early days it was plain t-shirts, good old plain, high quality Pima cotton T-shirts.
+
+0 (17m 59s):
+So when you, when you and Jesse were thinking about T-shirts, did you think about a full apparel company right away? Or did you, did you think let's start with T-shirts?
+
+2 (18m 10s):
+We thought about it as a platform to launch product, not as much as a fashion brand. That, that came later. And this was a big point of one of those critical moments in the evolution of the company. 'cause we had raised our million dollars maybe spent at this point, a hundred thousand of it. And we had signed up all these investors on the idea that we're gonna build a retailer on top of Tumblr. Yeah. And the belief was, let's ditch the retail platform. Let's ditch all this technology and let's go launch a brand. And in my head I had this immense fear that our investors were gonna say, this is not what I signed up for.
+
+2 (18m 58s):
+Hmm. And so I remember this moment where I draft up this long email about what the new plan is. We're gonna shut all this stuff down and we're gonna launch a brand and it's launching on this date. And I sat on this email and sat on this email and finally sent it to all of our investors expecting a bunch of people to say, what the hell are you doing? And for the first hour or two crickets, and then three emails come in of the 30. So investors we have that say, great, sounds good.
+
+0 (19m 27s):
+Yep.
+
+2 (19m 27s):
+And they, there again was that entrepreneurial spirit of whatever you need, just go do it.
+
+0 (19m 34s):
+And you, you mentioned that when you found out that your $45 T-shirt costs $7. Right. Did you think that okay, we're just going to source those t-shirts from the same factories and sell them for less? Was that the idea?
+
+2 (19m 50s):
+It should have been the idea, but the idea was we're gonna source all the material and control the entire supply chain and then sell directly to the consumer. And what I mean by that is, the difference is in one ca case, you go to a manufacturer and you say, can you make me t-shirts? And what are you gonna charge me? And I'll get the final product. And in the other one, we, you know, met a number of people down in Los Angeles and we bought the fabric. We learned how to do the patterns for the fabric. We had those patterns, what we call grading. So it can go from small to extra large. I mean, we learned every step of the process.
+
+2 (20m 31s):
+'cause there was this theory that if you're going to become a great chef, what you need to do is go to cooking school. And so we kind of, we believed we got, had to go through, call it apparel school one oh one.
+
+0 (20m 46s):
+How did, by the way, how did, did you come up with a name? Everlane?
+
+2 (20m 50s):
+Jesse and I were sitting in a room one day on instant domain search.com and we were just for three hours typing in names, names, names. And I had a whole bunch of scratch. And I always, you know, we liked the names that were simple and clear and all of a sudden typed in Everlane dot com and it was available for $17 and we bought it.
+
+0 (21m 10s):
+That was it. That
+
+2 (21m 11s):
+Was it.
+
+0 (21m 12s):
+Because it doesn't mean anything. I mean, it it, it doesn't mean anything specific. There's no connection to, it could be a street, it could be a,
+
+2 (21m 20s):
+It was the idea that it was everlasting and at the same time rooted to a physical place. 'cause we are digital. But people get really worked up about names. I think brands and people live into their names. The name becomes them. I, I'm less, I'm usually not that concerned. I don't think names matter that much. And a big part of what we were trying to do was to do right where others do wrong. And that's where the storytelling really came full front.
+
+0 (21m 48s):
+Okay, let's talk about this. Right. Where others do wrong, what you, you said in your view, what others are doing wrong was they were overcharging for what it costs them. Which, you know, again, I mean that's for better or worse, that's business, right? That's how businesses work. They, you, the movie theater, you go to the pot, get some popcorn and they're overcharging you for that popcorn like a thousand percent. Absolutely. But that's right. That's how they make money. I, I understand you wanted to, you basically wanted to produce clothing and, and make it as, you know, become an online retailer. But what was it, what else were you gonna do that was different from other brands?
+
+2 (22m 23s):
+When I say that, do right where others do wrong? All of that came out over a period of time in a way that we really became students of the industry and tried to say, if we were to build this from the ground up in, in a way that put the customer first, what would that look like? So pricing transparency was one. Customer experience. The customer experience, we really focused on the communication, the community really having an open dialogue with the consumer, which felt the opposite of what you actually experienced oftentimes in retail where you would go in and somebody might talk to you, somebody might not getting help was challenging. Knowing how to return things was challenging.
+
+2 (23m 3s):
+So customer experience and customer service was always a big, big part of what we hung our hat on.
+
+0 (23m 9s):
+Okay. I get the idea of customer service, but that wasn't new. I mean, you could go into a Nordstrom or Neiman Marcus and get great customer service in 2011. You still can, what was gonna be different about this? I mean these were, it was, it was gonna be cheaper for one, but what else?
+
+2 (23m 27s):
+It really started out with pricing transparency. Got it. And being honest about that.
+
+0 (23m 32s):
+And when you say pricing transparency, what did that mean? You were gonna tell the customer what it cost to make this product and, and why you're selling it for this price?
+
+2 (23m 42s):
+We first started by selling a T-shirt for $15. That was the quality of a James Purse for 45, $50 at the time.
+
+0 (23m 50s):
+And how did you get those T-shirts made? Where did you get them made
+
+2 (23m 53s):
+In Los Angeles end to end. We made them by sourcing the fabric we used outta the gate supima, which is the highest quality American cotton. Yep. Then finding people, I remember driving an hour with fabric and taking it to a grater who would grade it from extra small to large and then getting it cut. And then we would actually take it from the cutter to the sower to the dire to the finisher and then package it all up. And
+
+0 (24m 19s):
+How much did it cost you to make each shirt?
+
+2 (24m 21s):
+I think in the early days it was something like five 60.
+
+0 (24m 25s):
+How were you able to make the shirt So for so little money? Is it because you guys were literally driving it from one, one part of the production process to the next,
+
+2 (24m 34s):
+To me that was the secret of the whole industry. You know, you're, you're making the fabric might have been a, I think call it a buck 50 to $2. The cutting 45 cents. The James Perty cost six, $7 to make two. And they were selling that for a four to six x markup. And the basic principle of Everlane in the early days was two to two and a half X markup. That's it. And so, yeah, ours was a little bit cheaper outta the gate because we managed all the different steps ourselves. But eventually a few months in, we contract manufactured with one vendor who actually managed all the processes for us.
+
+0 (25m 13s):
+And this was, and and they can make it all in Los Angeles, correct.
+
+2 (25m 16s):
+End to end. Yep.
+
+0 (25m 17s):
+And the first run was gonna be like what? A thousand T-shirts? Something like that.
+
+2 (25m 20s):
+Oh boy. Yeah. The first, the first run was 1500 T-shirts. That's it. Okay. And we're probably call this, we're in October now with a plan to launch
+
+0 (25m 31s):
+November 1st, 2011.
+
+2 (25m 33s):
+Yep.
+
+0 (25m 33s):
+So, alright. So the idea was let's get these shirts made and then we're gonna figure out how to sell them. You hadn't, you hadn't launched the company yet, right? There was nothing. Everlane dot com was just a, a placeholder at that point.
+
+2 (25m 47s):
+Yep. Just a placeholder. Everlane Jesse was building a lot of the technology in the backend and we had had a community, a small community that we had built through the different channels on Tumblr. And so you could call it, we had five to 10,000 people on an email list that we knew we could reach out to when ready.
+
+0 (26m 3s):
+And, and did you have an office by that point?
+
+2 (26m 6s):
+We had moved from Dogpatch Labs 'cause we overdid our stay there to a place in the financial district in San Francisco. Yeah. So it was about 1400 square feet.
+
+0 (26m 20s):
+So the idea was let's sell the shirts at, we'll basically launch Everlane dot com with this T-shirt sale. What were you gonna sell the shirts for
+
+2 (26m 30s):
+$15. Got it. And we said, let's create a viral campaign if we can. Wouldn't that be great? Okay. We sign up. I mean, it's sort of a dream, but how many people can we sign up before launch? So we built a little landing page and the landing page had a series of awards rewards you could get based on the number of people you invite. And
+
+0 (26m 52s):
+I, I was Everlane dot com. Yep. That was, and, and, and if you invite people, you offered like what kind of rewards?
+
+2 (27m 0s):
+Free shipping for Life was, if you invited 50 people, if you invited five people, you got early acts of the wait list. If you invited 10 people, you got free shipping on your first order. So it was like different tiers and you could track where you were. And it became a bit of a staple of Everlane over time, which is building wait lists. But that was our first one. And it was a really simple concept. It said Your luxury good sell for eight times what they cost to make. Not at Everlane launching November 1st at midnight sign up.
+
+0 (27m 35s):
+But how did you get any attention for that page?
+
+2 (27m 38s):
+That's where that first five to 10,000 email list came in. Okay. So we emailed those five to 10,000 people with a really nice email and said, here it is and you can sign up. And then we posted it on Twitter at the time and a couple other places. And next thing you know, I kid you not, this thing blows up and we have 80,000 people sign up.
+
+0 (27m 60s):
+Wow.
+
+2 (28m 1s):
+80,000 people.
+
+0 (28m 1s):
+Did you say specifically how much less it was gonna be?
+
+2 (28m 5s):
+We didn't even tell people we were offering T-shirts, so I was freaked out. Okay. I mean, we were all freaked out because we said they think we're selling luxury goods for eight times. What they cost to make, let's see what happens. Yep. And so we had these 80,000 people and it felt really exciting, but it also felt very overwhelming. And we go, uhoh, we have way more demand than we have supply. And we don't even know if these people are gonna be pissed off because actually what we're just selling is a T-shirt
+
+0 (28m 34s):
+When we come back in just a moment. Everlane causes a big stir in the fashion industry by telling people just how much their clothing actually costs. Stay with us. I'm Guy Raz and you're listening to How I. Built This.
+
+Rocket Money (28m 54s):
+Did you know that over 80% of people have subscriptions they've forgotten about? It's too easy to subscribe to a free trial of something and then completely forget about it once you stop using it right as the monthly charges start rolling in. I've been there, there are subscriptions I've forgotten about. And even once where I was charged twice and didn't realize it. That's why I'm such a big fan of Rocket Money. Rocket Money is a personal finance app that finds and cancels your unwanted subscriptions, monitors your spending, and helps you lower your bills all in one place. With over 5 million users and counting Rocket Money has helped save its customers an average of $720 a year and $1 billion in total savings so far. Stop wasting money on things you don't use. Cancel your unwanted subscriptions and manage your money the easy way by going to rocket money.com/built. That's Rocket money.com/built rocket money.com/built
+
+Squarespace (30m 1s):
+my talk with so many business leaders who use Squarespace as their all in one platform for building their brand and engaging customers online. Squarespace lets you easily create a dynamic website and sell anything your products and services and even the content you create. Get started with a best in class website template and customize it to fit your needs. Browse the category of your business to find a perfect starting place. Every Squarespace website and online store comes with a suite of integrated features and useful guides that help maximize prominence among search results. Use insights to grow your business. Learn where your site visits and sales are coming from, and analyze which channels are most effective. Improve your website and build a marketing strategy based on your top keywords or most popular products and content. Go to Squarespace dot com slash built for a free trial and when you're ready to launch, use offer code built to save 10% of your first purchase of a website or domain.
+
+3 (31m 5s):
+Hey, How, I Built This. My name is Eric Sedant and I'm from Hilton Head Island, South Carolina. Without a doubt, my favorite episode of all time is the Airbnb one. As an entrepreneur myself, I think back often to them selling Obama and McCain cereal as the definition of an entrepreneurial move in doing whatever It takes to keep your business alive. For just one more day,
+
+0 (31m 32s):
+If you wanna share your favorite episode of How I Built This record a short voice memo on your phone telling us your name, where you're from, what your favorite episode is, and why a lot like the voice memo you just heard. And email it to us at HIBT at id dot Wondery dot com and we'll share your favorites right here in the ad breaks in future episodes. And thanks so much. We love you guys. You are the best. And now back to the show. Hey, welcome back to How I. Built This. I'm Guy Raz. So it's 2011 and Everlane is hours away from launch with 1500 T-shirts, a wait list of 80,000 people and a clear strategy for how to generate buzz.
+
+2 (32m 21s):
+So we sent an email that says we have 80,000 people, but can't let you all in. So you're now on a wait list to be let into Everlane dot com. And we put Everlane dot com behind a wall. And so we launched with 1500 T-shirts and let five or 10,000 people in. But fortunately we knew we could create another 5,000 t-shirts and then let the next tranche of people in. And so that really became the way we built a bit of the business and the momentum for the first year.
+
+0 (32m 55s):
+Did you, because you had another run of t-shirts, did you sell all of them out fa relatively quickly.
+
+2 (33m 0s):
+The first one sold out. I mean, it was 1500 T-shirts times $15. It, it sold out in a day or two, I mean, quickly. Yeah. And we did everything we did with cotton. And for a certain group of people that's just supima cotton, all what we call garment dyed, it was a higher quality product without a doubt.
+
+0 (33m 23s):
+Yeah, I, I get that. But how did you, how did you communicate that to people? Because most of the people on that email list were, you know, are I would imagine like most consumers are just looking for the best deal initially.
+
+2 (33m 36s):
+Well, this is where, you know, I don't know. I I believe that people are different than that for two reasons. One, it was a time and place. Yeah. There were so few brands being launched on online. Now it's a dime a dozen all over the place. I I think Instagram and TikTok have become the shopping malls of America. Yeah. You're discovering small brands all the time. Instagram had just launched, in fact, we actually sat next to Mikey and Kevin when they launched Instagram. 'cause they were in Dogpatch Labs, but no one thought it was for shopping at the time. Yeah. Today we're so saturated with discovery that it, it, it feels a bit, but now that, okay, I discovered something new. Oh, I already heard about that.
+
+2 (34m 16s):
+But back then it was a bit, even 10 years ago, very different pre the rise of TikTok and Instagram. And so there was one element of it that was, oh, there's something new online. And then another that was, this company's promising this quality and I'm interested in that. It's not just price, it's, there's a story behind the price. But of course, I do think you're right. We, we did struggle with saying, how do people understand that our $15 T-shirt is really different when we're online. Yeah. And so a month in, at the end of November, we actually launched what our, what started transparent pricing, which is we said, we've got nothing to lose. Why don't we tell people exactly what our costs are end to end.
+
+0 (34m 58s):
+And how did you do that? How did you communicate that?
+
+2 (35m 1s):
+We built an infographic that showed all the costs and we put it up on our product page and we put it up on Tumblr and we said let it go. And it got picked up.
+
+0 (35m 11s):
+Yeah. This was called the making of a Designer tee. I'm looking at it now. It was, it's a wonderful infographic. It basically shows you the price that it, it cost to make a shirt cotton 2 75 cutting at 35 cents, sewing a dollar 35, dyeing 50 cents, finishing a dollar 25, transport 50 cents cost of the brand, six 70 sells to retailers for 15, sells to you for 50 bucks. So you put this infographic out there and lots of people see this. I mean, like this, this definitely goes viral. Yeah.
+
+2 (35m 49s):
+It was a series of numbers, but it was very human in its own way that people felt like, oh, that's interesting. I never knew this information. And now this company is sharing it. And in a lot of ways, that's also what the internet's about is exposing things that you didn't know before.
+
+0 (36m 3s):
+So you put this infographic out and not, not surprisingly, it, it also irritated some people because they, you know, you, the accusation was, hey, this is a total oversimplification. Like this is not actually accurate. And, you know. Yep. I mean, one of the things to, to be fair that the infographic doesn't explain is the, the cost of manufacturing the shirt six 70 and then the wholesaler, the factory sells it to the retailer for $15. But then there's that, the 15 to $50 gap involves a lot of marketing costs. I mean, you could, you could make the case about like a, a pair of Gucci slippers, like there are factories in Italy that can make the same slippers for, you know, $60.
+
+0 (36m 49s):
+Why are they $900? Because you're paying for the brand. So that's the, I mean the, the costs, the associated costs at that point were, because these companies were building a brand and they had to pay for it.
+
+2 (37m 0s):
+Yeah. And they had wholesalers and they had profit margins if you're Gucci of 30%. Yeah. And we had the fortune of being small and at that time being very, very simple. Yeah. And so we just sold direct and shared our model and yeah, they didn't like it. But that's to your point, perhaps capitalism.
+
+0 (37m 23s):
+Yeah. There, there was a, the blog well spent wrote, this is a, a, I guess a fashion blog or, you know, consumer fashion brand. They wrote my issue with it. The graphic is, it's a dangerous oversimplification. Essentially Everlane is attempting to demonize any clothing company charging greater than 2.25% in manufacturing costs. And that's ludicrous. So you are, you know, you kind of create a stir. But you guys, it seems like that was part of, that was kind of the hope that that would happen
+
+2 (37m 53s):
+Without a doubt. That was fun.
+
+0 (37m 55s):
+Yeah. So you do the second run and you keep selling out shirts. And, and by the way, I mean your response to attacks from, from people who represented, you know, retail groups is like, listen, we're an online business and so we don't have to, there's no middleman. So at what point, you know, in, in this is two, now you're getting into 2012 and you're getting a lot of attention from obviously as you know, people are buying these shirts. You're getting immediate attention. At what point did you say, all right, we've gotta make other things besides t-shirts
+
+2 (38m 28s):
+That actually came I think December 1st, 2011.
+
+0 (38m 33s):
+Okay.
+
+2 (38m 34s):
+We had found, and again, the idea of Everlane was really a platform for going direct to consumer. Right. And so the strangest thing you would never expect, if you were to build a brand today and you start with a T-shirt, your next product would might be denim. Yeah. And then you might do sweaters, and then you might do button downs and build a merchandise a line appropriately. Our next product, because we had no contacts in the industry, was literally ties and bow ties,
+
+0 (39m 2s):
+Ties and bow ties,
+
+2 (39m 4s):
+Ties and bow ties made in a factory in the Bronx that manufactured everything for Brooks Brothers. Wow. And we sold them for $35 and we bought 1200 ties and bow ties.
+
+0 (39m 16s):
+It's a very unusual, you know, I'm, I mean, given how, obviously how thoughtful you guys were about t-shirts and about direct to consumer and talking to all these people in the apparel industry and talking to Warby Parker, like, it just seems like an, like a kind of a, just throwing a dart at a dartboard. Let's do bow ties. You are
+
+2 (39m 37s):
+Correcting. It's, it is weird. Yeah. Yeah. I don't have a great explanation for you other than I was, we didn't have a lot of connections and it was, we would have to wait six to 12 months to be able to launch a sweatshirt and a sweater and a button down, because that's how long it would take us to find the factory source the fabric. And our alternative was, we had a guy that could make ties and bow ties in two months and we just said, let's do that. It was always let's try it. If it doesn't work, move on.
+
+0 (40m 10s):
+And how did those do?
+
+2 (40m 11s):
+We never made ties and bow ties again. Let's just put it that way.
+
+0 (40m 14s):
+Yeah.
+
+2 (40m 15s):
+I think we ended up potentially giving some away.
+
+0 (40m 18s):
+Yeah. I mean the, the, the bow tie, like the Venn diagram of like hipsters and I guess cheap apparel and Brooklyn, I guess the middle of that is a bow tie, but it's not a big enough. Like there were, you know, right. There's a bow tie thing. You had like people with the, you know, handlebar mustaches and leather aprons and bow ties walking around urban areas for a while. But that wasn't a very long lasting thing. So I can't imagine like,
+
+2 (40m 49s):
+No, you know,
+
+0 (40m 49s):
+And you could really build a business on the bow tie.
+
+2 (40m 52s):
+I think it was just, we wanted to get things out the door and we had a factory and we said go. And indeed, other than us talking about this today, nobody who shops on Everlane dot com knows this story.
+
+0 (41m 9s):
+Yeah. You, I think your co-founder Jesse, left
+
+2 (41m 15s):
+One month in
+
+0 (41m 17s):
+One month in, not in 2012. He left in 2011. Yeah.
+
+2 (41m 20s):
+He left in December of 2011.
+
+0 (41m 26s):
+Why,
+
+2 (41m 26s):
+I'm sure you've had many of these conversations. The co-founder journey is, it's a challenging one because in some ways you're getting married to somebody, but then you're spending all this time and building a business with them. At the end of the day, for Jesse, what he wanted was to build a technology business. And what we moved away from was being a technology business and we moved into building a brand and that wasn't the journey he wanted to be on. And I commend him a lot for making that decision because I don't think a lot of people would be able to do that. This was even before we launched, he said, Hey, I'm gonna bow out. I'm gonna help you launch and then you need to find another tech person. And I remember that being so stressful and, and was fortunately able to find somebody, an individual named non you who was both an engineer and incredibly well-versed in fashion and style that became our head of engineering and was at the company for six, seven years building the team.
+
+2 (42m 22s):
+So it was, it was a very stressful period though.
+
+0 (42m 25s):
+But what's amazing to me is that he clearly already a year in you did not like what Everlane became known to for and what it became known as was not what you were at the time. You didn't like bake this into the beginning of like, we are going to be an apparel brand that does basics. Like that was one, or, you know, the transparent pricing was part of, but that was not, it was almost like I, to overuse this metaphor, you were flying a plane and building it and you were also selling things in, had passengers in the plane
+
+2 (42m 57s):
+And we're selling them anything we could, you know, bring into the plane basically.
+
+0 (43m 2s):
+So ever, so this was, this was really, it was not clear. Like you, you weren't really sure what you were even at that point.
+
+2 (43m 10s):
+The business model was clear, which was direct to consumer, but are we a fashion brand? Are we a basics brand? Are we a platform for products that's just a retailer? We didn't go into it with that idea. We went into it with how do we sell directly to the consumer high quality product and tell a story around it.
+
+0 (43m 35s):
+Okay. Did, did you, just outta curiosity, did you have, and I no, there's no judgment if you didn't, 'cause I've plenty of great companies who didn't do this, but did you, do you feel like you had baked mission, the mission into the, into the company from the beginning? Or would that come later
+
+2 (43m 52s):
+Spiritually? Yes. Written down. No, but you know, there was an external line, the luxury essentials under $100, your luxury good self for eight times what it cost to make, there was this spirit of let's build a brand that's honest with the consumer.
+
+0 (44m 10s):
+But but that would imply, and again, I'm pushing back only because, and it's part of my job, but I mean that would imply that the other, the other retailers were dishonest with the consumer. Is that, is that true? Is that what you were implying?
+
+2 (44m 25s):
+So you have a interesting distinction there because what started as honesty became transparency. Yeah. And that was the evolution.
+
+0 (44m 33s):
+Got it.
+
+2 (44m 34s):
+Okay. Because it, it to us felt dishonest. And then I think there was a point where we realized actually they're not dishonest, they're just doing what they're doing. But the vehicle that we can have that's different is transparency. And that's how that transparency graphic got born. And that's how we started to tell people, here's what we're making next. Do you want to vote on it? Tell us what you think of this product. Give us feedback. Everything was out in the open.
+
+0 (44m 60s):
+Yeah. And, and I guess kind of on, on the subject of, of what you're making next, I I guess as you're kind of looking for the next product, you land on backpacks next, which is interesting. We did a Herschel Supply company on the show not too long ago. It's a fascinating story about, you know, backpacks and, and why they went into that. So it was around this time really you go into backpacks thinking, okay, this could be our next thing. And Totally. And just outta curiosity, why backpacks?
+
+2 (45m 29s):
+I think exactly to what you said there was the moment of Herschel, there was a trend happening and we've had a connection to a factory
+
+0 (45m 39s):
+And your business model enabled this kind of quick pivoting. You could basically identify something that was hot, make it quickly, make a limited number, sell them out, then move on to the next thing.
+
+2 (45m 53s):
+Yep. And not only that, but we could pre-sell things, which, you know, wasn't a thing people could do back then.
+
+0 (45m 59s):
+And, and I have to assume, I mean that million dollars that you raised was not gonna be enough. I mean, how were you able to, to do the backpacks? Did you have to raise more money?
+
+2 (46m 10s):
+It was March, 2012, I believe. When we raised our next amount of money. We had been doing about a hundred to $200,000 a month, but selling out every month.
+
+0 (46m 23s):
+Hmm. It's pretty good.
+
+2 (46m 24s):
+Yeah, it was nice. It was a good, it was a good run. And then we went out to raise, I think we raised two and a half million dollars at that point, just because the business was working and we were in the early days of the D two C Boom. Yeah. And that allowed us to take the business to the next stage and allowed us to buy backpacks. I mean, one of the biggest costs for us at the time was inventory. Just buying new product. 'cause we didn't have great, what you call terms with factories. Right. It took a while to get us to a place where we could actually have a relationship with factories and pay them, you know, 60 days after delivery. A lot of times we were paying upfront on, and that was very expensive on
+
+0 (47m 5s):
+Upfront. Yeah.
+
+2 (47m 6s):
+Yeah. And then, you know, fast forwarding a bit to November 1st, 2012, we had launched backpacks. We were building a merchandising strategy. We launched button downs, silk shirts, and a cashmere. And so we built all this hype and we stayed up till 2:00 AM on November 1st, 2012, our one year anniversary. And at 2:00 AM we launched the products on the site and all of a sudden sales spike and we did at, at two in the morning, an entire day's worth of sales in 20 minutes. And we thought that the site was broken and something had glitched. And we then we verified every order by hand. And indeed people had stayed up till two in the mornings waiting for our Oxford's and, you know, silk and cashmere to launch.
+
+2 (47m 52s):
+And that was one of the, one of those moments that we said, whoa, we, we might have something here
+
+0 (47m 60s):
+When we come back in just a moment. Michael Rethinks Everlane's growth strategy and its approach to radical transparency. Stay with us.
+
+Mint Mobile (48m 10s):
+I'm Guy Raz and you're listening to How I. Built This. Give yourself the gift of insane savings this holiday season with Mint Mobile's best wireless deal of the year. Right now, when you switch to Mint Mobile and buy any three month plan, you'll get another three months for free. That's six months of premium wireless service for the price of three. Mint Mobile lets you order and activate from home while saving tons on phone plans, starting at just $15 a month. Seriously, I can't think of a better gift than turning an overpriced wireless bill into just $15 a month with Mint Mobile. I was blown away by how much money I was able to save each month by switching to Mint Mobile that is money back that I'm able to put towards going out to dinner with my wife and switching to Mint Mobile is really easy. I didn't have to change phone lines. I kept my same number, my contacts all imported over really easily. It was incredibly seamless. For a limited time by any three month Mint mobile plan and get three more months free by going to mint mobile.com/built. That's mint mobile.com/built. Cut your wireless bill to 15 bucks a month@mintmobile.com slash built.
+
+Sonos (49m 38s):
+Raise the bar of your entertainment with Sonos Beam, the compact smart soundbar for TV music and more. Enjoy panoramic sound for shows, movies and games when the TV is on and stream music podcasts and more when it's off Precision Engineered, then fine tuned by Oscar and Grammy winning producers Beam delivers Crystal clear dialogue and powerful bass. In fact, I have one in my house and it is amazing. It sounds a little like a cliche, but it does sound like you are there in the room with the performers when you listen to it. The setup is practically plug and play. The Sonos app walks you through getting started step by step, including syncing your TV remote, connecting your music services, and adding a voice assistant. I even did it myself and it took me, I don't know, like five minutes. There's a speech enhancement mode, which is perfect for when you're watching a movie and the characters are whispering or the action intensifies or there's a night sound which can kind of tone down loud effects when other people at home are trying to work or sleep. Head over to Sonos dot com and enjoy up to 25% off select products right now through November 27th or while supplies last.
+
+0 (50m 54s):
+Hey, welcome back to How I. Built This. I'm Guy Raz. So it's 2012 a year after launch and Everlane has done about $4 million in revenue. A year later they're up to 12 million. And the year after that they basically double it to $24 million in sales. Was that growth, I mean were you spending any money on marketing? Was it just, it's hard for me to believe that it was entirely organic.
+
+2 (51m 21s):
+It was almost all organic. It was, people were talking about the brand telling the story. Commerce is one of the oldest forms of communication and it's the, you know, it's a form of trade and it's such a backbone of culture and particularly in America, people love to buy things and tell you what they bought. Yeah. And so if you made things that were interesting and people wanted to talk about them, listen, we're not building iPhones, but talk about someone who did that well, or Nike, you know, it's like people line up for days. And in that way we were building things and had limited quantities and people were talk about it.
+
+0 (51m 56s):
+So as you were growing, I mean I have to imagine it became fairly easy for you to raise money. You probably had investors who were really desperately trying to get into this business.
+
+2 (52m 9s):
+We definitely had the opportunities and so we raised 25 million in total and we were profitable. And that was the year 2017, which was a hugely pivotal year for Everlane when we went from $53 million to a hundred million in one year.
+
+0 (52m 28s):
+Tell me about, I mean, before that time, I mean I have to imagine, 'cause this is a natural progression for certain types of companies, especially when they're doing well very early, is grow, grow, grow, grow, grow. And I have to imagine that was your view that we, let's just, let's just go crazy, let's grow this thing massively
+
+2 (52m 50s):
+Definitely. And it was the right decision, but the decision I would've made now, and I think everybody's making even today, is that when we hit a hundred and we were profitable, that it was the time to transition from growing what we call the top line, which is the revenue to growing the bottom line. So when we did, you know, called three 4 million of profit, the, the focus should have been how do we build and discipline and get this to 10 million next year and then 20 million the year after, et cetera, et cetera, et cetera, versus how do we grow the top line at the expense of the bottom line?
+
+0 (53m 28s):
+I mean, you, you start this thing in 2011, by the end of 2013, you've got 13, $12 million in sales. So you're running a, you know, a not a insignificant business now with, you know, 25, 30, 40 employees and you know, you were still a young guy. How were you learning about how to be a leader? I mean, I, I have to assume that at times you did it badly.
+
+2 (53m 54s):
+Absolutely. And I, I was 27, 28 at the time. What we did really well, and I guess what I did well was we built a very entrepreneurial culture. Blair, who was a creative at the team, said she her. One of our favorite lines was we have one founder and 60 CEOs. And there was this mentality that everybody contributed and everybody did every job, no matter how small. When we opened up, many years later, our first store people were at the store for four days in a row. Engineers, you know, helping set up a physical store. And these were engineers who were really technical and mostly spent their time in a digital world.
+
+2 (54m 36s):
+The part that was just the total mess was there were certain areas like marketing and creative that honestly I, we were trying to reinvent and I didn't. And it was hard to find the talent and I didn't know what great looked like. So I didn't know what a great head of design or a great head of marketing looked like. And so I'll tell the story. We hired at one point in 2015, we go from T-shirts to backpacks to let's literally go hire one of the greatest designers in the in the world. And we hired this one, Rebecca Bay, who came from a company called cos and then was actually the creative director of GAP for a year and a half.
+
+2 (55m 19s):
+And we built an office for her in New York. And I was just such a micromanager at the time that I think I drove her so nuts. She made it, she made it about a year and a half, and she really created a new foundation of design and we're good friends today. But it was a definitely a tough period of over micromanaging.
+
+0 (55m 40s):
+What did micromanaging look like?
+
+2 (55m 43s):
+Hey, why aren't we doing this? Why aren't we doing that? Just constant questions. It's, it's managing the process versus managing the outcome and not letting someone as great as her do her job.
+
+0 (55m 56s):
+So I wanna ask you about the, the other side of the brand, because you're, you're big. I mean, the, at your core it was radical transparency around pricing. Yeah. But that would, that would evolve, that would grow to radical transparency about other things too. Not just pricing. It, it grew into transparency around where the clothing is made, how it's made. This is beca this became much more important to consumers in the 2000 tens as people were learning about, you know, where their clothes were made, what the environmental costs were, et cetera. Tell me about how you came to this view about let's, hey, let's tell everybody everything about how we make our stuff and what the conditions are like in the factories.
+
+2 (56m 40s):
+In 2013, there were a couple of key events that happened for us. One is we had started to manufacture in China, and we really wanted to understand are the factories we working, we're working with in China, high quality. And myself and a few of us went to China and we basically live blogged the entire week talking about the factories, sharing the stories inside so people could see what was going on. Also, on every label we would name the city where things were made, not just the country, we wouldn't say imported. And then of course, in 2013, there's the unfortunate collapse in Bangladesh of Rona Plaza, and people realized that perhaps some of the clothes they're wearing was made there.
+
+2 (57m 25s):
+And that connected the dots for us of let's not just live blog. This, let's connect every product we make with every factory we work with. And also the cost. And it was essentially like we're giving away our secret sauce. Because normally if you're another brand and you wanna know where someone makes things, it's almost impossible. You can't find out where a luxury brand makes its products. But here we were for the industry and for the consumer saying, this T-shirt, or this bag was made exactly in this factory, and it cost us exactly this much.
+
+0 (57m 59s):
+But at the same time, that means you are, you gotta, you're gonna be held to a different standard. And any slip up, you're in trouble. Like your factories better be ethical, your pricing better be ethical, your environmental record better be, you know, I mean, if you're, if you're gonna put yourself out there, you, you also are gonna make yourself vulnerable to charges of hypocrisy if that, if you're not hitting those standards all the time.
+
+2 (58m 28s):
+Yeah. In 2017, something happened, which is we, we've launched denim, and by all measures you should have launched denim. Like we should have launched denim in 2012. Yeah. It took us a while. And part of that while was that denim just as hard to fit. And then we didn't know how we were gonna do it differently. And what ended up being the difference was that we found this incredible factory called Tex run by wonderful human Sanjeev, where they take the denim. And denim is a product that you actually die, and then you unie to get that faded look as if you've been working through the denim over a period of time.
+
+2 (59m 12s):
+And they take the dye stuff and detoxify and turn it into actually bricks that you can use. And that really opened up a whole new path of what is our impact on this world? And we're gonna start moving towards sustainability or environmental consciousness.
+
+0 (59m 37s):
+Did that actually, did that matter to consumers? I mean, I know people say it does, but I mean, what, is there evidence that consumers care?
+
+2 (59m 46s):
+I believe we have some data to support that. It creates resonance with the brand. But when it comes to the individual buying decision of, do I buy this coat versus that coat, the answer is usually not so much, especially today. But they do want to participate with brands that do better for this world and that that is true.
+
+0 (1h 0m 10s):
+Hmm. But how much, and Michael, I'm not, and, and I'm asking this question not to sort of accuse you of or of Everlane of like doing good just because of, it's good for pr, but I'm, I am curious about, about certain things and, and not just Everlane and other companies do it too. Yeah. Isn't it enough to just say, you know, our value proposition is we're gonna make a great high quality product at a fair price and that's it. I I, isn't that enough? Or do you think that it has to be more than that? That it's gotta be ethically made, ethically sourced?
+
+2 (1h 0m 48s):
+I used to, I think now what I would say is it's whatever's right for you. I have a lot more admiration and respect than I used to for people that, for these luxury businesses that create incredible, beautiful product, tell beautiful stories and make their 30% profit. And that's totally fine. It was also this respect for others that perhaps changes as you grow up and face your own set of challenges and realize maybe there's a reason they do things the way they do, because as long as they're doing, to your point, capitalism, but as long as they're content and it's working for them and they're not inflicting harm and other people are into it, power to you.
+
+0 (1h 1m 31s):
+Up until that point, you mentioned 2017, you hit profitability, you're doing a hundred million dollars. And so the, at that point it was like, okay, let's just grow. And, and looking back on that time today, you would've made different decisions. You would've focused on increasing the, the bottom line rather than, than just focusing on the top topline. As, as more competitors started to jump into direct to consumer or, or you know, online, let's say retail. Did you start to see the business slow down?
+
+2 (1h 2m 3s):
+I think that's hard to say. I think it's whenever you grow a hundred percent, you can't grow like that forever. But I mean, in the next year we grew, you know, 50 to 70%. And the next year after that we grew another, you know, 30 to 50%. Yeah. So it was, wow, this is an incredible run. Yeah. I mean we, we had these opportunities where we launched everything from an entire collection of outerwear made from recycled materials, called it Renew. We launched stores in San Francisco, New York, LA
+
+0 (1h 2m 36s):
+Yeah. You launched Brick, you launched brick and mortar stores.
+
+2 (1h 2m 39s):
+Yep. We didn't think we would need stores. And, and this is one thing I would say we did do well, is we listened to the consumer and we had these popups and showrooms and people were showing up and they were asking us to open up a store. And so we listened and it worked tremendously well.
+
+0 (1h 2m 55s):
+But, but as you focused on growth, the, the returns, you also had to compete against Uniqlo and, and you know, even Amazon was getting into apparel. So did you start to see you, you've gone from profitability presumably to losing
+
+2 (1h 3m 14s):
+Weight, break even, break even, and then losing a bit of money in 2019? Nothing, you know, when you think about it, it was nothing extraordinary because it was the days of venture that says, oh, there's the business to be had here. And so a lot of people fund and then, you know, people were willing to lose money and drive growth. And so we, we started to manage against that and started running paid ads and the business continued to grow, but the profit didn't grow as fast because we were investing more in marketing to drive the business.
+
+0 (1h 3m 47s):
+So one of the, I mentioned this earlier, which is when you, you know, when you are focused on doing the right thing, which I think is important and, and something that as a show we support and, and want businesses to do, but it also makes you target, right? And so in 2019 there was a, a rating company called Good On You, and they gave you two out, two out of five rating for your, you know, they, because they, they said that you weren't tracking greenhouse gases and that, that you weren't guaranteeing living wages or reducing water use. And there were, people were like, yeah, see that company, they're the do-gooders and now they're, you know, they've been exposed or you know, something like that.
+
+0 (1h 4m 31s):
+And there were people who said that.
+
+2 (1h 4m 34s):
+Yeah, in some ways I remember the first reaction around that being like frustrated and upset. And then the next reaction was, great, let's do something about it.
+
+0 (1h 4m 45s):
+So what'd you do?
+
+2 (1h 4m 46s):
+We started tracking our greenhouse gases. We started working with our factories on how do we reduce our emissions. We made a commitment to remove all virgin plastic from our supply chain. We're 95% of the way there. We've replaced some 70, 80% of our wool to be recycled. Same thing on Cashmere. So the amount of product we're using that's now recycled and the way we're doing everything to lead across all metrics. And I think doing a very good job of it now.
+
+0 (1h 5m 20s):
+Yeah. Alright. You're, you know, plugged in along and then bam, covid happens and you're a little bit different than other retailers 'cause you, you weren't selling office clothing necessarily, but this, this proved to be, I think this is gonna be an understatement, a an extremely challenging time for Everlane.
+
+2 (1h 5m 42s):
+First I would say thanks guy for reminding me about this wonderful time in my life. I really appreciate it, my job. And, and then I would say walking into 2020, we had this great plan. We're gonna start investing in being a brand instead of just a price transparency retailer. And then we had, we're in the midst of fundraising by the way. 'cause we needed money for inventory and for retail, which was working really well. And then Covid VID hits, and it is just to every retailer, I mean, it was a brick wall. We started to look at the, well actually we were in the midst of fundraising and we don't have enough cash. You know, never walk into a crisis low on cash. We need the cash.
+
+2 (1h 6m 23s):
+Yeah. And so we started to have to cut costs and you know, some companies did it later. We did it pretty early on. And that started to set a pretty fast tone of how do you manage a community that was so tight knit at that time through crisis?
+
+0 (1h 6m 41s):
+Let's talk about a couple of, in many crises that happened in the midst of this, right? One was a group of employees were let go. They claimed because they had intended to unionize and that they wanted to discuss their salaries with each other in the spirit of radical transparency, which they were discouraged from doing it. Everly, let me just caveat this by saying, me personally, I think, I think radical transparency can be hugely problematic. I don't necessarily think it's good for everybody to know about everybody else at all times. I think there's value in some discretion, but that happened at Everlane and all of a sudden people are saying, Hey, this is the radical transparency company.
+
+0 (1h 7m 28s):
+They're not allowing transparency.
+
+2 (1h 7m 30s):
+Yeah. And I I you are completely right. And I had always said, transparency's great. And then it also has downsides. I mean, I don't even, it's hard to trust the government, but at the same time, I don't want to know every decision that the government's making all of the
+
+0 (1h 7m 44s):
+Time. No, I don't wanna know. The sausage is always made. 'cause sometimes It takes backroom deals. It has to. Yep.
+
+2 (1h 7m 50s):
+And also It takes time to make decisions. And if you're informed about every decision, every time, all you're gonna do is induce anxiety,
+
+0 (1h 7m 56s):
+P paralysis, by the way, nothing would get done.
+
+2 (1h 7m 59s):
+Yep. But for us, it was, Everlane, to your point, was on a pedestal. We were far from perfect in a lot of areas where we, we had a head of hr, but not a chief HR officer for a company with a few hundred people. And so the processes weren't there. And without processes, you create a place where things aren't always seemingly as equitable or fair. And that came to bear for a lot of other sort of companies of our time, because we had all ushered in this, Hey, we can build a company, do good, be transparent, and treat everyone well, our customers, our employees, our factories.
+
+2 (1h 8m 39s):
+And then I covid happens and it's sort of like, how do you, how do you do Right anywhere when everything goes wrong?
+
+0 (1h 8m 46s):
+I, I've been thinking a lot about what's, what happened with a lot of companies and, and still is happening to some extent. They started with this premise that you're part of a mission and the mission is transparency and openness, whatever it might be. It's, it's making the world a better place. And employees believed that that was their role. And I wonder whether some of that tension, 'cause you had employees were really mad and, you know, and lots of companies did. And I wonder whether some of that comes from that idea that, that all of a sudden they're like, wait, my mission is to make money for the company. I, I don't know. Is that, does any of that resonate with you?
+
+2 (1h 9m 25s):
+It completely resonates. We we're in a massively funded environment where profit didn't matter to an environment where all of a sudden profit did matter and top line sales are getting challenged for a lot of people, especially the first three to six months of Covid. Yeah. So people are making tough decisions and it was the first time going from infinite opportunity to wait a second, we have to make some tough decisions. And by the way, those tough decisions are about employees. And they go, well, I was already might have been a little frustrated about this and that that happened in the past and now I'm just pissed. Yeah.
+
+0 (1h 10m 3s):
+I don't necessarily blame employees, especially younger employees, for feeling that way because they were promised a mission.
+
+2 (1h 10m 12s):
+Completely agree. I don't blame them at all. And I listen, I think that's the opportunity is to be clearer on expectations. But in a lot of ways also employees have made it clearer on what, what they expect both ways. That expectation is very, very valuable and very helpful.
+
+0 (1h 10m 31s):
+You came outta Covid and you stepped down as CEO to become executive chairman. Yep. And, and I imagine that was a, a relief, a little bit of a relief too. That was probably the toughest two years of your career at Everlane.
+
+2 (1h 10m 48s):
+Yeah. It was a time where Brian, who was on our board, and Betsy had spent a lot of time with me saying, is this really what you wanna do for the next five, 10 years? And I think that's an important question because you've probably spoken to, so, I mean, you have spoken to so many founders here and some are lifers and some are not for, there was a moment in time where I imagined my life being a lifer. Yeah. And the more I thought about it, I was like, wait, I don't, I'm not the best person to run a fashion brand that's sustainable So for us, continuing to double down on the environmental side of what we do while building a growing and profitable business is really critical.
+
+2 (1h 11m 31s):
+And it's, that's where I go back to, I still am involved in the company quite closely and it's a fun and self-reflective experience to be able to exit something but still involved in it and watch that almost separation. I imagine one day it's like having kids and letting them go to college.
+
+0 (1h 11m 53s):
+Yeah. But, but I wonder just, but just from a personal side, it's your whole identity, right? Yep. And so did you struggle with that? I mean, I mean, all of a sudden you're going from like every, you're the guy, everyone's calling. You're the person that you are making the final decisions to all of a sudden your phone's not ringing as much.
+
+2 (1h 12m 14s):
+Right. It rang in a different way, but yeah, I struggled with it. But also, and this is, I'm sure you say this of many founders, but it's also true of anyone that works at any company for a period of time that you can never take away that period of someone's life. You know, you're still the founder or you're still the creative director of a company, or you're still the, you help build something
+
+0 (1h 12m 37s):
+And Oh yeah,
+
+2 (1h 12m 37s):
+Yeah. And so now it's just a part of my identity. It's not my identity.
+
+0 (1h 12m 42s):
+When you think back on, on the journey that, that you've been on, you, you did very well and still own a considerable amount of this company, and so it's made you wealthy and successful. How much of, of, of where you are, how do you attribute to luck? And how much of it do you think is to do with, with your skill and your intelligence and your work? Hard work?
+
+2 (1h 13m 4s):
+It's hard to know. I, you know, I, somebody once said, your goal is to do as many things as possible to get yourself in a place of luck happening to you. And so when you asked that question, it was so weird that we launched ties and bow ties, but at the same time it was this unfettered attitude of just go try things so that luck could happen to us. So I think part of it is being quick and thoughtful and moving and understanding the world around you to put yourself in the pathway of luck as often as possible.
+
+0 (1h 13m 40s):
+That's Michael Preysman, founder of Everlane. By the way, if you search the brand's Tumblr archive, you can actually see an example of one of their ill faded bow ties. There's a picture of one of them. It's kind of a nice looking navy blue one with Dixies on it. And it's kind of a shame that they're no longer selling them because they're pretty cool. Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show. And as always, it's free. This episode was produced by J C Howard, with music composed by Rum Ouie. It was edited by Neva Grant with research help from Sam Paulson.
+
+0 (1h 14m 19s):
+Our audio engineers were Gilly Moon and Robert Rodriguez. Our production staff also includes Casey Herman, Kerry Thompson, Alex Chung, Malia Aga, John Isabella, Chris Masini, Carla Esteve, and Catherine Cipher. I'm Guy Raz and you've been listening to How I Built This. If you like How I Built This, you can listen early and ad free Right now by joining Wondery Plus in the Wondery app or on Apple Podcasts Prime members can listen ad free on Amazon Music.
+
+0 (1h 14m 59s):
+Before you go, tell us about yourself by filling out a short survey at Wondery dot com slash survey.
+
+6 (1h 15m 7s):
+Hey, I'm Michelle Beetle.
+
+7 (1h 15m 8s):
+And I'm Peter Rosenberg.
+
+6 (1h 15m 10s):
+Hey Peter. Tell the people about our new podcast,
+
+7 (1h 15m 13s):
+Right? It's called Over the Top and we cover the biggest topics in sports and pop culture using Royal Rumble rules. That means we'll start with two stories, toss one out on its ass and dive into the other stories with ruthless aggression. Oh,
+
+6 (1h 15m 26s):
+But it never stops because every 90 seconds after that,
+
+7 (1h 15m 34s):
+By God whose music is that, another story comes down to the ring, rinse and repeat until we arrive at the one most important thing on planet earth that week.
+
+1 (1h 15m 46s):
+Yeah,
+
+6 (1h 15m 46s):
+Follow over the top on the Onery app or wherever you get your Podcasts, you can listen to over the top, early and ad free Right. Now by joining Onery Plus.
+
+7 (1h 15m 55s):
+For the record, this is not a wrestling podcast.
+
+6 (1h 15m 57s):
+No, no. But it is inspired by wrestling.
+
+7 (1h 16m 0s):
+Isn't everything inspired by wrestling Beetle? Fair point. Yeah.

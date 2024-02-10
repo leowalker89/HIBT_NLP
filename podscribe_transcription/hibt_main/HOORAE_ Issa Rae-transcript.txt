@@ -1,0 +1,791 @@
+0 (0s):
+We live in a world, a country, and a moment in time where there's so much important news and it is constantly changing. That's why up first is here for you. It's NPRs daily morning news podcast. In about 10 minutes, you can start your day informed, listen to up first on the NPR one app or wherever you get your podcasts
+
+1 (20s):
+Here at how I built this slack is our digital HQ. It's one digital space that brings together all of our people and all of the tools we need are built in having slack makes collaboration easier and more flexible. So we're a lot more productive. Our team works remotely from locations across the country. Working in slack channels has been a game changer. We share ideas, our feedback episodes that need to be approved and all of it is streamlined for everyone to see rather than getting lost in an inbox. More flexibility, faster, everything. Slack is your digital HQ. Get started at slack.com/dhq and tune into my new podcast.
+
+1 (1m 2s):
+The great creators available where you are listening right now presented by slack where the future works. Are you a small business owner looking to advertise on a streaming platform with some of the hottest shows on TV, Hulu ad manager, lets you get your brand on Hulu for as little as $500 per campaign. You can choose your audience, set your budget, upload your ad and track performance in near real time. It's simple. Go to Hulu ad manager.com/stream to get started. Hey, it's guy here with a very exciting announcement. I have a brand new podcast it's called the great creators in the launches on September 20th and each week I'll be interviewing some of your favorite actors, comedians, and musicians about their lives, their work and where they find creativity.
+
+1 (1m 52s):
+So please check out the great creators it's available, wherever you find your podcasts. And please do subscribe. So you won't miss any of the episodes in our first episode is with Steven Colbert. So check out the great creators, wherever you get your podcasts. And we'll include a link in the show notes to this episode two. Thanks now. Enjoy how I built this.
+
+3 (2m 19s):
+I think that's also the embarrassing part of working in Hollywood is you get these announcements of things that are happening and the support and then they just disappear. And while there's not an announcement that it's not going, you still get those questions,
+
+1 (2m 33s):
+How's it going? Yeah.
+
+3 (2m 35s):
+How's it going? What script? Yeah, how's Shonda. Ah, it's just like, oh yeah, just different direction. You know, I was just working on a lot of things. So, you know, maybe just don't ask me maybe just don't do I ask you about your work every day? No. Do I ask you how your projects going? But no, like it was just, it was, it was really devastating and I, I thought it was over for me. I thought nobody's gonna wanna work with the failure, who couldn't make a show with Shauna rhymes, who couldn't like make the layup
+
+1 (3m 12s):
+Welcome to how I built this a show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Raz and on the show today, how Issa Rae refused to wait for permission to make TV and made her own and how she turned her YouTube content into a brand to hit TV shows and eventually a Hollywood production company. There's something to be said about thinking of a startup, like a sandbox.
+
+1 (3m 52s):
+Most of us learned our earliest skills in the sandbox. We learned how to use a shovel. We learned how to search for buried treasure. And in my case, at least I learned not to eat sand anymore, but the point is it was a place to experiment. Even as toddlers. The concept of the sandbox in business is important because it can be a place where you can try a bunch of stupid things out and sharpen them over time. Before anyone really notices. If you remember a recent episode about Dogfish had brewery Sam Calla Joni's sandbox was throwing any fruit. He could find into his batch of homemade beer.
+
+1 (4m 33s):
+He'd invite friends over and let him try it. Sometimes it was great, but mostly it wasn't. And Sam was doing this long before he went on to build his craft beer business for Issa Rae. Her sandbox was making videos and throwing them up on the internet. Sure. It would've been great to make something with the backing of a major Hollywood studio, but when you're young, inexperienced and unknown, very few studios are interested from a very early age, like age 13, Issa Ray was writing scripts. She even submitted some unsolicited scripts to sitcom producers in LA. In the 1990s in college, she recruit friends to act out her ideas and video them with a camp quarter.
+
+1 (5m 19s):
+She checked out from the library and she started a web series that if you look really hard, you can still find on the internet. Very few people saw those videos. And as you will hear Issa cringes just a bit when she thinks about those videos today, but none of that matters because she was playing in a sandbox, building up skills and confidence and techniques that would serve her. Well, 10 years later, when she finally did get a chance to do it on a Hollywood level scale at age 22, she wrote an entry in her diary, which would ultimately shape her entire career. She wrote, I am awkward and black and over the next few years, Issa discovered there were a lot of women who felt the same way and it would inspire her to make a web series based on this concept called of course the miss adventures of awkward black girl.
+
+1 (6m 14s):
+Now it didn't cost much to make, but awkward black girl eventually got noticed by some influential artists, including Pharrell and Shonda Rhimes that low budget web series would lead to a deal with HBO. And Issa's first major TV show insecure, which ran on HBO for five seasons today. Issa is one of the hottest young producers in Hollywood. She's built a production company that has audio and video and film divisions and a talent management arm that works with rising artists. And she's just getting started. But the path to success as you will hear, was filled with lots of rejection, lots of failure and endless uncertainty.
+
+1 (6m 58s):
+Issa RA was born in LA and moved around a lot as a kid. Her dad was from Senegal and the family relocated there for a few years when Issa was young, then the family moved back to the us where Issa attended grade school in Maryland before heading back once again to Los Angeles, her dad was a doctor and opened up a family practice there.
+
+3 (7m 20s):
+Yeah, I remember him, you know, he opened this practice in Inglewood and I remember visiting it. He had maybe like a, a launch party. That's not what you call it, but it was something
+
+1 (7m 35s):
+The medical practice, lunch party. Yeah.
+
+3 (7m 37s):
+It was like a warming, an office warming party. And I just remember seeing it decorated to be catered to kids. And I thought that that was super beautiful. And you know, it was in this neighborhood that was, he was servicing predominantly black and brown patience and it was just like, oh my dad built something. Yeah. From the ground up. This is, that stood out to me as, you know, something that was distinctly his and special.
+
+1 (8m 4s):
+He's a pediatric specialist. Right. Is that right?
+
+3 (8m 7s):
+Yeah. He's like a family practitioner, but yes, he's a pediatrician
+
+1 (8m 10s):
+Which is always really helpful to have in the family.
+
+3 (8m 13s):
+Oh. A hundred percent. But also he's the most dismissive of any, any element we may have cuz he is just like, he's seen it all. So
+
+1 (8m 23s):
+He's seen it all,
+
+3 (8m 24s):
+But it's, it is really helpful. Like even just the other day I was like, ah, I have this thing, but if it doesn't go away in three days, I'll just, I'll ask my dad what's up and he's, if you're worried he will ease your worries. So that's the convenient part.
+
+1 (8m 37s):
+That's actually, when you say dismissive, actually that's a probably surprisingly comforting. Yes. Like, oh yeah. So big deal. A hundred percent. Just go, go to work
+
+3 (8m 44s):
+Exactly that if, if he's concerned that I'm concerned.
+
+1 (8m 49s):
+Alright. So the whole family moves out to LA and you start middle school there, a magnet school that was a sort of a science focus, magnet school. Were you a science focus kid?
+
+3 (9m 1s):
+No, but my dad, again, you know, he was a doctor and so I, and he was very clear about how proud he would be if one of us became doctors. So for me, I was like, it's gonna be me then. Of course I'm gonna make him proud. I wanna be a doctor too, just like him. And of course even seeing his practice, seeing his name yeah. On the clinic was special going to school, going to middle school and being like, oh, your last name is mispronounced, Diop joke. But your is your dad like, is your dad my doctor? And that was special to me. So for me that was the vanity of it might have kind of stoked my interest in science and medicine.
+
+1 (9m 44s):
+Yeah. And I guess I should mention Ray is your middle name, your last
+
+3 (9m 47s):
+Name? Ray is my middle name. Yes.
+
+1 (9m 50s):
+Tell me about sort of home life. Like, like cultural life was, was Senegalese culture, a big part of, of your upbringing, the food you ate or celebrations or even communities that you, your family spent time with?
+
+3 (10m 4s):
+Yeah, definitely. It was, it was, I would say perfectly balanced because my mom was, my mom was Christian, my dad's Muslim and she's from Louisiana and he's from Senegal and by way of living in LA, we had a lot of relatives come visit us. But Senegalese culture is such that if someone knocks on your door from Senegal and wants to stay with you, you have to let them they're in. Yeah, they're in so a lot, we had a lot of Senegalese relatives staying with us over over the years.
+
+1 (10m 39s):
+What, how did you become interested in acting? Did that start in high school?
+
+3 (10m 43s):
+That actually started in elementary school. It started in Maryland. I remember the exact moment was being cast as Demetrius in our fifth grade play. And I was like, I'm the only girl cast as a boy, but this play is kind of cool. And when I'm on stage, people are laughing in a way that I intend them to. And I feel good at this.
+
+1 (11m 6s):
+And did you, I mean, when you were on stage, what was it about? I mean, because it's, it's scary to get on stage as a kid. And is it as an adult? Right? Was it, did you feel comfortable in front of people performing?
+
+3 (11m 20s):
+I did. I didn't feel that fear as a kid. Like I definitely feel, feel that fear as an adult more than
+
+1 (11m 26s):
+Age. Yeah. Cause we're more, we're more afraid of being judged.
+
+3 (11m 28s):
+Absolutely. And kids, you're just like, oh our we're doing you a favor. Our teacher told us to perform and we're entertaining you. So you're happy that we're here and there's just an escapism and that I've always admired about trying on someone else's personality, trying on someone else's skin and you know, it's people talk about it all the time. It's really liberating to just not be you for a moment to be in someone else's head. Yeah.
+
+1 (11m 56s):
+What did you do any plays in high school?
+
+3 (11m 58s):
+I did. I did all four years. I had an amazing drama teacher who was really intentional. It was a Jewish drama teacher who was intentional about making sure that we were well versed in, you know, some of the black and Latino playwrights. And he just introduced me to a whole new world of theater and was so passionate about it.
+
+1 (12m 21s):
+And when, when you were in high school, did you already start to think about maybe that could be a profession?
+
+3 (12m 27s):
+Yeah. When I was in middle school, when I moved to LA, I was already writing. I was writing a lot.
+
+1 (12m 33s):
+Where, what were you writing?
+
+3 (12m 35s):
+Well, I was writing tele plays. I had the opportunity, you know, I was obsessed with television starting in elementary school. Like I had a lineup, I had a program. I knew what I was watching at a certain time, so much so that my mom had to condense. Like, you can only do an hour, two on weeknights and then it became a half an hour, but I was still sneaking. And that means that I was catching up on weekends and I just wanted, as soon as I found out we were moving to LA, I was like, oh my gosh, LA is where Hollywood is and where TV is. Maybe this is my chance to be able to write. And my childhood friend had tickets to MOIA a taping of MOIA and to sit in that live studio audience changed my life.
+
+3 (13m 21s):
+And I got, I won a teleplay I wanted a teleplay of that episode.
+
+1 (13m 27s):
+You won. Right. This is Moisha was on UPN, I think in the nineties. Yeah. And, and you went to go see a live taping of it. Yep. And they would just give away like the, the, the paper script, every like to somebody, somebody in the studio audience.
+
+3 (13m 42s):
+Yes. And I got one and in my hands was the blueprint of how to, to write us ACOM. And I studied that front and back.
+
+1 (13m 53s):
+Yeah. I mean, that must have been amazing. This is pre-internet like, it was the ability to just get that kind of information. Wasn't it wasn't available. Absolutely not. So you get this hard copy of an episode of Moisha and you're like, wait, this is amazing. This is how it's done.
+
+3 (14m 10s):
+This is how it's done right in front of me. And I got to see it play out and I got to, I remember the movements and the episode's gonna air when it airs and then I'll be able to like follow along. And it really was like, I started writing right away.
+
+1 (14m 23s):
+So you would look at this. So you could see this script, cuz I, I know you've written a, you've talked a little bit about this in your book that came out in 2015, about how like nineties television really just, I mean, it was, it was the right time and place cuz you were, that you were the age where you were watching a lot of TV and there were all these amazing shows on including Moha that you, you loved. And then you had this template to kind of plug in your story using this, this as you write the blueprint. Right. And what were, were you tell me like what you started to write, what did, what were the stories that you were starting to write?
+
+3 (14m 57s):
+Well, I did one original, so stupid one original sitcom called Ronnie about a middle school boy living in LA trying to avoid gang violence. Cuz I had seen south central a short-lived sitcom that one of my heroes, Gina prince Bythewood wrote for,
+
+1 (15m 18s):
+She also did love and basketball
+
+3 (15m 19s):
+I think. Right? Yeah, she did. Which also changed my life. So that was it. I was trying to make a funny but dramatic sitcom and then Cosby came out. I was like, I gotta be commercial. Like, you know, I can't just go out the gate with an original, you know, I have to, I have to pay my dues and show that I could write for an existing show. I don't know where I got that from. But Cosby had just come out with his CBS to come and I wrote an episode of that.
+
+1 (15m 47s):
+And I think your episode was called tongue ring. Is that right?
+
+3 (15m 52s):
+Wow. Yes. Yes. It was, it was about, it was about Erica Alexander's character getting a tongue ring and Cosby's reaction to that because tongue rings were all the source of judgment
+
+1 (16m 6s):
+And it was radical. Definitely very radical in the nineties.
+
+3 (16m 9s):
+Yes it was.
+
+1 (16m 11s):
+And did you, and you sent that to CBS, right?
+
+3 (16m 13s):
+Yeah. And my grandmother taught me cause she was very encouraging. She taught me how to copyright it. The Bootle way to make sure that no one stole my idea by mailing it to myself first. And then, you know, I did my due diligence and then sent it out with the cover letter as well.
+
+1 (16m 29s):
+Oh wow. This is like before people, people had legal zoom, right? Like now people that's so smart, so you mail it to yourself, then you could prove that it's your IP and then you send it. And, and did you ever hear back from them?
+
+3 (16m 41s):
+Oh yeah, for sure. I got rejection letters, which I thought was really generous. Wow. Because you know, they can't take unsolicited scripts. And so right in my mind that wasn't, that wasn't a rejection of my work. So it was still, it was just like, oh I need, I need an agent and I'm 12, 11, 12. So I I'm not there yet. And I kind of just gave up on it.
+
+1 (17m 4s):
+Who would you, who would you allow to read your stuff when you were in high school?
+
+3 (17m 8s):
+I was always, I was definitely protective about letting people read my stuff.
+
+1 (17m 12s):
+Cause it's really personal.
+
+3 (17m 13s):
+It is. And you don't want yeah. And even now I feel that way. Like I don't want it. I don't want any negative energy. I don't want anybody to tell me it's not good or that it doesn't resonate with them. It's always better when you feel good about it. Like that moment when you finish. And you're like, man, I did it and I, I messed with it. I love it. Like for someone else to taint that I was very aware of, of that and really insecure about that. And I remember I did meet or let like my, I let my high school best friend read one of my scripts and she was really, she was positive, but she was just like, is this about you? And I didn't like that question because it was like the main character that I had written was, you know, kind of based on me and was a projection of a lot of my insecurities about myself.
+
+3 (18m 3s):
+But her asking that directly, I was like, you you're supposed to like follow the character. I wrote about a very specific character and I just didn't like that feeling. And I don't think I let anybody else read what I had to write until I had to. I absolutely had to. Hmm.
+
+1 (18m 20s):
+So I know, I know that that after you finished high school, you went, you went to Stanford for college. And, and how did you feel as a student at Stanford at that time? Cause I've, I've seen you quoted, you know, kind of talking about it, how it, it just wasn't diverse, right? I mean, you get to this place, it's 2003, of course it's this world class school with all these resources and computer labs and great professors and all this stuff. But, but, but it sounds like maybe at least initially you felt isolated there.
+
+3 (18m 53s):
+I, well, the opposite. I think I, I isolated myself in, in a bubble because I was used to being around, you know, predominantly black people. And ultimately I just didn't really, I wasn't interested in being outside of that bubble and really sought like my community. And so I found myself like really just craving what I had and what I grew up with and the drama department at Stanford was not as catering to people of color. Yeah. As my drama teacher was. And so like even the productions that were putting on didn't really appeal to me, I wasn't a big musical person.
+
+3 (19m 36s):
+Right. So I was just like, Ugh, this is not for me. But luckily a girl was, had started like this theater company just to put on her own play and she put on a hip hop and cast me as one of the leads. And that experience was incredible just to watch her pull the resources together, to make it happen. And also seeing that she was an amateur in the space, it just made it like less intimidating for me to feel like I could do it to.
+
+1 (20m 9s):
+But it sounds like from, from what I've read, like that community of friends that you had, that was kind of the beginning of grinding through ideas that would eventually, you you'd have to go through that to get to what you would eventually get to. Like you really started to, I mean, you mentioned acting in theater, like you mounted a, a performance of school days. Like you were, you put on a stage adaptation of, of that spike Lee film.
+
+3 (20m 34s):
+Yeah. That was my first production and the community behind that. Like some of the people even just in that play that helped me produce it, that were in, it are still heavily part of my community right now. But yeah, that started the, the run of four years of putting on productions, like terrible productions, but still productions, but
+
+1 (20m 54s):
+Still, yeah. Well you, I mean, there's no way that, that you get to a place where with zero experience directing and producing and you're gonna do it well, like, and that's the place to do it right when you're 18, 19 years old to try it out. And that's how you learn how to do it. Presumably.
+
+3 (21m 10s):
+Absolutely. And I, and I'm, I really credit Stanford for being such a welcoming place to do that. And I think it was so welcoming because you know, that wasn't the, the focus I really wanted to go to NYU and there's no way in my mind that I would've been able to like fail or suck, I'd say as hard
+
+1 (21m 31s):
+Because their theater program is so
+
+3 (21m 33s):
+Elite, you know? Yeah. And their film program and all that, you know, that people go there who are extremely talented and kill it. And I feel like I might have been intimidated, but to do something like that at the school where that's not, the focus made things increased my confidence,
+
+1 (21m 54s):
+As you can imagine, I hope this isn't mortifying to hear. I've watched a lot of your videos from college.
+
+3 (21m 59s):
+Oh my God. What you know,
+
+1 (22m 4s):
+They're available to see. And, and they're fun. I mean, they're fun. You have to, as you say, like, I'm sure part of you is sort of embarrassed to, to see them, but, but like you can also see the beginning of, of a performer and, and a writer developing and you would do this, like you would start to you and friends would just kind of make videos of songs and you would upload it to the internet.
+
+3 (22m 25s):
+Yeah. Cuz it just felt like such a, felt like such a small community. You know, it felt like nobody's thinking nobody was thinking about the longevity of the internet in those days. Yeah. You just weren't when you're uploading a picture, when you're making a video called F U B, you know, like you're not thinking about the fact that this will live on and ultimately which happened, a friend of mine was in that video and was like, girl, I'm trying to get jobs. Can you please take this video down? Like we're outta college. It's over.
+
+1 (22m 57s):
+And would you, would you, would you like, cause this is pre iPhones too. Would you just film it on like a camcorder?
+
+3 (23m 2s):
+Yeah. A camcorder that was readily available in our school's library. I constantly check that camera out just to record and then yeah. Then use the, the firewall cable to put it on my laptop. Oh
+
+1 (23m 17s):
+Yeah. The fire wire
+
+3 (23m 18s):
+Fire wire. Thank you. Jesus. It's so long ago.
+
+1 (23m 21s):
+Right? Cuz it was like the, I remember there's like the fastest way to get something from a cam quarter to your Mac, right?
+
+3 (23m 26s):
+Yeah. And it was just, it was so arduous, but at the time you were just like, I'm gonna make, yeah. I'm gonna make magic. Nobody else is doing this.
+
+1 (23m 34s):
+And you, I mean, you were doing other things like, like you started a mock memory series called dorm diaries, I guess it was like kind of in maybe part partially inspired or similar like, like the real world on MTV.
+
+3 (23m 46s):
+Oh yeah. I guess that, that must have been where I got it from. So the, the office wasn't I wanna no, the office wasn't out by that time.
+
+1 (23m 54s):
+Yeah. I think maybe the British version was out.
+
+3 (23m 56s):
+Yeah. So I think it was a, it was definitely a combination of the real world and the documentary style of the British office.
+
+1 (24m 4s):
+You worked on this with your friend, Tracy Oliver. It was a college friend who would gone to become well known in her, her in her own. Right. As a writer and a producer. And tell me what you would do. Like you would give scripts to like a, a bunch of different friends and you would shoot scenes around campus or in dorm rooms or just anywhere.
+
+3 (24m 27s):
+Yeah. So I wrote the script and just gave like cast my friends. One of the friends that I ultimately cast was Tracy. Yeah. Then I would just go and film it, take up like 30 minutes of their time, maybe max an hour. And then I would edit it in my spare time. And the response was, was amazing.
+
+1 (24m 50s):
+Yeah. You put on Facebook and, and people like first, it was presumably people you knew, but then soon people you didn't even know were commenting on it.
+
+3 (24m 57s):
+Yeah. It started to spread to other college campuses that had, you know, either black dorms or BSU were just like, this was, this is my college experience. And they felt, they felt seen,
+
+1 (25m 12s):
+You said in, in an interview several years ago, that that experience was a light bulb. It was your, you called it your epiphany moment. Why?
+
+3 (25m 21s):
+Because I had spent all this time trying to write and send my work to either producers, executives, contests, whatever, in an attempt to get it made to get it seen.
+
+1 (25m 39s):
+Yeah.
+
+3 (25m 40s):
+And I was either told why there wouldn't be an audience for this particular work or that, you know, they just didn't wanna make it. And so to be able to just literally write something on the fly cast, my friends recorded myself, edited myself, put it out there and have an immediate audience that liked it. That wanted more of it was just so validating in a way where I was like, I can keep doing this if I want to. Yes. It's a smaller skill. No, it's not television. But if I'm really serious about like writing and getting my work, seen, this is a viable way to do it.
+
+1 (26m 21s):
+All right. So you have this project that you do. And I know when you, when you graduated, you went to New York, you got a fellowship at a place called the public theater in New York. And I guess while you, while you sort of, soon after you got there, you, one of the ideas you had was to maybe pitch dorm diaries and see if you could maybe MTV or B E T or somebody would be interested in helping you turn it into a, like a professional show.
+
+3 (26m 48s):
+Yeah. I wrote like the, the spec script of what the television show would be. And then my brother had a friend who worked at, I wanna say VH one at the time. And I was begging him, like gimme a meeting with her, gimme a meeting with her. So all those, I was just trying at the very same time while I was working at the public theater to get that off the ground.
+
+1 (27m 10s):
+It's a really tough time in life. Cuz you're like 22 it's you
+
+3 (27m 14s):
+Broke as hell.
+
+1 (27m 15s):
+Yeah. And it's really hard to get anybody to take you seriously. And you're New York and it's expensive and it's stressful. Do you remember feeling anxious about just life?
+
+3 (27m 27s):
+Oh, without a doubt anxious about life. I was living in the worst apartment. I was watching my friends on these very clear paths to me to do what they wanted to do. Hmm. I would feel incredibly insecure just about where I was, because I was essentially, you know, making videos, just trying to make ends, meet, taking odd jobs in the theater world still. But there was just like no progress to me. You can't really measure progress in the same way that you can measure like, oh, you're in your second year of law school. You're about to take the bar. Oh you are now. Yeah. A diplomat. Oh you're doing. And, and that was just like, damn, everybody's killing it.
+
+3 (28m 8s):
+And maybe my dad was right. Maybe I did. Maybe I should have had a backup plan. Maybe I should have taken college more seriously. So I could have something to fall back on. And that began my process of studying for the LSAT and then ultimately the GMAC just to be able to get a master's like he wanted me to do so badly.
+
+1 (28m 29s):
+And I know that at one point you, you invested a little bit of money in some film and editing equipment and then it was, it was stolen. Like your apartment got broken into.
+
+3 (28m 38s):
+Yeah. My apartment got broken into the night before I was supposed to go pitch. And like, my computer was stolen, everything, the film equipment, I was editing this guy's movie and he gave me which he had not done before. He gave me all of his original tapes and they stole those tapes and I was like, his life's work. And I felt so bad about that. And I was like, why would they steal tapes? And the way, the way I had my camera set up in my bedroom, it was on a tripod. And it was like pointed towards the bed. And I, somebody was like, they probably thought I was porn. Like they were still in porn tapes. And I was like, damn, they're gonna be so disappointed when it's just like a Jamaican movie.
+
+3 (29m 21s):
+So I felt really, really bad for him. And then of course hated that all of my, everything, everything was stolen, such a violation. And of course my roommate stuff and you know, we just felt so helpless.
+
+1 (29m 36s):
+I, I read that you also describe yourself as an introvert and I I'm trying to like picture you 22, 23, trying to, you know, talk about the work you've done and to try to pitch it and to try to get meetings. And, but also being an introvert, that's really hard. Excellent. Yeah.
+
+3 (29m 54s):
+To put yourself out there. Yeah. Which is like what everyone tells you, do you just gotta put yourself out there. Do you know how hard that is
+
+1 (29m 60s):
+So
+
+3 (30m 0s):
+Hard? Like, especially when you feel like, you know, what are you putting yourself out there? How do you go up to someone and talk to them about what you do? I'm always deathly afraid of imposing on people like taking up their time and asking people to watch something. So being vulnerable in that way, like I need you and I may potentially need something from you, but I don't know what I have to offer you.
+
+1 (30m 27s):
+Would you write things down in a diary
+
+3 (30m 30s):
+All the time, the diary, the journal, because that's what makes sure people say the journal was like my, my therapy, but people could also tell, you know, I think part of being an introvert, part of being even insecure is you're constantly aware of the way that people view you, even like questions that acquaintances might ask me about what I was doing. They just felt like, like I was being judged. Hmm. And almost throwing my life away and whether or not that was true. That's I guess how I felt inside, but I definitely wrote to cope.
+
+1 (31m 8s):
+I mean, what's amazing. And we're gonna get to, this is anything, anyone listening can kind of connect the dots, which is you were and are both of us. We all, everyone listening, we live in an extroverts world. It is a world let's just acknowledge that the world is dominated by extroverts and introverts have to figure their way, how to navigate that world. And, but you, you, you were writing and you were aware, you were self aware. You knew that you were introverted, you felt awkward, you felt insecure. Those would be the themes of what you, you would turn those into powers.
+
+3 (31m 40s):
+I think once I realized like, like you're not the only one that's going through this. You're not the only one that feels this way. The more people I, I realized people felt the same. And I was like, this is kind of an identity. And I'll never forget writing those words in my journal in New York, just I'm awkward and black. And I shared that as a Facebook status in my friend, Tracy was like, hahaha, those are the two worst things anyone could be. And I just found that hilarious.
+
+1 (32m 11s):
+What did you, what did it, what did it mean for you to feel awkward in a black? How did it, how did that, like, what were things that, that made you feel that way?
+
+3 (32m 21s):
+Well, what we just discussed about feeling ridiculously uncomfortable to just even go out to someone and introduce myself, the small moments in life that either made me feel uncomfortable or irritated me and just, you know, how many of those things also had to do with my blackness too. And that realization just kind of made me laugh. And the, the fact that those two didn't necessarily intersect often, even publicly in images that I'd seen in media. And that, that was something that I wanted to explore. I, I felt special for realizing that and felt special for having that identity and also wanted to find my tribe like who else, who else identifies the same way?
+
+1 (33m 6s):
+Well, that's a thing like a lot of times in, in that case, people would internalize feeling awkward, right? Like you wouldn't express it. You wouldn't put it out there, but you did share that idea. I mean, which is a risk. I mean, putting yourself out there is, is kind of scary.
+
+3 (33m 22s):
+I just didn't well, I wanted to know that I wasn't alone and I, and that was the first iteration of that idea. After I wrote it down was like, oh, I'm gonna make t-shirts. And to me even t-shirts are like, if people are out there wearing, then you can point out someone else who identifies that way. And it's the conversation starter. Or even, even, even if you don't start the conversation, it's a way to feel like, oh, I'm not, I'm not alone in this, that person over there is awkward too. So in a way it's a defense mechanism to outwardly claim it before someone else claims it about you. And also to just be like, look, I know what it is, guys. Okay. Just bear with me. I've already said what it is. Like we've gotten that out the way.
+
+1 (33m 58s):
+What, what prompted you to leave New York and move back to LA?
+
+3 (34m 3s):
+My friends. And that was another revelation visiting LA. I wanna say I, I came in before a graduation or something and I caught up with Tracy and my, my other Asian friend, Ashley. And we went to the beach one day and they were just like, girl, why are you still in LA?
+
+1 (34m 18s):
+In New York? Yeah.
+
+3 (34m 19s):
+Yeah. You know, I'm out here trying to become an agent traces out here, you know, in the producers program. And you're all the way in New York. We could be working together, like come to LA, everybody, you know, is here. You can save money. And I was just like, yeah, what am I out here? I'm kind of wasting my time. It's not, I haven't failed if I come back home. And so that was like, yeah, I'm, I'm, nothing's keeping me here. I might as well go home and see what I can do
+
+1 (34m 53s):
+When we come back in just a moment, how ISA built a giant fan base with awkward black girl. I'm a show that gets boosted by a Kickstarter campaign and a phone call from Pharrell. Stay with us. I'm guy Raz. And you're listening to how I built this. I am pretty much always on the go. So I don't have a ton of time to do the things I wanna do like reading, which is why I love audible. Audible offers an incredible selection of audiobooks across every genre.
+
+1 (35m 36s):
+As an audible member, you can choose one title a month to keep from their entire catalog, including the latest, best sellers and new releases. All audible members get access to a growing selection of audiobooks, audible, originals, and podcasts that are included with membership lately. I've been listening to red notice by bill Browder, which is an incredible book and has kept me so captivated. I highly recommend you check it out by the way. It's a great listen, let audible help you discover new ways to laugh. Be inspired or be entertained. New members can try it for free visit audible.com/built or text B. I LT to 500, 500 that's audible.com/built or text built to 500, 500 to try audible free for 30 days.
+
+1 (36m 24s):
+audible.com/built.
+
+5 (36m 29s):
+Okay. The kids are already asking what's for dinner, but breaking news, empty fridge. That's okay. I'll Instacart. Let's add some organic asparagus and some farm, fresh chicken, easy. Wait, is the oldest vegetarian this week? Or was it gluten-free gluten-free pasta covered either way, cart it, and finally some vegetarian gluten-free olives for my well earned cocktail. When your family shopping list has more footnotes than groceries, the world is your cart. Visit instacart.com or download the app and get free delivery on your first order. Offer valid for a limited time, minimum order, $10 delivery, subject to availability, additional term supply.
+
+1 (37m 21s):
+Hey, welcome back to how I built this I'm guy Raz. So it's 2009. And after trying to get her career off the ground in New York, ISAE decides to move back to LA where at first she moves in with her mom.
+
+3 (37m 37s):
+That was hard.
+
+1 (37m 39s):
+Yeah.
+
+3 (37m 40s):
+Ooh. That was hard because she just treated me like I had never left.
+
+1 (37m 44s):
+Right. And you you're, you're like in your, in your twenties, you wanna,
+
+3 (37m 47s):
+Yeah. I wanna say
+
+1 (37m 48s):
+24. You wanna start your yeah. Yeah.
+
+3 (37m 50s):
+And she's waking me up in the middle of the night because I had left dishes in the sink and it's just like, first of all, yes, it's disrespectful on my end to like come home and leave a mess. But come on, I'm not 16 anymore. Like what, what lessons are you teaching me? I can get up in the morning and wash it, like treat me like the adult that I am. And in her mind, she's like, you're not the adult that you are until you're out my house, you know? And I'm not paying, you're paying your own bills. So it was really, really humbling. And frustrating.
+
+1 (38m 21s):
+Meantime, you were still experimenting with video, like you were still like with all this stress and all of the, kind of that anxiety of feeling like you weren't going anywhere, you still had enough motivation to make little feel like you started on, on a web show called the F word, which was kind of a, was your brother was in it and his friends. And, and tell me about just making that, was it kind of just a fun side project to, to do? Or did you think, what, what were you thinking about that?
+
+3 (38m 54s):
+Yeah, when I, I will credit New York for giving me that hustle mentality. I left New York and came to LA and LA felt so slow to me. Like LA people will be like, I'm working on a script and you'll be like, where is the script? And they'll be like, oh, it's coming, it's coming. I got you. I got you New York. I'm working on a script. Where is it at? It's right here. And I got this and I got that, you know? And like, they're, they just they're ready. And so there was part of me that didn't wanna be the flaky LA person. So I realized like I have to show, improve. I have to get my hustle on. Like I have to, I have to work and I have to make these opportunities for myself and I have to be ready at a moment's notice. And so my brother had this music group, I asked if I could do his music video.
+
+3 (39m 40s):
+And he was like, yeah, if you're gonna do it for free. Absolutely. And when I was on that music video set, they were so funny together, you know, I was just like, y'all are you got a talented picture also funny? And you're funny together. I wanna make like a show around you.
+
+1 (39m 57s):
+So yeah. So you would work all day and then you would spend your nights writing scripts for the F word.
+
+3 (40m 3s):
+Yeah. I wrote outlines to get to their credit, like, so I give them the story points, where to go, but I never told them what to say. They just got it and they would improv their way through those story points and I'd edit it together and stay up, you know, editing it and make all night, all night and make sure I make sure that it come out at the same time every Monday morning at word Mondays.
+
+1 (40m 27s):
+And you would film it and write it and edit it and do everything yourself in your computer.
+
+3 (40m 34s):
+Yep.
+
+1 (40m 35s):
+A lot of work.
+
+3 (40m 36s):
+It was, but it was so fulfilling cuz it was like mine, it was their talent, but my work, it was, it was such a good bootcamp for me. You know, I really, I really cherished that time.
+
+1 (40m 49s):
+I mean not to, not to bring my story into it, but just reminds me so much of when I started out as a writer 25 years ago and writing and you know, I couldn't get any of my work published, but I would just write and write and write and so much it was bad. But, but I had to write that stuff to, in order to be able to eventually make stuff. That was good. And, and I, I mean, you did this for seven seasons, you made seven seasons of the show.
+
+3 (41m 12s):
+Yeah. Seven seasons over, I wanna say three to four years, but like to go back to you, like, there's still a point where you're like, okay, this is bad. This is not great, but you're still encouraged by the fact that you're, you're doing it. Yeah. And you feel good about doing it. I'm not sitting back. And it's like, I'm I know that I'm only gonna continue to get better and there's something satisfying in that. And then at one point you sit back and you're like, I, I think this is good. Yeah.
+
+1 (41m 39s):
+Yeah.
+
+3 (41m 39s):
+I think I did something and the satisfaction of creating something from scratch and even just having the idea and executing it is like, is like no other to me.
+
+1 (41m 51s):
+All right. You had written in your diary, a awkward black. And did that idea just kind of go away for a couple years or did it always kind of, I don't know. Was there any connection to it becoming a show or was it just, it was just you expressing your inner most thoughts.
+
+3 (42m 8s):
+Yeah. I mean, so as you know, sometimes you'll write something down and be like, oh, that's something, but I'm not ready for it yet, but it's something and I'm gonna come back to it and it'll just stay in your head. It'll pop up. Occasionally when you're working on something else. And for me, I had a vision, like I told you, I had the initial idea to do t-shirts and then ultimately a couple weeks later it was like, maybe this is an animated series. And I was stuck on that. I was like, oh, I wanna do an animated series for this. And oh man, animation costs so much money. I'm not ready for it yet. And so again, kept working, kept working. And then this article came out that was asking for my, the character that I imagined in my head, the black Liz lemon, they were like, where is the black Muslim?
+
+3 (42m 54s):
+And where are these quirky black characters? And that lit a fire in my ass, cuz I was like, I was like, if I'm reading this, someone else is gonna read this and do my idea before me. I can't wait for this to be done in the way that I think it's supposed to be done. Like it can be a live action series and I can just make this for the internet and just get it out there for now,
+
+1 (43m 17s):
+Which is what you did in 2011. You put out your first episode of awkward black girl. And I mean, at the, by that point, I mean you knew how to do it, right. I mean, I I've, I've watched many, many episodes including the very first one, which is remarkable, cuz it's really funny. And it's the first one and the, the production quality changes so much, very quickly, right? Like the first ones are very much DIY, but yeah. You know, like you're in a car, like you have somebody filming you, then there's somebody filming the, the character and the next car, you know, that first scene it's like, did you, are you ever situation where you, somebody driving next to you and like they know you and they're like trying to talk to you and it's awkward.
+
+1 (43m 59s):
+And it's so funny. And like that was the first one. And, and so you knew how to just create something even, you know, you know, even as sort of simple compared to what it is now or what you do now, but you knew how to do that. By that point
+
+3 (44m 14s):
+I did. And that got rid of the excuses I kept coming up with because for me, this was like, this was my big idea. Yeah. Now I just wanted to be out before I'm kicking myself because someone else didn't wait. And so once I was like, this has to be out. Then the notions of perfection went out the window. I still like was like, okay, I'm still gonna make sure that it's funny and good to me before I put it out there, but I'm less precious about it being completely perfect. And, and that came down to even casting myself cuz I wanted someone else to be, to play awkward black girl. The lead in dorm diaries is who I wanted to play awkward black girl.
+
+3 (44m 55s):
+She was in DC. She was in law school and she couldn't do it. And then I hadn't acted in so long. The fear of putting myself out there was holding me back again. I was like, oh, do I really wanna be in this? Do I wanna be at the mercy of the internet in the same way? I've seen my little brother and his friends be at the mercy of the internet. Am I ready for that? Can I take that? And ultimately like the, getting the idea out there was more important to me than being scared of being judged on the internet.
+
+1 (45m 27s):
+I mean, obviously this is a business show and, but this is such a business experience. Like you have this problem, you need to cast somebody, you can't solve that problem except you can. And you did by basically just saying, all right, I'll do it reluctantly. But you knew that you just had to solve a problem. You needed a human being to play J and you, you were, it was the easiest solution was just to have you do it.
+
+3 (45m 53s):
+It was. And I knew what the character was. That was it. Like I was like problem solved.
+
+1 (45m 58s):
+Yeah. I mean, in those first certainly. And like, and, and for people who haven't seen it, it it's BA it basically follows his character. Jay who's a telemarketer and, and, and is, you know, awkward has these awkward encounters in her life. And, and also there, you, you hear her inner dialogue or monologue, I should say. And, and that's sort of interspersed and edited as you see these scenes. And how did you, I mean, you didn't have a lot of expensive equipment and you were funding this yourself. So were you just like kind of shooting in the daytime with handheld cameras and occasionally a tripod and, and maybe some like boom mics,
+
+3 (46m 34s):
+Boom mics. No, I wish I don't even know what we're doing for mics. Those first couple of episodes. It was just a camera and whatever sound the camera picked
+
+1 (46m 43s):
+Up captured. Okay. The mic from the camera. Okay. Yep.
+
+3 (46m 45s):
+Yeah. And editing it. And my, my little brother, I asked him to create the music for it, cuz I wanted it to have score. I wanted to feel like as real of a show, it could. But the, the specificity of like this is for the internet was in my mind, I was like, I'm not gonna try to make this a real TV show. I'm not gonna, it's not gonna be long. It's gonna be short. It has to be short. But it was very produced for the internet in a way that my other projects weren't, I wasn't aware like all the lessons that I had learned from making those other two web shows. I applied to this.
+
+1 (47m 22s):
+You presumably, I mean, you were funding this yourself and it's, even though you were doing it on the cheap, like you still had to cover costs. And so you were running outta money pretty quick. I think within like the first few episodes.
+
+3 (47m 35s):
+Yeah. I mean the first few episodes I was, it was just friend favors. Right? So those first three episodes. And by that time I had cast my friend, Tracy to play my nemesis and she was in school for producing. So she was like, let me help you produce this. And let's bring on a real crew, write the scripts in real format. And so she got a crew via favors to start helping me and just elevated the look of the show. And that's what started getting expensive.
+
+1 (48m 7s):
+Yeah.
+
+3 (48m 8s):
+And my friend at the time was telling me about Kickstarter and I dismissed it. I was like, I'm not raising money online. That's that's feels so desperate. And then our cinematographer Shay, he brought it up and was like, I heard it. Have you heard of this thing called Kickstarter? That's when I took it serious, I was like, okay, more people are saying this, maybe this is a viable way to try to raise money. Hmm. And we asked for $30,000 and then over 30 days, you know, people almost helped, helped us to raise almost 60. And that's when it felt like, wow, people care about this show. Like, you know, and we, we, we didn't give an ultimatum. But before this episode that we knew would make a, make an impression.
+
+3 (48m 50s):
+We put like a, we basically asked our audience, we told 'em like, this has been for free. You've gotten seven episodes and we can't afford to make this any longer. So if you wanna continue to see this show and you wanna support us, please give us whatever you can. Yeah.
+
+1 (49m 6s):
+And by the way, at that point, those first sort of three, four episodes, how, how many people were you getting? Because this was still new. How many viewers were you getting per episode?
+
+3 (49m 18s):
+I actually don't remember. I know that was above. It was, it had to be between 30,000 and 50,000, maybe a hundred thousand.
+
+1 (49m 25s):
+Wow. How were you getting so many viewers? That's amazing.
+
+3 (49m 28s):
+We released it the first Thursday of every month. And that was like a release schedule. I just came up with, I, I, when I was, when I released the first episode, I just, I was like, okay, I did it. Woo. Got ahead of the idea. Got it out there. And then that episode got like 25,000 views in the first week. I wanna say. And I remember the guys from the F word hitting me up. Like, what the hell? How is this getting more views in this show we've been doing for four seasons, five seasons now. And I was like, I don't know. It's just, I guess people are really identifying with it and now I have to do another one.
+
+3 (50m 8s):
+And so it was just, yeah, it really spread by word of mouth in the best way.
+
+1 (50m 13s):
+Were you, were you focusing, like we've had people on the show who started, you know, who like really focused on like search optimization or like certain words or things like, or titles in the YouTube video or descriptions? Were you, were you focusing on any of that?
+
+3 (50m 28s):
+No, unfortunately I was not. I wasn't aware of that. I released it on Facebook to my friends and I didn't, I didn't really try. And it was my friends and the network of friends who, who spread the word. Wow. And, and yeah, you can amplify that. You can do things to amplify that, but if something is good to people, they're gonna talk about it and that's gonna be the main source of your eyeballs, your support.
+
+1 (50m 54s):
+Yeah. I mean, you raised $50,000 from this Kickstarter campaign and you started to get quite a bit of attention, including from Pharrell Williams, who I guess reach out to you because he was interested in maybe collaborating. I mean, that must have been kind of mind blowing to get an email from or whatever, like a message from pro William saying, Hey, can we talk?
+
+3 (51m 15s):
+It was extremely mind blowing. We'd already gotten like, you know, some great celebrity support. Gabrielle union I wanna say was one of the first people to like support it and spread the word about it. Ava was an early supporter, but LL was the first person to like call me and be like, I want, like, I want, I want in, I want to figure this out. And he had this, you know, when Google did the hundred channels and gave various creators, whether they were YouTube stars, established musicians, they gave channels and they put funding behind those channels trying to make like the new TV on the internet. He had one of those channels and was able to fund our second season via his, I am mother company.
+
+1 (52m 3s):
+So what did that mean for the season two? Like, cuz you can see it like, it's so cool to see the evolution of that show from the first episode to the, to the fifth and sixth and then season two is like, I mean it's a television quality show.
+
+3 (52m 17s):
+Yeah. I mean it meant we were funded. Yeah. It meant that we could properly pay people. It meant that we could budget. It became an actual production, you know, like the second season we were actually able to pay people like a legitimate rate. Like it was a production and it wa they weren't like getting rich off of it, but it was like, okay, I'm being compensated properly for my work.
+
+1 (52m 41s):
+Did you feel after, after that show started to get attention and, and you're collaborating with Pharrell Williams that, okay. And did it, did it like sort of lessen your anxiety? Did you start to feel like, okay, now I feel like there's direction. Things are clicking or did it actually increase your anxiety because now you were on a bigger stage.
+
+3 (53m 1s):
+It increased my anxiety. For sure. I mean, as these things go, like, you're like, oh, now people have expectations. They're like, oh, you got money now. Oh, Pharrell's message. You. I know y'all better come hard. And yeah, I felt that in so many ways, I just started realizing this about myself. But sometimes when things are successful, I will minimize my part in that and attribute it to other things. Hmm. Part of it is the imposter syndrome of it. Part of it is just the fear that you have one good idea and this is it.
+
+3 (53m 42s):
+Yeah. This is all that's in me. And so even with awkward black girl being successful, I was like, this, this wasn't just me. And let's make sure that E E everything else is amplified, amplified other characters. And let's also make sure that, you know, this person is highlighted and taken care of and like, let's increase all the other factors cuz it couldn't have been me. I, I don't know how to properly explain it, but that's something that I I've realized I do even, you know, in other work and, and it took a realization and even other people to just kind of make me focus like this is there. There's something that you did and you have to focus on that and you have to embrace that.
+
+3 (54m 24s):
+It's you,
+
+1 (54m 27s):
+When we come back in just a moment, how Issa eventually creates a hit series for HBO, but first discovers just how much it can suck to try to launch a show in Hollywood, stay with us. I'm guy Raz. And you're listening to how I built this. Hey everyone, it's me. And I've got a really exciting announcement. I have a brand new podcast it's called the great creators and don't worry.
+
+1 (55m 10s):
+I'll still be talking to founders of some of the world's best known brands on how I built this, but on the great creators I'm interviewing your favorite actors and musicians, filmmakers, and other artists, and talking about where their creativity comes from in our conversations. You'll hear a side of people you've never heard before. People like world renowned comedian, Stephen Colbert and Nick Kroll chart, topping musicians like the Chainsmokers and Bjork and revered actors like ADRA McDonald, Andy Garcia, and Zoe de Chanel follow the great creators with guy Raz on Amazon music, apple podcasts, or wherever you are listening. Right now, you can listen to new episodes of the great creators one week early on Amazon music or early, and add free by subscribing to Wondery plus in apple podcasts or the Wondery app.
+
+1 (56m 11s):
+Hey, welcome back to how I built this I'm guy Raz. So it's 2012 and the show awkward black girl is getting a lot of attention, not just from fans, but from other creators and producers in Hollywood and Issa gets invited to pitch some new ideas to some pretty powerful people.
+
+3 (56m 30s):
+The most exciting thing that happened to me was being able to pitch for Shawn land. Shawn rhymes, to me, huge inspiration had grays and scandal at the time, killing it just as a black woman showrunner and her and I got to pitch to her and Betsy, they bought a show idea that I had called I hate LA dudes. And that was an idea that I pitched on, on whim in a general meeting with them that I had just, that was gonna be my next web series. And they really responded to it. They laughed and they were like, yeah, we wanna develop that with you. And then, you know, I got the grand announcement that I was gonna be doing, developing Shari's first comedy.
+
+3 (57m 14s):
+And that was a big deal to me.
+
+1 (57m 16s):
+I mean, this is like 2012. You launched your sh your web show in 2011. I mean, that's wow, amazing. Like you were pitching Shonda RH was like, how crazy was that to sit in a room with her? I I've met her before at con she used to go to the Ted conference a lot and I used to go cause I, I did a show with them and like, she's the nicest, just like just very approachable person, but still it's Shonda RH.
+
+3 (57m 40s):
+It's Shawn rhymes and she's intimidating as hell. And
+
+1 (57m 43s):
+She is like one of the most successful showrunners in history. So you're there like a year after you launch this, maybe less than a year after you launch this thing, talking to her in a room, like, what do you remember about that?
+
+3 (57m 55s):
+You know, I didn't realize that it was a year that's that is kind of crazy, but in some ways it felt like, oh my gosh, this is, this is it. I'm finally here. And this is my opportunity. Like being in that meeting for the first time I was nervous and, you know, like they were just so, so warm and welcoming. Betsy beers is one of the funniest people ever. And so they put me at ease with their jokes. And so once they were like, oh, we wanna do this with you. I was just, I was on cloud nine and I worked up the courage to ask Shonda for a picture. And she was like, you want a picture with me? And I was like, yes. So I still had that picture
+
+1 (58m 32s):
+And you still have it. Oh, wow.
+
+3 (58m 33s):
+Of course, man. And so that was like, that was amazing to me. And then, you know, it's one thing to get the blessing, to do the show and it's another thing to make it. And that was terrifying. Cuz then I was just like, oh no, I'm gonna let Shonda rhymes down.
+
+1 (58m 53s):
+And this was a show called I hate LA dudes and it was sold. The ABC one was basically about the concept. Yep. And so you start to work on a pilot.
+
+3 (59m 5s):
+I start to work on a pilot and that was my first real television pilot process.
+
+1 (59m 12s):
+And what how'd it go? I mean, how were you, was it just you in a room or were you working with Tracy or were you working with yeah. How were you writing it? This
+
+3 (59m 21s):
+Was just me. This was me by that time, Tracy was writing on a, on a ABC show. And so it was me working with one of their development executives at the time and directly with Betsy beers because you know, Shonda, she's a queen of drama and Betsy was a, the head of comedy there and I loved working with them. Their feedback was great. And then it was like, let's submit it to the studio and the network. And that was like a foreign concept to me. So I was like, okay, so the studio and the network are different. The studio gives me notes. I work on them, give it back to the studio. Then it goes to the network. They give me notes.
+
+3 (1h 0m 1s):
+Those notes could be conflicting. There
+
+1 (1h 0m 3s):
+Are a lot of cooks in that kitchen. Wow. There
+
+3 (1h 0m 5s):
+Are so many. Oh my gosh. And they don't all agree. Yeah. And so to someone who just wants to please, it can be maddening. And, and for me, like I don't think that I had a concrete vision enough. I was just like, I just wanna make a show. I just wanna work with these people. And I don't really care about what I'm making. I just wanna make with them. That is not, that's not, that's not the right ingredients to, to make a good show. And so I was just like, okay, they gave me this note, I'll make the note work. Okay. Now the network's giving me this note, that conflicts, I will make that work. And it just became a pile of mush. It became a pile of like a show that didn't really have a real point of view.
+
+3 (1h 0m 49s):
+I wasn't represented in it. And I just, I kind of just didn't know what I was doing. And I credit, you know, Shauna land. They were just so positive about the experience and positive about working with me. And they saw something in me that I just really didn't see in myself, but ultimately the network passed on the project and I have not even gone back to revisit that script. I don't even know what it would be.
+
+1 (1h 1m 16s):
+I mean, the show was called, I hate LA dudes. It was about, about, about a woman who was dating horrible, awful image, obsessed men in Hollywood. And I guess you, from what I understand, like you had tried to kind of mold it in, in, in a way that you thought would be acceptable to a network, which was like the, there, you know, in the end, everyone gets come together and, and, and, and then you, you sort of, you kind of like the, the characters, but it's called I hate LA dude. Like yeah.
+
+3 (1h 1m 48s):
+Yeah. And what's in, what's crazy is I like was prepared to make that show for the internet. And if I had made that show for the internet, I know what it would've been. I know what I would've been able to do. It would've been a series of, of encounters and dates and sketches, but the way you write that is different than writing a network show, which needs to have a specific format and act breaks. And it needs to play out over seasons and it needs to have multicharacter arcs. And that was something I didn't quite understand in the same way at the time. Like, I didn't really know how to make a good network show yet. I was still in internet mode.
+
+1 (1h 2m 28s):
+Tell me when, when they ultimately decided not to back up, make a pilot for that show, was that devastating? Did you feel like, okay, well I'll just move on and go to the next thing. Like, did you feel like it was a yeah. I mean, was it like a gut punch?
+
+3 (1h 2m 45s):
+It was the most devastating. I blew it. I blew it. I blew my one shot shots. Like this don't happen. Often the cards were set up for me to succeed and I, I only failed myself. I can't blame anybody but me for this not happening. And it was such a public announcement. I think that's also the embarrassing part of working in Hollywood is you get these announcements of things that are happening and the support, and then they just disappear. And while there's not an announcement that it's not going, you still get those questions,
+
+1 (1h 3m 23s):
+How's it going? Yeah.
+
+3 (1h 3m 24s):
+How's it going? What's, how's the
+
+1 (1h 3m 25s):
+Script kill Shonda.
+
+3 (1h 3m 27s):
+Ah, and then it's just like, oh yeah, different direction. You know, I'm just working on a lot of things. So, you know, maybe just don't ask me, maybe just don't do I ask you about your work every day? No. Do I ask you how your project go, but no, like it was just, it was, it was really devastating and I, I thought it was over for me. I thought nobody's gonna wanna work with the failure who couldn't make a show with Shauna or rhymes who couldn't like make the layup.
+
+1 (1h 3m 55s):
+Were you writing that about that in your diary?
+
+3 (1h 3m 59s):
+Probably. I haven't. I have to check. I have to, to check, but I definitely remember. I I'm, I don't cry often, but I wanna say I cried after that. It was either that or the next HBO failure,
+
+1 (1h 4m 16s):
+Because you do, I mean, you do eventually pitch a show to, to HBO, which was not yet insecure by the way. It, it would eventually turn into insecure. Although I think you already had the idea of basing it around a young black woman working at a nonprofit. And from what I, from what I understand, you started initially started working on it with Larry Wilmore, the comedian who of course created the Bernie Mac shows on the daily show for many years and, and had his own show. And lots of people know Larry well shows. So how did that collaboration happen? How did you, how did that start?
+
+3 (1h 4m 52s):
+So after I sold my pitch to HBO, they, they bought this nonprofit idea. Then my managers were like, you know, you're, you're gonna need a show runner. You're gonna need someone to help you run the show if it gets picked up. And I was like, oh, okay. And so they suggested that I meet with Larry Wilmore and you know, I was a fan of his work. And so we met and we really hit it off. I loved him. And he was just like a, a strong voice and was just really intent on bringing out my voice. And so then, you know, he was attached to the project and helped me to start to write the pilot,
+
+1 (1h 5m 28s):
+How I, I read that you wrote the pilot in like eight days, and then you revised it over, over a period of weeks. But like, how did HBO respond to this pilot? I mean, that's, that's fast, you have this pilot and you've got this concept and let's go, let's make it.
+
+3 (1h 5m 44s):
+So the way it works is, you know, obviously the deals take a long time. And so to, to, to put in place. So like Larry is an established writer, creator. And so working on his deal took some time. And so in that time we were meeting up and just having conversations on his rooftop. What I didn't know was that was his process of kind of figuring out what I had to say, figuring out my point of view to lend to this main character. And so that was weeks of just a, a kind of a writer's bootcamp, a workshop of sorts that we were able to from those conversations, write that outline of what this show, what the pilot would be in like eight days.
+
+3 (1h 6m 26s):
+And they loved it. Initially, they were like, you guys are on the right track. This is dope. And gave us notes on that. But we went to script, which was like a big deal. And then even writing that script was really fast. And then that's when they were just like, this is good. But to them, it just, wasn't an HBO show yet. One of the most common questions you get that I'll, that'll never leave my mind, but in, in pilots, there's always that question of why today? Why are we coming into this show? And why are we following these characters on this specific day? What is our way in? And then of course, where are we going? Hmm.
+
+3 (1h 7m 6s):
+And I, you know, we were working on it for couple of years and Larry got the nightly show opportunity. And so that was like a, his dream job. And by that time he was also helping with Blackish. So I was like, damn, you got all this happening and we're still, I'm still working on this damn show and I'm gonna lose you. And I did. And when I lost him, I thought,
+
+1 (1h 7m 30s):
+That's it,
+
+3 (1h 7m 31s):
+That's it again. Here I go again. They're not, yeah, they're not doing it. And, but we had, we turned in, this is when I cried, we had turned in the last version of the draft before he had to go. And so I got the call from my managers like this isn't, they're still not happy with the script. And
+
+1 (1h 7m 50s):
+They were not happy with the pilot. They were not ready to brew green light it,
+
+3 (1h 7m 53s):
+They were not ready to green light. What was then known as non-profit with a pH? No.
+
+1 (1h 7m 58s):
+And, and meanwhile, I mean, you were also kind of on the line, because I think around, around this time you had actually launched something completely different, a whole separate venture, which, which would be the beginnings of a management company, your own business.
+
+3 (1h 8m 13s):
+Yes. It was called color creative, creative. And it was initially, it was supposed to be a program for discovering writers. And because of this process I had, I was like, I don't want writers to have to go through this. I've done the internet model where you can build an audience and you can make a proof of concept. So what if I do this with other writers and produce three pilots for $50,000 each and I thought I was gonna have money coming in. I was supposed to have money coming in, but it fell through. And I ended up funding it with everything that I had made at the time.
+
+1 (1h 8m 45s):
+So you had nothing left.
+
+3 (1h 8m 47s):
+I had nothing left to, but I was like counting on
+
+1 (1h 8m 50s):
+This, coming through
+
+3 (1h 8m 52s):
+This green light. Yes. I was like, okay, well, there's gonna be money coming in. And I was like on set for one of those pilots. And I went and walked somewhere and just cried. I was like, I don't know what I'm gonna do. I don't, I've spent all the money I've ever made in my life on these pilots that don't have distribution and I can't stop it. Cuz these writers are also counting on me and I have no next steps I blew, I don't have a show. I don't have anything. And I've yeah, I've made a mistake. Like I put all my eggs in this basket, in these well, two baskets.
+
+1 (1h 9m 27s):
+So you were simultaneously financing pilots that you put all your money in and counting on this, this insecure deal to go through and still.
+
+3 (1h 9m 40s):
+And so yeah. Then they, they were like, well, well we still wanna give you one more chance to write it. And they called me in for a meeting and Casey and Amy were just like, these are the parts that we really like. What was your version of like a Laverne and Shirley look like,
+
+1 (1h 9m 57s):
+They're talking about the character of Molly.
+
+3 (1h 9m 59s):
+They're talking about the character of Molly. Yes. Who was based off of my real life, best friend. And I was like, oh, that's interesting. And then what, what happens if I make it closer to, to my life at the time? And that's when I was like, I'm putting everything on the table, I'm putting everything that I'm going through, everything that I'm feeling in this draft in addition. And, and that's what they ultimately ended up picking up.
+
+1 (1h 10m 22s):
+It's amazing because, and I mean, televisions really takes a long time and it really is underscore by this timeline. Cause like you started talking to them in February, 2013 to HBO and the pilot debut in September of 2016. So that must have been just like a stressful three year period of just like, is it happening? Is it not happening? Is it happening? Will people, and then you make the pilot and then it's like, are they gonna renew it? Are they gonna people gonna watch it?
+
+3 (1h 10m 49s):
+Yeah. I mean the, the pilot process was the most rewarding part because, because of that fear, yeah. It was like when we finally got the opportunity to make it, like, this is our one chance to do it the way we wanna do it, we have to set the tone and like, let's make the best pilot we can. And you know, they picked that up in days. They picked it up really quickly. Once we finished it, once we edited it and we felt like really accomplished. And then after that, it was like, okay, now we just have to write a good season. And that was, you know, its own set of trials and, and figuring out what our voice would be, how it would be different from anything else on TV
+
+1 (1h 11m 34s):
+That show of course went through five seasons and, and, and finished the final season in, at the end of 2021, it was a critically acclaimed show, but which is, which is not what I wanna ask about. I wanna ask about the process of making it week after week, year after year. It's gotta be, I mean, I can't imagine how hard it is just to write a script that is because you, you wanna make something that people are gonna love and just every word, every scene, every moment just to do that, to make it good has gotta be so hard.
+
+3 (1h 12m 9s):
+It is. But it comes in the curation of people. It's such a collaborative medium, which is what I love about television. And so in that way, like that's what made it to me sustainable and still fun. Over the course of five years, it was still exhausting. And one of the things that we realized in the middle of the third season, like HBO, they supported us so much. There was just like, yeah, let's do it. You're renewed. And that meant like we'd finish the season and go right back in without many breaks. And what was essential for our show is for me and the writers to live lives, cuz that was a material that went into the show. Yeah. And the advantage of being on a cable network is not being beholden to a specific release schedule, you know, and being able to say, Hey, we wanna take some time off.
+
+3 (1h 12m 59s):
+And that time off also allowed some existing writers to explore other projects, which means that we brought in some new writers and that meant new voices. I
+
+1 (1h 13m 10s):
+Mean, you were really creating a business all the way back when you were making, you know, the dorm diaries videos in college. Not, not thinking presumably not even knowing that or thinking about it, but every step of the way, like you were building out what would become a business. So you've got a media company, but when did you first start? Cuz a lot of artists, you know, they make art, right? A lot of people in, in the creative space make their art. And don't think about the business side where it's really important. Especially if you wanna retain control over your process and your, your work. When did you start to, to think to yourself? I, this is a business too. I'm not just making, you know, art and content.
+
+3 (1h 13m 49s):
+I have to say what the F word, the F word was the first time that I one named my production company. Yeah. You know, I was like, oh I am making, and I didn't call it Issa RA productions because I, I was like, I'm just creating internet content. So I called it Issa RA presentations. And I was just like, okay, I'm I'm doing something. I'm making a product. I am definitely building something from scratch. I'm marketing it, I'm creating it. I'm, I'm funding it in in many ways. And this is, this is a product and I have to sell it. I have to sell it to people and make sure that I have a schedule and I'm abiding by a certain schedule.
+
+3 (1h 14m 34s):
+Like this is my, this is my business. And I want people to consume this particular product. So I have to have a structure around it. I say, anyone creating for the internet is an entrepreneur. Yes. Because you're just, you have to be by nature. Like it's not enough to just create. And so to make it official for me was essential for me to continue to do it.
+
+1 (1h 14m 56s):
+And then color creative was initially I guess, as you described, like initially was designed to identify talent and then develop scripts and, and sort of that was originally kind of a, a production company, right? Yeah.
+
+3 (1h 15m 11s):
+It was like a pipeline initially. It was meant to be a pipeline to bring in creators of color, into the industry, using the model that I was able to, to do with awkward black girl. And in terms of creating a product, getting an audio audience around it and getting the attention of executives to be like, Hey, you know, you don't have these people in your writer's rooms, but, and you're saying that this content doesn't have an audience, but look, we're proving you wrong. And then, you know, some of the writers that came, all of the writers that came out of that have ended up in television in some way. But we, Denise Davis and I who I co-founded it with found ourselves really helping, helping them to find their next projects, whether it's recommending them to writer's room or initiatives or to write on certain films.
+
+3 (1h 16m 1s):
+And we also wanted to formalize that process. We were sending, we were finding them representation and in some cases they would come back to us and be like the representation you found. Thank you. It's been great, but not really because they don't really know what to do with me. So we decided to kind of formalize that and make it a management company.
+
+1 (1h 16m 22s):
+All right. So you have Huray media today. You F formally found in 2020, but, but you had already had color creative and now that's sort of under this kind of umbrella media company, you've got a radio division, R a E D I love and then a TV and film division. So tell me a little bit about the vision. I mean, you had this incredibly successful show with HBO and you've got a new show on HBO max and a, a, a big deal that you signed with Warner media to produce more, more content, more films for HBO, H BMX, Warner brothers, et cetera.
+
+1 (1h 17m 2s):
+You've got 25 plus employees, or maybe more at this point, what do you, where, where, where is it going? What's it gonna be in a year, five years, 10 years from now.
+
+3 (1h 17m 14s):
+Yeah. I mean, I wanna an ecosystem right now with the new Sean HBO max rap shit. That is sort of the prime example of what we're able to do. Yeah. So on the writing team, you know, we have a color creative client. Who's, showrun it. And as we shot it, we had color creative directors, you know, come on and, and help direct some of the episodes and just all parts of the company touch it. Radio's also doing the soundtrack and we just wanna be self sustaining and we wanna compete with the best media companies out there, down the line.
+
+3 (1h 17m 55s):
+I wanna have a studio in south LA, I wanna have sound stages and working towards that. But the idea is to be one of the biggest entertainment media companies and expand to the global properties and continue to create content in all forms.
+
+1 (1h 18m 17s):
+You know, I, I interviewed Nick Kroll for another show I do recently. And I was asking him about performing in front of his parents cuz a lot of his work is, you know, adult oriented. Yeah. Humor, he's this and, and you know, on your shows like you're talking about sex in your sex life and things like that. And I, is it ever, I don't know, is it ever awkward to like watch it or, or like know that your parents watch it too? Oh
+
+3 (1h 18m 46s):
+My God. When I tell you this show, we just had a premier for rap shit. And I was sitting next to my mom, instant regret. Like I was, I don't know who did the seating, but my mom is very, you know, we were growing up. I couldn't watch PG 13 movies until I was 13 rated our movies till I was 17. Like parental controls were like, you know, all around the house. And so the idea that I'm making the content that younger me, when does she shielded me from, she just can't handle and there's this big sex scene at the end of the second episode during the premiere. And we're sitting in this theater and what sex is like, I watched her watch the first episode and like beat into it, laughing.
+
+3 (1h 19m 35s):
+And then I felt her energy change when there was like kind of an explicit scene. And I was like, oh, I'm feeling, I'm feeling the tension. And she was still trying to roll with it. By the time we got to that ending sex scene, I like fake covered her eyes. And she turned to me and she was like, you should've done that a long time ago. And I was like, geez. And even afterwards she was just like, she's, it's just not for her. And I realized, you know what? I've never invited her to for beer again, be because, you know, I'm not really making content for her when she can get behind it, she can get behind it. But it's in short, it's extremely awkward and it, it does kind of suck, but it's her fault.
+
+3 (1h 20m 16s):
+She made me.
+
+1 (1h 20m 17s):
+And I guess your dad is, is happy even though you haven't become a doctor.
+
+3 (1h 20m 23s):
+Yes. My dad is satisfied. He's experiencing the, the fruits of mine and his labor. So he has no complaints.
+
+1 (1h 20m 33s):
+I mean, you have had an amazing career and it was hard one cuz it didn't happen overnight. Right. And a lot of people probably when they first heard about you, they're like, oh here's this overnight success story. But an actual fact, like it was a, an overnight success story that took 20 years, 15 years.
+
+3 (1h 20m 49s):
+Yeah. I, I don't fault people for not knowing in some ways, you know, I'm just happy they're here. Like it has been a journey. It has been a long time. Like even you again saying like the, the year difference between awkward black girl and that opportunity with Shonda land. Sometimes I need that perspective. Sometimes I forget I've been going at it a long time, but it also feels like I'm just getting started. And that is what I choose to focus on. Like the potential in some ways now I feel like I'm running out of time and that that's a different feeling. Wow.
+
+1 (1h 21m 25s):
+You're you're in your thirties, just your whole career interview.
+
+3 (1h 21m 29s):
+I know, but I'm a woman in Hollywood, you know, there's just different, there's different standards.
+
+1 (1h 21m 33s):
+There's a different timeline.
+
+3 (1h 21m 35s):
+My God. Yes there is. And then you think about, you know, the personal life of like what kids will do to that and what, you know, expanding a fam starting a family looks like they're
+
+1 (1h 21m 44s):
+Just because you got married last year. Congratulations.
+
+3 (1h 21m 46s):
+I did. I did. So there's just, there's just other facets that I have to consider that I was not thinking about in my twenties when I got started.
+
+1 (1h 21m 54s):
+When you think about this, your story and this trajectory and all that, that it took to get to where you are, how much of it do you attribute to just the grind and the hard work you put in and how much do you think has to do with luck?
+
+3 (1h 22m 6s):
+Oh man. I mean, I know I worked hard as hell. I still do. I, I work hard as hell, but I can't deny that things had to align for this to work out. Like there's just so many. I, I say it's 70% work, 30%, like in some ways. And, and that scares me sometimes cuz I'm like, oh my God, all these things had to go right for me to be here. And I'm so happy I'm here. But like I can identify those fork in the road moments where if I had just made a different decision, maybe I wouldn't be talking to you. And I'm very, very fascinated by that. But I also tried not to spend too much time thinking about those, those moments.
+
+1 (1h 22m 47s):
+That's Issa Rae writer, producer, actress, and founder of Huray media. By the way, if you do some internet sleuthing, you can find a few of Issa's early YouTube videos, including this freestyle rap she made with friends, her senior year of college
+
+8 (1h 23m 6s):
+N pop with her friend N pop was a man. You can even do the N pop on a handstand. Wanna get down, do the N pop. Now I'm gonna do the N pop and get down N pop.
+
+1 (1h 23m 18s):
+Hey, thanks so much for listening to the show this week. If you enjoyed it, please do spread the word. Tell someone about how I built this or post about it on social media. And thanks If you wanna contact the team. Our email address is H I BT id.wonder.com. If you wanna follow us on Twitter, our account is at how I built this. And mine is at guy Raz on Instagram. We're at how I built this. And I'm at guy Roz. This episode was produced by Liz Metzker with music composed by Ramey. It was edited by Neva grant. Our audio engineers were Patrick Murray and James Willits. Our production staff also includes JC Howard, Carrie Thompson, Alex Chung, Josh lash, Sam Paulson, Katherine cipher, Elaine Coates, John Isabella Cini and Carla EST I'm.
+
+1 (1h 24m 12s):
+And you've been listening to how I, Hey, everyone. So I wanted to make sure you knew of all the different ways you can listen to how I built this. The show is always free and available wherever you listen to podcasts, whether it's Amazon music, apple podcasts, or wherever you're listening right now. But if you wanna listen to the next episode of how I built this today, one week early, you can do that on Amazon music, or you can listen to it early and add free by subscribing to Wondery plus in apple podcasts or on the Wondery app.
+
+1 (1h 25m 5s):
+So please do follow us on your podcast app. So you always have the latest episode downloaded and get your, how I built this merch and gear@wonderyshop.com. Another way to support the show is by filling out a survey at wondery.com/survey. And thanks.

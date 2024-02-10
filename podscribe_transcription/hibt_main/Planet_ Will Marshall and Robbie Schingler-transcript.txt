@@ -1,0 +1,542 @@
+0 (0s):
+This message comes from NPR sponsor. Kendra Kendra designs builds, manages and modernizes the mission critical technology systems that the world depends on every day. Kendra, the heart of progress. Hey, really quick, before we start the show, a lot of you have a lots of questions about how I built this. Like how do you pick guests or where do you record the show? Or how can I get in touch with Howard Schultz? Spoiler alert on that one week. Can't help you, but we can try and answer any questions you might have about the show, our work, or even me. If you'd like to submit a question, please visit <em></em> dot com and fill out the form. And we'll answer some of your questions right here on the show in the coming weeks.
+
+0 (41s):
+Again, that's G U Y R a z.com.
+
+2 (48s):
+The first image that we got was a forested region
+
+3 (52s):
+And Oregon. I was asleep when we got our first picture and, and Robbie, didn't you come and wake me up with a picture. I sent you a member like, yes, here it is. And we were just like in awe, because we could see that the picture was in focus. We could see individual trees. We couldn't believe it. I mean, we were in tears and we were like, oh my God, we've done it. Like, we can do this. We can do this
+
+0 (1m 27s):
+From NPR. It's how I built this a show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Roz. And on the show today, how three scientists at NASA left their jobs to build satellites, literally in a garage and launched planet labs, a data company that now takes about 3 million photos of the earth. Every single day, Sometimes starting a business can feel as complex as rocket science, the legal filings, the compliance letters, the accounting structure.
+
+0 (2m 11s):
+And that's just the first few months. Now imagine doing all of that in addition to actually doing rocket science, which is what makes the idea of planet labs seem almost insurmountable because what Robbie Shingler and will Marshall set out to do more than a decade ago, was to completely reimagine the business of space satellites and to turn it into a simpler, cheaper, and fundamentally more accessible tool for people to use Robby will and their partner Chris' boss Hausen were all scientists at NASA, and we're way too familiar with the slow, bureaucratic and expensive process of getting a satellite launched.
+
+0 (2m 57s):
+Not to mention the size of those. Some of them can be as big as a school bus. So what if the co-founders wondered you could launch a much smaller satellite as small as a loaf of bread and do it for a few hundred thousand dollars rather than hundreds of millions of dollars. And what if those satellites, instead of hearing at distant stars could be used to explore our own planet, to take millions of images of the earth every day, tracking the health of crops and coral reefs and detecting things like oil spills and forest fires. It turns out you can learn a lot about how the earth is changing simply by photographing it every day.
+
+0 (3m 43s):
+Anyway, back when they launched planet labs in 2010, the three founders built their prototype satellites in a small garage in the bay area. They didn't have the money to work in a so-called clean room up hermetically sealed lab without any dust or particles. So they made their own version using off the shelf items from target. The company has come a long way since then today it captures about 3 million images of the earth a day, and it's now simply known as planet. It also just went public on the New York stock exchange, raising nearly $600 million in capital, but let's start at the beginning before.
+
+0 (4m 25s):
+Well, Marshall and Robbie Shingler met in 2001. They were leading sort of parallel lives on different sides of the world will grew up in England and got a PhD in physics at Oxford. Robby grew up in California and the Midwest. He also studied physics and both he and will spend time doing internships at NASA. The two of them finally met when they were both in their early twenties and attending a conference in Europe.
+
+3 (4m 52s):
+Yes, it was 2001 in grants in Austria where it was a UN organized conference on basically using space to help humanity and, and it gathered some really amazing people. And I met Robbie. I can't remember the exact moment, but we definitely got on well together at that before.
+
+0 (5m 14s):
+And do you clicked right away? Robbie, what do you, what do you remember about we'll at the time?
+
+2 (5m 19s):
+I remember what I remember of will is outgoing Couric areas and, and really a motivator for people. You know, he, he really would, would always, always dream big and get people to stretch out of their comfort zone. So I remembered that when I, when I first met him and that it's a it's so, now true today than ever before, that is a, again, one of his super powers, not only back the envelope, maths, but also the ability to motivate people.
+
+0 (5m 44s):
+Yeah. And all right. So the two of you meet at this conference and what, what you just kind of kept in touch or, or what, like, what did you, cause I know that you would begin to collaborate on different projects over the next few years, but at that conference, what were you talking about that you wanted to collaborate on? Yes,
+
+2 (6m 0s):
+Again, we have to remember, this was 20 years ago and we were, you know, in our early twenties and for me, it was like meeting a tribe, right. People who saw the world in a similar way and also all highly accomplished and highly motivated. So people wanted to work on projects and at that time we had email. And so we'd go back home, back to our schools or grad school. And so we would write papers together around space policy. So we would actually do around the world editing, you know, everyone would have it for like eight hours at a time and handed off and go around in a week. You'd you'd have a really, really good paper. And yeah, that was, that was actually kind of the, the Genesis really of, of our friendship and partnership was all about the art of creation.
+
+0 (6m 45s):
+So is it fair to say to both of you will and Robbie that at this time, you guys were sort of part of this group of young kind of researchers working for, you know, space agencies and space research agencies, part of this group of young emerging, you know, scientists, what have you, who were really wanted to see if you could have some kind of influence over policy eventually, right. It was that, is that fair to say that that's sort of how you, how you saw yourselves? I mean,
+
+3 (7m 15s):
+Say quite the goal was policy. The goal was to have the effect on the world. We thought policy is one mechanism. I mean, others, of course just execute your products. I mean, I think it was more, there was the vision of using space to help humanity. You know, we can see that space page, a big part in the cold war and in geopolitics and it plays a big part in sustainability monitoring the environment plays a big part in commerce. Yeah.
+
+2 (7m 43s):
+Yes. And so much of infrastructure of our modern interconnected economy flows through space. And a lot of people just don't know about that. Yeah. We all, we all now have no GPS and location now, and it's just, that is just back end infrastructure for society that, that we actually always expect to be there. And those all come from space. And in fact, if, I mean, like, I don't know how deep you want to go into this stuff, but all of that started from a military application and now has become a public.
+
+0 (8m 16s):
+I remember, I mean, in 2002, I remember going to Afghanistan as a reporter and there were a few people who had those Garmin, like handheld devices that could kind of geo locate you, but they were very crude compared to what you see today, just iPhones. And there were amazing.
+
+2 (8m 35s):
+Yep. And that was, that was 20 years ago, right? Like w we have to remember that that was not very far into the past.
+
+3 (8m 43s):
+And there's probably been saying the fact that you could navigate, I mean, the military had GPS back into the seventies, or certainly by the eighties and were using it for guiding missiles tanks, all this sort of stuff. But they, they had a very smart forethought that this would be a global good and important economically. And of course, we certainly agree with that. And to Robin's point, a lot of these things started at the military vector and a lot of art to us was how can everyone else benefit from these things? And again, like back to that theme, how do we use space tools to help everyone on the planet? Hmm.
+
+0 (9m 18s):
+So you're, you're both writing and collaborating on, on various papers about, about these types of things. And I guess in 2002, you got together at another space conference, but this, this one was in Houston.
+
+3 (9m 32s):
+That's right. One of the fun things that happen that that conference is we met Pete warden is a good character introduced cause he's relevant to our stories. So we've written one of these papers. One of them was basically about space weapons and keeping a space from weaponization. And then in this bar in Houston where this conference was there, a mutual friend had introduced us to general Pete warden, who is basically running all the space weapon programs for the United States government in the air force. And we were like, what? And our fan was like, well, this is, you know, the people that think that space weapon is a bad idea. There are people in the runs, the space where programs have a go and we're in this evening, we had this fascinating conversation about you can't build space weapons.
+
+3 (10m 19s):
+That's bad. There's economic V doesn't make sense. And it doesn't even work technically. And we were writing equations out on why it can't work technically. And then he was like, oh, you don't understand. I've got to protect us assets from threats. And you don't know what you're talking about. Data da. And we got increasingly drunk actually, because he kept on buying his strengths. And, but the next day to his credit, he wrote us an email. And he said, well, I've really enjoyed our conversation last night. Why don't you write a paper together? You guys write the cons. And I write the pros of space-based weapon systems. Well, roll forward a few more years, he moved from the air force to NASA to run NASA Ames research center. And he basically invited us to come work with him.
+
+3 (11m 1s):
+And he was like, well, I know we disagree on this area, but this will be more about obviously science and exploration. And we'd love you to come and work for me out there.
+
+0 (11m 9s):
+This guy, Pete Wharton, we should mentioned he was the director of the answers or center, I think until like 2015 or something for he's kind of a legendary figure in that world. And he was also, it's interesting because I read a little bit about him. He was a real critic of DASA. Like he was a public critic of the NASA bureaucracy and stuff like that. Right. A self-licking ice cream cone, self-licking ice cream cone. You heard about NASA. Yeah,
+
+3 (11m 36s):
+He was critical. And he was also just very creative, but he was brought in to shake things up a little bit. And one of his ways of shaking things up a little bit was inviting young whippersnappers, like Robbie and I and others to come work for him and alongside some of the more, let's say institutional folks that have been there for awhile. And that's, let's see what comes out.
+
+0 (11m 57s):
+He was basically, he ran the Ames research center. I mean, it sounds a little bit like park Xerox, you know, in the seventies, right. Were all this. I mean, he was a guy who could say, Hey, he liked you guys. You challenged his thinking maybe, or, you know, and he said, Hey, why don't you come work for me at aims research lab? And eventually you guys both said, yeah,
+
+3 (12m 17s):
+We jumped at the opportunity because he was very much like, we'll sort of give you a canvas to help you to build spacecraft missions. And, and, and we thought, wow. I mean, that's a really unique opportunity. And it was very practical. We wanted to not just write the policy paper. We wanted to work on the system, whatever it was to get that, to become a reality.
+
+0 (12m 39s):
+All right. So you guys get to the Ames research center in mountain view that this point, I mean, you guys have known each other now for five years now, you're in the same place and, and you move in together, right? You, you get, you get a house together.
+
+3 (12m 53s):
+Yes. When we flew out to NASA, Ames, we were looking to build a community house. We like living in community, the fervor of intellectual conversations. And in fact, if you've got a bit of a reputation for being a place where creative ideas happened, especially again at this intersection of space and, and, and Silicon valley,
+
+0 (13m 13s):
+And we'll get to this later, but you still, both of you still live together in a community house, which I always called the group house, but I guess it's a little different. So help me understand this. You, there's nothing kind of different or unusual about like a group house, especially for young people trying to save money, but this is not what that was you. It sounds like you very deliberately had this idea of a bunch of colleagues who worked together at the Ames research center, also living together to continue the conversation that they were having a work at home
+
+3 (13m 48s):
+As if is if we weren't, we weren't full enough during the day, but it wasn't just NASA people. We had students who at Stanford, people that worked at apple or people that worked at Google, all these places, and that created a fervor of intellectual dizziness. That was always fun for us. So it was a mixture of sort of Silicon valley and space in one house. You know, I had found it just on Craig's list happened. They just searched for a house with more than six bedrooms. And it was the pretty much the only one.
+
+0 (14m 19s):
+So you guys moved to the bay area, you're living in a group house in Cupertino and Pete warden is your boss. And what did you guys do? What were you tasked to do? Help me understand. I mean, this is not everybody understands space research can mean a million things like journalism can mean a million things or finance can mean a million things, but what, what w what were you actually working on?
+
+2 (14m 42s):
+The, we really wanted to what we were working on bringing small satellites to NASA. So, you know, we'll, and I, and a bunch of other people work to set up a mission design center, which is, you know, w when you think about a new mission, what you can do with technology, the scientific utility, how to actually bring the team together, how much it's going to cost, how long it's going to take. That is the very beginnings of articulating what a new mission could be. So we work to actually set that up with the insight that we wanted to do satellites that were much smaller. If they're smaller, they're cheaper. If they're cheaper, you can take more risks. If you can take more risks than you can have then, and they're cheaper, then you can do more missions. If you can do more missions and you diversify your risk, or then it increases the acceleration of knowledge.
+
+2 (15m 26s):
+And so we, we work to systematize that and we set up the small spacecraft off.
+
+0 (15m 30s):
+Yes, sir. All right. So you were, what were you working on will
+
+3 (15m 35s):
+Setting up the small space? We got office, but then Robbie and I worked on a few different missions
+
+0 (15m 40s):
+When you're working for, for both of you, when you're working in a place like the Ames research center, obviously a NASA lab is there, is there just like unlimited money to play around with, like, is it pretty straightforward? Like, Hey, I have this idea and there's just money available, not unlimited, but I mean, is there kind of a big sandbox to play in and funding for it? I would say
+
+2 (16m 2s):
+The money is really hard to come by, but what you do have at aims and in particular, which is, you know, one of a research center, so it's not a development center or an, or human space flight center, it's more of a research center. It it's, it's a really unique place. It's, it's almost like being in a university as well as being in a, in like a prototyping lab and capability kind of together. And so that's a perfect Petri dish. And I think that that's one of the reasons why Pete warden wanted a bit of a, you know, a younger generation of people to come in is to, you know, we were blind to all of the constraints because most constraints of, of a large organization is kind of like, you know, cultural and process oriented.
+
+2 (16m 44s):
+So we were blind to all of that stuff. And, and it allowed for us to just like, take a first principles approach toward why don't we build it in this way. So we then came up with what would be like systemic projects, you know, projects that, you know, just get it done in 12 months or 24 months to then learn from that and then iterate and iterate. So then we can change how space systems are developed and what is the art of the possible that could be done.
+
+0 (17m 11s):
+And meanwhile, we'll you and, and another guy at NASA whose name is Chris boss housing, you were working on this project called phone sat. What exactly were you guys trying to do? Yes.
+
+3 (17m 26s):
+Well, it's pretty much what it says on the cover. It was putting a phone into space,
+
+0 (17m 31s):
+Putting a phone into it, like it, the space as a satellite,
+
+3 (17m 34s):
+Pretty much it was to throw some phones in space. We actually put three and they were Google nexus ones that we had got donated from
+
+0 (17m 42s):
+Google. A big donation. They're like 250 bucks each.
+
+3 (17m 46s):
+Yeah. Well, they gave us a box of them, but still I agree. And,
+
+2 (17m 50s):
+But that was important because it was the first operating system that was open source. And, and really the insight that the team had is what's so different about a phone from a satellite and turns out like the engineering processes, that capabilities internally, all of that stuff is, is very similar.
+
+3 (18m 12s):
+Exactly. Right? The, if you, like, if you look at the end of a phone, it has GPS, it has cameras have very DEOs. It has. And if you look at the list of things, you need a satellite it's GPS and cameras and radio, and there's actually most of the same. We remember smartphones were very new. You know, it was only a few years after the iPhone had come out and, and put before they were just these clunky phones. And now they suddenly had all these other things that were most of what a spacecraft needed. We had to add some extra batteries and slightly beggar antenna for the radio in particular. But apart from that, we literally stuck the phone into a little box and put three into space. Actually, I think I almost got fired for that project.
+
+3 (18m 55s):
+Chris and I had started phone sites and we had a small team on it, but we got quite a long way before. If you like the officials at NASA knew it was happening, they were almost stuck on the bucket by the time they did. And they were like, what the heck are you doing? Put in phones into space? And we're like, come on. It's going to be really interesting because we're going to figure out if you can meet satellites even cheaper. And, and eventually that, okay, fine. Have a go. And the phones worked just fine in space. And we had amateur radio astronomers around the world, get these little Yaggie antennas, these, these little handheld antennas to, to follow this outline the little pictures that have been taking with a phone camera and email them to us.
+
+3 (19m 36s):
+And then we constructed these pictures and we're like, okay, it worked.
+
+0 (19m 40s):
+All right. So this was a time where the, I mean, the idea was let's, let's talk, let's kind of dive into satellites for a sec, right? NASA obviously has the greatest space satellites in human history, right. That, you know, can look way out into the cosmos, but they're huge. Anybody who's been to the air and space museum, or, you know, one of these museums where they've got decommissioned spaceships can see how big some of these satellites are. They're huge are expensive. They, you know, they're not always totally reliable. So the idea was, Hey, can we start to look at smaller satellites that may not be as robust?
+
+0 (20m 22s):
+It may not be able to do the kinds of things that like the Hubble can do, but could do pretty important things like take images of the earth. Was that the idea behind this, this NASA project
+
+3 (20m 33s):
+That's exactly right. That's exactly right. And, and that, especially leveraging the miniaturization of electronics for phones and computers. It was a revolution. And we were like, how can we in the space community leveraged that revolution. But historically NASA had had to invent almost everything that it's radios, it's micro processes for the Apollo program. And they developed all this stuff themselves, but now the billions and billions of dollars that have been going on in the consumer electronics industry by apple and Samsung and Google and all these companies was far outpacing what NASA could spend on the development of electronics.
+
+3 (21m 14s):
+And we were just like, okay, well, what if we learned to follow and leverage this technology? A small phone sat like the one that we launched couldn't do what Hubble does, because it doesn't have a big telescope, but they could do some things. They could take pictures at lower resolution. And that might be still useful for something, especially because we could put a lot of them,
+
+0 (21m 34s):
+Right. Because there are obviously different kinds of satellites or communication satellites. I mean, some people have watch direct TV or watch television through satellite Sirius XM radio channels. Is it satellite beamed from satellites?
+
+3 (21m 48s):
+Exactly. Right. And so when we briefly thought, when we were thinking of leaving NASA to do this project, we were mainly thinking about humanitarian and, and commercial goals. We were thinking about communication satellites or earth observation. But when we looked, and this is back to how Robbie and I am Matt, when we looked at what was then the millennium development
+
+0 (22m 11s):
+Goals, these are the UN millennium development goals, right?
+
+3 (22m 14s):
+Yes. Correct. It was just basically a summary of all the world's problems. We looked down that lesson and said, how can we, <em></em> the biggest challenges on the, are? It seemed to reason that if we could take more regular images of the earth, we could help a lot of them. And it's really true. Like we could help stop deforestation, help people grow smarter crops, so help with their food access. We could help afters disaster response after floods or fires. There were so many things that if we had more regular imagery of the typically before a mission, you could only get a new image of the earth maybe once every month or sometimes every year, depending on the resolution you needed. And we thought, well, why couldn't it be every day?
+
+3 (22m 57s):
+And then that would be much more useful disaster response, time to wait for a month for the flooding information. How about have the day before and the day after,
+
+0 (23m 4s):
+But help me understand how working on this project would eventually kind of inspire you guys to go off and do this on your own. What, what was it that, that you saw in this technology and the possibility, but that then led you to say, Hey, we can actually do this and turn this into something bigger.
+
+3 (23m 27s):
+It was very much a stars aligned moment where we realized was we had learned a little bit about how to build spacecraft at NASA. And here was this list of all the world's problems. And if we put up a lot of these little satellites that would take pictures of the earth, we could help a lot of those problems. It made most sense, especially we're in Silicon valley. And we like, we could go fastest if we could just get private capital. And we had just enough skills to pull that off the world needed it. And the technology was just about ready, like from all these consumer electronics to make it happen. And so we were like, oh my God, it wasn't just a, it wasn't, it didn't seem like an option to me at the time.
+
+3 (24m 7s):
+It felt I was compelled because it was so obvious we should do this project, everything lined up.
+
+0 (24m 18s):
+When we come back in just a moment, how will Robbie and Chris start working on building a satellite, the size of a bread box, and then how they managed to get that tiny satellite into orbit, stay with us. I'm guy Ross. And you're listening to how I built this. This message comes from NPR sponsor, click up on average. People can lose three hours every day between all of their work apps, click up, has the solution bring all of your essential tools into one place, allowing you to prioritize tasks, collaborate on docs, chat with your team and track goals.
+
+0 (25m 2s):
+Companies like Uber and Webflow use clickers as their mission control center. Click up guarantees to save you one day every week and it's free forever. So try click up today at <em></em> dot com slash NPR.
+
+5 (25m 18s):
+This message comes from NPR sponsor. Kendall Kendall designs builds, manages and modernizes the mission critical technology systems that the world depends on every day, Kendall, the heart of progress.
+
+0 (25m 37s):
+If you ever wonder how the world's most successful leaders got to where they are, what struggles they faced and what kept them going. There's a show for you each week on my new podcast, my guests reveal how to think more like a leader, check out wisdom from the top, from NPR and luminary. Hey, welcome back to how I built this I'm guy Roz. So it's the last day of 2010 and will Robbie and another NASA scientist. Chris boss housing are getting together as they always do on new year's Eve.
+
+0 (26m 18s):
+And as they clink their champagne glasses, the three of them are also talking about starting a business to build and launch small satellites for taking pictures of the earth.
+
+2 (26m 29s):
+We were there. And Chris was there. We'll was there and they're like, we're going to do this. And, and so I could tell from Wilin Chris, there was that spark that the team knew they could do this and do this quickly. And it does require throwing out a bit of the traditional processes around building aerospace systems. And so it wasn't something that we could actually do within, within NASA.
+
+0 (26m 57s):
+Why not? Well, if
+
+2 (26m 59s):
+You got, you started talking about, you know, the huddle, you know, it's the size of a school bus. It is huge. These are exquisite systems. They are amazing systems. Like the microprocessor was really scaled through aerospace capabilities, right? They had such hard problems to solve. They had to invent new technology and, and just like any organization, when you become successful with a particular thing in the future, that could become an anchor for you. Right. And so great. That's your success. You make a system out of it, you have all of these processes, and then you actually do a requirements flow down.
+
+2 (27m 40s):
+That's how you build engineering system. And, and that is how space systems are built at NASA. And what we wanted to do was to do it the other way around, just do good enough and, and prototype it, learn from it. Iterate.
+
+3 (27m 55s):
+Yeah, there was. So it was mainly, we wanted more like the Silicon valley release, early release, often software strategy. Then the requirements driven, very careful, a science project of NASA. Also the application was more like, how do we help farmers? So that's a commercial application. How do we help disaster response? So that's more humanitarian application. We wanted to help those things. And whereas NASA is really pretty much mandated to focus on science and exploration. This was about neither.
+
+0 (28m 28s):
+Got it. Okay. So you had this idea that in order to do what you wanted to do, you had to leave NASA. So what was the, what was the first step you took was the three of you, right? It was will. And Robbie, the two of you and Chris and the three of you, what sat down and said, Hey, let's, let's, let's start a bit a company together.
+
+3 (28m 46s):
+Well, I guess we sort of slowly evolved over that next year. That was in 2010, just at the end of 2010. We were in technically formed the company, incorporated the company, but we slowly started moving more and more time from NASA to what became planet and Robbie and I were living in that group house called rainbow. And we literally started building it in a garage and then eventually left NASA.
+
+0 (29m 10s):
+All right. So now you guys decide to start a company and it's going to be a company that, that will launch small photographic satellites into space. What, what, but that's not the right term, not photographic satellites. What do they
+
+3 (29m 24s):
+Call them? Earth observation. Satellites
+
+0 (29m 26s):
+Earth absorbs. You got it. Okay. Earth observation satellites. So building these things by the way, just to build a prototype, right? How much should that cost? I'm just curious how much money did it cost to get?
+
+2 (29m 37s):
+Can I rub me? He was probably like on the order of like 10,000,
+
+0 (29m 41s):
+10,000 bucks. Okay. So between the three of you, you could probably pull some money together and make it happen because you got savings from your job.
+
+3 (29m 48s):
+That's exactly what we did. We each put in $50,000,
+
+2 (29m 51s):
+I think. No, it wasn't that much. It was, it was actually three different amounts. I can't remember. But it was, it was, it was upwards to 50 K
+
+0 (29m 59s):
+Because that's still a lot of,
+
+3 (30m 0s):
+Yeah, you're right. It was a lot for our, we were NASA type stipends, you know, this was not, we were not working for Google.
+
+0 (30m 11s):
+So how did you guys have the cash?
+
+3 (30m 12s):
+Well, we just saved up, I guess we didn't live exactly a luxurious lifestyle. I mean, we didn't have family. We, and we lived in a community house by choice.
+
+0 (30m 20s):
+And I guess one of the first things you guys did was to build a prototype of what your satellite would look like. I mean, you had some experience building things. So tell me about that prototype.
+
+3 (30m 33s):
+We built a test, one at rainbow that this community house in the garage, we added a camera system and we added all the other systems of radios and so on to make it a working satellite, leveraging consumer electronics, not exactly a phone like we'd used in phone sat, but lot of the same underlying chips, it's actually one of our own boards. And we would do tests of it like radio tests across the whole of Silicon valley, across to the lick observatory where we'd have some people go over there with a radio receiver, take them a couple of hours to drive there, we'd stay with the satellite. And then we would test the radios. Then we put the whole thing on a balloon and take it to 60,000 feet and really cold atmosphere and, and take the pictures and things like that.
+
+3 (31m 19s):
+So a very iterative approach. All right.
+
+0 (31m 22s):
+So you have, so you've got some savings that you throw into, into this company and you've got a prototype, but then what do you do? It's 2011. And I mean, to get this off the ground, this is not like, like Tate's cookies, it's been on the show or Stacy's pita chips, like, you know, or, or kombucha, like you need millions and millions of dollars. You do to start your company. Help me explain what you, then, once you've a prototype, what are you then? Do
+
+2 (31m 53s):
+You know? W well, and I, as we were talking about, when we first went to NASA Ames, one of the first things we did was set up that mission design center to then design new missions and so forth. And all of this was, was a new mission. And so we, we could, we could understand how much money we think is going to cost what the schedule looks like and all of this stuff, but instead of asking for a hundred million dollars, right. In order to actually build out the whole thing, or actually at that point in time, we thought 20 million would do it. We said, okay, let's just get a satellite in space and just take a picture, just prove that one node can kind of work.
+
+0 (32m 26s):
+All right. Here's my question. Why did you need to prove this concept if you had already essentially tested it when you worked for NASA
+
+3 (32m 36s):
+That didn't take exquisite imagery. Remember it's just a phone camera floating around in orbit to take quality imagery. We were really going to have to add a telescope that was a really high quality telescope to take pictures. We're going to have to add a high resolution camera. You know, I mentioned our mission was Emma's the whole earth that was designed because we wanted to be able to see a tree because we thought we can't stop deforestation if you don't see all the trees every day and see one being knocked down. And so we didn't know for sure we could see that tree from space. The physics said it should be possible, but it wasn't completely obvious. And we had to design a telescope out of a material that wouldn't expand and contract with temperature.
+
+3 (33m 19s):
+Otherwise the camera would go out of focus. So we had to really put it in space because that's the only way you can really test it. Ultimately isn't going to work.
+
+0 (33m 28s):
+So just to be clear, the idea was let's test the concept. Let's get our prototype up into space. W it sounds straightforward, but if we get to get into space, yes. How much does it cost to put a, something on a, on a rocket ship into space?
+
+2 (33m 42s):
+At that point in time, there was the ability to hitch a ride to space as a, not the primary payload, but a secondary payload. That is what we used to first get to.
+
+0 (33m 53s):
+All right. So you could hitch a ride for the small satellite on a rocket that was already going up with other cargo to, I guess I should point out there's a, there's like a whole industry that offers these kinds of services. And I guess you guys ended up working with two companies to get your satellites launched, and there's an American company, and then a Russian company you worked with. And how much was this going to cost you
+
+3 (34m 17s):
+Hundreds of thousands of dollars,
+
+0 (34m 19s):
+Hundreds of thousands.
+
+3 (34m 20s):
+I think it was $300,000 for the first one. And it was about that for the second one. And we decided the best to put one satellite on each of two rockets to give a bit of redundancy
+
+0 (34m 31s):
+And better. These satellites weighed what, five, 10 pounds,
+
+3 (34m 33s):
+Five kilograms, which is about 10 pounds. Yes. Just the size of a loaf of bread.
+
+0 (34m 38s):
+Got it. Okay. So you, you sign up to get your satellites onto a rocket, but just to be clear, it's not like, you know, our, our, our rival and departure times are 98%. You know, that like, if you're booking a date on a rocket, it's not likely it's going to go on that day.
+
+2 (34m 58s):
+That's exactly right. And that the primary reason is because the, the thing that the rocket is delivering, they set the schedule. So if they are late in building their satellite or they, you know, there there's an anomaly that comes up and they need to spend more time testing something, they'll push out that launch date, us as a hitchhiking, like ride secondary payload. We are committed to that rocket whenever it ends up going.
+
+0 (35m 28s):
+So, all right, now that you had a space on a rocket, what, and, and, and you knew that it was going to happen. This is 2011. When you signed this deal, did you, where are you now able to go out and raise money? Because it was still going to be another presumably a year before you could launch this proof of concept.
+
+3 (35m 45s):
+We had to raise a little bit to do these first couple of missions. So we decided to do the first two satellites. We worked out that we'd need two or $3 million, but we didn't have all the capital to pay for those rocket rides in full. So let me rewind just a tiny bit on one of the tests of phones set, the satellite project that we were working at NASA. We met someone there who was quite unassuming there called Steve Jefferson, who was a venture capitalist actually became the main funder of Tesla and SpaceX. And, and we met him. He cause he likes launching rockets on the weekend and we were doing our NASA rockets and he was doing his personal rocket.
+
+3 (36m 28s):
+And we took our tests that late and around November, 2011, we plunked it on his desk. And we told him the plan. We said, we're gonna put a hundred of these into space and they're going to image the whole world. And it's going to have all these commercial opportunities. And it's going to have all this impact on the planet. What are you give us some money. We also attracted a couple of other investors. And then we had our first money in December, 2011.
+
+0 (36m 59s):
+W when you, when you pitched the idea to investors, I understand that you know, that you had idealistic motivations, which, you know, many entrepreneurs have, and that's certainly continues, but you still have to appeal to people who want to make money. And so what was the, how did you explain to investors that they would make a return on that investment? Like, wow, how are you guys going to make money for them? We actually had,
+
+3 (37m 24s):
+I had quite a clear view about this, that it was obvious that this data had value to people to help improve crops for farmers to help Google get better maps, to help governments, but disaster response that has obvious value in it. I mean, remember that if you went back and asked Google what their business plan was, they didn't have an extensive business plan. What they realized was that search would really help the world and, and that had value. And there was probably a way to monetize it. Similarly here, like the venture capitalists didn't have to believe that there was value. They just had to believe that we were going to be smart enough to then harness that somehow.
+
+0 (38m 7s):
+How much money did you raise in that first year? By the way? Yeah,
+
+2 (38m 10s):
+2 million. We ended up having a 200 K w we also had a friends and family came in
+
+0 (38m 15s):
+A little bit. So with that money, did you begin to staff up?
+
+3 (38m 19s):
+Yeah, that's when we actually decided to move to San Francisco and rent our first office, you know, we were in the garage until then. And yeah, we definitely started expanding staff and hiring people more formally and all the rest of it and started building these satellites.
+
+0 (38m 38s):
+And I guess eventually you had to set up a, like a, kind of a clean room to build the satellites, which is a room with like no dust to no contamination at all. Right. Like it it's like beyond sterols Excel, like crazy, super sterile.
+
+2 (38m 51s):
+That's exactly right. Yeah. It, it, it allows for you to really control the, especially if you have sensors, you don't want dust on it and or any of that type of stuff. So it, it, it keeps it, so it's almost like it's in space again, you know, before it goes up into space. So it's actually really, really ready to be in space because once you get up there, you can't really wipe off the lens. Right. So
+
+0 (39m 12s):
+It has to be totally perfectly clean. You don't even remember lens cleaner up in space. Like that lens has to be so clean and that's it.
+
+3 (39m 20s):
+That's right. If you, if you'd launch with that spec on the lens, it's going to be there forevermore actually, exactly. In many ways though, this is one of the areas where we tore down some of the rule book. I mean, for example, at planet, we have what we call clean enough rooms. And, you know, it turns out that you can have it slightly less clean and it's much, much less expensive.
+
+2 (39m 43s):
+Absolutely. So I believe it was less than a hundred dollars, which was a, a deployable greenhouse that was bought at target. And then it had some HEPA filters. So, you know, a lot of people have this right now because of fires and because of COVID and so forth. But those HEPA filters were, were able to then filter out the air and then push the clean air down. So it was just clean enough in order to test out the entire thing. I could tell you that, like now we have much better clean rooms because it is worth investing in it when we know that it does work, but at the very beginning, we really just needed a picture from space.
+
+3 (40m 23s):
+Yeah. And just before you go to the launch, you can blow off the optics with a little airbrush and get almost the same, but having spent millions and millions less on those processes. And it's just one example of many of how we've, we've changed the way we do it. And mainly it's about a risk approach, which is just assuming more risk per satellite. Okay. That one, satellite has slightly more chance of having a dust on it, but we're going to put more satellites up than we need. And if a couple have that, it's not the end of the world because we're going to put up a hundred or more. It's something we can live with. Whereas if you made Hubble space, telescope wrong, and of course, initially it was launched with a slight error in its optics and it was blurred.
+
+3 (41m 7s):
+Then you really got to fix it because that one,
+
+2 (41m 10s):
+It turns out you can go in space and wipe off
+
+3 (41m 13s):
+The dust, but that's a very expensive way of doing business.
+
+0 (41m 16s):
+Okay. So you see you've been working and basically building all these small satellites. And then I guess around April, 2013, it's launch time and you've booked one satellite on an American rocket and one on a Russian rocket, right?
+
+3 (41m 32s):
+Yeah. We have planned them to be six months apart so that we could take the results from the first one. And if something went wrong, iterate the satellite and try and fix that before the second one, except because you can't control the launch date. And they ended up launching just days apart. And in fact, the two satellites got deployed within 48 hours of one another. And we want to, what is the chances of that? And then it was suddenly a scramble to try and connect with both of them as they popped out of the, of the rocket. And it's really critical time when the satellite pops out, we need to be action stations, you know, Manning the ground stations and in the mission control and making sure the thing works well, how quickly
+
+0 (42m 13s):
+And before you guys knew that the satellites were working
+
+3 (42m 17s):
+With one of them, it was in within an hour. In fact, we got telemetry from it, a health packet basically saying, Hey, I'm alive. I'm doing okay. And that was already a huge relief. And then within a few hours of that, I want to say, even just to the next one, flew over, that had been launched from a different continent and also made contact. So what
+
+0 (42m 42s):
+Was the first or the first images she were getting?
+
+2 (42m 45s):
+Funnily enough, the first image that we got was a forested region in Oregon. And, you know, the original idea was to count every tree in the planet. And sure enough, that was our,
+
+3 (42m 58s):
+I was asleep when we got our first picture and, and Robbie didn't you come and wake me up with the picture. I seem to remember like 4:00 AM or something. And we were just like in awe, because we could see that the picture was in focus, taking a picture of this forest area. We could see individual trees. We couldn't believe it. I mean, we were in tears and we were like, oh my God, we've done it. Like, we can do this. We can do this
+
+0 (43m 31s):
+When we come back. And just a moment how that one photo of a forest in Oregon led to many millions more stay with us. I'm guy Roz. And you're listening to how I built this
+
+7 (43m 49s):
+Support for this podcast. And the following message come from masterclass a new year is around the corner for a lot of people that means dusting off a creative goal. Whether it's writing a book, starting a garden, or trying a new recipe one night a week, maybe you just want to take 20 minutes a day for yourself to relax and listen to someone you find inspiring. And with masterclass, you can get intimate access and insight from some of the world's most diverse thinkers with easy to stream classes, listen to writers like David Sedaris learn from athletes like Serena Williams or watch chefs like Yoda. Ottolenghi with an annual membership, you get unlimited access to more than 90 masterclass instructors from any device.
+
+7 (44m 32s):
+So you can watch at home or listen while you're out for a walk, whatever your creative goals, there's a class that can help you get inspired. This holiday. When you buy an annual masterclass membership, you get another annual membership free go to masterclass.com/built.
+
+0 (45m 0s):
+Hey, welcome back to how I built this I'm guy Roz. So it's 2013 and Chris Robbie, and will have finally proven that they can take a photo from space, which allows them to go to more investors and say, see, we actually know how to do this.
+
+3 (45m 19s):
+Now we had a picture we could say like, we can definitely do it. It's just a matter of scaling this now. And of course, building a business around it. When we left NASA, we said we were going to image the whole earth every day. We had the team as probably said that can pull this off technically. And in that year we got much bigger funding around from led by Yuri Milner. And he gave us a check for, I think, 30 or 50 million. And that was a much more significant adventure from there. So
+
+0 (45m 48s):
+Just roughly how much does each, does it cost as each satellite costs?
+
+3 (45m 54s):
+It's about 300 K or just slightly less than that. Two or 300 K
+
+0 (45m 59s):
+That's that's I mean, compared to a NASA satellite.
+
+3 (46m 2s):
+Yeah. Most NASA satellites, average average about a billion. So billion. Yes. So we were talking about a thousand times to 10,000 times lower cost than a typical satellite. That is why we've launched all of the now 460 or something satellites that we've launched on 33 rockets for less than the cost of a typical satellite. A lot less actually still
+
+0 (46m 26s):
+One of the things that I have read about your company, which I think is actually pretty amazing is, you know, that there's always a possibility that a launch is gonna fail. Like it'll, cause there's so much fuel. There's so many moving parts in a rocket launch that it could just explode. And you're okay with that because satellites are so cheap that you could take the risk that, you know, you know, if one of these rocket launches fails, it's okay, because another one will be okay. And, and you know, that's the price of doing business. We have
+
+2 (46m 58s):
+On 33 different rockets and three of them have failed,
+
+0 (47m 3s):
+But it's not a billion dollar loss for you. It's a, it's a couple million
+
+2 (47m 6s):
+Exactly, right. It's a bad day. It's a bad week, you know, but it's not catastrophic for, for our mission and for our business. And that,
+
+0 (47m 16s):
+That is by design. I mean, I know that you've, you've kind of solved the problem of, of cheap satellites and they'll get cheaper and cheaper obviously as time goes on, but is there a way to solve the problem of expensive rocket launches? Can you make, is it possible to make rocket launches cheaper?
+
+3 (47m 30s):
+Yes, it is our biggest expense. So it was that now it's actually people, but it's our biggest capital expense the rockets have in fact got cheaper just the last five or so years, they've gone down about four fold. And mainly because of space X space X with its reusable rockets, this brought the price down, which is really quite a big deal. But I would say one thing that people often miss that is actually even more radical is that the capability performance of satellites cost per kilogram, the cost per case, a given capability has gone up about a thousand fold in that same period, that sort of change of a thousand acts in five or 10 years is very unusual in history.
+
+3 (48m 16s):
+Even the model T Ford, when it first came out was two to three times lower cost than the lowest cost car at that time. And people were like, that's a revolution, but we are talking a thousand X that a closer analogy for this is not model T Ford, but the transition from the mainframe computers to desktop computers, big companies would have one or two computers, right? All countries would have one computer and it was the size of a factory. And now with, with desktop computers, suddenly everyone could use them for lots of more purposes. Space is undergoing a revolutionary shift right now, and that is letting the internet, all of these changes or in particular, the biggest upshot is that revolution in data that helps us to take care of the earth.
+
+0 (49m 6s):
+So we're, we are in the midst of a non, not only a planetary crisis, a mass extinction. We know that and, and you both live in California on it. You have a front row seat to some of what's happening. So how, I mean, I understand how the, the existing data can help us track some of these things, but, but when you talk about making an impact in a, in an even bigger way, what do you imagine? Is it, is it more people using your, your data and then making policy decisions based around it yet?
+
+3 (49m 40s):
+Let me just give you a concrete example. Recently, we had the Dixie fire here in California and the county of Plumer said, Hey, can we use your data? We want to track, where is the fire? I think
+
+0 (49m 50s):
+Is the biggest fire in California, history,
+
+3 (49m 52s):
+Biggest fire in California history. And they said, where's the front of the fire. Where's the smoke blowing. We could give them that data. And then they use that to decide where to put people for the firefighters. Also straight after that, they were like, my God, can we just have all of that data? So all the time so that we can actually look where might the next fire come. And, but this data is relevant for day-to-day decision-making across the globe. That's
+
+2 (50m 21s):
+Based on everything we can forecast out today. We believe that this is really to help us take care of our planet and you cannot manage what you don't measure.
+
+0 (50m 33s):
+Okay. So you're, you're talking about the planet and crisis and the need from more data and information. And meanwhile, by the time this episode is released, you, you guys will have literally gone public on the New York stock exchange. And I wonder what the thinking behind that was. I mean, I mean, one reason obviously is to bring in more cash, which clearly you'll deal do. And the other is to make a return for the investors. I guess those are the two main reasons, right? Yeah.
+
+3 (51m 5s):
+Well, there's a little bit of that, but it's mainly something else. So we always intended planet to be a standalone company. Planet is now ready. We did just over a hundred million in revenue last year, and that's a mature business at some level. I mean, I, I always think, you know, our grandkids will be asking, how did humans take care of the earth before you had regular images of it so that you knew what, what effect you were having and where was the deforestation? Where are the illegal fishing? Where is the, how is the harvest doing on that crop field, et cetera, et cetera, before you had that, how did you even know what to do? So like, like how did you meet up before you had cell phones, you know, and you had to meet all these more complex plans.
+
+3 (51m 51s):
+Now we have that data that can help us to take care of the earth. And as Rob was saying, you can't manage it. If you don't measure it,
+
+0 (51m 60s):
+Here's what I'm wondering about. Right. And I can't be the first person to, to ask you about this. I suspect that there are safeguards built into what you do, but what I'm worrying about is, I mean, this technology is amazing, right? W w w which you made available to companies and businesses and governments and so on. But I can't imagine that there are the, that it couldn't be used in ways that are, that are not wonderful and bright and sunny and optimistic. Like I know you talk about, you've talked about how you could track, you know, environmental degradation, you know, humanitarian disasters and refugee movements, but, but you also track for military intelligence purposes, like, like looking at missile installations or the location of airplanes and subs and the movement of people across borders and, and things like that.
+
+0 (52m 47s):
+And, and I could also imagine it could be used at, it could be used easily by governments looking to quash, dissidence and people who are trying to, you know, to, to promote human rights. Okay.
+
+3 (52m 59s):
+Absolutely. Yeah. I mean, we, we, we probably both have a lot to say on this, but I grew up in, I have been thinking about this for decades. And the reason we had called our satellites doves was partly a little poke at the military that would call their satellites, birds, but birds of prey. And we were like, no, they're on a peaceful mission. We actually have a very particular thesis about this. The more information different countries have about each other's activities, including military activities, the more it's likely to be peace. And when, when it's historically, it was when governments didn't know what each other were doing, that it led to tension.
+
+3 (53m 40s):
+So for example, when the us put missiles in Turkey and the Russians didn't know during the cold war, it almost led to a war. So actually we lean in to the security side. We work with governments and security agencies, military organizations, Eva. And we think it's the right thing because we think it reduces tension. As long as we focus on one principle, which is, don't give that data exclusively. What'd you give
+
+0 (54m 6s):
+It to ISIS or
+
+3 (54m 7s):
+Al-Qaeda no, it's banned. That's a great question. And, and we have two checks. One is that we don't give it to any known organization on these embargoed, less that's both countries like North Korea or a terrorist organizations or individuals. And then in addition, we have our own ethics committee that reviews every case with the government and checks is, is there some way in which this might bring civilian harm? And we have many cases refused to gift data where we think that will be the case,
+
+2 (54m 40s):
+An ethics team internally before we launched our first satellite. And I anticipate over the coming years, it will get more sophisticated as we have orders of magnitude, more users, and need to really think about and be responsible for the, the unintended consequences of this level of, of transparency and this level of data on society.
+
+0 (55m 1s):
+Th this is an important point because I often times on the show I talk about, we hear from companies talk about mission and most companies have a mission, right? You have to have a mission to motivate people and for people to feel connected to what you do, the mission has to be baked in doesn't mean, mission can change. Mission can change, but it has to be baked into the company from day one. And I think this idea of baking in an ethics team from day one is absolutely crucial, right? I mean, I'm assuming that's how you thought about it.
+
+2 (55m 30s):
+Absolutely. So Andrew's Ali, who's our chief impact officer. You know, he, he says that like regulations tell you what the law requires. Yes. And ethics tell you what your values require. Yes. And ethics is really more of a process. So anytime there's a crisis, if you bring out your ethical framework, then you can follow a predetermined process that allows for you to look at it from different perspectives to then make a better decision.
+
+0 (56m 1s):
+You know, most of the companies that we profile on the show produce consumer products. They, they tend to hit profitability in, you know, within a four or five years. We, we profiled Madrona recently. And, and obviously that companies took 10 years, right before they became profitable. I think they spent $4 billion. What you do is very capital intensive. It requires a lot of money to get satellites up into space and to process all the data. I think, I think your satellites produce like 15 terabytes of data a day, right? It's about
+
+3 (56m 37s):
+Double that double at
+
+0 (56m 38s):
+What's just a lot of Google drives. And, and so you are not profitable. You haven't, you're not, but, but is there a path to profitability, a clear path to profitability? Yes,
+
+3 (56m 50s):
+It's absolutely clear. We already have very clear users in at least four markets in agriculture where big companies buy our data. That's the biggest market we have. We also service governments. And then we help with defense and intelligence customers where we help them to see new threats around the corner. And then we also help companies like Google improve maps. So we supply data to Google for their maps. They do huge numbers of requests of our satellite to update the maps online so that it stays up to date. So your directions are up to date. Those are four use cases that are working very well and they're growing very fast.
+
+3 (57m 31s):
+And so we have very clear line of sight now on a growth path, you're going to go in just over 40% a year for the next five years, we put an act and that gets us to profitability in the next couple of years.
+
+0 (57m 44s):
+I know we, we, we touched on this earlier. You guys had originally moved into a community house or group house for more than 15 years. And I think both of you are in your forties. You both, I think either one of you or both of you have partners in your lives, you still live in a house together with other people, like no judgment at all. Like I I'm super introverted. I don't like to live around other people except my family. But can you explain this? Why you guys choose to live this way now at this point in your lives?
+
+3 (58m 16s):
+Well, personally, I love it. We, we live in a house with 15 people. Wow. Fascinating discussions about technology and society, philosophy,
+
+0 (58m 28s):
+Restful, always discussions all the time around the house. I just want to put on my slippers and like watch Ted lasso.
+
+2 (58m 34s):
+Well, it is big enough. It is a big enough house where there are nooks and crannies for you to actually breed if you want to, or to, you know, be, be more social. But what I love about it is people are, are passionate. They are, they're conscious, turned on. And I, I really do enjoy having that, that environment where you can push one
+
+0 (58m 55s):
+Another. I'm thinking of like the real world on MTV. Like, did you ever have to kick anybody out? Like they kicked up puck from the real world. I
+
+2 (59m 2s):
+Don't know what that is, but
+
+0 (59m 4s):
+People listening will know.
+
+2 (59m 6s):
+Yeah. We communicate, we communicate through conflict and you know, we, we have values and shared agreements and people have moved out. They, they, they choose to leave and some of them have been more difficult conversations than, than others. Yeah,
+
+0 (59m 22s):
+I bet. I bet. So. So when you think about, you know, how far, you know, you know, where you are now and what you have up in space and what you're able to do, how much do you think that you know, that it has to do? And, and we're just kind of reflecting on your journey to get here, which is, which is why I asked this question because some people will think I'm asking by the way, some people think I asked this question and I, I think, you know, the question I'm gonna ask, because they want a binary answer. Like, oh, it's luck. Oh, it's skill, it's 72% luck. And you know, 37.8% skill, whatever. It's really a question that is, is designed to be reflective, you know, where you've been and where you were, where you've arrived to.
+
+0 (1h 0m 6s):
+How much do you think that has to do with how lucky you got and how much do you think it has to do with how hard you worked and how smart you were and all that stuff will,
+
+3 (1h 0m 15s):
+Gosh, I mean, it's not a simple question to answer, but it was definitely right place, right? Time. I mentioned how, when we left NASA to start planet, it was a very much the stars aligned moment. It was just like what we have to do this. But I would say persistence is the biggest thing that comes through is it's not quite either what you said. It was his persistence and endurance. You have to keep going.
+
+2 (1h 0m 39s):
+Yeah, there, there is a, there is a drive and a motivation in the art of creation. You've got to love it, right? You have to be okay. Not knowing and being on that edge and, and right into that edge of being like comfortable and overstretched. I always find that that's where the most creative things come from. And as well said, like you get a lot of things wrong, you know, and, and you, as long as you learn from it, you have a safe space to allow for people to actually learn from it. Then that collective knowledge is actually internalized by the team. And then you, you take the next step again.
+
+0 (1h 1m 11s):
+That's Robbie Shingler and we'll Marshall co-founders of planet. Their satellites last about two to three years before they basically disintegrate, which is why even though planet has launched more than 400 of these satellites, they only have about 200 circulating the earth right now, still that's the largest fleet of earth imaging satellites in history. And by the way, one of the coolest things, their satellites recently detected a fleet of world war two ships that slowly washed ashore in Japan. Hey, thanks so much for listening to the show this week, please do follow us on your podcast app.
+
+0 (1h 1m 51s):
+So you can always have the latest episode downloaded. If you want to contact us. Our email address is H ibt@npr.org. And if you want to follow us on Twitter, our account is at how I built this in mine is at guy Ross. Our Instagram is at how I built this NPR and mine is at guide dot bras. This episode was produced by Liz Metzker with music composed by Ramtin Arablouei. He was edited by Neeva grant with research help from Claremore Ashima. Our production staff also includes Casey Herman, Pharaoh, safari, JC Howard, Julian Carney, Carrie Thompson, Elaine coats, and Harrison VJ Choi. Our intern is Catherine cipher.
+
+0 (1h 2m 31s):
+Jeff Rogers is our executive producer on guy Roz. And you've been listening to how I built this. This is NPR. This message comes from NPR sponsor. Kendra Kendra designs builds, manages and modernizes the mission critical technology systems that the world depends on every day, Kendra, the heart of progress.

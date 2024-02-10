@@ -1,0 +1,353 @@
+2 (0s):
+Hey everyone. So think of the last time you got into an argument with someone right the kind of argument that could be resolved with a simple fact, you know, like is a lobster across station or a mollusk. What was the final score game 7 of the World Series? How long does it take the light from the sun to reach the Earth? Anyway chances are if you grab your phone and type in any of those questions, the answers will come up on Wikipedia. It's become a ubiquitous first stop for finding out just about anything. A thing my interview with Wikipedia founder Jimmy Wales first friend about two years ago, but it is an incredible story and Incredibly surprising. So we're playing it again and hope you enjoy it.
+
+2 (44s):
+What was the was the first Wikipedia entry the earliest
+
+1 (48s):
+article that anyone has found was an article on the letter q and in those early days. It was very exciting. You could just be the first person to say Africa is a continent and hit save. And while it's not very good, but it's not wrong and it's a start.
+
+2 (1m 10s):
+From NPR it's how I built this show that innovators entrepreneurs idealists and the stories behind the movements they built. I'm guy Roz and on today's show the story of how Jimmy Wales started an online encyclopedia as a side project and watched it grow into one of the pillars of the internet. Okay, so I'm looking at a list of some of the most viewed websites in the world number 1. Of course, you probably know is Google also at the top of the list YouTube and of course Facebook also a handful of Chinese websites like by do and then clocking in somewhere around number 10 Wikipedia.
+
+2 (2m 5s):
+So imagine for a moment that you are the founder of one of these enormous websites. Well Forbes puts out. You will list of their net worth and here's what we found Larry Page founder of Google sits on about sixty six billion dollars Mark Zuckerberg edges him out with about eighty two billion dollars. One of the founders of by do is worth around 10 billion dollars
+
+1 (2m 28s):
+and the founder of Wikipedia Jimmy Wales. Well, he's not listed by Forbes, but judging from media reports. Jimmy's
+
+2 (2m 36s):
+net worth is nowhere near the billions. In fact, it's likely in the low Millions.
+
+1 (2m 42s):
+In other words, Jimmy Wales is quite possibly the least Rich internet Titan in the world,
+
+2 (2m 48s):
+but unlike a lot of famous Founders, Jimmy Wales Legacy is likely to live on
+
+1 (2m 54s):
+for centuries because in
+
+2 (2m 56s):
+some ways he's like a modern-day Johannes Gutenberg and just like gutenberg's press made it possible to spread knowledge Beyond a village or town Wikipedia made it possible for every single person on Earth with an internet connection to gain access. S2 probably the biggest collection of knowledge ever assembled online and like a lot of the entrepreneurs we interview on the show Jimmy story starts with influential people and important events that happened pretty early in life. He grew up in Huntsville, Alabama where his uncle owned a shop that sold early personal computers and Jimmy worked there part-time and is too big Hobbies were tinkering with computers and reading reading just about anything he found
+
+1 (3m 41s):
+interesting. But basically anything I could get my hands on including spent a lot of time reading the encyclopedia, you know, you hear about something and you want to learn more and you go to the encyclopedia and find the article and read that and yeah, it was it was a beloved thing in our house that we had the encyclopedia and we would all use it. Did
+
+2 (3m 60s):
+you buy it in a store or did somebody like come to your house and
+
+1 (4m 2s):
+snowboarders already came to the house door to door when I was a baby as the family Legend goes that somebody came to the house and sold it to my mother and And every year they would send out an annual update. Yeah, for example the article on the moon was updated when someone landed on the moon and so they were all these stickers and you would take the sticker out and you would go to look up him Moon and you would find the old article on the moon and you put in a sticker saying there's an update my mom and I would do that every year when the stickers came in my first editing an encyclopedia.
+
+2 (4m 35s):
+Jimmy eventually went to college in his home state of Alabama and he was really good at complex mathematics. So good. In fact that he went on to do a PhD in finance, but around 1992 Jimmy decided that Academia really wasn't the place for him. So he left to take a job as an options Trader in Chicago.
+
+1 (4m 56s):
+What I was doing is really just trading like buying and selling every day Arbitrage. So there's a lot of mathematical modeling to relate the prices of different things to each other to look for opportunities to find imperfections in the market in pricing.
+
+2 (5m 11s):
+So while you are In Chicago and the early 90s. This was also around the time the internet starts to become something that ordinary people are using Netscape comes out and people are like browsing the internet. Did you get into that?
+
+1 (5m 24s):
+Yeah completely. Yeah. I was I was really so even when I was before I came to Chicago I was really getting into the internet. So what I was doing I had no life. I was I just traded in the day and then we go home at night and I was working on my own web browser.
+
+2 (5m 40s):
+Wait you were making your own? On web browser like on the side like in your apartment. Yeah. How did you know how to do that? Did you just like sort of self-taught?
+
+1 (5m 49s):
+Yeah. Yeah, I mean in grad school. Obviously, we're from doing very quantitative data analysis things like that. I learned to program I was a bad programmer, but I you know, I can cook. Yeah. I just remember very clearly the day that Netscape went public and I had the I had been convinced for a few years time that the internet was going to be really big and really important and Really kind of fundamentally changed the world. And this was the moment when I felt like okay. Look the market is validating that like other people are seeing it and people are really investing money here. And so there was a bit of a transition period but it was really a 90 as a about 98 is when I left Chicago and I moved to San Diego and that was when I really decided, you know, I'm just going to I'm going to focus full-time on my internet ideas and projects
+
+2 (6m 38s):
+once Jimmy settle down in San Diego. He founded a small internet search each company called bomb s and because this was the late 1990s during the.com. Boom companies were paying top rates to advertise on these new things called websites. And so for the next few years those ad dollars made it possible for Jimmy to hire a small staff of programmers and they had the money to just kind of
+
+1 (7m 2s):
+experiment the idea was really at that time. This is pre-google. Remember the best web directory around was Yahoo, and Yahoo! Hired. Don't know hundreds of people to go around an index manually by hand index topics and categories on the web. Yeah, and then I said well look maybe the community can do that. Maybe other people can help out and if you could get thousands of people involved, it could be really bigger than than what Yahoo's doing and that was really the thought so we allowed people to come in and build an index to any topic that they were interested in. We called it a webring. I remember one of the first community members came in and built a web bring about Jupiter and so they had gathered a bunch of links about the planet Jupiter and they put it in and we're like, okay, that's cool.
+
+1 (7m 47s):
+That's great. Now, of course we doubled in all kinds of things. We had a few blogs and I remember my business partner at the time was talking about building what today I would say what his idea was sounded a lot like Facebook, but it was really more about people reconnecting with people from their schools and universities. It was a classmates.com kind of idea, but I mean keep in mind that this was also Where we started nupedia the predecessor to
+
+2 (8m 16s):
+Wikipedia. Yeah, so tell me about that because why you're at bomb s this thing nupedia grows grows out of it, right?
+
+1 (8m 23s):
+What was it? So, you know, as I said at all - we were always experimenting we're thinking of new ideas and new possibilities new things to do and I was looking at the model of Open Source software seeing that that worked. I was also looking at, you know at bombers we had community members who were building indexes to Intent that they were interested in so the idea of nupedia was to basically replicate that to say well, let's build an encyclopedia and have volunteers contribute to it. And I just thought you know, this this seems like low-hanging fruit. Actually. I remember I was in a quite a panic when I had the idea to hurry up and get started because I thought it was so obvious. So when I started nupedia, I really thought that other competitors were going to be out there, but after two years there was still no one really competing with us because it It wasn't as obvious as I thought and the idea was basically to just put a
+
+2 (9m 16s):
+make an online encyclopedia.
+
+1 (9m 18s):
+Yeah, but of course at the time, I didn't really understand Wiki the concept of a website anyone can edit. And also we had you know, a seven-stage review process to get anything published. So how would it work you would you
+
+2 (9m 33s):
+would write an article for nupedia and then it went through like seven stages before it was
+
+1 (9m 38s):
+published seven stages, but I mean some of the stages had to do with first. You have to propose the article you have to prove your qualifications to write it. We had a heart some staff. So Larry Sanger was the editor-in-chief and he would there was a whole process whereby you could apply to submit something and so forth and then they would be copy-editing reviewers much like academic review where you send it out to experts in the field for review and actually one of the things that was really a lightbulb moment in my mind was Of the first few articles that got through that process and was published. We had it up on the web for just a few days.
+
+1 (10m 19s):
+I would say and suddenly it came to our attention. Somebody said hey, this is really plagiarized. Oh and we checked into it and it's like ouch so like somebody just copied the encyclopedia know it wasn't from another encyclopedia was from other sources, but it was it was just it was not good and I realized even with all this process we built up to prevent this there was still plagiarism and that was a huge problem in the Fact the only thing that revealed it was more people reading it and people seeing in and saying hey, this is actually a problem and that there's an old saying in the open source software world that given enough eyeballs. All bugs are shallow and what that means is oftentimes when you're programming there's some kind of bug in your code and you just cannot find it and if you get another set of eyes on it or 10 sets of eyes, it becomes very obvious.
+
+1 (11m 7s):
+Somebody will spot it. Yeah, and so that concept does actually apply and lots
+
+2 (11m 12s):
+of
+
+1 (11m 12s):
+Areas of life that if you get a lot of people looking at something people can say hey, there's actually a problem here that maybe nobody else noticed and then sometimes after it's been pointed out usually. Oh, yeah, that's kind of obvious.
+
+2 (11m 21s):
+So I read that within a year after launching nupedia you the site produced a sum total of 21 articles, which doesn't sound like it was turning and
+
+1 (11m 33s):
+burning. No, it was not good and in fact as we proceeded through that year and I was very frustrated with the slow pace of progress. I decided to write an entry myself. I thought I just need to go through this process myself to see what's wrong with it, or how can we improve it? And so I decided to write an article about Robert Merton because I'd read all of his professional work on option pricing Theory which was my specialty back in Academia. So I was qualified enough to write a basic biography of him, but I found it very intimidating because I knew that they were going to take my draft and send it out to the most prestigious Finance. They could find to agree to review it and I was going to get feedback and it felt really a lot like grad school.
+
+1 (12m 17s):
+Yeah, and that was really the moment when I said, okay, look this isn't going to work like this isn't fun. We really have to make this a lot easier and a lot more open. And so that was a really crucial moment the moment that I tried to get something through the
+
+2 (12m 31s):
+system. So when you were working on nupedia, and you were like sending these draft articles around I guess probably be like all over the country. How are you collaborating
+
+1 (12m 42s):
+with people? Well, I mean this was the thing that one of the problems that nupedia had is that the only real way to collaborate back then was to email around a word doc. And if you emailed around a word doc, then the typical case is nobody responds, but the worst case is five people respond and they've all changed the document in different ways. And now you've got to figure out how to integrate that all but you know, the the concept of a Wiki which is a website anyone can edit. It was actually invented by a guy called Ward Cunningham. Who's this lovely great programmer. And so the word Wiki, it's a Hawaiian word which means quick and the idea was quick collaboration.
+
+1 (13m 25s):
+And so the idea is that there's a document on the web but anybody can come along and edit it and save it and so on we were the first to really say, hey, let's use that tool to build an encyclopedia. So the idea was you would you find out about this Wiki software and you think
+
+2 (13m 41s):
+yeah, let's What is this process of writing articles throw it up and everyone and then the entire Community will what kind of cross-reference and check
+
+1 (13m 49s):
+it? Well, I mean it grew a little more organically than that. We had a good-sized community of people who are working on nupedia. And so these people were all very eager people who loved the concept of a free encyclopedia for everyone in their own language. That was a really exciting concept. And so initially we thought well, let's start this as a tool for That community so it'll still be nupedia but we're going to use this Wiki as a way for that Community to begin to work together a little more efficiently and I made the decision to put it up the domain name Wikipedia.com rather than keep it on nupedia because we weren't really sure like, we had a lot of academics and other very serious people on the mailing list and this seemed a bit of a crazy idea and we thought they might find it offensive.
+
+1 (14m 39s):
+And so we said, okay, let's just set up on a different. Domain and see what happens. But of course the history is that Wikipedia very very quickly outstripped nupedia in terms of the content created in the quality and everything
+
+2 (14m 51s):
+else. I should know this Jimmy but I don't what was the was the first Wikipedia entry.
+
+1 (14m 57s):
+Unfortunately, there was no history kept of the very early days. The earliest history was lost. So we don't really know that the earliest article that anyone has found was an article on the letter q and I'm sure that was not the first article in Wikipedia. I know the first words in Wikipedia, they were hello world and I know because I typed them and then very quickly we just started doing lists of things States and things like that.
+
+2 (15m 25s):
+So I guess you launch Wikipedia in January of 2001 nupedia still still exist. Yeah, but what's it like in like two weeks you had more articles on Wikipedia then nupedia had generated in the previous two years.
+
+1 (15m 39s):
+That's right. Yeah. Yeah, of course as you mentioned Early, that's was something like 21. So it was a pretty minor achievement in one sense. But it was it was an eye-opener. It was like Wow, we've got this great community and people just started right in making articles on various random things and other people editing them and there's a lot of pent-up excitement about let's just get started building this and the the change from really this huge very intimidating process that was not very collaborative to being able to say, you know, and in those early days, it was very exciting. You could just be the first person to say Africa is a continent and hit save and while it's not very good but it's not wrong and it's a start.
+
+1 (16m 19s):
+Yeah, that was very addictive the the idea that you could actually change something.
+
+2 (16m 24s):
+This is all being run out of we're like, did you have an office in San Diego or was it just your apartment or what?
+
+1 (16m 31s):
+Yeah, it's small office with. This was steering the bomber stay. So we had a few programmers and sort of cheap office in a warehouse space. This is the period of time when ad Revenue was good. So we were able to just hire some people and get started.
+
+2 (16m 47s):
+So I guess you very quickly realized that Wikipedia is going to be could potentially be huge. Like did it seem clear like within the first months or year?
+
+1 (16m 57s):
+Yeah. It did it. Did I mean it, you know, I remember looking at a list of the top websites at the time and there was an encyclopedia reference kind of site at ranked at number 50 and I thought gee if we do a really good job we might Be number one hundred or maybe even in the top 50 but there was always this idea of like this could be a big thing if we can figure out how to do it. You could have a huge impact
+
+2 (17m 26s):
+in just a minute when Jimmy Wales was faced with the question of how Wikipedia was going to make money. He decided that it wasn't stay with us. I'm guy Roz and you're listening to how I built this from NPR. Hey everyone, just a quick thanks to two of our sponsors who helped make this podcast possible first to LegalZoom. It's easy to make the same old New Year's resolutions. That won't stick. So change it up this year with LegalZoom for over 19 years.
+
+2 (18m 5s):
+LegalZoom has helped more than 4 million people resolve personal and business legal needs LegalZoom isn't a law firm so you can count on their network of independent attorneys for advice go to legalzoom.com. And use code built for special savings LegalZoom where life meets legal thanks. Also to Microsoft. We all know meetings struggling to pay attention files seem impossible to find and if you're not in the room, you're not in the know welcome to the new way to work together Microsoft teams where you can contribute to meetings from anywhere chat with coworkers. So you're never out of the loop and find all your files and even edit them in real time in one convenient place.
+
+2 (18m 48s):
+When you're ready to unleash the power of your team open teams, learn more at microsoft.com teams. The night before his first scene with Catherine O'Hara Dan Levy was a little freaked out. This is my first time acting since a lifetime movie that I did with Mischa Barton the stories behind the celebrities every Tuesday on it's been a minute from NPR. Welcome back to how I built this from NPR. I'm guy Roz. So in the early days, Jimmy Wales was able to get Wikipedia up and running and he was funding it with money from his first internet startup Thomas Thomas was running ads the.com boom was in high gear, but then of course came the.com crash and all that ad money.
+
+2 (19m 46s):
+It dried up pretty fast and bombers would eventually have to shut down completely. But at the same time Wikipedia was growing and Jimmy had to figure out how to keep it growing without a lot of cash.
+
+1 (19m 60s):
+There was no money really to support Wikipedia, but it didn't cost a lot of money. It was really Community Driven and so, you know, it really was the volunteers and in fact, one of the reasons that Wikipedia became a huge success, I would say ironically is the lack of funding because if I had had the money if I'd gone to Silicon Valley and convince somebody to give me millions of dollars to start this then your natural instinct if you have any problem on the site is to say okay. Well, we just need to hire some moderators and we're going to make decisions. We're going to have staff members who decide things and instead we there was no money. We couldn't hire anybody. So as a community working together, we had to find our own Solutions.
+
+1 (20m 40s):
+And so we had to say, you know, what are the software Solutions? We need to be able to control for vandalism. And then imagine we have a really really tough editorial decision. We have to make how do we make those? Visions all of those things happened because there was no money to hire anyone because it would've been much easier to just hire people and that would have actually prevented the rise of a more natural set of solutions
+
+2 (21m 3s):
+and who was managing it. Was it just you and Larry Sanger
+
+1 (21m 7s):
+was just the two of you. Yeah. Yeah. I mean pretty much I mean we had other employees who were helping out and this and that of course, but you know, it's basically we had to think a lot about how to move the community the right direction, you know, there were a lot of really complicated questions around Okay. When do we ban people? When do we block people from editing? When do we think they've gone too far? And a lot of the editorial policy, you know, you have questions like to what extent do we allow people to write essays or commentary or put jokes in articles and decided know, you know, neutral point of view is like our core belief and so on but all those decisions had to be made and they were made in discussions with community and so
+
+2 (21m 47s):
+forth and you must have known Jimmy at this point in 2002 that Wikipedia was growing super fast and it was going to be could potentially be
+
+1 (21m 57s):
+huge
+
+2 (21m 59s):
+you decide I guess around 2003 to basically create a nonprofit organization to run Wikipedia. What was it the thinking behind that? Why did you
+
+1 (22m 9s):
+do that? So there were a few things going on there. So first of all, this was still the depth of the.com crash there was no obvious business model the community of volunteers very much wanted it to be in a non-profit and I thought that had to be taken into consideration and then finally for me it just made sense like it was aesthetically it just seemed like the right thing that Wikipedia my ambitions for Wikipedia to become a really important moment in history and a Important cultural contribution really made a non-profit a much more sensible option and indeed, you know, I think if we had gone in a different route, it would be very different today.
+
+1 (22m 52s):
+You
+
+2 (22m 53s):
+gave an interview to slashdot website slash Dot and you said imagine a world in which every single person on the planet is given free access to the sum of all human knowledge. That's what we're doing this amazing idea, but I wonder why you could not have done that. That same thing and still put ads on Wikipedia Blake banner ads and stuff.
+
+1 (23m 17s):
+Yeah, I mean, so here's the thing if you think about the DNA of any organization, it's very difficult to stop an organization from following the money. So Wikipedia is a non-profit and as a non-profit we could run ads no legal prohibition on a non-profit running ads as a means of support sure yet because the organization would tend to follow the money. And suddenly inside the organization people would start carrying a lot more about our traffic in highly developed advertising markets. Yeah, we would begin to care more about which Pages you're reading because if you're reading about Queen Victoria, there's probably very little to sell to you and there's probably the ad rates are very poor.
+
+1 (24m 1s):
+If you're reading about Tesla cars or vacations in Las Vegas or something like that. I mean we would have an incentive to start creating content that would drive. Higher ed revenues which is really not what we want to do. We're an encyclopedia. We don't think about adding features that might drive page views for traffic. We just think about how do we make the encyclopedia better? And how do we reach more people particularly in the developing world? That's just like fundamental to what this is all
+
+2 (24m 28s):
+about. So when you basically said right this is a non-profit. We're not going to have any advertising we're going to it's going to be user-generated content. How do you even fund that how uh, how are you gonna get the money to even fund that there the paying the servers and
+
+1 (24m 42s):
+yeah. Well, I mean, so what happened was the main reason that we went ahead and set up the nonprofit was exactly thinking of that for the future, but I had no idea whether it was going to be possible. So we set up the nonprofit in June and at that time we were running on two or three servers. And so then we had this disaster. It was a Christmas Day when two of our three servers crashed and I had to scramble to get the site running on one server and it was painfully slow and so forth and it was clearly obvious because the traffic kept doubling that we were going to have to buy a bunch of servers. And so that was the first time that I decided to do a fundraising campaign to ask people on the site to give money and these days we call it crowdfunding and it's you know, everybody knows it but back.
+
+1 (25m 29s):
+Then that was not a normal way of doing things and I remember very clearly that I had hoped to raise about $20,000 in a month's time. But in about two weeks time, we had raised nearly 30,000. So the first fundraiser was a huge success. I mean people really said, hey we have this is great. We really want to support this and so a lot of small donors and that of course today is the model for Wikipedia that people who believe in Wikipedia who think it's useful in there. Say hey, I should chip in when did you so Wikipedia really kind of starts to
+
+2 (26m 5s):
+just blow up in the early 2000s. When did you when did when we first sort of cognizant of that? When did you realize that Wikipedia was becoming really big black part of the national
+
+1 (26m 16s):
+conversation? Well, I think there were there were a few moments but I think one of the most important ones there's a guy John siegenthaler Junior who is a very esteemed journalist and He had called me up to complain about his entry. When was this? 2005 and he said hey, there's a problem because Wikipedia says that I was briefly suspected of having something to do with the Kennedy assassination. Now, this is a man who was one of the pallbearers at Robert Kennedy's funeral. If I remember the story correctly. It's a big friend of the Kennedy family and the story was absolutely untrue and once he called it was Took about 10 minutes to get that fixed and changed and we looked into how it happened and so forth and so we thought okay problem resolved, but then he wrote this scathing editorial in USA Today about the site and it got a lot of traction that story so we had this really big thing and they dragged me on CNN to yell at me and so forth and suddenly, we're in all the Press everywhere are traffic really exploded because of all the news coverage.
+
+1 (27m 27s):
+So that was the that was the upside. But that's not the way you want of traffic to explode but in the end that was actually a moment that was important for us. How come why? Yeah. So this this led in the community to a real reflection on quality on sourcing this is when we came up with the biography of living persons policy and really started say look if it's a biography of a person then anything negative in the article really needs to have a good quality Source because That's just not acceptable to have negative things about people that aren't true. And so we became quite Vigilant about that afterwards and of course, there's always the possibility of this happening and so forth and it does happen, but the community's very very Vigilant about it and tries hard to keep anything like that out of the site.
+
+2 (28m 15s):
+I mean, it's amazing because Wikipedia obviously on a day-to-day basis everyone use I use it every one you use it use it, but I remember at that time that John seigenthaler article just 2005. You know what NPR we were not allowed to use Wikipedia as a source. Source and it wasn't just NPR was it was all news organizations. Like we competed was not considered a reliable source, and it just shows you sort of.
+
+1 (28m 36s):
+Yeah. Well, I mean, I think that should still be your policy. I agree Wikipedia is quite good. It is definitely not perfect. And what I always say is Wikipedia is the place to go to get the questions not the answers. It's the way to get yourself oriented in the context and I actually always say go on The Talk page of any article and see what are the Wikipedia and struggling with it. You're saying gee, you know, this Source says this and these sources say that and there seems to be a conflict. Hey, that might be the most interesting question. You can ask is let's get to the bottom of this. There's conflicting information out there. And also, you know, if you want to use Wikipedia as a starting point, then you can always go to the footnotes and go to the actual source and that's what you should do.
+
+1 (29m 20s):
+So Jimmy, I've just
+
+2 (29m 21s):
+cannot imagine like running this volunteer organization with hundreds of thousands, maybe millions of people today certainly Millions. Who were voluntarily editing sites and did I ever just like get you so wound up that you just want to do it anymore?
+
+1 (29m 39s):
+No, not really and you know, the interesting thing is I remember in the very early days. I would get up at night and check the site because I was convinced that somebody is going to come in and trash it overnight which never happened and then quickly I realized like oh, yes a vandal did show up at 3 a.m. My time last night, but guess what somebody who's an own Community member was up. Australia and actually block the person and fix the problem and so you I began to understand like communities do inherently scale and I think that is part of what held me not be overwhelmed
+
+2 (30m 12s):
+by anything. So we're now in this phase in like the history of the internet people call it fake news. I don't like that term for obvious reasons, but but so much information that looks real that's not real. This is not new. I mean this has happened throughout human history, but now because there is so much information available. It's sometimes difficult for people to discern what's real and what's not and I and I wonder whether one of the challenges with Wikipedia is reasonable people are disagreeing about basic facts.
+
+1 (30m 42s):
+So, how do
+
+2 (30m 43s):
+you In sales at how does how does Wikipedia deal with that?
+
+1 (30m 48s):
+I mean a few of the elements so one when we think about the quality of sources, that's a really core thing in Wikipedia and we have a lot of discussions and debates and I think a fairly sophisticated approach to thinking about the quality of sources and I agree with you. I don't like the term fake news, but the original use of the term was really about clearly completely made up websites that look like new sites with No concern for the truth with outrageous headlines and so on and those kinds of sites have had almost zero impact at Wikipedia because while you know, that might do well to share on Facebook something that comes from a publication called the Denver Guardian because it looks like a new site and Denver.
+
+1 (31m 31s):
+Everybody knows Denver's a city in America and guardian sounds like a newspaper. So it seems plausible enough the wikipedians would take one look at it and say I've never heard of that paper that stuff doesn't really It into Wikipedia a broader problem that I am concerned about is right now the Trust in Media in the US but also around the world but in the u.s. Is really an all-time low, you know, but it's a tough problem and I think it's a societal problem to say look we really do need quality information. Most people are very passionate about wanting to be told the truth. Yeah, you know the best way to prepare people for authoritarian rule is not to indoctrinate them into An authoritarian philosophy, but to make them believe that there's no such thing as truth.
+
+1 (32m 19s):
+And that's that's a trend that I'm not
+
+2 (32m 20s):
+happy about. How many do you know how many Wikipedia Pages there are today in English? For
+
+1 (32m 27s):
+example, there's over 5 million in English last I checked so so total
+
+2 (32m 33s):
+probably in all languages could be
+
+1 (32m 36s):
+40 million. Wow close to 50 plus 250. Do
+
+2 (32m 41s):
+you know do you even know how many people
+
+1 (32m 42s):
+contribute to
+
+2 (32m 43s):
+Wikipedia around the world?
+
+1 (32m 46s):
+It's something around 75,000 people every month who make at least five edits it Probably three to five thousand is the core community of people who are making a hundred or more edits. And so that's quite a lot of people but it's not as many people as some might think and of course making five edits in a month, that's not a huge amount of participation, but you're pretty, you know, you're around. Yeah, and there'll be a lot more people who just make one at it a year, but in terms of the real Community, it's probably that
+
+2 (33m 18s):
+75,000 Jimmy what motivates 75,000 people Alors or a few hundred thousand people to donate hundreds of hours of their time every year for free to do this.
+
+1 (33m 32s):
+Yeah. I think it's two things. So first, you know the mission a free encyclopedia for everyone in the world is Meaningful. I mean, you could spend your hobby time playing Grand Theft Auto or doing something else and the world wouldn't be any better off when you're done and if you spend a few hours editing Wikipedia you can Go to sleep and think yeah, it was productive. The world is a little bit better than it was and someone somewhere will benefit from that and that's great. And then also just fun people you get to meet people who are interested in the things you're interested in no matter how obscure the ethos of the community is to say look no personal attacks. We're here to discuss the content.
+
+1 (34m 13s):
+If you go on the discussion page for a controversial topic, you're not there to just debate that topic you can do that lots of a place on the internet what you get it Wikipedia's debate about how do we improve this article? And that's just a refreshing kind of feeling and so a lot of people really find it suits their personality. Do
+
+2 (34m 35s):
+you know what the revenue is like anywhere Avenue for Wikipedia from donations? Yeah I
+
+1 (34m 40s):
+Revenue I should know the number exactly off the top of my head, but I don't but I think last year was around 85 million dollars.
+
+2 (34m 47s):
+Wow, just from
+
+1 (34m 48s):
+donations just from donations. Yeah, incredible primarily from small donors. That's Don't understand that when the community gets together to debate something about what they want to have Wikipedia say what a policy should be. There's never a question of well, what will the funders think? Yeah and over the years. We've really tried to run the organization in a very financially conservative way every year. We try to build our reserves a lot of our donors one of the things that they really want from Wikipedia. Is that Wikipedia be safe. And so that drives us to say, okay. They don't want us to run on a shoestring. Ring they don't want us to run nearly a break even and nearly going broke every year. We need to be stable and that's been a real value for many
+
+2 (35m 30s):
+years. When you think about this thing that you built and your role in the history of the internet how much of the success of Wikipedia do you think it's because of your Brilliance and your hard work? And how much do you think is simply X of luck
+
+1 (35m 48s):
+a huge amount due to luck Brilliance and hard work? Okay, maybe not so much. Do you think a component of the success of Wikipedia is that I'm a very friendly and nice person and I'm very laid-back. And so therefore I was able to work in a community environment where people basically yell at you and you just have to kind of roll with it and you're in some sense a leader, but you can't tell anyone what to do their volunteers. So you have to work with love and reason to kind of move people along in a useful way. So I do think that I'm not irrelevant to the process. But I also think that you know, the community is amazing and the luck of the timing of really hitting that moment when it was possible to build
+
+2 (36m 34s):
+Wikipedia Jimmy. You've seen the estimates that you know that if we can pedia were a for-profit. It could be worth at least five billion dollars maybe more.
+
+1 (36m 48s):
+Yeah. Does it mean anything to you? No, not really. I mean it's you know people they love to write about Jimmy Wells is not a
+
+2 (36m 59s):
+billionaire. I think there's actually their articles with that headline Jimmy we have done
+
+1 (37m 4s):
+exactly and and for me, that's all a bit odd because you know, my life is unbelievably interesting. I have the ability to meet almost anyone in the world who I want to meet ya and usually I introduce myself. I'm Jimmy Wales founder of Wikipedia and they go. Oh, wow, right? Yeah and If I'd say, I'm Jimmy Wales eye on a largest chain of Car Dealers across the southern part of America people who like okay whenever like not that interesting at least in that regard, I do I do think that no one will remember me and 500 years, but they'll definitely remember Wikipedia and that's really I mean, it's really something I mean, that's something that you can really hardly even get your mind around there been comparisons to the Gutenberg Press, right?
+
+1 (37m 46s):
+This is
+
+2 (37m 46s):
+the biggest sort of dissemination of knowledge in modern world.
+
+1 (37m 50s):
+Three. Well, yeah, but I don't know. It's a bit embarrassing to talk about it. That way. I'm just trying to have fun. It's Jimmy Wales founder
+
+2 (38m 1s):
+of Wikipedia by the way a few years ago. Jimmy got grief for trying to change his own Wikipedia entry, which is a big No-No his entry showed. He was born on August 8th 1966, which is what his birth certificate also says, but that was a mistake because according to his mother Jimmy was actually born shortly before midnight on August 7th. So he made the change only to be confronted by Angry Wikipedia editors who demanded documentary evidence, which of course he could not furnish because all he had to go on was his mother's version of when it happened. Anyway for the record. We just double check the page and according to Wikipedia the man who created Wikipedia was in fact born on August 7
+
+1 (38m 47s):
+1966
+
+2 (38m 55s):
+Support for this podcast and the following message come from the Walton Family Foundation where opportunity takes root more information is available at Walton Family Foundation dot-org. Many of us have imaginary friends as children, but for some of us these invisible companions don't go away. She was as real to me as my friend next to me this week on hidden brain from NPR. Hey, thanks so much for sticking around because it's time now for how you built that and today we're updating a story we did about a year ago about a dating app, but not just any dating app.
+
+2 (39m 37s):
+I'm a single dad of a sweet Wheaten Terrier who loves to play and this is a dating app with profiles of people and their dogs very friendly and well-educated never bites always wagging his tail. Let's go to the park and let's get our dogs to play. So the voice you just heard is Lee D'Angelo. Lee's story starts in 2016 when her younger sister Casey had just gone through a breakup. She was dating a guy who tried to be a dog person for her. But by the end of the relationship, he didn't want the dog in his apartment. He could put towels down on the couch. So the dog didn't touch anything and she came to me and said I wish I just knew from the start that this wasn't going to work because of my dog and so the sisters thought could there be a dating app that might solve this Mmm, an app where someone like Casey could say upfront me and my dog we are a package deal.
+
+2 (40m 31s):
+She has a calves appu. I mean there is truly nothing that looks more like a teddy bear than her dog. And so we said, you know, if someone can't like this then clearly, you know, you need to find someone with a at least a little bit more dog person in them. So they started to kick around this idea and they realized the way people take care of their dogs can say a lot about their personalities. How much money do you spend on your Pets are other things in the house, you know, how clean do you keep your house things like that might predict whether to dog owners are really compatible. Does your dog sleep in the bed or out of the bed. Do you let your dogs on furniture? Do you always pick up dog poop on the walk? That's a big one.
+
+2 (41m 12s):
+That's a big one. And by the way, if you are listening and you have a dog, please do pick up the dog poop off the sidewalk just a favor. I'm asking anyway in July of 2017 the sisters began developing their app now Lee has A background in journalism and Casey works in advertising design. They had never done anything like this before. So at first they pooled their money together and their dad put in a little bit to and then they got into an accelerator program. They found a chief Tech officer and a team of developers to help them build the app. We actually went through for development teams because Liam Casey had a hard time finding just the right match. It can be very scary when you have a limited amount of money.
+
+2 (41m 55s):
+To build this product and you see it either taking forever or you know not looking the way you want it to and watching your money drain at the same time, but after seven months they're dating app was ready and they launched it on Valentine's Day. We weren't the first dating app out there. So we were able to learn from a lot of other people's mistakes. There have been interesting dating apps that have tried to launch nationally and they get a lot of attention really quickly but because You need a lot of people in one place in order for a dating app to work. They just fell apart. So Liam Casey decided to get the word out city-by-city starting in New York Lee even hosted events in each City these big dog friendly parties pet companies paid to set up booths that meant revenue and dog owners.
+
+2 (42m 45s):
+Well, they would come and stay and mingle and after each launch lien Cayce saw a spike in new users. We knew there was nothing more valuable. Been getting a lot of people on the app. So our users could find more people to match with the app is called dig. And since we first ran the story, it's launched in 15 cities and now has nearly a hundred and thirty-five thousand users Liam Casey. Also got a fifty thousand dollar startup Grant from Purina to help with marketing and they even celebrated the first engagement of a couple who met on dig and yes Lee knows what some of you single people with cats are thinking where's my app?
+
+2 (43m 25s):
+Oh, yeah, we get the cat question all the time, you know surprisingly. We actually get the horse question all the time course people definitely need to have their own conversations too. But for now dig is all about the dogs and the people who love them. If you want to find out more about dig or here previous episodes had to our podcast page how I built this dot npr.org. And of course if you want to tell us your story go to build dot npr.org and thanks so much for listening to the show this week. You can subscribe wherever you get your podcasts. And while you're there, please do give us a review. You can also write to us at HIV T at npr.org and if you want to set a tweet, it's at how I built this or add Kyra's our show is produced this week by Casey Herrmann.
+
+2 (44m 11s):
+Even with music composed by routine Arab Louis. Thanks. Also to Sequoia Carrillo Candice limb, Julia Carney Neva Grant and Jeff Rogers. Our intern is rainy toll I'm Gyros and you've been listening to how I built this. This is NPR.

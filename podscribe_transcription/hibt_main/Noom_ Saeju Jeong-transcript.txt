@@ -1,0 +1,827 @@
+0 (0s):
+Sometimes the economy can be a scary place. The market's down further right now after
+
+1 (5s):
+Skyrocketing costs, instantly share interest rates.
+
+0 (9s):
+That is where planet money. Summer school comes in. We are tackling the big questions every Wednesday, till labor day on the planet money podcast from NPR,
+
+Klaviyo (19s):
+Ready to turn your small eCommerce business into the next big thing. Clavio can help. It's the easy to use email and SMS platform that gives you everything you need to build genuine relationships with your customers. And even if you're new to marketing Clavio can help you become an email expert with drag and drop design templates, simple insights, and made for eCommerce reports and recommendations. Give it a try with a free account at clavio.com/built. That's K L a V I Y o.com/built
+
+AT&T (54s):
+when building a business, there are tons of moving parts. One that's often overlooked is having the right network, thankfully with at and T business. You can pick the best wireless plan with the features you need for your small business. For example, your teams can work remotely with phone to laptop, tethering, and up to a hundred gigabytes of hotspot data on the best plan from at and T business, wherever business takes you@andtbusinesshasthefeaturesyouneedvisitatt.com slash B I Z U Y w after a hundred gigabytes with their at and T unlimited elite plan. Hotspot speed is slow to a max of 1 28 K BPS.
+
+4 (1m 33s):
+The reality was guy that we didn't have much money left in the bank. I remember we had like $2,700 and I yeah. Returned to our one bedroom office during the summer. I remember we had the one tiny AC and super hot. So we were all like wearing only the, the underwear. Cause
+
+2 (1m 56s):
+It was so hot.
+
+4 (1m 56s):
+Yeah, everyone just wearing the underwear and there's a fan, just like one fan and one tiny AC was like struggling to blow out the cold air. He's not cold anymore. Even like one of the engineer had like the towel around his neck because he was sweating too much. And I, yeah, I had hard to not cry because I felt so bad.
+
+2 (2m 23s):
+Welcome to how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Raz. And on the show today, how a failed idea for a stationary bike led to more failures before SJU sad, Juang landed on Noom, a wellness and weight loss app with millions of users. There's a book that came out in 2009 called nudge. It was written by two influential scholars, Richard Thaler and CAS Stein.
+
+2 (3m 4s):
+One of the central arguments, the writers make is that it's possible to nudge people into making better decisions about their finances, their health, and even their happiness. And you can do this. The book argues by making very simple tweaks in how you present information and options to people. The book was incredibly influential. It was almost required reading in the Obama white house. And it also had a huge impact on business and marketing. It's why for example, many companies automatically enroll their employees in retirement or health plans rather than ask them to sign up. It turns out most people want to participate in those things, but many of them just forget to check the box.
+
+2 (3m 49s):
+I mention all this because it plays a somewhat indirect role in today's story because the two founders of Noom, we're very much trying to figure out how they could encourage small tweaks in human behavior to help people get healthier and more specifically to lose weight. But initially that wasn't quite the plan in 2008, when SJU J and Artem PECO launched, what would eventually become Noom? The health and wellness space was just taking off online. Sage J's original idea was for a stationary bike linked to a smart screen, sort of like what Peloton is today.
+
+2 (4m 29s):
+His idea eventually morphed into a cardio trainer, sort of an early version of Strava, but SJU discovered that many users were looking for a different type of app. One much more targeted to helping them lose weight, which is by the way, one of the hardest things in the world for a human being to do, but SJU and his partner Artem wanted to try to build something that might help. So they designed Noom as a holistic approach to weight loss. It's not a strict diet, but it uses a detailed system for food tracking and incorporates fitness, stress management, and good sleep into the program. It took many years, lots of failure, a few different business models, and even some team mutinies before Noom finally got traction today, the app is used by tens of millions of people and if Noom files for an IPO sometime in the next year or so, which it's been hinting at, it could reach a market cap of around 10 billion.
+
+2 (5m 32s):
+All of which might surprise you when you hear how OU John got to this point. He arrived in New York city from Korea in 2005. He was in his mid twenties and he knew almost no one, but he had a little bit of money saved from his first business, which was such a different type of business from Noom that I don't even want to give it away. Just yet. What I can tell you is that SJU arrived in New York, open and earnest and ready to learn and was lucky enough to meet his business partner Artem pretty much by chance. SJU grew up in Josu a small fishing town in South Korea. His dad was an OB GYN and his mom trained to be a professional violinist.
+
+2 (6m 15s):
+And when SJU was growing up, he felt an extreme pressure to succeed.
+
+4 (6m 22s):
+You know, in America people speak about tiger. Mom tiger. Something like that. Right. I would say Korea kind tiger society, tiger parent tiger teacher. I would say, yeah, let me give you example. You will not believe this, but I will tell you exact my memory in my high school, I went to school by eight o'clock in the morning. Yeah. And I came home 10:45 PM. Wow. Yes.
+
+2 (6m 46s):
+Wow.
+
+4 (6m 46s):
+Believe me.
+
+2 (6m 48s):
+It was, and, and it was about achievement, right? Because I guess yes, achievement means is a status symbol.
+
+4 (6m 55s):
+Correct. Very important. Taking on exam, like S a T test in South Korea is very important and that is a major parameter to measure how good student you are from college. Yeah. And that test is designed that every single student take an exam at same day at the same time and same test. I mean, I still don't get it kind of, if you are unwell that day, for some reason, stomach a or if you are just sick, you are screwed. It's your business that you, you did not manage your condition well, because they give you exact time. Exact date for entire class in out of entire nation is taking exam at the same time.
+
+4 (7m 40s):
+You'll be surprised even the airport stopped at the service because they wanna make sure the student can pay attention during the test.
+
+2 (7m 50s):
+Yeah. I mean, it sounds like it was very important to you to be a good student, to be a, to succeed academically. Is that true?
+
+4 (8m 1s):
+100 person. Yes. My family background has some little story that our family, we, we run the hospital together. My uncles are doctors and my aunts are all pharmacists. So the, the general theme of John family is like, we have to produce more doctors. So the pressure was like extra, to be honest.
+
+2 (8m 23s):
+So it was your intention to become a doctor. That was what your goal was.
+
+4 (8m 27s):
+It was a preset, to be honest guy. It was preset. Yeah. I, I didn't even, haven't thought about becoming a non-doctor career in my life.
+
+2 (8m 37s):
+And I mean, eventually you had to take those exams. How did you do?
+
+4 (8m 43s):
+I was a good student, I would say. And I, I studied hard and the, the, I call it judgment day, the day arrived. And I took a exam and I, I did my best and was waiting for the result. And the reason came out just like a little shy to be guaranteed to go like medical school, because all the good students go to medical school. So I was like, okay, we'll see a little like, shy number. We'll see. But I failed. So I couldn't get into medical college if vividly, remember that I cried so hard. Like I closed the door and was so embarrassing, stupid. It has to be really top of the top.
+
+4 (9m 24s):
+And I was okay, so I was go, oh God, how can I deliver this news to my parent? Right. And I just, I, I, I felt exactly. And I still vividly remember that that day, the afternoon, you know, the sun looks very gray and then the, the world was kind, really like coming down. That's how I felt, because I felt that's the, that's the outcome
+
+2 (9m 48s):
+You did end up going to college. Right. You actually studied electrical engineering. Right? Correct.
+
+4 (9m 53s):
+I did.
+
+2 (9m 54s):
+And I guess at some point you, we should mentioned this. You grew up obsessed with heavy metal, like hardcore heavy metal, mostly American heavy metal.
+
+4 (10m 8s):
+Yeah. American knows European, both. I mean, whatever, heavy metal music like yeah.
+
+2 (10m 12s):
+Yes. Like Megadeath or even beyond Megadeath.
+
+4 (10m 15s):
+Oh yeah. Mega this good start. I would say mega death. MEA is a good start. I recommend you. I mean, all the listeners, by the way, they're still very good. And their elbows are great. Still
+
+2 (10m 25s):
+Amazing. But that was just like dipping your toe. You're talking about like extreme, hardcore metal. Exactly.
+
+4 (10m 30s):
+It's just like half metal. One on one is a mega desk. Right. And then, and then entering into a deeper level of death metal, like black metal, like progress metal, all the metals. Like you can't imagine my God, you don't want to even, you know, like it's intense fast and like, you know, crazy guitar. That's my music.
+
+2 (10m 50s):
+So how did that happen? How did you get into like hardcore heavy metal?
+
+4 (10m 56s):
+Well, one that listened can accidentally listen. Some like have meta music from radio station. And I called that and asked my sister, Hey sister, what was the music? Oh, it's called hard rock in. America says you hard rock. And I went to the record store and then asked, I wanna buy a hard rock music. And he gave me, and that was beginning when I was like a nine.
+
+2 (11m 21s):
+Wow. I'm trying to imagine you in your bedroom, at your home in right. The town where you grew up in Korea, right, right. With a mother who was like a semi-professional right. Classical violinist, right. With heavy metal music blaring out of your room, like, what did they say?
+
+4 (11m 37s):
+They just laugh at me. That's the part. I really, really appreciate my parent that they boss were extremely generous. They'd not judge me badly. My father never asked why'd you like it? My father just was like, you like the music and dad is so good. And I, one day I remember clearly it's the kind of gift that I brought him to my room and I played Panera, you know, Panera.
+
+2 (11m 57s):
+Yeah. Panera.
+
+4 (11m 58s):
+And he actually listened to the Panera music with me. And I said, dad, this is like so good. Don't you think in my desk going, yeah, it's very energetic. Right. And let's go and have some dinner just like that. They stick my hobby, I would say.
+
+2 (12m 12s):
+So you're in college. You, you were really into heavy metal music. I bring this up because I guess when you were like 19, you kind of started like a heavy metal record label in Korea. What, what was that? What was that label?
+
+4 (12m 25s):
+So I entered the school and I studied lecture engineering because it looks very safe choice. Right. In terms of Korea growth and Korea is kind of known for, you know, a lot of good, like the tech company, like Samsung, LG, but I'll be honest from day one. I was like, why am I here? That's that's all day long. I was thinking, I couldn't pay attention to orientation program at school. And I was a completely lost guy. I was completely lost from like, why am I waking up? And where am I going to school in class? And I was shocked how much I have to study about like advanced physics and magnetic field, all that stuff. And I was like, oh my God, am I wanna study this?
+
+4 (13m 6s):
+And also like, what if I become a best student, I may have a chance to go to the Samsung S which is a best case outcome and is, oh my God. My life is like a doomed. That's how it felt.
+
+2 (13m 19s):
+So BA basically you, you, you are thinking like, I don't wanna end up working a place like Samsung, cuz that would just be a miserable life. Right. And, and you were clearly miserable at school. Right. And, and I'm assuming you were probably listening to a lot of heavy metal music around this time. Yeah. But how did, how did the record label come about? What, what got you started with that?
+
+4 (13m 41s):
+So I got into more, I mean, because I was, I went to school in soul. Right. So I was like a kind of like forced to be independent. So I receive a like ultimate like freedom kind of. Right. So I listen to meta more music. I had expectation if I come to Seoul, which is kind like the city in my world, I can have easy access to have meta music, which it was very difficult to purchase from yo where I grew up because I, by the time I was already listening beyond Metallica. Yeah. I was listening to like death metal from like Philadelphia, nobody care. But I wanna listen that I have to buy from like some importing, you know, record, record studio.
+
+4 (14m 23s):
+And it's just hard. Yeah. Remember those days, CD and Casa tape that you have to purchase, not a streaming service.
+
+2 (14m 28s):
+Right. Of course. Yeah. Obviously before Spotify, you oh yeah. Right. You'd go and buy your music at a physical store. And I'm assuming that in Korea, there probably wasn't like a, like a heavy metal record store on every street corner. Exactly. So, so you would probably have to have to make a special trip to, to wherever that store was. Right.
+
+4 (14m 49s):
+Exactly. So I, I took like 45 minutes away and got there finally. And then do you have that album for like a it's kind like demo of work and yeah, I don't have it, but you told me that like one hour we have it. So that's why I came sold out and I was like, that's it. Yep. And when can I get it? Probably like another month or two months, give it a try a month later kid. And then they treat me like a bad and I was so mad about this attitude. And then I was in deep thinking on the way back and I found the company next day, it's called by heart.
+
+2 (15m 25s):
+But just to be clear, you were not, you were, it wasn't like a studio where you recorded death metal bands like Korean death metal bands. It was basically a way to import records from the us and Europe in cheap, in a cheaper way.
+
+4 (15m 40s):
+Correct. So I did it as a Bihar distribution first and then it evolved by the production. So the know about yes.
+
+2 (15m 48s):
+How did the business do cuz it, I don't think it lasted a very long, right?
+
+4 (15m 52s):
+Yeah. I have personal story that it didn't last that long, but it was quite successful in the beginning. To be honest, I was lucky that 1999, the.com arrived
+
+2 (15m 60s):
+The.com. Yeah.
+
+4 (16m 1s):
+Right. So it was perfect time that I could convert that I didn't need to have a retail space. I could start online and my best friend was like computer nerd. And I asked him, can you do.com? It's no problem. So
+
+2 (16m 15s):
+He made a website for you? Oh
+
+4 (16m 16s):
+Yeah. 100%. Yes.
+
+2 (16m 19s):
+Yes. And how did you, I mean, did you need any money to start buy hard productions or was it just like,
+
+4 (16m 23s):
+Absolutely. So when I started, I need like around like 3000 grand I had in my bank. Yeah. Because that money was a pad I received since elementary school. So
+
+2 (16m 33s):
+Yes. Where were you selling you and you were selling entirely through the website. You were selling music to
+
+4 (16m 38s):
+The website website, website to wow. Have metal listeners in South Korea. And you know what? Yes. Have metal music will never become like major music. I get that. Yeah. But once you are into have metal music, brother, sister, you love
+
+2 (16m 50s):
+It. You're there. It's a, it's a tribe. It is. Oh my God. It was. Yes. Yes. I mean, I'm not part of the tribe, but I know I recognize the tribe, but so you, you, and so what happened? I mean, you're getting people buying these records. Why didn't the business continue?
+
+4 (17m 9s):
+So what happened was, so the business growing grew really fast and I got a call from my mom one day and you know, like my mom's voice was kind of like not normal. I, I can tell something wrong. She goes, likes you. We need to have you now. And we are gonna test my family discussion. And I was like, oh my God, mom don't tell me is about the health, right? Either about health, about you or dad and my mom just silent. But I can't hear from the phone that she was crying and was like, oh man, really mom. Really? And then I, I took a train back to Josu. It took seven hours to get there.
+
+4 (17m 50s):
+It was longest travel ever. I had like, you know, the feeling of anxiety, like, yeah, mom, just tell me what's going on here. I mean,
+
+2 (17m 57s):
+You didn't know what was going on. No, you just knew that there was a family discussion that you had to go home
+
+4 (18m 1s):
+For. Mom would have discussion, you know, together. And my sister was already there. And as usually my father was in the center of Latino table and my father laid out what happened and what's gonna happen. So he basically told us that he got a lung cancer coming to lung cancer, that stage four very serious condition that as a doctor, he knows what's gonna happen. And not much time left. The message was very, he delivered that very calmly. He didn't set the false expectation nor he didn't give up. He said, so this is very unfortunate, but I'm gonna engage with this plan, that plan, he laid out the plans with the chemotherapy, but it was not easy to digest the information.
+
+4 (18m 47s):
+Very difficult cult I was into very, I really loved finally, like I could tell my dad, like finally I found my direction, dad, I think I have a, you know, talent in entrepreneurship, all that. Right. And I, I felt like dad, I was derailed, but now I'm on track. That's how I felt. But when I heard that, I felt like it's too early to receive the message. I, I need you to be there so I can show you, you know? And it was very difficult, very difficult.
+
+2 (19m 24s):
+You were, I think your dad told you he had about six months. Right? And he did survive, I think for almost a little bit more than a year. Yeah. You were really close with your dad and he was a young man. He was only 51. You were, I think 21 at the time of his death. I can't even imagine, say Jew, how difficult that was
+
+4 (19m 52s):
+Difficult. I also realized now I'm like, basically my father's departure and you know, the, the last month with him was a precious gift to me, to my family. And that event completely changed the way I view the world still today.
+
+2 (20m 10s):
+Yeah. You, I, I mean, as I say were, this was in 2002, you were young, there were 21. And in Korea, I think all young men must serve in the military for a period of time. You have to do your national service. And it was around that time where you also began your military service. I wonder in a strange way, if that, you know, if that helped you after your father's death, by giving you something to focus on or, or if it was hard, I mean, your dad pass away and, and you start your military service.
+
+4 (20m 52s):
+My military experience was very invaluable to me and extremely helpful to me at this moment. What happened was after my father passed away two years after my senior member at my pod,
+
+2 (21m 5s):
+This was like your captain of your, of your platoon or
+
+4 (21m 8s):
+Yeah. And he yelled at me and actually he slapped on my face and said, Hey, save you two years, stop morning. Your dad is gone. You gotta wake up. Wow. Wake up. And I asked back, is that that long? Yeah. Two years. I think that's enough. Don't you think son? And I was like, yeah, two years. And then I changed my perspective thinking on that event of the death of my father. And then I paid attention. If he is alive, what would he care at this moment?
+
+4 (21m 49s):
+And an answer became very clear because before he passed away, he second Siji my only departure will make you very strong, very strong. That's what he said. You are sad today, but you'll become very strong. Like the bird know how to fly birds that get out from the nest sooner. They can learn how to fly faster. And you are basically doing that right now. I'm kicking you out of nest. So to not take this event too bad, that's what he said. And he goes, I am sad personally, because I know you have a great potential and you will achieve a success.
+
+4 (22m 29s):
+And that story, I cannot be there. I cannot watch. So I just realized it is true. I'm here with some talent, but I have more and I, I don't know what else I can do better and I should optimize and learn so I can become a better person.
+
+2 (22m 49s):
+So I guess this is around 2005. And, and after your, your time in the army, you decide to come to move to the us, to, to New York. Right. And I guess, I guess you get a student visa to come here, so you can study at a music college in New York. Wow. But you are, I think you were still thinking about keeping your business going or, or doing something with, with that business, right?
+
+4 (23m 16s):
+Oh yeah, of course. I figured my path of being an entrepreneur from Bihar, distribution and production. And I was looking for how I can scale that up and do better and learn. So yeah, 100%.
+
+2 (23m 31s):
+And so when you arrived to New York, did you, but did you know anybody there?
+
+4 (23m 36s):
+No one, no single human? No. So when I left Korea, my mom, I told my mom, mom, I figure from Bihar production at first year, I made more than a million dollars. Mom,
+
+2 (23m 48s):
+IHeart did over a million dollars in revenue.
+
+4 (23m 50s):
+Yes. And I know how to make money. I think I will not die out of a starving. I will do it again. And, and I, what helped me to, once I cracked our million dollar revenue, that really changed the way I see the money
+
+2 (24m 5s):
+You thought, because you realized that you could do this. I mean, you, you know, this was a very specialized world, right. It was heavy metal death metal, but like you were the center of the eCommerce world for, in Korea, so. Correct. All right. So you go, so you get to New York, you know, nobody,
+
+4 (24m 20s):
+Nobody, you've
+
+2 (24m 22s):
+Got some cash with you. Do you remember how much you had with you?
+
+4 (24m 25s):
+Yeah. I remember that I brought like $5,000, 5,000 below $5,000 actually. Okay. And the reason is I gave all my money to my mom, the, what I made from Bihar. And I reset my sister
+
+2 (24m 38s):
+Supporter. I guess your, of course your dad wasn't was obviously not, not around. So you get to New York. I mean, it is a big city, but you were, you were by yourself, in a country where, you know, you were, it was not your native language. You didn't know anyone. Right. Right.
+
+4 (24m 55s):
+So I settled in north Massapequa,
+
+2 (24m 59s):
+North Massapequa in long island.
+
+4 (25m 1s):
+Yeah. How do you know that?
+
+2 (25m 3s):
+You know, I got my geography down, but you're saying you, so you didn't even move to the city. You moved to north Massapequa, which is like, how, how come you settled? There was it was it just cheap?
+
+4 (25m 12s):
+Yeah.
+
+2 (25m 13s):
+Okay. I got you. Were you, did you feel lonely?
+
+4 (25m 17s):
+I was completely lonely. Really? I was lonely. I even spent like 40 minutes with sprint the custom support center because I was lonely. Sometimes I wanna learn English.
+
+2 (25m 26s):
+But you would, you would spend at the customer support center for
+
+4 (25m 29s):
+Just speaking to human.
+
+2 (25m 31s):
+Oh, on the phone.
+
+4 (25m 32s):
+Yeah. Sprint. You
+
+2 (25m 33s):
+Would call the customer service people at sprint cuz I'm wow. Yeah.
+
+4 (25m 36s):
+I'm not, I'm not.
+
+2 (25m 37s):
+Wow. Yeah, no, I'm, I'm, I'm feeling it. I did it. I wish I was there. I would, I would, I would've hung out with you. You moved all the way to New York city only to live in north Massapequa. Oh yeah. No disrespect to people in north Massapequa, but that's not, it's not living the dream, not living the dream.
+
+4 (25m 52s):
+Not really
+
+2 (25m 53s):
+Of, of moving to New York city,
+
+4 (25m 55s):
+But that's how I
+
+2 (25m 55s):
+Started. Gotcha. Right. Okay. And, and from, from what I, from what I've read, not that long after you got to the us to, to New York, you got an invitation to a party, right. Where you would meet somebody really important. Somebody who would, who would eventually factor into your future here. And, oh my God. Yes. And I guess how this happened is that like I read like some distant relative of yours, who was a student at Princeton, invited you to a get together in New York with, with a, a bunch of her friends.
+
+4 (26m 25s):
+Right. So they were looking for a bar and by the way, they call themselves, like, we are Princeton university, like eating club, like nice.
+
+2 (26m 33s):
+They were one of the eating clubs together. These are like these they're, they're like kind of like residence halls.
+
+4 (26m 38s):
+Exactly. Can say that. Yeah. Yeah,
+
+2 (26m 39s):
+Exactly. And it was all their Princeton, all their Princeton friends,
+
+4 (26m 42s):
+100%. I'm the, I'm the only non Princeton and who don't even speak this properly. I was kind of odd guy and I was invited and they were like very nerdy Princeton guys. Right. And they were looking for, oh, we should explore New York city because we are New York. We should not just go to bar. And I told them, Hey guys, I'm gonna take care of you because that's how it works in Korea. And I took them to Korean bar.
+
+2 (27m 7s):
+Oh man. So you guys are hanging out on the town. Right. And there's a guy there named Artem. Yep. And he was also a, an alumni, Princeton alumni.
+
+4 (27m 19s):
+Exactly. Artem was one of the group member there. He studied computer science at there. Yep. Art
+
+2 (27m 26s):
+PECO. And I guess at this hanging out like you and art team kind of hit it off, you started talking, what did you talk about? What? I mean, how come the two of you hit it off?
+
+4 (27m 36s):
+So what happened was I was sitting with like a complete prince alumni people. Right. And they would not gimme any like interest to pay attention this random guy. Right. And I was trying to participate this, like, you know, a lot of random topic here and there, that table here table. And I was trying to get lost, but I was like, Ugh, I wanna know about this guy, but I cannot get into. And I told he paid attention. I was like, wow, this man has a pretty good empathy to like me like immigrant and nobody
+
+2 (28m 6s):
+Our time. I think he is the, he's the child of Ukrainian immigrants. Or maybe he even came to, to the us from his child.
+
+4 (28m 13s):
+Yeah. Oh my God. You said very well. Yes.
+
+2 (28m 16s):
+And what were you, you were saying, ah, come here from Korea. And I, I think I wanna try to start a business.
+
+4 (28m 21s):
+That's the basic wow. High level comment that I had, which nobody actually care kind of. Okay. Yeah. And, but he actually, he was curious about, and I got his email and that night trying back to it, take a one hour train minute back to north mass peak. I came back that night. I wrote a letter to him, email and I received email back the next day. I still remember. I said, the first line was, wow, CJ, what a great email. I never have ever received this kinda like, such a great kind email. And I suggest to him, I think we should meet. And he agreed. And he came to north master Piqua, not New York city the next day. Wow. So we, we met and we had a dinner and then we were speak until 4:00 AM that day.
+
+4 (29m 5s):
+Wow. And I learned about his background as a Ukraine and his immigrant life, all that. So I realized, oh wow. Probably that also helped him to understand my struggles and he has empathy. So we had a great conversation. Yes.
+
+2 (29m 20s):
+What was, I'm curious, I mean, cuz you were still just learning English, correct. This is hard for you. It must have been hard
+
+4 (29m 28s):
+For you. Oh, still today. It's very hard
+
+2 (29m 30s):
+For me.
+
+4 (29m 30s):
+Yeah. By then mega difficult guy mega.
+
+2 (29m 34s):
+Yeah.
+
+4 (29m 35s):
+But he really pay attention, not the flow of English, but he pay attention to my context in the value. Yeah. Which I appreciate
+
+2 (29m 44s):
+What was he doing at the time? What was his job? He was the time tech. He
+
+4 (29m 47s):
+Was tech lead at Google map in New York city office.
+
+2 (29m 51s):
+Wow. So he, this, so this guy was a, I mean, not only did you meet somebody who was nice, but you met somebody who was a software developer.
+
+4 (30m 0s):
+Exactly.
+
+2 (30m 1s):
+Which is pretty great. Right, right, right. And, and what were you doing at the time? I mean, were you, you know, you were on a three month visa, but or you were on a student visa, correct? Student visa. Correct. So were you going to classes at that music school on long island? Yeah.
+
+4 (30m 16s):
+I went to school in the morning and afternoon. I had a lot of general freedom and then I was hustling and I was trying to figure the business extension of my by heart. But I didn't want to do have metal business anymore because you know, how many have metal listeners are there in Korea while the Korea is small market? So I lost the interest to continue to do the business. So I was looking for more. And also when my father passed away, he left a very big question such as like he always told patient, make sure that they have a health lifestyle, but like majority of patient developed the, the conditions and he has to do, in other words, seek care management,
+
+2 (30m 60s):
+Sick care management. Right.
+
+4 (31m 2s):
+So he left a very big question to me that why, why the society is pointing me out and respect me as a healthcare leader. I became a secure management leader.
+
+2 (31m 12s):
+In other words, he was saying, why are we focused on when people, why are we focused on treating people after they're sick rather than
+
+4 (31m 18s):
+Exactly
+
+2 (31m 18s):
+Preventing them from getting sick in the first place.
+
+4 (31m 21s):
+Exactly. So that was a big question. And this kind of comment I made and shared with AUM by them, AUM became my best and brother level friend. So we hung out at least twice or three times per week, that much we were
+
+2 (31m 34s):
+A week. And he was, you were going into New York or he was coming to long island. Yeah. You really were like, you guys were bonding. You were really becoming friends. Oh
+
+4 (31m 42s):
+My God. He, I mean, we are like that. We are like, yeah, super. So I shared that. Right. And he picked that off the story. Yeah. And he gave me the book it's called good, too great.
+
+2 (31m 54s):
+Good to great. Yeah. Jim Collins.
+
+4 (31m 55s):
+Yeah. Jim Collins, exactly guy. So Artem told me thats this book, probably give you some answer about general question about the business, being an entrepreneur. Why is enterprise, why this make an answer? And I really liked the way Artman told me then. And I read that book and I was like, I awaken like, wow,
+
+2 (32m 17s):
+Alright. So he's working at Google, he's an engineer there. It was a great job. You are kind of trying to figure out what you wanted to do. I mean, clearly Artem is, is a guy that you're becoming close with and you can see in him somebody who you can start a business with, what are some of the ideas that you start to think about that you might be able to do?
+
+4 (32m 44s):
+So AUM and I, we both had a lot of over six month of brainstorming. Six month we went to park, we sat down, we write down a lot and I just, and then two sector came first education, second healthcare. And then we decided to, we need to tackle the healthcare.
+
+2 (33m 3s):
+And from what I understand, you were actually working out of art's apartment in New York while he was at work at Google during the day, right?
+
+4 (33m 11s):
+Yes. I wanna be motivated. So I came to all in the morning, Artman and I, and art headed to Google and I was working at art's apartment and often I stopped by lunch at Google's office and I had a free lunch and
+
+2 (33m 26s):
+Oh, cuz they have free food. Correct. You just grab some free
+
+4 (33m 29s):
+Sandwiches. Correct. I wanna say, sorry to Google for
+
+2 (33m 30s):
+That. Yeah. They can afford the free sandwiches money. And,
+
+4 (33m 34s):
+And I came back again and I was working afternoon and Artem as soon finishes work and he bring extra sandwich from Google cafeteria leftover and we eat that dinner and we work until like midnight or 1:00 AM every night, including weekend.
+
+2 (33m 49s):
+This is like 2006, 2007. You're talking about you, you both agree that there's something to do with health healthcare
+
+4 (33m 59s):
+100%. Yes.
+
+2 (34m 0s):
+And so I guess initially your idea was let's do something around exercise getting, you know, motivating people to exercise. Right, right, right. And I guess you guys kind of came up with this idea that start something called work smart labs, which sounds really great. Sounds like a big office with a bunch of scientists, but really it was just an idea in your head. Right. Work smart labs. Right,
+
+4 (34m 22s):
+Right, right.
+
+2 (34m 23s):
+And what was, what was the original idea that you guys had?
+
+4 (34m 27s):
+So Artem sold these shares to sponsor the ideas. And I also use all my mind that I saved and that we launched the work smart labs Inc. And we instantly thought we need to help. Our users can do more, better fitness.
+
+2 (34m 45s):
+We need the gym.
+
+4 (34m 46s):
+Yeah. Gym and exercise more. So our first prototype was interactive screen with a stationary bike that you can touch the screen. You can follow the, the guide from the screen, all that you can copy with the others. So like that. So it's a very similar product you can imagine today. So that was our first, very first prototype. Yes.
+
+2 (35m 5s):
+So you be on a stationary bike, there'd be a screen from what I understand, it was like you, you were like pedaling along a rainbow and catching butterflies. Correct. So, so you guys built a prototype, you built this thing, we
+
+4 (35m 19s):
+Did it. And it was quite successful from our better test.
+
+2 (35m 22s):
+How did you build it with such limited funds? I mean, was it because it sounds complicated and expensive, but I guess it is,
+
+4 (35m 31s):
+It was, it was, it was. But art also brought these high school friends who was a genius of genius in MIT. And then we also adopted some help from Princeton network friends that who is very advanced in like mechanical engineering to using all the sensors. So we were able to convert a stationary bike from gym, the boring station bike to a smarter bike. Right. And nowadays like there's a Peloton Peloton products like that competitor. So we basically built that idea and we launched that in 2007,
+
+2 (36m 7s):
+It was a Peloton competitor, obviously Peloton didn't exist, but it was a so, so you idea was we're gonna gamify correct exercise starting with a stationary bike. Right. And, and, but, and did you get, did presumably you had to test this out at the gym.
+
+4 (36m 23s):
+Right? So we hustled and found the gym in Queens and they allow us to install and test it out with their members. And the usage was like outstanding compared to the other generic stationary bike. So we were very excited about that ideas and with the initial prototype and success, we thought we can now raise capital. And we, and we try, we try to raise capital for years and years.
+
+2 (36m 51s):
+Nobody wanted to get involved in this cuz Nope, cuz this is, and by the way, this is, this is a problem. Peloton had investors probably said, well, so you're gonna manufacture the hardware and the software. And, and by the way, how big is this market? Exactly. If you're just sending, selling to gyms, presumably that was what they were asking you. So you, it was clear to you that when investors did not, were not interested in this, correct. Maybe you were not on the right path, maybe your idea wasn't the right idea to pursue.
+
+4 (37m 22s):
+So Archie and I, we completely believe in that direction. Right. But yeah, after two years of straight, like getting a know from all the engine investors or feces or even friends, it became clear. And the reality was guy that we didn't have much money left in the bank. I remember we had like $2,700 and yeah, I was, I had a very hard time myself and I returned to our one bedroom office during the summer. I remember we had the one tiny AC and super hot. So we were all like, we only the, the underwear, everybody like
+
+2 (38m 3s):
+So hot because it was so hot.
+
+4 (38m 4s):
+Yes. I'm not. Yeah. Everyone just wearing the underwear and there's a fan, just one fan and one tiny AC was like struggling to blow out the cold air. Cause not cold anymore. Somehow even like one of the engineer had like the towel around is net because he was sweating too much. And I, yeah, I had hard time, not cry because I felt so bad
+
+2 (38m 28s):
+When we come back, how a sputtering idea gets revamped until it eventually becomes. And why just as the company starts to take off a lot of people who work there decide to walk out, stay with us. I'm guy Raz. And you're listening to how I built this.
+
+Justworks (38m 56s):
+Hey, small business leaders at how I built this. We hear all the time from founders. Who've built their companies from the ground up today's sponsor. Just works is all about supporting that small business growth just works. Makes it easier for you to start, run and grow a business. Let me tell you how just works can help your business with just works. Employees can onboard themselves in minutes with simple software. That makes a great first impression. You can give them access to national large group health insurance plans and handle payroll and PTO requests all on one platform. Plus it comes with Justworks expert 24, 7 support for you and your team just works. Makes it simple to hire and manage remote employees across all 50 states with just works. You can onboard new employees with ease in an intuitive online platform and take the guesswork out of employment and tax regulations and requirements. Find out how just works can help your business by going to just works.com. That's just works.com for more info
+
+Mejuri (40m 6s):
+ever waited for a sign to buy yourself or someone you love a special piece of jewelry. Most people have, which is why majority was founded in 2015, feeling disconnected from an industry that typically markets to men, the brand's CEO leveraged what she learned as a third generation jeweler to redefine the way women purchase jewelry. Majority believes in jewelry is an expression of self wear it when you want buy it, when you want gifted or treat yourself and keep it forever. They sell styles that never compromise on quality or craftsmanship because they know the best styles are the ones that last. In fact, we recently had a chance to try some of their jewelry and my wife loves the wishbone necklace. It's beautiful. If you're looking for jewelry, you'll actually wear and love forever and want to gift yourself something that's built to last is sustainable and doesn't have the traditional 10 time price markups celebrate you and celebrate your way with jewelry from UR, make your own day and go to ur.com. That's M E J U R i.com.
+
+4 (41m 19s):
+Hey, welcome back to how I built this I'm guy Raz. So it's 2008 and after two years of failing to raise capital for their stationary bike, SJU and Artem are almost out of cash, but fortunately Artem and some friends who are helping out also work at Google for their day jobs.
+
+2 (41m 40s):
+And that leads to a new idea for an app
+
+4 (41m 44s):
+Because they were working for Google. By the time they heard Google is responding on it, store the Android F store. So we had a meeting, organic guys, we need to draft this hardware thing. We need to do what we are good at, which is software development. And we can move fast. And that was there that we are going to all in application business. And that's how we car trainer, as soon as the app store opened, we were one of the first application was available at the store
+
+2 (42m 20s):
+For the Android phone. Yes. The Android app store. Yes. And, and this was called, this was called the cardio trainer. Yes. And the app was, from what I understand, it was designed to track run running and bike rides. So what I mean, this was kind of pre Strava, right? Exactly. But it was sort of like a, a, a proto Strava, if you will, a little bit,
+
+4 (42m 43s):
+Right, exactly. Yes. That was designed for like using GPS, a centimeter to monitor cycling and running over mobile. That was our product
+
+2 (42m 54s):
+And people, people were using Fitbits already, and that was out there. But now you could just put the app on the phone and it could more or less do a version of the same thing.
+
+4 (43m 3s):
+That's right. Guy.
+
+2 (43m 4s):
+And, and by the way, to finance that app, I guess the biggest cost was the engineers. Right. But everybody was presumably they were all kind of working for nothing.
+
+4 (43m 13s):
+Exactly. And also we were well funded by, they were all working for Google. And then once we realized this is actually working and we became number one at the market and they all start working for Google and they convert to full time.
+
+2 (43m 27s):
+I, I guess it was adopted by lots of people. I think within eight by eight months, it was like the top, most downloaded fitness app. We work in on Android. We,
+
+4 (43m 36s):
+Yeah, we, we received like 5 million downloads within six months by then. And by the time that was record breaking number. Yeah. Because the smartphone was not adopted that many, but basically if you buy Android phone, then you have our product almost.
+
+2 (43m 52s):
+Oh wow. But, but still not making money from it because it's free.
+
+4 (43m 56s):
+Yeah, exactly. That's how we actually received the first ever venture capital money too, because we became the known egg maker at fit's category.
+
+2 (44m 6s):
+I gotcha. Okay. So, so, so this is the point where you get some VC money. So you can keep kind of plugging away at this thing, right? This, this cardio trainer.
+
+4 (44m 16s):
+Yes. And then we need to figure out what is our business, right? And then we launched the premium services that people can buy extra features. All that the conversion was not bad, but not great. Neither and bigger problem was it did not answer our promise. The promise is our mission that are we helping our users get better in terms of overall health. That bothers us more than we are not making money enough. Do you see
+
+2 (44m 46s):
+You bothered you more? That people were, were not actually really engaging with it.
+
+4 (44m 51s):
+People engaged a lot. The problem is we, we reviewed our data and then we were kind of like surprised majority of our users, 90% plus more, our users are not using the major features, which is tracking their running or the cycling. They are actually using our product for parameters.
+
+2 (45m 12s):
+They were counting their steps to like a, like a Fitbit.
+
+4 (45m 15s):
+Yes. We were like, we were all like shocked. Why are you not using our main features? This is designed for
+
+2 (45m 23s):
+Because they weren't cyclists or runners. Probably
+
+4 (45m 25s):
+They are not. Yes, you're right guy. But they there's a massive adoption our product, right. So we asked, why are you using our product for step counting? Why are doing, why do you need to count your step? And majority of users answered because they wanna lose weight. That was a real like aha moment for us.
+
+2 (45m 44s):
+And this insight that, that the users, many of the users were just using it to count steps because they wanted to lose weight, inspired the team to come up with a, a second app, which, which was, which I guess was a calorie counting app that you called. Callic
+
+4 (45m 60s):
+Correct. So we, we made, this was a big decision for us because we were little number one at a fitness health category in Android market for three years straight. And we were kind like the company for fitness, but we are in the very early stage by that early stage means we were looking for what is the product market fit that can deliver long lasting business
+
+2 (46m 26s):
+Being number. In other words, being number one was great. But you knew that that didn't necessarily tell you that it was gonna be number one for 10 years.
+
+4 (46m 35s):
+Exactly, exactly. Yeah.
+
+2 (46m 38s):
+From what I read something in the story, and I'm not sure if it's APOC that basically at that moment, this is around 2010. You guys, the founder started to feel pressure to optimize for revenue first, rather than results. Is that, is that, is there, is there true to that story?
+
+4 (46m 59s):
+Yes, it's true. And it's fair. Right? Look, investors, their job is they need to make sure their, their portfolios are returning the money. And we told our investors, we are going to retire Carter trainer and we will, we will build new product, which is color county, product color effect. And, and I remember by the time our invest were like, what are you talking about? We had a very intense conversation.
+
+2 (47m 27s):
+Yeah. Because they, what, they didn't want you to retire the cardio trainer. They thought that was the promising app.
+
+4 (47m 33s):
+At least. I mean, we were number one, literally we were number one at fitness and health categories. So we, but we were bold enough that we said we are gonna retire the product. We will, we will stop providing the service for the, we will, will retire.
+
+2 (47m 48s):
+Why wouldn't you just transform the product to the calorie, counting to calorific instead of creating a brand new app. Why wouldn't you just change the features within the app? You already had the downloads.
+
+4 (47m 59s):
+I think you're right. And I was wrong.
+
+2 (48m 1s):
+Yeah. I should have been there. I should have been there saying, what are you doing? You've got 10, 5 million downloads of this thing. You wanna started a brand new app and, and try to attract 5 million people from the, the stuff that's
+
+4 (48m 13s):
+Hard. Where were you guy by then? We needed you by then.
+
+2 (48m 17s):
+All right. So a brand new app and you sunset the cardio trainer we did
+
+4 (48m 21s):
+With sunset,
+
+2 (48m 21s):
+Which, which, and, and did people adopt the Callic app? Did, did that have the same rate?
+
+4 (48m 29s):
+We literally launched a color with no marketing budget. We just, we, we were probably naive by then. We launched a product. We firmly believed that if the product is good, people will somehow just downloaded. And matter of fact, the color actually receive a ton of download. It became a top downloaded application within three months, right after we launch. So we, again, prove that we know how to make an app, but we need to figure what is this, then? How can we use technology to help population health? And then it comes up, you know what, rather we have a, you know, believe or try this way.
+
+4 (49m 12s):
+That way it must be holistic way approach. That was the new like aha moment over color effect. We have to build a product is approaching in holistic way to end users. So we against sunset color effect. And then we put holistic approach service in 2014. That was a beginning of like, we need to help our users learn about this four major pillars, nutrition, fitness, stress management, and sleep. And behavior change is very powerful. That was a beginning of like aha moment for us. And we launched in 2014.
+
+2 (49m 55s):
+All right. So you begin to really dive into this. And one of the things that you guys managed, cuz you, I should mention you changed your name to Noom. So you went from work smart lab to, to nom and new. I didn't, I shouldn't have known this. I felt like such a bozo and I didn't realize it. It's just moon backwards.
+
+4 (50m 16s):
+Don't it's all good. A lot of people ask like why Noom? And I go like moon backward and they, oh, I see. But the deeper meaning of moon, why the moon? Because we see numerous approaches. We are here to support our usual lifetime and behavior change. And also healthy lifestyle is our journey. We get that at night when we get lost, we look up to re reorient ourselves and that moons right there, we want to be the moon for our users. The problem is we, we could not trademark moon. So that's why we flip around the Noom and we became Noom.
+
+2 (50m 59s):
+So here's, here's, I'm wondering about, right? I mean, you're talking about an age old challenge. I mean, this is like in, in all of human history, the sort of cracking the code of weight loss, let's just be clear. It hasn't been cracked, right? I mean, it's like, there are all kinds of things that we haven't cracked addiction. You know, there, we know more about it, but it's a much, much bigger challenge today. You know, weight loss is so you are entering, you guys decide to enter the most challenging one of the most challenging spaces because there's no, even now there's no simple answer. There's no button. You can push and say, push this button. You will lose weight. And so I just wonder the conversations you guys were having.
+
+2 (51m 41s):
+I mean, you, you keep saying you were naive, but I mean, you guys were naive to think that you could maybe push this, you know, push this huge challenge a little farther.
+
+4 (51m 54s):
+So the problem is, is simply difficult to adopt healthy lifestyle. If you don't have a good guidance and also changing behavior is powerful yet it is difficult. That is why that we invite our people who join noon that we ask, are you fully motivated? And con you have a conviction full conviction to stick with a mission and deliver because we believe we can provide better behavior changing program. A lot of our users are exposed to either chronic conditions. Let's talk about grand level.
+
+2 (52m 36s):
+Yeah.
+
+4 (52m 37s):
+USA, 45% of adults are already diagnosed. At least one chronic conditions.
+
+2 (52m 43s):
+45% of us adults have one chronic condition. So that hypertension or diabetes or correct, or some other condition,
+
+4 (52m 50s):
+Correct. 72% of American noodles are either obese or overweight. So we get a great inspiration from the good school. Good school means we are empathetic teachers. We welcome the student who want to learn. We understand where they are. We don't judge how good, how bad they are. Yeah. Some students are very introvert. Some student needs extra motivation. Some student, student needs like a very hold accountable. Yeah. Some students do not want that because they feel like policing about by the teachers and they, and it actually can actually hurt the motivation.
+
+4 (53m 34s):
+So it's just simply difficult to define how human behave about the weight, because everyone has different background and different stage of where they are. Yeah. A lot of our, we just told us that weight loss is so difficult and they failed in the past. It built a very sad and also stigmatized experience.
+
+2 (53m 57s):
+You're self. You feel like you're just constantly defeated,
+
+4 (54m 1s):
+Which is a very difficult, right? The reason why we choose weight management is because weight is one of the greatest barter over, over your health.
+
+2 (54m 13s):
+I wanna jump in and ask you, I, I mean, look, there is no question that people who are overweight can have some impact on their health conditions, right? If they change their diets and their exercise regimen, we know that that's a fact and, and it's not to take away for the personal responsibility side of it. But we also know that there are significant genetic factors involved that, that there are people who are just genetically more predisposed to retain weight, to increase their weight. It doesn't matter what they eat. It doesn't matter if they eat, you know, more or less the same foods as somebody who is significantly
+
+4 (54m 54s):
+Correct,
+
+2 (54m 55s):
+You know, lighter than they are just genetically their body processes and converts that food into fat in different ways. So, and again, it's not to say that people can't have an impact, but for, for a significant portion of population, it's, it doesn't matter how, how hard they work. Right? I mean, it's, it's just going to be almost impossible.
+
+4 (55m 18s):
+Well, that's why we build a muscles by approaching behavior, change, help our users to understand how to read their body signal, how to read their mental signal and then build a completely customized foundation. Start from there. We firmly know one side fit, all approach is not working for population health management. That is why technology can do a good job to support our platform. We can be skilled, but also customized experience.
+
+2 (55m 59s):
+Mm. I just wanna take a, a moment and, and kind of explain what Noom was at this point in 2014, because I, I know it, it would change a little over time, but in 2014 it was basically a freemium app. Right. So if, if you joined for free, you could log your food and, and track your calories and, and things like that. Yeah. But there was also kind of a, like an AI component, right? Like, like if you, if you paid, what, something like 10 bucks a month, you would get computer assisted coaching. Is that, is that more or less, right?
+
+4 (56m 32s):
+Yes. But we learned two things. Number one, when you just are receiving a good right guidance, it does work in terms of improved retention, engagement. That way they get the better outcome. So we learn that number one. And number two, we also learn, there is a glass ceiling with just AI basis service. We cannot, we cannot do better than we hoped. In other words, we test it with a human coach by then we put the human coach and that version deliver better outcome. And that was the beginning of intervention, human coach. Yes.
+
+2 (57m 12s):
+This a human coach on video.
+
+4 (57m 14s):
+We did video, we did a phone call. We did a chat, all different type of intervention and all deliver better results. Yeah. So that helped us to understand, oh, wow. And then we figured probably yes. And actually became clear. Empathy cannot be made up. Empathy cannot be recreated by computer. Yeah. And that is important component.
+
+2 (57m 37s):
+All right. So one of the things that you you did was you managed to secure a grant from the national institutes of health to actually study binge eating. And, and this was a, a, and it was, I guess it was like trying to sort of use technology to see if you could figure out the connection between binge eating and human psychology and correct. Tell me, tell me what you found out from this, this NIH funded study.
+
+4 (58m 8s):
+We learn from doctors at the Mount Sinai hospital. That psychological support is the key to overcome the barrier of unlock the, the healthy lifestyle. So I can say the current version Noom, the real inception was started in 2014, but we invested two years to be ready with a human coach and psychological component over two years, and then launched that.
+
+2 (58m 36s):
+All right. So you are developing this plan. And at the same time, you're under some significant pressure from some investors rightfully so, because they're not, it's not clear, you know, what your path to, to profitability is. And in 2016, you kind of abandon this freemium model and essentially say, this is gonna, you know, we're to make this work. We're gonna ask people to, to pay for the app to subscribe was that, and, and I imagine that there were probably many users who were not happy about that. And you, and you had to expect that to, that was gonna happen.
+
+4 (59m 14s):
+We had a moment that we need to put the price price wall. That is the, the way we can can weed out who are not ready to commit for adopting healthy behavior. And that is the way also, as we are product company, we can actually gather, gather higher quality data in order to build a better product. That was the reason that we abandoned completely abandoned, free features and relaunch. The paid version comes to human coach. But I want to tell you one more thing, because we also didn't have any real business. And because this is a big move, I lost many people who did not believe in our direction.
+
+2 (59m 55s):
+You lost many investors,
+
+4 (59m 57s):
+No investors. Yes. They gave up or they sold their ownership to really like really like almost none. And I lost many product people by the time people left our, who did not believe in the direction they left. Oh, on other people. And this direction says you, I'm not sure. And then we, we lost a handful product people by then. I remember
+
+2 (1h 0m 19s):
+People because they were because they felt like, Hey, this is always supposed to be a freemium thing.
+
+4 (1h 0m 24s):
+Yes. And,
+
+2 (1h 0m 25s):
+And that happens. People, people join companies and they, and they get mad when those kinds of changes are made. And, you know, it's, it's a perfectly legitimate view to, to hold, but obviously companies change. They have change.
+
+4 (1h 0m 37s):
+And also, I, I take the blame because, you know, guy sunset the product that we create from nothing. And we have to sunset that that is, it's actually quite difficult experience. It's very emotionally difficult and you need to again, start the new code writing from scratch and that's not easy. So no, I understand that. And that we lost a few key, the product people by then, I remember we had a very quiet dinner together, the, the survivors dinner. And I told him that we keep moving on. We, we, we are not from that company mission. This is direction.
+
+4 (1h 1m 17s):
+There's a lot of data that this will work. And thank you for staying with us and well, see you tomorrow morning
+
+2 (1h 1m 27s):
+When we come back in just a moment, how tomorrow morning came ands, and his team continued to reinvent and retool Noom stay with us.
+
+Wix (1h 1m 37s):
+I'm guy Raz. And you're listening to how I built this. A lot of people shop online and the numbers are growing by 2025. The global online retail market is expected to double in size. So if you are an online seller, you need a powerful platform that can keep up with the trends. Wix is a leading eCommerce platform used by entrepreneurs, agencies and brands around the world. Wix helps you manage all the moving parts of your business with ease from inventory management, shipping, and delivery, to taking your business to international markets. To date W's eCommerce has powered the eCommerce capabilities of millions of sites selling on other online sales channels. Like Facebook, connect them to your online store, selling in person, sync your online and in store orders. So you can keep track of it all. From product drops to flash sales Ws industry leading 99 point 98% uptime will ensure your store will reliably process record traffic and sales. Go to wics.com/ecommerce today and sell on the platform that's built for your future.
+
+Vrbo (1h 2m 58s):
+When you rent a VRBO vacation home, you will never stay with a host because vacation is meant to be a time when you can relax and be yourself around folks you want to spend time with. There will be no one on your case when you are just trying to unwind no one watching over you to make sure you are following their rules to at no one hanging around that you don't want there at a VRBO. It's just you and your people. Why would you ever share your vacation home with someone you wouldn't share your vacation with only whole vacation homes just for you and your people find yours on the VRBO app.
+
+2 (1h 3m 40s):
+Hey, welcome back to how I built this I'm guy Raz. So it's 2016 and Noom has switched its business model from a freemium app to a subscription service. And as a result, SJU has lost some investors and some employees. I mean, part of me really just wishes you stayed selling heavy metal music on the internet. Like part of me is just getting anxious, thinking about how complex this is because true, the value proposition effectively was look, you may have tried other weight loss programs. We think this one has a better shot at success for you. Now. You're not promising that people were gonna lose weight. You can't, that's not possible. You cannot promise people that because it's up to them, but you can promise them that you will give them, let's say better tools to do that.
+
+2 (1h 4m 28s):
+That's still a lot of pressure.
+
+4 (1h 4m 32s):
+Thank you for your empathy guy. I, I, I, I feel and appreciate the comment and let me be Frank probably were again naive, but we were so I don't know. I mean, by the time we were kind of maybe rightly stubborn about it. We, we said like, look, I mean, we, we are very confident. We can build a great product software. We, we were kind, you know, when you are young, you can over confident about your ability that about what you are, you are good at. So our team was like, we know how to make an app. We know how to make a software, but we have to figure which mountain we will like climb up. And it was not a fitness. It was not a just diet. It was not like just one thing.
+
+4 (1h 5m 13s):
+And we figured it has to be a holistic approach. And we figured, oh my God, we have to like really crack this Pandora box. And we just opened that up. And when we opened that up, we kind of like scared at the same time. Holy moly. We just figured if we do better, we can finally deliver healthy outcome and we can shift the paradigm. Preventative approach can be the prime, right?
+
+2 (1h 5m 40s):
+So inevitably as you grow and as you get, I shouldn't say inevitably, but oftentimes when a company grows and gets bigger, it becomes a bigger target. Often times that is perfectly justified, right? Mean, you know, Uber is a big company, big target. So is Tesla. And you guys were slapped with some angry users and eventually a lawsuit because when you went to the pay system, some users said, Hey, wait, we were charged for subscription. And it was hard to cancel it. You actually address this in an open letter to the users. What happened was it, was it just a BU bungled kind of rollout? What, why did you get in a situation where people were, you know, lots of people were complaining about this?
+
+4 (1h 6m 25s):
+Well, I mean, first of all, that we care every single you just voice, and we are happy to pit put this behind us.
+
+2 (1h 6m 33s):
+Is it settled? Now this, this is now settled. Okay. Right.
+
+4 (1h 6m 36s):
+We, we are paying attention as this is a consumer led healthcare company. For sure. We are paying attention. Every single boy we do actually do. And we wanted to make sure that our bar of customer support experience and even like cancellation is like high enough. So matter of fact, we invested a ton into that. The, and now the 100% cancel self cancellations, right there. You can, you have three click that you can cancel that we made it very clear that we are right there to support if the program need to be paused or canceled, because we are here to support whenever you are ready.
+
+4 (1h 7m 16s):
+So we'll continue, invest into our huge experience should be good. And we will not compromise the bar.
+
+2 (1h 7m 22s):
+Hmm. All right. So let's talk about what makes this different, right? Like, so let's say you're doing Jenny Craig or Nutrisystem, right? You, you get, depending on how you sign up, you get meals sent to you and you heat 'em up and there's there's shakes or, or powders or whatever. Right. And there are all kinds of competing systems like that, which can work for some people there's different. Cuz yours is about nutrition, fitness, sleep and behavior psychology.
+
+4 (1h 7m 54s):
+Yeah. Stress management,
+
+2 (1h 7m 55s):
+Stress management. Okay. So you get those four things and on the app it says, look, we're not a restrictive diet program. We don't, we don't tell you to restrict diet, but you must. I mean, the there's a, the simple fact, like the simple math around gaining and losing weight is you take in a certain number of calories and, and if you take fewer calories in, you know, it's gonna have a different impact. I mean that the math is kind of clear on that, right? Yes, yes. Yes. So, I mean, let's just talk about the food side first. Sure. When you sign up, I know you, you sort of categorize food into three colors, right? Green, red, and yellow, I believe.
+
+2 (1h 8m 36s):
+And green foods are really the ones that you should focus on the most, right? Those are like basically vegetables, fruits. Yes. And red is like meats and proteins and fats and yellow is like carbohydrates more or less.
+
+4 (1h 8m 51s):
+That's true.
+
+2 (1h 8m 52s):
+And so I'm on it. Let's say I want to lose 20 pounds. Let's say I lose 30 pounds. How, I mean, does it tell me exactly what to eat at every meal?
+
+4 (1h 9m 4s):
+We don't, we, we don't want to present that. We dictate what you need to eat. This our project guy. We don't want to restrict, you need to stick with some spa being meal or diet, right? Because that creates, you know, more stress to our end users. And also it's very hard to stick with and look, eating is not just eating. We are human. We are social animal. There's a lot of like the interaction while you have a dinner or gathering and you eat together. And it's very difficult to stick with one diet and it's notable. So we do not approach that way.
+
+4 (1h 9m 44s):
+We rather guide our users, build the muscles. They can be more cautious and be mindful about what choice they have about intake, what they eat, what they drink and how they rest, how they burn the calories. The thing is if we limit our users, there's enough study. And I want, from our experience, if we limit our users, do this, not that they may work for maybe two weeks, but it cannot work more than that. And that create, as we know, should make me sad. Yoyo.
+
+2 (1h 10m 18s):
+Yeah.
+
+4 (1h 10m 19s):
+By the way, we actually wanted to update our food color system from red to orange. The reason is because we use the red people of social radical. That means, oh, this is bad. This warning, blah, blah. Yeah. It's not true. Red category food is, is we need to pay attention in terms of volume. We don't want to bend any. The thing is you need to be moderated and especially red karaoke food, but unfortunately red color coding is sending a wrong signal, the message to our users. So we actually agree to color to orange by the time that you listen, it might be already orange. So that's the way we adapt. But I wanna make sure that we probe by the guideline is actionable today.
+
+2 (1h 11m 1s):
+Mm. All right. So you really, the, the kind of the growth and also your ability to attract capital really kind of takes off. I mean, I think you did a, a series C in 2016 and a series D in 2018, I think over the course of Noom you've I think you've raised more than $500 million. Is that, or more than that? Almost a billion dollars, I think, right?
+
+4 (1h 11m 31s):
+Yes.
+
+2 (1h 11m 31s):
+I mean a lot you you've had, tell me about the pandemic. What, what happened during the pandemic? How did, what did it mean? I mean, did it, did it, did you see a very rapid increase in user adoption during the pandemic?
+
+4 (1h 11m 45s):
+So COVID 19 time. What we have learned, a lot of people are tr they, they understood either. They had to, or media spoke all the time that you need to build immunity better. You need to pay attention that you are in good health. So many people are looking for how to get healthy, many people to want to have, like, I want to manage my chronic condition. I want to have very healthy lifestyle. When I say healthy lifestyle. That means mind and body, both. My father was a renowned medical doctor sacrificed entire his life until he passed away.
+
+4 (1h 12m 25s):
+And the last word he left, why did I help the sick people only let big questions. And somehow, and luckily noon figured, and we are answering that. We did not figure everything, but we end a path that preventative approaches primary and we firmly believe this trend will not go away. It will become even stronger and become a primary in healthcare.
+
+2 (1h 12m 53s):
+Yeah. SJ. When you think about, you know, this journey you've taken from, from Korea, from South Korea to, you know, your beginnings and sort of eCommerce to coming to the us and meeting Artem and starting this business, which initially was about fitness and, and exercise, and was gonna be like an exercise machine to what it is now, you know, a company value that right now, over 10 billion. How, how much of that, of that? Do you, how much of where you are now, do you think has to do with your skill, your hard work and how much do you think is, is because you got lucky?
+
+4 (1h 13m 34s):
+I think we are extremely lucky for sure. I think we are extremely lucky and I cannot express how much we are thankful like Andrew investors, our people, why we were managing like no revenue business, the brilliant smart people stayed with us. And remember the night that survivors did night was like, I don't know how I can describe how much we, how I'm thankful. And we are thankful and how much luck we receive. And as we receive the log in the past, we expect if we continue to stick with our mission and do good job, I believe that we share, receive more log as we deserve in the future.
+
+4 (1h 14m 14s):
+But, you know, we don't run the business based on the log. We, we work hard and when the log arrived and we'll be grateful
+
+2 (1h 14m 25s):
+That SJU Jung CEO of Noum, his co-founder Artem, Petco is the president of the company. By the way, one of sad J's preferred ways to jumpstart his mornings, turning his speakers up to 11 and blasting out lamb of God. One of his favorite heavy metal bands. And if you aren't familiar with them here for your pleasure,
+
+8 (1h 14m 53s):
+The clock on the wow. So you ride as well, just mad at
+
+2 (1h 14m 58s):
+That's a good morning rocking song. I'd get up to that
+
+8 (1h 15m 1s):
+Back. So,
+
+2 (1h 15m 4s):
+Hey, thanks so much for listening to the show this week. If you wanna contact the team, our email address is I BT id.wonder.com. If you wanna follow us on Twitter, our account is at how I built this. And mine is at guy Raz on Instagram. We're at how I built this. And I'm at guy dot Roz. This episode was produced with music composed by RET era Louey. It was edited by Neva grant with research help from Claire Maima. Our audio engineer was Maggie Luther. Our production staff also includes Elaine Coates, John Isabella, Liz Metzker, Casey Herman, Carrie Thompson, Katherine cipher, Alex Chung, Christmas, Carla Estevez, Josh lash, and Sam Paulson.
+
+2 (1h 15m 47s):
+I'm guy Raz. And you've been listening to how I built this. Hey everyone. So I wanna make sure you know, all of the different ways you can listen to how I built this. As you probably know, you can follow the show on Amazon music, apple podcasts, or wherever you're listening right now. But I wanna let you know that you can actually listen to the next episode of how I built this today. One week early on Amazon music, you can also listen to it early and add free by subscribing to Wondery plus and apple podcasts or on the Wondery app.
+
+2 (1h 16m 29s):
+Please do follow us on your podcast app. So you always have the latest episode downloaded in another way to support the show is by filling out a survey at wondery.com/survey. And thanks British scandals change the course of history. They bring down governments, overthrow the rich and cause the mighty to fall. Some are about love and murder. Others about politics, money, and high crimes. In the end, they're all about power. The team that brought you American scandal goes across the pond to bring you British scandal, a podcast hosted by Alice Levine and Matt Ford. In the latest season, you'll hear about the Hatten garden heist, one of the largest burglaries in British history.
+
+2 (1h 17m 12s):
+It was carried out by six elderly men who were all experienced thieves. When all was said and done, they made out with stolen goods that amounted to over 14 million British pounds. Find out how they did it. Listen to British scandal on apple podcasts, Amazon music, or wherever you listen, listen to new episodes early and add free by joining Wondery plus in the Wondery app.

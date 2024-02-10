@@ -1,0 +1,614 @@
+0 (0s):
+This message comes from NPR sponsor Adyen, the future proof payments platform. Welcome all payments beyond the cutting edge of customer experiences and grow your business with Adyen. Visit a D Y E n.com/ NPR to learn more.
+
+1 (15s):
+Hey, it's guy here. And before we start the show, I haven't asked this year, it has been hard and kind of overwhelming from the pandemic to the economic crisis, to the demonstrations against racial injustice, to the election. On top of an economic downturn, that's left millions of people without work. So many of us have experienced loneliness, anxiety, fear, depression, sometimes a haul at once. And when it started to become clear that this year would be unlike any year, any of us have ever experienced our team on how I built this, decided to figure out how we could be there for you, because not only did we want to continue to bring you stories that might inspire you or push you to keep going, but we also want it to remind you that you're not alone.
+
+1 (1m 8s):
+This year, we've produced more than 100 total episodes. That's more episodes than all of mad men or all of breaking bad. And we did that this year alone. Each episode of how I built this is painstakingly researched carefully. Fact-checked edited and re edited multiple times scored with original music and mastered to a sound quality that very few other podcasts even bother with. And we do it not just because we love what we do, but because we truly love how, what we make makes your life a little better. We make how I built this for you.
+
+1 (1m 48s):
+And if our show brings some meaning and joy and inspiration to your life, please consider making a donation to your local NPR member station. How I built this airs on hundreds of stations across the U S and those stations need your help to continue to provide great content for free. And so if you are able, I hope you can contribute to the work that they do. You can go to donate.npr.org/ Built and give directly to a local NPR station. That's donate.npr.org/ Built. And thank you.
+
+2 (2m 32s):
+There's a difference between persuading someone to purchase a product and debating with someone who has no intention of ever changing their mind. Right? I wasn't making that my job, which I think a lot of people do, they make it their job to convince the world. And you shouldn't convince the world that you should convince the people who match most closely to what you're providing. Yeah. So I came to believe really early on that. It's not about the number of people that don't get it. It's about the number of people that do get it
+
+4 (3m 3s):
+From NPR. It's how I built. This is a show about innovators, entrepreneurs, and idealists, and the stories behind the movements they build.
+
+3 (3m 11s):
+<inaudible>
+
+4 (3m 17s):
+I'm Guy Roz and on today's show how Tim Ferriss as an entrepreneur author investor, and Podcaster turned himself into a multi-million dollar brand in 2007, a completely unknown writer named Tim. Ferriss published an obscure book called the four hour workweek. The book basically outlined how Tim escape the nine to five grind by outsourcing most of his job to other people. The small number of influential critics who even noticed the book were not charitable wired magazine called it formulaic.
+
+4 (4m 1s):
+And that was generous compared to other reviews, but none of that ever worried Tim Ferriss because he had a plan. He had spent nearly a year mapping out how he was going to get his book into the right hands and maybe turn it into a bestseller with almost no marketing budget and no major push from the publisher. Now, I think about this for a moment. There are more than a million books published each year, fewer than 10 of those books sell more than a million copies. In fact, the average book sells just a few, a hundred copies, and yet Tim, Ferriss an unknown writer, an entrepreneur who lived in a small apartment in San Jose, California, would go on to sell more than 2 million copies of the four-hour workweek.
+
+4 (4m 50s):
+That book sat on the New York times bestseller list for, for years. And although Tim was a small time entrepreneur before the book came out after his success, he turned his attention to building a business around his own brand, a brand that is really about Tim's own curiosities, Tim, as a Guinea pig. And he spent the past 15 years trying to figure out how to master everything from starting and running a business to foreign languages, to cooking, to bodybuilding, to Chinese, kickboxing, to tango dancing, and much more. And he doesn't pursue these things as a gimmick Tim methodically outlines his process.
+
+4 (5m 31s):
+He collects copious data on himself. He analyzes it and uses it to get better and more efficient at whatever he tries. And he does all this because he believes that almost anyone who is a reasonably motivated can master these things too. Since 2007 Tim is written for other books and his launched a podcast, all of which focus on self-improvement and learning from the highest on the planet. He's also become one of the most outspoken voices and the uses of certain hallucinogens to help treat depression and PTSD, which we'll hear about a little later anyway, Tim was born in the late 1970s and he grew up in Eastern long Island.
+
+4 (6m 14s):
+His dad was a real estate broker and his mom was a physical therapist as a kid. Tim so the contrast between his parents and neighbors who worked in the shops and farms around town and the wealthy people who came to the Hamptons for a vacation,
+
+5 (6m 30s):
+For me, it was a normal, I didn't realize how strange that environment was. And I worked in restaurants growing up and got to see the best and the worst of Manhattanites. And he would just see, you'd see some great behavior. Remember Billy Joel used to tip like 20 bucks for a cup of coffee. And that just blew my mind. That was, that was just a display of generosity and wealth beyond my wildest imagination. And then you had, you know, the Duchess of such and such who would show up and just cause a huge mess with a table of 15 people. And then say, I tip very well better luck next time to the server and leaves zero tip that I saw that too.
+
+5 (7m 13s):
+Yeah. So it'd be, and I worked one of my first jobs was at the lobster roll where they filmed a lot of the affair, this TV series. So that was one of my jobs was a bus boy at the LA
+
+4 (7m 26s):
+I guess from, from, from, you've talked about this before, but I guess you were, you were born pretty premature. And so as a result of that, you were a small, when you were a kid and had had a bunch of health issues and what kind of, what kind of health issues
+
+5 (7m 41s):
+I had severe allergies and respiratory issues. My left lung collapsed when I was born. So I had respiratory issues growing up and was until I hit puberty, kind of the slowest, one of the slowest, smallest kids in every grade, there was a, a lot of bullying up until sixth grade. Actually. I remember exactly when that stopped, but up until sixth grade. Cause you were cause you were a little cause that was a little, yeah, it was tiny. So yeah, spend a lot of time sitting on the step by the classroom reading instead of going out to recess, just because it was so tremendously unsafe for me to wander around a, the, the swing sets and stuff that was like being led out into the prison yard.
+
+4 (8m 31s):
+What was it? What was the thing that they kind of changed?
+
+5 (8m 35s):
+Oh, that's easy. I mean, I remember the last day of fifth grade, I had this amazing teacher named Mrs. Talmage and I was sitting up on the front of the class. I was the last kid left in class. This was the bell, right at the beginning of summer breaks. Everybody had run out and I had a terrible sunburn in these two bullies out. And one of them goes,
+
+2 (8m 57s):
+Have a good summer, Tim and slaps my back really hard with an open Palm. And I held it together until they got outside of the classroom. And then I just started bawling cause it hurts so badly. And this is Talmage who had this kind of a raspy voice. She had a bunch of to say that I couldn't really absorbed as crying. And then she said, one day you'll show him, you'll show him to me. And I was like, okay, okay. I went away to camp that summer and I grew something like five inches and gained like 40 pounds of muscle because puberty hormones just flooded my system and came back. And the sixth grade was just my year of joyful vengeance.
+
+2 (9m 41s):
+I mean said the bullying stopped pretty quickly in the beginning of sixth grade. And school came pretty easy for you when you were a kid. I did enjoy school and I don't know how much of that is intrinsic. My parents didn't have much budget for new, new toys or new bikes or anything like that. But they said to my brother and I, we always have budget for books. So my parents cultivated this love of reading very early on. And as a result, I did well in school and focused on school. I read that when you were 15, you went to Japan for a year as an exchange student, which is pretty cool.
+
+2 (10m 24s):
+I mean, that there's programs existed, but like tell me about that here. What did that, what would that do for you that year?
+
+5 (10m 31s):
+You're for me completely changed the trajectory of my life and the way that I looked at the world because I had never spent any extended time outside of the United States and went to Japan, speaking very basic Japanese and I was the where's Waldo American in the school of let's call it a few thousand Japanese students wearing a school uniform. And that year help me to see how many of the rules that we follow are really social constructs and kind of arbitrary, right. Driving on the right side of the road versus the left in Japan or bathing rituals.
+
+5 (11m 18s):
+Right? Even the grammar of Japanese is so different from English in the sentence structure, all of these behaviors and habits that I never questioned before became This comparison. Side-by-side comparison with everything I noticed in Japan. So when I came back, I was looking at everything in the us and in my life with a very fresh eyes.
+
+6 (11m 43s):
+And I mean, it must've had a significant impact because I know that you went on to major in, in East Asian studies at Princeton for college. And I know you've talked about this a bit in the past, but you know, I guess college was not an easy time for you that, that you, you struggled with depression. And at times it got, it got to a point where it was, was pretty crippling and, and even scary.
+
+2 (12m 9s):
+I think it started beginning even in, in high school, I recall extended periods of what, what you might consider depression, but by the time I got to college, the symptoms worsened, what, what were the symptoms? Extreme fatigue, a certain feeling of hopelessness and it's depression is really one of those experiences that for someone who his ex, who has had a bad experience of the darkness and depression, no explanation is needed it.
+
+2 (12m 52s):
+And for someone who hasn't no other explanation will really suffice, but it would be like looking through sunglasses at all times and sort of hearing everything through earmuffs, if that makes any sense, this kind of muffled slightly out of focus like sensory lens. And I would say probably twice per year, I would have multiple weeks of this type of this type of depressive episode. Did you ever go see therapists or psychologists when you were in high school or in college? I did not.
+
+2 (13m 31s):
+And this is undiagnosed essentially. Yeah, it was undiagnosed. And we can talk about when it got particularly dangerous, which it did in college where I decided quite clinically, honestly, that if I was going to struggle with This for the rest of my life and this darkness was inescapable, that there was no point to continuing. And so I began not, not just fantasizing about suicide or having suicidal ideation, I planned it. I mean, I had dates in the calendar and I requested book from Firestone library on suicide.
+
+2 (14m 19s):
+I can't recall the exact title and it was already checked out by some other students. So it was unavailable, but I put it in a request and the way Firestone library alerted you, your book was available if they sent you a postcard. So you'd get a postcard in the mail and I'd forgotten to change my mailing address with the registrar. And it was still my home address with my parents. And the postcard went home to my parents, which said, Tim, Ferriss your book such and such and such and such on suicide is now available. And my mom called me
+
+5 (14m 52s):
+With a really shaky voice and asked me about it. And I lied. I said that a friend from Rutgers had requested it because it wasn't available at their library. So I did some, some fancy footwork to kind of wiggle my way out of telling the truth. But the phone call from my mom snapped me out of my sort of delirium and made it really clear that if I were to kill myself, that it wasn't just something that would affect me. It would be like strapping on a suicide vest and walking into my parents' house and blowing everyone up. And that is what led me to course correct. But if you think about that, you know, the sheer chance, just the luck involved in that happening is pretty outrageous.
+
+5 (15m 37s):
+And if that had happened today, for instance, it would of been an email alert and I wouldn't be here.
+
+6 (15m 43s):
+I know we, we talked about this when I was a guest on your show about this period in life. This like late teens to mid to late twenties is a particularly vulnerable period for a variety of reasons. There's a societal pressures and our brains are changing and there's a bunch of a bunch of things happening. Do you think for you that that was why you were in that state of mind?
+
+5 (16m 10s):
+Well, I think it was a combination of darkness, meaning seasonal depression, plus a feeling everything has been building up prior to Princeton, too, getting into a school like Princeton. And now my parents extended family have all helped me to attend this expensive school. This has been a significant, huge commitment and sacrifice on the part of not just my parents, but other people in the family. And now it seems like I'm gonna fail. I felt just helpless and hopeless, but let me add a note on the light side, which is I have not suffered an extended depressive episode and let's see here something like six to eight years now.
+
+5 (17m 2s):
+So there are, I have found tools and approaches that really seem to mitigate a lot of this.
+
+6 (17m 12s):
+And, and we're going to talk about some of those approaches a little later on, but, but obviously you were obviously able to pull yourself out of the depression at the time, because I mean, you did a, you did graduate college, you made it through,
+
+5 (17m 28s):
+I made it through a dragon, a leg behind,
+
+7 (17m 30s):
+I made it through and he moved to LA to San Francisco in 2000. This is sort of like right before the.com crash. Did you have out there to get into that world? Is that what your ambition was? Yeah, I did. I did. I had a tremendous professor, Shao, Z S C H a U S amazing polymath, former competitive ice skater to taken a few companies public that's one of the first computer science professors was a Congressman for a term or to the guy who had done everything. And he taught a class in high-tech entrepreneurship.
+
+7 (18m 10s):
+And I wrote my final project on a portfolio company of his called true San networks, which is based in San Jose. And the CEO is scarcely older than some of the students in the class. I mean, he was 20. I want to say 23 of the time. Wow. Extremely charismatic and spoken to the class
+
+1 (18m 32s):
+Is a data storage company,
+
+7 (18m 34s):
+A data storage company. I ended up pitching myself to the CEO. I looked back, I want to say it was something like 26 emails and just got rejected, rejected, rejected. And the upshot was, he said, you're just not going to stop bothering me until I give you a job. And is that it's that, is that what I should take away from this? And I said, yep, that's about right. And he goes, okay, great. You're in sales. You can have a technical sales position. And that's what I did. So that's how I got a job.
+
+1 (19m 4s):
+Why did you want to work for this company? It sounds so boring. Data storage. Like that's what you were like desperate to go work at after.
+
+7 (19m 11s):
+Yeah. Well This, I'll tell you it didn't have anything to do with the industry. Okay. I got you. What drove that interest? Number one,
+
+5 (19m 18s):
+Is that someone not much older than myself was running this number two. And I can't remember if it was ed Schauer or someone else who gave me this advice, but they said, look for a growing industry. It doesn't matter what it is. If it's growing quickly and you're able to join early, you're going to learn a tremendous amount as you watch companies grow and
+
+1 (19m 37s):
+Still applies today. That's great advice by the way,
+
+5 (19m 40s):
+Which is still applies. Yeah. Right. So I joined, I was employee number 15 or 25, something like that. And he was able to watch it grow to somewhere between a 102 hundred.
+
+1 (19m 50s):
+So you get there, you're working for a true San network's a sexy data storage company. That's right. And then what were you doing
+
+5 (19m 59s):
+From there? I was what would be considered outside sales? So we had inside sales, which was like a boiler room, if you can imagine that. So inside sales is a bunch of people making phone calls, smiling, and dialing to book meetings for people like me. And then I was outside sales. So I would team up with my engineer and we would go out to try to close deals. And that was a pretty good at it.
+
+1 (20m 23s):
+But you didn't actually last that long or you lasted for like a year right before you went
+
+5 (20m 28s):
+Well, yeah, I mean, I lasted a year, but almost every one at the company lasted about a year. They started letting go entire divisions sell. They let go
+
+1 (20m 36s):
+Of who they were a part of the.com crash.
+
+5 (20m 39s):
+Oh yeah, absolutely. So there were just a large swaths of the office that would disappear from week to week towards the end and
+
+8 (20m 49s):
+Kind of saw the writing on the wall. So I, I started to thinking of plan B options and what I might want to do next. Well, before I was, I was let go, but somewhere between a year to a year and a half after joining that company,
+
+6 (21m 2s):
+I mean, it sounds like you, your intention was to just use this opportunity of this experience, a kind of launch the next thing. And, and that, that you almost went there with the ambition of starting something to yourself. Was that, was that the plan or was there a new plan? Yeah,
+
+8 (21m 19s):
+Yeah, yeah. That was that. That was the plan. That was the plan. I wanted to learn as much as possible to build something myself. And ultimately the way I decided what I was going to start is I looked at my own spending because I was making want to say I was making 40 grand a year. I had a little bit of money, but I wasn't rich by any stretch. I mean, I was operating on a budget, but I looked at my credit card statements and I was spending hundreds of dollars per month. I mean, probably a 400 plus per month on sports solvents. So I was price insensitive to a training and sports really intensely at the time, doing kickboxing and jujitsu in some other stuff.
+
+8 (22m 6s):
+What were you taking? Well, it was Creotine at the time I was probably taking what were referred to as pro hormones, protein powders, and like a whole spectrum of products. So I decided to look into starting a company that would scratch my own itch. And in fact, I had cobbled together supplements for myself when I was in college. So I had ordered raw materials, had ordered stuff from Europe. I had combined things myself in my dorm room, which looked very sketchy, just powders. And they just mix them and various pills and powders and potions that I would get from all over the place. So I had a lot of familiarity with this particular world, the landscape, the players, how things were sold, because that is where I spend money.
+
+8 (22m 55s):
+Got it. Okay. So you're, you're thinking of starting a business where you're going to sell some kind of sports supplement, right? Yeah. And so what'd you do next? Well, like the best time to start a company is when you have a job, I knew this was a good window. So I began, when I realized I was going to get fired because everyone was getting fired. Yeah. I would say about maybe a month or two before I started using these empty conference rooms during lunch hour to make phone calls, to contract manufacturers, to make phone calls, to biochemists who are, who are available as contractors reaching out to anyone and everyone to try to figure out how things were formulated, how things were made, what type of insurance was needed, what the minimum investment was, all of these things while I was
+
+5 (23m 46s):
+Still employed. And so the first and ultimately only product that I made was intended to be initially a smart drug.
+
+6 (23m 57s):
+So this is not a muscle drug. This was well, your brain muscle, but it was not for like big muscles. It was to get
+
+5 (24m 3s):
+For a big muscles. So it is very specifically I. So I was cobbling together, various ingredients to improve reaction speed
+
+6 (24m 11s):
+That you like to add anything.
+
+5 (24m 13s):
+Yeah. So reaction speed had sports implications. It also had attentional applications and improve starting time off the blocks, say as sprinters and improve performance in a couple of different sports.
+
+6 (24m 28s):
+And what, what were they, what were the ingredients by the way? What are the basic ingredients?
+
+5 (24m 32s):
+So what's some of the, some of the ingredients would be things like a VIN post, the teen vinca, which is an extract of vinca minor and other compounds phosphatidylserine which inhibits cortisol release on some level. It's actually pretty good for sleep. I still use that now. So it's important for me to just point out for a second, for the first six months or so, I'm trying to sell this product, which was called brain Quicken. So a very on the nose name. I got all of my coworkers who were like, sure, secretly cheering me on to start this company to commit, to buying a few bottles upfront so that I knew I could afford them. Right. Manufacturing. Right.
+
+6 (25m 11s):
+Why is that important points for a sec? I'm just imagining myself as your, as a friend or colleague at that time. And you're like, yeah, I'm working on this. He was like brain stimulant. This is going to improve reaction time. And I'm experimenting with this and visit a preteen and cortisol this and that. And I would be like, I feel like Tim keep that light away from me. Like you're nuts. You're just putting this stuff into your body. Like you're just testing and some of your body, like, I mean, I would be terrified to take this stuff. Why would anybody want to, why would anybody commit to buying a bottle of this stuff? Like what kind of peace of mind could you give them? Yeah,
+
+5 (25m 48s):
+There is a very fair question. It's super fair. Right? Like you had just imagine me, like dumping powder all over the dumping powder into a funnel in my bathroom next to the mirror, right? The, the piece of mine came from this, a gentleman. I wish I can't remember his name. I found during one of my lunch hour conference call hall sessions, who was a biochemist who worked extensively with different brands trying to get into trader Joe's. Right. And so he, he was the adult supervision in terms of formulation. So everything in the product was on, what's called the grass list.
+
+5 (26m 31s):
+G R a S generally recognized as safe. I got a list. I was not playing it fast and loose with the selection of ingredients nor sourcing the ingredients. And that
+
+8 (26m 44s):
+Was the piece of mind because I was not going to be touching these products in terms of, I'm not packing capsules. Now my living room couch, right? You want to have, you want to have good manufacturing practices and have this done by professionals. So, you know, you know, and this is really how a lot of brands are started, whether it's supplements, whether it's clothing, whether it's cosmetics, right? It's not, the entrepreneur is sitting down and figuring out by themselves, all the specs of what these products will look like. You have an entire industry set up to assist someone in arriving at what they would consider a good product. And just to clear that the plan was to try to make this and then try and pitch it to like trader Joe's and GNC and put it on the shelves there.
+
+8 (27m 30s):
+The plan was initially to, to do actually what a lot of direct to consumer brands do now is a playbook to sell direct to consumer for better margins and to develop direct relationships with customers. And then the objective was to create enough consumer demand that people would ask at retail for this product. At which point, then you sell at retail through wholesale accounts. I mean, you are at this point 23, 24, maybe close to 25 and you have no money. So
+
+6 (28m 3s):
+Is your entry point into getting these contract manufacturers and this biochemist to even work with you? I mean, did anybody like, did they not know your age? Do they not know that you're like, where is it on the, all over the phone? Like, where'd you get the confidence? Like, were you just kind of putting on a deeper voice? Like, what are you doing to you? How are you doing it? How are you convincing them to work with you? This is like serious science.
+
+5 (28m 25s):
+Yeah. You have to remember that my job was selling multimillion dollar storage systems to CEOs and CTOs of sometimes major companies. I got really, really good at sales. Yeah. So I bought every book you can imagine on sales. I read every biography. I could find on people consider to be good salespeople like Richard Branson. I made a real study of it, and I kept meticulous logs of everything that worked and didn't work. Imagine an athlete, recording every workout. I recorded what I did that worked when I was selling to CTOs and CEOs over the phone or in person. So I had scripts or openers that worked.
+
+5 (29m 8s):
+I would keep track of times of day that worked. For instance, it turns out that almost all of my coworkers made calls between nine to five. Well, who else is working from nine to five, every gatekeeper to the CTO or CEO. And if you just came in an hour early and stayed an extra hour after work, your chances of getting the decision maker on the phone with him, went up like, you know, a, a a hundred fold. So I made the bulk of my calls before the Workday and after the work date. So all of that, I used exactly a tee to get a hold of, for instance, the president of this one contract manufacturing company. I called after hours. They called it like 7:00 PM and he picked up, but getting them on the phone is one thing.
+
+5 (29m 53s):
+Yeah. Convincing them to take you on as a client is quite something else. And I couldn't afford their minimum orders. So I had to pull on the heartstrings a little bit and say, I know there are a million reasons why you should say no to me, but I'm sure when you were coming up, at some point, someone gave you a chance and opened the door, gave you an opportunity to prove yourself. And that made all the difference. I'm just asking for one chance, like the downside risk to you is this, this, and this is a very minimal, but if this works, like I'm going to be a client of yours for years, and I will use you exclusively, which by the way is exactly
+
+8 (30m 28s):
+It happened. And I did make good on that.
+
+6 (30m 32s):
+It's, it's, it's interesting. Cause at that time in your life, this is like 2004. So I'm, I'm a couple of years older than you. But around that time, I was a foreign correspondent and I, I lived in a world of journalism. So there's a lot of skepticism. Like you're a natural response to something is you approach with skepticism. And so I would of been modified to do something like this. Cause that was that kind of people are gonna question me and ask me about my expertise and they're gonna want to know how to do this. And I I'm just, you know, I, I'm not a scientist. Like was any part of you did any part of you have self doubt?
+
+8 (31m 5s):
+I didn't have a whole lot of self doubt about the product just because I had effectively compiled the same Motley assortment of ingredients and taken them myself as a competitive athlete in college. So I didn't have a whole lot of doubts about that. Did I have doubts about the company doing well? Oh yeah, absolutely. I mean, I was, I was always very good about cashflow. They never took outside funding. I, it was all bootstrapped, but the feedback loop was really long. I was doing most of my advertising through magazines and I mean, you're committing to the advertising.
+
+8 (31m 48s):
+I mean, sometimes like a month before printing, then it's printed. Then it goes out. Then you sort of wait for people to buy this magazine until you think you've reached the tail end. And then you look at your results. It's very slow, particularly compared to what you can do now online.
+
+6 (32m 4s):
+So you were advertising and a lot of like fitness magazines. Cause you realize that that's really where you've got to kind of target your, your product and what was the value proposition? What did it, what did it promise to do?
+
+5 (32m 17s):
+The value prop was improving reaction speed and power output. So I advertised in black belt magazine, I advertised in powerlifting USA. There were a handful of niche publications I worked with on a, on a really consistent basis.
+
+6 (32m 33s):
+All right. So you, presumably you start to go to the contract manufacturer and maybe they're sending to you, but you're picking up
+
+5 (32m 40s):
+Like pallets of bottles, of supplements of these supplements you had. Initially I was doing a lot myself later. We had warehouses and call center. Isn't the whole nine yards in the beginning. I would pack and mail out these products, which were sealed. So that wasn't, that wasn't messing with the contents of any of these bottles, but I would pack them up and ship them out prior and emails. So you would get like an email or somebody would order from them to the website. And this is Pre Shopify. It's super janky. Yeah. They were really janky in the back. So you would go in and see like somebody you had to
+
+8 (33m 17s):
+The mail and somebody would put, have ordered two bottles and then you would get them and pack them into like a puffy envelope and then put a label on it and send it out yourself. That's what you did at the beginning. That's what I did. I remember the day I knew things had to be outsourced when I had a, a larger than normal day. And I had all these boxes that I need to get to the post office and my car wasn't working. So I put them all in a garbage bag, like a huge hefty garbage bag and got on my motorcycle and wrote to the post office with this gigantic Santa Claus size sack hanging off at one of the handlebars and almost killed myself.
+
+8 (33m 57s):
+And I was like, okay, that's enough. We need to professionalize this outfit a little bit. Let me come back. And just a moment how Tim goes on to Built brain Quicken to the point where it starts to burn him out and how his new ambition to work less and live more leads to an entirely new career. Stay with us. I'm Guy rise. And you're listening to how I built this from NPR.
+
+1 (34m 33s):
+This message comes from NPR sponsor of 3m supporting communities in the fight against COVID-19. Since the outbreak 3m has responded with cash and product donations, including surgical masks, hand, sanitizer, and respirators through local and global aid partners. In addition, 3m is on track to produce 2 billion respirators globally by the end of 2020. Learn how 3m is helping the world respond to COVID-19 go to the 3m.com/covid 3m science applied to life. Thanks also to E-Trade. You want to invest your money, but there's one problem.
+
+1 (35m 13s):
+You're not sure where to begin. Luckily there's E-Trade who offers more than just trading eat trade, simplifies, investing without the financial jargon and has the people to offer guidance and support to make your money work hard for you. For more information, visit E-Trade dot com slash NPR eat trade securities, LLC member FINRA. SIPC
+
+3 (35m 40s):
+Let's be honest. This year has been hard from COVID-19 to the presidential election. So much of our energy is spent just getting through the day, join us for a new season of the StoryCorps podcast from NPR to hear conversations from people who have faced challenges, come out on the other side to learn some meaningful lessons along the way.
+
+1 (36m 0s):
+And one more thing, the New York times bestselling book, how I built this is now available. It's a great read and a great gift for anyone looking for ideas, inspiration, wisdom, and encouragement to have the courage to put out an idea into the world is filled with tons of stories. You haven't heard about how some of the greatest entrepreneurs, you know, and respect started out at the very bottom check out how I built this, the book available wherever you buy your books. Hey, welcome back to how I built this from NPR I'm guy Ross.
+
+1 (36m 44s):
+So it's around 2004 and Tim Ferriss is hustling to get his sports supplement brain plugin into a major retailers. And he doesn't really care if people like me or you or anyone are skeptical about the product. As long as it's resonating with his target audience,
+
+5 (37m 2s):
+The elite athletes really are binary, right? I mean, most athletes only care if something works, that's it. They try it. If it works great, I'll keep using it. It doesn't, it's, it's out there, not in it to have debates. They, they want to improve times or a Lyft totals or whatever. But honestly I concluded pretty early. And this translated to a lot of things later to then there's a difference between persuading someone to purchase a product and debating with someone who has no intention of ever changing their mind. Right. Right. I wasn't making that my job, which I think a lot of people do, they make it their job to convince the world and you shouldn't convince the world that you should convince the people who match most closely to what you're providing.
+
+5 (37m 46s):
+Yeah. So I came to believe really early on that. It's not about the number of people who don't get it. It's about the number of people that do.
+
+1 (37m 53s):
+And, and at this point, were you, were you still running the business out of your apartment and in San Jose
+
+5 (37m 59s):
+At that time, I was in mountain view and then later to San Jose and then eventually up to San Francisco. But at that point I was out of a tiny apartment complex in mountain view, right across the street from the Jack and the box.
+
+1 (38m 13s):
+Perfect breakfast, lunch and dinner. That's right. So was there a turning point, like, did something happen? Like all of a sudden you just got a big order one day or, or, or was it like a, like a slow burn?
+
+5 (38m 26s):
+It was slow until I developed a playbook that could be repeated. And it was, it was pretty straight forward, actually it down to managing cashflow. I mean, this is not going to be super surprising that one of the benefits of this product categories, that the margins are very healthy. Even if you use top tier ingredients, you can have very healthy margins. It's a movie popcorn. It's like a movie popcorn except with drugs. And, and secondly, if you get to a point where you can negotiate very effectively for advertising, which I did, you can sometimes by say a full page advertisement for a 10th of rate card.
+
+5 (39m 10s):
+So let's say then that I get a page that is priced at 20 K for two K. Then I go to one of the best known larger retailers or e-tailers out there. Right. So I might go to, to making this up obviously, but let's just say Bob supplements.com. He is a wholesale account. He is buying at 40% off of my list price. And I say, you know, Bob, I have a full page ad coming out in XYZ magazine. A rate card is $20,000. I will make you the exclusive retailer. I'll put your 800 number, your website in the ad.
+
+5 (39m 52s):
+If you pre-commit to $15,000 worth of product. In that case, even before a single customer has called, I have effectively locked in $13,000. Right. And I've removed a lot of it,
+
+7 (40m 7s):
+Of risk Tim. How did you learn to do that at such a young age? Did you, was it from that sales job being around those people? It was part of the sales job. Another thing that I did when I was really young, I had terrible insomnia and I was a kid. I would not be able to fall asleep. And when I was a kid, I would stay up. Now, what if we're thinking about early eighties, what was on television at two or three in the morning infomercials infomercials? Correct. So I became fascinated by infomercials. Like how does this actually work? And even in high school and college, I would sometimes order products from infomercials or call their numbers to see what types of Scripps they used.
+
+7 (40m 51s):
+I had this fascination with systems and what worked and what didn't, which is pretty easy to discern. Like if somebody advertises all the time for months or years on end or something is working, they have to pay for those ads in some fashion. And I started putting together what is sometimes called a swipe file, swipe, meaning steal, any time I was persuaded to buy through an advertisement through a phone call through whatever it was. I would say in the case of a magazine, tear the advertisement out, put it into a three-ring binder and collect everything that persuaded me to By. And then I would study those ads in and circle what I thought the salient points were that compelled me to By.
+
+7 (41m 34s):
+And I would also track everything that happens. So let's say I bought a product, I might buy two of them and then return one to see what their return process looked like to see what their refund process looks like. And so I, I collected all of these scripts in terms of capping, downside, but that was the case of advertising and to negotiating the price down and then getting a guaranteed minimum from the retailer, that was just a discovery. And then once I figured out that it worked, because I had thrown a million things against the wall and only a few of them had worked. I was like, this is something I think I can replicate. What's so interesting. Is it like taking a calling up these, these like infomercial called numbers and analyzing the script and taking out ads and circling them to see that's not normal, like most teams, like it's like, it's like the character on, on Homeland, you know, like circling people and putting them on a Pinboard like, and I'm wondering if it, cause I think
+
+1 (42m 29s):
+Obviously really smart, right? You started to recognize patterns and you were studying different approaches that would then serve you well later. But I can't imagine you were thinking one day I am going to be doing something like that. So I will need to know how to do this. Now. It sounds to me like you were just really interested in that you were just like, how does this work?
+
+5 (42m 51s):
+I think the drives are replicated. And the interest in doing it myself actually came up really early. When I was a kid is suffering from insomnia. I wasn't thinking that I was just watching these things cause they were on. But later because they know my family didn't have much money, right? Like money was the thing that was a point of contention. It was sometimes a point of stress. It was a, not really a whole lot of conflict, but it was a concern, right. This was a subject that came up a fair amount. And I think in my mind, if you have money, all these issues and problems you might have in life for yourself or for your family, just go away. That was what I concluded.
+
+5 (43m 31s):
+So the drive to make money came in early.
+
+1 (43m 35s):
+Yeah. Which makes sense. And I mean, because I'm sure you are passionate about the mission of brain quick and maybe, maybe you weren't, but, but ultimately it was a way for you to earn a living.
+
+5 (43m 47s):
+Yeah. And I was, I am passionate, may not be the, the right word, but I, I believed in the product and I would not have been able to do it. Had I been slinging, God knows what, I don't think I would have had the endurance to keep going in that case.
+
+1 (44m 6s):
+And at what point did you have to hire somebody to help you or like a year in or, or less?
+
+5 (44m 14s):
+I didn't do a whole lot of hiring. I had a virtual assistant. It was just me and a half.
+
+1 (44m 21s):
+And were, were you still packing the stuff to, or, or what was the contract manufactured? Dealing with the logistics,
+
+5 (44m 27s):
+There is a contract manufacturing that would get shipped to a fulfillment center, which was coordinated with call centers. And these people were all
+
+2 (44m 36s):
+Independent contractors, but I was still a bottleneck for a lot of decisions. Right. I mean, I would get calls from the fulfillment center and they were like, Hey, this Olympic athlete needs this thing overnight it to Croatia, what should we do? Because there wasn't a policy in place for how to handle that. You know, I got these daily questions that just suffocated me. So I would say early mid 2004 is when I broke basically. I mean, that's when I kind of burned out because they were just, we were working all the time. I was working all the time and my girlfriend at the time, I thought I was going to get engaged to et cetera left when she broke up with me because I never saw her.
+
+2 (45m 19s):
+I mean, I can't blame her in retrospect, but she gave me this dear John plaque, and this is the one of these three sided photo holders from target or someplace like that. And she had created this piece of art work with like a photo of my head cut out is quite elaborate. And it said business hours end at 5:00 PM, put that on my desk as a reminder, which she encouraged me to do as she exited stage left. And I was like, okay, well what I'm doing, isn't working and By and they were doing pretty well. Right? Like you, I think your business was doing like $40,000 in revenue a month at that point. Yeah. Yeah. I was doing like 42, I would guess a, a a hundred maybe even slightly more per month.
+
+2 (46m 4s):
+Wow. So it was doing really well. I mean, you were making it boom. The salary have a partner at a law firm when you were 26, 27 beyond age. And I saw a path to grow that in multiples, keeping in mind, they know that that's one product. Yes. The normal playbook would then have me create a whole line of products, which you can sell and guess what to do the same distributors to the same retailers, but I was already a human bottleneck. So I was just you as far as a full-time employee, as Jeff is just me, you selling the products at retailers now. I mean, mostly the retailers rather than direct to consumer. I don't remember the name
+
+5 (46m 41s):
+Is that split, but it was at both. It was both direct to consumer end to at retailers, which is becoming a real thing and at retail and internationally. So it was also being sold internationally at this point
+
+1 (46m 51s):
+To like the operational side of it. Or was that the part that, that you didn't like a hobby? I would have to say that
+
+5 (46m 57s):
+Didn't like it just because that would have been a contributing element of having no time. And I had no time, I was waking up super early to communicate with customers in Europe and so on. I would stay up extremely late to communicate with clients and other times zones, the only breaks I would take are like the cannabinoids in the morning, maybe lean cuisine for 45 seconds at lunch. And then thankfully some type of exercise for, you know, an hour,
+
+2 (47m 30s):
+Hour and a half, stop a Jack in the box, the way back, took a shower and then keep working. I mean, I just never stopped working. And when that relationship ended for me, it also just put into stark relief. The fact that the objective isn't to have the money, the objective is whatever you to have, whatever you trade the money for, whatever it represents to you. And I telescoped out a few years and I'm like, what does this look like a year from now three years from now, five years from now? And it just, everything gets worse. My health gets worse By so it's a psychological wellbeing gets worse, like, so I need to change something,
+
+6 (48m 8s):
+But presumably you still want it to make money. You still wanted the business to operate. So what kinds of things that you put in place T to allow you to do that?
+
+2 (48m 15s):
+Well, there were some really simple things, for instance, that I sent out an email to my fulfillment center and said, from this point forward in effect, please assume that if a problem can be fixed for less than a a hundred dollars, just go ahead and fix it, charged it to my account, that type of providing of guidelines for autonomous decision-making and the fixes required a lot of hard thought that the implementation of most of them was actually very, very simple firing a bunch of my high maintenance customers. That was another thing that, you know, a handful of my 20 wholesale customers were producing like 90% of the negative emotions that I felt with my customers.
+
+2 (48m 59s):
+So, but they were a really lucrative. So I had a, I put up with a lot of nonsense and bad behavior and basically sending out a letter to those folks saying, here are the policies going forward. If these terms don't work for you and your company, we're happy to make a referral to another company who can blah, blah, blah, blah. And almost all of those belligerent customers did a complete one 80 about face and went on best behavior one or two cursed me out. And I fired them. And just with that decision alone, the emotional experience that I had working completely changed. But what's really important is that I had arrived at a point where I had committed to either untangling the mess and extricating myself as a bottleneck or shutting down the business.
+
+2 (49m 48s):
+I had come to a point of acceptance and a willingness to do that if I couldn't figure it out.
+
+6 (49m 55s):
+But, but I mean, you didn't, you didn't shut down the business. I mean, you, you kinda got it to the point where you, you were able to travel and then you, you ended up traveling for like the next 18 months or so, like he was starting in London and then to Ireland and Berlin and then Argentina. And what is that? I mean, what is that your idea? The kind of like a total reset and the way you had been living your life up to that point.
+
+2 (50m 21s):
+Yeah. While I was traveling. So what I'd done up to that point is scheduled my entire life in 10 or 15
+
+5 (50m 28s):
+Minute outlook increments or a calendar increments, and everything was extremely regimented. And when I landed in London, I wanted to do the opposite of what I had done up to that point. You know, I went to an Irish pub and liked the music. And somebody said, if you really like this, you should go to Dublin. And then I said, okay, I got on a easy jet flight or a Ryan air flight landed in Dublin and went to another pub. And they said, what the hell are you doing in Dublin? Galway has the arts festival about to start? You should go to Galway. And I said, okay. And I got on a bus and went to Galway, knowing nothing about Gallway and bounced around like that determined by chance encounters with people along the way.
+
+5 (51m 17s):
+And a friend of mine who was born in Panama, invited me to Panama. I go to Panama and one of his best friends was half tine and said, if you want the best wine and the most beautiful woman and the easiest ability to live like a King on dollars, you should go to Argentina. And I said, good sales pitch. And initially planned on being in Argentina for four weeks. I was not planning on being there for a long time. How long did you stay? Nine months. Wow.
+
+6 (51m 48s):
+And, and you would go to these places and just without knowing anybody, and you would start out at a, at a youth hostel and that's how you would kind of start to meet people. And
+
+5 (51m 56s):
+Yup. That's exactly what I did. And I would use activities to build friendships quickly. I had hurling in Ireland. I had different types of did kickboxing and jujitsu and Berlin. I did then tango in Argentina, which I, I actually had a strong bias against when I first got there. I had no interest in learning tango because my impression of it was all based on true lies and movies where it looked super cheeseball and over choreographed, but it got so damn hot in winnow Cyrus at one point. And I was waiting for a friend of mine to finish his Spanish class. So I walked into this tango music shop that had air conditioning and this chain-smoking woman who was the owner got so pissed at me eventually because I was just loitering in there pretending to look at CDs and stuff that she asked.
+
+5 (52m 49s):
+She's like, Hey, Hey kid, if you're going to hang out here all day, you might as well pay me 10 pesos and take a tango class upstairs. And I was like, ah, okay. And that was it for me. I realized tango just consumed me from that point forward.
+
+6 (53m 5s):
+You were just following your curiosity everywhere you went. Like you would just find something that was interesting. And then you would just kind of follow that up. That's exactly. That's exactly what I, it, but, but you were also like not just taking tango classes like you then eventually would compete in the tango world championships and cut an entry and the Guinness book of world record for most consecutive tango spins, like that's like taking it to a different level, like a competitive level. Is that what, where did that come from?
+
+2 (53m 35s):
+It came from a few things I wanted to get better tango. And they were, for me, getting learning skills has a blueprint. It's there are certain approaches that just improve your rate of learning. So I collected video clips of myself, dancing of other instructors, dancing, teaching certain techniques. And then each night I would take that footage and I would put them into different folders based on the type of technique. Then based on the video, I would take notes in a tiny little note book that I could fit in my back pocket. And I would try to use these techniques in the wild, which often backfired.
+
+2 (54m 15s):
+Then I would take notes on what went wrong. And I mean, I, I practice like six hours a day. I mean, I had to take days off because my feet would get bruised because the shoes are really, really thin. And I loved it. I really,
+
+6 (54m 30s):
+I really loved it. I mean, it sounds almost like I'm trying to think about, about this from like the easiest analogy as a journalist, I would have written a profile about you. Right. And I would of done all of that work out of looked at videos. I would have studied you. I would have followed you, but it's almost like you did that about yourself. Like you told yourself the entire time that you were studying yourself.
+
+2 (54m 55s):
+Yeah. I mean, how do the real question I'm trying to answer and implement was how do you observe yourself that because most of us are so wrapped up in our own experience that we can't really deconstruct what went well or what went wrong. And there is some really simple fixes to That. And I learned a lot of this through languages, honestly, including the fact that you're always going to have plateaus when you try to add more difficult skills and then you'll have another inflection point and then a plateau, maybe a dip and that inflection point. So that became something I expected rather than something that discouraged me and the case of sports use a video camera. It seems so obvious, but like how many people have taken tennis lessons or fill in the blank lessons and have never seen video of themselves?
+
+2 (55m 41s):
+Yeah. So there, there are some really basic approaches to increasing your ability to see yourself.
+
+6 (55m 50s):
+So, all right. So you're having this experience and while you're overseas, you, you realize you're gonna have a much richer, more fulfilling life without having to work on, is this all consuming business all the time? And, and is this, when you start to think, you might write a book about this whole experience?
+
+2 (56m 9s):
+The book was nowhere on my radar during the travel period, but I had taken notes along the way because I have always taken notes and I ended up with a stack of
+
+5 (56m 24s):
+A material.
+
+2 (56m 25s):
+So I at one point e-mailed Jack Canfield who was a coauthor or a co-creator of chicken soup for the soul, because I had gotten to know him by volunteering at nonprofits. And I reached out to him and I was like, Jack, here's what's going on. Do you think there's anything here to chew on? Should I even look into this hoping that he would just kind of snuff it out? That makes any sense? I didn't really wanna write a book, but when he wrote to Jack, you said why? Like, I think, I think I wanna write a book about my experience or how to run a business. Like, what was the, what is the elevator pitch? Well, the pitch was, I had mocked up a front and back cover, which I think is an excellent way to force some clarity on the book itself.
+
+2 (57m 13s):
+Right? So the elevator pitch was the back cover and it, and it really came down to creating more time, more wealth in doing it through systems and working smarter instead of working harder. But that's what it came down to. And he introduced me to a couple of agents and they all said no. And then one who had been a very successful editor, but was only newly an agent had some follow on conversations and he thought it had legs. And so we pursued it. It's just to see what the hell would happen really. And it kinda started to become exciting to me. But just to clarify, I meant like to make it quote unquote sexy or interesting, you, we're going to include personal anecdotes of kind of your ventures overseas to, to illustrate how you could live a more fulfilling life and own your time.
+
+2 (58m 7s):
+Yeah. To give concrete examples of what this looks like in the wild, because the abstract high-level conceptual stuff is boring. Okay. So you had this book idea and you start to shop it around to a bunch of different publishers. And what's their response. When you, when you sent the proposal around,
+
+5 (58m 33s):
+The response is mostly who the hell is this kid? No. In fact actually saved a few of those. So the book was turned down somewhere between 26 and 29 times it's turned out a lot and my pitch got better. Right? I mean, if you think about how I took notes on phone calls, I took notes and video on Tang. I took notes and did post-mortems on every meeting we had with every publisher. So we were able to tweak and iterate and refine the pitch. By the time we got to crown, who was the publisher, it was a very polished. And they said yes, and bought it at a very, very advantageous bargain basement price.
+
+2 (59m 17s):
+But the upside of the royalties would, would go to you, but they got, yeah. A good deal
+
+6 (59m 22s):
+With that. And it was fun as they should, as they should. And the book was called the four hour workweek. Right. That was what he called it. And the main thesis of the book is for those who haven't read it essentially is that time is the most valuable thing you have. It's not having a lot of money it's having time and the freedom to choose what to do with your time.
+
+2 (59m 47s):
+Yeah. The thesis is, time is a non-renewable resource. Money is renewable. You can always make more money later time. Haven't figured that out just yet. And whether you want to work for hours a week, or 10 or 80, there are certain principles and tactics you can use to dramatically increase your per hour output. And that was the book.
+
+6 (1h 0m 14s):
+And when it came time to, to actually launch
+
+2 (1h 0m 16s):
+The book, I mean, just like you, you definitely tango
+
+6 (1h 0m 21s):
+And, and, and so many other things, from what I understand, you, you basically made a systematic study of how you we're going to launch it. Right?
+
+2 (1h 0m 29s):
+Yeah. Guy. And once I shipped the final manuscript to the publisher, I, you know, I sat down and made a study of book launches and I interviewed bestselling authors. And one of the questions I asked was what type of promotion or marketing delivered much better results than you expected, and which delivered much worse results than you expected. And one of the patterns that was spotted at the time was that television was decreasing in importance. That blogs at these things called blogs were dramatically increasing in importance and impact.
+
+2 (1h 1m 11s):
+So I decided to take all of the budget I had allocated for the book launch, almost all of it. And to go to in-person events, to try to put myself in the path of bloggers of various types. I wanted to achieve a surround sound effect of sorts. At least that's what I call it, which is choosing four or five outlets that nearly everyone of my target demo at the time consumed on a daily or weekly basis, tech, medium tech crunch, et cetera, Gizmodo. So that I would appear to be everywhere, even though in reality, that was not the case. So I had some very clear quantifiable targets to hit and ended up getting early copies of the book too many of the most influential bloggers of the time.
+
+2 (1h 2m 1s):
+And a few of them ended up writing about it, which provide a toehold in the tech entrepreneurial community of Silicon Valley. But how did you
+
+6 (1h 2m 14s):
+Even that you were an unknown writer, right? You did not have a access to a national media. You were a celebrity.
+
+1 (1h 2m 21s):
+I mean, how were you going to convince these or how did you even get these outlets to cover the book at all and to cover you?
+
+5 (1h 2m 28s):
+Well, it was a progression, right? So I think when people try to launch, oftentimes they think that the more customers I have, the more prospects the better, so everyone's going to be my customer. Right. And when everyone's your customer, no one is your customer. You don't have any focus. So for me, I thought to myself, well, really my first target is let's just, let's just call it 20 to 35 year old tech savvy males in a handful of major cities like San Francisco. And I know how to reach those people because I'm being highly specific. If I knock over that domino, then the next domino to fall will be 20 to 30 five-year-old tech savvy females in the same cities. So I went after the bloggers first, and what I would do is just go to these events.
+
+5 (1h 3m 14s):
+I'd kind of loiter around a tree to end up in a small group of people who were talking, I would buy drinks when I could. And eventually somebody in the group would say, who the hell are you again? Like you've been sitting here for an hour listening to everybody else. Like, what do you do? And I go, Oh, I'm working on my first book. And I'm here trying to learn more about blocks. Right. I would leave it at that. This is really important. And then if anybody followed up and said, well, what's the book about, then I would tell them, and then maybe give them an example. And at the end of it, if they seem to that,
+
+8 (1h 3m 46s):
+I would say, if you'd like, I can send you an early copy and I can put a post-it note on the five or 10 pages that I think would be most interesting to you to take 20 minutes to check out. And they say, sure, great. And so I, I just repeated That over and over again and sent out 20 to 40 of them with post-it notes, right. I, I had to put it on the work and that sets the ball in motion. Let me come back. And just a moment, have a book turned into a brand and have a four hour work week starts to take over the entire workweek, stay with us. I'm Guy Raj.
+
+8 (1h 4m 27s):
+And you're listening to how I built this from NPR.
+
+1 (1h 4m 43s):
+We'd like to thank Toyota for their support of this podcast. Toyota has set an ambitious goal to offer an electric or hybrid option for all models by 2025. So when they began work on the 2021 Venza, they had an important decision to make. Should all new vendors come with a hybrid powertrain, knowing the demand for hybrid vehicles, they went for it that their engineers combined to a four cylinder engine with three electric motors resulting in a crossover vehicle. That's designed to take you farther without sacrificing delivering an EPA estimated class leading 39 combined miles per gallon.
+
+1 (1h 5m 24s):
+Toyota is hybrid. Technology is just one of the reasons the 2021 Venza is the ultimate urban crossover to learn more. Visit toyota.com/venza EPA estimated MPG for 2021 Venza used for comparison purposes. Only your mileage will vary. See fuel economy.gov for more information,
+
+3 (1h 5m 48s):
+Hip hop and America's prisons have both grown exponentially. Is this a coincidence or is it by design I'm Cindy Madden? Listen now to louder than a REIT, the new podcast from NPR music, where we trace the collision of rhyme and punishment in America, all 11 episodes are available right now. Go binge it.
+
+1 (1h 6m 11s):
+And just a reminder this month is NPR annual end of year fundraising campaign. So please go to donate.npr.org/ Built to support your local station. And thanks,
+
+8 (1h 6m 30s):
+Welcome back to how I built this from NPR I'm guy Roz. So it's 2007 and after a very carefully crafted marketing campaign, Tim's book, the four hour workweek is launched into the world. And just a short time later, it starts hitting all kinds of milestones. Like the New York times best seller list. It happened very quickly. So it happened in the first week or two, I want to say. And I remember Heather Jackson, my editor calling me and telling me I was so exhausted. I had just done a radio satellite tour where you are just on the phone, doing radio interviews all day long and drinking pots of coffee.
+
+8 (1h 7m 12s):
+And I was so wiped out and it was six or seven o'clock Eastern. And she said, Hey, they're a Mr. New York times bestselling author or something like that. And I remember just saying to her, I was like, Heather, please don't put me. I just, I don't have it in me right now. And she is like, no, you have the list at the list. And I remember I was leaning against the wall and I sort of slid down the wall on my back and just like sat on the floor. And I was like, this might change things cause might change things. And then it took until August for the book to become the monthly number one bestseller in the business category.
+
+8 (1h 7m 58s):
+That book ended up spending four years on the New York times bestseller list and just like this kind of self perpetuating phenomenon. And yeah. And I wonder why,
+
+1 (1h 8m 9s):
+How do you think, I mean, even though you promoted it and you had this really great strategy that only you so far,
+
+6 (1h 8m 16s):
+Like what, what is that? Why, why do you think it became this phenomenon?
+
+2 (1h 8m 21s):
+Well, I do think that it was perfectly timed and I think that it's appealing to fundamental desires people have, and it's also painting a really humanized picture of the pain and the struggle that people experienced because I was telling not only my story, but I had gathered case studies. I talked about lawyers who had been caught in Groundhog day. And even though they were making money or a miserable, and then they gave it all up supposedly to start a surf school in Brazil, I gave these case studies, which were real examples of people who had passed through this gauntlet of self-doubt and criticism from colleagues, family pushed back from significant others to redefine themselves and to create these lives.
+
+6 (1h 9m 11s):
+When This became a phenomenon, you became famous overnight. I mean, pretty quickly, not overnight, but pretty quickly and much in demand as a speaker, as a consultant, you really became this kind of iconic figure, certainly in, among a certain type of, of Silicon Valley tech worker. Did you like That, did you like all the sudden becoming kind of famous?
+
+2 (1h 9m 37s):
+I liked aspects of it. I was bewildered and flattered. It just shot so far beyond anything I could have anticipated that I was also caught very unprepared. I don't, I don't know if you can prepare for something like that, even if you do that, it was coming, but the amount of inbound that you get when a book hits the New York times bestseller list and stays on that list for a period of time is incredibly exciting. The speaker's bureaus interviews, foreign rights, movie rights. I mean, all of these things come in and I had no idea how to handle any of it.
+
+2 (1h 10m 22s):
+So there's part of me that thought I finally reached escape velocity. This is what I've always wanted. And quickly learned that there were a lot of downsides and compromises, privacy issues, crazy people, stalkers, death threats, I mean, nuts and nut. So experiences that I would not have envisioned being part of that
+
+6 (1h 10m 45s):
+Package. And also criticism you got criticized. Hey, this is a bit like tech bro. A lot of critical negative reviews. Did you notice that? Did you ignore it? Did you internalize it was the positive response, so overwhelming that it kind of shielded you from the negative response?
+
+2 (1h 11m 5s):
+I wasn't shielded now at that point, I wasn't shielded and I didn't in the beginning, I didn't make an attempt to shield myself. So I felt like it was my to, to answer questions and correct misperceptions and felt very confident in the book. I think that if I look back at a lot of the mistakes I made early on, there were moments when I wanted to convert the people who shouted the loudest, that they hated my work, but they weren't actually people I admired in general. And fortunately on the other side of the ledger, there were tech entrepreneurs and CEOs and people I respected tremendously who found something, a value in the book, they found it compelling enough that they would speak positively about it.
+
+2 (1h 11m 52s):
+And that offset. I think the, the critic
+
+6 (1h 11m 56s):
+When this came out and that the demands for speaking and interviews and consulting and appearances and all of these things, at what point did it become clear to you that This for better or worse that your business was now Tim Ferriss Inc and not supplements or the next thing it was actually to you as a personality or it going to be the brand?
+
+2 (1h 12m 21s):
+Well, about a year after the book came out, I realized that I had signed up for a journey. I didn't necessarily want to be a part of a a hundred percent. And what I mean by that is I said yes to everything. And I was traveling every three to five days to some speaking gig. God knows where I was exhausted all the time. I was also repeating myself a lot. And then I would say about two years in, so let's just call it 2009. I stopped doing a lot of this. So the, I was being pulled in the direction of author speaker leader Speicher, which is a very tried and true path.
+
+2 (1h 13m 9s):
+I mean, this is how a lot of authors make the majority of their income is through speaking. But the biggest risk was that I would become the four hour workweek Guy and paint myself into a corner. And that I would knowingly or unknowingly become this kind of talking to a sock puppet, regurgitating, the same lessons that are covered in the first book forever. So I made the difficult decision, but in retrospect, great decision to stop doing almost all speaking. Like I really don't do any speaking and have it for a very long time. I do almost none. And instead that is what took me into the world of angel investing and advising and becoming involved with startups.
+
+2 (1h 13m 53s):
+So that all started around 2008, 2009. Yeah, it was part of diversifying my identity because I was very worried that if I went all in as the book, Guy the four hour workweek that my entire self-worth and
+
+8 (1h 14m 13s):
+My ups or downs my depression or lack thereof would hinge on having a successful second book. It's a part of my diversification of my identity and worth was also getting into the investment. The Ben clearly you did understand the value of, of the four hour concept as a brand because, because the next two books would be around that concept. I mean, you did the, the four hour chef and the four hour body with, with all kinds of suggestions on losing weight and physical training and stuff like that. Yeah, exactly. So in an effort to give myself an entirely new domain in which I could explore my personal and professional life, I decided to sell the four-hour body, which was a huge reach.
+
+8 (1h 14m 59s):
+I mean, we're growing, we're jumping completely out of the work category into diet and fitness. So it is about all things, physical improvement,
+
+5 (1h 15m 8s):
+Related modification, related everything from breath, holding to vertical, jump to ultra endurance, to fat loss, you name it right? All of these many chapters. I also want to point out that the, for a body came out right at the birth of, or just before the birth of the quantified self movement and biohacking and self-tracking, I mean, these were effectively non-existent that provided a few incredibly powerful, inevitable trends that we're going to search and provide a lot of rocket fuel to this book.
+
+5 (1h 15m 49s):
+And it ended up working and once it worked, it gave me creative license and it also gave me credibility with publishers and others to do whatever the hell I wanted, as long as it had a focus on efficiency and effectiveness
+
+6 (1h 16m 4s):
+Is really where you kind of, I think begin to, I mean, you'd always been experimenting on yourself, right? With supplements and different things. And this is really where you kind of become for a while known as is like a human Guinea pig. Does that annoy you? Does it, did you think that that was it wasn't really explained describing what you do or did?
+
+5 (1h 16m 29s):
+I was all for it. I described myself that way. Also one peculiar aspect of my hard wiring is that I enjoy figuring out the puzzle. I enjoy being the human Guinea pig who tries a thousand things and then puts together the cliff notes index card version for my friends or readers. I get a high out of that. Yeah. I will say a lot of the things that I do also are just to see if it's possible. So for instance, I have reduced capacity in my left lung from complications when I was born premature. And the story I've always told myself is I can't hold my breath as long as so-called normal people.
+
+8 (1h 17m 14s):
+But then I spent time with David Blaine who had learned how to hold his breath for, I want to say 14 plus minutes and was able to get to a point combining practice and technique. I got to the poor, I could hold my breath for five minutes. Plus you can treat, you you've come to believe you can train your, the human body to do things that we think are impossible. That's right. And what I think gets lost in the shuffle is that when you do something like that, or you learn how to memorize a shuffled deck of cards and like 60 seconds are 120 seconds, which is a very trainable skill that is known like the, the mechanics of no, of learning. Some of those that are known, it shakes the foundation of the other stories, the other impossibles that you have in your life.
+
+8 (1h 17m 59s):
+Yeah. Do you think that, I mean, you're really smart guy. You are a really good student and you got a good brain. Do you think that the fact that you like to learn new things and you, and you do learn them is because you've got a good brain or do you think that these are skills that anybody could acquire? I think these are approaches to learning that anyone almost anyone can use, assuming that they don't have physical disabilities. Right. I mean, if you're, and even if you were a blind or deaf, I have fans who use these techniques and just adapt them. So a good brain helps tremendously, but I have seen, I'll give you a real example at a racetrack in Northern California, I saw a McLaren supercar get beaten down the track in a race by a driving instructor in a Miata.
+
+5 (1h 18m 51s):
+Okay. So there is even in a field that you would assume is dependent entirely on horsepower and engineering of a superior vehicle, even in a discipline like that skill can be, and technique can be a real deciding factor. So I would say that in my experience, I do think that almost anyone can apply these things, ah, in the same way that you don't, you don't need to understand how a microwave works to follow the Quickstart directions in the manual to use the microwave, right? You don't have to be a neuroscientist to learn how to memorize a shuffled deck of cards.
+
+5 (1h 19m 35s):
+You just need a system and those systems exist. So I'm a collector of, and a tester of these systems at the end of the day. I think largely what I do
+
+1 (1h 19m 45s):
+W w I think is really remarkable about your journey is that you did actually, like, you are really not known as the four-hour Guy anymore. Like you are an, and you've written other books since then, and they've been very successful, but really today you're most widely known as a podcaster. And this is something you'd kind of just started as a whim
+
+6 (1h 20m 8s):
+In 2014.
+
+5 (1h 20m 10s):
+Yeah. The Tim Ferriss show was really just started out as a fun project to improve my ability to ask questions, which I was going to use in writing books later. Anyway, if I wrote more books, the part of the process of writing books that I actually enjoy the most, which is talking to the experts. Yeah. All the hardest where it comes to after that. Yeah. But teasing out the insights and habits of these world class performance is, is really what I love to do.
+
+6 (1h 20m 41s):
+W one of the things that I think is really interesting about, I mean, there's so many interesting things about, about your podcast, but one of the things that you've talked a lot about is the psychedelics and, and your, your use of them to help help with depression. And, and earlier we talked about your time in college, and we didn't, we didn't go into this, but I know that you had experimented with, or they call mushrooms a man I'm not super interested. Yeah. We can just call kind of just continue for the rest of your life after that. Was it a kind of a regular thing or was it on and off, or
+
+2 (1h 21m 14s):
+It was on, and then off, because it was at the time, this is in college. And I think a fair number of people who had this experience, it was not supervised. It was not a methodical. I mean, it's like a bunch of college kids reaching into a Ziploc bag and grabbing, God knows how much no scale involved. And I had a number of incredibly positive experiences. And then I had a very, very terrifying experience that showed me that these things are very powerful and need to be, or should be done and controlled, safe environment. So I, I had been fascinated by the therapeutic potential of these compounds in what they might elucidate about the nature of mind and consciousness for a long time.
+
+2 (1h 22m 3s):
+I stopped though in any way of consuming psychedelics for a good stretch of time, let's just call it eight or 10 years. But I found someone, I was able to get a reference to someone who is highly recommended for guided mushroom experiences. And I was able to surrender to the experience and to come out of it feeling completely safe and a way that marked the beginning of a very, very deep study of these compounds, both experientially, but also from the research perspective. And it was around the same time that I became very heavily involved in supporting the scientific research in a number of different institutions.
+
+6 (1h 22m 50s):
+And look for people are familiar with it. And I met, I mean, I'm not, you know, I'm, I'm, I'm boring, you know, like I'm a dad or to kids, and, but I've read enough about it to understand that actually, ah, there's a lot for us to learn, right? Yeah.
+
+5 (1h 23m 6s):
+Yeah. So I will say just a few things to provide a little bit of context. So the first is that siliciden, which is the psychoactive molecule. One of them is certainly within the mushrooms. We've been talking about so-called magic mushrooms has been granted breakthrough therapy designation for the treatment of depression. And there are risks. If you have a family, a predisposition to schizophrenia say, and you're taking these things in your twenties, it can trigger it. There are risks, right? And so I should point out the legal side effects of these compounds are significant for most people listening, certainly in the United States, these are schedule one and illegal to possess or use, and certainly to distribute in many, many places.
+
+5 (1h 23m 58s):
+So you need to be aware of that. So I don't recommend these loosely or in any cavalier way. I discourage people from psychedelics more than I encourage.
+
+6 (1h 24m 9s):
+Hmm. I want to, I wanted to turn to something slightly different. And, and I may throw you for a little bit of a curve ball, but, but you've talked about your parents support you, and clearly you have a way they were really important to you as a child. And clearly you have a good relationship with,
+
+7 (1h 24m 26s):
+And I wonder, I mean, you know, did you ever think that by this point in your life you would be a parent? No, I didn't. I, I, the thinking about kids was off the table for me up until very recently. And quite frankly, I felt up until a few years ago that I was too flawed to in good faith, bring another life into this world. So I took it off the table, I should say, first and foremost, that for a long time, certainly with my close brush, with suicide in college, I assumed I wouldn't make it past 30.
+
+7 (1h 25m 12s):
+And then there was a point where I assumed probably not going to make it past 40, whether it's these dangerous hobbies that I have or something else probably won't make it to 40. So I should really make this time count. And it's really only with the support of my girlfriend, who I love very dearly, that I've arrived at a point where I feel like that's a possibility. So I w I would like to have kids. And I think that I've taken that emergency break off only because I have reached a certain level of self-acceptance and self-love, which are things I never would have taken seriously in my twenties, or maybe even in my thirties.
+
+7 (1h 25m 52s):
+I mean, I viewed those, the idea of self-love is as self-indulgent a recipe for complacency, and I've certainly changed my mind. I think that if you don't love yourself
+
+8 (1h 26m 4s):
+Completely, how are your kids going to learn to love themselves completely? So that's, that's a project that I certainly don't impose on anyone else, but I take it very seriously for myself. Tell me when you think about, when you think about like all of the things that you've packed into your 43 years, that's a lot of stuff and you're, you know, you've got several more chapters out of you and including maybe father and how much of that, of, of, of what's happened to you, do you think is because of how hard you worked in how smart you are on how much do you think is just because of luck?
+
+5 (1h 26m 41s):
+No, I wish I had enough self-awareness and perspective to give you a 17%, 35%. And I'm sure that you could quantify by him. You're pretty good at numbers. I could figure out how to quantify it, but I think there's a tendency among people who have some more to come up with success. When they're asked a question like that and public to say, Oh, it's all luck or believe their own hype, to the extent that they think it was all grit and determination and planning. I think it's gotta be a mixture. I do think there are a handful of things I've done, right. And the fact of the matter is I've gotten a lot wrong. Like I had made so many mistakes and have brought myself to the brink of destruction.
+
+5 (1h 27m 27s):
+I mean, not just once but multiple times, right? I mean, a lot of days I would just like role out of bed. And I looked like, ER, and then I like get up and somehow managed to like get to a basic level of consciousness by jumping into a cold pool and like eating a handful of walnuts. And then I like putz around and I'm not sure what to do for three hours. And then I spend the next three hours, like beating the hell out of myself in my own head because I'm so unproductive and on and on and on, right. That is the majority of my days look, something like that. Despite that I think that I am very good at thinking about bets and experiments that have limited
+
+8 (1h 28m 8s):
+Downside that have incredibly high upside if they work out. And I put those in a calendar and I try a lot of things. And for that reason, I, I would really hope that where I've ended up is not all luck because there's nothing to be learned there. Right. There's not going to be learned. And I don't think it's all luck, I guess, just to, to keep doing what I'm doing and a half to tell myself some version of that story. But I think it's true. I think it's true. That's Tim Ferriss entrepreneur, author, investor, and host to the podcast. The Tim Ferriss show by the way, there are so many incredibly challenging things that Tim's tried over the years, that we didn't even have time to get into them.
+
+8 (1h 28m 54s):
+Like for example, he learned a form of Japanese horseback archery. You also worked as an MTV break in Taiwan
+
+4 (1h 29m 3s):
+And in less than a week, Tim learned how to play drums well enough to perform the song hot blooded
+
+3 (1h 29m 10s):
+At a sold out concerts with the band foreigner <inaudible>
+
+4 (1h 29m 37s):
+And thanks so much for listening to the show this week, you can subscribe wherever you get your podcasts. You can write to us at H IBT at NPR dot org. If you want to follow us on Twitter, we're at how I built this or at Guy Roz. And on Instagram, we're at Guy dot rods. This episode was produced by Casey Herman with music composed by REM teen era bluey. Thanks also to Liz Metzger, Doris gales, JC Howard, Julia Carney, Neva grant, and Jeff Rogers. Our intern is Ferriss Safari I'm Guy Roz. And you've been listening to how I built this.
+
+3 (1h 30m 22s):
+This is NPR.
+
+0 (1h 30m 27s):
+This message comes from NPR sponsor Adyen, the future-proof payments platform. Adyen connects you with customers around the world and makes it simple to accept all kinds of payments in app online in store touch-free and beyond with a single solution. Keep customers happy and your business growing with Adyen business, not boundaries, visit a D Y E n.com/ NPR to learn more.

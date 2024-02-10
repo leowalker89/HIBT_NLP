@@ -1,0 +1,743 @@
+0 (0s):
+Hey Prime members. You can listen to how I built this early and add free on Amazon Music. Download the app today how I Built This is pleased to have Upwork as our presenting sponsor. Visit upwork.com to get hiring. Upwork has a message for you. Everything you know about business, it was made up by a bunch of guys a hundred years ago. Don't stay bound to their antiquated rules like the nine to five workday commuting to an empty office building, or only hiring full-timers. Embrace a new way of working with Upwork. It's a portal to the future of business and it's disguised as a website. Go to upwork.com. There you'll see the light. And also find talent for projects of any size.
+
+0 (42s):
+From simple deliverables to complex projects. From short-term help to full-time hires, you can finally let those old business titans and their tired ideas rest in peace. This is how we work now. Visit upwork.com to get hiring talented professionals today with the Capital One Spark Cash Plus card, you earn unlimited 2% cashback on every purchase and it has no preset spending limit so your purchasing power can adapt to meet your business needs. The Antonelli's who own Antonelli's Cheese Shop in Austin, Texas use their 2% cashback from their Spark Cash Plus card to help cover their employees healthcare costs.
+
+0 (1m 24s):
+Imagine what the Spark Cash plus card from Capital One could do for your business. Capital One, what's in your wallet. Find out more@capitalone.com slash spark. Cash plus terms and conditions apply.
+
+2 (1m 41s):
+We had this very fateful meeting, I remember where we said, look, you know, investors have told us we're wrong, that this is stupid. These are smart people. Like these aren't dummies, they're smart. Like maybe they're right. Maybe we're on the wrong track. And I remember we said, yeah, but our customers like those developers who are early customers. They are loving it. They are building, they are using this. They're launching things and and having all these ideas. I think what we gotta do is like we gotta follow through on delivering for those customers and at least get a product to launch and see what happens.
+
+1 (2m 22s):
+Welcome
+
+0 (2m 23s):
+To How I Built This, a show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. I'm Guy Ross and on the show today how Jeff Lawson hated the hassle of customer service and built a company to deal with it. Twilio a multi-billion dollar communications business that you are probably using every day without even knowing it. As longtime listeners to H I B T. Know, I don't tend to interview a lot of founders behind software as a service companies, not because they aren't interesting or worthy, they are.
+
+0 (3m 6s):
+Many of them are multi-billion dollar businesses, but this show generally focuses on consumer facing brands, products or services we buy or use every day. But the story of Twilio, which you will hear today, is incredibly fascinating and hopefully instructive because Twilio was started at a time not too dissimilar from this moment right now. In 2023, it was 2008, the middle of the financial crisis startup funding was drying up. Financial institutions were being tested and not that many investors understood what Twilio did or how it would make money. So its founder Jeff Lawson, really struggled at the beginning.
+
+0 (3m 49s):
+Now, before I go on, let me explain what Twilio actually does. When you get a text message from a company saying your package was shipped or your food was dropped off or your car has arrived, the technology that makes that happen is often powered by Twilio. Its communications technology connects big brands like Airbnb or Uber or DoorDash or even Nike and Toyota to consumers in ways that have become so natural, so intuitive that we barely even think about them. Today Twilio does around 4 billion in annual revenue and it's used by around 10 million software developers around the world.
+
+0 (4m 29s):
+By the time Jeff Lawson launched Twilio in 2008, he'd already been through several different startup ventures, some of which ultimately failed. Jeff's first business posted students' notes from college classes. That company got erased when the.com bubble burst in 2000. When he decided to launch his second company, he and his co-founder took one of the most systematic approaches to brainstorming ever. They created an elaborate matrix of problems that needed to be solved and they set those problems against a list of technologies that might solve them. And after all that brainstorming, Jeff and his co-founder decided to launch something that had almost nothing to do with that matrix.
+
+0 (5m 13s):
+They opened an extreme sports shop that specialized in skating and snowboarding. That idea also fizzled out, but Jeff wound up drawing on that experience as well as many others before he launched Twilio. And we'll get to all of that. But before we do, here's some background. Jeff grew up in the Detroit suburbs in the 1980s and nineties. His dad was a doctor and his mom was a teacher and his first business was doing video production for birthday parties in Bar Mitzvahs. He started his next business as a student at the University of Michigan.
+
+2 (5m 48s):
+Yeah. So, you know, funny thing happened. I get to college, it's the fall of 1995 and you know most people when, when they go to college, the thing they're most excited about, like when they first get there and get dropped off by their parents is like, oh, well you know, you're gonna go party or you're gonna go find some alcohol or you know, go start dating and go to, you know, whatever. And I'm like, there's a fast ethernet jack in my dorm room. This is amazing.
+
+0 (6m 15s):
+Right. So while you were at the University of Michigan while you were a student there, you basically came up with a business idea called adversity. What, what, what was it?
+
+2 (6m 31s):
+Well, so we looked around at a variety of things that we could do and realized that there was, you know, on every campus there were these, these lecture note companies, you know, they were, and they were often run out of a copy shop, like the local, you know, copy shop where they would hire a college student to essentially drop off a copy of their lecture notes after every lecture. And it was this little cottage industry that, you know, seemed to form up around every college campus. And we looked at it and we were like, when
+
+0 (7m 2s):
+When you say we, who's we?
+
+2 (7m 4s):
+You know, I started the company with two friends of mine, Brian Levine and Michael Kramen and
+
+0 (7m 8s):
+Both, both students at, at Michigan?
+
+2 (7m 10s):
+Yep. Both students at Michigan. And we were in the same dorm.
+
+0 (7m 12s):
+So you're looking at this, this cottage industry and you guys are saying what
+
+2 (7m 16s):
+We're saying, well why, why should you walk across campus in the snow, remind you this is Michigan? Yeah. To go pick up like after every lecture to get a copy of these notes. When the internet, you could just sit at your computer and and download it seems like an ideal use case for this thing called the web. Why don't we just pay note takers to put their notes online? And so we started this as just a very small idea. We had no idea what we were doing. I remember we came up with the brilliant name for it. Originally it was called notes number four free.com. So
+
+0 (7m 51s):
+Notes, notes for
+
+2 (7m 52s):
+Free for
+
+0 (7m 52s):
+Free.com.
+
+2 (7m 53s):
+It mind you, this is like 1996. We could have had any domain we wanted, you know, Google was available and we picked
+
+0 (8m 1s):
+Notes, notes for free,
+
+2 (8m 3s):
+The number four free
+
+0 (8m 5s):
+Com. But, but if they were going to be, if they were going to be notes for free, how is that gonna be a business?
+
+2 (8m 13s):
+Ah, great question. If we gave 'em away for free, which seemed was the prevailing business model of the internet, which is everything was free and put advertisements on it, well then really the sky is the limit. And if you think about what people were talking about in terms of internet businesses in that era, it was, it was eyeballs, it was, you know, page views. It was hits and
+
+0 (8m 35s):
+Still is in some places. Yeah,
+
+2 (8m 36s):
+Absolutely. And so what we are basically building was a very early content management system for lecture notes.
+
+0 (8m 44s):
+How did you, yeah, how did you know how to do that? I mean, was it you or was it your, your other, one of the other friends. Like, cuz building website in 1997 was hard. Like people, even big businesses would hire like, you know, anyone to, to build a website. Cuz it wasn't like you just go to Squarespace or something, you had to know how to code it.
+
+2 (9m 5s):
+That to me was the why we were doing it. Right. Like we actually didn't care that much about like lecture notes. It wasn't about the lecture notes, it was about the challenge of figuring out how to do these things. Really.
+
+0 (9m 18s):
+Yeah. So, alright, so you start at the University of Michigan and you basically are soliciting lecture notes from students and, and ultimately how many, I mean what, like, can you estimate like what percentage of classes you cover? Like 20%, 40%? Well
+
+2 (9m 35s):
+We, so the, the sweet spot were these courses, you know, that, that like every freshman and sophomore
+
+0 (9m 41s):
+Had come to 1 0 1.
+
+2 (9m 42s):
+Yeah. Right, because you'd pay, yeah. You paid the note taker the same amount of money, but you had, you know, either dozens of potential buyers or thousands based on which classes you picked. Right? Right. So we started doing is we got a little smarter and we, we put up flyers around campus and say, are you an econ 1 0 1? We'll pay you for your notes. And it was like every
+
+0 (10m 1s):
+Week and it would say, wanna make extra cash? Sell your notes. Like, by the way, I, I still think the flyer method, especially on a closed environment, like a college campus is a great marketing tool. I have to say. I don't know if people, I don't, I haven't been on a college campus in a while. I, I still think they're pretty good. I look at flyers when I'm at like some weird, like old school, like organic co-op. I'll go to the bulletin board and you know, there's like someone teaching yoga and someone, you know, doing a meditation course. I just, yeah. I like looking at flyers.
+
+2 (10m 30s):
+Yeah. It's like, like someone had to take the time to actually go there and tape it up. Yeah. Like that person was probably standing right where you are. Right. And it makes it all very human and like small scale in a way that we don't actually get often these days.
+
+0 (10m 46s):
+Yeah. I I think, I think it was around 1997 that, that, that one of your partners on this, this venture was doing an internship out in California and he met this guy named Kevin O'Connor, who was the, is the co-founder of DoubleClick, which is obviously well-known internet ad company that's bought, eventually bought by Google. And, and I guess he told him about adversity and, and Kevin O'Connor liked the idea and then he even said like, maybe want to invest or something like that.
+
+2 (11m 14s):
+Exactly. And that led to a meeting actually the following week. Wow. Where, where I flew out and Michael flew out and we met with Kevin in his office and he kind of says to us, look, you know, this internet thing is like a once in a lifetime event that's occurring around us.
+
+0 (11m 32s):
+Yeah.
+
+2 (11m 33s):
+And sounds like you guys are working on this interesting thing and you have the whole internet. Why are you focused in on like, you know, a one square mile radius of potential customers? Yeah. Like why don't you go use the internet for what it's good for, which is like scale. Yeah. And but to do that you need money. So you should go raise, like, investors are throwing money at internet companies, why don't you go build a real company here?
+
+0 (11m 56s):
+So you dropped out of college to do this. You, you guys moved to Silicon Valley to California to pursue this idea varsity.com full-time?
+
+2 (12m 7s):
+Yeah, well we raised first a c like a friends and family rounds. We raised money from people we knew and, and Kevin participated and a few other folks like that. And that was while we were still full-time students, we raised about, if I remember a million dollars.
+
+0 (12m 23s):
+That's insane. I I'm just, well,
+
+2 (12m 25s):
+You know, cuz at that time, this is like 1990, maybe eight at this point. Like every, every dentist and every, you know, everybody is being told you gotta invest in this internet thing. Yeah. And so people just throw money at us. Yeah. And so we raise a million dollars and we expand from like the University of Michigan to I think, you know, the Big 10. And then we raised a true like venture capital round of financing. Again, we're still basically full-time students. And we raised I think 11 million.
+
+0 (12m 54s):
+Wow. You raised 11 million, you were 21 years old.
+
+2 (12m 58s):
+And that sounds super small by today's standards.
+
+0 (13m 2s):
+It's nuts. That was, that sounds nuts to me. That
+
+2 (13m 5s):
+Was a lot of money back then.
+
+0 (13m 6s):
+That's a lot of money. That seems crazy. You're 21, you've got this idea and you've no experience in people through all that money. I mean
+
+2 (13m 14s):
+Yeah.
+
+0 (13m 15s):
+And, and just, just outta curiosity, I'm assuming your parents were like, yeah, you gotta do this 11 million bucks, you've got this thing going. Yeah. Drop out. You can always go back to school if you want. Not
+
+2 (13m 25s):
+At all. Our parents were, were horrified by this whole thing. They were like, you know, you're, you know, why aren't you finishing schools? You gotta become professionals. You know, you gotta be doctors and lawyers and, you know, that's what their generation really valued was those professions and yeah. This idea that you drop outta school because you know, you're making something on the computer. Right. Seemed kind of, you know, like foolish to them. But you know, as we got more and more traction and as like, you know, there were stories written about us in newspapers and, you know, we're raising money from investors. I think they, they started to come around and I remember we opened an office, we had, you know, we had, we had an office in,
+
+0 (14m 1s):
+Where was it?
+
+2 (14m 2s):
+In Ypsilanti, this town right outside of Ann Arbor. Yep. Where the rent was like negligible. Like we paid nothing. And we had, you know, first a small office and then bigger, we ended up taking over a whole floor in the key bank building in Ypsilanti.
+
+0 (14m 17s):
+And, and did you, so, so you had this office in Ypsilanti, but you didn't have to, they didn't, your investors didn't say, Hey, you've gotta build this in Silicon Valley.
+
+2 (14m 25s):
+Well they did. So then we raised our venture round and they the 11,000,011 million and they said, you need to move this to Silicon Valley. So we picked up that whole office on Friday, everybody was at work in Ypsilanti and on Monday we were all at work in Silicon Valley.
+
+0 (14m 44s):
+Wow.
+
+2 (14m 45s):
+And just picked up going out here. And we then expanded from, you know, I think the, the 10 campuses that we were on to to 50 the next semester. And then after that to 200.
+
+0 (14m 58s):
+I'm still trying to wrap my head around the fact that it was this content was free wasn't, was there anybody, any of your investors who were like, okay, this is great. You're gonna get a million eyeballs here and then let's turn this thing adversity. You know, now you're doing notes, but let's think of this as like the one stop shop for college students. This is gonna be like the Princeton Review meets, you know, US newsroom report ratings plus like, you know what Yelp eventually, like all those things. Like did anybody say that?
+
+2 (15m 29s):
+Oh, absolutely. I mean we kept building more capabilities into the product, but never once was the conversation about, and we're doing it to make revenue. It was always about, you know, more eyeballs, more hits, more page views. And in the course of that we made a total of about $26,000 of revenue in the lifetime of the company.
+
+0 (15m 53s):
+I mean it's, it's totally crazy if you think about that. But the idea was let's just accumulate eyeballs and it's, and you're now living there in California and I think within a year of moving out there, you guys got an acquisition offer
+
+2 (16m 7s):
+We did
+
+0 (16m 8s):
+From a, from a rival company. Well,
+
+2 (16m 10s):
+You know, so we were all about academic content. And I remember there were these other companies at the time who were, they were like social websites for college students, but they were not based on academics, they were based on like just social things. And one of these companies was called college club.com. And I, you know, I said, I remember at the time I'm on the record as saying there is no purpose for a social network for college students because college is the ultimate social network. You don't need to go online for it. Which, you know, then later came back to bite me when, when, you know, Facebook became one of the largest website. Right. But so I I, you know, I made this bold declaration.
+
+2 (16m 52s):
+Well meanwhile, the, the college club company, they had been acquiring their eyeballs. They were in the eyeballs game too. Yep. And I think they were paying, like when they, when they took their whole marketing spend and they divided it by the users, they were paying something like $50 to acquire a customer. And so that's a lot of money. Yeah. And when you took the entire cost of operating our business, including paying these note takers, we were like a dollar
+
+0 (17m 17s):
+To acquire
+
+2 (17m 18s):
+Customer, to acquire a customer. It was so much more efficient. And they, they approached us and they said, look, you know, we've got this community, why don't you join up with us and together we'll go public and we'll, you know, obviously like make a lot of money cuz public companies are like, you know, to the moon and you're gonna help us bring down our costs and we'll keep scaling this thing together. And so we did it,
+
+0 (17m 42s):
+And I should mention the acquisition price. They acquired your company, which had only made $26,000 in revenue for 30 million all stock, no cash, right? Yep. It was an all stock deal, but they were gi giving you 30 million worth of stock in. I mean that's a pretty great outcome. I mean for you, for your investors in such a short period of time.
+
+2 (18m 5s):
+Yeah. And I think when it was the like, expected value of their ipo, the number was even much higher because, you know, the numbers they were showing us were like, this is gonna be worth, you know, a few hundred million in a few months. Right. So we're all saying yeah,
+
+0 (18m 19s):
+Hey
+
+2 (18m 20s):
+Wow. Wow.
+
+0 (18m 20s):
+Look at that. You're putting down pay, you're putting a down payment on like a, a mansion. Well,
+
+2 (18m 26s):
+And and maybe not and think about it. Yeah. 21 year. I don't think you're really thinking about mansions. You're more like that's a lot of like subway or something. So we went from nothing being college students to like raising this small round of friends and family investors to now having this thing that's gonna be public and worth hundreds of millions of dollars in about two years of just furious like 22 hour days. Not cuz we had to, but because we loved it because it was like the, the, the time of our life. And then we get to college club and they move us from Silicon Valley down to San Diego, which is where they're based and they have filed to go public in April of, of 2000.
+
+2 (19m 6s):
+But the market has basically just closed,
+
+0 (19m 9s):
+Just starts to collapse.
+
+2 (19m 11s):
+Yep.
+
+0 (19m 11s):
+This is the beginning of the.com bubbly bubble bursting.
+
+2 (19m 15s):
+It's the beginning of the bust and they are bankrupt by August.
+
+0 (19m 21s):
+So all that work, all those investors, like all that money was gone.
+
+2 (19m 25s):
+Everything gone. Like it was worth zero.
+
+0 (19m 28s):
+Wow.
+
+2 (19m 29s):
+You know, by within months,
+
+0 (19m 33s):
+I mean, as a 21 year old you were gonna recover, obviously you did. And that was I'm sure not fun. But do you remember how that felt? Like all those people, like family and friends and like investors who lost everything?
+
+2 (19m 46s):
+Yeah. You know, I remember conversations with some of the employees because we moved down to San Diego and people were kind of moving Yeah. At various times. And they like, right when we get down there, they basically start saying, look, we're we're gonna, we have to lay off basically your whole company. And I was like, are are you serious? They're like, yeah, we've been burning, you know, 50 million a month or some ungodly number and now that we're not going public, we don't, we're not, we don't have the money and so we've got rid reduce our burn like immediately. And they said, you need to go talk to all your employees and play them off. And it was just devastating.
+
+2 (20m 27s):
+I mean, talking to folks and, and having this whole thing unwind so quickly. Yeah.
+
+0 (20m 32s):
+But in a sense, I mean, what happened, diversity wasn't really your fault. I mean, you were acquired of course that acquisition, maybe if you could do it again, you would've taken 30 million in cash and not 30 million in worthless stock. But that's what it was.
+
+2 (20m 45s):
+Yeah. But you know, I just, it it was sort of like, what, what just happened? Right? We had this whole internet bubble and it burst and no one was really like, it felt like nobody was like, you know, manning the door. Like what, who's like, who's in charge here of this internet now? Right. If everybody agreed that revenue didn't matter and now suddenly it does. That's a, that's a harsh transition, but one that you look back on, you're like, well of course, like how long can companies go without having any revenue before you start to ask questions about the business?
+
+0 (21m 27s):
+Huh? So, so I guess spring of 2000, this thing basically unravels and you, you decide to start spending a few months working at another startup, which was called StubHub, which we know of course of today cuz it just, I think it had just launched at the time, but I guess you, you weren't really into it cuz you, I guess pretty soon after you started there, you, you began meeting with people about other things that you might wanna do, right? Like, like other companies you could work at.
+
+2 (21m 57s):
+Yeah. So Kevin O'Connor, who was the founder of DoubleClick who had invested in my first company, I was in New York and I was having lunch with him one day while I was, you know, still working on StubHub and you know, he said, you know, what are you, you know, what are you doing or what are you thinking about? And I was like, you know, I just, I'm not sure I'm gonna be long for the StubHub idea. And he said, well, why don't, why don't you move to New York and we'll start a company together? And I said, okay. Like doing what he said, I don't know, let's brainstorm and come up with an idea. He's like, why don't you go find another entrepreneur that you really respect and move. You can live in my summer home in the Hamptons, which is like empty most of the year.
+
+2 (22m 39s):
+Nice. And we'll just brainstorm a bunch of business ideas and we'll come up with,
+
+0 (22m 42s):
+Come live in my summer home in the Hamptons.
+
+2 (22m 44s):
+Yeah. And I'm like, well that sounds nice. And so I move out in November the middle of winter. Yep. Right. And it's kind of this old beach shack, like, it sounds great like the, the summer home in the Hamptons, but it was like this old beach shack with very poor electrical infrastructure and you know, everything else. And
+
+0 (23m 6s):
+Were you by yourself in that house?
+
+2 (23m 8s):
+So I grabbed one of my other co-founders from Verity Okay. Or one of, one of our, actually one of my key hires at Verity. Right. And we came out this guy named Matt Levinson. So we moved out in the middle of winter, and by the way, this is, this is desolate. Like there's nobody in the Hamptons. Right. We would order packages on Amazon so that the UPS truck would come and plow the road for us.
+
+0 (23m 28s):
+Yeah. I'm not, I'm not shedding tears for you, you're in the Hamptons. Okay. Let's keep talking about what you're doing there. Okay. Your brainstorming ideas, I'm
+
+2 (23m 35s):
+A scene setting
+
+0 (23m 36s):
+For you. The, the tiny, the tiniest violin in the world is playing now for your time at the Hamptons. So, so, but what, what is the process? You, you guys are sitting there all day just doing
+
+2 (23m 46s):
+What? Yeah. Cause
+
+0 (23m 46s):
+There's nothing else to do. Tell me what the conversation, like how do you start to brainstorm a new idea?
+
+2 (23m 51s):
+Okay, so we spend the first week brainstorming different groups of human beings that might have interesting problems.
+
+0 (23m 60s):
+Okay.
+
+2 (24m 1s):
+You know, doctors, small business owners, single parents, you know, teenagers, whatever, like just groups of human beings that when you think about them might have problems. Okay. Yeah. So we, we come up with 200 different groupings of human beings and then we rank which ones we thought were most interesting and most promising areas to go explore. Hmm. So once we settled on like the top five, like small business owners, then we brainstormed what problems do they have? And so you brainstorm, okay, well like they need to acquire customers, they need to accept payments, they need to, you know, do marketing. They need the security they need, like all this, they need to get their store online. They, all these lists of things that they, that they might need to do.
+
+2 (24m 42s):
+Yeah. And then at the end of this process, like we spent a few months, maybe like a month, and we had a list of like a thousand ideas of like problems that needed solving. Okay. Then we moved to the second phase of this Wow. Which was, okay, let's brainstorm new technologies that are emerging that might allow us to go solve some problems. So you brainstorm, you know, the web or you know, at the time it was like Bluetooth or GPS or all these different technologies. So do a long brainstorm of that and then we narrow it down to the most promising ones. And then the really interesting part was you did a matrix. So you'd get on a big whiteboard and on the horizontal axis you would write all of the new technologies.
+
+2 (25m 27s):
+And then on the vertical you would write a bunch of those problems
+
+0 (25m 31s):
+And then you would draw a line and connect them or something. Well,
+
+2 (25m 34s):
+Like you brainstorm you'd say like, well if, if a business needs to acquire new customers, can Bluetooth solve that problem? Well I remember my favorite one was called the thing locator. And the observation was that you had pagers, you remember pagers like doctors would have, you know, there's always doctors and drug dealers, right?
+
+0 (25m 54s):
+Of course. Yeah. Yeah,
+
+2 (25m 56s):
+Sure. Well, pagers were going outta style. People didn't need 'em anymore. But yet ev there were, every city was blanketed with infrastructure to do two-way paging. And we said, well, if you're always losing your keys or your car or your whatever, couldn't we put a GPS chip and a like a pager radio into a small package and let you just keep track of where things are. And this was in 2000. Hmm.
+
+0 (26m 25s):
+Yeah.
+
+2 (26m 25s):
+Called the thing, the thing locator. And so we did a bunch of research and what we found was that the power requirements of both of these things, GPS and the pager network would be the form factor of this thing would be pretty large. Yeah. And so, like you wouldn't put it on your key chain.
+
+0 (26m 41s):
+Right.
+
+2 (26m 41s):
+And so while I'm sure we, we could have pursued some other things like well, you know, trucks or whatever, we kind of abandoned the idea because the original problem we were pursuing was, you know, more for personal use.
+
+0 (26m 53s):
+I'm, I'm just gonna interrupt you for a moment because clearly there were a lot of really interesting ideas that would eventually be developed by others and, and you were looking at technology as a solution to problems. And yet I'm just, you know, spoiler alert here, but the, the business that you decide to pursue is a, a brick and mortar retailer for extreme sports called Nine Star and you would sell skateboards, BMX bikes and snowboards. That is surprising that that was the idea that you all landed on
+
+2 (27m 26s):
+In what probably was a condemnation of this brainstorming process.
+
+0 (27m 30s):
+Yeah, I mean totally.
+
+2 (27m 31s):
+Right. My co-founder, Matt had had this idea like five years earlier for a, like what was called the category killer retailer for extreme sporting goods. Because what he observed, he grew up in Santa Barbara and he observed that these sports, you know, skateboarding, snowboarding, surfing, they were exploding in popularity. You know, think about the X Games and like this is like the, the clothing brands everybody was wearing and you know, Tony Hawk and all these things like, but if you're gonna carry, you know, 300 surfboards and a thousand skate decks and BMX bicycles and all that, like you need a big footprint store.
+
+2 (28m 13s):
+And we looked at it and like we were looking at retail in this time and saying, well, everything seems to be either be going online or it's becoming really experiential. Yeah. Think r ei think like Right. There's a climbing wall in the store. Yeah. They've got great selection. The salespeople are knowledgeable. The salespeople do the sports.
+
+0 (28m 34s):
+You wanted to do an r e i for extreme sports essentially. Yeah.
+
+2 (28m 38s):
+We said r e i if, if R E I is the granola eating sports, where are the poptart eating sports?
+
+0 (28m 43s):
+Yeah. And by the way, were you a skateboarder or BMX or a snowboarder or anything like that?
+
+2 (28m 48s):
+I did none of these sports.
+
+0 (28m 49s):
+Okay. I gotcha. Alright. So what would your role be in this company? Like you would do the, like if this was a brick and mortar retailer, what was the, the technology aspect of it?
+
+2 (29m 0s):
+Well, you know, I was asking myself that same question. I immediately said, okay, well what, like why am I doing this? Like, I'm not doing these sports,
+
+0 (29m 8s):
+I don't, you're not a, you don't know
+
+2 (29m 10s):
+Retail, I don't know retail, I don't know skateboarding. Yeah, I don't know anything. But the one thing I thought was interesting, I said, you know what, starting a brick mortar retail business from scratch in the year 2000 and you know, basically this is 2001 at this point I could build whatever technology I want to make this a great customer experience. What would I do? What could we build? And I kinda latched onto that problem being a really interesting one. Again, going back to like, what's a great, great way to learn new things or or discover new technology is just commit yourself to the domain and go figure it out.
+
+0 (29m 49s):
+When we come back in just a moment, how Jeff discovers that selling skateboards is not his true passion in life and how that discovery eventually leads him to Twilio. Stay with us. I'm Guy Raz and you're listening to how I Built this.
+
+3 (30m 13s):
+Everyone knows that putting money aside in savings is really important, but then what should you keep your savings locked in a CD for a higher rate or keep them liquid in a money market? Can your checking account help you save too? Or is it about creating the right combination? We believe real banking is a conversation. Let's talk about the savings options that are right for you. Learn more@sandyspringbank.com. Member F D I C.
+
+4 (30m 41s):
+Hey, I'm Mike Corey, the host of Wondery podcast. Against The Odds, each week we share thrilling, true stories of survival and put you in the shoes of the heroes who live to tell the tale. In our next season, we take you to a remote corner of Alaska that's home to one of the densest brown bear populations in the world. But in recent years, the change in climate has caused a shortage of the Bears natural food sources. More and more bears are venturing into the town of Hayes Alaska in search of food, putting residents on edge. Then everyone's worst fears are realized. Three experienced backcountry skiers unknowingly ski over a den and awaken a mother bear and her cub.
+
+4 (31m 26s):
+She attacks and one of the men is left fighting for his life while his friends desperately wait for help to arrive. Follow against the odds wherever you get your podcasts, you can listen add free on the Amazon Music or Wondery app.
+
+0 (31m 50s):
+Hey, welcome back to how I built this. So it's around 2001 and after much brainstorming, Jeff and his partner Matt have decided that what the world really needs in that moment is a brick and mortar store that sells skateboards and snowboards. And to start out, they're able to get some backing from Kevin O'Connor, the guy who helped them with their first business.
+
+2 (32m 12s):
+Well luckily for us, Kevin was just getting into surfing himself so he sort of understood the market and was really interested in this idea. And so he said, yeah, like I'll be our first funder, let's go. We're gonna move out from New York to Southern California, which is the home of all these sports. Let's open our first store out there and you know, I'll be your first funding and we'll go find more money of course, but I'll be your first backer.
+
+0 (32m 37s):
+Where was the first store?
+
+2 (32m 39s):
+The west side of Los Angeles. And it took us a couple years to get the store open, but we finally opened it in basically Westwood and the corner of Olympic and Silveta. Hmm. And so I spent the next like several years actually building a point of sales system from scratch to run the business on.
+
+0 (33m 1s):
+And by the way, at, at its height, how many stores did nine Star eventually open?
+
+2 (33m 6s):
+Well this is when we ran into the fact that retail is a brutal business. We, our first store did very well, actually. We put, so we put a skate park in the store, like there was a kids could skate in the store. We had a video game lounge in the store. We had amazing selection. Great employees knew the sports inside and out and the store was like the place to be. In fact, we put a, a halfpipe in the parking lot and it drew people in the door. It was amazing. So we said, ah, this is great. And so we raised some more money and we opened store number two inside a mall in Orange County and it was a dud. And so we had one store that was doing really well, one store that was not doing well.
+
+2 (33m 49s):
+And so the average of both was the company was just basically staying afloat.
+
+0 (33m 53s):
+Hmm. I think why you were still trying to get that first store off the ground, you actually decided to go back to school, back to, to University of Michigan to finish your degree. And like what was your plan after you finished? We're just gonna head back to LA and and kind of pick up where you left
+
+2 (34m 11s):
+Off. Yep, yep. And first of all, going back to school when you are in your mid twenties is a blast. It is like literally the movie old school. Hmm. And I kept in contact with my co-founder who did actually in that, that summer, started building out the store and I said great. So when I finished college, I moved back to the west side of Los Angeles and we got hustling to get that store open. So did this thing, got the company off the ground, we opened the store and we're running this store, this retail store. I'm sitting in the back of the store writing code for this point of sale system. I've got, you know, skate kids who are skating in every part of the store, making all this noise with their skateboards cuz we made the whole store basically a skate park.
+
+2 (34m 54s):
+You could skate everywhere inside the store. And so kids are skating everywhere. You kept hearing these like bang, bang, bang of like the skateboards landing everywhere. The employees are like these young skater guys and they're like running in like, Hey bro, do you know where the size nine shoes are? And I'm like, no, I don't know where the shoes are. I'm trying to write code here. And after a while I realized I actually hate this business. I hate the customers, I hate the employees, I hate the stuff we're selling. And for a software developer sitting in the back of a skate shop trying to focus on writing code, getting constantly disrupted by everything going on, I again had this realization that I'd made the same mistake I made at StubHub, which is is for some reason I'm building this business without a love for the customer.
+
+2 (35m 44s):
+In fact, I had sort of grown to hate the customer and I was like, this is a problem. Now also, I had at this point gone multiple years without a salary. My bank account is drained, I've racked up credit card debt. Yeah. And I, and I'm actually not even meeting my minimum payments at this point. And I'm like, something's gotta give. And so I kind of float my resume out there to a few friends and I'm like, you know, maybe I should just go work at a big company. Like, I literally had no experience in a big company. Like I knew they had these big buildings, they had a logo on the top of the building and people walked in at nine and left at five. But I like, I had no idea what people at big companies did all day because as a startup you are just, you're just moving, you're just doing all day every day.
+
+2 (36m 30s):
+Yeah. And I'm like, I feel like if I wanna be an entrepreneur and like succeed in building a great company, knowing what happens in one would be really useful knowledge. And by the way, recharging my bank account is another added bonus.
+
+0 (36m 43s):
+Yeah. So, so naturally you go to work for Amazon. Yeah. And I think this is around 2004 and presumably you moved to Seattle and, and, and you go, I think you went to work for what at the time was a new division, which was aws, Amazon Web Services, which obviously now is, I think this is our biggest engine of revenue. And you were there like a little over a year, but at some point obviously you had this idea to start a, a new company which would become Twilio. Yeah. But, but what was the insight that you had at Amazon to make you think Yeah, because we should just say this at the start, like that the vast majority of people who listen to our show, right?
+
+0 (37m 25s):
+They're listening for consumer facing brands. So I mean, Twilio, I think, I think you'd admit it's a little bit hard to explain to people who don't know what it is, but we'll get there. But, but what was the insight that you had at Amazon where you thought, oh, you know, I can turn this into a business.
+
+2 (37m 41s):
+You know, I've always wanted the, like, the things that the big companies have, I had always wanted, and I remember like, I'm called an Apple store one day and I got this amazing like, hello, thank you for calling the Apple store for our press one for, you know, you get the typical thing. And I was like, that's so cool. And how did they do that? Like when you call my store, like someone has to answer the phone and be like, oh. And I was like, how do they do that? And I researched it a bit and it was like very expensive, very sophisticated. Like, you have to go buy hardware, you have to go work with carriers, you have to roll out copper wire to a carrier, to your, to your closet. You gotta go buy software. There's people involved who are the experts. And
+
+0 (38m 21s):
+Just to have that, just to have that automated phone line.
+
+2 (38m 24s):
+Yeah. Right. It was incredibly complex. And, you know, in the, in the skate shop business, I, I remember like, I would work in the store, I'd work in the front of the house and I'd be at the register and the, the phone rang all day every day. And you pick it up and every time it was someone saying, Hey, I got a question for you. Is my, you know, my surfboard repair, is it done yet? And I'd be like, well, okay, tell me your email address and I'd like, you know, have the phone hunched in my ear with like my shoulder holding it up while I'm typing in a keyboard and looking up in the system that I wrote whether the skateboard was or the surfboard repairer was gonna be done. I'm like, Nope, it's still gonna be ready Thursday. And I was like, why did I have to do this? Yeah. And what I saw at AWS was this idea that like, oh, now every business can have the most sophisticated technology, the same infrastructure that the giants that the Amazons and Googles of the world are using to build their business now is available to everybody.
+
+2 (39m 19s):
+And I kind of saw what Amazon was doing cause I'd been there and they're doing it for compute, you know, for servers, for storage, for databases. But I thought about my set of experiences and I was like, you know what I would really want it for? It's like, how do I talk to my customer?
+
+0 (39m 34s):
+Hmm.
+
+2 (39m 35s):
+I bet a lot of entrepreneurs, a lot of software developers are having this problem too.
+
+0 (39m 41s):
+So, so essentially the idea was to make it easy for companies, technology companies to communicate with their customers or to, to enable some kind of communication with their customers using a, using a phone. Right. And, and, and it was, to do that at that point was very expensive. It required lots of hardware. There was essentially no cloud version of this. It was basically like having servers in the old days now you'd worked at aws. People were, were were working with cloud-based servers. You're essentially saying, why, why can't we do this with telecommunications?
+
+2 (40m 16s):
+Well, you know, like I remember I would call, I would say, okay, we want that fancy like phone thing. Yeah. So it'd be like, who I don't know anything about that. I'm a software developer. I don't know the first thing about how to make a phone ring. So I call the people who it seemed like they did, like, I call like Cisco and say like, Hey, you know, it seems like you people know how to make the phone ring. Like, tell me how to go about doing this. And they'd say, well, you know, it's gonna take us two years and cost us about 4 million, but you know, sign here, we'll get started. And every time I remember having this like same reaction, I was like, well first of all, that's funny. Like 4 million. Like yeah, I'm a startup. I don't have that kind of money. But even if I did, let's say I was some big company, yeah. I would kind of look at it and say like, well actually you don't, it is even more problematic.
+
+2 (40m 56s):
+It's like there's two years idea. Because what I was observing was that everything in the world of software has gotten faster. Mm. Where it's like, hey, we no longer design a product and spend years building it. We look ahead the next two weeks and design the next sprints worth of work, build that, and then reevaluate. And that's like the nature of agility has really entered not just the software development world, but like the business parlance, which is you're no longer embarking on multi-year projects because those always tended to fail. Yeah. Instead you kind of work more iteratively and that's how you unlock value. That's, think about all the apps on your phone, they're getting updated like all the time. But then you looked at the world of like, but if I needed a phone to ring, now we're back into the years and millions of dollars rolled.
+
+2 (41m 41s):
+I said, why can't we fix that? Why can't that just be a line of code? And that was where Twilio started.
+
+0 (41m 48s):
+Alright, so you decide that you're gonna pursue this and you, you're gonna do it with two friends, Evan Cook and John, is it TIUs?
+
+2 (41m 56s):
+Wice
+
+0 (41m 57s):
+Wice. And, and so did you leave Seattle? Did you move to back to California?
+
+2 (42m 3s):
+So we first had this idea, we talked to a bunch of developers that were just friends or acquaintances of ours. And we said like, Hey, you know, if you had, you know, had this idea where there's this like service that's running in the cloud that with like, you know, line of code, you could hit it and you could make the phone ring and you could do all these neat things, you know, would you have have use cases for it? And a funny thing happened, the developers would first say, huh, that's, you know. Yeah, yeah. How about how about the Mets? You know? And I was, I was like, well yeah, okay, well maybe this is a bad idea. And then every single time about a minute later they would say, Hey wait, can you go back to that phone thing you were just talking about?
+
+2 (42m 43s):
+I, you know, could I, could I notify my customers when a package ships from an e-commerce I know is recently building? And I'd say, yeah, yeah, you could. And they'd say, oh, interesting. Hmm. You know, like one of our early customers was Uber and they, they came to us and said, well actually we wanna let you know when your ride's arriving. Can we do that with Twilio? We said, of course you could. And they, like a day later rolled out the first version of getting a text message when your car is arriving.
+
+0 (43m 9s):
+Okay. Just a, just a, a question here, right. This is 2008. Obviously everything we're talking about today is just normal. Like, I think everyone listening takes us for granted. But when you, when a developer would say, oh wow, I can notify my customers when a package arrived. I mean, they could do that with email at that point already. So what, what was the, you know, when when somebody would say that to you, say, well I can redo that through email. Like what, what would you say about your product or your idea that would make it better?
+
+2 (43m 38s):
+Well, and people did do it via email, but there was sort of like a, it was actually, they were coming to me with the idea as opposed to the other way around. Cuz they were saying like, if customers are calling me all day saying, did my package shipped? Did my package ship? Like, we almost forget about the early days of the internet when you would always be wondering when the thing was gonna arrive. And it might be like weeks, like, you know, and when people would hunt for like the customer service phone number to call. And very quickly what customers started asking us was like, you know, the phone is, the phone calls are great, but what about text messages? You know, could I send a text message because that would be even more convenient. Yeah. And we kinda looked at it and said, yeah, like, and you know, wearing my consumer shoes, I'm like, I would prefer a text message in a lot of these cases.
+
+2 (44m 20s):
+And then wearing my developer hat, I was like, oh yeah, a lot of those situations that I described before would actually be even be better as a text message.
+
+0 (44m 28s):
+I wanna ask you a bit more about that in a, in a, in a moment. But I want to ask you about how you, when you started to explain this idea to people, because to build this, you, you were gonna need money, you were gonna need a lot of money because it, you know, you had to fire develop software developers and engineers and all kinds of people. How, what was the reception from in, from, well before we talk about investors, just from people that you met. I mean, yes, you, you, you know, developers, they got it, they seem to get it. But when you would just explain this idea to people, did they understand it? Did they understand it? Were there puzzled looks? Was it like, oh my god, you've got a hit? What, how did, what did people say to you?
+
+2 (45m 10s):
+Well, you know, in the early days of a company, the two people you really need to explain yourself to are customers and investors if you're raising investor money. Yeah.
+
+0 (45m 21s):
+Yeah.
+
+2 (45m 22s):
+And so we talked to customers, you know, the developers, and they were like, you know, the gears were going, they were like chomping at the bid. Yeah. Look, when can I get access to it? So we started building the early prototype of the service and started giving access to those developers. And they immediately started building some really interesting stuff. And they come to us with great feature requests and they were saying, oh, can I launch this? And we'd be like, well, maybe not yet. This is like super prototype you,
+
+0 (45m 46s):
+So you could build the prototype with Twilio and, and initially the way you would make money or how you pitch it to investors was we get a cut, a a, a penny or two pennies for every out automated outgoing call. And then every incoming call we get a, a penny or something like that.
+
+2 (46m 5s):
+Yep, yep. And so every phone call would be like, you know, a penny a minute. And when developers embed these capabilities into their apps and interact with their end users, we're just gonna make a little bit of money every time they're used. But those are gonna add up o over time. So the summer of 2008, we like feel like we're rocking and rolling, we're gonna go raise our first round of financing and then, you know, later in the year we're gonna launch and this is gonna be amazing. Yeah. So I start, I'm still in Seattle. My co-founders live in the Bay Area, but I'm still in Seattle. I start flying down to meet with Silicon Valley investors, venture capitalists. Yep. And two things happen. First of all, it's the summer of 2008,
+
+0 (46m 46s):
+Not a good time to be raising money.
+
+2 (46m 48s):
+The financial crisis is in full swing. I mean, they are like, many of them were just like, our checkbooks are closed. I'm sorry, we're just not writing checks right now. So horrible time to be fundraising. But the second thing that happened kind of universally, like I go into these investors and I say, you know, we have this idea, it's this, you know, platform approach. Software developers are gonna build these services that use, you know, phone calls to go achieve all these business goals and we're gonna charge a pay as you go rate to make it super easy to sign up. We'd explain the whole thing and they'd say, well, yeah, I, I just, you know, it sounds interesting, but like software developers, you know, that's not, that's not a market. Like they don't have the checkbook, they don't have buying authority in their companies.
+
+2 (47m 28s):
+Nobody knows how to reach them. Like no one's ever built a business for software developers before. So why don't you go build an app, you know, build a call center, build something in the cloud and you know, come back to us when you've built that and you know, we'll, we'll think about it again. And I remember like meeting so many investors and they all had basically the same feedback that at the end of that summer, we, we had one investor that was really close, they got it. They were like, oh, the developer thing, the pla I think they were paying attention to AWS and they said, this is gonna be amazing. Lehman Brothers collapses. And they're like, sorry, we're, we're not. Yeah. And so we spent that whole summer and did not have a dollar to show for it from investors.
+
+2 (48m 11s):
+We raised no money. So we're like, yeah, back where we started. We have no money, we have no investor interest. We didn't even have a bank account because you need like money to open a bank account and we had no money
+
+0 (48m 25s):
+When we come back in just a moment at Twilio begins to get customers and how Jeff uses a proven gorilla marketing technique to generate buzz free tacos. Stay with us. I'm Guy Raz and you're listening to how I built this.
+
+5 (48m 52s):
+In the 1970s, Sam Walton stepped away from his retail empire, Walmart, but with Sam gone, the company nearly buckles under the weight of a power struggle at the executive level. Hi, I'm Lindsey Graham, host of Wondery Show Business Boomers. We tell the true stories of business leaders who risked it, all the critical moments that define their journey and the ideas that transform the way we live our lives. In our latest series, Sam Walton is distressed with how his company is being run in his absence. So he comes outta semi-retirement, determined to take back control and take his company to the next level. Driven by a desire to be the best. Sam grows his company, crushes the competition and transforms Walmart into the biggest retailer in the world.
+
+5 (49m 33s):
+In the end, the man that many once called the courtier of hillbillies is known by another moniker, the greatest businessman of the century. Follow Business Movers. Wherever you get your podcasts, you can listen ad free on Amazon Music or the Wondery app.
+
+0 (49m 54s):
+Hey, welcome back to how I Built This. I'm Guy Raz, so it's 2008. And Jeff and his co-founders have gotten some pretty good early feedback on Twilio, other software developers. They love it. The problem is investors think it's a bad idea.
+
+2 (50m 10s):
+And we had this very fateful meeting I remember where we said, look, you know, investors have told us we're wrong. That this is stupid, these are smart people. Like these aren't dummies, they're smart. Like maybe they're right, maybe we're on the wrong track. And so we said maybe we should either just give up. Maybe it's is a bad idea, all right, let's just go get jobs somewhere. Or maybe we should just pivot and like build one of those apps they told us to go build even though we're not that passionate about it. And I remember we said, yeah, but our customers like those developers who are early customers, they are loving it, they are building, they are using this, they're launching things and, and having all these ideas. I think what we gotta do is like, we gotta follow through on delivering for those customers and at least get a product to launch and see what happens.
+
+0 (50m 60s):
+It. And it seems like your earliest customers, cuz you were of course eventually able to raise some seed money and then you would raise a lot more over the years. But it seems like your, your first customers were really focused on sms, on text, and using this as a way to communicate via text or get people to sign up for things right there. Like you could say you started to see these things, it was like text, you know, dollar to 5, 4 21 or whatever and and you would sign up for whatever that was like that. Was that a function of what you were you had built?
+
+2 (51m 37s):
+Yeah, so we launched and at first Twitter voice only. So we launched, we had, you know, basically nothing in our bank account. We launched.
+
+0 (51m 45s):
+And by the way, who, who was your, I mean, who was your first significant customer?
+
+2 (51m 50s):
+I remember the day we launched Sony reached out. Hmm. And you'd say Sony, what did Sony, and you'd sort of think about some big enterprise use case. Well, it was actually Sony music and there was a music promoter who worked at the record label who was like, oh, I saw your launch post. I wanna build this service. There's a band called Lamb of God. It's like a metal band. I, yeah. He said what we've had, we've had this idea in our mind forever that we want to do what's called Log Rolling. Our customers, our our fans where they can sign up to get a daily phone call and the band is gonna record a, like an audio from the road. They're on tour, they're gonna record their daily update and then customers can sign up and we'll blast out the phone call and you'll hear from the band every day.
+
+0 (52m 36s):
+Wow.
+
+2 (52m 37s):
+And I was like, that was the day after we launched. Like, I'm on the phone with a, you know, a, a music promoter at Sony and I was like, huh. There's like some real like, you know, business needs are coming out of, of, of left, left and right here. Yeah. And, and but I remember like, first of all, it was a weird period of time cuz we launched, and I remember like the day we launched my co-founder John, looking at this like internal dashboard we had saying, oh my God, like they're paying us, like seeing like, you know, credit card payments starting to come in. And they're like, they're, they actually trust us with their credit cards. They will actually, you know, willing to pay for this. And that's the validation you're looking for. And immediately started seeing it. Hmm. And suddenly you saw this explosion where like most apps that you downloaded from the app store, you know, would text you to verify your phone number or would, you know, text you when your order ships or when you have a friend say something or whatever.
+
+2 (53m 28s):
+And there were all these ideas that were coming outta the woodwork of things people had wanted, you know, app developers had wanted to build into their apps, but just never knew how to do before. And now they could
+
+0 (53m 43s):
+As you, you know, began to, and just from a business perspective, right. As you begin to get some in investors and more interest into 2000, you know, 10 for example, how did you go about hiring people? I mean, did you, did you have like that massive expansion quickly or were you still relatively small?
+
+2 (54m 5s):
+You know, one of the things that I have always taken from my entrepreneurial endeavors, because most of my companies, like we did not have a lot of money. And so in the early days of Twilio, we sat about, we said one of our values is, is be frugal. And sure enough, I remember we hired our first software developer who was not a founder joining the company, a guy named Adam Be, and I remember Evan saying, Hey, Adam is great. We really gotta hire this guy, but he wants a salary of like a hundred K. And I was like, whoa. You know, the sticker shock of like paying someone that much money when, you know, the founders had made nothing. And then we gave ourselves some meager salary in the very early beginning.
+
+2 (54m 46s):
+I'm like, wow, this is like, oh. And I remember telling Evan like, all right, like, we're gonna hire him, but like, better be worth it. Right? And, and started growing the team at that point, but it wasn't for a couple of years. Cause we just started to, to stay small and lean in those early days while we were building out with, you know, really pretty limited resources.
+
+0 (55m 6s):
+Yeah. I think a big turning point for you was, was, or maybe not, I don't know, but, but Uber started to use Twilio and I guess this is probably still early in Uber's history, so maybe it wasn't a significant amount of revenue at the time. I, I think the first time I used Uber, maybe it was 2012, I can't remember 2013, but was that a turning point or not quite yet in 2011.
+
+2 (55m 31s):
+You know, looking back at it, Uber, it was not clear that Uber was gonna be such a big deal, right? Because at the time they were like town cars. It was like fancy and Uber when we won them as a customer, I think the whole company was about five people. Right. So it's very early in, in their history. But there's a funny thing, like I look back at that period of time, 20 11, 20 12, where, you know, Uber was a few blocks away in that direction and Airbnb was a few blocks away in that direction. Yeah. And the floor above us was Instagram and like, we would throw like an office party on a Friday evening, and all of the people who founded these companies and were building these companies would just come over for a beer. And, you know, at some point it was the, it wasn't just Uber, I would say, but it was the sum of all of that entrepreneurial activity going on in our backyard who were almost all of them, our customers that started to like really propel the, the growth of the company, especially after we added text messaging, which was the service that this new whole category of mobile apps that was getting born really needed.
+
+2 (56m 35s):
+And we were the one everyone turned to
+
+0 (56m 38s):
+How, and, and essentially it sounds like, was it just basically developers talking to other developers and and that's who you're that's how it grew.
+
+2 (56m 49s):
+You know, in those days the notion of like anything is possible with code was really permeating the world. And so you had these like hackathons Yeah. And they were happening all the time, like every weekend, every college campus, every major city. Wow. And we were right there and we made sure to go to every hackathon. I remember one of the big hackathons in San Francisco was going on, and it was happening over a weekend and like, and, and the hackathon organizers got wires to this. They started charging a lot of money to sponsor it. Yeah. Like, oh, you wanna sponsor our hackathon? Great. That's $50,000, right? Yeah. And so they started getting wires to it. So I remember I showed up at one of these hackathons at 2:00 AM with about $700 worth of Taco Bell.
+
+0 (57m 34s):
+Wow.
+
+2 (57m 35s):
+That was probably the best marketing dollars ROI we ever got.
+
+0 (57m 38s):
+And you just walked around handing people tacos?
+
+2 (57m 40s):
+Tacos, yeah. Wearing my Twilio shirt and, and just handing out tacos. And I remember I closed down that Taco Bell, there was a Taco Bell in Oakland that was still open at that hour. And I went on, I I pulled into the drive-through and I said, how many tacos do you have left? I said, I'll take 'em all. And she literally turned off the open sign. That was a very gorilla approach to how to reach the world's developers. Yeah. And we really had to develop that. But I think I benefited actually from a lot of the gorilla marketing that we did in my college campus for adversity. Yeah. Yeah. A lot of the similar things, like you're just getting to where your customers are and like screaming from the mountaintops in whatever the most relevant way is.
+
+0 (58m 20s):
+And also your customers are a very specific set of people. It's not, it's developers. I mean, that's, and and you, you I guess going to hackathons, you know, you're gonna find them there.
+
+2 (58m 32s):
+And at that time, no one else was trying to reach them. We were like one of the only ones.
+
+0 (58m 36s):
+Yeah. I'm curious about competitors as you started to grow, because you know, you're going start, you start with, you know, few thousand developers and then tens of thousands and then hundreds of thousands. And you're quoted around this time, maybe it was 2013, you said, you know, our end goal is to open the black box of telecom and move the world away from the legacy of Cisco. And Microsoft's big expensive hardware that you put in your closet and watch age. I mean, that, that sounds like a shot across the, the, the bow. I mean, did you start to see competitors in some of the big companies like Cisco come in and say, well, we should do this too. We can do this.
+
+2 (59m 17s):
+You know, it was interesting because one of the early questions we got from like investors, they said, well, won't carriers do this? Won't at and t just do this. Right. You know, they could, I, I guess, but you know, people always overestimate the ability for a big company to see an emerging market like this and actually invest in it because it is in its early days, small peanuts compared to the scale those big companies are operating at. Right?
+
+0 (59m 44s):
+Yeah.
+
+2 (59m 45s):
+So inevitably like the, the carriers, they weren't dummies. Like, they saw this trend of APIs and developers and innovation. They saw this stuff happening. And inevitably, almost every carrier in the world that I can think of in that era, in those early days, like 2010, 2011, 12, built an API on top of their services and launched with great fanfare their developer platform. And every one of those carriers within 12 months had shut it down. Hmm. Why? Because it didn't immediately pass their bar for like, well, is it making us a billion dollars revenue? And if it's not, we don't care about it because it's not moving the needle for our big company.
+
+2 (1h 0m 28s):
+And that's the advantage that every small company has. It's like when we were, our first year we made $200,000. Hmm. Our second year we made 2 million for a startup. That's a huge success story. Yeah. Yeah. For a carrier sized company, that's a miserable failure. And like, shut that thing down. We don't have time for that. And that's the natural advantage that every startup has over like incumbents in the market. And we saw that innovators dilemma just play out time and time again inside of the bigger companies while we went about building this. And you know, now today we're approximately 4 billion of revenue. But like, you know, that's a 15 year journey and that's the nature of that creative disruption.
+
+0 (1h 1m 9s):
+Yeah. Uber eventually became a significant, very significant, I think Uber and WhatsApp became to the most significant drivers of revenue. And I think Uber at a certain point was like, 12% of your revenue, revenue is coming from Uber because every time you order an Uber, right. Twilio was, was powering that in, in, in the background, right? They, they would tell you how long your driver was gonna take. And I mean, that was all basically coming, coming through Twilio, but they essentially pull out of their relationship with you or, or drastically reduce it, I think in like 2017. Yeah. Was that something that, I don't know, freaked you out?
+
+2 (1h 1m 54s):
+You know, I, it actually didn't worry me. You know, our, our business model is usage based, right? So when a customer sends a text message, it costs a very little amount of money. But like those things add up over time. And what results from that business model is that a company like Uber, when you get in, in the early days as they expand, our revenue expands. But in some ways, like when a, a customer's growing so fast as Uber was during those days, you look at it and you're like, do I want my company to actually become just like the Uber story? Not really. Like I've got tens of thousands of customers at that time. So they were growing to be like a corner of our revenue.
+
+2 (1h 2m 34s):
+I'm like, that's actually a problem. That's not, that's not something to celebrate. That's actually something to be worried about.
+
+0 (1h 2m 39s):
+I'm curious about that as a case study because at that time it was Twilio had gone public and so you were a publicly traded company. And when that Uber decision came out, I think the stock, you know, plummeted like 30% for some time. And you, you did talk about this, that, that actually there were mistakes that you felt you, you could learn from. Like for example, you know, you didn't service them as well as you should have serviced them. Is that, is that true? Do you feel like that was an, a lesson that you learned from losing that account? You
+
+2 (1h 3m 12s):
+Know, there's a sense in certain customers, especially like very technology driven companies that they're like, yeah, like, yeah, we don't want a salesperson. Like we just want just leave us alone. Just give us a service. Yeah. And you know, we don't need to talk to you. Right. And like I'm a software developer myself, so like I can understand that mentality, but at some point, like a customer gets big enough that you're like, first of all, someone in that business is signing the check every month. We sh we need to know that person. Yeah. And even though the customer was saying like, we're fine, we're okay, like, we don't need you. And we had assigned our sales resources elsewhere. The mistake we made was saying like, like, no, we needed to be walking the halls. We needed to be really working that account
+
+0 (1h 3m 53s):
+White, like white gloved treatment
+
+2 (1h 3m 56s):
+Well and figure out, okay, if the developer doesn't wanna be talking to us, so be
+
+0 (1h 3m 60s):
+It somebody else might,
+
+2 (1h 4m 1s):
+There's a budget owner somewhere who's spending now millions and going on tens of millions of dollars on our services. We at the very least have to know that person really well. Yeah. And that was the transition that we had not really made, because we were taken a little bit by surprise when Uber one day said, you know what? Like we actually wanna, you know, start, we we're gonna use less of your services. So yeah, it was a bit of a tough transition for us. But I remember standing up in front of the company the day after that happened and in the company, we are a newly public company and we, I think it was our third quarter reporting as a public company, everyone was like, well, what happened? Like, I thought being public was just like, you know, up into the right. Yeah.
+
+0 (1h 4m 40s):
+Right.
+
+2 (1h 4m 41s):
+And you know, I remember saying like, look, you know, this company is not about one customer. We've got tens of thousands of customers and we're building this for an enormous opportunity that's far bigger than just, you know, the activities of one customer. And I think that was the right way to look at it.
+
+0 (1h 4m 57s):
+Let, let me talk about heading up a public company because it's a different beast, right? You're, you, you've gotta disclose and, and your books are open and, and you know, I think you debuted at $15 a share. So if you bought Twilio stock when, when you went public, you would still have made a lot of money today at 60, say it's roughly 64 Selma, $65 a share. But like many technology companies, 2022 is not a good year for you. Right? There was a, a 70 plus percent decline in the stock value. I mean, every time I talk to a, the head of a public traded company, they say, I don't pay attention to the stock price. I don't believe that. I I just don't believe that they don't.
+
+0 (1h 5m 39s):
+I mean, do you, it must weigh on you to some extent, or do you, do you just feel like, well, you know, there's not much I can do to move this thing,
+
+2 (1h 5m 48s):
+You know, everything guy is about, about timeframes. Right. If you look at the stock on a hour by hour or even day by day basis, it it, you know, I kind of liken it to imagine you were playing in a basketball game. Hmm. But the score did not go up when you made a basket. The score randomly changed. You know, you're dribbling up the court and you get 10 points and then you make a shot and you lose five points and it's like a ran, like the score is disconnected from the thing you're doing. Yeah. Would that be a fun game? Like no. Right. You'd be like, this is a bunch of bs. Like why am I doing this? And so if you look at a stock price on the day by day, minute by minute basis, you're like, this is completely disconnected from what I'm doing today.
+
+2 (1h 6m 33s):
+Right. Like, what new information exists in the market on like a Tuesday afternoon when we're not reporting earnings about our company's future profit potential? There's no new information. So what's causing the stock price to move, I don't know, a bunch of stuff that's not in our control. And so in order for you to actually believe that you have agency over the outcome, you have to ignore the short term. But you also have to believe that in the fullness of time, the activities we undertake do affect. And, but that plays out over years, not over like, you know, minutes, hours, days, or even quarters.
+
+0 (1h 7m 11s):
+Yeah. I'm curious your take on this, there's a, a, a headline in the Washington Post today, for example, the day we're talking on this interview and, and it's, it's something like, you know, the golden era of, of Silicon Valley or the golden era of tech is over, right? And you, you've seen these, and I'm sure you've seen these over the, not over the many years and right now we're in the midst of, of just a period of, of large laughs, you know, every single company. Twilio obviously had to lay off about 11% of its workforce in September of 2022. I mean, do you, do you think, and and and and also the explanation that we hear is that there was over hiring, you know, in the last, in the previous two years.
+
+0 (1h 7m 56s):
+Is that the, the beginning and end of, of why there are layoffs in your view? I mean, for example, with Twilio is that, is that, why did you overhire
+
+2 (1h 8m 8s):
+You know, overhire is a, like a, a simplified way to talk about it, but I think you have to like look at the, the root cause but like the end result is like, yep. If you have to let go of people, it means you hire people that in retrospect you wish you maybe hadn't hired. But the reasons why are, are more interesting when you are operating in an environment where interest rates are very low, meaning an investor can put their money into a, a very safe account, like a savings account and make nothing, then they're much more likely to wanna put their money into a more speculative stock like a tech company.
+
+2 (1h 8m 49s):
+But once the, the, the savings account is making five, 6% whatever and a higher interest rate environment, you're like, well now I'm less likely to take risk. That's why the equation of tech companies that are gonna spend a lot today to go build market share. And if you remember like the internet is a massive market. And so for everybody who's building a a an online business, you're like, I've got billions of people who are my potential customers. There's a tremendous amount of entrepreneurial activity. I'd be a fool not to invest as much as I can and go building my market share today for this enormous market we're in. And that's what people have done. But once you change that story and say, well actually the profits that we said will eventually give the equity value, it's the eventually part that changed cuz it eventually became, well now it's like a lot closer to today.
+
+2 (1h 9m 43s):
+Yeah. And that's what makes this period so hard. Now this happens, this is a business cycle. This business cycle happens all the time. This is not the first time we've been through one of these cycles. Yeah. But the one thing that's different is the last business cycle, the boom time, the low interest rate environment went on for a pretty historically long time. So there's a lot of people long time in the workforce Yeah. For example. Yeah. Who have never seen a high interest rate environment in their career. And that created a whole generation of entrepreneurs and workers and investors too who are accustomed to like revenue growth, future opportunity, all that. And suddenly you look at it and you're like, oh actually current day profits are highly valued.
+
+2 (1h 10m 24s):
+And that's the change that the whole industry, especially in tech is going through. And that's a difficult transition because our muscle memory is so oriented towards the last 10 and 15 years.
+
+0 (1h 10m 36s):
+You've got I think roughly 7,000 employees all around the world. Is that, is that about right?
+
+2 (1h 10m 42s):
+About right?
+
+0 (1h 10m 43s):
+Yeah. And, and we're now in, in this new kind of phase where, you know, a lot of companies are still grappling with how to whether to bring people back. Right. There are lots of companies that are demanding it and, and, and I know you are essentially fully remote company. Some of the, the, the concern that I'm hearing from leaders and founders and CEOs is that it's really damaging to the company culture when everyone's remote that, that actually it, it's hard to cultivate a sense of belonging and, and other things involved in in working in a space where you're interacting with other people.
+
+0 (1h 11m 28s):
+How do you feel about that? I mean, do you think that's a fair because I, I think it's a pretty fair assessment of what's, what's going on, what's your take?
+
+2 (1h 11m 37s):
+You know, I think the hard thing is when you go extended periods of time without the ability to have that face-to-face and the challenge that a lot of companies are having in the current environment, cuz you see there's a lot of startups that are born during the pandemic, right. That were purely distributed because like look, that's all you can do during a pandemic. And like I think their cultures are probably doing fine. But then you've got a lot of companies that have a big investment in real estate and those companies you're saying, I can't afford to carry all this real estate that people don't wanna go into and afford for people to travel everywhere to go see each other. Right. I gotta pick one or the other.
+
+2 (1h 12m 17s):
+Cause I only have so much budget.
+
+0 (1h 12m 19s):
+So what, so, so just outta curiosity, you, you've got a lot of real estate.
+
+2 (1h 12m 25s):
+We do. Yeah. And it's, and it's not used.
+
+0 (1h 12m 28s):
+Yeah. And there's a building on the side of the 1 0 1 in San Francisco that right here. Headquarters here.
+
+2 (1h 12m 34s):
+Yeah. Our headquarters is in Soma. You know, at the beginning of the pandemic we had I think three buildings in San Francisco. And today you look at those, those offices, they're about, you know, lowest single digit percent utilization.
+
+0 (1h 12m 49s):
+Wow.
+
+2 (1h 12m 49s):
+Yeah.
+
+0 (1h 12m 50s):
+So what, yeah, so what are you guys gonna do?
+
+2 (1h 12m 54s):
+I like face-to-face interactions like I think most human beings do, but I do not think we need to have it on as regular basis as like the nine to five office used to have us doing it. Right. Okay. And so if I have to pick, which as a ceo, I basically do, I am picking a distributed company that as we work through the phases, we'll be able to get together on a regular basis and in teams or divisions or departments have fun together, break bread together and then break up. And so if I have to pick, that's what I'm picking. But that's the challenge is to get there. I, I personally believe that the future of a company like ours, I think that the company's offices are gonna consist of three different types of locations.
+
+2 (1h 13m 43s):
+I think you'll have number one, like a showroom, the place where you bring customers or like recruits or like a place that looks really fancy and nice and like, you know, people are looking, but it just looks like your company. It's a physical manifestation of your company. Yeah. The second is you need offsite space. If you know, once a quarter employees are traveling from, you know, wherever they are to the, to meet, wouldn't it be nice if they had an experience that felt like your company? Hmm. And those are like regional, like, you know, you could have one in North America, that's where teams do their offsites. Right. And by the way, yeah, if everybody's doing this, it'll be cheaper than renting a hotel every time. But the third is my favorite, the third type of office space are coffee shops.
+
+2 (1h 14m 23s):
+Like I actually think that instead of having a formal office in a city, what you might want is like a thousand square foot coffee shop. It's only for employees you badge in, but it's like, hey, you know, I work from home often, but you know, I need to get outta the house. I need to concentrate more the, you know, I gotta get away from like a distraction at home or I just want some energy around me so I can go to a coffee shop and like, you know, for a few thousand square feet, like you could have one in every major metropolitan area or even every neighborhood in some major areas and have enough employees in those areas to be able to justify the cost cuz they go in every day. And I think that combination of like the showroom, the destination offsite space and the coffee shops ultimately will solve the problems of like, why does the company need physical places?
+
+2 (1h 15m 8s):
+I think it's those three problems. Hmm.
+
+0 (1h 15m 10s):
+You know, when you reflect on, on your journey and, and the, you know, the failures you had early in your career, which were very valuable clearly because they, you, you were able to take all of that knowledge and, and those experiences and apply them to what you would eventually build in Twilio, which is a, you know, multi-billion dollar giant. Now, how much of, of, of where you are today do you attribute to to your work, your work ethic, your skill, your intelligence, and how much do you think ha has to do with getting lucky?
+
+2 (1h 15m 40s):
+You know, I, I think we're all a product of our environment. You know, so much of what we know or have the opportunity to do or just problems that we end up getting visibility into or having the resources to go solve them. I mean these are all things that are a product of like how we were raised when we were born, where we were born. And so you can seize those opportunities or not, but the first thing you need is those opportunities to exist for you. And so I definitely feel tremendously lucky to be born where and when and all sorts of things.
+
+2 (1h 16m 23s):
+And I like, I don't take that for granted. I take it very seriously that like we have an obligation for those of us who have had opportunities to use part of our time and our money on this planet to try to create more opportunities for our people.
+
+0 (1h 16m 42s):
+That's Jeff Lawson, founder and c e o of Twilio. By the way, the name Twilio is of course totally made up. Jeff and his team were looking for words that kind of sounded like telephone. So tell Twe hello, things like that. And in 2008 they got a really great deal on the domain twilio.com. It only cost them seven bucks. Hey, thanks so much for listening to the show this week, week. Please be sure to follow the show however, and wherever you listen to podcasts on Apple Podcasts, you just click the plus sign and on Spotify you click follow. If you wanna contact the team, our email address is ibt id dot wonder e.com.
+
+0 (1h 17m 23s):
+If you wanna follow us on Twitter or account is how IBU this and Minus Guy on Instagram or at How I built this and I'm at Guy Do Roz. This episode was produced by Kira Waki with music composed by Rameen Era Blue. It was edited by neba Grant with research help from Sam Paulson and technical assistance from Hans Copeland. Our production staff also includes JC Howard, Casey Hermann, Carrie Thompson, Alex Chung, Elaine Coates, John Isabella, Chris Masini, and Carla Estevez. I'm Guy Raz and you've been listening to How I Built This.
+
+0 (1h 18m 6s):
+Hey Prime members, you can listen to how I built this early and ad free on Amazon Music. Download the Amazon music app today or you can listen early and ad free with Wondery Plus in Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built this merch and gear@wonderyshop.com. Before you go, tell us about yourself by completing a short survey at wondery.com/survey.
+
+3 (1h 18m 35s):
+We've all spent more time with family lately. It can feel like old times, but your mind is on the future too and what you can do to shape it. At Sandy Spring Bank, we work with clients to help them grow and protect their money with wealth management, trust services, and insurance so they can enjoy today and ultimately pass along their wealth. We believe real banking is a conversation. Let's talk about your dreams. Visit sandy spring bank.com/wealth. Wealth and insurance products are not F D I C insured, not guaranteed and may lose value.

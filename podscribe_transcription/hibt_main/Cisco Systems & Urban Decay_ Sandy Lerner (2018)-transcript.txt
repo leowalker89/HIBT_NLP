@@ -1,0 +1,755 @@
+0 (0s):
+This message comes from NPR sponsor checker. Want to diversify your workforce and change the future checkers background checks reduce hiring bias because the past shouldn't define what's ahead more@checkr.com slash NPR. Hey, it's guy here. And before we start the show, I want to remind you about our, how I built this summit, which this year is happening virtually in your home in just a few weeks from May 24th through the 27th, I'll be talking with some of the biggest names in business about the opportunities that lie ahead as we reopened and rebuild in the coming months, whether you're looking for practical advice to take your business to the next level, or just looking to kick back on your couch and hear from inspiring leaders, you are definitely not going to want to miss this event.
+
+0 (52s):
+And if you're looking to forge meaningful connections with other builders and dreamers, then check out our full access summit tickets, which come with daily networking sessions with some of our favorite guests from the show like Robin McBride, Miguel Garza, Maura Aarons Malai, and Cheryl Conti. You can learn more about the summit and get tickets@summitdotnpr.org. And I cannot wait to see you there a big thank you to go daddy, the presenting sponsor of this year summit and to our supporting sponsors, Dell technologies and bulldog online yoga. Okay. So onto today's show it's from our archives and is truly one of the wildest stories you will ever hear about backend internet technology in large part, because of the person in question Sandy Lerner, who co-founded Cisco systems, it's a company that probably helps you do what you do without you even knowing it.
+
+0 (1m 51s):
+But the story is also interesting because Sandy founded the punk aesthetic makeup brand urban decay, and went on to build one of the largest private libraries of Jane Austin books on earth. Yup. All that. And more in this one, we first ran the story in October of 2018, enjoy
+
+2 (2m 14s):
+I had to go get another job besides Cisco. And we had only my income and we were mortgaged the house to the hill, which we might've lost at any particular time. And we had creditors up the wazoo and I had people calling me at two in the morning complaining because they didn't have their routers. Yeah. It was very hand mouth in a way that I think that people who want to be entrepreneurs these days really don't understand
+
+0 (2m 46s):
+Ramen PR. It's how I built this a show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Raz and on today's show how Sandy Lerner helped launch one of the most successful companies in the world, why she had to leave it as she went on to remake herself again and again, and again, If you use the internet today, or if you're listening to me right now through your smartphone or a computer, there's a pretty good chance that that information is flowing through a network that was developed by Cisco systems.
+
+0 (3m 28s):
+Cisco is the largest networking company in the world. It's hardware, servers, routers, and software touch, almost every part of the internet. Now, the idea that one computer can talk to another computer isn't particularly earth shattering, right? But in the early eighties, this was a pretty big challenge. Even at Stanford university. If you worked on a computer and say the engineering department, it couldn't talk to a computer in another part of the campus, things that we take for granted like email or instant messaging or slack, there was no infrastructure to make these things work on a big scale, but there was an informal group of graduate students at Stanford that was trying to solve this very problem.
+
+0 (4m 16s):
+And Sandy Lerner happened to be part of that group. She and another grad student, Len Bozak founded Cisco systems today. It has a market cap of around $200 billion, but that growth, it happened largely after Sandy and Len left the company after Sandy was pushed out. It was pretty devastating at the time. And we'll get to some of that story, but we'll also hear how after all of that, Sandy went on to build another successful in an entirely different type of business. A cosmetics company called urban decay. And then she reinvented herself yet again by starting an 800 acre, sustainable farm in Virginia, where she now lives.
+
+0 (5m 2s):
+And even Sandy's childhood almost sounds like a fairytale. Her mom and dad split up when she was just four years old. And there was so much turmoil in the family that Sandy was sent off to live with one of her aunts, which sounds like it could have been pretty traumatic except her aunt lived in Beverly Hills and made Sandy the center of her life.
+
+2 (5m 24s):
+I thought it was a wonderful thing to go and stay with my aunt. She was very cool. And she had a very elegant world. We would go to the Mary company, tea room and sit in that gorgeous blue dining room. I didn't think life got any better.
+
+0 (5m 38s):
+So you, your childhood was spent largely in living with this aunt in Beverly Hills
+
+2 (5m 45s):
+Until I was six. And then there came a day when my aunt sister said, if you come and live with me, I'll give you a pony. And my other aunt Beverly Hills said, well, if you live with me, when you're 16, you can have a car. But you know, when you're six, you're thinking, my God, I might not even live that long. Maybe there won't be cars. So I took the pony.
+
+0 (6m 4s):
+Wait, they were competing for you to live with them.
+
+2 (6m 7s):
+Did I hit the jackpot
+
+0 (6m 8s):
+Or what? So you at age six, moved to where
+
+2 (6m 11s):
+Clipper gap. It's in the higher Sierra foothills up on the Northeastern part of the state of California. Okay.
+
+0 (6m 20s):
+The California. Yeah. And what, what, where do they live? Was it a ranch? Was it a farm?
+
+2 (6m 25s):
+Well, it was, it started out at 108 acres and they were farming Paris and my grandpa lived up there also and raising some cattle and I just fell in love with,
+
+0 (6m 37s):
+So you, I guess when it was time to go to college, you stayed pretty close, right?
+
+2 (6m 43s):
+Oh, I left home at 15 and got a job working at the bank for a year and a half before I went to
+
+0 (6m 48s):
+College. She said, where did you go to Auburn?
+
+2 (6m 51s):
+Six miles.
+
+0 (6m 52s):
+Was it interesting? Did you do, was it just a job?
+
+2 (6m 55s):
+And my uncle, he was first small town. My uncle went to Kiwanis with the bank manager and you know, I think my uncle was kind of watching out for me and making sure that I had a, a safe place to work, but it was a terrible job. The bank owner made all of the tellers, Neil, so he could check that our skirts were long enough and he called us all Louise.
+
+0 (7m 14s):
+This is in like
+
+2 (7m 14s):
+19 70, 19 71, 19 78, 19 71, 19 72. We were all Louise because he knew Louise and she'd been there a while and we didn't really rate our own names.
+
+0 (7m 24s):
+And where you, at that time, were you enraged about that? Did you see the, about that?
+
+2 (7m 30s):
+You know, it was the first time I'd ever experienced any sort of sexism. I mean, on the farm, I was the kid, you know? So you did the boy jobs, you did the girl jobs, you did, you know, I loaded the gas trucks. I drove a truck for a summer. You know, you just, you just got on with it. And it was the first time I hit sexism and it just completely rattled my world and I needed to get out. I just needed to get out.
+
+0 (7m 54s):
+So I guess it was around that time that you did decide to go to college and you went to, I think it was Chico state in California. What did you, what did you study there?
+
+2 (8m 3s):
+My undergraduate degrees are in international relations with an emphasis on comparative communist theory and a minor in Marxist economics.
+
+0 (8m 11s):
+Wow.
+
+2 (8m 12s):
+These were the Vietnam years reminder. All
+
+0 (8m 14s):
+Right. Did you have a sense of what you wanted to do?
+
+2 (8m 17s):
+Oh, absolutely. I went through college in two years and I wanted to be, I, I had it all mapped out. I would have my PhD by the time I was 22.
+
+0 (8m 25s):
+If you did your degree in two years, I mean, obviously you're w we'll get to this. I mean, you're a highly intelligent person, but were you just sort of, did you feel unusual? I mean, that's, that's very fast.
+
+2 (8m 35s):
+I mean, it was, it was a lot of work. It was, it was a tough two years, but on the other hand, I was so convinced. I was never going back to that bank. Never, never, ever, ever going back to that bank and having to put up with that. And I ended up getting an absolutely first rate education.
+
+0 (8m 52s):
+So how did you go from studying Marxist economics and international relations to studying computers?
+
+2 (8m 59s):
+Well, I went to Claremont graduate school because I had a full scholarship. And the first quarter I ended up being an advisor in the computer room and, you know, 1975, I was making 25 bucks an hour computer programming. And, you know, to me it was easy and it was something that I thought would pave the way to being able to enter the job market in a good place.
+
+0 (9m 24s):
+So you are studying you're, you're sort of exposed to computing at Claremont. And then what, what was it?
+
+2 (9m 30s):
+Well, I, at this point I still thought I wanted to be an academic. And so I picked up my little self and applied to Stanford and because the political science department there needed programmers, because of course they were getting to the point where you couldn't publish anything. If it didn't have some numbers in it, they let me in. And I got in and immediately segwayed into the statistics and computer science department
+
+0 (9m 57s):
+Now 19 75, 76 Stanford, like now it's a legendary time, right? I mean, it's like, we're talking about, you know, the beginnings of the internet and all these, you know, the people influenced by JCR, Licklider and Steve jobs going through PARC, Xerox, all that, that era. That was an amazing time. So you get to Stanford in the late seventies. What does the computer look like at that point? Like what were you were working?
+
+2 (10m 26s):
+Well, he was really lucky at Claremont. We had a duct system 10, and that's what I learned to program on. And I learned a number of the programming languages and did a little bit of systems programming. But when I got to Stanford, they also, they are deck Townsend deck twenties, which was great because it's a huge sharing system that would have 200 simultaneous users. And since I'd been running the math and statistical software on the timesharing computing at Claremont, they had the lots of volunteers. And so I became a lots of volunteer,
+
+0 (10m 56s):
+Lots of volunteer,
+
+2 (10m 57s):
+Largely overloaded timesharing system. Got it. Okay. Little orange timesharing system.
+
+0 (11m 1s):
+So just, just explain this to me in language that I can understand. When you say you were programming these computers, you were taking in raw data and helping them to create statistics from that raw data. That's right. And this was just in, it's just would come to you intuitively, like you just kind of learned this by playing around with it.
+
+2 (11m 23s):
+Absolutely not. I work my butt off when I was in high school girls didn't get to take fourth year calculus. When I was in high school, girls didn't get to take physics. So I had to learn all that stuff in graduate.
+
+0 (11m 33s):
+That's cool. You had to learn how to program a computer. Oh, absolutely. What did you love about it?
+
+2 (11m 39s):
+Two things. One the money and two, the independence that it offered was, was hugely attractive to me. You know, not being tied to hours, not being tied to a desk, you know, I've always been kind of an anarchist and the idea that you could come and go, and as long as you got the work done, nobody cared about your day.
+
+0 (11m 57s):
+Yeah. When you got to Stanford, what was your impression of the place? Was it, was it like, wow, I've finally arrived to this amazing Valhalla of technology.
+
+2 (12m 8s):
+No, not technology of smart people. Huh? I wasn't a freak anymore. They were very welcoming and I had great friends, the computers, the computer science, and at lots, the time-sharing system. And we would have two meals a day together. And with her,
+
+0 (12m 24s):
+With this group of engineers, all hanging out around computer labs, basically
+
+2 (12m 29s):
+The computer system. Absolutely. We
+
+0 (12m 31s):
+Hear a lot about the, and we know a lot about the gender gap in the tech world. We're talking about the late seventies. I mean, you must have been like one of one or two or three women around all of these male.
+
+2 (12m 46s):
+There were very few. I think I was the only graduate level female, but it was also a very welcoming group. And they didn't care really, if you were three foot high, green and stinky, as long as you could, as long as you had the technical chops and you kept up and I could do that.
+
+0 (13m 1s):
+Here's a small group of people. You know,
+
+2 (13m 3s):
+There were probably about eight, 10 or 12 of us. People would sort of dripped in and drift out. But remember we had two meals a day together. We spent the weekends in lots together. I mean, I would leave these people at two in the morning.
+
+0 (13m 14s):
+These were just computer geeks, total programmers.
+
+2 (13m 19s):
+When people had written the first spellchecker and typed in the entire dictionary itself, one of us had a triple major at Stanford in a master's degree in 40 years. And we were all computer addicts in love with this particular architecture. We built our own internet. We maintain our own internet. We built our own printer interfaces. We built our own computer terminals. It was just one of those times in life where, what you, what you gave, you got back.
+
+0 (13m 48s):
+How did you meet Len Pozac?
+
+2 (13m 51s):
+I met Len the first time when he was interviewing Stanford. And I mean that Stanford was not interviewing Len Len was interviewing Stanford to become a student there. Well, he was thinking about getting a master's degree and he was kicking around thinking he needed something to do. And on that day, I remember we went to Chinese food and remember, these guys are all largely overweight and they're not the people who were picked on the baseball team and we're all sitting around there. And these guys are flaming themselves out with hot oil on the Chinese food. And they're like all red and they're like perspiring and everything. And Len sat there and they were all like being very noisy and you know, of questionable hygiene and Len sat there and his clothes were ironed and his clothes matched and he had this beautiful blonde hair and this very soft voice, and he could eat with a knife and fork.
+
+2 (14m 40s):
+And when they would get all done arguing with each other, they would look at Lennon even say, well, you know, basically, essentially, what is, what is the answer? And Lynn didn't join in until they invited him. And then he would tell them the answer and then they would have another topic and argue and argue. And then they would come back and say, well, Glenwood is the answer. I was just absolutely enchanted. I had never seen a more perfect human being in my entire life.
+
+0 (15m 3s):
+And basically you guys became partners.
+
+2 (15m 8s):
+It was very quiet because the dynamics of the group were that, you know, you, you weren't supposed to have favorites. That would have been very destructive to kind of the collegial kind of group dynamics there. And so it was really, nobody even knew we were seeing each other until we decided that we wanted to get married.
+
+0 (15m 28s):
+So I'm trying to try to get a sense of what some of the problems you are dealing with in, at Stanford in the early eighties, basically Stanford, right at the cusp of, you know, at the, sort of the, the bleeding edge of the technological revolution, lots of computers all over Stanford, presumably, but I guess they couldn't communicate with each other. Was that, that was,
+
+2 (15m 52s):
+Well, it used to be that you either bought debt computers, you bought IBM, or you bought HP, or you bought data general, or you bought Wang, or you bought whatever.
+
+0 (16m 0s):
+The only ones that could communicate like an IBM could only communicate with IBM.
+
+2 (16m 4s):
+That is true. But the reason was that it was so new. You entered into this unholy Alliance with the vendor and they would help you.
+
+0 (16m 13s):
+So some departments had IBM, some had decks, some had Dell. So our Wang, whatever was around,
+
+2 (16m 19s):
+Well, whatever they felt matched, their research or their, you know, pedagogical requirements, they were a law unto themselves. The NAPE bought what they wanted,
+
+0 (16m 29s):
+Which is typical of universities. Right. Everybody wants autonomy. So they're 5,000 computers, probably many more at Stanford today, obviously, but, but this is the late seventies and these computers could not talk to each other. That's right. And meanwhile, Stanford, I guess, was, was actually trying to build its own computer network. Right. I mean, and that wasn't working. So what, in the meantime we built, when you were doing a shadow network, yourselves, you land in this group of engineers, you guys are trying to figure it out.
+
+2 (16m 57s):
+Plus plus all the people in the, in the ARPANET community who were working on parts of this
+
+0 (17m 3s):
+And ARPANET is this, this precursor to the internet, this, this was the thing funded by the government. Yeah.
+
+2 (17m 7s):
+What ARPA was for, it was, it was a network to foster the interaction and inner sharing of ideas and information among the different people who were taking, taking our money. And that's what we were doing. So,
+
+0 (17m 20s):
+So how are you doing this with Stanford? Aware of what you were doing
+
+2 (17m 25s):
+Officially? Absolutely not. We were definitely under the radar and we kept it under the radar and it wasn't until one day, I think it was 1981. Our time sharing ether net became the Stanford university network. Wow. Just one day. It just, you know, the benediction went in in our direction and then we were the, we were the Stanford university network. So you
+
+0 (17m 50s):
+A system that would allow these computers to communicate what today we would, I guess, call it router. You build a network at Stanford. What was the thing that was motivating you guys? Why did you want to do this for Stanford?
+
+2 (18m 3s):
+I didn't do it for Stanford. I think there's a lot of misunderstanding about those early RP years. We did it because it was the right thing to do. ARPA was giving money. It was all public public domain. Nobody had a financial motive. And the thing that ARPA did that was so amazing even today was it gave the right people, the right money. It wasn't political. It wasn't, there wasn't any religion involved in it. It was just this collection of these incredibly smart, dedicated people who made things. And I was really, really lucky to get to be a part of that.
+
+2 (18m 45s):
+I mean, everything that you could do every day and you could hook something new up for you. Good. You know, you could get a message someplace. So you could, you know, you could get these milestones. And it was, I guess, if you're a nerd, it was just a tremendous adrenaline rush.
+
+0 (18m 59s):
+So you are in your twenties at this time. And ARPA, this government agency is funding all these cool projects that eventually would help to create the internet. You are part of this team that creates a network that Stanford then adopts as its protocol. And at that point, these 5,000 computers are able to talk to each other. So what, at that point, you and Len, were you married to?
+
+2 (19m 28s):
+Yeah, we married in 1980. We both graduated from Stanford. Same department, same, same platform in June of 1981 with master's degrees. And Len had walked into a job as the head of computing systems for the department of computer science. And I had gotten a job running computers for the business school. So we were looking at long happy nerdy careers in that environment.
+
+0 (19m 54s):
+But didn't you want to do something with, with the routing technology that, that you'd worked on?
+
+2 (19m 57s):
+Oh, absolutely. But Stanford said, no, you cannot license this technology. They would not entertain any, any licensing. We had done our part and we had taken the government's money. This is all public domain. We'd invented all of these wonderful things, but the office of technology licensing didn't let anything out. Stanford was not even letting us sell it to the universities.
+
+0 (20m 20s):
+You and LAN are frustrated because you believe that this technology needs to get out into the world. That there's all kinds of reasons.
+
+2 (20m 29s):
+This is United States money. We don't have a right to this stuff. We didn't develop. We, we did develop it, but we didn't invent it. It was a community of people were very smart, very committed in all of these different places. And in Stanford, all of these different departments, there was a huge community at that point. And Stanford was saying just
+
+0 (20m 49s):
+No. Hmm. And you didn't care. You weren't saying, Hey, we're going to take the money for this. No, the money would go to Stanford or, or whatever you didn't care.
+
+2 (20m 58s):
+Yeah. It could have taken a hundred percent of it. As long as you know, they paid the bill for the parts. We had good jobs.
+
+0 (21m 4s):
+So was it at that point where you and Len just said, we better start a company and do it ourselves.
+
+2 (21m 9s):
+At that point, I believe that Len knew a whole lot more about business than I did. And at some point he looked at me and he says, well, we're just going to have to go and build this stuff on our own money because we can't do it. The university won't allow us to do it within the university. So one day I drove up to San Francisco with a $5 bill and started the company,
+
+0 (21m 27s):
+A $5 bill for
+
+2 (21m 28s):
+Close to $5 at that point to register with the California secretary of state for a new company.
+
+0 (21m 33s):
+And so you are trying to build a company that just in layman's terms would help computers communicate.
+
+2 (21m 42s):
+We're just, we're, we're trying to build terminal service in router Sprite.
+
+0 (21m 45s):
+And you called it
+
+2 (21m 46s):
+Well, that came later. Cisco is actually the 36th theme that we tried to get anything having to do with computers we couldn't have,
+
+0 (21m 55s):
+Because it was taken by someone else. So Cisco, as in San Francisco, yes.
+
+2 (21m 59s):
+And I designed it, it was my name. And I came up because remember at that point a router's a gateway. So I came up a little logo of the golden gate
+
+0 (22m 6s):
+Bridge, which is still the logo for Cisco.
+
+2 (22m 7s):
+Absolutely. And it was a part of San Fran and Cisco. And so we just with tears on our eyes basically said, well, I guess we've got to go do this. I had no idea what we were getting into.
+
+0 (22m 18s):
+I mean, you had no interest in leaving your jobs at Stanford at that point, leaving this comfortable life, you know, sort of servicing their computer
+
+2 (22m 27s):
+By this time, this was 1984 and there were starting to be creeks. I mean, I was paid half of what my predecessor made and I was paid, I was paid a third of what my successor was paid. Wow. And you know, when the faculty would meet at the beginning of the year to plan the curriculum, even though I was ahead of all of the computing facilities, both administrative and the curriculum computing, I went had lunch with the faculty wives because where they had their annual meeting, didn't allow women.
+
+0 (22m 56s):
+This isn't, this is in 19 83, 84.
+
+2 (23m 0s):
+Yeah. So it was, it was starting to creak and I was getting a little bit bored and, you know, the CA the mini computer, the microcomputers were starting to come in. And I really didn't have a lot of interest in that. So I would say that I was ready for something else, but, you know, it's a complete misunderstanding of the times to think that Len and I had huge dollar signs in our eyes and knew that this company was going to go public and make a bazillion dollars.
+
+0 (23m 26s):
+Okay. So Sandy, based on whatever this is, this is really where the story gets a little complicated here. So I'm going to try and abbreviate things in, and just say that during that period, you, I think you, you leave Stanford and then Len also leaves, and then around the same time, Stanford, like, it looks at what you guys are doing with Cisco and, and, and they claim that you've stolen their technology. Right. And they threatened to take legal action. Yep. So, so how did you deal with that situation?
+
+2 (23m 56s):
+Well, when Lynn and I left well, Len when Len left Stanford, a great deal of the engineering team behind the internet at Stanford left. And so Stanford was left with a network. It didn't have any ability to run and certainly nothing to maintain. So within that very fortunate confluence of events, a very serendipitous confluence of events, we actually did have some bargaining power and we ended up paying them. I think, a very fair royalty for the first, gosh, I want to say $3 million of product or something. Very fair royalty. And we had to fix their network for three years. So
+
+0 (24m 31s):
+That's a pretty good deal.
+
+2 (24m 33s):
+You know, it's what, it's the deal they should have made to begin with. You know, if they'd have said here, pay us a modest royalty that you can handle from a capital point of view and maintain our network, we would have gone. Okay.
+
+0 (24m 43s):
+Hmm. And how are you, first of all, how are you funding your company? I mean, to build credit cards
+
+2 (24m 49s):
+And mortgaged remortgaged mortgaged our home, a friend of mine that used to work for me at Stanford would sit on the telephone and tell our vendors that the check was in the mail.
+
+0 (24m 58s):
+How were you even getting customers? You were just, just word of mouth.
+
+2 (25m 1s):
+The internet knew me and Len the internet knew about the routers. The internet was the internet and
+
+0 (25m 6s):
+Anybody who was part of that wanted what you were afraid
+
+2 (25m 10s):
+Really by 1987 with no Salesforce, we were booking a quarter million dollars a month.
+
+0 (25m 16s):
+Wow. Who, who are, who are your
+
+2 (25m 18s):
+Customers? Our first customer was Q at Packard laboratories. The second one was Rutgers university. Third one was Boeing. And by that time, the internet community had matured. And it was no longer just the bleeding edge that, that were ordering these inner networks, which were networks of networks. So it had kind of moved into the, keeping up with the Joneses in the sense that if you didn't have an internet, it was kind of, you were backwards. So the style had changed and you
+
+0 (25m 45s):
+Guys were building these in a,
+
+2 (25m 47s):
+In our living room and a lens parents
+
+0 (25m 50s):
+During irons. Like I'm slow trying to figure this out. Like absolute really
+
+2 (25m 54s):
+Well job started in garage. At least I had a living room. I had heat.
+
+0 (25m 58s):
+W what did the actual, when you, when I'm trying to imagine you guys soldering and building these routers, what, what do they look like? Was it, was it a giant thing that it was that the size of this room?
+
+2 (26m 9s):
+You know, I would say it was the size of a good sized bread box. So
+
+0 (26m 12s):
+It wasn't that much. It was more or less the size of today's routers.
+
+2 (26m 15s):
+Well, today's routers are that size, but
+
+0 (26m 19s):
+IPhone size, the size of a
+
+2 (26m 20s):
+Microwave. Yeah.
+
+0 (26m 22s):
+Can I ask you a dumb, I'm gonna ask you a dumb question because you and Len were programmers. You, your, you guys could sit at a terminal and figure out how to create these programs. That would then do things. Cisco is a hardware company. That's what I'm, that's what I want to know. How did you, how did you know how to build the hardware? Is this something that you just kind of
+
+2 (26m 41s):
+Figured out? I had nothing to do with a hardware, but Len is a suburb hardware engineer. And that's how Cisco made its money because of Len and his hardware engineering. Len also happens to be an unparalleled systems, programmer Lynch, just really good.
+
+0 (26m 59s):
+Were you stressed out about, I mean, okay. I understand that you were not motivated by money, but you had to have money. That company had to be Samuel.
+
+2 (27m 8s):
+I had to go get another job. Besides Cisco. I worked for slumber, J computing, computer and systems laboratory running, running their computers. And we had only my income and I didn't have a car. And we had seven people that were working. We were mortgaged the house to the hill, which we might've lost at any particular time. And we had creditors up the wazoo and I had people calling me at two in the morning complaining because they didn't have their router or their terminal server. And yeah, it was stressed because you didn't have
+
+0 (27m 38s):
+A factory. You were making each water.
+
+2 (27m 41s):
+We didn't have the money to build the damn things. We were having to buy parts on credit. Wow. We had every credit card maxed out, Kirk Lockheed, who is one of the founders, gave us $10,000. Lynn's parents gave us $10,000. Robert Michael's loan is $10,000. He worked at HP HP labs,
+
+0 (27m 57s):
+But everybody wants all these people wanted to buy them from. You just could not make them fast enough. And you didn't have the money
+
+2 (28m 2s):
+And think about the university payment cycle, you know, universities by the time they're budgeted
+
+0 (28m 9s):
+Right. A year and 90 days later.
+
+2 (28m 11s):
+Yeah. And I mean, literally we would get the money if we had pretty good margins. I mean, we were, we were doing a good business. We would get the money and we would pay off the two months bills before. But then if you had an order for another 20 boxes, we had, we had no wind, no collateral. We'd already mortgaged the house.
+
+0 (28m 34s):
+So here, here's what I'll get you guys. It's, it's just a, a few of you ma mainly you. And let us beginning trying to build this. You obviously have this thing that a lot of companies are interested in. A lot of universities, a lot of people are interested. Why didn't you just go and get some investors to put some money into the company
+
+2 (28m 52s):
+We went through about 70 or 80 of them, 70 or 80. And the problem was that, you know, at this point, the investor community, which has a whole bunch of old Fairchild semiconductor salesman, they didn't think that you could make any money on a public protocol because of course everybody would do it. You know, deck net was a proprietary protocol. SNA was proprietary protocol. Pup was proprietary.
+
+0 (29m 14s):
+Of course your technology was in the public domain. So they thought, you know, anybody could do this, right? You, you, you, you don't own this.
+
+2 (29m 21s):
+Right. Everybody else was going to do it.
+
+0 (29m 23s):
+Which makes sense. Right.
+
+2 (29m 25s):
+Except that if everybody could do it, why didn't they? So
+
+0 (29m 28s):
+What did, when you went to investors and you pitch them on,
+
+2 (29m 31s):
+They had no clue what I was talking about. First of all, there was a woman founder, and they're all 60 or 70. They just didn't know how to relate to a woman in business, you know, and you know, Lenise a great guy, but he's not normal meaning. Well, two of us are pretty abnormal. I mean, so I was basically a translator. A lot of times
+
+0 (29m 51s):
+You were the F you were the face, you were the front man for a woman.
+
+2 (29m 54s):
+Not a lot of people can have a conversation with Lynn. And
+
+0 (29m 57s):
+Were you feeling, I don't know, were you feeling dejected or nervous or anxious? I mean, you needed to build these. You didn't have money.
+
+2 (30m 7s):
+I think that I've never been in a war, but I think that we had all of us who were there. There were probably about 10 or 12 of us at that time. Very much had a trench mentality. How are you paying
+
+0 (30m 17s):
+Everybody?
+
+2 (30m 19s):
+We could get enough income, fast enough to meet payroll. And we had a whole bunch of free labor Len's parents were building cables. And my aunts came down and did xeroxing for us. And I was managing the cash flow, but it was very hand to mouth in a way that I think that people who want to be entrepreneurs these days really don't understand.
+
+0 (30m 40s):
+Was it exciting or was it no, it was nerve wracking.
+
+2 (30m 45s):
+If you can imagine being in a world war, one trench in the mud being constantly shelled by the, by the Germans and the mustard, gas and, and no food and no relief and no sleep. It was that exciting.
+
+0 (30m 58s):
+When we come back, how Sandy and Len finally did get their funding for Cisco systems and why they both eventually walked out of the company. They built stay with us. I'm guy Roz. And you're listening to how I built this from NPR. This message comes from NPR sponsor, discover, discover matches all the cashback. You aren't on your credit card at the end of your first year, automatically with no limit on how much you can earn.
+
+0 (31m 41s):
+It's amazing because of all the places where discover is accepted 99% of places in the U S that take credit cards. So when it comes to discover, get used to hearing, yes, more often learn more at discover.com/match. 2021 Nelson report limitations apply. This message comes from NPR sponsor, Don Julio, tequila, Don Julio Gonzalez, didn't just farm a Gavi. He worshiped them. He harvested each Gavi individually plant by plant only handpicking the a Gabe's at optimum maturity and his legacy lives on today through his exceptional tequila, Don Julio, a life devoted to tequila making, please drink responsibly Don Julio tequila, 40% alcohol by volume, copyright 2021 imported by Diageo Americas, New York, New York.
+
+0 (32m 37s):
+Hey, welcome back to how I built this from. So by the mid 1980s, Cisco systems was up and running in Sandy and Len went through a bunch of different investors, trying to get their router company funded until finally they found the guy they needed. I guess it's at that point where you come across a guy who is, becomes pretty well known to people who follow the investment, the VC world, a guy named Don Valentine. You come across him. And this is a time where you are really desperate for cash. And what does Don Valentine he's with Sequoia capital? What does he say to you?
+
+2 (33m 15s):
+Don told us that, well, you know, I've taken 200 companies public, you walk into his office and you know, like your little cubes back there, he's got like all these loose side cubes, you know, making this kind of untenable mountain. And he says, you know, you'll be part of the Don Valentine group of company already
+
+0 (33m 29s):
+Launched tons of companies, including
+
+2 (33m 31s):
+Apple and Intel.
+
+0 (33m 32s):
+Oh yeah. So, so the guy who launched apple and Intel is coming to you and saying, oh, I'll invest in you.
+
+2 (33m 37s):
+Yes. And telling us that don't, don't worry about getting your own lawyer. We'll, you know, we'll pay for it. You know, Len and I walked into a four year vesting plan after funding the company for three years, clearly a mezzanine investment we're making, we're booking a quarter million dollars a month, about
+
+0 (33m 53s):
+0.4 you're vesting plan means that your we
+
+2 (33m 56s):
+Have four years to, to, to put in, to get our stock and no employment contract. And what
+
+0 (34m 1s):
+Did he get? What he give you, what he
+
+2 (34m 3s):
+Got. He gave us $2.6 million and Len, and I got about 30%. But remember he was the chairman of the board of the company and he got stock from that. And all of his friends got stock.
+
+0 (34m 13s):
+Okay. I think we're foreshadowing that this story does not end well, but we're going to get to, so, so Don Valentine is now essentially the boss. Right. And, and so does he say that you guys, I don't want you to run the company anymore? Nope.
+
+2 (34m 31s):
+No. He was, Don is much more clever than that. You know, Don said, well, for the good of the company, we need to get you a professional CEO for the good of the company. You know, we need a professional CFO and Linda and I were still kind of doing the, I think we wanted to believe it. You know, we had given our health, our marriage, everything for this company, and here's this guy who's been wildly successful. And, and we, we truly did want to believe that that was for the best. And his next strategy was to bring someone in who was hostile as a CEO,
+
+0 (34m 59s):
+As a CEO, just Morgridge is
+
+2 (35m 1s):
+John Margaret. Yeah. And he denies it, but I will swear on the lives of my accounts. The first thing he said to me was I hear you're everything that's wrong with Cisco.
+
+0 (35m 8s):
+The first time you, the first a new CEO of the company that you started, he said, So when John Morgridge comes in to run the company, tell me what he would have thought was wrong with Cisco.
+
+2 (35m 23s):
+Well, Cisco, by this time, how to Salesforce, but remember the Salesforce looked like Don Valentine, but younger salesman way into the, this current millennium are still having the parties with the naked girls jumping out of the cake and all of this stuff. There was a type
+
+0 (35m 39s):
+You're saying that came into success.
+
+2 (35m 42s):
+And these guys were used to having a product that they frankly didn't understand, but to sell a Cisco box. I think you had to understand some part of it because it's what made us different. And it's, what's made us successful. And at one point I looked at Don and I said, because he was arguing that we didn't need more floor space. Cause we, we literally didn't have a place to set the boxes that we were making. And he says, every company I invest in always wants more space and they always go into business. And they said, you don't understand on this is going to be a $1 billion company. And he looks at me, he goes, how do you know that? And I said, look at the people here. And then I said, the most stupid thing I've ever said in my life, which was leaving me out of it.
+
+2 (36m 23s):
+These people are really, really special. And I did it because I felt I grew up with a grandma who said pretty east us pretty dose. And you don't say nice things about yourself. You know, you, you know, I was being modest. I was saying, you know, even if you don't like me, which he didn't, he losed me, look at these other people. They're truly special. I mean, these were people that came out of Stanford at the end of the seventies. You don't know what you've got here.
+
+0 (36m 47s):
+How many women worked at Cisco at that time? Well,
+
+2 (36m 50s):
+Not very many. Although we had a couple that were doing inside sales and we had my friend who is still at that point running the purchasing department. I do remember that at the executive meeting, the head of HR who was a former miss California. And I were the only women,
+
+0 (37m 5s):
+Th this is, this is another part of the story where it's, it's a little complicated and there are obviously different versions of, of, of what happened. But essentially there was a lot of tension at Cisco and, and it, it seems pretty clear that there was somebody or some group of people who wanted, who wanted us. Right. And so I guess one day that your CEO, John Morgridge calls you into his office. And what do you remember about that day?
+
+2 (37m 36s):
+Everything.
+
+0 (37m 37s):
+What happened?
+
+2 (37m 39s):
+I was sitting in my little office in the corner as I did every day. And he came in and he sat down in the chair without making an appointment. And he said, you know, I think it's time you retire. That was it. That was us. You've got, you've got all this money now and you just time to retire. And I said, well, John, I'm not even half vested yet. And I've got a lot. I still think I have I'm doing here. And I started, of course, in my practical way to tell him what I was doing. And he practically told me to shut up. And basically I was fired.
+
+0 (38m 6s):
+Wait, but your share of the co of the company was going to fully vest in four years. This is two years bingo. So if you will, we're lock out. At that point,
+
+2 (38m 17s):
+I be walking out with half my net worth and notice they only fired me and not Lynn.
+
+0 (38m 22s):
+And you could do nothing about that. You
+
+2 (38m 25s):
+Know, at that point it was women don't get along. They ended up playing team players. You know, this was six months after the company IPO. So you fire one of the founders, big deal. And Lynn and I were not getting along. We did have a, an adjustment period where it was very
+
+0 (38m 40s):
+Difficult. Marriage was, was
+
+2 (38m 42s):
+We give everything up for the company, our health, our marriage, you name. It
+
+0 (38m 47s):
+Sounds like it. I mean, I mean, I don't know how you could have had a
+
+2 (38m 51s):
+And people handle stress in different ways. And they were simultaneously pandering to Lindsey go. And I had no idea Len had an ego and told them, but you know, he went on the road show, he got the board seat and I was literally chopped liver. And so they, they very consciously tried to drive this wedge between us and
+
+0 (39m 10s):
+Sounds like it was working
+
+2 (39m 11s):
+Well, except for one thing. And someone like Don Valentine has no way to really internalize Len for all of his things that can make him very unusual and sometimes very difficult. He is fundamentally fair and decent and it is inviolable. And I went to him and I said, Lynn, I don't know if you're on the board, whether you've heard about this, but Morgridge just fired me and then looked at me in his usual way as well. Nose kind of goes up one side and he says, I am sure you are mistaken. And I said, well, I'm sure I'm not the words you are fired. Leave. The building were said.
+
+2 (39m 52s):
+And so Len, I think you probably could have knocked over both Valentine and everybody else, like little bowling pins when Len walked up there and walked out with me, he
+
+0 (40m 1s):
+Walked out in solidarity with
+
+2 (40m 3s):
+You. He absolutely did. He walked, gave
+
+0 (40m 5s):
+Up half of his
+
+2 (40m 6s):
+Potentially. We ended up getting it back, but only because it would have looked very bad for the stock six months after when both of the founders walk out and you can't turn feather, the other one with girls don't know how to play on a team.
+
+0 (40m 22s):
+So you did manage to retain your one-third stake in the company
+
+2 (40m 26s):
+With our lawyer and threatening to expose all this stuff, six months after the IPO, right?
+
+0 (40m 33s):
+It speaks to the power of your intellectual partnership that Len walked out with you. I mean, it's, it speaks to how much he respects you.
+
+2 (40m 45s):
+I agree with you and Lynn and I, you know, we respect each other as people and we adore each other and read it. We're each other's best friend.
+
+0 (40m 55s):
+And I should say, you're, you're no longer married to that's.
+
+2 (40m 58s):
+Right. But what fundamentally hit was something that they could not have reckoned on. And that is that there exists people in the world who fundamentally see black and white right. And wrong. And Len is one of those people that has an, an airy sense of ethics.
+
+0 (41m 16s):
+Did they? They must have panicked when he walked out with, they did, that could have, that could have sunk the company.
+
+2 (41m 24s):
+We're a holy holy taken aback. They had no plan B.
+
+0 (41m 28s):
+So Sandy, somebody who knows somebody who, who who's hearing the story and knows a little bit about it, might ask you this question, which is when you and LAN walked out, it's been reported. You walked out with $170 million. Their argument Cisco's argument was, look, you guys are now rich, just go enjoy life. And so, I mean, you did have all that money was any part of you like, yeah, right. I mean, I did my job here and okay. I'll move on.
+
+2 (42m 3s):
+You know, it, it could have been that way. Had the sequence of events been less brutal and less personal. Yeah. They could have bought Lynn and I out, we could have kept, you know, a facade of a relationship. It could have been done 500 ways. That would have been a positive thing. Yeah. It was probably time for me to go. It was probably time for them to go. We're just not good people in a collaborative environment.
+
+0 (42m 26s):
+So you, you both leave the company. And how was your emotional state at that time?
+
+2 (42m 32s):
+You know, my entire adult working life was tied up in everything that had been done and sacrificed and built in that company. And the people who stayed there were no longer, not my friends. Yeah. The people who were customers of them were no longer now, not my friends. And it was, it was a time that, you know, any kind of tentacle or route that I had managed to put down was just forcibly ripped up. I was on my own. I had a comfortable amount of money. You remember that right after that, Lynn and I put 70% of the proceeds in a charitable view,
+
+0 (43m 8s):
+Which does not get distributed to both of you guys are long gone. Right.
+
+2 (43m 12s):
+Well, yeah. And, and we've paid out about $50 million on a, on a private charity that, that we've been funding since, since that time. So, you know, I had money, but we're not talking about billions. We're talking about, you know, a 10th
+
+0 (43m 26s):
+Of that. You guys sold all your stock.
+
+2 (43m 28s):
+We did, you know, certainly people would say, well, you look, you're crying all the way to the bank and yeah. How much money can you spend? How much money do you really need? I'm not somebody that, you know, I live in a log cabin. You know, what they had taken from me was what they meant to take from me, which was basically my whole working identity. And
+
+0 (43m 46s):
+He may same thing as you were 35 years old, and this happens, you are a fairly young person. You swear, you're 35, you're ousted from the company that you founded. You do have quite a bit of money at this point. So what did you do?
+
+2 (44m 1s):
+You know, I come from a family that believes very strongly in the common good I've, I've been given great values with respect to work. And, you know, I decided that animals were always my first love. And there were five animal shelters in the bay area that if your pet happened across the street, it could end up in a S in a shelter, 60 miles away. And they had no way to tell where your pet was. And a lot of times, by the time you figured it was really missing, it had been euthanized. And I went across the street to the animal shelter and I said, you know, Hey, I have this idea for network. And we could put all these animals, you know, you know, in this database, it would be shared by all of these five networks that ring the bay and we could call it pet net.
+
+2 (44m 43s):
+And, you know, you guys could just sit there and, you know, take pictures of the animal and like type in a few things about it. And people could sit at home and see where their animal was. So I just started working really, really hard with Moran and peninsula and San Jose and the on Palo Alto in the Oakland, Oakland shelters, building pet net.
+
+0 (45m 5s):
+You spent a couple years in the bay area after you you're out shit from Cisco. And then I guess in the mid nineties, you started a cosmetics company, urban decay, which has completely like total totally different direction. Right? How did that, how did that happen?
+
+2 (45m 23s):
+My aunt whom I adored, I was turning 40 and she said, Hey, kid, it's time to lose the t-shirts and jeans. And by the way, you could use a little makeup. And I adored her and I thought she loved me. And so I took that to heart and I thought that jeans and t-shirts were not a negotiable item. So I would concentrate on the makeup. And I went to go look at that. And I went to the department store and it was all great. If you're a Christie Brinkley, you know, I don't look like Christie Brinkley. And I I've always been kind of a hippie que punk sort of person just because I don't fit in. So I tend to gravitate toward those fashions that belong to those people who enjoy not fitting in. And, you know, it was all pink.
+
+2 (46m 3s):
+And I just go, I can't do this for the rest of my life. This is not right. Why is your nails red? Well, because it has to match your lipstick. Why do use down there and put your hands up by your face? No, your nails should maybe not sure. How about that? What if your nails Rochester closed? So makeup's a very easy thing. You do it three weeks. We were on the shelf in three months, you know, just add $50,000 and stir,
+
+0 (46m 26s):
+Because at this point you were like, I have never going to outside investors ever again. So you had the money and you funded this company. And because you could do that, you can make it happen quickly on your terms. And so what was the, what was urban decay? What would make a difference?
+
+2 (46m 41s):
+Well, I just thought, you know, there's a whole market for people like me that really grew up in the time of, you know, Vietnam war and hippies and punks. And, you know, I was, I was really heavy into the punk scene at that point. I was a little delayed gratification. So I just started making these really cool colors, like beautiful blues. We had a, kind of a light steel blue that was called UVB. We had plague, which was kind of purple with a green tint Roach, which was an absolutely drop dead gorgeous brown. And we had mildew, which was really lovely, lovely green Uzi, which is a gorgeous kind of steel, steel color.
+
+0 (47m 23s):
+So you were making up colors and giving them some interesting names and, and really,
+
+2 (47m 28s):
+Really good ingredients. The first place we were in was in Nordstrom's and Neiman Marcus. We were using
+
+0 (47m 34s):
+Top of the line ingredients and it was absolutely committed to no animal testing. And because you put your money behind it, it was, you were able to get, like, how did you get Nordstrom to agree to, to carry it?
+
+2 (47m 47s):
+Because it was a really good product. And B I think it was good timing because, you know, you're talking about the mid nineties, senior, you're talking about Nirvana and, you know, the, the grunge wave and, you know, Pearl jam and that whole thing. And I think Nordstrom rightly felt that they were missing a mark.
+
+0 (48m 2s):
+So it's coming. It's really cool because you sort of had spent soap the previous, like two decades, really understanding, learning mastering computer technology. And I have to assume that you had to dive into cosmetics in the same way. Cause I, I mean, did you know
+
+2 (48m 19s):
+Easy, you know, the base of the nail Polish, how much Michael, you want to put in at the base for the, you know, the, the color cosmetic eyeshadow, what kind of mic are you using? How much Micah, how much pigment you're putting in it, everybody uses the same stuff. It's just how they put it together and what they're willing to pay for.
+
+0 (48m 35s):
+So you would go to these factories that would make, that make, make up for a hundred different companies and you would tell them exactly what you wanted, no way
+
+2 (48m 43s):
+It would make it you'll make it. We would sit on the bench with the people and, and make it. And we had three weeks to get it out on the shelf before the same company would, would knock it off for the other people down the street.
+
+0 (48m 53s):
+I mean, you were, and you are such a highly respected technology pioneer and, and you had all these friends in this community. W did anybody ever say Sandy cosmetics? That's interesting. That's like a total departure.
+
+2 (49m 9s):
+I wanted it to be a total departure because, and I was, I was using my technical chops for Petnet. So I was doing that. And then the makeup to me was really, I was quite offended by the makeup industry, putting all the women in this pink box. You know, our first, our first adverb in decay was just pink, make you puke. You know, to me, it was about choice,
+
+0 (49m 31s):
+I guess, to, to, to illustrate like how kind of punk this urban decay was. I've read that Dennis Rodman. You said like
+
+2 (49m 40s):
+Dennis Rodman, the cure, the cure used it. And sprints defining used it. I mean, we had a, we had a whole lot of people who were, who were using our makeup.
+
+0 (49m 50s):
+So why, why did you, I mean, I think it was like five years after you launched urban decay that you sold it to, to LVMH would the company that, that includes leave Baton Y
+
+2 (50m 2s):
+For the simple reason that there's no intellectual property, you can't patent color.
+
+0 (50m 7s):
+Right? Meaning what, like other companies could, could keep knocking you off. So you just, you just figured out just this. Yeah. Denver, this was it worth the price. It was, it we're selling it. I made money. And I believe by the way, I think urban decay is not owned by L'Oreal yep. 400 million, $400 million. That's not what they paid you in 2000, unfortunately. Right. But still, you know, you started this company. It's probably cool to see this around. I mean, still around. Absolutely. So you have this entirely other part of your life, which is arguably the biggest part of your life, which now, which is a, a sustainable farm in Virginia. You, you completely left the west coast.
+
+0 (50m 48s):
+You built your life in the Virginia countryside where you raise rare breeds of cattle and pigs and chickens and turkeys and turkeys. Tell me that. Tell me about that. How did that?
+
+2 (51m 4s):
+Well, you know, I was raised on a farm and I believe in eating meat. I mean, we've got these pointy teeth right here, but you know, I, the idea that you had factory farm to me was beyond horrifying. And I absolutely believe that we did not use that kind of farming. When I grew up, we farmed the way my grandfather knew how to farm, which was the manure on the fields. And you fed your cows good things. And at the end of the time, your cow fed your neighbor. I mean, we would no more have poisoned our cows because we were poisoned our neighbors at that point. So I was convinced that I could find an economic model because I had the resources to raise large livestock profitably in a sustainable, organic and humane paradigm. And I am,
+
+0 (51m 44s):
+But I mean, but imagine, but I mean, I have to imagine that like doing this kind of farming is hard.
+
+2 (51m 49s):
+You know, I'm one of those people that doesn't have, I guess the good sense God gave it act to, to just not do something, because it's going to take a whole lot of hard work farming as a hardest thing I've ever done much, much harder than learning calculus as a graduate student in physics, in the rest of all of that stuff. It's, it's, it's much, much, much harder than anything I've done and it takes more work and more heartache and more aggravation than you can ever imagine.
+
+0 (52m 16s):
+You know, Sandy is something that, that is really striking to me is that you, you still have this partnership with land. Like, like, even though you haven't been married since like the nineties, you still collaborate together and, and, and clearly like you still value each other tremendously. Yeah.
+
+2 (52m 33s):
+And our foundation that's called the ampersand foundation because it stands for Atlanta and Sandy. Oh, that's so cool. And we both have put our money in, no matter what we do with our personal lives, the rest of our lives, we are each other's legatees. Yeah. But you know, it is good that, that Lynn and I found each other because we probably were more suited to each other than most everybody else in the planet. You know, my parents thought Len was an, a space alien until, until he fixed my uncles chainsaw, then he was like the golden boy. But when my parents and Lynn's parents met each other for the first time, I think they were each expecting sort of like ETF and wife, you know, because both of their children were so bizarre.
+
+2 (53m 15s):
+You know, it was, it was a little, it was a little touchy there for awhile.
+
+0 (53m 19s):
+I mean, I know you've been asked this before, so it's a bit of a touchy question, but I want to ask you any way you have been able to do almost anything you want it to do, and you've given away so much of your wealth had you and Len kept that stock. You would have been, it would've been worth 50, maybe more billion.
+
+2 (53m 41s):
+Yeah. Last time I checked, I think I would have been, been worth 9 billion, but it's probably gone up since then.
+
+0 (53m 47s):
+What do you think about that?
+
+2 (53m 48s):
+You know, I think that nobody can see the future and that Lynn and I agreed to sell our stock on a very joint basis. And we did it because we fundamentally had no respect for people running the company. And it wasn't really that we didn't believe in the company. I mean, I was the one who said that Cisco would be a billion dollar company. And I knew that that was as long as those people stayed there, even without me and Len, they had a technology legacy that they would be successful. It was because Lynn and I did not wish to live our lives with those people, having any more control over our day. It had nothing to do with, with financial, you know, we, we made a pile of money and it really had nothing to do with, you know, ROI or, you know, P and E rates.
+
+2 (54m 33s):
+And you know, what that company was going to do at how to do with the quality of our life and how we wanted to look at the morning.
+
+0 (54m 41s):
+How, how much of your, of your success do you attribute to your intelligence and your hard work and how much do you attribute to just luck?
+
+2 (54m 51s):
+You know, I've always said that it's a third being smarter, third working harder. Third luck. No, I take that back. It's a half being smarter, half working harder and a half pure luck because that adds up to more than one. And there were times that Cisco could have just been an asterisk and a footnote. I mean, there were so many times that company could have gone under and we were saved by circumstances out of our control. So there was huge luck in there. I still work harder than anybody. I know. That's my great gift. And I love work. I'm I'm, I'm besotted with work, you know, I've already, I've already designed my epitaph.
+
+2 (55m 32s):
+It has one word on it. What do you think it is?
+
+0 (55m 35s):
+Oh, one word. Wow. That's ton word. I can't sum your, I can't summarize your life into one word, Sandy. I, I don't know. I have no idea.
+
+2 (55m 47s):
+Bold, bold,
+
+0 (55m 53s):
+Sandy Lerner co-founder of Cisco systems and founder of urban decay makeup. By the way, Sandy did guess, right? When she once predicted that Cisco was going to be a billion dollar company, it is now more like a $200 billion company. In addition to running share farm and running its restaurant. Sandy also started a library in the UK, the chat house library, which contains thousands of books written by female authors around the time of Jane Austin, who Sandy says is her drug of choice. In fact, a few years ago, Sandy wrote a pride and prejudice SQL it's called second impressions.
+
+0 (56m 37s):
+Thanks so much for listening to the show this week. If you're not a subscriber, please do subscribe wherever you get your podcasts. If you want to write to us, our email address is H ibt@npr.org. If you want to follow us on Twitter or at how I built this, or at guy Roz and on Instagram, you can follow at how I built this NPR or my account at sky dot Roz. This episode was produced by Rachel Faulkner with music composed by <inaudible> Arab Louis. Thanks also to Janet Lou, John Lee, Liz Metzger, Ferris safari, Doris gales, JC Howard, Juliet Carney Neeva grant, and Jeff Rogers. I'm guy Raz. And you've been listening to how I built this.
+
+0 (57m 29s):
+This is NPR.
+
+4 (57m 34s):
+This message comes from NPR sponsor plaid. If you're building a finance app or service plaid is the easiest way to get started with plaids API. Your users can securely connect their bank account to your app. In as little as seven seconds, get started at plaid.com/npr.
+
+5 (57m 53s):
+There are millions of books out there just waiting for you, but how to keep up introducing and PRS book of the day. Every weekday, we feature some of our favorite conversations with authors and writers about their latest books. You can check it out in about the time it takes a walk, the dog happy reading.

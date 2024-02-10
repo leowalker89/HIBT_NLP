@@ -1,0 +1,968 @@
+0 (0s):
+Hey Prime members. You can listen to how I built this early and ad free on Amazon Music. Download the app today.
+
+1 (9s):
+This is Chip Brantley, co-host of the NPR podcast. White Lives. Before we found the man in Vancouver, before we sued the State Department, before we snuck into the graveyard of a federal penitentiary, all we had were the photographs. Photographs of a group of Cuban men standing on the roof of a prison in rural Alabama. That's the season on the NPR podcast. White Lies.
+
+3 (33s):
+It's the single hardest thing I've ever had to do. Yeah, I never really wanna do it again. I think I blacked out a couple times during it. You're making decisions on every single conceivable thing and you're missing some stuff too. Like, all right, health insurance, how do we do that office? How do we do that? Oh, we need desks. How do we do that? Oh, we gotta hire people. Oh, this person turned us down. Oh my God, who's gonna be our accountant? You're just trying to survive. You're basically like Tom Hanks and Castaway. You've built your little raft and your goal is to just get over that first wave and you get out there and then you're like, holy shit. Now what?
+
+0 (1m 17s):
+Welcome to How I Built this, a show about innovators, entrepreneurs, idealist, and the stories behind the movements they built. I'm Guy Raz and on the show today how a bitter falling out with ESPN led its star sports writer and broadcaster Bill Simmons to build his own $250 million media company The Ringer. Bill Simmons did not set out to become an entrepreneur. He was certainly entrepreneurial, but for much of his career he was perfectly happy being entrepreneurial inside a bigger company, which was the Sports Network, espn.
+
+0 (2m 2s):
+And it was at ESPN where Bill would make his mark essentially as a content machine first as a sports writer for espn.com, and then later as the architect of the network's, hugely popular sports and culture blog. Grantland Bill was one of the creators of 30 for 30, the acclaimed ESPN documentary series, and he launched ESPN's first successful podcast, the BS report. And Bill might still be at ESPN today if it weren't for a nasty breakup that happened in 2015, just a few months after he left the network. The incredible blog he built there, Grantland collapsed and no longer exists, but that same year, bill began to build something entirely new from scratch.
+
+0 (2m 50s):
+His own media business called The Ringer. It was modeled on all the things he felt he couldn't do at espn. It's a pop culture, sports and tech website and a network of more than 50 podcasts. In 2020, just four years after he launched The Ringer Bill sold it to Spotify for roughly 250 million. And along the way, he had to learn how to become a business guy, not just the creative guy. Bill grew up in the 1970s and eighties in Brookline, Massachusetts, in the shadow of the Boston Garden sports Arena. His dad was a school administrator who loved sports and from an early age Bill grew to love them too, as long as it was Boston Sports.
+
+3 (3m 35s):
+Yeah, well Boston I think's one of the biggest sports towns and we had four teams and I cared about all of 'em. And I was an only child, so we just watched everything and I watched everything and I just, it kind of became my thing. And the biggest thing I think was my dad took me the, he got one season ticket to the Celtics for the 73 74 season. So this is actually his 50th year. Wow. And he used to carry me in which he could, cuz I was like, I turned four that first season. So
+
+0 (4m 7s):
+He, you were not an additional ticket, he would carry you in like hand luggage.
+
+3 (4m 10s):
+Yeah, and you know the ushers and stuff, they started to know who I was and I, they used to let me walk on the court before the games and I could stand under the hoop and I could rebound. And that was really like the 75, 76, 77 season. There was, I think it was 75 playoffs, Hali check was hurt. And I used to walk over to the be, this is crazy now. No, nobody believed this. Now I really did. I to walk over to the bench, talk to the coaches and there was this picture of me and Hali check, he was un crutches with I think the assistant coach. I'm kind of looking up at him and they put it on the, I think it was the front of the sports section in the Herald. And it was like, you know, little kid ass ha ache.
+
+3 (4m 51s):
+He's ready to play. And so that was like amazing. It's
+
+0 (4m 54s):
+Crazy. It's totally crazy
+
+3 (4m 56s):
+Stuff like that. The first game I really remember was I went to the famous game, six of the 76 finals with my dad. It was, they were playing Phoenix. Oh that was,
+
+0 (5m 7s):
+And it went in a triple overtime. Triple overtime. Yeah, yeah,
+
+3 (5m 9s):
+Yeah. It became the most famous modern n b game and I, it probably still is. Yeah. But that game started at nine o'clock and I was six years old, you know, and I fell asleep around the third quarter. It was like 11 o'clock. It was like some of almost the latest had been up. Yeah. So they actually, I was sleeping across like two people cuz we knew everyone in our section. And then sometime in the overtime when everybody had to stand on every play, like I just kind of, they had to wake me up. Yeah. And I kind of like came out of this haze and saw the second and third overtime, but we got home at like one 30 in the morning and I remember Charlie's Angels was on, there was like a rerun of Charlie's Angels at one in the morning and I was just like, is this what happens late at night?
+
+3 (5m 50s):
+Like Yeah. After that game I was like, I'm all in for the rest of my life on anything with this team.
+
+0 (5m 56s):
+So I mean it, it's amazing cuz you can't imagine today, I mean they wouldn't even let somebody come in with a baby without a ticket today, I don't think. Maybe under two I guess. But like, I mean they're massive billion dollar, it's a, in the seventies like the NBA was like probably wasn't even as big a deal as like MLSs today.
+
+3 (6m 13s):
+You know, that was one of the things I loved about the league was it was still so, I don't wanna say underground, but it just like, it was like kind of the stepchild of the sports scene. No, totally. All the other sports felt bigger. It's the same way. Like if I decided right now that I wanted to write a book about, I don't know, major indoor lacrosse, they would let me in. Sure. Right, right. They'd
+
+0 (6m 34s):
+Be like, great, come on. Yeah,
+
+3 (6m 35s):
+This sounds good. Come in you, you have complete access. And that's kind of where the NBA was. Yeah. But you know, you go to the late seventies, early eighties, the league had a lot of issues and there were guys that just would get big contracts and stop trying. And the league was heavily black in the seventies, which was a real issue for the networks for whatever reason. It's kind of crazy to look back now, but it was like, you know, I didn't, and Stan wrote about this in breaks of the game. Right. The league had this real issue of how do you sell a black sport to white fans? Which now seems crazy, but in the seventies that was the narrative and then Bird to Magic showed up
+
+0 (7m 12s):
+And And that changed it. Yeah.
+
+3 (7m 13s):
+That, that flipped it.
+
+0 (7m 14s):
+You were clearly super close with your dad from an early age. Yeah. And I know your parents split up when you were in like eighth
+
+3 (7m 22s):
+Grade. No, I was younger than that. I was, I was, I was fifth grade. Fifth grade when that happened. So yeah, it was the end of the
+
+0 (7m 27s):
+Seventies. And then you and your mom eventually moved to, you're an only child, you moved to Stanford, Connecticut. Tell me about, wow, I mean your dad's your sports buddy in like you moved away from Boston.
+
+3 (7m 40s):
+Yeah, so I moved to Connecticut and that was a culture shock for 19 different reasons. But you know, I used to go back, I used to take the train to see my dad every the weekend. I used to spend summers with my dad and stuff like that. So I would still come back, I'd come back for playoffs and things like that. But it wasn't totally the same. Yeah.
+
+0 (7m 57s):
+You mentioned this book by David Howand, the Breaks of the Game. And I know that book played a seminal role in your, you know, kind of teenage years. You've written about this book a lot and referenced it in, in your books and writing and your columns. You consider it to be one of the greatest, if not the greatest sports book ever written. The breaks of the game. How much of that book do you think kind of began to influence you even as a teenager and thinking like, I wanna be a sports writer, I wanna write about sports team strip paper.
+
+3 (8m 26s):
+I think the, I read it every year to to just kind of remember why I like writing and reading. Even though he had a totally different style than I did. Yeah. It really helped me as a writer because with Howard Stem it was the curiosity, right? Yeah. He really wanted to figure out what's going on with this league? Is this league gonna make it?
+
+0 (8m 46s):
+Yeah.
+
+3 (8m 46s):
+The coolest thing about it was he would dive into these different characters and I felt like, you know, after you read that book enough times they just feel like, like people that became like your friends in a weird way.
+
+0 (8m 58s):
+Yeah. So when you moved to Connecticut, is this also like when the wheels start turning in your head like that you could do this, that, that you could become a writer?
+
+3 (9m 7s):
+Yeah. When I moved to Stanford, I went to Greenwich Country Day in eighth and ninth grade, which was like one of the best schools in New England and was a completely different animal than I went to public schools in Brookline, you know, and I was smart but it wasn't like this school was. Yeah. This school was really competitive and at the end of eighth grade in the English, we had to write this essay as part of the final exam that they called the Pearl. And it had to be you tied in some sort of personal thing with the book we read and it was scored up to 40. And the teacher who had been there who became, you know, one of the most important people for me, he'd never given a 39 out of 40, 38 was always the highest thing.
+
+3 (9m 53s):
+So I wrote this piece and it was actually about my grandmother. Hmm. And he gave a 39 and he told the class like, this is the first 39 I've ever given and I'm gonna read it to you right now. And he finished and then it was like silent cuz it was good. Everything, everybody was silent for like three seconds after and I was like, wow, this could be my thing. Hmm. But it wasn't until college that I was really like, wait, could I actually just do this?
+
+0 (10m 20s):
+Yeah. I know that when you went to college in Western Mass College of Holy Cross, you did sports writing, you a sports editor, you were to the school paper, but you majored in Middle East politics. Where did that come from?
+
+3 (10m 33s):
+Yeah, I was a poly sci major. Look, I can't defend this and I don't even understand why I thought this way, but I was like, maybe I'll go to law school or Yeah. So I was like, all right, I'm gonna do that. And when I got to college I wanted to have a sports column and I went to see, and by the way, this, I was really lucky in this respect. They had a spot for me and I wrote them a sample column and they were like, we're gonna run it this week. Yeah. I'm like, great. And then the next week it was like, I have this other idea for a calm. They were like, all right, let's run it. And so every issue of the newspaper in the four years I was there, I had a column in
+
+0 (11m 8s):
+And you were writing about what?
+
+3 (11m 9s):
+It was mostly real sports, like professional sports and then sometimes college sports. So like I started going after our basketball coach, George Blaney. He was this guy who had kind of peaked in the late seventies and he would screw up games. And I started, I wrote a couple comms critical about him and it got huge waves on campus. And I was like, ARA, this is interesting. Like, because this is me and my friends all talking about like, we think this guy sucks and he probably didn't suck. You know, we're college kids, we don't know any better. But
+
+0 (11m 42s):
+You were writing this about the sports coach in the
+
+3 (11m 44s):
+Paper, the basketball coach. Yeah.
+
+0 (11m 46s):
+And he, he probably was not happy about that.
+
+3 (11m 49s):
+Oh he is furious. And then I got got that column to the point that it was a conversation piece on, on Fridays. Yeah. And by the end of my freshman year I was like, this is, I'm good at this. Like this is something's going on here. And it became a huge part of my college career.
+
+0 (12m 7s):
+And did you, I mean, if you go back and read your columns and you're probably really grateful they're not online, I'm assuming they're not not online. Yeah. Because I'm sure there's stuff in there that you're embarrassed by or, or you look at the copy now and it would be crap. But you have to write crap for a long time in order to write good stuff.
+
+3 (12m 25s):
+Yeah. It takes, I mean it's like a decades long process Yeah. To feel good about what you're writing about. I think the thing back then was I ha I was funny and that I was weaving pop culture and even back then, and that was the stuff people would mention me over the weekends. Like I would, I would make a joke about some Brady Bunch episode. Yeah. And then I'd, I'd go to get, I dunno, coffee or food or whatever. And I would notice a lot of people reading my calm just when I was walking around. I was like, ah, this is, this is cool.
+
+0 (12m 54s):
+Yeah. So after you graduated from Holy Cross, I guess you, you went on to BU to Boston University to get a journalism degree. Yeah. And when you were done, you wanted to be a sports writer, like a, a professional sports writer.
+
+3 (13m 7s):
+Yeah. You're really naive at that point cuz you just, I was like, I had this great calm in my college newspaper. So then I'll graduate and I'll go to grad school and then the Boston Global will give you a column and it'll be great. I'll have a column by the time I'm 25.
+
+0 (13m 20s):
+Right.
+
+3 (13m 20s):
+And then two years later you're at a newspaper organizing, you know, the pizza run for that night. Yeah. And taking high school scores and you're like, what happened? Where, where's my column?
+
+0 (13m 30s):
+So you get a job at the Boston Herald basically is, you know, covering high school sports.
+
+3 (13m 35s):
+Covering high school sports and doing like all the grunt intern work. Yeah. And I ended up doing that for three years. And the third year I started writing for the Boston Phoenix too. And got to write some really good comms and features for them.
+
+0 (13m 50s):
+Why did you, before you get there, I know that you really hated your time at the Boston Herald. This is like the sort of early to mid nineties and I can imagine what it was like, probably people smoking in the office still and it was like just angry.
+
+3 (14m 4s):
+No, it wa there was no smoke in the office. They would all go outside.
+
+0 (14m 7s):
+Outside. Okay.
+
+3 (14m 8s):
+But I was more fascinated by that cuz it would take three minutes to get outside, eight minutes to have your cigarette. So it was like these 15 minute breaks every 45 minutes. And I'm just looking around going, these people don't care what is happening. I probably didn't handle it great either cuz I really did feel like I was better than anybody there except for maybe one or two people. And you know, I was just of the mentality like, talent should win. But I think of how I would've the me now would've seen that person just like a
+
+0 (14m 39s):
+Cocky, cocky, obnoxious
+
+3 (14m 41s):
+Was like, fuck this guy, who does this guy think he is? But I really felt like I was good and there was no path and I just, yeah. I remember I spent two weeks, I point out this whole Sunday thing for the Sunday paper, this whole page that I wanted them to give me. And it was like, it had like a 600 word column. It had these lists, it looked a lot like kind of what the internet would look like 10, 12 years later. Yeah. It was modeled like EW Entertainment Weekly had that little ew, the hot list. Yep. So there was like that version of that. It had a little mailbag thing, which I stole from Letterman. It was all these different things that I liked.
+
+0 (15m 16s):
+Just a bunch of things. Like on a printed page it would basically be like a static webpage but printed.
+
+3 (15m 21s):
+Yeah. And I still have
+
+0 (15m 22s):
+It. Oh, they published it, they ran it.
+
+3 (15m 24s):
+No, no they didn't publish it.
+
+0 (15m 25s):
+Oh, you, but you mocked it up for them?
+
+3 (15m 27s):
+I mocked it up and I actually laid it out like a newspaper
+
+0 (15m 30s):
+Page. Like on Cork Express or whatever.
+
+3 (15m 32s):
+Yeah. And I was like, just, just gimme this one page. Yeah. And I'll kill it for you guys. And they just didn't wanna do it so that you start to wonder like, is this meant to be? And I just was looking around going, man, I I will still be doing this three years from now. I'll be in the exact same spot cuz none of these people are gonna
+
+0 (15m 51s):
+Leave. Yeah.
+
+3 (15m 52s):
+By the time I started my own thing in 97 and I was able to get on Digital City Boston and rip my calm for that, I felt like it, it happened like probably three years too late for me. Yeah. Like I, I really wish it'd been like 24 year old me instead of 27 year old me. But better late than never. I guess
+
+0 (16m 8s):
+You quit the, the Herald after three years Yeah. To basically freelance and then you start writing this column for basically an AOL affiliated website. Right?
+
+3 (16m 18s):
+Yeah. But that hadn't even, I didn't even know that was happening. I thought I could freelance. I was like, maybe I can write scripts.
+
+0 (16m 25s):
+So you quit with no plan. Yeah.
+
+3 (16m 27s):
+And I was like, and I'm gonna work in a restaurant and bartend.
+
+0 (16m 30s):
+But you wanted a column that's really what you wanted. You wanted to be able to kind of resurrect what you were doing in college.
+
+3 (16m 36s):
+Yeah, because I felt like the way that the columns and the, the way that sports media was back in the time was very like, it was way more adversarial. It was way less fun. And some of the writers that I had grown up with, they really seemed like fans first. And I was like, why don't people do that anymore? So it was basically like, I kept thinking who is writing a sports com for me and my friends. Hmm. And then when I had the digital city com, which I felt like was like my last chance and I threw myself into it. And
+
+0 (17m 10s):
+By the way, this was a time we should mention when almost nobody read the internet. Like 97, very few people were reading, I mean AOL subscribers maybe, but it wasn't like, oh there's, there's this guy Bill Simmons. There he is. Right, right. In this column. Like nobody knew who you
+
+3 (17m 25s):
+Were? No, I had, it was AOL only the first 18 months Digital City. So none of my friends could read it at work. Nobody could read it on the worldwide web. You had to have an AOL subscription
+
+0 (17m 36s):
+And it And you were only writing about Boston sports?
+
+3 (17m 39s):
+I was a combo of Boston sports but also like big stuff. I was doing mail bags. I remember the third com I ever did was a running diary of the NBA draft. Like the six com I ever did was the, the worst 30 sports movies of all time. Right. And my friends couldn't read it at work. So I would mail them the, the columns and then they would mail it to a couple people,
+
+0 (17m 59s):
+Email it, email it to
+
+3 (17m 60s):
+Them. I'm sorry, email it. Yeah. Yeah. And within about 18 months, maybe 12, 15 months, I don't know, there started to be this email chain and I would get these emails from people I didn't know, can you add me to the list? So I had this email list that I would send
+
+0 (18m 13s):
+Out like a hundred people.
+
+3 (18m 14s):
+Yeah. It might've been more than that. It might've been like 200. Yeah. It was getting some attention locally. Especially cuz I used to make fun of the media members all the
+
+0 (18m 21s):
+Time. Let me ask you about that. I mean, you know, you've talked about this that like you would meet these reporters, right. Who were covering these legendary teams and you'd be like, oh my God, they don't understand they have the best job in the world and they're miserable. And like how is it possible that these sports writers like hate their jobs? They're like, they're living the dream. Was that your perspective?
+
+3 (18m 42s):
+Yeah, it wasn't all of them. It was a couple of them. I remember there was somebody that covered the Celtics and I would go and sit in my dad's seats cuz we were mid court at that point and the reporters were still sitting at the press table at mid-court. So you're you're right there. Yeah. You, you're just picking up everything. Yeah.
+
+0 (19m 1s):
+You're feeling the ball on the parquet floor.
+
+3 (19m 3s):
+Yeah. And I remember watching them and they weren't even watching the game. Yeah. And they were either like sending emails or working on whatever their piece was or I didn't even know what they were doing. And I was just like, if I had that job, I wouldn't do anything other than watch everything that was happening for two plus hours and then put that in my calm. Like how do you not do that? So it was, it was little stuff like that. But there was also like the sports radio scene at that time was just reprehensible. It was just so negative and so they just thrived on the negativity. So being able to turn the tables on that and have fun with that and make fun of that became part of it. Mm.
+
+0 (19m 40s):
+One of the things I'm curious about is, right, I mean Boston always, always thought of itself as like this kind of underdog town. And frankly that just got all squashed in the two thousands cuz Boston started dominate all sports. Yep. Right. But in the nineties, like everybody kind of sucked. And so you can understand why there was a lot of negativity on the radio and stuff, but you were, I mean, Boston's also like a brawler town and you were going after some of these sports writers. Did they ever, and you must have gotten threatened or like people wanted to hit you or punch you or, I mean, did that ever happen? Or were you ever like confronted?
+
+3 (20m 15s):
+No, I, I knew that people didn't like me. I also, I think I probably went too far with some of this stuff. Yeah. You know, I, I look back, I'm like, I was way too hard on whatever, but at the time, you know, you're in your twenties. I was mad I didn't have a column and I really resented a lot of the people that I felt like had spots that I didn't. And so I feel like if I could go back, yeah, there's some stuff I'd probably take back. I was literally on my own. Right. Yeah. So I had no,
+
+0 (20m 45s):
+No editor.
+
+3 (20m 46s):
+Yeah. I had nobody, it was just me
+
+0 (20m 48s):
+Just posting it up. You'd write it and post it and that was it. There was no filter. Yeah. I I'm, I'm wondering, when you were writing this column right, your goal was to still get a print column. It was like you were thinking of like this web column as the path to getting in the Boston Globe or somewhere else, right?
+
+3 (21m 6s):
+Not necessarily by the end. I think the big watershed moment for me was the Red Sox traded for Pedro Martinez. And I can't remember what year it was, but I remember I wrote a piece about it and put it up and the trade happened probably like nine o'clock in the morning and the newspapers didn't have it till the next day. And that was kind of my voila moment for the internet. Everybody who's on the early days of the internet probably had a voila moment for me. That was it. Where I was like, holy shit. Like the Internet's gonna win. Yeah. I had my column up 18 hours before the Boston Globe column. Yeah. That's, that advantage is just too substantial. And so I really, I was all in on the internet after that and you know, the internet was weird back then.
+
+3 (21m 51s):
+You would tell, people would ask what I did and I was like, I read this column, digital City Boston. And people like, what's that? Yeah, it's, it's this website on AOL and they had this look kind of like, is that real? Do you get paid to do that? And you know, I've talked about this before, but the most important thing that happened with the internet and sports writing was when Peter Gammons got hired by ESPN n he had the most important baseball column. Yeah.
+
+0 (22m 17s):
+Pete was the baseball god of writers
+
+3 (22m 19s):
+And it was the single most important baseball column for 25 years. Yeah. When it went to espn.com. espn.com. Yeah. Yeah. People like my dad who were kind of resistant to the internet. That was the moment where people were like, I gotta figure out this internet thing. I wanna read Gamuts. And once that happened, that was the Neil Armstrong moment
+
+0 (22m 41s):
+For sports writing.
+
+3 (22m 42s):
+Yeah. It gave the internet credibility and the internet just didn't have it before. Yeah. And E S P I think with the game it's higher and then they started page two and they kind of realized like we had this opportunity and they don't get enough credit for that. They were the ones that saw the opportunity. Sports Illustrated was the dominant sports magazine. Right. And Sports Illustrated missed it. Like they completely effed up the internet a little like how Rolling Stone missed with MTV in the eighties.
+
+0 (23m 9s):
+Yeah.
+
+3 (23m 10s):
+Sports Illustrated missed with sports in the late nineties, early two thousands. They should have owned all of this. Yeah. They had all the best writers and this should have been theirs and they just missed
+
+0 (23m 19s):
+It. And now it's just a brand owned by some private equity firm.
+
+3 (23m 22s):
+Right. But that's the thing, like if you miss your moment, man, sometimes it doesn't come back. Yeah. ESPN grabbed it and they started page two and they didn't ask me to be in it. And that honestly that was a blow to me cuz I was like, I can't believe like even they're not trying to ask, so maybe I'm in the wrong spot. But then ultimately it kind of came around and
+
+0 (23m 44s):
+Then, and they, they gave you a shot to sort of guess column like I guess around 2001 just to write a couple of columns,
+
+3 (23m 51s):
+Right? No, it was one they asked me to write one column
+
+0 (23m 53s):
+And this was the is Roger the Antichrist is the about Roger Clemens?
+
+3 (23m 57s):
+That was the second one. Okay. The first one was after Nomar Got Hurt and I wrote a Red Sox column and that crush for them. So they asked me to do another one. So I wrote about Clements and at the time, ironically the Boston Herald was trying to get me to come back and do this like internet calm that some of it would appear in the newspaper. And, and I went to ESPN and I said, Hey, I've loved writing for you guys, but I don't know if I'm gonna be able to keep doing this because I think I'm gonna do this Boston Herald thing. And the way my career had gone at that point they were gonna say, all right, well good luck. But this was the one time when they were like, wait, wait, hold on a second.
+
+3 (24m 38s):
+And they brought me to Bristol and then they offered me the chance to write for them and work for them. Yeah. And it all amazingly worked out thanks to John Walsh and some other people
+
+0 (24m 48s):
+Who was the editor of ESPN at the time.
+
+3 (24m 50s):
+Yeah. And you know that that was it. I think everybody has, you know, if you're successful in whatever, you're gonna have those three to four moments that you need somebody to believe in you in the right time or somebody to see some sort of thing you did at the right time. Yeah. And that was one of my moments
+
+0 (25m 9s):
+When we come back in just a moment, how Bill branches out into podcasting, film, and even comedy writing and why after 14 years he walks out of ESPN on bad terms. Stay with us. I'm Guy Ross and you're listening to How I Built This.
+
+Squarespace (25m 35s):
+Hey It's Guy here. You know, I've talked to hundreds of founders on how I built this and I've heard time and again how important it is to have a strong web presence in order to really grow a business. Squarespace is an all in one platform for building a brand and engaging customers online. Squarespace lets you easily create a dynamic website and sell anything your products and services and even content you create. Squarespace makes it really easy to get started with best in class website templates for all types of businesses that can be customized to fit your specific needs. Squarespace also provides the tools you need to run your business smoothly, including inventory management, a simple checkout process, and secure payments. And with Squarespace email campaigns, you can build a community of email subscribers and customers. Start with an email template and customize it by applying your own brand ingredients like colors and logo. And once you send built-in analytics, measure your emails impact checkout squarespace.com/built for a free trial. And when you are ready to launch, use offer code built to save 10% off your first purchase of a website or domain.
+
+Huel (26m 41s):
+Today's sponsor Huel started as a passion project Hu's founder Julian was focused on creating the ultimate most nutritious diet for himself. And on his journey he realized how time consuming this was. So he came up with Hue, a shake that makes convenient, affordable, nutrition accessible to everyone. Hue Black Edition is a high protein nutritionally complete meal in a convenient shake. That means it has everything your body needs in two scoops, including 27 essential vitamins and minerals and 40 grams of protein. Not only that, hue Black Edition is vegan, lactose free and naturally flavored. It has zero artificial sweeteners and it comes in nine flavors. The Vanilla Shake is my go-to right now, but there's so much more to choose from there. Flavors like banana cookies and cream strawberry shortcake and cinnamon roll, it works out to $2 and 50 cents for a 400 calorie meal. Get a free t-shirt and shaker when you place your first order by going to hue.com/h I B t. That's hue spelled h u e l.com/ibt.
+
+0 (27m 53s):
+Hey, welcome back to How I Built This. I'm guy Roz, so it's 2001 and Bill has a new job at ESPN and finally his own column. And now he's more than just the Boston sports guy. He's now writing about national sports for a section of ESPN's website called page two.
+
+3 (28m 12s):
+It basically becomes their version of like a higher end sports commentary place. Yep. And they went out and they got Halberstam, they got Ralph Wiley, they got Hunter s Thompson. Wow. God,
+
+0 (28m 23s):
+I forgot about that. Oh
+
+3 (28m 24s):
+My God. But when I got there my goal was like, I wanna, I wanna lead page two when I have a piece. You know, you had that one spot where it's like best piece of the day leads the spot and it was such a rush to be on that page the same day when like Halberstam wrote something or Yeah, hunter s Thompson and the com started to do well pretty much immediately. Like I could tell cuz I had my email address at the bottom and just the amount of emails I was getting, but I still really didn't have a sense for how big it was cuz they weren't telling me anything. And I didn't really fully understand probably until September October when I started asking like, Hey Connect can do this. They were like, great, we'll send you right now. And I was like, oh, I have a little juice now.
+
+0 (29m 5s):
+Yeah. What was it about, because I know you, you mentioned like this experience you had as a younger columnist when you, you went on like a sports show and you were sitting across from like the Boston Globe sports writer and like during a commercial break you're like, Hey, what's your favorite sports scene? And he was like, what? What? What do you mean I don't have a favorite?
+
+3 (29m 24s):
+I forgot about that. Yeah. And
+
+0 (29m 25s):
+That surprised you that like reporters who covered sports were almost like people who covered politics who, who were like, I don't vote. Right. And you saw that and you just, you couldn't understand it.
+
+3 (29m 36s):
+I couldn't understand it, but that's the way it was back then. I understand pieces of it. Like I understand, yeah. You have to stay attached and you have to be objective. Right. But I never understood why somebody would be covering sports if they didn't love sports. And if you love sports you have to have a favorite something. You can't just be an atheist, a sports atheist, basically. You have to have a player love or a team or whatever. And I remember like 2000 and 2001, I must have been to 55 Red Sox games, something like that because I was like, I just wanna be there. I, I feel like just watching this on tv, it's not good enough. Yeah. My whole thing is like, do the work. Yeah. And I felt like I could outwork a lot of the people I was competing against.
+
+3 (30m 19s):
+Especially like I was watching Rick Riley at the time Sports Illustrated and he was an excellent writer and he was just writing one calm a week and you could kind of tell he was phasing outta sports and you could see that with a lot of people as they got older. I even now, like I watch football every Sunday, I watch it for 10 hours. I could cheat and pretend I watch the games and do shortcuts and I don't, people are gonna notice on my podcast. Yeah. I still watch basketball all the time.
+
+0 (30m 47s):
+And you, you watch hours and hours of it
+
+3 (30m 50s):
+Every day. Yeah. I wake up in the morning and I watch fourth quarters of games that I didn't see because Yeah. I just feel like the moment you stop doing that you should just quit.
+
+0 (30m 58s):
+Yeah. But what, what's interesting to me is that like, the way the game has played is you gotta get access and these sports teams, these franchises, they really, they'll punish reporters who, who they don't like. And then yeah. That reporter's punished. They're not getting the same access that the competing reporters getting. And so it becomes a game. It's all stage managed. It's, it's like a White House press conference. It's actually worse, much worse than that because they really do control access in a crazy way. Yeah. But one of the things that, I mean you were doing in your column and have done is like you go after players, you go after owners, you go after coaches and that meant that you I guess just accepted it.
+
+0 (31m 39s):
+You would not get access.
+
+3 (31m 41s):
+Yeah. But it that, and what's weird is that changed and I started getting access. Right. I thought, like when I got to East Pin, I remember talking to John Walsh about this a couple times and he's like, totally be critical, but be fair, don't be mean and don't say anything that you wouldn't feel if you ran into the person basically. Yeah. And I, I look back the stuff in the first five years, I just think sports calm writing was different. It was way more performative. It was a lot like political science actually, where you argue a case,
+
+0 (32m 10s):
+Like what's an argument you would've made?
+
+3 (32m 12s):
+All right, here's one that I actually made. It's probably Mark Archives. You can't win a title with Peyton Manning. Brady is Bill Russell and Peyton Manning's Will Chamberlain, he is gonna put up these records but he can't actually win. So
+
+0 (32m 23s):
+Really started out as like a conversation you just had with friends on the sofa. Like Peyton Manning can't, he's never gonna win a a championship. Tom Brady. He is going like,
+
+3 (32m 32s):
+Yeah. Or a Coach X is terrible. Right. But the other thing is, you know, I'm always trying to stand out and I just want people to come back to read me and the only way they're gonna keep coming back is if I'm unpredictable. It can't just be like, here are my top 20 trades. It's like, what's the extra hook? What's the extra gimmick? So I would, I use pop culture for some of it. I like, I used to do like N f l preview of the season. Instead of just doing my preview, I would do quotes from Dazed and Confused and I would hand out the quotes to different things that I think would happen. And it was like all about like that next layer of how can I get you to come back cuz you don't know what I'm doing next.
+
+0 (33m 11s):
+You went to, you moved to LA in 2002 to go work as a writer for Jimmy Kimmel's show. He was a fan of your column and I guess he was trying to get you to, to move out there and Yeah. And I was wondering how ESPN let you do that. But of course they're both Disney companies so I guess it was okay. Like they were like, yeah, sure, keep writing because they were your employer, they were paying you, but they like sort of allowed you to go and work for Kimmel as well.
+
+3 (33m 33s):
+Yeah, I, I felt like I was starting to worry about my column. I always felt like my column was a gateway to do something else. Never felt like it was sustainable in a real
+
+0 (33m 44s):
+Way. And something else. Like what? Like writing movies,
+
+3 (33m 47s):
+Writing scripts, working for a TV show. Like, and I also felt like it wasn't sustainable the way I was doing it. I felt like a wrestler that is doing these crazy bumps every night. And it's like, now I'm jumping from 20 feet instead of 15. And yeah, I was writing 10, 11,000 words a week and it was unsustainable. Like I really started a burn out and Jimmy came along, I'd been in the East Coast my whole life and I think my wife and I were just like, we were like, fuck it. Let's, yeah, let's go, let's do this. So I talked to espn, John Skipper was running the content side at that point. He wasn't running all his pin yet. And he handled it so well and was so cool about it that I was loyal to him after that, like with anything.
+
+3 (34m 29s):
+And he, so he let me do it and we moved to LA in November,
+
+0 (34m 32s):
+Moved to the Lions den, the home of the hated Lakers. The LA of Beat LA Yeah.
+
+3 (34m 37s):
+I went to a Laker game I think like two weeks after I moved here and it was eye-opening and it was Kobe Shaq, it was the Staples just, yeah. Humming on all cylinders. There were celebrities all over the place.
+
+0 (34m 53s):
+Jack Nicholson. Yep.
+
+3 (34m 54s):
+And I, I was like, this is kind of cool. I kind of get it like, this is so different than Boston, but I, I kind of get
+
+0 (35m 0s):
+It Better food.
+
+3 (35m 1s):
+Yeah, definitely better food. No question.
+
+0 (35m 3s):
+How was it working for Kim? How'd you like that?
+
+3 (35m 5s):
+I mean, I loved him. Yeah. And I learned a lot and working on a TV show, it was the only time, other than working in a restaurant where you felt like you're really part of something, you know, writing is, I'd been on my own for five years at that point, just writing my own stuff, relying on myself, being by myself. And it was so great to be with other people and, and really funny people. Like the funniest people other than maybe like two friends I had Yeah. That I'd ever met. And all we were doing was just giving each other shit and making jokes and trying to figure out how to help Jimmy create this show from scratch. It was just the coolest experience.
+
+3 (35m 46s):
+And I think for me, the, the issue was when I moved out to LA I didn't realize that my column was kind of making the impact that it did really until I moved to LA and all these different people were talking about it and people were trying to be, you know, by AJ and all these different things.
+
+0 (36m 2s):
+Yeah. You didn't know. You had no idea like what the reach was really.
+
+3 (36m 5s):
+I knew a little, but the recurring refrain from everybody was why would you give up that column? You were the number of guy at espn. Like that's, that was one piece. And then the other thing was I really missed the column and I, I really missed writing. It was the first time I just felt like I was doing a shitty job writing it. The Jimmy job was all in every day and I felt like the writing was gonna slip away. Hmm. So I, that was when it started to plant in my head, like, wait, did I make a mistake? And I worked for the Chauffeur I think a year and a half. And there were nights where I'd get like one joke on. Yeah. You know, and you're just like, man, what did I do today? Right. And espn.com was growing and I had a chance to come back and be like the guy on the website.
+
+3 (36m 50s):
+Yeah. You know, and yeah. And I just felt like I had refueled my batteries a little and I was just like, I gotta give this one more chance.
+
+0 (36m 60s):
+I know you, you decided to stay in LA Yeah. And you're back writing for ESPN and, and I know you, you put out a book at that time. But I wanna, I wanna sort of get a sense of, I mean you are like lifestyle, right? Like, which involves a lot like watching a lot of sports like that never really changed.
+
+3 (37m 19s):
+Yeah. The oh four, I was kind of back to where I was three years before in Boston, but way better at knowing how I had to do stuff. And it was a really fun year. Like I really felt like I went up a level as a writer and I was watching the Red Sox were on all the time. And then the Red Sox turned out to be the famous team. Yeah. And it was great. It was probably one of the two or three best moments of my career. Like being able to write all the time during that journey and going to the A L C S games in Boston Games four and five and being able to write about that that night, which I still was like probably my favorite piece I ever wrote.
+
+0 (37m 55s):
+Did you go to the World Series that year? 2004.
+
+3 (37m 57s):
+I went to the two home games. Yeah.
+
+0 (37m 59s):
+Wow. It was amazing.
+
+3 (38m 1s):
+Yeah. I had, I remember I was pretty burned out cuz I was writing a lot and the games were late. I mean, there was one day where I just didn't feel like I had another piece of me and this guy John pk, who was the east pin.com editor at the time, we were talking about it and I was like, I think I'm gonna skip today. Like, I, I just, I got nothing left. Like I need a day off. And he is like, you can't take a day off. Like everybody is reading these pieces every day. Yeah. This is the biggest story in the world. You're all over the place. Not only America but other countries. And he was like, isn't this what you always dreamed of? And the way he put it, it was like, honestly one of the best speeches anyone ever given me.
+
+3 (38m 43s):
+Mm. And I was like, he's right. What am I complaining about? This is everything I ever wanted. So I wrote the piece that night. Hmm.
+
+0 (38m 52s):
+I wanna jump ahead to, to 2007 cuz I think that's an important moment. And I remember at that time I'd just come back from being overseas for almost seven years and there are these things called podcasts, which is Yeah. You know, when you had to plug your iPod into your computer and it would download to your iPod and I mean, it, it was interesting but it, it seemed really niche, right? Because in 2007 podcasting was like, it was, it was Prestone age, right? Yeah. And I think this is roughly the point where you started expanding your role at ESPN beyond just writing and into things like podcasts and documentary series. But, but why, why did you wanna do that?
+
+3 (39m 32s):
+Yeah, so I was really aware of this has a shelf life. People get tired of writer's voices. Yeah. I'm gonna run outta things to say at some point I gotta start adding stuff. Like what's, what's next? What are the next iterations for me? And I had been messing around with scripts and things like that, but that I had, my contract was coming up the beginning of oh seven and Yahoo was trying to get me to jump over, which I didn't wanna do cuz I was really loyal to Skipper.
+
+0 (39m 59s):
+Skipper was the guy who was running ESPN
+
+3 (40m 1s):
+Skipper is running content. He wasn't running all ESPN yet. We went to the Rose Bowl and then we talked outside his hotel and he had offered me a figure that was more money than I ever thought I'd make in my life. And yet I still felt like I was worth 25% more. And I was like, look, I think I'm worth more and here's why and here's what I wanna do going forward. Like I wanna start adding stuff. Like I really like, I feel like I can have a bigger impact on the company than just with the column. And he was like, I'm in. So within the first couple months I sent them the long memo, about 30 for 30. And that was in the, that was in the spring right around the same time of the podcast.
+
+0 (40m 42s):
+And 30 for 30 was obviously people know them as documentaries, but you had this idea to do 30 documentaries to commemorate the 30th anniversary ESPN 30 sports documentaries.
+
+3 (40m 53s):
+Yeah. And it even went, it went a little deeper than that. We had our anniversary coming up in 2009. I had the title 30 for 30. And I was like, look, HBO owns a documentary space right now for sports. We're letting this happen. Yeah. And so that was part of the framework. Let's steal HBO's Corner. So we started developing that like a month after I saw, I was on the website and they had this, it was like an NBA podcast.
+
+0 (41m 19s):
+It was on the website. You clicked on it,
+
+3 (41m 22s):
+It was on the website. So I pressed play and something weird happened and all of a sudden they were playing this show and it was, I think it was Chad Ford talking to Danny H and Danny h talking about Boston in the draft. So listen to the whole thing. And I, I was like, I don't understand what that was. So that was, was that a show? Was that like an interview in the locker room, but like, I kind of loved it. How do I get one of those? So I emailed the p n I was like, whatever that podcast thing is, can I have one? And they were like, really? And I'm like, yeah. So they were like, all right, we'll send you some equipment. And then I started to think about, all right, what would I wanna listen to? You know, I didn't know how to interview anybody and what I wanted to listen to is not awkward interviews with people I wanted to listen to like chemistry.
+
+3 (42m 9s):
+And so I'll have my buddy Jacko come on to talk about the Yankees versus the Red Sox. I'll have my buddy Jacoby come on to talk about the real world and the news season that's happening. It was a combo of that. Or like information stuff with people like Rick Buer and Mark Stein like,
+
+0 (42m 27s):
+And even though nobody was, nobody was listening. I mean you were doing it for an audience of a tiny number of people.
+
+3 (42m 33s):
+I disagree. I don't, it was on the website. So I do think people were listening to
+
+0 (42m 37s):
+It os on the web. Okay. It was on the, so people were streaming it. They weren't listening
+
+3 (42m 40s):
+To to it. It wasn't buried. Yeah. They were streaming to it.
+
+0 (42m 41s):
+Okay. I gotcha.
+
+3 (42m 43s):
+Whenever the Apple infrastructure kicked into place with the charts, I remember I was always like one of the top three podcasts. Yeah. But there really weren't a lot of podcasts. It was like me and Mark Maron and yeah. A couple others. But the thing I wasn't prepared for was all of a sudden celebrities wanted to come on and that started like oh nine. Like I remember Seth Myers and I were emailing about the Steelers or something. He is like, yeah I thought Jacko was so funny talking about bla. I'm like, you listen to the podcast. Like I was just like stunned that people listen to it. He's like, yeah, come on anytime you want. I'm like, you will. So I could feel like momentum with it. Yeah. I had so many things going on that I was like just thrilled about.
+
+3 (43m 24s):
+Cuz I still had my calm. But I had 30 for 30. We were in the throes of that. And then I had the podcast, then I had this basketball book that I was like, this is like my one chance to write this book. Yeah. So I was like, I just felt like this is my moment. I'm grabbing it.
+
+0 (43m 39s):
+But in the midst of all this tension begins to really build between you and certain managers or editors. Like Yeah. In 2008 you got a dispute
+
+3 (43m 49s):
+End in 2008. Yeah.
+
+0 (43m 50s):
+You stopped writing the column for a while. What were they about? Was it mostly about like what you wanted to write, what they didn't want you to write? What were the arguments about at that time?
+
+3 (44m 0s):
+The catalyst, and I'm not saying I was a hundred percent great in all of this and that there's some things that I think I could have been more mature about, but the, the first real catalyst was when they canceled the Obama podcast.
+
+0 (44m 12s):
+What, what was that? Tell me that story. Yeah. I don't know that story.
+
+3 (44m 15s):
+Yeah. So spring of 2008, Obama was clearly headed to propagating the Democratic nomination. Yeah. And Obama's gonna come on my podcast and to me it was like, this will be the greatest thing that ever happened to my podcast. Yeah. I also thought it had a chance to be the first important podcast ever cuz nobody of any real substance had ever done a podcast. Right. So I was like, this would be like a transformative moment for me for podcasts, the whole thing. And ESPN squashed it and they squashed it for reasons that what, why I didn't fully understand. ESPN was very worried about
+
+0 (44m 53s):
+Bias
+
+3 (44m 53s):
+Or seeming like they were biased one way or the other with Democrats, Republicans, whatever it was. And they were just like, well you'd have to have equal time with the Republican thing. And and I'm like, but that's not gonna happen. Like, I have a chance to talk to Obama.
+
+0 (45m 6s):
+And also he's a sports fanatic. Yeah.
+
+3 (45m 9s):
+So I took that one really hard and then there was some other stuff behind the scenes that I was getting frustrated by. And yeah, they'd hired Rick Riley and it was after they had signed me and he made way more money than me and I just couldn't believe it cuz I was more important to them than he was. It became a respect thing to me. And it all led to, like, I told them like, I'm taking eight weeks off and I'm gonna work on my book. Hmm. But I was like ready to quit by the end of 2008. And we had this come the Jesus moment in the the new la la building. They were meeting with me and Skipper and Walsh and within five minutes we figured everything out. And my issue was that I just never had a real conversation with 'em about it. I was getting quietly frustrated thinking they knew what was going on and
+
+0 (45m 51s):
+They didn't.
+
+3 (45m 52s):
+And they didn't. And that was a good lesson to me as a boss eventually down the road was like, you can't assume that the people that work for you know everything
+
+0 (46m 2s):
+That's in your
+
+3 (46m 3s):
+Head. And you can't assume that the people at the higher ups know everything that's going on. And the best way is just to communicate with them. And a lot of people don't realize that. So anyway, it all, we ironed all that out and 2009 was like one of the best years I ever had for them
+
+0 (46m 18s):
+That year. Your book comes out Tops New York Times bestseller list,
+
+3 (46m 23s):
+Which is, and 30 30 came out three weeks before the book.
+
+0 (46m 26s):
+Right. But you also still, I mean you were working for them so ultimately, like you were accountable to them. Like they could, they could hold you accountable and punish you. Like they, you sent out some tweets that were critical of a, a sports station in Boston. They didn't like that. So they suspended you from Twitter and they could do that.
+
+3 (46m 45s):
+Yeah. I guess my issue is maybe I didn't fully realize sometimes the impact, you know, I, my profile went way up in oh nine,
+
+0 (46m 53s):
+So whatever you would write would get scrutinized more. Yeah. Yeah. And also because you are an employee or were an employee of espn from their perspective, whoever has that espn.com email address or who's writing under their umbrella represents them.
+
+3 (47m 9s):
+Yeah. But, and by the way, they're right. Yeah. They should feel that way. Like, I'm working for those guys. They're paying me a salary and benefits and all this stuff and I'm representing their company. And and that was something I feel like from oh nine on, there's like a six, five year stretch there where I really felt like I loved working for that place. Yeah. You know, I hate, hate the Yankees, but they were like the Yankees. They were the best. And I wanted to be at the best place read by the most people. Hmm.
+
+0 (47m 37s):
+One of the things that a lot of people really knew you best for was, was Grantland. Right. This is a, a multimedia website that you basically put together in 2011. And it was part of E S P N and it was part of espn and it was, it was amazing. I mean, you had Chuck Klosterman and Wesley Morris and Colson Whitehead, just an incredible writers Yeah. Writing for Grantland on sports and, and pop culture and, and it became a hugely important like cultural touchstone for espn. Yeah. Anyway. And in 2011, I guess you wanted to start it, right? So you, what did you do? You met with John Skipper who ran content at At the espn
+
+3 (48m 14s):
+Yeah. Skipper and I went out for drinks and I just was like, I have this idea, I wanna do this website. And
+
+0 (48m 21s):
+You were close with him. He was super close to the John Skipper.
+
+3 (48m 24s):
+I was. And I was like, I wanna do this sports culture website. I feel like from a writing standpoint, everybody's doing blogs, everybody's writing shorter stuff and I feel like there's a zag that could be had here. I think there's a lot of good writers out there. Yeah. One of the things with me was I always kind of knew who the other good writers are, are the people that weren't getting enough of a chance because I'm competitive. So you look at people like, oh shit, that person's good. Watch out for them. And, and so sketched out this whole sports and pop culture site, cuz I felt like everything was like, you're a sports site, you're a basketball site, you're a movie site, you're a pop culture site. And I was like, you know what?
+
+3 (49m 5s):
+Honestly, people who read my column, they're just as likely to care about the Sopranos as they were, would be about the NBA draft. Yeah. And I was like, there's gotta be some sort of vortex for all this stuff. And I felt like page two at that point had really kind of missed it. Hmm. Editorially. And some of the hires, like they, they just, they didn't crack the code. And I, I felt like I could, and I was really influenced by the national and inside sports specifically Yeah. And Spy magazine. Yeah. And late seventies Rolling Stone. I, I feel like that's sitting there for somebody and I wanna do it. I wanna do it with you guys. I wanna create this place
+
+0 (49m 43s):
+That was gonna be a massive investment because you are, I mean, you're essentially getting like Vanity Fair quality writers for this website. It was gonna be expensive. It was go, you gotta pay those writers to write that stuff.
+
+3 (49m 57s):
+I, so I'm gonna disagree. Okay. All right. One of the big premises of Grantland was that we weren't gonna do it that way. Hmm. And I actually went back and I studied a lot of these different places. I put real thought into it. One of the mistakes that they made was, you know, they would blow a really all their budget on like expensive writers who were in their primes or even a little past their primes. Yeah. You know, if you look back at, at the people that succeeded for Grantland, it was all people that for the most part were the up and comers. It was Rember Brown, it was J Kang, it was, we had Huu, we had Bill Barnwell and Zach Lowe, and we had Katie Baker, you go on down the line.
+
+3 (50m 38s):
+We just had over and over again, we're able to find really, really good, talented young people, Jonathan Abrams, et cetera, et cetera.
+
+0 (50m 46s):
+And this was really, I guess 30 30 was kind of like this, but this really was the first time you were managing people. You were, you were running a team of people.
+
+3 (50m 56s):
+Yeah. That was, which was I was ready for in some ways cuz I watched Jimmy do it and I watched how we did the 30 30 stuff. Yeah. I also, I really believed in what we were doing. And to me, it wasn't just a writing site. And I think as the years pass, I think people miss some of it. What Grantland was trying to do, because like, we had a podcast network before anyone did. Yeah. We had a deal with YouTube. We built this little studio that we were cutting all these different videos that we were doing. We were doing March Madness pre-game shows live for my house. And there was an energy to some of the stuff we were trying that I think we were trying to become a digital content epicenter for espn.
+
+3 (51m 39s):
+We were trying to become this playground for them that they didn't have. And I've, I feel like we did that and Grantland broke even, but we should have made more money. We had nine of the top 10 podcasts at ESPN during a time when podcasts were starting to make real money and they didn't know how to monetize it.
+
+0 (51m 56s):
+They didn't know how to monetize
+
+3 (51m 57s):
+It. Yeah. They gave it away. I I mean they, they sold all of our podcasts advertised in the subway for $750,000 a year. Right, right. When we had, it was easily six, seven, 8 million worth of advertising we could have gotten from the pods at that time. Right. So I was getting really frustrated because you have to grow, you have to, like, we didn't have a social media editor. We didn't, we were missing all these things. And I, I could just see the finish line. I just knew like we were headed toward a bad place and it was getting more and more frustrating.
+
+0 (52m 27s):
+I, I wanna ask you about the tension continued. And I feel like, and there's not a dig at you, I'm just curious. It's not a dig, it's maybe a critique. I'll take the dig. Okay. I feel like you were sometimes trying to stir up shit and not just about like players or teams, but about like, I mean, you posted tweets that were critical of another ESPN show first take. Yeah, I did. Maybe they deserved it, but like, ah, why would you do that?
+
+3 (52m 53s):
+At that point I felt like I was team ESPN and I really, really cared about Mm. I felt like we were winning. Yeah. We were the dominant sports platform. And that show that day I was watching, it was first take, it was Richard Sherman. They brought on to debate Skip Bayless, who is one of the hosts. And it was just this really vicious segment. They went at it in a nasty way and it was content that I thought like was beneath us. Hmm. And should I have sent an email over a tweet? Sure. Yes.
+
+0 (53m 23s):
+But
+
+3 (53m 24s):
+It really came from like profound disappointment. Yeah. And should I have said that out loud? No,
+
+0 (53m 30s):
+Fair enough. All right. I mean, so you've got, I mean, the thing is like grant land, right. It wasn't profitable, which I don't think is, is a problem at all because it was certainly, it was culturally important and it brought people into ESPN who would otherwise may not have come into espn. Did espn did you feel like they recognized it, but you
+
+3 (53m 49s):
+Realized like, the profitable thing is insane to me. Okay.
+
+0 (53m 51s):
+No, I know, I know. You're hung up on that. It doesn't matter.
+
+3 (53m 54s):
+No, no, no. But that was a criticism we took and it's like, wait a second. Yeah. We're a startup inside a company that makes billions and billions of dollars. Right. We're bringing in an incredible amount of talent where in the forefront of all these things that they should care about going forward. Like podcasts, like streaming video. Yep. And you're worried that we break even, right? Like, we're doing great and we should be making more money than we did. So I was always like, what is that criticism?
+
+0 (54m 19s):
+But did they value it internally for like the cultural impact that it started to have? Did you feel like people at e s ESPN are like, Hey Bill, like we're getting like, you know, more women coming to this side and we're getting like, you know, younger people. Like was anyone saying that?
+
+3 (54m 31s):
+I think Skipper felt that way. I think my big mistake tactically was ESPN is a huge company and most of it's set on the East Coast. And I think the success we were having over on the west coast, we didn't wanna deal with anybody else. We were just doing our thing.
+
+0 (54m 47s):
+Oh, they hated you guys
+
+3 (54m 48s):
+For that. Yeah, that we had e s p, the magazine that, you know, I left and we had espn.com that could kind of control whether they sent us promotion or not. And they always considered us as an adversary. So it started to feel like we weren't on the same team. Hmm. You know, I look back, I was definitely doing too many things and I think when you're doing too many things, you just feel like you're on a hamster wheel and you're mad at everybody half the time. And for me, I was like, I was running Grantland. I was right in my column. I was doing my podcast, I was on NBA Countdown,
+
+0 (55m 22s):
+Which is television On tv. Yeah.
+
+3 (55m 24s):
+It was the basketball show that's before and after the games. Yeah. And I was doing 30 for 30 with Connor and John Dahl. And it was like that. I look back and that was like insane. Why was I working like that?
+
+0 (55m 35s):
+It all kind of comes to a head in 2014. You are on the podcast, the BS report. Yeah. And went after Roger Goodell, the NFL commissioner for, he had said, basically said that Ray Rice, the player for the Ravens, he who's videotaped beating his wife Goodell, said that they weren't aware of it or they didn't know about this or something like that.
+
+3 (55m 55s):
+And they did. They knew the rices told them. Yeah, no, he lied.
+
+0 (55m 59s):
+And you, you went after him and you called him a lying liar sec of lying, lying, lying, et cetera, et cetera.
+
+3 (56m 5s):
+I don't even think that's what got me in the most trouble. It was that I, I stupidly dared ESPN to like, and if you think I'm wrong, you know
+
+0 (56m 14s):
+Oh, you dared them. You said, if you think I'm wrong or fire me or
+
+3 (56m 16s):
+Whatever. Yeah. It's like, yeah, come get me. But
+
+0 (56m 18s):
+Why explain why ESPN would've been worried about you calling Goode liar. I mean they're an independent sports network. Why? Why would they care?
+
+3 (56m 26s):
+I think there was a tone I had in that that went probably too far.
+
+0 (56m 30s):
+But I mean, they they called your bluff though, right? I mean ESPN suspended you in 2014. Yeah. I mean in some ways they kind of had to because it's like when the star athlete starts going after the owner of the team. Right? The owner of the team has to decide, well am I, you know, am I gonna,
+
+3 (56m 47s):
+It was stupid. It, it was a mistake on my part. But I think that thing that really got me was that I got suspended without pay for the first two weeks. Hmm. And I, I already felt like I was underpaid for them and I was killing it for them. And it was kind of irreparable after that. I think everybody kind of knew where it was going, but it was, I was really loyal to everybody at Grantland and what we had created and I didn't want it to affect Grantland. So I was Yeah. Publicly, I was just trying to make it seem like everything was fine. Yeah. I'm still doing my job, but it was just getting unsustainable.
+
+0 (57m 20s):
+Why don't we come back in just a moment how Bill branches out on his own and discovers the joys of not having a boss and all the frustrations of being one stay with us. I'm Guy Ross and you're listening to How I Built This.
+
+Miro (57m 42s):
+How do you show an idea living in your head to the outside world with Miro? It's so visual and easy. We actually rely on it heavily for this show. For those of you who don't know, Miro is an incredible visual collaboration platform. At first glance, it might seem like just a simple digital whiteboard, but Miro is much, much more than that. It's an infinite space where your team can build on each other's ideas and create something great together. No matter where your teammates are based. Pick from thousands of templates to get started. Like a quick brainstorm user journey map or flowchart. Our team loves Miros mind map for thinking about future episodes. We also use Miros Swim lane diagram to cut out any confusion on who needs to do what. By mapping out processes, rolls and timelines. It just builds consistency when we all have this one source of truth. And by the way, we have a How I built This Community mural board, which we'd love for you to contribute to. Head on over to miro.com/built to tell us who you'd like to hear from on the show. And leave your thoughts with sticky notes, comments, reactions, and more. That's Miro m i r o.com/built.
+
+MasterClass (58m 49s):
+With masterclass, you can learn from the world's best minds anytime, anywhere and at your own pace. You can learn how to play tennis from Serena Williams, improve your singing with Christina Aguilera, or learn about self-made entrepreneurship from Spanx founder Sarah Blakely. With over 2,500 classes from a range of world-class instructors, that thing you've always wanted to do is closer than you think. I love to cook. So one of my favorite classes to recommend is the one taught by the chef Alice Waters. She's the founder of Sheez Panis and the pioneer of the Farm to Table movement. Her masterclass teaches the art of home cooking with amazing insights on selecting seasonal ingredients, building a home pantry, and essential tools for the kitchen. I learned so much from this legend and you will too. I highly recommend you check it out, get unlimited access to every class and as a How I Built This Listener, you get 15% off an annual membership. Go to masterclass.com/built now. That's masterclass.com/built for 15% off masterclass.
+
+0 (59m 56s):
+Hey, welcome back to How I Built this. So it's September of 2014 and Bill is suspended from ESPN for three weeks. And even though he'll eventually go back to work there, it won't last for long.
+
+3 (1h 0m 11s):
+So I get suspended. Yeah. And one really interesting thing happens that I wasn't prepared for everybody is reaching out with some sort of business idea or hey, when you leave can, and I'm hearing from like rich guy circles and people I didn't even know
+
+0 (1h 0m 28s):
+Like, come I'll invest in you. Start something new.
+
+3 (1h 0m 31s):
+Yeah. Start. If you're gonna start something new, can we talk Wow Or Hey I'm, I work for here, we will take you tomorrow. So it was weird. On the one hand, it was the worst professional experience in my career and really, really devastating to just like, I felt so bad for the Grantland people because I had like 50 people underneath me and now all of a sudden everything's in flux and I have to figure out how to manage that and handle that.
+
+0 (1h 0m 56s):
+You felt bad, you, I mean you didn't walk outta there like screw these guys. I'm you like, actually were quite sad during that time.
+
+3 (1h 1m 3s):
+Oh yeah. Really upset. Like we, when I finally went back to work, we had a meeting and we had all of our staff in there and Dave Jacoby, who I was really close to who ran audio and video for us. He basically had to talk for me because I couldn't talk. I I was so upset. Yeah. So that, that was the shittiest part. But then the flip side of that was just all these people that came out like, Hey, if you're ready to get outta there, like here I am. And
+
+0 (1h 1m 32s):
+But that was surprising to you. That was the fact that people came to you that got you thinking, well maybe I could do this, maybe I could like leave this home, this place that I've been at for 14 years.
+
+3 (1h 1m 42s):
+Yeah, I, I mean look, it was the amount of people and it was the types of people like famous investors and people, right? And I was like, holy shit. Like, and we talked, my agent talked to Skipper and we were transparent about like, hey, bill has a chance to like start his own thing. Yeah. Like there's no question he could go out and do that. Is there a way for me to stay Maybe Grantland, he, we go 50 50 on Grantland going forward where he gets a stake in that and so on and so on. And we did talk about that a little bit, but there was so many people trying to undermine me and Skipper at that point that it just wasn't gonna happen. And then wow, they had a whole plan for Grantland. They brought in Chris Connolly to be the editor who wasn't really involved with Grantland and I don't feel like Grantland should have been done in six months.
+
+0 (1h 2m 25s):
+Yeah. Cuz it lasted six months after you left
+
+3 (1h 2m 29s):
+Six months and the culture became so bad so quickly that people started to leave and then you could just see the Redding and the Wall. But like the stuff that we built for them, the writers that we had, we had nine of the 10 biggest podcasts that they had. We had this whole YouTube digital culture. We had a huge video library for them. We were in the middle of all the places you need to be. It's
+
+0 (1h 2m 51s):
+Totally crazy to me that they would've just let that IP evaporate like that. It's crazy.
+
+3 (1h 2m 56s):
+It's actually an insane business decision. And you think like
+
+0 (1h 2m 59s):
+It's an insane business decision,
+
+3 (1h 3m 0s):
+Just sell us to somebody else. But they honestly thought that they could just take it over and it would be fine. But that's what you think when you have people that aren't creative in leadership positions. Yeah. Where they just think, oh we'll move somebody else in. It's like, that's not how this shit works.
+
+0 (1h 3m 15s):
+When you finally left, were you like energized? Were you like, yes, I'm gonna start, were you kind of sad?
+
+3 (1h 3m 22s):
+Well the way it went down was terrible. There was this other thing that happened the day before they announced that they weren't renewing my contract where I went on Dan Patrick's show and they asked some question about Goodell Dan Patrick did. And I made a joke about like I, I'm not sure he has, what's the phrase? The, the ticker fortitude, whatever. But everybody's like hypersensitive to any sort of me versus Goodell that they could put in a headline. So people write the news story. Right. And Skipper saw one of the news clips and and he got mad and then I got mad that he got mad and they had been planning to have me on the NBA draft again cuz it had done really well. And I emailed them, I was like, Hey, you know, I'm so, I'm pretty busy.
+
+3 (1h 4m 3s):
+I I've decided I'm not doing the draft. And that was when they just, they leaked to the New York Times that they weren't gonna renew my contract. Which at that point I knew I wasn't coming back. They knew I wasn't coming back. But we could have handled it I think on both sides with some dignity and they just didn't. And it was just like, this sucks. I can't even go into the office and say goodbye to everybody I worked with.
+
+0 (1h 4m 26s):
+When you left ESPN and you started to think about what you could do, you were already kind of thinking about it. You had this blueprint, you had Grantland, it was a pop culture site, it was YouTube, it was podcasts. And podcasts were really what Yeah. Was generating most of the, the revenue Was that in your head? You were like, we I know what to do, I know how to create something like this.
+
+3 (1h 4m 47s):
+Yeah, so there were two separate things going on. One is I knew I wanted to do The Ringer as a company and I had the four people from Grantland that eventually we all decided to work together that would help me build the website. And I knew I was gonna make real money for my podcast that would be able to help pay for anything. But I was trying to figure out the TV side of it and the thought was like, could I get heavily involved with HBO sports and could I create an interview show for them? And you know, went down that path. And I, I think the mistake looking back was I was so mad at how the E s pin thing ended that I just tried to do everything all at once and it was both things suffered. I think, you know, I definitely wouldn't, wouldn't do it that way again.
+
+0 (1h 5m 28s):
+Why didn't the H B O show work in your view, by the way? You did it for one season?
+
+3 (1h 5m 31s):
+Couple reasons. I never a hundred percent figured out what it was cuz it was basically an interview show, which I wanted it to be an interview show. I had so much success with my podcast with the long form interviews. Hmm. That I was like, this should be a TV show. Yeah. What I didn't count on was that it's just more fun to listen to a podcast. You can listen to it on your own time, you don't have to watch it. Right. So I never cracked the code and I was so bummed out about it and I really felt like, how did I fuck this up? Like it had been my first like big failure in a while. Yeah. And part of it was I'm not a comedian. I, I think to have a show like that you have to have some sort of comic background in some way. But, but really like the talk show is kind of it, it's this era of like eight, nine years where it's kind of dead from a TV standpoint.
+
+3 (1h 6m 18s):
+Right. And my show ended up being one of, I would say 20 shows that didn't work. Yeah. Especially sports driven talk shows. There's really no record of them working the last 15 years. Yeah. I was like, I'm gonna change that. And it was stupid.
+
+0 (1h 6m 33s):
+Did that in any way like shake your confidence? Cuz you know, you left espn, you were big star there and probably there's some people who are like, hahaha, his HBO O show didn't work.
+
+3 (1h 6m 42s):
+Oh, there was definitely, I mean there was two things. One, when I left espn, everybody's like, you can't leave the Nest. Yeah. ESPN's the reason you succeeded, you can't leave. Yeah. You're gonna fall apart. And then the second thing was stuff built around, you know, like one person at the forefront. Like businesses, there was not a lot of big track record at the time. So when the H B O show failed, I think a lot of people, there were some pieces, I saw a couple of them that were really nasty like, oh, now it's over. And I was like, this is definitely not over. Like I will, I knew we had some good ringer stuff and I also knew like, I'm gonna figure out some different way to make an impact.
+
+0 (1h 7m 19s):
+Hmm. Okay. So you're building this media company called The Ringer and it was gonna be sports and pop culture and podcasts and videos and writing. Yeah. And, and one thing I'm curious about is you had worked for ESPN for 14 years and they were really running the business side. Like you weren't controlling it. Right. But now you are the c e o of a company. Right. And so yeah. How did you, I mean the, the learning curve is steep, right? I mean you, you had run a team at espn but running a business in addition to that is a A different beast.
+
+3 (1h 7m 54s):
+Beast is a great word. It's the single hardest thing I've ever had to do. Yeah. I never really wanna do it again. I can't possibly describe how hard it was. I think I blacked out a couple times during it. You're making decisions on every single conceivable thing and you're missing some stuff too. Like even with The Ringer. Yeah. I don't even think we had HR for the first like year and a half, which is absolutely insane to me now. But you're just trying to survive. You're basically like you're Tom Hanks and Castaway. You've built your little raft and you, your goal is to just get over that first wave and you get out there and then you're like, holy shit, now what?
+
+3 (1h 8m 36s):
+And you're just thinking like, all right, health insurance, how do we do that office? How do we do that? Oh we need desks. How do we do that? Oh my God, who's gonna be our accountant? How do we do a website? Who's gonna host it for us? Do we build it ourselves? Do we spend 5 million on a website that we knew in 2015 website behavior and websites were shifting into something else? Yeah. We didn't know what that was yet. People's attention spans were getting shorter. Yeah. So we knew the Ringer had to be different than Grantland. We couldn't have 7,000, 8,000 word pieces anymore. How do we do SEO with Google?
+
+0 (1h 9m 10s):
+And you were trying to do this initially with a team of like four people, right?
+
+3 (1h 9m 13s):
+Yeah, I had four people and it was four people that I worked great with at Grantland. And that was the big thing I learned at Grantland was like the team part of it is so important. So with The Ringer, we had four people that I felt really good about. Sean was our number two at Grantland and he was ready to run Grantland by like year three. Hmm. And just editorially he got it. So that was fantasy. Chris Ryan was like a really good ideas guy for sports and culture and worked great with all of us. Mallory was like the best young editor we had and just like into Fatiguable work ethic. And then Julie Lipman was young but like a go-getter and just like a problem solver.
+
+3 (1h 9m 52s):
+And really from November on we rented this house in this kind of crappy part of Hollywood and we just tried to figure out what do we wanna do? How are we gonna be different from Grantland? Everyone's gonna pair this to Grantland. Yeah. How is it gonna be different? Yeah. Who do we wanna get? What talent do we like? How do we do podcasts? We did the first like five months from my house, it was my podcast and it was the watch with Chris and Andy. Yeah. And they would just come over. They, they would just get into my house. They knew the code, they would go in the back, they would record. Everyone was over all the time in my house. My kids just got used to it. My dogs got used to it. And I think quickly we realized the podcast piece of it was the meal ticket.
+
+3 (1h 10m 34s):
+Just because
+
+0 (1h 10m 35s):
+That was financing the whole operation.
+
+3 (1h 10m 37s):
+Not all of it, but a lot of it cuz we, we were a couple years ahead of people on the podcast front. Yeah. And by the time the competitors came
+
+0 (1h 10m 45s):
+You had a structured ions. Yeah.
+
+3 (1h 10m 47s):
+We were too established. Yeah. So we, and we found a lot of talent. Like even like we had the Pod save of America guys. That podcast started with us. Right. They started with 16. Right. And on the way through we, we developed a lot of stars and a lot of people that we elevated. So I'm really proud of that part.
+
+0 (1h 11m 2s):
+And making those podcasts wasn't expensive.
+
+3 (1h 11m 5s):
+No. Wasn't expensive. And then the big thing for me is did we want VC money or not? Yeah. And they were just these extra people you had to have in your life. And they had money and they had expertise, but they also had expectations. And for us, like we met with Benchmark who I thought was really smart. And Bill Gurley, who's a great guy, he said something to us at one point, he's like, when we invest, we expect to make like 10 times what we put in. Right. And do you think The Ringer can be espn? And all of us kind of looked at each other and then we talked about it after and we were like, we're not not sure we wanna be espn. We wanna be a place that finds talent and push this talent up a level.
+
+3 (1h 11m 48s):
+And we wanna do great sports content and great culture content. But do we wanna be like Yahoo? Like No.
+
+0 (1h 11m 56s):
+Right. Ultimately you did raise money.
+
+3 (1h 11m 59s):
+Yeah. So it was HBO put in 5 million bucks as part of they didn't want me to do the Ringer. Right. They wanted me to do the TV show and that's it. And I was like, you don't understand I, I'm doing The Ringer and I have to do the ringer. And it Yeah. It almost stalled the deal. So they're, their perspective was, well if you're gonna do this, we wanna have like a small piece of it. Yeah. And we evaluated it at, I don't know, some bogus number. I think it was 50 million or a hundred million and they put in 5 million and they got 10%
+
+0 (1h 12m 26s):
+Of it and that was it.
+
+3 (1h 12m 27s):
+And that was it.
+
+0 (1h 12m 28s):
+You didn't raise any subsequent money after that? No, nothing.
+
+3 (1h 12m 31s):
+I knew that I could pay for stuff with the podcast and I had, you know, I had money from the HBO deal. I made a lot of money at ESPN and I was just like, I, I'm betting on myself. Yep. And then the website we felt like we could make money on too. Yeah. Maybe not as much as you would've made in 2009, but at least enough to be a tiny bit profitable.
+
+0 (1h 12m 52s):
+And all of the articles initially would be written by a collection of freelancers?
+
+3 (1h 12m 57s):
+No, we had, we went, by the time we launched a website, we probably had like 40 employees,
+
+0 (1h 13m 2s):
+Which was in
+
+3 (1h 13m 3s):
+June, 2016. Wow.
+
+0 (1h 13m 5s):
+I mean initially you launched it on Medium right? On that platform.
+
+3 (1h 13m 9s):
+Yeah. So that was one of the big decisions was do we build our own website? Yeah. It was just Medium was basically the website host. Right. So we were there for a year, but we knew we had to get off. And then Jim Bankoff, he ran Vox and he really wanted us to do the Ringer of Vox. So this was kind of a half-ass way of doing that where we got to kind of be on Vox. They got to participate in the profit stuff. And you
+
+0 (1h 13m 32s):
+Did a deal with them? Yeah, we
+
+3 (1h 13m 33s):
+Did a deal with them. So
+
+0 (1h 13m 34s):
+All those partnerships initially were a way for you to kind of scale up without having to make a big investment in like ad sales
+
+3 (1h 13m 42s):
+Or, well there was one other piece we had Midroll,
+
+0 (1h 13m 45s):
+There's an ad sales company. Midroll.
+
+3 (1h 13m 47s):
+Yeah. They just go out, they work with different brands and it's like, hey, Bill's podcast has three mid-rolls. They go find it, they take a cut of Yeah. Of the price and that's it.
+
+0 (1h 13m 56s):
+How did you, just help me understand how you manage that because you were, I mean clearly you like the creative stuff, you like to do the shows you like to, you know, work with writers, you like that stuff and clearly I think you don't like the business side of it.
+
+3 (1h 14m 12s):
+No, I, I actually disagree. I like the business side. I, I think the surprising thing for me with the Ringer was how much I like the business stuff. And part of it was because when we got to the ringer, Michael, you know, I, I think you need stuff that drives you. But I was really like, I wanna come back to haunt ESPN with this. I want build this into a business that will make
+
+0 (1h 14m 31s):
+That that motivated you. It was your Michael Jordan. Like another log on the fire.
+
+3 (1h 14m 35s):
+No question
+
+0 (1h 14m 36s):
+That I understand that motivation and anger is, is a really powerful motivator. I understand that. I'm talking more about like here you've gotta record several hours of podcasts a week and go to meetings and people need your attention to approve this. And what do you think about this website? What do you think about this design? Or what about this logo? That's what I mean. Yeah. How did you do that?
+
+3 (1h 14m 58s):
+Maybe I'm a psycho, but I like all that stuff. Hmm. I think the thing I learned at Grantland is, is the delegation part and you have to trust your inner circle and believe in your inner circle completely. At Grantland, I didn't totally have the inner circle at the Ringer. We did. You know, ultimately I think the hardest thing for me was at ESPN I was, I was the boss but I wasn't. Right. ESPN was the boss. Yeah. So I was, it felt like I was way more one of the gang even though I wasn't at the Ringer, I was the boss. Like I, I was the one that ultimately was deciding all the money stuff and that, that dynamic gets a little bit different and it kind of makes you lean toward trusting less people.
+
+3 (1h 15m 39s):
+But I still feel like, I think we had a lot of good relationships with our talent and, but yeah. I think it's fucking hard.
+
+0 (1h 15m 46s):
+Yeah. You launched this thing in 2016.
+
+3 (1h 15m 51s):
+We launched a website in 2016. Like the, the podcast basically launched in 2015. Yeah. Right.
+
+0 (1h 15m 57s):
+And 2020 right before the pandemic it was, it was announced that you sold to Spotify. Yeah. For around $200 million.
+
+3 (1h 16m 7s):
+Two
+
+0 (1h 16m 7s):
+50 give or take two 50. And I mean I, it's sort of a dumb question, which is why because it's 10 50 million, this is a lot of money. I mean that's incredible. But why at that point did you think Spotify could really supercharge us now that if they're the owners we could take cash out the table and then we don't have to worry about like the bottom line and then they can really make us even bigger. Was that, what were all those things reasons why you did it?
+
+3 (1h 16m 33s):
+Yeah, it started, they had approached us like maybe the start of 2019, something like that. Or late, late 2018 cuz we were doing a couple podcasts with them. Hmm. And I didn't realize they were sizing us up to possibly buy us because I'm stupid. But they, they came, met with us four times and one of the times they came, this lady named Sheila came who I thought was just part of the Spotify creative team or whatever. Yeah. God forbid I was smart enough to Google her and it was their acquisitions lady and all I had to do, if we had just Googled her, we would've been like, oh shit, they might be trying to buy us. We were pretty naive about that, that, but we didn't want, I didn't wanna be bought, I didn't wanna be owned by anybody. I didn't wanna work for anybody.
+
+3 (1h 17m 14s):
+I loved what we were doing and I loved not having a boss. I didn't wanna be in another big company. And then they bought Gimlet and they bought Gimlet for like $200 million. Yeah. And we were like, wow, Gimlet makes like 10 million a year. They just got 200 million. Like what the hell? Like we, we were way more profitable than them. Yeah. So that got our wheels turning a little bit, but I still didn't wanna sell and started it. We, we lost out on a couple people
+
+0 (1h 17m 42s):
+Lost out who went to other, other places, talent stuff. Yeah.
+
+3 (1h 17m 45s):
+And started to feel like we were like a mid-major in the NCAA tournament. Hmm. That we could be really successful. We could go 27 and five and win our league, but then we would go to the tournament and we would get our asses kicked by the big boys. And I thought that business that we had the first three years was still too dependent on me. Yeah. Michael, the whole time was always like, if I get hit by a bus tomorrow, would the ringer survive? It would suck to get hit by a bus by the way. So even like when we talked to Spotify, so much of the conversations were about what about you? Well what if you leave? And we just felt like we were in the middle and we were in control of our own destiny.
+
+3 (1h 18m 26s):
+But ultimately what was that destiny gonna be? We never hired a banker. I didn't necessarily wanna sell, but I was really intrigued by Spotify. Yeah. And I was like, these guys are gonna be the future of audio if they already Yeah. Aren't now and and maybe this is a place that could supercharge us, but we didn't, we never shopped around. People didn't know we were for sale. Huh. It was like Spotify or we're not doing anything.
+
+0 (1h 18m 51s):
+One of the things I wonder about is learning to become a manager of people. It's hard because being a founder is really different from being a manager. Right. From running the company. Yeah. Founder, you're just like constantly like trying to hit the next thing and just like plowing forward. But then being a manager is, you've gotta like look at the landscape you're dealing with things. Right. You guys had unionization all kinds of things that happen when you are a manager Yeah. That are more challenging than being a founder. So how did you, how have you kind of evolved as a manager?
+
+3 (1h 19m 26s):
+I think the climate's a little bit different now. I think it's much harder to manage in the last four years than it probably was in the 10 years before
+
+0 (1h 19m 33s):
+With like Twitter and social media and people just like that. Yeah.
+
+3 (1h 19m 36s):
+Mean it's just, I think you see over and over again where some disgruntled employee, they leave a company and then they light it on fire basically. And then Yeah. I think it has made it a little more formal than it used to be. Yeah. I definitely talked to less people than I used to. Yeah. But at the same time, every generation has its challenges. Right. And I think to me Twitter is causes a lot of the stuff because people can just run to Twitter and Yeah. I always wonder like if we just didn't have Twitter, would some of the stuff be easier? But who
+
+0 (1h 20m 8s):
+Knows? Yeah. I wonder about that too. And also in big companies it's just so much more formal and the interactions are just so different for good reasons too. There was a lot of bad stuff that happened but it's also taken away some of the, I don't know that the ability for people to grow and develop and to become, you know, to just to learn from people who've been there before.
+
+3 (1h 20m 29s):
+Yeah. You made the key point. It evolved this way for the right reasons. Right. But at the same time there's been some collateral damage with it where I think office culture is much different, especially post pandemic with not having the same kind of office culture for the stuff that like at least we like to do is pretty damaging. You know, because Yeah. Creatively we had podcasts that developed just from the Ringer office those first couple years where like, I remember hearing this guy Danny Hyz just arguing about sports with somebody else. Hmm. Football and he was like an intern at that point. But I was like, this guy's good. Hmm. I wonder would he'd be like on a podcast and you're just gonna lose all of those moments.
+
+3 (1h 21m 10s):
+Yeah. The spitballing is what gets hurt. You can't do it on Zoom, you can't
+
+0 (1h 21m 16s):
+Bill How long are you committed to being part of Spotify to being part of The Ringer?
+
+3 (1h 21m 21s):
+I think I have two years left and I am committed because I wanted Spotify to win the same way I wanted ESPN to win one spot at a time. There's a lot of the same limitations and issues in a different way. I think ESPN was way more political and way more sinister. Spotify's not sinister, but it's also a big company that has a lot of opposing objectives and I think we'll see how it goes for the next two years with them. But I still feel like they're the dominant music platform and they have a huge audience.
+
+0 (1h 21m 50s):
+But you are, I mean, can you imagine like, not like two years it's done, your contract's done, like I would think you still want to be on your show, you still want to be talking about sports.
+
+3 (1h 22m 1s):
+Yeah, I don't know. I go back and forth on that because hmm, at one time I w I thought like oh Spotify, this would be it. And then I don't, how long am I gonna work this hard, you know? And then just manage it. We have 150 people, you know, like we had 50 at Grantland. I think the thing I'm battling with is in my head I had always thought it was over after two years from now, but I still love what I'm doing and I still, I actually feel like I'm getting better at the podcast still and like why would I leave? Yeah. The question for me is always gonna be can I win where I'm at? And then also like, did we take this as far as it can go?
+
+0 (1h 22m 42s):
+When you think about the arc of your career, right? And you clearly worked really hard, you had a plan, you were ambitious, you wanted to call him, went to the web, like all these things that you did and, and then you know, you met people or certain things happened. I don't know how much of what happened to you do you attribute to how hard you worked and the grind and how much do you think had to do with luck?
+
+3 (1h 23m 3s):
+I think there's a third factor that's the most important. I always try to challenge myself really. Starting in 2006, when 2006 started, I was like, I don't wanna leave 2006 in the exact same position I was in in 2005. And I think I've stuck to that really for 16 years now, where every single year I wanted to look back at the end of the year and be like, oh, this is the year this happened. Yeah. Like especially with content and creativity, like if you're just running it back every year, that's not sustainable and eventually people are gonna pass you and you're gonna be on the outside looking in. So I think once I realized that, that helped me the most, I think some of it was hard work and talent and then the luck piece.
+
+3 (1h 23m 49s):
+Like I think to just be like, oh you were lucky. Like what does that mean? Like I worked my ass off for every single thing that happened. I don't, I don't understand how luck factors into that for the most part. Like I think when people talk about luck it almost feels like it's kind of like a loser attitude where it's like, oh that was lucky. It's like I don't feel like there's a lot of luck with this stuff. Opportunity can be luck, but you still have to like nail the opportunity and you still have to put real thought into it and you still have to give a shit. And the thing I've learned over everything is the people that give a shit are the ones that succeed.
+
+0 (1h 24m 25s):
+That's Bill Simmons, Boston Sports guy and founder and managing director of The Ringer. By the way, would you defend a strong bid to put Roger Clemens in the Hall of Fame or do you just think he's completely compromised? Like he, he cheated and they should never even consider it?
+
+3 (1h 24m 43s):
+I think all of those guys should be in the hall of
+
+0 (1h 24m 45s):
+Fame. Really? Barry Bonds Mark McGuire even though they cheated.
+
+3 (1h 24m 49s):
+Yeah, just put it on the plaque. If I'm taking somebody to a museum, I want them to learn as much about the history of the sport as they could possibly learn. And to not have Barry Bonds and Roger Clemens in there is insane. And there should just be a room where it's like, hey, then we had these guys
+
+0 (1h 25m 2s):
+The room of cheaters plaques.
+
+3 (1h 25m 4s):
+Cheater room, cheater room, whatever you wanna call it. Yeah. Sounds
+
+0 (1h 25m 7s):
+Great. Son, I want to show you this inspiring room here at the Hall of Fame. The cheaters
+
+3 (1h 25m 12s):
+Room. Yeah son. Don't do what these guys did. It's, that's the whole point of your museum.
+
+0 (1h 25m 17s):
+Hey, thanks so much for listening to this show this week. If you wanna contact our team, our email address is ibt id.wondery.com. If you wanna follow us on Twitter, our account is at How I Built This and mine is at Guy Roz and on Instagram. We're at How I Built This and I'm at Guy dot Roz. This episode was produced by Alex Chung with music composed by Ramine era Bluey. It was edited by Niva Grant with research help from Sam Paulson. Our production staff also includes Casey Hermann, JC Howard, Kerry Thompson, Kira Joaquin, Elaine Coates, John Isabella, Chris Masini, and Carla Estevez. I'm Guy Raz and you've been listening to How I Built This.
+
+0 (1h 26m 6s):
+Hey Prime members, you can listen to how I built this early and ad free on Amazon Music. Download the Amazon music app today, or you can listen early and ad free with Wondery Plus and Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built this merch and gear@wonderyshop.com. Before you go, tell us about yourself by completing a short survey at wondery.com/survey.
+
+Wondery (1h 26m 35s):
+Meet Jill Evans. Jill's got it all. A big house, fast car, two kids and a great career. But Jill has a problem when it comes to love. Jill can never seem to get things right and then along comes Dean, I can't believe my luck. Woohoo, I hit the jackpot. It looks like they're gonna live happily ever after. But on Halloween night, things get a little gruesome. This is where the shooting happened outside of building society in New Romney. It's thought the 42 year old victim was killed after he opened fire on Police. And Jill's life is changed forever. From Wondery, a novel comes Stolen Hearts, a story about a cop who falls in love with a man who is not all he seems to be. I'm Carrie Goleman follows Stolen Hearts on Amazon Music or wherever you get your podcasts. You can listen early and ad free by subscribing to Wondery Plus in Apple Podcasts or the Wondery app.

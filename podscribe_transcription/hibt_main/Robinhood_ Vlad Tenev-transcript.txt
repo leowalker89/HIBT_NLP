@@ -1,0 +1,776 @@
+0 (0s):
+If you're looking for something new to watch, check out, slow horses on apple TV. Plus it's a thrilling spy series, starring Gary Oldman and Kristin Scott, Thomas you'll be taken inside slouch house, a dead end division of the British counter-intelligence and security agency. <inaudible> here. Once elite agents pay for the mistakes in the field by whittling away on trivial tasks. But all of that changes when a heinous crime forces <inaudible> to enlist the services of slouch house and investigation that goes deeper than anyone could have predicted stream, slow horses, exclusively on the apple TV plus
+
+2 (36s):
+Venture capitalists angel investors had concerns about many things, right? Could this team of mathematicians builds this beautiful consumer product that they're talking about building it's an extremely competitive space with like gigantic incumbent competitors that spend billions of dollars a year on marketing. These guys are telling us that they can make it work, not charging a commission. How's this thing going to make money
+
+3 (1m 10s):
+Ramen PR. It's how I built this a show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Roz. And on the show today, how two college friends built an easy on ramp to wall street by launching Robin hood and a stock trading app that even in the midst of controversy has grown to 13 million users. One of the most common arguments made by promoters of social media is that these products make it easier for people to connect in a meaningful way, whether it's Facebook or Twitter or Tik TOK or the latest iteration clubhouse.
+
+3 (1m 52s):
+These are all examples of how technology has leveled the playing field, democratized it. Even now, of course, you could also argue that all of this has had a really de-stabilizing effect, but either way, these technologies are disruptive on a historic scale. And one of the latest entrance into this world of disruption is Robin hood. It's an app that allows anyone to trade stocks. You don't need a minimum balance to open an account. There are zero fees or commissions to trade, and it's got a simple, easy to use interface that can instantly turn anyone with a few extra dollars into a stock trader Robin hood is increasingly popular, but it's also a lightning rod in the world of finance, especially among those who believe that stock trading isn't an amateur sport, but a serious and risky endeavor.
+
+3 (2m 47s):
+Any experienced investor will tell you that it is nearly impossible to pick individual stocks and win that the vast majority of investors will do much, much better by making regular deposits into a boring index fund. But over the past year, some people have made fortunes using Robinhood and to be clear, the S and P returned to 16% last year. So yeah, it wasn't unusually good year for stocks. The problem is what happens when the market tanks, lots of inexperienced investors could lose their shirts, but of course, technology marches forward and Robinhood is upending the way people, especially younger people invest their money.
+
+3 (3m 35s):
+And earlier this year, an army of investors, many of them who discussed stocks and places like Reddit, artificially boosted, the stock prices of companies like GameStop and AMC theaters by encouraging people to buy those stocks. In the case of GameStop, a retailer that sells video games, the stock reached a low of $3 in the past year and a high of $483. This is a company that hasn't turned a profit since 2017, yet hundreds, maybe thousands of people made serious money buying and selling GameStop shares on Robin hood.
+
+3 (4m 16s):
+That is until the app halted these types of trades. It was a decision that led to lawsuits, congressional hearings and outrage from thousands of its users, but still the app has grown and continues to grow. And sometime in the next year, the company is expected to go public, a liquidity event that will make hundreds of investors, billions of dollars. And if you think that's wild, what I'm about to tell you will blow your mind even more. Because according to Vlad of the thoughtful and cerebral co-founder of Robin hood, the inspiration for the app, its intellectual underpinning is rooted in one of the most anticapitalist movements in recent times occupy wall street, but we'll get there.
+
+3 (5m 6s):
+Here's what you need to know for now. Vlad was actually born in Bulgaria. His parents, both economists by training left just as communism was collapsing in Eastern Europe. Lad was a little boy at the time and the family eventually settled in Virginia.
+
+2 (5m 25s):
+My parents certainly took school very seriously. There was always this feeling growing up in Bulgaria where math and science and education were very rigorous, that they would kind of look at what I was studying at school and say, oh, you know, this like fifth grade material would have been kindergarten or first grade material in Bulgaria. There was also, you know, in the, in the early years that I was in the country, we were quite poor living off my dad's grad student salary in particular and coming with essentially no savings. So there was kind of underlying fear that there was risk of having to go back to Bulgaria at various points.
+
+2 (6m 12s):
+And that, you know, education was kind of the best way to, to ensure that I could have a bright future and could stay in the U S
+
+3 (6m 22s):
+You, you went to Thomas Jefferson high school, which is really great. One of the great public high schools in the U S it's in, in Virginia. And when you were sort of approaching college, I mean, of course you were just still a kid, but yeah. Were you thinking about an academic career kind of like your, your, your dad pursued? Was that what was in your mind that you would maybe do something like that?
+
+2 (6m 46s):
+Yeah, I was very interested in science when I went to Thomas Jefferson and by the time I got a little bit further along in high school, I also became really interested in physics. So I would read about string theory and general relativity and special relativity. So by the time I graduated, I was pretty sure that I wanted to study physics and become a physics professor. Wow.
+
+3 (7m 17s):
+Well, and what you did, he went on to Stanford to study physics across the country and why you were there. I think maybe even in, after, you know, a little, you know, in your first year you would meet the guy who would eventually become your co-founder. Tell me, tell me how that, how that happened.
+
+2 (7m 35s):
+So we met the summer after my freshman year, which was the summer after his sophomore year,
+
+3 (7m 41s):
+And this is Beijing, but
+
+2 (7m 42s):
+Yeah, yeah. I had heard about him from some of my friends when I was a freshmen, because we were kind of unique in the physics department. We both had long hair. For instance, we were both fairly social and people had mentioned me to him and him to me. And then in the summer, after my freshman year, we were both in this program at Stanford, where we were doing research in physics over the summer. And it's you take kind of the, the group of people that are at Stanford, filter it down to the slightly more academically oriented or, or nerdy, if you will. People that want to study physics, filter it down to the people that want to do it over the summer and do so without getting paid.
+
+2 (8m 28s):
+And you get to a very small group of people. So the nerdiest of the, of the nerds, and we became really good friends pretty quickly. We both had a lot of the same interests. It turns out we had a lot of the same background, as well as his parents had immigrated from India while his mom was, was pregnant with him. And his dad was also an academic studying physics. So a lot of weird similarities, you know, we were both only children, only boys, both of us grew up in very academic families. And I think the, the ideal of human achievement in my mind was to create, to add something to the body of knowledge, right?
+
+2 (9m 11s):
+I mean, you read about all these great mathematicians, your Gauss Riemann, all of the great physicists, and they create these theories taking a hundred percent of their mental energy and putting it into their work. So that was kind of at the time, the epitome of creative work from both of our standpoints.
+
+3 (9m 31s):
+So really your plan was to pursue academia, to, to be a researcher or a professor or something like that.
+
+2 (9m 41s):
+Yeah, absolutely. And the two are related typically the way to pursue research would be to become a professor,
+
+3 (9m 48s):
+See you graduate in 2008 from Stanford and, and you go to UCLA to pursue a PhD in math. Yep. But did you ever consider like getting like a high paying job in tech or something like that?
+
+2 (10m 0s):
+Well, at the time when I graduated, I wouldn't say I was very employable actually. I think it was before data science. So a lot of the questions that I would get from the typical employers would be, can you code, do you have a computer science degree? So I don't think a math degree made you very employable back then.
+
+3 (10m 23s):
+Hmm. So you basically go, go down to LA to start a PhD program in math and yeah. And probably with a group of really smart mathematicians.
+
+2 (10m 35s):
+Yeah. And what I noticed was there was a group of people that immigrated to the U S to actually attend this PhD program. And they worked incredibly hard, right. Basically like far above and beyond what the normal person would work all weekend, every waking hour, they would do math. And it kind of reminded me a little bit of what it was like coming to the country and seeing my parents when, when I was five years old. And it got me thinking a little bit of could I see this as my career? Like, would I be passionate about this? And I would kind of look at these, these folks and say, if I'm not willing to work that hard, or if I'm not actually working that hard, maybe I should think a little bit more from a first principles standpoint, what I want to do with my life.
+
+2 (11m 29s):
+And, you know, that's kind of when I started thinking that maybe becoming a professor in math, wasn't the right fit for me because obviously it's hyper competitive. You're competing against the smartest people in the world. Yeah.
+
+3 (11m 43s):
+And was it like, I'm picturing like, you know, a beautiful mind or one of these like Goodwill hunting or something with like equations on, on whiteboards and blackboards and stuff. It wasn't like that or just like people constantly working on yeah.
+
+2 (11m 55s):
+It was exactly like that. Wow. Just equations everywhere.
+
+3 (11m 60s):
+So you're, you're in this graduate program and it sounds like it's becoming clear to you that you're, you're probably not going to make it as a, as a professor. And meanwhile, BU you from Beijing is working for a trading firm doing like stock trading, I think, in the bay area. Right.
+
+2 (12m 17s):
+That's right. So he worked at a small firm up in Marin county doing quantitative trading and he was the first quant hired at that firm, I believe.
+
+3 (12m 28s):
+And a Quan is basically a quantitative analyst, like a super sophisticated numbers cruncher, like somebody who, who is using that data to make predictions, I guess.
+
+2 (12m 39s):
+That's right. Yeah. And this was also 2008, which was a very interesting time in the financial industry,
+
+3 (12m 45s):
+2008, when you started the program.
+
+2 (12m 47s):
+Yeah. I started the program and he started his job in finance in about a month after Lehman brothers went under. Right. So the, the financial system collapsed and you had the financial crisis. And I think what was really interesting was I didn't know much about quantitative trading, but quantitative trading actually benefited from the volatility in 2008, because the more volatility in the markets, the wider bid-ask spreads are,
+
+3 (13m 19s):
+And the bid-ask spread, just to kind of explain this in layman's terms is like the,
+
+2 (13m 24s):
+Well, basically any time you have a market, let's say for a stock there's people that are willing to buy and people that are willing to sell at any given time. Right. And in order for there to be a trade, basically the exchange sorts all of the buy orders and prioritizes the ones that are willing to buy at the highest price, right. It also prioritizes the sell orders based on who's willing to sell for the lowest price. And a trade happens when someone comes in willing to buy at greater than the lowest price that someone's willing to sell for.
+
+2 (14m 4s):
+Right. And that, that becomes matched. And so what the bid-ask spread is, is it's the difference between the highest buy price and the lowest sell price. And that sort of determines the market and quantitative trading benefits from this, especially if you do low risk arbitrage and I can go into it a little bit is you have the same thing that's being offered in two different markets. So kind of the canonical historic example was the Telegraph in the 18 hundreds, there was a, you know, a cotton market between the U S and the UK at the time.
+
+2 (14m 44s):
+And the fastest way you could get information prior to the Telegraph was by ship. So, you know, if you were sending commodities from, from the U S to the UK, you really had no idea what people would be willing to buy in the UK would be. And by the time you get to the UK, you'd have no idea what the prices would be in the U S
+
+3 (15m 7s):
+Yeah.
+
+2 (15m 7s):
+So that led to very wide bid-ask spreads because the merchants had to take into account that risk, the risk, that by the time, you know, the ships go back and forth prices move, and they could lose money. But the Telegraph came, which allowed essentially instantaneous price information going between the two you can see historically the bid-ask spreads in those markets just got obliterated after the Telegraph showed up. Yep. So the modern version in 2008, I suppose, was the same stock being traded on two different exchanges, right? So you would have, for example, Intel, which was traded in Canada and on the Toronto stock exchange also traded in New York on the New York stock exchange.
+
+2 (15m 54s):
+And so when, when times are more volatile, those two prices can deviate and affirm could actually make risk-free profit by buying in the market where it was lower costs and prices
+
+3 (16m 9s):
+Lower
+
+2 (16m 10s):
+And selling pretty much instantaneously at the market where the price was higher. And then actually that would also serve to bring the prices closer together into equilibrium. Wow. And for the next couple of years after that, there was just a much higher interest in doing electronic trading, I'd say, worldwide,
+
+3 (16m 29s):
+This is the high-frequency trading. That kind of, it uses algorithms to, to do these very rapid traits that, that human humans can't process fast enough, but they can instantaneously buy and sell. But, but it's so fast that they can make, it can make money, can make
+
+2 (16m 46s):
+A lot of
+
+3 (16m 47s):
+Relatively risk-free. Yeah.
+
+2 (16m 48s):
+And I, I would say the algorithms aren't necessarily very sophisticated and some of the first ones were incredibly simple. And I guess the observation that Basian made, which convinced us to get into business together was that, you know, a lot of these firms are building their software on Microsoft windows and, you know, a pricing signal would go through 10 or 20 machines by the time it actually resulted in an order and all of this took tens of milliseconds. And so we kind of chatted about it. And we were like, imagine instead of a windows machine, you just built it on Linux, wrote it and see, which was a low level language, rather than Java had everything on one box rather than 10 boxes.
+
+2 (17m 38s):
+And ping-ponging order information between them before getting sent out to the exchange. If everything was on one box, you could maybe shave that latency down from 10 milliseconds down to one millisecond or so. And, you know, you could have a, a competitive system.
+
+3 (17m 54s):
+So, so Beijing was basically saying to you, Hey, this thing is happening right now. Yeah. There's this thing happening, except it's not actually that efficient. Exactly. And I actually think there's an opportunity to make something more efficient to make like, like what, like software that you could sell to, to financial firms
+
+2 (18m 15s):
+Essentially. Yes. And the first idea was, you know, we could potentially use it ourselves to do our own trading, but we ended up pretty quickly realizing that we just didn't have the resources to both build the software and build trading algorithms on top of
+
+3 (18m 33s):
+It, even as a cash to do it.
+
+2 (18m 35s):
+Yeah, exactly. And, you know, money was reasonably tight back then. Right. So there weren't a ton of options.
+
+3 (18m 45s):
+So at this point, I guess you decide to pull out of the PhD program and you, you and base you like leave California and go to New York. Yeah. Cause I mean, obviously New York is the center of the financial world and you, I guess you went there just to be clear, you went there to try and build like a trading software that you could sell to financial firms.
+
+2 (19m 7s):
+That's right. Yeah.
+
+3 (19m 8s):
+Got it. And, and what, what did you guys like? Did you guys go share like an apartment? Did you, did you get an apartment together?
+
+2 (19m 14s):
+We did a couple of friends and contacts let us squat at their houses for a bit. We ended up eventually settling down in, in the east village.
+
+3 (19m 25s):
+Right. And was it, I mean, just to, just to, I mean, this is not a, I mean, it's sort of a business idea, but you're not like going out and raising money. And the idea was the two of you would basically build this piece of software using your own knowledge. I mean, the, both of you had knowledge on how to, how to make that software, how to code it and create it.
+
+2 (19m 43s):
+Yeah. Well actually, essentially what we did was we looked at the API APIs that were published online for how the exchanges distribute market data, which our stock price it's stock price information, and, you know, their sample data that they offer online. They'll have like one day's worth of data from 2009 or something.
+
+3 (20m 5s):
+This is one day's worth of trading data.
+
+2 (20m 7s):
+Yeah. And you can use that just to validate that the system works properly and processes the messages. So we, we use that that's all freely available.
+
+3 (20m 17s):
+Yeah. I'm curious. I mean, there's a whole book by Michael Lewis called flash boys, which is kind of about this period that you both moved to New York and start working on this thing. Cause it really, his book is about this phenomenon, these, these high-frequency traders, many of them, any of them coming out of PhD programs and working to create ways to, you know, to speed up trades by milliseconds, like 10 milliseconds, you know, there's a famous story in that book about somebody paid hundreds of millions of dollars for a fiber optic cable from Chicago done to, to, to New Jersey.
+
+2 (20m 50s):
+Yeah. That was a very famous thing at the time we were in New York. So before that there was a Verizon line, which, you know, it was about 12 or 13 milliseconds to get information from Chicago to New York. Right. And then, you know, I think it was Jim Barksdale of Netscape who created spread networks. And the idea was to dig a straight ditch between Chicago and New York has straight as possible, put a cable down there and compete with the Verizon line. And, you know, people who knew about that line were able to get on that line and they had a latency advantage, a speed advantage over people that were not a
+
+3 (21m 29s):
+Milliseconds
+
+2 (21m 30s):
+By, by several milliseconds, which is huge rent.
+
+3 (21m 33s):
+Did it feel like there was a, a kind of a, almost like a gold rush of people like you in Beijing, like smart graduate school, dropouts or other, you know, physics, maths graduates, prejudice who are coming to New York who sort of intuitively understood the opportunity. Was it, was there like a mad dash to New York?
+
+2 (21m 50s):
+Yeah, I think, I think there was definitely some form of gold rush. There weren't a lot of people like us. I think we were, we were probably among the youngest, but you had people leaving the big trading houses, starting their own smaller trading firms. And you had some people that typically, you know, you'd have the, the PhD graduates would partner with someone from the trading side. Yeah. So yeah, there was a, it was, there was definitely a community around algorithmic trading in New York city at the time.
+
+3 (22m 19s):
+I mean, it sounds like BU understood and then explain to you, and you began to understand that there was a lot of money to be made because of your knowledge and your background. The two of you could actually really do well.
+
+2 (22m 33s):
+Yeah. I think that to some degree, it was still a little bit hazy in terms of the aftermath of the financial crisis. But I think he was precious in the sense of trading. The old way was completely gone, right? The people that were on the floor of the New York stock exchange trading on PDAs were going to disappear eventually. And all of the action is going to move to data centers. And I think 2008 had really been the turning point where you're just not competitive as a trading desk driven by, by actual humans and everything was going to turn completely automated and an algorithmic.
+
+3 (23m 16s):
+So if I met you, cause you're, you're a young guy and you were like, what? 20, 23, 24, maybe
+
+2 (23m 22s):
+I would have been, yeah, 20, 22, 23.
+
+3 (23m 25s):
+If I met you in New York in 2010 and I was okay, I'm guy. And you're like, Hey, I'm glad I was like, so what are you doing? Tell me what you're doing. What are you up to? And I had knew nothing about the finance world. What would you, how would you describe what you were doing?
+
+2 (23m 38s):
+I probably would have said, you know, we're, we're making trading technology extremely fast, low trading technology for our algorithmic trading and how we can execute a trade for 10 microseconds or under 10 microseconds tick to trade. That's kind of the industry term tick to trade. And if you knew anything about the industry that would kind of blow your mind.
+
+3 (24m 3s):
+Now, I'm not saying I would have said this, but maybe when I was 22 or 23 and I met you and you told me that I would have said, man, that's horrible. You're just making these like sharks and vampire, whatever bats or whatever. They're called a richer Matt Taibbi, call them that the giant sucking vampire octopus. I can't remember. You're just making
+
+2 (24m 28s):
+These squids
+
+3 (24m 29s):
+Squids. Yeah. You're just making these guys, Richard, what are you doing? What? This is horrible. This is horrible. You should be like, you should be like biting the power. Did anybody ever say that to you?
+
+2 (24m 39s):
+Yeah. We heard that a little bit for sure.
+
+3 (24m 40s):
+And you were just like, oh, that's just, I don't care. What you know, or did any of that get to you?
+
+2 (24m 45s):
+I think I, I went through a couple of transitions in my life as an entrepreneur, right. The first kind of transformation was becoming an entrepreneur. And what I was really excited about in the beginning was just working with my best friend. I'd say, first of all, but getting to a point where the idea of like working for yourself and working on these interesting problems and they were very interesting technically, right? You're just trying to squeeze every ounce of performance out of these systems and being an entrepreneur. And you're taking a lot of the creative energy that you have and immediately producing code to solve that.
+
+2 (25m 28s):
+And I think it got to, it was a different way to get to kind of what attracted me to math in the first place, which is that math was a way to get things from your brain to the real world, with very, very high efficiency. You know, you didn't need any equipment, you just needed a couch and your brain and maybe a chalkboard and you would be good. And this was a lot like that. And I didn't have any experience with entrepreneurship really. Like it's not really around in Virginia to a significantly,
+
+3 (25m 60s):
+Your parents are academics. They're like they have had stable jobs.
+
+2 (26m 4s):
+So, so I was like, oh, you know, I can write the software and potentially people will pay me for producing this product. Like, that's amazing.
+
+3 (26m 15s):
+That was interesting. That was what was getting you excited. That was the thing. It was just a challenge
+
+2 (26m 20s):
+Being an entrepreneur. Yeah. Working for yourself. I didn't really care much about making money. Even at that point, I was like, this is awesome,
+
+3 (26m 28s):
+But it sounds like you also, weren't really thinking about, I mean, and, and I'm not this, not no judgment because you're 23. I'm just, you know, I've interviewed, I interviewed people who say, I want to, you know, I started this to make the world a better place and sometimes it's true. And sometimes it's a little exaggerated, but it sounds like that wasn't even on your radar.
+
+2 (26m 44s):
+Well, let me, let me tell you about, so that was one of three transformations, right? So the second transformation I would say happened around 2010, right?
+
+3 (26m 54s):
+You're in New York.
+
+2 (26m 55s):
+Yeah. I was still in New York. We were living in this apartment in Williamsburg at the time where basically it was like a shared kitchen and bathroom situation. So very, very small, very grungy. I remember my parents visiting and, you know, crying. And they're like, what is my son doing with his life sort of thing? Like, this is like so horrible. You know, my mom, I think said she had a friend who who's working at Macy's at the time and maybe I could get a job at Macy's or something. So things were bad right. At that point. And so at that point it was kind of the second transformation. Like we need to figure out how to make some money because, you know, I can't live off my, my savings and I can't just be scraping, scraping around forever at some point, like I'm getting enough pressure that it's just going to become very, very distracting.
+
+2 (27m 50s):
+And so, you know, at that point, I think we took sales a little bit more seriously. We started being a little bit more commercially oriented, which at first it was kind of a science project.
+
+3 (28m 2s):
+This is all word of mouth. You were just from one, I mean, obviously you guys are smart. You're Stanford grads and you you're building something. And I imagine you start to kind of, you know, reach out to different trading houses and, and maybe, maybe connections you had from Stanford, I guess, and jelly up
+
+2 (28m 20s):
+All word of mouth.
+
+3 (28m 22s):
+Okay. So it's around 2010, 2011 ish. And you've got a name for this company that you're building, it's called Kronos research. And I'm assuming you have low overhead because it was just the two of you, right?
+
+2 (28m 36s):
+No, we, we had some employees at the time
+
+3 (28m 38s):
+When we get someplace. And did you get an office in New York?
+
+2 (28m 40s):
+We were working out of our apartment in, in Brooklyn,
+
+3 (28m 44s):
+Right? In your software. Who, who were you selling it to? Like, can you tell me which, which firms you worked with? Any big ones
+
+2 (28m 51s):
+We worked with some big ones probably should leave specific names out of it, but it was an enterprise product. So let's say licensing fees were, you know, in the tens of thousands per month.
+
+3 (29m 3s):
+And I'm sure they got that money back in spades. Right. Because it didn't work well. Was it effective?
+
+2 (29m 9s):
+Some of them did. Yeah. Yeah. Some of them did others. Unfortunately, you know, the strategy didn't work. So it didn't work.
+
+3 (29m 17s):
+I thought it was kind of foolproof though. Right? If you, if you know that in a millisecond, you can quickly buy low and sell high isn't it is that foolproof?
+
+2 (29m 27s):
+Well, it, it depends. No, I wouldn't say it's full-proof because in the early stages of anything and very few people are doing it, then more simple things work, but people rapidly figure it out and catch up. Right. And there's a lot more competition. So 2011, there was actually a ton of consolidation in the space because it got so competitive. So Def definitely not foolproof,
+
+3 (29m 55s):
+But in the midst of all this, you, I think you guys are actually doing pretty well, right?
+
+2 (29m 59s):
+Yeah. It was profitable. Got up to a few million in revenue. We saw a path to growing our customer base, improving the technology. Maybe we could get to 10 million in annual revenue at some point in the, not too distant future. But that's where my, my third, the third thinking that, that I had the third transformation as an entrepreneur that we went through comes in, you know, we started thinking about if we were to do this for a really long time, is this something to be proud of? Like, is this something you can get back from a hard day's work worth of work and hang your hat on the, on the hook and say, you know, I'm really doing awesome things for society,
+
+3 (30m 42s):
+But what prompted that thinking? I mean, what, what, what do you remember that happened? Or if anything that would lead you to that?
+
+2 (30m 50s):
+Well, I think, I think it's, it's actually being able to survive prompted it, right? Because it's sort of like the hierarchy of needs in a way, the first thing you got to do is feed yourself. You're not, you're not getting to self-actualization until you can actually feed yourself and actually survive.
+
+3 (31m 9s):
+And almost nobody gets to it. Let's just be honest.
+
+2 (31m 12s):
+Yeah, exactly. So we got to that point and when you can feed yourself, you have the luxury of thinking about other things. And so in this case, we had started thinking about whether the technology and our learnings could be applied more broadly beyond just institutional. We also saw the occupy wall street movement, right? That, that started really in full swing in New York city in 2011, right. When we were working on our business. And, you know, I remember walking through the tent cities in lower Manhattan, we had some friends or people that we knew that were very, very upset and were participating in some of the protests there.
+
+2 (31m 55s):
+And, you know, they were kind of like, what are you guys doing? And there was a lot of frustration that essentially the financial system wasn't working for for everyday people, we certainly felt that. And we also decided right around that time to move the company back to California, because we figured out pretty quickly, we're a software company. We needed to hire software engineers. It didn't really help us a ton to be in New York. It was more expensive to hire there. And the people that we were getting were largely people moving from California, who we knew from Stanford in the first place.
+
+3 (32m 33s):
+So, so the two of you decide in 2011 to move back to California and to basically continue the business there.
+
+2 (32m 42s):
+Yes. And I think the interesting thing, the first thing I remember when we're moving into the office, there is the occupied tents right in front of our office, on market street in San Francisco, going all the way down to the ferry building. So, I mean, this was like everywhere. It was following us around, right. People were just very pissed off at the establishment and didn't feel like the system was working for them.
+
+3 (33m 7s):
+And did you, did you have sympathy for that, for that movement?
+
+2 (33m 11s):
+I mean, I definitely understood the frustration and empathized with it. You know, I wasn't part of, I wasn't doing like the protesting, but my feeling was I believe in technology and innovation. And I think that we can address some of these problems. Right. And I think that movement was an input to a great degree in the idea behind Robin hood. And there were a couple of other inputs. One was just our knowledge of the space, which I think was unique. And we kind of understood exactly how a trade was executed, settled, and cleared and a decent amount of like the compliance aspects of that.
+
+2 (33m 54s):
+We realized there was very little cost in the system for it. And you couldn't make it work for free. And in fact, that's how institutions were trading millions of times a day. They couldn't do that if, if there was a lot of costs to doing these things, right? So that was one, the occupy wall street movement and the disillusionment with the financial system was another. And the third was a very San Francisco one, although we S we saw it in New York as well. And that's mobile technology. So in New York, there was this product called Foursquare.
+
+3 (34m 25s):
+Sure. It was a check-in app. You could check it, it
+
+2 (34m 27s):
+Was a check-in app. But imagine like you're 20 years old, you're going out in New York and you don't stay in one place. Like in most cities, you start out at a restaurant, you go to a bar, then you go to like several places, usually in a night and you're ending up like texting people. Like people are getting off work at different times. They meet up with you. So you have these text threads with like 30 or 40 people, right? Yeah. And then this product came out, all you do is check in and it cuts out all of that communication and people just know where you are. And so we kind of put these three things together, our knowledge of the space, the occupy wall street movement, and mobile technology, and got the idea for Robin hood.
+
+3 (35m 12s):
+Wow. I think an end, if you, if you know me and he listened to the show, you know, I'm not cynical, I'm really not. But my God, I, I, I can't, I can't imagine somebody hearing that who was part of the occupy movement thinking our movement inspired them to build Robinhood.
+
+2 (35m 32s):
+Yup.
+
+3 (35m 33s):
+Wow. But, but I think that they would not be happy about hearing that.
+
+2 (35m 37s):
+I don't know. I think a lot of them actually would. And I think if they see it, they would understand that, you know, you can protest, but you can actually go out and build a product that lowers the barrier to entry and gets people to benefit from what I think is fundamentally an awesome system. And if we plug more and more people into it, then it's, it's such a powerful tool of wealth creation that I think more people participating is better than not. And I think there was a conversation that BU and I had, he was in New York on a sales trip. We had been batting around a few of these ideas, but on that phone call, I floated the idea of free trading.
+
+2 (36m 19s):
+I was like, what if we just make something that lets people trade for free? Our customers, our institutional customers are trading for free. Why can't everyone do it? Why, why does it cost $10 for you to trade
+
+3 (36m 34s):
+In your trade or whatever?
+
+2 (36m 35s):
+Yeah. So we were kind of asking ourselves, are they still using manual traders? Like why is it so expensive and why can't the software that we're building for an institutional purpose be used in the same way to offer the same type of amazing pricing and high-frequency execution to retail consumers as well.
+
+3 (36m 58s):
+Well, so you have this idea and the idea is let's make a platform to allow people to trade for free. And at that time 2012 was the idea to do it as a website.
+
+2 (37m 13s):
+No, I think pretty quickly, we pretty much knew that it would be mobile first. You know, if, if you're on the go and you need to check your portfolio, you're not in front of your, your trading workstation or your, your computer. That's an advantage that only mobile would, would give you.
+
+3 (37m 32s):
+And presumably, you know, you guys could not fund this with the cashflow from your previous business, which did you just kind of fold that business into this idea? Or did you, did you kind of sunset that or did you sell it or what, what happened to that business?
+
+2 (37m 48s):
+We just wound it down basically. Okay.
+
+3 (37m 50s):
+Yeah. And did you let everybody go because you had staff or did you keep them on?
+
+2 (37m 55s):
+No, we kept the staff and there's still some people at Robin hood today that were originally working for Kronos on our trading software for institutions. And we basically got everyone together in this little conference room once Baiju and I had kind of settled on this direction. Right. And we were like, Hey guys, we know you came here to build this algorithmic trading software for banks and hedge funds. We have this other idea that we're more excited about that I think has a lot more potential. And it's to take this sophisticated technology that we've built and make it into a consumer product.
+
+2 (38m 35s):
+And we kind of thought a lot of people would leave, but nobody did.
+
+3 (38m 40s):
+When we come back in just a moment, how on the way to launching their trading platform, the two founders confronted a catch 22. You can't get approval from regulators unless you have money in the bank and you can't always get money in the bank unless you have approval from the regulators. Stay with us. I'm guy Ross. And you're listening to how I built this from NPR.
+
+4 (39m 9s):
+I'm Dan Jones. And I grew up in a small town called Jackson, Tennessee. And when I grew up, it was totally normal for people to have friends who were politically different from them. In fact, one of my best friends in high school, he was a white guy who was conservative. This guy loved Ronald Reagan. I hated Ronald Reagan. And, you know, we would just debate and argue about it all the time. But we were friends. I miss that feeling that you could just debate and disagree without distrusting somebody without disrespecting each other. And I just want to bring that back. And that is the point of the uncommon ground podcasts. You probably got some people in your life who you used to be able to talk to.
+
+4 (39m 50s):
+Now you can't, everything is just too polarized. I think there is still a chance to have a better conversation in America. I'll bring special guests into the conversation like Meghan McCain, Sarah Silverman, Deepak Chopra, and others. Our goal is to find common ground, join me every Wednesday by following uncommon ground on Amazon music or wherever you get your podcasts
+
+5 (40m 15s):
+On a cold February morning and Indianapolis, Tony <inaudible> woke up, got dressed, loaded his sawed-off shotgun and drove to his bank. After entering the office, he quickly found his investment banker and wired the muzzle of a shotgun to the back of the man's head. Tony wasn't there to steal anything. He was there to take his life back. And his plan was so well calculated that for the next 63 hours, the Indianapolis police department couldn't stop it. And so outrageous and potentially catastrophic that the entire nation couldn't turn away from it. American hostage as a new podcast, starring me, John Hamm, that tells the true story of one man who channeled the rage of a nation and took justice into his own hands.
+
+5 (40m 56s):
+And as the nation watched live, Tony would become a hero to millions to hear the story, follow American hostage, wherever you get your podcasts, or you can binge all eight episodes right now on Amazon music or wonder he plus,
+
+3 (41m 18s):
+Hey, welcome back to how I built this from NPR I'm guy Raz. So it's 2013 and flat and base. You are hard work building a trading platform that will let people buy and sell stocks on their phones. And they to pull together $3 million for their seed round, but it doesn't come easily. It takes like a year and a half to get it.
+
+2 (41m 42s):
+We had a lot of challenges, you know, at the beginning, we didn't know any venture capitalists. We were mathematicians. So we weren't part of that community, the startup community when we were in college. And actually the advice that we were given at the time was to stay away from venture capitalists, which ended up being obviously completely wrong, but
+
+3 (42m 2s):
+Not run for everybody, but maybe wrong, wrong just on people listening.
+
+2 (42m 6s):
+But everyone was like, you don't want to go anywhere near venture capitalists because they're just going to take your business away. Right. So, you know, once we got past that
+
+3 (42m 15s):
+And, and you had to get regulatory approval, I'm assuming to do, to be a trading platform, right?
+
+2 (42m 21s):
+Yes. And to market that we were offering the service. So I think the lean startup methodology, if you're familiar with that, basically Eric Reese wrote this book, the lean startup about how to market consumer products, right? And the number one piece of advice was basically that before you actually build anything, test the concept, you know, put together a splash page, a landing page that basically has the value proposition and see how it does. And that's like a very cheap way to test whether your idea has legs. And we weren't allowed to do that because as a broker dealer, you can't actually market investing services without having the appropriate licenses, right?
+
+2 (43m 6s):
+So the lean startup thing
+
+3 (43m 8s):
+Didn't apply to you. It
+
+2 (43m 9s):
+Didn't work for us and venture capitalists, angel investors had concerns about many things, right? Number one, could this team of mathematicians and backend engineers build this beautiful consumer product that they're talking about building, like we haven't seen any evidence of that. Right? Regulatory approval was uncertain. Not a lot of companies were, were doing that. And then you kind of look at the space and say, let's say they build something. Let's say, you know, they got the regulatory approval. How's this thing gonna make money? Like the tax, the cost of customer acquisition is in the thousands of dollars.
+
+2 (43m 49s):
+It's an extremely competitive space with like gigantic incumbent competitors that spend billions of dollars a year on marketing. And you know, these guys are telling us that they can make it work, not charging a commission and where the cost of customer acquisition is in the low single digit dollars. So not a lot of people bought that idea.
+
+3 (44m 12s):
+Yeah. I mean, th this is the thing, like the way TD Ameritrade and E-Trade and all these made money, it was charging four or five bucks per trade, right.
+
+2 (44m 22s):
+Or seven to 10 at that time.
+
+3 (44m 23s):
+So if I'm an investor, I'm going to say, well, your trades are not free. Somebody, somebody has to pay for it at some point down the line. So how are you gonna make money?
+
+2 (44m 34s):
+Well, our statement, we got a little bit better at this, but at the beginning we were like, well, we actually don't think it's a big problem because look at Instagram, how, how are they making money? Right. You have to pay for the costs of, of trading. You have to pay for the servers and the staff obviously. But we didn't really think too much about the revenue model we were just focused on. Can we build something that customers could actually want?
+
+3 (45m 1s):
+So the answer was, Hey, let's not worry about that. Now let's just get a bunch of, let's just onboard as many users as we can. And then we'll figure out the business model.
+
+2 (45m 9s):
+Exactly.
+
+3 (45m 11s):
+So you guys get the funding $3 million to start working on this app. And now the difference here is that it's not just about building the app, cause that probably in some ways was the easy part. There was all of these regulatory hurdles you had to overcome. Right. Because from what I understand, it took, it would take almost two years from the time you raised your seed round until you actually debuted,
+
+2 (45m 35s):
+Announced yeah.
+
+3 (45m 37s):
+The app, right? Yeah. So, so what was going on in those two years? Why, why, why did it take so long? Can you, can you kind of break that down?
+
+2 (45m 42s):
+Oh yeah. So there were a couple of parallel streams. One of them was building and designing the product and the technology. Yeah. And then the other was getting the licensing. So we brought on board, our chief compliance officer, Scott Friedman, who joined us in 2012.
+
+3 (45m 59s):
+It's interesting because a startup at your stage at that point would not have focused on a chief compliance officer. You would've been looking for a CFO and a, you know, and other, right. This is a little different. You had to have a, you had to have a compliance officer
+
+2 (46m 10s):
+That's right. I think most startups would have just been hiring engineers exclusively. But yeah, we, we were always considering operations. We needed the license. We knew what that process kind of looked like. And, you know, Scott made an extremely, I think difficult choice to leave a very good job and join us as our founding chief compliance officer, because he had just gotten married. His wife was pregnant with their first child. They had their entire support system. The family was in Chicago and he came to meet us and we were working out of a garage and we were just these disheveled 20 somethings.
+
+3 (46m 52s):
+And so he, he clearly was impressed.
+
+2 (46m 54s):
+Yeah. That was a big thing. We wouldn't have been able to make it happen if he had not made that choice.
+
+3 (46m 60s):
+Yeah. He'll do okay. In the end, but then he didn't know. Yeah. I'm just, I'm just foreshadowing here. How did you, in, in base, you divide and conquer, how did you guys upgrade? I mean, did you do was one of you the CEO or what both of you that just kind of did everything? How did that work?
+
+2 (47m 17s):
+He was more focused on design and I think he had the talent for that from when we were in, in college, you know, he had a very nice sense of aesthetics and he cared a lot and you know, he's in another life, he probably would have been an artist. Right. And I was kind of more on the engineering side. So I wrote a lot of code code for the backend platform for the iOS app. I taught myself how to code iOS apps by watching, watching the free courses from Stanford that were available online. And I'd be on the Caltrain going between San Francisco and Palo Alto. And I'd watch them at two X speed and just learn about developing that way.
+
+2 (48m 1s):
+And I think from time to time, we would have fights and arguments and disagreements, mostly on like small things. But I think by and large on the big things we were, we were pretty aligned and there was, there's always been a high level of trust because we became friends in college when we were both taking extremely difficult graduate math and physics classes. And we would just be banging our head against the wall, doing these difficult problem sets all night. So you go through that, it's kind of like starting a startup to some degree.
+
+3 (48m 39s):
+All right. So you guys are grinding away for what two, almost two years to build this thing. And what are you getting? Are you getting anxious? I mean, I don't know. I gotta get this thing off the ground already.
+
+2 (48m 50s):
+I think at times, certainly. Yeah. There were moments of extreme elation, you know, like I remember raising the first $250,000 from Google ventures. Right. And I remember like dropping my phone. I was like, I can't believe Google wants to invest in, in my company like four years ago. I w I wasn't even able to get an interview at Google. You know, now they're investing in my company, you know, then a year later it was kind of difficult. That was probably the hardest time in middle of 2013 when we had filed for the license. And we were getting close to our pre membership interview.
+
+2 (49m 32s):
+And part of that process to kind of get approval was to show that we had enough capital to operate for a year after becoming a brokerage. And the, the amount was a little bit influx. We had to actually model out what it would take for us to operate for a year. And we settled on something like a million dollars. And it was very hard to come by.
+
+3 (49m 54s):
+I needed a million dollars in, in an account in order to get that approval.
+
+2 (49m 59s):
+Yes, we need an a million dollars and we needed it before our pre membership interview.
+
+3 (50m 3s):
+So you needed the money just to get considered for a regulatory approval, but you had to raise money from people who were like, well, you're not approved yet.
+
+2 (50m 11s):
+Yeah. It's a catch 22 situation completely. And, you know, made things very difficult. And we actually didn't didn't have it in time. So we were like one or two days before the pre membership interview. And we were short about $500,000. And we were like, oh, we're going to have to go to this meeting. And I don't know what's going to happen. And then fortunately, Scott's wife went into labor.
+
+3 (50m 37s):
+This is your chief chief compliance officer.
+
+2 (50m 40s):
+Yes. So we, we, we were able to postpone it. We had a great excuse to postpone it. And then we pitched Tim Draper, the venture capitalist, and he asks us how much we're paying ourselves. And I don't remember what it was. I think we were paying ourselves either modest, modest salary. I want to say $80,000 or something at the time for Silicon valley. And he thought it was very high. And we ended up negotiating on that a little bit. And I, I talked to BU and I'm like, listen, this is going to be kind of tough, but we just say, we're, we're all in.
+
+2 (51m 20s):
+And you know, we're so committed to making this happen that we're not going to pay ourselves until we get the brokerage license application approved. And so we email him and we say, look, we're willing to do this. Hopefully that shows you that we're, we're super committed to this. And he said, you know what, that put me over the top. I'm in for 250 K right. Or 300 K. And after that, people saw that as a, as a really strong signal, you know, his participation, we were able to get a lot of angels. And I went to Scott and every time this conversation with Scott, our chief compliance officer was, you know, flat, do we have the money? How are we looking on the fundraising?
+
+2 (51m 60s):
+You know? And then, and then I was like, Scott, how much do you need? And we had a nice little laugh about that, because that was the first time it went from, how little can you make the one-year requirement to, how much do you need? Wow,
+
+3 (52m 16s):
+Did you guys, I mean, the name Robin hood, right? I mean, it, it w we know who he is and what he did, right. Or, yeah, this is the legend, right. He T stole from the rich and gave to the poor. Was that what you were trying to signal with? The name Robin hood?
+
+2 (52m 32s):
+Actually, my wife came up with the name, her girlfriend at the time now wife and the working title was actually cash cat. And I think we kind of liked cash cat, but there was a feeling that it wasn't powerful enough. Right. It was kind of, kind of jokey. And so the way my wife would introduce me to her friends and other people is, you know, this is my boyfriend flat he's in finance. And then there would be like a grown right. You know, cause they thought I was some investment banker or something, but so then she would say, oh no, no, no, but they're the Robin hood of finance. They're, you know, building something for the little guy. And so the name Robin hood kind of stuck and BU and I both really loved it.
+
+2 (53m 15s):
+And some of the other early folks at the company didn't like it as much. But I think the fact that it was a little polarizing made, it made us really excited to use it because stood for something. Right. And the last thing you want in a name is one that's boring and people forget about it.
+
+3 (53m 31s):
+So, all right, let's talk about, I mean, the app is being developed and eventually it launches in 2015 and one of the ways, or the main way that you figure out how to edit filled revenue is, is through something called payment for order flow. So we should explain this because, you know, it's, it's, it's complex both on sort of two basic explanation of this, but basically it's when a, like a third party firm compensates a brokerage firm like yours to get access to, to the order. So basically if I trade the Robin hood that has to be executed by a third party, that trait Robin hood goes to a third party.
+
+3 (54m 15s):
+Yeah. And, and they, they make money through the spread where I I'm, I'm willing to buy it for a certain price. Some people are willing to sell it at a certain price and whatever's leftover, that's how that third-party makes money. And you guys get a cut of that and that's how you make money.
+
+2 (54m 32s):
+All right.
+
+3 (54m 32s):
+So this is, this is the idea from the beginning, which, which was a pretty smart way to make revenue, to build revenue. Yeah.
+
+2 (54m 40s):
+I would say we didn't create
+
+3 (54m 42s):
+This, right? No, we didn't create it existed.
+
+2 (54m 44s):
+Yeah. It existed. And a lot of other brokers were, were, were doing it. Right. And I wouldn't say at the very beginning, this was the idea because we saw that it was a fairly small portion of the revenue of other brokers. You know, they were making more money in margin and interest on cash and obviously commissions. So it wasn't like when we saw the payment for order flow item in the 10 K, we were like, ah, that's it. This is like the, the, the undiscovered thing. It so happened to become a large source of, of revenue for Robin hood because we lacked commissions. So it was a larger percentage of our revenue. And, you know, people were always kind of looking for the catch with Robin hood.
+
+3 (55m 27s):
+Does Robinhood make more money if the more people trade or do you actually, does it depend on the kind of trade? Is it, I mean, if you're getting higher volumes, I'm assuming you're making more money, right?
+
+2 (55m 40s):
+Yeah. Jen generally that's the case. So for payment, for order flow, the way it works is it's a percentage of the bid-ask spread. So the more trading that happens generally, the more total revenue there, and to some degree, I think some people assume Robin hood was a nonprofit and you know, we're not making any money and we're billing ourselves as a nonprofit, which we never claimed to be so generating revenue in and of itself as perhaps viewed as, as a bit of a catch with the product, which, you know, obviously I disagree with it was a for-profit product and a business from the very beginning. Yeah.
+
+3 (56m 19s):
+But you've, you've come under a lot of criticism from different sectors from, from economists, from Capitol hill, even from competitors or competitors who are trying to do a version of, of, of what you do, who, who, who say we don't do these kinds of trades. Yeah. What about the, the criticism that Robin hood works with these third party firms that are, that are going to pay the highest dollar amount, which is not always in the best interest of the customer who is making the trait? Is there, is there any truth to that?
+
+2 (56m 50s):
+Well, I mean, I, I would first say they all pay the same rate. We work with the largest firms and you know, this stuff is all highly regulated. And I think it kind of gets back to the idea of, we have to generate some revenue. Yeah. Right. So this sort of like conflict of interest idea seems to be the same generic conflict of interest that exists when you're a business selling any type of product. It's like I could make revenue, or I could just use that revenue and pass it back in the form of lower prices for my customers in the products that I sell. And actually I'm all about crushing a profit margins.
+
+2 (57m 31s):
+A lot of people said that the business model couldn't work the way that it's working for us and that it would be so tight and the profit margins would be so narrow that other people weren't able to make it work. And I think you also saw that play out when the incumbents replicated our business model in 2019, you know, every major competitor
+
+3 (57m 54s):
+Went to zero commission,
+
+2 (57m 56s):
+Which was crazy. I mean, I never seen anything like that. You see, some of these stocks are dropping overnight led to a wave of industry consolidation because presumably a lot of those firms couldn't make it work independently without that revenue stream. So make no mistake about it. It's never been a better time to be a retail investor in this country. Like what Robin hood has come in and done is obliterated a large part of the profit margin in this industry. And the difference has gone into customers' pockets,
+
+3 (58m 27s):
+You know, and I say it as a full disclosure, cause I, I have a Robin hood on my phone and I play around in it. Good to
+
+2 (58m 34s):
+Hear
+
+3 (58m 34s):
+Now I think that the great innovation that you introduced wasn't necessarily no-fee traits, but this is super easy interface, right? Because most people, this is my view and I think a lot, and I'm not a financial broker or I'm not accredited or any of that, don't take my advice. But I think for most people it makes most sense to put your money in a no or low fee index fund and just, you know, put it there and don't, don't touch it. And so, and so I say, this is somebody who a little bit, cause it's it's, it is, there's an addicting quality to it, you know, to see, you know, oh my gosh, I just made 10 bucks or 15 bucks wherever it might be. You have created this incredibly simple way.
+
+3 (59m 16s):
+And to have, you know, we could argue with democratize the ability to, for anybody with, cause there's no minimum, you don't have to have a minimum balance to go into Robinhood. So you've, anybody can go in, who's got a phone, a mobile phone and do this with a little bit of money.
+
+2 (59m 29s):
+I think you should also mention fractional shares, which I think that's kind of the dark horse. Like what we've done with fractional shares. I'm incredibly proud of
+
+3 (59m 37s):
+Like with Amazon UK, Amazon shares 3000 bucks. No, very few people are gonna be able to afford one share of Amazon, but you buy a fraction of it
+
+2 (59m 44s):
+And you buy it in real time and you get really great pricing on that trade.
+
+3 (59m 50s):
+Okay. But let me ask you my question here about this, because again, like you talked about the idealism that was connected to the founding of this company, right? And you were inspired by occupy wall street protests, but at the same time, does any part of your, did any part of you wonder? Well, a lot of people who may or may not really be fully educated on, on how the stuff works, might lose a lot of money. Did it, does that ever cross your mind or did it ever cross your mind?
+
+2 (1h 0m 24s):
+But you know, we think about that, that problem a lot. And we care a lot about safety and in a lot of cases, our products are more restrictive than the products of our competitors. I'll give you a couple examples. You can't short sell on Robin hood short-selling is one of the main ways that someone could lose more money than they put in. We don't offer undefined risk options trades either. So you can't sell naked calls. A lot of customers want to do that. And we deal with the effects of, you know, customers that say, Hey, I should, I really want to be able to sell naked calls.
+
+2 (1h 1m 4s):
+I want to be able to short sell and you're not letting me do it. I have to move to a different platform as a result. So, you know, we, we bear some costs for this and it's, it's challenging because you have to put these guard rails without being overbearing or annoying to customers. So they're hard to get, right. But we've, we've been working on it and we're committed to continuing to offer people the safest experience around all of our products. And not to say that we won't offer some of these things in the future that people are asking for. But we want to make sure that if we do offer them, we have like strong guardrails in place that prevents customers from getting into situations that are unexpected and very tricky for them.
+
+3 (1h 1m 49s):
+When, when you, when the app went live, it did get some attention and attracted some users, but it wasn't, it wasn't like a tsunami right away. Right. I mean, it was, it was successful, but not overwhelming. Am I, is that fair to say?
+
+2 (1h 2m 5s):
+I think that's fair. I mean, we were, well, how should I put this? I think it was pretty clear. The success surprised us at the beginning. So we had obviously a wait list before we went live in that wait, got up to about a million people before we started rolling out, which, which I believe was the largest pre-launch demand of its kind for any financial product. I think we knew pretty early on once we announced the waitlist and announced the service that, that people would want it. But yeah, it's, it's not like we were adding millions of customers a week. Yeah.
+
+3 (1h 2m 41s):
+But you were able to attract investors pretty soon after you launched and you just raised like $65 million pretty soon after you launch them. Some of the big, biggest investment firms and even guts celebrities on there, which is now kind of par for the course, celebrities are looking to invest in everything. Now it's true. It sounds like in the fall of 2015, by the time you guys were out, out in the world, I would imagine you're starting to feel confident. Like this thing is going to really work.
+
+2 (1h 3m 9s):
+I think we always felt confident, but we always felt a sense of urgency, right? It's always sort of the healthy paranoia of, are you moving fast enough? Are you building for customers? Are you meeting their needs? I wouldn't say that I can pick a time. And Robin Hood's history where I felt, you know, altogether very comfortable about how things are going.
+
+3 (1h 3m 32s):
+And we come back in just a moment. How Vlad's comfort level was severely tested when the stock market went through a wild swing struggling company called GameStop suddenly became the hottest stock on wall street, stay with us. I'm guy Raz. And you're listening to how I built this from NPR. Hey, welcome back to how I built this from NPR I'm guy Raz. So we're fast forwarding our story a bit to February of 2020, because you remember February of 2020, right?
+
+3 (1h 4m 13s):
+The U S had just gone into lockdown and the stock market cratered, but then a few weeks later, it bounced back. In fact, in early March, stocks made some of their biggest gains in a decade and there was so much frenzy trading that Robinhood couldn't handle it. It crashed. I remember this cause I have the app and I use it.
+
+2 (1h 4m 36s):
+Did you use it on March 2nd or March 3rd?
+
+3 (1h 4m 39s):
+Well, I could be right. Cause that was like the day where it was crashed. You couldn't what happened? What happened?
+
+2 (1h 4m 46s):
+You know, what's funny, March 3rd is a Bulgaria liberation day as well. When we were liberated by the Russians from the Ottomans. Funny how funny, how things work, right? There's also a, this thing in Bulgaria called Baba Marta, where on the 1st of March you get these little red and white threads and you can wear them as a bracelet or you can hang them on something and they're supposed to bring you good luck. And then at the end of the month, you nail it to a treatment. And I remember that year, I felt really guilty because I didn't do it. And then obviously on the first day of the month we had this, this outage. So things like that make you a little superstitious.
+
+2 (1h 5m 28s):
+So now I'm looking at my Baba Marta thing and touching it as we're having this conversation.
+
+3 (1h 5m 34s):
+And the outage was because too many people were trying to trade and it crashed the servers.
+
+2 (1h 5m 40s):
+Yeah. I think we were, we were dealing with unprecedented growth and it had started on really at the beginning of the year, we, we tend to have a step function in growth just from people doing new year's resolutions
+
+3 (1h 5m 54s):
+And things like that.
+
+2 (1h 5m 55s):
+Yeah. So, you know, they start the new year. They say, okay, this is the year where I'm actually
+
+3 (1h 5m 60s):
+Going to become
+
+2 (1h 6m 1s):
+An investor and take it, take it more seriously. Right. So you had the new year's resolutions. Then you had the market crash. The rates went to zero. People were at home and there was a scarcity of spending. So the number of things that you could spend money on decreased, I couldn't spend money as easily going out to restaurants, going to movie theaters, right? So there's a shortfall of spending activity. And the difference if people aren't spending their money, there's a couple of ways it could go, they could save it in a savings account or they could invest it. Well, savings accounts aren't paying any interest because the rate went to zero.
+
+2 (1h 6m 42s):
+So it goes to the market. And I think we became synonymous with retail investing in the market. And we kind of became the default choice through 2020. You know, you heard this term, Robin hood traders or Robinhood investors, which basically refers to anyone investing individually at this point, as far as I can tell, or at least the common person. And then you had the stimulus checks, which were unprecedented themselves. And some portion of that was allocated to saving and investing as well.
+
+3 (1h 7m 14s):
+So how did you, I mean, when that happened right? In, in March of 2020, when that happened and people were really mad, right. Cause they were like, that's my money. I can't trade. Yup.
+
+2 (1h 7m 25s):
+Yup.
+
+3 (1h 7m 26s):
+D how did, I mean, this was, this was basically, it was an unanticipated surge of users. You just that's what it was. You, you just weren't prepared for the surgeon and no simple as that.
+
+2 (1h 7m 39s):
+Yeah. I mean, it was, it was something very simple ended up failing and taking out our system. Right. It was a DNS system failure, which was a failure by a system that we didn't even write ourselves. Right. Open source software for some of that. But yeah. I mean, it was painful for our customers also for me as an engineer, like you never want to have system issues. Right. It's sort of like hits me to my core to a certain degree because like I'm responsible for it. Right. And what you saw is Robin hood learning from that, making a lot of investments, which you probably don't see because how can you see reliability?
+
+2 (1h 8m 24s):
+You only really see it if you're up and your competitors are down. Yeah. So we're certainly, we certainly have new problems, but they're at least original problems.
+
+3 (1h 8m 35s):
+There's a lot of moments. And look, you're a big target because you're very successful and lots of people use you and lots of people like what you do, but, but as a result, you're a big target. And you know that, and you kind of weathered that, that challenge in 2020, and then throughout the year, there were several others. One in particular that is heartbreaking as a story of this, this young man who committed suicide Alexander Kearns, who was a college student, who was under the impression somehow that he made a terrible trading error and owed like $700,000. And he took his own life.
+
+3 (1h 9m 16s):
+It turns out he didn't apparently owe anything. But what did you, when that came to light and you found out about that, what did you, what'd you make of that?
+
+2 (1h 9m 27s):
+I think the passing of Mr. Kerns was a tragedy. You know, it was devastating to me and to everyone at Robin hood. So our hearts go out to the family and I'm deeply sorry for, for the loss of his life, right after that happened. BU and I sent a letter outlining the changes that we were committing to, to make in the wake of the tragedy. So changes to the user interface, more criteria for how you access options in the product, more education. So we hired an options, education specialist, and then we actually created a callback customer service number so that you could speak to a live agent on the phone.
+
+2 (1h 10m 14s):
+Yeah. But, you know, it's, it's certainly was, was devastating. And I think we, we vowed to learn from it and to make it so that the product has many, many more safeguards in place from something like that happening
+
+3 (1h 10m 32s):
+Flat. I know that just a few months ago, I think in November of last year phase, you stepped down as your co CEO and from sort of the day-to-day operations of the company and you are now the sole CEO. And now of course, all the presumably of the firepower is aimed at you in that position. Has that been challenging to do that without him? Or, or is it ultimately in the best interest for you, for the company? For, I don't know that he, he stepped aside.
+
+2 (1h 11m 5s):
+Well, I, I should first clarify that he hasn't left day to day. So he stepped down as co CEO, but he's chief creative officer at the company very much involved day to day, just in, in a role that he's more passionate about, where he drives products and product strategy. And we chat on a daily basis and we talk through strategy and, you know, we just felt that the best way to serve the company would be to go to a more standard structure, centralize the day-to-day leadership, making sure, you know, the lines of decision-making are clear.
+
+2 (1h 11m 46s):
+And it allows us both to focus on the things that we're passionate about.
+
+3 (1h 11m 51s):
+You got the last, last time you were in the hot seat and it's not going to end. You're gonna be in that again, it was in January of 2021 that, and the game stopped controversy. The AMC P you know, you have all these traders coming in through Reddit and trying to trade. And, and you guys had to halt that trading, which led to a lot of people, furious members of Congress. I mean, I think Democrats and Republicans were in agreement about how angry they were assessing. And, and it took you a couple of days to explain what happened, which was essentially, from what I understand, there were regulations that required you to have enough cash in the bank to back up these trades.
+
+3 (1h 12m 33s):
+And, and you didn't, you didn't have that cash. Is that, is that more or less the, the, the explanation of what, why you had to put a halt to those trades?
+
+2 (1h 12m 41s):
+Yeah. Essentially Robin and securities can't use customer cash to fund net purchases of securities. It uses corporate cash as collateral
+
+3 (1h 12m 52s):
+Money that you had to have in the bank
+
+2 (1h 12m 54s):
+Money that we had to have at the clearing house. Yeah. And so people ask the question, like, I don't understand why I can't buy, I have this money in my account. You know, it's enough to buy the stocks that I want to buy. Why can't you just use that? Well, it's because the trade settled T plus two. So the trade is actually settling two days after the person purchases it. And in that two day period, we have to post collateral in case the transaction fails or gets reversed. And that can happen for a variety of reasons. And we can't actually use the customer's money. We have to use corporate cash for that. Right. And the collateral requirement, as I've said in a lot of these news shows started off at $3 billion in the morning of January 20th.
+
+3 (1h 13m 40s):
+And you didn't have 3 billion on cash because why would you?
+
+2 (1h 13m 44s):
+Yeah. At the time we had 700 million on deposit at NSCC. So the request was a four X increase in our deposit requirement. Wow.
+
+3 (1h 13m 54s):
+But what you just explained to me, you could not essentially sounds like you could not explain that quickly to frustrated customers.
+
+2 (1h 14m 4s):
+Yeah. I think we evolved. I evolved as a communicator throughout this process. And I would say we, we explained it. I think that day we said, Hey, we're subject to these deposit requirements. And these capital requirements, those requirements can go up. And I think there was a lot going on. We were trying to keep our systems up amidst being number one on the app store, which was always the number one concern to make the systems up for all trading. We were raising the capital to make sure we could relax the requirements. You know, I went on television that night, Wednesday, the 28th, I was kind of running on fumes after what was a very stressful day.
+
+2 (1h 14m 46s):
+And I think I, I hear the feedback that my TV interviews, you know, left, left a lot to be desired. Hopefully the subsequent ones gave more information and kind of people understand what happened better and understand the NSCC deposit requirements to, to the GRI, which it makes sense to understand these highly technical things
+
+3 (1h 15m 12s):
+Fled. I I'm curious, you know, I, I wonder if, I mean, you know, w when you hear people like mark Zuckerberg or Jack Dorsey, when people say, well, you know, I mean, look at these platforms you created, and there's so much toxicity in social media. And, and oftentimes, you know, they'll essentially what they'll say is it was an unintended consequence if they even acknowledge the toxicity on their platforms and, and look, I mean, it's not your doing that, that all these investors came in and manipulated the prices of GameStop or AMC. And, and many of them were, were really kind of countering the manipulation that professional traders were already doing. But I wonder, I mean, is that an unintended consequence of the platform that you've put out into the world that it actually makes it much easier for stocks to be manipulated the price of stocks?
+
+2 (1h 16m 2s):
+Well, I think that the M word is a little bit of a tricky one, that it means very specific things. Right. And I'm actually not sure that that's, that that's, what's happening either by our retail consumers or
+
+3 (1h 16m 18s):
+For GameStop to go from 2 billion to 24 billion valuation, no matter of day a day.
+
+2 (1h 16m 23s):
+Well, yeah, it's certainly, there's a, there's a price move, but I, I don't think I should opine on whether that's market manipulation or anything like,
+
+3 (1h 16m 31s):
+Well, but okay. Let's not use that word then, but I mean, is that, could you argue, that's an unintended consequence of the platform that, that, that can now happen very quickly?
+
+2 (1h 16m 40s):
+Well, I think that we certainly didn't anticipate that people on social media would coordinate and all buy the same stock at the same time. I just, I just don't think the markets were built with that idea in mind to support that like March of last year, right when the entire market was down. And clearly there was like a broad based, broad based stress on the system deposit requirements and goes up in those situations and that's kind of what it was built for. Right. And that makes sense to, to everyone in this case, you know, you could argue, this is concentrated on a small number of stocks, but the system wasn't built for people on the internet banding together, millions of people to buy the same stock or a small group of stocks.
+
+2 (1h 17m 31s):
+And I think it kind of broke the system to some degree.
+
+3 (1h 17m 34s):
+Yeah. Do you think that, I mean, you say that you couldn't have anticipated the social media side of this, and I think that, I believe that I think that's, you can't anticipate every eventuality, but it also means that this can happen again and again and again. Right. I mean, and, and, and understand that you don't to weigh in on whether that's good or bad, but it can happen. I mean, there, there, this may be par for the course going forward that, that you may just have an army of individual investors who decided to just go for it on one stock or just kill another stock. And I know it happens professional investors have been doing it, but this may now be driven by consumer investors.
+
+2 (1h 18m 13s):
+And I, I would say some, some people still argue that with these meme stocks, it's still happening. Like it's not, it hasn't concluded the story's not over. Right.
+
+3 (1h 18m 23s):
+And is that, I don't know if that's good about it either, but, but as a, as somebody, and I don't really invest in, in, in many stocks, as I said, it's just sort of play around, but I mean, God, I'd be, I'd be freaking out if, if it was my stock that they decided, I don't know, I just put some money into it. I don't know Coca-Cola or something. And people decided to go after that one, you know, I don't, I don't know. It, it, it can happen.
+
+2 (1h 18m 44s):
+Yeah.
+
+3 (1h 18m 45s):
+And there's no way to prevent it, I guess, unless there's some kind of regulatory regime here. Right.
+
+2 (1h 18m 51s):
+Yeah. Or, you know, it's also not clear whether, what aspect of it, if any, needs to be prevented. I think certainly, you know, we're pushing for faster settlement because that's in service of the financial system and making sure that the system operates smoothly and there's less need for money to be put up as collateral because, because the risk would correspondingly be reduced. And yeah, I'm not sure whether the, this idea that individuals investing in the same stock, I don't really know if there's a way to, to reverse that or whether it's, it's a good thing. People should be able to make their decisions and invest in whatever they want to subject to all of the, you know, suitability requirements and other regulations.
+
+3 (1h 19m 39s):
+When you hear criticism from people who say, yeah, you know, the customers aren't are the, the, the people are making the money out of this are these trading firms and Robin hood. And actually the customers are losing out. I just get frustrated. I'm just curious. I mean, do you think that the, some of the media criticism and coverage of you has been superficial, unfair? I mean, what do you get mad, frustrated, or what do you think?
+
+2 (1h 20m 4s):
+Well, I think that I was watching this interview with Jeff Bezos a couple of years ago, and he mentioned a few things that resonated with me. One of them is you've got to have thick skin, right? People are going to take shots and, you know, it doesn't hurt them to take shots and potentially millions of people can do it. So the only way to survive that is to actually just listen to the criticism and understand it, but otherwise have thick skin. And I think you have to tolerate being misunderstood, obviously correcting the narrative and making sure that the facts are out there. But I think if you're, if you're trying to do something important, you're going to be misunderstood.
+
+2 (1h 20m 48s):
+And I think that that resonated with me and, you know, around some of these specific things, just have to get the facts out there. You know, the fact that Robin hood customers had at the time of the congressional hearing 35 plus billion, more in unrealized and realized gains equities and crypto on top of money that they deposited, I think is a pretty good fact that no, it's not just Robin hood and our market makers that are making money, customers have, have done quite well and benefited from the markets as well.
+
+3 (1h 21m 25s):
+When you think about your, your journey growing up and getting to go to Stanford and pursuing math, but then meeting meaning VU and starting this business and fat founding it, and then taking it to where it is today, how much of that do you think has to do with how hard you worked and how smart you are and, and maybe, you know, how much do you think it has to do with, with, with luck or maybe privileges that you, that you had that maybe others don't have? I don't know. W what, what do you think?
+
+2 (1h 21m 58s):
+Yeah. Or, or maybe we all live in a simulation, and this is just the one of infinite number of realities that I ended up picking. Right.
+
+3 (1h 22m 8s):
+I like that answer, actually. I never had, I never got that answer to this question.
+
+2 (1h 22m 13s):
+Yeah. I do think that I look at everything around me and there was a big realization at one point, when you just realize that everything around you, the world that exists is built by people. A lot of whom are much smarter than you, or more capable. And I think a big step is just deciding you're going to do it. You know, you're gonna, you're going to actually try to drive something and change something rather than merely becoming merely being like a passive participant in the world. So I think the decision to do something I think is, is a very powerful one. And at that point, you know, you can break down Robin hood into a series of small steps.
+
+2 (1h 22m 56s):
+The first one being start Robin hood, and then every subsequent one being some variant of don't stop and keep going, right? And you end up where we are today.
+
+3 (1h 23m 9s):
+That's the flat tenant co-founder and CEO of Robin hood. And by the way, while everything else was going on this past year, the company was also getting ready to file for an IPO, which they did just recently. And according to Forbes, their valuation, which was somewhere around $20 billion last year has gone up perhaps even doubled to $40 billion. Hey, thanks so much for listening to the show this week. If you're not a subscriber to the podcast, please do subscribe wherever you get your podcasts. If you want to write to us, our email address is H ivt@npr.org. If you want to follow us on Twitter, we're at how I built this or at rise.
+
+3 (1h 23m 52s):
+Our Instagram is at how I built this NPR and mine is at guide dot Ross. This episode was produced by James Della goosey with music composed by REM, Tina or bluey. Thanks also to Liz Metzker Ferris safari, Derek gales, JC Howard, Juliet Carney Neeva grant, and Jeff Rogers. Our intern is Janet Lee. I'm guy Ross, and you've been listening to how I built this. This is NPR.

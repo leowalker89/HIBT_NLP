@@ -1,0 +1,644 @@
+0 (0s):
+Hey Prime members. You can listen to how I built this early and ad free on Amazon Music. Download the app today.
+
+1 (9s):
+This is Chip Brantley, co-host of the NPR podcast, white Lives. Before we found the man in Vancouver, before we sued the State Department, before we snuck into the graveyard of a federal penitentiary, all we had were the photographs, photographs of a group of Cuban men standing on the roof of a prison in rural Alabama. That's this season on the NPR podcast, white Lies.
+
+0 (31s):
+This episode of How I Built This is sponsored by Instacart. With Instacart, I can easily order my groceries and other weekly essentials. Shoppers help deliver the order right to my door in as fast as an hour, giving me time back to hang out with my family. Instacart helps to deliver items from over 75,000 locations across the country. Get whatever you need now from grocery items, household essentials, electronics, home improvement, alcohol, pet supplies, beauty items, and more. Instacart shoppers provide support while they shop. Share realtime updates and deliver your order with care. Visit instacart.com or download the app to get free delivery on your first order.
+
+0 (1m 14s):
+Offer valid for a limited time minimum. Order $10. Additional terms apply. This episode of How I Built This is brought to you by New York Times All Access for the best in news analysis and culture. There's only one New York Times. And now you can enjoy times level expertise in the areas of games, cooking, product reviews, and sports with a New York Times all Access subscription. In addition to original reporting from journalists worldwide, you can unwind with Spelling Bee Wordle, the crossword and more. Enjoy delicious recipes and daily inspiration from cooking experts. Explore independent reviews for thousands of products and wire cutter and discover in-depth personalized sports journalism from the Athletic New York Times, all access, everything that Times offers, all in one subscription.
+
+0 (2m 2s):
+To subscribe, go to ny times.com/all access.
+
+3 (2m 10s):
+I was writing payroll checks from my personal checking account. I went around to fabric resources and and begged them. Please, will you give me credit? I had no office. The first time I got a phone call and the New York Times said, oh, we have a reporter who would love to come and look at the clothes. And I said, well, they can't come here. And they were like, well, what do you mean? And I said, well, I'm literally, you know, sewing in my bedroom.
+
+0 (2m 44s):
+Well, to how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. I'm Guy Ross. And on the show today, how a kid from Long Island turned his name into a global brand with designer luxury apparel and accessories under the label Michael Kors. If building a fashion brand is hard, turning that brand into a global one is really hard, especially because names like Nike, Adidas, Louis Vuitton, and Gucci take up so much market share.
+
+0 (3m 30s):
+If you look at the 50 biggest global fashion brands, only a handful are the names of actual living humans. You can probably guess some of them. Ralph Lauren, Tommy Hilfiger, Calvin Klein. And if you go to Bangladesh or Dakar or Chicago, you will likely find some kid wearing a shirt that says Tommy Hilfiger or Calvin Klein. And you may wonder why, why is a black t-shirt with the words Calvin Klein such a desirable article of clothing? Well, the answer of course, is branding. Calvin Klein, Tommy Hilfiger and Ralph Lauren figured out how to turn their brands into aspirational products.
+
+0 (4m 13s):
+And they didn't become global brands by accident. It happened methodically, carefully, and strategically. And the same goes for the brand and designer behind today's episode, Michael Kors. Michael Kors as a brand, has been around a long time since the early 1980s, but it's only in the past 15 or so years that Michael Kors has become one of the 50 biggest global fashion brands on earth. Think about how many times you've seen someone wearing Michael K's sunglasses or a Michael K's t-shirt or clutching a Michael K's purse. Michael saw what Calvin Klein, Ralph Lauren and Tommy Hilfiger were able to do on a global scale, and he decided that he wanted to figure out how to do the same thing.
+
+0 (4m 58s):
+Today, the brand is part of a multibillion dollar company that Michael Kors himself is still very much a part of the parent company, which Michael also founded, owns Jimmy Chu and Versace. His brand makes everything from high fashion gowns that cost $10,000 to t-shirts and underwear packs for less than 50 bucks. The company is publicly traded with a current market cap of over 6 billion. But the path to getting there was both fraught and fortunate. At one point in the 1990s, Michael Kors filed for bankruptcy that forced him to rethink the way he did things, and it also gave him the opportunity to do work for other brands, notably the French luxury fashion line, Celine.
+
+0 (5m 46s):
+And it was at Celine, where Michael Kors realized that the way to build a really big fashion brand was through accessories, things like handbags and watches and sunglasses. He also very wisely became a judge on the reality show Project Runway back in the early two thousands, which raised not only his profile, but the brands as well. Michael Kors was not actually born Michael Kors. For the first five years of his life, he was Carl Anderson. But when he was still a little boy growing up on Long Island in New York, his parents split up and his mom remarried a man whose last name was Coors.
+
+0 (6m 26s):
+So Carl Anderson took on a new last name and then a brand new first name as well.
+
+3 (6m 33s):
+So I was gonna be Coors, and I think the, at the time there was sort of this, okay, well, we want to use the initial M to commemorate my great-grandfather. And my mom said, you know, what do you, what name do you like? And I said, Michael, I want to be Michael. So I changed my, I changed my trajectory. Hmm.
+
+0 (6m 55s):
+I I, I know that your mother was a model and so, so she would do like catalogs and, and things like that.
+
+3 (7m 3s):
+Well, it, it's funny, my mother started modeling when she was 17. She did some advertising. She was sort of a runway model in local fashion shows. And I think because she was tall, she said she was always the bride in a fashion show. So she wore a lot of bridal gowns. And then she was sort of modeling in showrooms. So she was on seventh Avenue in the fashion district. And then by the time I was four or five, Revlon the cosmetic company, they opened a place here in New Yorker that was called The House of Revlon.
+
+3 (7m 44s):
+And I think it was meant to be their sort of salon, and they needed sort of the in-house hair models. And I think she wanted a more steady kind of gig, so to speak. Yeah. So she became the in-house house of Revlon hair model for a while where you became the sort of Guinea pig for whatever they wanted to do to your hair.
+
+0 (8m 5s):
+Wow. And, and did you grow up, would you describe your sort of upbringing as middle class? I mean, your mom was a model, but she wasn't like a, it was a different era. This was before supermodels and, you know. Oh,
+
+3 (8m 16s):
+No, no. She was, she was pounding the pavement. She was definitely not, you know, Linda Evangelista or, or, or Bella Hadid.
+
+0 (8m 23s):
+She was getting outta bed for less than $10,000 a day.
+
+3 (8m 26s):
+She definitely was. I grew up at that point, what I would say would be comfortably middle class Mm. Middle class with some perks.
+
+0 (8m 37s):
+And, and you as a, as a little boy, were also a model. Like you, you learn like advertisements for like Lucky Charms, and I read for example. Yep,
+
+3 (8m 48s):
+Yep. I think when I was around four, I went to a birthday party for a friend in the neighborhood. And so a bunch of kids were all at a birthday party, and the adults are there supervising. As it turned out, the boy whose party it was, his uncle was there and his uncle produced television commercials. And he started talking to my mother and said, you know, I think he'd be great on camera. Hmm. So she asked me if I was into the idea, and I said, sure. And the first thing I did was in fact a Lucky Charms commercial.
+
+3 (9m 28s):
+Hmm. I did, I did a lot of things that in fact got tested in different markets, you know, Snapple, for instance. Of course now we think of Snapple as ice tea. Yeah. I did Snapple Apple chips, which that did not happen. We all think of Charmin as tissue paper. I did Charmin paper towels. Hmm. Which again, never happened, so, wow. And I did it for about two years. I love doing it.
+
+0 (9m 56s):
+Yeah. And as a kid, there's a, a photo of you as a kid, and you were a, a really handsome boy and still are handsome man. But as I was looking at you as a, as a boy, and you look like, I was trying to think of, you look like you look like Christopher Atkins from the, the Blue Lagoon, you know, movie with book shields. Right? Like, you have this curly blonde mop of hair as a kid. Yep. And, and you looked like that through your teens and, and your teenage years were the seventies. I mean, that was when you really kind of came into your own. And I, and I wonder as a kid already, were you interested in fashion already as like 10, 11, 12 year old?
+
+3 (10m 32s):
+I think that I was bitten by the bug even earlier than that. I grew up around people who loved clothes, they loved clothing, and they loved the whole idea of getting dressed and looking great. My grandmother, although she was an assistant principal, she got dressed for work every day, like she was going on a fashion shoot. Wow. My grandfather loved clothes, my aunts all loved clothes. So that was part of the conversation. Plus, I actually loved growing up. I loved to draw. So I was constantly in my room drawing and reading. And I, when I was really, when I was growing up, it wasn't just fashion.
+
+3 (11m 15s):
+I would sit and doodle houses, cars, all of that. But fashion was definitely, by the time I was, you know, 10 or 11, Vogue would arrive. And it was just a monumental moment. So it, it was definitely something that was always there,
+
+0 (11m 32s):
+Michael, when you were, you know, a teenager, right? And, and in, in sort of the world you inhabited, were you, I mean, would you, would you have considered yourself a socially active kid? Like, did you have lots of friends or did you get teased? I mean, you were into fashion and, and obviously you're a gay man today, but, but back in the seventies was a different world. What do you, what do you remember about just being you at that time?
+
+3 (12m 1s):
+I, the funny thing is, although I, here I was sitting in sketching women's fashions, totally obsessed also with theater and music. So, you know, I'm definitely not on the little league team. I was obsessed with how I was dressed. You know, I would've spent my last dime on getting something that was probably more outlandish than anyone else was wearing. There were comments for sure. But at the same time, I don't know, I think my family imbued me with this sense of confidence that, you know what, you're not the same as everyone else, and that's actually gonna be a plus.
+
+3 (12m 48s):
+Hmm. And so I'm very lucky that I had that situation. You know, a lot of kids don't feel that in their home. I think for a lot of kids, you know, if they made a, a proclamation that they wanted to be a fashion designer, their family might say, well, what is that? What does, what does that mean? Yeah. I didn't, I didn't have that situation.
+
+0 (13m 8s):
+Well, I, I'm curious cuz I mean, obviously your mom was a model, so she had done runway things on Long Island and locally. Did you have access to great clothing on Long Island, or would you go to the city? I mean, obviously New York wasn't New York today, but even in the seventies, it was still a fashion capital in the world.
+
+3 (13m 29s):
+Well, I mean, for me, from the very, very, very young age, I, I grew up, you know, loving movies and The Wizard of Oz was, you know, when I was growing up, that was just the ultimate magic. And I really did think of Manhattan and New York City as oz. Hmm. And so there was never a, any question that, that I would be a New Yorker. Yeah. So, you know, my heart would pound by the time I was a teenager and I'd be saving up to go to Bergdorf Goodman or to go to Sax Fifth Avenue and buy something and, you know, and, and it would just be the greatest thing in the world for me to, you know, have that special peace.
+
+3 (14m 11s):
+And I always wanted something that other people didn't have. I never really wanted to be just like everyone else.
+
+0 (14m 18s):
+Yeah. There's, there's a, a famous photograph of Bianca Jagger on a horse. And anyone who knows anything about Studio 54 in the seventies knows that photo. Cause it's so iconic. Like, she celebrated her birthday on a white horse in Studio 54. And it just tells you everything you need to know about New York in late seventies, you were there, you were actually at Studio 54 that night as a high school student, like just out dancing. Right.
+
+3 (14m 45s):
+You know, once again, I go back to the idea that I really never wanted to be like everyone else instead of going to my senior high school prom. That was, in fact, the night that I first went to Studio 54 with a friend, we went into Manhattan, we went out to dinner. I didn't even actually think at the time that it was so special that we were able to get in or why did we get in? Yeah. You know, we were 17 years old who knew who we were. But we had, we had youth, I guess, and energy on our side. And, and maybe I had Christopher Atkins hair from Blue Lagoon, who knew. And I somehow knew instinctively that this was a remarkable moment in time.
+
+3 (15m 31s):
+You know, the, the magic of being in a room and seeing all the fashion people that you look up to and, and worship, you know, Halston and, and Liza Minnelli and all of these people. And then Bianca Jagger comes in on a horse and you say to yourself, well, this is the place I wanna be. It was that moment that, you know, that can happen that often. If it happened all the time, it wouldn't be as special.
+
+0 (15m 58s):
+Yeah. So you knew already you wanted to go to fashion school and to become a fashion designer. And you did, you went to the Fashion Institute of Technology in New York, but you were only there for, I shouldn't say only, but you, you were there for about nine months before you dropped out. Tell me about Yeah. Why, I mean, did you get there and say, you know, I, I don't, I I think I just wanna start working. Like, what, what happened?
+
+3 (16m 22s):
+Well, I think that I, I thought that I would do the expected trajectory. I'd go to school, I'd get a job when I graduated, hopefully working for a designer who I admired. I'd learned the sort of inner workings of how it all worked. I'd pick up pins, I'd fetch coffee. And while I was in school, I was working at a boutique on Fifth Avenue and 57th Street called Lohas. And I got a part-time job there selling the clothes that they carried at the time, which were sort of, I don't know, you maybe call it the gap for the uber rich.
+
+3 (17m 5s):
+It was jeans, t-shirts and, and down jackets all made in France. A lot of it tie dyed. And we had celebrity clients from around the world. So, you know, we had Cher and Diana Ross and Goldie Hawn, Rudolph Nuria, Jackie Kennedy. I mean, it was amazing. And I was 18 years old.
+
+0 (17m 26s):
+Wow. You were dressing these people? Or you were
+
+3 (17m 28s):
+Yeah, I was knocked out by the whole thing. I mean, so schools suddenly, you know, between that and Studio 54 School was sort of like, why isn't school moving quick enough? I thought I was learning more when I went to work and I decided that, you know what, maybe I'm gonna skip the few steps. And I left school and I started working full-time at Lahars and at Lahars. Yeah. And, and also for myself, I always, my favorite activity is, is to watch people on the street and the streets of New York in the late seventies and the eighties. It, it was like a fashion show watching people and how they got dressed and how they, how they expressed themselves with fashion.
+
+0 (18m 12s):
+So you're working at Lothar and obviously learning about a retail store and how to sell and how to help customers, but also on the side and at home, just sketching your own designs, which you'd been doing since you were a teenager. What, what kind of things were you sketching? Like what, what types of of apparel were you, were you drawing?
+
+3 (18m 34s):
+I think if I describe it now, everyone will say, well, I guess it's pretty similar. Everything was sort of timeless, but not classic, luxurious, but not ostentatious. So a lot of it was, it was all about versatility. I always thought about comfort. I think, I think I learned about that also, being in a retail store and watching people, trying things on. So that idea of sort of sporty glamor, that's definitely, you know, been my focus since I designed at Loar and since I started designing on my own.
+
+0 (19m 15s):
+W when you, when you thought of, you know, you're working at Loar, but in your mind, did you think this is really just this kind of holding pattern before I make my own Mark? Like, or were you intimidated by the idea of trying to become a fashion designer? I mean, you know, you knew the names of the famous people, you knew who they were. Did you think I could do that too? Or were you, did you have some self-doubt?
+
+3 (19m 44s):
+I don't, you know, I don't wanna sound that I was overly confident, but even though I didn't finish school, even though I didn't really know the mechanics of, of really how the fashion industry truly worked, I knew that I wanted to do my own thing, have my own business, my own collection. And I had a very defined point of view. Funny enough, at the time I was still at Lozas and I had started designing the clothes that were in the store. I was also doing the visual merchandising. So I was doing the windows. The staff reported to me, the selling reporting came into me.
+
+3 (20m 27s):
+So, you know, this was a lot for someone who was 20 years old, but I still for a minute thought maybe I should go to work for someone else. Hmm. You know, I'll, I'll learn something if I go to work for someone else. And we had a lot of fashion insiders shop in the store. And there was a woman at the time who was a designer who I admired, who she shopped in the store. Her name was Ari and Adri. I said to her, I said, you know, I think that there is a possibility that I could go to work for Halston. And, and I, I love what he does. And I said, you know, maybe that would be great experience. And she said to me, now, you know what you wanna do.
+
+3 (21m 8s):
+I can see it in the close here at Loar. And she said, just wait for the moment and the opportunity will come and you at that point should do your own thing.
+
+0 (21m 19s):
+Right, right. So you were, I mean, you're 20, 21 years old working at Loar and also designing pieces that they sold. Like what jeans, what button downs.
+
+3 (21m 33s):
+No, what happened at Lahars was funny. As I said before, if it was really initially the sort of European French gap kind of for basics for the very rich, it was a very, very specific look. And as the seventies ended and tie dye and hippie and all of that disappeared, we suddenly, we were left with the wrong product. And so I started designing really a full range of different clothes for the store, which included, you know, women's jackets that were more tailored, a more polished look. The eighties were starting to happen where people were gonna be a little bit more dressed up.
+
+3 (22m 17s):
+And I was just going by my, my gut, my, my instinct
+
+0 (22m 22s):
+And all that. I mean, cuz a store like, like that today would mostly sell brands right. From other designers. Oh yeah. And maybe they might have their own line, but it's super inefficient. Right. A small boutique designing its own line and then just making a few pieces of, you know, like maybe 20 or 30 pieces. Oh
+
+3 (22m 44s):
+No, we didn't even make 20 or 30.
+
+0 (22m 46s):
+We'd make 10.
+
+3 (22m 47s):
+Oh. Sometimes I would make two.
+
+0 (22m 49s):
+Wow. But was that common for a store, a small boutique to have its own line of clothing
+
+3 (22m 55s):
+In in-house designer? No, not at all. Okay. I mean, you know, was I in the right place at the right time? The people who owned the store, they knew that I, you know, understood the customers. And I was a designer. So the next thing I knew, I was set up with a little workshop in Manhattan. So I first, you know, for the first time in my life I had people who were making the patterns following my sketches and actually making the clothes. So I started buying fabric and buttons and zippers. And I mean, it was literally, I kind of learned about being reactive.
+
+3 (23m 35s):
+So I don't know if, if my windows had colorful dresses and it was, you know, April and I had colorful dresses in the window and suddenly it started raining cats and dogs every day and it was pouring rain. I said, okay, well you know what? People are gonna need raincoats. So I would literally run and buy some material and figure out what kind of cool raincoats was I gonna make. And I would put those in the window. Wow. If they were successful, we'd make more. So it was sort of a laboratory, which was, you know, incredible way to learn.
+
+0 (24m 13s):
+Incredible. And also just, I mean, again, like the, you know, in order for that store to survive, they would've had, have, would've had to have sold those pieces for just a fortune.
+
+3 (24m 24s):
+It was expensive. I will, I will definitely acknowledge that what we were making was for a very rarefied clientele. But I think people also absolutely loved the fact that they knew they were not gonna see, you know, if they bought that raincoat that I put in the window, they weren't gonna see, you know, everyone on the street wearing it.
+
+0 (24m 45s):
+Hmm. I guess that they're, I mean, you're in the store, obviously celebrities are going there, your designs are in the window. Like some of the clothes they're selling are designed by this kid, Michael Kors. And probably some people asked, and, and more and more people started to find out about this. And I guess there was one person named Don Mellow who had a big job at Bergdorf Goodman who noticed your designs. And what, what is that? What happened? She noticed your designs and said, Hey, let's talk.
+
+3 (25m 14s):
+Well, I was actually doing the windows, I was physically in the window on 57th Street and fifth Avenue, I think I had pins in my mouth and I was dressing a mannequin. And this very, very stylish woman walked into the store and she started talking to me. And she said, these clothes that are in the window, they don't look the same as the tie dyed French loar clothes that, you know, we had seen in the past. She said, who designs these clothes? And I looked at her and I said, I do. Wow. And she said, but you're doing the windows.
+
+3 (25m 55s):
+And I said, well, I do the windows and, you know, I designed the clothes and, and I'm on the selling floor. And, and she, she introduced herself and she said, I'm, my name is Don Mellow. And at the time I think she was the fashion director at Bergdorf Goodman, which was directly across the street from us. And she said, if you, if you ever have a collection on, on your own, give me a call. I'd love to see it.
+
+0 (26m 23s):
+Wow.
+
+3 (26m 24s):
+And I, I literally went home that night and I started sketching my first collection. It was the impetus, even though I had no plan, I didn't really know how I was gonna do this, where I was gonna make it. I didn't think about any of that. I just said, okay, there's someone with interest. Yeah. And the women who worked for me at Loar, the seamstresses and the pattern makers, I had them make this very small collection. And once it was put together, I was still working at Loar and I didn't know if this would really work out.
+
+0 (27m 4s):
+Yeah. By the way, were you worried that the Loar people would be like, Hey, you're our guy, what are you doing?
+
+3 (27m 10s):
+Oh yeah, absolutely. I was, this was all very clandestine, but again, I didn't really know, you know, is this gonna actually happen? So I didn't wanna leave my job. So I kind of very quickly, quietly
+
+0 (27m 25s):
+Weren't doing this
+
+3 (27m 26s):
+Quickly, quietly went across the street on 57th Street to Bergdorf Goodman.
+
+0 (27m 31s):
+Nervous?
+
+3 (27m 33s):
+Yes. Nervous. I had no idea about any of the logistics. How was I gonna produce any of this? How do you cost it? How do you figure out your profit margin, your markups? Even like my style numbers, I had no idea. So I thought style number one, style number two, style number three, you know,
+
+0 (27m 55s):
+They were, and they were dresses, they were suits, they, for women just making women's fashion. Right. It
+
+3 (28m 0s):
+Was only women's fashion. No accessories, no shoes, no no bags. It was a, a small collection of luxury women's separates. You know what we, what we in the fashion industry say sportswear, a lot of people think that means jogging clothes. But it's really boils down to sort of this American invention of clothes that are versatile, you know, separate pieces that you can wear different ways. And that's what I brought to Bergdorf Goodman back then in 1981.
+
+0 (28m 33s):
+Okay. So you bring it to, this is 81, you don't have a business yet, you're not Michael Kors. I'm nothing. I mean, you are. Yeah. And what, what was the response? Did you show it to Don Mellow or did you show it to somebody else at Bergdorf?
+
+3 (28m 48s):
+Well, I walked in and there was Don Mellow waiting for me. And she was with a group of women who were the sort of buying team and the decision makers at the store. I brought a friend with me who would model the clothes cuz I was a firm believer that everything had to be seen on. So I started the process and started showing it to them. And I think I was literally at the third piece.
+
+0 (29m 21s):
+Do you remember what the piece was? Was it, was it, oh gosh, trousers. Was it a dress? Was it,
+
+3 (29m 25s):
+I did a lot of leather and suede back then, and I think I had this long black suede at the time. We said goucho pant that had an overskirt and this big wide obie belt, very dramatic, very expensive for 1981. And everyone in the room looked at me and said, could you excuse us? And could you leave the room for a minute? Hmm. I thought, okay, this is over. So I left the room and about two minutes later, Don Mellow said, we really think the clothes are terrific and we think they're perfect for Bergdorf Goodman.
+
+3 (30m 9s):
+And wow, we, we want to be the only store in New York to carry the collection for at least a year. And wow, we'd like you to come back to us and tell us, you know, is there anything you need from us? And I, of course, I mean, I had no idea how I was gonna do any of this. I didn't know what to say, what to do. Yeah. So I called a family friend, was a designer named John Anthony. And I called him and he said, well make your wishlist. And I said, what does that mean? And he said, well, he said, what do you need to succeed with this?
+
+3 (30m 53s):
+So I said, well, I'd love to have windows on Fifth Avenue. And he said, well, that should go on your list. I said, oh, I'd love a, an ad in the New York Times. And he said, what else? And I said, well, I think I wanna do a personal appearance or a trunk show so I can meet the clients. He said, add that to the list. And then I said, well, I have no money. I said, I don't know how I'm gonna actually produce finance. Yeah. How am I financing this? How am I producing it? And he said, you should talk to them and see if there's any way that you know, they could help you and prepay for some of their order. And I said, okay. And the following day I called the Don Mellow at Bergdorf Goodman and I said, here's what I, you know, need.
+
+3 (31m 41s):
+And she listened very carefully and she said, we're good with all of that. If, if you, you know, stick with us, we'll stick with you. Wow. And the next thing I knew, I had people sowing in my apartment on seventh Avenue and 23rd Street. And how many
+
+0 (32m 1s):
+Pieces, by the way, how many pieces of each garment did you have to make?
+
+3 (32m 5s):
+I probably produced anywhere from, I would say a dozen to three dozen at the max. But, you know, right. Two dozen of most things. I had people sewing in my apartment. I was, you know, dragging bolts of fabric in taxis and up the elevator and we were cutting the clothes, all of the fabric and all, we were cutting everything. My apartment was so small, we used a friend's apartment upstairs to cut things out. And, and, and somehow then I think I didn't even really understand how people delivered clothes to a store. I, I didn't know that, you know, there was u p s, you know, I wanted to hand deliver all of the clothes.
+
+3 (32m 50s):
+I was afraid they'd wrinkle and crease. So I, I delivered them in the back seat of my aunt's car.
+
+0 (32m 58s):
+When we come back in just a moment, how Michael moves out of his apartment and into stores across the country. But about 10 years into the business gets into a bad partnership that leads to bankruptcy. Stay with us. I'm Guy Ross, and you're listening to How I Built This. I talk with so many business leaders who use Squarespace as they're all in one platform for building their brand and engaging customers online. Squarespace lets you easily create a dynamic website and sell anything your products and services and even content you create.
+
+0 (33m 45s):
+Squarespace makes it really easy to get started with best in class website templates for all types of businesses that can be customized to fit your specific needs. Squarespace also provides the tools you need to run your business smoothly, including inventory management, a simple checkout process, and secure payments. Whatever you sell. Squarespace has merchandising features to make your products look their best online. And with Squarespace email campaigns, you can build a community of email subscribers and customers. Start with an email template and customize it by applying your own brand ingredients like colors and logo. And once you send built in analytics, measure your emails impact, check out squarespace.com/built for a free trial.
+
+0 (34m 27s):
+And when you're ready to launch, use offer code built to save 10% off your first purchase of a website or domain. If you had the chance to be brought back to life hundreds of years in the future, would you take it Wonder's. Newest podcast, frozen Head, hosted by Ash and Elena of the Hit Show Morbid tells the true story of Lawrence Pilgrim, a lifelong scientist who planned for death his entire life. Because for him, death wasn't the end. It was just the beginning. Lawrence's dream to be frozen and brought back to life in the future, pulls us into a Cryonic soap opera filled with dead pets, grenades, family feuds, hall of Fame, baseball legends, and frozen heads.
+
+0 (35m 7s):
+Lots of frozen heads. It's a story about the desire to avoid death, the lengths people will go to, to make that a reality and what it means to be alive. To begin with, follow Frozen head wherever you get your podcasts and prime members, you can binge the entire series ad free on Amazon music. Download the Amazon music app today. Hey, welcome back to How I Built This. So it's 1981 and Michael has just gotten a commitment from Bergdorf Goodman to carry his first collection of clothing. And at the time he's still making that entire collection in his apartment.
+
+3 (35m 48s):
+Yep. Every piece. And then I packed it all myself. I delivered it all myself, the windows I knew which day they were gonna go in, and I was standing on Fifth Avenue at two o'clock in the morning driving everyone crazy. And I think they made a huge exception at the time. And they let me come in and go into the windows and sort of fidget and fuss with the mannequins. Wow. And, and then the New York Times advertisement came out. I had no office the first time I got a phone call and the New York Times said, oh, we have a reporter who would love to come and look at the clothes.
+
+3 (36m 30s):
+And I said, well, they can't come here. And they were like, well, what do you mean? And I said, well, I'm literally, you know, sewing in my bedroom. But in fact the New York Times did come and they sat in my bedroom and looked at the collection. Wow. And then the first article that was written about me, I was the fall fashion pick in New York Magazine. And at the time the editor was Anna Wintour and she called me and was the same situation. Anna said, I want to see the clothes, I've heard wonderful things. And she said, where's your office? And I said, I don't have one.
+
+3 (37m 11s):
+And I took the subway to the New York magazine offices and I hung the collection on her coat stand. And you know, and so there was, it was definitely an unorthodox way to start. I mean, I was, I was writing payroll checks from my personal checking account. I mean
+
+0 (37m 28s):
+Your, to the seamstress and
+
+3 (37m 29s):
+Stuff. Yes. I mean, it was, it was really crazy. I went around to fabric resources and, and begged them, please, will you give me credit? You've known me, you know, since I'm 18 years old. You know, it was definitely not a, a traditional way to approach setting up a business.
+
+0 (37m 45s):
+Yeah. I mean, did you know how to do basic accounting, for example?
+
+3 (37m 49s):
+Not really. Right. I mean, yeah. I mean, not really. I mean, I, I figured out how to figure out my profit margin and how I should price things and so I did do that, but Right. It became very apparent very quickly that there was no way I was gonna do this on my own.
+
+0 (38m 7s):
+Yeah. I mean, here you were, and I'm, I'm assuming you thought of yourself as a, an up and coming designer. You were a young designer, this was, you were a creative, and, but at the same time, the Bergdorf order was financing the founding of what would become your business. And you probably didn't think of it that way. You probably didn't think, okay, I'm starting a business, I'm founding a business. But you were, you had to do some of the things that you have to do to start a business. And I guess there was a guy named Jack or Cooley, am I pronouncing that correct? Or you,
+
+3 (38m 37s):
+Or truly, or
+
+0 (38m 38s):
+Truly or truly that you, you brought in to help you kind of build this business? Who, who is Jack and Well,
+
+3 (38m 45s):
+Yeah, so I started down the traditional route. I talked to a lot of different people who were already on seventh Avenue producing clothes. And what I immediately saw with them was that they had a lot of rules about how they thought things should be done. And I said, you know what, I, I think I'm gonna go about this a different way and look for someone to be a partner in business who isn't necessarily in the fashion business. And I met someone who worked at Bergdorf Goodman at the time, and she said, my husband is in the real estate business. He is not in the fashion business, but he is definitely intrigued by it.
+
+3 (39m 29s):
+And we met and in we jumped. And I was, you know, was I 22? I was 22. Yeah.
+
+0 (39m 37s):
+And how old is Jack?
+
+3 (39m 39s):
+Oh, he was probably all of 33. So we were young and, and curious and energetic and, and we set up, you know, my first office. But my first office was a loft that I lived in initially in the back. But it was a big step up from, you know, showing the New York Times my collection in my bedroom. At least my bedroom now was in the back and step by step. It was a slow progression. And I think I waited until 1984 to have my first fashion show.
+
+3 (40m 21s):
+Hmm. Because I really, I knew that I had to sort of line my ducks up and make sure that, you know, that I knew that I was being able to deliver the goods, so to speak. And all these steps, the collection started getting a little bit bigger and broader. We were no longer, you know, strictly dealing with New York City. I was suddenly on the road a lot.
+
+0 (40m 45s):
+Yeah. Cuz after a year you didn't, you weren't only committed to Bergdorf, you could sell anything.
+
+3 (40m 50s):
+Oh, suddenly I was in Minneapolis and I was in Nashville and I was in New Orleans and I was in Los Angeles and I was, you know, I was traveling and
+
+0 (40m 58s):
+At specific stores at the big, like sax and Ian Marcus, Bloomingdale's,
+
+3 (41m 3s):
+Sax Fifth Avenue, Neiman Marcus. But also a lot of my initial business was really built in specialty stores where they really had these remarkable relationships with their clientele. So you were almost, you know, if you went back, let's say to Dallas twice a year, it, it was kind of seeing, you know, clients who became like friends. Yeah. And you started to really learn how, how these women lived. Where did they go on vacation? What were the restaurants like in their city? Did they work or did they not work? It was a crash course in consumer knowledge.
+
+0 (41m 46s):
+And what made your line appealing, I guess, was that it was elegant but practical. Like it was everyday clothing. I mean obviously you do, you make gowns and evening water, but, but mainly what you were making then was like everyday clothing that was also elegant.
+
+3 (42m 5s):
+That is a very sharp and clear assessment. I think women found the clothes to be easy to wear, versatile, long-lasting, glamorous, but, but accessible. That was, and then also we, we, we seem to have started even back then in the eighties with this very, very wide broad range of different kinds of customers, different ages, different sizes. I would go to do a personal appearance and we could have three generations in one family.
+
+3 (42m 45s):
+Hmm. We'd have the granddaughter, we'd have the daughter and we'd have the grandmother
+
+0 (42m 49s):
+All wearing it.
+
+3 (42m 50s):
+They'd all wear it and they'd all find their own way to wear
+
+0 (42m 53s):
+It. Yeah. So, and I think that's the key, right? That cross-generational brand. Like if you can hit that, if you can get those three generations wearing your line, like that's kinda like the holy grail I guess, of fashion.
+
+3 (43m 5s):
+Definitely. It's, it's also years later, of course when I was doing television, I was doing Project Runway. I would sometimes listen to some of the designers on Project Runway and they'd say, well, you know, I don't really design for people that size or I don't design for women that old. I was always perplexed listening to them thinking, well wait a minute, if you're good at what you do, you're a problem solver. You're solving the puzzle. So you should be able to design in such a way that you get your message across. But at the same time, you have that possibility to be democratic.
+
+3 (43m 50s):
+Whether that's just in size or age or, or even how a woman or a man puts themselves together. You know, because not everyone wears the same thing the same way. They wanna be able to put their own spin on it.
+
+0 (44m 5s):
+Yeah. You know, in those first few years you're selling first to Bergdorf and then you're going around and selling to boutiques around the country, small boutiques. And even your line is even in Sachs and Bloomingdale's and other big retailers, just to get a perspective, did that mean that you guys were just making tons and tons of money? Or, or not? I mean, cuz I think the assumption would be, oh, Michael Coors, he's, he's everywhere. But, but, but actually the reality's a little bit different. Right.
+
+3 (44m 33s):
+Very different. You know, it is mom and pop, you know, roll up the sleeves, the hands get dirty, you're doing everything yourself. And yes, each point, as the business grows, you can take on a new employee. Suddenly you have a public relations person. Suddenly when stores or magazines or the press come to visit your office, you can offer them something to eat in a cup of coffee. But you're definitely not rolling in the dough. You need things to build, you need to learn, you need to see things kind of grow at a rate that it's right, it's the right thing at the right time.
+
+0 (45m 18s):
+Right. You mentioned that this was very much a small business and it was still about traveling around the country to boutiques. And meanwhile your partner Jack is kind of, I guess manning the, the shop and running the, the books and stuff. And you are the face of this brand. But I imagine to really start to scale it, there are things you have to do in the fashion business. And one of the things inevitably, and you did this in 1990, was to launch a, a lower price line and, and it was called Coors by Michael Kors. And you started to work with a, a licensee, I guess an an Italian company, first of all, before we get into to what happened.
+
+0 (46m 1s):
+Is that true? I mean, in order to really grow the business, you kind of have to create a lower price line. Maybe have to, is not the right word, but you, I don't
+
+3 (46m 8s):
+Know if it's
+
+0 (46m 9s):
+Inevitably,
+
+3 (46m 10s):
+I don't know if it's necessarily that you have to create a lower price line, but you have to have something to sell that can have a broader appeal. Now that doesn't take anything away from someone who is very comfortable and very happy keeping their business small, tight. You know, we were, we were saying before, you know, I might not have played little League as a kid, but I am definitely a competitive player. Yeah. And so I think if you want to scale to the next level, doesn't mean that you have to have a lower price line, but you have to have something that can have a broader audience.
+
+3 (46m 51s):
+But for me, at the time, back in 1990, I think I was at Sax fifth Avenue at the time in New York, and it was the day that the store went on sale, so to speak. And I happened to be there and watch this. And I saw women who were kind of at the sale racks loving my designs. And I realized that this was a whole different audience of people who I was not speaking to because
+
+0 (47m 21s):
+A a, a garment might cost at that time 2 0 200 $50. And they and it was on sale for a hundred. Exactly.
+
+3 (47m 28s):
+Exactly.
+
+0 (47m 29s):
+And presumably, I mean, you, you kind of alluded to this, some designers are, have an aversion to this because there inevitably there are compromises that come with that. You've gotta manufacture it more efficiently. It's gotta be cheaper to make, you cannot sell sell. Absolutely. You can't sell something. It's, it's gotta be more like 75 to a hundred dollars rather than four to 400 to $5,000. Right. And so Exactly. Inevitably right. It means that there are different approaches to it. Did you have any fears about that? Did you have, because imagine, you know, every designer has to think like, you know, if my stuff is gonna be at TJ Max eventually, is it gonna devalue the, the brand in the, in the minds of consumers?
+
+3 (48m 11s):
+I think that we, what, what, what, how I approach it is this, everyone has a different budget. So what's inexpensive to one person is expensive to another, you know, so I think what, what how I approach it is, is it the best designed, best quality thing at that price?
+
+0 (48m 34s):
+Yeah.
+
+3 (48m 34s):
+That's, that's to me the trick. And then I feel that whoever is buying it, they're getting the best thing that they could buy and, and that works for their life. So whether it's $79, $790 or $7,900, is there integrity to the way it's designed? Is it the best quality you could find at that price? And then it's the right piece. It's just the right thing at the right price.
+
+0 (49m 5s):
+All right. So you struck a deal with, with a a, a licensee in Italy, a company to make this Coors line and that ultimately proved to be, I guess, I dunno, didn't work out right?
+
+3 (49m 25s):
+That's a nice way to put it.
+
+0 (49m 27s):
+Disastrous. What happened?
+
+3 (49m 29s):
+Well, no, at first it was tremendously successful. So here's the first time in my career that we launched something and it just shot out of the cannon very, very quickly. And it was an immediate success story.
+
+0 (49m 49s):
+And these are, what were they making t-shirts that said Michael Corson?
+
+3 (49m 52s):
+No, we made a full, no, no, no. It was a full collection again of women's sportswear. Right. Jackets, trousers, shirts, dresses, everything. Right.
+
+0 (50m 3s):
+So the, and this is what's known as, I guess it's like a bridge line in, in the fashion world. Like
+
+3 (50m 7s):
+Back in those days they would say bridge. Yeah. Which was a bridge between more affordable and designer prices. It's turned into contemporary, affordable designer, whatever it is. To me, it was just a more accessible product.
+
+0 (50m 26s):
+And presumably this Coors line is probably really fueling your business, right? This, I guess very quickly becomes the biggest driver of revenue.
+
+3 (50m 38s):
+Absolutely. Unfortunately, what happened, the company that we licensed to, we were really their first great success with licensing designer name. And I think they were so successful with us that they suddenly said, well wait, this is easy. We can do this, you know, with other people. And they went out and they started gathering other designer names that they said, oh, well if we did this with Michael Coors, we could do it with you. We'll do it with you. And they overextended themselves.
+
+3 (51m 20s):
+And it turned into this sort of perfect storm where we were chugging along with the royalty checks and expanding and as I said, really, you know, building up our infrastructure. Yeah. And the next thing you know, you've basically started relying on someone else and they ran into complications with some of the other lines and collections that they were licensing. And the next thing you know, they went bankrupt. Wow. And they ended up owing us considerable amount of royalty money. And we of course had been spending all along, we knew the money was coming in, the stream was coming in, and we didn't think the stream would ever stop.
+
+3 (52m 9s):
+Yeah. And then the stream stopped,
+
+0 (52m 12s):
+Which is like, yeah. I mean you were, sounds like, you know, 60, 70, maybe 80% of your money was coming from this one source, which is always dangerous for any business,
+
+3 (52m 22s):
+For any business. And also, let's be honest, spending the money before, before it comes in. It's the combination Yeah. Of being too dependent on one thing, not diversified enough. And quite honestly, putting, putting all your eggs so to speak in one basket. So it, at the time, I, I, I think I, I thought to myself first off, how could this happen if I don't have my own business? Who am I? We have to figure this out and sort our way through this. And I have to say at first there was never any question, we weren't gonna close, but we were gonna have to, you know, cut expenses dramatically.
+
+3 (53m 11s):
+And,
+
+0 (53m 11s):
+And you had to declare bankruptcy.
+
+3 (53m 13s):
+We d we went into chapter 11 bankruptcy, but the right away we made the decision, we're not gonna stop producing our collection. We're gonna continue to ship it to the stores and we're gonna continue doing business. Maybe we won't be able to have an advertising campaign. Maybe we have to cut staff. Maybe we have to, you know, no longer have an extravagant fashion show. We're gonna do what we have to do.
+
+0 (53m 43s):
+When that was happening, you're 32 and you're in bankruptcy, were you, was a part of you feeling like I failed. Like I, I'm not gonna, I might not recover from this.
+
+3 (53m 55s):
+Initially I thought, even though I understood the circumstances, it's hard not to question yourself. And what did I do wrong? What did I, you know, what mistake did I make? But then I saw that, you know, I, I don't think my confidence flagged ultimately once I, once I brushed myself off. And that, that definitely between the fact of, of course cutting expenses and pushing up the sleeves and, and and, and getting dirty and doing everything yourself. Yeah. A few years later we were out of chapter 11 and then we, we, we got back onto solid ground.
+
+0 (54m 33s):
+When we come back in just a moment, Michael comes out of bankruptcy with a new gig and some new ideas about the beauty and the business value of accessories. Stay with us. You're listening to how I built this. Hey, welcome back to How I Built This. I'm Guy Raz, so it's 1997 and Michael Kors, the brand is recovering from bankruptcy, but thanks to a new partnership with a Japanese company called Onward Koyama, it's able to keep making its line of moderately priced clothing.
+
+0 (55m 23s):
+Meanwhile, Michael, as he's managing all of that, takes on a new gig. You were hired by Celine the, the, the French fashion house to be their, their in-house designer. And obviously a big deal. You're an American designer. This is a French fashion house owned by the multinational L V M H. How did that work? I mean, you had Michael Coors as your business and then you also became an employee of Celine.
+
+3 (55m 53s):
+Well, fashion sometimes is, is like, it's really an athletic endeavor and you know, you're getting to the next step. Can I lift more weights? What, what can I handle? And the last thing that had ever crossed my mind would, would've been that I was gonna design a collection in Paris and have a fashion show in Paris. And it was, it was really nothing I ever thought of, but I thought, you know what? I owe it to myself to try this. It's a lot of juggling. Also, I was, for the first time my eyes opened at Celine to the power of accessories.
+
+3 (56m 37s):
+Hmm. Handbags and footwear, which was the bulk of their business. Yeah. It taught me really the power of accessories, how democratic something can be if it's well designed, if it's, you know, the right bag, the right shoe, the right pair of glasses. And that was a whole new sort of category for me.
+
+0 (56m 59s):
+I, I wonder, Michael, and this might be sort of a, you know, just a a dumb question from somebody who's not an insider in the fashion industry, how did you know, like what pieces to design for, for, you know, Celine and for yourself? Like, I'm thinking to myself, you know, wow, I just, you know, I've designed something and I'm blown away by it and I'd wanna keep it with my name on it. You know what I mean? Like, I wouldn't wanna give that to Celine, but of course you also work with them. So how do you, how did you kind of figure out what, what goes where,
+
+3 (57m 30s):
+What goes where is a good question? Well, of course, you know, to a certain degree you also start competing with yourself,
+
+0 (57m 37s):
+Right? Yeah.
+
+3 (57m 38s):
+You are competing with yourself. The thing that, that really helped me, you know, when you start designing, inevitably you actually have too many ideas. And often you might fall in love with an idea, but you say, you know what, it doesn't really fit. I'm gonna have to get rid of it. Yeah. So you edit it out. So suddenly I had more opportunity and more places that I could actually use an idea or use a design. But also Paris by nature is an indulgent city.
+
+3 (58m 18s):
+It's a more indulgent approach to getting dressed. New York is a, a much more practical, pragmatic kind of space. So I, I think that Michael Kors tended to be a more quiet approach to luxury. And I think that Celine tended to be a more extravagant approach to luxury. So that was kind of how we split the two.
+
+0 (58m 47s):
+Yeah. They obviously L V M H, they deepened their relationship with you. They, they bought a steak in Michael Kors I think in 1999. Yes. About about a third of it. And so that was an infusion of capital into Michael Kors. And by that time, I have to imagine Michael CORs, you know, it's not what it is today, but even in, in 1999, were you on a better financial footing at that point when they made that investment?
+
+3 (59m 15s):
+Absolutely. We, we had an investment from Albert Kohima and we had the, the investment in 99 from L V M H definitely put us on much more stable ground to grow the business and to launch Michael CO's accessories. In the early, I think it was 2000 actually,
+
+0 (59m 36s):
+This was like the perfumes and
+
+3 (59m 38s):
+Fragrance came, it was really my first foray into products that were not clothing based. So I launched my first fragrance, we signed a license for shoes, sunglasses. We broadened our product mix for sure. How,
+
+0 (59m 57s):
+How did it change how you operated the Michael Coors business? Cuz you'd kind of been burned earlier with licensing, not with licensing, but with like how much you spent and becoming super dependent on these licensing revenue streams. When you went back to it, you know, you've got now fragrances and shoes and other things. In the early two thousands, were you guys more careful about, about, about how you operated the business?
+
+3 (1h 0m 24s):
+Well, I th yeah, I think we definitely learned diversity was important. So you weren't relying strictly on one product. Yeah. You had a broader range of products and you also were watching your spending. Not that you were not spending the CapEx that you might need to spend to get to the next level, but you were not overspending because we had, we had been burnt. But I think it was really the diversification that we went from having all of the money from a license initially before chapter 11, which was, you know, from one revenue stream to suddenly having licensing money coming in from shoes coming in, from glasses coming in from fragrance.
+
+3 (1h 1m 14s):
+We were selling bags, we were doing our own men's wear. So there was more diversification to the business, which is healthier.
+
+0 (1h 1m 24s):
+So this kind of leads to the next really big turning point in your business, which is 2003, two new investors acquired about 85% of Michael Kors, Silas Chow, and Lawrence Stroll. And from what I gather you, you sought them out. You wanted these investors to come in, buy out the share zone by L V M H and, and the Japanese company and even your business partner. And I imagine you did this because you thought that with their ownership and their partnership, you could scale the business even more. Was that the thinking?
+
+3 (1h 2m 0s):
+Absolutely. And I felt that I was, at the time we were doing well, but we were treading water and I really wanted to see the business go to the next level. Yeah. Silas Chow and Lauren Stroll became involved with Tommy Hilfiger's business and they really took Tommy Hilfiger to a very, very, you know, different level than when Tommy had started. And I felt that I had enough experience and enough knowledge at that point to, to be able to see it taken to the next level.
+
+0 (1h 2m 37s):
+Yeah. I wonder, I mean, you mentioned earlier you weren't on the little league team, but you were also competitive. You were a competitor and you are looking around, and I wonder if you were looking around and seeing the Tommy Hill figures, the Kelvin Kleins and the Ralph Lauren's, you know, as these international brands and thinking, I, I should be there too.
+
+3 (1h 2m 56s):
+Absolutely. Ralph Lauren and Tommy Hilfiger and Calvin Klein and brands like that, suddenly they were not strictly American brands. These were global brands. And I definitely thought by that point, I had had my experience working with Celine, and it was really time to find the situation that would allow me to take that, you know, that step to scale it up.
+
+0 (1h 3m 23s):
+There was a quote from Lauren Stroll at the time, and he was asked, you know, why are you making this investment? And he said, you know, the, the reasons why, why Michael's business isn't bigger today is that it hasn't had a big insurgent of cash or aggressive management behind it. And we intend to bring both. So they were gonna bring cash and aggressive management. And by the way, as I say, they spent a hundred million dollars in about 85% of the brand, which would prove to be an incredible investment. I mean, they would make a lot of money off that investment. But now you are, I mean, you are still a minority shareholder in your company, but it's, you know, you've got bosses and, and their expectations. And, and how did that change how you operated that?
+
+0 (1h 4m 5s):
+Did that, I mean, did that deliberate you to do or did that put more pressure on you to deliver?
+
+3 (1h 4m 11s):
+Well, I mean, once again, if you do the same thing every day with no variance, maybe some people are very comfortable with that. I think I was ready and curious to try new things and with people who are experienced and curious the same as myself. Now, are there bumps in the road? Absolutely. You know, I, I remember, I remember the first, I think it was my first spring season with Michael, Michael Kors and the women's apparel that season I had always done for Michael Kors.
+
+3 (1h 4m 57s):
+We made a lot of sweaters. So I had a lot of sweaters on the collection, had all these sweaters get shipped all across America to department stores, and they look great. I I, I think they look great, and they end up not selling very well, and I couldn't understand why don't they sell well? And then someone said to me, well, they're not machine washable. And I said, what do you mean as you know, sweaters, most sweaters are not machine washable. What's the big deal? Right. And everyone said, well, this customer prefers that most of what she buys is machine washable. And I, I, I just, I was kind of like, really, like no one told me.
+
+3 (1h 5m 40s):
+So you live and you learn, but Silas Chow and Lauren Stroll and myself were all very experienced people who care very much about product and want, you know, what's next.
+
+0 (1h 5m 56s):
+Michael, I'm curious about how you cultivate a sense of luxury and also, you know, an affordable price. So for example, you can buy a Michael Chorus t-shirt for 60 bucks, and you can also buy, you know, a beautiful halter jacket, women's halter jacket for $1,800. Right. But was there a conscious decision with these new partners, like, okay, we need, like soccer fans in England wearing Coors shirts and, and we also need to appeal to, you know, high fashion customers willing to pay $1,800, but how do we cultivate that sense of luxury, you know, in, in less expensive streetwear?
+
+0 (1h 6m 41s):
+Was there, was there, is there a playbook to on how to do that?
+
+3 (1h 6m 45s):
+I think the big playbook is never talked down to the customer. Hmm. So whether it's a t-shirt or an evening gown, it's thoughtfully and intelligently designed. And we also have to remember in a, in a world that is casual, the richest person in the world does not fill their entire closet with $1,800 jackets.
+
+0 (1h 7m 10s):
+No.
+
+3 (1h 7m 11s):
+And vice versa, someone who has a very casual life and doesn't have that kind of money to spend, they do have the pieces that they buy that are their splurge piece. So, you know, you might on a daily basis say, you know what? I live in leggings or jeans, but I'm going to sort of stretch and buy the handbag and the watch that make my jeans and leggings feel special.
+
+0 (1h 7m 38s):
+Yeah. Meantime, the business is growing. And eventually you, you're opening stores all around the world and the United States, Michael Kor's stores. One of the things that that's interesting to me is that over time, like within a sort of a decade of or less, you know, a few years of, of your partners coming in and joining us, investors, the biggest part of your business started to become accessories. It wasn't clothing, it wasn't apparel, it was accessories. And I, and you, you, you alluded to this, but I have to imagine that that came from your time at Celine as well, having seen how big a part of their business handbags and, and shoes were.
+
+0 (1h 8m 20s):
+That must have had an influence on your thinking.
+
+3 (1h 8m 23s):
+Absolutely. I think even when I was a teenager, if I sat and doodled in class in high school when I should have been paying attention to the teacher, I would sit and doodle shoes and glasses. This was just, if you looked at my notebooks or I would sit and doodle. The MK logo that we use is something that I started doodling back when I was 15. So I always loved accessories, but I didn't realize that accessories were the ultimate democratic items in fashion until I spent six and a half years at Celine that, you know, it didn't matter what the weather was, the same handbag worked in Stockholm and Rio de Janeiro.
+
+0 (1h 9m 12s):
+Yeah.
+
+3 (1h 9m 13s):
+You know, the same watch was great in Jakarta and Chicago. You could be 17 years old or 75 years old. That's kind of the magic of a great piece of jewelry. A watch glasses, shoes, belt bag. Also, because I am practical, I particularly, I love bags because I love the fact that we all need the functionality of, you know, where are we gonna put our stuff. So it's this practical necessity that also makes us feel a certain way when we use that bag.
+
+0 (1h 9m 57s):
+I've always wondered, is it, are the margins better on things like handbags and shoes and accessories than they, than they would be on apparel?
+
+3 (1h 10m 5s):
+Well, the thing we have to remember about apparel versus a handbag, handbags don't have a size.
+
+0 (1h 10m 14s):
+Right.
+
+3 (1h 10m 15s):
+In clothing, invariably, and we all know when we go shopping, if you wear a size 34 jean and somehow you go to the store and they've got a hundred pairs of jeans and where is the 34? Why is it gone? None.
+
+0 (1h 10m 29s):
+Right.
+
+3 (1h 10m 29s):
+Right. So you're upset. Whereas the handbag, if you fall in love and they have it, it's your size. So just from a business vantage point, it, it is more expensive to, you know, yeah. Have that big size range, you know, versus being able to focus things like you can with handbags or, or glasses or fragrance.
+
+0 (1h 10m 51s):
+Yeah. And handbags are walking advertisement. I mean, people are wear are walking with handbags. It's say, Celine on them or, or that have a logo or, or Michael Kors or Kate Spade, or whatever it might be. I mean, and then other people see that.
+
+3 (1h 11m 4s):
+Absolutely.
+
+0 (1h 11m 5s):
+The company went public in 2011 and, and still of course, public no longer called the Mi Michael Kors now called Capri Holdings, because you're, you've got several brands under that, under that name. And so, you know, for the years that you were actively, you know, part of sort of the, the business, and you still are part of it, but, but, but sort of in there, in, in 2011 and so on, you know, you're now a public company with the volatility of the stock market. I mean, at one point, you know, the, the, the company was valued at 15 billion of market cap was 15 billion, and then it goes down to eight, and then 10, and then seven.
+
+0 (1h 11m 46s):
+And did that, did that kind of volatility ever, did, did you ever feel stress or pressure from now having a publicly traded company where, where you're accountable to shareholders?
+
+3 (1h 11m 58s):
+For me, as a creative person with a business head, I'm never actually, as a designer, you're never, in the time you're in, you're always working so far ahead of time, you're always thinking about what's next. Fashion is not, you know, able to turn things around so quickly. You know, the way that it, that it was when I was at Loar where if it rained on Tuesday, I could make raincoats for Thursday. Right. You know, there'll be times I have to admit that I'll be in the middle of a meeting and I'm looking at, at different categories of product, and I will be loving or hating something, and then I forget what season I'm looking at.
+
+0 (1h 12m 44s):
+Right.
+
+3 (1h 12m 45s):
+And I'll say, well, wait a minute, this is for when. Yeah. But fashion is always about thinking, thinking ahead. Yeah.
+
+0 (1h 12m 52s):
+Yeah. I, I wonder, I mean, you, you had, you know, from the time you were lothar to Michael Kors, and really for probably the first 15, 20 years of your career, you were designing everything, but inevitably, it's like being a chef. You know, you got a, a Michelin three star restaurant, then you, you have an empire. You cannot oversee every design. It is impossible today, you know, between, you know, all the collections of Michael Kors. There's no way you can design everything. And so how do you, how did you get to a point where you could let go and, and seed some of that control? Because inevitably there are gonna be things that are designed that you just simply, you don't have the capacity to oversee everything that you might not like.
+
+3 (1h 13m 37s):
+Okay. Well, I always say it's, well, first off, I, I'm not sitting and sketching every piece myself. Right. Am I touching every piece myself? I would say 95% of it, yes, I see it. So it's, it's, which I guess would be the same as a chef. You know, you might have a chef who says, the last thing I wanna do is put a Caesar salad on the menu. You know, everyone has a Caesar salad. Why do I have to have a Caesar salad? Well, can you make it the best Caesar salad? And can you, you put your own little spin on it to make it, you know, your take on the Caesar salad. So maybe that's similar to what I do.
+
+3 (1h 14m 19s):
+And I love the sort of conversation with creative people, and sometimes I'll say, I don't really, you know, I don't understand that. Explain to me why you love it. You know, it's similar to what people have seen me do on Project Runway.
+
+0 (1h 14m 33s):
+Yeah. Not even people with best instincts are not right a hundred percent of the time. And I wonder, can you think of an example of a, of a design that you just didn't really love, but you agreed that it could be made and produced and, and it turned out to be a hit?
+
+3 (1h 14m 49s):
+Well, I live in New York, so, you know, and I wear a lot of black right. And New Yorkers wear a lot, a lot of black. So sometimes, you know, I'll look at a colorful handbag and I'll say, well, I think that's gonna look, you know, great in the photograph, but who, who really carries a colorful handbag? I don't understand that. I always say, well, you know, it's great and we'll take a photograph of it, but I know it's, it's not going to be that successful. And then I look at what's sold, and I see that, you know, a pale blush, pink handbag is at the top of our list.
+
+0 (1h 15m 36s):
+Hmm.
+
+3 (1h 15m 37s):
+And then I have to sort of hit myself and remind myself, no, we're not only talking to people who live in New York City. We're not only talking to people who live in London or Chicago or Paris. These are all cold weather cities in the winter. You know, if you live in Tampa, Florida year round, you are not experiencing the winter that someone in London or Chicago or Paris experiences. So you see things from a different perspective. So once again, I think it's, it's always to remember how to be empathetic.
+
+3 (1h 16m 17s):
+So I, I've definitely had that surprise many, many times.
+
+0 (1h 16m 21s):
+Michael, I know that you are, you're the chief creative officer of the company, and so obviously you touch every design as, as you mentioned. And, and the, the business today is massive. I mean, it's market cap is over $8 billion. You own Versace, Jimmy Chu, and so obviously a hugely diverse brand, Capri Holdings at this point. Are you, I mean, do you ever get anxiety about, I mean, you went through a bankruptcy, you know, in the nineties and when you're much smaller, but now, like, are you at a point where you're just so big that you are not worried that you, you, you feel like this brand is, you know, in enduring and here to stay and, and nothing can kind of, you know, hurt it or damage it or topple it?
+
+3 (1h 17m 6s):
+Well, I think that, you know, after 40, what are we, oh my gosh, 42 years. 42, yeah. 42 years, 42 years. We are definitely firmly cemented as a brand into so many people's lives and in their closets. And, you know, I've been with friends where, I don't know, we could be arriving somewhere and a car is waiting and they say hello to a friend thinking that the friend is Michael Kors, or I've been at the airport with T s a, I had a t s a officer ask me what it was like to work for Michael Kors.
+
+3 (1h 17m 49s):
+And I said, what do you mean? And she said, how long have you been there? And I said, my whole life. And she said, oh. And then she looked again and she said, oh, you, you are Michael Kors. Like there's a person. And I said, yes. So at a certain point, you get firmly cemented as a brand, but there's definitely a person here and a designer here, and an individual who's still, you know, still wrapped up in the thick of it and, and, and I enjoy doing it.
+
+0 (1h 18m 19s):
+Yeah. When you think about your career, and we've talked about it now for several hours, and you know where you came from and, and you always knew that you wanted to do this and you were competitive, you did have a drive and, and you were ambitious and you still are. How, how much of, of what happened to you and where you are today, do you, do you attribute to how hard you worked? And how much do you think has to do with luck?
+
+3 (1h 18m 43s):
+I'm, I'm not a believer in luck in the traditional sense of the word. I believe in hard work. I believe in experience, I believe in curiosity, but my version of luck is how do you make sure that you leave yourself open to possibility? I've always been curious about, and, and never limited myself about what could be next. Yeah. You know, whether it was leaving school when I was 19 years old and saying, let me start working, starting my own business with no experience running and, and figuring out how to go to Italy and sign this license, get out of chapter 11 and deal with that and move forward.
+
+3 (1h 19m 34s):
+I've always really been willing to take an educated and calculated leap into what's next.
+
+0 (1h 19m 43s):
+That's Michael Kors, founder and chief creative officer of Michael Kors.
+
+3 (1h 19m 49s):
+Thank you. My voice has definitely gotten Husky and Husk here. I think I sound like a male version of Brenda Vaccaro.
+
+0 (1h 19m 56s):
+You sound great, or, or what's his name? Atkins from Blue Lagoon. Chris Atkins.
+
+3 (1h 20m 1s):
+Christopher Atkins, bro. Chris,
+
+0 (1h 20m 3s):
+It's
+
+3 (1h 20m 3s):
+Funny, I've known, I've known Brook Shields for forever in a day and one year I took her to the Met Ball and I said to her, I said, should I wear a long curly wig? And we can read Redo Blue Lagoon?
+
+0 (1h 20m 18s):
+Hey, thanks so much for listening to the show this week. Please be sure to follow the show however you're listening. If you're listening on Apple Podcast, just click the plus follow sign at the top and on Spotify, just click the plus sign to follow the show and never miss a new episode. If you wanna contact the team, our email address is h ibt id.wondery.com. If you wanna follow us on Twitter, our account is at How I Built This, and mine is at Guy Raz and on Instagram. We're at How I Built This, and I'm at Guy Raz. This episode was produced by JC Howard with music, composed by Ramine Arab Bluey. It was edited by Niva Grant with research help from Sam Paulson. Our production staff also includes Casey Herman, Elaine Coates, John Isabella, Carrie Thompson, Alex Chung, Chris Masini, Carla Estevez, and Kiro Waki.
+
+0 (1h 21m 7s):
+I'm Guy Raz and you've been listening to How I Built This. Hey, prime members, you can listen to how I built this early and add free on Amazon Music. Download the Amazon Music app today, or you can listen early and ad free with Wondery Plus in Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built This merch and gear@wonderyshop.com. Before you go, tell us about yourself by completing a short survey at wondery.com/survey.

@@ -1,0 +1,509 @@
+0 (0s):
+Ready to turn your small e-commerce business into the next big thing. Klaviyo can help. It's the easy to use email and SMS platform that gives you everything you need to build genuine relationships with your customers. And even if you're new to marketing Klaviyo can help you become an email expert with drag and drop design templates, simple insights, and made for e-commerce reports and recommendations. Give it a try with a free account at klaviyo.com/built. That's K L a V I Y o.com/built, Hey, it's guy here. So, you know, we're all pretty used to the idea of storing our stuff in the cloud, right?
+
+0 (40s):
+Like our files and our photos and our music. It all lives up there somewhere. But when Jennifer Hyman launched rent the runway, she essentially wanted our clothing to live in the cloud too. So she created a website with this huge inventory of women's clothing that you never had to own. You would just rent it and send it back. Jen calls it a closet in the cloud. Here's a story of how she and her partner built rent the runway. This episode first ran in August of last year.
+
+2 (1m 13s):
+I said, you know, we should really call Dan when Furstenberg the famous fashion designer fast forward a few weeks, and we're driving to the second meeting and her assistant calls and says, Dan, no longer wants to see you. She's not interested in this idea. And I said, oh yeah, we're just around the corner. Like we'll, we'll just drop by for a second. And again, her assistant very firmly said, she doesn't want to see you. What do you not understand? And I said, oh, we're cutting off. We're cutting off. And I hung up. And then I sped down the west side highway and we were at her office and we just showed up
+
+0 (1m 57s):
+From NPR. It's how I built this a show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Raz and on today's show how two women who wanted high fashion, but couldn't afford the price tag decided to make it possible to rent the runway. So rent the runway is now one of the hottest fashion companies in the U S it's growing like crazy. It's doing more than a hundred million dollars a year in revenue. It has something like 1200 employees, but given that its core product is designer dresses.
+
+0 (2m 41s):
+You might be surprised to discover as I was, but just 10 of its employees work in the fashion department. Most of the rest, well, they work for a technology company because that's actually what rent the runway is. Now, the way it works is you go online or you go to the app and well, you rent a dress, a dress that might cost thousands of dollars to buy, except you only pay a small fraction of that. And you get to look fabulous for one night. And then in the morning after he was recovered, you mail it back. It's kind of like Zipcar meets Netflix meets Zappos. If that makes any sense. Anyway, the co-founders Jen Hyman and Jennifer Fleiss came up with the idea when they met in business school.
+
+0 (3m 26s):
+And as you will hear the path to building their company was fraught with all kinds of challenges among them, rampant, sexism, and even harassment. Jen Hyman has only recently been opening up about that, but her story begins just after she graduates college and gets a job working as a junior analyst for the hotel company Starwood
+
+2 (3m 51s):
+About a year into my time at Starwood, when I was 22, I had this thesis that we had entered the experience economy and people were getting married later and starting to value experiences like travel over owning things. And so I had an idea at the time to launch the first honeymoon registry in the world where couples could register for their honeymoons and their friends and family could contribute by, you know, paying for scuba diving or paying for a massage or hotel night as opposed to buying them pots and pans. So as a 22 year old, I was really passionate about this idea.
+
+2 (4m 35s):
+I emailed the president of Starwood and I pitched him on this idea to start a wedding business at Starwood where the cornerstone of it would be with the first honeymoon registry
+
+0 (4m 46s):
+For a sec. First of all, you're 22. I mean, that's, that's, that's incredibly precocious, but was there anybody around you who is like, Hey, stay in your lane or, you know, was there anybody who was trying to tell you to keep your, you know, keep quiet?
+
+2 (4m 59s):
+Oh yeah. Several bosses of mine were telling me to keep quiet. And one of the experiences that really impacted me was I had a female boss. And at the time I think she was like 35 or 36. So kind of about my age right now. And I would often raise my hand in meetings and speak and make points. And I remember her grabbing me after a meeting one day and she said, you know, Jen, I really want to give you some feedback. It's really important for your career. And I said, oh, you know, I'd love to hear what's your feedback.
+
+2 (5m 42s):
+And she said, you really need to shut up.
+
+0 (5m 45s):
+Wow,
+
+2 (5m 47s):
+You're a girl. And it would be much more becoming if you acted sweet in conversations because you know, you're, you're too confident. You're too bold and it's coming across the wrong way hand. Of course, I didn't really know how to take this. I mean, I don't even know how I would take this today. Let alone, as a 22 year old, I started hysterically crying. I was in the middle of like an open floor plan and a more senior man saw me. I literally credit this guy for my entire career.
+
+2 (6m 28s):
+He took me aside and because I didn't even understand office politics at the time and like what I should, and shouldn't say, I kind of just blurted out, oh my God, like this woman just told me X, Y, and Z. And I repeated the entire conversation to him. And he said, you know, Jen, you keep doing what you're doing because that woman's going to be working for you one day. Wow. And he, in a sense gave me permission to just act like myself and who I was as a 22 year old is the same person as who I am today. It's the person who had a creative idea about the experience economy and I wanted to share it.
+
+0 (7m 10s):
+So w w what did you end up doing with the, with the idea? I mean, you, you pitch this to the, to the president of Starwood.
+
+2 (7m 15s):
+Yeah. I think he thought I was so a little bit crazy for going in and pitching to him that his response was like, yeah, yeah, yeah, sure. Whatever. And I took that as a yes.
+
+0 (7m 28s):
+Wait, he, he said, he didn't say yes. He just sorta said, yeah, that's interesting. And you went back to your, your desk and you started to map out how this could happen.
+
+2 (7m 37s):
+I started to work on it. I spent the next three years working on it and, you know, Starwood still participates in the honeymoon registry to this day and has taken it to a whole other level since I left. But it was such a fun experience for me to a work on something that I loved and was passionate about and be, be part of the process of creation.
+
+0 (8m 1s):
+So you are obviously on the fast track to, like, if you were still Starwood today, you might be running the place. I mean, you were doing this at such a young age. Why did you decide to leave? After, after a couple of years,
+
+2 (8m 12s):
+I always thought that I would go to business school. Both of my parents had gone to business school. And so I thought that the track was you work for four years between college, and then you go to business school. So when I was at Starwood for three plus years, I applied to business school and I got into Harvard business school.
+
+0 (8m 31s):
+So here, here's a question for you about, cause we're going to get, I want to ask you about, of course, what happened at business school, which is key and critical to rent the runway. But you know, the vast majority of the, of the entrepreneurs that have been on the show did not go to business school and you had all this incredible experience and you were really ambitious and you were entrepreneurial already. Why did you think you needed to go to business school?
+
+2 (8m 56s):
+Well, first I have always had big dreams for my career, but I didn't exactly know what those dreams were. You know, Sara Blakely was a guest on your program and she is someone who has always been an inspiration to me. I remember being a younger girl and seeing her on Oprah and she had this amazing business, but she also like seemed like a real person who cared about getting married and having kids and having friends and having a social life. And that was really important to me. I was still fearful that you had to make a choice between having an incredible career as a woman or having a family.
+
+2 (9m 44s):
+And I've always wanted both.
+
+0 (9m 46s):
+So in a sense, going to business school was a chance for you to really think those things through,
+
+2 (9m 51s):
+To think it through, to get that kind of extra potentially stamp of approval that I thought that I needed. I had lots of opportunities that I could go into different kinds of companies in different fields. But I really wanted the time to think about like, where do I want to spend my time? Like, what am I most passionate about? Yeah.
+
+0 (10m 13s):
+You, while you were at, at Harvard business school, you met the person who would become the co-founder of rent, the runway, Jennifer Fleiss. How did you how'd you guys meet?
+
+2 (10m 24s):
+So it's a really funny story. My sister, Becky, prior to me going to business school, put a post-it note on my pillow. One night with Jenny Fleiss has made a name on it, which was Jedi Carter. And she said that you have to meet this girl when you go to business school, because a friend of a friend of hers knew Jenny Carter. And my response to Becky at the time was, you know, I'll meet her. If I meet her needless to say, Jenny was one of the first people I met at Harvard business school, because we replaced in the same section because her name had been on a post-it note for me. I was like, oh my God, you'll never believe this.
+
+2 (11m 6s):
+Like my sister told me we need to be friends. And we became really fast friends and you know, the rest is history.
+
+0 (11m 13s):
+And at what point did you say let's do a business together when we leave this place?
+
+2 (11m 17s):
+So we were friends. We actually through our birthdays together in September of that second year of business school. And in November of the second year of business school, I went home for Thanksgiving and I was in Becky's apartment. And Becky had just gone to a store and bought a dress that was higher costs than her rent. And as her responsible older sister, I was remarking how she should probably wear one of the dresses in her closet, again, as opposed to being in credit card debt. And her response to me was, you know, everything in my closet is dead to me.
+
+2 (11m 59s):
+I've been photographed in it. The photographs are up on Facebook and I need something new. And, you know, Becky was a twenty-five year old, like normal girl who lived in New York. She wasn't a celebrity, but she was talking about being photographed and not being able to wear something again. And I like, it was a light bulb moment for me because I realized I was having a conversation with my sister about the experience of wearing an amazing dress of walking into a party, feeling self-confident and feeling beautiful. And that's what she cared about. And she didn't care about the actual ownership of the items in her closet.
+
+2 (12m 39s):
+The other thing she cared about was the photograph that would exist after the party that she could post on Facebook and kind of share with everyone. She knew how awesome she felt and how confident she felt at that wedding. So anyway, this idea happened on a Saturday night. I go back to school on Monday that I happened to have lunch that day with Jenny, we were talking about our weekends. I was like, oh, I had this idea. Like, what if we rented dresses? And she responded, oh, this sounds fun. You know, let's like work on this idea together. Who do you think we should call to figure out if it's a good idea? And I said, you know, we should really call Dan Von Furstenberg and
+
+0 (13m 20s):
+The
+
+2 (13m 21s):
+Like the famous fashion designer, Jenny said, do you know Don when Furstenberg? Yeah. And I said, obviously, I don't know Diane Von Furstenberg, but we could probably figure out her email address. You could at this point, figure out anyone's email address in the entire world. Right? So Jenny and I wrote an email that afternoon to many different versions of them on first emergency email address. And we basically said, Hey, we're, we're two women at Harvard business school. We have an idea we'd love to come in and talk to you about it. And this is where luck plays into the situation because she or someone from her office opened that email.
+
+2 (14m 3s):
+She responded, I'll see you tomorrow at 5:00 PM
+
+0 (14m 5s):
+Tomorrow at 5:00 PM.
+
+2 (14m 7s):
+Yep. And we drove down to New York that next day, put on our DVF dresses and walked into her office and introduced ourselves as the co founders of rent the runway.
+
+0 (14m 20s):
+You had the name at that point, you came up with the name.
+
+2 (14m 23s):
+Yeah. We just, we did everything very quickly. Now we didn't really have a structured idea. So, you know, we were kind of iterating the idea by pitching it. And the initial idea actually, which, you know, we've never really told the initial idea was what if we could rent the dresses that she is selling on her website. So what if we powered rental for her on dvf.com? And you know, when we went to chat with her, she was not too thrilled about the idea of renting clothes in general and thought that it would cannibalize her, her retail sales, and it would dilute her brand.
+
+2 (15m 8s):
+And she was ready to end the meeting with us after a few minutes. And I started asking her questions about what she disliked about the idea, what was she scared about? And by the end of what was almost a hour and a half conversation, we learned that a lot of her customers were in their fifties and sixties. And that if we were to build a business that could make her relevant to put her products into the hands of women in their teens, twenties, thirties, and forties, that that might be interesting to her and she might want to work with us.
+
+0 (15m 48s):
+So was, was she warm? Was she nice? Were you guys nervous? I mean, you're, you're still business school students. I mean, I can't imagine like what that would feel like to walk into that room and, and try to, you know, keep her attention and get her excited.
+
+2 (16m 3s):
+Well, it's a funny story. So at that first meeting, I've always learned, you know, when you're in the first meeting schedule, the second meeting. So when we were in the first meeting, we scheduled a conversation for a few weeks later with her fast forward a few weeks, and we're driving to the meeting and we get a call while we're in the car from her assistant. And we're on the west side highway, we're about 40 blocks from her office and her assistant calls and says, Dan, no longer wants to see you. And I said, oh, you know, well, we're on our way. We'll just come in and say, hi. And her assistance, like, no, she really doesn't want to see you.
+
+2 (16m 45s):
+Like, she's not interested in this idea. And I said, oh yeah, we're just around the corner. Like, we'll, we'll just drop by for a second. And again, her assistant very firmly said, she doesn't want to see you. What do you not understand? And I said, oh, we're cutting off. We're cutting off. And I hung up and then I sped down the west side highway and we were at her office and we just showed up,
+
+0 (17m 11s):
+Wait, most people in that situation would have just been like crushed would have felt so dejected. Like I don't, I know I would and would have just said, well, forget it. Forget Diane. Let's just move on. How, how did you not feel that? How did you, how were you able to just say, we're going, we're just going to do this. We're going to walk in there.
+
+2 (17m 31s):
+Well, Jenny initially was actually started to cry and was a little bit upset about the situation, which I think is some people would. Yeah. Which I think is the much more natural reaction. And I was like, we're just going to do this. What do we have to lose? Like, what's the worst thing in the world we show up and she doesn't meet us.
+
+0 (17m 48s):
+What if you walked in there and they were like, security, please escort these women out.
+
+2 (17m 52s):
+Great. Then we have a story that we could tell all of our friends
+
+0 (17m 58s):
+When we come back, what actually happened when Jen and Jenny finally showed up at Diane Von Furstenberg, Sophos I'm guy Raz. And you're listening to how I built this from NPR.
+
+3 (18m 17s):
+I'm the Jones. And I grew up in a small town called Jackson, Tennessee. And when I grew up, it was totally normal for people to have friends who were politically different from them. In fact, one of my best friends in high school, he was a white guy who was conservative. This guy loved Ronald Reagan. I hated Ronald Reagan. And, you know, we would just debate and argue about it all the time. But we were friends. I miss that feeling that you could just debate and disagree without distrusting somebody without disrespecting each other. And I just want to bring that back. And that is the point of the uncommon ground podcasts. You probably got some people in your life who you used to be able to talk to.
+
+3 (18m 58s):
+Now, you can't, everything is just too polarized. I think there is still a chance to have a better conversation in America. I'll bring special guests into the conversation like Meghan McCain, Sarah Silverman, Deepak Chopra, and others. Our goal is to find common ground, join me every Wednesday by following uncommon ground on Amazon music or wherever you get your podcasts
+
+4 (19m 23s):
+On a cold February morning and Indianapolis, Tony <inaudible> woke up, got dressed, loaded his sawed-off shotgun and drove to his bank. After entering the office, he quickly found his investment banker and wired the muzzle of a shotgun to the back of the man's head. Tony wasn't there to steal anything. He was there to take his life back. And his plan was so well calculated that for the next 63 hours, the Indianapolis police department couldn't stop it. And so outrageous and potentially catastrophic, but the entire nation couldn't turn away from it. American hostage is a new podcast starring me, John Hamm, that tells the true story of one man who channeled the rage of a nation and took justice into his own hands.
+
+4 (20m 4s):
+And as the nation watched live, Tony would become a hero to millions to hear the story, follow American hostage, wherever you get your podcasts, or you can binge all eight episodes right now on Amazon music or wonder he plus,
+
+0 (20m 21s):
+Hey, welcome back to how I built this from NPR I'm guy Ross. So before the break, Jen was talking about how she and her co-founder Jenny basically busted into Diane Von Furstenberg office to have a second meeting. And amazingly Diane agreed to meet with them. And in fact, she wound up giving them some pretty good advice.
+
+2 (20m 41s):
+Actually, that was the meeting where she told us, you know, I don't want you to do this on my website. You going to have to sell this idea to other designers and get lots of people on board if I'm going to do this too. So in a sense, in that meeting, she gave us permission to make a good, a consumer facing business and to approach the rest of the industry.
+
+0 (21m 2s):
+Wow. So, so, I mean, it sounds like she, she kind of rewrote your business plan, right, right there. Yeah. So did you walk out of her office with like names or context or did you just walk out of her office saying, all right, cool. This is, this is clarifying. We now know where to head next.
+
+2 (21m 17s):
+Well, we did ask her for some introductions and I think that she introduced us to one or two people in the industry. We then would meet with those people and we'd ask them for introductions and so on and so forth. But we continued to just cold call people. So one of the next people that I cold called was the president of Neiman Marcus, because he was both a HBS alum. So I had access to his email address. And I thought that, you know, if this whole rent, the runway thing falls through, like maybe I could work for Jim golden, even Marcus,
+
+0 (21m 53s):
+When what'd he say,
+
+2 (21m 55s):
+He said, yeah, this is a really good idea. Women have been renting the runway for my stores for decades. It's called buying something, keeping the tags on, and then returning it to the store,
+
+0 (22m 6s):
+Which probably cost them millions of dollars.
+
+2 (22m 9s):
+Yeah. It's kind of the dirty secret of retail though. The return rate, especially of dresses and special occasion attire is extremely high
+
+0 (22m 19s):
+Cash. Pause for a second and ask this question, which is, so I'm wearing the outfit I'm wearing today. Like I've worn this in the last few days. I have no shame about it. And obviously there's different societies, different standards for men and women, but w what is this about? Like, what's this thing where, where women feel like they can't wear the same dress at, at, you know, two different functions.
+
+2 (22m 41s):
+I really think that there's a value that women place on self-expression and that clothes make you feel a certain way about yourself. You put on an amazing outfit in the morning and it makes you feel powerful or beautiful or sexy or relaxed, or however you want to feel that day. There's just a general value in our society right now, around individuality and self-expression. And so the way that you're going to achieve that with fashion is via variety. So I had seen at the time, and it's even more true today that the way that women were accessing variety and individuality was through fast fashion.
+
+2 (23m 23s):
+And off-price because the only place that you could buy a quantity of items was at a place that was selling them for a very cheap
+
+0 (23m 31s):
+Price forever 21, or H and M.
+
+2 (23m 33s):
+Exactly. So I think that when you don't have to buy something, it allows you to try new things, to constantly be playful, to experiment, to try things that are in colors or in trends, or, you know, different kinds of styles that you never would purchase, because they're irrational. So with rent the runway, it's like a Willy Wonka land of fashion. You could have whatever you want whenever you want it. Let's say you have a job interview, you have a party, you have a wedding. You're going to, you're saying, I want it to arrive at my home on September 15th, and I'm going to wear it and use it for a few days, and then I'm going to return it. And it's about 10% of the retail price.
+
+0 (24m 14s):
+So how did you know for sure that you know, that women would be interested in, in like doing this? I mean, did you, did you guys do any research?
+
+2 (24m 21s):
+No. We never did research in an academic sense. We did real life research, which was, we went to Bloomingdale's. We bought about a hundred dresses all in our own sizes, so that if this whole experiment didn't work out, we would have an awesome new wardrobe. We spent a lot of our savings on this, and we hosted a pop-up at Harvard undergrad, and we invited different groups of Harvard undergrads to the pop-up. And the idea behind this was to learn a will women rent, dresses, B what do they rent? How much will they pay? What brands do they want?
+
+2 (25m 1s):
+And most importantly, if they do rent, what happens to these garments after they rent? Did they get destroyed? Can you send them through the mail? How do you dry, clean these items and so on and so forth?
+
+0 (25m 16s):
+This is like, still, like, I mean, today, this seems like a no brainer, but this is what 2008, 2009,
+
+2 (25m 23s):
+This, our first pop-up was in April, 2009.
+
+0 (25m 26s):
+So, I mean, at that time, Netflix was like mailing DVDs to the mail. So that was going on, I guess, Zappos, you could get shoes and you can mail them back, but it was still, it wasn't like what it is now. I mean, it was still new.
+
+2 (25m 40s):
+It was, and it feels both so long ago and also yesterday.
+
+0 (25m 46s):
+So you got the, the, the sense right away that this, that this could work because these, these undergraduates, these women were like, yeah, I want to rent this.
+
+2 (25m 54s):
+I got the sense that it would work because I saw the emotional effect. So in this pop-up I saw girls, you know, stripping down, trying on these amazing dresses and feeling beautiful, and you saw their facial expressions change and they threw their shoulders back and they tousled their hair. And they walked with a new sense of confidence. And, you know, I really thought, wow, this could be a business that isn't just about offering her a rational or smart choice, but it also can be a business that is delivering something emotional to her, making her feel beautiful every single day,
+
+0 (26m 42s):
+Jen, a lot of founders choose to do it on their own. Like, you know, like Gary Erickson from Clif bar or even Sara Blakely from Spanx. I mean, she, she owns a hundred percent of her company, but you guys went for venture capital pretty quickly, pretty early on why
+
+2 (26m 59s):
+We had to raise money because we needed to invest hundreds of thousands of dollars in inventory to even launch a business or to assess whether it was a viable idea. And I don't come from a family that has hundreds of thousands of dollars of savings, especially, you know, savings that they're going to invest in their daughter's crazy idea.
+
+0 (27m 26s):
+And so when you were pitching venture capitalists, how much money were you looking to raise in that first round?
+
+2 (27m 31s):
+We raised 1.7, $5 million. So,
+
+0 (27m 35s):
+Wow. So, I mean, with that money, what could you do? I guess, build a website, right?
+
+2 (27m 40s):
+You could buy initial inventory in various size runs with some depth, because we knew we needed many different designers. We needed a selection, right? You weren't going to come and start renting. If there were only five units of inventory on the site, we could hire some people. We could launch a website that was about
+
+0 (27m 59s):
+It and take photos of the dresses and put them on the website.
+
+2 (28m 2s):
+Yeah. That's another funny story. Until two weeks before the website launched, we didn't realize that we would have to take photos at the inventory. We thought, of course, in this industry, there's some centralized place that takes photos of this. How ridiculous is it that every retailer would have to photograph this inventory over and over again? Needless to say, w we figure out like right before the websites meant to launch that we have no photos and we put together eight impromptu photo shoot, where we found a photographer on Craigslist, who ended up working with rent the runway for six years. Wow. And we bring our own shoes and our own accessories to this photo shoot and our, you know, initial team of five employees and many interns at the time, kind of figure out how to do it.
+
+0 (28m 54s):
+So once you launch, how do you get the word out? How do you, how do you get people to even know what this is
+
+2 (28m 60s):
+Hustling?
+
+0 (29m 3s):
+So what was the hustle?
+
+2 (29m 5s):
+The hustle was, we wanted to build a list of as many women as possible. You know, the sex in them city movie had come out that summer. And we would go to movie theaters with women who were attending that movie. And we would get their email addresses. We would convince friends to send us email addresses of other friends of their. So like we were really doing anything and everything. So one of the names that was on this list that we had built at rent, the runway had a@newyorktimes.com. And I was like, oh, like, there's someone who works with the New York on the scene address. And I looked her up and I saw that she was a 22 year old technology reporter.
+
+2 (29m 48s):
+I was like, oh, let's invite her in. Maybe she could write about rent the runway. So we met with her and we decided we were going to give her a story. And I thought that if Jenny and I were photographed for this article, potentially we could be on the front page of the business
+
+0 (30m 4s):
+Section, if there was a photo of the two of you.
+
+2 (30m 7s):
+Yes. Because it was a technology reporter and no women are ever covered in the technology section. Yeah. So I say to this reporter, oh, maybe, you know, you should take, maybe you could take a photograph of us at the quote unquote warehouse, which was a dry cleaner at the time. So we put on like these crazy dresses and we showed up when the photographer showed up to the dry cleaner, and we stood on ladders and we told the photographer to take a photo of us on ladders in front of kind of the array of, of dresses that were on the kind of dry cleaning machine. And because the photo was so utterly absurd, it ended up on the front page of the business section and the headline, a one photo on N Y times.com.
+
+2 (30m 58s):
+So we had a hundred thousand people sign up for rent the runway off of that story. Wow.
+
+0 (31m 5s):
+So you had, did you all of a sudden have people making orders?
+
+2 (31m 8s):
+Yes.
+
+0 (31m 9s):
+Did you have the inventory to handle all the orders?
+
+2 (31m 12s):
+No.
+
+0 (31m 13s):
+So what'd you do,
+
+2 (31m 14s):
+We raised more money. So because of hustling to get this story in the luck of ending up on the front page of the New York times, we met our first year sales projections in three weeks, and we had a clamoring of venture capital investors who were kind of coming into our office, pitching us on series a. So we got, we had gone from, you know, a very undesirable investment to like people showing up at the elevator, in our building to meet with us on announced because they wanted to pounce on the deal.
+
+0 (31m 55s):
+Did you, I mean, both, both you and Jenny are, you know, unfortunately still rare in, in the startup world in that you're, you're two women leading a huge company. And, and, but at the time when you were raising money, did you ever get the sense from venture capitalists who presumably most were mostly men that I don't know, they were like a little bit dismissive or condescending or, you know, I don't treat you differently.
+
+2 (32m 25s):
+Yeah. We had several different, very condescending conversations. One in which a partner at a very prestigious firm took my hand into his and he said, you know, this is so adorable. You're going to get to wear such pretty dresses. This must be so fun for you.
+
+0 (32m 44s):
+How did you react?
+
+2 (32m 45s):
+We both froze a little bit. Yeah. I, we were very polite and we walked out and we said, you know, thanks for the feedback. No, of course we never interacted with this firm or this investor. Again, we never pitched them on any subsequent round. We were like, kind of good riddens to these people. So there's an element of, you know, we ha we had access to capital. We had choices because the business was growing and that's a privilege.
+
+0 (33m 19s):
+I read an article about you, that one investor said something like, oh, you know, let me, let me talk to my wife about, about this idea.
+
+2 (33m 26s):
+Well, that's something that we heard all the time. That wasn't one investor that was most, let me talk to my wife, my daughter, or my admin. Those were the three, you know, target customers that we would hear. And let me tell you why each is problematic. Number one, the wife of a venture capitalist is a billionaire. So the wife of a venture capitalist is not my target customer, right? The daughter of a venture capitalist in most cases is about 12 because most venture capitalists are when they're in the prime of their careers, they're kind of 45 to 50. So you know, their, daughter's not a great target either.
+
+2 (34m 9s):
+And they're admin admins who work in the venture capital industry, cause it's such a prestigious job are often women who are in their fifties and sixties. Again, not women who were in my target demos. So we would preempt that by showing videos and inviting these investors to some of our pop-ups show them who the customer was, so that they really got a sense for who we were catering to.
+
+0 (34m 37s):
+There's been a lot of, a lot of attention recently to, to the, the <inaudible> culture of, of venture capital in Silicon valley and, and how women are, are finally, you know, publicly be able to come out and talk more about their experiences. Did you experience some of that culture in this process?
+
+2 (35m 0s):
+I, through the process of building rent, the runway was sexually harassed by one individual, and I'm happy to share that experience. However, I will say that I've had interactions with dozens and dozens of venture capitalists at dozens of firms. And this was just one individual. So the far, far, far majority of my interactions have been incredibly positive, but I was in a situation once where I was kind of propositioned sent sexual text messages.
+
+0 (35m 40s):
+This is why you were trying to raise money for rent the runway.
+
+2 (35m 44s):
+While I was building the company, yes. From someone in the investor community,
+
+0 (35m 48s):
+It was sending you text messages, like let's go on a date or whatever it was
+
+2 (35m 53s):
+That and things that are more explicit than that. Were
+
+0 (35m 56s):
+You shocked to get those?
+
+2 (36m 0s):
+I was, I thought that it was inappropriate and fairly bizarre given that it was happening over text message. So there was evidence created. Now there was also, you know, conversations that were happening in person that were also threatening and very bizarre. Yeah.
+
+0 (36m 21s):
+Did you just ignore it? Was there anything you could have, did you feel like you couldn't really do anything about it except just ignore it?
+
+2 (36m 28s):
+So I initially ignored it and that was the plan I was planning on ignoring it and, you know, decided, you know, I was going to keep it silent. And then this person decided to call one of my board members up on the phone and say, you know, Jen never responds to me. And I think that this is a real problem. And she's a really unresponsive CEO. And she's probably, if she's doing this to me, she's probably doing this to other people. And he really challenged my behavior as a CEO. And actually that board member came into my office to give me feedback and say, I need to be more responsive, which was my instantaneous reaction was, oh my God.
+
+2 (37m 16s):
+I can't believe that this person after being rejected by making these sexual advances is now trying to ruin my career.
+
+0 (37m 26s):
+And just a minute, how Jan handled that very tricky situation. I'm guy Ross. And you're listening to how I built this from NPR. Hey, welcome back to how I built this from NPR I'm guy Roz. So in those early days of rent, the runway, Jen Hyman faced the situation where one of our investors was harassing her. And when she ignored his advances, he took it out on her. He actually complained about her to a member of her board.
+
+0 (38m 8s):
+And so when that board member asked Jen about it and she decided to be totally transparent about what was going on,
+
+2 (38m 15s):
+I showed this board member, the text messages at that time, and basically, you know, ask my board member how, how they'd like me to respond,
+
+0 (38m 27s):
+What the board members saying.
+
+2 (38m 28s):
+I mean, the board member was shocked. I
+
+0 (38m 30s):
+Bet.
+
+2 (38m 31s):
+And I proceeded to tell everyone else on my board, as, as some key executives who were working with me at rent the runway at the time, and the board was unbelievably supportive and we decided that we were not going to do business anymore with this individual or his firm. Wow. So there's that form of sexual harassment. And I think that that's a lot of, what's been getting recent media coverage and hopefully by nature of a lot of very brave women speaking out right now that sort of sexual harassment will be stamped out of the industry.
+
+2 (39m 12s):
+And one way that I think over time that it needs to be stamped out is by diversifying the sources of capital, making sure that 50% of investors are women, but let's put that aside just for a second. The second form of sexual harassment slash gender discrimination is way more subtle and it's way more difficult to prove. But for instance, overall, I have seen male founders receive, you know, sometimes more mentorship or more chances to be successful.
+
+2 (39m 53s):
+They get more strikes against them before their investors kind of pull the plugs in, in a lot of cases, women are only given, you know, it's a one striker you're out as the CEO and founder, there are situations where I've now come to understand that a lot of how deals get done and how companies let's say get acquired is someone is saying something like, oh, you should really meet this guy. He's a visionary. He's incredible. You should get to know him. And I think across the board, more of those comments are being made about male entrepreneurs than they are about female entrepreneurs. We, as a society, feel uncomfortable using the words visionary or brilliant to describe women.
+
+2 (40m 39s):
+That's not always intentional. I think it's just ingrained in people. I would say in, in, in a lot of different instances, people have actually genuinely been trying to be helpful to me. Like there was a time early in my career where an investment firm, you know, said to me, oh Jen, you know, you should really meet these other entrepreneurs. They're around your S your own age. They're brilliant. You could learn a lot from them. They're building incredible companies. They're going to change the world. Now, all of those entrepreneurs were men and they were kind of prefaced as being geniuses, brilliant, et cetera. And this same firm never introduced me in that same way to those same entrepreneurs, even though we were at similar tenure and similar stages in our company, the irony is a lot of those guys, their businesses, you know, aren't around anymore.
+
+2 (41m 35s):
+And, you know, I'm the one who's still chugging. Now. I don't think that they were trying to be intentionally sexist. It's just that there's a shade to which we all operate that puts women at a bit of a disadvantage. Yeah.
+
+0 (41m 51s):
+It's really amazing. I mean, you, it, it speaks to the, this like perception of, of power dynamics. That's so prevalent in, in the, in the venture world.
+
+2 (42m 1s):
+I think that those power dynamics exist in so many different industries. And I don't think that it's just a Silicon valley or technology problem. And that's why I think that the more egregious sending you a text message in the middle of the night, asking to sleep with you, sort of sexual harassment, hopefully can be stamped out via just being more vocal about it. I think though that the more subtle form of harassment slash discrimination, or just lack of opportunity is actually the harder problem to solve. It's the more pernicious problem.
+
+2 (42m 42s):
+It's the reason why only 4% of venture capital dollars are going towards women. And, you know, very, very few investors are women. So, you know, we need to fundamentally diversify who has access to power, who has access to capital in order to get a diversity of ideas and entrepreneurs out there.
+
+0 (43m 2s):
+Yeah. I, in, in you, obviously you have had incredible success despite the challenges that you faced and that women in tech face, and as you sort of began to develop as a leader, as a CEO, how did you, how did you sort of make that transition? How did you figure out how to, you know, manage lots of people?
+
+2 (43m 22s):
+I think that it is a continuous work in progress. I had never managed people across the diversity of functions that we have at rent. The runway, you know, rent the runway is primarily a technology and logistics company. We have 1200 employees, 10 employees are in my fashion department and, you know, hundreds or in my logistics department, hundreds or in my engineering department. And these are areas in which I had had no experience. And, you know, one thing that I've learned is that leadership evolves over time. First of all, being a leader of a 1200 person company is different than being a leader of a 100 person company.
+
+2 (44m 5s):
+And so I have to really evolve, even though I've had the same title for eight plus years. Like there are so many things that, you know, I've done wrong along the way. And I think that the thing that has made me grow and develop is the recognition of failure and the desire to improve and the desire to get better.
+
+0 (44m 32s):
+I don't want people to have the impression that this was all, you know, you just fleet it from success to success and it was easy. And there were no low points because there have been like with any company and, and in 2015, you got some, some tough press about some people who left the company, there were quotes, newspapers, calling it a, a mean culture. And, and, and things like that from, from some of these employees who left that were, you hurt by reading that stuff. Some people were criticizing you and, and your, and your management style and leadership.
+
+2 (45m 9s):
+It was the most difficult experience of my life. Actually, It was such a difficult time because as a woman, there's two things they could really call you as a woman. They could call you the B word, right. Or they could say you're an idiot. And I've never really had it had a fear of someone calling me an idiot, but I do value myself for how I treat others. So to be called mean, and to, you know, be quoted as having a mean girls culture at the company was so unsettling and sad and horrible to me because it's the thing that's the most important to me.
+
+2 (45m 56s):
+You know, what had been happening at the time was the company was going through a quite painful and difficult transition from being a, you know, one phase of a startup to trying to develop some sense of entering our teen years or our adolescent years. And I started to realize that I needed to make the tough calls and fire. Some people that was very unsettling to people because we give men permission as leaders and as CEOs to make the tough choices, you know, with women, we don't give them as much permission to make those tough decisions.
+
+2 (46m 43s):
+And we often, when, when we do make those decisions, we're often labeled as the B word or, you know, et cetera. So it certainly was a low point, but it led to the biggest outpourings of supportive ever had. It led to more courage around my own decision-making because I led the company into the best place it's ever been. Yeah. And in a sense, it makes the future less scary because that article or a version of it, it will come out again. And the next time it comes out, it's just not going to have the same impact on me.
+
+0 (47m 27s):
+You mentioned earlier in the interview, how you always wanted to run a successful company or start a successful company, but also have a family and a kid. And, and you did that. You who you have a child and a partner, and how have you figured out how to do it in the way you want it to do it?
+
+2 (47m 47s):
+Well, first of all, let's backtrack to being 28 and having the idea for rent the runway. And I just want to tell the real story here, because I think that a lot of women go through this and, and they don't talk about it. One of the major considerations that I had in starting rent the runway was, is this a smart idea for me? Because if rent the runway is successful, will I ever be able to get married? I was always confident that I would turn rent the runway into a consumer behavior that millions of people did, and that I would build a, you know, I still believe we're going to build a multi-billion dollar company, but at the very, very beginning, when rent the runway launched, I had been dating someone from Harvard business school, who I was very much in love with.
+
+2 (48m 38s):
+And the day that rent the runway came out and we were on the front page of the New York times. He broke up with me shortly thereafter, and he told me that he realized that he didn't want to be with his equal.
+
+0 (48m 57s):
+Wow.
+
+2 (48m 57s):
+So that was really sad and disheartening because I was very in love with this person. And that's what led into this fear. Now it ended up that the sphere was completely unfounded and I had no issues, you know, falling in love while building rent the runway. I just think that it, it paralyzed me because the number one priority in my life has always been having a family and having kids. So the amount of happiness that I have now, having a daughter, I just got back from maternity leave last week, I'm engaged to the love of my life. I can't even describe to you the level of joy that it brings into my life on a daily basis to truly have all of my dreams have come true.
+
+0 (49m 48s):
+I guess last year you guys had you, you, you became profitable, which I should point out is very, is exceedingly rare so quickly. And I mean, your revenue is over a hundred million dollars. According to public reports, the valuation of companies, I don't even know what it is. Do you know what it is?
+
+2 (50m 9s):
+I do know, but
+
+0 (50m 10s):
+You can't say what it is, but it's, it's probably higher than you ever imagined, even though it, it, it may still be, unpaper this thing that you built that you and N and Jenny built has made both of you rich. I mean, you are, even though it may just be on paper, you are rich, you are rich person. You did not grow up that way.
+
+2 (50m 30s):
+Well, being rich on paper is very different than being rich in reality. So let's talk in a few years because I didn't grow up saying, I want to found a company. I had this idea for rent the runway. I saw that it was mission-driven. I saw that it was driving self-confidence and making women feel incredible about themselves. And I knew that I had to commit my life to that. And I'm really proud that we have had many different women leave, rent the runway, and then raise their own venture capital and start their own companies and go after their own dreams. And Jenny and I two years ago, decided to start a foundation where we've raised millions of dollars to support other female entrepreneurs scaling their companies.
+
+2 (51m 18s):
+And we've now helped thousands of women throughout the United States in scaling their organizations. So this mission of empowering women and making women feel confident is the actual thing that I care about. Now, if it happens to be that rent, the runway brings me the ability to provide for my family and think my parents, that would be wonderful. But honestly, if it amounts to nothing, it is the absolute best experience of my life. And I would do it over a million times,
+
+0 (51m 56s):
+Jenn Hyman, founder of rent the runway, by the way, her co-founder Jennifer Fleiss recently left the company. It was amicable, both Jen and Jennifer, each own 13% of the company. And it's put them on Forbes list of the richest self-made women to watch rent the runway. Isn't just profitable. It's also become America's single largest try cleaner dresses from 500 different designers, including. So it took a while to convince her Diane Von Furstenberg. And please do stick around because in just a moment, we're going to hear from you about the things, your building. Hey, thanks so much for sticking around because it's time now for how you built that.
+
+0 (52m 39s):
+And today we're going to update a story. We ran a while back with Monica, Ms. Raji in San Diego, California, and her story starts a few years ago when her daughter Leah was packing to go overseas on a gap year program,
+
+6 (52m 52s):
+She was going to be traveling to 14 different countries, which meant that she was going to be living out of a suitcase. So we needed to find the system where she would be very organized in her travels to be able to survive out of a suitcase pretty much for the year.
+
+0 (53m 6s):
+Okay? If this were me or maybe even you, you know, we could just throw a bunch of clothes into a suitcase and forget about it. But Monica, she is incredibly organized.
+
+6 (53m 17s):
+I was a mathematician in college and I was always very into order, like in math, there's one solution.
+
+0 (53m 24s):
+But when it came to packing,
+
+6 (53m 26s):
+I just couldn't find the system. We tried with Ziploc bags. We tried many other packing cubes, but you couldn't see your things. And I wanted to turn a suitcase into a set of drawers.
+
+0 (53m 39s):
+And one morning I came up with was a modular set of clear squishy plastic cubes that you could stack inside a suitcase and pull out by a handle.
+
+6 (53m 49s):
+When you open your suitcase, you can see everything on your suitcase.
+
+0 (53m 52s):
+And eventually Monica ran into a friend at a barbecue who happened to work with factories in China. So of course she showed them her plans.
+
+6 (54m 1s):
+Then he says, this looks really interesting, man. He took it to China and he made a prototype for me. I told him I wanted to clear, I want the piping. I want it to have a handle. And he made the first prototype.
+
+0 (54m 14s):
+Soon after that, mark has scraped together some money and placed an order for 14,000 of these packing cubes. And a few months later, a truck driver pulled up in front of her house.
+
+6 (54m 25s):
+I thought I was getting maybe 50 boxes or something. We had a 20 foot container full of boxes. And I'm like,
+
+0 (54m 33s):
+Oh
+
+6 (54m 33s):
+My God, what did we do?
+
+0 (54m 36s):
+And that was the precise moment. When Monica realized she'd forgotten one very crucial detail, she had not gotten the word out about the packing cubes.
+
+6 (54m 46s):
+No, I didn't have a single client. I hadn't sold a single queue.
+
+0 (54m 50s):
+Fortunately her son Solomon had studied business and marketing and college. And so he stepped in and he said, mom,
+
+6 (54m 57s):
+He said, we are going to work really hard. We're going to put it online and we're going to sell it.
+
+0 (55m 2s):
+So Solomon started to email mommy bloggers about the cubes. And one of them posted it on 10 trust. And sure enough, he says,
+
+7 (55m 9s):
+Scott, you know, six or seven orders. And like, that was a big deal at the time. That was like, wow, like this is working, you know?
+
+0 (55m 17s):
+And he actually liked the idea so much that Solomon bought the company from his mom and he called it easy packing. Now she still helps out with the accounting and her husband does the legal work and our other kids help out too. But Solomon, he now does the bulk of the work.
+
+6 (55m 33s):
+You know what? It's been an amazing honor to work with my son. I never thought I would work with my son. If it hadn't been for him, I would not have been able to do it.
+
+0 (55m 42s):
+That's Mona Camus. Rachey of easy packing today. Her son, Solomon and his fiance run the company full-time but Monica still helps out. And since we first ran the story, they've expanded to selling in Europe and have basically doubled their business, selling over 10,000 packing cubes in the past year alone. If you want to learn more about easy packing or hear previous episodes, head to our podcast page, how I built this.npr.org. And of course, if you want to tell us your story, go to build.npr.org. Thanks so much for listening to the show this week, you can subscribe wherever you get your podcasts, and while you're there, please do give us a review.
+
+0 (56m 23s):
+You can also write us directly@hibtatnpr.org. And if you want to send a tweet, it's at how I built this. Our show is produced this week by <inaudible> fucka with music composed by rum team Arab, Louie. Thanks also to Neva grant centers. Meshkinpour Lawrence Wu, and Jeff Rogers. Our intern is Mia Vencat I'm guy Raz, and you've been listening to how I built this from NPR.

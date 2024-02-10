@@ -1,0 +1,728 @@
+0 (0s):
+We live in a world, a country, and a moment in time where there's so much important news and it is constantly changing. That's why up first is here for you. It's NPRs daily morning news podcast. In about 10 minutes, you can start your day informed, listen to up first on the NPR one app or wherever you get your podcasts.
+
+NetSuite (21s):
+If you don't know your numbers, you don't know your business. That's true when your business is growing fast and even more true when there's a lot of uncertainty, inflation is running rampant. Supply chains are clogged and the labor market is tight. What does that mean for margins? But not every business is in the dark. Over 31,000 businesses know their numbers because they use NetSuite by Oracle. The number one cloud financial system right now, NetSuite is offering a one of a kind flexible financing program, head to netsuite.com/built. Right now that's netsuite.com/b U I L T netsuite.com/built.
+
+1 (1m 4s):
+Hey, so before we get to this brand new episode of how I built this, I wanted to make sure that you all knew about the, how I built this shop, where you can find t-shirts hats, mugs, tons of other merch for you, or any trail blazing entrepreneur or builder innovator, or just fan of the show. We created a collection of how I built this apparel, accessories, drinkware, and more just for you. It's currently available@wonderyshop.com. So go check it out right now. Okay. Onto the show.
+
+3 (1m 39s):
+One of the things that is interesting with electrification is it completely changes performance boundaries that we previously accepted. So our, our pickup, I was on the PCH, the Pacifica highway in California. This was maybe three, four weeks ago. I pulled up to a light. It was early morning and a brand new Ferrari pulled up right next to me. And the guy looks over me. I look over at him and said, Hey, you wanna see what we can do here? And so we both accelerate quickly off the line and I out accelerate him by quite a margin. Oh yeah. And we get to the next light. And he says to me, I can't believe my Ferrari just got roasted
+
+1 (2m 14s):
+Smoked
+
+3 (2m 16s):
+By a pickup.
+
+2 (2m 24s):
+Welcome
+
+1 (2m 25s):
+To how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Raz. And on the show today, how RJ cringe was laughed out of the room. When he set out to make an all electric pickup and how that motivated him to build Rivian, a truck to push gas, guzzling vehicles off the road. Most startup founders are motivated by a purpose. You have to be in order to withstand the volatile ups and downs of building a business.
+
+1 (3m 5s):
+And that purpose is often about introducing a product or service that you believe will have an impact either in your community or industry or in the world at large. And this applies to many of the brands we've profiled on this show for Paulina Wexler of universal standard. The purpose is to create a more inclusive clothing brand for Sam and Mariah Koni of Dogfish had brewery. The purpose is to bring culinary techniques to the art of beer brewing. And for RJ syringe, the purpose is about building a better car, better for drivers and better for the planet. But the difference between RJ and the vast majority of the brands we've profiled on this show is timescale.
+
+1 (3m 52s):
+It would take more than a decade of research and development before his company Rivian automotive was able to sell anything. So this is the story of someone who found a way to merge his idealism with a huge market opportunity. Rivian is trying to solve a very hard problem, actually several hard problems. And it's why RJ syringe has been at it since 2009. That was the year RJ and a group of collaborators started a small car company that would eventually become Rivian. RJ wanted to build electric cars, but he knew then as he does now, that to really make an impact with consumers, you have to make it easy and appealing.
+
+1 (4m 36s):
+And for RJ, the way to get there was going to be with electric trucks. Now, even though you may think you see electric Teslas and Kias everywhere you look, electric vehicles only make up around 4.5% of all cars on the road in the us. And most of those electric cars are sedans, but the top selling vehicles in America, aren't sedans, they're trucks, Ford's F-Series Chevys Silverado, and the Ram pickup dominate car sales in the us. So to get most people driving electric cars, you really have to win over the truck owners.
+
+1 (5m 16s):
+When RJ got into the car business in 2009, GM and Chrysler were cratering. Both companies would be bailed out by the government. This was not an obvious time to get into the industry, but what RJ had and has is patience and a long term vision, he knew, and still knows that to mass produce electric cars in the us and then get consumers to buy them. We'll take time. By the end of 2022 Rivian expects to deliver around 25,000 electric trucks to waiting customers. It's a drop in the bucket when it comes to overall car sales. But within a few years, the company hopes to become the biggest electric truck maker in the world.
+
+1 (5m 60s):
+There are growing pains for sure which you'll hear about supply chain, challenges, costs, manufacturing delays, but given what RJ and his team have already been through for the past decade, these are just more bumps in the road. RJ grew up in the 1980s on the space coast in Florida. His dad was also an engineer and an entrepreneur,
+
+3 (6m 24s):
+And my dad and I are really close. So we would always talk about the business and he's an engineer's engineer. So he, he's the type of personality where he understands how everything works and if something's broken, he attempts to fix it. So I, that certainly was something that I grew up with. And as a kid, it would, I would get very frustrated if I didn't know how something would work. So I would want to understand how everything worked. And yeah, I also always had this view that anything is possible. I, I mean, it really, because of my dad, he would look at these complex problems and be like, oh yeah, like that's something we could solve. And so he's, he's such an optimist and he's always been so incredibly supportive of me thinking about things that, you know, now I think back, imagine your six year old son says, yeah, I wanna start a company.
+
+3 (7m 10s):
+And he is like, yeah, of course you should definitely do that.
+
+1 (7m 12s):
+So even as a six year old, you, you already had an idea that, of, of what you wanted to do when you grew up, like you were that focused.
+
+3 (7m 20s):
+Yeah. I mean, I knew from my earliest memory, I knew I wanted to be an engineer and it's sort of funny, even as a kid, I would be building these little businesses. So I, I had made these little business cards when I was probably seven or eight years old and said my name. And then I said, I Polish metal. So I'd go around people's houses in my neighborhood and say, do you need any me metal polished? And I had a polishing wheel and polishing wax, and I would Polish metal. So it was always just this perspective of let me go build something. Wow. And I, I also was deeply enamored with automobiles and just a extreme car enthusiast from, you know, from my earliest memories.
+
+3 (8m 2s):
+It was fortunate to have a, really a premier classic air, cold Porsche restoration expert that lived by chance close by to me where I was growing up. And just
+
+1 (8m 12s):
+A, like a neighbor.
+
+3 (8m 13s):
+Yeah, just a neighbor. So I got very involved just through observation and through my neighbor in this case, taking the time to really explain to me how everything worked.
+
+1 (8m 23s):
+All right. So you were, and, and in high school, if, if I knew you in high school, if I met you in high school, would I have known you as like, that's RJ, he wants to build things he's gonna, he's gonna be an engineer. Was it already clear at that point?
+
+3 (8m 36s):
+Yeah. You know, in the senior description of what I wanted to go do, I said, I'm gonna go start a company. And then shortly after high school, I started to figure out what that actually meant in terms of what kind of company and the fact that I wanted it to be a car company. Wow.
+
+1 (8m 51s):
+Would, did you watch, like, I don't know, would you watch like those films about like those great sort of captains of industry who started car companies? Of
+
+3 (9m 1s):
+Course, but I, I, when I say I was a car enthusiast, I I'm, I was deeply embedded in just understanding the history of the automobile. And yeah, it was funny when I was growing up, I would say to my parents, I wish I was born in 1890 because that's, you know, that was when all the excitement happened in the auto industry is that's when it was all formed. And what's interesting sitting here today is I'm so glad that I was born in 1983 because I, I, I do think that the change is gonna be larger over the next two decades than what we saw in the first two decades, the auto industry, you know, the, sort of the shift from a horse to a car, as we now think about going from a, a combustion powered non-connected vehicle, which is the majority of the vehicles in the road today to connected electric and increasingly autonomous vehicles.
+
+3 (9m 48s):
+It's a, it's a massive shift. So totally this is an equally exciting time.
+
+1 (9m 52s):
+Yeah. I mean, I mean, there's a complete Renaissance happening, which, which obviously is what we're gonna talk about today, but I wonder when you, I mean, you knew you wanted to make cars right. From a young age and, and you ended up studying engineering. I know at Rensselaer Polytechnic in New York, and then you, you went on to get your, your doctorate at MIT, but I guess I'm wondering you were, you were hoping to start a car company. You knew this from the time you were young. So, so why did you think you needed a, a PhD?
+
+3 (10m 24s):
+The, the reason for that was really quite simple. I, I knew that we would need, and I would need a lot of capital to start a business like this. And I felt that if, if someone were to invest in a company, a car company, which admittedly is an extremely high risk proposition that demonstrating some level of intellectual rigor and intellectual capability through a, through a PhD would be helpful in that regard. Hmm. So I, I studied and worked really hard. I graduated number one in the school from RPI with a perfect GPA. Wow.
+
+1 (10m 55s):
+You were single-mindedly focused. You, you wanted to go to the best graduate school, presumably.
+
+3 (10m 60s):
+Yeah. I was very close and in fact signed onto a position at Stanford, but ultimately switched a few days into that, to, to MIT. And, and the reason was I was selecting the grad school based upon what I thought would best position me for, for starting Rivian.
+
+1 (11m 17s):
+Wow. That is unbelievable. You're like a unicorn in that sense, cuz I almost never meet people who were that sort of had that much foresight. You were literally thinking about how MIT could help you. Oh, for sure. In your quest to start a car company one day. Absolutely.
+
+3 (11m 34s):
+Yeah. So, so at that point, this is back in 2005.
+
+1 (11m 37s):
+Yeah.
+
+3 (11m 38s):
+Stanford did not actually have a very strong car program or vehicle program. MITs was the best in the world, said the Sloan automotive research lab and that lab was supported by and integrated with a number of different auto manufacturers.
+
+1 (11m 52s):
+Wow. So they, they have like a pipeline right. To G GM and Ford and
+
+3 (11m 57s):
+Yeah. So you'd meet with engineers and research staff from, from those respective companies and, and be able to dive into their technical challenges. You'd get a chance to go visit and meet with them on their, their R D centers. Yeah. And what I realized is that the likelihood of me being successful, starting a car company with, with no capital, no team, no technology, no brand, no facilities, no supply chain. I actually felt the likelihood of me having impact doing that was still higher than the likelihood of me being able to impact the trajectory of a large existing OEM and the challenges I would say of, of holistic or system level innovation.
+
+3 (12m 36s):
+Yeah.
+
+1 (12m 37s):
+All right. So if I met you in 2005, 2006, when you're, when you're doing a graduate degree at MIT and I would've said so, RJ people are telling me that you're really interested in starting a car company, but at the same time you wanna start a business. So you've gotta solve a problem. And there's a number of problems you can solve. You can say, well, you know, the existing American cars isn't, isn't compact enough or it's not cool enough, or there's no Italian designing, you know, design schemes in American. Like we need beautiful American cars or we need faster American cars or what were you, what was the problem you wanna solve? Was it, was it about fuel efficiency? Was it about emissions?
+
+1 (13m 17s):
+Was it about design? Was it about quality price? What
+
+3 (13m 23s):
+The question we were trying to solve? And what, what I was focused on is how do we, how do we create a transportation system that will work in a hundred years or in 200 years? And the, the challenge we have as a society is our current transportation system is it's causing without question some of the biggest challenges we face as a society. So everything from almost all of our major cities around the world have severe air quality issues to, to a lot of the geopolitical conflicts we have around the world to perhaps most challenging, not perhaps I'd say definitely the most challenging is we are fundamentally changing the composition or atmosphere.
+
+1 (14m 2s):
+That was what was motivating you
+
+3 (14m 3s):
+For sure. Oh, it was, it was a central focus.
+
+1 (14m 6s):
+It was, it was the internal combustion engine has gotta, we gotta figure this out. This is a problem.
+
+3 (14m 11s):
+We have to move to a carbon free system. And so while I was at MIT, I was spending a lot of time thinking about what type of cart needs to be, what type of products are gonna be necessary over the next several years. And I mean, it was pretty wild. The beauty of, of a clean sheet is you can think really broadly. So it was, we were thinking about, or I was thinking about everything from pedal powered cars, to diesel electrics, to pure electric. But I, I actually was really sort of intrigued by this idea of a pedal hybrid, like something with what we now see with e-bikes, but doing that in like a covered format.
+
+1 (14m 52s):
+Yeah. Like a flip Stone's car.
+
+3 (14m 54s):
+Yeah. But, but where there's an electric motor to sort of help you, but sort of like that yeah. With pedals. And I realized that as cool and interesting as that might be the reality is there's not a lot of scale. People are not gonna wanna buy that.
+
+1 (15m 9s):
+It's interesting. Cause around this time it may have been around this time 2000 4, 5, 6, it maybe earlier, I can't remember, but there was a, there was a documentary, it was called something like how GM killed the electric car or something. And I remember there were a lot of conversations around like GM made this amazing electric car and lots of people loved it and then they just killed it. And there was this, there was a conversation around this time, 2005, 2006. So like electric cars really were not viable. Do you remember those conversations?
+
+3 (15m 39s):
+Of course. Yeah. Yeah. Very much so. But you know, for, for myself and I think in academia, it was, there was never a question that electrification is the future. The question was, was solely around what's the path to get there. Hmm.
+
+1 (15m 57s):
+All right. So this was what you're focused on. And when you, when you were set to, you know, to, to get your, your PhD and go out into the world, was it clear to you already that you would not go and work for another company from the get, go that, that literally you'd get your cap gown and you would take it off and you would start your own thing?
+
+3 (16m 17s):
+Yeah. So the interesting thing though, is I didn't talk about it. So I kept this all to myself.
+
+1 (16m 21s):
+You didn't tell anybody
+
+3 (16m 23s):
+In my last year, I should say, as, as a graduate student, I talked to a few professors about it and Jim Womack who's now become a close friend and a, and a great advisor. I was in a class, he was, he was giving on the future of automotive. This was in 2008 or 2009. And near the end of the class, end of the semester, I walked up to him and said, Hey, I'm, I'm starting a car company. And he, he sort of looked at me and said, you're crazy. But other than that, I really kept it very much to myself. And then of course we graduated and I started the company the next day,
+
+1 (16m 56s):
+The next day, this was not Rian. This was the company you found it called mainstream motors.
+
+3 (17m 2s):
+Yeah. So I, I, I didn't have a good name. So I incor, I had to incorporate something. So I incorporated under a temporary name and I used mainstream motors. My, my dad's company was,
+
+1 (17m 14s):
+That's a sexy name. Yes. That's a really, that's a hot name. You're gonna sell a lot of cars. This is a mainstream motor. Yeah.
+
+3 (17m 20s):
+So that was, that was, I think the name for a couple of months. I, I don't remember exactly how long, but, but very short period of time. And then we came up with what we thought was the actual name, which was Avera a V E R a
+
+1 (17m 33s):
+And Avera was a port two of a couple of different words, right?
+
+3 (17m 37s):
+Yeah. We took the word Verde and Tara, so green and earth and the idea was a green earth.
+
+1 (17m 45s):
+Right. Okay. And, and I guess the goal, this idea, this company, the goal was to make like a more fuel efficient sports car, right? Like a, a, like a hybrid that, that was what you were planning to do, right?
+
+3 (17m 58s):
+Yeah. Well, in terms of the first product, it was even more crude. And simple than that, it was, let's build a first product that helps us build a brand. The idea was a hundred mile per gallon sports car and build a brand around efficiency and sustainability. And then from there continued to develop more and more technology, different products. And so we started working on that
+
+1 (18m 22s):
+And you say, we, it was you and, and who else?
+
+3 (18m 25s):
+Well, it was me to start. Yeah. And then hired one or two people in the first six months. But you know, very, very slowly grew the company. We, we did not have a lot of capital.
+
+1 (18m 38s):
+Well, this is, yeah. I mean, this is my question. This is, I believe you, you started this, you founded this in 2009, correct? Yeah. And anybody you remembers 2009 knows that like the, all the auto manufacturers, like the big three, they were in Washington all the time. They were asking, not for, but the others were asking for help to make sure didn't collapse. And I mean, the whole industry was in crisis GM Chrysler, for sure. And this was not a good time to be thinking about a, starting a car company, B asking investors to invest in a car company when the, the two, two out of the three big, big ones in the us were asking for bailouts.
+
+3 (19m 19s):
+Yeah. It's it was in some ways the worst possible backdrop, one could imagine for raising capital walking up and down Sandhill road and sort of knocking on doors and trying to get meetings.
+
+1 (19m 33s):
+You were trying to do this.
+
+3 (19m 34s):
+Yeah. I'd say very unsuccessfully trying to raise capital
+
+1 (19m 37s):
+In 2009, you were trying to raise money from like, you know, the sequoias and the whatever out
+
+3 (19m 43s):
+There for sure. Yeah. But the nature of it is, I mean, imagine I had no capital, no product design, no, no technology, no team.
+
+1 (19m 53s):
+You had the credential, you had the MIT credential
+
+3 (19m 55s):
+At, at a PhD from MIT. Yeah. And so I would basically go into meetings and say, I'm starting a car company. And they'd say, well, tell us about your factor. Tell us about your team or show us the product. And I'd say, well, we don't have those yet, but we're gonna build them. So it was a, it was, you know, looking back, it was an incredibly hard pitch, you know, in starting a car company it's different than most technology businesses or traditional venture backed businesses because even the whole venture space is designed around the idea of being able to launch your minimum viable product. Yes. You can launch something quickly. Yeah. So for, for very little capital, you can build your software platform, build your app and show that there's market demand for it.
+
+3 (20m 37s):
+And the challenge in, in starting, this is if you're being honest with yourself and therefore honest with investors, as you talk about the business, you have to say, well, we have to raise at least a billion dollars. If we had all that money right now, it would still take us several years. And do you want to be the first dollar in, right. So it's a really, really hard investment. So you have this classic, like chicken or egg, you need money to develop technology and product, but if you have no product and technology, how do you get, how do you raise the money? Yeah. So you have to sort of almost like will it to happen. You have to just start working on the problem and start slowly making progress.
+
+1 (21m 15s):
+Well, so I'm curious in 2009, when you're going around asking investors, if they want to invest you, what you wanna do is at this point is to build a prototype of a product, which is gonna be a fuel efficient sports car. But, but you needed to do that. And you could do that for what, five, six, $7 million.
+
+3 (21m 34s):
+Oh, less than
+
+1 (21m 35s):
+That. Less than that.
+
+3 (21m 36s):
+Well, under a million dollars, we built the first prototype.
+
+1 (21m 38s):
+And so you raised no outside capital to begin work on the prototype. It was all like family and friends and stuff.
+
+3 (21m 45s):
+Yeah, exactly. And the beginning, it was just family and friends, mainly my dad and I, and I, I bought a house when I was in high school and my dad refinanced his house and we both put that money into the business.
+
+1 (21m 59s):
+You bought a house in high school from like what your, your, your jobs and just like, you just bought like a cheap house and that you rented out.
+
+3 (22m 6s):
+Yeah. Yeah. So I, I, the late nineties summers, I worked two full-time jobs. So I worked as a, as a machinist during the day. And then I worked in a restaurant and nights and weekends, and my goal was to buy a house. So I saved up enough to, to buy a house.
+
+1 (22m 23s):
+Yeah. I'm, I'm just amazed at, when I hear about like high school and college kids who are just so focused and then they buy a house and then they rent it out and then that eventually builds wealth, but that's a different story. Okay. Now here's my question. I'm just thinking, my God, how do you build a hybrid? I mean, how do you build a prototype car? That's gonna work like you're in Florida, you're in this area where you grew up it's you and get one or two people with you. Yeah. How do you physically, like, where do you start? Like what, first of all, where do you build the car? Do you, do you just like rent a, a warehouse that you start working in?
+
+3 (22m 59s):
+That's exactly what we did. We, I rented a warehouse. It was actually a warehouse. I rented from my dad. And that was what we worked out of initially. And then to make a prototype, be to figure out how to, how to do that. So started traveling back and forth to Detroit, to meet with some of the prototype part fabricators. And as we were going through it, I mean, it was very scrappy. So we found people that could make things all over the place, whether it was in Florida, whether it was in Detroit area that could sort of make some of the parts.
+
+1 (23m 29s):
+I mean, God, I can't even imagine just the, all the problems, all the, the challenges you had to solve for right. To make an engine and then an efficient chassis and, and suspension, power train, all. I mean, and of course this was not gonna be a completed car that you were, were building. It was gonna look like a, something you'd find an auto showroom, but still like where, where did it start?
+
+3 (23m 52s):
+At that time, we were really focused on how the car would be built. So we started with the process to assemble sort of what we think of as like the structure, the, the aluminum structure. So I was developing parts. I was designing parts in CAD, you know, it was 24 7. We never had enough even close to enough money to do anything the right way. So everything was sort of hacked.
+
+1 (24m 15s):
+How did you get, like, I mean, were you, were you just basically getting things made for you? Yeah. I mean, and just shipped to you in parts and you would kind of assemble it in this warehouse.
+
+3 (24m 26s):
+Yeah. And we'd do some assembly of it, depending on the parts. Some of those parts would be put together in the Detroit area, but yeah, it was definitely a hand built process.
+
+1 (24m 36s):
+All right. It took, I took you guys, small team of you, you had about what, like 12, 13 people working on. I think something like that.
+
+3 (24m 43s):
+Yeah. Just over 10,
+
+1 (24m 44s):
+Almost two years to come up with this and you got some attention, press attention. There's an article in the Orlando Sentinel. And I mean, it's really cool. You, you said at the time that you were hoping that by 2012, yeah. You guys could build these in Florida and that, you know, you could, they would go for about 25,000 bucks.
+
+3 (25m 4s):
+Yep. Yeah. Is just probably often the case. We thought the task was easier than it actually is. This is not for the faint of heart. And I think in those days, we, we had assumed we could do it with less time and less money than was actually realistic. And I often talked to people about this stage and in some ways it was helpful that we didn't fully understand how challenging it was because it, the, the steepness of the climb appeared less scary. So to speak, we didn't, we didn't look at it and fully appreciate how hard it was going to be.
+
+1 (25m 36s):
+And what about the, so I'm looking at a photograph of a team of you around what would become the eventual car, this Avera car, which looks pretty great. It's a, this is a blue car. Looks like a yep. Sporty little car. Yeah. And so this car did drive it. You, you did drive it, right?
+
+3 (25m 55s):
+Yeah. Yeah. It drove in a video. It looks very real, but it was, it was not a, there wasn't supply chain built around it and there was not a, it wasn't durability tested. It was a,
+
+1 (26m 7s):
+It was like a hobby car basically.
+
+3 (26m 8s):
+Yeah. It was a prototype, very crude prototype.
+
+1 (26m 11s):
+And did it, did it go, what did it, was it fuel efficient
+
+3 (26m 15s):
+Sort of, it, it had a long way to go to get to what the target state was. I'll say that. Yeah.
+
+1 (26m 22s):
+But, but still, I mean, I can imagine, you know, it's kind of cool. You've, I'm looking at a picture of this small team of people around a fully built car, which is kind of a cool achievement to, I mean, you did this in under two years. And so you were probably excited about the prospect of like Florida could be this manufacturing center. You could make cars in Florida and maybe you were kind of carried away with this vision, which I think anybody would, that you could make this happen.
+
+3 (26m 49s):
+I think that's about right. We, we really believed we could make something special, but I would say underneath the surface, and I, of course I can say this now, I wouldn't have said this to the team at the time. I, I had pretty deep concerns just around the, around whether we were solving the right problem. And were we working on the right thing? Yeah. The kind of thing that you go to bed lying in bed, thinking about, should we be building this? Is, is this what the world needs do we deserve to exist as a company? That was a question I would ask myself all the time, what gives us the right to exist?
+
+1 (27m 26s):
+I, I read a quote from one of the engineers who worked on this project. I think now works with the Rivian. Who said, when the vehicle was done, literally you guys finishes Avera vehicle. Great achievement popped the champagne cos and you know, you literally said, we're switching, we're switching course here. This is not the right direction.
+
+3 (27m 45s):
+Yeah. It was. At this point, we did bring in a small amount of outside investment. So we had, you know, investors to, to think about, we had employees and everyone had poured their heart and soul into what we were building. And, but I, I just knew it wasn't the right thing for us. And I knew it wasn't solving the right problem. So I said, look, this we've gotta shift. And that was the easy part. The hard part was is that we didn't know at that point, what we were shifting to
+
+2 (28m 19s):
+When
+
+1 (28m 19s):
+We come back in just a moment, how RJ and his team began to design a whole new vehicle and why they decide to do it very, very quietly, stay with us. I'm and you're listening to how I built this,
+
+MasterClass (28m 45s):
+Learn something new with masterclass, with masterclass, you can learn from the world's best minds, anytime, anywhere, and at your own pace, you can learn how to communicate with purpose from George Stephanopoulos and improve your business leadership skills with Bob Iger, with more than 150 classes from a range of world class instructors. The thing you've always wanted to do is closer than you think I love to cook. So one of my favorite masterclass courses to recommend is the one taught by the great chef Alice water. She is the pioneer of the farm to table movement. The founder of she Panis. And she's been a guest on how I built this. Her masterclass teaches the art of home cooking with amazing insights on selecting seasonal ingredients, building a home pantry and essential tools for the kitchen. I learned so much from this legend, and I think you will do. I highly recommend you check out masterclass, get unlimited access to every class. And as a, how I built this listener, you get 15% off an annual membership go to masterclass.com/built. Right now that's masterclass.com/built for 15% off. Masterclass
+
+ZipRecruiter (29m 52s):
+hiring is challenging, especially right now. When you have so much on your plate, luckily there's one place you can go or hiring is simple, fast and smart, a place where growing businesses connect to qualified candidates. That place is ziprecruiter.com/built. ZipRecruiter does the work for you? ZipRecruiter uses its powerful technology to find and match the right candidates up with your job. You can easily review these recommended candidates and invite your top choices to apply. ZipRecruiter is so effective that four outta five employers who post on ZipRecruiter get a quality candidate within the first day. And right now to try ZipRecruiter for free, our listeners can go to ziprecruiter.com/built that's ziprecruiter.com/b U I LT ziprecruiter.com/built ZipRecruiter the smartest way to hire.
+
+2 (30m 58s):
+Hey, welcome back to how I built this I'm guy Raz. So it's 2013 and RJ is in pivot mode. He's already built a prototype of a fuel efficient sports car, but now he decides that to really make an impact.
+
+1 (31m 13s):
+He needs to make a vehicle that's fully electric, two vehicles, in fact, an SUV and a pickup,
+
+3 (31m 20s):
+Which was sort of the craziest thing back in like 2013 to even talk about electrifying. You can imagine if, if people thought I was crazy to start a car company, when I said, I wanna make electric pickups, and this is 2013, it wouldn't be an exaggeration to say, we'd get laughed outta the room. Yeah, but we said, this is actually a really good thing. If people are laughing us outta the room, we need to, we have an opportunity to demonstrate that this is a segment that it's, you know, it's the least efficient vehicles on the road. It's among the most profitable segments. So it's, it's the type of vehicle that actually the world needs to see. There's demand for electric and the world needs to see that it's possible to electrify.
+
+1 (31m 58s):
+All right. When you realize that you wanted to, you need to switch direction, you knew that it was gonna be all electric. I remember test driving a Tesla Roadster. I did a story about it back then. And it was a sports car, electric sports car. And it was really cool. So you could have said, Hey, you know, let's, let's focus on electric sports cars, or you could have said, let's focus on electric sedans or let's focus on, on electric family car. So there were, there were different directions you could go in. Yeah. Did you think about, about maybe going in that direction?
+
+3 (32m 30s):
+Oh, of course. But Tesla launched its Roadster, like the 2006, 2007 timeframe. And the thought of going out and building what Tesla had already done, you know, 10 years later, just, it felt like that wasn't a problem that the world needed worked on.
+
+1 (32m 49s):
+But how did you land on this idea of making a pickup truck? What were the factors that got you to that point? What were the things you were, you realized about this particular kind of car?
+
+3 (33m 2s):
+Obviously it's a very popular segment. Yeah. But we also saw it was, it's a segment that perhaps more than any other has been characterized by compromises. So a truck drives like a truck. It can be capable and robust, but it's not gonna ride as smooth as a, as a car, a truck is gonna be inefficient. A, a truck is not going to have a lot of trunk space. Like a truck cannot be sporty and all these like really wonderful, wonderfully interesting opportunities to, to demonstrate how technology can eliminate a compromise. And so when we thought about the role of technology and the role of driving electrification, we said, we need to not just make a truck that's electric.
+
+3 (33m 48s):
+It needs to be something that's totally different and turns things that are today weaknesses into strengths.
+
+1 (33m 55s):
+Yeah. But, but were you, I mean, put on your business hat for a second, not, not the engineering hat, did you see an op a market opportunity and focusing on SUVs and trucks? I mean, cuz thi this is still the biggest, I think the biggest segment of cars sold in the us SUVs and trucks. Did you realize that and say, wait, we should really go in that direction.
+
+3 (34m 18s):
+Oh, I mean, we were, yeah, very much analyzing the different segments. You can go into analyzing the size of the segments, the efficiency of those segments, but what was incredibly clarifying as we thought about what to do was we knew the right question to answer. And it was a single question and the question was whatever we do, it needs to have the most positive impact. And that even if the company wasn't successful, if we were working on problems that were big enough and hard enough, that inspired competition, that inspired existing OEMs to change the way they looked at things that would be a success from the measure of, you know, reducing the amount of carbon admitted into the world.
+
+3 (35m 5s):
+So, I mean, the, this was one of my, in the moment, most perplexing and challenging times, but looking back, it was actually one of my favorite times in Vivian history because it was so freeing to say, we're trying to solve for impact. Now let's go iterate through lots of different concepts and ideas and strategies that can do that. Yeah. And you know, the freedom we had at that point was so unique. We could pivot wildly, like on Monday, we think we're doing this and on by Wednesday we're 180 degrees different from that thinking. And, and so the, the fluidity of, of concepts that we wanted to focus on was just, I mean, it was extraordinary.
+
+3 (35m 46s):
+It was awesome.
+
+1 (35m 47s):
+Yeah. All right. So you know that the future is electric and, and, and you're gonna be building trucks and SUVs. And then I guess in like 2013, you guys decide to relocate to Michigan, like just, just outside of Detroit. And, and it means it's for obvious reasons, right? The whole sort of us automotive industry is, is based in the upper Midwest. But, and just outta curiosity at this point, what the company is like 10 or 12 of you guys.
+
+3 (36m 20s):
+Yeah. All, I guess it was probably about, yeah. Around 12 people, half of us all moved into a single house and a place called ipselani, but yeah, it was, I mean, it was a very interesting time. My now wife, we were dating at the time and she moved with us and none of us had any money. The company had no money. Of course. So we were really running lean and hard to try to come up with and scale some of these ideas that we were thinking about.
+
+1 (36m 48s):
+All right, let's break down some of the, the things that you had to do, first of all, you changed the name from Avera to Rivian. What was the name change about? Why'd you do that? Because affairs a pretty good name. Yeah.
+
+3 (37m 1s):
+It's a pretty good name. We, this must have been 2010. We were sued by Hyundai. So Hyundai had a product at the time called the Azera a Z E R a. And they were concerned that the name was too similar to our names. So they, they basically said, you need to change your name. And we said, okay, we're not gonna fight Hyundai. And, and use the very small number of dollars. We have to fight over a name that very, very few people around the world had ever even heard of. So we had lots and lots of different sessions and ultimately arrived at Rivian, which I'm so glad all that happened because I, I can't imagine the company with a different name.
+
+3 (37m 43s):
+It's I, I love the name. It's something that just works so well,
+
+1 (37m 47s):
+Where does the name come from?
+
+3 (37m 48s):
+So I grew up on the Indian river
+
+1 (37m 51s):
+In Florida. Right. Which is not actually a river. It's the ocean, right?
+
+3 (37m 55s):
+Yeah. It's, it's essentially, it's part of the intercoastal waterway. So it's a, it's a path for large ships to move. If, if there's large storms that come in, you know, they come inland through this waterway. Yeah. But anyway, so, so we took the first three letters of the word river, Riv V and the last three letters of the word, Indian Ian, and merged those two together into Rivian. And wow. We wanted something that was phonetically, easy to say. We loved the basis of it coming from the word river. It sounds like a word that's flowing and moving. We wanted something that didn't mean anything in any language around the world, which this, this satisfies. So for a bunch of engineers thinking about how to name a car company, that was, that was what we came up with.
+
+3 (38m 40s):
+Yeah.
+
+1 (38m 41s):
+All right. So you're in Michigan and in IPS group house, and you know that you're gonna focus on making SUVs and trucks, electric, man, I just cannot imagine what a daunting task you have ahead of you. You've gotta make a battery. You gotta make an engine. You've gotta design the car. You've gotta, I mean, every, and then down the road, you gotta figure out how to mass produce it. And then you've gotta find a factory. And then a supply chain, forget about all that stuff. First of all, just even do these things that I'm talking about, you need lots of money.
+
+1 (39m 21s):
+Yeah. So was it, I mean, now that you had a, had the prototype of that sports car, you know, now that, that you proved a concept, even though you weren't doing that anymore, was it, was it a little bit easier to attract capital
+
+3 (39m 33s):
+It in a way it was, we were able to show as a very small team, highly under capitalized that you know, that we could build something. And so if the risk was extremely high before that it was now very, very high. So it, yeah. It allowed us to start having different types of discussions with investors. But I, I think the other thing you have to remember at this time is it wasn't at all clear that electrification was going to happen yet. Hmm. And so that was, that was something we also had to overcome was to convince, to convince people that there was actually going to be a big market for electrified products. And now, now of course it's a very different world.
+
+3 (40m 13s):
+It's, it's universally accepted that a hundred percent of, of the world's vehicle production in the very near future will be electric. So yeah. But that wasn't the case seven, eight years ago.
+
+1 (40m 25s):
+So, all right. You had to raise money just to get this started. And I know you got and, and how, how much money did you, I mean, even just to get to, I don't just start, I can't imagine how much money you needed. Did you start with a small amount or with 50 or a hundred million?
+
+3 (40m 42s):
+No, no, no. I wish we started with that. So, so the way, the way it played out is we, as we were pivoting into this, into this new space, I, I sort of zoomed out and said, we're really far away from raising the amount of capital we need. Again, if you're being honest with yourself, you know, you look in the bank and it, it has, you know, more than a million dollars. You're like, oh, this is great. And then you're like, but wait a second, we need more than a billion dollars to actually Ram. So I started thinking about, well, how do I meet the people or the person that's gonna help take this to the next level. Yeah. And ultimately the approach that, that actually worked the best was I went back to MIT and I met with some of the senior leaders there, who I, who I had, and I still have a, a great relationship with, and I said, I need some help.
+
+3 (41m 27s):
+I've I've started this company. We need a lot of capital and I need to connect with people that might, might be able to help me in that way.
+
+1 (41m 35s):
+Hmm. And, and that turned out to be a really smart approach, cuz I, I guess you wound up getting in touch with an MIT alum, a guy named Mohamed Jamille. Right. I think he he's, he's the CEO of, of a company called Abdu Latif, Jame. It's a, a huge family owned corporation from Saudi Arabia. Yep. And I think a big part of the, of their business is, is an automotive. And, and so what you pitched him on, on Rivian.
+
+3 (42m 1s):
+Yeah. I remember I went out and met with him and it was just a great meeting because we ended up having a conversation around the future of transportation. And at the end of it, I had a hunch that they would be willing to support us. And ultimately that played out. So yeah, it wasn't as if they walked in and said RJ here's 50 million. It was, they walked in and said, here's a very small amount of money. Let's see what you can do. And let's build a business plan. And that once that was completed, they said, okay, this makes sense. Now let's build a more sophisticated prototype built that, okay. That, that seems to be working, let's engage with more suppliers.
+
+3 (42m 41s):
+And we would then add to that more capital, but it was like less than a million dollars to, you know, a million dollars to slightly, you know, to 5 million to 10 million. So it was a very gradual growth because the risks were so high.
+
+1 (42m 57s):
+He here's, here's what, what I'm wondering about you are the main engineer, it's your company, but now you're spending most of your time trying to raise money. And I mean, given that you love the engineering side, every single founder, I've talked to you and with some exceptions, they just raising money. Side's a grind. They really don't like that part. How did you feel about having to really focus on that side of the business?
+
+3 (43m 23s):
+I really have always thought at my job as my role needs to be constantly looking for what's the most important problem to solve at the company. And at that period of time, it was very important that we solved it, solved how we were gonna capitalize the business. I mean, that was, that was existential
+
+1 (43m 40s):
+The money issue. That was the issue.
+
+3 (43m 42s):
+Yeah. Without, without money, there is no company. So it it's sort of like, it'd be nice to just work on the vehicles and, but
+
+1 (43m 51s):
+You can't,
+
+3 (43m 52s):
+But you can't. Yeah.
+
+1 (43m 53s):
+Cause this is not a cookie company. Yeah. You are not buying chocolate chips and flour and sugar. You're trying to build an electric car. You cannot do. You can't even start until you have the money.
+
+3 (44m 4s):
+Yeah. So, and that's, you know, one of the hardest things, not, not necessarily raising capital, that was hard. You're being told no way more often than you're being told. Yes. You know, the ratio's crazy. It's, you're probably getting 150 no's for maybe one partial maybe. Yes. But that was fine. I knew that going in the hardest part was maintaining the morale of the team. Yeah. I would. I knew all these folks really well. I knew their, their families. Well, I knew, I knew the names of their kids and sort of knowing that their livelihood, the livelihood of their families is dependent on us being successful. But also knowing that I needed to keep their state of mind focused on solving technical problems and not stressing about the fact that we have a half a week of cash.
+
+3 (44m 53s):
+Yeah. And we haven't paid any of our suppliers in two months and it's a very emotionally challenging state.
+
+1 (45m 2s):
+I'm curious because around 2012, when you start raising this money, you did something. And this is interesting cuz there's as you, as you know, I think, and I hope our listeners know we do a lot of research for every interview, very deep research, but there is a significant gap in our research between 2012. And let's say 2017, cuz you, you very intentionally went into stealth mode. You decided we're gonna just not talk about what we're doing. We're not gonna publicize it. We're not gonna go to the media. We're not gonna, and was that connected to what you had done in Florida where you actually did talk to the media and you said, Hey, we've got this awesome car we're gonna make 'em in Florida. Did that inform this, this strategy of just going into stealth mode and not talking about it at all?
+
+3 (45m 46s):
+Yeah, absolutely. When I first started, we had targets and as you would expect, the targets were not realistic and you can find things where we said, we're gonna launch this thing by 2012 or 2013. And I realized that the number of unknowns was so significant as we were beginning this sort of second part of this new part of the journey that it would just be silly to talk at all about what we're doing externally. I mean, we didn't even have a website at this point. We just went completely dark and it was actually really helpful because it, it avoided us getting overly married to any specific aspect of the strategy or any specific aspect of our timeline.
+
+3 (46m 30s):
+And it also created its own challenges. Recruiting was a challenge because people would joke with me. So I'm gonna go home and tell my spouse, I'm gonna join this company that doesn't have a website that doesn't appear to have a lot of money and intends to launch vehicles sometime in the future. I was like, yeah. Some version of that. Yes. So it, it was, it was challenging to say the least. Yep.
+
+1 (46m 53s):
+Alright. So let's sort of dive into this stealth mode period. Right. I'm trying to cuz this is like a good sort of four or five, four year period in stealth mode. So, so kinda tell me what what's happening. Yeah.
+
+3 (47m 8s):
+It's so we built a, our first truck, what would look like to most people, a production ready truck by the end of 2013.
+
+1 (47m 18s):
+Okay. So you, so similar kind of which what you had done in Florida, you rented a warehouse and you were actually building a prototype.
+
+3 (47m 25s):
+We were building a prototype. This was, it was completed end of 13, beginning of 14. And we called this P one
+
+1 (47m 32s):
+And it was a pickup truck that you were building.
+
+3 (47m 33s):
+It was a pickup. Yep. Like
+
+1 (47m 35s):
+A flatbed pickup.
+
+3 (47m 36s):
+Well, not a flatbed, more like a, a little, it was a little two seat pickup. So it was a very small pickup.
+
+1 (47m 41s):
+Okay.
+
+3 (47m 42s):
+And we realized that that conceptually wasn't right. We didn't really get the branding on it. Right. And we were trying to make it really low cost. So then we built another version which we called alpha and this was looked like it was from a 1960s science fiction movie where it was like looked futuristic, but looked like it was trying to look futuristic if that makes sense. And then we iterated again. And really by that point had started to deeply understand the brand we were trying to build in terms of both enabling an inspiring adventure, but this idea of like, you know, a product designed to take kids to the beach and families, mountain biking and that kind of thing.
+
+3 (48m 24s):
+But each of those iterations, you can imagine spooled up. Like there was clay models and there were teams of people doing research and we would build not just the vehicle, but then mules or like test vehicles to test the components on the vehicle. So it was these big iterations were at the end of each one. We said, oh, this isn't it, this isn't right. We don't have it yet.
+
+1 (48m 47s):
+All right. As you're in stealth mode, which I, I wish I had some cameras in there cuz I think it would've been really interesting to
+
+3 (48m 54s):
+Be here. Yeah. Me too. I should've taken more pictures.
+
+1 (48m 56s):
+You probably did. You were nervous cuz you were, you know, you'd made that, but was at any point during that time, did you think, you know, this might not work out? I mean, cuz I I'm thinking like 80, 90% chances not gonna work
+
+3 (49m 10s):
+Out. Oh I think much, much higher than that. I would say 98% unlikely 99.
+
+1 (49m 17s):
+Did you think it was gonna work? Did you think that the 2% was on your side?
+
+3 (49m 20s):
+I didn't think about that a lot. I mean it was something I thought about at least every week, but I didn't allow myself to go there. It's a, you know, because you can quickly start to get into the realm of well what's plan B and what's plan C and yeah, if we can't raise money, how do we take some of the things we developed and turn those into smaller businesses and right. Like all that, but it's really, it's really distracting to focus on failing, you know, to focus on how this is gonna go wrong and if it goes wrong, how you make it less bad for everybody. Yeah. And like in some of the darkest moments, you know, it'd be the page of ideas on what we could turn the company into if it doesn't work. But I never found those to be particularly useful cuz they didn't drive actions.
+
+3 (50m 1s):
+I wasn't gonna go work on plan. The moment you start working on plan B or plan C the likelihood of plan a working goes to 0%.
+
+1 (50m 11s):
+How did you land on this idea of adventure, of branding this product as adventure? Because you know the F-150 I think of home Depot, I go to home Depot and there's like that part of the parking lot near the lumber area. And it's like all big, you know, trucks, Dodge for, you know, I'm thinking contractors, right? Yeah. Yeah. So that could have been a focus or like, you know, the sort of rural, you know, kind of independent minded, American wide open spaces, you know, self-sufficient that kind of image we have of like a big truck with like an American flag or something behind it.
+
+1 (50m 51s):
+Like that's a huge market.
+
+3 (50m 53s):
+Yeah. This idea of adventure is really a deeper reflection of what we think about when we think about what is humanity, humans are innately curious. And so that curiosity leads to us as consumers wanting to accumulate new experiences. So we actually, we had a few objectives when we were designing the vehicle in the form you see today we said, number one, we actually don't want this to be something that's heavily cross shopped with existing trucks, meaning we actually want to be drawing in customers that are coming out of everything, not just trucks or SUVs, but pasture cars, sports cars, coops, hatchbacks, and what's amazing is we now have the data to show it.
+
+3 (51m 38s):
+And it's exactly that. So people who've previously owned a pickup truck represent just over 10% of our customers. Meaning 90% have never owned a pickup before, which is awesome. And then the second objective we had is we, and this was one that I was even more focused on is we were trying to target customers that were not electric vehicle customers, meaning it doesn't have impact. If we're just moving a customer from a Tesla into a Rivian, we wanna be moving a customer from a combustion powered vehicle in Trin. And again, we now have date on this where less than 20% of our customers have owned EVs before meaning more than 80% have ever owned an EV
+
+1 (52m 14s):
+Yeah. A as you were sort of making progress on building these prototypes, you must have gotten to a point where you were confident that you could really now produce these and you were raising money. You started to look for a plant to actually build these cars. And one became available as an old Mitsubishi plant in Illinois. And you guys had, you bought it, you were able to buy it, but that meant, I think you paid $16 million, but then you'd have to put a lot more money into getting it, ready to be an electric car plant. But that meant that you were doubling down like now 20 16, 20, early 2017, when you buy this plant, you're essentially saying we're gonna make this.
+
+3 (53m 1s):
+Oh yeah. I mean, in the automotive space, there's been a lot of new companies over the last 50 years. And one of the biggest challenges is to go from the concept or the prototype to mass manufacturing.
+
+1 (53m 14s):
+Yeah.
+
+3 (53m 15s):
+And that step causes one to think about all, what are all the ways you can get there? Can we use a contract manufacturer? Can we, do we build a Greenfield site? Do we find an existing site? So we were looking at every possible combination.
+
+1 (53m 28s):
+You were thinking probably maybe we could partner with Volkswagen or Ford or GM. I think GM at one point, even wanted to partner with you.
+
+3 (53m 34s):
+Yes. We were looking at all different types of things and ultimately arrived on this idea of let's buy, find a facility that is in place that we could buy and repurpose. And in the world of used automotive plants, there's not, you know, it's not an overly liquid market. There's not a lot of used plants that are in a viable condition. This was a unique setup that this, this plant we purchased started production in 1989. So it's a relatively new plant and very good access to the supply chain. And so we ultimately, as you said, we bought it for 16 million, which was just an incredible deal closed in beginning of 2017. Now we didn't have, at that point, the money to actually turn it into a plant for ourselves.
+
+3 (54m 17s):
+So it's, we sort of bought it and then said, okay, now we gotta secure all the capital to convert this into a Rivian plant.
+
+1 (54m 25s):
+So here's, here's what I'm wondering. I mean, that, that's a huge step buying that plant and it's in 2017 and it's gonna take some time before you can, at that point manufacture there at this point, Tesla is really starting to make an impact still struggling at that point. Right. But it is making an impact, certainly in California, people are starting to drive it and it's getting the vehicles are getting good reviews. I mean, did you see that? Did that make you anxious? Like, oh God, there's just so much more far ahead of us. Or did you see that as like, oh, this is great. They're they're just helping us build this market.
+
+3 (55m 2s):
+We, we definitely looked at it as great for the industry. Great. For electrification. I, I think today there's around one and a half billion cars on the planet. And even today, this is now, you know, relative to 20 17, 20 18, this is a lot further along, but of those one and a half billion cars, less than 2% of those are electric. Yeah.
+
+1 (55m 22s):
+So
+
+3 (55m 23s):
+We are so early, we're unimaginably early in this transition. And so the fact that Tesla was out earlier than us in building what I think of as a very strong brand, we saw that as a good thing, but the world needs more than just Tesla to convert those one and a half billion cars to electric and to completely remap the industry. So we, yeah, I think the, the world often believes that we would be rooting against them or something like that. That it's just not the truth. We, I think their success is, is good for the world. I think it's, it's good for the space we've, we've designed products and a brand that feel and look very different than theirs.
+
+3 (56m 3s):
+So their success and our success collectively help each other.
+
+1 (56m 9s):
+All right. So you've got this factory and you know, at this point, I mean, I have to imagine it got a little bit easier, maybe a lot easier for you to, to, to start to raise significant capital in part, because the economy was getting better. Venture funds flush with cash. Did it become, I mean, and you're talking about billions of dollars, you have to raise not, not a few million. Did, did that start to, when did you feel like it started to become easier? You didn't have to make the case as aggressively.
+
+3 (56m 43s):
+It became easier, but not, it was not a, there was no binary step, right? The core decision we had, this was back in like 2017 was when and how do we come out of stealth? Yeah, because being in stealth at that point, it went from a, I would call it like an asset. It was helpful that we were in stealth to becoming actually a painful liability where
+
+1 (57m 7s):
+You needed awareness,
+
+3 (57m 9s):
+We needed awareness. And so whether it's investors or suppliers or recruiting, it just became really problematic. And so we took the decision to say, let's come out of stealth. And we decided to show the, the R one T and the RS, that's our truck and our SUV at the LA auto show at the end of 2018.
+
+1 (57m 27s):
+So you said in 2017, you said at the end of 2018, we're gonna go to the, one of the biggest auto shows in the world, the LA auto show. And we're gonna debut our pickup truck in our SUV.
+
+3 (57m 37s):
+Exactly. So we had built some very solid technologies, some solid platforms. We were engaged in a variety of different strategic discussions with big partners. So we went into the LA auto show and we had, we'd already built a very deep relationship with, with Amazon. We hadn't yet announced our deal with them, but we knew it was coming.
+
+1 (57m 56s):
+Amazon would eventually invest 700 million in Rivian and, and also order a hundred thousand trucks.
+
+3 (58m 3s):
+Yeah. So Amazon is now our largest shareholder. They they've messed it a lot through multiple rounds, but, but when we showed the vehicle LA we hadn't yet announced them as an investor. Now we knew that that was going to happen, but it was actually really helpful going into the LA auto show with a level of confidence around what we knew. But the world didn't know was gonna come over the coming six months in terms of partnership, announcements, and investment. And that was, you know, that was sort of the, the moment when we went from a company with no website, no background to a company that was out of stealth. And essentially from that point forward, we were then very much followed publicly.
+
+3 (58m 46s):
+And we knew that that would happen.
+
+1 (58m 47s):
+Yeah. You were at the Alito show. I'm I'm assuming. Yeah. Tell, tell me what the atmosphere was like. Was there, were there lines of people to come see the guy I know got a lot of attention.
+
+3 (58m 57s):
+It was, it was fun in the sense that people were like, who is this company? Where the heck did you come from?
+
+1 (59m 6s):
+When we come back in just a moment, how RJs plans to get Rivian up to speed, get snarled up in the supply chain, stay with us. I'm guy Ross. And you're listening to how I built this
+
+Mejuri (59m 29s):
+Ever waited for a sign or someone else to buy you a piece of jewelry. Most people have, which is why a Missouri was founded in 2015. Missouri believes in jewelry as an expression of self where it, when you want buy it, when you want gifted or treat yourself and keep it forever. In fact, my wife recently got some majority jewelry and she absolutely loves the necklaces. And I have to say, they're incredibly beautiful. They're amazing majority sells styles that never compromise on quality or craftsmanship because they know the best styles are the ones that last and the best part jewelry jewelry is fairly priced without the traditional industry markups. If you're looking for jewelry, you'll actually wear and love forever and wanna gift yourself something that's built to last is sustainable, and doesn't have the traditional 10 time price markups celebrate you and celebrate your way with jewelry from Missouri, make your own day and go to missouri.com. That's M E J U R i.com
+
+Will Be Wild Podcast (1h 0m 34s):
+Every day. It seems like there's a new story about the January 6th house committee hearings, someone getting subpoena or even rated by the FBI. So it's hard to parse all the information and really understand how things happened, how they've come together and what's coming next from pineapple street and Wondery will be wild as a podcast that explains all of that. Exploring the human stories left out of the instruction, headlines stories about the people who took part that day, the people who saw it coming and the people who feared it was just the beginning. There's even a new bonus episode, focusing on what we've learned from the hearings, the shocking moments and the deeper takeaways, and a look ahead at what's coming up as the hearings wrap and the midterms reshape Congress to listen to this new episode and all the rest be sure to follow will be wild on Amazon music or anywhere you get your podcasts.
+
+1 (1h 1m 31s):
+Hey, welcome back to how I built this I'm guy Raz. So it's 2018. And after years of near radio silence, RJ and his team debut, their first two vehicles, a pickup truck and an SUV at the LA auto show. And because Rivian has been operating in stealth mode for like five years, it kind of seems like they've come out of nowhere.
+
+3 (1h 1m 57s):
+And we explained, well, we have a team of about 600 people. And they're like, well, where did a 600 person team come from? And, and so I think that was, that was what surprised the world. And, and it was, it wasn't as if like we thought of this concept a year ago, it had, had gone through so many iterations, but that was the overall tone in LA. It was just like curiosity, the origin curiosity around, you know, what's next, those kinds of things.
+
+1 (1h 2m 24s):
+All right. So you, you make this big splash at the auto show in, in 2018. And I wanna, I wanna fast forward here, just, just for a moment, because it's, it's gonna take you a while, right. To get these vehicles built for actual customers, but, but you start to get orders like thousands and then tens of thousands of pre-orders from people who wanna buy a Rivian. And, and then finally, I think something like three years later, 20, 21, the first electric pickups roll off the line.
+
+3 (1h 2m 55s):
+Yeah. I mean, it's, it's funny guy even talking about here. It's, it's hard to believe it was years of time iterating and, and grinding away without enough capital. But some of those constraints led to some of the best innovations, like the decisions to build electronics and software in house were both strategic, but also practical. We couldn't get suppliers to work with us. So we, we built with the benefit of time, a lot of capability, right? The scale of challenges can sometimes be overwhelming, but being calm is actually a really important aspect of solving problems because you think more clearly, and you know, there's a storm of activity and a storm of challenges.
+
+3 (1h 3m 37s):
+Being able to make the right decisions as to how to navigate that, whether it's a supply chain challenge or a ramp up challenge, you know, these are all solvable items, but they, they sometimes take a lot of effort. They take the right team, they take coordination within the team, but I'm incredibly confident in our ability to go solve all those.
+
+1 (1h 3m 57s):
+You know, we had a, a recent episode of this show with max Chen, the, the co-founder of PayPal and, and the founder of a firm. And that's exactly what motivates him, solving hard problems. That that's what gets him outta bed. And when I was talking to him, I was thinking how hard the problems he's working on, you know, how hard they are to solve, but I talk to you and I'm like, this is like at a stratospherically different level. Cause here we are. And where we're talking about your company that is now public, it's worth 30, 40 billion, but whatever the market cap is today, you know, the stock market's been a little nutty, but you even with, with this amazing rise, this like overnight success story, that's I dunno, 13 years in the making.
+
+1 (1h 4m 45s):
+Right? So really you still have massive challenges ahead of you. For example, just making enough cars. I mean, you've got tons of people who are excited about these vehicles have put down deposits and have ordered them. You were hoping to deliver between 20 and 40,000 a year in 2021 that hasn't happened. I'm not trying to criticize you for that. I'm just saying, yeah, it's an enormous challenge. So walk me through why it's so challenging to make 20 or 30 or 40,000 of these cars a year year.
+
+3 (1h 5m 17s):
+Yeah, sure. When you look at a, a vehicle, take our truck, our R one T what we build in our plant, we're assembling roughly 2000 different components or sub assemblies that come from around 400 different suppliers. So some of the components we make ourselves, we make our battery pack. We build our battery modules. We build all the stamp panels we build in house, but there are other things we don't make. So semiconductors are not made in our plant. Tires are not made in our plant. Headlights are not made in our plant. So those 400 suppliers make a lot of the components that come in and that supply chain to get that spooled up is not just those suppliers. They have suppliers to them and those suppliers in turn have suppliers.
+
+3 (1h 6m 0s):
+So pick a simple part that we buy, like a headlight. That part has over a hundred individual components that are in it, just the, just the light, just the, the projector. So if you look at the number of discrete components in the car, like individual mechanical components, there's around 25,000 components and any single one of those could disrupt the production. So it's made this difficult for us is we're not just launching one vehicle, we're launching four. At the same time we have our truck, the RT, our SUV, our R ones. And then we have a commercial van. There's two different sizes of the van
+
+1 (1h 6m 39s):
+For Amazon, right?
+
+3 (1h 6m 41s):
+Yeah. Which we really haven't talked about the commercial side of the business, but that's another whole side of what we're building
+
+1 (1h 6m 46s):
+Fleet vehicles like basically commercial transport vehicles for huge companies
+
+3 (1h 6m 52s):
+For goods. Yeah. Right. For
+
+1 (1h 6m 53s):
+Goods.
+
+3 (1h 6m 54s):
+But where we've had challenges is the supply chain has been in a very weakened state given the combination of the pandemic and then the, really the unexpected constraints that have happened in the last one and a half years with semiconductors. And what I think is often not fully appreciated is turning a supply chain on is not like a light switch. Yeah. Each one of those suppliers has to ramp. So it's, it's a very, very complex orchestra, but the good news is it's. It is now ramping. We, as of our last earnings call, we built over 5,000 vehicles that is now ramping.
+
+3 (1h 7m 34s):
+So we are seeing the light, so to speak at the end of the tunnel. But it is been a, it's been a challenging ramp up over the last six months
+
+1 (1h 7m 41s):
+At, at full capacity. How many trucks and SUVs can the plant produce a year in, in normal Illinois?
+
+3 (1h 7m 48s):
+So the plant has a, a capacity of 150,000 units
+
+1 (1h 7m 52s):
+A year,
+
+3 (1h 7m 52s):
+A year. The, the challenge we have coming back to the supply chain point is we're not able to use the plant fully. So the plant, the lines are running at essentially 25 to 30 hours a week because we don't have enough parts. So right. You know, a good automotive plant is running 110 to 120 hours workable hours a week. So it'll only be using 30 hours out of 168. It's really painful.
+
+1 (1h 8m 19s):
+Yeah. You have, I think about more than 80,000 people, who've put deposits down on a car, which is awesome. But I guess some of them are gonna have to wait maybe two years before they see their car.
+
+3 (1h 8m 35s):
+Yeah. That's right. It's really frustrating when if you have to wait two years to get the vehicle, it's it is just challenging.
+
+1 (1h 8m 41s):
+Yeah. Yeah.
+
+3 (1h 8m 42s):
+But that will take the next, we think the next year to fully ramp capacity.
+
+1 (1h 8m 46s):
+Yeah. I mean, and sometimes listeners accuse me of stressing founders out and I'm not, I don't mean to do that cuz you've had a lot of stress over the years, but you gotta deliver a hundred thousand vans to Amazon by the end of this decade, just be a little stressed out about that.
+
+3 (1h 9m 3s):
+We I'm excited about it. It's if I were to look at the risk of Rivian success today versus the risk a year ago, versus the risk five years ago, I would say at this moment, this is the lowest risk we've ever had in terms of success. We have 17 billion in cash. We have incredible demand on the consumer products. We have a amazing partnership with Amazon and we have a plant that's now producing faster than our supply chain can keep up, but the plant is running, right? Like the number of things left to solve is, is much smaller than it was a year ago.
+
+1 (1h 9m 39s):
+Let let's let's talk about Tesla. They are still sort of the biggest player and sort of most developed electric car manufacturer in terms of their network of chargers and, and the technology and the driverless technology. But they are also, they can be litigious and they have, I mean, they've directed lawsuits against you guys against other, another EV company for technology infringement and so on. So this is something that you have to deal with. There is you are being sued by them. They contend that you, that you hired the way their employees and got some intellectual property there.
+
+1 (1h 10m 21s):
+So are those lawsuits that actually affect your ability to do what you do? Or are they just distractions that you don't really worry about?
+
+3 (1h 10m 29s):
+Yeah, it's not something I, I spend a lot of time worried about it. We say we've, we've got about 13,000 employees. A lot of our employees formerly worked at Tesla. So probably like five, 600. So that inherently, I think caused some frustration sure. At Tesla. And so they of course filed a, a lawsuit because of it, but, but we're very confident in our position there. And I'd also just say that, I think that's, that's just an artifact of some of the talent battles that technology companies have to deal with. You, you see the same between
+
+1 (1h 11m 4s):
+Google and Facebook and sure.
+
+3 (1h 11m 6s):
+Yeah. You see it all the time. You see this kind of thing all the time and it's, it is probably one of the biggest challenges of building a, a company around technology is just competing for the best talent to go develop that technology.
+
+1 (1h 11m 18s):
+Yeah. When you think about most people are driving gas and buying gas powered cars. And I think there's like 250 million cars in the road in the United States alone and 98, 90 9% of 'em are, are powered by gasoline. Just kind of thinking about the math there. It's gonna be a while before it's all electric on, on, on the roads at the us.
+
+3 (1h 11m 45s):
+Yeah. It, it, it will be new car sales today are a teeny fraction of, of total vehicle sales. So first we have to get the world to a hundred percent of new car sales being electric. And even if we were to do that at the flick of a switch right now, it would still take us the next, you know, 10 to 15 years to replace the full global car park. So call it the next 15 to 20 years, we'll see the fleet of vehicles in the world essentially shift almost entirely towards electric, but you know, within, I'd say 25 years, it would be fairly rare to see a gasoline powered car on the road. It would be like seeing an antique. And the role that we play there is, is an important one we believe.
+
+1 (1h 12m 28s):
+And you are a vegan, you don't eat any animal products. Yep. And even a car is vegan. There's a vegan leather. And, and you don't really, it's not really kind of pushed too too much. And, and I cuz some people that that see is seen as a, I, I think it's crazy, but some people think that see that as a political stance, not just a personal health stance or, you know, wanting to help the environment out. So do you intentionally not kind of push that side of, of the car,
+
+3 (1h 12m 57s):
+We don't make a huge deal out of it. We could choose to like, make a big deal about the headliners made from recycled soda bottles, the, those kinds of things. But, but ultimately there shouldn't be the reason you buy the vehicle, the vehicle should just be fundamentally better. Yeah. And like, we feel it's just like responsible of us to, to make decisions that are lower carbon and, and utilize materials more efficiently. Yeah. I do think your point though, on unfortunately sustainability becoming somehow politicized. Yeah. For reasons. I, I, I have no idea why, but it's become unfortunately, a bit of a political topic. We just don't view it like that. So we try really hard to not make Rian politicized or the idea of sustainability politicized.
+
+3 (1h 13m 39s):
+So that's, that's also part of how we present the vehicle
+
+1 (1h 13m 42s):
+Because you're not, you don't wanna make a car for blue state blue state America. Right. And I think I, from what I've read, most electric car owners tend to be politically left of a center, which is unfortunate because in order to make it sustainable, everybody's gonna wanna buy, buy these every you wanna appeal to everybody you want, you want everyone from the most conservative to most liberal people, not even thinking about their politics, when they buy a car, they just buy a great car. Is there a way to, you know, it may be Ford's F-150 electric vehicle that does it, right. That kind of opens the floodgates and, and actually opens a market for everyone.
+
+3 (1h 14m 19s):
+As we, as we go to electrify, I think we're gonna have the need for lots of choice. And, and the driving experience helps get people excited. I mean, one of the things that is interesting with electrification is it completely changes performance boundaries that we previously accepted. So our, our pickup is faster than most hyper cars. I was, I was on the PCH, the Pacifica highway in California. This was maybe three, four weeks ago. I pulled up to a light. It was early morning and the brand new Ferrari pulled up right next to me. And the guy looks over me, I look over at him and said, Hey, you want to see what we can do here? And so we both accelerate quickly off the line and I out accelerated him by quite a margin. Oh yeah. And we get to the next light.
+
+3 (1h 14m 59s):
+And he says to me, I can't believe my Ferrari just got roasted smoked by a pickup. Right. Yeah. And so I think that's like that reframing of electrification is, is also gonna help, help in a big way where people are gonna be excited about the products, regardless of whether they're buying it for sustainability reasons or not. They're just fundamentally more exciting, more desirable to drive products.
+
+1 (1h 15m 25s):
+When you think about this path that you've taken. Right. Pretty amazing. I mean, you've got this facility and all these employees, 13,000 people and these two products that people love. And one more of you can't make 'em fast enough, you know, multi billion in the tens of billions of dollars and value this company is now valued at. And I know you're still far away from being able to breathe, but how much of where you are today, do you attribute to just the grind that you put in and how much of it do you think has to do with luck?
+
+3 (1h 16m 4s):
+I think there equal parts. I don't know. Some days it, I might say more luck in some days I might say less luck. I mean, the, I think every situation creates opportunities to learn. So if you ask me, do I wish we were launching into a different environment that didn't have semiconductor shortages and a pandemic. And with the supply chain challenge, you could say, boy, this is pretty unlucky, but it also is creating skills and organizational knowledge around how to operate in these extreme circumstances. It's it's really great, huh. But then we've also had really fortunate connections with investors and connections with the right people in terms of the, the team that we built.
+
+3 (1h 16m 47s):
+But those days that are really lucky are those days that maybe seeming really unlucky all of it benefits from working and grinding away really hard.
+
+1 (1h 16m 56s):
+When do you know, when do you know you'll be successful? When, when do you know that you can say, okay, we made it. Are you there now?
+
+3 (1h 17m 3s):
+I, I don't really think that will ever be the case. It's sort of the journey that you hope never ends. So have we launched a vehicle? Yes. Do we have excited customers? Yes. Have we raised a lot of capital? Yes. Are we profitable? No. When we achieve profitability, would I say we've made it? I would say no. Well, continue to be pushing. But if I were to say, have we made an impact? I would say with absolute confidence. Yes.
+
+1 (1h 17m 33s):
+That's RJ, SCR, founder, and CEO of Rivian. By the way, Rivian loves to tout all the bells and whistles on its pickup, including a hidden cubby behind the rear seats that can accommodate a fold out portable camp, kitchen, complete with stove, sink, pots, and pans, coffee maker, and grinder. And if you don't want the kitchen, the space is also big enough to fit a fully grown, stretched out human being. Should you ever have a need for that?
+
+2 (1h 18m 9s):
+Hey,
+
+1 (1h 18m 9s):
+Thanks so much for listening to this show this week. If you enjoy our show and wanna show your support, can you help me out and spread the word? Maybe tell a friend about how I built this or send out a message on social media. If you wanna contact the team. Our email addresses H I B T id.wondery.com. If you wanna follow us on Twitter, our account is at how I built this. And mine is at guy Roz and on Instagram, we're at how I built this. And I'm at guy dot Roz. This episode was produced by Alex Chung with music composed by Rameen ne Louey. It was edited by Neva grant with research help from Sam Paulson and technical assistance from Robert Rodriguez.
+
+1 (1h 18m 52s):
+Our production staff also includes JC Howard, Casey Herman, Liz Metzger, Carrie Thompson, Catherine cipher, Elaine Coates, John Isabella, Chris Messi, and Carla Estevez. I'm guy Raz. And you've been listening to how I built this. Hey everyone. So I wanted to make sure you knew of all the different ways you can listen to how I built this. The show was always free and available wherever you listen to podcasts, whether it's Amazon music, apple podcasts, or wherever you're listening right now.
+
+1 (1h 19m 39s):
+But if you wanna listen to the next episode of how I built this today, one week early, you can do that on Amazon music, or you can listen to it early and add free by subscribing to Wondery plus in apple podcasts or on the Wondery app. So please do follow us on your podcast app. So you always have the latest episode downloaded and get your, how I built this merch and gear@wonderyshop.com. Another way to support the show is by filling out a survey at wondery.com/survey. And thanks.

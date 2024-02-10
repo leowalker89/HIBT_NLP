@@ -1,0 +1,806 @@
+0 (0s):
+Hey Prime members. You can listen to how I built this early and add free on Amazon Music. Download the app today. How I built this is pleased to have Slack as our presenting sponsor. Slack, where the future works. Let's Slack be your digital hq. It's one digital space that brings together all of your people and all of the tools you need. Having Slack makes collaboration easier and more flexible so you can be a lot more productive. Don't wait to see what you can accomplish with your own digital hq. Head over to slack.com/dhq to get started.
+
+0 (41s):
+Slack where the future works. Don't you hate it when you can't find your phone or your keys in your bag, or worse when your water bottle leaks all over the bottom of your bag because it was rolling around and the cap got unscrewed. Well, the Performance Bag brand Dagney Dover can help their bags keep up with your busy lifestyle and help you stay organized. I got the Arlo Tech organizer from dagney Dover right before leaving on a family trip. Everything was so practically designed, stylish and a lifesaver for keeping our cords and chargers organized. First time customers get 10% off using code built@dagneydover.com. That's D A G N E D O V E r.com.
+
+0 (1m 26s):
+And code built support for this show comes from Clavio. Clavio is the email marketing platform that brings all of your customer data into one place with hundreds of e-commerce integrations. Clavio helps you send relevant email and SMS messages to the right people at just the right time so you can build genuine customer relationships and grow revenue as brands face a more volatile economic climate and a challenging digital landscape. Clavio's powerful marketing automations and customer first data are critical to retaining brand loyalists and increasing roi. It's time to talk to your customers like you know them because you do with Clavio.
+
+0 (2m 9s):
+Learn more@clavio.com. That's K L A V I Y o.com.
+
+2 (2m 19s):
+It's amazing the number of media companies, executives that didn't think streaming would be popular. They just thought, there's nothing wrong with cable and satellite. The world is not gonna change. When it was so clear that of course it's gonna change, the internet has disrupted every industry and it's gonna disrupt video as well. In fact, I viewed it as a pretty big competitive advantage that people underestimate us and so they're always surprised when they lose.
+
+0 (2m 48s):
+Welcome to how I built this, a show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. I'm Guy Raz and on the show today how Anthony Wood helped transform the way we watch television. First with the dvr and then with Roku, a massive streaming platform with a remote that's simple enough for your grandparents to figure out. One of the things we look for on this show are products and ideas that have had a big impact on how we live our lives.
+
+0 (3m 32s):
+So Starbucks is an obvious one because even if you don't drink their espresso drinks, it's because of Starbucks's influenced that. You can get great espresso drinks almost anywhere in the United States. You might not use PayPal to send money, but the PayPal model has changed how we pay for stuff. Same with AOL or DoorDash or Instagram or many of the other brands that have been on the show in the past in some way, large or small. They change the way that you and me and most people we know live. And this is basically what Anthony Wood wanted to do. He wanted to change how we watch television and he managed to succeed twice, even though the first attempt ended in defeat.
+
+0 (4m 18s):
+That defeat happened in the early two thousands with a product Anthony created called Replay tv. Replay TV was a digital video recorder, very similar to TiVo and Anthony Wood. He basically invented the DVR except right when he launched his product, TiVo did the same and managed to outmaneuver him. And that could have been Anthony's story, invent the DVR but lose out to another company. Except as it turns out, Anthony was just getting started. His experience with Replay TV triggered this idea that a single product could have a major impact.
+
+0 (4m 58s):
+In this case, a single device could change a relationship to tv. It could give us a lot more control over what we watched and when. So in 2002, Anthony set out to start something that would wind up having even more of a cultural impact than the DVR Roku. Roku was a device that let people stream content directly from the internet. And streaming changed everything along with Apple TV and Chromecast and Fire. Roku helped usher in an entirely new way of interacting with television. And what set it apart was its simplicity. Roku was made to be so easy to use, so intuitive that your 90 year old grandmother could figure it out within minutes.
+
+0 (5m 45s):
+Today the company has more than 65 million active users, which means it's a giant, perhaps the biggest giant when it comes to home streaming products. And the man who came up with the idea, Anthony Wood, has also pushed the company into the production business. Recently, Roku produced a biopic parody of Weird Al Yankovic called Weird. Anyway, Anthony grew up in the 1970s, mostly in Houston. His dad was an aircraft engineer and by middle school, Anthony, he discovered computers and soon writing his own software and eventually trying to sell it. But when he started college at Texas a and m, he didn't major in computer science.
+
+2 (6m 26s):
+I didn't wanna do computers cause I was a little arrogant. I think looking back on it and thinking that I kind of knew everything I was to know about computers or programming, if anything, I used to think a lot about how to, I was more interested in like starting a company be a good way to make money. Yeah. And I wasn't sure why I wanted money except that I remember I wanted a better modem and I could only afford a certain kind of modem. Yeah. I could only afford a 300 BOD modem instead of a 1200 BOD modem. So it wasn't clear why I was motivated to have money, but other than I've just earning money, you know, was sort of a characteristic of our family. Basically. I go out there and make some money.
+
+0 (7m 4s):
+When you were in college, one of those ways to make money was, I mean of course you knew how to write software, basic software and I guess you decided to start like a little company making software for Commodor computers, the Amiga. What was the software that you, you were making?
+
+2 (7m 23s):
+The first product we made, I was into kind of digital audio stuff back then, which was a new thing. And so I made a, something called a sound digitizer that would record stereo. I mean back then computers didn't do that. It would basically let you hook up your CD player or your microphone to your, your personal computer and record record it and then software for editing it. And that was called, I called that perfect sound and that was fairly successful actually. That was the first product I sold.
+
+0 (7m 51s):
+So you called this company Sunrise and and the idea was to sell this who, I mean you're a junior in college making the software and hardware and who, who, who are you selling it to? How are you selling it to people?
+
+2 (8m 5s):
+Well, I would have my friends build it and then there was a computer store in Houston called Micro Search and the guy that ran it was pretty entrepreneurial and he would distribute it basically and sell it, you know, then I figured out how you sold tough to stores. And so then I started, we started doing it ourselves and then we started adding other products. Besides the sound digitizer,
+
+0 (8m 29s):
+This became like a real business. Like you started to make money. I mean, I think a red almost a hundred thousand dollars in profits at a certain point.
+
+2 (8m 39s):
+Yeah. I remember I made would make about a hundred thousand dollars a year, which for a college student was, was good money, but it wasn't, yeah, it wasn't like, you know, mark Zuckerberg or Bill Gates kind of money. But, but, and then the other thing I learned a lot, you know, I learned a lot about business, obviously doing it. And one of the things I learned about business is one of my big lessons was the amount of money you have to report on your tax return is unrelated to how much cash you have in the bank, in the hardware business. You know, you gotta buy parts, you assemble them, so you gotta buy the parts, you gotta pay for the parts in advance, you assemble them into the things you're gonna sell. And then you sell those things and then those people that buy them to stores, they take 30 days or 90 days to pay you.
+
+2 (9m 20s):
+So you don't get paid for a long time after you buy the parts. And so it's a cash, you have a cash flow issue and so, but you pay taxes on the sales no matter what the cash situation is. And so I remember being sort of out racial, I had to pay taxes on money. I didn't have,
+
+0 (9m 36s):
+I guess while you were running this business cuz it was so successful your grades started to suffer. Like you couldn't, you were not going to class because you were focused on this, this budding enterprise.
+
+2 (9m 47s):
+Yep. So we got up, I think we got up to about 14 employees, had little office and I would sign up for classes, get busy and I wouldn't go. And they sent me a letter saying that I was on probation. I had one semester and so I decided, well, I would regret not finishing my college degree. I was probably only a year away if I was full-time. So I, I decided that I would basically stop doing what I was doing, go back to school full-time, get my degree and then kind of restart it so that, that's what I did.
+
+0 (10m 20s):
+So I think you were 25, about 25 when you, when you got your degree and, and one of the people that who had worked for you at Sunrise was, it's now your wife Susan, right?
+
+2 (10m 31s):
+Yes. That's where I met my wife Susan. I hired her. I was very, very controversial at the time that I started dating someone I had hired. Yep. She was hired to do printer circuit board assembly, which is kind of funny because she, she told me later that she had no idea what her printer circuit board was, but she figured she could assemble stuff and so she applied for the job and we basically at that point hired anyone who applied. And then after college, when we moved out to Silicon Valley, she was the office manager for, for the new version of the company. And I remember it was kind of funny because I didn't really know where Silicon Valley was. I mean, I knew it was in northern California, but I remember we had our map out driving around trying to find out where is this Silicon Valley thing and it's not on the maps.
+
+0 (11m 16s):
+So you came out to Silicon Valley, not with the intention of getting a job at a bigger company, but to reconstitute sunrise and to, to basically just build it up there and that was what you were building.
+
+2 (11m 29s):
+Yeah. But this time more focused on audio and more specifically focused on professional audio.
+
+0 (11m 35s):
+You ran that you would run that business for five years and I guess you, you you ran it until Commodore kind of went outta business cuz it was really designed for Commodore computers. Tell me about that decision. I mean, was it like you just kinda wound the company down and it had been going well or it was not going well? Or, or, or what happened?
+
+2 (11m 56s):
+It was going really well, but to be honest, I was getting a little tired of doing audio stuff like in the audio for video business, which is was our market audio was always the second class citizen compared to the video. And then the, and then the internet was just getting big at that time.
+
+0 (12m 14s):
+This is like 95, so I guess Mosaic or Netscape was out already.
+
+2 (12m 19s):
+Netscape had just come out. Yahoo was like a couple kids. It was just the very beginning.
+
+0 (12m 24s):
+Yeah. And I guess, I guess you decide at this point to start a new company that that could capitalize on, on this burgeoning internet. I think that this company's called IAnd and it sort of made like software that, that people could use to build websites and that kind of thing. And I'm, I'm assuming you, you use some of the money from Sunrise to, to get this new company going?
+
+2 (12m 46s):
+Yep. So I, you know, it built up a pretty good bank account balance, but I figured, well my new company I will fund it, but then we'll raise venture capital and kind of go bigger. Yeah. And so I brought my friend in as a partner because he, he knew all the venture capitalists and then hired a few engineers, started going out and trying to raise venture capital and then at the same time we got the software up to the point where we could demo it.
+
+0 (13m 11s):
+It was not for sale yet, it was just to demo it. Mm.
+
+2 (13m 14s):
+It wasn't for sale just to show the potential investors. Yep. And there was a conference called Demo.
+
+0 (13m 20s):
+It was a conference where you could literally demo your prototype
+
+2 (13m 23s):
+And then after that we had lots of interest
+
+0 (13m 26s):
+In investing
+
+2 (13m 27s):
+In buying the company.
+
+0 (13m 29s):
+In buying the company. Yeah. Even though you did not have a, a product for sale yet.
+
+2 (13m 33s):
+No,
+
+0 (13m 34s):
+That's right. You were nine months in and in fact you, you got an offer from Macromedia like a few weeks later to to buy you out. Yep. You sold it for reportedly for 36 million. Right. It's a pretty amazing exit.
+
+2 (13m 50s):
+Yeah. That's when I guess Silicon Valley became like a real place to me.
+
+0 (13m 54s):
+Yeah. I mean, so, and you presumably owned most of the company. Maybe some of your employees had some equity, but you, you owned most of it, right? So once you did that deal, you, you become, and this is common, we've heard this on the show before you become an employee of Macromedia, it's part of the contract usually. And, and, and so now you are working your, in your early thirties. How was that, how did that go for you?
+
+2 (14m 18s):
+It was a learning experience. It was very painful actually. I mean, I was excited, like, oh, I'm gonna work for a real company. I'd never, you gotta remember I'd never had a job before. I'd only, I mean I had jobs like a Burger King, but I'd never had a job, you know, at a real company cuz I just run my own companies. Yeah. And so I thought, oh this is cool. I can, I can learn about how companies are, are run. Yeah. And you know, I learned lots of stuff. I didn't learn what I thought I was gonna learn. I didn't really learn about the mechanics of running a company. I learned about the politics of not, not necessarily bad politics, but just how things work inside. You know, a company with lots of people and politics in the term of humans that are in a big team together, how they work and how they interact.
+
+0 (15m 0s):
+You, you managed to negotiate a way to leave a little bit early before the end of your contract. You, I mean, you had millions of dollars, you were set, you had more money than you could have imagined your parents ever had. I mean, but it sounds like you were determined to start something new. Like was that already a top of mind even, even once you had sold IAnd that you were gonna start something new once you got through this contractual obligation to Macromedia?
+
+2 (15m 30s):
+Yeah, like, I'm not sure what, what motivated me or drove me, but I wanted to start a success like quote successful Silicon Valley company. And looking back on it, selling a company for 30 whatever million dollars is quite successful. But that's not the way it felt like I wanted to build the real company. I didn't wanna just make the money. Yeah. It felt like I had sold out. And the way I justified it to myself was I like, well okay, I'm gonna tape this money that I get from sale and this company and then after my employment contract is up, I'm gonna use it to start another company.
+
+0 (16m 0s):
+Hmm. I mean the company that you would start, you started in 97, so really soon after you exited that, that obligation with Macro media was replay tv. Right? Essentially the first version of a dvr, digital video recorder. How did you, how did you think, and this is 97 I guess like DVDs are just starting to kind of come out, but most people are still using VHS tapes, most people are still gonna Blockbuster at that time. And you're thinking of, of digital video recorder. How did, how did that idea come to you?
+
+2 (16m 34s):
+The idea came to me. I mean, you just remember I was in, I was in the digital video and digital audio industry, right. That was, the internet was kind of a sidetrack, but, and so I used to, you know, I used to watch tv. I watched, it was a show I used to watch called Star Trek. The Next Generation, I would, it would come on when I was working or busy. And so I would record it on video tape. And it was just, it's hard to do. I mean, not only programming your vcr, but even if you know how to do that, you know, you'd have multiple things on a tape. You know what's on the tape, you forget. I mean there's all kinds of problems.
+
+0 (17m 5s):
+All right. So the company was called Replay tv. The idea was you were gonna build a digital video recorder thinking that this was, and this is 97, thinking this was gonna be the way you could store a lot more content. It wouldn't be one tape, it would be better quality. Cuz when you re-record over a VHS cassette, the quality degrades and you were thinking this is actually where we're heading, we're heading to digital video.
+
+2 (17m 32s):
+That's close but not quite. I mean definitely I felt like we were heading towards digital video. The benefits I thought were actually a lot better than what you just described. It wasn't really about digital quality, it was about the user interface would be simple. That you could have features like, you know, I wanna record anything that has Harrison Ford in it automatically, for example. I just felt like it would be a lot easier to use, it would have features like pausing live TV and that Yeah, I mean this was a pretty simple idea, but it was, it was novel back then. Like, oh, I wanna record every episode of Star Trek, not just the one that's next Thursday, but I wanna just record each episode and if it moves around in the schedule because they adjusted the time cuz the football game went long or something still recorded.
+
+2 (18m 13s):
+Cuz that was one of the problems with the video tapes back then was that you would miss the beginning or end because they would move the broadcast time slightly. Right. So anyway, so I figured, well certainly we could solve this problem, you know, by using digital video and digital audio and hard drives
+
+0 (18m 28s):
+By using a computer hard drive.
+
+2 (18m 30s):
+Yeah. Using a computer hard drive. Right. But it was too expensive. Like you just think about, okay, I could build this, but it cost way too much money to build It would be very expensive. Yeah. It wouldn't be a consumer price point. Right. So I used to just sort of watch the prices of, you know, I used to go back then the fries was popular in
+
+0 (18m 47s):
+Yeah, sure. Fries, electronic story out, big, big consumer electronics. It was like a giant Best Buy, but kind of more radio shaky type place. Right. Like giant,
+
+2 (18m 56s):
+Yeah. Giant Radio Shack for geeks basically. And they would put an ad on the back page of San Jose Mercury News every weekend with prices of hard drives, you know, would be one of the things. And so I'd kind of watch the prices of hard drives and I think I decided that okay, the hard drives is still gonna be kinda expensive, but it's possible now to maybe sell something for $500, kind of, which is sort of a starting consumer price point. So I decided it was possible to do it and ultimately I wanted one, like I figured, you know, I, I had enough experience with Silicon Valley venture capitalists to figure out the hardware was really hard to get funded. Yeah. Consumer hardware especially was super hard to get funded.
+
+2 (19m 36s):
+So it wasn't necessarily the best business choice, but I, I figured at least I would get a DVR out of
+
+0 (19m 41s):
+It. So you, you yourself, you were gonna physically build a prototype?
+
+2 (19m 47s):
+No, not personally at this point. You know, I had enough money where when I decided to do the dvr, I started a company and I started hiring people.
+
+0 (19m 56s):
+And how, how quickly did it take for you to have a working model?
+
+2 (19m 60s):
+I think we probably had something to demo to investors after about a year. We, I mean we launched at CES 1999, so that would've been January, 1999 where we won best of show.
+
+0 (20m 13s):
+Right. I know you got Mark Anden as an investor, the founder of Netscape, who at the time was not yet the famous Mark Anderson of today of Andrews and Horowitz. But he was certainly an important investor at the time. Did you have an easy time getting others to invest?
+
+2 (20m 30s):
+It was hard. I got some angel investors without a tremendous amount of difficulty,
+
+0 (20m 37s):
+But no major institutional investors.
+
+2 (20m 39s):
+Well we were pitching them, but they, they were not interested. It was amazing how many people thought it was a bad idea. People would say things like, no one wants to pause live tv. Why would you wanna do that
+
+0 (20m 49s):
+To get a bag of Cheetos?
+
+2 (20m 52s):
+Exactly. It was, it was kind of eye opening how, how hard it is to explain a new idea. Eventually we did, I mean we did get institutional investors. So I mean we did Angels at First and then Vulcan, which was Paul Allen's Venture Fund and Kleiner Perkins Will Hurst.
+
+0 (21m 12s):
+How much did you end up raising?
+
+2 (21m 14s):
+It was over, I don't remember the exact amount, but it was like 200 million like that and it was a lot of money back then. That's what I was saying, after we did the ces we got a lot more attention and then we, then we managed to raise money from every major media company.
+
+0 (21m 26s):
+Yeah, you, you debuted this, you debuted this at the Consumer Electronic show in Las Vegas in 1999, which was a big deal cuz DVRs were not yet weren't a thing. But at that same exact show, TiVo also debuted, which was your, which would be your main rival. And I think you, you're like your booths were side by side.
+
+2 (21m 50s):
+Yep, that's
+
+0 (21m 51s):
+Right. When you, I mean you must have known about TiVo as you were developing replay tv. You must have known about your competitor, they must have known about you. But you guys win best in show at ces. So clearly it's like replay TV is gonna win this, this war, this is beta versus versus VHS all over again. And here we go and, and you must have thought, we're I gonna win this?
+
+2 (22m 13s):
+Well I was, it was definitely heady times like, you know, we were on Good Morning America and like on TV and all kinds of stuff, but I didn't feel like, I felt like there was still a battle in front of us. Yeah. But yeah, as far as TiVo, when we started raising money, then we started hearing about them. They were called tele world. And when we really learned about them, when it became a serious problem for us was we were pitching early on, Phillips was a consumer electronics brand that was bigger back then. And they had an office actually in Silicon Valley and I had gotten introduced to them and was pitching them.
+
+0 (22m 49s):
+Right. And Phillips is, is that Dutch based multinational right, that's that that company. The light bulbs and Yeah. Electronics. Yeah.
+
+2 (22m 56s):
+Okay. And back then they made TVs and BCRs. Yep. So we were pitching them, we were close to having a deal. So the idea was that they would build and sell the, we'd license the technologies to them and yeah. And then what happened is Tell World got an article placed in the newspaper about what they were working on. So then Phillips was like, oh well we gotta go talk to these guys before we do this deal with Replay and then Tell World essentially bought the deal, which was a new concept to me. Like I had never thought of doing a deal that was not gonna be profitable.
+
+0 (23m 25s):
+Tell World got the deal with Phillips. Phillips basically abandoned you guys and said we're gonna go with tele
+
+2 (23m 31s):
+World. Yeah. Because tele world paid them,
+
+0 (23m 34s):
+Tele world paid Phillips to do the deal. I see. Instead of Phillips paying you to, to partner with you, they got paid to make these boxes, these, these DVR boxes. I got you. So already, right. Then they had a massive advantage because they had a huge, you know, they had a manufacturer behind them that could mass produce these products.
+
+2 (23m 54s):
+Right. It was a big moment. Our business plan was, we, we'll sell these things at $500, we'll make money. Yeah. You know, the price will come down over time. Eventually they'll be very cheap. But we'll start, you know, very traditional, like the way every prior consumer electronics products had ever been launched. Tevo then tele world decided that they would take advantage that this was like in the.com boom. They would take advantage of the fact that they could raise a lot of money. They raised a lot of money and then they started subsidizing the DVRs.
+
+0 (24m 23s):
+Selling them for what? For like a cut rate price at a
+
+2 (24m 26s):
+Loss. Yeah. So they sell 'em for $99 instead of $500. Wow. Or that was their plan.
+
+0 (24m 31s):
+And And you guys, there was no way you could sell your box for $99.
+
+2 (24m 36s):
+Correct. So the big thing was they were gonna subsidize the hardware.
+
+0 (24m 39s):
+Yep. We
+
+2 (24m 40s):
+Lost that deal. That was like, okay, this is, now I understand we've got a competitor and they're buying the business. Like they just changed the game. We're gonna have to raise a lot of money. And it turned out actually them getting Phillips was was good because we were both, like you said, at ces they launched with Phillips. We didn't have a partner, we won best of show. The whole consumer electronics industry realized this was gonna be a big deal and TEVO has signed an exclusive with Phillips to get that deal. So we were the open available partner. Yeah. And we had won best to show. And so every consumer electronics company started talking to us. And so we ended up signing a deal with Panasonic, which was a bigger brand than Phillips.
+
+0 (25m 21s):
+And you, I mean you had like Walt Mossberg with a time at a column in the Wall Street Journal, he like tested both yours and TiVos and he said the replay TV was more user friendly, the interface was better. Like you were very well positioned to become the dominant DVR company. I remember I was overseas at the time, but I remember coming back to the US from time to time in like 2002, 2003. And just seeing everybody get, have TiVos, everyone all of a sudden had TiVos. But what happened, I mean why, why was it TiVo and not replay TV if by all accounts it was a better product at that time?
+
+2 (26m 1s):
+And we shipped first. I mean we
+
+0 (26m 3s):
+And you shipped first. Okay. Yeah. So what happened,
+
+2 (26m 6s):
+The.com crash basically is what happened. So they had turned it into a business where you had to have lots of money to be successful. They had raised a lot of money. We raised a lot of money as well, but not as much as they did. Right. You know, even though we raised $200 million plus the burn rate had cranked up and we were spending, you know, I remember some months it would be 20 million a month. Wow. The thing that changed the dynamic is they went public before us. We were just about six months behind them. But then the.com crash happened and it suddenly became impossible to go public.
+
+0 (26m 39s):
+This is Aug like around August of 2001 or maybe a little earlier than that. That
+
+2 (26m 44s):
+2000, I think I can't, I don't
+
+0 (26m 46s):
+Remember. Yeah. Late 2000, maybe December, 2000. And that basically when the market crashed, that that meant
+
+2 (26m 52s):
+Yeah. Bankers,
+
+0 (26m 53s):
+They withdrew
+
+2 (26m 54s):
+Their support. Yeah. They said, well, they said we can't go public. And then at that point, you know, because of the burn rate it was, we were gonna be outta business in several months.
+
+0 (27m 4s):
+So you knew that you had to sell the business in order to, otherwise you'd collapse.
+
+2 (27m 9s):
+Yep.
+
+0 (27m 10s):
+And so you did, in August of 2001, it was announced that that replay TV was gonna be purchased by a company called Sonic Blue. Yeah. I think they paid reportedly $120 million for replay tv, which would be less than what you raised this, I'm sure this is painful to talk about now, but, but I'm sure much more painful at the time. Right. So when that happened, when the company sold, you're not broke, you still had the money from the sale from your previous company, but this was not a great outcome for you and you, you kind of lost that war. I mean, TiVo had just out outraged you and they, they survived the.com crash.
+
+0 (27m 52s):
+Did you feel like, cuz that was a, that was the first kind of, it was a not, I wouldn't say it was a failure, but it was the closest kind of thing to failure that you had experienced at that point in your career career?
+
+2 (28m 4s):
+I didn't, I don't know. I don't, people say ask questions like you just asked it. I don't, I don't think much about whether something was a failure or success. First of all, I financially, it wasn't a, it wasn't a huge failure. I did make money on the sale and I invented the dvr and like I learned, I learned a huge amount of stuff and it was just a great, great experience. So I felt like, you know, there were times when it was very painful, but overall it was just an incredible experience. And you know, lots of people come to Silicon Valley, they don't all have experiences like that. Yeah. And we didn't, I mean we didn't discuss all the, all the sort of details, but there was a lot of politics as well around the investors and the LA versus Silicon Valley culture.
+
+0 (28m 49s):
+What's the LA versus Silicon Valley culture? What was the LA part of it?
+
+2 (28m 52s):
+Well, so, so replay was sort of this hybrid of Silicon Valley and la right? Because we had venture capital investors like Kleiner Perkins, and then we had all the major media companies as investors. And they're, I'll call them the LA culture.
+
+0 (29m 8s):
+And, and you needed an LA office because you needed to have buy-in from the big media companies in order for replay TV to be successful.
+
+2 (29m 18s):
+Yeah. And we, and it was basically the business was a merger of Silicon Valley to distribute the platform and then a service business, you know, to monetize it afterwards. Got it. And the cultures are in incredibly different and what they respect is different as well. And so, you know, for example, this is a small one, but I remember like, we had a LA executive and he told me once, like, you need to comb your hair more. And I'm like, my hair's fine. And so it was like, for him, like the way your hair looks is incredibly important. Yeah. Even in just internal meetings. So that's the, that's just a small example.
+
+0 (29m 54s):
+And and what about like, you're kind of a low-key guy. Like you don't come across as being overly charismatic from first impressions.
+
+2 (30m 4s):
+Yeah. Well that's true, but I get along well with Silicon Valley engineers. Like they, that's why I am. Right.
+
+0 (30m 9s):
+You don't need, you don't need to be, not everybody needs to be Steve Jobs to be successful in Silicon Valley. In fact, you really don't need to be Steve Jobs to be a successful leader. You can be low key and quiet.
+
+2 (30m 21s):
+Yeah. And I think actually many Silicon Valley executives are like that.
+
+0 (30m 24s):
+Yeah.
+
+2 (30m 25s):
+But they're very political and they didn't res we didn't respect each other. And so there was a lot of backstabbing that started happening. So it just became a very unhealthy situation.
+
+0 (30m 36s):
+So once you left, this is, you know, 2001, you're, you're done. Where, where was your head at that point? Were you thinking about the next business that you were gonna start? Or what do you remember about that time?
+
+2 (30m 47s):
+I, I remember thinking I should take a break. We had a vacation house in Oregon. So I thought, okay, well let's go, let's spend the summer and just relax. And so I did that and I, I quickly became very impatient. So I realized I wasn't good at just sitting around. I mean, it was fun. I went biking and mountain biking and all kinds of stuff, but I was ready to do something after that.
+
+0 (31m 12s):
+What were you starting to think about? I mean, your greatest idea of, of all time the the digital video recorder, you know, and, and for most of us, we have maybe one great idea in our life. And, and that was it. You had that idea. So what were you possibly gonna do to, to top that?
+
+2 (31m 31s):
+Well, I would say, I, I I would quibble little bit, not say it wasn't necessarily my best idea, but it was the, was the one that had the most mass market potential. Yeah. Right. And it had the, you know, ability to change the way billions of people acted. And that, and that actually I think was a, a lesson that I took away, which was that you can spend your time on different things and some of them just have much bigger potential than other things. And so maybe I should factor that in, like, maybe it shouldn't just be things that I'm interested in, but it should be things I'm interested in that also have the potential to impact a lot of people.
+
+0 (32m 7s):
+But it was up until that point, your best idea, you could record anything that Harrison Ford was in. You could skip commercials, you could, I mean, to completely change television viewing. I mean, is that, were you thinking that way at all?
+
+2 (32m 19s):
+I was definitely not thinking that way. I mean, you could say that the DVR was my best idea. That's not at all what I thought. I thought that I got lots of good ideas.
+
+0 (32m 32s):
+When we come back in just a moment. Anthony joins forces with the head of Netflix, Reid Hastings to build his next big idea. That is, until Reid decides to pull the plug on it, stay with us. I'm Guy Raz and you're listening to how I built this. Selecting the Perfect New Mattress can be overwhelming, but when I was searching for my new one Sofa's online store made it super easy for me. Safa has a helpful quiz that you can take to find the best fit for you and for us, it was important to have an all natural mattress. And Safa had a great option and delivery was quick and the mattress is super comfortable.
+
+0 (33m 12s):
+And another thing that's great about Safa is that Safa has super high quality mattresses sold for a fraction of the price that top retail brand sell for. And with factories and service hubs around the country, Safa can custom make mattresses to order and deliver them super quickly. Not to your doorstep, but actually to any room you choose. Where they'll also remove your old mattress and make sure everything is perfect. Get $200 off your purchase of a thousand dollars or more at safa.com/built. That's S A A T V a.com/built. American Giant is the leading manufacturer of American made clothes.
+
+0 (33m 54s):
+When you choose American Giant, you are saying yes to clothes made to the highest standards, clothes that support sustainable jobs and hardworking communities and high quality products that make sure clothes stay on your back and out of landfills. I've been a huge fan of American Giant for a really long time. I've got their jeans and their t-shirts and their hoodies and a jacket and their products are super durable and comfortable. I've got the classic full zip hoodie and it wears even better and softer many, many years after I got it. It's quality. You can feel immediately and you'll wonder why all clothes aren't made this way. See more of the story and shop the classic full zip at american-giant.com/built and get 20% off when you use code built at checkout.
+
+0 (34m 44s):
+That's american giant.com/built promo code built. Hey, welcome back to how I Built this. I'm Guy Ra. So it's around 2002 and after the sale of replay TV entities already thinking about his next business, something at the intersection of hardware, software, television, and the internet.
+
+2 (35m 13s):
+You know, I went around, I talked to a few people, I think I introduced myself to Reed Hastings, you know, Netflix fame and had lunch with him. Back then Netflix was around, they were just doing DVDs by mail. Yep.
+
+0 (35m 26s):
+All right. So you would eventually land on a concept for what would become Roku, which was a, a device to help television stream video from the internet. But this is 2002, there isn't a whole lot of stuff to stream it. This is not, this is pre YouTube. Most people still had dial up connections. Maybe there was a, you know, some people were transitioning to to dsl, but it was still early days. What was your concept that you had come up with?
+
+2 (35m 55s):
+The original concept was just the category that there's gonna be a lot of devices. So I know that's kind of vague, but that was the idea and specific product ideas. A streaming player was on my list, a video streaming player, but it wasn't time yet. You know, that's why Netflix was still mailing out DVDs back then. And that's why I met with Reed Hastings. I was like, obviously at some point this is gonna be a internet delivered video company. And he's like, yep. You know, so I was sort of like, well maybe there's something we could do together. So, but when I first started the company, the timing wasn't right for that. So I figured we'll just build a product, kind of start building my team and get into the market. And I'm a big believer in, you know, getting into a big market area and adjusting
+
+0 (36m 40s):
+Even if you don't know what the product is
+
+2 (36m 42s):
+Yet, even if you don't know exactly what it's right. I mean, you have to have something to start with, but it might not be where you wanna end up eventually.
+
+0 (36m 47s):
+Cause the thing you started with was very far away from what Roku is. It was, I think it was just like a, a box that connected to your TV that showed that would display paintings on your tv.
+
+2 (36m 58s):
+Yeah. So it's the same technology, this in Roku, but it was an, but it had a different position in the market.
+
+0 (37m 4s):
+A different purpose, I guess.
+
+2 (37m 5s):
+A different purpose. Yeah. Yeah. So it was, yeah, so, so we made, this first product was basically a high definition photo video and audio player. And then we made these little compact flashcards that had what we called live art on them. So this was like a nature picture with a stream where the stream was kind of moving, you know, the water was flowing. Yeah. And we had clocks, we had some cool clocks, like a robot that would fly around, you know, like a cuckoo
+
+0 (37m 32s):
+Clock on the, on the television screen.
+
+2 (37m 34s):
+Yeah. So the clock, it would show the time and then on the hour, you know, a robot, it was like this giant sort of steampunk room. And then on the hour the robot would take off and fly around and fix the pipe and things like that.
+
+0 (37m 45s):
+By the way, how long, how long did it take, cuz I know you started the, you founded the company in October of 2002. How long did it take you before you had a product to sell?
+
+2 (37m 52s):
+I think it was about a year. It takes, it takes about a year to build a hardware software product.
+
+0 (37m 56s):
+And what was it, what was it called? Was it called Roku?
+
+2 (37m 59s):
+It's called Photo Bridge.
+
+0 (37m 60s):
+The Photo bridge. And was the company called Roku at that
+
+2 (38m 2s):
+Point? The company was called Roku.
+
+0 (38m 4s):
+And Roku by the way, it means six in Japanese,
+
+2 (38m 7s):
+Right? Yeah, it's my sixth company. I thought, you know, kind of an Asian sounding name would be cool for a consumer electronics company. And we, me and Susan and my wife were having dinner, the sushi restaurant. So I started talking to, to the waitress about different words in Japanese. And I said, and I, it was actually, depending on how you count, it's either my fifth or sixth company. Yeah. So I asked her what the Japanese word for five is and she said, go and go was kind of a failed tech company. So I thought, no, can't use go. I said, what is, what is six? And she said, Roku. And I said, oh, that sounds cool.
+
+0 (38m 43s):
+Okay, so sixth, sixth and Japanese. There you go. You got Roku.
+
+2 (38m 46s):
+Right. So then we started our second product, which was streaming audio. We called it Sound bridge.
+
+0 (38m 52s):
+I remember this you public radio content.
+
+2 (38m 55s):
+Yep. So it would stream public radio, it would stream internet radio stations. It would stream music from your local library.
+
+0 (39m 2s):
+So it was like a, yeah, it was like an audio streaming device. Okay. So cool. It's good product. But I think around this time, 2002, 2003, you kind of reconnected with Reed Hastings, the co-founder of Netflix at a conference. And you what you pitched him on this, on making a box for them? Like a streaming video box for Netflix?
+
+2 (39m 23s):
+Yep. So the, so the sound bridge sold in, I would say the hundreds of thousands, which was good, but not a huge hit. And basically at that same time, I, it's not that I Remet Reed, I maintained our relationship and I would check in every once in a while and say, you know, some version of, are you guys ready to do a streaming video player yet? Because when you are, I wanna make it for you. Hmm. I remember one meeting with Reid where he said, I mean, Reid is very strategic and he knew that many companies had missed transitions in their industry. He knew his industry was gonna transition from DVDs to streaming. He just didn't know when, you know, nobody did. Yeah. And so he actually told me once that he, you know, I, I've allocated, I'll call it 3% of our revenue to keep working on this idea of streaming in the background so that we don't miss the transition.
+
+0 (40m 15s):
+How did you convince him to cooperate with you and Roku to build a device for Netflix?
+
+2 (40m 22s):
+Well, it was a long process. He would go back and forth between, like when I'd send him an email, he'd be like, yes, we need your help to that we're gonna do this ourselves. And then at some point I got a call from a recruiter saying, we're looking for a VP of internet TV for Netflix. And I was like, Hmm, well it sounds like they're really gonna do it themselves. Yeah. And I called up Reid and said, Hey, I hear you're looking for head of internet tv, I'd be willing to do that for you if you let me keep running Roku at the same time. Like I can do it as a side project. And he's like, okay, that sounds good.
+
+0 (40m 60s):
+So you basically said, Hey, because oftentimes when you get hired, like if Google hires you and you've got a company, they usually, there's a package and they just buy all your stuff and then they own whatever you built. Right? You basically said, look, I've got Roku, I wanna keep running that, but let me come and work for you and see if I can develop something in-house. So he essentially said Netflix said, okay, yeah, you still own your ip, you still own this company.
+
+2 (41m 23s):
+Yep, that's right. And it, and it is very unusual and
+
+0 (41m 26s):
+Yeah, very.
+
+2 (41m 27s):
+And I didn't really think he would do it, but he did. And Reid is very out of the the box thinking that way. Like he's, he's fine doing things that aren't the norm as long as it gets somewhere he wants to go. And so I think he had a lot of respect for my ability and he had bought all the rookie products, he loved them and he figured I would be perfect to build this product for him. So. Right.
+
+0 (41m 52s):
+Because the way I think this this was gonna work is instead of like building the Roku device at at Roku at the company, you were going to sort of like move it into Netflix and, and develop it there, right?
+
+2 (42m 5s):
+Well, yeah, I capitulated
+
+0 (42m 7s):
+When you say you capitulated in the sense that you figured,
+
+2 (42m 11s):
+Well I wanted to deal where Roku would make the hardware. Yeah. But that, you know, that wasn't gonna happen. And so I basically decided, well if he's not gonna let Roku do it, then maybe I should just go do it at Netflix.
+
+0 (42m 23s):
+Do you remember when you became an employee at Netflix? Like, do you remember what year it was? Was it like
+
+2 (42m 28s):
+It was, it was 2007, I'm pretty sure.
+
+0 (42m 32s):
+Okay. So basically the product you were building, which was the Roku product, was going to be the Netflix streaming device?
+
+2 (42m 41s):
+Yeah. So they had, at this time they had had a beta version of their streaming service, but you know, you had to have a piece on a PC on a web browser. So I was hired to build their hardware box. They, they wanted a little box that they could give to customers so they could connect us to their TV and stream Netflix. So they didn't have to use their, you didn't have to use your pc.
+
+0 (43m 1s):
+And just to clarify, you didn't need that box for a computer obviously, cuz the computers connected to the internet. But televisions in 2005 were not, the vast majority of them were not internet ready or internet connected. So you would need a box that did connect to the internet, that did connect to your television to make this work.
+
+2 (43m 18s):
+That's right. And I would talk to Reid and I would have conversations like, you know, we shouldn't build just a Netflix player. We should build like an operating system for tv. We should run apps, we should, you know, it's gonna be a lot more stuff besides just Netflix and people aren't gonna want a separate box for every, every streaming service. He's like, yeah, that's a good idea. And I go, but that's in conflict. They would be competitors Netflix, is that okay? And he's like, I think that's okay.
+
+0 (43m 42s):
+Yeah.
+
+2 (43m 43s):
+And there was a lot of work on a net on the sort of non hardware part of Netflix. There was a lot of work going on on so, well how are we gonna get access to this content? Because back then it wasn't just a technical problem, it was a, it was a huge business model
+
+0 (43m 55s):
+Problem. It's a business model problem because I believe if you physically rent DVDs, that's a different proposition. It's like when a radio station plays a song and that's it, they just play a song versus when you stream something, then it's different because that means that people can, you know, I don't know, watch it again and again or whatever. It's, it's is that, was that the challenge for them?
+
+2 (44m 21s):
+Yeah, so that's right. And the studios had a large existing business. They were more interested in protecting than they were in opening up this new front.
+
+0 (44m 30s):
+So building the hardware for this thing wasn't, wasn't really the biggest challenge. It was getting the rights to get the content to stream through that hardware.
+
+2 (44m 39s):
+I think so, yeah. I think that was the bigger challenge and they didn't get rights for a long time. Yeah.
+
+0 (44m 45s):
+So, alright, so I read that in 2007 internally at Netflix you were working on this project, it was called Project Griffin, I think that was the, the this code name for it,
+
+2 (44m 54s):
+Right? That was our code name.
+
+0 (44m 56s):
+And you had been able to like demo it for read many times. He gave feedback, you even demoed it for the entire staff. There was like a lot of excitement. Right. But I think by the end of 2007, this thing was ready to be launched. It was ready to be debuted as a consumer product and you know, start shipping to start being manufactured and shipping to consumers. And one day Reed Hastings announces he's pulling the plug.
+
+2 (45m 31s):
+Yeah, that's
+
+0 (45m 31s):
+True. This is done. We're not doing this product. Just one day comes out and says this.
+
+2 (45m 35s):
+He, we talked about it obviously before he announced it. I mean, what happened, the sequence of events were that we were building the hardware. I hired this guy to go license to try and sign up Xbox and some TV companies that we were having good success there.
+
+0 (45m 52s):
+Xbox would be available through, or the Netflix, how, how to work.
+
+2 (45m 56s):
+The idea is that if you had an Xbox, there would be an app on your Xbox that would let you watch street, let you stream Netflix.
+
+0 (46m 4s):
+Gotcha. Okay. So you had signed up, you had signed Xbox Up and PlayStation up, I think even Apple tv. Right?
+
+2 (46m 10s):
+Right. So Apple TV existed back then as well. And actually I think, I think if I remember correctly, apple TV was the turning point. We were working on these other deals. It was becoming clear that we were gonna get them, that you were gonna be able to at some point get an Xbox and watch Netflix's service on it, that it would be built into TVs. Yep. And then we approached, I approached Apple about same kind of thing on Apple tv, you know? Yeah. Let's, let's let Apple TV stream Netflix. Yeah. And I think Reid sent an email to Steve Jobs saying, are you guys interested in this? And Steve Jobs replied, no, we're not interested because we hear you're building hardware that competes with Apple tv and, and so why would we ever do business with you?
+
+2 (46m 57s):
+You know, something along those lines.
+
+0 (46m 59s):
+So, so in other words, why would Apple TV make Netflix available through its box if you yourself were making your own box? That was what they, you were, and, and so Reed started to get worried about this, that, that as he started hear pushback, he was coming to the conclusion that maybe this was a bad idea.
+
+2 (47m 17s):
+I don't think he was getting worried. I think he came to the conclusion that Reed's, one of Reed's characteristics is he's very focused, so he'll pick a direction and he is maniacally focused on that direction. And so when I came in, the direction was we're gonna build a box and distribute to all our customers. He then, I think he then decided that a better strategy is to just license our service widely to other hardware makers. And we're clouding the picture by making our own hardware. And if so, if I take this team that's working on this hardware and I spin it out and put it in Roku, then Roku can still finish the box. But it'll just be one of, you know, many boxes that we can license.
+
+2 (47m 58s):
+Yeah.
+
+0 (47m 59s):
+All right. So, so essentially what happened was, was Reed decided to spin this, the streaming device back into Roku, basically the, the company Roku, which you were still running. And so instead of Netflix making the device, Roku would make it. And right from his perspective, from what I understand, it was because he wanted Netflix to be a neutral platform, that he wanted it to be available everywhere all the time. He didn't want to compete. He, he wanted it to be something where all of these other content providers would, would wanna be. And as controversial as it was at the time, it proved to be very present and a very good decision ultimately that Netflix did not go into that direction.
+
+2 (48m 41s):
+Right. And the decision was, was good for me. Like it was a great, great decision for us. Yeah. I was like, yes, that sounds great. That's what I wanted. You know, from the beginning.
+
+0 (48m 51s):
+So you take these employees from Netflix who've been working on it, they'll go to Roku and then you worked at a deal where Netflix would get some, some of Roku's equity basically.
+
+2 (49m 2s):
+Yeah, that's right. So they invested not a lot, I think it was
+
+0 (49m 5s):
+$6 million, something like that.
+
+2 (49m 7s):
+That sounds right. 6 million.
+
+0 (49m 8s):
+Yeah. Netflix put 6 million into Roku at the time.
+
+2 (49m 11s):
+Right. And so they, I think they got 20% of the company. Right. So after Netflix invested and we started shipping the, the Netflix player, we then decided to raise venture money. And so we raised money from a venture capitalist called Menlo Ventures. And then Netflix decided they didn't want to appear to be favoring any one hardware manufacturer, so they sold their shares to Menlo Ventures.
+
+0 (49m 35s):
+Right. So, okay, so you've got now this standalone company now really doing what you initially hoped it would be doing, which was a, a box that could interface between the internet and your television. That's right. Help me understand what the business model was gonna be. Was it gonna be, cuz at that time, presumably the way to make money was just selling the hardware, selling the box. And I think the box initially was like 99 bucks, right?
+
+2 (50m 2s):
+Yeah, it was $99, which was a big milestone back then because that was very inexpensive compared to other set top boxes. Yeah. So yeah, the way I was thinking about it was that Netflix would be, you know, the killer app that would allow us to launch a new television platform, you know, and that was my goal. My goal was always to be the platform for TV that, you know, just like, like phones have Android and PCs have windows, and I felt like TVs needed Roku. Right. But we needed, we needed a way to launch that and get scale. And that's what Netflix was for me. So although we, we launched the first products as the Netflix player, the, we, you know, we quickly started adding other services.
+
+2 (50m 46s):
+We added an app store, we added billing systems. I mean, we added all the pieces to build a, a television platform. And that was the, that was the goal.
+
+0 (50m 54s):
+All right. There was the Apple TV out at that time. It was more expensive. It was about 300 bucks. And, and you could watch television through that and you could watch Netflix through that. There was the Roku product, which $99. What I would've asked you at the time was, well what happens when televisions are, are just in, was inevitable When televisions have a, you know, an ethernet port and you can directly connect to the internet or their Wi Wireless and you can go wifi and you can just like load up Google Chrome on your TV and then just like log into Netflix. Like, why would you, when that happens, what isn't that gonna make Roku irrelevant? Like what, what, what did you say when people asked you that question?
+
+2 (51m 33s):
+That's what Reid thought would happen. That was his sort of vision of the way things would play out. And that's what lots of people thought. But I, you know, my experience in the TV industry was that price was incredibly important in the TV business. And that web browsers were a very inefficient way to distribute software. Like they required lots of memory and lots of processing power and that it was not the way to make a, there'd be ways to do it a lot cheaper. And manufacturers always picked the less expensive way. Yeah. And so that's why we focused on cost and that's why we were successful in web browsers. Were not cause it, it just, it just adds quite a bit to the cost to build a tv. If you try and use a web browser,
+
+0 (52m 13s):
+The TV becomes more expensive, you're saying? Yep,
+
+2 (52m 16s):
+That's right.
+
+0 (52m 17s):
+And what, what in in, at that time in 2008, 2009, what could you watch through the Roku box besides Netflix?
+
+2 (52m 25s):
+Well, when it first started shipping, it was just Netflix. And then I think we added Amazon Prime after that. Prime video came out fairly soon. And then after that we added the app store. So, so there was hbo, Hulu I think came out around that time. And then because of the app store, you started getting lots of little companies, publishing, publishing stuff.
+
+0 (52m 46s):
+Was it hard for you to convince other media companies to, to jump on board? Or was it more like everyone felt like they would miss out if they didn't jump on board?
+
+2 (52m 56s):
+It was not hard to convince. You know, initially it was more like the internet companies like Amazon or YouTube or you know, Hulu was sort of the internet experimental branch of different networks. Those companies that had made the decision to do streaming, they wanted to be on Roku because we were a leading streaming platform. Yeah. But if you went to traditional media companies that had traditional businesses, they had no interest in streaming. They viewed it as a threat to their business. So they did not take their services and put them on streaming for a long time.
+
+0 (53m 27s):
+So the, the initially, the strategy was just to get as many Rokus in the hands of consumers because you were not making any money off of people watching Netflix through the Roku device, right?
+
+2 (53m 37s):
+So the strategy was we will make some money on the hardware enough to basically finance the business, but were not gonna try and make, make a profitable business on it, we're just gonna use it to build scale.
+
+0 (53m 49s):
+And once you build scale, you can figure out how to, once people have these devices or have the Roku platform in their house, then you can figure out how to monetize it,
+
+2 (53m 57s):
+Right?
+
+0 (53m 59s):
+All right, so you've got these devices and I think by 2011 you sold like a million and a half of these devices. So it's still, it's successful, but still, you know, you're still building it, building it out. I read an, an interview you gave in 2012 and this article, I think it was in forms, it said at the time most people who streamed video were doing it through game consoles, through Xboxes. In 2012, only 1% of US homes at that time used a device like a Roku or an Apple tv. And you had said at the time, look, we're we're essentially not our, our market isn't the 18 to 25 year old first adopter.
+
+0 (54m 42s):
+We're going for their parents, actually. That's who we wanna attract.
+
+2 (54m 47s):
+Yeah. So our goal was to offer a solution that was very inexpensive, that was super easy to use, you didn't have to be a, a gamer to use it and just had and had a lot of content.
+
+0 (54m 57s):
+Yeah. I wanna ask you about the simplicity side because you know anybody buying a television today and, and I'm just saying if you're gonna buy a television, just don't, because it's annoying. There's too many buttons on the remote, there's too much stuff, you know, it's just too many options. Your, your products are simple, the remote is simple. It looks like a, looks like a kid, like a, like a remote for a preschooler. And I'm not trying to say that in a disparaging way. I like that it's a very simple, there's like simple buttons, easy to use. Even the website, very simple explanation of what Roku does. That was part of the strategy from the beginning I think. Right.
+
+2 (55m 33s):
+Definitely. That's always been a huge part of our strategy. And I think our competition continually underestimates how simple consumers want their TV experience to be. Like television, they wanna sit down, maybe drink a beer and they wanna watch something as quickly as they can and they don't wanna get confused trying to figure out what they're gonna watch. And so that has always been a, a big focus for us. Even kind of a correlate to that is the consumer electronics, especially the, when dominated by Japanese companies, they started competing by adding more options. So that just started adding more and more buttons to the remote and they got to the point where, you know, TV remote has like a lot of buttons and no one knows what they do. And so we put a lot of effort into our remote control to reduce the number of buttons yet still being powerful and simple to use.
+
+0 (56m 21s):
+There was no off button on the Roku box.
+
+2 (56m 24s):
+Yeah, that was a very controversial decision, but it was to make it easier to use. We didn't put a power button on their remote control because what if you go back to sort of what are the things that is confusing to people about different devices on their TV is, you know, you have a source button on your TV and you change the source. And a source might be an Xbox or a DVD player or a rookie player. And one of the things that made it hard was you didn't know if your DVD player was turned on or off. Yeah. If it was off, then you didn't know if you were looking at your DVD player or not. Right? So if you just keep the model all the time, then it's easy to find. So it just makes it easier and it doesn't actually change the power consumption. It just wasn't what people were used to. So we had a lot of resistance to it, but it made it a lot easier to use.
+
+2 (57m 7s):
+And now it's the standard
+
+0 (57m 10s):
+20 12, 10 years after you officially launched a company. But really, you know, part of that time you'd been in Netflix, you get an acquisition offer from Intel. They apparently are looking, were looking to buy you out for about close to half a billion dollars. You were reportedly looking for 1.5 billion, but that deal fell through because it was just too much for them. Is that, is that true? Is that what happened?
+
+2 (57m 36s):
+I remember that there was some interest in them buying us. We never, you know, never got to the paper stage.
+
+0 (57m 41s):
+Why were you willing to entertain the possibility of selling? Was it, was it because
+
+2 (57m 45s):
+We didn't really entertain a possibility of selling? You didn't, they tried to, they tried to buy us or they didn't even try to, I mean, it depends what you mean by try to buy. They were interested in acquiring us. We were not really interested in selling. But I mean, you know, even if you're not interested in selling at some point
+
+0 (57m 59s):
+There's a price.
+
+2 (57m 60s):
+There's a price. Exactly.
+
+0 (58m 1s):
+Sure. And so you basically, from what I understand, you basically said Sure, we'll take a billion and a half for it.
+
+2 (58m 6s):
+I, I don't remember exactly, I do remember that there was, I probably gave them a price that was unreal, unreasonable, and they probably said no. But I think that's, see if we back, if we just go at a higher level, I think if you're an entrepreneur and you start a company and you've already been successful like I have in terms of financially successful Yeah. Then you don't really in it for the money anymore. Right. And so, so it just becomes hard to do a transaction just based on money. My, my attitude for Roku has always been, look, as long as I see a path to us continuing to grow and be successful, then there's no reason to sell. The reason to sell is if, you know, you think the competitive dynamics or the market have gotten to the point where it's difficult to be standalone and successful, that you need that, you need the leverage of being part of something else.
+
+2 (58m 53s):
+And then that would be a legitimate reason. Like you don't wanna run the company into the ground, but, but absent that, why would you sell this? Just getting, it's just getting more valuable every year,
+
+0 (59m 1s):
+Right? True. But acquisition could also be a good thing, right? I mean there are plenty of examples where a company is, I mean, audible acquired by Amazon became a much bigger company. So there are lots of a Twitch, right? Bec they become bigger. So there are, and this is a strategy, you've gotta give your investors a return. I know that, that a year later Amazon approached Roku with an acquisition offer and that that also didn't, didn't work out. But at the time there's a quote, there's an article at the time that was written about this and, and one of your main investors, and you said this too, in this article, you said, you know, we've had less acquisition offers than a nor as normal for a company as successful as ours. And you said, I think it's cuz people don't understand the company.
+
+0 (59m 43s):
+One of your main investors who said on your board, Daniel left, said I, I'm, you know, more or less saying I'm shocked, there wasn't a single media executive who believed Roku would be successful. It wasn't getting almost any acquisition offers. So clearly there was whether you were interested in entertaining them or not, you were surprised at the lack of acquisition offers at the time. That's
+
+2 (1h 0m 6s):
+All true. I mean, I am surprised at how few serious acquisition discussions Roku has
+
+0 (1h 0m 12s):
+Had cause you were underestimated do you think
+
+2 (1h 0m 15s):
+Continually underestimated and still are? I think in fact I viewed it as a pretty big competitive advantage that people underestimate us. And so they're always surprised when they lose. So for example, it's amazing the number of media c executives that didn't think streaming would be popular. They just thought there's nothing wrong with cable and satellite. The world is not gonna change. When it was so clear that of course it's gonna change, the internet has disrupted every industry and it's gonna disrupt video as well. And then, then I can think at the point when Roku became like, well maybe Ashley, maybe we should think about buying Roku. We had finally become so valuable that it was too expensive for them.
+
+0 (1h 0m 54s):
+When we come back in just a moment, we hear about some of the other ways that the industry continues to underestimate Roku, stay with us. I'm Guy Raz and you're listening to How I Built This. Many of us have had to wear an uncomfortable or unflattering work uniform at some point in our lives. As a business owner, you can change this by getting fully customized clothes, accessories, and promotional products featuring your logo and colors from lands and business lands. And business is the leading online supplier of uniforms for everyone.
+
+0 (1h 1m 35s):
+From top financial institutions and major airlines to local mom and pop stores. It's so much more than the same old work polos. Recently I've been wearing Lands End Business customized clothing and some of my favorites are their soft shell jacket and their fleece beanie. They're super high quality, they're comfortable and they're nothing like the usual company swag that's out there. See why thousands of companies count on Lands End business? Go to business dot lands end.com/built and use promo code built for 25% off your first product. That's business.landsend.com/built promo code built for 25% off your first product.
+
+0 (1h 2m 18s):
+You know what I most love about Audible? No matter where I am, my imagination can run wild with incredible stories and adventures. With Audible you can discover new worlds, learn about Old Worlds and think about how to make a better world. Audible has an incredible selection of audiobooks across every genre from best sellers and new releases to celebrity memoirs, mysteries and thrillers, motivation, wellness, business and more. I love listening to the Audible app. It's super convenient to use. And by the way, you can listen to me narrate my book, how I Built This on Audible. Check it out. Plus tons more audiobooks and podcasts on Audible today.
+
+0 (1h 2m 59s):
+Let Audible help you discover new ways to laugh, be inspired, or be entertained. New members can try it for free for 30 days. Visit audible.com/built or text built to 500 500. That's audible.com/built or text built to 500 500 to try audible free for 30 days audible.com/built. Hey, welcome back to how I Built This. I'm Guy Raz. So by 2014, Rokus sold around 8 million streaming devices in the US but at this point smart TVs are also rolling out into the market, which means Roku has to expand its reach.
+
+0 (1h 3m 44s):
+You actually end up partnering with, with manufacturers in 2014 to build the Roku platform inside the television. So now of course you sell the, the Roku televisions and you work with a bunch of different companies. How, how much of a, of a sort of a game changer was that? Did that, had you not done that, would Roku be where it is today?
+
+2 (1h 4m 6s):
+It was an important decision and very key to our success and it's a hugely successful program for us. The Roku TV program. I mean for a long time we debated should we actually make our own TVs? And it was clear that that's a tough business to be in. So we decided licensing would be by far the best approach.
+
+0 (1h 4m 26s):
+Yeah, once you reached a a level of scale, you were able to start thinking more specifically about, you know, your revenue model because you were not gonna make it by just selling devices. So, so from what I understand it really, it, okay, you had the, the hardware, the streaming sticks was started out with the boxes. Now there's, you know, got sticks that sells, that's not a huge part of your revenue, but then it was like licensing the platform, the software to these television manufacturers. Then there's a part of it that I don't understand, which I think is amazing, which is there's a revenue sharing agreement with the content provider.
+
+0 (1h 5m 6s):
+So it's like cable channels, right? Like cable tv if you're CNN or, or let's just talk about channel for example, if you're cnn, you get money from advertisers and you get money from cable carriers that pay you a certain amount of money per subscriber. With you guys, it's a, it's almost inverted, which is the, the channels, the content providers pay you a small fee from their revenue, right? How, explain how that works.
+
+2 (1h 5m 34s):
+So yeah, so it's, I mean our model is not a traditional cable model. Like as you just pointed out, we get paid for distributing content but we don't build, we don't have a monthly subscription like a cable operator has. But we do have a billing platform. You know, part of our purpose built platform for TV is building in tools for the industry to help them help them sign up subscribers. We can promote them, we can do one click billing. So we have a lot of influence on signing up subscribers. And so our model is basically if we sign up a subscriber or we do billing, then we get a, you know, we get a piece of that subscription revenue, right? So that's, you know, go back to the underestimated part of it. That also comes into play in that most media executives, when they start getting into streaming, they underestimate RO because they all have Samsung TVs or or an Apple TVs.
+
+2 (1h 6m 25s):
+And so they're always surprised when they find out that we're their number one source of customers, right? If your service has ads in it, then we get, we don't get money from you directly, but we get some of the ad inventory just just same way. Like
+
+0 (1h 6m 39s):
+You can sell some of the AED inventory
+
+2 (1h 6m 42s):
+Directly we sell, right? We can sell you
+
+0 (1h 6m 43s):
+An ad, have ad sales division essentially in-house,
+
+2 (1h 6m 46s):
+Right? And that's actually our biggest business is selling, selling video ads. And it's pretty clear that advertising is a huge opportunity. You know, there's, I don't know, 70, $80 billion a year spent on TV advertising in the US alone and it's all moving to streaming. So, you know, one of the things that we did that people didn't appreciate at the time, but now they do, is we started something called the Roku channel, which is essentially free ad supported movies and TV shows. And when we started it, everyone was trying to copy Netflix, but we were like most countries in the world, TV is free and is supported by ads. The US is sort of unique in that the, the industry evolved to the point where you pretty much have to have a pay TV subscription, but you don't, that doesn't need to be that way.
+
+2 (1h 7m 28s):
+Like we can, with streaming, we can offer people free content and just have it supported by ads. And so that's what we did with the rookie channel. And so it was the first time really there was a lot of mainstream content that was available for free
+
+0 (1h 7m 39s):
+That you would license or that you would outright buy
+
+2 (1h 7m 42s):
+Both. I mean we started out just licensing, but now we're actually producing originals and you know, it's very popular. People love free, free tv. So yeah, that's become a big part of our business in that it generates a lot of ad inventory, so it drives a lot of our ad business.
+
+0 (1h 7m 58s):
+As the device became more and more popular, some of your partners started to be competitors too. Amazon developed a, a competing product. Google they're giants, they were and they are. Did that worry you at all?
+
+2 (1h 8m 15s):
+Well, of course giant competitors concerns us, but I was pretty confident in our strategy. I mean, of course it was risk, but I felt like we had a path to winning, which we have taken and continue to take, which is basically to build a platform this custom built for TVs as opposed to taking something that exists for say a phone and porting it to TVs. And so it's not just the technology, of course that's part of it. Like one of the, you know, one of the advantages of our operating system is that it costs less to build the hardware, but it's also just the focus, you know, incredibly focused on, on that one problem as opposed to other problems, right? Where the only streaming company, streaming platform company that that's all we do, that we come to work every day trying to build the simplest, best, cheapest streaming player possible.
+
+2 (1h 9m 5s):
+Our competitors don't do that. They come into work every day trying to figure out how to build a better search engine generally, or how to sell more stuff online. Yeah. And there's still a lot of innovation in the business to happen and we're, you know, we're good at innovation so, you know, I'm confident that we'll continue to compete successfully. Yeah.
+
+0 (1h 9m 21s):
+And the streaming wars has also benefited you because the more that Disney and Amazon and Netflix and Hulu and all these different companies compete peacock and, and Paramount, like it's better for you because Mo most or all of them wanna be on your platform?
+
+2 (1h 9m 39s):
+Yeah, so the reason it's benefited us is cuz we, because it benefits these streaming companies when they want to build an audience, you know, they, they start spending money on marketing. How do they wanna spend money on marketing? They could buy billboards or they could buy ads on Roku where with one click from the ad you can sign up for their service. And so those ads actually are just way more effective.
+
+0 (1h 10m 0s):
+And in terms of, of going in different directions, I mean you have a bunch of things that you're, you know, advertising and you know, obviously the hardware and the software. But what about content? I mean, I know you've acquired content or license content from Quibi, the short-lived Quibi, you gotta, you, you sort of bought out a bunch of their content and I think you bought this old house that show on pbs. You own that show. Is there a future where you're gonna be a studio and you're gonna make your own stuff too?
+
+2 (1h 10m 31s):
+We are producing originals now. Not, not a huge number like a Netflix or an Amazon, but you know, still many millions of dollars worth. We have a show coming out, right called Weird Al you know, a biopic star in Daniel Ratcliffe.
+
+0 (1h 10m 44s):
+Oh, that's, that's that's a, that's
+
+2 (1h 10m 46s):
+A, that's a ro that's a Roku original, yeah.
+
+0 (1h 10m 48s):
+Wow, okay, I didn't know that. Yeah. This business has become, he went public in I think in 2017 and of course like many tech companies you've had an incredible ride and 20 20, 20 21 huge growth for Roku. Lots of people are stuck at home. 2022 is different. There's been a downturn across the board in the markets. You know, most tech companies, their stock prices are down 50, 60%. What do you think about that? I mean, you, you, you are the head of a public company, so you do quarterly earnings calls and so on. So are we talking about a temporary, I don't know, slow down or is this something are, are you sort of girding yourself for a long winter of, of, of business?
+
+2 (1h 11m 44s):
+Well, I mean, the way I think about it is the world is moving to streaming. It's a huge trend. You know, the economy is cyclical. That's just the way it is. And one shouldn't confuse the cyclical economy with the fact that everyone is switching to streaming. You know, our business fundamentally has got a lot of room to grow. So we're still seeing good growth. I mean, we haven't given outlook for the next few quarters, but you know, we haven't announced layoffs or anything like that. Yeah,
+
+0 (1h 12m 15s):
+This is a question that very few people like, but it's, it's an important question to ask because we're, we're living at a time of incredible wealth and I don't hold it against anybody who makes Incre. I think it's, it's a great, it's great. I mean if you make incredible wealth, it's good for, you usually employ lots of people and you probably are gonna end up getting away a lot of that money. But you do have that wealth, lots of it more money than you could ever use your family could ever use. What do you, what, what do you think you would do with it?
+
+2 (1h 12m 43s):
+That's an excellent question and it's hard to answer. If you think about money and the fact that successful entrepreneurs accumulate it, you're right, they can't spend it all. Right? In fact, almost a very tiny part of it is what they spend. The rest gets invested. And so the question I think is, well, who should be investing that money? Should it be the someone like me or should it be someone else? And so I think actually people that are success earn money successfully through business or good at investing it as well. And so it's actually quite efficient for them to invest it versus someone else in terms of how you could actually use the money. You know, I have a big philanthropy effort. I, you know, hired a director of philanthropy, but it's actually very difficult to give away money effectively because there's less accountability versus a company.
+
+2 (1h 13m 30s):
+Like if you imagine putting money in a non-profit versus putting money in a company, well the company is measured and is very motivated on being efficient and, you know, makes hard decisions When it's a nonprofit, they don't have those difficult decisions. They're less efficient and it's easy for them to waste it. I'm not saying that they all do, obviously, cause I give a lot of money to nonprofits that I think are being helpful, but, but actually if I had a choice between putting money in a nonprofit versus a company that we're both kind of addressing the same area, the company would be my choice because it's, it's gonna be more accountable and it's gonna do a better job. But if you, that's your strategy, then you end up making more money from Yeah. The money that you're investing.
+
+2 (1h 14m 11s):
+So, so I think it's an interesting problem. How do you, how do you use your money most effectively for the world?
+
+0 (1h 14m 18s):
+Yeah, what's your main philanthropic like, focus?
+
+2 (1h 14m 23s):
+Well our, our mission is basically advancing human progress. And there's probably a few different areas where I give money to in that, in that realm. One is medical and scientific research, so research around diseases, but also research around interesting kind of science things that I don't think are well funded. Like for example, I'm kind of interested in what causes ice ages. So I give money to a researcher in the UK that, that research, his team researches the fundamental causes of ice ages. People don't know what causes ice ages and for all we know we're about to have another one. So scientific research, mental health, you know, mental health and homelessness, which are very closely related.
+
+2 (1h 15m 3s):
+I give lots of money to that. But the focus is mostly on not just giving people money but trying to alleviate like the root causes. So there, there's a couple other areas, but those are some of the areas I give money to.
+
+0 (1h 15m 16s):
+When you think about, you know, where you've been, where you've come from, where you are today, I mean, you were clearly motivated to make money early on in your life. You talked about this when you were in college. You wanted money, you can come from family with money and well, you wanted to feel secure and stable and you did, I mean by the age of 31 you had, you know, 30 million bucks. Here you are today, forget about the money side, but you built a culturally relevant product, a product that there are plenty of people who have made a lot of money, but not all of them have had, have had a cultural impact where people are actually, their lives are affected by the thing that, that you made.
+
+0 (1h 15m 56s):
+Right? And that happened, it's changed the way people consume media and content. Do you think that that your paths of success is because of your hard work and your intelligence and, and and the grind? Or do you think more of it has to do with, with getting lucky and having lucky breaks meeting Reid Hastings or, you know, or, or, or the fact that that that Netflix didn't make the box and spun it out or I don't know, how much do you think luck played a factor and how much, how much do you think just your hard work played a factor?
+
+2 (1h 16m 27s):
+It's obviously a combination, right? Like it's a combination of, I'm, I think some of the key characteristics to at least the way I've been successful are passion. Like being very, like I'm, I love technical stuff and it turns out technical stuff can make you a lot of money. So, you know, having an interest in that, being good at it, but I don't really know why I'm good at it growing up with a culture that valued hard work and you know, being persistent and, and where the luck comes in is just how long it takes I think and maybe the timing a little bit. So, you know, I didn't, I didn't just happen to be be Hastings. I sent him an email and I tried, yeah, I got myself introduced to him for example.
+
+0 (1h 17m 7s):
+So you had to make the luck happen.
+
+5 (1h 17m 9s):
+Yeah, I think so.
+
+0 (1h 17m 14s):
+That's Anthony Wood, the founder and CEO of Roku. By the way, that new Roku original film that Anthony was talking about for sure, their most ambitious one to date. It's called Weird and it's a fake biopic about the life of weird al Yankovic. It's absolutely hilarious. And if you wanna find out more about the making of the film and how weird al conceived of the idea, you can hear my brand new interview with Weird Al on my other show. It's called The Great Creators and it's available wherever you get your podcast. Hey, thanks so much for listening to the show this week. If you enjoyed it, please do spread the word. Tell someone about how I built this or post about it on social media.
+
+0 (1h 17m 57s):
+If you wanna contact the team, our email address is ibt id.wondery.com. If you wanna follow us on Twitter, our account is at How I Built This and mine is at Guy Roz and on Instagram, I'm at Guy dot Roz. This episode was produced by JC Howard with music composed by Alu. It was edited by Niva Grant with research help from Sam Paulson. Our production staff also includes Casey Herman, Elaine Coates, John Isabella, Liz Metzker, Katherine Seifer, Kerry Thompson, Alex Chung, Chris Masini, Carla Estevez, and Josh Lash. Our intern is Susan Brown.
+
+0 (1h 18m 37s):
+I'm Guy Raz and you've been listening to How I Built This. Hey Prime members, you can listen to how I built this early and ad free on Amazon Music. Download the Amazon music app today or you can listen early and ad free with Wondery Plus in Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built this merch and gear@wonderyshop.com.
+
+0 (1h 19m 17s):
+Before you go, tell us about yourself by completing a short survey at wondery.com/survey.
+
+7 (1h 19m 24s):
+It's hard to imagine losing a loved one, a wife, a husband, a child for many, it's their biggest fear. I'm Marissa Jones, host of The Vanished, a podcast that tells the stories of often overlooked and unsolved missing persons cases. Every week I dive into a new case, sharing the details of their mysterious disappearance, including interviews with family, friends, law enforcement, and even suspects in an effort to reveal the truth. And I'm proud to say that this podcast has aided in a number of arrests. It's important to me to remember the human behind the headline and help family members find their vanished, loved one or at least a sense of peace. Follow the Vanished wherever you get your podcasts.
+
+7 (1h 20m 5s):
+You can listen ad free on Amazon Music or the Wondery app.

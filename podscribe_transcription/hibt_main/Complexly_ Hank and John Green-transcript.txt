@@ -1,0 +1,1208 @@
+0 (0s):
+Hey Prime members. You can listen to how I built this early and ad free on Amazon Music. Download the app today.
+
+NPR (9s):
+New Year's is here and with it brings the possibility of change. As one behavioral scientist put it. Fresh starts are really powerful. So as you head into 2023, life Kit is a great resource to help you plan your life and tackle changes both big and small. Listen to the Life Kit podcast from npr.
+
+Slack (27s):
+Let's Slack be your digital hq. It's one digital space that brings together all of your people and all of the tools you need. Having Slack makes collaboration easier and more flexible so you can be a lot more productive. Don't wait to see what you can accomplish with your own digital hq. Head over to slack.com/dhq to get started. Slack where the future works.
+
+1 (54s):
+Hey, it's guy here with a quick message about another podcast I think you'll love. It's called The Great Creators, and you can find it wherever you listen to podcasts. Check out my latest interview with Tom Hanks. You might think you know him until you hear this interview.
+
+0 (1m 9s):
+You'll find out what Priscilla Presley told him about his portrayal of Colonel Tom Parker. In the Elvis movie, Tom talks about his own self-doubt and a moment of clarity he experienced in the chance meeting with baseball legend Joe DiMaggio. Check out the Great Creators podcast wherever you listen to podcasts. It's always free and available one week early on the Amazon Music app or by subscribing to Wondery. Plus.
+
+3 (1m 39s):
+My feeling when I was watching YouTube in 2006 was this isn't something that was made for me. This is something that is being made with me. And as is often the case in Hank and I's relationship, Hank sees the future coming and I am astonished by it. Yeah, I thought we were doing a project for a year that was really fun and it was gonna help us be closer to each other,
+
+4 (2m 0s):
+Whereas I was like looking at my camcorder and thinking this will be in a museum someday. Like I was over the line. This isn't like tv, this is like the printing press.
+
+3 (2m 13s):
+You did say that. I remember you saying that to me.
+
+0 (2m 25s):
+Welcome to How I Built This, a show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. I'm Guy Raz, and on the show today how Hank and John Green turned their brotherly banter into a YouTube hit and grew it into Complexly, one of the biggest educational content companies on the internet In December of 2006, time Magazine's, annual person of the year, year cover story came out and on the cover was a computer monitor with one word in the middle, you and below it said, you control the information age.
+
+0 (3m 10s):
+Welcome to your world. Now, just two months before that cover came out, Google acquired YouTube for about 1.7 billion. And right around this time, so roughly early 2007, Hank and John Green saw the potential of what was about to happen in the world of media, and they decided to leap right into it because with almost no barriers to entry, YouTube seemed like a pretty interesting place to explore. And like many people we've profiled on the show, Hank and John Green didn't set out to become internet entrepreneurs. The two brothers started a YouTube channel as a way to keep in touch.
+
+0 (3m 51s):
+Hank was living in Montana, John was in New York, and they missed talking to each other. So every day, one brother would post a video to the other brother and the videos might include things like what was going on in the world or a cool science discovery or maybe a new song or them wrote. At the time, John was an aspiring if slightly struggling writer. He'd written a few well received novels, but only sold a few thousand copies. Hank was thinking about becoming a science writer, but because they were smart and funny and relatable, their video diary started getting views at first hundreds and eventually thousands. Today that YouTube channel of Log Brothers has three and a half million subscribers, but that's actually a drop in the bucket when you consider how big their overall audience is because what began as a video diary eventually led the Green Brothers to build a business so sprawling.
+
+0 (4m 49s):
+It's almost hard to wrap your head around it. Let's start with their production company. It's called Complexly, and it has over a dozen different YouTube channels, mainly educational videos with a combined 30 million subscribers. Hank and John also run a business that makes and sells merch for other content creators. They founded an annual convention for YouTubers called VidCon. They founded another one for podcasters. They also have their own podcasts. They have a non-profit that sells socks and sweatshirts and a bunch of other things, and they donate all the money to charity. And did I mention that both brothers are hugely successful authors?
+
+0 (5m 29s):
+John Green's young adult novel, default in our stars has sold more than 23 million copies. And the thing is that almost all of these things I mentioned, Hank and John still have an active hand in them. They still appear in a lot of their own videos. They have not stopped being the vlog brothers. They still create a lot of content every day. And as you will hear, even though they run a for-profit company, almost all of the content content they make is entirely free. And unlike many people in the business, they want to keep it that way. Hank and John grew up mostly in Orlando where their dad headed up the state nature conservancy, and their mom was a community activist as boys.
+
+0 (6m 13s):
+They played a lot together. But John, who is the older brother, was kind of an anxious kid and when he was a teenager he needed a change of scenery. How old were you when, when your parents sent you to boarding school?
+
+3 (6m 27s):
+My parents didn't send me to boarding school. I asked to go. You asked. Sorry. He sent himself away. I was 14.
+
+0 (6m 33s):
+14, okay. And this is a school outside of Birmingham, Alabama called the Indian Springs School. And tell me why you wanted to go, I mean, you were far away and were you having problems or you, did you just want a better school? Like what, why?
+
+3 (6m 49s):
+I was a troubled kid, I would say in a bit of trouble academically. I was really struggling at the public school I attended, and then also just socially, I had a really difficult time. I was bullied a lot in middle school, and so I really wanted to go to this school because it seemed like a place where people like me could feel included. And it, it was a really transformative experience for me. I was with peers all day long. It's really where I became myself. I continued to be a terrible student, but I I, I started to find an interest in learning, even if my grades didn't quite reflect it.
+
+0 (7m 33s):
+Yeah. You've written about this a little bit and you described yourself as almost kind of like trapped, that you were super nerdy but super awkward, insecure. You couldn't have like normal social interactions with people that you just couldn't. What did that mean that you just couldn't like, take me back to 14 year old John Green you? If I went up to you and I was like, Hey, how, how you doing? Like it would just be a weird interaction.
+
+3 (7m 57s):
+Yeah. I think that looking back a lot of it was probably shaped by having O c D and, and struggling a lot with anxiety. And so a lot of the conversations I would have would sort of be filtered through this sieve of anxiety. And so I, I would laugh too late, you know, when somebody said something funny or I would respond awkwardly or inappropriately from not fully understanding the context because I wasn't really able to fully listen to them. And when I got to high school, I started to have friends who really understood me and were okay with me, if that makes sense.
+
+3 (8m 39s):
+Like I had this amazing best friend Todd, and he was like a guide to the universe of interacting with other humans. So like we would go to a party together or something and then we would be driving home after the party and he, he would be like, Hey, listen man, that was great. That was such a fun night. Couple notes when you're talking to somebody and you sort of lean forward and they take a half a step back and then you lean forward more. They're actually trying to communicate to you that there's not enough space between the two of you. Yeah. And he would just, he would just in a very kind loving way helped me understand how to be a social person in the world.
+
+0 (9m 19s):
+Yeah. All right. And so Hank, so your brother's away. You grew up in Orlando, so you were basically kind of an only child when he was away.
+
+4 (9m 28s):
+Yeah. Yeah. He'd come back for the summers and I remember those summers as being sort of like being very glad to have my brother back for two days and then the rest of it being quite a lot, a lot of conflict during, during those years.
+
+0 (9m 43s):
+Were you, I mean, and this sort of foreshadows what both of you would kind of focus on later on professionally, but were you more of a science kid? Because I know John, you have talked about not being good at math, not being good at science, not generally not being a great student, but Hank did you, like, was science a thing that you just kind of gravitated towards as a kid?
+
+4 (10m 2s):
+Yeah. Yeah. Even quite young. And I, I expressed that interest early on and my dad would like take me out on field visits in the Nature conservancy, like work that he was doing. And I'd get to see like the, you know, normal boring work of science. But what it emphasized is that it's a job that normal people have. You know, I remember doing a science fair project and it was just a very boring catalog of the species that lived in a waterway that connected two lakes, and it did not get a single award among the dozens of different awards they had created so that the maximum number of kids could get something. No one thought that this was interesting research.
+
+3 (10m 40s):
+Are you still bitter? You sound a little still bitter.
+
+4 (10m 43s):
+Very a hundred percent. I remember like five of the kids that won and, and how their projects were not as interesting as mine.
+
+0 (10m 51s):
+So John, when you, you went to college, you went to Kenyon Yeah. In Ohio and you studied English. And while you were there, John, did you start to sort of think more deeply about what, what you might wanna do or what you thought you would do?
+
+3 (11m 5s):
+Yeah, I loved writing. I loved writing stories when I was a kid and it would've delighted me to learn that I could be a writer, but I never thought I could. I thought I was like being an astronaut or something. Yeah. But Kenyon is well known for its English department and I went there thinking that I would love to learn more about how to write good stories, but then there are only two fiction writing at the time anyway, two fiction writing classes at Kenyon, intro to fiction writing and advanced fiction writing. And I, I didn't get into the advanced fiction writing class. Yes. There were like 14 applicants in 12 spots, and I was one of the two people who didn't
+
+0 (11m 43s):
+Get in who did not get it.
+
+3 (11m 45s):
+Yeah. I mean, if you're not in the, in the top 85% of of writers at your tiny little college in Ohio, it's hard to imagine how you become a writer as a job. And so it, it was really devastating to me and I was embarrassed. I felt some shame and it really made me rethink my professional life. And the plan I eventually developed was to go to divinity school because I also majored in religious studies to become an Episcopal minister.
+
+0 (12m 18s):
+So this was your plan. Maybe, you know, I'll go to divinity school and I guess you kind of worked as an apprentice to a chaplain at a children's hospital.
+
+3 (12m 26s):
+Yeah, I was a student chaplain at a, at a children's hospital for several months when I was 22, right before I was supposed to go to divinity school. And then my time at the hospital I think helped me understand that I, I didn't want to become a minister.
+
+0 (12m 43s):
+I've read a little bit about your time there. I mean, you've described it as a, a very sad period in your life. I mean, being around say kids, I can't imagine what that was like. Were, were the kids there, you know, were, were mostly kids are gonna be okay. Or, or, or a lot of them gonna die.
+
+3 (13m 6s):
+A lot of them were going to, were gonna die. And, and a lot of them did, did die while I was their chaplain. And I'm not the main character of that story. You know, the, the people who were in those rooms who were at the center of that horror and and suffering were not me. But even so, it was really difficult. I was really young. I certainly had never encountered so much death, so much unjust death. And you know, like a lot of young people who read a lot of theology, I had a lot of, I guess like somewhat sophisticated ways of making sense of suffering and how do we solve this problem of a good and loving God who, who allows such unjust suffering to occur in this world.
+
+3 (14m 1s):
+And then when I was faced with the reality of it, it was very different and much harder for me to reconcile. And then I entered a very long period where I just, I, I was only very tangentially connected in any way to my religious tradition. And so I, I set out on a, on a different path.
+
+5 (14m 27s):
+Hmm.
+
+0 (14m 30s):
+So, so when that time ended at the Children's hospital, I guess you, you moved to Chicago and eventually you found a job at a magazine called Bookless, which I guess for people who aren't, aren't familiar with it, it basically reviews books to kind of help librarians and, and bookstores decide what to, to buy and what did you just apply and get a job there? Like as an editorial assistant?
+
+3 (14m 52s):
+Yeah. I started out as a temp because they needed somebody who could type in I sbn numbers and not to brag, but I'm a very fast typist and so I just did data entry for years. 99% of my job was data entry.
+
+0 (15m 8s):
+Yeah, that's a job by the way. That doesn't, I don't think it exists anymore. Right.
+
+3 (15m 12s):
+I mean, well I was very aware of the fact that there were one barcode scanner away from automating my job the entire time I was there. Yeah. Obviously it would not have been a great job for 50 years, but it was an amazing job for that period of my life for a lot of reasons. Yeah. One of which is that it was very meditative, especially coming from the Children's hospital. Yeah. Like I'm an extremely anxious person, but when you start working at a magazine after working as a chaplain at a children's hospital, it's pretty hard to get excited about any of the stuff that's happening. Right. Like Right. What's gonna happen, the ma the magazine won't come out. Oh no, this is okay.
+
+3 (15m 52s):
+Like, it was such an awesome place to work. I've had a stupidly lucky professional life, but the greatest professional luck of my life other than being Hank Green's brother is getting that
+
+0 (16m 2s):
+Job. And eventually Did you get to to review books as well?
+
+3 (16m 5s):
+I did. I was surrounded by people who read hundreds of books every year, some of whom had been reading hundreds of books for every year for decades. And slowly they also began to offer me opportunities to review books myself. And then that became a bigger and bigger part of my job at Book List over the six years I was there.
+
+0 (16m 24s):
+When you were at book list, were you, I mean, I guess maybe a spoiler alert, you published a book in 2005 looking for Alaska. This is your first novel, but I have to assume that, I mean you were working on it. Were you, tell me how you got the confidence to start writing your own book. Were you doing it secretly at the beginning? Were you not taught? Like how did you even start that process?
+
+3 (16m 47s):
+Well, I was always writing, but I think your question is a really good one because I think it does take a certain amount of confidence to think, well, I could write a book. Yeah. And I think what gave me that confidence was working at a magazine that reviewed 400 books every two weeks.
+
+0 (17m 6s):
+Yeah.
+
+3 (17m 6s):
+And I would think, you know, I'm not that good of a writer, but 400 of these things did come out in the last two weeks, so maybe, yeah. And a lot of them weren't, weren't that good. Nothing personal. I mean, but the thing about books that aren't that good is you can see the strings of the puppets a little
+
+0 (17m 27s):
+Easier. Yeah.
+
+3 (17m 28s):
+And I had a wonderful mentor, one of my editors at Booklist, Eileen Cooper, and I took her out to lunch one day and I said, I'd really like to write a book about a kid at, at a boarding school who's grappling with, with guilt and grief. And she said, that sounds great, but you have to write it. And about a year later, I handed Eileen 40 single spaced pages of text with no margins and no paragraph breaks. And to her immense credit, she read it and she said, you know, there's something here. And I worked on it over the next two and a half years with her.
+
+0 (18m 11s):
+And was that really the first time since college that you let somebody see your writing? Because that's, that's a very personal thing. I mean that it can be really scary cuz they might say, this sucks.
+
+3 (18m 23s):
+Yeah. It's a tremendously vulnerable thing. I never feel more like my body is on the outside of my skin than when I'm sharing writing with people. Of the 40 single space pages, Eileen read, I think probably, I don't know, six or seven sentences from that are in looking for Alaska. So it did have a long way to go. Right.
+
+0 (18m 48s):
+And when you read, I mean, you hear this from writers all the time, which is to be a good writer, you have to be a really good reader first. You've got to learn how to be a good reader.
+
+3 (18m 56s):
+Yeah. I don't know if that's universally true, but I had to get better at reading for sure. But I mean, the truth is I have no idea how to write a book like I I like in this interview. I feel like I'm trying to talk as if I know how to write a book when the evidence is overwhelming that I don't, based on the fact that the last time I wrote published a novel was five years ago. I mean, I have a very inefficient process in the sense that I write a draft and then I delete almost all of it. Hmm. And that's the only way I know how to write a story. I'm sure I am unconsciously responding to lots of other writers and I am unconsciously learning from everything I read.
+
+3 (19m 35s):
+But in terms of what's happening consciously, I'm only at war with myself. The only real obstacle in my path is me. And the only way out is me.
+
+0 (19m 46s):
+At what point were you able to get an agent? I mean, did Eileen, was there a point where she said, yep, it's ready to go. Let me make some calls. And how did, how did that happen?
+
+3 (19m 55s):
+There was a point where Eileen said, I think this is ready to go out to publishers. And then I, I sent it to several publishers. I actually didn't have an agent at the time. It was a little bit of a different era in publishing at least Ya publishing. And one of the editors called me back and said that they wanted to publish the book.
+
+0 (20m 17s):
+Wow.
+
+3 (20m 18s):
+That was not the end of the story though. Like that was a lovely day. Yeah. And I, I went ahead and bought a sushi dinner with, if I recall correctly, 3% of my advance. And it was a lovely dinner, but I spent another year and a half revising the book with my editor at Penguin Julie STRs Gable. And that's really when the book came to have the kind of shape and texture that it has now.
+
+0 (20m 46s):
+All right. So that book gets published. You're a published author in 2005 and I mean the reception was really great and Won, won, won the best y book of the year award, this award Michael Prince Award. And like that was it, you were published writer, I mean you were now an novelist. Yeah. Did, did it feel that way to you? I mean, you quit your job at Booklist, so clearly you, you I guess are thinking, okay, I gotta go all in on this now.
+
+3 (21m 13s):
+Well sort of, I actually didn't quit my job at Booklist because looking for Alaska got published. I quit my job at Booklist because while writing, looking for Alaska, I had fallen in love with the woman who is now my wife. And she got into graduate school in New York, which meant that we were moving to New York if we were going to continue our relationship. And so I would've stayed at book list very happily. But it did change my life. Especially after Alaska received such generous reviews and then started to win awards. It did.
+
+0 (21m 46s):
+I mean the, the numbers are probably very different now, but in that first year, how many copies did looking for Alaska sell?
+
+3 (21m 52s):
+7,000.
+
+0 (21m 53s):
+7,000? Yeah. And it's important to say that number cuz I think something like two or 3% of books published every year sell more than 5,000 copies. Like 95, 90 8% of books sell fewer than 5,000 copies.
+
+3 (22m 5s):
+Yeah. I mean 7,000 copies was great. Yeah. I'd earned out my advance. I was able to sign a deal for a second novel and the people who read it liked it. And that was my definition of success at the time.
+
+0 (22m 21s):
+You published your second book in Abundance of Catherine's I think a year later. How did that book do
+
+3 (22m 25s):
+Similarly? I think Catherine sold 125 copies the week it came out. So not great, but it also slowly over time found an audience. Got
+
+0 (22m 39s):
+It. In, in meantime, Hank, while John is basically becoming an author, you're sort of on a path that's gonna take you towards science writing because after college you did a master's degree at the University of Montana, you did an environmental studies. And by the way, while while John is moving around the country, right, like he's in Chicago and then he's in New York. Were you guys keeping in touch?
+
+4 (23m 3s):
+Yeah, a bit. I remember a lot of instant messaging and at this point I was and really had always been very enamored of my older brother and thought that whenever I could kind of get his attention, it was very cool and very good. And whenever he had an, an interest in a new kind of music or movie or something, I was, you know, I very much believed deep in my soul in a very unquestioning way that that in fact was the coolest thing. And so we were in touch and I was always, I think trying to impress him but also, you know, obviously very caught up in my own stuff.
+
+0 (23m 43s):
+Alright, so we get, we come to 2006, you are living John in New York, right? Hank, you're in Montana cuz you'd finished your master's degree and you are doing a lot of writing. You were, you had your own blog and you were writing a lot about like environmental issues. I think you even, you wrote for like npr.org and a bunch National Geographic, right?
+
+4 (24m 2s):
+Yeah, yeah. Really focused on technology. So, so during my grad school times it became very clear that learning about the sort of future of our earth was a very easy way to feel very sad all of the time and get burned out. And the only thing I could do was kind of go home and search Google for any solutions that were being proposed. And I transitioned that into this kind of freelance career, both blogging on my own and for a number of other publications writing about everything from electric cars to wind turbines to electronic paper.
+
+0 (24m 39s):
+Right. All right. So 2006, this is a pivotal year in what we now call the Creator economy, cuz that was the year I think that YouTube was bought by Google.
+
+3 (24m 49s):
+Yeah, that's
+
+0 (24m 49s):
+Right. So there's this thing YouTube and there were clearly people who were kind of starting to experiment with this and doing all these weird, these weird things. Tell me a little bit about this idea that, that you had John to start playing around with YouTube and communicating with your brother over it. What was that about?
+
+3 (25m 11s):
+Well I think I wanted to be closer to Hank. I think that was the biggest thing. We lived on different sides of the country, but also we never talked on the phone. We only communicated over instant messenger and I felt like I didn't know him that well. And that felt like a big hole in my life. But then also we were both really interested in online video and the way that online video was being used as a path into building community. And so we would have these conversations on instant messenger about how much we love the show with say Frank, or how much we loved Lonely Girl 15 and how interesting it was and how new and different and thrilling it felt.
+
+3 (25m 54s):
+And then one day those conversations just transitioned to us saying, well we could do that. Why don't we try something like that.
+
+0 (26m 3s):
+I mean, what was it about those videos? Because this is, I mean this stuff on YouTube in 2006, 2007 was like, you look at it now and it's, it seems weird or you know, like there was a, this like redhead guy who used to scream
+
+6 (26m 17s):
+Guys. Oh and I wonder why he thought my voice was weird. Whatever.
+
+0 (26m 26s):
+What was his name? Kids used to watch him, what was his name? The screaming redhead kid. Redhead
+
+3 (26m 31s):
+Guy used to scream.
+
+4 (26m 32s):
+Are you talking about Fred? Fred
+
+3 (26m 34s):
+Fred's talking about
+
+0 (26m 35s):
+Fred's
+
+3 (26m 35s):
+Fred. Fred. That's amazing. Fred. Yeah. Oh God, what a great, please leave that in. Please describe Fred as the redhead guy who used to scream. I
+
+4 (26m 42s):
+Don't think he has, has red hair, but
+
+3 (26m 44s):
+Okay.
+
+0 (26m 45s):
+I'm sorry Fred. I don't,
+
+3 (26m 46s):
+Yeah, he doesn't have red hair but heck, it's incredible that Hick still got there even though he doesn't have red hair.
+
+0 (26m 53s):
+I don't know. I'm sorry, Fred. Yeah, but the screaming guy. So, so it was like, what was on YouTube at the time was, what was it about those videos that appealed to you before you guys decided to make your own?
+
+4 (27m 6s):
+So I, I have, at that point I'd already had a, like a number of weirdly successful internet projects. Right. You know, starting in high school when I had like a Mars website that got way too much attention for of someone who knew nothing and had read two books.
+
+3 (27m 21s):
+He had like one of the first websites about Mars in the nineties, the early nineties.
+
+4 (27m 27s):
+Yeah. It was just sort of like, here's information,
+
+0 (27m 30s):
+But this is not, this is not like a money making venture. This is just something you did.
+
+4 (27m 34s):
+No, I don't think I made any money off of that. But then in the transition between college and grad school, I started a blog about how bad I four was interstate four and I, I like spray painted signs and put them on the side of the interstate in Orlando that like connects Orlando and Tampa. It's like the main interstate in Orlando and it's very bad and everyone hates it. And so I started a kind of a transportation policy blog and I did make money with that.
+
+3 (27m 59s):
+I remember you made like $200. Yeah, I was selling an ad, just one ad and I was like $200 for a website
+
+0 (28m 8s):
+And website ad.
+
+4 (28m 9s):
+Yeah. And like the news came over, the local news came to interview me in the house.
+
+3 (28m 13s):
+Oh. It
+
+0 (28m 13s):
+Was epic. Wow.
+
+4 (28m 14s):
+And so like the internet just seemed to have all of this energy, like you could do anything and people would notice and YouTube was very much that way where there it was very experimental and the thing that was driving people forward was impressing their peers and connecting with people and having a good time.
+
+0 (28m 33s):
+Alright, so January, 2007 you guys decide, I guess John, this is your idea, but you guys decide to make like a YouTube diary to each other. Like you would send a video to your brother, your brother would send a video to you. But of course it's on YouTube so it's public and this is what would become vlog brothers. And John, when you proposed this idea to your brother, what did you, how'd you describe it? Did you say, Hey, I'm gonna write you a letter or I'm just gonna send you a funny video or I'm just gonna, but we have to go back and forth. How is it gonna work?
+
+3 (29m 3s):
+I think I said what if we made videos back and forth to each other every weekday for a year instead of instant messaging.
+
+0 (29m 11s):
+Every weekday. Every single day.
+
+3 (29m 14s):
+Yep. One of us made the video on Monday and then Hank would reply on Tuesday and I would make a video on Wednesday all through the year.
+
+0 (29m 21s):
+It's a lot of work.
+
+3 (29m 23s):
+At the time I didn't know how much work it was because I had never owned a video camera.
+
+4 (29m 30s):
+We did not know what we were signing up for. For sure.
+
+3 (29m 33s):
+I remember calling Hank on Christmas Eve and being at, at the camera store and being like, which of these do I get? There's a bunch of them. Yeah.
+
+4 (29m 40s):
+So we got the same, same camera so we could help each other work through our various technical difficulties.
+
+0 (29m 45s):
+And this was when, and you had to use like a camcorder, right? Yeah. And connect it to your computer and through a peripheral.
+
+3 (29m 51s):
+And it was on tape.
+
+0 (29m 52s):
+It was on tape. Right. And then you had to like upload it and Yeah. But what were the videos? Like? What did you say John? And you described them to Hank. You said, I'm gonna make a video. Of what? Like my a day of my life? No, like a letter
+
+4 (30m 7s):
+Like guy. There was no idea. There was no idea.
+
+3 (30m 10s):
+I did not get that far.
+
+4 (30m 12s):
+The idea was if you don't make a video you will be punished. That was
+
+0 (30m 17s):
+It. Okay. That was the, that was a deal. Yeah,
+
+3 (30m 19s):
+That was it.
+
+4 (30m 19s):
+So like whatever you can come up with. Yeah. And then it was just like two brothers trying to impress and one up each other for 15 years.
+
+0 (30m 27s):
+The channel that you guys created was called Vlog Brothers. Yeah. Right. I think the first video was,
+
+3 (30m 33s):
+The first video was sort of Hank laying out the rules. Is that right Hank?
+
+4 (30m 37s):
+Yeah. Yeah, exactly.
+
+3 (30m 38s):
+And you were like at a New Year's Eve party. Yes. It was a pretty cool video actually.
+
+4 (30m 42s):
+Yeah. It, it had B-roll.
+
+8 (30m 44s):
+Hello John. By now you have received my message that we will no longer be communicating through any textual means. Only video plugging. Does that make us crazy? Probably.
+
+0 (30m 56s):
+This wasn't just talking to the camera and just uploading it.
+
+3 (30m 59s):
+No. Although we had a lot of videos that were talking at the camera and not uploading. Yeah. Yeah. And our, almost immediately we were conscious of the community too. And so almost immediately I wasn't just making it for Hank, even though I was making it to Hank, I became aware of the fact that it wasn't only for Hank.
+
+0 (31m 19s):
+Right. But it was a small group of people. Initially it was like a few hundred people.
+
+4 (31m 23s):
+Yeah. I have no idea how anyone even ever found us.
+
+0 (31m 26s):
+Probably a lot of your friends or relatives or just people you told about like, Hey, we're doing this thing. Yeah,
+
+4 (31m 31s):
+I remember posting around and like the Z Frank forums and then I think John must have told some librarians about us cuz we had a other librarians early on.
+
+3 (31m 41s):
+Oh, thank God for those early librarians. They did such a good job of modeling community for us. So yeah, that was huge. Neil Gaiman, the author, mentioned us on his blog a couple months into the project that that brought in a 50 or a hundred people. What
+
+0 (31m 57s):
+Would you talk about? I mean you, you mentioned a couple of examples, but you had to come up with something every day. And I know there's a famous one that kind of, this was the one that kind of really helped to take off, which was a Harry Potter song.
+
+3 (32m 9s):
+Hank wrote it.
+
+0 (32m 10s):
+Hank wrote,
+
+3 (32m 10s):
+Okay, God knows I didn't sing it cause
+
+9 (32m 13s):
+I need Harry Potter. Like Grandi Low Needs Water, Anna Saturday approaches. Whoa. Axio deathly house and book sales and Barbers. It'll be like Phoenix Tears on a broken nose. Axio
+
+4 (32m 31s):
+Back then the front page of YouTube was curated by a human. And I wrote that song when that final Harry Potter book came out. And so it was actually now a tried and true tactic of getting views on YouTube is to make content around whatever is in the zeitgeist. And so they picked out my video to feature on that day and that brought in the Harry Potter fans.
+
+0 (32m 54s):
+Yeah. And it's very charming and lovely and it's funny, but like there was no purpose to it other than just to amuse yourself. Like you wasn't, this is gonna become a business one day.
+
+3 (33m 6s):
+No, no. I think we were very fortunate to have jobs is what I would say about that.
+
+4 (33m 12s):
+Yeah. Yeah. I did not think of it as a business then, but I thought of it as important. Like there was no piece of my mind that didn't think that this was going to be a big, big, big deal. Right. And that it was gonna be really cool to have been involved in the beginning of it.
+
+0 (33m 28s):
+You knew that already in 2007. I've, I've seen you, you were quoted around that time basically saying, you know, it's like early television. There might be like the, I love Lucy creators making a YouTube channel right now. And in 20 years, this is in 2007, you're thinking this So 2027, you're right. I mean, we're gonna look back and say, wow. Yeah. I mean that was amazing. But you already felt that early on.
+
+4 (33m 54s):
+I felt it for, I think two reasons. One is that my big brother thought it was a big deal. And so whatever John thinks is a big deal, even today, I'm like, he's right. I don't have to think about that. Hmm. The other thing was that, you know, I watched Cable happen and then this was gonna be so much bigger than that. So much more ability for the barriers to be very, very low and the gatekeepers to just not exist anymore. Yeah.
+
+3 (34m 20s):
+My feeling when I was watching YouTube in 2006 watching early online video projects was this isn't something that was made for me. This is something that is being made with me. It is aware of me. It is responding to my presence and to the presence of the audience in really interesting, innovative ways. Yeah. I didn't, as is often the case in Hank and I's relationship, Hank sees the future coming and I am astonished by it. I thought we were doing a project for a year that was really fun and it was gonna help us be closer to each other.
+
+4 (34m 51s):
+Whereas I was like looking at my camcorder and thinking this will be in a museum someday. Like I was over the line. This isn't like tv. This is like the printing press.
+
+3 (35m 4s):
+You did say that. I remember you saying that to me.
+
+0 (35m 8s):
+When we come back in just a moment. How a failed deal creates an opportunity for Hank and John to turn their growing YouTube channel into a real business. Stay with us. I'm Guy Raz and you're listening to How I Built This.
+
+Justworks (35m 33s):
+Hey, small business leaders at How I built this. We hear about how founders have built their companies from the ground up. Today's sponsor, Justworks is all about supporting your small business growth. Are you looking for an easier way to onboard and manage remote employees? Justworks has you covered. Justworks makes it easier for you to start, run and grow a business. Let me tell you how Justworks can help your business. Great people are at the heart of every business. And Justworks can help you attract and retain top talent in a competitive market. Their platform gives you access to high quality benefits, usually only available to large corporations. Justworks makes it simple to hire and manage remote employees across all 50 states. It has a cloud-based platform that enables managers and employees alike to quickly and securely access benefits, payroll and other HR functionality from anywhere, anytime. In fact, we here at Built To Productions, we use Justworks. Take a look at Justworks transparent pricing by visiting justworks.com/pricing. That's justworks.com/pricing for details.
+
+HelloFresh (36m 42s):
+Looking for an easy way to eat well and save money this year. Cut back on expensive takeout and delivery and get started with HelloFresh. You'll love how fast, easy, and affordable it is to whip up a restaurant quality meal right in your own kitchen. With HelloFresh, eating well in the new year can be stress free and delicious. With over 35 weekly recipes, they have the options you're looking for to help you achieve your goals. HelloFresh offers calorie smart and carb smart recipes and you can customize select meals by swapping proteins or sides upgrading your proteins or adding protein to a veggie dish. Go to hellofresh.com/built 21 and use code built 21 for 21 free meals plus free shipping. That's hellofresh.com/built 21 promo code built 21 for 21 free meals plus free shipping. HelloFresh America's number one meal kit.
+
+0 (37m 53s):
+Hey, welcome back to how I built this. I'm Guy Raz, so it's 2007, 2008 and John and Hank have started a YouTube channel called Vlog Brothers. And at this point it's just a fun thing they're doing on the side. But that is about to change pretty soon. At what point into this project where either of you thinking, you know, we have a business here, we have some kind of business idea here cuz they have to imagine the first year. You know, I dunno if YouTube was monetized, I don't know how it worked at that point, but was was it making any money for you? Was it generating any revenue for bands?
+
+4 (38m 29s):
+Yeah, I think that we got into the partner program right at the end of the first year, but it was $50 a month or something. Right. And that year I very nearly sold my blog for what would've been, you know,
+
+3 (38m 44s):
+Life changing money.
+
+4 (38m 46s):
+Yeah.
+
+0 (38m 46s):
+This was the blog that called, it was called Eco Geek
+
+4 (38m 48s):
+Yeah. For like low six figures, but it would've come along with a job that I very much wanted.
+
+0 (38m 53s):
+Can you tell me who was, who was gonna buy it?
+
+4 (38m 55s):
+I think I probably can. It was Scientific American and Wow. Yeah. I mean it was, honestly, for me it was more that I was gonna get to be a writer for Scientific American, which was a, a dream for me.
+
+0 (39m 4s):
+So you get a six figure payout. Yeah. And a job at Scientific American, they'd own the blog.
+
+4 (39m 9s):
+Yeah. And that not happening because of the financial crisis is the thing.
+
+0 (39m 15s):
+Oh. They pulled out and
+
+4 (39m 16s):
+That made like the whole rest of all of this happen, I think to some extent.
+
+0 (39m 20s):
+Wow. Right. So because the financial crisis Yeah. Basically you were close to maybe closing that, but then they came back and they're like, you know what? We can't do
+
+4 (39m 28s):
+It. Yeah. They basically, they had a, a freeze on all deals. And then that's kind of when I was like, oh, we should maybe think about the ways in which this could be a business. But at that point YouTube had started paying us enough, but that was very different from starting a business. So like, yeah, John and I making videos and getting paid ad revenue was very different from like, we wouldn't have ever had to hire anyone. We could have just kept doing
+
+0 (39m 56s):
+That. And the, the money you were paid by YouTube was probably what, a couple thousand bucks a month? Yeah.
+
+4 (40m 1s):
+It was getting up toward that.
+
+0 (40m 2s):
+Yeah. All right. So I mean, and by the way, how many at that time? 2008. Yeah. You know, when, when this deal with Scientific American fell through, how many subscribers did your YouTube channel have? Do you remember?
+
+3 (40m 14s):
+I mean, we, we'd made 200 videos before we had our 200th YouTube subscriber. Wow. And then by late 2008 we were at 70 or 80,000,
+
+4 (40m 25s):
+Which was, you know, one of the bigger channels on YouTube.
+
+0 (40m 29s):
+I'm curious about, about saying, cuz both of you guys are Gen Xers, late Gen Xers, and as you know, as I know, our generation is one that prized sarcasm irony. Mm. And you guys were an our earnest, you even kind of called your whole crew like nerd fighters and like that was your tribe, right? I mean, or did you guys just never get that, that part of being a Gen X or never, you know, make it into your
+
+4 (40m 57s):
+We were never terribly sarcastic young people.
+
+3 (41m 0s):
+Yeah. That was Hank That was such good sarcasm that I couldn't read it myself.
+
+0 (41m 4s):
+I see. Okay.
+
+3 (41m 5s):
+We were super snarky, both of us. Incredibly.
+
+4 (41m 9s):
+Yeah. Like I, I, I don't, I'm, I hope that the things I wrote and published will never see the light of day. Yeah. Because
+
+0 (41m 15s):
+Me too. I I hear you. Oh my God.
+
+4 (41m 17s):
+That's also, I was brought there by our audience. I don't think that people responded well to it.
+
+0 (41m 23s):
+Yeah. To the sarcasm and the snarkyness
+
+4 (41m 25s):
+Yeah. When we did stuff
+
+0 (41m 26s):
+Like that.
+
+4 (41m 26s):
+Yeah. And I also don't think I liked it. I didn't like how it made me feel to make content like that. Like I, I made a very popular video a few years into our project that was just like, things I hated about the world, which was kind of in that Gen X vein. It was just a, a bunch of rants very quickly. And it did really actually did quite well. But I went and I sort of looked at the comments and the kind of audience it attracted, and I also thought about how it made me feel to be thinking about my next rant video. Like if I was gonna make another one of those, I had to look at the world and find the things I didn't like about it. Yeah. And then I was like, ah, this is making me much less happy.
+
+3 (42m 6s):
+Well, this gets at something really important though, Hank, which is that optimizing for views and optimizing for revenue does not optimize for the health of one's community necessarily. Yeah. And we had to learn that the hard way several times.
+
+4 (42m 25s):
+I
+
+3 (42m 25s):
+Always used irony and cynicism as a form of armor, as a way of protecting myself against having to reckon earnestly with the world, which felt terrifying and felt like I was gonna be devoured by the world if I ever like exposed my soft belly to it. And it was only in seeing Hank's work and the way that people responded to it generously that I started to realize that actually, even though it's scary, you have to try to be earnest. Like earnestness is the most underrated thing in contemporary experience, I think.
+
+0 (43m 1s):
+Yeah. In meantime, John, I mean, you were in, I mean like 2005, six and then eight, you cranked out three books between novels Yeah. In that time. And so you are basically spending a percentage of your time making these videos and a percentage of your time writing the book Paper towns.
+
+3 (43m 22s):
+Right.
+
+0 (43m 23s):
+Well, I'm curious, when Paper towns came out, we're gonna talk about the fault in our stars in in a moment. But when Paper Towns came out, was there any impact on book sales? Was it different? Yes, it was different than the previous two
+
+3 (43m 35s):
+Books. I think that Paper town sold about 50,000 copies in its first year.
+
+0 (43m 40s):
+Wow. And how much of that was connected to what you guys were doing on YouTube?
+
+3 (43m 44s):
+I think a lot of it was connected to what we were doing on YouTube. Wow. Like, I remember feeling kind of guilty because Hank didn't have something like that. You know, like, yeah, I'd gotten this really significant payday and it felt kind of like, at least it was partly because of Vlog Brothers and there was no equivalent for Hank.
+
+4 (44m 6s):
+And then I, over the course of years capitalized on that guilt in every way possible. No, it, it didn't even, honestly, it didn't occur to me. Yeah. Yeah. We've had a very lucky brotherhood in that jealousy hasn't really played much of a
+
+0 (44m 21s):
+Part. It's kind of how you built your personal and professional relationship also, which Yeah. Maybe by design or by luck that happened. So when Paper Towns came out, John, you had Vlog Brothers, so you had an audience of 80,000 subscribers. Right. And so all of a sudden you have this your own direct channel. You don't have to beg, I mean, of course you still, you want to go on Fresh Air, you want to go on to today's show, you want to go on? But
+
+3 (44m 47s):
+I didn't Huh? I didn't get on any of those shows.
+
+0 (44m 50s):
+But you didn't have to because you had your own marketing cha you had your own channel, right? Essentially.
+
+3 (44m 56s):
+Yeah, that is exactly right. And I don't think I totally realized that until Paper Towns came out.
+
+0 (45m 3s):
+Alright. So we have this deal fall through for your blog. Hank Paper Towns comes out. I mean, I know the, the timeline is, is
+
+3 (45m 11s):
+It's actually almost, it was almost the same week.
+
+0 (45m 13s):
+Oh wow. Okay. And now you're kind of leaning into the YouTube thing and, and tell me a little bit about what that meant in 2008, like leaning into a YouTube business. Because if YouTube was paying you a couple thousand bucks a month, that's great, but it might not be enough to build a sustainable business. So what, correct me if I'm wrong, but like Hank, you kind of drove this business thinking, and John, you were interested in it, but it wasn't really, that wasn't how you thought about things initially.
+
+3 (45m 44s):
+Yeah, definitely. I mean, I don't have a, I don't, I don't have a spreadsheet bone in my body.
+
+4 (45m 50s):
+I've got a bunch now.
+
+0 (45m 52s):
+Hank is more naturally entrepreneurial than you, John. Yeah.
+
+3 (45m 54s):
+Oh, for sure. Yeah. Even when we were kids, Hank was naturally entrepreneurial. I was, and I was very focused on aligning myself with powerful institutions that could provide me with stability and health insurance. Right.
+
+4 (46m 8s):
+Yeah. The, so the, the first thing that looked like was starting a merchandise company with my friend Alan Luka, who was also a YouTuber.
+
+0 (46m 17s):
+This is the company called df, T B A, which stands for Don't
+
+4 (46m 21s):
+Forget to be Awesome. Right. So we, I had burned CDs and sold them at Harry Potter conventions and I was like, people are buying these. Like, I can't make enough of them.
+
+0 (46m 31s):
+CDs Of your song? Yeah.
+
+4 (46m 32s):
+Of my music.
+
+0 (46m 33s):
+Oh, you would burn your, oh, and what are the music was on there?
+
+4 (46m 35s):
+Oh, I just made a lot of like, nerdy, like sometimes it was about science. Sometimes what
+
+3 (46m 39s):
+You're so under, I, I don't mean to cut you off man, but that is such an underplay of how awesome your music was in 2008. Like Hank wrote this song about corks cork. I still sing to myself whenever I have to think about what the different types of corks
+
+4 (46m 56s):
+Are, which happens all the time in a person's natural everyday life.
+
+3 (46m 59s):
+It happens regularly. I know what they are. I can still sing the song up down, strange Charm, top
+
+11 (47m 5s):
+Bottom, don't Matter Know exists.
+
+4 (47m 14s):
+Yeah. So, so I had, I had sold some CDs and, and there were a bunch of YouTube musicians who I knew who were much better and bigger deals than me. And I was like, what? Why aren't we doing this? There are people who can make CDs and so we'll take care of the hard parts for you, me and Alan. Yeah. And we'll sell shirts and posters and CDs and we were really a record label for YouTubers in the beginning, but very much without any knowledge of what record labels actually
+
+0 (47m 38s):
+Did. Yeah. Right. Yeah.
+
+4 (47m 40s):
+Yeah.
+
+0 (47m 41s):
+So you would basically say, Hey, if you're a YouTuber and you wanna record music, we'll distribute it. We'll handle the business. Actually you Yeah. That was the idea. And
+
+4 (47m 48s):
+You'll get so much more of every sale because Yeah. The idea here is you're doing the marketing, you're producing the music, all we're doing is paying for the CD to get made and, and shipping it out and handling customer support.
+
+0 (48m 1s):
+Right. And so it started out as a label and eventually morphed into what it is today, which is basically a, a shop, a merchandising shop for Yeah. YouTube creators. Anybody really who wants to sell t-shirts or products bags.
+
+4 (48m 15s):
+Yeah. We work with podcasters and, and YouTubers mostly.
+
+0 (48m 20s):
+And I mean, was it sustainable? Did it, did it make money right away? Yeah.
+
+4 (48m 24s):
+Oh yeah. I mean we've never taken on substantial investment for any of our things. The, everything that we do has been profitable from the beginning. It's grown with its own, I guess you call it bootstrapped where Yeah. You, you take the profit and use that to grow the company rather than trying to attract in investment blitz,
+
+0 (48m 45s):
+Scale it with a bunch of money. Yeah.
+
+4 (48m 47s):
+We go slow, we go easy, you know, we're not trying to make the biggest things ever, we're just trying to solve problems for
+
+0 (48m 53s):
+People. Yeah. Alright. So this is the beginning of where this interview becomes really, really like a crazy rollercoaster ride on speed and other amphetamines because the number of businesses and things that you guys will do from this point forward is mind boggling. So we're, I'm gonna try to get to most of them, but I'm just warning listeners that there's a lot coming now.
+
+4 (49m 18s):
+I'm not great at focus.
+
+3 (49m 20s):
+Oh man. You give Hank Green five minutes and he gives you a limited liability corporation.
+
+0 (49m 26s):
+I mean you probably annoy the limited liability corporation like registration office cuz you're in there all the time. They're like, oh God, here he is again. But this, but you've got this kind of growing community and you, you're tapped into this world of people who are clearly engaged, which leads you to the next venture that you found, which is called VidCon. Hmm. This is a conference kind of around around YouTubers. Tell me how you came up with that idea.
+
+4 (49m 53s):
+I love conventions and had been to a number of them, like anime conventions, nerd conventions, Harry Potter things. And I ha I had become friends because I was a performer at them with sort of a team of people who had created a Harry Potter convention. And I'd also been to Penny Arcade Expo pax, which was is is a video game convention that like combines enthusiasm for it and also the actual industry of video games. And I thought that that was a very good model because it allowed the industry to see the fans and the fans to see the industry. It let the fans go deeper because they could see how these things were being made. Yeah. And so I said, what if we could do YouTube convention and like some people who work at YouTube would be there and people who work at advertising industry would be there.
+
+4 (50m 43s):
+But like the core of it's gonna be that YouTubers and their audiences will be there. Hmm. And it was sort of like the economy was still getting its legs under it, so there weren't a lot of conventions happening. So it was easier and cheaper to start one than it is now.
+
+0 (50m 58s):
+And this was, I think you had the first one 2010 in Anaheim. I think they're all in Anaheim, right?
+
+4 (51m 4s):
+No, that was back in Century City.
+
+0 (51m 5s):
+Actually in Century said. Okay. Yeah. And you had 1200 people come out, but before you, we get there. Like, tell me like where did you even, how did you even it is a such a massive undertaking. How did you start it? Where did you go? Who did you ask? I mean, there's like this whole companies that, yeah. The businesses around these things that are massive.
+
+4 (51m 27s):
+I mean, the first thing that I had to do was reach out to a bunch of people who make YouTube videos. Yeah. And say, would you show up if we did it? We aren't gonna be able to pay you, but we'll pay for your hotel rooms. We'll fly 80 California.
+
+0 (51m 41s):
+Which you didn't know whether you could, but
+
+4 (51m 43s):
+I did a budget, you
+
+3 (51m 45s):
+Know, you know, we had something against it.
+
+0 (51m 48s):
+You took a loan out?
+
+4 (51m 49s):
+No, we had to sign a piece of paper that said we will fill up this many hotel rooms in your hotel and if we do not do that, then we will go bankrupt.
+
+0 (51m 58s):
+Wow. Yeah. What hotel
+
+4 (51m 59s):
+Was it? Oh, the Hyatt region C Century Plaza, which probably has a different name now. Okay. But right across the street from c a a actually.
+
+0 (52m 7s):
+So what was the next step? Did you have to bring a staff on? Did you have to I mean,
+
+4 (52m 11s):
+Yeah, so we partnered with the company that produced this Harry Potter convention that I had done. Oh, I see. And so they, they did a lot of that. I did all of the guest management. You know, it was to the point where like the night before the event I was like, we need a sign at the bottom of the escalator telling people which way to go. And I was at Kinko's and like, you know, really just making it happen one way or another.
+
+3 (52m 33s):
+Hmm. Yeah. I mean we were on the phone with YouTube telling them what sponsorship number we thought made sense
+
+4 (52m 39s):
+And, and they were telling us, no, we will not sponsor this janky convention.
+
+0 (52m 44s):
+Wow. They wouldn't even sponsor the first
+
+3 (52m 46s):
+One, not the first year.
+
+4 (52m 47s):
+I remember the actual difference between making money and not making money that first year was that I said, on a Vlog Brothers video, if anybody knows anybody who would like to sponsor an online video convention, please email me. And the daughter of an executive at Cisco was like, here's my dad maybe. And they came in for $20,000 and that was it. That was the thing that pushed us over the line.
+
+0 (53m 11s):
+Like Cisco, the networking company. Yeah.
+
+4 (53m 14s):
+Cuz I think at that point they owned flip cameras, which was a thing. Yeah.
+
+0 (53m 18s):
+Wow. But even so like how much did it cost by the way to go? Oh
+
+4 (53m 23s):
+Gosh. $60 maybe. I don't remember.
+
+0 (53m 25s):
+$60. And then you had, you just had to pay it for your hotel. But yeah, that's, I mean, how did you cover your costs?
+
+4 (53m 31s):
+Well that's, that's how we did it. $60 at a time.
+
+3 (53m 34s):
+Barely. But I remember there were a lot of YouTubers there who, who weren't there as like guests of the conference. Yeah. But were just there. Oh yeah. Yeah. Like I remember Tyler Oakley was there, but as an attendee, not as a, not as a YouTuber.
+
+4 (53m 50s):
+Hmm. That's the VidCon story. You graduate from being an a paying attendee to being a featured creator. Yeah. It happens every year.
+
+0 (53m 56s):
+Yeah. And how did it go?
+
+4 (53m 58s):
+Oh, it was so good.
+
+3 (53m 59s):
+Awesome. Like,
+
+4 (54m 1s):
+To go from seeing the numbers on the screen to seeing the faces in the audience is really important. And it was also really important, I think, for the industry to realize that it was an industry to get together and to know that this thing matters. And also is like, at the beginning,
+
+3 (54m 19s):
+Yeah. It was really important to us to have it across the street from c a a precisely because c a a did not represent any YouTubers.
+
+4 (54m 27s):
+Well that's a great story. But I think that we took the cheapest hotel.
+
+0 (54m 34s):
+I, you know, I'm curious because in a previous era right, guys like you would not necessarily be able to break through the, through the gatekeepers. Right? I mean, both of you are very handsome and charismatic Oh wow. In all those things. But there was a maybe a certain look or a certain voice or a certain type of person that you know would be allowed on television.
+
+4 (54m 58s):
+Yeah. You know, we got into this without wanting to be in television. That was never a dream of either of ours. And so it wasn't like a stepping stone. It was, we were where we wanted to be.
+
+0 (55m 10s):
+Yeah. Alright. So VidCon, the first VidCon kind of, were you able to come out of that with some profit? I mean there are, the margins are the, on these things can be really thin.
+
+4 (55m 21s):
+Yeah. I think it was like $10,000 of profit.
+
+0 (55m 23s):
+So basically you broke even. Yeah. And at this point, 2010, 2011, would you describe your overall business, like your overall revenue as massive? Was it, was it sustainable? Like where were you kind of financially in life?
+
+3 (55m 39s):
+Median American household. Yeah. Right. Which was awesome. Yeah. I mean, that's all we needed.
+
+0 (55m 44s):
+And as you mentioned, John, you had moved by this point to right, Indianapolis?
+
+3 (55m 48s):
+Yeah, I moved to Indianapolis in 2007.
+
+0 (55m 50s):
+And you moved to Indianapolis cuz your wife got a job at the art museum there.
+
+3 (55m 54s):
+Exactly. Yeah. So from my perspective, as I told Sarah when she was applying for jobs, all basements are essentially identical. And so it doesn't really matter to me where, where I'm writing.
+
+0 (56m 4s):
+Yeah. And Hank you were still in Montana, still are there now.
+
+4 (56m 8s):
+Yeah.
+
+0 (56m 9s):
+And at this point, really, I think 2011 is another turning point, which is when you, you worked with YouTube to launch what would become crash course and, and any middle school and high school kid knows, and even adults, no crash course. But really like, did you John see the video work and the YouTube work as like what you did? Or did you still see yourself as a novelist?
+
+3 (56m 36s):
+I saw myself primarily as a novelist because that was how I made a living. Yeah. But the biggest thing is that Hank and I had always wanted to make educational videos. Hmm. And we would talk about it all the time. We would have these hours long conversations where we would discuss different paths toward achieving this dream of being able to make educational video with the team that had really good animation and was fact checked and all that stuff that we just weren't in a place to be able to do from our, our basements.
+
+0 (57m 6s):
+So when you kind of launched Crash course, and this, I guess there was some funding from YouTube, the idea that you guys had was we're gonna make videos about a variety of topics that would essentially be like free, free school that would get kids or people excited about science or history or what was sort of the idea behind it?
+
+3 (57m 27s):
+We wanted to make learning fun. We wanted to make it feel the way that it feels for us in adulthood, which is thrilling. It's so exciting to be able to better understand the universe and our place in it that's so wondrous and funny. And so our, our initial idea was really we want to take the best of YouTube culture and the best of educational approaches to content and bring them together.
+
+4 (57m 57s):
+Because one of the things that YouTubers are extremely good at is holding onto people's attention in an environment where there are many demands for your attention. And it is increasingly the challenge, I guess that school teachers face.
+
+0 (58m 10s):
+Yeah. And you, John John, you'd handled humanities. Hank you handled sort of the sciences. And in that, by the way, I'm just curious, can you talk about how much YouTube gave you to start that?
+
+3 (58m 22s):
+Yeah, I think they gave us $450,000.
+
+4 (58m 25s):
+Yep, that is right.
+
+0 (58m 26s):
+But you would own the ip. They would not own
+
+3 (58m 29s):
+It. Right, exactly. So it was sort of an advance against advertising royalty. So they recouped via advertising revenue, but we got to own the ip.
+
+0 (58m 39s):
+And here now with four 50,000 from YouTube, what did that mean? Like, did that mean you could hire, you could hire a team of people around you to help you? Yes. Because was it just the two of you up until that point?
+
+4 (58m 53s):
+Yeah, we had just hired our first people, executive assistants slash operations people right before that money came in. Right.
+
+3 (59m 3s):
+And so what it meant for the humanity side of crash course was that Stan Mueller could come on full-time and be the producer and director and editor of that show. And also that we could hire animators and people who made the videos look really good.
+
+0 (59m 24s):
+All right. So 2012, obviously this is the first time a lot of, I should say older people, let's say parents hear the name John Green. Cuz all of a sudden this book comes out The Fault in Our Stars. And this one is different, very different from your previous books in that it doesn't sell 150 copies in the first week. It was the number one book on Amazon six months before it was published.
+
+3 (59m 49s):
+Yeah.
+
+0 (59m 49s):
+The first, I think the first run was 150,000 copies, I think to, I think it's sold worldwide more than 20 million copies, that book.
+
+3 (59m 56s):
+Yeah. Yeah.
+
+0 (59m 57s):
+It's crazy. By this point, by 2012, you know, you had probably what, 2 million subscribers on your YouTube channels
+
+3 (1h 0m 5s):
+Probably about,
+
+0 (1h 0m 6s):
+And people knew you John from the videos, but great books, it's so hard to break through, right? Oh yeah. How did this book become number one on Amazon six months before it was even published?
+
+3 (1h 0m 18s):
+Well, I think the short answer is that I don't know. And when I was writing the book, I did not think that it would be successful. I mean, I remember writing the book, I was at the Starbucks at 86th and Ditch is where I wrote most of it. Starbucks in Indianapolis. And I would come into the Starbucks and I would write for three or four hours and I would be crying. And then I would think to myself, I am really grateful to be writing this book, but I can't imagine that anyone is ever gonna wanna read it.
+
+0 (1h 0m 49s):
+About two teenagers in a cancer support group.
+
+3 (1h 0m 52s):
+Yeah. About, about kids living with really serious illness Yeah. And having to face mortality at a really young age.
+
+0 (1h 1m 1s):
+I wonder how you came up with such a complex world. Right. It's okay. It's two characters and they meet in this support group and they're both, you know, one's in remission, one's struggling with thyroid cancer. And when I think about your time as a chaplain working in a children's hospital and presumably that, you know, experience informed some of your knowledge, but like, where do they come from?
+
+3 (1h 1m 23s):
+I do think that my time at the hospital was extremely important to me. You know, learning from listening to young people living with cancer. I think the most important thing though, was my friendship with a young woman named Esther, who was a fan of our videos. Yeah. And Esther and I and her family and her, her friends, we were all quite close in the last six months or so of Esther's life. She died in 2010. And I'd written a lot of stuff said at a children's hospital over the 10 years since I I worked there. But after Esther died, I started to rethink all of it.
+
+3 (1h 2m 3s):
+Hmm. You know, I, I wrote the book in this, you know, intense period of, of grief and anger I was trying to explore and for myself as, as much as anyone, the question of how can a short life be a full life, be a rich and good life because I, I did and do find it so hard to understand why Esther and so many young people like her aren't here with us.
+
+0 (1h 2m 34s):
+Yeah. You obviously had an audience and a lot of young people are on YouTube. Are on YouTube, I mean a lot of young adults. And so that book of course blew up. But what do you think it was about that book that just resonated in that way? I mean, you have to be, had to have been, and probably still are stunned that that 24 million copies of that book were sold.
+
+3 (1h 3m 1s):
+Yeah. I mean it's just, it's honestly, it sort of feels like it happened to somebody else. But when it became an Amazon bestseller months before it came out, that was for two reasons. One was that I announced that I was gonna sign the entire first printing of the book. So that was 150,000 copies. Yeah. And then the second reason was that I read the first two chapters in a live stream, like on a Vlog Brothers live stream. And the reaction to those first two chapters was very different from anything I had ever experienced before. Hmm. And so I, I did have a little bit of a clue after that that it was gonna be different. And the other clue I got that it was gonna be different was when Hank read the book and he called me after he finished and he said, I think your life is about to change.
+
+0 (1h 3m 51s):
+Why don't we come back in just a moment, how Hank and John balance time and money to keep growing the video business and why they don't ever want to charge money for their content. Stay with us. I'm Guy Ross and you're listening to How I Built This.
+
+Visible (1h 4m 12s):
+This episode is brought to you in part by Visible, visible offers their best rate all on one line, not four lines, not three, not even two. Just a one line wireless plan with unlimited data for $30 a month. Taxes and fees included, all powered by Verizon. Switch today@visible.com and get $20 off your first month when you use Code Built 20 that's built to zero. A special offer for how I built this. Listeners offer ends March 31st. New activation and offer code required for data management practices. Learn more@visible.com. Additional terms apply
+
+Burrow (1h 4m 48s):
+on how I built this. We like to feature brands that are doing things so differently. They're changing entire industries. And when it comes to Furniture, burrow is setting a whole new standard with their beautiful, durable, and easy to assemble designs. Burrow started when it's two founders who are in business school, wondering why there wasn't an easy way to get an affordable high quality sofa to your apartment without their ridiculous shipping fees. So they started Burrow. Burrow designs its furniture in its own in-house studio, using premium durable materials from stain and scratch resistant fabric to solid hardware frames, burrow, selects materials that will stand up to everyday life and every order, no matter how small or large, is delivered directly to your door for free. Burrow's new Union collection is their blushed, widest modular seating design to date. And it's a breeze to build no tools needed. Listeners can get 10% off their first order at burrow.com/built. That's Burrow B u r r o w.com/built for 10% off Burrow.com/hey,
+
+0 (1h 6m 0s):
+Welcome back to how I Built this. I'm Guy Raz, so it's 2012 and Hank and John Green have just launched a new educational video series called Crash Course in John's novel. The Fault in Our Stars is already shattering expectations, which is something he can't fully explain.
+
+3 (1h 6m 18s):
+I still don't understand it, to be honest with you. Mostly it was extremely surreal. Hmm. Hank went on tour with me for like five weeks and we were driving around the country and then I got home and I called my agent and I was like, when does this end? Hmm. And she was like, I don't, I don't know. It might be a while.
+
+0 (1h 6m 35s):
+And you were still making videos while you were touring?
+
+3 (1h 6m 38s):
+Oh yeah. Yeah. I never stop making videos. Like for us it is a way to have ideas. Even if I was only making the videos for Hank, I wouldn't want to give it up because I really like that practice of looking at the world that way.
+
+0 (1h 6m 53s):
+Yeah. I mean it's interesting because in almost every case on this show, the person or the people who make the business are making it because they love it or they have an idea and they, they want to keep doing it even after they've made lots of money because they love it. Right. And so like you also have this YouTube world that you're part of with your brother, which is a real thing. It's becoming at this point when the Fault in Our Stars is released, it's becoming a business a a real business which, which would be folded into a big production company called Complexly.
+
+3 (1h 7m 24s):
+Yeah. We were actually on tour for the Faulkner Stars when the first crash course World History video came out. And the way I thought about it was, it's great that this book is successful because now I don't have to write a book for a year or two and I can focus on crash course. Right. It turned out to be a little bit harder to focus on crash course than I expected it to be.
+
+0 (1h 7m 49s):
+Yeah. So there's this, this, this is where sort of the part of the interview where we really have to talk about compartmentalizing because you know, not just your personal and and emotional lives, but the professional lives, right. You've got really, the Fulton our Stars has created a whole world of people who are connected to it and you are at the center of that. And then there is this increasingly growing world of complexly, it becomes your business. And I don't, I, we don't have enough time to mention all the shows that Complexly produces. It's like crash course and size show and how many shows total is is under the complexly banner.
+
+4 (1h 8m 29s):
+Yeah, I think that it's probably around 20 something. These
+
+0 (1h 8m 33s):
+Are just the video shows, not the
+
+4 (1h 8m 34s):
+Podcasts. I probably counted the podcasts in there. Yeah,
+
+0 (1h 8m 37s):
+Okay. Yeah. But then you were also in four podcasts.
+
+4 (1h 8m 40s):
+Yeah, probably.
+
+0 (1h 8m 42s):
+Let me ask you about the business model, which is all content, it's all free content. This was basically was self-financed, right? You got the YouTube investment, but then over time it sounds like you built it up, you know, slowly, slowly. And now you've got a pretty sustainable business. But there are other companies that sell subscriptions to content that you offer for free. I'm sure over the last many years you had lots of maybe unsolicited advice with people saying, you gotta turn this into subscription. You have to have a a free model and a premium model. You've gotta charge people because you're not gonna make enough money from ads alone. But your model basically depends, I think primarily on advertising, right?
+
+4 (1h 9m 23s):
+Yes. That's definitely the biggest piece of the pie. And then the rest is crowdfunding and grants. So organizations that are like, Hey, you're making this and you're making it for free. Like, we'd like you to make an like a series on this particular topic. And we'd do that with their money. And then we also ask people to give us money so that we can do it. Definitely. If that money were not there, this would not be a sustainable business.
+
+0 (1h 9m 50s):
+But the thing that strikes me about Complexly is that it may not generate the kind of money. I mean if you look at like the top 20 or 30, the biggest YouTubers in terms of revenue, you guys are not on that list. Which there are YouTubers who are making tons of money off videos that are pranks or challenges of basically seven to 12 year old boys who are watching their videos and like crazy money like 50, $60 million a year. And you guys are making educational content that is not making that kind of money. But your stuff is evergreen. I mean, the value in what you're building is the content lives forever.
+
+0 (1h 10m 32s):
+It can be sold one day. Well
+
+4 (1h 10m 34s):
+There's, I mean there's, you know, we mostly think about that value through the lens of anybody who's in business. You gotta understand that like what your actual business is, is creation of value. Yeah. And that there's always a majority of that value that isn't being captured by you. It's being captured elsewhere. Like, I buy my iPhone because it delivers to me more value than it costs me. Right. And I think that that's how I think about the value that complexity provides, is that we want the value we deliver to be way more than the value that we capture. That's the goal. And that's not usually the goal. But you know, in order to do that, it's not about capturing less value, it's about creating more.
+
+0 (1h 11m 19s):
+But the reality is that, I mean I, we had Ken Burns on the show earlier this year, and he's sitting on an archive that he owns that might be worth three, $400 million. Right? I mean, there are artists who are selling their music archives for hundreds of millions of dollars. I mean, is there a world where you could imagine selling this, all this stuff one day to, you know, linda.com sold the LinkedIn, right? I mean, is there a world where you, where you would even consider that?
+
+4 (1h 11m 46s):
+So obviously I think that there's a lot of value that it creates, but I don't know that it's that valuable because you can't pay wallet, right? Because that's outside of the promise that has been made. All of the content is free. So it's creating the value, but you can't capture it in the same way. It's like an easement on a property. You know, if you can't turn it into a bunch of houses, the land is worth less. And like, I'm not saying like acquisition is off the table. I just don't think that it's as valuable as it would be if we hadn't made that promise. And I, but I just feel so like I think that that's the right promise to make.
+
+0 (1h 12m 19s):
+Yeah. Complexly has today between the two sort of main offices in Montana and Indianapolis got about 50 employees.
+
+4 (1h 12m 30s):
+Yeah. I think it's a little over 60 now. Yeah.
+
+0 (1h 12m 32s):
+But I mean, at least for you Hank, I mean you are also the CEO of this and we haven't even talked about the other companies that you will have founded. But how do you organize your time? How do you, how do you have time to do this podcast? I don't know.
+
+4 (1h 12m 46s):
+You know, it's definitely something that I could not do without a lot of support cuz I am like, my first job kind of remains being of Log Brother. Yeah. You know, I, I listen to your show and I hear a lot of people who are like, seem very on top of it. But I definitely feel like I am not and am always a little bit on a tightrope and maybe like that feeling a little too much and am very glad to have the support of people who don't want that feeling. And as much as I think that I've been really effective at helping complexity be a sustainable business, despite the fact that it's business model is a little nutty, you know, I have for the majority of my professional career, and this has changed a little bit, but I've really organized myself around sort of like what's succeeding just head in that direction, what's exciting head in that direction?
+
+4 (1h 13m 43s):
+What's causing you the most stress head in that direction? But I don't think that it's, I think that the company is now of a size and has been for a while where we've had to sort of change how we see that and be more strategic.
+
+0 (1h 13m 55s):
+I wonder what you think of where the creator economy has, has come to now when you see these YouTubers who are making tens of millions of dollars on challenges or playing video games, unboxing videos, opening toys, what do you think about that?
+
+3 (1h 14m 14s):
+The first thing I'd say is that there are some people who get paid tens of millions of dollars a year to play act like children. And we call them movie stars. And we don't think of the money that they get paid as being wild or weird because we have become accustomed to this world where if you're exceptionally good at playacting, you can make tens of millions of dollars doing it. And so if they're creating that much economic value and they're capturing some portion of it, that's not really for me to judge. I feel
+
+4 (1h 14m 45s):
+Like. And as far as, you know, the, the thing to remember about the people who are making 50 million, which I think is probably an a very edge case, if that's even a real number, I don't know if it is, is that the vast majority of people who are working really hard to make interesting content that entertains people or educates people or captures people it's attention are making less than, you know, $15 an hour or something. Yeah. We don't talk about that. It's not interesting. It's not front page news, but it's actually a, like a substantial part of the economy now. And I want more people to have the job that I have and love. And in order for that to happen, you have to have more money in the ecosystem. You have to have more robust advertising and, and crowdfunding and different tools for creators.
+
+4 (1h 15m 28s):
+And when that happens, it means that the big people are gonna get bigger. But it also means that the people who are making $20,000 a year are making 40,000 now. And that seems like a huge
+
+3 (1h 15m 38s):
+Win. That's a much bigger deal to us. Yeah. One of the million companies that Hank started that we haven't talked about is Solvable. A company that was eventually acquired by Patreon and
+
+0 (1h 15m 46s):
+That was a, there's a company that you started to help people subscribe to content that they liked and they could pay for it or not pay for it.
+
+3 (1h 15m 54s):
+Right. And the reason Hank started Subbable, and the reason that we've been really interested in businesses like that is because we, we know from experience and we've seen in the lives of the people we work with and the people we're friends with, that what really transforms the lives of people is not going from making $300,000 a year to 50 million a year. It's going from making $12,000 a year to 60 or $80,000 a year. Right. And so our interest is really in those tens of thousands of creators who will be on that journey if only we have better monetization tools.
+
+0 (1h 16m 36s):
+Let me ask you, I know I'm gonna sound like a complete horrible jerk to lots of people listening, but I hate the fact that most kids, a majority of kids my kids age say they wanna be YouTubers and they're not, they're not talking about being Hank and John Green YouTubers. They're talking about being famous. And I worry that we, that human species cannot sustain a world where everybody is famous. I mean, right now, who knows how many millions of TikTok ERs and Instagrammers and YouTubers have more than 500,000 subscribers? Tons. Tons. And I get your point about, you know, wanting to create an ecosystem that employs people and that's really great.
+
+0 (1h 17m 17s):
+But I, is there any part of you that is worried or sad that most kids, at least in the US today, wanna be YouTubers when they grow up?
+
+4 (1h 17m 26s):
+There's no part of me that's sad that most kids want to be YouTubers in the eighties. If you'd asked my classroom, we'd all want to be rock stars or basketball players. I'm not particularly concerned about kids who want to ha like have jobs that bring attention and status. I think that that's pretty typical. But I am concerned about whether those jobs actually provide value to the people who end up having
+
+0 (1h 17m 52s):
+Them.
+
+3 (1h 17m 52s):
+Yeah. We've been doing this for so long, we've seen a lot of young people get a lot of attention and build big audiences really quickly and then really struggle. Yeah. Yeah. And that is something that Hank and I are both deeply concerned about, that there are not a lot of systems for support. You know, it it, it's almost like a career as a professional athlete. It lasts a couple or three years and then you're 30 years old and you've only ever done one thing and you, it's hard to figure out what to do next.
+
+0 (1h 18m 29s):
+Yeah.
+
+4 (1h 18m 29s):
+But I also think it's important to recognize that we don't get to choose what teenagers want. And so deciding whether it's good or bad feels a little unnecessary.
+
+0 (1h 18m 40s):
+Yes. It feels like a jerk thing to say. Just say it.
+
+3 (1h 18m 43s):
+Well, I, it's a little, no, I don't think it's a jerk thing to say. It's more like if you're, you're standing outside and the wind is blowing in from the west and you're like, I really think the wind should be blowing in from the east. And the wind is like, I don't really care.
+
+0 (1h 18m 56s):
+Yeah. There's something about the way your business work I think is really important to point out, which is a significant, maybe the majority of the profit from all the different businesses doesn't go to Hank and John. It goes to pay the staffs and then to charity. So, but before I, we get there, I wanna understand the revenue stream. So there's Complexly, which of course is your sprawling media empire of shows. Subbable was acquired by Patreon and I know that is part of Patreon now VidCon eventually was acquired by Viacom. But you also have, you got a sock club,
+
+3 (1h 19m 35s):
+Don't laugh at the Sock club. It's by far the most successful thing we've ever done. It's
+
+0 (1h 19m 39s):
+True. So gimme a sense be between Complexly and all of the, like all the businesses that you guys oversee now, which is how, how many? Oh,
+
+4 (1h 19m 47s):
+It's really only
+
+3 (1h 19m 48s):
+Two. It's only two day to day. Okay.
+
+0 (1h 19m 50s):
+So some of them, some of 'em were spun off or sold or merged. And so between all the revenue that comes in every year, how much is it? What's your
+
+3 (1h 19m 60s):
+Estimate? 30.
+
+4 (1h 20m 1s):
+I don't know. It depends on how you count too. Do you have to be as a strange business? Because a lot of money is royalties. So
+
+3 (1h 20m 8s):
+Like we, so we never see it.
+
+4 (1h 20m 9s):
+We sell the product, but like the majority of the money from that product is going to the creator, not to us. Right. So you can say that Df t v a is a, I don't know, 25 million company, but a lot of that money is
+
+0 (1h 20m 22s):
+Going back.
+
+4 (1h 20m 23s):
+Right. And it, it's very narrow margin business as is complexly.
+
+0 (1h 20m 26s):
+How much roughly of whatever's left, goes to you guys?
+
+3 (1h 20m 30s):
+I think I make $27,000 a year.
+
+4 (1h 20m 33s):
+Yeah. John takes a very small salary. I I take a normal salary.
+
+3 (1h 20m 37s):
+Oh, I didn't know that.
+
+0 (1h 20m 39s):
+You didn't know that. No. But most of the income goes to different charities.
+
+3 (1h 20m 44s):
+Yes. Or to employees.
+
+0 (1h 20m 47s):
+You know, you guys are now in your forties and you're still young and you have, I I'm pretty sure like 40 more business. I mean I hate to use the term hamster wheel cuz it doesn't sound like, I mean I know you love what you do, but when you think about the next sort of 10, 20 years in 20 years, are you doing all this stuff still? Are you writing books? Are you, you know, making all these shows, making all this content, hosting these events, gathering people together and launching other businesses?
+
+4 (1h 21m 20s):
+I don't know. I don't think about it.
+
+3 (1h 21m 23s):
+He doesn't think about it. That is literally true. I think about it.
+
+0 (1h 21m 28s):
+Yeah.
+
+3 (1h 21m 29s):
+I think about it enough for both of us.
+
+4 (1h 21m 32s):
+That's, we are a good team.
+
+3 (1h 21m 33s):
+Sometimes I'll be like, Hey, yeah, how is Vogue Brothers gonna end? Have you thought about it? And he'll be like, no, not really.
+
+4 (1h 21m 40s):
+It's not gonna end this year.
+
+3 (1h 21m 41s):
+Right. So. Right.
+
+0 (1h 21m 42s):
+Maybe it doesn't have to end or maybe you won't know like, like the fault in our stars. You don't even know how it ends. Yeah.
+
+3 (1h 21m 47s):
+I think that is the truth, right? Like no matter how much I plan, I don't know how it's gonna end. The thing that I've come back to over the years because there have been a number of times where I thought I might be close to done. I'm pretty tired, I'm pretty burnout. I love working on the stuff that we work on and I love working with the people we work with. But I also want to be conscious of my limits. John Wesley once said to do all the good you can in all the ways you can, in all the places you can to all the people you can for as long as you can. And that was like my guiding concept about being alive was like, I'm not alive to be happy.
+
+3 (1h 22m 30s):
+I'm not alive, to be fulfilled. I'm alive to do as much good as I can, as fast as I can for as long as I can. And man, that is not a, that is not a sustainable strategy. It's not a good way to live a life. So I've had to rethink it in the last few years for sure. But it's hard to imagine wanting to stop.
+
+4 (1h 22m 50s):
+Yeah. I will say this for me, I don't see myself as the, I'm not the kind of CEO who's like, I am really the only person who could possibly do this job. Yeah. I could definitely imagine that there are a number of people who would be better at this than me. Yeah. And I would never wanna not be involved and I still love being involved in VidCon. You know, like I, I still love it when there are problems that they have to come to me with and I'm like, yeah, I know a lot about this and I can help. And I love to start things as well as to keep them going. And right now I really can't. I am functionally at the edge of what I can do and I can't do anything new and that's okay. But I would like to be able to someday For sure.
+
+3 (1h 23m 33s):
+Hank,
+
+4 (1h 23m 34s):
+What
+
+3 (1h 23m 35s):
+Are you treating this episode of how I built this, the way that you did that Vlog Brothers video before the first VidCon where you were like, Hey, does anybody have a kid who works for Cisco who wants to, are
+
+4 (1h 23m 48s):
+You, does anybody wanna lead a really fantastic educational media company that
+
+0 (1h 23m 53s):
+Sticks? I love it. You listen. It's another platform. You might as well use
+
+3 (1h 23m 56s):
+It. The listeners of this podcast are perfect for you. And so you're just Yeah. You're just throwing out the line and seeing if anybody's like my
+
+4 (1h 24m 3s):
+Email address.
+
+0 (1h 24m 5s):
+Yeah. We'll post it.
+
+3 (1h 24m 7s):
+I love
+
+4 (1h 24m 8s):
+It guy. You want a job?
+
+3 (1h 24m 9s):
+I agree. Oh yeah. God, do you want a job? I mean, I agree with Hank by the way, that neither of us deep down is made of CEO stuff.
+
+4 (1h 24m 18s):
+Yeah. Sometimes I listen to people on this podcast and I'm like, are you joking me? You seem really, really together.
+
+3 (1h 24m 24s):
+Oh God, they're so together. They wake up so early.
+
+0 (1h 24m 28s):
+When you guys think about all that's happened to you, cuz you are, you've really had a huge impact, you know, a cultural impact. But when you think about all that you built and all these teams and this content and where you are now, how much of of this do you attribute to how hard you work? And how much do you think has to do with just being lucky being at the right place at the right time?
+
+3 (1h 24m 49s):
+We've been waiting for this question.
+
+4 (1h 24m 52s):
+I've listened to the podcast
+
+3 (1h 24m 53s):
+Guy. We talked about it for like 45 minutes yesterday. And my feeling is that it's, it's so a hundred percent luck that it's impossible to even explain how a hundred percent luck it is. But within luck, we have to remember the way that, that luck is not like Rolling Dice. It's a series of structures and power systems that make paths easier for certain people. Hmm.
+
+4 (1h 25m 25s):
+Yeah. I, I think all the time about how, while I was in grad school, I was diagnosed with ulcerative colitis and initially had a very inexpensive medication. Hmm. But by the time we started making vlog brothers, I needed to get on a new medication that was 500, $600 a month. And I was able to just do that because I had support for my family. I was able to just like pay another rent to my colon so that I could keep making vo where there's videos. And that was just, that's just not an opportunity for a lot of people. So like even those little things, those little pieces of luck, it's so hard to see them sometimes.
+
+4 (1h 26m 5s):
+Yeah. Like I can't even attribute it to skill because I'm not even that strategic. I just sort of go towards what's working.
+
+3 (1h 26m 12s):
+Yeah. That was, I thought that was a really interesting answer Hank, because like there have been a few moments in our career where we didn't like fly blindly toward the light, like moths at night for reasons we didn't understand. Like there have been a few tactical decisions just like three or four. Yeah. But 99% of the time we've been flying to the light. And then you like go on an interview show and people are like, Hey, how'd you get so successful? And you're like, oh, I flew to the light. And all the other mobs are like, Hey, I was also flying toward the light. Yeah. It seems like maybe there was a lot of luck involved in you ending up on the moon.
+
+0 (1h 26m 45s):
+That's Hank and John Green vlog brothers, authors and co-founders of complexity. By the way, if in like 500 years from now, right, aliens come to our planet and start digging around, they come across a time capsule with one viral video that could explain the whole thing. Like explain everything about YouTube. What, what would you guys put in that time capsule?
+
+3 (1h 27m 8s):
+My answer is Mark Rover's video where he invented a really beautiful and complicated obstacle course for squirrels.
+
+4 (1h 27m 19s):
+Wow.
+
+3 (1h 27m 21s):
+What's your pick, Hank? Is it like Charlie Bit my finger? Rick
+
+4 (1h 27m 24s):
+Roll? No, I was, I was thinking about the doodling in math class series that Vy Heart did like 10 years ago. I was just thinking about
+
+3 (1h 27m 30s):
+Vy Heart. Hmm. Yeah. She made this series where, you know, she explores pie and spirals and hexagons in really lovely and unconventional ways that I think the aliens would dig.
+
+0 (1h 27m 43s):
+You guys are going all up Market. I was I, I'm going for Fred Learns How to Swim. Hey, thanks so much for listening to the show this week. If you love our show and wanna show your support, please help us spread the word, tell a friend about how I built this or send out a message on social media. If you wanna contact our team, our email addresses, H ibt, id.wondery.com. If you wanna follow us on Twitter, our account is at How I Built This and mine is at Guy Raz and on Instagram. We're at How I Built This and I'm at Guide dot Roz. This episode was produced by Alex Chung with music composed by Alu. It was edited by Neva Grant with research help from Katherine Cipher and technical assistance from Neil Talt.
+
+0 (1h 28m 29s):
+Our production staff also includes Casey Herman, JC Howard, Sam Paulson, Liz Metzger, Carrie Thompson, Elaine Coates, John Isabella, Chris Masini, and Carla Estevez. Our intern is Susanna Brown. I'm Guy Raz and you've been listening to How I Built This. Hey, prime members, you can listen to how I built this early and add free on Amazon Music. Download the Amazon Music app today, or you can listen early and add free with Wondery Plus in Apple Podcasts.
+
+0 (1h 29m 9s):
+If you wanna show your support for our show, be sure to get your How I Built this merch and gear@wonderyshop.com. Before you go, tell us about yourself by completing a short survey at wondery.com/survey.
+
+Amazon (Suspect S2 Feed Drop) (1h 29m 25s):
+A few days before Christmas, Janelle Matthews disappeared from her home. There were no signs of a struggle, no eyewitnesses, no DNA recovered. But what if the answer had always been there? What if a true crime fanatic had been talking about the case was more than just an obsessive fan? The groundbreaking True Crime podcast suspect is back with a new story that attempts to separate fact from fiction and one man's true crime obsession from emotive for murder. He says, don't with me, officer Edgerton. I've buried more people than you'll know. He's providing information that hadn't even been released to the news yet. At least it's a good liar that he can convince the juror that he wasn't involved. Follow suspect wherever you get your podcasts. Hey Prime members. You can binge the entire series ad free on Amazon Music. Download the Amazon Music app today.

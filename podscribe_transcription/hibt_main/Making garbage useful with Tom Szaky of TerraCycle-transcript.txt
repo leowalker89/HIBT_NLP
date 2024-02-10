@@ -1,0 +1,407 @@
+1 (1s):
+This is my voice. It can tell you a lot about me, and I'm not changing it for anyone in NPRs, Black, Stories, Black Truths, you'll find a collection of NPR episodes centered on the black experience. Search, N, P R Black Stories Black Truths Wherever. you get podcasts.
+
+Airbnb (23s):
+Maybe you stayed in an Airbnb before and thought to yourself, this actually seems pretty doable. Maybe my place could be an Airbnb. It could be as simple as starting with a spare room or your whole place when you're away. You could be sitting on an Airbnb and not even know it. Maybe your kid is heading off to college in the fall and you'll have an empty bedroom. You could Airbnb it and make some extra cash while they're away. Or, if you have a vacation plan for this summer, that could be a good time to Airbnb your entire place. Whether you could use a little extra money to cover some bills or for something a little more fun, your home or spare room might be worth more than you think. Find out how much at Airbnb dot ca slash Host
+
+ZEN Insurance (1m 7s):
+Running. a new business can be stressful. And. the last thing you need is to worry about unexpected accidents or lawsuits. So. if you are an entrepreneur or startup owner, don't overlook the importance of liability insurance. It's a critical investment in the success and longevity of your business. Protect yourself, your assets and your reputation by securing the liability coverage for your specific needs. With a customized liability insurance policy. you can face challenges with confidence knowing that you have a safety net in place. Take the first step in safeguarding your business today. Go to zen insurance.com/save 35 for a free business insurance quote, get the low cost insurance protection you need from Canada's small business insurance experts.
+
+0 (1m 59s):
+Amazon five star reviews presents. Works better than Bo. Today's customer review is from Ricoh. Ricoh writes, I purchased this crafting with cat hair book on Amazon as I was tired of people sitting too near me on public transportation. The book worked like a charm. Five stars, Ricoh, my friend. Those are some next level problem solving skills, and that's how to make every day better real Amazon customers. Real reviews really.
+
+2 (2m 28s):
+Hello and welcome to How I Built This lab. So how much garbage do you throw away and how much of it is actually reusable? and I don't just mean recyclable. Lots of things come in plastic packaging that says it can be recycles. But how many products come in? Something that can actually be used again and again, like a glass jar or a stainless steel container? Well, not many. And so garbage piles up and that's where today's guest sees opportunity. Tom Zaki is co-founder and c e o of TerraCycle. It's a recycling service that collects an assortment of waste and turns it into raw materials, materials that can be used to make other things. TerraCycle started back in 2001 actually as a fertilizer company.
+
+2 (3m 10s):
+Tom started the business during his freshman year at Princeton when he and a couple of buddies made a surprising discovery after they took an interest in growing a certain type of plant in a basement.
+
+3 (3m 23s):
+Let's just say they're much more legal today than they were back then. I see. Yeah. Okay. Long story short, my friends took the plants to Montreal. They were going to McGill. And so they set up the shop there and started trying to make the plants work. and I got this exciting call from my friend Pete who goes, finally, they're working. You gotta come visit and I walk in. And yeah, the plant was doing phenomenally well. And that was really exciting of course. But I asked Pete like, you know, so what did you do? And he took me very proudly to his kitchen where he was showing me how he was taking his food scraps and feeding them to red worms. And then the worm poop that, you know, came out as a result is what made these plants flourish. And that really was the first moment I became foundationally fascinated with this idea of garbage.
+
+3 (4m 9s):
+Because simply speaking, he was taking garbage and making it into something amazing and solving this problem that we couldn't solve until then.
+
+2 (4m 16s):
+Alright. So basically they get their marijuana plants to thrive by, by basically feeding food scraps to worms using the fertilizer to feed the plants. And, and you're just blown away by this. I mean, so blown away that you go back to college, you go back to Princeton and you, you can't stop thinking about it like you wanna do something with this idea. Oh,
+
+3 (4m 36s):
+Absolutely. Yeah. I mean, the first thing was like, has anyone thought about this? And so we were scouring the internet on, are there any big, big worm poop companies out there? And it turned out there was no one who'd really looked at taking the idea of worm poop and really commercializing it on a very, very big scale. And you know, we even set up a little worm composting unit in our, in our dormitory. This
+
+2 (4m 55s):
+Is like you and a roommate or a friend or, yeah.
+
+3 (4m 57s):
+I always had like the knack to sort of get folks to join up with my ideas. So it was a friend of mine and then a couple of other folks got involved and helped out. And you know, within a few months we were basically tending to worms in our dorm room, taking the scraps in the cafeteria and showing that we could do it. And you know, writing a business plan and all these things you do as you sort of explore an idea at the beginning.
+
+2 (5m 20s):
+So you, you would basically take food scraps from the dining hall at Princeton and you would put them in a container in your dorm room with worms in there that,
+
+3 (5m 30s):
+That's exactly right. So think like a massive tote type container. And that basically fit our fireplace. And we were putting all the scraps in there and then trying to harvest worm poop. I mean, let, let's be clear, it was smelly. We had lots of flies. You know, we were really trying to figure it out. Yeah. But I was hooked on this idea. You know, to me it was the fascination. 'cause we were taking one of the classes that, that semester was introduction to economics and we had been drawing supply and demand curves in that class at nauseum. And it always fascinated me, like, why can't you find the supply and demand of garbage on a, on, on one of these graphs? And it turns out it's because there is, while there's massive supply, there's in fact negative demand.
+
+3 (6m 12s):
+And so in this worm poop concept, the simple business model was, wait a minute, we can get paid for the input because that's in a way, the definition of garbage. People are willing to pay to get rid of it and then make this phenomenal fertilizer on the other side. And that sort of kept, kept, kept this all moving in that really exciting fashion.
+
+2 (6m 31s):
+And the idea here was, I guess from the beginning to see whether you could scale this. Like there was no one Yeah. Making fertilizer from worm poop on a commercial scale. And you thought, well, I've seen how it works. I've seen how well it works. This could be a business a a big business. Absolutely.
+
+3 (6m 49s):
+That was entirely the goal.
+
+2 (6m 50s):
+Alright, so summer of 2001, guess you go on a local radio station in Princeton. You were talking about this idea and a caller calls in and was like, I'll invest in you.
+
+3 (7m 3s):
+Yes, yes. And we were desperate. Let's, you know, let's be clear. At this moment, I had already taken all the money I could borrow from anyone that would talk to me. And we invested it in this, it was like a $20,000 machine that we had dreamed up that could take the organic waste and feed it to worms very quickly. Ah. And it was all chips in every dollar we had was invested in this, and we were basically going broke. And honestly, the last ditch effort was this radio station was interested in the story. And we thought it was actually the last hurrah, honestly, walking in it was like, well, at least we'll end with a, with a nice piece on, on the local radio. And from that, an investor called and showed up the next day and wrote us a check and kept us alive.
+
+2 (7m 47s):
+It was a $2,000 check.
+
+3 (7m 49s):
+It was, it was, but it was enough to pay rent. It was enough to
+
+2 (7m 53s):
+Yeah, you guys were really close to the end. If, if that 2000 bucks was like, all right, we got another lease on life. Oh
+
+3 (7m 58s):
+Yeah, yeah, yeah. It bought like 30 more days on the clock, you know, and, and then from there, you know, it was a little bit more word came out and a few other angel investors came in. But it was, gosh, those early days, the, the touch and go nature of just keeping the company solvent was really challenging. Yeah. 'cause you know, as a, as a 20 year old guy, everyone is expecting you to do a.com of some kind, right? Yeah. And no one was interested in hearing about a, a waste management infrastructure fertilizer idea.
+
+2 (8m 25s):
+So basically the idea was you would take this fertilizer and, and it would be in bags like, like regular fertilizer or how, how are, how are you gonna sell it?
+
+3 (8m 36s):
+Well, so the interesting thing about worm poop as a fertilizer is that unlike conventional fertilizer, let's say like miracle grow, it's jammed with a huge amount of beneficial microbes. And so we had to think through what's the right way to deliver that. And where we landed was to actually make it into a liquid fertilizer, sort of like a tea. And so we would take the worm poop, brew it into a tea, and then you would purchase that effectively as a liquid or spray on fertilizer.
+
+2 (9m 5s):
+And, and you called the company TerraCycle from from the beginning. Exactly.
+
+3 (9m 8s):
+Yeah. And it was, think, you know, TerraCycle came out from a worm poop concept, Terra earth cycle. Even the logo I originally drew as a worm, that was its intention
+
+2 (9m 18s):
+And I, guess what, initially you sold it to like local gardening centers.
+
+3 (9m 24s):
+So this was another, it's funny you asked that. 'cause this is another sort of major moment of desperation that occurred. We couldn't afford any packaging at all. And so we went through all the recycling bins in the Princeton area, which is sort of sketchy. We were doing that at like two in the morning going through people's garbage. And we thought maybe we could just temporarily package the worm poop we had in these used containers. And then exactly as you say, sell them to local gardening centers. And this sort of desperate moment led to this phenomenal breakthrough that it turns out in, in beverage containers there's not many shapes and sizes. I mean certainly different shapes, but there's half liter, 20 ounce, one liter, and two liter volumes.
+
+3 (10m 4s):
+And in each of those sizes, the more, the most important context of shape, like it's height or it's with our identical, whether it's say a Coke or Pepsi bottle. And that then truly became our first product liquid worm poop packaged in a used soda bottle.
+
+2 (10m 19s):
+So you would take these used bottles and I guess you people would, would start to donate them. Yeah. And you, well you like wash them out, clean them and, and slapped your label on it. Yeah.
+
+3 (10m 29s):
+So the way we got the bottles, it, that's exactly right. We would first begin by going to schools and saying, Hey schools, you know, you may not have a recycling program. You know, would you like to start collecting your soda bottles for us? And schools were quite interested, we would cover the shipping to get it to us. We even made a small donation to them for every bottle they, they collected those would come in. Then we would take off the labels, clean them out, sort out anything that was already crushed or deformed or something like that. Then fill it up with the liquid worm poop and put on a label and put on a trigger sprayer. And that became our finished product.
+
+2 (11m 1s):
+In meantime, you dropped out of Princeton to pursue this.
+
+3 (11m 4s):
+That's right. I was able to first start by saying, look, I'm gonna take a semester off. And then Princeton has this funny thing where you don't drop out, you just go on indefinite leave. So it was less so of like this spectacular exit and much more me just continuously extending this leave, which one day turned out in the end to become permanent. And it was a, it was the most gentle way to bring my parents along who gosh, for years and years didn't understand why I was doing this.
+
+2 (11m 31s):
+They pro were probably like, when are you, so when are you gonna go back to school? Oh yeah.
+
+3 (11m 35s):
+Oh yeah, absolutely. They, they thought it'd be a nice little adventure. And luckily by the time, you know, two, three years rolled around, we were, you know, growing enough that they saw that, no, this is making sense and it's not just a hair-brained idea.
+
+2 (11m 47s):
+Alright, so you take a leave of absence from school focused entirely on this. And you and I think you were, you were working with another student named John Byer. That's
+
+3 (11m 58s):
+Right. Yeah.
+
+2 (11m 59s):
+So you've got this machine and you start to package the, the liquid fertilizer. And who, who are you selling it to?
+
+3 (12m 6s):
+Well, so we tried, you know, at, at the beginning when we were getting advice in the, you know, from lawn and garden folks on how do you do this? They sort of said, look, the way to do this is you gotta go to independent garden centers, then you have to build up your brand. And then maybe one day you get a shot at Home Depot or Walmart. Right? And when I looked at the, at who controls the fertilizer market, it's only four retailers control the vast majority of it, which in the USS Home Depot, Lowe's, Menards, and Walmart. Hmm. And so our answer was, wait a minute, if they are the ones who control the volume, I mean, let's go there. And that became a key focus was just calling and calling the buyer at Walmart and Home Depot. And we did that incessantly for, gosh, like weeks and weeks on end until they finally gave us a meeting and off we went.
+
+2 (12m 50s):
+And so how'd it go, I mean, home Depot or Walmart? I mean, how did, how, how did you eventually get in the door? Well, so
+
+3 (12m 57s):
+The, the first one was Walmart and the, the whole thing was a little bit crazy because, so we got the meeting just through persistence, I would say, you know, I think we were calling every day from different phone numbers. So different numbers would pop up on the buyer's phone. And we were doing this for sort of six weeks straight. And finally he gets on the phone and says, you are these guys who keep calling. I mean, fine, come down, have a meeting. I think part of it was, what is this all about? That these people keep calling so often and maybe to have a stop calling. So they, you know, he said, look at eight o'clock on this day, come down to Bettonville and, and talk to me. And so of course we were super excited and there was this like crazy travel moment where I remember I, we'd booked a flight from Newark to go down to to Fayetteville seeing Walmart.
+
+3 (13m 41s):
+And by the time I got to the airport, the flight had been canceled because it rained out. And so right away we're like assuming we're not gonna get another meeting. So we rebook the flight, you know, at an airport two hours away, get there, it cancels. Then I look at my friend and we're like, look, if we drive 10 miles over the speed limit and take this number of breaks, we can get there right on time. Driving from New Jersey down to Arkansas. And so off we went and we had to like make, you know, make these time gates. And during that whole time we were looking for a flight, you know, maybe from Ohio or somewhere to pick up and, and and take the respite plane. And we did find a flight. We book it in cash and, and I think I get to the airport at like 3:00 AM for this 5:00 AM flight, get through security, you know, I'm sitting at the gate taking a little nap and then they call for boarding and I get up and board and they say, you know, because you've bought your ticket in cash, you have to have a special security screening, which they never performed on you when you came in probably 'cause it was three in the morning and everyone's really tired.
+
+3 (14m 38s):
+And I made this like really impassioned plea to the gate agent saying like, look, we're these students, we have this worm poop. I had the worm poop with me and everything. And they call the security team over to pat me down, get on the plane, and then finally make it in. And at 8:00 AM you know, we're there having the meeting with the buyer and we explain this idea of, you know, this is all about purposeful capitalism, you know, we're taking organic waste, feeding it to worms, packaging and used soda bottles that schools nearby are collecting. And then tell him this whole travel story. And he looks at us and it was this amazing moment. He walks over to his planogram where he's setting, you know, what the fertilizer set for the next year will look like.
+
+3 (15m 18s):
+He takes off one of the, the products, maybe it was like a miracle grow or something, and puts one facing of the TerraCycle worm poop on the shelf. And he goes, you know, it's entirely your passion that, that has caused me to, you know, give you this national placement and let's see what you guys can do with it.
+
+2 (15m 33s):
+Wow.
+
+3 (15m 34s):
+And that's how we got our first purchase order.
+
+2 (15m 39s):
+Why don't we come back in just a moment. Tom takes his growing fertilizer business and completely shifts focus to garbage. Stay with us. I'm Guy Raz and you're listening to How I Built This lab,
+
+4 (15m 60s):
+Which
+
+5 (16m 0s):
+Internet technology is way faster than cable. Ve
+
+6 (16m 3s):
+Your fiber internet. Correct.
+
+5 (16m 4s):
+Which internet technology is the most reliable
+
+6 (16m 7s):
+BePure fiber internet. Alright,
+
+5 (16m 9s):
+Again, which internet technology can you get for an incredible price?
+
+6 (16m 13s):
+BePure fiber Internet
+
+7 (16m 15s):
+Get way more speed for your dollar than cable with gigabit five 1.5 internet starting from $90 a month. Visit bell.ca/fastest internet for more details and to check availability Bell Internet just got better.
+
+2 (16m 27s):
+Hey, while we're taking a short little break here, I wanna take a minute to tell you about an episode of How I Built This that we released a few weeks ago. It's about the brand Mary's gone crackers. So after being sick most of her life, Mary Walner was finally diagnosed with Celiac's disease at age 43 in the early nineties. Trying to live a gluten-free life was pretty hard. So with no good bread alternatives to turn to, Mary decided to create her own. She made great tasting, gluten-free snacks that she could carry with her so she wouldn't go hungry when her friends and family were out eating pizza or, you know, other bread. I really love this interview with Mary because it sheds a lot of light on a common thread I see with a lot of successful brands, which is that by solving her own problem, Mary discovered that millions of other people shared that problem as well.
+
+2 (17m 13s):
+You can find this episode by following How I Built This. And scrolling back a little bit to the episode and Mary's Gone Crackers, or by searching Mary's Gone Crackers. That's m a r y s g o N e crackers wherever you listen to podcasts. Welcome back to How I Built This Lab. I'm Guy Raz. So Tom and John have convinced a Walmart buyer to carry their TerraCycle fertilizer spray in reused soda bottles. But now they actually have to fulfill the order.
+
+3 (17m 47s):
+Imagine the scene where, you know, all these dirty bottles are coming in and it's all my friends from Princeton were cutting labels off, washing them out, pouring the worm poop in with a, with a jug. The hardest part in this manual process was actually getting the labels on 'cause there were heat, heat shrink labels. Yeah. 'cause they had to contour to, is it a Coke bottle or a Pepsi bottle? And since we couldn't afford a tunnel like a heat tunnel to do this, we built this little rig where imagine four hair dryers are placed on like this plywood pointing in a center direction. Yeah. And if you dip the bottle into this hair dryer tunnel just right, it will shrink the label on beautifully. You know, you may burn your hand in the process a little bit, but that's how it all went out.
+
+3 (18m 27s):
+And it was like a truckload of this stuff.
+
+2 (18m 30s):
+And, and so Walmart carried different kinds of bottles of this. I mean, it, it just, it seems unbelievable. Like they would, you would imagine that they would expect like a standard size and a standard bottle, but you had different shapes of bottles. That's
+
+3 (18m 44s):
+Exactly right. Yeah. So it was all 20 ounce. That was the, that was the volume they wanted. But if you think about 20 ounce bottles, that's like what, you know, one would find in a soda bottle in a vending machine, for example, if it's a plastic bottle, they're all different contours. Like your Dr Pepper bottles different from your Coke Sure. Different from your Pepsi. But the key things are the same. So the heights are the same, diameter is the same, the tread on the cap is the same. So you could do effectively mass production of mixed use soda bottles. And that way the cases all look the same. Everything was moving out, it worked nicely on the shelf. But then when you touched it, you were like, wow, this is a different contour than the other one.
+
+2 (19m 22s):
+Alright. So you get into Walmart and, and eventually into a few of these other big chains with this product. And, and it that does pretty well. Like, I I read that by 2005, you, you know, your, your sales were projected to be around $3 million that year. But I guess within about two years, around 2007, you decided to change the business model and and move away from, from the fertilizer, from the, the worm poop.
+
+3 (19m 51s):
+That's right. Yeah. By then, so we had grown up to about 6 million in, in revenue on doing worm poop. All the major retailers carrying us in the US and, and Canada. And there was this big moment of reflection, you know, I had started TerraCycle really thinking through how can we use business to create solutions to garbage. and I woke up four or five years later, effectively running a fertilizer company where yes, technically the input was garbage. But the part I was struggling with, like when you take input of soda bottles, we had to sort out any soda bottle that had some level of damage on it. You know, maybe it was a car had driven over it or there was a dent in it. 'cause then it wouldn't look good on shelf.
+
+3 (20m 31s):
+And the same for the worm poop. We had a, our scientist at that time had to pick certain types of organic waste to feed the worms, to get the right type of poop. So when we were making cactus fertilizer, we fed the worms a different diet than if we're making tomato fertilizer. And so we were really cherry picking the very best of the garbage. I mean all technically garbage, but it, you know, we were never gonna contemplate to take cigarette butts or dirty diapers or really what makes up, you know, a waste out there. And that led to a big struggle. You know, it was like, are we gonna be a waste solution organization or are we gonna be a fertilizer company? And where I really wanted to take TerraCycle was no into innovating and solving waste.
+
+3 (21m 12s):
+And so we had to pivot away from fertilizer at that time
+
+2 (21m 16s):
+That meant that you were you, I mean your entire process was going to change, right? Because you're moving away from obviously worm poop and essentially a, a form of composting to becoming a recycling facility essentially, I guess.
+
+3 (21m 33s):
+That's right. Yes. And this had a lot of challenges. You know, you can imagine the investors who invested some of them, you know, like this idea. Some said, why not just keep doing what you're doing? The same with our management team, you know, in retrospect, of course I can sit here today and say, you know, I think we did the right decision, but it was very traumatic during, during that moment. Hmm.
+
+2 (21m 57s):
+Traumatic because for not just for the investors, but presumably for the people involved in TerraCycle. Yeah,
+
+3 (22m 3s):
+Yeah. Half the staff thought I was crazy. The other half thought it was a great idea. and I think that split was about the case across all the major stakeholders, you know, the board investors, our team members, you know, we lost and had to change a lot of people in that process, you know, it was a very big metamorphosis, not just an evolution.
+
+2 (22m 21s):
+But Tom, what was the argument you made? I mean, how did you know, what were you saying to the team? Like, we have to do this because, well,
+
+3 (22m 30s):
+For me it was, look, we started TerraCycle because we wanted to create business models that solve garbage and fertilizer was a good example of that. But we were not in our core trying to, you know, set out to create a fertilizer company. And if we become a consumer product company where our role is to make products from garbage, then the business hero of that equation is the product. Which means we're gonna have to find the very best inputs so that we can make the very best product. And how are we gonna solve waste if we're only going after the very best of the garbage? That, that was the foundational issue. And so my hypothesis was, look, we need to make not the output, the product, the hero of the business equation, but the input, the garbage.
+
+3 (23m 14s):
+And really think of how can we make sure we create business models that can deal with everything, all the gross and difficult things out there.
+
+2 (23m 22s):
+Alright, so given that you were going into the recycling business, was the idea you had to build a, a recycling center or, or were you gonna work with existing, you know, recycling centers and essentially be, you know, focus on collecting the waste? So
+
+3 (23m 38s):
+We figured three things have to come together. We have to somehow collect the waste then to process it to make sure it turns into a recycles output. And then most importantly, to get someone to go out and fund all that. And our beginning point was going to manufacturers and brands because they tend to be the first in line for when someone points a finger on why is that object a waste object, right? It tends to go to the brand. So we thought that's a good place, you know, a good place to begin to try to get funding
+
+2 (24m 7s):
+So I. Think one of your first partnerships is with Stony Field and Clif Bar and, and explain how that would work. You would, they would pay you to create a program for them, for people to what? Send in the Stony Field yogurt cups or drop them off somewhere. How would it work?
+
+3 (24m 28s):
+Yeah, that's exactly right. Very similar concept as how we were looking to, or how we were collecting the soda bottles in the worm poop days. We said, and we had some experience in how to do that. So we went to the folks at Cliff Barnes, Stony Field and Honest Tea. Those were the first three partners that that chose to back us. And we said, look, you guys have non-recyclable packaging forms, juice pouches for honest tea all the way to bar, you know, wrappers for, for Cliff Bar. And we'll set up a national platform for you where schools and other community organizations, you know, places of worship, fire stations, libraries can sign up, put out a collection bin, fill it up with that category of waste. So it wasn't just for say, Stonyfield branded yogurt cups. Any brand of yogurt Cup could be put in through that program, then download a shipping label, send it in, and then we'd give a little bit of an incentive to that organization, a little money to be donated to them or any charity they want.
+
+3 (25m 18s):
+And that's effectively how all this waste would come in, in this, in this first iteration.
+
+2 (25m 22s):
+Right. Okay. So the idea is to get brands to, to finance this and, and recycling doesn't necessarily mean melting it down all the time. It, it could mean just cleaning the containers and returning them to the company so they could reuse them.
+
+3 (25m 36s):
+Absolutely. So generally speaking, if you think about comparing recycling and reuse, recycling is where you recover the materials an object is made from, and then those materials are now new inputs for other products. Reuse is more where the package is cleaned and then refilled right at the beginning. With, with these brands, most of what we were looking at was doing recycling based outputs or what's sometimes called upcycling think like sewing juice pouches into a backpack or folding energy bars into a bracelet or something.
+
+2 (26m 7s):
+So what would you do with recycles energy bar wrappers? Like how, how does that, I mean, are they melted down? I'm trying to imagine how they're recycles. Yeah,
+
+3 (26m 16s):
+Absolutely. So the way the process for that would work is we'd first get in the, the wrappers, we would shred them, then run them through a washing cycle so all the residual oils, foods and greases and so on would come off. Then we would create what's called a compounded pellet where it all gets melted down. And then we would look for manufacturers that could use that material instead of buying new, new materials. So an energy bar wrapper may turn into a watering can or a dog food bowl or a plastic bench or something like that.
+
+2 (26m 44s):
+Got it. Okay. So over time you began to presumably to find other partners, other brands that were interested in doing this. And you, and, and so you would essentially set up a program for these brands, right? They, they'd have a TerraCycle logo on it. And, and how would you, like, as a consumer, right, if I went and bought, I don't know, a cup of Stonyfield yogurt right? Or a cliff bar, how would I know because instead of just throwing it away in the garbage in my house, how would I know that I could do this? Yeah,
+
+3 (27m 17s):
+Creating awareness was really important. So we would go out and we were a small organization, we would create as much awareness as we could by talking to, you know, the media, our own social media presence, things like that. And then the brands would also promote it by putting the TerraCycle logo on their package, maybe sharing it on their assets, like their social media pages, websites and so on. And people would then become aware that, hey, there's this option of what I can do with this package beyond just throwing it away.
+
+2 (27m 43s):
+So Tom, explain how, I mean, this is not a non-profit business. I mean this was a for and is a for-profit business. So the business model depended and depends entirely on partnering with brands,
+
+3 (27m 57s):
+Not just brands. But yes, I mean, so, and by the way, my advice to mission-driven entrepreneurs is typically to try to do this that stuff in a for-profit context because access to capital is way easier in a for-profit. Yeah. So our job is to go out and find as many stakeholders that are willing to fund, so brands as one area. It could be retailers, it could be office buildings or campuses, all the way down to even individuals. And so what we're first focused on is how do we create as many methods of collection as possible? Our mail-in programs are one today of about two dozen different ways that we're able to do collection from doorstep all the way to retail collection. And then because these waste streams cost more to collect and process and the results are worth, it's about finding folks that are willing to fund, and there's many different stakeholders, but each one, our job is to figure out, hey, will you pay for this externality?
+
+3 (28m 50s):
+Noting you have no legal obligation to do that today. It's sort of crazy, right? Like as a consumer, I can throw something in the garbage and I get no fine. If I put a recyclable in the, in the waste, I have no obligation. Yeah. Right. Manufacturers have no obligation to fund this externality, nor does any other stakeholder. And so we're out there sort of saying, Hey, take voluntary responsibility over this and then we can set up a solution that people can access.
+
+2 (29m 14s):
+Alright, so you have this, this model, right? And as you say, these companies are not required to do this, right? Like when we, when I get a, a bottle or whatever it might be, or anybody does a a, a tub of yogurt or anything that we consume a snack, it's our instinct as humans to just find the easiest way to dispose of it. And most of the time it might just be the nearest trash can, right? I mean, there's no cost to us as consumers to throw things away. I mean, I mean, there are obviously huge environmental costs, but we don't actually get penalized. The companies don't get penalized. And so right now there's no market solution to, there's no sort of market fix, right?
+
+2 (29m 57s):
+'cause you could create a market around this, you could say, well, you have to do this. Yeah. Or you'll be penalized and then everybody would change their behaviors. But, but right now it's entirely voluntary.
+
+3 (30m 6s):
+Exactly. And this is a foundational flaw in the entire concept of waste, is that as a manufacturer today, let's say you and I started a company, we can invent anything guy and Tom's cool new pen, and we would have no responsibility over its end of life at all. And there's no regulatory body we even have to go through to approve that that pen is okay to exist.
+
+2 (30m 29s):
+And, and we think this is normal, right? Like, like this is just how businesses operate. But, but essentially we think about it like in a hundred years from now, we might look at this and say, wow, that was a, that was a period of chaos in human history where we just allowed everybody to make whatever they wanted without thinking about the consequences of, of disposing of that product.
+
+3 (30m 49s):
+Right. and I, I if I can zoom out for a minute, I think you have nailed the foundational issue in all of sustainability versus business, which is that business in almost all the externalities, it produces not just waste, but you know, deforestation, species extinction, everything,
+
+2 (31m 7s):
+Carbon emissions Yeah. Yes.
+
+3 (31m 9s):
+Does not have to be responsible for those externalities. So effectively they're going and being paid for by the plants and animals that inhabit this world that have no point of view or, you know, on whether this stuff should happen. And future generations, net net I mean, that would be the solve is all these externalities being somehow embedded. The challenge of course is that the price of products would explode.
+
+2 (31m 31s):
+Right. And So I would say that, I would argue that it's not just companies and corporations, it's it's consumers too that are getting a free ride. Yes. Yes. 'cause because the, the cost to us is not, is also very low. That's right. Like we get cheap consumer products and you know. Right. Because if, if, if companies had to do that, if corporations had to do that, they'd have to raise prices and we'd have to pay for that. Which you can make the argument that, that we should, everybody should, should be doing that. Yes. Companies, consumers. Yeah, yeah,
+
+3 (31m 56s):
+Yeah. Exactly. Right. I mean that is, if, if you gave, you know, sort of the, a dream state for me from a legislative point of view, that would be what would happen is that all the externalities of creation of products would be in their price. Which of course would mean that everything as you just said would get much more expensive, which would mean we would consume less and consuming less is the actual answer to every environmental issue we face.
+
+2 (32m 21s):
+Why don't we come back in just a moment more on strategic consumption and why Tom's actual goal is to put himself out of business. Stay with us. I'm Guy Raz and you're listening to How I Built This lab. Welcome back to How I Built This lab. I'm Guy Raz. So Tom is the founder of TerraCycle, a company that works to recycle and reuse packaging. The problem though is that creating new plastic is often cheaper than recycling old plastic.
+
+3 (33m 5s):
+Today, plastic is still cheaper to make new than to collect it and process it and then to use it as a recycles material. Which is why we see the, the use of virgin plastic increase year over year over year.
+
+2 (33m 19s):
+So I mean, how do you, how do, how do you change? I mean if, if, if it's a matter of economics, right? Yeah. If it costs more to recycle than to use raw virgin materials. How do we fix that? I mean, essentially, can we fix that or, or will companies simply have to choose to just pay more because it's the morally right thing to do?
+
+3 (33m 40s):
+Well, I think there are two ways we can manifest change. We can have mandatory change, let's call that regulation legislation. And we see that coming in the world of waste, we've seen certain things get banned, like the plastic bag in certain states and countries. Yeah. Plastic straws, disposable dining, where that will call mandatory action. And we should do as much of that as fast as absolutely possible. And it's good that we see some of that coming after that. I think what's left is voluntary action. That's where, for example, TerraCycle sits. And there we have to seduce companies and convince them to invest in something they have no legal obligation to invest in. And with each stakeholder it's, it's a different sort of types of value that we have to show.
+
+3 (34m 22s):
+So for a brand, you know, our goal is to say, Hey, you have this big issue. You can create a solution to it, but maybe you can also attract consumers into your brand versus a competitor that may not be offering that investment. Or if you're a retailer, maybe by offering recycling solutions for certain waste streams, you can attract more foot traffic. And in each case it's about using the dynamic of business to think through what is the value that's being generated by funding the solution to that externality.
+
+2 (34m 49s):
+What, what do you, I mean, right now, given that there are no financial incentives or penalties, right? What have you discovered as the best incentive to get consumers to, to participate?
+
+3 (35m 1s):
+I find that there's really sort of two type of incentives that really move consumers. There is consumers certainly who care about the environment because it's the right thing to do. And we're seeing that trend in the right direction. It's just not for a hundred percent of people today. The other incentive is creating benefit for their community. So we do a lot of programs where we say, Hey, collect toothpaste, tubes and toothbrushes and then they get turned into playgrounds that may benefit a community near you. We see that drives a lot of motivation or donations to charity. And then the third is the odd one, which is making it fun and exciting. I'll give you a case study of this. You know, we did a, a study at a train station, I think it was in some in New York, perhaps like a busy train station.
+
+3 (35m 42s):
+And we put out very well marked recycling bins and very well marked trash bins right beside each other. And we noticed how many people would put an aluminum can or a soda bottle in the right bin. And it was 50%. And that's crazy 'cause they're right beside each other. Then we just inserted a little bit of fun where when you put the something in the recycling bin, the recycling bin would light up and give like a sound effect back and immediately it moved to 90% of people put the, the recycling in the right bin. And so fun and excitement is also important to instill in these programs, to get good participation.
+
+2 (36m 18s):
+Tom, we've had many businesses on How, I, Built, This that are beverage companies or you know, food companies that use plastic. And you know, occasional, I've asked them, you know, why don't you switch to aluminum or to glass? I, I, I interviewed somebody who's got a, you know, beverage company and they said, look, you know, aluminum creates more, actually more pollution, you know, and you can recycle plastic and also the weight of glass creates more carbon emissions. I mean there are all kinds of arguments you can, you can make, but I mean, do you think we would be better off if most food brands and beverage brands just used aluminum and glass rather than plastic?
+
+3 (36m 59s):
+No, I don't think so. 'cause I think every material type has pros and cons. We're in a moment right now where we are, I think rightly so, really projecting a lot of negative onto plastic because of microplastics, ocean, plastic, all these things that are correct. But there's also externalities of everything. And so the right found answer that we have to think about is the hardest, which is a meditation on our relationship with consumption. We are voting for all this environmental destruction to occur by buying things. And we're buying things at a phenomenally unsustainable volume. That's gonna be, I think, some point in time that will have to be really reflected on and I think it'll either come from us voluntarily reflecting on it.
+
+3 (37m 41s):
+I hope that's the case, but if not, it's gonna come through the earth effectively punching us in the face quite a bit and forcing that, that reflection to occur. 'cause I mean it's gonna come to us one way or another. The material choices we make, I think need to be less about is it an alloy or glass or plastic? It's much more about how do we eliminate the need of packaging if we can, then how do we shift to reusable packaging where the packaging is just cleaned and refilled, which eliminates the need of extracting it every time from the earth. And then if we use disposable packaging, how to make sure that that material can still be honored by going around as many times as possible, perhaps into different applications and just getting away from hyper disposability where it all ends up in destruction.
+
+3 (38m 27s):
+Whether a landfill or an incinerator.
+
+2 (38m 30s):
+Alright, so you're obviously fighting the good fight, but you're, you're also running a business and it has to be a sustainable business. Tell me a little bit about the, the economics of TerraCycle today. I know I've seen different numbers about, you know, I know you raised about $25 million in 2020. I've seen different numbers about your revenue. 40 million, 50 million. I mean, are you a profitable business right now?
+
+3 (38m 58s):
+Yes. So to give you a couple of statistics, in 2015 we turned profitable and we haven't looked back since. So we've been able to post profits every year since then. This year, you know, we'll do about 75 or 80 million in revenue somewhere between those two numbers. And every year, this is our 20th year, we've achieved straight revenue growth every year. Now mind you, I'd still say just under a hundred million is a small number compared to the opportunity and the level of the issue. So we think we have a lot in front of us, but we have been able to achieve good stability and good foundations from a p and l balance sheet. All those vectors that you would look at in just, is it a good business model?
+
+2 (39m 39s):
+Tom, here, here's sort of a weird question and, and I'm sure at some point you've thought about this, which is essentially your mission is to, you know, in a perfect world is to eliminate waste, right? Yes. And so we would all be going to the market and refilling our glass bot bottles with, you know, apple juice or peanut butter, whatever it is, right? And if that were the case, your business is obsolete. Like in a sense, your mission is to make your business obsolete, to to bring your revenue down to zero. I mean, yeah. Right? I mean am I, am I kind of right there?
+
+3 (40m 15s):
+No, you're not just kind of right. You are absolutely right. And this is entirely why we invested in doing this. So it's not just passively, we've put all of our profits and investment into our third division, which is called Loop. And it's all about transitioning from disposability to reusability. And if Loop were to really succeed in a grand way, our first division, which is focused on recycling, would disappear. This obviously came up when we created Loop. It's like, wait a minute, this is gonna cannibalize our first unit. And to me it was sort of like, well, when Netflix created streaming, it destroyed their mailing system for DVDs. Yeah. But it was the right decision.
+
+2 (40m 54s):
+Right? So division one is recycling, division two is turning those recycles materials into other products. But the di the newest division that you launched in in 2019 called Loop, or you announced it, I think you launched in 2020. Yeah. This essentially is a a what, what you do is you partner or you're partnering with some big companies like Tide Laundry detergent or Haagen-Dazs ice cream. And you are creating a program to, for what? For, for them to reuse the containers or to like basically for consumers to reuse the containers. Tell me how it works.
+
+3 (41m 28s):
+Absolutely. So we work with brands today. 200 major consumer product companies have joined. Even Nestle and p and g are now investors in this. Yeah. And they basically create reusable versions of their brands that are there today. Our job is to approve and make sure it can flow through and it really is reusable. So let's take something like Tide laundry detergent, right? Okay. Today, tide comes in that iconic orange plastic bottle. Sure.
+
+2 (41m 51s):
+Yep.
+
+3 (41m 51s):
+In select stores at Walmart today, you can find it through Loop in a beautiful stainless steel container. And they have to design that container to fit the rules, which it must be able to handle 10 reuse cycles or more. That one particular one's rated to be much more. But we say 10 is the minimum to be accountable is reuse. And of course, what is really reusable, I mean, one could argue it's more than one use, but we worked with a lot of NGOs and stakeholders and said, 10 is a good number to say, you know what, at 10 you are reusable. Yep. And so they have to do that sort of like similar to the concept of organic, where people have to farm in a certain way and then someone says, now you're an organic farm. We do the same except we say now that's reusable.
+
+3 (42m 32s):
+And the way it works for a consumer, for example, in Arkansas, you can get this in Walmart today, where you can buy these products, whether it's Heinz ketchup, all the way to Tide laundry detergent. You pay a deposit for the package and then when you're done without sorting it, without cleaning it, you give it back to Loop, say in a drop in at the store. Or if it's e-comm, it's picked up from your home. And then we return the deposits to you in full. We sort them out if needed, we clean them and then they go back to the manufacturer who refills them. And around it goes again. And one of the nice things here is then there is no waste. And at the end of the life of that container, one of the rules for Loop is that it must be able to be recycles back into itself so that those molecules always stay in the context of that package.
+
+2 (43m 19s):
+So I mean there. And there are versions of this, like in California, here in northern California, you can buy Strauss milk, for example. Yes. And glass bottles. Yes. And you know, you pay two, $2 50 cents I think per per bottle. But you know, that's an incentive to bring it back. 'cause it's a lot. Yes. I mean these are very heavy, thick glass bottles. And so that's the basic model here.
+
+3 (43m 40s):
+Yeah. Think of it as the milkman, which is the example you just, you just shared. But it can apply to any product from insect repellent all the way to your favorite ice cream.
+
+2 (43m 49s):
+And and do these containers need to be made out of something other than plastic? Or are they sometimes still made outta plastic? Well,
+
+3 (43m 56s):
+There are three sort of material types we see work really well in reuse, obviously glass, like the milk bottle you mentioned alloys are great, like stainless steel, aluminum, those work very well. But also engineered plastic. So think like a plastic sports water bottle is a reusable vessel. Right? And we use it all the time and in different applications it's very appropriate. So for example, in a bathroom environment, let's say you have shampoo and conditioner, glass is is dangerous because
+
+2 (44m 25s):
+Not great. No, you don't wanna shatter it on your shower
+
+3 (44m 27s):
+Floor. Oh my god. Can you imagine, right.
+
+2 (44m 29s):
+Or
+
+3 (44m 30s):
+Alloy, imagine if you know it's slippery and it falls, it can hurt your toes much more than a plastic container. Right? So in something like shampoo conditioner, a thicker, more durable, but polymer container is, is the right choice.
+
+2 (44m 44s):
+So Tom, as, as the, the brand, a TerraCycle, you know, begins this transition over time to, to Loop, right? Yeah. Let's say where in the future, ideally every product we buy is gonna come in a container that's Reus that's reusable, right? Let's say that's the future. What does that mean for your, for your business? I mean, I mean, do you see this as a a billion dollar business? I mean, is it, I mean, how big can this, can your business become if this transition works?
+
+3 (45m 15s):
+I think much bigger than recycling. I think this is gonna take a long time, mind you, because we have to do it product by product, country by country. It's a, it's a big transition to get this all to occur. But let's say academically we did get there, the, the amount of jobs and the amount of revenue created on reuse is bigger than recycling. Just like recycling is more jobs in revenue than landfilling.
+
+2 (45m 39s):
+And so over time you see yourself ideally getting outta the recycling business and and focusing on the reusable business.
+
+3 (45m 47s):
+Yeah. I would say, I look at this, this transition as recycling is what we can bring at scale today and let's do that while we're able to get everyone to shift to reusable. Nothing we spoke about is really the answer to waste. and I think this is really important. It's the biggest realization I've had in 20 years of doing this is that recycling is a bandaid, right? And it's better than landfill and incineration. It's a step in the right direction. You know, reuse is an even better step than recycling. But in the end, the only answer is gonna be a significant reduction of, of buying things. And it's the conversation that gets spoken about the least in the multi-stakeholder dialogues and all the halls of business because it is inherently anti-business.
+
+3 (46m 30s):
+But I think it's so important for us to realize that, especially as citizens who are voting by buying things, right? That vote is what fuels all this and we have to shift it.
+
+2 (46m 41s):
+Tom, thank you so much.
+
+3 (46m 42s):
+Thank you so much as well.
+
+2 (46m 46s):
+That's Tom Zaki, co-founder and c e o of TerraCycle. Hey, thanks so much for listening to How I Built This Lab. Please make sure to follow the show wherever you listen on any podcast app. Usually it's just a follow button right at the top so you don't miss any new episodes and it is entirely free. If you wanna contact our team, our email address is HIBT at id dot Wondery dot com. This episode was produced by J C Howard, with editing by John Isabella, research by Kerry Thompson and Music by INE Arablouei. Our audio engineer was James Willetts. Our production team at How I Built This includes Casey Herman, Alex Chung, Liz Metzger, Elaine Coates, Chris Masini, Carla Estevez, Sam Paulson, and Ramel Wood.
+
+Amazon Music (47m 33s):
+Neva Grant is our supervising editor. I'm Guy Raz and you've been listening to How I Built This Hey Prime members. You can listen to How I Built This early and ad free on Amazon Music. Download the Amazon music app today,
+
+wondery Plus (47m 51s):
+or you can listen early and ad free with Wondery Plus in Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built This merch and gear at Wondery shop.com. Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.
+
+9 (48m 10s):
+7:30 AM work starts in 30 minutes. It takes 25 minutes to get there. So you're out the door, down the stairs, grabbing a coffee on the way. The Breakfast of Champions, you glance down at your watch 7:58 AM your big meeting starts in two minutes. You've been prepping for it all month. You pause, then remember, you are a champion. You've got this inhale, cool Mint and exhale, confidence, Excel gum. Do what feels fresh. I.

@@ -1,0 +1,356 @@
+Notion AI (0s):
+Like a lot of people who've discovered it, I love Notion and I can't emphasize how much time I've been saving by letting AI do the tedious work so I can focus on the creative work. So here's just one example. Instead of constantly copying and pasting between my notes and a separate AI tool notion lets me do all of these powerful AI automations right inside the place where I'm already working. Notion AI helps you work faster, write better, and think bigger. Doing tasks that normally take you hours in just seconds. Try Notion AI for free when you go to notion.com/built. That's all lowercase letters notion.com/built to try out the incredible power of Notion AI today. And when you use our link, you're supporting this show, try Notion AI for free right now at notion.com/built.
+
+Indeed (52s):
+The thing about running your own business is every single hire counts and no hiring partner understands that like Indeed, indeed is a matching and hiring platform where you can attract, interview and hire all in one place. One of the things that I really love about Indeed is its powerful matching technology. In fact Indeed's UK data shows over 85% of employers using Indeed find quality candidates whose CBS on indeed match their job description the moment they post a job. Indeed knows that when you're growing your own business, you have to make every pound count. And that's why with Indeed you only pay for applications from quality candidates who meets your must have requirements. Start hiring now with a 100 pound sponsored job credit for your job. Post at indeed.com/how I built Offer good for a limited time claim your 100 pound credit now at indeed.com/how I built indeed.com/how IBU terms and conditions apply to hire. You need indeed,
+
+NPR (1m 55s):
+Black Perspectives haven't always been centered in the telling of America's story Now, we are taking center stage introducing NPRs Black, Stories Black Truths A collection of black LED stories from NPRs podcasts, Search NPR r Black, Stories, Black Truths, wherever you get your podcasts.
+
+0 (2m 17s):
+Okay, onto the show. And this week we're rerunning an interview from last fall with Chef Pierre Chiam. His company Yole is betting big on pho. It's a nutritious and drought resistant African grain that could feed billions of people on our warming planet. Hope you enjoy. Hello and welcome to How I Built This Lab. I'm Guy Raz. So one of my favorite things to do is to wander the aisles of grocery stores. I'm always in the lookout for weird and new products. Recently I came across some mushroom jerky, cassava cheese puffs with plant-based cheese, a Mexican fermented kombucha type drink.
+
+0 (2m 59s):
+Anyway, I always work to find at least one new thing in the store to try each week. And about a year ago, I came across a grain that looked really interesting. It was high in protein, gluten-free, and most intriguingly It was an ancient grain from Africa, it's called Fonio, and immediately grabbed a bag and cooked it up with some chicken thighs later that night. Not only was it great, but also totally different from other grains like quinoa or farro or rice. The man who is most responsible for bringing Fonio to the US is a Senegalese chef named Pierre Chiam. He's the founder of a West African restaurant in New York called Teranga and Pierre's on a mission to get people to discover Fonio.
+
+0 (3m 44s):
+Why? Well, not only is it a nutrient dense plant, but it requires very little water to grow. In fact, it thrives in drought stricken areas. In other words, fonio could be a major source of food as climate change continues to ravage the planet. In 2017, Pierre co-founded his company Yole to bring Fonio to the US and eventually to the world. Besides Fonio, Yole now sells Fonio flour and even snacks made from the grain. And their products are available in thousands of stores across the us. Pierre Chiam joins us. Welcome to the show.
+
+2 (4m 22s):
+Thank you guy. It's a pleasure.
+
+0 (4m 24s):
+So you are originally from Senegal and you grew up, I think in Dakar, right? In the capital or around the capital? Yes.
+
+2 (4m 30s):
+Yes. I grew up in DACA in a neighborhood called Point Earth.
+
+0 (4m 33s):
+And you were not, from what I understand, as a, as a kid or even as a young man, you were not necessarily food focused, right? I mean, you were as a student, you, you were into science and, and, and mathematics. Is that right? Yes.
+
+2 (4m 47s):
+I, I had a math baccalaureate and then I went to university for physics and chemistry. But growing up in Dakar, obviously food is a big part of the culture, but you know, it's a gender-based activity. So kitchen is for women and food was not an option as a profession. I never thought food could be a career.
+
+0 (5m 6s):
+Yeah. But it's interesting, you, I know you've talked about this before. You've given a wonderful Ted Talk. Anyone listening should go check it out, Dakar, because of where it is, its location and its history, it's has a, a blend of cultures, obviously many different West African cultures, but also there's like French influence within the food and, and Lebanese influence and Vietnamese influence. Tell me a little bit about the foods that you grew up eating.
+
+2 (5m 32s):
+Yeah, like you said, the car is like a, a melting pot, really 'cause of its location. you know, it's the most western coast of Africa. Yeah. So it became a natural port of entrance for centuries. It was the place where Mariners would come before going anywhere in Africa. And over time the French colonized Senegal. So we still have a strong French community there. And the Lebanese community's been there for generations now. And they brought their food culture and you have obviously the West African community and the Vietnamese because the Senegalese and the Vietnamese had the same colonial past with the French. Yes,
+
+0 (6m 10s):
+Yes.
+
+2 (6m 10s):
+So yeah, I had all those flavors growing up. I I was exposed to that. Not to mention the local cuisine, which is also very, very interesting. 'cause my mom was from the south of Senegal, which is a part very more lush as opposed to the north of Senegal, the south of the Sahara and dry and arid. So that part of Senegal has a different type of cuisine with lots of seafood, which you see everywhere in Senegal, but also lots of citrus Fermentation also is a big part of our cuisine. So my upbringing was, was full of flavors.
+
+0 (6m 41s):
+Wow. I I know that you decided to, at a certain point to go to the United States to continue your studies and you studied physics and chemistry in Dakar, but there was a nationwide student strike and I guess you couldn't continue your study. So you ended up getting a visa to the United States. And you were supposed to study in Ohio, right?
+
+2 (7m 1s):
+In Cleveland. In in Cleveland. A small college. Yeah. In, in a town called Bur, actually New, new Cleveland. I I came here in 1989 and I knew a friend who lived in New York. So I had to land in New York and then take a bus from New York to Ohio. That was the plan. So he insisted that I stay in New York a couple weeks and you know, that was a great opportunity. I, everyone wants to see New York at least once, and that changed everything. I'm still on my way to Ohio. I never made it there. I I stayed in New York and three days after I arrived, I got robbed and I lost every single penny that I had. That was what you
+
+0 (7m 39s):
+Got three days after you arrived in New York in 1989, you were robbed
+
+2 (7m 43s):
+Three days. My my friend lived in the place on 50th Street right near Times Square, and I'm not sure If, you knew New York in 1989. Oh yes.
+
+0 (7m 52s):
+It was a different place.
+
+2 (7m 53s):
+It really was a, a scary place. and I was horrified by it. A car is like a peaceful seaside city. And, and, and now I'm here in New York. That was completely different than what I expected to see. you know, it wasn't what I saw on tv and I'm broke now and it's getting cold. 'cause I arrived in the beginning of fall, so I had never seen winter before. And I'm like, I'm out of here. I had my return ticket. A friend of mine happened to be working in a restaurant and, and they were looking for a bus boy. The only job that required no particular qualification Yeah. Or experience. and I applied. I came and, and the boss, Richard, who's still a good friend, just took me, he saw this desperate young kid and, and he gave me the job and, and I, I, and that changed everything.
+
+0 (8m 42s):
+It's amazing. I mean, you were coming to the United States to study physics and chemistry in Ohio. You get robbed in New York and that's it. It it's all gone. And it's amazing because it's a, I mean, you laugh about it now, but it's, it, I'm sure it wasn't funny at the time and very scary. Oh boy. But it's, it's crazy when you think about something like that happening, that horrible thing had to happen in order for your life to completely change. I mean, you didn't obviously go and pursue physics and chemistry. You got a job as a busboy and you would then go on to pursue a life and career in food.
+
+2 (9m 21s):
+Yes, yes. Absolutely. And it had to have happened. Now I look back and I'm like connecting the dots and I'm like, without that incident, my life would've been completely different. I would, I would've hugged that guy who robbed me. I mean, I, I, you know, he changed my life for the best, I believe.
+
+0 (9m 38s):
+From what I understand, you really got interested in cooking. I mean, you, you know, you could again, have been, become a bus boy and maybe risen to eventually to an assistant manager and a manager of the restaurant. But you, you really were interested in what was being prepared in the kitchen and, and I guess wanted to learn about that.
+
+2 (9m 55s):
+Yeah. Yes. It was ingrained in me without knowing it. My mom at an early age, I remember she had this collection of cookbooks and I. I, as a kid, I remember that was a French collection. and I used to look at the photos of her cookbook collection. and I had no design. No, I just like the pictures. It looked delicious. And now I'm here in New York City, you know, as a busboy. I'm taking the dirty plates into the kitchen and I'm looking at these food that looks so much like the pictures of my mom's cul. and I'm like, wow.
+
+0 (10m 30s):
+What kind of restaurant was it? By the way?
+
+2 (10m 32s):
+The restaurant was French slash American cuisine. So, so the food was beautiful, you know, more beautiful than what I've ever seen before. And the, the fact that the chef was French trained too, he spoke a little French and he loved, whenever I was in the kitchen, he loved to practice his French with me. So there's so many things that that got me, you know, very lucky. Really. and that chef offered to, you know, he knew my story over time. He knew that I wanted to make extra money 'cause I was still hoping to save money and go to Ohio. I was like, New York is not for me. This crazy city is crazy. And and he said, okay, so why don't you come and do extra shifts in the kitchen, you know, you could be a, a dishwasher.
+
+2 (11m 12s):
+And I'm like, sure, I'll do the extra shift for the money, but I don't intend to stay in this, you know, this is too hard. And I hated washing dishes. I, you know, I hated it so much. I hated it. But It was a necessary first step. Yeah. And from dishwasher, I went to, you know, when the, the, the prep guy is missing, they always call the dishwasher, do and give you the knife. And you start chopping, prepping vegetables and, and yeah. Prepping. And, and that's how you learn your knife skills and how over time you become a prep cook, and then you're no longer a dishwasher. And then the garden Marge is missing. And then they take you to the Garden mag station and you start learning how to make the dressings and how to clean the leaves and the salads and stuff.
+
+2 (11m 54s):
+And that's where everything changed for me, because when I started to make dressings and I realized that I was making an emulsion of Yeah. Acid and lipid It was vinegar and, and oil.
+
+0 (12m 6s):
+You're a chemist.
+
+3 (12m 7s):
+And I'm a chemist and I'm like, Hey, this is chemistry. Yeah. I understand
+
+2 (12m 12s):
+What's going on here. you know? and I, and I started to look at every reaction in the kitchen from a different angle now because I, I knew the, I knew the theory of it. I knew, I knew the, what was happening. So It was really something I like, I dig this, I like this. I like the, the kitchen atmosphere, like the camaraderie. This became my, my family.
+
+0 (12m 33s):
+Within just a few years of arriving to New York, you actually became the head chef at, at this restaurant boom in Soho. Yeah, yeah. Yeah. And it's remarkable. You, I'm just, I'm trying to, I'm trying to like get, I, I wish I could be a fly on the wall for like those long distance calls. You, you, you had with family back in Dakar or maybe the letters you write. Dear family, I am not studying chemistry and physics. I'm actually the head chef at a restaurant in Soho.
+
+3 (13m 4s):
+It, it, it, it took me,
+
+2 (13m 6s):
+It took me a while to do that. It took me a while. I mean, I was still very embarrassed. you know, It was cultural. you know, you come to from a culture where cooking is really a women activity. So this cultural thing, It was stuck with me, even though I was very interested, but I knew I was in New York and everyone in the kitchen were men like me. So It was in this world. It was fine, and I was loving what I was doing. I really love it. I was passionate about it. But It was still difficult to tell my parents about it for a little while. And since I knew that, you know, it wouldn't belong until my mom find out. And, and I had to tell them. So that's when I, I mastered my courage and went to court and say, Hey, by the way, you know, I, I am not going to school.
+
+2 (13m 52s):
+Okay. and I am cooking and I love this. And, and my mom just, you could see, I mean, she was very reserved, but you could see she had this relief. She was smiling. I could feel that. And then she said, wow, that's great. What kind of cooking are you doing? And she was curious about the food that I was doing. Yeah. And she started asking me questions. And then she wanted me to give her some recipes. and I was like, wow, that wasn't bad.
+
+3 (14m 20s):
+And she
+
+2 (14m 20s):
+Told my dad, and my dad came to also, he could feel the smile, but they were both amused. But you could see that they were really relieved parents who knew that their son had found something that he enjoyed doing. And they were encouraging. and I was like, wow, I didn't think my parents were cool like that. Yeah. But they turns out they They weren. It wasn't, there's nothing to be cool about. I was just doing a job that I liked doing. But now I was free and I was free to become a cook. And, and later a chef
+
+0 (14m 50s):
+Pierre. I, from what I, I've read, I mean you were trained in the sort of European cooking styles, French, Italian, but in many chefs who are trained in European traditions but don't have European backgrounds go on to open restaurants that reflect their own identities and their own backgrounds. When were you able to start exploring that culinary side of your world?
+
+2 (15m 10s):
+Well, it started really, it came organically. First of all, you know, I, when I moved to New York, I was always craving for that food. The food I grew up eating. Mm. There was no restaurants really that's serving that food, you know. So at the restaurant, at Boom, the chef is interesting because he's doing a cuisine that's different. He's inspired by Southeast Asian cuisine, you know, and that's new in New York. We like in the early nineties, mid nineties. And, and that cuisine has flavors. That's somehow taking me back home. There's lots of fermentation, there's lots of acidity. you know, there's that freshness, you know, that and the grain and all that. And at times when that was my turn to cook family meal, I would cook food from memory dishes that my mom used to prepare.
+
+2 (15m 59s):
+I mean, peanut sauce, family
+
+0 (15m 60s):
+Meal of course is what is what the kitchen staff eats before they serve the customers. Yeah.
+
+2 (16m 6s):
+Four, five o'clock family meal. Someone from the line is the one in charge of family meal. And when that's my turn, everyone was looking forward to it now because I got them used to this caramelized onion and lime sauce with chili over rice. I had them peanut sauce with cassava. I mean, I'm bringing those flavors now, eggplants and okra and all that. And they're like, wow, this is different. This is cool. And, and then like, this should come as specials. you know, that's how the ID started to come into me. Now New York is calling itself the food capital of the world, but Africa is not in this world. I'm like, Hey, you know, this is going to be my mission. Yeah. I'm going to start finding inspiration from that cuisine and bringing it.
+
+2 (16m 49s):
+and that I never looked back. Eventually the restaurant was doing so well, we opened a new branch in South Beach Miami, and guess what they decided to send me to run that kitchen? Yeah. And I'm like, wow, this is amazing. I mean, I'm like completely, you know, shocked, but so excited because in addition to, in sending me to run the kitchen, I was told to even add some of the family meal specials into the menu. Into
+
+0 (17m 17s):
+The menu,
+
+2 (17m 18s):
+Into the menu. These
+
+0 (17m 20s):
+Were dishes like you were using like sweet potatoes and cassava and plantains and peanuts and chilies and
+
+2 (17m 28s):
+Exactly, exactly. You said the right words. Sweet potato cassava peanut sauce became my first dish. And, and okra. and that one was so well received. I mean, there was a, a food reviewer who came to the restaurant and wrote an article about the restaurant that mentioned this one dish. It's like, I was like, wow. I was like, wow, this is, you know, to me It was like the, the top of everything. I mean being mentioned in a paper here in the us. So that was really the thing that confirmed to me that I had to stick to this mission. So when I came back to New York, I decided to start the catering business. And eventually in early 2000, this catering became my very first restaurant.
+
+2 (18m 12s):
+Yole Yole.
+
+0 (18m 14s):
+We're gonna take a quick break, but when we come back more from Chef Pierre Chiam about his journey from chef and restaurant owner to founding the company he oversees today. Stay with us. I'm Guy Raz and you're listening to How I Built This Lab.
+
+ZipRecruiter (18m 30s):
+Did you know that if you're an employer who's hiring, it takes an average of 44 days to fill an open position. If you're investing that much time into each new hire, you wanna get it right. So what's the most effective way to find the best people for your roles? ZipRecruiter? See for yourself right now? You can try it for free at ziprecruiter.com/built and experience the value ZipRecruiter brings to hiring. ZipRecruiter finds you more qualified candidates faster. Once you post your job. ZipRecruiter's smart technology works quickly to identify people whose skills and experience match it. Then ZipRecruiter sends you a list of great matches for your job so you can review the top ones. It's simple. ZipRecruiter helps you get hiring right four out of five employers who post on ZipRecruiter. Get a quality candidate within the first day, see for yourself. Go to this exclusive web address to try ZipRecruiter for free before you commit ziprecruiter.com/built. Again, that's ziprecruiter.com/b U I lt. ZipRecruiter, the smartest way to hire.
+
+How I Built This Lab (19m 39s):
+Hey, it's guy here. And while we're on a little break, I wanna tell you about a recent episode of How I Built This lab that we released. It's about the company TerraCycle and how they're working to make recycling and waste reduction more accessible. The founder, Tom Zaki, originally launched TerraCycle as a worm poop fertilizer company. Did this from his college dorm room. Basically, the worms would eat trash and then they would turn it into plant fertilizer. Now his company has since pivoted from that, and they recycle everything from shampoo bottles and makeup containers to snack wrappers and even cigarette butts. And in the episode you'll hear Tom talk about his new initiative to develop packaging that is actually reusable in hopes of phasing out single use products entirely and making recycling and TerraCycle obsolete. You can hear this episode by following How I Built This, and scrolling back a little bit to the episode, making Garbage Useful with Tom Zaki of TerraCycle or by searching TerraCycle. That's T E R R A C Y C L e wherever you listen to podcasts. One more thing before we get back to the show, please make sure to click the follow button on your podcast app so you never miss a new episode of the show. It's usually just at the top of the app and it's totally free. Hey, welcome back to How I Built This Lab. I'm speaking with Chef Pierre Chiam.
+
+0 (21m 5s):
+Okay, so in 2000 you opened your first restaurant called Yole. And, and you'd begin this journey as a restaurant owner and then eventually a cookbook author. And, and from what I understand, for your first cookbook, you went to Senegal to research ideas for the book. And, and I guess, during one of those trips, you rediscovered this grain called fonio, which you, you had eaten kind of rarely as a child, right?
+
+2 (21m 32s):
+Yeah. So I had eaten fonio on rare occasions when my parents would take me to visit my grandparents in the south of Senegal. So Fonio is grown in that region in the south, in, in Kasama and Kadogo. Those are like the, the, the, the fonio areas of Senegal. But in Dakar where I grew up, there was no Fonio. So I'd never had Fonio growing up. So I'm now writing this book many years later. And we spent time with the women of my family. Really? That was where, you know, I was getting the inspiration and I wanted the book to be about that. And as I'm traveling in the south and I'm tasting all these different flavors, and the fonio came back and it hit me and I'm like, oh wow, this grain is so delicate.
+
+2 (22m 20s):
+And in that part of Senegal, they still consider it, they call it the most delicious grain of all grains. That's like how they see phia. So It was like, I need to write about this grain. Yeah, I need to bring this grain. I need to, to even include it in my menu.
+
+0 (22m 36s):
+We should fone just stop and describe Phia. 'cause I've, I, I said this before we started recording that I have made it, it's a little bit like, and help me out here. Like, it's a cross between like couscous, like the fluffy lightness of couscous and sort of a, a nutty, there's a nuttiness, but it's none of those things. It's not quinoa, it's not couscous, it's not a wheat, but it has that lightness. Is that fair to say?
+
+2 (23m 3s):
+Yeah, it's fair to say it has the size of couscous. It's ular, couscous and fluffy. It's even lighter than couscous. Yes. Because you know, when you eat couscous you can feel heavy after. Yeah. But with fon it's really, I mean, you can eat fonio and just go for a run right after this isn it, it digests really easily and it has nuttiness you. Right? It's slightly naughty. And the, the other particularity of fon, which is really great, is very neutral flavor. So that makes it very versatile. You cook fon with so many different flavors, it adapts to so many different sources. My, my last cookbook was dedicated to Fonio. So I have lots of recipes from the whole journey of fonio, you know, from desserts to baking to to to savory dishes, to, I mean fonio sushi, you know, I mean there's like so many ways to use fonio before
+
+0 (23m 52s):
+We talk about the business that grew around this 'cause that would eventually happen. I wanna ask you a few more questions about Fonio because it is this grain that is, I guess it's really high in protein and amino acids, SSIDs and also doesn't require a whole lot of water to grow, right?
+
+2 (24m 8s):
+No. Fonio grows in an area called the Sal. you know, Senegal is south of the Sahara. Yeah. And it's dry and arid, but Fonio grows so easily there, you know, it's like one of the fastest maturing grain that requires very little water. It's rain fed, but it, you know, it just requires the first rain. And after that, even if there was no other rain coming or the rain is inconsistent, like it's the case right now with climate change. Fonio is guaranteed to grow. There's a, a nickname for Fon. They call it the, the lazy farmers crop for that reason. 'cause what the farmers do is when the first rain comes, they just throw the seed. They don't even tilt the soil.
+
+2 (24m 48s):
+They don't really do any work to the soil. They just throw the seeds, like broadcasting it. And then they can just go and, and sleep for two months and come back and harvest the fon. That's how easy it is to grow. And in addition to that, the most important part is the agriculture of fonio help to regenerate the soil because it has, it has deep roots that add nutrients to the soil.
+
+0 (25m 11s):
+So they create aeration in the soil essentially. Exactly.
+
+2 (25m 14s):
+Exactly, exactly.
+
+0 (25m 15s):
+And you don't have to churn it up with tractors or you know, which releases no carbon. Right. You can just, those deep roots aerate the soil.
+
+2 (25m 23s):
+Exactly. And when they harvest it, they just cut the top, the roots stay in the soil and eventually it adds nutrients to the soil. And not only that, for you's a nutrition powerhouse, like you mentioned, it's gluten-free and, and has so many properties, one of them being very important is it has is caused a low glycemic index. So
+
+0 (25m 45s):
+Oh, good for diabetics.
+
+2 (25m 46s):
+Exactly. So there's like, I mean there's so much going for that grain and, and I was like, I have to figure out a way to, to introduce it to my readers. Yeah. And because my, my cookbook was incomplete, I always had to think of substitutions for certain ingredients and I. That's when the idea of ele the business of bringing those crops to the market came to be really, that's this, when that seed was planted.
+
+0 (26m 10s):
+Alright, so the seed is planted and you're starting to think this could potentially be the next quinoa. 'cause quinoa was introduced to the US maybe in the seventies, but really didn't take off until the two thousands. Yeah. Right. And, and, but we know there are challenges with quinoa. It's, it's hard to grow it, it's very resource intensive and there's a shortage of it in some places. And so as the climate is changing, would make sense to look for a more sort of robust and resilient crop. And here you go. Here you have one. From what I understand, even in Africa, Phia was much more widely eaten a hundred, 200 years ago than it is today. So what happened? Why is that the case?
+
+2 (26m 51s):
+We got colonized, colonization came and then there was a mindset that came with it. Crops like fonio, millet, sorghum, which was our traditional crops, became the country people crop. We were branded with crops like wheat. you know, in Senegal for instance, we love eating our baguette bread. We eat baguette bread every single day. We don't grow wheat in Senegal. We don't grow wheat in cord dvo in many of those countries. But Africa now is like importing, bringing wheat. I mean, and it's interesting that you asked this question.
+
+2 (27m 31s):
+'cause today with the Ukraine crisis, there's a serious shortage of wheat
+
+0 (27m 35s):
+Serious. And by the way, it's reverberating around the world, including in places like SSRI Lanka, they're all connected to these shortages of wheat. We're seeing these crises happening around the world.
+
+2 (27m 48s):
+And that's, that tells you how foolish we are to rely on crops like wheat. I mean the, first of all, the limited number of crops we rely on. Yeah. Our food system is wheat, rice, soy, and, and corn. And we ignoring crops that are much more, not only resilient like fonio and we need to integrate them. But the most crazy thing is continents like Africa, which have such a diversity of plant crops. And now because one part of the world is in crisis and the whole continent is suffering from it because the concentration of the supply is coming from Ukraine and Russia. It is, it is mind boggling.
+
+2 (28m 29s):
+So it's urgent that we rethink it and we start integrating crops like fonio. And not only it makes sense because for our food security, we need to make sure we have that. But also because those crops are so much more adapted to the environment, they're resilient, they're drought resistant. There's a lot of reason why we need to rethink it. But to answer your question, this that's what happened. Yeah. After we got colonized, we started importing wheat, we started importing rice. We even had a rice culture in Senegal. But because of our connection with the French, we started importing broken rice from Vietnam. So that Senegal is, farmers would focus on growing peanuts that we need for our, our industries.
+
+2 (29m 12s):
+Colonization was a business. Wow. So the French made peanut a cash crop in Senegal. So the farmers started growing peanuts and
+
+0 (29m 19s):
+It was a monoculture and it became a monoculture. And as a result, fonio stopped being produced, people stopped growing it,
+
+2 (29m 26s):
+And people stopped growing Fonio. You had to go to Kedu, GU and Kasama. That's the only places where you would see Fonio.
+
+0 (29m 33s):
+That's an amazing story, right? You are a chef in the United States and now have a platform with a book and you come across as grain and you're thinking, I gotta get this in the hands of American cooks. When do you start to think, okay, I'm gonna create a business and I'm going to start a business around this grain and I'm gonna start to bring this grain to the US 'cause it doesn't happen right away. It took you a few years before you did that. But what was the impetus?
+
+2 (29m 60s):
+Well, the, the impetus was one was my naivete. First of all. I'm like, which
+
+0 (30m 4s):
+Is always important, very important,
+
+2 (30m 7s):
+Very important. I'm like thinking I'm a chef in New York. I've seen how quinoa did it. It was not this great. I mean a non-grain. And then today everyone is, you know, If, you can do it. you know, if kiddo can do it, FYA can do it. And, and all I'm going to do is take the grain and introduce it to my fellow chefs. 'cause they're all looking for new products, new food, new flavors. And they'll embrace it and then they'll serve it on their menus. And then the customers would ask for it. And then the supermarkets would require, I mean, that was my thinking, very naive, like I said. Right? But really the impetus was when I, one of my travels in this part of Senegal called Kedu, where fou is king. And there you realize the level of poverty, the people in Kadu, I mean, it's only pretty much all people living there, you know, the youth, they left pretty much, they're all trying to make it to the city or to Europe.
+
+2 (31m 0s):
+They're looking for jobs. They're able, they're willing to work, they're risking their lives to go find a better life. And I'm like, if this grain can become a world class crop, like quinoa has become, this will change the situation here. So this really was my thing. I I felt like I could bring something, I could, it could be my contribution. you know, I thought I was uniquely positioned being a chef from this part of the world in the food capital of the world. And if this plan works, it wasn't much of a plan. But if this plan works, you know, this is going to bring jobs. People are not going to leave because they're going to stay and grow and make money from it.
+
+2 (31m 42s):
+Because New Yorkers and everywhere else, even people in the city, the car will start wanting it because all we need to do is create a chain of value. And to me, this isn one thing I got right was I knew it needed to be branded. Those French, they branded their baguettes. That's how we still eating it. They branded this broken rice to us. And yeah. And, and now I'm going to brand fonio and I'm gonna make it sexy. And this is going to to work. And these guys are going to, to have a dignified living with something that grows in their land, that's been growing in their land for 5,000 years. And, and that was just the, the way I was thinking and I, I just went for it. I was like, let's do it.
+
+0 (32m 23s):
+We're gonna take another quick break. Coming up more from Chef Pierre Chiam, founder and president of Yole. I'm Guy Raz and you're listening to How I Built This Lab. Hey, welcome back to How I Built This Lab. I'm Guy Raz and I'm speaking with Chef Pierre Chiam, who's building a food company based around an ancient West African grain called Fonio. Okay. So Pierre, your, your initial idea was, you know, hey, if we can produce fonio, if we can get people harvesting phony and processing it and then creating a, a pipeline to the us we could create an industry here in Senegal that would help the local economy.
+
+0 (33m 11s):
+But I guess at the same time you are also thinking let's market phony because it's also really nutritious, right? It's an efficient and nutrient-dense product. Is that, is that more or less right?
+
+2 (33m 20s):
+I was thinking both. I knew It was nutritious and I knew that there was a demand for that here. Ancient grains, nutritious, gluten-free. Feno was checking all the boxes. So I, I was like, this is what we could do less brand. It let's brand it and create a demand for it. I knew I, I needed a partner and I looked into someone who also had an experience in actually doing it. Really. And Philip Devereux, who's a veteran in the food industry, who actually had worked with bringing quinoa in the eighties,
+
+0 (33m 52s):
+Philip Tere, I think he, at the time he worked at Dean and DeLuca right. For many years. That's
+
+2 (33m 56s):
+Right. That's right. He worked, he worked at Dean and DeLuca. So, if you remember Dean and DeLuca, they used to bring all these interesting flavors. And me, when I was working in Soho, we oftentimes shopped at Dean and DeLuca. Yeah,
+
+0 (34m 7s):
+It was a groundbreaking store that one in, in Manhattan. And, and really all kinds of cool, amazing things came in through Dean and DeLuca.
+
+2 (34m 15s):
+That's correct. That's correct. And a lot of the food we were serving, we couldn't be doing it at boom without the, the ingredients, the access of Dean and DeLuca.
+
+0 (34m 24s):
+So he had eaten, 'cause I we didn't mention he had eaten, you had opened a second restaurant in New York, he'd eaten there. This is called La Granda car. And you, he, you kind of, or somehow you started to talk to him about, about Fonio and it intrigued him and he thought, Hey, there's something here. Yeah.
+
+2 (34m 41s):
+Yeah. And actually we have two versions of the story. But he remember, he remembered reading an article where I was talking about Fonio. The article was really a call really for, I, I was so distraught by the stories I mean of these young people, it really is a tragedy. If you heard of may not have heard about it, but there's for a decade now they kids who are dying in the ocean because they're taking the G boat, fishermen, the G boat to trying to travel from Dakar to Barcelona. Yes, Yes. And thousands are drowning and they, some, some many make it that's just amazing.
+
+2 (35m 21s):
+Just imagine the journey. Many of them make it, but thousands are drowning every single. Yeah. To me, It was, you know, something needed to be done and, and we shouldn't expect help to come from anywhere but from ourselves. and I was like, fonio is actually the thing is growing here and this could be desired and bring income and that would just help in, so this was the thing I was talking about in that paper. And Philip read it and, and he reached out and, and we, and we met and we talked and I was like, yeah, actually, you know, let's do it.
+
+0 (35m 54s):
+You and Philip decide to form a business called Ele. And how did you initially, I mean did you go out and raise money for the, the company?
+
+2 (36m 4s):
+No, no, actually wow. We didn't, we It was it started with friends and family. Really? Yeah. So, so we did, we did one thing. We knew the logistic of It was going to be something we didn't have the means for. So we reached out to a company called Woodlands who have been importing food from 60 plus countries around the world, interesting flavors. And they, we knew they would get that and they were intrigued enough to decide to send a few executives from the company to Senegal with us, for them to see what we're talking about. And they came and those guys are like these Chicago executives who never been to Africa and, and now they're going into not only Dakar but like in this deep south, you know, six, seven hours drive through like dirt road and stuff.
+
+2 (36m 54s):
+So It was quite a trip, but once they got there, they were all transformed and they felt so at home and welcome. And they ate so well as well. And they came back and they're like, yeah, we gotta do it. Let's figure out a way to do it. And that's how we did it, you know? Wow. We, we started working with group of women cooperatives. They were getting the fonio processed for us and we would ship it by containers to, to Woodlands. And Woodlands would package it under our Yole brand.
+
+0 (37m 24s):
+You managed to broker an agreement with Whole Foods initially that Whole Foods would carry this product. 'cause 'cause they like interesting new, unique products and it's a great platform to get this out there. But one of the challenges from what I've read about Fonio is the processing of it, right? Because it's, it has a very thick hu that is inedible and it has to be like ground out of it. So how did you solve the challenge of like processing it? Because to get to the grain is a lot, it's very labor intensive, right?
+
+2 (37m 57s):
+Yeah. And fonio, that's the only challenge you see. It's easy to grow, but it's hard to process. It has an a skin that's inedible and that's also one of the reason why Fonio didn't make it big until now because the processing was so at the time it used to be a mortar and pestle,
+
+0 (38m 15s):
+Mortar and pestle. A person literally grinding each.
+
+2 (38m 18s):
+Oh yeah, yeah. You see the, the African mortar and pestle though, they like the, the big ones carved out with trunk tree and with a big pillow and, and and they, they, they pounded and they pounded the big PE and it takes about two hours to just have one kilo of f That was the time. And eventually it became mechanized, you know, and actually a Senegal is an engineer came up with a, a technique and Fonio was mechanized, which is the fonio we are getting right now. There's a mechanized aspect, but it's still some manual parts of it. And we knew we had to fix it at some point. We knew we can now identify some great cooperatives that are doing a much better job than others to get us a good quality fonio.
+
+2 (39m 1s):
+But we knew there's a moment as a demand growth that we had to figure out the solution for the, the processing of Fonio. So
+
+0 (39m 8s):
+What did you do? Yeah, what, how'd you do that?
+
+2 (39m 10s):
+So we went to a company that makes actually the best of the milling processing equipment in the world actually. And we told them, Hey, we have this grain and we need to figure out how to process it. And it has to be all automated and it has to be efficient. And they took a while to come up. We had to send tons and tons of Fonio party for them to do the testing. And now we figured out we have this machine that completely revolutionized everything. Now we not only eliminated the waste because at the this stage of processing, we still had close to 50% of waste, which is crazy.
+
+2 (39m 54s):
+And now with the machine, they design a machine that not only eliminates that waste, but it really is also processing at a much faster capacity. We have like two tons per hour as opposed to one ton per day. It really changes everything. Remove the bottleneck. That was really slowing everything. And now we can access fonio to not only the, the growing demand in the market here, but there's also the food industry that couldn't have access to Fonio because the processing wasn't at the standard standard called g f SS I that like you can sell to big food now. Yeah. So now big food, that big food is looking to meet the sustainable development goals and Fonio is offering all of that and now we have access to it.
+
+2 (40m 41s):
+So that's opened a whole other set of perspective. we can have fonio flour for Bakers, we can have Fonio Pilafs now we have Fonio chips. That's a whole other different category we just entered now.
+
+0 (40m 55s):
+It's, it's awesome. I mean it's amazing 'cause you've expanded, as you say, you've expanded your product line from originally Fonio grain to flowers and chips and other things. I think your products are now available in like 2000 stores in the US the Whole Foods and, and some target stores as well. And obviously on online. Tell me how you are besides, you know, doing co having conversations like this, how are you getting the word out? Like it's still, you know, you are right now Fonio right now is where quinoa was, let's say in the eighties, right? Where there's very little awareness. It's actually a very easy grain to cook. It cooks very quickly. Yeah. Five years. It absorbs flavors really. Well, you can cook it in chicken stock or vegetable stock, If, you want to, oh, just, or water.
+
+0 (41m 38s):
+But it's, it's still not a lot of people know about it. So like how do you make this into quinoa? Do you start with restaurants? Do you start with like, are there sort of influential places where you really wanna get this, you know, get this made?
+
+2 (41m 53s):
+So yeah, it, it, it really, it started again, you remember when you mentioned Whole Foods, there was one Whole Foods that gave us a chance, right? It was next to my restaurant in Harlem and that Whole Foods, I had to go in the place itself and do some cooking demos and Right, right. Have people taste, you know, like I made some fonio salad, fon and mango salad and kind of thing. And people would taste. And every time I would do that, every time I would do a demo, the Fonio bags would fly off the shelves. Yeah. So that, that's really when it started. And Whole Foods, people noticed that this grain is doing really well, let's give it a chance on a second store. And then they gave us shelves on Union Square and then on Times Square and then in Brooklyn.
+
+2 (42m 34s):
+And then next thing we were in all the Whole Foods in the Northeastern region. And, and it kept growing like this. We also started to grow with a community of influences who connected with the food in different ways. Some were connecting with it because of the, the heritage aspect of it, you know, so you have the African diaspora who could connect with this grain who is considered as the oldest cultivated grain in Africa. Others, because of the nutrition aspect, you know, we have this strong gluten-free community who just, just embraced Fonio and they are posting it on social media. We are using a lot of social media as well, our platform Instagram and TikTok now.
+
+2 (43m 14s):
+I mean, all of that is being part of it. And there's these collaborations we are doing with other brands that are also similar to ours in terms of mission of like bringing, you know, diversified food products into the market. So, so there's all these illa type of approach that we are using to spread the word in addition to, you know, I've been fortunate to get media attention through the restaurant or through my books. And so all of those creating awareness and, and more and more the world is coming out, but a lot of it is organic.
+
+0 (43m 48s):
+And you have a re you have a restaurant, two locations in New York, Teranga, and where you do sio, you've got delicious. I mean, I haven't eaten there, but I'm just looking at the menu like the chicken, grilled chicken bowls and the vegan bowls and all this. And, and Jo If, you do jollof, but you also have many dishes with Fonio as a Oh yes, as a side,
+
+2 (44m 7s):
+As a side. There's been a series of circumstances that, that did help to spread the word. I think the timing was also is good. People are more aware that we need to, to diversify our diet, we need to bring products that are not only good for you, but good for the planet and Delicious. And Fonio was all of that. And again, he cooks in five minutes. So you can't beat that.
+
+0 (44m 28s):
+Awesome. Let's do it. Let's eat it. Let's eat some Fonio. Let's make some Pheo right now. Right
+
+2 (44m 33s):
+Now it takes five minutes. That's, or or you can even do it even faster. You eat the chips, you know, so it's a snack. So you just open a bag and, and, and you are changing the world. Your own contribution.
+
+0 (44m 44s):
+I love it. Pierre Sham is founder of Yole Pierre. Thanks so much. Thank
+
+2 (44m 49s):
+You Guy. It was a pleasure.
+
+0 (44m 52s):
+Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app so you never miss a new episode. And as always, it's totally free. This episode was produced by Katherine Cipher, with editing by John Isabella. Our music was composed by Tine Arablouei. Our audio engineer was Gilly Moon. Our production staff also includes JC Howard, Casey Herman, Sam Paulson, Ramel Wood, Alex Chung, Elaine Coates, Chris Masini, and Carla Estevez. Neva Grant is our supervising editor. Beth Donovan is our executive producer. I'm Guy Raz and you've been listening to How I Built This
+
+Amazon Music (45m 37s):
+Hey Prime members. You can listen to How I Built This early and ad free on Amazon Music. Download the Amazon music app today,
+
+wondery Plus (45m 45s):
+or you can listen early and ad free with Wondery Plus in Apple Podcasts.
+
+0 (45m 50s):
+If, you wanna show your support for our show? Be sure to get your How I Built This merch and gear at Wondery shop.com.
+
+Wondery (45m 58s):
+Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.

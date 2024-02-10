@@ -1,0 +1,308 @@
+Indeed (0s):
+What's better than finding quality candidates? Finding them fast. With Indeed. you can attract talent interview candidates and hire all in one place. As soon as you sponsor a post on Indeed, you get a short list of quality candidates whose CVS match your job description. Boom, just like that. So start hiring now with a 100 pound sponsored job credit for your job. Post at Indeed dot com slash how I built Offer good for a limited time claim your 100 pound credit now at Indeed dot com slash how I built. Just go to Indeed dot com slash how I built and support this show by saying you heard about it on this podcast, Indeed dot com slash how IBU terms and conditions apply Need to hire. you need indeed,
+
+NPR (48s):
+Did You know you are physically adapting to all your swiping Scrolling and tapping. We are changing our bodies and what they're able to do through our NPR R's Body Electric, a special interactive series investigating how to fix the relationship between our tech and our health Listen in the TED Radio hour feed wherever you get your podcasts.
+
+0 (1m 13s):
+Hello and welcome to How I Built This Lab. This is our weekly look at companies trying to build world changing technology, and it's also a place where we bring back previous guests from our Monday episode for an update. We first told the story of the dating app Bumble back in 2017, and if you haven't heard it, go back and check it out. It's a pretty crazy story of how Whitney Wolf Herd started one of the most successful dating apps out there. And since that time, Bumble has become a publicly traded company with a market cap of more than two and a half billion dollars. Recently, Whitney's been focusing a lot on artificial intelligence and how it will change everything about dating and love, which you'll find out about in a moment.
+
+0 (1m 59s):
+It's both amazing and maybe a bit scary. Anyway, I first asked Whitney to take us back to the spring of 2020. In the early days of the pandemic, when Whitney needed to figure out how Bumble would survive,
+
+4 (2m 14s):
+You can imagine the terror, the existential crisis that I went through when putting pen to paper. I realized, oh my God, our entire business model is based on people meeting in person. And I remember thinking, oh my God, not only is the world ending, but Bumble's dead, like this is the end. Wow. Wow. There was, there was a, a moment in time really maybe You know, however brief it was that I really said, wow, this could be devastating. But what became phenomenal very quickly was that you cannot kill human desire for relationships and for community.
+
+4 (2m 56s):
+And where we were so quick to innovate was taking these features that we had otherwise considered duds, if you will, right? Voice calling, FaceTime, calling
+
+0 (3m 10s):
+Videos,
+
+4 (3m 11s):
+Videos like these features that nobody wanted to use.
+
+0 (3m 14s):
+You had them available, but people weren't using them. They
+
+4 (3m 17s):
+Were like the lowest on the interest poll because candidly, pre covid what good, what, what did they serve? Right? This is before Zoom took
+
+0 (3m 24s):
+Off. People were not using them. They were not just saying, Hey, let's just talk on video before we meet up. It just was very rare before Covid.
+
+4 (3m 31s):
+Extremely rare. I mean, it wasn't even something we were really marketing, right. When we launched it, we were excited about it. So of course we put some marketing behind it, but it just kind of was a womp w it didn't really land. Yeah. So what was absolutely fascinating was pivoting not just the product strategy, but even the marketing strategy. So You know, getting creative with influencers and celebrities and having them do their first date virtually. So we would have, you know, food dropped off to them and they would literally have a first date via Bumble on video. They'd light the candles at their respective homes. They'd sit and have their meal, they would have questions to ask each other. And so we just pivoted.
+
+4 (4m 11s):
+We just reimagined what does life look like if you're not allowed to be in person? And through that process, we became a real technology business.
+
+0 (4m 23s):
+Yeah, it, it's so interesting 'cause I, I remember we, we talked to Sal Khan and, and they just saw like You know 600% growth, You know month over month, You know from kids going to Khan Academy around the world. And obviously Zoom was a, a a a company that just had massive explosion in in users. When did you start to see people use the video feature? Like pretty much right away. When, when, when we were told like, don't leave your house. Yeah,
+
+4 (4m 47s):
+It, it, it clicked in pretty immediately. But I remember it was fascinating to watch the general public almost hack their way into using this product to build relationships virtually, right? So these video features and these things that had been stagnant all of a sudden were being used at at rates we had never seen before.
+
+0 (5m 11s):
+Yeah. So at what point do you remember people going back to meeting in person, like connecting on Bumble and then saying, You know what, tell this, let's just go, let's go have a drink.
+
+4 (5m 23s):
+Yeah. You know it was the park dates.
+
+0 (5m 24s):
+Oh yeah, yeah. We
+
+4 (5m 26s):
+Started getting wind of these people saying, well, We can go for a walk six feet apart in the park, and I'll never forget it. It, it'll stay with me for the rest of my life. I was in the gym, which was something you didn't do. It was like the very first time we went back to a gym and there was a couple in the gym and the gentleman was in his seventies and, and the woman, she was in her early sixties, and I could tell they were together and they were kind of keeping their distance and they kept looking at me and looking at me and watching me in the gym. I was like, what is going on? Do I have something on my face? I had a Bumble shirt on and they said, I'm so sorry, we just, what's with the Bumble shirt? And I said, oh, You know I'm, yeah, I explained my role in Bumble.
+
+4 (6m 9s):
+And they just both almost started crying. And I said, what, what's going on? And he said, You know I lost my wife less than a year ago, and I was in utter depression and isolation and she had just gone through a very, very tough loss and, and I believe divorce. And he said, we both had on our Bumble profile that we were open to a social distance state. And we met in the park and we had a six foot distance picnic. And it hit me like, oh my God, this is what we have to do. So the team went out and took out these ads that said your park or mine, and we did billboards and digital billboards and slowly but surely people started to inch their way back into these social distance meetups.
+
+4 (6m 54s):
+And then we had You know, have you been tested? Have you been vaccinated? So we really started building the, the, the mechanisms of safe meetups into the product itself so that people could get back in the real world together.
+
+0 (7m 7s):
+So you, you basically figured out how to create a marketing campaign that, that played on these kinds of things that people were doing like absolutely socially distance distant. I I had many of those. Not, not dating, I've been married for a long time, but meeting up with friends at parks and, and I remember you, you'd walk like eight feet away from them and you would just be worried that you'd bre you'd be breathing in their air. It was such a weird time. But I mean, at this point now, is this how the majority of of relationships begin through through dating apps or is that your sense?
+
+4 (7m 44s):
+So unfortunately for those of us that love data, majority is somewhat of, of a subjective right number here, depending on the data source that you look at in the survey. But there is no argument that that dating apps have become You know the front runner in how, you know, people between a certain age group meet and that number is only expected to grow because of a few things. Thing one, we are digital first generations at this point, right? Even the ones that are, are not native to, to digital. IE my parents, they are now digital first. They spend most of their lives operating through their phone.
+
+4 (8m 24s):
+And so using our phones as tools to get us from point A to B or to have our food delivered or to order our groceries or to now look for the one, this is normal. And that's only becoming more normalized. And and when you think about how hard it is to meet people in real life, even post pandemic, where We can go back to the bars and the restaurants You know, you have to really hope and wish to be at the right place at the exact right time to meet that special someone. And so when you think about the power of technology, how it essentially lets you bypass fate and hack it.
+
+4 (9m 6s):
+You can wield the power of, of meeting who you wanna meet. You can filter people, you can layer your search criteria in ways that you just cannot do in the real world. This this is really powerful. Mm.
+
+0 (9m 19s):
+Yeah. Whitney, when we first had you on the show, I mean, man, you were just a a, a baby pup founder and now You know many years later you're an experienced operator. You took your company public in 2021, You know, I think you were the youngest female founder to do so. How has being the CEO of a public company changed you as a leader? Has it, has it made you more cautious? Has it made you more, you know, because now obviously when you say things, it can move stock price, it can You know, affect shareholder sentiment. D has it, has it changed how you operate?
+
+4 (9m 57s):
+You know, I think every single day public company or not a public company, we're all learning and we're all growing and we're all being challenged on different levels. And if you look at the past, call it four years of my life, I've gone through the most dramatic personal changes and most dramatic professional changes in my entire existence. All in the same kind of chapter I had. My first child took Blackstone on as a, as a shareholder, all within the same few weeks pandemic hit, I became the group level CEO with You know a whole new slew of responsibilities.
+
+4 (10m 41s):
+And then we took our company public in February of 2021 when I had a 16 month old and I was still dealing with a lot of personal struggles, postpartum depression, I was having major health issues. I almost had a near fatal birth complication with my first child. So that was, that was a whole undertone in and of itself. And I had to really rapidly go through a crash course of what it means to be a very serious, very responsible, very deliberate technology executive, in this case, a publicly traded CEOI am at my core in entrepreneur.
+
+4 (11m 24s):
+I'm a founder. I'm a creative, I think a million miles a minute, and I see multiple years into the future. And when you're a publicly traded company, you need to see 90 days ahead at the same time. So using your brain to look 10 years ahead and 90 days ahead, all in the same breath while you're cleaning baby drool and trying to deal with a myriad of new responsibilities that come with being publicly traded. Yeah, it's a lot. But I have to say I'm so incredibly grateful and I feel really humbled by the entire experience.
+
+4 (12m 6s):
+I feel like I've learned more in the last few years than I could have learned in 10 different business schools combined. Yeah. And that to me is invaluable and the way I look at life. And I think to answer the question, I've taken a very spiritual approach to, to life through this. Because candidly, it's heavy stuff. And in order to survive, you have to zoom out. You have to turn yourself into just a tiny little speck on a map, on a globe out floating in the universe to really kind of laugh it off on a heavy day. And what I've come to realize is we're all here to learn. That is our job, to be here on planet earth. We're here to learn and we're here to grow, and we are here to evolve and to be better the next day than we were the day before.
+
+4 (12m 52s):
+And if you want that, go and become a publicly traded company. Yeah. In the midst of some crazy times because man, you'll, you'll learn a lot.
+
+0 (13m 2s):
+We're gonna take a quick break, but when we come back more from Whitney on what she's learned about leadership, stay with us.
+
+4 (13m 8s):
+I'm Guy Raz and you're listening to How I Built This Lab.
+
+Mint Mobile (13m 17s):
+Signing your life away to a big wireless provider is kind of like being trapped on a rollercoaster from hell. Sure, it looked fun at first, they probably threw in a free phone, but now you can't get off month after month of insane bills and unexpected thrills like overages and surprise fees. If that sounds like your current big wireless plan, it's time to get off the ride with Mint Mobile for a limited time. Wireless plans from Mint Mobile are just $15 a month. That's Unlimited talk text and data for just $15 a month. When I switched to Mint Mobile, the process was incredibly easy. I used my own phone, I was able to keep my existing number and all my contacts and the signup process took less than five minutes. Plus the coverage has been absolutely amazing. So say goodbye to your big wireless plans jaw dropping monthly bills and unexpected overages to get your new Unlimited Wireless plan for just 15 bucks a month and get the plan shipped to your door for free, go to mint mobile.com/built. That's mint mobile.com/built. Cut your wireless bill to 15 bucks a month@mintmobile.com slash built.
+
+4 (14m 29s):
+Hey, while we're taking a little break here, I wanted to tell you about an episode of How I. Built This we released a couple of weeks ago. It's about how the company Yasso was able to enter the competitive Greek yogurt market by focusing on a key differentiating factor. When Amanda got the idea to freeze Greek yogurt into a sweet, low calorie treat, she reached out to her friend Drew and the two friends set out to make a high protein, low calorie Frozen yogurt bar called Yasso. Despite initial bad reviews from family and a series of nos from prospective manufacturers, they managed to get Yasso onto the shelves of Costco and BJ's, but it wasn't long before they faced daunting competition from the top players in the freezer aisle trying to build off their momentum.
+
+0 (15m 13s):
+You can find this episode by following How I Built This in your podcast app. And scrolling back a little bit to the episode titled Yasso Amanda Klain and Drew Harrington or by Searching Yasso, that's Y-A-S-S-O wherever you listen to podcasts. Hey, everyone You know, every time I run into a How I Built This fan, the first thing they wanna do is tell me about their favorite episode, which is so awesome. So now I wanna share your favorite episode with the millions of people who listen to this show episodes they might not have heard or might wanna hear again. So here's what I want you to do. Grab your smartphone and record a short memo short, like less than 30 seconds, and tell us your name, where you live, and which episode is your favorite, and why you loved it.
+
+0 (16m 1s):
+So for example, I might say, Hey, it's Guy Raz here in San Francisco, and my favorite episode of the show is the one about Hamdy, Lakay and Chobani, because I learned so much about how to just push through and nothing seems to be working out, and it gave me a whole new perspective on being resilient. So that's it. Something like that. You know, and by the way, that's not my favorite episode. I love them all equally. Anyway, once you're done with the recording email or message it to us at ibt at id dot Wondery dot com and we'll share your favorites right here in the ad breaks in future episodes. Thanks so much. You guys are the best.
+
+0 (16m 48s):
+Welcome back to How I Built This Lab. I'm Guy Raz. My guest today is Whitney Wolf Herd, who over the past few years has led Bumble through a pandemic that totally upended online dating. One of the things I'm I'm curious about Whitney is how as a business you have handled trying to sort of be everything to everyone or maybe not, you know? So for example, I'm a Gen X or I think you're a millennial You know when, when I was sort of teenager and younger. I mean our, our society was just a lot less progressive around gender sexuality. Young people are, are just much more open to different views on sexuality, gender, and You.
+
+0 (17m 28s):
+know many people have, have sort of different approaches to, to having romantic relationships. So how do you be everything to everybody or, or maybe you don't.
+
+4 (17m 37s):
+I think we, we've kind of taken the approach that irrespective of gender, irrespective of sexual preference, safety, kindness, accountability, honesty, really leaning in with the foundational values of the business is what supercharges anyone being able to find anyone. So we've really tried to steer away from being a product that is known just for this or just for that. Now, that might sound con contradictory to some degree because we've always kind of been known as the the app where women make the first move.
+
+4 (18m 20s):
+But the message there is not about prioritizing one gender over another. It's about creating an ecosystem that is safe and welcoming and prioritizes kindness and does not tolerate abuse, does not tolerate bad behavior. You know we don't have settings that force you to look for only this one gender. We have spent a lot of time and energy over the last several years trying to become more inclusive across the gender and sexuality spectrum. But we are not the app just for fluid daters. We are not the app just for the gay community. We are not the app only for heterosexual relationships.
+
+4 (19m 1s):
+We are the app that really stands for prioritizing safety and kindness. And You know there are too many studies out there to count that if you start degrading the equality of women, you degrade all minority communities. And so by focusing on women's equality, it's really to pave the path for more equality for all.
+
+0 (19m 22s):
+So I'm, I'm curious from a business decision making perspective, right? Like, like if you go to a bar and you know, some bars are just bars, you just, people go and get drinks and then there are some bars where, you know, traditionally, you know, gay men hung out or, or gay women hung out or, or different communities of people hang out. And I wonder whether from a business perspective it makes sense to be a bar for everyone or to be a place that just targets certain communities. You know, obviously there's like, there's J date and there's Christian dating and there's You know Muslim dating and black singles and things like that. And I wonder, I mean like if you're, let's say a non-binary person, and I I, you know, I don't know how how Bumble handles this, but is it, you know, better for Bumble to be a place where somebody like that could go and sign up and be a customer?
+
+4 (20m 12s):
+Think about this more like Starbucks. Starbucks is within a mile of you no matter where you are.
+
+0 (20m 19s):
+Yeah.
+
+4 (20m 20s):
+It is a safe, clean place to grab a trusted cup of coffee.
+
+0 (20m 26s):
+Yeah.
+
+4 (20m 27s):
+You'll be treated with a certain level of dignity and respect. And so I would reframe this as Bumble always set out, and I was very, very adamant about this a along the way from, from inception to today, never be a bar for this or a bar for that. And in fact, don't be a bar, we're not a bar because we are more like Starbucks. You can come in here for a business connection, you can come in here for a friend meetup, you can come in here for book club. You can come in here on your worst day ever. And the only thing that can possibly make you feel a moment of peace is being here for two seconds.
+
+4 (21m 7s):
+That's what Starbucks can feel like to someone, right? There's Starbucks in hospitals, there's Starbucks everywhere. Yeah. And so this was always more about focus on a kind, safe, welcoming space
+
+0 (21m 20s):
+And anybody can come in, anybody
+
+4 (21m 21s):
+Can come in and, and that's the extensibility of this platform and what my long-term vision is for this platform. Is this in the coming years, should not be a platform that people say is a dating app that you compare to this or you compare to that app over there? Yeah, my long-term goal for Bumble is to be the digital coffee shop where anyone is welcome and anyone can come for a trusted, reliable connection, feel included, feel safe, feel seen, they'll get good customer service. And that's always been very, very important to me.
+
+0 (21m 56s):
+A lot of leaders, and you included I'm sure have had to grapple with how much do you weigh in around political or things that are perceived to be political issues today? Almost everything is perceived to be political and it's hard, right? It's hard to sort of avoid it. So how do you reckon with what you say publicly, where you come out on issues and You know at at the same time balancing, not alienating any potential customers?
+
+4 (22m 30s):
+Yeah, no, it's, it's a great question and it's very simple answer. For us, our mission is to create a world where relationships are healthy and equitable through kind connections. If something, even if political is in threat of that, is in violation of that, then we just simply cannot be silent. So when you look at empowering women's relationships, yet our country is saying that women don't even have a right to their own bodies. How could I possibly sit back and be silent on that? And so that's really the way we think about being vocal on certain topics that are otherwise seen as political.
+
+0 (23m 18s):
+Obviously you're referring to a choice on abortion and, and so there are issues that you say you're comfortable taking stance on because you feel like You know, even if it might alienate some people, it's still worth taking that stance that you, you find to be principled.
+
+4 (23m 34s):
+100%. 100%. And I would feel in violation of our mission of what we have promised to not only ourselves, but to consumers over the years that, that we stand with women and that we, we support healthy and equitable relationships. If something is in violation of that, you have to be vocal irrespective of someone You know, considering you taking a political stance or none. Same thing stands for our, our supportive Planned Parenthood over the years. And You know, I'm sure people even internally have maybe have different religious beliefs or whatever they have, but at the end of the day, like that's the mission and we serve the mission.
+
+4 (24m 17s):
+And so I, I think as it, as it pertains to political topics that are not directly correlated to the mission, you'll see us be sometimes uninvolved, right? We don't stand up and wave posters for every single You know issue that arises. We really are quite particular about how we use our public voice and our public platform to advocate for things that we feel really push our mission forward.
+
+0 (24m 47s):
+And so clearly there are issues that you will take a public position on because you feel that that is part of your core mission. But, but what about other issues that might matter for to your employees? For example, like, like racial justice or wealth inequality. I'm just throwing some, some issues out there. I mean, when do you decide You know we're gonna take a stance, we're gonna make a public statement on this and then on this one we're just gonna remain as neutral as possible. Yeah,
+
+4 (25m 16s):
+No, it's great question. And you know, you We can look back historically at, at the way we've, we've celebrated the diversity of our employees and our customers and we are quite vocal when it comes to racial justice. We are quite vocal when it comes to being an advocate for diversity. And I see a direct correlation to advocating for racial justice and equality because that is a huge factor in healthy relationships globally around the world. And so for me, that's a direct tieback. I can see that very clearly. Something that might be less of a direct tieback could be You know a a cause I'm very passionate about and I advocate for in my personal life is maternal health, for example, right?
+
+4 (26m 4s):
+So the inequity and disparity in how women are treated also based on race when it comes to You know maternal health globally. This is something I personally as Whitney am very passionate about. But you don't, and you won't see me going and taking a hugely public stance on behalf of Bumble with this because it's a bit too far of a departure from healthy and equitable relationships. Now you could argue otherwise, because babies are a You know, kind of a byproduct of relationships, most, most of the time it still feels too personal for me. And I can't see that complete direct parallel unless we were to have some new product initiative that was about babies and family, right?
+
+4 (26m 52s):
+Like if we launched Bumble families, I'm just making this up on the fly as far as the the fake product scenario. But then you could drive that real clear correlation. So for me it's always where's the very clear through line because we have to be able to explain not to just ourselves internally, but to our customers and our shareholders why we are taking stances on on certain topics. Hmm.
+
+0 (27m 16s):
+You know, obviously stock price is just one metric, but it's a very visible and public metric, right? And it's often how people evaluate a company who don't, may not know all of the fundamentals, but You know your stock price is, it's not bad, but it's close to its 52 week low. What can you as ACEO practically do to change that? If anything
+
+4 (27m 40s):
+So, you can delete it off your phone. It's the wrong metric to focus on. Instead, you're much better off reading the app store reviews. You're much better off reading the feedback from your customer because the stock market is the wrong voting machine to be listening to. I think you get a little distracted by that in the first few quarters because you've got a lot of really intelligent investors expecting a lot of of different things from you. And at the end of the day, they invested in you because you knew your customer and you knew your business and you had, you had a compelling view on the world and, and a way to solve a really important problem.
+
+4 (28m 23s):
+And the way to turn a stock price around is to deliver, right? Yeah. That's the only way out is through. And so it's ultimately about putting your head down and putting your blinders on and listening to your customers, talking to your customers, and building a really good experience. And then separate from that, it's really how do we continue to invest in our brand? Because I do believe that Bumble's brand is such a distinguishing factor for us. It's something that people feel emotionally attached to and it's really now about innovation and execution and, and candidly delivering for our boss, which is our customer.
+
+0 (29m 2s):
+We're gonna take another quick break, but when we come back, why meeting your soulmate in the future may start to look a lot more like what it did in the past. Stay with us. I'm Guy Raz and you're listening to How I Built This lab. Welcome back to How I Built This Lab. I'm Guy Raz. Here's more from my conversation with Bumble founder and CEO Whitney Wolf. Herd. Alright, let's talk about innovation. Now You know I met my wife at a barbecue, right? Like 23 years ago.
+
+0 (29m 43s):
+And then You know, I remember there was like in the, in the eighties when I was a little kid, I remember like, there's matchmaking, right? And then internet dating really starts in the nineties. And then apps is how young people are connecting today. What's like the next version of this? How are people gonna be connecting in 10 years from now?
+
+4 (30m 4s):
+So the next version of this, this is gonna catch you off guard, but it's meeting at the barbecue, huh? But via Bumble. Okay? So I think the next horizon is going online to get offline. So in the near future it will not be unimaginable to get on Bumble and instead of You know swiping yes and no on a bunch of people you might be swiping yes or no on things that sound compelling to you in the coming days. You know, maybe you're in the mood to go to a barbecue that has certain music playing at it on Friday night, and we know that there's 35 other people going and you can see that half of them have some level of compatibility to you.
+
+4 (30m 50s):
+But we don't disclose who they are until you get there. And we let serendipity and fate kind of do a little bit of its own old fashioned work once you arrive. So I think that is one piece of this. I think the other piece of this is, and I cannot emphasize this enough, it's where I'm spending 80% of my free time right now. AI is how we are going to meet people.
+
+0 (31m 14s):
+It's how we're gonna meet people.
+
+4 (31m 16s):
+Yes. Right now, when you get onto a dating platform, you are basically sifting through a thousand options to walk out with a few, right? And then of the few, you might have real compatibility and chemistry with a couple and of the couple maybe one will work out, right? So it's a lot of work, it's a lot of energy, it's a lot of time, it's a lot of letdown.
+
+0 (31m 42s):
+Yeah.
+
+4 (31m 42s):
+And the issue is that in kind of old era dating apps, which I would say anything before generative ai, it was very hard to capture signals and dynamic qualities in a person beyond just their surface level interests, right? Yeah. I like to go running, I like to eat this, I like to listen to live music. I like to do this. This is my religion. I want kids, whatever these, these different kind of filters are. But how can we really find out if someone is loyal? How can we find out if someone is kind? How can we find out if someone is funny?
+
+4 (32m 23s):
+These are signals that technology really mutes, right? And so I think the future is leveraging these machine learning capabilities to actually bring photos to life, bring people to life on the screen. And my dream guy is 10 years from now, we will be able to prevent breakups before they ever happen. We will be able to prevent bad relationships from ever having a potential of happening. and more importantly, my big dream is we will help people love themselves so that they can love others. And I think that is our biggest issue in this country right now when it comes to connection, is self-hatred, low confidence.
+
+4 (33m 5s):
+So if We can reverse engineer that we're onto something really special,
+
+0 (33m 10s):
+I absolutely love your optimism around this. I love your energy, I love your passion. But I, I'm gonna throw some skepticism because I worry about a future where I don't know, I mean, I've got all these things go through my head, minority report, You know, just, well, we're served the perfect menu of five to seven people that, that have been chosen for us based on machine learning. When we know that humans change You know I'm a different person today than I was 23 years ago when I met my wife. We've grown and changed together. You know, I remember my grandmother telling me before she died about how when she was a child, most marriages around her in her village were arranged.
+
+0 (33m 55s):
+And that oftentimes they did not love each other, but they grew to love each other over time. And those marriages worked. I'm not saying I support arranged marriage, I'm just saying that it still feels to me like there's so many factors, so many just intangible things about being human and about love that I worry can't fully be captured by a machine. And I'm an optimist about ai. Do do You know what I mean? Do you do, do you understand some of that concern?
+
+4 (34m 24s):
+I do. I do understand that concern. And I think what we're focused on is making sure that we don't build products that hurt us. That as we implement AI further into our business, which I expect our business to be a real AI business, I'm very anchored on it and I believe in it. I wanna make sure it's unethically, I wanna make sure it's done with real human connection at the helm. And I think You know my concerns with AI are that there are a lot of people out there that are building products to get people to actually replace humans with ai. And I think as it pertains to love, my big focus is to never, ever, ever replace a real human dynamic emotion, want or need with a computer, with a system, with a model, with a bot, right?
+
+4 (35m 18s):
+And so what I would like to do is help humans connect better. So what's really fascinating guy is a huge chunk of survey respondents of people that are single and want to be in a relationship, but don't use a dating app yet. They don't do it because they think they'll be bad at it. They think that they don't know how to date. They think that they're not capable of it. That to me is remarkable opportunity to create goodness in the world by using AI to inspire confidence. Yeah. So we have been hard at work exploring ways to have coaches or matchmakers or friends in your pocket, whatever you wanna call it, You know, basically be that wing woman, wing man wing person in your pocket to really show you that you've got this and to, to have your back give you positive affirmations and to kind of guide you along the dating journey.
+
+4 (36m 20s):
+So if they are scared to chat, right? Like they're scared to start a dating chat, for example, they would then chat with their coach first and their coach, which is ai, would coach them through it, give them feedback I see. Would help them feel ready and prepared for the game. So how can we actually help people show up as better versions of themselves? And I think it's interesting, we've seen the very first iteration of self-help tech call it the head spaces of the world in the Calm. I would say those are very 1.0 versions. They're, they're not dynamic in the moment when it comes to connecting with others, right? These are things you do kind of on your own. Meditations, breathings. How can you do these things in real time as you're on the quest for friendship or love?
+
+0 (37m 3s):
+So essentially it sounds like what you're saying is if AI is used in the right way in this context for love, there is somebody for everybody in theory,
+
+4 (37m 13s):
+There is somebody for everybody in theory, You know, obviously I can't make that promise, but what I believe is you rarely attract a relationship healthier than your self-esteem. Hmm. Instead of us just saying, here's a person and here's a person and here's a person. Why don't we actually focus on self-love first? How can we help you build your self-esteem? AI can be a great catalyst to this through different mechanisms and tools. I mean, you've seen people learn languages through Duolingo. Why can't you learn the language of of self-esteem and love, right? And so I think We can be a really powerful tool in helping people feel better about themselves at the get-go.
+
+4 (37m 56s):
+And then guys, something amazing happens here. If you have a user base and a supply of people feeling better about themselves with higher levels of self-esteem, what do you get less of? Abuse, harassment, toxicity, ghosting, all the icky stuff that comes with dating will subsequently decline.
+
+0 (38m 20s):
+I'm wondering what you think about, I mean, there, there are infinite ways to connect and meet today more so than ever. I mean, you can do it from your bedroom, right? And yet there is an epidemic of loneliness in the United States and even in other countries, given the, the fact that there are so many more ways you can connect today than ever. What, what, why do you think that is? What explains that?
+
+4 (38m 43s):
+So the pandemic did not help. It completely exacerbated the issue. But here's the thing. You started this by saying you can meet people from anywhere. Now you're, we're all online, we're all super connected. The reality is we're all very connected and disconnected at the same time. When you are on social media, you are technically by definition connected, but you are emotionally disconnected. So friendship has moved online and it has actually killed friendship. Chatting with your buddies on TikTok and Instagram does not count as relationship.
+
+4 (39m 23s):
+That is not a soulful real relationship. And candidly, it creates more of a voyeuristic fear of missing out dynamic than it does a real safe, connected environment. So what you've seen us do with Bumble for Friends, our new standalone friendship app is we've said, let's use tech to connect, not tech to disconnect. And there's a real real gap here. And there are not enough products in the world that are actually technically engineered to get you online to then go offline. In fact, the monetization models on the majority of social media is dependent on you being on your phone as much as possible because yeah, they're ad businesses.
+
+4 (40m 11s):
+We are not an advertising business. Sure we have some advertisement, but we are a subscription model because we don't care if you sit and use our product for two hours or two minutes. In fact, everything we are working on from a product prioritization standpoint right now is to shorten the duration that you're using our product on any given time because we want you to go online to get offline.
+
+0 (40m 33s):
+Yeah, I You know, I'm curious about the AI model though. If, if you are, I mean, to some extent your business depends on customers coming back again and again and again, people going on hundreds of dates, right? 'cause they're paying subscribers. But if this AI model works like better than you expect and all of a sudden like you're matching people perfectly and like they're going on the first date and Boom they're engaged, they're done as Bumble customers. I mean, what are the implications of that? You know you, you make the algorithm better and then you actually have fewer repeat visitors
+
+4 (41m 10s):
+Every single Saturday. And I mean, it, it's like clockwork. I get at least one text message from someone in my network that they're at a Bumble wedding. And that Bumble was just mentioned either in the vows Yep. In a Groomsmen's speech, in a bridesmaid speech, or it was on the menu or it was in the photo booth and it had been integrated some way somehow. Why do I mention this? A success story is worth more than 200 failed dates. Let's just say we have 50 forever relationships. Those 50 forever relationships have now left Bumble app, the dating app. But they have throughout their dinners and lunches and gym and and, and professional lives, they have told countless people, they have pollinated the product.
+
+4 (41m 59s):
+They have been brand ambassadors for us in such a way that those 50 success stories become a flywheel of growth. So 50 success stories is worth more than thousands of failed dates because those failed dates turn into the reverse flywheel of negative feedback. And so we're actually absolutely aligned with the customer finding success because their success is our success. And we're in this to help them find healthy and equitable relationships.
+
+0 (42m 31s):
+You know, I was thinking about what you're saying about using AI like to coach people, and I think that's very real. It's gonna be happening more and more. And I wonder, I mean the logical, potentially logical extension of that is it could it solve loneliness? And that, and I'm not saying this is a good thing, but You know that there's that movie her many years, a few years ago, it was a beautiful film and Scarlett Johanssen was a voice inside of Joaquin Phoenix's ear. And that was, he was in love with her. He was in love with an AI voice, and it was very plausible. It was a hu it seemed very real. It's not implausible to imagine that with where AI is going. I mean, obviously humans You know we, we believe we need human connection. But is there a world where You know Bumble has a, a, a product that is basically a virtual romance?
+
+4 (43m 18s):
+No, not under my leadership at least. Listen, I that's that's not what we are here to do. We are definitely not in the business of trying to wipe out humanity and trying to get people to fall in love with You know fake iterations of, of humans. I don't want to use AI that way. I think,
+
+0 (43m 40s):
+I mean, it will be used that way, You know that there are Yeah,
+
+4 (43m 42s):
+But, but you know what? We'll be, if if that's really what happens, then we've got bigger problems than the future of Bumble. Unfortunately. It's what, what what happens to the future of humanity, right? If, if we, if we kill love human to human and we replace it with human to ai, we only have another generation left, right? It'll all be over if that's really the case. So for me, it's how do we actually use AI to make relationships human to human? I mean better, stronger, healthier, more respectful, more equal, more empowering, more inspiring. How do we actually help end loneliness through getting people to really form and forge real friendships with one another instead of stay locked away on their phones, in their bedrooms or on wherever they are for the rest of their lives?
+
+4 (44m 34s):
+How do we get people to look each other in the eyes and not just through a screen? And so that's, that's really what we're focused on. And the horror movies, You know five years ago seemed really sci-fi. But you're right. I'm, I'm sure some people will be doing that, but my job will be to convince them to meet a real person.
+
+0 (44m 58s):
+Yeah. So Whitney, you've been at this for a long time now, but you're all still just young. I mean, you have a a lot of life ahead of you. What do you see yourself doing in 10 years from now? Do you, do you see yourself running Bumble? I mean, who knows? Your public company, your board can always throw you out if they want to. But I, I mean, what is your, what's your sort of vision of where, where you'll be?
+
+4 (45m 22s):
+So I think I will always be focused on the core mission of Bumble. I think it is my life calling. It is my purpose, which is to help the world have healthier relationships. Some people dedicate their lives to the research of, of rare diseases when it's claimed to the life of a loved one. Some people dedicate their lives to solving problems that have directly impacted them, right? That is, I believe that problems and pain and devastation happens to inspire a body of people to go and fix those problems for others. And so it's my sincere belief that I will be working towards healthier love, healthier relationships and helping people love themselves.
+
+4 (46m 11s):
+That's the why I think the how will manifest. But I am absolutely focused on Bumble for the You know, for, for as long as I can see out there is, there is no road in front of me that, that is excluding Bumble from my life. I do believe that my time will be better used in thinking 3, 5, 10 years ahead versus just two quarters ahead. But You know that that'll manifest as it's meant to. In, in, I will say that I am absolutely fascinated, committed to and on the track of integrating AI into love and connection and friendship and relationships.
+
+4 (46m 52s):
+That is, that is my obsession at the moment. And it is going to be until I really land the plane on it. And I really want us to be part of positive ai. I really wanna make sure that we course correct from the mistakes that were made with the, the explosion of the quote unquote old internet by leaving women out of the equation, by not thinking of, of the ethical options. And so I really hope that We can be a part of the more ethical path forward.
+
+0 (47m 22s):
+Whitney, thanks so much.
+
+4 (47m 24s):
+Thank you so much.
+
+0 (47m 27s):
+That's Whitney Wolf Herd founder and CEO of Bumble. Thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app. So you never miss a new episode of the show. And as always, it's totally free. This episode was produced by Sam Paulson, with music composed by Rum Arablouei. He was edited by John Isabella with research help from Sam Paulson. Our audio engineer was Neal Rauch. Our production team at How I Built This also includes Alex Chung, Carla Estevez, Casey Herman, Chris Masini, JC Howard, Carrie Thompson, Malia aud, Neva Grant, and Ramel Wood. I'm Guy Raz and you've been listening to How I Built This Lab.
+
+Amazon Music (48m 17s):
+Hey Prime members, you can listen to How I Built This early and ad free on Amazon Music. Download the Amazon music app today.
+
+wondery Plus (48m 25s):
+Or you can listen early and ad free with Wondery Plus in Apple Podcasts.
+
+0 (48m 30s):
+If you wanna show your support for our show, be sure to get your How I Built This merch and gear at Wondery shop.com. Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.

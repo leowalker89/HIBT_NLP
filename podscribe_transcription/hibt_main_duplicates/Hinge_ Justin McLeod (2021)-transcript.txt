@@ -1,0 +1,872 @@
+0 (0s):
+Hey Prime members. You can listen to how I built this early and ad free on Amazon Music. Download the app today.
+
+1 (9s):
+What if the greatest tragedy of your life was just covered up? I have never seen any, anything like that before or after. This is the story of the worst Marine on marine friendly fire in modern history. A story kept from the public. It's like, what did y'all have to hide?
+
+2 (24s):
+Listen to NPRs embedded podcast and its latest series taking cover.
+
+0 (30s):
+How I Built This is pleased to have Upwork as our presenting sponsor. Visit upwork.com to get hiring. Upwork has a message for you. Everything you know about business, it was made up by a bunch of guys a hundred years ago. Don't stay bound to their antiquated rules like the nine to five workday commuting to an empty office building, or only hiring full-timers. Embrace a new way of working with Upwork. It's a portal to the future of business and it's disguised as a website. Go to upwork.com. There you'll see the light. And also find talent for projects of any size. From simple deliverables to complex projects, from short-term help to full-time hires, you can finally let those old business titans and their tired ideas rest in peace.
+
+0 (1m 13s):
+This is how we work now. Visit upwork.com to get hiring talented professionals today. I just learned discover credit cards do something pretty awesome. At the end of your first year, they automatically double all the cash back you've earned. That's right. Everything you've earned doubled all the cash back from eating at your favorite soup dumpling restaurant. Doubled all the cash back from that trip where you sort of learned to snowboard also doubled. And the best part, you don't have to do anything ridiculous to get it. Nope. Discover does it automatically seriously though seat terms. And check it out for yourself at discover.com/match.
+
+0 (1m 53s):
+And before we start the show, I recently heard a great business story from the music world. I was interviewing the rapper, McLemore, and he took me back to a time when record labels were offering him millions of dollars and he had to make a choice whether to stay independent with more risk and more reward, or take the upfront cash and the security that comes with that to hear how it played out. Check out my interview with McLemore on my other podcast. The Great Creators just search for the great creators with Guy Ross, wherever you listen to podcasts. And for today's show, we are running an interview from the archives that is so full of good stories and so full of great lessons that I'm gonna stop talking right now so we can get straight to it.
+
+0 (2m 33s):
+So enjoy.
+
+4 (2m 43s):
+When we did the relaunch, you know, my first instinct was obviously to like Cora money. So I was talking to every vc, but no one would gimme money. Wow. I mean, I was begging. Yeah. And I had this like one investor that was really holding out for, and I remember the partner at the VC firm called me and she was like, you know, we've never seen a company that was cool and then went away and then was able to come back and we just can't do it.
+
+0 (3m 14s):
+Wow.
+
+4 (3m 14s):
+And I was like, Timberlands,
+
+0 (3m 24s):
+Welcome to how I built this. A show about innovators, entrepreneurs, idealist, and the stories behind the movements they built. I'm Guy Raz. And on the show today, how the one that got away led Justin McLeod to build the dating app Hinge and how Hinge led him to the love of his life. In 2019, a very distinguished peer reviewed academic journal published a paper about human courtships. The study led by Stanford sociologist Michael Rosenfeld concluded that most romantic relationships now begin online.
+
+0 (4m 12s):
+Now if you are say under 35, this may not come as a huge surprise. Pretty much everyone you know, either uses or has used or has at least downloaded some kind of dating app. But to anyone older, say people over 40, this study may come as a shock because most of them met their partners at churches or workplaces or school or a party or through a mutual friend or at a bar. And sure you can still meet your future life partner in any of those ways. But the bottom line, online dating now scenes like the default, the norm, the path of least resistance.
+
+0 (4m 54s):
+And today dating apps alone are a $3 billion a year global business. There is an endless array of them. So how does one app stick out from another? Well, when it comes to one particular app Hinge, the company's tagline is designed to be deleted, which at first glance sounds like an unpromising business model. But when you think about it, what Hinge is basically trying to tell you is we're gonna help you find the one and then you won't need us anymore. Now, like any successful business, Justin McLeod built hinge on relationships, relationships with users and investors and employees.
+
+0 (5m 39s):
+But I think of all the founders we've had on the show, Justin's personal relationships and one relationship in particular were inextricably linked to the launch and very identity of his brand. Now, I don't wanna give too much away here because you have to hear his story to believe it, but in a sense, Justin's own romantic life became a kind of litmus test for the way he hoped Hinge users would approach dating, not just as a frenetic swipe left, swipe right, kind of a game, but a serious, thoughtful, intentional first step towards something lasting and long term.
+
+0 (6m 20s):
+And a story of how Justin essentially turned his life experience into a brand is in some ways so dramatic, so implausible that you'd have expect to see it on a TV show or in a movie. But we'll get there. Anyway, Justin grew up in Louisville, Kentucky. He was an only child who attended Catholic school.
+
+4 (6m 42s):
+I think I was a pretty sensitive kid. I was a pretty scrawny kid. I was small. And so even like literally in second grade when all the boys would be playing sports, I would be like hanging out with the girls. I just like, I just, and if I had to play sports, I would usually fake an injury pretty early so that I could be nursed back to health by the girls. Hmm. So I think I was, I don't know, something about me always. I wasn't like a guy's guy.
+
+0 (7m 10s):
+Yeah. Did that continue into high school? Like you are kind of hanging out mostly with girls or, or did that start to change?
+
+4 (7m 17s):
+Well, when I was in seventh grade, I had this girlfriend, actually I had a girlfriend fifth, sixth, and seventh grade. Her name was Kristen. And I was like totally in love. I mean I, I was like done. I was like, I found my person. Wow. I'm like, I'm done. This is it. Yeah. And then one day in English class, she just turned around in her desk and dumped me and that was it.
+
+0 (7m 40s):
+After three
+
+4 (7m 41s):
+Years, that was it. And I was so sad and heartbroken. And also at my school, because it was so small, it was a little bit cliquey. And
+
+0 (7m 52s):
+Everybody
+
+4 (7m 53s):
+Knew. And everyone knew and I was sort of like kicked out of the cool kids group. And so for seventh and eighth grade I, it was like, it was just torture. And I was supposed to go to this high school, it was like a, it was like a feeder for a big Catholic high school in Louisville. And I just decided like, I'm going on a different path. I wanna get away from these people. And I chose a, a small private school in Louisville. And I mean,
+
+0 (8m 18s):
+And, and let's be honest, seventh grade, you're not at your most sophisticated in life yet. I mean this is your, this is still puppy love. Yeah.
+
+4 (8m 25s):
+But it was traumatic. It was traumatic to me. Yeah, I know that sounds so silly. But I just was so heartbroken and I was so traumatized by the experience and like the social isolation that followed. I was just like, I'm never gonna let that happen to me again. And I think I just determined that like I was gonna be cool. Hmm. And so I turned into like a completely different person when I entered high school.
+
+0 (8m 51s):
+How so?
+
+4 (8m 51s):
+Well, for one partying. I mean, I, I was, I was actually, I mean I, I definitely had a troublemaker class clown, got a lot of detentions and things in, in grade school, but it was always kind of like good nature, funny, fun or like not doing my homework or being late to class. Yeah. And when I got to high school, the, there was like a senior there named Billy who I like idolized and he was like a big drinker and a big partier. And I literally remember the first weekend before school started, my freshman year we went to a field hockey game, which was the it sport at my high school.
+
+4 (9m 32s):
+And there was like this big party later that night and I knew the cool kids were going and I went home and this is, I mean this is reflective of who I was at the time. I went home to my mom and dad and I said, there's gonna be a party tonight. There's gonna be drinking. I want to go. Cuz I was like really honest. I was like, I just, I was really earnest and I was like, and I really want to go. And they said absolutely not. And I argued with them for like two and a half hours probably. And finally my dad drove me to the party and I got dropped off. And I remember that night I had two beers and two shots and I was floored and like passed out in a pool house.
+
+4 (10m 14s):
+And I woke up the next morning and I just felt like a golden god. I was, I just like thought that was the coolest thing. And that began a career at high school of being the center of a party scene. Huh.
+
+0 (10m 31s):
+I mean you must have been good enough at school, right? Cuz you went to college, you got into college.
+
+4 (10m 37s):
+I did. Well I had this other side of me that was still an overachiever like in, in high school I got both the most attentions in history and the, I took the most advanced placement classes. I was the captain of the tennis team, I was the graduation speaker. So I had that whole side. It's not like I was just like partying and not doing any work and actually really reveled. I think it was a big part of my identity to be able to do both, to be able to be this like overachieving person but also at the same time have this trouble making party side.
+
+0 (11m 9s):
+Alright. So you, you go to college, you went to to Colgate University, which is a pretty small place in, in rural sort of upstate New York. And I guess from, from what I understand, like you continued your kind of approach to life, I guess is fair to say, right? Like a lot of partying
+
+4 (11m 25s):
+There. Well, I think I let the overachiever go to the wayside and I, and I doubled down on the partying. Hmm. I mean I remember around March of my freshman year, I woke up one day and I like reflected and I was like, I have not gone to bed sober this year. And I actually went in like March or or April of my first year, I actually went to go see a drug and alcohol counselor at Colgate. And she was like, you know, I think you might have a problem with alcohol and drugs and I think maybe you should stop doing alcohol and drugs. And I, I looked at her and I was like, don't you think that's a bit rash?
+
+4 (12m 7s):
+I just wanted to like come and talk about my feelings. I didn't anticipate having to just stop. And so I didn't go back to see her except that I then got referred back to her when I got written up three times in one night, like a few weeks later. And she was like, I've already met this kid. He needs help. And, and that's how I spent my first summer after college in rehab all summer.
+
+0 (12m 31s):
+Wow. It sounds like you were a kid exposed to this early on and you just a combination of maybe you had a a a sort of a predisposition to addiction plus you were young and you didn't quite know how to handle it or how to moderate your behavior and, and so it, a combination of that in addiction really kind of took over.
+
+4 (12m 52s):
+Yeah, I think that's a good way to put it. I think going back to what I was saying before, I was a pretty sensitive kid and I think I had a lot of emotions and I think I didn't really know how to express them in a productive way. Yeah. And when I felt overwhelmed, it just felt the easiest way was to like overwhelm the uncomfortable feelings with this better feeling of getting high or drunk.
+
+0 (13m 13s):
+Were your, were your parents aware of it And and if they were, I'm assuming they were worried.
+
+4 (13m 20s):
+Yeah, I think they were worried. I think my mom was especially worried, you know, I was really good at holding it all together though. And that's what I would always point to. I'd be like, well, look at my grades. I don't have a problem. You know, I have like a three seven GPA and I'm taking 400 level courses my first year and I hid it. Well, you know, I wasn't a, I wasn't a dummy. I, I, I'd figured out over time how to hide it and how to get away with it.
+
+0 (13m 43s):
+During college, you met somebody who you started to date named Kate and I guess you kind of, you guys dated basically throughout college, right?
+
+4 (13m 54s):
+I met Kate her first day of her first year and it was my first day of my second year. So I'd just gotten out of rehab and Kate was like the polar opposite. Kate showed up to school, never had a drink, never kissed a boy. So like very different human being than me. And my roommate had gone out in search of like finding some girls, like the very first day of school. Right. So he is like going out and like, and he finds these couple girls out in the quad and invites them back to our place and he's walking up the stairs with them and there I am passed out in the stairwell, like literally on a landing in the stairwell.
+
+4 (14m 37s):
+Kate I think was scared you should never seen a passed out person in her life. And an RA saw us and Kate got her first. She was in trouble just for being around me. I wasn't even conscious that was our first interaction. But later that year, she and I had a class together and we would sit together sometimes and she developed a little bit of a crush on me and one night she came over to my dorm room, we were chatting for a little bit and she asked me to walk her home and I walked her home and we had our first kiss that night and then we were just inseparable after that.
+
+0 (15m 17s):
+But I guess shortly before you graduated from college, you and Kate split. Was that your decision or was that her decision?
+
+4 (15m 25s):
+Well, we had a, we'll say rocky relationship as you could imagine trying to be with someone like me and someone like Kate. And we had this really strong personal connection and bond and really loved each other. I mean, we really just were, were really attracted to one another and like magnets to one another. But it was also tumultuous because I was always going out and getting into trouble. And so we broke up and got back together like six or seven times during, during college. And at the end we broke up. She actually transferred, she transferred to another school, she transferred to Wellesley and we got back together one last time and I just like, I just couldn't do it.
+
+4 (16m 10s):
+I don't know why I just let her go and then I, I almost immediately regretted it. I wanted to call her like two weeks later and I just said, I have to stay out of her life cuz I just kept interrupting it and messing it up and then leaving again. So I just vowed to like not contact her anymore.
+
+0 (16m 25s):
+Hmm. Alright. So 2006, you've graduated college, you guys are split and that's the end of your relationship and, and you obviously had to kind of deal with sobriety. How did you, how did you do it? I mean, how were you able to give up drugs and alcohol
+
+4 (16m 44s):
+On graduation day? I woke up and I'd been out partying the night before and I was, I woke up at like a stranger's house and I had to get back home in order to like shower off and meet my parents who were gonna come over and, and meet me. And I was walking home that morning and I just thought to myself, it feels like the steering wheel on my life is broken. I, I just had this innate sense that I was like supposed to go do something big and I I I held onto this belief that I was like destined for success and I was gonna do all these great things. Where
+
+0 (17m 24s):
+Did that idea come from by the way?
+
+4 (17m 26s):
+I don't know, but I always had it, I only child syndrome perhaps. I'm not sure. But I, you know, I was looking at my life at that point and I was like, God, like I keep wanting to go in this direction and yet every day I wake up and go this other direction and I feel like I do not have control. And it scared me, you know, I hadn't gotten the job that I wanted. I was taking some other random job in DC that I didn't really want. I'd lost the girl, you know, just, it felt like, didn't seem like I was on track for success and, and I just vowed that morning to like stop.
+
+4 (18m 7s):
+And I did. Wow. You know, I participated in 12 step programs and I like really threw myself into work. And that was that.
+
+0 (18m 16s):
+I mean it's in some ways you're really lucky that this happened early to you in, in your life and you were able to deal with it early in your life.
+
+4 (18m 24s):
+Hugely lucky. I didn't feel lucky, you know, I'd go to these meetings and these old people would be like, I, you know, I drank for 50 years and you know, you're so lucky. And I'd be like, I'd be like, you're so lucky you got to drink for 50 years. I have to stop when I'm 22.
+
+0 (18m 40s):
+All right. So you, so you graduate and, and you move to Washington DC and, and I guess you work in, in management consulting for, for a few years and then you head to business school right? To to Harvard Business School.
+
+4 (18m 53s):
+I did. Yeah.
+
+0 (18m 54s):
+And your, your previous experience in a college environment was like super partier and drinker and imagine that that was also kind of, that drinking helped you meet people Right. A little bit because it's totally right. And, and now you're in this new environment where you're, I'm assuming no longer drinking. What was that like?
+
+4 (19m 14s):
+It was so hard there. I mean there's just a lot of partying and it's how people connect and how people bond, especially in the early days. And I just felt like a fish outta water. I just felt so, I just couldn't be around that. And so I kind of just stayed away and, and socially it was very hard for me to be there really
+
+0 (19m 33s):
+Hard. Yeah. So you are at, you're a Harvard Business School and one of the advantages of going to business school is it creates a network and a lot of people go to business school with that in intention in mind finding their future co-founder, like, you know, Andy Dunn of Bonobos did when he went to Stanford or you know, Jen Hyman of Rent the Runway found her co-founder at Harvard Business School. Yeah. Was that your intention to, to find like your co-founder and, and start a business when you got there?
+
+4 (20m 2s):
+No, cuz startups wasn't really a thing. I I did have a sense that I wanted to be an entrepreneur. My dad ran his own business when I was growing up, so he was his own boss and he lived this kind of leisurely existence where he really felt in charge of his own destiny. And he really instilled into me like, you should go work for yourself.
+
+0 (20m 22s):
+How did you start to think about while you were at business school, something connected to relationships or dating? What, what was the story?
+
+4 (20m 29s):
+I mean, it was so outta left field. I, I, I had no idea what I wanted to do. And interviews were starting. You have like, most people have jobs by Thanksgiving and the consulting firms are interviewing and I applied to all the consulting firms. I got rejected from all of them except McKinsey. So I, I took the job and signed with McKenzie and so it's around Thanksgiving and I've gotten John McKenzie and I'm, I'm actually dating this girl from PS and I just couldn't get Kate out of my head. I mean, everyone that I tried to date ever since I'd lost Kate, that was like four years ago at this point. I would just compare to her. Wow.
+
+0 (21m 7s):
+And were, by the way, were you in touch with Kate?
+
+4 (21m 9s):
+No, not at all. I wouldn't, I didn't reach out to her. I I just wouldn't, I wanted to You you
+
+0 (21m 15s):
+Didn't even, but did you know where she was?
+
+4 (21m 19s):
+I knew that she had graduated and met someone and moved to London with him. Right. That's all I knew. But
+
+0 (21m 27s):
+You, but this is now four years after you split up and you're still, she's still on your mind.
+
+4 (21m 32s):
+Yeah, I just, it was just such a magical relationship and I think every, every relationship I had, I would compare and just no one felt like home to me in a way that she did. And I'm a business school and I can't get Kate outta my head and I'm finally like, okay, Justin, it's been four years. You've been sober for four years, you've gotten into Harvard Business School, you've got a job at McKinsey. Do we think that we can reach back out to Kate? And so I did. I wrote her an email.
+
+0 (22m 4s):
+What did you say?
+
+4 (22m 6s):
+I said it was kind of a, like an men's letter. It was kind of like a, you know, I know that I did not act with a lot of kindness or integrity during our relationship and I don't know how I could ever make it up to you, but I would love to try basically. And, and she called me like the next day and we had this phone conversation and we actually agreed to meet back in New York that Christmas and I was so excited. And then she called back the next day and she said, I'm sorry Justin, I just can't, like, if I see you, I don't know what's gonna happen and I have a life now and I I've just moved in with this guy.
+
+4 (22m 50s):
+We have a flat together in London and I just can't see you. And I was totally heartbroken. Hmm. I, in the back of my mind again, I have these, like, these feelings, but I had this feeling like Kate and I were like, meant to be together and we were gonna be together. And when that happened I was like, oh my God. Like it's like over, I've, I've messed it up and I felt like I had like torn the fabric of the universe or something. I mean I know that sounds grandiose, but I just felt like this is not the way that it's supposed to be. And I like went into this total depression, like for I think more than a week I just cried. I like went to go see the therapist, I was like, to get antidepressants, I just like wanted something.
+
+4 (23m 31s):
+I just felt so horrible and hmm. And then I emerged from that and Harvard Business School was throwing this Valentine's Day party in February and I back to try to rebound. I was like this socially awkward person, didn't like to go to parties, but there was this one girl in this one class that I sort of thought maybe there was a thing. And so I was like really excited to list her as like a, it was like a crush party where you like list people that you had a crush on. It was kinda like a last chance dance dynamic. Hmm. And then one day I'm, I'm walking to class in early February with the class President Brett and we're chatting. I was like, oh yeah, and this, you know, dance is coming up the last chance dance. He's like, yeah, you know what we decided that was just too complicated.
+
+4 (24m 14s):
+It was like thousand people listing people and all that stuff. So we just scrapped that whole thing and I was like, what? I was like, this is my chance. So I, I took it upon myself to build this and computers are something I really threw myself into as a kit. I love to code. So I decided to build an application that would allow people in the class to list their friends on Facebook and if two people matched it would alert them. So I was gonna build that and release it at business school.
+
+0 (24m 48s):
+Wait, it was a Facebook, like a web app, right? It was pre this is,
+
+4 (24m 52s):
+Yeah, it was a web app. It was, it was a Facebook canvas app. It was like Farmville, I dunno if you remember Farmville, but it was like sure you could build an application within the Facebook frame. Right. So that's
+
+0 (24m 60s):
+What it was. And, and, and the idea was that you would just, people would, would like sign up for this and then it would match them with other people in the app that they knew?
+
+4 (25m 9s):
+Yeah, it would use the Facebook network. You know, you say you'd log in, we'd have a list of your friends. I mean this was, this was the Wild West early days before there were a lot of privacy regulations and all that. So you know, you'd log in, you'd download all their friend list from the api, you would display them, their friend list, you, they select the people you have a crush on, you'd go through and select them and then if they selected you then it would let you know that it was a mutual match.
+
+0 (25m 30s):
+Was was the fact that the dance was canceled, did that have anything to do with, with you launching it? Or, or was it, was that just kind of coincidental?
+
+4 (25m 39s):
+No, I mean it's what sparked the idea. I don't think I would have that initial spark would've happened had the dance not been canceled. And I hadn't been walking with Brett that Wednesday afternoon to class. Wow.
+
+0 (25m 52s):
+So this was basically this idea kind of replaced the dance cuz the dance was designed to kind of do the same thing. Exactly. But it's just in real, in real life.
+
+4 (25m 59s):
+Yeah. The original name of this, by the way, was called Secret Agent Cupid. And it was this whole thing of like, you're undercover listing your crushes. It was a terrible name. I can't talk about it, but it was this, it was the beginning of this whole dynamic of this what's called like the double opt-in of, you know, you list someone and they don't find out unless they list you two or they like you too.
+
+0 (26m 18s):
+And, but how was this idea connected to anything in your personal life? I mean, I know you were heartbroken because Kate didn't wanna meet you and, and you kind of didn't have a whole lot of success dating, but how was, was this, was this in a sense a way to kind of solve your own problem? Or was it just an idea that kind of came about and seemed fun?
+
+4 (26m 35s):
+That was totally to solve my own problem. I mean it was very practical. It was very, like there's a girl in this class that I have, have a crush on that I, I would, I wanna like wanted to find a girlfriend. I mean, always wanted to find, I just, I don't know why, but I've always just been this romantic who just really wanted to find my person and had this belief that when I found my person, like everything would just be amazing forever. So I built this very practically for me.
+
+0 (26m 59s):
+All right, so you put this up there and you're at Harvard Business School. So presumably it wasn't that hard to get people to notice it cuz you just told people, Hey, check this out. Right?
+
+4 (27m 8s):
+Yeah, it's a small class and a bunch of people hopped on and did it and it led to a few matches. It didn't lead to much, but it got me thinking, I just thought, why doesn't this exist in the real world? Because at the time the culture was, you'd sort of like creep on your friend's photos on Facebook, you know, you, you get on, you know, get on Facebook and you go through your friend's photos and you'd see someone kind like cute in one of their photos that maybe you didn't know. It was like a friend of a friend. And so this idea sparked of like if there was a dating app that was connected to Facebook, people would use it because it would be so simple. You already have your profile, it's already done, you already have your photos set up, you have social verification.
+
+4 (27m 52s):
+If you just connected something that was really simple and connected to Facebook, I'll bet young people would use it as opposed to at the time all web dating websites used, you know, screen names and you had to sign up and fill out these long profiles and do all this stuff and it was a lot of friction. And so that excited me. I was like, there's really, there's something here.
+
+0 (28m 12s):
+I, I mean this is still like you're still in Boston and at business school and this is like your last semester there and you have a job lined up at McKinsey. But what happened to make you start to think that maybe this is something you should pursue after you graduate? Like were friends at business school like finding success. Were they, were people saying hey this is awesome, I love this. Like, was that happening?
+
+4 (28m 37s):
+I was obsessed with this idea. I don't know how to say it. It was like, I mean the closest analogy I can imagine is like being, you're like pregnant with this idea and it is like coming out of you one way or another. And that's what it felt like. It was like I couldn't stop, I couldn't sleep. I just was like thinking about it all the time about how the algorithm would work and about how you would get people to sign up to it. And I just, it was like being possessed. And then I found out that other schools and other people had had this idea and what happens is a lot of people join, people list their crushes and then you find out whether you match or not and then everyone goes away. And then that's when the insight came to me. You know, people mainly just like cruise their friends photos and like, what if this were actually not about people you already knew, but it was about your friends of friends.
+
+4 (29m 25s):
+It was, and that's another piece that I think made it really accessible to the next generation. It's like these aren't random strangers that you're gonna see on this app. You're gonna see friends of friends. It's the same idea of like listing a crush except now it's just people that you have a mutual connection with and you can see, can see some of their photos and then so you list them as a crush. That was like the idea that really got me to be like, I'm not gonna take the job at McKinsey or at least I'm gonna push back the start date and see where this goes.
+
+0 (29m 55s):
+So you graduate in May and you decide to pursue this and, and did you need money? I mean, I have to assume you need some money to try and, and get this off the ground. Right.
+
+4 (30m 5s):
+So I, I got together with a friend, her name was Francis at business school. She worked at Google and we each put in $12,000, which was obviously like a lot of money for us both, but it's what I had. And so we put in this money and we hired a team of engineers down in Argentina to start building a prototype
+
+0 (30m 27s):
+Argentina. Cuz I'm assuming that was a lot cheaper than doing it in San Francisco.
+
+4 (30m 31s):
+Yeah, exactly. And so I followed her out to San Francisco where she was gonna take her job at Google, but sort of halftime work with me on Hinge
+
+0 (30m 42s):
+And that was all the money you had $24,000.
+
+4 (30m 45s):
+Yeah, $24,000. That was it. And so that's what we used to pay these developers and started to develop prototype and I was sort of the product person imagining what the interface was gonna look like and she would help talk to the engineers cuz she, she, she also coded. And so I follow her out to Mountain View. I'm sleeping on her floor in Mountain View and eventually she's like, this has been fun Justin, but you know, I'm a stay at Google, this isn't really my thing. So I left her apartment in Mountain View. I bounced around for a little bit around SF and then Berkeley. And then I just was like, this is not my place. I don't know anyone out here.
+
+4 (31m 26s):
+And so I, I drove cost country back to DC where I had worked before and knew people and how to network and I decided to start it there on my own.
+
+0 (31m 36s):
+And the idea was to build like a website, a dating website initially?
+
+4 (31m 41s):
+Yeah, initially it was a dating website. Initially it was this Facebook canvas app and that it was still, I think that was primarily the idea and it was initially clunky and complex and it would like ask you like questions about your friends and it had all these bells and whistles features and it was way overcomplicated. But I, I was able to, you know, I ran around and I was able to raise a little bit of money. I got into this little incubator in DC called Fortify. Raised like a little bit from my little friends and family around of maybe like a hundred, $150,000. You know, most VCs of course wouldn't pay attention to us at all. We, I mean the, we always trying to, you know, you come out of Harvard Business School and you think the way that you start a business is you write a business plan and you go to Greylock and then they give you 50 million and something you Right.
+
+4 (32m 29s):
+Like Right. And that is not, not how it works. So we, you know, I'd go to these VCs and I'd be like, you know, we're this, we're gonna create a dating app. It's gonna be, you know, young people are gonna use it. And VCs would be like match.com, like owns this market, you know, you'll never be able to beat them. And, but I, you know, I got a few believers and yeah, we just started building this website.
+
+0 (32m 54s):
+And, and was it still called, because originally you called it Secret Agent Cupid. Was that what you still were calling it at that point in, in 2011?
+
+4 (33m 2s):
+No, no, no. That was like pretty, pretty early on. We moved away from like, it went through a few iterations in the early days. It went from like Double O Cupid to Secret Agent Cupid to two degrees to three Degrees. And each of these names had like trademark issues and I just needed like a placeholder name and that's where Hinge came from. I was like, I just, it was a Friends of friends app and I was like, I just need a name for something that connects two things. Like it's the thing in the middle. And I was staring at a door and I was like, I'm gonna call it Hinge. Oh. And so I just got it
+
+0 (33m 33s):
+Hinge. That's interesting. I did not know this. So, so that's why cuz a hinge connects the door to the door frame. I was, cuz I, when I first heard the name Hinge, I was like, huh. It's sort of a, it's like the, you know, the door swinging out back and forth. Like you're coming in and out the door, like one date, two dates, three dates, four dates, five dates, like door on the Hinge keeps swinging open and closed. But that's wrong. That is not where Hinge comes from.
+
+4 (33m 54s):
+That is not where Hinge comes from. It was just, it was like a placeholder name. I honestly don't love the name. I mean it, it's kind of stuck now. But it was just, it was a placeholder. I was like, I needed something that connected two things that wasn't already trademarked. And anyone, any founder who's probably tried to name something before and spent lots of time on us pto.gov, trying to find a name that hasn't been trademarked, especially in like, the love and dating space is no joke.
+
+0 (34m 17s):
+Yeah. So you are, you got a little bit of money. You're in Washington DC and did you have an, an office or were were you working outta the accelerator in Washington DC
+
+4 (34m 28s):
+We worked out of the accelerator. I mean, first I was just working outta my apartment and then when we got into the accelerator, we, I started working out of the accelerator. Got it. You know, we, there were like four of us.
+
+0 (34m 39s):
+And what was the, I mean like, I'm trying to think in 2011 when you started to look for potential investors, and I think it would be a little while before you got real money, I would say to you, well what differentiates you from match.com? Why would somebody use, or or okay Cupid or JDate or whatever was out there. I don't even know if Tinder was out there yet. What makes you different? And you would say, what
+
+4 (35m 6s):
+We're gonna be stigma free? There was a lot of stigma around dating websites at the time. I think a lot of times VCs think by analogy and they're like, that dating website has stigma. So like dating websites has stigma. Like that's just how it goes. But you have to look at like the principles underneath that. Like why do dating websites have a stigma? And the stigma was because it was difficult. The stigma was because you would have to spend a lot of time setting up a profile, answering long questions, paying a lot of money. So no one would do that unless they were really struggling in their dating lives and had to resort to that. And no one wants to admit that. Like no one wants to admit to themselves or certainly to other people that they like struggle in their dating lives and can't meet people.
+
+4 (35m 50s):
+And so the idea was people still wanna be able to meet new people. You just have to make it frictionless. You just have to make it easy. If you make it easy and you make a one click sign on, it won't have stigma. And if it doesn't have stigma, you're gonna unlock the biggest single market, which is people who are 20 to 35 when, when those people didn't use dating websites. So that was the pitch.
+
+0 (36m 11s):
+But how would you match people? I mean, when you were pitching this to investors in 2011 or 2012, like why would somebody, why would people use Hinge when they ask you that question? You, you would say, okay, it's easier. But then you would say, I, I I would say, well, but how do you match people if it's, if they, if you're just one click.
+
+4 (36m 29s):
+So that is where the complexity of the original idea came from. We would ask you questions about your friends that we would use for the algorithm. So we'd show you Susie and we'd say, would you describe her as more athletic or more book smart or more something like, and, and you would, you would answer that and we'd like build up these sort of like personality profiles based on quizzes that we would give you about your friends. And so we would show you someone and then let's say someone liked your friend Susie, tell her to join Hinge. And then you'd tell Susie and then she would join Hinge and then she would start answering questions about her friends and it would unlock more people for us to have access to. And it was, it was complicated and people were a little confused cuz they were like, well, I'm joining us to find new people, why are you asking me questions about my friends?
+
+4 (37m 16s):
+But that is how it worked in the early days.
+
+0 (37m 21s):
+But, but, but basically it, originally you were saying there's gonna be no friction, no nothing to answer, but you did ultimately you did have to have a way to gather information about people, right?
+
+4 (37m 31s):
+Yeah. But it was these fun personality quizzes about your friends as opposed to these like long,
+
+0 (37m 35s):
+Intimate. So it wasn't filling out a bunch of forms, it was just answering questions like a quiz you would get.
+
+4 (37m 40s):
+Exactly.
+
+0 (37m 42s):
+So w what kind of feedback were you getting? I mean it was still, you still had, didn't have a whole lot of people using it, but was the feedback at least good?
+
+4 (37m 51s):
+No, not really. It was, people were weirded out by it. People weren't used to it. Like people didn't understand why you had to answer these questions about your friends. They, you know, people were nice and they'd sort of nod their heads, but you know, you could tell like they didn't really get it. Like, and there's just no way that we were gonna be able to sell one. You know, maybe at the end of like an hour long focus group we would've sold someone on like how it works and why it's, why it's great. Yeah. But you know, we weren't gonna be able to do that with thousands or hundreds of thousands or millions of people
+
+0 (38m 26s):
+When we come back in just a moment, how Justin decides to simplify hinge and winds up building an app that a few years later he'll decide to pretty much rebuild from scratch. Stay with us. I'm Guy Raz and you're listening to How I built this from npr. I talk with so many business leaders who use Squarespace as they're all in one platform for building their brand and engaging customers online. Squarespace lets you easily create a dynamic website and sell anything your products and services and even the content you create.
+
+0 (39m 11s):
+Squarespace makes it really easy to get started with best in class website templates for all types of businesses that can be customized to fit your specific needs. Squarespace also provides the tools you need to run your business smoothly, including inventory management, a simple checkout process and secure payments. Whatever you sell. Squarespace has merchandising features to make your products look their best online. And with Squarespace email campaigns, you can build a community of email subscribers and customers. Start with an email template and customize it by applying your own brand ingredients like colors and logo. And once you send built-in analytics, measure your emails impact, check out squarespace.com/built for a free trial.
+
+0 (39m 55s):
+And when you're ready to launch, use offer code built B U I l t to save 10% off your first purchase of a website or domain. Today's episode is sponsored by Miro, which is actually a tool we rely on heavily to build this show. If you haven't heard of Miro, it's the most incredible visual collaboration tool. At first glance, it might seem like just a simple digital whiteboard, but Miro is much, much more than that. It's an infinite board where your team can build on each other's ideas and create something great together from anywhere. Pick from thousands of templates to get started. Like a quick brainstorm or a user journey map or flow chart. Our team uses Miros mind map to think of guests for the show and see how they're connected to each other.
+
+0 (40m 40s):
+Then we use Miros Swim lane diagram to cut out any confusion on who needs to do what. By mapping out processes, roles, and timelines, it just builds consistency when we all have this one source of truth. Give it a try by becoming part of the How I built this community Miro board. Head on over to miro.com/built to tell us about your experience discovering the show. Leave your thoughts with sticky notes, comments, reactions, and more. That's miro.com/built. One more thing before we get back to the show, please make sure to click the follow button on your podcast app so you never miss a new episode of the show. And it's totally free.
+
+0 (41m 26s):
+Hey, welcome back to how I Built This. I'm Guy Raz, so it's 2012 and Justin is trying to take the friction out of dating by building a site that's meant to help people meet friends of friends. But in order to do that, he's gotta raise some cash.
+
+4 (41m 46s):
+I was mainly talking to investors in Washington, DC you know, there are some, a few VC firms there, right? And the amount of money we were looking for wasn't like Sandhill Road money, it was just a few hundred thousand dollars,
+
+0 (42m 0s):
+Right? And I guess you didn't have a whole lot of success with them.
+
+4 (42m 5s):
+No, the wisdom at the time was that it was a saturated market, you know, match.com and eHarmony owned it and it would be impossible to break into, which I, you know, I looked at and I'm like, I am in my mid twenties, none of my friends use dating websites. It is not saturated, it's just, it's very clear.
+
+0 (42m 26s):
+But they were saying no, no match match.com is owned by iac, right?
+
+4 (42m 31s):
+Yeah. And even if you get big, like they'll copy you, et cetera, et cetera.
+
+0 (42m 35s):
+I mean did, did that in any way discourage you? I mean, did you ever feel like, God, they're really, maybe they're right.
+
+4 (42m 42s):
+It frustrated me, but it did not discourage me because I had a strong thesis that they were not dismantling, they were just drawing these other irrelevant analogies. And so a big part of being a great entrepreneur is being hopelessly idealistic but ruthlessly practical at the same time. You really have to balance these things. And I was being ruthlessly practical. I was like, no, no, no, like there isn't a clear market opportunity here. And so I wasn't discouraged because they weren't dismantling the argument.
+
+0 (43m 13s):
+You're a year in now and it's really not getting much traction and you're burning through cash. What kept you, you know, from not just getting depressed or, or anxious about the possibility that this would just collapse?
+
+4 (43m 27s):
+Well, I mean I was definitely depressed and anxious. I okay, I, I, you know, I was worried and I, I was concerned with the feedback that we were getting and at a certain point it became pretty clear that like iterations weren't gonna get us there. And around Thanksgiving, this is 2012, we have like $25,000 left in the bank at this point and we probably raised like 150 or something like that. It's pretty clear this isn't gonna go anywhere. So I had this kind of crisis moment over Thanksgiving and I called the team and I'm like, let's start over from scratch. This needs to be simple.
+
+4 (44m 8s):
+We gotta get rid of all these questions. And by the way, it's 2012, so the world's going mobile and this needs to be a mobile application.
+
+0 (44m 17s):
+And that was because by 2012 you yourself presumably and all your friends were using iPhones.
+
+4 (44m 24s):
+Yeah, it was starting, you know, the app store was starting to become more popular. There were more companies starting to develop things for the app store. So it just felt like if we're the dating company of the future, the dating company of the future is probably on mobile. And I, and I think again the simplification it, it dovetailed with the simplification of the interface, which is that we'll just make this thing really simple and if it's really simple it should fit on mobile. It's almost like a good forcing function to make it simple, right? Because you can't fit that much on a three and a half inch screen. And so let's just distill it down to like a photo age location, a few interests and just like yes or no, do you like this person?
+
+4 (45m 6s):
+Move to the next person and if it's a match, we'll let you know.
+
+0 (45m 9s):
+So, alright, so the idea here was to just do a pivot and focus on building a mobile app. I'm trying to figure out how you did that though, because in 2012, building a mobile app was a lot more expensive than it is today. How did you guys do that?
+
+4 (45m 26s):
+We used, at the time there were these, I don't wanna get too technical, but there was a way to essentially build a website that looked like a mobile app and behaved like a mobile app that you could package as a mobile app. So that is essentially what we did. What
+
+0 (45m 44s):
+Was your strategy in terms of getting it out into the world?
+
+4 (45m 49s):
+So my, one of my really good friends from Colgate had moved down to DC with me. His name was Bennett Richardson. He were, he and I were original roommates when we first moved to DC and he was just very plugged into the social scene. And so we just used his email lists and his, and we were just like hustling to get people on and telling them to tell their friends when we started with just iOS and we, and we just burned, I mean we just, we just worked all day and all night cuz we, because we had to be when we were gonna run outta money, which was February 7th, 2013 ish and we took our last $25,000 and we threw a 2,500 person launch party in DC We set the date and we just work backwards from that.
+
+0 (46m 35s):
+All right, so, so this party that you're talking about, you, you working on the app and, and I guess you decide we're gonna relaunch the company with a party, we're gonna throw a big party invite everybody we know and hopefully people would download the app that that was the idea?
+
+4 (46m 52s):
+Well yeah, because the other issue was the cold start problem. And when you get one or two or three people coming in at a time, you know, in the early days I would sit and look at the logs and I would watch, someone would blog onto the site and I would be like, oh my gosh, you know, and I would watch them, you know, they would like, like someone and then pass on someone and then like someone, and then they'd leave and they'd be like, ugh. I mean that's the trickle that was happening. And we were just like, we've gotta get everyone on at once. Like no one's gonna stick around if there's not a lot of people on this thing. So we've gotta just like throw this Hail Mary, we've only got 25,000 left, we're gonna pivot to mobile and we're just gonna like get 2,500 people in here. They're gonna be like the coolest trendiest people in DC and they're all gonna see each other downloading the app.
+
+4 (47m 37s):
+And so they're gonna think it's cool and they're gonna keep using it.
+
+0 (47m 41s):
+This is in February of 2013. Where was the party?
+
+4 (47m 44s):
+It was on a floor of an office building that was about to be built out as a new incubator that we were moving into and they hadn't touched it yet, so it was just this big empty floor. And so we just used that.
+
+0 (47m 57s):
+And I mean, how did you entice 2,500 people to come to the party?
+
+4 (48m 2s):
+Open bar? We, we had a liquor sponsor who just, I think Tito's vodka just like shipped us a bunch of alcohol for free. We had like a dj, we had an art exhibition, we had photo booths and a dance party and everyone had to download the app to get in the door. Now mind you, we, we actually didn't have an app almost because we had submitted the app to the app store for approval and they were not giving approval and we, we submitted like two weeks early and it is the day before the launch party and we still have not gotten approval for the app.
+
+4 (48m 42s):
+So we're about to throw this like launch party and we have no app to, for people to download. I was just like, I was trying to get in contact with people at Apple. I mean, who cares? Like, we we're like, nobody. But I'm like trying to reach out to the head of the app store and reaching out to any VC I've ever met and seeing if they have contacts there and just like begging and writing emails, trying to get this thing approved. And I remember like the night before the launch party, I just was like curled up in a ball in the floor of our little office at this incubator crying. The last two years have been for nothing because we're gonna launch this and we're gonna have no app and you know, we skirted, we had like days of cash left at that point.
+
+0 (49m 27s):
+So what happened?
+
+4 (49m 29s):
+I went to bed and I woke up in the morning and the app had been approved. Wow. Yeah, it was nuts. No explanation. Never got an email back, never know why, but it was approved that morning.
+
+0 (49m 40s):
+Alright, so that night to get into the door you had to download the app, which meant that's 2,500 downloads guaranteed, which is pretty good. How much of an impact did that have? I mean, did, did those 2,500 people, presumably not all of them, but did a percentage of them start to use it?
+
+4 (49m 58s):
+Yeah, the next day we had like 500 people log in to use the app who didn't have to, you know, the, they like just came of their own volition and used the app and then the next day, like 600 people came and the next day like 800 people came and we were off to the races.
+
+0 (50m 15s):
+And I know this would eventually change, but initially, let's be honest, I mean if you, if you wanna increase your chances of making money, there are a few places that you know will, will do that. Sex, maybe alcohol, a few others. Was a proposition in your mind like, or, or that you guys were kind of, let's say selling to, to potential customers, users was like, hey, this is a way to hook up. Was that I in, I mean, initially part of the value proposition? Cuz I would think that that would make sense. I mean that that's what people want.
+
+4 (50m 51s):
+No, we were, we were such a wholesome brand, we were friends of friends, right? So people would equate it to like, you know, a house party or a wedding and that was the kind of crowd and the vibe that you'd feel on Hinge. Whereas maybe on the other ones it was a little bit more just like people nearby and random. And so it just felt a little bit more like a club. And so we sort of gained this reputation as the more wholesome, more relationship oriented app. Right? And that was our niche.
+
+0 (51m 21s):
+It sounds like you didn't really change your approach or your strategy too much. I mean you went to mobile, but the value proposition was the same. Like this is a, you know, friends of friends relationship app. What explains, I mean, is it, is it that that launch party alone that explains how you really start to acquire users?
+
+4 (51m 42s):
+Well, I mean the details make the difference for sure. And those are pretty big details. Mobile only simplified interface, everyone's on it is very different than clunky interface. No one's on it. So yeah, I mean those details definitely made a big difference. So we started Washington DC and then a wait list built up in New York City and then we opened up New York City and threw a launch party there and then a wait list built up in San Francisco and then, you know, et cetera, et cetera.
+
+0 (52m 9s):
+And presumably now you've got raise money. Was it now easier? Were investors now more open to, to giving you money?
+
+4 (52m 19s):
+Oh my, well one we had traction. Yeah. And two, we had Tinder. Tinder was exploding and no one could invest in Tinder because it was owned by iac. And so the only place that people could put their money as a competitor to Tinder at the time was basically us. Wow. And so we were, we raised like a few million dollars towards the end of 2013, and then we raised a big round of like 14 or 15 million at the end of 2014. And I was turning away millions. I was like, I don't even know what, like I can't, I can't take anymore. Like, we have to close the round.
+
+4 (52m 59s):
+Like, I don't even know what I would do with all this money. So we're gonna stop here.
+
+0 (53m 4s):
+All of a sudden. Like there's, there's Tinder, there's Hinge, and there's some others. But you were very different from Tinder cuz Tinder was swipe left, swipe right. Not
+
+4 (53m 12s):
+That different. The, the absolutely converged over time
+
+0 (53m 16s):
+They became similar.
+
+4 (53m 17s):
+Yeah. You know, we were very focused on our competition and in our competition we released a feature and we'd release a feature and yeah, they became very, very similar in their appearance. And we were still friends of friends and so we had this different vibe, but practically speaking, the apps were very similar in how they operated.
+
+0 (53m 37s):
+There was a, an article that came out in Vanity Fair I think in 2015. It's called like the Dawn of Apocalypse Dating or something like that. Yeah.
+
+4 (53m 46s):
+The Dawn of the Dating Apocalypse. Right?
+
+0 (53m 48s):
+Yes. And, and it's mostly about Tinder, but there's quite a bit in there about Hinge and there's a, a paragraph in there and it, it's, and I'll read it to you. It says Marty who prefers Hinge to Tinder, he says Hinge is my thing, is no slouch at quote racking up girls. He says he slept with 30 to 40 women in the last year. And he says, I sort of play that I could be a boyfriend kind of guy in order to win them over, but then they start wanting me to care more and I just don't, now forgive me, I don't mind wanna sound judgmental, but like, this guy just sounds horrible, right? I mean, when, when you hear that and you saw that and you saw what you created, did a part of you just like, I don't know.
+
+0 (54m 30s):
+I mean yeah, you, it was amazing. You built this amazing app and people were using it. Yeah. But I don't know, did did a part of you kind of feel like, ugh, this is not what I wanted to do?
+
+4 (54m 41s):
+A huge part of me felt like that, that article, it was by Nancy Joe Sales. I mean, I went to go meet with Nancy Joe sales in New York and I was like, I want to hear your experience as you put together this article. It was a really big, yeah, it was a pretty big gut punch and that wasn't it. I mean there were some other things going on in 2015 where, you know, our, our growth was starting to slow a little bit, but I, I do think more importantly it was like, this just isn't the company that I wanted to build. It's, it's not, it doesn't have the values that I wanted to have. It doesn't have, it's not having the impact that I wanted it to have. We're kind of just this copycat app that has the same interface with like a small twist.
+
+4 (55m 23s):
+We're just friends of friends
+
+0 (55m 25s):
+And, but it was still a a, let's just say quote unquote like a meat market.
+
+4 (55m 29s):
+Yeah. I mean, again, it, it was had a little bit, it just wasn't well designed for what we wanted it to be for, which is long-term. I mean, I got, I started this cuz I wanted a girlfriend. I was sorry this cuz I wanted that real connection and it was not designed for that.
+
+0 (55m 47s):
+Yeah. And, and again, like I, I have to be really careful because like I'm older than a lot of people who use, who use these apps or were using these apps in this article. And so it's like any, any, anything that is not familiar, you, you sort of see it differently. And I, it's hard for me to talk about it without sending judgmental, but like, you know, you read these stories like in that article in Vanity Fair and it's like, just stories of young people just talking about Yeah. I, I've slept with eight people in the last like 10 days and it's so easy because I think one quote in the article's, like, yeah, it's just a numbers game. Dating's a numbers game. If I went to a bar, I'd have to talk to a hundred different girls. This, this with this, I could just swipe all night from my apartment and do better.
+
+4 (56m 31s):
+Yeah. I, you know, and I thought it was a numbers game too. I, I had a different objective in mind, but I, I also believed when I created that version of Hinge that, you know, you just, you just go through enough people and then when you find the perfect one, everything's easy from there. And so that is the kind of ethos that I had built Hinge around.
+
+0 (56m 53s):
+Let's go back to something we talked about earlier in this, in this interview about Kate, this woman that you dated in college that you loved and wrote to her and was a seer in 2010. And then she said no, and now it's 2015. And there was a New York Times reporter who was a writer who was writing an for the modern love, or she was writing an article for, for the New York Times about Hinge named Deborah Kopan. And so she meets with you in 20 and you were like, you know, this young hotshot running hinge and it's raised all this money and doing really well. So she wants to do a story about, about you and what happens during the interview.
+
+4 (57m 33s):
+Yeah. So rewinding a little bit further, it was like end of 2014 and Deborah writes me this email, I didn't know who she was. She had downloaded Hinge and the very first person that came up for her, she had matched with and started dating and fallen in love with. And she was like, I have to know how your algorithm works. Like, how the heck did I just download this app, hit a button, someone comes up and I match and now we're dating, you know, I want to write a story about you. So she reaches out to me and we go for this like, pretty standard founder interview about whatever we, I was talking about at the time. I could tell it was just kind of like, it was an okay interview and we were about to finish up, you know, as we were like packing.
+
+4 (58m 17s):
+She said, have you ever been in love? And I was like, well, once a long time ago, but I didn't realize it until it was too late. And she's like, well, tell me the story. And so we sat down and I told her the story of Kate and me and this magical connection we'd had and the sort of twists and turns and the breakup and the drug addiction and the alcoholism and, and me reaching back out and how in a way she'd sort of, I realized especially at that time, she'd inspired Hinge.
+
+0 (58m 48s):
+And I guess it, I mean it makes sense for a reporter to ask the guy behind Hinge like, how's your love life?
+
+4 (58m 54s):
+Exactly.
+
+0 (58m 55s):
+And you were not dating anybody at the time?
+
+4 (58m 57s):
+No. Again, there was someone that I was dating on and off during that period, my sort of usual pattern, but no, not really. And so she shuts off the tape recorder and she says, I've gotta tell you a story. And she tells me the story of how she had this like amazing romance when she was younger and really felt this person was the one, she was a war reporter or a photographer actually in Afghanistan and they were supposed to rendezvous in Paris. It was like this very romantic transcontinental story. And he lost her number and so they didn't meet up and then they lost, you know, this is like the eighties and nineties. So they didn't really
+
+0 (59m 36s):
+Pre-email, pre cellphones.
+
+4 (59m 38s):
+Yeah, pre, yeah, pre-email, pre-cellphone. And so they didn't connect and she ended up marrying the next person she dated and he ended up marrying the next person he dated. And then 20 years later she's researching a story, comes across his name and reaches out to him and it's like, Hey, are you the same? So and so that stood me up 20 years ago. They ended up me like coming together and they met and I think it just lit her up in a way that she was like, I'm gonna leave my marriage.
+
+0 (1h 0m 7s):
+Because this guy that she had was supposed to meet in Paris, he didn't stand her up, they just both, he lost her address and, and she lost Yeah. 20 years. Yeah,
+
+4 (1h 0m 15s):
+Exactly. And so she left and downloaded Hinge and then had met this guy,
+
+0 (1h 0m 19s):
+And if this sounds familiar to anybody, it's because it was written in a modern love article by Deborah Kopan. She wrote this part of this story in that, in this article. But, but, but, but anyway, so she tells you this story
+
+4 (1h 0m 33s):
+And she, she said, listen, don't get me wrong. I don't regret my life. I love my kids, but you still have a chance to be with the one.
+
+0 (1h 0m 42s):
+Wow.
+
+4 (1h 0m 44s):
+And I was like, lady, nice to meet you. You're a little nuts. It's been eight years since I've seen Kate at this point. She's, you know, engaged to be married as far as I know, she still lives on another continent. It's too late. And she's like, you won't know until you try. And early February we were gonna be throwing a launch party in London. And so about a week before the launch party I happened to run into Kate's best friend from Wellesley and we're chatting and she's like, I think you should reach out to Kate.
+
+4 (1h 1m 24s):
+You know, at this point, by the way, I had written Kate an email every year on her birthday after she told me no. And some of these emails would be like, you know, I'm over it. I hope we can be friends. No response. I think my, my last one in like 20, 20 13 had been something like, I'll come over with an engagement ring please. Like, it was, you know, it like ranged depending upon the year and how I was feeling. Wow. And after that one, you know, she had like defriended me on Facebook and, you know, it was like pretty clear that like that had sent her. That was it. So I, after that I'd, I'd let it go and I was headed over to London and I'm like, you know what, whatever, like, I'm just gonna send one last email.
+
+4 (1h 2m 8s):
+And so I, I composed a really short note. It just said, Hey, gonna be over in London, weird to think I'm never gonna see you again. Would love 15 minutes just to say hi and goodbye. And I woke up the next morning to a response
+
+0 (1h 2m 23s):
+Saying, sure, I'll see you in London.
+
+4 (1h 2m 26s):
+No saying you're a terrible stalker. I don't live in London anymore, I live in Switzerland. My fiance is not a huge fan of yours, but I'm willing to chat so he'll be away this weekend if you wanna just like hop on the phone. I said, great. And then I went to the airport and I bought a ticket to Switzerland and I flew to Zurich and the next morning, which was a Friday, she thought she was like in another time zone and she was like, I'm awake, like whenever you you wanna chat, we can chat. And I said, great, because I'm going through customs in Zurich right now.
+
+4 (1h 3m 7s):
+Wow. You know, I flew over there definitely having Deborah having inspired me to do something like big
+
+0 (1h 3m 14s):
+Hmm.
+
+4 (1h 3m 15s):
+But I have to admit that it had been eight years. I had changed a lot. I mean, I'd gotten sober, I'd been to hbs, I'd like started a company, you know, it was like a lot had happened since I'd seen her. I assumed a lot had happened for her. And you know, a pretty big piece of me thought we would maybe see each other and then laugh this off and you know, bring some closure to the whole thing. And I could move on. She could move on. So we met in a cafe in Zurich and five minutes in I was like, I don't know what I am doing without this girl. The conversation started off and we obviously there was a connection still there and she was like, well obviously I'm not calling off my wedding, I'm getting married in a month.
+
+4 (1h 3m 58s):
+400 people coming from five continents,
+
+0 (1h 4m 0s):
+She's getting married in a month. Yeah.
+
+4 (1h 4m 3s):
+Invitation sent, planes booked. And she's like, well obviously I'm not calling off the wedding, but you know, we should stay in touch. And then, you know, halfway through the conversation it was like, well if I were gonna call off a wedding and we sat there for like eight hours straight, I don't even think we even got up to get a coffee. And then by the end of the, the our like eight hour chat, she was like, I think I'm gonna call off the wedding.
+
+0 (1h 4m 26s):
+I mean, wow. I mean it's, it's, I have so many, so many feelings and thoughts about it because obviously this was meant to be the two of you, but like, wow. I mean that's, that's a lot, right? I mean,
+
+4 (1h 4m 41s):
+Yeah, you're telling me
+
+0 (1h 4m 42s):
+Both of you guys were making a huge decision to, that was gonna be really hurtful and painful to somebody, but clearly this person she was gonna marry was not the right match for her. But still, like she was a month away from getting married and, and I'm assuming that when she decided to call off the, the wedding, she also kind of implicitly decided that she was gonna move to the, to New York to be with you.
+
+4 (1h 5m 9s):
+That's right. Yeah. I moved from a big chalet in the Alps to my 300 square foot studio apartment in Manhattan. So, and this will lead us back to the discussion about Hinge, which is that, you know, here I am thinking like, oh my God, like I got the person, the one, the one I've been dreaming about all like all this time I, you know, and then I flew to London and we did the launch party and then I flew back to the States and then she met me back in the States and she moved in and it was amazing for like two months. And then, you know, we were two people living together in a 300 square foot apartment and we're like figuring each other out and it's not perfect all the stuff that I wanted to run from, cuz I did, I mean there's a piece in me like two or three months in that was like, ooh, like should I have done that?
+
+4 (1h 6m 0s):
+You know, that. But there was like, but she'd like, she'd given up a whole life. She'd come back and so I'm like, yeah, I'm gonna stick it out. Yeah. And we just worked it out together one step at a time and I realized that it's not a volume game. Love isn't about trying to go through enough people until you find your perfect puzzle piece and then everything's smooth sailing love is about the way you approach it. It's about vulnerability, it's about connection. You don't find the one, you create the one that completely overhauled my approach to how I thought dating app should work.
+
+0 (1h 6m 40s):
+But, but this is the thing, like, again, like now, the thing that you had built was, let's say lots of people were using it in ways that didn't lead to that. It was, it was more like a hookup factory. And again, please, anybody listening, I am not judging you. I am not being judgemental. I'm not saying there's anything wrong with that. That's perfectly fine if that's what you were looking for. But Justin, that's not what you wanted to build. You didn't wanna build a hookup app.
+
+4 (1h 7m 9s):
+That's right.
+
+0 (1h 7m 10s):
+But you were kind of pushed into that direction just because of the forces of, of, you know, the economy and of what, of what people wanted and of what investors wanted you to do and what you thought was gonna work.
+
+4 (1h 7m 23s):
+It was a lot of pressure running that company at that time. And we were really trying to keep up with the competition. And the natural thing to do is to like, be obsessed with your competition and look at what they're releasing and then they'd release a feature and be like, oh, we have to have that feature. And our users would be like, why don't you have this feature? And so then we would wanna like copy what they were doing and we were always a step behind cuz we were not as well funded and not as experienced. So I mean, not only was it not alignment, the values, it just wasn't gonna succeed. Like, it was just not that different or interesting of a product. And so yeah, on both fronts I was frustrated and I, and I remember it was around Thanksgiving that year, it was around 2015, I was headed home for, for Thanksgiving.
+
+4 (1h 8m 9s):
+I was about to fly back home to Kentucky and I had lunch right before I left with Katie Hunt, who was our chief brand officer. And she and I sat down and I was just like, Katie, like I just wanna tear this whole thing down, start over. Like I, I'm just like done. And she looked at me and she was just like, what's stopping you? And I paused and I, and I was like, nothing is stopping me. What is stopping me
+
+0 (1h 8m 44s):
+When we come back in just a moment, how the effort to relaunch the app would lead to a dramatic drop in users and how an 11th hour investment from a one time competitor would help revive the brand. Stay with us. I'm Guy Raz and you're listening to How I Built This from npr. The Spark Cash plus card from Capital One helps you earn unlimited 2% cash back on every purchase.
+
+0 (1h 9m 29s):
+And with no preset spending limit, your purchasing power can adapt to meet your business needs. Jorge Guvera, founder of Masa Reinvests, his 2% cash back to help grow his business with new products. And I really love the idea behind Masa. It's a supply chain company connecting Mexican heirloom corn farmers with restaurants, chefs, and consumers. And while Masa is connecting more people to the culinary and cultural richness of the Mexican kitchen, it's also elevating traditional heirloom farmers that work in areas that live below the international poverty line. Imagine what the Spark Cash plus card from Capital One, an unlimited 2% cash back on every purchase could do for your business. Capital One, what's in your wallet?
+
+0 (1h 10m 9s):
+Find out more@capitalone.com slash spark Cash plus terms and conditions apply. You probably already figured this out, but I'm sort of a nerd for innovative ideas and products and I love to cook. Well today's sponsor, Thermador has been making some huge new breakthroughs in the kitchen with their industry leading induction cooking appliances. What makes Thermador induction cooking products best in class are not only their sleek clean lines and quality craftsmanship, but their professional style performance. Thermador induction is powerful enough for searing proteins and precise enough to simmer the most delicate sauces.
+
+0 (1h 10m 49s):
+You can learn more and explore the entire groundbreaking induction innovation collection, including all new wifi enabled induction ranges coming this summer at thermador.com/built. That's
+
+3 (1h 11m 2s):
+Thermador.com/hey,
+
+0 (1h 11m 10s):
+Welcome back to How I Built This. I'm Guy Raz. So it's the fall of 2015 and inspired by his rekindled relationship with Kate, Justin decides once again to completely rebuild hinge.
+
+4 (1h 11m 26s):
+We're gonna rip down this whole thing, bigger deal now we're not four people anymore, we're 30 and we don't have 25,000 in the bank. We've got like 10 million. And I called up my coo Sam, I talked to Katie, you know, I got them rallied around this idea that what we built is not gonna succeed and we have to rip it down, start over from scratch. And by the way, there's a market opportunity. So now it had been what, three or four years since the dating apps had launched. A lot of those people who are like 22, 23 when they came out are now like 26, 27, 28 and they're looking for something more serious.
+
+4 (1h 12m 9s):
+So let's start over and let's build the app that's gonna be accessible to young people and have a cool brand, but is really designed to get people into relationships and off the app. Yeah. And by the way is a great word of mouth. Like if people always ask how did you meet? And if we're the best at getting people who are in relationships, if we're the best at that and people will tell their friends and as long as they're single people in the world, we'll do great. Right? And like, we're not thinking about competitors anymore. I don't want to talk about it. I don't want anyone to have those apps on their phone for competitor research. That was the biggest decision we made. And we said we're gonna actually measure whether people are going out on great dates or not.
+
+4 (1h 12m 51s):
+We're still the only app that ask whether you went on a date and whether it was good. And that is our North Star metric period.
+
+0 (1h 12m 59s):
+How are you guys gonna make money? How are you, you know, I mean presumably charging a a, a fee, a adjoin, a monthly fee a a per dating fee. Like how, how did, how did it work?
+
+4 (1h 13m 9s):
+Well that was one of the massive mistakes we made when we relaunched. So we had this thesis that the serious dating websites are all what are called hard paywall businesses. Meaning that in order to engage pretty much at all, you have to pay a monthly fee, but it's usually pretty expensive. It's like 39 99 or 49 99 a month.
+
+0 (1h 13m 31s):
+You talking and you're talking about the, the, the big sites like, like eHarmony and match.com, stuff like that.
+
+4 (1h 13m 36s):
+Yes, that's right. So we were like, we're gonna create a hard paywall app, but it's gonna have a millennial sized price of 9 99 a month.
+
+0 (1h 13m 48s):
+And that gave you like basically unlimited?
+
+4 (1h 13m 50s):
+No, just access to the platform. Gotcha, okay. I mean I gotcha. You know, you couldn't even, like, we're just like, we're the intention platform. If you're not willing to pay 10 bucks a month, then like, you know, go on, go somewhere else. Right.
+
+0 (1h 13m 60s):
+And the other apps, by the way, were free. Right.
+
+4 (1h 14m 3s):
+And the other apps were free. Yeah, right. Okay. But we had, we were very idealistic and we're like, people will pay, like that'll be the model. That was a totally wrong thesis. So people were not willing to pay and then we had to like give people free trials and then we had to, and then by the, it was like, it was such a mess
+
+0 (1h 14m 21s):
+Because the, the market, the market for dating apps is like, sort of like podcasts. Like people are used to free dating apps, all of a sudden you're coming on and seeing to pay for it and people are like, no, I'll just go on this other dating app.
+
+4 (1h 14m 32s):
+Yeah. And even more important than on podcasts. Like there's network effects. So if there's not a lot of people on it, then people don't find it valuable to be, you know, loses its value anyway. And
+
+0 (1h 14m 42s):
+You figured this out because it was like crickets, like no one was paying for this. Yeah,
+
+4 (1h 14m 47s):
+We got like, you know, a few hundred thousand people to, to sign up, but then no one really would like, when they hit the paywall everyone was just kind of bouncing. Ooh. So, so we started giving away free trials, like, oh, if you've had a hinge account before, you can have the first three months free. We thought like if we could just get the engine going then like the new people would come in and pay. Because
+
+0 (1h 15m 5s):
+Before that it was free, totally free before you, you kind of relaunched it
+
+4 (1h 15m 9s):
+Before that it was totally free. Yeah. We'd never made money up until that point.
+
+0 (1h 15m 13s):
+But now you needed to make money, you had real investors and real money behind you.
+
+4 (1h 15m 17s):
+Yes, that's right. So
+
+0 (1h 15m 18s):
+What did you, had you salvage it? I mean given that you, this sounds like it was kind of a disastrous relaunch in that sense, even if the other features were great, people weren't buying it. What did you do?
+
+4 (1h 15m 30s):
+Yeah, that was, it was pretty rough relaunch cuz we, you know, and that whole period of time was tough by the way. I mean, I felt like Moses leading people around the desert, like we didn't know where like we were testing things and you know, we're just like, didn't know is like the best thing is the only thing to have this swipe feature is that the only way that a, that a app can work is this. Like what are we gonna do that's gonna be really any different, that's gonna be better than that. And we did figure that out by the way. And we did come up with a very different way for people to interact that had very significant ramifications on how people behave on, on the dating app. What,
+
+0 (1h 16m 7s):
+Tell me, tell me more about that.
+
+4 (1h 16m 9s):
+Well one of the biggest changes that we made is we, we did get rid of the swipe feature and we had people fill out longer profiles. Still relatively simple, but you had to add six photos and you had to add three prompts, which are responses to short questions that are designed to help you get into better conversation. But more importantly is when you like someone on Hinge, first of all, you like something about them, you have to choose something like one of their prompts or one of their photos and you can comment on it and you send that like, and that seems subtle and maybe not that big a deal, but it has a pretty dramatic effect on people's behavior.
+
+4 (1h 16m 50s):
+They are way more selective and way more thoughtful because when you're not just throwing people to the left and to the right, you actually have to think about what you wanna like about them, what you wanna say. It just makes people way more thoughtful and selective. Right? And when you're way more thoughtful and selective about who you like, our data is way better about learning your tastes. And if someone liked you, we would just notify you and tell you that someone so liked you and they liked this thing about you. So that there wasn't a strategy of just liking people to see if they liked you back. A lot of people will use the, the swipe feature and they'll just like, like, like, like, like, and they'll just see who matches with them and then they kind of figure it out from there, which creates a lot of engagement, but it's a lot of noise and it frustrates people cuz a lot of those matches don't go anywhere.
+
+4 (1h 17m 33s):
+And so when you can actually like distill it down and it's not as engaging, it's not as noisy, but it's a lot more substantive, there's a lot more signal there for people to latch onto. So that was a very fundamental change that we made.
+
+0 (1h 17m 47s):
+So you you sort of offer up a free version, right? Like a freemium model, which a lot of these sites have, and basically users can go back to using it for free, but if they wanna want more features, they gotta, there's like a, a tiered system, how does it work?
+
+4 (1h 18m 4s):
+Yeah. So now you pay for certain upgraded features like advanced preferences or unlimited likes.
+
+0 (1h 18m 15s):
+And I, I have to assume it's a tough business, right? I mean there are lots and lots of options, right? And, and so a big part of of differentiating yourself is through the branding, like what you represent. And now you guys were kind of really focused on being the relationship app. Like, okay Tinders to the hookup app and Bumbles, you know, women Initiate, but we're the relationship app. Is that fair to say?
+
+4 (1h 18m 40s):
+Yeah, that was actually I think our, our original tagline. But yes, it was very much branding around, if you're looking to get off dating apps, this is the place for you. Let's
+
+0 (1h 18m 49s):
+Talk about this, this tagline that you guys eventually settled on. Cuz it's, it is, it's hinge designed to be deleted, which I love. Yeah. Your tagline now is, Hey, download us, but really we want you to, to delete us. Cuz if you succeed on Hinge, you won't need us anymore.
+
+4 (1h 19m 8s):
+That's exactly right. And I mean that's how a dating app should be. And by the way, designed to be deleted has two dimensions to it. You know, one dimension is we are the experts in getting you into a relationship. We get this better than anyone. We research it, we spend all our time looking at how users behave and how do we get them on better dates and that our whole company's organized around that. But there's also an element of digital wellness to it as well, which is that we don't want you spending all day on our app. Like, we don't want you stuck playing a game on Hinge. And, and this really grew out of my experience with addiction and, and I, you know, I don't use social media, I don't, I don't use Instagram.
+
+4 (1h 19m 55s):
+I don't really have an Instagram account or a Facebook account. I don't spend any time on it cuz it's, you know, I didn't escape drug and alcohol addiction just become a slave to my phone.
+
+0 (1h 20m 5s):
+But do, do you think, I mean, given, you know, given the, the fact that you relaunched a few times and your tagline is, you know, we wanna be deleted. Do you really think that Hinge is no longer the place or a place for someone who just wants a casual hookup? Like how are you able to now change the behavior of people who went on the app if in 2015 in Vanity Fair, some guy was saying, yeah, I love Hinge, it's, I've slept with 30 to 40 people in the last five months. Like, how do you change that person's behavior with the relaunch?
+
+4 (1h 20m 35s):
+It's just too difficult. If you're looking for a hookup, it just requires too much effort. You asked about the, you know, how do you, aren't you gonna still have people like that person in the Vanity Fair article using your app? And what we find is that when you have to answer all these prompts and have to send, you know, like a piece of content and like if all you're looking for is a hookup, like this is way too much effort to do that. And so that's I think the difference, you know, we lose more than 20% of our users during the signup process on, on other, those other apps. You hit one button and you're in and you're swiping and you're going, yeah. So if you, again, if you were like talking to a Silicon Valley social media investor, they would be like, oh my God, you can't lose 25% of your 20% of your signout.
+
+4 (1h 21m 22s):
+Like, are you crazy? And for us it's a feature, not a buck. You know, it's like, yeah, it, you have to, finding a relationship is hard if you're not willing to put in the effort to fill out this profile and answer some prompts and then, you know, you're probably not the, it's not the right service for you. Like, we just want people who want meaningful relationships full stop period. Like, we just want to get amazing at that.
+
+0 (1h 21m 48s):
+Okay. So when, when you did go ahead and, and do the relaunch of Hinge in in 2016, how, how did it get, like how was it received?
+
+4 (1h 21m 58s):
+Well, I mean, it was not a breakout success. Like when we did the relaunch in 2013, we got off to a rocky start, but the numbers started to look really interesting and really promising. And so, you know, my first instinct was obviously to like, keep this thing going and Cora money. So I was back out in the fundraising game, flying all over the country talking to every vc, and now I could get in the door of anywhere, right? I mean, any VC firm would at least take my meeting. Yeah. But no one would gimme money. So I mean, it was, I mean, I was begging, I mean I, wow.
+
+4 (1h 22m 38s):
+I was offering valuations that would are embarrassingly low.
+
+0 (1h 22m 42s):
+Even your existing investors were, were getting cold feet.
+
+4 (1h 22m 45s):
+My existing investors were willing to rally to put together a few million, but a few million dollars is not going to get us to where we needed to go. Yeah. So I really wanted to raise a bigger round and, and I, I teased that and you know, I said, you know, our, we existing investors will put like three or four, but I need five to 10 more at least.
+
+0 (1h 23m 7s):
+Yeah.
+
+4 (1h 23m 8s):
+And I just, I mean, I went everywhere trying to make this deal happen. I talked to everyone.
+
+0 (1h 23m 14s):
+I mean, it's amazing because you had already had a record of success. You had launched this thing, you had defied the, the skeptics by even putting this out into the world, you had achieved quite a bit of success with it. You, you know, millions of people had used it and then, and still you had a hard time raising more money.
+
+4 (1h 23m 34s):
+Well, we made a decision when we decided to do the reboot that we were just gonna not touch the existing app. You know, this is a big debate, like, do we keep the app like on the rails and keep adding updates and kind of just keep it going? Or do we just let it go completely and divert all of our focus to this new thing? And we decided to do the ladder. And so meanwhile, the app had started to go down and the user numbers were going down because we just weren't putting any effort into it at all.
+
+0 (1h 24m 0s):
+Where were you putting the effort in,
+
+4 (1h 24m 2s):
+Into developing the new Hinge? I
+
+0 (1h 24m 4s):
+Got you. And while you were developing that, you weren't even updating the app at all.
+
+4 (1h 24m 8s):
+No. So it sat there stale for almost a year. Right. And I had this like one investor that was really holding out for, and I really thought we were gonna get across the line. And I remember the partner at the VC firm called me and she was like, you know, we just can't get our heads around. We've never seen a company that was cool and then went away and then was able to come back and wow, we just can't do it. And I was like, Timberland's,
+
+0 (1h 24m 43s):
+That's a great, actually, you're totally right. Case w
+
+4 (1h 24m 47s):
+Yeah, yeah, exactly. It's just like fashion brands are not the same as apps. And I said Fair point, but our numbers were actually starting to look really interesting. And if you had the right eye for it, you knew that there was something here with the new version of Hinge. Yeah. You know, on the old version of Hinge, the biggest thing, just to give you a sense, you had to send a thousand likes in order to get to a date. And on the new version of Hinge it was 50. So a thousand to 50. Wow. 20 times more effective at getting people out on a date.
+
+0 (1h 25m 23s):
+Hmm. So I mean, I I think finally in 2018 you guys did get an investment, a, a pretty big one, which was a, a majority stake in the company from Match Group, which is match.com owns Tinder. So former competitors. And then in 2019 they fully acquired Hinge. Yeah. There are lots of reasons to, to get acquired. I mean, obviously you've worked on this for many years and it's a chance to kind of get a payout and to, to take a breather and not to worry about having to raise money every year or every, you know, or every few months. And, and it takes, and now you've got a bunch of resources behind you.
+
+0 (1h 26m 4s):
+Are all those reasons why you agreed to the acquisition?
+
+4 (1h 26m 9s):
+You know, funny enough, the way that the relationship with Match Group started is I tried to poach their head of business development to come run finance at Hinge. I mean, that's the level of audacity that I had. We had like three months money in, in the bank, and I'm trying to like steal their head of finance to come like run the finance at at, at Hinge. And he very quickly turned the conversation around and was like, have you thought about, you know, maybe we can partner with you. Hmm. And that started a conversation. And so the more time I spent around that team, the more I realized that the combination, I think of our different perspective on the Hinge side with their wisdom financial backing, it was gonna be a really good success.
+
+4 (1h 26m 54s):
+And then there's a reason I think, you know, you see that the, the startups that have really taken off and grown in the dating space were all started in house.
+
+0 (1h 27m 2s):
+Yeah. They were all, I mean, Tinder was started within iac. Right. And, and Match was owned by iac and they had huge resources and marketing dollars and it's not surprising that they, they exploded in growth.
+
+4 (1h 27m 16s):
+That's right.
+
+0 (1h 27m 17s):
+And so it, it sounds like the calculation you made was these guys have a lot of resources, like, it's like Procter and Gamble. It's like you have a product and, and Procter and Gamble comes and says, look, we wanna acquire you and we have this, all this research money and marketing dollars and could be a really attractive idea to go and, and work for them
+
+4 (1h 27m 36s):
+And scary at the same time. Right. I mean, for us, like t you know, Tinder was the enemy and Right. So like, you know, it was like, it was kind of a lot to get your head around that. And at this point, I had friends who'd sold their companies and had agreements and it like almost never works out. Yeah. Either the, the, the company goes sideways or the company goes up, but then they, the relationship doesn't work with the founder and they leave. Right. And so I was really conscious of that, obviously. So it was scary, but ultimately I just thought I wanted to do what's best for Hinge the company. And I think this is it.
+
+0 (1h 28m 15s):
+What did that allow you to do once you were acquired by Match? Did that, I mean, and, and then you sort of became more comfortable with this idea that you could still run the, the company the way you wanted it. Does it take some of the stress out of, of Hinge knowing that, you know, the money is there, you're not, you don't have to worry about firing people or going on begging for money. Does it kind of de-stress you a little bit?
+
+4 (1h 28m 40s):
+Well, you're trading some stresses for new stresses. Right. But it's like a new relationship, you know? Yeah. It's, it's just like with Kate and me and you like, hop into, you know, you're now living together and you figure each other out. And just like that relationship, I was really, really committed to making this one work and they were committed to making it work too. And we, and we figured each other out and we have a pretty incredible relationship today.
+
+0 (1h 29m 4s):
+That was 2019. And I think the, the relationship with Match really enabled you guys to, to grow and to scale more. And then comes 2020, which I imagine at the beginning of the pandemic, you must have thought, oof we're in big trouble. Nobody's gonna be going out on dates. Is that, initially, did you see a, a steep decline in users?
+
+4 (1h 29m 28s):
+Yeah, it's been really volatile. You know, we planned in 2019, our growth was really incredible and we planned a very big 2020, you know, we were gonna grow the team, we're gonna like double the size of the team. We were gonna do all this stuff. And the pandemic hit, I think initially, you know, everything went into lockdown. It was cold outside. And so we definitely saw some shakiness in the business, to say the least. But then as things started to stabilize and it started to warm up outside, it actually like completely turned the other direction. Yeah. Because now people can't meet at house parties and weddings and bars and yoga classes and gyms and all the other places that theoretically they would've met.
+
+4 (1h 30m 16s):
+Now we're the only game in town. Yeah. And I also think this period of time has been, people have been rethinking their dating lives and rethinking their lives in general. And I think people have become more thoughtful and more serious during this time about their intent and what they're looking for. And so then when it started to warm up and, and the numbers stabilized, then it was a huge boon to the business.
+
+0 (1h 30m 40s):
+W were there things that you guys, features that you introduced during the pandemic that made it easier? Like that, you know, made it easier for people to connect virtually?
+
+4 (1h 30m 50s):
+The biggest shift that we saw was a shift to people willing to try video dates because people wanted to like, spend a little bit more time getting to know you and decide whether it's really worth, you know, risking, getting covid to meet up. And so video dating, like more than half of our users now have gone on a video date. And so that was something that seemed like a pretty clear thing to build into the app.
+
+0 (1h 31m 15s):
+Yeah. And also just less risky, right? You're just on a video call with somebody and if it's weird or you're just not connecting, then you know, that's it. You didn't, you didn't have to leave your room.
+
+4 (1h 31m 24s):
+That's right. And that's why I think, you know, when we talk to our, our users who have tried it, most of them say that they want to continue to do it even after the pandemic because it just makes a ton of sense. I mean, it really is like doing a quick 15 minute screen before you go spend an entire evening and spend money and energy to go meet up with someone, I think will actually make this a much, much better experience if that becomes part of it.
+
+0 (1h 31m 49s):
+Yeah. Th this may be a hard question for you answer, but I'll ask anyway. You're still pretty young, you're in your thirties, I think you're mid to to late thirties, and you started this app, which is a pretty big deal. It's a major dating app and now fully acquired by Match, and you work for Match, you're an employee, so you're the ceo, but, but presumably, you know, like any employee, if if if they wanted to find a new one, they could. And if you wanted to move on, you could, and probably eventually you will and maybe start something new. Can you, is that what you imagine doing? Like, do you, do you feel like you've got another business in you?
+
+4 (1h 32m 30s):
+I don't know the answer to that question, and believe it or not, I actually don't think about it that much. I have so much on my plate at Hinge right now. I think the opportunity is so great. I'm actually very happy and, you know, I worked so hard to build this culture and this company and this service and this brand. I mean, it is so difficult. I am so invested. I mean, this is still my baby. And so doing that over again sounds, now that I know how hard it is, you know, when I started Hinge, I just thought like, oh yeah, this is a 2 billion company. This should take about a couple years. We'll sell it.
+
+4 (1h 33m 10s):
+And you know, like if I had any idea how like many tears I would shed and how many nights you just like, I, I don't know if I would've started it. And so it's hard to imagine wow that again, and I think everyone finds their sweet spot and I think some people are really good at the beginning and the starting and the ideation and pulling the resources together and getting something off the ground. And then some people are good at the scaling and some people are good at the operating. And I've really enjoyed each part of the journey and I enjoy the challenge of the constant shift. And so I'm still very much on that trajectory. Like, I love this challenge of scaling from 50 to 150 employees remotely while still trying to innovate and grow internationally.
+
+4 (1h 33m 53s):
+I mean that's, that's, that's a lot of intrigue for me. And yeah, I don't need more.
+
+0 (1h 34m 1s):
+When you think about Justin, when you think about your story and everything that's happened and all the ups and downs and where you've come to, how, how much do, do you attribute to, you know, your, your hard work and your skill and talent, and how much do you attribute to luck?
+
+4 (1h 34m 17s):
+I feel pretty lucky. I mean, if you go through my story and, and going through it today has really reminded me of that there are so many serendipitous twists and turns that had they not happened, it's hard to imagine I would be here, I would be somewhere maybe, you know, there are a lot of really lucky things that happened to me. There are a lot of like really tough things that happened along the way. I mean, having the company fail multiple times, like drug addiction, alcoholism, like, there's all these like really tough things. And when I look back, I think the hardest things, losing the girl drug and alcohol addiction, the company failing, you know, ended up being my biggest blessings.
+
+4 (1h 34m 59s):
+If those things hadn't happened, I certainly wouldn't be here today either. And if there is skill involved, I think it's how we roll with the bad things that happen. You know, do we resist it and fight it and judge it and get resentful about it? Or do we lean into it, learn from it, and like keep showing up the next day. But that said, I feel unbelievably lucky. I choose to feel lucky.
+
+0 (1h 35m 31s):
+That's Justin McLeod, he's the founder and C of Hinge, which today has an estimated 6 million monthly users. And he and Kate are actually married. They had a baby, a boy named Oliver. And if you think their story sounds like a movie, it kind of is, it became the inspiration for an episode of the Amazon Prime series Modern Love, which Justin found out was being filmed literally on the last day of production.
+
+4 (1h 35m 58s):
+And so I call Kate and I'm like, so never gonna believe this, but someone's filming a show about our lives, like down the street. And so Kate and I like hop in the car and we, we like go to the location and we get out, there's like 150 people there and they're filming the 2013 Hinge launch party. Oh. And Dev Patel is up on stage. Wow. And they put Kate and me and his extras.
+
+0 (1h 36m 24s):
+So you hanging out with like Dev and Katherine Keener now, like,
+
+4 (1h 36m 28s):
+Well we have, I have like a photo with them from, from the, okay. But Dev doesn't call me that often.
+
+0 (1h 36m 38s):
+Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on whichever podcast app you're listening to so you don't miss a new episode of the show. And it's absolutely free. If you wanna contact our team, our email address is ibt id.wondery.com. This episode was produced by JC Howard with music composed by Ramera Bluey. It was edited by Neva Grant with research help from Derek Gales. Our production staff also includes Casey Hermann Ki Sam Paulson, Alex Chung, Kerry Thompson, Elaine Coates, John Isabella, Chris Masini, and Carla Estevez. I'm Guy Raz and you've been listening to How I Built This.
+
+0 (1h 37m 30s):
+Hey Prime members, you can listen to how I built this Early and ad free on Amazon Music. Download the Amazon Music app today, or you can listen early and ad free with Wondery Plus and Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built this merch and gear wondery shop.com. Before you go, tell us about yourself by completing a short survey, wondery.com/survey.
+
+6 (1h 37m 59s):
+Hey everyone, I'm Patrick Wyman, host of Tides of History, the podcast that covers thousands of years of recorded history, taking you back in time and placing you in the lives of those who came before us. With five seasons and over 250 episodes, there's something for everyone. If you're interested in the Iron Age, check out the entire season devoted to that era, which explores myriad topics, including classical empires like the Neo Assyrians, the Phoenicians and Greece's Dark Age, or listen to our deep dives into Renaissance Italy, the invention of news, the Protestant Reformation, witch hunts, and even the Black Death. And if you prefer more contemporary history, listen to our episode about the unparalleled rise of capitalism. Whether you are a history buff or just have a passing interest, tides of history will fill you with wisdom and wonder for everything that came before.
+
+6 (1h 38m 45s):
+Follow tides of history wherever you get your podcasts. You can listen ad free on the Amazon Music or Wondery app.

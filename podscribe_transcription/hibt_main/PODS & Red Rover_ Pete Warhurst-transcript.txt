@@ -1,0 +1,983 @@
+1 (1s):
+Reveal the economic patterns all around us while you swipe right and left, understand money better with the indicator. One of NPR, daily podcasts, more voices, all ears, NPR, podcasts
+
+E-Trade (15s):
+Support for this podcast. And the following message is brought to you by E-Trade from Morgan Stanley. It's easy to get started with E-Trade. Now, when you open an account, you can get up to $600 or more with a qualifying deposit. The more you deposit, the more you can get. This is a limited time offer. You don't want to miss visit E-Trade dot com slash offer to learn more E-Trade securities, LLC, member civic, a subsidiary of Morgan Stanley
+
+Airtable (43s):
+in the ever-changing landscape of work. How can you ensure your people workflows and data stay connected. We do it with air table. Air table allows you to create flexible systems that help your team operate as one. It's essentially a Lego kit that gives you the building blocks to create tools that work, how you do. We actually use air table to manage our workflow right here at built-in productions. It serves as our database for guests, contact information and the place where we schedule episodes and move them through our production pipeline. So our remote team knows exactly where each project stands in real time. Without it we'd have to use multiple tools, and maybe you can relate to this. We already have enough online tools to juggle as it is. So yes, you could say that in a way you can thank air table for helping us make sure our episodes drop every week. Air table brings teams together and helps teams like ours. Run smoothly. Give it a try for free@airtable.com today that's air table.com to get started for free.
+
+1 (1m 46s):
+A truck pulls up to your house and on the truck is this like, it's like a giant bed frame. And then this hydraulic thing just like lifts the entire box and then essentially pushes the wheels forward. And then over the flat bed of the truck, it doesn't look like anything you've ever seen anywhere before, except in the star wars film, and like the scene where they're in the Tundra or something. Am I describing that correctly?
+
+3 (2m 14s):
+Yeah, I think they're hiring.
+
+2 (2m 26s):
+Welcome to how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Roz and on the show today, how Warburg wanted to simplify how we store our stuff. So he built an entirely new system called pods that launched another moving and storage business to compete with. The first one, The United States is a nation of hoarders. The average house contains 300,000 items and it's estimated that one out of 10 Americans pays to rent space stuff that let's face.
+
+2 (3m 10s):
+It is probably probably not worth paying to store. And that's you, I'm talking about, I'm not trying to shame you. I also pay for storage boxes and crates filled with my kids first grade diorama's and craft projects and old books. We've convinced ourselves. We can't part with and even a dried pressed rose. I wore on my lapel at my bar mitzvah. Yes, that is in storage. My friends. So shame on me because one day long after I die someone, probably my kids will have to go through that stuff. And if I'm being totally honest with myself, they'll throw it away.
+
+2 (3m 53s):
+And I will have spent thousands and thousands of lifetime dollars, keeping that stuff safe. But none of this is an indictment of the, the actual storage industry. Because if you think about it, it's an amazing business. For starters, you don't need too many employees. The overhead is relative, typically manageable and only a fraction of the storage units need to be rented for you to make a profit. It's why the global self storage industry is expected to reach a value of 60 <inaudible> billion dollars within the next four years. Now, 30 years ago, Pete first was a very typical self storage business owner.
+
+2 (4m 36s):
+He had a single facility outside, Clearwater, Florida, and he wondered, is there a way to build innovation into this business? Could you actually improve the existing model? And one day, Pete got an idea. What if instead of going to the storage facility, the storage facility could come to you. That was the beginning of an innovation that would transform self storage. A company Pete founded called pots. The idea is actually pretty simple and it's elegant, but very complex in its execution. The company deposits a storage container in front of a customer's house.
+
+2 (5m 18s):
+The customer fills that container with stuff. And then the company comes to pick that container up, put it on a truck and bring it to its own storage facility. The idea took off almost immediately franchising and spreading to locations across the us and around the world. And less than 10 years after he launched it. Pete sold the company for roughly $450 million. But actually that was not the end because it turns out Pete thought there were additional pain points in the moving and storage industry that needed solving. So at the age of almost 70, he decided to start another kind of storage business, which he calls red Rover.
+
+2 (6m 1s):
+But as you'll hear, even before he built, either of those businesses, Pete started with an entirely different concept. One that had nothing to do with storage and everything to do with this first love working as a firefighter and paramedic people. Our Hurst was raised in a family of four kids on long island in New York. His mom taught elementary school and his dad had what Pete called a tough career in the poultry distribution business.
+
+3 (6m 31s):
+We used to call him a chicken plucker, but he would go into the city around two o'clock in the morning and he'd come home around three o'clock in the afternoon. And they would receive poultry in all prepared as far as, you know, cleaned and raw, but they repackage it basically and deliver it to ship yards, hotels, airlines, things like that. And so they were sort of the middleman between the, the farms and the end user, the high end users.
+
+2 (7m 3s):
+So he would go into the city every day. And as far as you knew, I mean, did you ever go in with him? Did you ever see?
+
+3 (7m 9s):
+Yes, I did. Yes I did. I enjoyed going in and it was a early morning and they made sure they put me to work. But yeah, I want to say there was maybe oh six, seven guys in the, in the actual warehouse repackaging and they had a dozen drivers or so,
+
+2 (7m 29s):
+So your dad was gone when, by the time you woke up and probably asleep really by the time you kind of were getting ready for dinner.
+
+3 (7m 37s):
+Yeah, no, he he'd go to bed seven o'clock. He was hour to, there was the occasion that I'd be coming home at two and he'd be going out and he'd just shake his head
+
+2 (7m 46s):
+When you were in high school,
+
+3 (7m 47s):
+High school and after high school. Yeah.
+
+2 (7m 49s):
+All right. So you, I think in high school, you got a job at a gas station, which I identify with. Cause one of my first jobs was at an Arco and PM. Mini-market gas station in the San Fernando valley. Very important job. I learned how to chop onions at that job. I learned how to make the burgers for the, this is probably a different kind of gas stations. So was this a full service gas station where you worked?
+
+3 (8m 10s):
+Yeah, it was full service though. When I, when I was there, it was unheard of for you to pump your own gas. So my primary responsibility was to go out and be pleasant and pump gas and a
+
+2 (8m 24s):
+Squeegee, the windows
+
+3 (8m 26s):
+Cleaned the gas pumps when I've got downtime. And so, yeah,
+
+2 (8m 31s):
+There was a something that happened one day while you were working at that gas station, which would have an impact on, on decisions you would make later on. Tell me what, what, what happened?
+
+3 (8m 43s):
+Yeah, I was out at the gas pumps. I think I was pumping gas or I was cleaning the pumps. I mean, my, my station was out at the gas pumps being ready for the next customer. And all of a sudden behind me, I heard a squeak screeching of the brakes and, you know, a thumping and, you know, yells and horns and you know, and I ran up there to see what went on and a little girl had gotten hit by a car and I stood there and I looked and I really didn't know what to do or how to do it and stuff. And I ran back into the gas station and called the local fire department, which literally was a quarter of a mile away, you know, a third of a mile away.
+
+3 (9m 24s):
+And it was a volunteer department, but they showed up and took the girl off. And unfortunately she did not make it, but it was hard for me to watch and not be able to help. And
+
+2 (9m 38s):
+You didn't know like probably most people with CPR or
+
+3 (9m 41s):
+The CPR, I don't even think was invented that.
+
+4 (9m 45s):
+Right. Right. Wow.
+
+2 (9m 47s):
+And seeing that from what I gathered, from what I've heard about, you kind of get the gears, turning in your head about wanting to be involved somehow in rescue work.
+
+3 (9m 58s):
+Right. That was life-changing you had to be 18 to join the volunteer fire department. And as soon as I was 18, I, I signed up and I joined the fire department.
+
+2 (10m 10s):
+And what did that, what did that mean? You would spend a night there every, every other weekend or once a month or
+
+3 (10m 17s):
+No? No. You basically would listen for the fire whistle to go off. At that time, we didn't have pagers of blackberries or anything like that. And they hooked into your phone at home and it gave a rapid ring. So you knew it was a call, but yeah, you didn't, you weren't obligated to put in any time. I always, you know, went on training drills and, you know, took the first aid courses and went to all the meetings and, you know, I was, I was deeply ingrained in it.
+
+2 (10m 50s):
+So it sounds like this was kind of a, a turning point. You wanted to be a fireman. I mean, I, I read that you, you wanted to join the New York city fire department, but I guess that process was like moving slowly for you. So, so, so then what you, you began to look elsewhere.
+
+3 (11m 9s):
+Exactly. I heard that they were hiring firefighters down in Florida and my best friend at the time had moved forward and I said, you know what, I'm just going to do it. You know? And I packed up, I had an MGB, which is, you know, a little, like a little triumph. I don't know if you know the car and up at a very small
+
+2 (11m 26s):
+Share of the trap. Yeah. Oh, there's great cars. Yeah.
+
+3 (11m 29s):
+Everything I owned, went and NGB and I, on October 6th, I arrived. And by November 1st I was on a paid department in Largo, Florida,
+
+2 (11m 40s):
+Which is in Largo,
+
+3 (11m 41s):
+Florida, right near Clearwater.
+
+2 (11m 43s):
+It's a, it's like one of those sliding doors moments, you know, had you got, gotten a job in New York, your life would've been completely different, but you ended up going to Florida because there was demand for firefighters.
+
+3 (11m 54s):
+Exactly.
+
+2 (11m 55s):
+So what, tell me a little bit about, about that time. I mean, what, what did that entail that you would live in the fire station or you'd sleep there? What, two, three nights a week
+
+3 (12m 4s):
+We w we were on a 24, 48 shifts. So that meant you showed up at seven o'clock in the morning and you went home seven o'clock the next morning, and then you had two days off. And I remember thinking to myself, you know what, they're still looking for a lot of firefighters right there. They had a big hiring going on and I thought to myself, oh, I'll work the second day for free. I was enjoying myself so much. Yeah. Wow. And
+
+2 (12m 29s):
+What was it about being a fireman that you liked so much?
+
+3 (12m 32s):
+You know, my first day on the job was I, as I said, November 1st, 1973, the night before a tornado went through and wiped out mobile homes, killed a few people, unfortunately, and I'm in the state for three weeks. And I show up on the job the very first day I go out and I look at this devastation and I think to myself, holy cow, what have you gotten yourself into? You know, but, you know, I went through the training that the fire chief came out one, one day and they had a mandatory meeting at night. And he said, listen, guys, he says, the mayor wants us to, to get a paramedic program going in the fire department.
+
+3 (13m 14s):
+He says, I got to tell you I'm here because he told me I have to be here. And I'm asking if you guys, if anybody wants to go to paramedic school, but I want you to know, I hate the idea. I don't want paramedics on support paramedics, but I'm asking you if anybody wants to volunteer, I stood right up and threw my hands up. And I said, I'm at, but that, that was my real passion. I mean, fighting fire fires is one thing. And you know, you're saving property and stuff, but going through paramedic school and saving lives is something completely different. I was one of the first paramedics in the state, you know, I want to say in the first hundred paramedics in the entire state.
+
+2 (13m 52s):
+Wow. Wow. Cause this was not, this was not, I mean, EMT is like that, that's a thing. Now that didn't exist. Paramedics. That was a new concept in 1975.
+
+3 (14m 3s):
+Yeah. I tell people that if I can go back and do it tomorrow, I do it in a heartbeat. You know, it was the most rewarding thing I ever did in my life.
+
+2 (14m 12s):
+All right. So you're living in Clearwater. And were you, were you married at the time
+
+3 (14m 19s):
+When I first joined the fire department, I was not, but I did end up getting married 79.
+
+2 (14m 25s):
+Got it, got it. Okay. So, so you're, but you're, you're a young guy you're in your twenties. Right. And you know, you got a great career going, but this is actually what your first business starts to get launched. And I, I need to preface this by explaining to everyone, including myself, because I didn't know this, that this is like the, this is like the late 1970s when the concept of 9 1, 1 is relatively new that even in the late seventies, I think only like one quarter of Americans had access to 9 1, 1 systems. Like you still have to dial up like a seven digit number to reach the fire department.
+
+3 (15m 4s):
+Correct? Correct.
+
+2 (15m 6s):
+All right. So this time, right, these nine 11 systems are rolling out across the country. And at some point, I guess your fire chief comes up to you and asks if you want to help with the, the new system for your area. Right?
+
+3 (15m 23s):
+Exactly. So the chief came to me and said, Pete, would you be interested in helping me implement now one system? I said, oh, sure. I mean, I'm willing to look at it and stuff. He says, well, what do you know about computers? And I said, not a damn thing. And he said, are you willing to learn? I said, sure. So the, the goal was we had the, I think it was 23 or 21 fire districts within Pinellas county, which is St. Pete Clearwater basically. And I think there was 21 independent. So anyway, the problem with nine 11 is, is they're to people are going to be able to dial that three digit number. And it's got a ring somewhere. And, you know, they didn't know where to ship that call or whether to the 23 or 21, whatever it was departments.
+
+3 (16m 9s):
+So where do I, where do I transfer that customer to?
+
+2 (16m 12s):
+Because up until that time, every department had its own dispatch.
+
+3 (16m 15s):
+Exactly, exactly.
+
+2 (16m 16s):
+There was 21 dispatches,
+
+3 (16m 19s):
+But
+
+2 (16m 19s):
+Let me try and understand. I want to try to figure out how I want to figure out how you started to learn about this. Cause you were not, as, as you say, you were on a computer guy that I guess the county hired consultants to help them create some kind of automated or computerized processes the early, the late seventies. So computers are this, you know, we're talking about the stone age compared to today, but, but I think there was a guy that they hired to kind of write the software who was an outside consultant, right?
+
+3 (16m 50s):
+His name is, is Bob Timberlake. And he has an electrical engineering degree who was working for a power company and had a software company called econometrics associates.
+
+2 (17m 5s):
+So he had the knowledge and you were paired up with him to kind of learn this system and then help help implement it. Is that more or less what happened?
+
+3 (17m 15s):
+That's exactly what happened. Yeah. Again, this is a guy that didn't know anything about computers, but we were actually setting off printers in the fire stations, opening fire station doors, alerting bridges that the firetruck is coming to have the bridge down. And so we automated all part of processes. And we, we literally took a dispatch process down from several minutes to tens of seconds, you know, 15, 20, 30 seconds to get the appropriate equipment on the road.
+
+2 (17m 46s):
+Alright, so you are working on this system and clearly mastering it, but how did you, how did you start to think about this as a business? Did Bob approach you? Did you approach him? Did you approach somebody else and say, Hey, you know, maybe we should roll this out around the country?
+
+3 (18m 4s):
+Well, bow was definitely smart enough to have retained the rights to the software.
+
+2 (18m 11s):
+Oh, he could, we kept the heat, kept the rights to this thing that he be created,
+
+3 (18m 14s):
+Correct? Correct.
+
+2 (18m 16s):
+Very smart. So he didn't, he didn't, it wasn't the intellectual property of the county. Correct.
+
+3 (18m 21s):
+And as it turned out, you know, as people heard about this new system and 9 1, 1 was being installed around the country, they came from all over the country, all over the world to see this. So we were sort of on the bleeding edge and they either approach Bob or they'd approach the fire chief that, you know, and say, Hey, you know, how, how can I get this in my city? And Jerry being aggressive thinker,
+
+2 (18m 46s):
+Sherry was the fire
+
+3 (18m 47s):
+Chief here. I'm sure said, Bob, you know, why don't we sell this? And Pete can take some time off from work and go down there and help them get it set up and we can make some bugs on it or whatever it is.
+
+2 (18m 58s):
+So in 1985, you leave the fire department, essentially who you resign.
+
+3 (19m 5s):
+Yes, I did resign. And that was one of the toughest decisions of my life. But I sort of saw where this business was going. And, you know, you think about your family and, you know, your career path. And I was always financially driven yet to, to raise money and live well. So I made a very, very tough decision and it worked out well for me.
+
+2 (19m 26s):
+And it, and so essentially you, along with Bob and Jerry, the three of you start this business.
+
+3 (19m 35s):
+Exactly.
+
+2 (19m 35s):
+This was called 9 1 1 EAI systems. And the idea is to replicate what you did in Pinellas county, in other places in the U S
+
+3 (19m 44s):
+That's, right. Yeah. And absolutely had a tremendous amount of people wanting to come see the product, but we would also go to trade shows and, and, you know, give a cherry would give a talk and we'd have a booth set up. And so
+
+2 (19m 60s):
+Initially imagining it was, you were expanding around Florida, right?
+
+3 (20m 4s):
+Yeah. The first 3, 4, 5 markets I guess, were around Florida, but we ended up going nationwide and up into Canada.
+
+2 (20m 11s):
+That's incredible. I mean, within five years, you, you become, I think the second largest provider of, of nine 11 services in the U S I mean, so demand must've been really high, but, but I can also imagine that you guys had a hard time keeping up with it. Right.
+
+3 (20m 30s):
+W without a doubt. I mean, yeah, it was easy to sell because it was a great product. And we had professionally a great hardware in all this, but the installation period could run a minimum of a year and often ran two and three years to get the equipment up and running the database loaded. The people trained the network put in place. And so, you know, our backlog of installation and grew and grew and grew, and therefore the consumer was, was getting more and more frustrated with us. So our growth was almost our demise.
+
+2 (21m 7s):
+Did you feel that, and you were not the CEO, right? You were an officer at the company, but did you feel that stress?
+
+3 (21m 13s):
+Yeah. Oh yeah. More than anybody, because that was my job. That was my half of the bell. A third of the business was to get the systems up and running, you know, Jerry was the sales guy and he was having a ball doing it. Right.
+
+2 (21m 26s):
+He was like, come on, I'm selling these things. Come on.
+
+3 (21m 30s):
+Yeah.
+
+2 (21m 31s):
+So you had the cash, but you didn't, you couldn't actually fulfill these orders as quickly and provide some of these customers were complaining about how long it took to.
+
+3 (21m 38s):
+Absolutely. And, and, you know, promises and commitments were made of what the system did or could do that. You know, weren't always a hundred percent there. You know, we could do 80% of what they asked for. And so now I'm facing him and say, well, this is what we thought you bought. It was, it was a tough business.
+
+2 (21m 60s):
+So at the age of 33, you joined this business and it sounds like for seven years you were probably on the road all the time. And just living in airports.
+
+3 (22m 11s):
+I was,
+
+2 (22m 12s):
+I was. And how was that for your, your personal life? That that's hard.
+
+3 (22m 17s):
+Really, really hard. No doubt about it. You know, I was traveling virtually every week. I remember waking up many mornings and thinking, where am I? You know, not couldn't even remember what town I was in, no less what hotel or what I was going to do the next day. So that obviously puts a strain on our marriage and our family situation. So, and then when I did get home, I was exhausted. Right. And so we didn't, we didn't, the business thing lasts that long. We were fortunate that one of the baby bells came along and wanted to buy the business. And so that gave us our exit. But the, I do believe we would have cratered, had we not sold?
+
+2 (22m 58s):
+Had you not sold? So in 1992, you sold
+
+3 (23m 1s):
+To bell
+
+2 (23m 2s):
+Atlantic. Yeah. Right. I'll today, part of horizon. And, and they made you a pretty good offer, a very good offer because the, what you had go, both guys had created the IP and the network was very, feel very successful. There was a business to build around it.
+
+3 (23m 22s):
+Yeah, absolutely. I mean, they saw the potential and they want to expand for whatever reasons. And they came in and they made us a generous solver. You know, you're talking to a guy that when I started the fire department, I think I was making $30,000 a year or something, you know? Wow. And walked away with seven digits. Yeah.
+
+2 (23m 42s):
+And you were 40.
+
+3 (23m 43s):
+I was 40. I retired at the of 40 thought.
+
+2 (23m 46s):
+You were tired at the age of four. You, you basically had made enough money where you didn't have to work for the rest of your life at that point.
+
+3 (23m 55s):
+That's
+
+2 (23m 55s):
+True. You know, what do you do? What'd you do?
+
+3 (23m 58s):
+Yeah. I mean, you know, we bought a new home and I played a lot of golf. That was one of my hobbies, did a little boating. I had a sailboat at the time and a little travel, but started to get bored.
+
+2 (24m 15s):
+Yeah.
+
+3 (24m 15s):
+Yeah. It's not what it's cracked up to Baeza.
+
+2 (24m 19s):
+Right. What did you decide to, I mean, what did you sort of start to think about in terms of, of, of the next thing, because it wasn't that long before you kind of, oh, I guess it was a couple of years. What other ideas were you thinking about?
+
+3 (24m 36s):
+Yeah. I don't know that. I really thought about a whole lot. I mean, back of the air you heard about and read about a mini storage and I started to investigate that. And
+
+2 (24m 49s):
+Why, why mini storage? What, what was attractive to you about mini storage?
+
+3 (24m 53s):
+Well, the number one thing is you only need one or two employees. So I thought, okay, that's a lot better than what I came from. Right. So having one or two employees, it was a recurring revenue. You know, you didn't have one key customer, you had 500 customers. So if you lost, you know, five or 10 of them in a week, it's no big deal. You replaced them. You know, it was high return. I mean, the margins are good. And I just started looking at it and I had a coincidence, you know, an eighth of a mile from my house was a four acre, three acre piece of property that was sitting there vacant.
+
+3 (25m 33s):
+I thought, well, what if I put a mini storage?
+
+2 (25m 35s):
+And then people could store their stuff and it's great. Cause it's, they just, you're just getting money in the door. I mean, the upfront costs are high because you got to build the kit to build it. But then they're basically just like chain-link fence fences. Right.
+
+3 (25m 48s):
+Well, it's a traditional mini storage. So you have the little, the little storage rooms, if you will, that you would rent out.
+
+2 (25m 55s):
+Right. Okay. So basically you bought this piece of land and you built this storage center and did you finance it yourself?
+
+3 (26m 5s):
+Yeah, I did. The, the piece of land was owned by a gentleman that lived in the community member. That's in golf club and I went to buy it. And then when he asked me what I was doing with it, with it, and I told him I was going to build a mini stories. He says, well, I don't want to sell it. I want to be your partner. So now I could care less. You know, at that point I was just looking for something. So I said, sure, you can be my partner. And Roy Courtney was his name.
+
+2 (26m 33s):
+So the two of you basically finance the construction of a warehouse on the land.
+
+3 (26m 37s):
+Exactly.
+
+2 (26m 38s):
+Wow. How much did that cost? Do you remember? Is it, is it a ver I mean it's Florida. So land was cheaper, is cheaper in Florida than none of the parts I have in California, for example, where it's not cheap, but how much do you remember how much it cost to set this whole thing up?
+
+3 (26m 53s):
+Yeah. I want to say the construction for the, the units themselves, where it was like under a hundred dollars a foot, but I want to say all in, we had just over $2 million in between the line than the buildings.
+
+2 (27m 6s):
+I mean, this wasn't an, a crazy investment. I mean, this was a new, you knew you, you did the math, you knew that the math of a storage unit was going to bring in a profit relatively quickly.
+
+3 (27m 18s):
+Correct. And we were in a, an affluent community and you know, and everybody needs storage, especially in Florida where you don't have basements and, and right. Yeah. So I was very confident and it was convenient because I could walk to it. You know,
+
+2 (27m 34s):
+People don't have basements in Florida because the water table is high.
+
+3 (27m 37s):
+Correct.
+
+2 (27m 38s):
+So that's actually amazing because a storage business like Florida was designed for the storage business.
+
+3 (27m 45s):
+They certainly do well here. And as Americans, we are reluctant to throw things away, you know, or
+
+2 (27m 53s):
+I know, I know it's terrible. All right. So you, you guys start this business and I mean, where you pretty much, almost like a hundred percent booked, is it like a hotel where you're like, ah, we're 90% booked or a hundred percent booked or,
+
+3 (28m 10s):
+You know, during my tenure, I don't think we did get to a hundred percent before we actually had a CEO and could open. I started to look for a second site because I was so confident. I had learned, you know, the idiosyncrasies of it. I had successfully built a unit. I knew I could get more financing to do another one.
+
+2 (28m 29s):
+All right. So what happens?
+
+3 (28m 31s):
+Well, if you know, Pinellas county St. Pete Clearwater, it is very, very densely populated. And so Landon general is scarce, especially when you're looking for, you know, three acre, four acre parcel, that's on a main artery, you know, that has the right zoning. So that was difficult. And then if you did find one, you had to do that same math, where where's your closest competitor. And typically I'd find something in across the street was a competitor, you know, so really had a hard time and never did find the second parcel. We finally did open it and we were growing quickly, but I couldn't find that next piece and continue to drive around walking.
+
+2 (29m 13s):
+Wow. But this was supposed to be a lifestyle business. This was going to be passive income for you. You'd only have two or three employees that you really didn't need to manage them because it was really self storage. This was going to be passive income and you could kind of dip in and out more or less
+
+3 (29m 30s):
+Exactly as we started to rent up. And I got more and more excited and more anxious to find another lot. I just never did. Eventually quit looking, came up with a new idea.
+
+2 (29m 45s):
+Why don't we come back in just a moment, how Pete takes his new idea, buys a bunch of two by fours from home Depot and starts to disrupt an entire industry. Stay with us.I'm guy Roz. And you're listening to how I built this.
+
+GoodRx (30m 10s):
+If you recently bought anything, you've probably noticed that prices have gone up on almost everything, especially on essentials like gas, groceries, and utilities. That's why it's a great time to use good RX to at least save on your prescription costs. How well with good RX, you can instantly compare prescription prices at pharmacies in your neighborhood and find discounts that could save you up to 80%. Good RX is free and easy to use and works whether you do or do not have insurance. Even if you have insurance, good RX may actually beat your copay price. I know lots of people who use good RX and it's helped them to save lots of money. So for simple, smart savings on your prescriptions check, good RX. Go to good rx.com/built that's good rx.com/built good rx.com/built good RX is not insurance, but can be used in place of insurance, Medicare, and Medicaid in 2021, good RX users saved 81% on retail prescription prices.
+
+ExpressVPN (31m 14s):
+How much of your life is on the internet? Does it make sense that a single company controls 90% of internet searches runs your email service and gets to track everything you do on your smartphone. Every site you visit video, you watch or message you send gets tracked and data mined. When you run express VPN on your device, the software hides your IP address. Something big tech can use to personally identify you, making your activity a harder to trace and sell to advertisers. Express VPN is so easy to use. You download the app on your phone or computer. You tap one button and you're protected. How much does it cost to fight back against big tech? Well, if you're Elon Musk buying Twitter, then something like $43 billion, but now you can beat big tech too, for the low price of $6 and 67 cents per month. If you use my link express, vpn.com/built that's E X, P R E S S V P n.com/built, go to express vpn.com/built to learn more.
+
+3 (32m 28s):
+Hey, welcome back to how I built this I'm guy Roz. So it's 1997 and P Warhurst is hoping to expand his fledgling storage company. So he's looking around Pinellas, Florida for a second facility and kind of out of the blue, he gets an idea for a completely new business, Literally driving down the road, I'm waiting for a piece of property and frustrated and stuff. And, and just one day said, what, what if we brought the storage to the house? And, you know, you sort of scratch your head and think, how would you do that type thing? I was intrigued by the concept and, you know, the internet was pretty young back then I got on the internet and tried to see if there was anybody out there doing something like that.
+
+3 (33m 15s):
+And I didn't find that
+
+2 (33m 16s):
+And what, but, but back up, cause it's a big idea, Pete, you're talking about, you're talking about a revolutionary idea here. I mean, we have to just pause and recognize this moment. How does the, does the idea come to your mind? Does it come to somebody else's mind? Are you talking with somebody about it?
+
+3 (33m 33s):
+Yeah. I was actually driving, driving with Roy Courtney and we were talking about another business that he had invested in that that was picking up medical waste in a container and stuff. And I was envisioning the truck and I'd seen the trucks around and stuff. And I said, well, you know, well, there's a truck, you know, how, how do we do this? And I said, what if we bring the storage to the house? It was that simple. I mean,
+
+2 (33m 59s):
+What if we bring the storage unit to the house? That was it. That was the
+
+3 (34m 3s):
+Question. Right? That's it.
+
+2 (34m 4s):
+All right. Now, just to put this in a context, there have been for a long time on construction sites, huge containers where waste and stuff is just dumped, right? Especially demolition stuff is dumped right into the container. And then eventually truck comes, picks up the container and then takes it to it, a dump. So that concept was out there, but your staff you're essentially what you started to think of was wait, what if we take that concept and turn it into a storage unit in front of someone's house that we just drop off and then pick up.
+
+3 (34m 42s):
+Exactly. Yeah. And I definitely looked at the, the big steel cargo containers and I thought to myself, you know, that's not the right container. I said, well, my wife, I used her as the litmus test. Right? Well, my wife put our stuff in that, in that steel, rusty steel container. And I, I said, no, that's not the right container for us. And internet didn't really provide anything. And I thought, well, you know, I'm sorta in the building and things. I bet you, I can build a box. And I knew that, I knew that the most popular mini storage was a 10 by 10. So, you know, I thought, well, what if I do a 12 by eight box, which sorta met the dimensions of plywood, I felt my wife would put our stuff in these wooden nice wooden boxes that were clean and fresh.
+
+3 (35m 29s):
+And, and so the next challenges, you know, how do I deliver them? And then I had to, before I did any of that, including build the boxes, I had to say, you know, what are the economics look
+
+2 (35m 39s):
+Like? Right. Did you, when, when you start to think about this, did you, did you continue? I mean, did you say all right? I mean, I'm serious. You were serious about this, right. About bringing the storage box to someone's house. That's a different business. That's a completely different business that requires a whole new set of, of, of capital, right. To make it happen. Did you sell the mini storage site that you had or did you keep, keep that going?
+
+3 (36m 9s):
+The answer is yes. Eventually I did sell it, but not right away. I want to explore that and research the concept. And so I, you know, it was probably a year or so after I came up with the idea before I started to try and sell them any storage.
+
+2 (36m 26s):
+Right. So the first challenge is you got to come up with the box, right. And so you knew how to build things, right. You know how to build things. So, so did you do it yourself? Did you bring some friends in, what did, how did you just build a prototype?
+
+3 (36m 41s):
+Well, you know, Dave Ravel, my paramedic partner in the fire union president and stuff helped me build the mini storage. And then he, he was with me then. And so I was bouncing these eyes ideas off of him and he said, well, let me draw up a box. You know? And, and, you know, he probably is a much better woodworker than I am, but he, he optimized the dimensions of off the shelf materials and said, we can build the box this way. And we think it'll hold up. And, you know, we can build a hundred of these and I could do the math and say, okay, that's what it's going to cost to build a hundred of these things. And so that's what we set off to do.
+
+2 (37m 22s):
+Did you like go to home Depot? You just went and bought like plywood and, and, and, and a two by
+
+3 (37m 32s):
+Fours.
+
+2 (37m 32s):
+And where did you, where did you build them?
+
+3 (37m 35s):
+You know, we, we started building the first one in another firefighter buddy of mine in his driveway. We started to build the boxes there and realized that we couldn't build a hundred dry boxes in his driveway. So I rented a warehouse and we opened up a little production line that OSHA would have put me in jail for if they had come back to us.
+
+2 (38m 0s):
+Wow. All right. So you guys build these and the idea is you're going to try to start a business where you bring these boxes to people's homes. They fill them up with their junk or stuff. Let's not call it junk their
+
+3 (38m 15s):
+Pricing junk
+
+2 (38m 16s):
+A lot of times junk. And then that box is going to be picked up, put on a truck and brought to a storage facility. So completely new model. But how are you going to pick the boxes up and drop them off? Right? Sorry, heavy plywood and steel storage containers,
+
+3 (38m 36s):
+Right? Yeah. You know, that unit, it was probably pushing 10,000 pounds when it's loaded. So that was a challenge. You know, that when we looked at off the shelf stuff, I looked at the, you've probably seen cranes on the back of trucks that can pick up and offload with a crane right now that, that system. And I said, geez, you know, that's going to go up with the power lines or trees or anything else discounted that.
+
+2 (38m 60s):
+I'm trying to lift that with a crane and it's dangling, and that's just a recipe. Right. Okay. So that was not going to work
+
+3 (39m 6s):
+And looked at the roll off, you know, the, the tow trucks that the tilt bed, the same way, the steel cargo containers get delivered. You know, they tilt them off and roll them off and stuff. Right. Some people use that methodology today. My, my concern with that was twofold is number one, you gotta put 'em on some number of degrees, 30 degree angle. And you know, if people haven't packed them and tied, tied the goods down, well, enough, they're gone. Things are going tumbled, right. It didn't seem logical to tilt it. The leading edge when you're, redelivering it, the leading edge hits the driveway first. And then you pull the truck forward in the last six inches. Or so the unit drops around,
+
+2 (39m 47s):
+You're going to break all the, all my glasses, mom, like.
+
+3 (39m 51s):
+Yeah, exactly. So I saw a liability written all over that methodology.
+
+2 (39m 56s):
+So what the, what do you do? I mean, this is, this sounds like a pretty insurmountable challenge, right? Like, how are you going to bring a container to someone's house lifted up vertically? So it doesn't break anything and then carefully place it on the back of a truck and then drive off. I mean, if all this stuff available was not going to work, it seems like game over.
+
+3 (40m 18s):
+We had to figure it out. And the same guy that was building the original container went to him. And he's very, very mechanically inclined. He's with me again today. And he was one of the first people I met when I moved to Florida and we've been friends
+
+2 (40m 35s):
+For fits his name's
+
+3 (40m 37s):
+Roy Hensler.
+
+2 (40m 38s):
+All right. So you find this guy, Roy, right. To help and you go to him and you say, Hey, what, what do we do here?
+
+3 (40m 46s):
+Right. And he was involved in building the boxes and we started talking about it. And, you know, and so we went through version after version, after version, after version. And I think even today, they still make minor tweaks to it. But we ended up building a lift system that looks a lot like a bed frame, you know, with the posts and the rails and stuff. And somebody fondly calls it a pod Zilla evolved into a piece of equipment that has never dropped where they've done over 4 million pickups and deliveries. I've never dropped a container, never had a bottom fall out of a container. So the containers were built well, and the machinery was built well, and that's a pretty good testimonial.
+
+3 (41m 32s):
+Right.
+
+2 (41m 32s):
+I wanted to S I to describe this, this truck, because I've used potluck, what would become pods? I've used it before. And I think people, a lot of people listening have, it's basically a truck pulls up to your house and on the truck, is this, like, as you say, it's like a giant bed frame and the, the bottom of the, you know, with the mattress frame. Right. Right. Then, and it comes, it's sort of, it sort of is lowered. And then it's rolled off on these giant tires and then over, over the pod box. And then the driver like hooks, it hooks a bunch of steel chains around the pod box.
+
+2 (42m 14s):
+And then these hydraulic thing just like lifts under, if it's hydraulic, I'm assuming is lifts the entire box. And then the, and then he essentially pushes the, the entire thing. Right. I think they push the wheels forward and then over the flatbed of the truck and then carefully lower it. Am I describing that?
+
+3 (42m 35s):
+Yeah. Yeah. I think they're hiring,
+
+2 (42m 40s):
+But it is, it is the weirdest thing, because it doesn't look like anything you've ever seen anywhere before, except in the star wars film. And like, you know, the scene where there, you know, just, I don't know, in the, in the Tundra or something, you know?
+
+3 (42m 54s):
+Yeah. I mean, we were able to get several patents awarded for it. So it was obviously unique,
+
+2 (43m 2s):
+Right? So you have this very two big challenges first, how do we build a box? And then how do we get the box to the customer and then get the box back. Now you've solved those two challenges, but, but you've got another enormous challenge, which is, this is going to be really expensive. I mean, you just, you've got this mini storage company, it costs you 2 million to build. You're getting a nice, making, a nice kind of passive income from it. You know, you made quite a bit of money from the sale, that first business, but not enough money to finance a company like this, that's going to require this kind of capital. I mean, did any of that in any way, intimidate you, because you would have to manufacture these, this truck and the boxes.
+
+2 (43m 43s):
+You're talking about tens of millions of dollars.
+
+3 (43m 47s):
+It, it definitely caused sleepless nights. I did venture into it. Let's face it before I even spent a dime. I tried to model that out financially, model it out and the economics, right. Very compelling. You know, the w the way I looked at it back in those days, I could rent a warehouse for a $5 a square foot. And this warehouse was 30 feet high. And, you know, a few columns in it and stuff,
+
+2 (44m 15s):
+You could stack the boxes.
+
+3 (44m 17s):
+I can stack the boxes, right? So I'm selling, I'm renting the boxes for virtually $15 a square foot, I think is the number I was using back then. And I could stack them three high. So I'm generating $45 a square foot for what I'm paying $5 a square foot. So said, wow, is economics work, right? You don't have to have an MBA to figure that one out.
+
+2 (44m 38s):
+Wow. I want it. I want to back up for sick. Cause I know you launched, officially launched the company in 1998 and you call it pods. And I think that stands for a
+
+3 (44m 47s):
+Portable on demand storage,
+
+2 (44m 49s):
+Portable on-demand storage, brilliant name pod. It's a pod, it's a pod in front of your house and it's, and it's an on demand storage. And so you, with the $7 million, you're able to launch it in, in Tampa bay. Right. Right. But how are you going to finance this business? I mean, how you gonna finance this idea? You've got to, you've got to put a lot of cash upfront to make enough units. And not only do you need the warehouse, but you need the trucks and you need the boxes
+
+3 (45m 19s):
+And the employees and the factories. And, and
+
+2 (45m 22s):
+This is going to be heavy duty. A lot of employees, not, not one or two or three, like your mini storage. Exactly. This is a big headache.
+
+3 (45m 30s):
+Yeah. You know, I financed the beginnings of the Tampa bay area on my own, but that was quickly drying out is as you, as you are articulating. But you know, I, I was fortunate. I had a lot of high net worth friends. And so I did a friends and family round and actually went to, to a dear friend of mine that was a doctor. And he took it to his accountant who took it to somebody else. And anyway, one of the gentlemen that got involved actually ran a full fledged business model on, on the business and came back fairly astonished at what this thing could grow to be like.
+
+3 (46m 16s):
+And so I did my first round of a capital raise. I think I raise $7 million on that first friends and family round.
+
+2 (46m 24s):
+And was that enough to, to like prototype or build the first truck?
+
+3 (46m 28s):
+Oh yeah. The trucks were built. There were a lot of materials, but we were building them, ourselves, buying stock trucks and building them ourselves. And yeah. So we could build them and we could finance them. That's an asset that we could finance the, the, the asset, we couldn't finance, we leased the warehouses, but the, the containers you take the wooden box that some guy built in his driveway to a bank and say, I need to buy, you know, 10,000 of these or build 10,000 of these. They look at it and say, what am I going to do with that thing if you don't make it right. And of course, nobody had ever heard of portable storage before this time. And so finding, seeing those containers was a bare and virtually impossible, virtually impossible without personal guarantees and things like that.
+
+3 (47m 13s):
+So that was the, the, the real weightlifting is, is getting those taken care of. But we, we did raise enough money in Tampa bay grew, we started in Pinellas county and spread over to Tampa and stuff. And, you know, I tell people one of the three, three major reasons why pods grew and was so successful. And number one is w we dropped right in between two major industries, the full service movers, the Mayflowers they allied. So those guys, yeah. And the truck rental people you haul, if you think about it, back in those days before portable storage, if you want to move from house to house B, you had those two options,
+
+2 (47m 56s):
+Neither
+
+3 (47m 56s):
+Of those two options had, or even have a great reputations, right. I mean, then they're not the best experiences in the world. So we disrupted an industry moving and storage industry with a new concept that was price point in between them. I had a lot of flexibility. And so that was step one, step two. We were sticking these things in people's driveways and they were huge billboards. You know, think of another business. You can put a billboard in somebody's driveway for six months,
+
+2 (48m 30s):
+Pods, pods in giant letters on the box.
+
+3 (48m 33s):
+Exactly,
+
+2 (48m 35s):
+Exactly,
+
+3 (48m 35s):
+Exactly. And so, you know, so we were putting billboards in, in residential communities, but we disrupted an industry with an intuitive product and we did it in a tourist community. So people would come into Tampa bay on vacation, drive down the street or pass the hotel or pass the gas or whatever it is and see these boxes. And they'd say, I get it. I get it. You know, literally they, they stopped the vacations and came and visited us.
+
+2 (49m 2s):
+And I'm just curious, because you were able to do this, how many trucks did you have to build to make it work for the first facility? Okay.
+
+3 (49m 12s):
+Yeah. I insisted that we had two primarily, because if one broke, you had to have a backup. Right. So I insisted we started with two. I want to say Tampa bay now has 40, 30 to 40 somewhere in there.
+
+2 (49m 27s):
+Okay. So you so far to work yet to have one too, because it depends on how many pods you're picking up and dropping off. You had to lease the warehouse, which you found. And, and these are like, well, Costco size warehouses.
+
+3 (49m 41s):
+I started smaller than that because I thought I was only young to have a hundred boxes. So stack rain three, hide it. I didn't need Costco.
+
+2 (49m 48s):
+Got it. And how did you get attract customers? I mean, did you advertise, did you run any ads or anything like that? Cause you, you know, you have this business and how do you introduce this concept to people?
+
+3 (50m 1s):
+Yeah. And that cable TV was just sort of becoming of age or had just become of age. And then there was this new channel bay news nine in Tampa bay, which was just coming out at that time. And it was a 24 hour news channel and they came to me and they, they pitched me to advertise on big news nine. They said we can control down to the neighborhood where you advertise. Yeah. But it was interesting before I did that, I actually was doing radio and I had my very first ad on the morning commute. And I don't remember what that cost me, but we were all sitting around listening to the ad and stuff and anxious to see if we got any response.
+
+3 (50m 46s):
+And we got five, six, seven phone calls off that first radio ad. And two of the people said, tell me more about this. This sounds like an interesting business. I may want to use you and the other four or five people that called, said, I want to invest in your business.
+
+2 (51m 2s):
+Wow.
+
+3 (51m 3s):
+And that just threw me back, you know, I thought, Hmm. You know, I'll make a note of that one. Right. And
+
+2 (51m 10s):
+Yeah. Yeah. But, but you didn't necessarily have to, to take those investment offers. Right. Because early on, I think like less than a year and you, you were able to start growing the company in other ways. Right.
+
+3 (51m 24s):
+Exactly. The way to grow a business without capital is through franchising. Franchising is really a financing tool. So we started a franchising program and people saw it and said, I'm going to take this back to Indianapolis. I'm going to take it back to, you know, Baton Rouge, wherever it is and open it up. And so we, we started a franchise business and we started selling those, which were become immediately profitable for the parent company, because you really have no cash out while you collect for services and licenses and Frank royalty fees and things like that. So, yeah. That's yeah. That's how we got around the lack capital.
+
+2 (52m 3s):
+All right. So you are, this concept really kind of starts to take off in, in, around Sarasota Sarasota area where you had your, I think your first, that was the first franchise location, but it really starts to take off meantime, you start to run into problems that many years later, companies like Airbnb and Uber would run into, which is a municipal regulations, burst and Tampa, the Tampa bay area, because they were saying people started, there were, people were complaining about these boxes, these pods sitting in front of their homes or the neighbor's homes. And then they had these big words had pods on the side and people were saying, bill there's a, and, and then the, the, the, the city council in Tampa bay was saying, and these are billboards.
+
+2 (52m 48s):
+So tell me a little bit about some of that pushback.
+
+3 (52m 52s):
+Yeah, no doubt. I mean, it's an industry that should be regulated. And it is, I was disappointed because Clearwater is where we started. My argument with them was that you guys don't like mini storage. I, my mini storage I built was in Clearwater and the, you know, they just, don't like mini storage. They take up nice highway frontage and then not that appealing or attractive. And, and so they really try and regulate those out of being able to do it, the zoning and so forth. And then I come up with this business, I say to him, you know, listen guys, you don't want mini storage. I'm taking the mini storage business and I'm putting it back in the industrial parks where it belongs.
+
+3 (53m 35s):
+Right. You're getting it off your highways. Why are you giving me a hard time? Right.
+
+2 (53m 40s):
+Yeah.
+
+3 (53m 40s):
+To this day, I think Clearwater is still the hardest city to business then,
+
+2 (53m 45s):
+Because what were the, the issue was there were, there were all kinds of rules around like how long these pods can be the front of the homes, or sometimes our driveways. But sometimes when there's no driveway it's on the sidewalk or is it's on it's on the, along the sidewalk. And the signs were big people. Didn't like the word pods and big letters in the signs. And then the city, you know, argued, Hey, this is a violation of our billboard rules. And, and so how did you guys deal with that?
+
+3 (54m 13s):
+Yeah, I mean, it was a chore. We worked with the city and, you know, tried to present our arguments, you know, truth, be known if I parked the truck with the sign, the box on it, I was illegal because it was a registered vehicle and I could park it on the, in that place. So I was illegal. But if I take it off and get rid of the truck, all of a sudden I'm illegal yesterday, there was also,
+
+2 (54m 35s):
+It's just a pod once the pot on the street, it's illegal. But if it's a pot on the truck, it's legal.
+
+3 (54m 41s):
+Right, right. Okay.
+
+2 (54m 43s):
+The sign is legal, I should say. Right, Pete, this is what I'm wondering about. You had in the emergency dispatch business, you had a lot of interest coming in hard and fast, and you could not keep up with demand. How did you keep up with the demand? I mean, people wanted to start franchises. They had to buy the trucks from you. First of all, how are you making the trucks so quickly?
+
+3 (55m 6s):
+Yeah, we, we ended up putting together a fairly low cost production line that, you know, we could just move the lift systems. We didn't build the trucks. We just built the lift systems that sat on the trucks. Right. So that could became a component manufacturing facility that you, you welded the pieces together. You slid the Rams inside and you connect the hoses and out the other end of the door,
+
+2 (55m 32s):
+Where are you doing that? In Florida?
+
+3 (55m 34s):
+We were doing that in Florida. Then we, we ended up building a more sophisticated manufacturing line for the containers that would start at one end of a big Costco, bigger than Costco. It started at one end as raw materials and come out the other end as a finished product.
+
+2 (55m 54s):
+Also in Florida, you're doing that
+
+3 (55m 55s):
+Also in Florida, right in the south Sydney. But we ended up actually creating seven manufacturing facilities for the containers across the country.
+
+2 (56m 5s):
+Wow. So you really had, you really had an economy of scale there. I mean, you were really able to scale that up for relatively quickly.
+
+3 (56m 12s):
+We were, and of course we're creating a brand while we're doing it and increasing our footprint and attracting customers and investors.
+
+2 (56m 22s):
+I'm curious about, about the ambitions of the company, because within six years of launching, there were 295 franchise locations in, in seven serving 7,001, 7,000 cities, and more than 40 plus states in the United States. I mean, that is a massive expansion from going from nothing to 300 franchise locations in six years. Initially, when you thought of this idea in 1997 and worked on it. Was it, was it in your mind going to be a Florida local business, or did you really think this is going to be a national international business?
+
+3 (57m 2s):
+No, I, I think I said that I thought we were going to build a hundred boxes and then put them in this little 15,000 square foot warehouse or whatever it was. And, you know, that was going to be my bolt onto the, to the mini storage. And, you know, it just took off. And then what was really happening is the consumer was dragging us into more and more options. I mean, when we started out, we thought all the containers were going to come back to the, to the warehouse. And then all of a sudden people started to want to store them on their drive in the driveway, during remodeling or for whatever behind their businesses and stuff. So that's another branch. The next thing you know, is, you know, we loaded somebody up or gave somebody in Clearwater container and they said, well, I'm moving into a new house down in St.
+
+3 (57m 47s):
+Pete where moved me down to St. Pete. And we thought, well, I not right.
+
+2 (57m 50s):
+Just move the container down there.
+
+3 (57m 52s):
+And that's how Tampa started. And next thing we sold here. So, and somebody wants to move from Sarasota to Clearwater and all of a sudden, we're, we're one of the nation's largest moving companies.
+
+2 (58m 2s):
+And that wasn't even part of your original business model.
+
+3 (58m 6s):
+It was nowhere near that smart.
+
+2 (58m 8s):
+It was the customers who are demanding this
+
+3 (58m 11s):
+Exactly. The customer drove, drove us to, to a national footprint and ultimately international, right?
+
+2 (58m 18s):
+Yeah, I think by 2006 pods. So this is like eight years in it's franchise in 45 states in the U S it expands to Canada and Australia. There were thousands of pickups and deliveries a day. I mean, you probably were doing $300 million in revenue at that point. And around that time, I think it was, it was 2007. You did an interview on a local public television show. And you know, this guy, this guy's interviewing you about your story. And he said, what are you, what do you want to do? Where do you see pods going? And you say in this interview, oh, I think we can be, you know, like work with E-bay or, you know, where if people want to sell, you know, their, their exercise equipment, you could just take it apart.
+
+2 (59m 7s):
+And we can ship that over to another part of the country really quickly, like FedEx or ups and make it seamless and frictionless. And shortly after that, you sold the
+
+3 (59m 21s):
+Company,
+
+2 (59m 21s):
+Which surprised I was just the timeline surprised me. Cause you, you seem so optimistic, so committed to this future. Walk me through that. Did you, did you get bored with it? Were you kind of done with it? What, what, what was going on?
+
+3 (59m 35s):
+I did not get bored with it and, you know, timing is everything. And I think a lot of different factors, you know, the, the system had grown and the franchises were wonderful, but you always get those bad apples, right. That the,
+
+2 (59m 53s):
+Oh yeah. Franchise businesses tough because they have a lot of, they can really make your life miserable. Right. If they don't, if they don't like corporate
+
+3 (1h 0m 0s):
+And they were, they were making my life miserable and I was frustrated.
+
+2 (1h 0m 4s):
+How so, what do you remember? They were, they were saying
+
+3 (1h 0m 7s):
+They were almost tag teaming me as to, we need you to do this and we need that. And so one guy had come in and petitioned me for something and, you know, I try and be a team player and I try and be fair and stuff. So I may acquiesce on, on something. And then a day or two later, somebody else would come in and hit me for the question. I do it for one, I have to do it for all of them and stuff. And it was just getting exhausting.
+
+2 (1h 0m 29s):
+They had demands for like new products and services. They wanted internet,
+
+3 (1h 0m 34s):
+Nah, they just want a bigger piece of the pie and really had no justification for it other than they felt entitlement and stuff. And I told franchises, no too many things. And, you know, I'm, I I'm willing to make the tough decision, even if it's disappointing to whoever it is, even if it's a friend that I've had for awhile, you know? And yeah.
+
+2 (1h 0m 54s):
+And you were like the mayor of pods, we're dealing with hundreds of constituents.
+
+3 (1h 0m 59s):
+Yeah. Well, and that was part of the reason. The other part of the reason is I had these early investors that had been in now for 10 years and really had seen no return on their investment and certainly were entitled to it. And so I, you know, I was taking care of them and the timing just seemed right. And I teamed up with an investment bank that felt that they could get us a pretty good offer. And in fact, we did, and I said, you know what, it's time to retire. I was tired. And the why not,
+
+2 (1h 1m 34s):
+You reportedly sold for about four, between four 30 and $450 million to, to an investment firm, which is a great, I mean, what a great outcome after 10 years to sell that business and what a great return for them, the early investors. And you truly are. I mean, now you've, you've walked away with a lot of money. You are retired and done and what do you do?
+
+3 (1h 2m 1s):
+Yeah. Unfortunately I was also in the middle of a
+
+2 (1h 2m 6s):
+Divorce. Yeah.
+
+3 (1h 2m 7s):
+I mean, let's face the, you know, I'm sure 90% of the issues were generated because I was a workaholic or I am a workaholic walk and, and you know, the family sacrificed. And so, you know, that generated friction obviously. Yeah, no, that was a life-changing experience. And I'm sorry, it was an ugly divorce. You can imagine money, doesn't do good things in the divorce. It makes, it makes life difficult. And so that process took two or three years to go through and finally, yes, settle and, and try and part friends. Alan. Fortunately, I had a daughter that I adopted and, and things went south with her and I as well.
+
+3 (1h 2m 51s):
+And so it wasn't, it wasn't fun. And I ended up deciding that maybe just a, a restart was in order. So I moved over to Orlando and, and started fresh over there.
+
+2 (1h 3m 3s):
+And what did you do in Orlando? I mean, it was going to be a couple more years before you would start your next business, which we're going to talk about, but what did you yeah. What'd you do? Did you just, were you an investor? I mean, did you, what'd you do on a day-to-day basis? Had you occupied?
+
+3 (1h 3m 19s):
+Yeah. Well, first of all, I was fortunate that I met a young lady that I'm now married to and having another step daughter. So
+
+2 (1h 3m 28s):
+Congratulations.
+
+3 (1h 3m 28s):
+Thank you very much. And so we traveled during our getting to know each other period, and where'd you go, oh boy, everywhere. We all have cruises. You know, I don't know if you know that, but I am a pilot. So we would fly around the country and down to the Caribbean and so forth.
+
+2 (1h 3m 50s):
+And I guess on one of those trips, something happened, you, you actually have a, a life altering event. Something that was, it was really serious at the time. Right, right,
+
+3 (1h 4m 3s):
+Right. I actually went up to a New Hampshire area and went skiing my first run on the date. And cause it was a cold, you know, the cold air was snowy rainy and stuff. And I fell and got back up. And I honestly believe if I had not had that training, I would not have made it because I would've kept going.
+
+2 (1h 4m 22s):
+You were on the ski slopes.
+
+3 (1h 4m 24s):
+I was, I was, and I looked up at my wife and I said, I'm having a heart attack. Wow. I think she thought I was, I was saying it just so I didn't have to snow as our ski in that crappy weather, but no I did. And the ambulance came, tried to get an Ivy. I mean, I finally said, put it right here or I'll do it type thing. And they got it in. So, you know, I think that the doctor, when he put me in the ambulance that had down, didn't, didn't have a lot of faith that I was going to be there.
+
+6 (1h 4m 54s):
+Oh wow.
+
+3 (1h 4m 55s):
+They gave me some medication stuff. They tried to get another IV in mean, I was already in collapse. My arms, my legs felt like they were going to fall off of me. You know, the body was shutting down and they couldn't get another IV in. They said we can't medivac yet because of the weather. So I had a three hour ride down to the hospital that could treat me. And I swear that ambulance backed up and the doors opened within five minutes of opening that the ambulance stories to the time they had a stent in me or within five minutes, I had a stent to me and I ended up very lucky Noah, Noah, heart damage at all. So,
+
+2 (1h 5m 34s):
+So what did they find? I mean, th th that basically,
+
+3 (1h 5m 37s):
+Yeah, there was an obvious blockage in the literally five minutes from the time they opened the ambulance stores to the time I was, I was okay. Wow. It wasn't, it was unbelievable.
+
+2 (1h 5m 48s):
+P that experience must have completely changed the way you see the world because you are really close to dying.
+
+3 (1h 5m 55s):
+Well, I was, at least, I believe I was, it certainly changes your perspective on, on a lot of things. And you know, you do, you do make life changes and stuff, but I've never been one to, you know, jog and run and eat. Right. And things like that. So I have a lot of bad habits like to think I corrected a lot of them, but yeah, the stress didn't help. Let's put it that way. And that's really all contradictory to starting another business. Right.
+
+2 (1h 6m 28s):
+Which is exactly what happens next. Pete starts another business, a business, the tackles, another unsolved problem in moving and storage. And one that puts Pete in direct competition with the company. He founded, stay with us. I'm guy Ross, back in a moment with more how I built this
+
+Vrbo (1h 6m 59s):
+There's power in getting together with the people you love. And today your family, isn't just about people with shared DNA. It's also about the chosen family you found, who like what you like and know what you've been through. Maybe getting together with your people means reconnecting with your childhood friends or watching the game with your college teammates or seeing your new baby meet your best friend's baby for the first time. Or maybe it's about reuniting with the whole crew or laughing until you can't breathe or big sister real talk, or just sitting in silence with someone who truly understands you. One thing is clear. Today's families don't often live in the same city, let alone have a single place to come home to VRBO knows the best places with your people. With millions of vacation homes, your place can be anything from a charming mountain cabin or Lakeside lodge to a city apartment or luxury home with private pools, hot tubs, full kitchens, and extra bedrooms. VRBO homes provide the space and comfort. You need to focus on the people who matter. Visit vrbo.com or download the VRBO app to find the perfect vacation home for your people. VRBO, a place for together.
+
+LinkedIn (1h 8m 13s):
+Time and place is everything, especially in, but in today's age of a million messages per minute and not enough hours in a day, how do you really catch your target audience's attention? Fortunately, there's a simple way. LinkedIn can help you speak to the right people at the right time with LinkedIn becoming number one in B2B display advertising in the U S you've got a great advantage. Now, if you listen to this show, you might know that I'm a business owner, myself and LinkedIn has been an important asset for our production company. In fact, we recently hired an awesome producer who noticed one of our posts on LinkedIn, and I've also seen how immediate LinkedIn's marketing tools helped other businesses move to the next level, scale your marketing, and grow your business with LinkedIn advertising as a thank you to their customers for helping them grow three times faster than the competition. LinkedIn is offering a $100 credit on your next campaign. Go to linkedin.com/built this to claim your credit. That's linkedin.com/built this.
+
+2 (1h 9m 24s):
+Hey, welcome back to how I built this guy, Roz. So it's around 2018. And even though Pete has already built one successful storage and moving company, he's not done. He wants to go back into the same space.
+
+3 (1h 9m 39s):
+Yeah. I never stopped thinking about how to make things better, how to change things. My mother used to say that to me, she says, no matter what it is, you look at it and you say, I can do that better than that. Yeah. And that is my nature. I look at things and say, there's gotta be a better way. So that's sort of what happened in
+
+2 (1h 9m 56s):
+You were in your mid sixties when you started this new business, right? So you could completely not do any of this stuff, but you can't get here. So tell me the Genesis of the next idea. I think initially you thought, all right, I want to work with pods again. I miss those guys. Let me go back and see what, what I can do with them. What was the idea that you brought to them?
+
+3 (1h 10m 17s):
+Yeah, I, I felt that, you know, let's face it. We, we started an industry and built it from the ground up and didn't know what we were going to grow up to be. Right. I thought we were going to have a hundred boxes. I don't know how many hundreds of thousands they have now, but obviously when you do something like that, hindsight's 2020. Right. And I looked back and I saw two or three things. I thought, you know, if we had done it this way, or if pods would convert to doing it this way, they'd have a much better product and a better customer experience and you know, better margins and all these things. So,
+
+2 (1h 10m 55s):
+And what was it, what was that way? What were you proposing? They do
+
+3 (1h 10m 59s):
+The problem with pods is the delivery system, as powerful as it is. And, you know, as successful as it has been, the company can't make money, the delivery system. So what happens is the customer is paying 2, 3, 4, $500 for the, for delivery services. And the company's trying to dispatch there. There's certified drivers in these complex trucks to make the delivery and they show up late. They put the container in the wrong place. They run over the mailbox. I hit the rose bushes or whatever it is. And it's a huge dissatisfaction for the consumer.
+
+3 (1h 11m 42s):
+And the consumer is paying two to $500 or whatever. It depends on the market, whatever it is, and the company's not making any money. So who's winning on that process. And so I went to them and I said, listen, I got this new idea. I said, you know, sign a non-compete nondisclosure. And I'll tell you what it is. And, and I was looking to make 10 bucks every time they use the idea.
+
+2 (1h 12m 5s):
+All right. What, what was the idea that you were going to pitch them? They sign a non-compete. Let's say they were going to sign a non-compete you walk in the room, you're there to say, all right, Pete, what's your idea? What was it?
+
+3 (1h 12m 15s):
+It's the consumer's having to pay two to $500 for a service that makes them mad that you're not doing a very good job of, and you're not making any money on that. Why have that service? I said, well, I would have said, well, let's develop a truck that the consumer can drive themselves and bring the container home, load it up and bring the truck back so that they, the company can never be late. Can never run over the mailbox of the customer calls up and says, I ran over the mailbox. The answer is, I'm awfully, sorry to hear that, but I hope you didn't hurt my truck. You know, you sort of, you reversed that whole thing. You eliminate 40, 50 people in the market that are doing that delivery service.
+
+3 (1h 12m 56s):
+And you know, it, it's a, win-win the customer saves money. They do it at their own time on their own pace. And the company eliminates a whole division with the logistics and all these headaches and problems. And yeah, I just felt like it was a win-win,
+
+2 (1h 13m 10s):
+But I still don't understand what is this thing that you were, you were gonna do?
+
+3 (1h 13m 14s):
+Well,
+
+2 (1h 13m 14s):
+I can understand the concept that pods wasn't making money off the deliveries and the pickups, but how are you going to solve that?
+
+3 (1h 13m 21s):
+Right. And that, that was the, that was the key. So we had to develop a truck that the consumer could drive. So it had to be under the 26,000 GVW
+
+2 (1h 13m 30s):
+What's GVW, by the way,
+
+3 (1h 13m 31s):
+Is gross vehicle weight. I'm sorry. That's I
+
+2 (1h 13m 33s):
+Got ya. Okay. Yep.
+
+3 (1h 13m 35s):
+You go above that and you have to have a special license.
+
+2 (1h 13m 38s):
+Okay. So it's about weight. It's not about the size of the truck.
+
+3 (1h 13m 41s):
+No, that's a really wait.
+
+2 (1h 13m 43s):
+Okay.
+
+3 (1h 13m 44s):
+And what we basically did is we dropped this company red Rover in between you hall and pods. I said earlier, we dropped pods between you hall and the movers. Now, what we did is we dropped the new company. It's new solution, new offering for the consumer, between you hall and pods that saves the customer money, lets them take everything into their own control, saves us a ton of logistics and headaches. And we don't charge a dime for the truck. So we give the truck, the mileage, the tolls, the fuel, and even a free hand truck to the consumer. So it doesn't cost the customer, a dime for the truck. They come get it, they take it home.
+
+2 (1h 14m 25s):
+So you took this idea to your former colleagues at pods to see if they would sign a non-compete agreement with you. Right?
+
+3 (1h 14m 34s):
+Exactly. And I was willing to offer to help get it off the ground. And I believed it would add a third revenue stream to their, to their business, right. That they didn't currently enjoy. And the CEO refused to sign it. So I waited another 3, 4, 5 months. And I finally called one of the board members and said, listen, same thing. He refused to sign it. I ended up getting invited to their 20th anniversary. Yeah. And before I went, I said, listen, you know, I'm glad to come and say a few words at the anniversary, drink your drinks, eat your food. Yeah. But I gotta be honest with you. I'm going to start this business as you don't want to hear about.
+
+3 (1h 15m 14s):
+And they said, I said, yeah, yeah, yeah, whatever, come on, come to the party. Right. And so, yeah.
+
+2 (1h 15m 19s):
+Yeah.
+
+3 (1h 15m 19s):
+So I didn't, and then I actually confirmed with the CFO at the time, are you guys making any money at the, on the deliveries and stuff? And he said, nah, we don't make any money. He says, if I can get rid of that piece of the business, I do it in a heartbeat now not knowing what I was thinking, you know?
+
+2 (1h 15m 36s):
+Okay. But the, the people at pods have said no, essentially to your idea. And I guess you decided to go ahead and launch it anyway. Correct. And this concept that you had was, it's not a pod, it's not a U hall. It's a U hall and a pod together. It's like a, like a, it's not peanut butter is not chocolate. It's a Reese's peanut butter cup.
+
+3 (1h 15m 58s):
+Well stated,
+
+2 (1h 15m 60s):
+You're basically putting, you're putting the storage unit on the truck. You're saying, Hey, you can go pick up the truck, drive it to your house, you load up the truck. And then you drive the truck back to our facility and then we will take the box off the truck and store it for you.
+
+3 (1h 16m 17s):
+Correct. We're we're giving you a free you hall. You don't have to unpack into the mini storage, as you said. Yeah. We're giving you all the advantages of a portable container on a free you haul.
+
+2 (1h 16m 28s):
+So this is like completely new. I mean, because pods, so it, it, it, it inspired competitors and they even sued you all at a certain blankets and think you hall was, was using a product that they called a pod. I don't know why they would do that. And, and I think pods one, but, but lots of competitors now, there are lots of companies that basically replicated the pods model. You didn't want to do that. You want to actually create something new.
+
+3 (1h 16m 56s):
+That's right. That's right. Yeah. The same guy that came up with the pods name, I reached out to him and I said, listen, this is what we're doing. What do you think? And stuff. And he came down. He said, well, first of all, Pete, you're not really a pod. Okay. Or a portable storage. And you don't want to go against pods and portable storage. As you say, there's hundreds of them out there, right. You're a startup and you're not really a truck rental. You're giving the truck away for free. Number one. And number two, you got the container on there. So he said, let's create a new industry and call it flexible storage. So you come down and you fetch the truck with a container. You take it home, you load it up, you bring it back.
+
+3 (1h 17m 36s):
+You're done. And let's call the company red Rover. So vegetable storage brought to you by red Rover. And we, you know, I've created a whole new industry. This one, just like we did with Paul.
+
+2 (1h 17m 51s):
+And so, I mean, I guess pods is now a competitor, right? I mean, let's, let's be honest. I mean, there, you guys are competitors.
+
+3 (1h 18m 0s):
+We are, we are. But to be honest with you, you know, I feel our product is a, a price point product. Right. And, and I kid, and I say, bill gates is never going to use a pot of red Rover or, or you
+
+2 (1h 18m 14s):
+Haul. Right. I can't see him loading his own stuff. No,
+
+3 (1h 18m 17s):
+Exactly. So he's at a financial plateau in life that that's what he's going to do. We're attracting the lower income folks, you know, the young families and the startups and some seniors that are on fixed incomes that see the value proposition that we offer. And I say, we're really stealing more customers from you hall. Right? You have to go rent the U haul, fill it, drive to a mini storage, unpack it, and then take the, you haul back ours, you get the truck for free, you fill it and you're done,
+
+2 (1h 18m 51s):
+Right. You're paying the storage, you pay the storage,
+
+3 (1h 18m 53s):
+You pay the storage, you pay one month for the storage, but just paying the storage on new halls. I think we're going to grab more customer share from you, haul them. We will pause, but we will certainly get the portable storage customer as well. But, you know, I, I always ask the question, you know, how does you whole compete with a free truck?
+
+2 (1h 19m 13s):
+Yeah. I think you, I think have I've done three rounds of, of fundraisers and you've raised around close to $40 million. Is the model the same as pods? Is it because there's a, is it a franchise model? Is that the idea?
+
+3 (1h 19m 30s):
+Yeah. First we've had a few rounds of friends and family. We raised almost $20 million, just under a million dollars from friends and family. And we just, this week completed around north of $50 million.
+
+2 (1h 19m 44s):
+Wow. She raised a lot more than, yeah. Okay.
+
+3 (1h 19m 47s):
+Yeah. $50 million from the Oppenheimer group out of New York. So that capital is going to let us grow nationwide. Wow. You know, all the major markets, the franchise question comes up almost on a daily basis, but certainly on a weekly basis. And right now it looks like we probably will enter the franchising later this quarter, that decision isn't finalized, but there's a great likelihood, even with that much capital, you know, we're going to open 20, 25 big markets, LA New York, you know, all the big, Chicago's all the big markets on top of what we already have opened, but that doesn't handle the Boise's in the Schenectady is and things like that.
+
+3 (1h 20m 34s):
+And that's a great vehicle for our franchisees to get involved, you know, the, the reservation and the, the concern around it. And it was, you know, how do we avoid the pitfalls that we had in pods? Franchisee?
+
+2 (1h 20m 53s):
+I I'm, I'm curious. I mean, here you are, you are, I think you'll be 70 and 2022. I mean, you're a startup, you got another startup going. And that's a
+
+3 (1h 21m 7s):
+Lot, it's a lot,
+
+2 (1h 21m 8s):
+Right? There's a lot of, I mean, it's a lot of time. It's a lot of moving parts. It's a lot of logistics. You've done it before, but clearly you're not doing this for the money at this point, you're doing this for some other reason.
+
+3 (1h 21m 24s):
+It's fun. I mean, at the end of the day, I'm having fun. I would tell you that, you know, we've been in this now call two years, I'd say we're at the same level. Pods was seven years into the business. You know, our growth, our capital raising this year is going to be unbelievable growth. And you know, it took me 10 years to build pods and, and ultimately sell it. We're going to be on everybody's radar by the end of this year. I think, you know, I've told my investors in the Oppenheimer group ad in New York that, you know, this is a three to five year program. I think there's a chance that something could happen earlier than the five years I think could happen in three or four.
+
+3 (1h 22m 7s):
+But you know, the team I have around me does all the heavy lifting, you know, I'm sort of a guy that points let's take it this way. And, and so as long as it stays fun, I'm happy to do it.
+
+2 (1h 22m 20s):
+Pete, when you think about this journey that you've gone on from volunteer firefighter to real firefighter paramedic and, you know, kind of just raising our hand and we really just raised your hand, who wants to be a paramedic. I do, wants to be, he wants to help us set up is nine one. I do. And then you start this pods business and you completely transform them moving and storage. And then that business is sold and I get this one and, and it's a go, I think it's very likely to be the next biggest thing in, in moving and storage. What do you attribute your success to?
+
+2 (1h 23m 1s):
+I mean, how much, how much of that do you think is, is because of your hard work because you, you raised your hand because you grinded, you know, how much do you think has to do with, with getting lucky, you know, the people you met, the, the fact that you didn't get a job as a firefighter in New York city, but you got a job in Clearwater, Florida, you know, those kinds of things, how much, how much has to do with luck and how much has to do with, with just how hard you worked
+
+3 (1h 23m 30s):
+Well. Yeah, I think being blessed and being cared for as has gotten along the way, I also believe I'm, I'm very lucky. I think that, you know, being at the right time at the right place, having the courage to take the chance, I tell people all the time, it's a great idea. Are you willing to walk away from everything to pursue it? You know, and I see my job seriously is just listening to your, to your employees and your partners in the business and, and coming to a, an agreement. So we're all focused on the same goal line and showing the growth and sharing in the growth. You know, all my, all my senior staff and many of my employees have stock in the company.
+
+3 (1h 24m 11s):
+So they're, they're motivated to help grow. It's just doing the right thing for people doing the right thing in life. And, you know, having the willpower and the strength to take the chance
+
+2 (1h 24m 26s):
+That's Pete Warhurst founder of pods and red Rover moving and storage, by the way, what's the, what's the weirdest thing you've ever found in a storage unit.
+
+3 (1h 24m 38s):
+Well, you, we haven't had much of that in our experience here so far, but you know, I think I remember things like this. One guy put a car in one and didn't secure it very well. And as it was driving down there, as the pod delivery truck was driving down the street, it actually rolled out the back door and pulling off the back of the truck.
+
+2 (1h 25m 1s):
+Somebody put a car into a pod.
+
+3 (1h 25m 3s):
+It's just crazy what people do.
+
+2 (1h 25m 5s):
+I can't believe that that over all these years of, of doing storage in Florida, you never found an alligator in a
+
+3 (1h 25m 13s):
+No, no alligator. And fortunately, no dead bodies either.
+
+2 (1h 25m 17s):
+No dead bodies, no alligators.
+
+3 (1h 25m 19s):
+Exactly. Exactly.
+
+2 (1h 25m 22s):
+Hey, thanks so much for listening to the show this week. If you want to contact the team, our email address is H I B T N I d.wondery.com. And if you want to follow us on Twitter, our account is at how I built this. And mine is at guy Roz on Instagram or at how I built this. And I'm at guide dot Roz. This episode was produced by Carrie Thompson with music composed by rum teen era bluey was edited by Neva grant with research help from Claire Marie Shima. Our production staff also includes Liz Metzger, Alex Chung, JC Howard, Josh lash, Sam Paulson, Catherine cipher, Ellaine coats, John Isabella, Christmas Eve, and Carla estimate says I'm guy Roz.
+
+2 (1h 26m 6s):
+And you've been listening to how I built this.
+
+3 (1h 26m 19s):
+Hey, everyone. So I want to make sure you know, all of the different ways you can listen to how I built this. As you probably know, you can follow the show on Amazon music, apple podcasts, or wherever you're listening right now, but a one let you know that you can actually listen to the next episode of how I built this today. One week early on Amazon music, you can also listen to it early and ad free by subscribing to Wondery plus an apple podcasts or on the Wondery app.
+
+2 (1h 26m 47s):
+Please do follow us on your podcast app. So you always have the latest episode downloaded. And another way to support the show is by filling out a survey at wondery.com/survey. And thanks
+
+Wondery: Call Me Curious (1h 26m 60s):
+from wondering, call me curious as a podcast hosted by Nikki Boyer that finally gives you definitive answers to life's burning questions. We're all on 24 7 information overload on our newsfeeds in our inboxes on Tik TOK. It's so hard to know what is real and what isn't, when it comes to health, pop culture and relationships. That's why Nikki is bringing you call me curious every week on call me curious, Nikki dives into all the things you've heard about, but don't really know about that's right? No more nodding along at parties or running to the bathroom to Google. What is cryptocurrency you'll learn and laugh along the way as she explores life's little mysteries and the internet hottest topics like does intermittent fasting work or is it true? You can't die in your dreams. You'll find out with Nikki and some of her hilarious friends on her podcast. Call me curious, listened to call me curious on apple podcasts, Amazon music, or wherever you listen. You can listen early in ad free by subscribing to one repless in apple podcasts or on the Wondery app.

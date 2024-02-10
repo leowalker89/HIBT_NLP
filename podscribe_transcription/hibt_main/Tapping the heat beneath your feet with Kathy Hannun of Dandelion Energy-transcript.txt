@@ -1,0 +1,254 @@
+0 (0s):
+Hey Prime members. You can listen to how I built this early and add free on Amazon Music. Download the app today.
+
+1 (9s):
+Think of all the things you can do in 10 minutes or less. Scroll through social media. Check your bank balance, make a sandwich or learn about the surprising economics behind all these things. The indicated from Planet Money is a quick hit of insight into the economics of business, work and everyday life. Every weekday in less than 10 minutes. Listen now to The Indicator Podcast from npr.
+
+0 (30s):
+This message comes from how I built the sponsor Crow. There is no shortage of volatility in business today from workforce challenges to supply chain hiccups. But volatility isn't our enemy. Doing nothing is Crow is ready to help you uncover opportunity in uncertainty. With deep experience in audit, tax, advisory and consulting, Crow can help you embrace volatility in today's economy. Visit embrace volatility.com to discover how once again, that's embrace volatility.com. The world needs entrepreneurial leaders and we're educating them at Babson.
+
+0 (1m 11s):
+Gain the skills to lead, motivate, and inspire through Babson College's MBA program. Available full-time, part-time, and online experience an action-oriented hands-on learning approach that helps you find opportunity in every challenge. Whether in your own venture or as a leader within the business. Babson offers. What if thinkers a path to change the world and the way it works with the tools and mindset, you need to stand out among your peers and solve real world problems in any career you pursue. When you come to Babson, you join a thriving network fueled by passion and innovation at the school. Ranked number one in entrepreneurship for 30 years by US News and World Report.
+
+0 (1m 53s):
+Apply today at babson.edu/mba. Hello and welcome to How I Built this Lab. I'm Guy Rise. So the ground under your feet could cool and heat your home for a relatively low cost and it doesn't really matter where you live because as you will hear in this conversation, once you dig about two to 500 feet deep in most places around the world, the earth is cool but also capable of providing heat. How this works, I will let Kathy Hanon explain in a moment. Kathy is the founder of a company called Dandelion Energy and she's on a mission to use the natural thermal system that already exists below ground to regulate the temperature inside our homes and buildings.
+
+0 (2m 41s):
+It's a system by the way, widely used in Sweden and if she can get enough people to adopt it in the US it could have a massive impact on reducing carbon emissions and it could save people thousands of dollars a year. Kathy started thinking about geothermal heating and cooling systems back when she was working at X. That's the name of Google's innovation lab. Two of Google's most famous internal projects, Waymo, the self-driving car and wing, a drone delivery system came out of x. Dandelion energy was also started there and eventually spun out as a separate company. But at the beginning, Kathy and a team at X were given an open-ended assignment, dream up big ideas that could make a significant impact and then try to see if those ideas were workable.
+
+2 (3m 30s):
+I was just hunting around for what is a project that would make a big impact on climate and buildings are responsible for about 40% of greenhouse gas emissions. Heating and cooling is more than half of that. And it was clear, Ben, as it is now that heat pumps are going to be the answer. That's the way you electrify heating efficiently. And there are two types of heat pumps, air source heat pumps and ground source heat pumps, also called geothermal heat pumps. And they both have a big role to play. But what we did was we did an analysis where we just ran the hypothetical if all homeowners we focused on homes residential switched from using whatever heating fuel they use today to using heat pumps, geothermal or air source, how much value would be created.
+
+2 (4m 28s):
+So just looking at the difference of operating cost and it was actually so striking and so surprising how much value would be created by switching people from what they use today to geothermal.
+
+0 (4m 43s):
+So just can you quantify what you discovered? Like what did you find?
+
+2 (4m 47s):
+If you look at, for example, in the Midwest comparing using a fuel to using geothermal, your operating costs. So how much you have to actually spend to heat your home, it's maybe a fifth with geothermal, it's similar in the northeast and emissions wise is similar. It's a huge decrease. And so then of course it's like, well why? Why don't people use this if it's so inexpensive and so clean? And the answer is very clear, it's just geothermal heat pumps are very expensive to get up front and we're very, not just expensive, but like for most normal people, very difficult to know how you would even go about getting one cuz it was such a uncommon product.
+
+0 (5m 40s):
+Yeah and when you have heating oil, which many people in the northeast do, it's like having, it's like basically paying for a subscription service. Yeah,
+
+2 (5m 49s):
+I think you're exactly right that you have a subscription to heating oil or natural gas or propane that you just have to pay because yeah, for most people it's not an option to just say, you know what? This is getting a bit expensive,
+
+0 (6m 2s):
+I don't wanna pay for this anymore.
+
+2 (6m 3s):
+This will, I'll be cold. You know, it's like probably not. You have to pay it. Whereas if you invest in putting in ground loops and we can talk a little bit more about what that entails, but if you invest in that infrastructure so that you can access all of that free heating energy that's already in your yard, then you can draw on it essentially forever. Cuz the ground loops are gonna last as long as you're home.
+
+0 (6m 28s):
+Yeah, I guess I should mention it's not a new, it was not a new technology. This is not something that you guys were had invented. It was something that you were exploring cuz it exists. There are countries like Sweden where this exists already where people use this technology. So let's talk about how this works. Explain how a home is heated and cooled with a geothermal system.
+
+2 (6m 51s):
+So you basically need two components. You need what are called ground loops, which are just plastic pipes buried in the ground. They typically extend 200 to 500 feet into the ground and they're only inch and a quarter in diameters. So they're thin but they go pretty deep. So you'll have one or two of those and then you'll have a heat pump which essentially looks like a furnace and it goes where your furnace was. And that will be typically in your basement or in your utility closet. And then you need to connect them so it can feed water to that heat pump in the house.
+
+0 (7m 28s):
+So essentially there's water running through these tubes under your home. And the reason why it's so deep underground is because the ground is more or less around 55 degrees Fahrenheit all the time.
+
+2 (7m 42s):
+That's right.
+
+0 (7m 43s):
+So help me understand, how do these tubes with water underground heat your home? How does that work?
+
+2 (7m 49s):
+So it's the same exact technology that you would find in a refrigerator or in an air conditioner. But the way it works is that 55 degree ground will bring that water running through it to 55 degrees. Then that 55 degree water will go into the heat pump and pass through a heat exchanger where it will exchange its heat with a refrigerant that refrigerant's been specially selected to expand and sort of vaporize at 55 degrees. And then it's run through a compressor which uses electricity to compress the refrigerant. And so basically when you compress that refrigerant, the temperature goes up.
+
+2 (8m 31s):
+So now you have a very hot refrigerant, you can pass that through another heat exchanger with the air that you're gonna send through your house. So it heats the air to let's say a hundred degrees or so. And then you just send that air through your house as you normally would. It sounds really complicated when I say it like that, but it's a very common technology. Again, every air conditioner, every refrigerator works in this way
+
+0 (9m 0s):
+And to cool your home, it actually removes heat from the house. Can you, can you explain that?
+
+2 (9m 6s):
+Yes. So cold is just the absence of heat. So the way an air conditioner works or the way a a geothermal heat pump works is you'll have the whole system run in reverse. And so you use that refrigerant again to absorb heat from your home. And then in the case of a geothermal system, the hot water where the heat has sort of been dumped is running through that 55 degree ground and dissipating into the ground.
+
+0 (9m 35s):
+Alright, so you know that this is possible, not just possible it exists in parts of the world. This is in 2015, but there's maybe more than a slight challenge, which is the drilling equipment to do this in a residential setting was non-existent, at least in the us right? Like, like to drill down under a house without disturbing the house and installing these pipes, you'd have to bring like a big rig size drilling rig and most homes can't accommodate that in their backyard. That's
+
+2 (10m 4s):
+Right. The challenge was the types of drilling rigs that people used for geothermal in the United States were the same rigs that were used for water wells and they work well for rural homes with a lot of land and homeowners who don't mind if a giant truck with a very heavy drilling rig drives onto their yard and yeah, sends mud everywhere. But a lot of our homeowners did mind and also didn't even have the land. So it was kind
+
+0 (10m 34s):
+Of, they're densely packed. They are, right, these homes, yeah.
+
+2 (10m 37s):
+So it's just like you couldn't even start. And so we needed to find a way of putting these ground loops in that was compatible with just a suburban home where you know, you wanted to keep the areas neat.
+
+0 (10m 50s):
+So how did you do that? What did you find?
+
+2 (10m 53s):
+This was something that we iterated on quite a bit in the early years. We experimented with a few different types of rigs, but we ended up taking a trip to Sweden, which you mentioned it's sort of the geothermal capital of the world. 20% of homes in Sweden use geothermal heat pumps. Pretty much all new homes going in use them. So they've managed to bring the technology to scale. So we made a trip to Sweden and the companies that do this there were actually extremely helpful in sort of teaching us here's how we do it, here's the equipment we use, here's our process. And we've imported most of that back to the United States and really adopted the same rigs they use over there.
+
+0 (11m 39s):
+All right, so you started figure out how to, to make this work and you had this idea and it started to get some traction and so you sort of proposed that this become a startup, a separate company.
+
+2 (11m 54s):
+It was becoming increasingly clear sort of over 2016 that this is an idea that could go somewhere. A lot of the checks we do on is this gonna work, we're coming out pretty positive, like surprisingly. So you know, I'm, I was used to going through so many ideas and finding sort of the thing that seemed hard to overcome, but with this idea, it was like the more I looked, the more convinced I became that there was nothing fundamental holding this back. But the issue was, you know, X really looks for a very specific type of project. Their ideal project is something like the self-driving car or Waymo where you have to invest a lot of money up front to create ideally something software or software adjacent, like a self-driving car.
+
+2 (12m 43s):
+And then once you solve that technical problem, all the other problems that you'll have in starting the business are very minor compared to that central problem. You know, like if you can really make a car that drives itself perfectly, you'll be able to figure everything else out and it will be an incredible business. And for geothermal heat pumps, it involved things like drilling deep holes in homeowner's yards. It was operationally intensive. And I should also mention you didn't need a billion dollars upfront to get started. It was the type of problem that seems like it would benefit a lot from iteration and you could actually get started without a lot of capital.
+
+2 (13m 30s):
+So it just was better fit to be a startup than to be something incubated within x.
+
+0 (13m 38s):
+We're gonna take a quick break, but when we come back, Kathy shares how dandelion energy flopped out of the gate but eventually found a model that worked. Stay with us. I'm Guy Raz and you're listening to How I Built This Lab. Maybe you've stayed at an Airbnb before and thought to yourself, this actually seems pretty doable. Maybe my place could be an Airbnb. It could be as simple as starting with a spare room or your whole place when you're away. You could be sitting on an Airbnb and not even know it. Maybe your kid is heading off to college in the fall and you'll have an empty bedroom. You could Airbnb it and make some extra cash while they're away.
+
+0 (14m 19s):
+Or if you have a vacation plan for this summer, that could be a good time to Airbnb your entire place. Whether you could use a little extra money to cover some bills or for something a little more fun, your home or spare room might be worth more than you think. Find out how much at airbnb.com/host. If car designers can make cars look like anything, why are there so many boring cars? Nissan dares to design what others won't By approaching each project in a completely different way. Nissan Design gives you everything from the adventurous frontier to the Z's iconic sports car styling to the futuristic aria all in one brand. Each Nissan vehicle has its own story and identity.
+
+0 (15m 1s):
+Nissan knows that thrill isn't just about zero to 60. Thrill should start the moment you see a car from the arc of the roof to the way the headlamp meets the grill. Every detail of a Nissan vehicle is designed to get your heart racing before you ever press start. Nissan knows what thrill looks like because they design it into every vehicle they make. Learn more about the 2023 lineup@nissanusa.com. One more thing before we get back to the show, please make sure to click the follow button on your podcast app so you never miss a new episode of the show. It's usually just at the top of the app and it's totally free.
+
+0 (15m 45s):
+Welcome back to How I Built This Lab. I'm speaking with Kathy Hanon, founder of Dandelion Energy. It's a company that's making geothermal heating and cooling accessible to homeowners. Alright, you mentioned starting it with not a lot of capital. I think you raised about $2 million, which might sound like a lot to some people, but for this project it is not a lot. And so, but from what I, from what I've read it, the first year and maybe two was rocky. It was not, did not go as planned. Cuz I guess initially you sort of decided to try and contract with existing HVAC companies that focused on traditional HVAC systems, not geothermal. And I don't know, it was just you, you ran into a lot of challenges.
+
+0 (16m 28s):
+Can you, can you talk a little bit about them, enumerate them? Oh
+
+2 (16m 32s):
+Yes. We ran into so many problems. I guess to start, the hypothesis we had when, when we spun out and started the company is we're gonna create a marketplace. We'll contract with H V A C installers, we'll make this available to homeowners, we'll match homeowners that want geo with these contractors who we are going to teach to install it, we'll provide the heat pump and do some of the drilling cuz we were testing some different ways we could approach that problem at that point and that will be the company. So we raised the money, I moved to New York, we made the commitment, it's sort of a one way process and then it became obvious that that vision was not going to work.
+
+2 (17m 18s):
+First of all, the, the partners, the H V A C contractors we had chosen were not used to selling geothermal of course cuz they did not sell this product. And so it quickly became clear, okay, we're gonna have to sell this product. So we hired sales leader. Then we realized, you know, even when we sell it and pass it along, like these contractors need a lot more support than we're giving them and it's not their priority cause they have their own business and their own customers that they're always gonna treat before ours. And so that led to a lot of customer experience issues, as you can imagine.
+
+2 (17m 59s):
+And the economics of it were also very difficult because
+
+0 (18m 3s):
+It was like 50, $60,000 upfront to install this system in in an average home at the time, right?
+
+2 (18m 9s):
+Yes. That was the typical price of geo actually quite a bit higher than that in the markets in New York that we started in. We went in with a much lower price, but we were not making money at that point in the company. But I will say the one thing that was going really well, even from day one was people wanted to buy the product and to the upfront cost point, we launched with a financing option. So from the beginning, homeowners that signed up with us would come out ahead, like you could come out cash flow positive on against fuel oil and there was just like overwhelming demand, which is great, but also in itself created problems for us because we just didn't have the contractor network to support that demand.
+
+2 (18m 56s):
+And we had mispriced at the very beginning. So we were also, the more we sold it was sort of like the deeper the hole we were digging for ourselves. So those were the early years.
+
+0 (19m 9s):
+So how did you solve it? I mean, what did you, I mean, presumably you depending on these outside vendors and companies to install the product wasn't gonna work. Yes. But you also had you, you didn't have, you know, huge buckets of cash to build out your own team of installers. So what did you do?
+
+2 (19m 30s):
+I remember this decision point because I was actually on a hike with my dad and my mentor, Dan Yates, who is chairman of the board at Dandelion. He called me and I, I took his call and we sort of acknowledged this truth to each other like this, this model isn't going to work. And it was kind of clear that if the subcontractor model isn't going to work, really you don't have that many options if you wanna keep going except for just trying to insource that workforce, you know, like what else are you really going to do?
+
+2 (20m 11s):
+So we had been, or at least I should say, I had been trying to avoid that truth for some time because it was frankly intimidating to think about leasing a warehouse, hiring electricians, plumbers, and H V A C professionals figuring out all the vehicles, right? Like I didn't think of myself as somebody who could know how to run a true H V A C company in that way. But we had this call and it was kind of like, well this is what it's gonna take. And so we made the decision to do it and I'm really glad we did because it allowed us to grow the company, improve the customer experience so much, improve the economics of our installs.
+
+2 (20m 55s):
+We learned so much more quickly because we were actually doing all these things ourselves and truly understanding what all the problems were. So yeah, it was a very meaningful decision point in the history of the company.
+
+0 (21m 9s):
+So that meant that you had to raise lots more money.
+
+2 (21m 11s):
+We did have to raise more money. It's true that having a model where you're insourcing the labor is more capital intensive, but the economics of each install were also much better. So it ended up being a financial net positive for the company, even though it did require us to, yeah, raise the money we would need to lease the warehouses and the vans and that type of thing.
+
+0 (21m 39s):
+Okay, so a a after this big revamp to the company, what, what did the customer experience look like?
+
+2 (21m 45s):
+Our promise to the homeowner then and now to be honest, is just you're a homeowner. You just wanna buy a heating system that works. And so we will come in, tell you how much you'll save by switching to geo in the same way a solar company, for example, would tell you this is your return on investment, this is how much you'll save. And then we will do everything. We'll remove your furnace, do the right design for the geo system, oversee the drilling, or today we do it ourselves. We today do everything ourselves. We install the heat pump, uninstall your furnace and air conditioner and then get the whole thing permitted and inspected. We'll handle the rebates for you, right?
+
+2 (22m 26s):
+Like we just wanna make this simple for the homeowner so we take on the complexity ourselves.
+
+0 (22m 31s):
+All right, so you start this basically building this vertically integrated company. How are you able to bring costs down? Because initially they were 60, 70, 80,000, I guess now it's, it's sort of averaged about 25 to 30,000. Is it just a more efficient process or what?
+
+2 (22m 50s):
+There are a few different things. Certainly the policy landscape has been a great tailwind for us starting this company. You know, Trump was president Oil was relatively inexpensive, people weren't talking about heat pumps. I feel like I could have never imagined how much would change in our favor in the policy landscape since that time. So there's now a 30% federal tax credit. So for every homeowner who buys geothermal, they just get 30% off of the price from that, the utilities have incentives that are worth 10 to $20,000 that go to the homeowner.
+
+2 (23m 31s):
+And there's just like so much talk about heat pumps all the time, which is great. So that has been hugely helpful. But in addition to that, I think one of the things that was making geothermal very expensive in the past in the US is that because it was so niche and so infrequently done, every time a geothermal system was put in, it was kind of like a highly customized one-off project. There was no assembly line, there was no company who was trying to figure out how to standardize the process and then do every step of it as efficiently as possible. And that is the role that we are playing.
+
+2 (24m 11s):
+So to give one example, only 18 months ago we had two drilling rigs of dandelion, just small rigs that we've adapted to be optimized for geothermal in small suburban residential yards. So we went from having two to now we have 14 running full-time. And wow, this business is all about throughput. So if you have your rigs and your people and like all of your assets constantly working to put in systems, then you're able to amortize that overhead over many, many, many more systems. And the cost is much, much lower for homeowners.
+
+0 (24m 48s):
+So once you install the system, your CO and, and let's say it replaces fuel oil, right? Your costs to to heat and cool your home are just the electricity cost to run the heat bump.
+
+2 (25m 3s):
+That's right. Yep, that's right.
+
+0 (25m 5s):
+And how long does it take to install it? I mean if somebody's like, yep, let's do it.
+
+2 (25m 9s):
+The actual work that takes place at the house, you need one day, two days-ish to put in the ground loops depending on how big the house is and how many ground loops are required. And then installing the heat pump typically also takes about a day though some homeowners get a water heater or duct work or things like that and it can take a little bit more time. In terms of our wait times, they've varied. At our worst, we force our customers to wait over a year in some markets cuz we had so much demand, but now we've managed to bring it down. It's more like four months. So we've made a lot of progress there.
+
+0 (25m 50s):
+We're gonna take a short break, but when we come back, Kathy breaks down what makes geothermal system so versatile and efficient and why we need them. If we wanna meet our climate goals, stay with us. I'm Guy Ross and you're listening to How I Built This Lab.
+
+5 (26m 8s):
+Do you want a straighter smile without ever needing to enter a dental office, it sounds impossible, but with Bite you can transform your teeth entirely from the comfort of your own home. Bite offers clear aligners that are doctor directed and delivered straight to your doorstep. Prep time for your Smile journey is minimal. Just take an impression mold of your mouth, preview your 3D smile and order your all day or at night aligners. That's it. You'll even get to track your smiles progress every step of the way with the Bite app, plus you'll have access to your clinical team seven days a week. Best of all is that average treatment time for all day aligners is faster and more affordable than traditional braces. Get the smile you've always wanted, go to byt e.com and use code wondery at checkout to get your at-home impression kit for just 1495.
+
+5 (26m 50s):
+That's code wondery@bite.com for over 80% off your impression kit.
+
+6 (26m 55s):
+The Angie's List, you know and trust is now Angie, and we're so much more than just a list. We still connect you with top local pros and show you ratings and reviews, but now we also let you compare upfront prices on hundreds of projects and book a service instantly. We can even handle the rest of your project from start to finish. So remember Angie's List is now Angie, and we are here to get your job done right. Get started@angie.com, that's A N G I or download the app today.
+
+0 (27m 32s):
+Welcome back to how I built this lab. I'm Guy Raz. My guest today is Kathy Hanon, founder and president of Dandelion Energy. To be clear, I mean this is like, this dramatically reduces carbon emissions, right? But it's not totally carbon neutral. I guess it could be if you were using like solar power to to to power your home, right, then it would be totally carbon neutral.
+
+2 (27m 53s):
+That's right. The way to think about the carbon neutrality of geothermal, it's similar to electric vehicles. Without heat pumps you have just millions of point source emissions. So yeah, every furnace or every boiler is emitting its own stream of emissions if it runs on gas or oil or propane. And at least in my opinion, the only practical way to solve the problem is to electrify the entire fleet of heating equipment. Yeah. And that will be done almost exclusively with heat pumps. And then what you've done is, yes, they still use electricity to run, but then you can just focus on cleaning up the grid and once the grid is cleaned up, you'll have a totally carbon free system.
+
+0 (28m 44s):
+I'm, I'm curious why in your view is this system, is the geothermal system better or more efficient than like, you know, heat pumps that use air, for example, to cool and heat a home?
+
+2 (28m 57s):
+Yeah, I mean, I don't wanna say one is necessarily better than the other. In general, I think that in some cases air source is better and in some cases ground source is better. But let me tell you when ground source or geothermal is better. So for one thing, especially in places where it gets cold, the cost to operate a ground source heat pump is about half of the cost to operate an air source heat pump because you have access to that constant temperature ground and that's allowing you to always run your heat pump at high efficiency air source heat pumps run at very high efficiency in mild weather, but when it gets really cold, they lose efficiency.
+
+2 (29m 43s):
+And that means that if you step back and look at sort of the more societal view, one of the challenges that we'll face when we convert all of our heating systems to heat pumps is that peak demand will become a problem in the winter. And with air source, this is especially challenging. So a study was done for the state of Rhode Island of just like what will happen if you convert all your heating systems to air source heat pumps and the peak demand on that grid would double. And the reason for that is on the coldest day, all of the air source heat pumps will be operating at their least efficient and they'll all do that at the same time.
+
+2 (30m 27s):
+Whereas with ground source peak demand would increase by 17%. So it, it has that benefit too, where the ground is serving as almost a buffer, you're not using as much electricity and you're certainly not using as much on the peak days. And then the last thing I'll say is that many homeowners in the northeast today that decide to get an air source heat pump use a fossil fueled system for backup and that allows them to make sure they have enough heating on the coldest day and Right. You know, with our customers, none of them have a, you don't need a backup, you don't have it. So that's another advantage. It's just a hundred percent heat pump
+
+0 (31m 9s):
+And this kind of system can work anywhere in the world. I mean you could, you could install it in a home, in in Death valley where it gets freezing cold in the winter and obviously it's one of the hottest places on earth in the summer.
+
+2 (31m 22s):
+Yes, you definitely could.
+
+0 (31m 25s):
+It's sort of like I, I mean I think about the ocean, right? Like the ocean is stormy at the surface, but if you dive down now 20 meters, it's calm. Basically wherever you go around the world and you dig two to 500 feet down, it's gonna be a more or less a constant temperature of around 55 degrees Fahrenheit.
+
+2 (31m 46s):
+Yeah. As you go down, you basically get to the average air temperature in that location. So exactly as you said, the temperature varies so much at the surface with the winter and the summer, but once you get, you know, 10 to 500 feet underground, it's pretty constant. And that's exactly why ground source heat pumps work so effectively.
+
+0 (32m 9s):
+So essentially there's, and and when we say 55 degrees, I, I, I shouldn't call that cool. I mean I'm in California so when it's 55 degrees here, people are wearing like arctic gear, you know? Yes. It's gotta be like 80 before people wear shorts, but, but 55 is warm. That is warm and cool. Like you can basically create as you, as you described, heating and cooling with that, that temperature.
+
+2 (32m 34s):
+Yes, it's very mild. And yeah, to your point, when I was first pitching the company with our initial seed round and I would pitch to venture investors in Silicon Valley, I didn't get a lot of traction when I would go to New York or Massachusetts based investors that ended up, those were the investors that ended up They got it. Yeah. Doing our seed round just because it's just, you have a different relationship with heating especially, but also cooling, it gets a lot more humid and hot. In the East coast,
+
+0 (33m 11s):
+You've raised about $135 million total and you are mainly right now focusing on New York, Massachusetts, and Connecticut. A lot of demand. Tell me what the expansion plan is. I mean, I have to imagine that you wanna get bigger, you wanna be national, international, and probably people from other states are going into your website and they're saying, yeah, I want, I wanna do this.
+
+2 (33m 35s):
+Absolutely. I guess first I'll say one of the things that I just wanna be upfront about at this part of my journey in the company is like I don't even feel comfortable saying I've raised 135 million. I have built a team that, you know, I've, I ended up in 2020 hiring a C E O for dandelion. Now I'm president and run sort of our product and engineering groups. We have a very talented management team that has taken this idea and built it to where it is today. And our plan for expansion look like so many more states are realizing we need to solve this heating problem if we're ever gonna meet our climate goals.
+
+2 (34m 22s):
+And the way to do that is heat pumps and a lot of utilities don't want their peak demand to double. So people are starting to take geothermal heat pumps much more seriously as a tool to do this, especially as we've been able to bring the costs down so that the economics make sense in more and more places. So we're doing a few things. One is one of our investors in our most recent rounds, Lenar, the home builder, we're really interested in starting to get into new, new homes, new construction. Why are we building new homes that have furnaces and boilers when we know we're just gonna have to replace them with heat pumps? We should immediately start building new homes with heat pumps and new homes is the ultimate case where you can just put in like a hundred ground loops, two underground loops at a time and it's very, very cost effective.
+
+2 (35m 12s):
+We're also constantly working on policy, so making more and more states heat pump friendly. And then of course we're just continuing to gain efficiency and sort of build our own operational capacity so we can bring our costs down and make the pricing work out for more and more people across the country.
+
+0 (35m 34s):
+Kathy Hanon, thank you so much. Thank you. That's Kathy Hanon, founder and president of Dandelion Energy. Hey, thanks so much for listening to How I Built This Lab. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show and it's totally free. This episode was produced by Sam Paulson with editing by Casey Hermann. Our music was composed by Ramine Arab Bluey. Our audio engineer was Katherine Silva. Our production team at How I Built This includes Alex Chung, John Isabella, Chris Masini, JC Howard, Liz Metzker, Carrie Thompson, Carla Estevez, and Elaine Coates.
+
+0 (36m 16s):
+Neva Grant is our supervising editor. Beth Donovan is our executive producer. I'm Guy Raz and you've been listening to How I Built This. Hey Prime members, you can listen to how I built This Early and ad free on Amazon Music. Download the Amazon music app today, or you can listen early and ad free with Wondery Plus and Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built this merch and gear@wonderyshop.com. Before you go, tell us about yourself by completing a short survey at wondery.com/survey.
+
+7 (36m 60s):
+Hi, I'm Lindsay Graham, the host of Wonders Podcast, American Scandal. We bring to life some of the biggest controversies in US history. Presidential lies, environmental, disastrous corporate fraud. In our newest series, we look at the Kids for Cash Scandal, a story about corruption. Inside America's system of juvenile justice. In Northeastern Pennsylvania, residents had begun noticing an alarming trend. Children were being sent away to jail in high numbers and often for committing only minor offenses. The f b I began looking at two local judges and when the full picture emerged, it made national headlines. The judges were earning a fortune, carrying out a brazen criminal scheme, one that would shatter the lives of countless children and force a heated debate about punishment and America's criminal justice system.
+
+7 (37m 46s):
+Follow American's scandal. Wherever you get your podcasts, you can listen ad free on the Amazon Music or Wondery app.

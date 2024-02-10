@@ -1,0 +1,662 @@
+NPR Podcast (0s):
+What's happening with NPR podcasts, more shows, issues, ideas, stories, flavors, and personalities, and you can shake a stick out. Why are we whispering the more the world that you hear? The more you hear the world as it really is. So come experience more neighborhoods, identities, or species, more perspectives, NPR, podcasts, more voices, all ears. Find NPR wherever you get your podcasts.
+
+2 (30s):
+Hello everyone. Two quick important announcements. The first is how I built. This is always a free podcast on all podcast platforms. But if you want to hear it a week early in ad free, you can subscribe to Wondery plus for a small monthly fee where you'll get access to all of one reas, amazing podcasts. And if you do subscribe to one, plus you are also supporting this show. Second, I hope you've been enjoying all the new content. As you know, our team has been working double time to get you two new episodes a week, but this week, our amazing producers are taking a short break. So we're running an episode from our archives that you might not have heard.
+
+2 (1m 13s):
+It's a great story of a founder who wanted to make healthier baby food. And what she discovered was that the baby food industry was not as warm and fuzzy as she expected. Hope you enjoy.
+
+3 (1m 29s):
+We launched with, I mean, must be at least like a thousand demos.
+
+2 (1m 34s):
+You would go and demo Kia. What would you do? So
+
+3 (1m 36s):
+You have like a table and you put down as much as you can to make it look nice and warm and fuzzy. And I'm standing there with a happy baby t-shirt on. And you're trying to get people to sample these like yummy foods that I'm thinking. I'm so proud of this. This has taken years to make this, you know, and you're standing there waiting for someone to come and then barely anybody comes. And on the third time that I did a demo, I realized that this wasn't going to work.
+
+2 (2m 14s):
+Welcome to how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built. I'm guy Roz and on the show today, Shazi viscera decided to take on the big baby food companies and build a happy family. One of the best-selling organic baby food brands in America. One of the trickiest things about building a business around software or a product that you have to engineer and machine is that the barrier to entry is pretty high.
+
+2 (2m 55s):
+You usually need lots of money just to come up with a minimally viable product. It's why Toby Luca had to raise money just to build an early version of Shopify and why John Foley, he needed to find hundreds of thousands of dollars just to make a prototype of what would become the Peloton bike. But when it comes to food, much of that prototyping can be done without ever raising a dime. For example, Lara American, just chopped up dates and nuts and shaped them into bars, which eventually became Lara bars. Kathleen King of Tate's. Bakeshop baked her crispy chocolate chip cookies at home long before she launched a bakery and a brand that would go under CELTA mandolins for half a billion dollars.
+
+2 (3m 40s):
+It's a similar story with baby food. It's not that hard to make you puree. Some veggies are mashups of fruit and there you have it, babies dinner. And this is essentially what Shazi viscera did back in 2004 in her apartment in New York, except Shazi was experimenting with a potential business idea, an idea that started with pureed peas and mint, and eventually a bunch of home recipes that she turned into happy family organics, a brand that now sells around $200 million of baby food a year. But getting that brand off the ground took a long time and many moments when it could have collapsed.
+
+2 (4m 20s):
+For starters, her original idea was to make frozen cubes of baby food, except that idea never gained traction. That is until she made a pivotal change, a change that would turn her brand into a powerhouse. But of course, long before any of that happened, when Shazi was a kid, she literally grew up in a motel in Alabama. Her parents were Indian immigrants who first settled in Canada, where they ran a convenience store, but after saving up some money, they were able to move to the U S
+
+3 (4m 53s):
+And I remember I was three years old and my dad had this friend and he was in the motel business and in the south, in the Southeast. And there are a lot of Indians in motels in the Southeast. And this guy sold my parents, a motel outside of Birmingham, Alabama. We packed up all of our stuff. And then we moved down to Fultondale, Alabama, and lived in the motel. Wow.
+
+2 (5m 17s):
+Wow. Wait. So how do I mean, how did that idea even happen? I need your parents, they have a convenience store and I mean, it's fine, but they have this opportunity in their thinking. Yeah, let's do this. Let's go,
+
+3 (5m 29s):
+You know, they're inherently already. Risk-takers. I mean, both of them grew up completely with dirt floors under their feet. They had grit, you know what I mean? And you know, it, it's not like it's rocket science, it's a business like any other, and you wrap your head around it and you figure out what do we need to make this successful? Yeah. They didn't have experience, but I think like so many other things, you figure, figure it out as you go.
+
+2 (5m 56s):
+All right. So they have this opportunity to buy a motel. Was it expensive to buy motel?
+
+3 (6m 1s):
+I don't want to remember the exact number. I, I, I think it was $300,000. I think they had saved up a hundred thousand dollars after working in Canada for seven years. And I think they put that down and I think they bought it for 300 K.
+
+2 (6m 16s):
+So you're three years old. Is you your brother, your mom and your dad. And they just relocate to this town right outside of Birmingham, Alabama to basically take over a days in motel. And that's it. That's where you end up growing up. Tell me about, about that. I mean, so did you guys live in a, like, was it like an apartment behind the reception area where, where you guys live and then the motel was like in front? Like how did that work?
+
+3 (6m 47s):
+Yeah, so we list, it sounds so terrible, but it was actually really nice, but we lived in room 1 23 and 1 25. And they were, you know, it's like imagine stopping at a days, Inn somewhere as a motel and imagine getting two adjoining rooms. That was where we lived. And my brother and I kind of had fun. It was like, you know, someone might say, wow, you must be so poor. This must be so hard. I'm thinking we have 104 room house and, you know,
+
+2 (7m 18s):
+Swimming pool,
+
+3 (7m 19s):
+Huge swimming pool. I mean, at the time it was one of the biggest in Alabama outdoor. Wow. And if you think about it, if, if I ever wanted something to eat, there was a chef, his name was Randy Crowder and he would make me a burger and fries. And there was a
+
+2 (7m 34s):
+Bar, a restaurant and bar there's
+
+3 (7m 35s):
+A little restaurant. Oh yeah. And there was, and there was a bar and the woman's name was Sandy. And she made me my first Shirley temple. Wow.
+
+2 (7m 44s):
+And was the hotel business? I mean, I imagine it was, it was tough, right. Because there's like, you know, it's hard work for one thing. And another thing, like, it depends on guests staying at the hotel. Like you, you know, it's, it's a grind right. To, to make that work.
+
+3 (8m 5s):
+They figured it out. They made it work. I, it got some bulb billboards off of the highway and you know, it just like anything in life, you figure out the right price point to attract your customer, that you say, we have a great swimming pool, an HBO. I mean, these are, you know, early marketing lessons I suppose. And, and they made it work.
+
+2 (8m 25s):
+Shazia, I'm curious, like as a, as a kid, when you go to school, were you the only south Asian kid in your classes? In your school?
+
+3 (8m 35s):
+Yup, totally except, well, my brother, if he were in the same school at the same time, that'd be the other one.
+
+2 (8m 40s):
+And as a kid, did you feel different? Did you feel like you guys were different or?
+
+3 (8m 46s):
+Well, I, I have a lot of heart for Alabama. I have to say. And my experience was really unique. So my parents, you know, despite us living in a motel, they, that the most important thing for us was to get the very best education that was part of why they came to America. Right. And so for them, that meant private school. And so I first through third grade went to a private Catholic school and I was the only Indian girl in the class. And then after that we found another school and it was, it was a Baptist school. And so I definitely felt more different there because there that's, when I felt like, and I, I was told this all the time that because I was who I was and my family was who they were, we were clearly going to hell.
+
+3 (9m 39s):
+And you know, that our salvation would be if we were saved. Yeah. And I, and I really believed that for a while. And I would come home and question my parents saying, you know, we're really good people and you guys are so nice. Why would we go to hell? And I think in that environment, I felt definitely different, but I had friends, I was like a regular kid, you know, I couldn't invite people over to swim in the pool. We could have really good slumber parties, you know?
+
+2 (10m 11s):
+Yeah. You know, I'm wondering when you were, when you were a kid, when you were at school, did your parents like, you know, have had these sort of ambitions for you to, to, to get like a stable, safe job, like, like to become a lawyer or a doctor or to go into finance? Was that like, was that what they wanted for you?
+
+3 (10m 29s):
+Yeah. I mean, I think Indian parents, doctors usually number one, and then, you know, when you have to go to Harvard. So when I went to Columbia, it was sort of like for my mom, it was like, well, why not Harvard? But the funny thing about them is that, of course they wanted me to have every opportunity and they wanted me to do what in their mind was the traditional version of success. But the way that they lived and the ethos that they had showed me, something very different. They always talked about how meaningful and how proud they were to be owners and to be the ones who are their own boss.
+
+3 (11m 11s):
+I'm in granted, they're working all the time, but they're working for themselves. They're working for us, not for someone else. And I had never let that go.
+
+2 (11m 20s):
+So you go off to college and what did you, what did you think you wanted to do there?
+
+3 (11m 26s):
+I want it to be an artist. I went to Columbia. I was excited cause I wanted to be in New York city. And so in while I was in high school, I painted and my undergrad degree was in visual arts and I, and I did a double major in history, but yeah, I want, I just wanted to paint pictures
+
+2 (11m 43s):
+And was business even like part of your thought process at all when you were, when you're in college,
+
+3 (11m 50s):
+Never, you know, if you think about it, like what I'd witnessed kind of lived through. I had not a disdain for it, but I was just like, I don't want to be a slave to the way that they were just always on. And I saw them with the grind and it was, it's like never ending. And I didn't want that.
+
+2 (12m 8s):
+Yeah, because you saw your parents and you were like, this is not the life I want to do. So when you graduated, what did you, what'd you go work?
+
+3 (12m 16s):
+So I got a job as the first interactive media buyer at what was then an, it might still be the largest independently owned agency for media buying. And
+
+2 (12m 31s):
+It's a company that like buys ads on behalf of clients or brands on like shows like ours or TV or whatever.
+
+3 (12m 40s):
+Exactly. And it was fun. I mean, I learned a lot and it was cool. I mean, it was literally, I think the agency that I worked in was the one that madman is kind of based off of loosely. And I think one of the things I learned is that I was good at it and I didn't, you know, like I didn't want to be so good at business, but I'm kind of good at it. You know, I was on a good track for success there, but I just didn't feel good about working so hard for someone else whose values I didn't truly identify with. And when I say that thing about mad men, think about what that means. Like, why am I killing myself to make someone else so much money that they then gift their, their admin who's about to become their wife a Porsche.
+
+3 (13m 24s):
+It just, it didn't feel right.
+
+2 (13m 26s):
+I mean, this is a story of so many junior people at like consulting firms or law firms or finance firms, which is like, they're the cogs grinding away, making all this money for the partners and the stakeholders.
+
+3 (13m 39s):
+Yeah. And using your, like your God-given incredible talent to create abundance. But then for the wrong reasons, it's not up to you where the money goes. Right. And I kind of grew up seeing that when you work for yourself, you're in control and your values are the ones that you bring to the table because you're the one doing the directing. And I, I felt, yeah, it just, I felt like I had to do something else.
+
+2 (14m 6s):
+So I read that after you laughed, you, you kind of ran your own like marketing business for a while. And then I guess at a certain point you decided to, to enroll in business school,
+
+3 (14m 20s):
+You know, I decided to go to business school because I realized that I needed more tools in my toolbox so that if I had the idea to do something big, like I could do it big. And I was totally terrified of going to business school. I mean, I didn't think, and I didn't, you know, I didn't fit in, I was the black sheep of the business school and it's not like I was alone and everyone hated me or anything. I just didn't. I felt like I felt kind of sad because I felt like a lot of the students, and this is totally different now what brought them, there was different than what brought me to business school and I expected and wanted to meet more people that were similar minded to me.
+
+3 (15m 4s):
+And that at that time, in that era pre that sort of 2008 humbling of the economy, there was a lot of hubris in that environment.
+
+2 (15m 16s):
+And, and, and then why you were there at Columbia, you kind of, I guess you kind of stumbled on this idea for what would eventually become happy family. How did that happen?
+
+3 (15m 27s):
+What happened actually was, it was like the time that people started talking about the new green economy and there was, I think it was fortune or Forbes, but there was a story about like, you know, how this could be the business of the future that makes change is like going green. And that sounds so cliche right now. But remember this is like 20 years ago and right. I remember it was like within a day or two of reading that article, I ran into a friend of mine and I hadn't seen her in awhile. And she had had twin babies, which I still think it's a super human feat for anyone to have more than one baby at any given moment.
+
+3 (16m 10s):
+And she was telling me she's a bad mom because, you know, she didn't have the time to make all of their food fresh from ingredients. She got at the local farmer's market. And I, I never liked to see my friends upset and borate themselves. And this is someone I really cared for. And I'm like, I haven't seen her in a really long time. You just had twins. It's amazing. And you're not a bad mom from feeding them, baby food out of a jar. And then it was like, all of a sudden I was like, oh, well there's gotta be something better. There's not, oh, well then I'm going to make something better because if I can make something better, it all came together. For me, it wasn't just like selling a product.
+
+3 (16m 51s):
+It was contributing to what looked like was going to be the movement of the future towards creating abundance in a way that felt right. And it just kind of came together where it was like, you know, I have to do this.
+
+2 (17m 4s):
+Wait, I'm just, this is like, this is the summer of 2003. Yep. And in that moment, at that lunch, you thought, Hey, I could maybe tinker around with this idea or, or, or was it just a, a seed that was planted in your head that kind of just sat there and germinated over time?
+
+3 (17m 24s):
+Well, I asked her, you know, what's, what's the best? Like why, why are you feeling guilty about buying something? Like, isn't it good? And she's like, no, it's gross comes in a jar and you smells. And it just, doesn't like, it's not fresh. And I thought, wow, you know, this shouldn't be one thing that you stress out about. There should be something that makes you feel good about how you feed your children. And then that, then I started looking into it.
+
+2 (17m 49s):
+So you thought, all right, so you leave that lunch and you, the sort of the gears in your head are turning and you're like, okay, let me, let me look into it. And what did you find was what, what was on the market in 2003?
+
+3 (18m 1s):
+Yeah. So what I found was so interesting that baby food as a category was created in around the 1930s. Okay. And the category was created to be this new market for convenient and cheap product that was consistent. And that, you know, started in the thirties with kind of the two mega giants Beech-Nut and Gerber.
+
+2 (18m 30s):
+And the Gerber baby became like an iconic baby. Right.
+
+3 (18m 34s):
+You know, but that didn't meet the needs of my friend. She wants something fresh and premium and alive and, and she wanted something that was going to contribute to their health. And that tasted good.
+
+2 (18m 47s):
+But in 2003, like presumably Gerber and Beech-Nut were like the Coke and Pepsi of baby food. But there, there weren't a whole lot of, you know, if you think about Coke and Pepsi, you also have like, you know, a thousand other great beverages out there that you can sort of check out and organic and kombucha is and whatever whatever's out there, like you go to whole foods and there's just like endless shelves of cool, interesting drinks. Was it mainly Gerber? And Beech-Nut in 2003, when it came to baby food,
+
+3 (19m 13s):
+There was a smaller Ganek player called Earth's best. Right. And there were certainly were little players. There was another one I remember looking at. And then there were innovations from around the world. I started seeing, like there were some fresh and frozen options in the UK. I mean, I went and visited. I tried to learn as much as I could about what was
+
+2 (19m 33s):
+Going on in the UK.
+
+3 (19m 34s):
+Oh yeah, absolutely. Yeah.
+
+2 (19m 36s):
+Like, wait, while you were a business school student, you flew out to the UK to just buy baby
+
+3 (19m 41s):
+And, and met these two women who started a frozen baby food company. And I was, the more I looked into it, see, this is what really drove me. It was like, I actually saw this whole company is an opportunity to change children's health for the better I really did. I thought, I thought, well, if we're starting ourselves off on processed foods, and then we're hooked on processed foods, and then we eat the standard American diet, then we get sick and we get sick because we don't have this like health blueprint that could be based on a more natural way of living.
+
+2 (20m 19s):
+So, so you really start to research this in earnest, you go to the UK, you check out the baby foods and you start your second year at Columbia with this idea to pursue this thing.
+
+3 (20m 30s):
+Oh, I, that was all I lived for. Wow. After that point, I just became the baby food girl and I did a little polling, you know, and this was, I think 230 parents, more than 70% of them. Didn't like the taste of jarred baby food of the, of that 70%, 12% had made their own homemade or tried to have that 12%. I think it was only like 4% continued to do so.
+
+2 (20m 59s):
+Cause a lot of
+
+3 (20m 60s):
+Work. Yeah. And I'm thinking let's come up with something that answers this need putting some chart, chart, lamb, some kale and white beans in a puree feels so special. I'm like, let's make these special I'm in, who's putting keenwah in baby food. Yeah.
+
+2 (21m 18s):
+Just out of curiosity, Shazi, I mean, you're obviously super smart and like very resourceful. And you kind of learned a lot about this industry, but food is, especially when you're talking about babies, who like that is, that's just crazy scary because you know, you, you like, you need food scientists who understand pH levels and, and dad and shelf life and spoil edge and all this stuff. Like I'm, I'm assuming that you weren't quite there just yet. You're still making it your Cuisinart and just testing it with you and some friends and just right. Or, or, or did you start to talk to food scientists already? At that point
+
+3 (21m 57s):
+I was doing both. I was trying to make something that I could be proud of. And then I was trying to think, well, how do you scale this and make it commercial? And you can't, here's the thing which you're totally right about. I mean, most of the people, I mean, 99.8, 5% of the people were just like, you are absolutely crazy. I will not touch that business with a 10 foot pole. No one is ever going to manufacture that for you. This is a hazard just from the get-go and you know, don't touch, don't try to touch this industry and don't try to wake a sleeping giant. And I was like, you know, I, I just started talking to people. I called the organic trade association. I started calling trade associations, started going to trade shows.
+
+3 (22m 40s):
+I met like, like all, so many special people that some that you've even interviewed that I'm just so like humbled by like, I called them, like I called cold Seth, Goldman
+
+2 (22m 51s):
+Of honesty, founder of honesty. And in 2004, by the way, he was not crushing it yet. Right. Like his company was still, he was still building it, but, but he was already a known entity because honesty was this kind of cool story. And, and you'd call them for advice, I guess. Right.
+
+3 (23m 8s):
+Yeah. I kept putting myself in these positions to like meet people and learn, because I didn't know anything about the food industry. Right.
+
+2 (23m 15s):
+So your prototypes, where were you making them?
+
+3 (23m 17s):
+Oh, those were like in my kitchen, I used to have these little containers and I would make, I would make all the flavors that I thought we would one day launch
+
+2 (23m 28s):
+And you're turning them into ice cubes. Right.
+
+3 (23m 30s):
+We fill it a little, like think of like a, yeah, like a little ice cube tray and you pop out what you need and, and, you know, freezing is sort of nature's best preservative.
+
+2 (23m 41s):
+And I'm just curious about recipes. How did you know what recipes to make?
+
+3 (23m 46s):
+And I did a lot of research. I talked to so many nutritionists. I have a lot of friends, you know, and I found myself excited to just always be kind of trying new things and coming up with cute names. We had one with beets and carrots called it, be the carotene and the peas were a nice one and there was so bright green, but I felt like they needed something. And so it would make this like really nice mint tea and steamed the peas with the mint and that, you know, I, I don't know, you play with it and you learn it's fun.
+
+2 (24m 19s):
+So you, it was like, it was like a couple of you would do like 2, 3, 4 thing ingredients in there, not too many vegetables and fruits.
+
+3 (24m 26s):
+Well, there was one inspired by my mom called baby doll. And that was, that had some more spice and some flavor in it.
+
+2 (24m 34s):
+Yellow peas or,
+
+3 (24m 36s):
+Yeah, it was lentils, French lentils and potatoes carrots. And we use coriander and a touch, a cumin and just a hint of cinnamon and all of those things had, you know, like everything had a reason. It wasn't just, yeah. I mean, it was like, if you only had good stuff under the kitchen sink and you throw everything in the kitchen sink, it would S it would be good. Cause you started with good stuff. It was kind of like that, just, you know, so many different fun combinations that felt right and sounded good and tasted good.
+
+2 (25m 4s):
+I mean, at this point it was still just you, right? I mean, cause you keep saying we, but I think you're, you are in your kitchen doing this by yourself.
+
+3 (25m 12s):
+Yeah, no, at that point it was just me. And then I had a lot of friends who knew what I was doing. I had like, almost like a support group.
+
+2 (25m 20s):
+That's it? You would just, and you were talking about this all the time and at what point did you, did you come up with the name happy baby?
+
+3 (25m 27s):
+Well, it was called fresh start organics. That was the name I wanted was fresh started organics. Yeah. And actually it turned out when I went to finally get to the trademarking, that fresh start was taken by a woman in California who was going to do fresh, frozen, organic baby food, which never ended up launching, but even still, we had to come up with options. And so I remember having these little boards and we, we, there was a naming shop where were they from Minnesota. And they came up with a number of options and there were like twinkle and Google Gaga and funny names. And one of the names they came up with was happy, baby.
+
+3 (26m 10s):
+And I was like, at first I didn't actually see it. I was pro the one I wanted to go with was nurture, nurture me and our incorporation nameless nurture, Inc. And then finally I started seeing happy baby and happy and like, like pairing the emotion with health. And now it's just like, who in the world doesn't want a happy baby. That's everything.
+
+2 (26m 33s):
+All right. So you've got a name. You you've got this concept of like frozen baby food. Now you need money or do you go?
+
+3 (26m 41s):
+I mean, I, I tried everything. I was, so I wanted raise like half a million dollars, which to me was like the current equivalent of maybe a trillion dollars.
+
+2 (26m 51s):
+And that would be enough to get the first like production up and running and to maybe get some distribution. Like that would be enough to give you like a year or two of runway maybe.
+
+3 (27m 0s):
+Yeah. The original plan was to launch in a few stores in New York, you know, find a manufacturing facility to make it, you know, put together a best in class advisory board, microbiologists, nutritionist, pediatricians, like the whole, you know, build out a team and have, have people to help. Cause you just, nobody does any of this stuff by themselves. And I almost made the worst mistake of my life. I almost took half a million dollars from a VC group because I was, I felt so alone, you know, and I felt so broke and I felt like a disappointment to my family that I here, I was went to Columbia business school.
+
+3 (27m 45s):
+I never recruited for anything. You know, everybody else is like, you know, talking about their job at Morgan or whatever. And I, you know, like some of them, you know, some of my friends would be like, we're going out for sushi. I mean, I could never go.
+
+2 (27m 57s):
+And meanwhile, your mom and dad are like, so what are you going to do? And how's this baby food going and, you know, whatever.
+
+3 (28m 5s):
+And I, and I didn't want to ask them for money, you know? Yeah, sure. Because I just didn't feel, feel comfortable. And it was kind of like when I wanted to be an artist, I didn't want to ask them to support me so I could paint pictures in New York city. It just didn't feel honorable and right. And, and so I got a job and then this time, you know, I found someone and I thought, okay, this is it. I'm gonna, I'm gonna raise this
+
+2 (28m 30s):
+Money from the VC firm.
+
+3 (28m 32s):
+Yeah. And I'm thinking the terms were so bad when they finally gave me the term sheet that I shared it with a few different advisors and everyone was like, Shazi, you can't take that deal. You lose control. The second you start, you won't really own this thing. And you know, all the things that you want to do, you're jeopardizing them by bringing on a partner who you don't really know,
+
+2 (28m 57s):
+Just to clarify, when you, when, when you, cause you need money to start and they came or you impressed them. And they were like, sure, we'll give you half a million bucks, which can be really attractive because it's a shortcut. Then you'd have to go to a bunch of people and start asking for all this money. One, one VC firms going to give you all of your seed money. That's going to save you a lot of time and that's attractive. And a lot of people we've had them on the show. They take that deal. But the terms were, what do you remember what the terms were like, they would own more than half of it or what?
+
+3 (29m 29s):
+Yeah, it was, it was 70%. They would on 70% have every blocking. Right. Every, every, every right to, you know, and I, I was ready to sign on. And then one day, one day, one of them was just like, we love the name. Fair F a R E. And I'm like, I don't, I don't know. It doesn't like feel good and just kind of gross. And like, I was just, I was just, it's funny. That was like the day that I met my husband for our first internet date.
+
+2 (29m 59s):
+You met in the
+
+3 (29m 60s):
+Line. Yeah. We met on the internet and I, we were walking into this like little place in Soho and I meet Joe and he's this like cute puppy dog of a guy. And I'm just like, kind of tell this guy my whole, and then he's like not a business guy. And I remember part of the story is just the advice he gave me, which was like, don't do something that doesn't feel right. Like I don't have an MBA from Columbia or a degree from an Ivy league school to tell you that he's like a snowboarder yoga guy. I mean, and, but he was right. And I, I didn't take the deal.
+
+2 (30m 35s):
+Wow. So on this first date with this guy, who's now your husband and partner in life. He is like, this just doesn't sound right to me. And but, and, and you're like, yep. I think this is not right. I don't think I'm going to do this deal. Yeah.
+
+3 (30m 51s):
+I mean, see, it might be obvious to you or to someone else, but you know, when you're in the thick of it and you're stressed out, I'm here using your Amex to charge peanut butter. I would eat peanut butter in my apartment, in Brooklyn with a chopstick to make it last longer. Like who does that?
+
+2 (31m 7s):
+Yeah. So you tell this VC firm, I'm not gonna take your money. And, but that means you now have to find the $500,000 because this is the number in your head. So where do you go? Who do you, how do you start to get that money?
+
+3 (31m 23s):
+It was hearing no a million times. I could probably still remember the original investor roster. I think it was 36 people for $550,000. And Seth Goldman of honesty was $2,500.
+
+2 (31m 35s):
+Goldman, a boss. He gave you $2,500,
+
+3 (31m 37s):
+2,500. He was going to originally, he was going to give us $5,000. But then he told me that his wife really needed a new oven that year. And it was going to end up, he was going to have to cut it down to $2,500.
+
+2 (31m 50s):
+It's Alvin cost, $2,500. By the way, how long did it take you to, to cobble together? The $500,000
+
+3 (31m 58s):
+It took like at least six months. And then as soon as I raised that money, I started raising the next million. Like, because we were like on the verge of spending it all, you know, it's just, it's like a, it was a churn.
+
+2 (32m 10s):
+The thing is, is that the, in some ways the seed round is the most stressful because you're raising money from people, you know? Right. Like family and friends and like, it's their money. But at the same time, like they're also the people who want to help. Right. So, I mean, did you find that it was challenging getting that initial 500,000 were most people like, you know, Shazzie, I believe in you, I've known you for a while and, and here you go, here's beers 5,000 bucks or here's, you know, 2,500 bucks or here's 10,000 bucks.
+
+3 (32m 40s):
+Oh my God. It was super challenging. The ones who like you, who don't really want to invest, have a hard time being straightforward sometime. And so then you're like circling back and circling back and following up, you know, it's, it was really hard and yeah, some people believed in me, but like, I didn't have a track record, you know, and I've never done this before. I didn't know anything about the food industry. And I think the people who invested, first of all, there's so much extra pressure when it's people, you know, and my mom actually to go back to the banning, she was the first person who put the money in, like I knew the value of my mom's money.
+
+3 (33m 23s):
+And, you know, I knew she was like making a margin, selling Snickers bars to give me that money. Yeah. And that had a tremendous amount of pressure. And then there were people who invested because they really believed in the vision and the mission and felt like it was right and felt like I, you know, I was going to do my very best or die trying
+
+2 (33m 51s):
+When we come back in just a moment, has Shazi took that startup cash and created her first products. And what happened when those products totally bombed, stay with us, I'm guy Roz. And you're listening to how I built this. Hey, welcome back to how I built this I'm guy Roz. So it's the mid two thousands.
+
+2 (34m 31s):
+And Shazia was from, is working on a fresh frozen type of baby food and alternative to the jars Beech-Nut and Gerber that dominate the baby food aisle. But her idea, it's hard to pitch to investors because the Beech nuts and the Gerbers they're super inexpensive, often less than a dollar a jar.
+
+3 (34m 51s):
+My whole pitch was, look, I'm not trying to make something cheap. I'm trying to make something premium. That is truly like an alternative to homemade. And, you know, we might look at the baby food market, but then look at all the other stuff for baby, you can drop a thousand dollars on a crib right now, if you want, you can drop a thousand dollars on a, on a stroller. And yet at the time, parents didn't have a better option when it came from for food, which does actually impact your health. And so my whole thing was look, people will spend more and we will be able to have a healthy margin and to a retailer, this is an opportunity to make a healthy margin on something that was otherwise a loss leader.
+
+2 (35m 36s):
+All right. So you raise this and you need to start to make the product, right. But in the meantime you met somebody who, who becomes your sort of your co-founder Jessica, Ralph, who who's Jessica how'd, you meet her.
+
+3 (35m 49s):
+So, yeah, Jessica was my founding partner and she was our COO and she was working in Texas at whole foods, like onsite at whole foods, basically doing research for them. And we were connected through a mutual friend. And, you know, I said, well, look, if you want to be a part of this, come join me and help me.
+
+2 (36m 14s):
+Th that's a kind of a big risk, right? I mean, there are many stories like that that ended really badly. How did you know that this was the right decision?
+
+3 (36m 24s):
+I think I have pretty good gut for good people. You know, I talked to her and met her a number of times before I offered her a role, but she is just authentic and smart and really organized. She was a perfect person to be a COO, to like, you know, crazy kind of loud mouth visionary type person who had big ideas and big dreams. She, she was an executer and that's what a lot of us founders need some time as, you know, the right person to actually make it happen.
+
+2 (36m 57s):
+All right. So you've raised this seed money. You've got a, a partner and Jessica. And how did you find the place to make the baby food? Was it in New York? I mean, I guess would have to be right because you were living in New York.
+
+3 (37m 11s):
+Yeah, actually the, there was a man I'd met who had a little manufacturing facility outside of Boston and he was making kids' foods. I remember calling him and I said, Steve, can you just, do you think it would be okay? We could just do a pilot run. Cause I really just, I want to launch from a professional facility. And he said, yes. And Jessica was there and we were jumping up and down, you know? And we, you drive up. And because my parents had a days in, we had these days in employee, employee discount coupons, they were like literal physical yellow coupons. And you could get a days in room for $25 a night.
+
+3 (37m 51s):
+So like Jessica and I would share a room at the day's end Danvers, which was near the facility and we'd literally go and like make the baby food and the plant and their plant. And we initially used like a pastry Beyster pastry bag type of thing to fill
+
+2 (38m 11s):
+Cures.
+
+3 (38m 12s):
+We had this little, we made a mold, we made a tray of that, looked like an ice cube kind of tray. And we would fill, you know, it was kind of like Laverne and Shirley, like I would do the peas and she would do the carrots.
+
+2 (38m 25s):
+So you guys were making, you guys are doing the labor. You didn't just outsource it to them and have them do it. Like you had to do it. There
+
+3 (38m 30s):
+Were people around to help, but like we were doing
+
+2 (38m 32s):
+It, but this is like by hand a giant like pastry bag that you're just squeezing into the things. And, and then the other question is where did you get all like the vegetables and the, you know, the peas and all that stuff were, where did you source that from?
+
+3 (38m 44s):
+Yeah, I mean, so it'd be like local organic produce that we would, you know, peel and chop up and steam and, you know, just literally just like, if you were making it homemade, that's the way we were doing it.
+
+2 (38m 55s):
+It was a commercial kitchen. And you just use like their giant, whatever pots and Demers and whatever to, to make the first run.
+
+3 (39m 4s):
+Exactly. Yeah. There's massive. You know, it's like, it looks like a, like a giant head of Queens and art. They had one of those and they had this blast freezer. I remember being in that blast freezer and being like so cold. Yeah.
+
+2 (39m 18s):
+And the ice trays of the baby food. Did you put that in like a cardboard box or, or was it like a, like a little plastic sealed plastic thing around it with your name on it? Like happy baby on it? What did you how'd you package it?
+
+3 (39m 32s):
+Yeah. So there's an ice cube tray and then like a thin sort of plastic film over it that was like kind of heat sealed on. And then yeah, there were, it came in a little cardboard, outer shipper and it said happy baby. And there was pictures of the, all of the fruits and vegetables, which I would take. So I had this little like white box and I would take all the fruits and vegetables and photograph them. And then we had a contest for all of the different babies to be on the front of the happy baby box. And that was it. It was really fun to name the winners because they all of course became like huge fans of happy baby. So at least we had like seven consumers in the beginning. Cause we had, one of them was my nephew, but yeah.
+
+3 (40m 12s):
+And, and it just, it looked like this fun, beautiful, different thing in the freezer with a bunch of babies on the front of the box, smiling at you as you walk past the freezer.
+
+2 (40m 23s):
+But once you pack this first run, how did you, where did, where did you sell them? I mean, you had to sell them at a store. So what store who sold it?
+
+3 (40m 34s):
+So we launched with in New York city in five gourmet garage stores. The gourmet garage is my first of, I mean, must be at least like a thousand demos.
+
+2 (40m 45s):
+And assuming you would, you're doing these in the, in like the frozen food aisle, right? I mean it's is that as it Howard?
+
+3 (40m 51s):
+Yeah. So you have like a table and, and you put down as much as you can to make it look nice and warm and fuzzy. And I'm standing there with a happy baby t-shirt on. And, and my gloves, you know, and you, and you're trying to get people to sample what looks like warm, fresh, really, really high, like beautiful colors of these like yummy foods that I'm thinking. I'm so proud of this. This has taken years to make this, you know, and you're standing there by the freezer waiting for someone to come and then it's like, barely anybody comes. And then you're waiting for, you're waiting for a mom, a bat in
+
+2 (41m 33s):
+Your life. You're like, oh, mom, baby, come in. And they might just pass you by like, I'm sorry. I'm just really busy.
+
+3 (41m 39s):
+Yeah. I mean, imagine like, I don't want to try that or Ooh, baby food. A lot of people were like, Ooh, I don't want it to sample baby food. And I'm like, well, why don't you want to sample it? It's amazing. It's so look at this. It's incredible. It's delicious. I, I live for literally, I live for this, but that's not, that's not how you convince a consumer to buy something. And I'm thinking like, I have this big dream to change the way children are fed in this country. And it is not going to happen if I keep standing where I am standing right now.
+
+2 (42m 11s):
+But I understand why, why are people buying them? I mean, it's a great idea. You're demoing it. You've got this cool concept. Why weren't people buying the frozen baby food?
+
+3 (42m 22s):
+Because it wasn't that some people weren't buying it. There were just a few people who were buying it. Right. But they were buying it as an alternative to homemade. They were not what I needed was the alternative to the jar. And that's how you move markets and it wasn't gonna be.
+
+2 (42m 42s):
+And also, I guess our habit is to go to that one aisle where all the jars are like, we don't, it's hard to change human habits, right. And people were not used to going to the freezer aisle for baby food.
+
+3 (42m 54s):
+I mean, one of the hardest things to do is to change human behavior. And what I realized is you have to work with the existing human behavior and make small steps to change. I realized that like my whole dream of creating, you know, this sort of like enlightened alternative to that jar, that alternative was not frozen baby food.
+
+2 (43m 17s):
+Just to get a sense, like in the first year of the company, do you remember how, what your revenue was
+
+3 (43m 24s):
+$116,000, which was far from what I thought we would be on track for?
+
+2 (43m 32s):
+So $116,000 is revenue, but obviously you've got all the costs of the produce. You got to buy the packaging and the distribution, like you probably were losing money, right? You were you're, you're eating into your 500,000 seed money pretty quickly.
+
+3 (43m 50s):
+Our revenue was certainly not covering our costs, our operating costs.
+
+2 (43m 56s):
+Yeah. I mean, this sounds like he realizes pretty quickly, like within, within the first year of launching the company, did you continue to make the ice cubes in, in, you know, year two, year three? Cause this is like 2006, 2007. Is that what happy baby was still in those years?
+
+3 (44m 15s):
+Yeah. So in 2006, when we launched, we had five skews, 10 flavors of frozen organic baby meals. And I think probably guy within and here, I'm talking about something that took me almost two years and change to get on shelf, get produced professionally, have the right, you know, quality control scientists, microbiologists, everybody working together to make this product probably on the third time that I did a demo. Did I realize that this wasn't going to work,
+
+2 (44m 51s):
+But you still have to make it. And you saw the sell it.
+
+3 (44m 53s):
+Yep. And what I realized, Hey, Shazi, you're being a dummy, frozen, this is a beautiful product, but it's the alternative to homemade baby food. This is not how you're going to change the way children are fed in our country. You got to do that in the baby aisle where moms are shopping and dads are shopping.
+
+2 (45m 10s):
+So did you start to think, okay, I better just make shelf stable, baby food in jars, like Beech-Nut and Gerber.
+
+3 (45m 17s):
+No, no. What I thought was let's look at the set and let's enlighten it. And the first innovation actually was let's look, let's see what's there. And how can we bring something meaningful to the table? And it was funny. I was having, we had a trade show. We were sampling the frozen baby food. Cause to the external world, you don't tell them you're giving up on something. You're still selling it in and trying to build a brand, you know? But in your heart you just know like, it's just like, you know, this is not going to be the, the thing, but you got to keep it going.
+
+2 (45m 49s):
+I'm really interested in this because there's a lot of times where you see somebody, a politician or a business leader is very optimistic. You know, a politician is a good example, their poll numbers suck, but they're like, we're going to win the white house, your sales socked. And you still had to sell this product and be optimistic and represented
+
+3 (46m 6s):
+Always. And it was, this is, you know, this is part of the solution. We're playing a long game here. We're changing consumer behavior that doesn't happen overnight. You know, believe in me by a sometime we're going to support this. We're going to promote it. I'm in the sales were terrible. And every time we made a batch, we would lose money on it, you know, and we had to keep selling it in to keep staying alive. Cause you can't just like launch and then go away and then come back two years later and we're on a mission. Don't give up on my mission. But it was hard
+
+2 (46m 41s):
+When we come back in just a moment, how Shazi discovers a much smarter way to package our product and then gets it featured in a Superbowl app without having to pay a penny for it, stay with us. I'm guy Roz. And you're listening to how I built this. Hey, welcome back to how I built this I'm guy Roz. So it's 2007 and Shazi viscera has hit a wall, her frozen cubes, a pureed fruits and veggies aren't selling, but she's not ready to give up on the baby food business just yet.
+
+2 (47m 26s):
+So she's desperately looking for an idea that will stick.
+
+3 (47m 31s):
+I mean, we looked everywhere and the first, the first space to innovate where I really saw something was with cereal. So we launched the first ever baby food in the world that had probiotics. And I believe very strongly and establishing strong gut health, you know, from the very beginning of life. And why can't we introduce them into a first food? That's a weaning food typically off of breast milk or formula. So we still have, so the baby still has probiotics. That was just a moment. And that became happy bellies. And that cereal was like a huge success. I mean, to quantify huge.
+
+3 (48m 12s):
+And it was, it took us from, you know, we did 115 hundred and 16,000, the first year, 520,000, the second year, still on frozen baby food. The next year we launched the cereal and we're able to get so much more distribution cause we weren't struggling for space in the freezer. And we went to 2.1 million.
+
+2 (48m 33s):
+So this is, this is like rice cereal like that you make with water.
+
+3 (48m 36s):
+Well, so we had three, so we had a multi-grain with amaranth and keenwah we had a rice brown rice and we had an oatmeal and we could also, you know, show, show people how you could mix them with the cubes of frozen to make a yummy breakfast or a meal. And it started beginning of platform, absolutely saved her Heights. Wow.
+
+2 (48m 59s):
+But you're still not able to kind of crack that market with the frozen baby food. So are you still obsessing about how to solve that problem? At this point?
+
+3 (49m 8s):
+I was, I was never not thinking about what, what is, what is the actual alternative to the jar? And then one day I saw it
+
+2 (49m 18s):
+One day you saw what
+
+3 (49m 19s):
+I saw a pouch of a sauce at a trade show and Melbourne Australia. And then I started seeing, yeah. And then I started seeing kids applesauce in this pouch
+
+2 (49m 33s):
+And Weezie sauce.
+
+3 (49m 35s):
+It was yeah. And it was from, it was from Europe and it was like the very first, there were these pouches that had this terror, terror strip. And we looked into that and we launched initially with both kinds of pouches, a tear strip for more chunky meals and a pouch that had a spout where the, the beauty of it, this is this product, this package enabled to change consumer behavior in a way that gave them a more premium product with fruits and vegetables and a lot of vegetables actually, but made it easier rather than harder. I mean, it was like, you know, it was like the epitome of the light bulb moment where we've been in this game for a few years now and you see something and you're like, that's what I've been looking for all along.
+
+3 (50m 24s):
+And that is it. That is the alternative to the jar
+
+2 (50m 26s):
+Because you wouldn't need to, it, you could put it on the shelf next to Gerber and whatever. Right. And it's convenient, it's a pouch
+
+3 (50m 35s):
+And it tasted better and it, it felt better. You could take feel the fiber in the food, like the technology allowed for such a different process.
+
+2 (50m 43s):
+All right. So you've got this idea for pouches, but so where did you source them from and what factories were we're going to be able to because you were using like pastry bags to fill ice cube trays. And I guess he got a little more sophisticated, but what, what factories or companies, or, or, you know, plants in the U S could have fill pouches with your baby food.
+
+3 (51m 5s):
+There were two options in the United States and one in Canada. And when you notice something that's disruptive and groundbreaking in the market, your competitors notice it too.
+
+2 (51m 17s):
+Sure.
+
+3 (51m 18s):
+And if you don't have cash to compete with someone else asking for that line time, and these facilities that have this very precious and very highly sought after commodity commodity of a technology, then, you know, that's when it gets like really challenging. And so we lived through that too, because you're scrappy and bootstrap the way we were, that was like actually the big thing. It was like, it was so crazy because I'm sitting here thinking, I finally found, found the solution that will make this business, the business in my dreams. And then you're like, oh my God, I have this huge challenge as a result of that solution. That makes me feel like this is nearly impossible right now.
+
+3 (51m 59s):
+And there is, I mean the world of baby food sounds sweet, but it's actually like a dog eat dog. It was, it was like a dog eat dog world of, of competition. And back then when you're fighting for shelf space. And if you think about it, like go to going to a retailer and showing them this whole full lineup of maybe 20 skews to, to have that platform. I mean, this was like, it was like the stuff of dreams, but you had to be the first one to get there.
+
+2 (52m 27s):
+And were you the first one to get there? Or were there others who snuck in before you?
+
+3 (52m 32s):
+Well, okay. So we were the first brand of baby food and pouches and whole foods and target. Wow. And, and those, those two accounts were really meaningful for our whole, our whole business moving forward.
+
+2 (52m 45s):
+How did you get into target?
+
+3 (52m 49s):
+He got into target with frozen baby food. Jessica and I would walk around a store, oh, was 12 target stores that we were in for the test. We will walk around the store with a free trial coupon and a box of frozen baby food. And regardless of how terrible our turns were, they kept us in. And I'm very proud to tell you that happy is the biggest or biggest brand in target in baby. And it started in 12 stores, literally walking around and giving it away for free.
+
+2 (53m 16s):
+But how did you, I mean, how did, how were you able to fund that? Was it hard to fund that, that growth? Because I mean, I've read that you basically were like, I'm just not going to go to private equity or venture capital. I'm going to raise this money pretty much from individual investors or, you know, I'm going to borrow it. That's harder to do in some ways, how were you able to raise the money fast enough to fund the production?
+
+3 (53m 43s):
+I never saw, I never took a penny from any institutional shareholders that time in our life. That was really hard for me because I, up until that moment, we didn't have this like breakthrough hit and I was ready to do whatever it took to make sure we had the financing we needed to grow the business. And I started talking to private equity funds and I had a few options and I was scared, but I, you know, like you, it's one thing to cobble together $550,000 from 36 people. It's another thing to raise $8 million in one shot. And that's where I was. That's what I was looking at. And actually what happened is, you know, my son was just born.
+
+3 (54m 27s):
+I got an inbound email that said we're doing an online. It was going to be an online documentary actually for American express. And we want to, we want to tell the story of happy, baby. We've heard about your company.
+
+2 (54m 41s):
+How did it was just a, just a random solicit, like an email from someone at Amex. Who've just,
+
+3 (54m 47s):
+Well, it wasn't totally random. It wasn't totally random. So the real story is in 2009, there was a competition called shine, a light and shine. A light was a competition between American express and NBC to shine a light on inspiring new businesses that were actually making it in America. And you had to submit this very long form and, you know, talk about why your business could be, could be one of these. Yeah, we didn't win. We were actually the second, we were the runner up to the most inspiring business in the country. And then what happened was about a year later American express was doing another campaign. And I had no idea when they called it was an inbound email.
+
+3 (55m 29s):
+I didn't even know it was related. I finally said, well, we heard about you through shine a light. Well, we're just doing an online documentary. Can we follow you around for four days? Of course. So that they filmed this, this for four days. This is, it's all kind of culminating, you know? So I, I just had my baby and he's in the video and it's very sweet is the happiest baby, honestly. So it was just beautiful to see that journey kind of documented. And you know, we've been like working hard and then restorative seeing some success it's not big, but like the, like it's coming and the pouches are coming and we know that something is about to happen and then Amex emails and they say, we need you to come in for voiceover work for the commercial.
+
+3 (56m 13s):
+And I'm like, what do you mean commercial? I thought it was an online documentary. Oh no, it's a commercial. It's the centerpiece of a campaign we're putting $50 million of media behind your commercial.
+
+2 (56m 21s):
+Wow. So, so for, I mean, this was going to be a massive ad campaign that you didn't even have to pay for having, there was no marketing dollars you had to put behind it. You were also all of a sudden going to your name and your brand. We're going to reach millions of people.
+
+3 (56m 39s):
+The guy, they played it before, you know, like on the golden gloves when they show you what, like the, save it for the end. What's the best movie. Our commercial played before that they played it on the Superbowl pregame. Wow. And all I had to do was take that email from Amex and email it around and I raise $8 million in three weeks. Wow. Yeah.
+
+2 (57m 1s):
+Yeah. I mean, what happened to sales? I mean, if all of a sudden millions of people are exposed to your brand and products
+
+3 (57m 10s):
+That year was 39 million. Why
+
+2 (57m 12s):
+Did, did, how did you make enough products to fulfill all that demand?
+
+3 (57m 17s):
+God knows it was hard. 39 million went from 13 million to 39 million, like practically overnight when we had a hundred and some skews. So we had, you know, at this point we were building a real platform for nutrition, for, you know, the, the first three years of life,
+
+2 (57m 34s):
+A hundred different products. So like the pouches and the cereals and the
+
+3 (57m 39s):
+Puffs and the yogis and yeah.
+
+2 (57m 42s):
+All right. So here's now here's the crazy thing. You hit $63 million in rev dollars in revenue in 2012, a company that did $115,000, just a few years earlier, selling frozen ice cubes of baby food that you were co-packing, you're making it a co-packing facility. You're doing $63 million. You far are presumably exceeding your, even your own business plans and projections and 2013, you sell 92% of the company to denim, which makes yogurts and is a huge French conglomerate owns a lot of food companies. Why, what was the thinking behind it?
+
+2 (58m 23s):
+What, what was the advantage? I mean, obviously you're going to get paid a lot of money, but, but you were already doing so well. What, why did you sell it at that point?
+
+3 (58m 32s):
+I was really, really nervous. I was nervous about the future of the business because I saw the potential of it being the biggest baby food brand in the world. And I really felt like we are a, an unchartered territory B it's not like you don't know what your competitors are doing. I knew both of, both of our bigger competitors had hired bankers and were selling their companies.
+
+2 (58m 58s):
+This was like plum organics. And
+
+3 (59m 0s):
+There was another one called Ellis.
+
+2 (59m 2s):
+And you knew if they had the backing of those big companies, they could potentially crush you, right. With, with all those ad marketing dollars and R and D and the distribution they had, like, if they wanted to, if you stayed independent, you might've gotten crushed.
+
+3 (59m 18s):
+We might've gotten crushed and everything. We worked so hard to build around that initial mission of actually changing the way children are fed. All of that could have been jeopardized. And then personally, I was just, I was in so much turmoil at home and I just felt like I needed, I needed another strategic partner.
+
+2 (59m 42s):
+What was going on at home?
+
+3 (59m 43s):
+Well, in April of 2012, my son who's, you know, so beautifully featured in the American express commercials was diagnosed with autism. And it was a state of, it was it's they call it regressive autism. So he hit every milestone, his first two years of life. And all of a sudden he was losing his milestones and losing his ability to communicate and point and talk and label things and, and make eye contact. And it was terrifying. And as a mom leading a business, that was what, the fastest growing food business for almost three years in a row.
+
+3 (1h 0m 26s):
+It was, you know, I just, I felt like I needed to take a step back and say what I need to focus on. Number one, the health of my child and my family. Yeah.
+
+2 (1h 0m 38s):
+So, so this, I mean, this is really important because right. We, we, we talk to founders about their businesses and, and, and, and growing it. And, and, and usually we do talk about personal life and that's much more important than the business, right? And then this case, you now know that you need to focus on primarily on your son and working with him and with people who could help him. And, and, and you, you were not able to do that in, in sort of the life you were living, I guess, is that, is it right?
+
+3 (1h 1m 19s):
+Hey man, it's right. You know, not just financially, but focus and attention wise, you know, it's like, there's so many special moments. Not that I was just missing as a mom, but that I needed to be a part of in order to help his healing. And that the thing was what my parents would have done for me is drop everything and focus on how to figure out the solution for, for me to have the best chance at life.
+
+2 (1h 1m 46s):
+I mean, the other thing is that in addition to, of course, getting more time with your son, I mean, I'm assuming that choosing to sell also gave you, you know, financial security, because I think a lot of people don't realize that even though the company was making, you know, $63 million in revenue at this point, I'm assuming you were not, you weren't making millions and millions of dollars. And by selling to denote, it was going to make you financially secure, which, which I imagine was attractive. That security was attractive.
+
+3 (1h 2m 18s):
+Alicia, especially when you feel like you need to find, you need something for your family and your children, I will, you know, I will kill for it and
+
+2 (1h 2m 28s):
+Master the walls. Yeah.
+
+3 (1h 2m 29s):
+I will do everything in my power and, and I'm a fighter and I don't, I don't quit. And in that, in that case, I felt like that was the right choice to give me some financial security to partner with summons that I could continue to build and have ownership, but not, not the majority of the burden. Yeah. And you know, not for nothing. Danone's been selling baby food for a hundred years. They were the second largest infant nutrition company in the world. And there were a lot of synergies that I could have imagined working with them to build this brand for the future and which we have, we have actually accomplished. Yeah.
+
+2 (1h 3m 5s):
+I mean, it's, it's interesting. We, we, didn't an episode with Tristan Walker who started bevel, personal grooming products for, for men of color. And then he expanded it and he sold it to Proctor and gamble. And now he works for Procter and gamble. And one of the arguments he made was like, look, to get this out to the world, we needed the marketing dollars, the R and D dollars, the distribution dollars that, that accompany like Procter and gamble has, was it the same within own, like with the known and their marketing budget and their, you know, huge R and D and, and their other brands was that in your mind, the way that you could, you could really scale happy baby, and, and, and family happy family, and turn it into the big, huge brand you wanted it to be.
+
+3 (1h 3m 50s):
+That was part of, that was part of what I had hoped. And if anything, I, I, wasn't so naive to think they were going to do very much, because, you know, when, when a big corporation buys a smaller brand, part of it is they want to retain your DNA. And what makes you uniquely, you know, like the, the mission of our brand and the beauty of our business is very attractive to a large organization because we help inspire them to make the changes that they inherently want to make, but have inherited so much else in their history. You know? And it's funny how it works out, but it's been, it's been a really pleasant two-way street and we've stayed very true to who we are. Yeah.
+
+3 (1h 4m 30s):
+For instance, I I've really believed strongly in the, you know, the movement around B corpse and happy has been a B Corp for many, many years. And Denon recently became, you know, the largest publicly traded B-Corp in the world. And I feel like happiest, been an inspiration in that process. And that's a way to make systemic change. I'm not saying everything is sunshine and rainbows. When you sell your company as a founder, it's hard. It's bittersweet. It's my baby, but it's not mine anymore.
+
+2 (1h 5m 3s):
+You stepped down as CEO in early 2018. Shazzie when you think about all that you achieved. And I mean, you know, just those, the pivots and the crazy moments and Amex and seeing the pouches, and then, you know, how much do you think this is? This all happened because of luck and how much, because you were just smart and you worked really hard.
+
+3 (1h 5m 27s):
+I don't see how you can answer that without saying both. You know, I think number one, I think I am the luckiest person I've ever met, but, you know, I think you make your own luck by showing up and fighting for what you believe in. But like I say, you, you can't win the lottery unless you buy a ticket. So I think it's both,
+
+2 (1h 5m 46s):
+If you, I mean, I mean, if you think about, I know your dad, he passed away in 2013 and your mom's still around and she's still in Alabama, still involved in the motel business. They wanted you to be a doctor, a lawyer here, or maybe financing like that. I mean, I have to assume that even your dad, he got to see, he got to see really succeed. He got to see that that must have been a big deal for them, you know, moving to the U S with no money and like knowing no one and grinding away at a motel and raising their kids in rooms 101 hundred and three and two or whatever it was.
+
+2 (1h 6m 26s):
+And to see you achieve that. I mean, not just a message, just they must've been so proud. I mean, he must've been so proud of you.
+
+3 (1h 6m 36s):
+He was, he was, you know, nothing makes me prouder than thinking about every month we would, well, we would talk almost every other day, but every month I would call him and tell him what our sales were. And I used to call him and say like, daddy, we did $4,000 in sales, you know? And then I remember the last one was may of 12. I think we had a $10 million a month. And my dad would always remind me. He would say, Shazi, you are a lion and there are sheep, but you are a lion. And the irony at the end, when we sold the company and he grew up again, dirt floors, motel room, he was comfortable there.
+
+3 (1h 7m 24s):
+He died a millionaire because of their investment in happy baby. And the most happiness I've ever gotten from a conversation with him was telling him, we sold the company and getting him to guess for how much he, he couldn't believe it. He actually told me he had to sit down and his head was spinning and he had to lie down. Wow. And so, yeah, but he was proud of me because I think I became the daughter that, that he, he had hoped for as a, as a human, you know, you want your kids to grow up and be someone that you love and you're proud of, and you want to be around them and you, you know, you respect them.
+
+3 (1h 8m 10s):
+And I think that's what we had
+
+2 (1h 8m 14s):
+That Shazi vis from founder of happy family organics. When she left the company in 2018, it was doing more than $250 million in revenue a year. As for Shazi, she launched a new company last year. It's called healthy baby, and it sells organic diapers and plant-based skin creams and related products for baby and parents. Hey, thanks so much for listening to the show this week. If you want to contact our team, our email address is HIB t@iddotwondery.com. If you want to follow us on Twitter, our account is at how I built this. And mine is at guy Ross. And on Instagram, I'm at guide dot Ross. This episode was produced by Rachel Faulkner with music composed by Ramtin Arab Louis.
+
+2 (1h 8m 55s):
+It was edited by Neeva grant with research help from Candice Lin. Our production staff also includes JC Howard, Casey Herman, Liz Metzger, Carrie Thompson, Alex Chung, Josh lash, Sam Paulson, Catherine cipher, Elaine coats, John Isabella, Christmas, Annie and Carla STS. I'm guy Roz. And you've been listening to how I built this.
+
+3 (1h 9m 26s):
+Hey, everyone. So I want to make sure you know, all of the different ways you can listen to how I built this. As you probably know, you can follow the show on Amazon music, apple podcasts, or wherever you're listening right now, but a one let you know that you can actually listen to the next episode of how I built this today. One week early on Amazon music, you can also listen to it early and ad free by subscribing to Wondery plus an apple podcasts or on the Wondery app. Please do follow us on your podcast app. So you always have the latest episode downloaded. And another way to support the show is by filling out a survey at wondery.com/survey. And thanks,
+
+The Execution Of Bonny Lee Bakley (1h 10m 6s):
+Small town girl, Bonnie Lee Bakley, always dreamed of marrying a movie star. Her obsession with celebrities resulted in nine divorces until Bonnie eventually married, famous actor. Robert Blake. However, Bonnie learned being close to the spotlight comes with consequences within a year of her marriage. Her Hollywood dream came to a tragic end when she was found fatally shot outside of a diner in north Hollywood from Wondery the execution of Bonnie Lee Bakley is a thrilling new chapter in the hit Hollywood and crime podcast series. Robert Blake knew Bonnie spent most of her life as a con artist who dreamed of being famous. But when Robert Blake reluctantly let Bonnie stay in his guest house, it began the role. He become most famous for an accused murderer. Explore the darker side of fame, listened to the execution of Bonnie Lee Bakley on Amazon music, apple podcasts, Spotify, or you can listen early in ad free by joining wonder repless in the Wondery app.

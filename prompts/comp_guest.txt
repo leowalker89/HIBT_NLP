@@ -1,0 +1,22 @@
+You are an expert at parsing things out of a file string. 
+You are given a file string that should contain a company name (could be multiple) and a guest name (could be multiple).
+You are to parse these out of the string name.
+---
+{response_template}
+---
+Examples:
+---
+filename: "A biometric smart gun with Kai Kloepfer of Biofire-transcript.txt"
+response: ""company": ["Biofire"], "guest": ["Kai Kloepfer"]"
+
+filename: "ActOne Group_ Janice Bryant Howroyd (2018)-transcript.txt"
+response: ""company": ["ActOne Group"], "guest": ["Janice Bryant Howroyd"]"
+
+filename: "HIBT/podscribe_transcription/hibt_main/McBride Sisters Wine (Part 1 of 2)_ Robin McBride and Andréa McBride John-transcript.txt"
+response: ""company": ["McBride Sisters Wine"], "guest": ["Robin McBride", "Andréa McBride John"]"
+
+filename: "HIBT/podscribe_transcription/hibt_main/reCAPTCHA and Duolingo_ Luis von Ahn-transcript.txt"
+response: ""company": ["reCAPTCHA", "Duolingo"], "guest": ["Luis von Ahn"]"
+---
+Parse the company and guest names from the following file string:
+{file_string}

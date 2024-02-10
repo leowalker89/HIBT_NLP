@@ -1,0 +1,632 @@
+0 (0s):
+Hey Prime members. You can listen to how I built this early and ad free on Amazon Music. Download the app today.
+
+1 (9s):
+This is Chip Brantley, co-host of the NPR podcast, white Lives. Before we found the man in Vancouver, before we sued the State Department, before we snuck into the graveyard of a federal penitentiary, all we had were the photographs. Photographs of a group of Cuban men standing on the roof of a prison in rural Alabama. That's this season on the NPR podcast, white Lies.
+
+Visible (30s):
+This episode is brought to you in park by visible Family. Wireless plans can be silly, right? Like, have you ever had to chase down a family member to get them to pay their share, or quit hogging the data? Who decided you should have to tie your phone service to your families to save money Visible offers their best rate all on one line, not four lines, not three, not even two. Just a one line wireless plan with unlimited data for $30 a month. Taxes and fees included, all powered by Verizon. Switch today@visible.com and get $20 off your first month when you use Code Built 20. That's built 20. A special offer for how I built this. Listeners offer ends March 31st. New activation offer code required for data management practices. Learn more@visible.com. Additional terms apply.
+
+Instacart (1m 17s):
+This episode of How I Built This is sponsored in part by Instacart. There is almost nothing that beats the convenience of having groceries delivered to my front door via Instacart. When I'm planning meals for the week, it is so easy to just add all the ingredients I need to my cart order and let Instacart take care of the rest and deliver it right to my front door so I can start cooking with Instacart. The world is your cart. It makes shopping a fast and efficient experience. You can choose flexible delivery in as fast as an hour, or have your items delivered during a specific window of time. Get free delivery when you cart your first order on the Instacart app and instacart.com offer valid for a limited time, minimum order $10. Additional terms apply.
+
+3 (2m 5s):
+We were doing all right, but it was important to get your inventory right. So many retailers, they fall in love with their goods. Yeah. And I always had to say, you're never married to your goods. Doesn't work. Gotta mark it down. You gotta turn it. You gotta get cash back and buy something that a customer wants. Yeah, but then taking the risk, you're gonna buy a hundred or you're gonna buy a thousand. A lot of people don't have the ability to do that to see that. I mean, it's old school.
+
+0 (2m 37s):
+Welcome to How I built this, A show about innovators, entrepreneurs, idealist, and the stories behind the movements they built. I'm Guy Ross, and on the show today how Tom Campion saw a major market opportunity in the culture of skating and snowboarding, and built Zoomies, the biggest action sports retailer in the world. I bet you know of a really cool store that for one reason or another, just didn't survive. There was an awesome kitchen store here in Northern California that went out of business not so long ago, and it's kind of hard to know why.
+
+0 (3m 22s):
+It was beautifully curated. The store had things no one else carried, and the prices were totally reasonable, but for some reason it just didn't work. Now, this happens to really good stores every day, and part of it is the uncertainty of retail. There is so much you just can't predict. But there's one thing, one business fundamental that might actually give you a fighting chance. And it's not a flashy social media campaign or a buzzy redesign. It's actually something a lot less sexy. But it's the thing that enabled Tom Campion to build Zuni. In Tom's formula, it basically boils down to managing inventory, being obsessive about keeping track of what you have, what you need, and what you think your customers will want.
+
+0 (4m 13s):
+Next, zoomies, if you're not familiar, is the world's largest action sports retailer. So think apparel and gear centering around skating and snowboarding culture. The brand has around 750 stores in North America, Europe, and Australia. And in 2021, they reported over a billion dollars in revenue. Tom founded the precursor to Zoomies in 1978 with his friend Gary Hawkinson. Before that, Tom and Gary both worked at JCPenney in Seattle, and that was where Tom learned about the nuts and bolts of retail. And as I mentioned, how to keep a business profitable by making sure you manage the inventory carefully.
+
+0 (4m 55s):
+Zoomies started out as a teenage oriented apparel store called Above the Belt, but in the 1980s, Tom started to notice that teenage boys, particularly in southern California, were wearing surf and skater brands. Brands like Op Gotcha, Billabong, Santa Cruz and Quicksilver. And Tom had a hunch that surf and skate and eventually snowboard culture would have a lasting appeal. And he quickly built a culture at Zumi, is to capitalize on that appeal. Tom grew up in the 1950s and sixties in Seattle, in a working class home. His dad was a male carrier and his mom stayed at home to raise the kids. And while Tom was still in college at Seattle University, he got an early start in retail.
+
+3 (5m 40s):
+I'm working in grocery stores and I'm loving, it is my first taste of retail, even though I was a paper boy for like, I think four or five years and, and the grocery store business, you're running five ways from Sunday. People are buying stuff from you. I, I just love, I love the energy, the action. I loved interacting with people. Pretty soon I'm, it was a pre-computer. I'm buying for law store. I'm good at math and you know, managing inventory and stuff like that. Not managing the store by any means. Just really solid worker guy, right? Yeah. And, and doing this, and I really enjoyed this. And I'm working about 25 hours a week, 30 hours a week.
+
+3 (6m 21s):
+Some weeks I'm paying my own tuition. And I graduated in June and I can't remember exactly how this happened, but I applied at JCPenney, it was retail and Penny's was great training program, all that stuff. And I was hired, I think right before Christmas that year,
+
+0 (6m 37s):
+They had presumably like a, a graduate training program to I guess get college graduates into their management program. Oh yeah, yeah, yeah.
+
+3 (6m 44s):
+Couple years, year and a half, two year training program on college graduate and management
+
+0 (6m 50s):
+And JC Penney's at the time, it was a really important, I mean, 1970, you're talking about a, you know, JC Penney's was competing with Sears.
+
+3 (6m 57s):
+Oh yeah. Yeah. And the high end was the bond marshe here. So it was, it was a major department store. And the funny thing is, anybody that knows me, I, you know, you, you're wearing a suit. So I had three or four suits with a white shirt, blue shirt, gray tie, and you're walking around and I eventually, after a year and a half, two year program, I stayed in that store that made me manager of the men's department in like 1971.
+
+0 (7m 23s):
+Wow. This is the, this is the JC Penny it big at the Northgate Mall in Seattle. Yeah. It was probably a bustling huge place, right? Yeah.
+
+3 (7m 32s):
+It's big volume. I, I can't remember how much it did. I was good at it.
+
+0 (7m 35s):
+So, but you had, you had inventory sent to the stores. They were corporate buyers, so you weren't really deciding what was being sold, right?
+
+3 (7m 43s):
+Yeah, I wasn't totally in control of my own destiny. And it had always gotten a problem with inventory because the buy he would be buying part of it, he or she on a system that wasn't computerized. Right. You, you didn't, you didn't know exactly where everything was and it had to be written down. So pennies in the seventies, we were still in the evolution. It was high inflation. But that's where a lot of America shop. Yeah. They come in there, get their auto fix, buy a set of tires, they toy department one year was yo-yos and they still buy yardage. And you had the white sale, you know, white sale at pennies was intimate apparel and then domestics curtains and pillows and pillow cases.
+
+3 (8m 26s):
+And you could measure how the economy was doing during a white sale when customers, usually women come in and they stock up.
+
+0 (8m 34s):
+Hmm. So Tom, you are a young man and a young father, right? I think you got married pretty at a pretty young age.
+
+3 (8m 41s):
+Yeah, I was married at first time at 21. I've been married twice, you know, and my daughter came along in 74. Amy and my son in 78 right before I left for
+
+0 (8m 52s):
+Resumes. All right. So you are at, at Penn's and there's a guy there named Gary Hawkinson or Hackinson who's also working there. Yep. Gary
+
+3 (9m 0s):
+Hawkinson, he's, I think he's my age year older, was in the training program and yep. We went through the highs and the lows of
+
+0 (9m 8s):
+Where was he working at? Penn's.
+
+3 (9m 11s):
+Northgate.
+
+0 (9m 12s):
+Alright. See me Gary. And, and Gary is important because the two of you would eventually go and start a business together, but do you remember ever talking to Gary? Would you ever sort of, I don't know, lunch breaks or I don't know, and, and say, you know, we should do something. Gary, do you remember having those conversations?
+
+3 (9m 27s):
+Well, usually around lunch or you go jump in your car, you go to the McDonald's drive-in or whatever, or go into the, the Denny store. You were the highs and lows of any business, right? Of Oh yeah, God, that guy's busting my chops or, or whatever. And you get to know each other. I knew he was competent and I think he believed I was competent. And we said eventually, as was always a pressure on how much money he made. And you, he had two small kids too that about my kids' age. So he was raising kids in the seventies just like I was. And you know, it was like, are we getting rewarded for what the work we're putting in here? And, and he grew up in the northwest too, so I, you know, I don't think he really wanted to, to move to LA or New York or other places to go up in the Penn's Corporation.
+
+0 (10m 16s):
+Alright, so the two of you are working there and you, you end up staying there for like seven years? I think some, some,
+
+3 (10m 22s):
+I was there from 70, 78. So nine years now.
+
+0 (10m 24s):
+Nine years. Wow. So eight and a half. Yeah. I'm wondering, I mean, here you are, you know, eight years into your time at JC Penney's, you've invested a lot in learning about the company and growing there, and clearly you were on the on track to manage your own store at some point,
+
+3 (10m 39s):
+Maybe
+
+0 (10m 40s):
+What, but what made you think, let me leave this stable opportunity and, and do something a little risky and start my own store? Like what, what, what was it that got you thinking like that?
+
+3 (10m 51s):
+Where I was getting the training, I just didn't like how it looked and how they manage without writing a management plan down guy. I mean, how you treat people, how you empower people, how you recognize people.
+
+0 (11m 4s):
+They didn't do that.
+
+3 (11m 6s):
+They didn't do that. Not as much. It was always, oh my God, what is the manager gonna think? And the manager told me what he thought, put your suit on and looked like you're in management. And up to that point, you know, it wasn't like we came out of the blue and we were, you know, I don't know, school teachers and said, okay, let's open up a teenage clothing store.
+
+0 (11m 24s):
+You had experience,
+
+3 (11m 25s):
+I had five years in grocery business and by the time we did this nine, so like 14 years.
+
+0 (11m 30s):
+So you had this idea to open a store that would basically appeal to like teenage boys more or less, right?
+
+3 (11m 36s):
+Yeah. It was called, it wasn't called Zu in, it was called Above the belt. Huh. And you know, we both had experience in men's department. Yeah. Even though at that point I wasn't managing that and we, you know, and then you looked at the market, what didn't the market have? And you knew what was going on. And especially in young men's teenage, cuz that's where it flips. I mean, you don't go into sell em blue suits cuz blue suits don't flip. Right. But, you know, teenage brands flip all the time.
+
+0 (12m 2s):
+When you say flip, you sell a lot of inventory.
+
+3 (12m 5s):
+Yeah. Or the brand changes. Changes. I got you. It means if you can get in front of that, you're gonna track the customer. And, and that's all about managing your inventory. Cuz that puts you out real quick.
+
+0 (12m 16s):
+And that was the secret for you. Like you figured out that if you could understand how to manage inventory, you could probably run a stable business and maybe even a great business. Yeah,
+
+3 (12m 28s):
+Yeah. And, but we had that training which appealed to Northgate Mall. I forget who owned it and they gave us a shot.
+
+0 (12m 36s):
+All right. So this, so you, so you and Gary decide to launch a store called Above the Belt. And let me before you, you even opened it, sir, help me understand how you did that, because you, both of you were sales managers at a JCPenney store, and so I have to assume you did not have a lot of capital, a lot of cash on hand. Yep. So how did you, I mean you had to rent a so,
+
+3 (12m 59s):
+So I'll, I'll walk you through it. Yeah. We went to the bank, it was Seattle first or something. It was eventually bought out by B of A and we had done, you know, the cost of building the store, what it was, and we did some of ourself, we hired a couple of guys to build it out, but the biggest expense was, was inventory against getting it open, starting to get cash, you know, sales coming back in. And the, what we needed was total was about 45 grand, which sounds preposterous, but this is 44 years ago. Yeah. But like any bank, you guys gotta be freaking kidding me. And I'm using frigging, you know, as a, the clean word, but we, we ended up with an SBA guaranteed loan.
+
+3 (13m 41s):
+So the bank is just filling out the documents Yeah. And making points and the money comes from government. That's a great program. Yeah. And as you know, I do, I do a lot, a lot of political stuff and I say, Hey, I got started on sba Yeah. And now I employ 10, 11,000 people, gen Z cuz of an SBA loan. We each put in five grand and we borrowed 35 grand some, something like that.
+
+0 (14m 4s):
+So that was a massive amount of money in 1978 to, to borrow.
+
+3 (14m 8s):
+We really wanted to leave pennies. Yeah. Bigger thing was interest rates. You know, everybody talks today, oh, interest rates are going up. Oh my God. They're 4%. They're 5%. Yeah. Right. We borrowed it for the first four or five years as, as we grew, I think we were paying 16, 17, 18%. Right. People forget
+
+0 (14m 25s):
+That interest
+
+3 (14m 26s):
+Rates. But
+
+0 (14m 26s):
+The interest rates in the seventies and early eighties were like 15%. Yeah. All right. So you and Gary have this concept cuz you have experience to open a store. And I think it was, it wasn't just for men, it was for young people. Basically clothing for young people. So you decide to open the store at the Northgate Mall where the, where the pennies was, and I guess, I mean this in the seventies, eighties, nineties, that was where to be in the mall. Right? You wouldn't have opened it in downtown. That
+
+3 (14m 51s):
+Was where to be. There were stores downtown, but the action after World War II to the malls. Yeah. And we're in 600 malls today. Yeah. It still is for our
+
+0 (15m 3s):
+Customer. I'm curious, I mean, I'm, I'm looking at a photograph of you and I think it's you and Gary in front of an above the belt store in the late seventies. And it's a really cool, it's, it's got a really cool design. Like the exterior has like these really nice like wood, this beautiful like, like sort of Pacific Northwest wood, like blonde wood look. Yep. And who was the sort of the person who picked the clothing or picked the design? Or did you and Gary do that together? How did you come up with that look and even the clothing that you would select and curate for the store?
+
+3 (15m 35s):
+Well, you'd figured out what was on the mall. You'd figure out what was in the market. You'd figure out what was not suitably represented on the mall and then you had to take the risk it sooner or later you gotta spend that money and buy it. How,
+
+0 (15m 49s):
+How would you figure it out? Would you, like, how would you know?
+
+3 (15m 52s):
+So there were, there was a famous clothing show then called Magic that used to happen in LA then it went to Vegas and we started going to that, to the trade show. Right. Oh, the trade show. And you know, it's less of that now and it became an action sports show later on. We'll get into that. But you go to the show and you know, it's like a hundred thousand people and you go, holy shit, you know, how am I gonna figure this out? But you did, cuz you had the training, you could see and you knew people and you talk Yeah. You communicated all the time. And you know, and reps, the reps work remotely. It isn't probably as centralized as is now as brand.
+
+3 (16m 32s):
+So they're out, they're trying to find new places to sell their goods. And we could sell
+
+0 (16m 38s):
+In the early days, was it just you and Gary working the
+
+3 (16m 41s):
+Store? Oh no. Well we, even the early days, you know, we both had families and we'd split it up, worked nights, worked days, weekends. But we had I think three other employees, two or three other employees. And you know, we hired people that could sell. We knew how to staff too. We knew how to schedule staffing Right. When the busy time was because we worked at pennies.
+
+0 (17m 3s):
+What, what do you remember when you and Gary were like, talk about this, this business above the belt. Do you remember having really ambitious plans to, to make this huge? Or did you think it was gonna be a one one-off store?
+
+3 (17m 16s):
+Neither. Hmm. You know, we achieved our first goal. We got out of pennies and we were doing all right enough that we're comparable to what we're making at pennies. So, and and you're doing it all on your own. Yeah. You're winning or losing, you're achieving, you're driving a comp all on your own and you go, there's nothing more satisfying said, I did that. I mean I did that, you know, and it just felt right.
+
+0 (17m 41s):
+And in retail, when you say you're driving comps, it means that you are increasing the sales year over year in a year over
+
+3 (17m 48s):
+Year without, you know, know in Zumi, you know, it'd be year over year in existing stores, not counting new stores. Right. But it was important to get your inventory right. Yeah. And to take the mark down when it wasn't to know when to do that. So many retailers, they, they fall in love with their goods and I always had to say, you're never married to your goods doesn't work, gotta mark it down, you gotta turn it, you gotta get cash back and buy something that a customer wants. I mean, it's old school, you know, we use different metrics now and computers and looking at categories and sizes and open to buy and it's in the tens and hundreds of millions of bucks.
+
+3 (18m 28s):
+But it's kind of the same thing.
+
+0 (18m 29s):
+Yeah. I I I'm totally fascinated with, I mean it's the, the reality is like the boring stuff of like managing schedules, making sure like, you know, you know, where when items are coming in, how many items, sizes, those are the things that actually, when, when stores don't do those well, they might have an amazing product, but that syncs the store.
+
+3 (18m 52s):
+So your top line is what you do every day. Biggest cost is inventory. Yeah. You know, usually half your top line. Second and third biggest cost are payroll and rent, you know, and escalating leases, rent and, and pay people adequately to keep 'em and incentivize 'em and stuff. So you gotta get that right. You gotta pay a lot of attention to it. And over time, over five or six years was always the inventory. Yeah. But then having the hot stuff too, but then taking the risk, you gonna buy a hundred or you gonna buy a thousand. Yeah. A lot of people don't have the ability to do that. To see that and to remember how it worked before the time of year it was, and, and house size and colors and you know, and fabrics and all that.
+
+0 (19m 35s):
+Why would you, like, what was the value proposition? Why would I go to your store and buy something at your store rather than JC Penney's or another store? Did you, did you have things that you couldn't get anywhere else? Or was it prices lower or what?
+
+3 (19m 47s):
+Prices weren't lower, but it was a lot of Northwest brands. Some Gene, but a lot of Union Bay and still Sha Safari. And they did other brands called International News and always t-shirts almost all in guy sizes. Our junior business didn't come on till like in the nineties, but we had a lot of junior traffic. But you'd buy stuff that they couldn't find in a, a junior store.
+
+0 (20m 13s):
+Yeah. You mentioned this brand Shaw Safari. And it's interesting because this was a brand that was started in Seattle and it was basically focused on, on apparel for young people. It was like a company that was actually started there. And it's still around, but, but Right. Yeah.
+
+3 (20m 28s):
+And, and Raj and AK Shah, I bought stuff from 'em when I was at Penn's. I knew 'em before Above the Belt and Zumi. They were into it and they obviously liked myself and Gary and when it was important to have something at the right price, whether it was flannel or gauze or something in a short, they could supply it. They always knew the price point, what you could drive it and still make money even if you had to mark it down.
+
+0 (20m 56s):
+And so, alright, so you have the store in, in the mall in the late seventies, early eighties and it, it almost sounds like it was shooting fish in a barrel. Like you were just, you opened the doors and people came in and started buying stuff or, or am I, am I That's right. Yeah. It was
+
+3 (21m 11s):
+Northgate Mall had traffic. Oh, here's something new. Yeah, let's check this out. Well, didn't spend a lot of money on advertising. Interesting thing about teenage clothing business. You have two violent peaks got back to school.
+
+0 (21m 24s):
+Yeah.
+
+3 (21m 25s):
+Which, you know, it's longer. Used to be longer than you have the Christmas season. Right. So I was very aware of that from my years at Penn's, as was Gary. So you'd buy to that and you know, if you're working in for instance, gifts or housewares, your violent peak was Mother's Day, which was a day in Christmas, which was three weeks. Mm. In, in teenage clothes, it's different. You have two violent peaks, two bites at that apple to really nail
+
+0 (21m 52s):
+It. I'm very distracted by this term, violent peaks because in 700 interviews on how I built this, I've never heard it. Is that a Tom Campion term or is that a business term? Because I've never heard it.
+
+3 (22m 3s):
+I, I can't remember. I don't think it was
+
+0 (22m 7s):
+Distracting cuz I don't like violence. Yeah. I don't like it.
+
+3 (22m 9s):
+Yeah. But I, I just meant that, you know, there's a lot of stuff going on. Right. Which was, it's energizing.
+
+0 (22m 17s):
+So Tom, you have this store and people are coming in and at a certain point, I mean, I, I think within two years you start to open your second store.
+
+3 (22m 29s):
+It was in a year and it was 30 miles north of where Northgate was 25 miles place called Everett, Washington. Sure. And we opened it up at the following back to school. So it was about a year
+
+0 (22m 40s):
+Later. And, and could you finance that through cash flow or did you have to take out more loans?
+
+3 (22m 45s):
+SBA Loan Bank and say, look, this is what we're doing. You know, we had it all documented and the guys, you know, and he goes, oh, that's great. And we bought more inventory and opened like for back to
+
+0 (22m 56s):
+School. And were you, were you worried, I mean you weren't worried at all about being over leveraged, taking out more loans?
+
+3 (23m 2s):
+No, because
+
+0 (23m 3s):
+The business was, because the business was doing well. You saw, you saw where it was heading.
+
+3 (23m 7s):
+Yeah.
+
+0 (23m 8s):
+All right, so you have these stores and they're growing and I mean, were they very profitable? Were they barely profitable? Presumably they were profitable because you were expanding.
+
+3 (23m 22s):
+They were profitable and we were, we are not making a ton of money, but we're making a living and we're growing. And every year I think we were able to pay ourselves a little more. I really don't remember, but yeah.
+
+0 (23m 34s):
+So you are like six, seven years into this business above the belt and it's doing pretty well. You're not like, as, as you say, you're not making crazy amounts of money, but you're able to support your family and you've got, I think around the mid eighties, around like 85, 5 or six stores at this point. But you changed direction entirely. Like you stopped being just a regular apparel store and you pivoted like almost entirely to action sports like skateboarding and, and surfing. So what happened? Why did you make this this shift?
+
+3 (24m 5s):
+Well, you could see it we're going to shows in Southern Cal and action sports early, which was Surf and Skate, which was OP and
+
+0 (24m 13s):
+Santa Cruz.
+
+3 (24m 15s):
+Yeah. But that skate was always Southern Cal. Yeah. But you know, and by the mid eighties there's enough of Northwesterners, they vacation Southern Cal warmer weather up and down the coast. It's easy to get to. And you could see this shopping the market in la and the first line I brought in to test this was a line called Gotcha surf wear. Yeah. And has big Fishman with his flag on, you know, on it. And it just like, it was for me a holy shit moment, man. This is evolution and I'm doing all the buying then and, and so as immediately followed by Quicksilver. Yep. And you could see this and how the kid responded to this. So it exploded.
+
+3 (24m 55s):
+This shit is hot
+
+0 (24m 57s):
+When we come back in just a moment. Why above the belt has to change its name to Zoomies and why Tom decides he can attract more customers with a comfy orange couch. Stay with us. I'm Guy Raz and you're listening to How I Built This.
+
+Huel (25m 19s):
+Today's sponsor, Huel is a really interesting brand because the company was founded as a passion project. Hu's founder Julian was focused on creating the ultimate most nutritious diet for himself. And on his journey, he realized how time consuming this was. So he came up with Fuel a Shake that makes convenient, affordable, nutrition accessible to everyone. Hue Black Edition is a high protein nutritionally complete meal and a convenient shake. That means it has everything your body needs in two scoops, including 27 essential vitamins and minerals and 40 grams of protein. And that's not all Hue. Black Edition is vegan, lactose free and naturally flavored. It has zero artificial sweeteners and it comes in nine flavors. Lately I've been drinking the vanilla shakes and I'm looking forward to trying out the coffee caramel and maybe even the strawberry shortcake. It works out to $2 and 50 cents for a 400 calorie meal. Get a free t-shirt and shaker when you place your first order by going to hue.com/ibt. That's hue spelled h u e l.com/ibt.
+
+NetSuite (26m 24s):
+If you don't know your numbers, you don't know your business. That's true. When your business is growing fast and even more true when there's a lot of uncertainty. Right now inflation is running rampant, supply chains are clogged and the labor market is tight. But not every business is in the dark. Over 33,000 businesses know their numbers because they use NetSuite by Oracle. The number one cloud financial system. NetSuite is everything you need to grow all in one place. With access to your financials, inventory, HR, planning, budgeting, and more for the new year. NetSuite has a new financing program for those ready to upgrade at netsuite.com/built. Head to netsuite.com/built for this special one of a kind financing offer on the number one financial system for growing businesses. That's netsuite.com/built.
+
+0 (27m 26s):
+Welcome back to how I built this. I'm guy Roz. So it's the mid 1980s and Tom Camp notices that action sports are getting more popular up and down the west coast. So he starts to change what he's selling in his stores from traditional casual wear to close warn by skaters and surfers.
+
+3 (27m 47s):
+And so, you know, it was Quicksilver and, and then Bong and Gotcha and gotcha. Came and went. You know, they couldn't do it. But then right away, I remember a clothing shirt I picked up Rusty and Body Glove and Mossimo. Yeah. And Red Sand. So new brands, brand names that were significant, which meant t-shirts, sweatshirts and shorts and spring and hoodies. And in the fall, every three, six months, it was a dynamic time. Kids are looking at that and go, whoa,
+
+0 (28m 17s):
+You were sort of seeing where the kids in Southern California were going. You were anticipating that there was gonna be a huge appetite for that in the Pacific Northwest, which there was, you were presumably one of the only stores that was stocking all of this stuff.
+
+3 (28m 30s):
+Yeah, we had a competitor at the time that had about, started in south Seattle in Tacoma, called Mr. Rags. And, and, and I think we were managed better. They got up to 150 stores and eventually they're gone. Just we were, we were better at doing it. And it isn't like one day you come in as a floor set, I'll surf and skate.
+
+0 (28m 50s):
+Right. It's gradual.
+
+3 (28m 51s):
+It's gradual, but gradual doesn't mean you wait five years and try it. This is about, man, this shit's selling. We need more of this. Right. Yeah. And then right then I bought hard goods, skate hard goods into the mall. And,
+
+0 (29m 3s):
+And when you say hard goods, you're not talking about the clothing. Right. But but the actual skateboards.
+
+3 (29m 7s):
+Skateboards,
+
+0 (29m 8s):
+Right. And, and trucks and wheels and, and those kinds of things, like the things that people usually had to go to buy at a skate shop.
+
+3 (29m 14s):
+Yeah. I put 'em in the back of our stores, which is the, with the logos facing out, you're hanging 'em on the wall, you got 'em up on pegs or whatever. So the logos are showing, it became a whole lifestyle. You know, the skateboard kid was just freaking cooler than the five guys that can be on a basketball team or 10 guys on a football team. Yeah. And how they dressed, how they looked, how they talked to each other, the lingo. And it's about kids growing up, going into Dullard, feeling good about being an individual and feeling good about what they do. You know, it is like, I could see that.
+
+0 (29m 51s):
+And you were not you, I mean by this point you're like a guy in, you're sort of late thirties. I mean, you were not, this was not you, you were not a surfer or a skater. Right.
+
+3 (30m 2s):
+Neither. I always laugh. People say no, did you skateboard as a kid? No. This shit sells. It's just about stuff
+
+0 (30m 8s):
+That he sells.
+
+3 (30m 8s):
+Love. I love it. No. Did you work for Boeing? Did you like fly planes as a kid? No, Boeing paid me a good salary to design the wing tip. Right. Yeah.
+
+0 (30m 17s):
+When you were, when you and Gary were running this and, and now you know, the surf apparel is really driving above the belt, how did you guys divide up responsibility? Was, was he more sort of the business person and you were more sort of the front facing person or how, how, what do you remember about that?
+
+3 (30m 34s):
+Yeah, I, I, I remember that I took over the buying and at that point our office was still in the basement of Northgate Mall.
+
+0 (30m 44s):
+Hmm. Wow. That was your
+
+3 (30m 45s):
+It was free. It was on the lease. It's free.
+
+0 (30m 47s):
+Oh wow. So you could have all of your, your operations there. You could have your desks and computers and whatever. Yep.
+
+3 (30m 54s):
+No computers. Adding machines.
+
+0 (30m 56s):
+Adding machines. Right. And so as you expanded, right, I mean cuz you kept growing, building more stores in the Seattle area. Were you doing all this again through loans or at a certain point were you able to just use the cash from the business?
+
+3 (31m 12s):
+I'm sure there were still loans. I don't exactly remember, but they probably became less leverage and they probably became smaller because we're working, you know, off of cash. But yeah.
+
+0 (31m 23s):
+Alright. So I know by the late 1980s as you're, as you're really starting to hit your stride, there's, there's like a whole new kind of board sport taking up, which of course is snowboarding and that would become a huge part of your success, right?
+
+3 (31m 38s):
+Oh, oh yeah. Towards, you know, we, we are, I'm a mountain guy. We haven't talked about my personal life. I was always up hiking, backpacking, all that stuff. And, and I could see the board sports, the kid on the skateboard where this was going. And in a, up in the Pacific Northwest Mount Baker ski area, I called up Vision Street where I said I wanna carry Sims snowboards. Oh no, no, I know you can't do that. You're a skateboard shop. Well, I'm a skateboard shop because when they told me I couldn't carry skate, I did it anyway. And we sold a ton of the, of the darn things. And, and so Wait,
+
+0 (32m 18s):
+Wait, wait. Just just to back up for a sec, you're saying that you called up one of your suppliers vision streetwear, which sells snowboards and the person on the other end didn't wanna sell any to you. Like they just
+
+3 (32m 28s):
+Refused. Yeah, yeah. And, you know, and we started, he wouldn't sell me hard goods. I said, well look, I'm a huge dealer of Vision Street where you owe me. You're gonna give me a snowboard for every store. We're gonna have a contest at Christmas. You know, you fill out your name and address and, and a phone number and we're going eight, there's gonna be a winner of a sim snowboard. We had like seven of 'em they sent us and we put 'em in the front of the store and the kids were like, look at this. And so we had like bags and bags of these entries. This is before computer. It isn't like you enter your email and get on the list and, and all this stuff. It's just old school hard work.
+
+3 (33m 8s):
+And we were creating buzz. And so I, right away then, you know, after Christmas, call up Burton and I had Burton reps in, I forget the rep's name and, but we, I always thought, or I know I was close to be the first Burton retailer to bring product into malls in the United States. And this would've been 1989.
+
+0 (33m 31s):
+So, so you're talking about snowboards and, and yeah.
+
+3 (33m 33s):
+Snowboards, but really sold the clothes you sold, you didn't make money on the board, you made little money on the boards and the bindings and the boots. And so fall you'd sell pair of pants, pair of jeans, but then you go, oh, you got a new category called snowboard pants. So the kids in the northwest were like, oh, look at that kid on a snowboard. And I got skis and they're, you know, and they're in there buying instead of red, white and blue on their jacket or sweatshirt. It's orange and brown or black and you know, and lime green and or neon. And the parent goes, what the hell you doing? Right. That kid that wanted to be the individual that just like, oh man, this is, it's different music and more skulls on tees.
+
+3 (34m 16s):
+And they beanies became hugely important. Right? In the early eighties, we never carried beanies. Suddenly had a beanie with Burton on it, or Sims or hugely important. And kid, he'd wear 'em for style, not just to keep his head warm.
+
+0 (34m 30s):
+And you would discover a lot of these things at trade shows and say, we we gotta get those into the stores.
+
+3 (34m 35s):
+Yeah. And eventually you became, they came to you, right? Yeah. The, the reps would come to you, so you're curating all the time trying to what's next? What's understanding? You'd have kids working with you and you know, and Yeah. And then you'd have all the logistics of managing inventory, all the paperwork or whatever. And we're, yeah,
+
+0 (34m 56s):
+So, so Tom, 1993, you've got a roughly 12 stores and your co-founder, Gary Hawkinson, he decides to leave and you buy him him out. And he eventually became the, the mayor of Edmunds, Washington. Yep. He was just tired. He was done with it. He was wanted to move on,
+
+3 (35m 13s):
+You know, we built it up. I never said, give me the five reasons you wanna leave. We still were friends and get along. He says, I'm ready to do something else. And so we had to put a value on it. We were able to work out a contract where I bought him out and then I became, he kept a little bit of it, I think, but I became like 95% of the ownership. And at that time I brought, I met through a mutual friend, a guy named Rick Brooks, who was in between jobs, who was an accountant. And I said, you know, my founding partner, he wants to get out. I've thought about it. And he, he joined me, bought in for a little bit and I gave him a bigger option.
+
+3 (35m 56s):
+But there's a big aha moment for me here guy. And, and I go, I could take money off the table and money's always tight and I've never laid money off this. And, you know, you,
+
+0 (36m 6s):
+You mean you could have sold, you could have sold two too. Yeah. I, oh yeah. So you basically had a decision to make, because I bet, I mean, how much do you think the, the, the company was worth in 1993?
+
+3 (36m 16s):
+It was worth some money that, you know, I'm, it's, it is never been made public so we don't need to do it now. And he took,
+
+0 (36m 23s):
+But you could've sold two and you would've had Yeah, some, a couple million bucks on the tail your own.
+
+3 (36m 27s):
+Yeah. Not that, probably not that much. And I was all agitated for a month. It was just, it was, you know, I was just like, and I'm working with a coach shrink or whatever you want to call it. And, and he goes, this is really bothering you. Maybe you, I'm gonna get emotional here. Maybe you like what you do. And it, it was just an aha moment. I love this stuff. And what we were doing and, and I go, ah man, we need to do this. I need to help keep growing this. I like this. You know, wherever it goes, I don't know where it's gonna go. But I love doing this. And Rick came in, he took half off the table and I stayed and got it. I've always loved everything I've done.
+
+3 (37m 9s):
+What a privilege. 74. I still say I love this.
+
+0 (37m 13s):
+So you, so your, you know, your co-founder Gary's is out of the picture, you've got about 12 stores. You're now approaching your mid forties. So you've got, but you've got a new partner, Rick Brooks. And this is 93 and not that long after 94, your brand above the belt gets sued by another clothing store that had Yeah. Had the same name. Yeah. I mean at this point you had an established brand with like 12 stores. I mean, weren't you kinda worried about, oh my God, we gotta completely start rebrand this thing?
+
+3 (37m 47s):
+No, it was a women's apparel store called Above the Belt in California. So they were gonna sue us. We had to come up with a new name and w the first couple years when we changed, it didn't make a difference. Where am I? What's the name of the parents? It didn't matter with the kid. Didn't
+
+0 (38m 3s):
+Matter. Didn't matter. And how did you come up with the name Zuni, by the way?
+
+3 (38m 6s):
+I did. And we were go, we didn't hire a branding and you know, blah blah, blah and all we, I had a meeting with some of my most creative people. One night we were thinking about this, we knew we had to do this and you know, we couldn't figure it out. And I was reading a Smithsonian magazine about Zuni Indians and I go, oh, z oh man z Young and fun. Z's a great letter for graphic and on teenage clothes, you know, some word start with Z and with Z and whatever. So I go, go Zoom, zoomies, young and fun, zoom fast. And we had a design guy that had working with us then named Doug and Doug screwed up the spelling, Z U M I E Z.
+
+3 (38m 47s):
+And I look at it and I go, that's it. Hmm. And it means nothing. It means everything. It means brands, it's action sports, it's fun, it's individual,
+
+0 (38m 55s):
+It's just a completely made up word. Z U M I E Z Zoomies. And that. And so you basically decided yeah, who cares about the name above the belt? That doesn't matter. Yep. All that matters is kids know to come to these shops to buy the things that they wanna buy. Yep. So Zoomies now becomes the brand. It's you and Rick Brooks. And how did the, I mean at this point it's 1994, what do you remember about the ambitions at that point? Because I think around that time you had about 20, maybe 25 stores a lot, all in the Pacific Northwest. But at this point, was it clear to you that this has to become a national brand?
+
+3 (39m 33s):
+No, no. The the first store in the Rockies was Boulder, Colorado, crossroads Mall. I think that's gone now. And then we worked our way down into Denver
+
+0 (39m 41s):
+And it was all malls. The, the, the strategy,
+
+3 (39m 43s):
+It was all malls
+
+0 (39m 44s):
+Open and malls, cuz that's where the teenagers are build
+
+3 (39m 47s):
+The malls. Yeah. America shopped in malls. Yep. And we were doing this and there would be people in these new malls that, retailers that carried this, but they weren't authentic like us because of the hard goods, because of, you know, the, the detail we spent with the stickers and the look of the store and the, the colors and the kids we'd hire. And we just worked the lines in the categories and the evolution. It was, wasn't until the late eighties, early nineties, we got into shoes and the first one was Air Walks. But then Etnas, which is still around us and Vans and Vans is a huge part of our business.
+
+0 (40m 24s):
+I'm curious about something that you had in the stores and you have in the stores today, which is a couch. You very consciously put a couch in the stores. Eventually you put things in like video games, all really designed to keep people in the stores longer. Yep,
+
+3 (40m 38s):
+Yep. It was part of the lifestyle. And, and I remember the first store we did that in, it was, I think it was in Bellevue Square, Alderwood Mall in, in Seattle. We had a creative guy, one of my lead buyers and in Seattle, his name was Art and great friend and was all part of this. And we set up the orange couch and just old furniture you'd buy at St. Vinny's or something, couple chairs and funky lamp and it was all about hanging out, right? Yeah. Then we'd buy an old TV and you'd put a new TV in it and you'd play the snowboard or the skate videos and the kid would come in and he'd be sitting down hanging it. It'd create a couple of dynamics. There's always kids in the store hanging out. You're walking by a mall. If there's a lot of people in the store go, oh, what's going on in there?
+
+3 (41m 21s):
+So he had the energy Yeah. Driving 'em in. Also the parent would sit there while the kids working around, you know, or maybe trying on a pair of shoes, but the parent might be sitting there talking to the employee and you're creating a dynamic with the, the, the parent. You know, we want you to feel comfortable in here and, and just, you know, what's going on,
+
+0 (41m 40s):
+You know? Yeah. I wanna ask you about culture for, for a moment because you're in a business and you were, you were growing a business in the nineties that really relied on a lot of teenagers and young adults, sort of college-aged kids to make it work. I mean, and, and there's a lot of turnover and they're not always so reliable. And so w would you hire a specific type of person? I mean, you're, you're looking for a kid who can hustle and sell and Yeah. Who, so who was that kind of kid you were looking for?
+
+3 (42m 9s):
+You know, sometime he or she was of the sport and sometimes they weren't, but they had that, you know, if you have that natural talent, you can see it. It isn't whether you're introverted or extroverted, you figure out if you're introverted, how to overcome that. Obviously I'm pretty extroverted and hear me yacking and getting a passion and, and pulling into this. And you learn over time how to curate that kid to get the right kid that wants to work for you. And I go back guy and I could tell you it was a time in a grocery store when my store manager pulled me aside and I was just working really hard. And he goes, you're really good at what you do. Huh? I remember where I was in the store, his name was Bud and it was in the produce aisle.
+
+3 (42m 53s):
+I go, fuck, this is really important. Yeah. And we're getting towards the end of Christmas and we're just like, come on, you gotta go. Let's go, let's go. And I go, I gotta create an event where I thank kids for what they do because everybody's just leaving it on the sales floor. Right. They're just working, you know, retail hours, working till late. Yeah. Straighten the, coming back the next morning. Rotten weather. Sometimes you're, you got a cold and stuff and, and the pressure. So I decided, we decided any kid that sold a hundred thousand bucks, I'm gonna take him out to dinner. You know, basic thing to say thank you.
+
+0 (43m 28s):
+A hundred thousand dollars a in a year.
+
+3 (43m 30s):
+In a year.
+
+0 (43m 31s):
+One kid. A hundred thousand dollars. Wow. Okay. Yeah.
+
+3 (43m 34s):
+Well that was way back then. Yeah. That was like five US presidents ago. Yeah. And we built that up, became known as a hundred k and the next year it was whatever. And then we said, oh, we're into snowboards, we're gonna take 'em snowboarding, we'll do an event on a mountain. So it was a, and this last year I had over 2000 kids that sold over a hundred grand. Wow. My number one employee sold over a million, 1,000,001 employee. And, and so it's like two days of great parties fun, a lot of prizes and a lot of stuff from action sports company saying thank you, but acknowledging you're good at what you do.
+
+0 (44m 11s):
+I wanna ask you about what happened in, in the sort of the late nineties, because I feel like kind of skater culture really exploded. I mean there was Tony Hawk and you know, obviously he's just kind of the, the LeBron James of, of skateboarding, but things like the X game started, right? And so all of a sudden, and you, you know, you start to see skateboarding events on s espn and, and it becomes much more mainstream. You guys are really riding this. I mean you're, you, you were out in front of it, but you're out there growing. And I wonder, I mean around this time, and I may have started a little bit earlier, you guys got some pushback from skater culture, right? There were some people in the culture would say, zoomies isn't for real, skaters it's for posers, it's for people who go to malls.
+
+0 (44m 54s):
+It's not for the real authentic skaters who go to skate shops.
+
+3 (44m 58s):
+Yeah. There was pushback. Usually it was from a competitive core skate shop. And I'm gonna say it again, we weren't cheaper. The brands we got and the hard goods we got, we taught and trained our kid who was just as core as a kid that worked in the local skater snowboard shop and skated or snowboard and rode the big mountain. And we were not cheaper. We had great product because I paid bills and we had perception what was coming. Yeah. And our kids sold because they were units per transaction, dollars per transaction, dollar per hour. And there was a measure and a reward and a recognition around how they did
+
+0 (45m 37s):
+That. You didn't care when people said you weren't, you weren't cool. You just, you you thought that was just competitors trying to Yeah. People
+
+3 (45m 43s):
+Tell you you can't do stuff all your life you keep doing, you know, look
+
+0 (45m 46s):
+At it.
+
+3 (45m 46s):
+You keep pushing until they tell you no. And then you go back and, you know, always had a famous line. An old friend of mine, when the customer says no is when the sale begins.
+
+0 (45m 58s):
+When we come back in just a moment. As Zumi stayed alive during the pandemic and why Tom thinks customers will keep coming to the store, even though malls are supposed to be dead, stay with us.
+
+3 (46m 11s):
+I'm Guy Raz and you're listening to How I Built This
+
+Capital One (46m 24s):
+With the Capital One Spark Cash plus card. You earn unlimited 2% cashback on every purchase and it has no preset spending limit. So your purchasing power can adapt to meet your business needs. The Antonelli's who own Antonelli's Cheese Shop in Austin, Texas use their 2% cash back from their Spark Cash plus card to help cover their employee's healthcare costs. Imagine what the Spark Cash plus card from Capital One could do for your business. Capital One, what's in your wallet. Find out more@capitalone.com slash Spark cash plus terms and conditions apply.
+
+Discover (47m 2s):
+This message is brought to you by Discover. Did you know you could reduce the number of unwanted calls and emails with online privacy protection? The latest innovation from Discover Discover will help regularly remove your personal info, like your name and address from 10 popular people. Search websites that could sell your data and they'll do it for free. Activate in the Discover app, see terms and learn more at discover.com/online privacy protection.
+
+0 (47m 37s):
+Hey, welcome back to How I Built This. I'm Guy Raz, so it's around 2002 and Zoomies is doing nearly a hundred million dollars a year in sales. And then it does two things a lot of growing companies do. It takes on its first big chunk of private equity and then a few years after that it goes public. I'm curious because you, you went public in in 2005 and I think the I P O raised about another 30 million.
+
+3 (48m 5s):
+Yep. I think we had 250 stores and Rick's running it by then. So I'd go and as the founder, I'd tell pretty much a different version or similar points what you and I have been talking about and then Rick talk about the vision.
+
+0 (48m 20s):
+Yeah. You know, it's interesting cuz I've interviewed so many leaders and founders in the retail space over the last, you know, 10 years. And I remember I, I interviewed a former C of of Macy's and you know that that's a tough business, right? It's JC Penney's where you started your career, right? I don't, that's a barely a shadow of itself today. People don't go into department stores in the United States as much as they used to. And this started to really happen obviously in the late two thousands when e-commerce really started to take off and this inevitably was going to challenge a business like yours that was in shopping malls, right?
+
+3 (49m 2s):
+Yes and no. And the yes, of course some of it went online, but we had a cultural experience inside Zumi and we were still fun and we were engaging and it wasn't just the cheapest price. Right. And it wasn't just a convenience thing. That teenager, our 12 day 2012 to 24 year old action sports kid, the art, lifestyle, street, whatever you want to call it,
+
+0 (49m 29s):
+They still wanted to go into the shop.
+
+3 (49m 31s):
+They still wanted to,
+
+0 (49m 32s):
+Even though the mall traffic has has dwindled, you know. Yeah.
+
+3 (49m 35s):
+I mean, I tell you, March, 2020, we closed all our stores around the world one day, March 21st, whatever, we were one of very fruit retailers cuz we have a good balance sheet that we paid all our full-time employees. We still paid them all the part-timers, you furloughed 'em, they got on unemployment in our country and you know, they had to sort it out and of course our online business went up, but not to make up for what we did in stores. Right. And we knew that. And after, you know, April and then middle of May stores started opening up again that middle of May, we were the first ones open cuz we didn't lose our employees. We paid them and we worked at kids wanna hang out in stores, they wanna talk to an employee that's thinks like them dresses, you know, whatever.
+
+3 (50m 22s):
+What's the music? What's going on, what's the sport? Yeah. You know, and we probably sell more skateboard product than anybody in the world now with that. Wow. And with our different stories in Europe and, and Australia and, and us and Canada.
+
+0 (50m 37s):
+I, I know that you, you've got a Zoomies product line and it doesn't, it's not the main driver of your revenue by any means. Yeah. It
+
+3 (50m 43s):
+Doesn't, we don't use the word zoomies. We've never put Mies on
+
+0 (50m 46s):
+It. You're gonna put Zoomies on. Right. But, and I wonder, like, there must have been a time where you were really pushed to do that, where people said, we gotta just really lean into this because look at Abercrombie, look at Aero postal, look at the gap. They've all but in, in actual fact it worked out well because those other brands had their own line and Of course yeah. Have had problems, had trouble.
+
+3 (51m 8s):
+You lose points on the margin not being vertical, but you gain on the, the assortment plan. Yeah. Where it's more diverse and if, if this shit stops selling, you mark it down, you get rid of it, you don't go forward. Yeah. We measure that. We measure new brands and all along we had on how many stores we are measuring this stuff now all the time. And who can grow from 50 stores to 500 stores and how it's different in Europe or you know, and there's brands that won't sell us, you know, still because, you know, they wanna be more exclusive and which is, which is fine. But we do a lot of private label in certain categories, like in denim and in outerwear and stuff under labels that, oh my god, you know, I've got very cool pants.
+
+3 (51m 53s):
+Pants are really big with this right now under our, our gene label empire. Cause we pay attention to the action sports, to the kid, the skater kid. Yeah. It's organized chaos. Little like life.
+
+0 (52m 6s):
+Tell me about this concept of organized chaos. This idea inside the store.
+
+3 (52m 11s):
+Yeah. Yeah. I think I was, I can't remember that as my term. Yeah. I've used it forever. You know, like a kid's bedroom or whatever and just
+
+0 (52m 20s):
+Crap everywhere. Stuff everywhere.
+
+3 (52m 22s):
+Yeah. We have a lot of product in our stores. If, if business is going good, you got, oh, you gotta add, you know, you started with less categories then we added shoes and we added juniors and we added skate and we added snow. And so organized chaos would be a store. There's a lot of action, there's a lot of color, there's a lot of screens, you know, imprints of screens of what's going on there. It'd be signage and something to store, but it's fun, it's edgy, it's trend, right. We have a whole routine. We teach chaos. Life a lot of times is chaos. We've learned how to love that, embrace that, use that, and grow the chain
+
+0 (53m 0s):
+You have devoted a lot of your time and your dollars to different conservation efforts in the Arctic and Alaska and the Pacific Northwest really? And, and on Capitol Hill and working with politicians to, to preserve the natural world. But I have a, I have a a sort of a, a question about it that I wonder whether you, sometimes something you might wrestle with, which is the apparel business is one of the most polluting businesses in the world. Yeah, it is. Yep. It is. Full stop. I mean, and, and it's not just to make it and, and dumping all the pollution into rivers and streams, but to, to ship it across oceans to the United States.
+
+0 (53m 41s):
+When people buy things, right. When people buy a lot of stuff, just by default, me, you everybody listening, we produce carbon emissions. Cuz to make something you've gotta burn something. Right? And I wonder how you wrestle with that. And I'm not asking you this to make you feel guilty, Tom, because I also eat meat and I pollute. I just be being a human. You do that, right? So
+
+3 (54m 2s):
+Let me tell you how I've, how I think about it. I always say when I may be lobbying congress on climate, you know, I may be the biggest hypocrite in the room, but this is what we need to do. Yeah. I make stuff, oil based products like shoes and clothing in Asia. Put 'em on a, a diesel freighter, send 'em to Southern Cal, put 'em in my distribution center, split 'em to 600 stores, every state in the union. And then to go in and buy the product, you gotta get in a gas fired car to go in there. So while I'm a hypocrite, I know my employees and my customers will tell you, yeah, but we need to do better. Which turns out this year they did. They, the, the he biggest climate bill in the history of the world.
+
+3 (54m 45s):
+So you have to do it as a country. And we have to do it as a world. Like we have the big conferences around the world and you see it in the auto industry and see it in transmission lines. You can see it in how we, we generate en energy and now that's happening with fabrics and inks on fabrics for instance. Now we, we do a lot of, it's called dtg Direct to Garment Printing where we use sustainable links and stuff. Yeah. And, and more sustainable t-shirt. I am not St. Thomas, I am working, trying to shape this with the influence in Zoomies with, we have a team that works on this, but I think we can do better. You know, I know you, I listen to your interview with Chenard Patagonia, he's the same way.
+
+3 (55m 29s):
+Right. He's doing it and trying to make it more sustainable. All our products and we carry so much high percentage of brands are not totally sustainable now, but they're working in that direction.
+
+0 (55m 41s):
+One of the things I remember Yvonne Chenard said to me when I interviewed him was he doesn't want people to buy. And, and I believe him when he says this, he does not want people to buy a lot of this stuff. He want, he wants people to buy a jacket once and get it repaired.
+
+3 (55m 55s):
+Yeah. It's a, it's a very different market strategy. He's totally vertical. He's his own brand. I could say I'm gonna be carbon neutral and you're gonna pay an extra 10 bucks for every unit of clothing in our stores. And because how consumerism works and how markets works and economies work, it would be a very noble thing to do. But you wouldn't be able to sustain that.
+
+0 (56m 21s):
+You're in your mid seventies. I know you're not running the day-to-day Zoomies, but you're still very much involved. Like how, how involved are you? I mean do you, do you go to regular meetings? Do you get, you know, updates?
+
+3 (56m 33s):
+So I do all the, I'm, I call myself the charge of the culture still, even though that's not even total accurate. I've following it all the time. Rick and I have great friendship. We're communicating on a regular basis. I'm the chairman of the board, so I'm in all the board meetings. I do all the major cultural events, the a hundred K and the managers retreat and with the head of stores, with the head of buying team. I don't travel as much to stores cuz of my age, but still very, yeah, I'm still very engaged in what's going on.
+
+0 (57m 7s):
+When you, when you think about, you know, this brand and this business, I mean culture around skating and around snowboarding has just grown and evolved. And it's also a lot more diverse. Now I remember when I was a kid, it seemed like most of the kids who were skaters were white. And now it's very different. Like I go to skate parks and you just see kids from all backgrounds and cultures.
+
+3 (57m 31s):
+Yeah. So it was white when we got into it in Pacific Northwest in the mid eighties. Now a 600 stories zoomies with, I think we got 10, 12,000 gen Zs this month, probably 10,000. We are so multicultural with Hispanic, black, Asian, indigenous, pretty much 50 50 men women, very welcoming in place for L GT Q and talking about all that. And because that's America, I'm really proud of that. You know, you look in America, you're under 30. It is a minority majority country. Now we argue about the wrong things. We, we should be arguing about how we all become better, you know, how to grow this country with this incredible opportunity.
+
+3 (58m 17s):
+If I can drive that employee to feel good about his or herself, about what they're doing, you know, as the world changes and evolves and kids coming up have maybe an experience like I did, it'd be a good thing.
+
+0 (58m 32s):
+Yeah. Tom, when you think about, you know, all that, that, that you've accomplished and achieved in your 74 years now, you know, starting at pennies and above the belt and into a company, you know, a company with more than 700 stores and countries around the world and thousands of employees. I think 10,000 employees part, most of 'em part-time of course. But it's a lot of, lot of people that's employed by the company. And then all the work that you've been able to do with, with, you know, with your money, with the resources that you've made from this, you've been able to really spend it in ways that, that you've wanted to around conservation. How much of, of all of of that do you attribute to how hard you worked and the intelligence and the strategy that you put in place?
+
+0 (59m 14s):
+And how much do you think has to do with just being lucky? Just catching the, the skate surf wave.
+
+3 (59m 19s):
+This isn't luck. It has nothing to do with luck. That's not arrogant, it's not luck. It's about measured discipline, hard work going forward. Mm. Yeah. Luck may be very small part of it. It's hard work. That's why not a lot of people do it cuz you know, it's hard work. I mean, bad luck would've been a competitor that thought about it like I did. So two of 'em coming up at the same time. But it's, you know, America's got credible opportunity. My old man was a mailman and now here I'm talking to you about, oh yeah, I've got 700 some stories like big whoop. Yeah. And I'm still here sitting there talking to you in this cold wet morning cuz I've been in retail 56 years.
+
+3 (1h 0m 3s):
+I still love what I do. And I mean that, that goes to this day. I mean, I'm looking at comps, what Zoomies did yesterday at five o'clock this morning, 44 years later,
+
+0 (1h 0m 16s):
+That's Tom Campion, co-founder of Zoomies. And by the way, speaking of luck, in 1970, Tom had to register for the draft during the Vietnam War. He remembers his draft number. It was 248, but that year, only men with numbers up to 219 were sent to fight in Vietnam. So Tom stayed home and eight years later he launched what would become Zoomies. Hey, thanks so much for listening to the show this week. If you want to contact the team, our email address is h ibt id.wondery.com. If you wanna follow us on Twitter, our account is at How I built This and mine is at Guy Roz and on Instagram.
+
+0 (1h 0m 57s):
+We're at How I Built This and I'm at Guy dot Roz. This episode was produced by Casey Hermann with music composed by Rameen Arab Bluey. It was edited by Neva Grant with research help from Susanna Brown. Our production staff also includes JC Howard, Kira Joaquin, Carrie Thompson, Alex Chung, Sam Paulson, Elaine Coates, John Isabella, Chris Masini, and Carla Estevez. I'm Guy Oz and you've been listening to How I Built This. Hey Prime members, you can listen to how I built this early and add free on Amazon Music.
+
+0 (1h 1m 37s):
+Download the Amazon Music app today, or you can listen early and add free with Wondery Plus and Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built this merch and gear@wonderyshop.com. Before you go, tell us about yourself by completing a short survey at wondery.com/survey.
+
+8 (1h 1m 60s):
+A few days before Christmas, Janelle Matthews disappeared from our home. There were no signs of a struggle, no eyewitnesses, no DNA recovered. But what if the answer had always been there? What if a true crime fanatic who'd been talking about the case was more than just an obsessive fan? The groundbreaking True Crime podcast suspect is back with a new story that attempts to separate fact from fiction and one man's true crime obsession from a motive for murder.
+
+9 (1h 2m 29s):
+He says, don't with me, officer Edgerton, I've buried more people than you'll know.
+
+10 (1h 2m 34s):
+He's providing information that hadn't even been released to the news yet.
+
+11 (1h 2m 38s):
+At least it's a good liar that he can convince the juror that he wasn't involved.
+
+8 (1h 2m 43s):
+Follow suspect wherever you get your podcasts. Hey Prime members. You can binge the entire series ad free on Amazon Music. Download the Amazon Music app today.

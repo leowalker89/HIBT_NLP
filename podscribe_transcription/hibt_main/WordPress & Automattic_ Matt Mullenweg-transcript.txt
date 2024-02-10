@@ -1,0 +1,836 @@
+Klaviyo (0s):
+Ready to turn your small e-commerce business into the next big thing. Klaviyo can help. It's the easy to use email and SMS platform that gives you everything you need to build genuine relationships with your customers. And even if you're new to marketing Klaviyo can help you become an email expert with drag and drop design templates, simple insights, and made for e-commerce reports and recommendations. Give it a try with a free account at klaviyo.com/built. That's K L a V I Y o.com/built.
+
+Turbo Tax (35s):
+We all have unique lives, whether you invested in crypto for the first time, this year own an up and coming small business, or are raising rambunctious twins. Luckily TurboTax live has experts who can answer your tax questions, walk you through the whole process, or do your taxes for you from start to finish. No matter your unique situation to TurboTax live experts. An interesting life can mean an even greater refund. Visit turbotax.com to learn more. You do your thing. They've got your taxes, Intuit, TurboTax live.
+
+0 (1m 8s):
+Hey, really quick. Before we start the show, did you know that how I built? This is also a book? Well, it's now out in paperback and available wherever books are sold. So check it out. How I built this, the book now to the show,
+
+2 (1m 26s):
+Actually remember this meeting once. Well, the awkwardness meeting I'd ever been in, it was the publishers. I think of news.com. The editor in chief, everyone was there and it said, okay, here is a fully written article, ready to go publish it. And at the time publishing something to 10 or 20 steps. So all in all, you're looking at like 20 minutes and we all had to sit there, all this happened. And then the guy pointed at me, he was like, Matt, here's the written article, publish it. I just copy and paste it into WordPress. I press publish. And it was on the website seconds later. And I just got these like death stares from all the folks there. They were like, who is this kid? Who does he think he is? This is dumb. And it's true. The software didn't do most of the things their software did.
+
+2 (2m 8s):
+It was worse in so many ways, but it was better in a way that mattered.
+
+0 (2m 19s):
+Welcome to how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built. I'm guy Roz. And on the show today, how Matt Mullenweg tapped into a tiny group of coders who wanted to make blogging better and went on to build a WordPress platform that now powers more than 40% of websites on the internet. So just think about that number for a second. Something like 40 of the world's websites are built using WordPress.
+
+0 (3m 3s):
+That's a pretty astonishing statistic. If you consider that its main creator, Matt Mullenweg originally built WordPress as a non-profit blogging platform. That was back in the early two thousands. When Matt was about to become a college dropout. At the time he moved from Houston to San Francisco, determined to join the tech scene. He was an early enthusiastic of both blogging and open source software, basically programs or platforms that are free to use, but also designed to be improved by their users. And his big idea was to build a platform free and open source. Of course, that would allow anyone anywhere to create a blog.
+
+0 (3m 46s):
+Now at the time starting a blog, wasn't so easy. WordPress changed that, but when Matt started to get job offers from some of the big tech companies, he turned them down. Not because he didn't want to work for them as you will hear, but rather because he knew that going to work for a tech giant would mean giving up his intellectual property. WordPress caught on largely because it appealed to two very different types of consumers. People who didn't know anything about technology or how to code and people who were hardcore programmers, who believed in open source platforms that they could improve and tweak today.
+
+0 (4m 26s):
+WordPress is one of several products that sit under the parent company. Matt created called automatic accompany now valued at over $7 billion and a business that technically doesn't have any offices despite having nearly 2000 employees around the world. Anyway, Matt grew up in Houston, along with his sister. His mom managed the family and his dad worked as a computer programmer, mainly for oil companies. And as a teenager, Matt was actually pursuing a potential career as a musician to be precise, a saxophonist,
+
+2 (5m 5s):
+Just so cool. Good place acts. Well, bill Clinton played saxophone famously. I think Lisa Simpson on the Simpsons played saxophone
+
+0 (5m 15s):
+Still does.
+
+2 (5m 16s):
+It was just a fun and cool instrument. And I chose it because my dad played it and, and I love jazz. And a lot of the music I listened to at the time was probably like what we call oldies and Saxon was much more prominent in music back then. So those are just fun to hear like Saks and popular music.
+
+0 (5m 33s):
+So for high school, you ended up going to performing arts high school, which became, I think pretty famous because of one of its most probably its most famous graduate Beyonce and their sister Solange also went there. This is the high school you went to. They
+
+2 (5m 49s):
+Asked you went to my elementary school as well. Actually
+
+0 (5m 51s):
+She's a couple years older than you. Right.
+
+2 (5m 53s):
+So we, I think we overlapped in elementary and we didn't overlap at the same time in high school. She, she got pulled out a little early to Destiny's child.
+
+0 (6m 1s):
+Yeah. And what was the high school like? Was it like that show fame where people were like, you know, dancing in the hallways and playing instruments in the lockers and buy lockers and stuff or
+
+2 (6m 10s):
+Yeah, it, it actually really was, it was a fantastic environment that I kind of thought that was how I'd make at least part of my living, because that was the first way I really earned money was playing the saxophone.
+
+0 (6m 24s):
+How did your money playing sex
+
+2 (6m 26s):
+Gigs?
+
+0 (6m 27s):
+Yeah.
+
+2 (6m 27s):
+So it'd be like an Italian restaurant, right? Like a big band. I would busk sometimes. So just kinda like, you know, playing saxophone, you never really play by yourself. You're always playing with people. So I always loved the interplay and collaboration and camaderie that came from my pain and pants.
+
+0 (6m 45s):
+What was the kind of the decision point where you thought, you know, I'm not going to go into music? Was it, was it just clear to you that that was not a, I don't know, maybe it wasn't a practical decision if you want it to, I don't know, have a stable life. I don't know. What, what was, what was your thinking around that?
+
+2 (7m 3s):
+You know, at the school, some of the kids were just true prodigies and I was more pretty good, but how to work super, super hard to get there. Yeah. And definitely not the best. So yeah, it just became clear. And during high school I asked to start to get a lot more, probably even before that, the computer stuff. I remember when my dad first started to have a computer at home because normally he would just have one at work. We would build them. So kind of putting them together. It was a product kind of like building a car or something. Like we buy the parts, we put them together. So I was always tweaking it and changing things and trying to overclock it to make it faster for games or whatever it was. And I'd often break it.
+
+2 (7m 44s):
+And if I broke it and my dad came home and it was broken, he would be pretty cross with me. So I would definitely try to fix it before he got home as like a race against the clock, like trying to diffuse the bomb before it goes off.
+
+0 (7m 57s):
+What about the internet? Did, I mean, were you already, you know, talking to people over the internet, were you in, in chat rooms? Were you active in any communities at all on the internet?
+
+2 (8m 10s):
+Yeah, I think I found my very first post and it was on like a Freemason channel. I was really into like this idea of secret societies and things. And so the communities would form around a shared interest, but it would really, it was about the other people you'd get to know the other 20 folks that were there. There was a chat system called IRC I would log into and use a lot. So it was kind of like a think of it like a text-based slack. And then we created them. So one of the best saxophone players still and Houston and one of my teachers was this guy named David Casarez. And so he paid me, you know, 500 bucks and I made him a website. But then for no good reason, actually I put forum software on his website.
+
+2 (8m 51s):
+So there was like this forum where people could post and you could ask them questions, but really, it just became like all of the students and jazz people in town would hang out there and talk to each other.
+
+0 (9m 2s):
+How did you learn how to put per website together when you're in high school? I mean, cause it was much more complicated. This is like 2000, 2001. Like it was much harder to do than it is today. How did you figure it out? Did you get a book? Did you get a manual?
+
+2 (9m 17s):
+Yeah, there were definitely, but a lot of it was trial and error. There was early website publishing software, web services, like geo cities, software, like Dreamweaver or front page that would allow you to make a honestly clinical for the time websites. So a lot of my learnings or this is true of all computer stuff is I would just kind of click all the buttons.
+
+0 (9m 37s):
+Yeah.
+
+2 (9m 38s):
+And the other main thing I was doing online was I had started a photo website called Fotomat and I was posting photos,
+
+0 (9m 46s):
+Two website, a website that you had.
+
+2 (9m 49s):
+Yeah, well I use some open source software called gallery and it was a PHP script that would allow pre flicker pre-Facebook pre anything to post photos and have calories online. And it became really popular on my friends. Like, they'd go every day, see the photos, leave comments, we'd have conversations there.
+
+0 (10m 6s):
+And so I guess for college you decide to go to the, to the university of Houston. Yeah. And this is a time like early two thousands when blogging really starts to, I mean, it starts in the, in the late nineties because I think geo cities and some of these other sites where people were kind of putting their ideas and thoughts out, out into the world. Did you have a blog? Did you start your own blog?
+
+2 (10m 28s):
+I'm trying to think when I started my blog blog probably would have been around the same time, like 2001, 2002.
+
+0 (10m 34s):
+And was it, was it easy to set up?
+
+2 (10m 36s):
+So there were some services that were pretty easy, large journal. Yep. Zenga blogger, blog spots. So there were a few online services that made it really easy just to go and type things to run your own software on your own domain was much, much harder at the time. And I first used a software called movable type and then I found some open source versions. And the one I used was called I B2 cafe log.
+
+0 (10m 60s):
+And what, what did that actually mean? Is it was a, like a platform where you could just upload your photos and your text and publish it. Am I describing that fairly accurately?
+
+2 (11m 12s):
+Basically what blogging software did was instead of having to edit lots of files and move things around manually, you kind of go to a website type in a box, press publish, and then it would be on your website.
+
+0 (11m 23s):
+So B2 was this blogging open-source platform that you, that you liked clearly
+
+2 (11m 30s):
+I had already kind of fallen in love with open source. I mentioned the gallery software I used was open source. And basically what that meant was it was put for free online and people would contribute to it. So they would modify it, fix things. It was, it was like software developed by a community that had been developed by a company.
+
+0 (11m 48s):
+And I guess you, I mean, you start to contribute to it, right. You started to, to sort of make suggestions for changes.
+
+2 (11m 54s):
+Yeah. So I mean, first there were forums. Right. And I was still learning the code at the time. And as I got better and better, I would read the B2 code to understand it and then start to modify it.
+
+0 (12m 5s):
+So there's an example that I read about and I'm, cause it seems so weird today. Right. But, but doing like curly quotes was something that wasn't easy to do. Like if you wanted to just put a quotation mark in a blog, it was those like the double prime mark, right. It wasn't easy to do. Am I right about that?
+
+2 (12m 24s):
+Yeah. When you type what you, what we would call an apostrophe on your keyboard, that's actually not an apostrophe. It is a single prime work. So that's used for indicating like feet. Right. As an example, it's not meant to be an, a contraction like
+
+0 (12m 41s):
+It is.
+
+2 (12m 42s):
+Yeah. It's so when you have the it apostrophe S if that's actually a totally different character, that's not on your computer. Yeah. There's no keyboard for it. And so to do it in HTML, what you would type was it then ampersand, hashtag 8, 2, 1 7. Semi-colon S if you wanted the proper curly quilt, and there's equivalence of that for M and N dashes quotes, ellipses. So when you type three periods in a row, that's not actually a, is it's just three periods in a row. Yeah. Instead of making it a Lipsey's is totally different character. So yeah. I just memorized all these codes to write that. And so when I was writing blog posts, I was literally typing out all these codes, but that just got kind of frustrating.
+
+0 (13m 25s):
+Yeah. All right. So you, you started to, to submit ideas and actual code to this blogging platform, B two, which, which happened to be based in Corsica that the, the French island in the Mediterranean and where people are like, yeah, this is a great idea. Like what, what, what was the response?
+
+2 (13m 44s):
+People liked it, like I logo feedback and I proposed it to the lead developer at B2, which was this guy named Michelle <em></em> in Corsica. And he was like, oh, that's cool. You know, submit it. And so I created a ticket to submit that to the code and it was accepted. So then it became part of the official release. So the next version of B2 cafe log that came out, what had this code included, and then everyone who upgraded was running the code. And I got this like, complete, like high of like, oh my goodness, there's hundreds and hundreds of websites running code. I broke, which was a thrill.
+
+0 (14m 16s):
+All right. So this, this open source platform, B two, I guess this guy, Michelle, who was the sort of lead programmer he left. And I imagined it was a tiny little group of people because they stopped it kind of just stopped developing it, right. At a certain point. This is around 2002.
+
+2 (14m 34s):
+So what happened was there was other contributors like myself and others, but Michelle kind of had the keys to the whole thing. He was the lead developer. He was, you know, what we call an open-source is often a term called like benevolent dictator right. For life. And so, yeah, it was a little bit of a mystery where he went and basically what happened was I, I was literally blogging everything on my mind at the time. It was a huge overshare. So I did this blog post. I called the blogging software dilemma. And I said, you know, that I really wanted something that was different than anything else out there. That's just at the market. I wanted something that was really beautiful with great typography, like this system called text pattern.
+
+2 (15m 14s):
+Yep. Really simple like blogger. Sure. And really what I call hackable or flexible like B to B two was really easy to code was really easy to understand and modify. I actually still believe the code was beautiful. It was beautiful code. So I was like, what if something could combine all of these? That would be awesome. That's what I would love to use. And also, you know, part of it was, it wasn't just, I wanted software, text pattern was actually my favorite at the time. I liked it better than the two, but it wasn't open source. And so because B2 cafe log was open source, their license called the GPL, the work that Michelle had done, wasn't lost. And so part of it, the point I was trying to make in this post is that if I disappeared or fell off the face of the planet, the code that I created would not be lost either.
+
+2 (15m 55s):
+It would still belong to the world and people could take it and continue it. So this comment, I think a day or two later, it was left by a gentleman named Mike Little and the United Kingdom. And he was one of the other volunteers on the forum, someone else who had contributed code B2. And so we'd follow each other blog. And he said, Hey, if you're serious about working on this, I'd love to work on it together. And so that's what Mike and I ended up doing was we took the code from B2 cafe law, canvas and Bannon code. And we did what in open-source is called. We forked it F O R K and start use that as the base to start creating something new
+
+0 (16m 28s):
+And, and just standing up these free tools that wasn't expensive, th that the, the tools themselves didn't didn't require a whole lot of money to keep them going.
+
+2 (16m 39s):
+The only cost was time.
+
+0 (16m 42s):
+So you get this comment from, from Mike Little and you wrote back and said, yeah, let's go, let's start
+
+2 (16m 49s):
+That.
+
+0 (16m 50s):
+You never met him. You didn't know him personally. Did you call him on the phone? Did you have a phone conversation or anything like that?
+
+2 (16m 56s):
+No. If we ever talked on the phone, Mike might remember probably not, to be honest, we would hang out on IRC. So we chat with each other. We'd probably chat. Maybe we'd use like Skype or AOL instant messenger or something. But yeah, we just talk online and also just talk over the code. So we'd send each other code back and forth. And with common sense, that's kind of how, kind of, how you'd work on things together was you'd, you'd communicate with the code and then talking about the code. So it was a really fun way to work. It's still how people work in open source today.
+
+0 (17m 30s):
+So all the people, presumably who were in the B2 community kind of migrate to your community because you're building on it. And did you call it WordPress from the, from the beginning?
+
+2 (17m 41s):
+And so, so what happened at the time was Mike and I had our fork B2 and there were five or six other forks. So five or six other people that had the same idea and made their own projects. Right. I was part of a blogger community in Houston at the time. You know, there's only a few people blogging. So like, we'd all get together at like a coffee shop or a bar and hang out with each other and talk about our blogs and blogging. And, you know, I talked about this idea to start the software. And one of the bloggers named Christine thought of this name, WordPress, and she called me, she was like, I'm so excited. I'm so excited. There's his name? And the.org is available. You should go for it. And I just fell in love with it. So that's how we chose the name. She, she had the idea and then I raced to the.org.
+
+0 (18m 23s):
+This is not in 2003. This is not a business story. You and Mike Little, we're not starting a business. Right. You were just starting a project to make blogging, like easier, more fun, cooler for everybody to contribute to. Is that right? Yeah.
+
+2 (18m 41s):
+Yeah. The best word is we were hobbyist. This was a hobby. This is what we did for fun. After our jobs, you know, Mike Little had a normal job. I was going to school making websites.
+
+0 (18m 51s):
+How old was Mike? You were like 19 or 18. How old was he? How old was he at the time?
+
+2 (18m 55s):
+That's a good question. Mike is definitely older than me. I want to say 10 to 20 years older. Right. Would be my guess. So he was probably in his like thirties right
+
+0 (19m 6s):
+At the time.
+
+2 (19m 6s):
+And I was, you know, 1920.
+
+0 (19m 9s):
+And I guess eventually Michelle, the guy who, the original B2 creator also joined the two of you in this project.
+
+2 (19m 17s):
+Yeah. So he came back, which was awesome.
+
+0 (19m 20s):
+Where was he?
+
+2 (19m 21s):
+So we found out later that he had gone through a difficult personal period of depression. And so he had kind of unplowed. I still don't know all the details, but that's what he shared with us. Yeah. But he was fine. He was healthy. He was back. And when he came back, he, he had seen that like, oh, all these things blossomed out of this thing. And so he looked at all the different forks and very graciously sort of crowned WordPress, the official continuation of B2, B2 cafe log is done. But the WordPress folks are going to be, if you maybe want to, do you want the new versions essentially go to them. And he became a contributor as well. So he would actually help out with the code and, and hang out on the WordPress forums and everything like that.
+
+0 (20m 3s):
+But in, in, in that first, as sort of first six months, when you and Mike are kind of messaging back and forth, by the way, when was the first time you ever met him, you started to work together in 2003. He's in the UK. You're in Houston. When did you meet in person? For the first time?
+
+2 (20m 19s):
+I could look that up, but it probably would've been closer to like 2005 or 2006.
+
+0 (20m 26s):
+Wow. So you were building this platform with somebody who had didn't know anything about, except you knew he was pretty good at what he did, but you didn't know his personal life restored or anything. And you were, it was just a leap of faith, I guess. I wouldn't, it doesn't even sound like there was a leap of faith. He would just, it was both of you were interested and you were just doing it.
+
+2 (20m 51s):
+Yeah. So we met on January 25th, 2006. So that would have been almost three years to the day from when he left that comment.
+
+0 (21m 2s):
+Did he look, as you imagined?
+
+2 (21m 5s):
+I remember Mike being super cool. I think he had been in the, like the punk scene and he might've had like some piercings or tattoos or something. I was just like, ah, cool guy, still cool guy, honestly. So lucky that Mike and I always got along and we ended up being people who were very compatible.
+
+0 (21m 24s):
+All right. So you and Mike are sort of pursuing this WordPress idea and officially, I guess you launched WordPress, you put it out into the world in may of 2003, who was the kind of person who would have been excited about this?
+
+2 (21m 40s):
+Yeah. Bloggers, bloggers, and bloggers.
+
+0 (21m 42s):
+So it would be people who might've used IE blogger or live journal or something like that.
+
+2 (21m 46s):
+Totally. Also developers. So part of what I did was reached out to all the other forks of V2 and reached out to them and said, Hey, you know, instead of working on these separate projects, why don't we pool our resources and I'll work on the same thing? So all of the forks, except for one joined up with WordPress. So WordPress at the time of launch probably had like five or six named developers, but dozens and dozens of people would make like one small change or one little tweak to it.
+
+0 (22m 15s):
+So this really was like Wikipedia. I mean, this, this was very, very similar to that model. Totally. So when you released it, how many people in those first few months do you think start to use it in the hundreds?
+
+2 (22m 27s):
+Hundreds.
+
+0 (22m 28s):
+Hundreds. Okay. So it's pretty good. What, what were your costs? I mean, as more and more people began to adopt this software in 2003, into 2004, what did you have to spend money on besides your own time?
+
+2 (22m 44s):
+Well, first we need a bigger server just because the website was getting too much traffic and it was overloading.
+
+0 (22m 51s):
+So, and this is before Amazon web services, right?
+
+2 (22m 53s):
+Yeah. So we essentially rented a server that was like a box in a, in a building somewhere and you could interact with it online. And so the first, one of those is probably like 89 or $99 a month. But my rent at the time was $425 a month. So that's a pretty big expense. Yeah. For me, probably servers where they were the main cost at the time.
+
+0 (23m 17s):
+How did you, how'd you pay for it
+
+2 (23m 20s):
+Just out of this income? I would get from building websites, building computers and, and playing saxophone gigs.
+
+0 (23m 26s):
+So I guess you start to get some attention, including from some websites that, that kind of wrote about this stuff. And you're still a student. This is about a little over a year after you and Mike Little started to put this together. You got an offer, a job offer from CNET, which is still around. It's like a website. They do reviews of technology and stuff, and they, they wanted you to come work for them. What do they want you to do?
+
+2 (23m 57s):
+Oh, kind of what happened was I had set this sort of goal to be the number one result on Google when you search for Matt on the internet. So that what that meant, if you typed in mat and press, I'm feeling lucky that button on the Google home page, it would just take you directly to my website. And so every install of WordPress had links to all the main developers. So because these thousands and thousands of websites were all linking to the word mat that would make Google think, oh, these websites, you know, fotomat.net, et cetera, is the number one site for people talking about mat. And so we started to rise up in the rankings. And I think at one point pretty much all of us were the first results for our names online.
+
+2 (24m 38s):
+So when this happened, there was this conference in Texas called south by Southwest icon to I'd met a lot of people from San Francisco and one of them, a browser developer named <em></em> said, Hey, come out to San Francisco. You can crash on my couch. And so my plan was to go to San Francisco and couch surf. And so I just said, Hey, I'm going to be in San Francisco, you know, August one to August 8th. And if you want to hang out, here's my email and here's my phone number. So I kind of announced to the world, it's going to be in San Francisco
+
+0 (25m 5s):
+On your blog.
+
+2 (25m 6s):
+Yeah. And a bunch of folks reach out. People reached out, Yahoo, reached out, think AOL reached out. CNET, reached out to a bunch of companies reached out to meet me while I was there
+
+0 (25m 18s):
+You go out there and you meet all these people who wanted to meet you because they had been hearing about WordPress and did, so did you end up meeting with all these companies with Yahoo and AOL? And
+
+2 (25m 31s):
+It was amazing. It really was the center of the universe. And I had community again, there was like probably sub 100 people who are passionate about the things I was passionate about. And then San Francisco, it seemed like everyone was, and they were the people building the other web browsers and the big services. So every company kind of had a different idea for what they could do with WordPress. And basically it wasn't, there was nothing to buy. Right. So it's not like they were trying to buy it, like, Hey, we'll hire you and you could come. Maybe still do the WordPress thing. Maybe shut it down, but like work on something for us. Yeah. And so it was kind of the first internet media company, best way to put it.
+
+2 (26m 11s):
+So not unlike a Buzzfeed or vice or something. Right. And, and so they invented a lot of like what we call a CMS or content management systems, because they were the first to really have hundreds of authors and thousands of thousands of posts and be publishing every day. Yeah. That scene, that.com, which is kind of a tech site and news.com had download.com, which is where most people went to get their software. And some of them had started to adopt WordPress organically. So just started to use the open source software for their, for the blog. And, you know, these companies that were hiring, we were, were talking about salaries like 70, 80, $90,000. Wow.
+
+0 (26m 48s):
+And you were 19 or 20, maybe at the time
+
+2 (26m 53s):
+That would have been 20. Was
+
+0 (26m 55s):
+That, I mean, were you surprised by, by those offers?
+
+2 (26m 59s):
+He was like winning the lottery. It was my dream come true. And also my, my income at the time was probably, you know, sub $1,000 a month. So yeah, I'm paying some of my bills still getting help from my parents and my sister, my grandmother probably they would always bring over food whenever they visited. You know, they say, oh, you're going to match, take some food. And the job I took, which was for seeing it, I took it for a few reasons. First they allowed me to retain the intellectual property to the code I was creating. Right. So normally when you join a company like Google, you sign over the rights to everything you create. They're kinda like a musician giving away their masters. And I, to me, IP rights are incredibly important.
+
+2 (27m 40s):
+So I only want to work for a company that would allow me to keep that,
+
+0 (27m 42s):
+How are you so smart to know that at 20,
+
+2 (27m 46s):
+I just read a lot of blogs, write a lot online. So people talk about this. And also coming from a music background, I was very familiar, studied a ton of music history. And so I was very familiar with the Motown artists and others that,
+
+0 (27m 57s):
+Oh yeah.
+
+2 (27m 58s):
+They're sort of original
+
+0 (27m 59s):
+Records signed everything away.
+
+2 (28m 0s):
+Yeah. They, they were taken from them. And so sometimes they would be in poverty, even though they created these most amazing songs. So IP was always super, super important to me. I still, I like, I'm a big believer in copyright. I choose to license my copyright in a way that's accessible to everyone. But the core of that as a respectful copyright.
+
+0 (28m 19s):
+So seeing that was w was the only one that said, yeah, you can retain everything. We just want, we just want you to work with us. And first of all, you have to tell your parents, you're going to, you're, you're dropping out of college for you personally. Was it a hard decision to make you were not going to be a college graduate?
+
+2 (28m 34s):
+We definitely talked about it. I think the thing that weighed on me most was I father had worked so hard to go to college and the first in his family to ever do so. And I had it so easy. So I just felt that guilt and responsibility of it. But, you know, living in San Francisco was a dream come true. It was like, what's the most amazing place in the world to meet. And I think what happened was my family saw that I just saw the fire in my eyes, the passion. And so ultimately became supportive and I negotiated for a higher salary, probably from 70 to 90 or something. Wow.
+
+0 (29m 10s):
+And you were making more money than your dad had ever made in his life? Probably
+
+2 (29m 14s):
+The higher, I was found out later that it was higher than his salary at the time, because he was kind of bitter, not bitter sweet, but he was happy for me, but I could tell he had a little bit of, for Lauren as I told him the news. Yeah. And then later he started his own business where he made a lot more, again, doing the exact same work keeping doing for 25 years.
+
+0 (29m 33s):
+It's amazing how big companies can really just, if they have a good employee, they can just undervalue them. If that employee doesn't speak out or speak up or liquor or just look around.
+
+2 (29m 44s):
+Yeah. It actually, you know, I tear up thinking about it and I've always been, it's been really important to me at my companies that we don't do that because when people pay you with loyalty, you need to repay them. I think that the people joke about or say criticized that people jump between companies. There's no loyalty anymore, but I think that's the fault of the company or the people it's that they're not treating people like they want them around for 20 years.
+
+0 (30m 5s):
+Yeah. All right. So you move to San Francisco, you get an apartment there, presumably. And what were you doing at CNET? What was your job?
+
+2 (30m 13s):
+I think my title was program manager or something, and so I'd get special projects. And also part of what I would do is I would sort of evangelize WordPress within the company to all the different properties and just help out wherever I could.
+
+0 (30m 26s):
+What was that like being, trying to go back to when I was 20, I have a lot of self doubt. I still have self self-doubt today in my late forties. How did you, how'd you deal with that? Did you have any of those anxieties at all?
+
+2 (30m 39s):
+Not as much as I should have. I like two things really helped with that. Well, maybe three, one having just a really loving and supportive family to performing, you know, so how I get on stage a couple of times a week and you know, it's terrifying,
+
+0 (30m 56s):
+But I play the saxophone. Yeah. Yeah.
+
+2 (30m 57s):
+You learn how to breathe. You learn how to take a few deep breaths and you go for it. And then finally doing tech support every week, you know, I still go to on Saturdays to volunteer, to fix people's computers at this nonprofit. So like all of that, I feel like really, really helped us for talking about technology, connecting with people and really, you know, folks who were very, very successful come in, you know, like top lawyers or top real estate agents or something, but their computer would be broken and they wouldn't know how to fix it. And I, as a kid was able to fix it. You just develop all these friendships with folks from all sorts of different parts of society that would come together. Cause we all loved.
+
+0 (31m 33s):
+Yeah. So it sounds like when you got there, you didn't feel intimidated by it. Cause there must've been, some are really, really smart people around you.
+
+2 (31m 40s):
+Yeah. I think that, you know, music and jazz, especially maybe there's a sitting gig where people come up and just like sit in and you never know how someone's going to say. And you also have been the person that goes up and bombs or so you just treat everyone well. And you always remember, I liked the days when you weren't that good.
+
+0 (31m 59s):
+Hmm. And like jazz you with musicians that you weren't familiar with, you just kind of had to ref. Right. And especially it's free form. You just kind of, everyone's kind of playing off the other musician and I guess there's a similar kind of thing with open source coding,
+
+2 (32m 15s):
+You know, I, I remember reading in a jazz book early on that you always want it to be the worst person in the band. Wow. And it's like, wait, why? Yeah. But what that means is that everyone else in the band is better than you and you're learning from them. I love that though. I think know I was always trying to be the worst program in the room or the worst designer, whereas computer person, like I was always trying to surround myself with the smartest people I can meet in whatever area it was.
+
+0 (32m 40s):
+All right. So you're at, at CNET and clearly that they're okay with you kind of working in this wordpress.org open source thing on the side. And I think it's around this time that you come up with the idea for wordpress.com, which was different, it was, that was going to be a for-profit version and sort of it like a user-friendly way for, for people to make blogs. Right. What was your, what was your thinking on that?
+
+2 (33m 5s):
+It was actually what I had pitched to my employer. So I had gone to CNN and said, Hey, WordPress is cool, but it's really complicated to set up. If we can make it easy, you just click a few buttons and you get a WordPress. I think that'd be really popular. Let's do that. And that was my pitch to CNET. And I even pitched a CEO, but they, they didn't want to,
+
+0 (33m 23s):
+He needed that. You needed them to finance it.
+
+2 (33m 26s):
+I really just wanted, I felt a lot of loyalty. I was, I had this great job. They were paying me. I was like, this is a really good idea. You also do this idea. I want
+
+0 (33m 33s):
+To do, we're going to do it for them internally at CNN. Oh,
+
+2 (33m 35s):
+Totally. Yeah. And they had all these awesome domains, including some ones that weren't being used. Like I think I pitched to use online.com. So I could like, let's say online.com and anyone can come and sign up and you would get like guy.online.com and that would be a WordPress install. And you could customize it and blog and do all this cool stuff that you could do with WordPress, just with clicking some buttons And they didn't want it. I didn't want it
+
+0 (34m 1s):
+When we come back in just a moment, how mat alienates users by inadvertently putting spam on WordPress and why he winds up walking the streets of Venice, Italy, while on vacation, desperately seeking a wifi connection, stay with us. I'm guy Roz. And you're listening to how I built this.
+
+Coda.io (34m 34s):
+You know, what's great being able to work from anywhere when you just need your laptop and decent wifi. And you know, it's not so great being spread out across the country and trying to keep the team on the same page and focused on the same tasks, which is why I'm a huge fan of Coda with having teams spread across the country. If your best work is spread out across documents and spreadsheets and a stack of workflow tools, you have to jump in and out of all day, well you need Coda. It's the doc that brings it all together. Coda is endlessly, customizable and connected. There are templates for anything and everything. Product roadmap, remote onboarding, OKR tracker, meeting notes, you name it codas, got it. Coda adapts to growing teams and to changing strategies. It can help change how you view information depending on what you need to do with it. And perhaps most importantly, Coda seamlessly integrates with the tools you need. Everything in Coda is sinked. You can make an update and a table. It automatically shows up everywhere. No more relying on copy and paste to keep linchpin projects. Current, your team can operate on the same information and collaborate the way we all want to quickly and efficiently with Coda you can solve for just about anything. And right now you can get started having your team all working together on the same page for free head over to coda.io/built that's C O D a.io to get started for free coda.io/built.
+
+Shopify (36m 12s):
+What an awesome sound. It's the sound of another sale on Shopify, the all in one commerce platform to start, run and grow your business. Shopify gives entrepreneurs the resources that were once available only to the big guys. So upstarts startups and established businesses alike can sell everywhere, can synchronize online and in-person sales and effortlessly stay informed. I love how Shopify has all the tools and resources that make it easy for any business to succeed from the one down the street to a store on the other side of the world, Shopify powers millions of businesses from first sale to full scale, more than a store Shopify grows with you go to shopify.com/built all lowercase for a free 14 day trial and get full access to Shopify. As entire suite of features grow your business with Shopify today, go to shopify.com/built right now that's shopify.com/built.
+
+2 (37m 19s):
+Hey, welcome back to how I built this I'm guy Roz. So it's 2005 and Matt has an idea to make WordPress into a tool that can easily be used to build a block site. And he's actually presented it to his employer. But once again, I didn't want it. Logs were seen as kind of like trouble where people would go to complain about politics or yeah. And seeing it ultimately decided they didn't want to host blogs. They didn't want the trouble of hosting all these random people writing about things because who knows what they would write about. They could publish false things that could publish whatever sound
+
+0 (37m 57s):
+Which happened,
+
+2 (37m 58s):
+Which happened. And then at CNN in particular, there was an interesting culture where they were sort of a respected media organization with journalists and editors. And the bloggers were seen as like silly amateurs. Okay.
+
+0 (38m 9s):
+Right. Because there's no editorial control. There's no fact checks. There's no spell check. I mean, things like that,
+
+2 (38m 14s):
+But there were early technology blogs, like in gadget and Gizmodo that were done by a couple of people
+
+0 (38m 19s):
+That were really good
+
+2 (38m 20s):
+Starting to compete with CNET, which was, you know, a public company with a building and hundreds of employees
+
+0 (38m 25s):
+And editorial structure. Right.
+
+2 (38m 27s):
+Yeah. And they were moving faster because the software was faster. They were writing more personally. So it was more interesting and fun to read. Often the first person, they didn't know it at the time, but seeing that was kind of being out competed. Yeah. I actually remember this meeting once. Well, the awkwardness meeting I'd ever been in, it was a publishers, I think of news.com and, and then meet. And so like all the developers of the software, probably a dozen people in this meeting, the editor in chief, everyone was there. And I said, okay, here is a fully written article ready to go. And their content management system, okay. Here it is publish it. And so they went through the steps and at the time publishing something was like took 10 or 20 steps.
+
+2 (39m 7s):
+And then they had to rebuild the website for it to be live on the website. And that took another like five or six minutes. So all in all, you're looking at like 20 minutes and we all had to sit there, all this happened. And then that guy pointed at me, he was like, Matt, here's the written article, publish it. And I just copy and paste it in the WordPress. I press publish. And it was on the website seconds later.
+
+0 (39m 27s):
+Yeah.
+
+2 (39m 28s):
+And I just got these like death stares from all the folks there. They were like, who is this kid? Who does he think he is? This is dumb. And it's true. The software didn't do most of the things their software did. It was worse in so many ways, but it was better in a way that mattered, which was like speed and ease of use.
+
+0 (39m 47s):
+All right. So, so meanwhile, you are still at CNET and you launch the company that that'll wind up being kind of the umbrella organization for WordPress and, and eventually all these other services and you call this thing automatic. Right?
+
+2 (40m 3s):
+Yeah. And during that time I ended up just out of my salary and credit cards hiring the first employees of what would later be automatic. So I, I think I incorporated automatic on a, on a website, like legal zoom. I go of these, like, you press a few buttons and it becomes a C Corp. So I incorporated the company and yeah, just started to pay the first few people, you know, not a lot like a thousand bucks a month or something.
+
+0 (40m 26s):
+And automatic has two teas. And is that from the mat?
+
+2 (40m 31s):
+I guess technically it has three teas, but
+
+0 (40m 33s):
+A three T's right. That's right.
+
+2 (40m 34s):
+A U T O M a T T I C I love, I love working puns into as many things as possible without me. It would just be automatic.
+
+0 (40m 42s):
+And was your first hire, was your first hire somebody who you already knew through the community of developers, who you just worked with on wordpress.org?
+
+2 (40m 51s):
+Yeah. So remember I said there were the other leaders of these forks. Sure. One of them was this guy in Ireland named <em></em> and he had made the version of B2 and later of WordPress that allows you to run many, many sites in one instance. So instead of just running one site, for instance, you could run thousands. And so he was actually my first hire
+
+0 (41m 12s):
+And I, and he was based in, in Dublin
+
+2 (41m 14s):
+And Blarney actually.
+
+0 (41m 16s):
+And, and did, you'd never met him again. Face-to-face this is somebody you just knew through.
+
+2 (41m 21s):
+We just knew each other online. Yeah. And so the idea was we would create a commercial entity that would sell, add ons to WordPress and then easy WordPress hosting. So basically a way that you run WordPress without having to be a developer. And that was what Donika was leading, was this kind of multi multi-user version of WordPress
+
+0 (41m 41s):
+To make it user-friendly. So that the average person who did not know how to code, but who wanted to blog could actually use it
+
+2 (41m 48s):
+Exactly.
+
+0 (41m 49s):
+Because up until this point, really you couldn't
+
+2 (41m 51s):
+And what happens easy when WordPress started, it was worse than all the other software out there. It wasn't very good. It didn't have all the same features and everything like that. But because there were literally later hundreds of people working on it from all over the world started to iterate really quickly. So we started to have first all the features that everything else had, but then we started to create new things that other folks didn't have. And we were just moving faster. We were just shipping more frequently. So people really want to use WordPress.
+
+0 (42m 20s):
+So, okay. You have this company automatic and in, you're trying to get this for profit version of WordPress, killing wordpress.com. And by the way, how are you funding all of this?
+
+2 (42m 32s):
+So we bootstrapped it at first, cause I had had some start to get some income, but I definitely overextended myself. I had this pretty terrible instance where I was kind of tapping out like my credit cards and everything like that. And someone got in touch to advertise on wordpress.org.
+
+0 (42m 51s):
+And this is going to be great cause you're going to get some money from that.
+
+2 (42m 54s):
+Yeah. I think it was $2,000 a month, but what the advertiser was a historian was like, Hey, you know, we write these websites, but then people rip off our content. So we're not ranking high in Google. So could you put some links on your website to our website, with these keywords And the keywords were things like messa Philomena or what, you know, like different diseases or keywords that were very valuable to advertise against. And I unintentionally invented a new way to spam. I basically was able to use some code called CSS to have the code on the website. But if he visited it in a browser, it would be invisible.
+
+2 (43m 34s):
+But if you visited as a bot, like Google, it would look like the words were on the website. So they would count them as valid links.
+
+0 (43m 41s):
+You were basically accepting money from a spammer
+
+2 (43m 44s):
+And it didn't, I couldn't see what it really was. I was totally blind to it. Yeah. And you know, there's that famous quote. It is difficult to get a man to understand something when his salary depends on not understanding it. Right. So I, you know, was kind of foolish. Then what happened was someone noticed this, they were looking at the code and be like, whoa, what are these random links there? And they did this blog post about it. And I was actually on my first ever vacation with my college girlfriend. And we were in Italy and we had saved up the money. Like it was, it was really like a special trip. And I called my sister to say like, Hey, I'm in Italy, you know, just checking in with her.
+
+2 (44m 27s):
+And she was like, oh man, like I saw you on the news. And she reading this article about how this code was discovered. There was this huge online outcry about it. Then Google came in and of course they were pretty mad that this code had outsmarted their search engine. So they actually removed WordPress from Google.
+
+0 (44m 47s):
+Oh, wow.
+
+2 (44m 48s):
+Yeah. That's like being taken off the internet almost. Yeah. And all this was happening when I'm Mia. Like literally I have no idea I'm offline for the first time in my adult life. And I just freak out. I'm like, oh my goodness. And start, I think we're in Venice at the time. And I just grabbed my laptop and start walking around the city with my laptop in the hand, looking for open wifi conditions. Cause at the time people wouldn't put passwords on the wifi. It was so
+
+0 (45m 13s):
+Racist 2005.
+
+2 (45m 14s):
+Yeah. So if you found someone who had a network, you could stand outside their house and like get on it. But the hotel didn't have it. No one had it. And we figured out the only place that we could find that habit was the airport, this poor girl I was dating at the time. She was very kind and understanding. And we went to the airport at five in the morning and I just kinda was on my computer for the next like two days.
+
+0 (45m 37s):
+Wow.
+
+2 (45m 38s):
+Trying to try to fix this thing.
+
+0 (45m 40s):
+How long did it take for a Google reinstated to her breath?
+
+2 (45m 44s):
+So people were saying really terrible things, but as I was reading it, I was also starting to see the truth. I'd really screwed up in a big way and betray trust. And so first I just posted a miracle book and I said, literally what happened? Like, Hey, I've been offline, sorry, I totally missed this. I did put these links on there and I took them down immediately. So kind of in breach of the agreement I had with this guy to keep the links up and yeah, it's funny, the guy who did this was actually kinda nice. So I contacted them. I was like, Hey, I can't return the money right now. I already spent it. But like, let me, you know, give it back to you over the next few months. And he was actually really nice. He was like, you know what, don't worry about it.
+
+2 (46m 25s):
+Keep the $2,000 for this month. And yeah, sorry. He basically said, sorry, you got caught. And I posted this big apology and, and eventually Google forgave me. So they forgave WordPress and they put it back in the search engines.
+
+0 (46m 43s):
+Yeah. So, so right around this time, I think you, you also leave CNET entirely to, to, to focus on automatic. And, and I think the very first project you do after leaving CNET as actually anti-spam software, right?
+
+2 (46m 59s):
+So the anti-spam was my Catholic guilt, a tone from my sentence. So the first commercial product I created was called the kismet named by my sister
+
+0 (47m 9s):
+A kismet. Yeah.
+
+2 (47m 11s):
+The cat, the weekend after I left CNN, I actually had, I was pretty sick. My sister had come to visit and somehow I got in like a flu or something. I'm like wrapped up in a blanket and she's like making me soup and stuff. And I'm literally, feverously writing the code. That's part of how surname did it. She was visiting me in San Francisco at the time
+
+0 (47m 29s):
+And destiny at kismet.
+
+2 (47m 31s):
+Yeah. Automatic kismet. It was essentially a machine learning system that would look at not just one blog, but like all of them basically like thousands or millions of blogs and look for patterns and the comments and the spammers would have patterns which were different from humans. And so then a kismet would essentially returned a thumbs up or thumbs down. And if the thumbs up it was properly, the Git comment, it was a thumbs down is probably spam. So it would save you the time of having to manually moderate all your comments or have spam on your website. And so it was free to use for personal use. And then they ideas for commercial use you'd pay like 50 bucks a year or something. Right. And that was very much my business model.
+
+2 (48m 11s):
+I, to try to do like Robin hood business models, like Rob from the rich give to the poor, you know, things would be free for personal use and then paid for commercials. Yep.
+
+0 (48m 19s):
+And was that going to be your business or was, was it going to be part of something bigger?
+
+2 (48m 25s):
+The idea was for it to be a business and you know, part of the idea was that WordPress would always be free and that's maybe the razor, but perhaps we could figure out some razorblades, we could sell some add on services that would be really most useful to people who are using it more seriously and then businesses could pay for that.
+
+0 (48m 44s):
+All right. So you now know that this is going to be what you're going to focus on, but to really do it, you have to bring in some money. I think by that late that year in October of 2005, you did get a little bit of money, a little bit over a million dollars that you raised from, from a few people, including CNN, right?
+
+2 (49m 3s):
+Yeah. So in that original bootstrapping stage, before we raised money, every employer was in a different city, all over the country and all over the world actually. But then what happened was, you know, I realized that there were four or five people who had left their jobs and they were, I sort of trusted in this thing and we were making some money and they were making like 10 grand a month at that point 20 grand a month. But if something happened and we stopped making the money we were making would have only had like a month or month and a half of salaries left. Right. And so I started to feel this real responsibility to all these folks that put their trust in me. So we actually, the money was optional in the sense that we didn't need it to run the business, but I definitely wanted to have that buffer.
+
+2 (49m 47s):
+So if something happened to the business, we would all have enough time to find out the jobs.
+
+0 (49m 51s):
+So how did you start to raise money?
+
+2 (49m 54s):
+So actually the journalist named Al Malek, who was one of the first uses of WordPress, he was a blogger, but also wrote for like fortune and Forbes business, 2.0 and all these big magazines. So he introduced me again as a 20, 21 year old kid to like people like these investors, handy, people who have built companies before. And one of them was this guy, Tony Schneider, who had actually just had one of the biggest startup sales at the time he had sold his startup to Yahoo. And so Tony and I met, we hit it off amazingly. And then I talked to these investors, but honestly I hadn't met Tony. I wouldn't have raised money because at the time that the model was not like, if you're the founder, you run the company forever, like mark Zuckerberg.
+
+2 (50m 35s):
+Right. It was like, if you're the founder, you hire adult supervision. So the model was Google, which had these two founders, Larry and Sergei. But then they hired the adult Eric's mentioned around the company. So people were like, yeah, we'll fund you, but you need to hire a CEO. You need to hire an adult. I didn't like that. But I thought, well, if I can choose the adults, it might not be that bad. And then I met Tony Schneider who was like my business soulmate. And I was like, okay, this guy, I can learn so much from he's amazing. He gets source. He gets the philosophy. He's not going to mess it up. So raise the money, got Tony to agree, to leave his job. And he joined and became CEO.
+
+0 (51m 10s):
+He's the CEO. What was your official title? Or you CTO?
+
+2 (51m 15s):
+My title was president. Right. Cause I always wanted it to be more than just the tech person. I wanted to be involved in the business and the design and everything. Yeah.
+
+0 (51m 23s):
+How did you begin to attract people to adopt your platform? To adopt the service.
+
+2 (51m 31s):
+It's really all word of mouth. One thing we did at the time was every website running WordPress by default and the template, it would say powered by WordPress. And so right. Visit a website you liked, you would see this link and be like, oh, let me click on that. And then you'd be like, oh, I can run this. I could do this. Also. I would just go to different blogs. And whenever I saw someone blog about my website's getting really slow, like, I'd be like, Hey, I'm working on this thing called WordPress. You should try it out. It's really fast. And if you want to use it, I'll help you move over. Or like, I was kinda just one customer at a time going to every blog, every website I could and evangelizing it.
+
+0 (52m 8s):
+Yeah. And what were the business model was basically free. It was free to use like Dropbox, right? Anybody could just go to WordPress and start a blog and it was, they didn't have to pay anything.
+
+2 (52m 19s):
+Yeah. But we couldn't, we knew we couldn't handle the demand at the time too many people signed up and the thing would fall over. Because again, it's just, it's a couple of servers patched together with duct tape and everything. So we created a golden ticket system and basically it was an invite system where you could get granted this golden ticket, like an homage to Willy Wonka, and that would get you access to start a blog on the service. Right. And then these tickets started to sell on eBay. So people would get the free ticket and then they would start to list it or sell it. And tickets were starting to sell for like $9,000, $120 on eBay. And we were like, huh, maybe people will pay for the site.
+
+2 (52m 59s):
+So that really kind of opened up our mind. Those people selling the gold tickets, opened up a mind for the business opportunity event.
+
+0 (53m 5s):
+And so was the idea at the time, the idea at the time 2006, 2007 was not to, or was it, was it, was it to power? The internet, was it for, for every webpage to be WordPress web Pedro at that point was the idea still let's get people blogging. Let's help it, make it easy for people to blog.
+
+2 (53m 25s):
+That was when we first started to think that it could be pretty popular. Google had done this survey, published a survey of the internet. It was kind of like a statistical analysis of all the websites that were in the Google index and the code they used. And there was this part of the report, it said, yeah. And then on 0.8% of websites, we found this weird HTTP header that was X dash pin back at me and the other WordPress developers read that. And we freaked out. We were like, oh my goodness, that's a special piece of code that WordPress adds to a site. And as we were like, wait, does this mean that WordPress sites or 0.8% of all the pages in Google?
+
+2 (54m 6s):
+And that was just kind of mind-blowing I get really, I, you had to sit down, it was a lot like fireworks going off in my head. I'm like, that is incredible.
+
+0 (54m 16s):
+Especially cause it was just a year old, right.
+
+2 (54m 19s):
+Maybe two years old, but like she was old. And so we really started to focus on like, and think about, you know, could there be a day that WordPress was 5% or 10%? Wow.
+
+0 (54m 31s):
+I guess 2007. So this is really like, not that, you know, two years after you really are focused on this full time, you got an acquisition offer. And I imagine you start to get a lot of acquisition offers and you detailed and outlined much of this transparently on your blog, your life. So this is all out, out there, which is very different from a lot of companies. Like you talk about numbers, you talk about offers and the offer was for $200 million to buy automatic. I mean, that's a pretty good, it was pretty good offer. Did you, you must have seriously considered taking it.
+
+2 (55m 11s):
+Oh man. Yeah. I gotta tell you guy that was overwhelming because we were only 1520 people at the time. I still owned well over half the company. And so there's this idea that the for-profit company that we've been building for about two years was going to be had this offer a very serious offer, turned a million dollars was, was really astounding.
+
+0 (55m 34s):
+You could have walked through that harm million bucks.
+
+2 (55m 37s):
+Yeah. Trust me. I was thinking about that.
+
+0 (55m 40s):
+And you were like 23, 24. I mean, that's kind of insane.
+
+2 (55m 45s):
+It was 23, but then I, you know, I started really thinking about it. I was like, well, what do I do? Do I retire? You know, I worked for this company for awhile, but yeah. One of the things I learned at CNET as well is that sometimes I don't know if I was the best at working for other people. I really wanted to work for myself. And so I thought, well, I'd worked there probably for a few years, but at some point I'd leave thinking about retiring, just seemed boring. And so I thought, well, I forget who asked me maybe it was my sister and my mom or my dad was like, oh, if you have a hundred million dollars, what are you going to do with it? I was like, huh, what'd I do with a hundred million dollars
+
+0 (56m 19s):
+Buy a super cool car,
+
+2 (56m 22s):
+You know, buy a house. My parents, I thought some things I would do when I was like, okay, that's like $5 million. What do you do with the rest? And I was like, well, I don't know it like, and when I really thought about it, what I would most want to do, I would want to code every day. I'd want to travel the world and meet WordPress users all over the world. I'd want to make software that people use and do it with people I enjoyed working with and not answer to anyone. I just, you know, answer to ourselves. So that really was the clarification I would want to do exactly what I was doing right. Then
+
+0 (56m 60s):
+When we come back at the break, how mats devotion to open source, inspires competitors and copycats stay with us. I'm guy Roz. And you're listening to how I built this. Hey, welcome back to how I built this I'm guy Roz. So it's 2007 and Matt has just turned down an offer of $200 million to acquire automatic, the company behind WordPress. And at this point, the CEO, Tony Schneider and all the investors, they wanted to know if Matt had a plan.
+
+2 (57m 45s):
+So what they said to me, the investors, and Tony said, Matt, if you're going to say no to this, what are you saying yesterday? What's the thing that's better than this. They also believed that WordPress could be way, way, way bigger than what it was in 2007. It could be worth a lot more than $200 million. So what they did was they took the $200 million and they said, okay, that'll be the valuation of the company. We'll do a new round of investment. Instead of putting in $1 million, we're going to put in $10 million into the company and we'll take the early shareholders including me and we'll buy some of your shares. What's called a secondary sale. So it allowed us to do essentially like a partial cash out, make some money from the shares, take some chips off the table is what they said, right?
+
+2 (58m 28s):
+And this would also make me not tempted to sell again because I would make a few million dollars. And the other people involved could sell some stock that they would all make a really good amount of money. And then we could refocus on building a company that was worth a lot more than $200 million.
+
+0 (58m 44s):
+Well, the business model was still mainly free to use. Is it fair to say, I mean the business model was you would pay for features or you would, you buy these things. So I have to assume that you were, you knew you were not going to be profitable for awhile.
+
+2 (58m 58s):
+Well, the business model to this day is free to you. So yeah, but we always ran the business around breakeven. So we try to grow the company organically. As the revenues grew, we'd hire people and know faster. That's why we were only like 15 or 20 people. We were probably making 150, 200 grand a month.
+
+0 (59m 18s):
+But you also, I mean, turned down that acquisition, I mean a year before the financial crisis began. Right. And yeah, I mean, there must've, must've been some people around you who are like, Ooh, we made a mistake because now everything is just going to hell
+
+2 (59m 36s):
+Two things happened. The financial crisis actually crashed the advertising market, which is part of how we were making money at the time. So if you had a free WordPress website, we would put on like some Google ad sense and other ads on it. And then when you upgraded the pay, you'd remove the ads. So it was like one of the differences between the free version and the paid version
+
+0 (59m 54s):
+And still the same today, I think.
+
+2 (59m 56s):
+Yeah. Very similar to the, yeah. Yeah. The other thing was about a quarter or a third of our usage@thetimewasinchinaandchinadecidedthatthegreatfirewallwouldblockwordpress.com. So like a huge chunk of our users just disappeared overnight. They
+
+0 (1h 0m 13s):
+Wouldn't, they blocked wordpress.com because Y
+
+2 (1h 0m 16s):
+It was a free place where people could publish and bloggers and China were publishing things that the CCP didn't like, and that combined with the advertising model going out, it was a big hit to the business. But luckily we had this money in the bank, so we're able to dip into the buffer and it saw us through to the point when the economy and our business and other, other things started to recover.
+
+0 (1h 0m 42s):
+I guess the adoption rate just grew by 2009, you took 10 million downloads of WordPress still, primarily being used for blogs at that 200
+
+2 (1h 0m 55s):
+Nine. Yeah. So actually before that, we added a feature to manage, not just a blog, but it could run your entire website. So it could have pages in addition to posts. And that became kind of a really key feature because you can have permanent pages, archives, wikis, all sorts of things that was WordPress, really becoming what today would call a CMS or content management system versus just journaling or blogging software.
+
+0 (1h 1m 19s):
+You know, I'm curious, cause as you were growing and becoming more and more widely adopted by bigger and bigger companies as the sort of their websites and you presumably are seeing these big tech companies for these big offices and San Francisco. And did you guys have a big office that you set up in San Francisco?
+
+2 (1h 1m 43s):
+It was really just Tony and me in San Francisco. And we couldn't afford what wasn't economical or good for the people to move everyone to the city. You know, cost of living, even then San Francisco is way more expensive than pretty much every other place in the world. And to uproot like Donika from his family and Blarney seemed strange and it would have to deal with immigration. And it was just like, it didn't make sense. So we were doing something that was really heterodox and revolutionary for business, but actually that open-source projects have been doing for over a decade, which was just bringing people together, collaborate online. You didn't need to be in the same office to work on the same code together.
+
+0 (1h 2m 24s):
+You left San Francisco moved back to Houston in 2011. Cause you could, it didn't matter where you were. I guess you have never, I mean, do you have offices? Do you have physical offices in cities around the world?
+
+2 (1h 2m 38s):
+So basically what's happened over the years is we would try to keep a small meeting space. And then often when we would acquire companies, they would usually have an office. Usually what happens is when the company joins, we acquired them, they say, oh, we really need their office. We say, okay, we'll pay the rent. We'll keep it going. We'll keep the lease going. But then once they start to learn our way of working fewer and fewer people go into the office until at some point they're like, Hey, yeah, we don't need this anymore. If we want to get together, we can always rent a Airbnb or a conference room. And so right now we still have a New York office kind of the, the vestiges of the Tumblr acquisition. But that has happened with yeah, literally every company we've acquired.
+
+2 (1h 3m 20s):
+It even has happened with Tumblr.
+
+0 (1h 3m 22s):
+How did you create a culture? Right? You hear a lot about companies that, you know, companies that are focused now much more today than ever before in culture building culture. And obviously the pandemic has, has changed everything, but this is pre pandemic. You were already distributed. How did you develop a WordPress culture where people felt connected to the company when everybody was kind of working on their own in their own apartments or houses around the world?
+
+2 (1h 3m 51s):
+Probably. So we'd say it like a week or two a year. We'll get together. We do these meetups where people would come together. Like we'd fly everyone in the San Francisco. We rented a house up in Stinson beach, and then we just kind of worked there. And then all the rest of the time, we were just talking constantly all day and all night online.
+
+0 (1h 4m 9s):
+Yeah. What I'm trying to figure out is like you guys had to sell an enterprise product to enterprise customers. You needed like business development, people, people going out there and selling or, or, or am I wrong? Was it all the traffic? All the incoming traffic was just coming through through websites and people inquiring about how they could sign up.
+
+2 (1h 4m 29s):
+It was really organic. And the first, probably five years of the business, it was all consumers. So people just swiping a credit card and buying things for a few bucks a month. Usually later around 2008, 2009, we did start to develop our VIP program, which was enterprise. It was big businesses, but the first big businesses, it was folks already using WordPress sometimes using it to a large scale blogs like tech crunch. What started with just one guy blogging, we're turning into major media companies. And they were still on WordPress as they did.
+
+0 (1h 4m 60s):
+So with wordpress.com, right? Which is the service that today, most people interact with it as it, this is how they create a website. If it's all open source, everything that is on wordpress.com. Like if I'm a company, why wouldn't I just copy everything from your, that you make available for everyone to see and just create a competitive brand without having to invest any of the money time. You have, you could do that in theory. Right?
+
+2 (1h 5m 26s):
+It's a very good question. So WordPress is a type of open source that you can basically do anything with it, but it has one restriction. If you modify it and you distribute those modifications, you have to give your users downstream people, the same freedom that you had. So they also have to have the freedom to modify it. They also have to have the freedom to redistribute it. So you can't just take the code and make it proprietary. You have to take the code to modify it, but you have to share those modifications.
+
+0 (1h 5m 55s):
+But, but of course, that, that can lead to conflict. Like, like you got into a dispute with a competitor called Wix all about this. So how have you managed that type of thing? Like how do you enforce it?
+
+2 (1h 6m 10s):
+It's just copyright law and licenses and everything. So we actually had lots of competitors to wordpress.com that would take the same code and compete with us. And that was totally fine. Actually, what we often go to bat for and fight for, including with this company called Wix, is what they did was they took her code and then the code they derived from it. So the modifications they met were, they said were proprietary and secret Twix. And so what we said is now you can't do that. You're violating the copyright. That's happened, not just with Wix, but with other companies over the years and that we fight because that's taken away, people's freedom. You,
+
+0 (1h 6m 45s):
+You will, you go to court.
+
+2 (1h 6m 47s):
+Usually we're able to settle it through the court of public opinion is probably the easiest way. Right. Which is good because honestly, when Wix did that, they had a way more money than us. So a legal battle would have taken years and even possibly bankrupted automatic, depending on how long it went. So it was a little bit of a brinksmanship because on one level we're threatening them that we're going to go to court to fight this violation. But I also knew that if that happened, that would really put the company in a tough spot. Yeah. It's by the way, it's totally okay to copy ideas that is completely allowed. WordPress has no patents. We have no anything, right.
+
+2 (1h 7m 27s):
+You can compete with us, you could call it guy, press and sell it. You could modify it. You could, you know, do whatever you want, but you just have to make those modifications also free.
+
+0 (1h 7m 38s):
+It's interesting because you know, a lot of times these, these like I'll interview founders and also talk about, ask about competitors and they'll say, oh, I never paid attention to competitors. You know, we just focus on our product. And I know that's not true because I, I I've been in this business for 25 years and I always look at competitors, you're open about this. You really it's seems like it's a personal affront to you.
+
+2 (1h 8m 2s):
+You know, I don't Harbor ill will anymore. We have plenty of competitors that have borrowed ideas from WordPress. You know, Shopify as $170 billion company, their dashboard looks a lot like the WordPress dashboard, especially the early versions.
+
+0 (1h 8m 15s):
+How do you feel about that?
+
+2 (1h 8m 16s):
+Totally fine. That's part of the free marketplace of ideas. People learn, things get invented, then people copy it. They modify it. They remix it. WordPress has done that many times over its history. Yeah. And honestly, like I said, when we started WordPress, there was lots of blocking software out there already. There was blogger, there was all these others. I even said I was inspired by them. There was a point and you can probably see it on the blog. I was really mad at Wix. I read this, I was reading a Buddhism book and came across this code that said, hate is like a hot coal. You hold in your hand hoping to pass it to someone else. And I was like, oh, that's what I'm doing.
+
+2 (1h 8m 56s):
+Why am I getting worked out? Why am I losing sleep holding this grudge? So I would say I was obsessed with competitors before I still check them out for ideas. But now I'm very much like, Hey, it's a big internet. We can grow the whole pie. And so I agree with you that everyone looks at competitors. You shouldn't pretend you don't, but it's not. If you can't lead by them, if you're always copying, you're always going to be two steps behind
+
+0 (1h 9m 18s):
+You became CEO in 2014 after really working under Tony for, I guess at that 0.7 years, what did that mean? I mean, was that a really a significant change in the way you, you lived your life? Cause I'm assuming your fingers were not, you know, you weren't in the kitchen, so to speak and as much anymore, once you became CEO,
+
+2 (1h 9m 40s):
+I was still writing code. Yeah, basically. So we did the Passover of becoming CEO actually the day after my 30th birthday. And part of what had happened was, you know, I had been working with him for a known Tony for eight or nine years. At that point, we'd been working together with the company like seven years and he was teaching me like, he, he enjoyed being leading small things and word press was getting a lot bigger. I was really passionate about bigger things and growing and getting to scale, taking us from 100 to 1000 to 10,000. And then Tony actually stayed at the company, which was really powerful. So he, he demonstrated something that's very important to automatics. Culture was he was like, you don't always be the need to be the lead.
+
+2 (1h 10m 21s):
+If someone else could be a better lead, you should pass it to them. And you can still be at the company and find something that you're passionate about. So he went to lead a small group, a group, basically like an R and D group. That's creating new products and did that for, I think another seven or eight years after stepping down as CEO,
+
+0 (1h 10m 40s):
+You wrote a really beautiful blog post just after your father passed away. He passed away in 2016. And you talked about something that I just struck me in. I think strikes a lot of people, which is that grief is this thing that we don't, we can anticipate that it's not a one-time event that you, that you experience, but you wrote about aftershocks of grief that lasted a long time. He may still come up now and again, a song, just a drive or just Seeing somebody or something would just remind you of him.
+
+0 (1h 11m 21s):
+Did you take time off of work? I mean, what were some of the ways you kind of dealt with that?
+
+2 (1h 11m 29s):
+Part of my grieving process was this feeling of helplessness that terrified me. And part of what allowed me to feel in control was I really dove into work. And it was a, it was a real solve for me, self solve, something that sort of comfort in me, you know, there's this quote from Simone George that says grief is a raging river. You have to get in to get to the next place, But it wasn't until after he died that it hit me, that things weren't going to go back to normal.
+
+2 (1h 12m 13s):
+And I had to get in that raging river and it, it was really, really overwhelming. And then I couldn't look at that computer. I couldn't, I couldn't do any of that stuff. So the thing that had been a solve for me while he was in the hospital, I just didn't have the mental capacity to think about. So it was almost like I was leading a dual life where sometimes I would be almost like a machine and I would just kinda like coldly pushing down all the emotions and all the, everything going on and trying to get something done, you know, be strong for my family and everything like that. And, and then other times I just like, I just break down,
+
+0 (1h 12m 55s):
+I think for a lot of people, that experience changes how they interact with other people going forward, especially those who, who are dealing with grief. And I wonder whether that experience in some ways helped prepare you for what would happen with the pandemic, because it's interesting. You were a distributed company right already. And so I think most people might assume that you are super well set up for the pandemic, that there was no friction, it didn't affect anything. But from what I understand, it actually was not the case. Like, like many companies, you also had some big challenges to deal with, even though you were already distributed,
+
+2 (1h 13m 41s):
+It was like living in two worlds simultaneously. We were able to work just fine. Right. Everyone could log into their computer. We're very lucky in that we didn't need to go out to the world to do our job. So people found it very easy to isolate. So that was lucky. But then of course, pandemics take tools on people and people were getting sick. Family members were getting second time. And so I feel like early on probably cause people would start to work even more because there's something they could do. We really started to see people get burnt out. And then of course the impact on, on people with kids was tremendous.
+
+0 (1h 14m 16s):
+I mean, how did you deal with the, the kind of the cultural challenges of it? I mean, you know, it's been a really, you know, challenging moment in, in human history, right? Especially in the United States with divisions over politics and expectations over what companies should do or say. And, you know, we had, we had Brian Armstrong on the show a couple of months ago of Quinn basin. And, you know, I think most listeners will know a certain point. He basically said, let's just no more politics in the company, do what you want on outside. But, but in, in this space, we're just not going to talk about politics anymore because it's become too problematic or challenging or divisive.
+
+0 (1h 14m 57s):
+How do you view that?
+
+2 (1h 14m 59s):
+That was a really tough and divisive time because at the time, you know, we had a terrible tragedy of George Floyd and others protest in the streets, the discussions internally. Now we have these internal forums at automatic where employees can talk about just whatever, some of them anonymous, some of them under the names and these got really, really spicy. The fights got worse than I've ever seen, and things would be compared to genocide or Nazi, more other things really, really quickly. And it wasn't people just trolling. They really felt this. And yeah, but we had another ingredient that I think a lot of other tech companies didn't have, which was, we were super, truly global.
+
+2 (1h 15m 41s):
+I have colleagues in 93 condos
+
+0 (1h 15m 43s):
+And the issues are different than other countries. And they are in the U
+
+2 (1h 15m 45s):
+S the different, the history is different. Yeah. And the oppression is different than slavery is different. Like the politics of everything's everything's truly different. Right. And so we had things going on with us, but then we also had, we had a colleague get arrested in Belarus because he was blogging and speaking out against the dictatorship there and things. And so like really like with even our direct colleagues, some of them were being super effected in different ways. You're also seeing the pandemic play out differently, all over. And I've lots of colleagues in India. And like, as the Delta wave and other things started just through that, now they have colleagues dying or their family members dying every day.
+
+2 (1h 16m 28s):
+You know, that's not a conversation about moral relativism, but it is a conversation about there's a lot of issues in the world and we can't compare them, but you can't acknowledge that. And what's going on in China with the weaker is really important and it's different than what's going in the U S with police violence and these things evolve. So I think that allowed us to take the conversation to a place of shared humanity and understanding, and we never banned talking about politics. We did ban talking about some of it anonymously, right? So we said some of these, if you want to talk about this, that's fine, but do it under your own name,
+
+0 (1h 17m 8s):
+You've described your company as sort of, you want it to be like the Berkshire Hathaway at the internet. You've acquired a bunch of companies along the way, Tumblr pocket casts, a podcast app, which was really cool out of just long reads. That's just a few in this more, many, many more the company, I think automatic is a valued based on all the rounds of fundraising it's done over $7 billion. You power 40% of websites. What's the plan. I mean, is there, is there a plan? Is it go public? Is it get acquired? I mean, at some point the investors are going to want to get paid.
+
+0 (1h 17m 50s):
+I don't know. What, what, what do you think
+
+2 (1h 17m 52s):
+Our mission, which has been pretty much the same since we first started is to democratize publishing and commerce. And I don't talk about it as much because it's not really unique, but we've built a really big business at automatic to
+
+0 (1h 18m 5s):
+Your profitable
+
+2 (1h 18m 6s):
+Investors value it, not for $7 billion plus because of they like my philosophy, they do it because of the revenue and the business and the growth and the customers and the millions of subscribers and things like that.
+
+0 (1h 18m 20s):
+But you wouldn't, wouldn't, wouldn't go public.
+
+2 (1h 18m 23s):
+You know, a public offering could be one form of exit. And there's a lot of things I love about it because I'd love for more of the WordPress community to be able to own a chunk of automatic and the way the laws work. That's not really possible unless you're public, but for investors, they can buy a small piece of automatic. And if they ever get tired of it,
+
+0 (1h 18m 40s):
+They could sell
+
+2 (1h 18m 40s):
+It. There's new investors who are more than happy to buy it. Sure. So, you know, I'm a CEO, I have a fiduciary responsibility to my shareholders, our community, everything, but you can serve that in many, many ways and kind of honestly, more than ever as a private company companies like Stripe space X, th they've gone to a hundred billion plus valuations as private company. So you don't need to go public anymore.
+
+0 (1h 19m 3s):
+That's true. How, how much of your, of this story and your, what happened from this little community in Corsica based in Corsica that you joined in 2002 to where you are today, how much of that do you think has to do with your skills and your talent and how much would you attribute to luck?
+
+2 (1h 19m 25s):
+You have to work really hard, you know, and what I got from my dad, it's just, I'm going to work harder and I'm going to be impeccable. And WordPress started. I definitely wasn't the best programmer. I was like, I'm just going to work more than everyone else. And ideally work on something that you would do. It doesn't feel like work. I was working on something that I would want to do, even if I had all the money in the world. And every course, and a lot of the stories we talked about, there was a lucky break. I was very lucky to be introduced to Tony Schneider, who was like an amazing for CEO of the company. I was lucky to have investors that like supportive of us, doing things differently and building something a different way than all the other companies at the time. So that is, that's a lot of luck to be honest. And then one fortune comes when an opportunity is there.
+
+2 (1h 20m 8s):
+They're able to really capitalize on it.
+
+0 (1h 20m 11s):
+That's mad, fallen way, founder of automatic and co-founder of WordPress. By the way, you can learn a lot about Matt from his own blog posts of which there are many, for example, a while back, he blogged@hisveryfirstgmailaddresswasmmmmmmatgmail.com. And he said, that was because Matt was too short and Matthew was taken, Hey, thanks so much for listening to the show this week, please do follow us on your podcast app. So you always have the latest episode downloaded. If you want to follow us on Twitter. Our account is at how I built this. And mine is at guy Roz.
+
+0 (1h 20m 51s):
+This episode was produced by JC Howard with music composed by rum teen era bluey. It was edited by Neeva grant with research help from Claremore Ashima. Our audio engineer was Josh Newell. Our production staff includes Casey Herman, Julia Carney, Elaine coats, Liz Metzger, Carrie Thompson, and Alex Chung. Our intern is Margaret Serena. And just a quick note, this is the last episode with our executive producer, Jeff Rogers. Jeff has been part of this show from the very beginning. And it's a major reason why this show is what it is today is kindness. Brilliance, and mentorship will be missed by the whole team at how I built this.
+
+0 (1h 21m 31s):
+Thank you so much, Jeff. You've made everything we've done so much better. I'm guy Roz, and you've been listening to how I built this.

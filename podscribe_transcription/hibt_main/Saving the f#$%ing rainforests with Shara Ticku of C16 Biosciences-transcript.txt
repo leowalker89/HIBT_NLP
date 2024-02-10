@@ -1,0 +1,347 @@
+0 (0s):
+Hey Prime members You can listen to how I built this early and ad free on Amazon. Music Download the app today.
+
+1 (9s):
+Think of all the things you can do in 10 minutes or less. Scroll through social media. check your bank balance, make a sandwich or learn about the surprising economics behind all these things. The indicated from Planet Money is a quick hit of insight into the economics of business, work and everyday life. Every weekday in less than 10 minutes. Listen now to The Indicator podcast from npr
+
+0 (30s):
+The Spark Cash plus card from Capital. One helps you earn unlimited 2% cash back on every purchase And with no preset spending limit, your purchasing power can adapt to meet your business needs. Jorge Guvera, founder of MAA Reinvests, his 2% cash back to help grow his business with new products. And I really love the idea behind Masie Enda. It's a supply chain company connecting Mexican heirloom corn farmers with restaurants, chefs, and consumers. And while is connecting more people to the culinary and cultural richness of the Mexican kitchen. It's also elevating traditional heirloom farmers that work in areas that live below the international poverty line. Imagine what the Spark Cash Plus card from Capital One an unlimited 2% cash back on every purchase could do for your business.
+
+0 (1m 15s):
+Capital One, what's in your wallet. Find out more at Capital One dot com slash Spark. Cash Plus terms and conditions apply.
+
+2 (1m 24s):
+Reboot your credit card with Apple Card, the credit card created by Apple. It gives you unlimited daily cash back that you can now choose to grow in a high yield savings account at 4.15% annual percentage yield that's more than 10 times higher than the national average savings rate. Apply for Apple Card now in the wallet app on iPhone and start growing your daily cash with savings. Today. Apple cards subject to credit approval. Savings is available to Apple card owners subject to eligibility requirements, savings accounts provided by Goldman Sachs Bank USA member F D I C. National average savings rate is from F D I C website terms apply.
+
+0 (2m 3s):
+Hello and welcome to How I Built This Lab. I'm Guy Raz. So chances are if you brushed your teeth today or did the laundry or swiped on deodorant or ate a protein bar, you came across Palm Oil. It's in almost everything more than 50% of products on supermarket shelves to be exact. And there's a good reason for that. Palm Oil is the reason toothpaste and shampoos foam up so nicely. It's why chocolate melts in your mouth rather than in your hand. And it's a really effective natural preservative for tons of food products. It's a dream ingredient for producers and consumers across so many industries. But there's a big reason why Palm oil is also problematic and it's not because of the ingredient itself.
+
+0 (2m 47s):
+It's totally plant-based and biodegradable. It's perfectly safe to use in food and household supplies, cosmetics. The real problem is the way Palm oil is made, the way most of it is harvested today is incredibly destructive in the Planet because the trees that produce the magic ingredient only like to grow around the equator. And Palm oil producers burn down rainforests to make way for more palm oil plantations, which disrupts habitats and makes the air toxic for entire countries in the process, there's a company called C 16 Biosciences that wants to change all of this that's doing that by producing a Palm oil alternative.
+
+0 (3m 30s):
+Shara Tecu helped co-found the company just a few years ago in 2018, but it was an early experience in her career that opened her eyes the problem of Palm oil. She was sent to Singapore for a business trip and her company also sent her off with a pack of N 95 masks with no explanation. and it's only when she landed that the reason became clear.
+
+3 (3m 53s):
+As soon as I landed in Singapore, I understood why the air was black. Wow. And I quickly learned the air quality index was over 400 and anything over 150 is dangerous and over 300 is toxic.
+
+0 (4m 9s):
+Yeah.
+
+3 (4m 10s):
+And I was confused and I started asking my, my coworkers what was going on and they sort of, you know, shrugged and said, oh, it's burning season for Palm Oil. And that was the first time I'd ever heard about Palm Oil.
+
+0 (4m 25s):
+And people just sort of kind of said like, like, oh yeah, it's just, you know, this happens all the time. Or like this happens every year. Like yeah, this is normal.
+
+3 (4m 33s):
+They did and they weren't happy about it. I mean, I think they were, they were deeply upset about it. Right. When I was there, the government had closed schools and had advised pregnant women to basically not leave the house, not to walk outside. Wow. So people weren't happy about it in Singapore, but they were certainly used to it. It was something that felt inevitable and like the normal course of a given year.
+
+0 (4m 55s):
+All right. When you start ask questions about burning season, I'm assuming they weren't burning things in Singapore. What, what was going on?
+
+3 (5m 3s):
+That's right. So my colleagues in Singapore started educating me and said, oh, you know, our, our neighbors in Indonesia and Malaysia, essentially they're burning forest. They're clearing tropical rainforest to convert that land into oil Palm plantations to make this vegetable oil called Palm oil. Hmm. And the way that the winds were blowing that year were blowing the smoke heavily into Singapore and they were sort of bearing the brunt of the consequences. Wow. So it's one of these things where you see this action, which generally, you know, the cost of emitting carbon dioxide emissions, those frequently go, you know, unaccounted for.
+
+3 (5m 44s):
+But here they were having this very, very tangible cost on the health of people in Singapore.
+
+0 (5m 52s):
+Hmm. Alright. So this is the first time you encounter, sort of, encounter anything around Palm oil. And, and, and you, you kind of had this experience and you probably, it's probably lodged in your brain, but you kind of went on with your life Yep. Like, you know, most people who encounter this. And a couple years later you, you decided to go to Harvard Business School and you, I guess you, while you were there not intending to do anything around Palm Oil, this idea came back into your brain. What, what, what happened?
+
+3 (6m 25s):
+Yes. That is, that is absolutely right. And I think, like many people, I sort of saw this shocking thing happen. I was surprised, I was confused, but then I just went on with my life. And so a few years later I was, I was getting my MBA because I was interested in this sort of little sliver of why there's so much innovation in academic research labs, particularly in biology that doesn't get commercialized, and what levers could we pull to improve it? And I became friends with two people, Harry McNamara, who was getting his PhD at Harvard in physics and really sort of studying this field called synthetic biology.
+
+3 (7m 9s):
+And David Heller, who was an undergrad at m i t studying bioengineering. And we became fast friends over the launch of the Impossible Burger. So the month that we met, which was in the fall of 2016, the very first Impossible Burger had just launched at Momo Fuku in New York
+
+0 (7m 29s):
+And Chelsea. Yeah.
+
+3 (7m 31s):
+And so, you know, here there is this sort of plant-based burger that's using biotechnology to make a plant-based burger better taste more like meat. And it's launched with a Michelin star chef. And we thought that was the coolest thing in the world. So a few weeks later, Harry had gone on a trip to Costa Rica and he'd gone with some friends from grad school. And when they're down in Costa Rica, they went to go check out the rainforest. And as they sort of show up, it's, it's basically gone. There is no rainforest in the place that they'd been looking. Hmm. And in its place, they had found these massive industrial agricultural oil Palm plantations. And Harry had come back from Costa Rica and told us this story and it instantly triggered deja vu for me from that trip to Singapore a few years prior.
+
+0 (8m 18s):
+Wow. Wow. All right. So you meet these guys at this, in this class, all, you all kind of bonded for Impossible Burgers. We had Pat Brown on the show a couple years ago and, and from Impossible Foods, it's a great story in how he built that, that company, an amazing product. And Harry goes in this trip to Costa Rica and discovers that like some of the rainforest are being, being burned down to make way for Palm Plantation. So let's, let's just pause and talk about Palm Oil for a moment because Palm Oil, I didn't know this until I started reading about you and this researching for the story, it's in everything.
+
+0 (8m 58s):
+It's like everybody listening to this right now will interact with Palm oil today in some form.
+
+3 (9m 4s):
+Absolutely.
+
+0 (9m 5s):
+What, what's It's in toothpaste. It's in cosmetics, it's in food. What else?
+
+3 (9m 10s):
+It is in 50% of products on supermarket shelves. And Wow. Like, like you said, every person touches it every day, including me who tries not to, but it's ubiquitous and it is in everything from soaps and shampoos to lipstick and laundry detergent to most of the foods that you find at the grocery store, from peanut butter to cookies to frozen pizzas.
+
+0 (9m 37s):
+Wow. And I guess we should at this point emphasize it is safe. It's, this is not like plastics in everything. It's not like, you know, I, I always think about the clothes I'm wearing cuz I apparently plastic isn't everything. We ingest it all the time. Palm oil's not bad for you. It's, it's, it's actually a great ingredient cuz it's, it's odorless. It, it doesn't, it's tasteless, colorless. So it doesn't like change the way food tastes or smells. And I guess it's a natural preservative too. So it, it's great to as a, as an additive.
+
+3 (10m 5s):
+That's right. And and that's what's so interesting about Palm oil. It's the most popular vegetable oil in the world for a reason. It's actually really good at driving critical function in all of those products. It makes color retain on lipstick, it enables surfactants and laundry detergent to actually clean your clothes. It helps keep peanut butter or nettella really spreadable and really smooth and really shelf stable. Yeah. And it's not bad. It's a natural product. The only problem is the way that it's made.
+
+0 (10m 40s):
+And I guess, I mean, the other thing about it is, in the last like 30 years, really in the last 10 years, it, the Palm oil production has just exploded. I I was reading that in 1970, it was like 2 million tons. Yep. Today it's 70 million tons. By the end of this decade it's gonna be a hundred billion dollar business. So I, I guess it's been more efficient to, to extract Palm oil from Palm trees rather than, you know, extracting similar oils like soybean or, or, or, or rape seed oil from, from their plants. Right. I mean, what what explains this huge increase in Palm oil use around the world.
+
+3 (11m 14s):
+It's efficient, it's productive, so we can make a lot of it, but the reason that it has grown so explosively and will continue to grow over the next 30 years really comes down to the performance of Palm oil as compared to other vegetable oils. and, you know, without getting into chemistry class, essentially it's got this profile Hmm. Which is this profile of fatty acids, which gives it a melting profile, which enables things like chocolate to melt in your mouth and not in your hands. And so the fatty acid profile of Palm oil is broader than any other vegetable oil.
+
+3 (11m 54s):
+And it's unique because it's sort of half saturated and half unsaturated fats and you just can't replicate that with any other fat and oil. And over the last few years, demand for a product like that has really, really grown, especially in food products because it's just so good at what it does. If, if you tried to stop using Palm oil, you couldn't because if you used soybean for example, the product performance would be totally different. And, and no company wants to do that and no customer wants that.
+
+0 (12m 27s):
+So Palm oils is great product effective, useful, except there's one huge problem with it. Can you outline the massive problem that Palm oil presents?
+
+3 (12m 38s):
+Yeah. The, it, it fundamentally comes down to the way that the, the tree has grown. It can only grow within about five to 10 degrees of the equator. Oh wow. And so, as this demand for Palm oil has exploded, the industry has had to find new ways to produce more of it. And so to do that, they need to find this land around the equator. And when you look around the equator, that is the densest concentration of primary forest that we have on earth.
+
+0 (13m 6s):
+Rainforests, rainforests everywhere around the world
+
+3 (13m 8s):
+Pretty much. And so to meet this growing demand, growers have been slashing and burning tropical rainforest burning both the trees and the peatland, which is full of carbon that emits billions of tons of carbon dioxide emissions into the air, which is problem number one. It results in the killing directly or indirectly of the wildlife that lives there because these rainforests are massive biodiversity hotspots and it displaces the indigenous communities which are in that land. and it contaminates both the air, as I mentioned from my experience in Singapore and the water, because as the land is converted from these tropical forests into industrial agriculture, you've got massive amounts of fertilizer going into the water.
+
+0 (13m 56s):
+Alright. So Harry comes back from this trip and he's talking about what he sees there, and all of a sudden the gears in, in your head and Harry's head and, and David's head start to turn and you're thinking, hum oil, maybe this is the thing we can tackle.
+
+3 (14m 13s):
+Yes. I think it really started with that firsthand experience where Harry and I had both seen firsthand the massive destruction that was being caused. Yeah. and it was being caused to produce a vegetable oil. And, and it just felt insane that we were continuing in this way. And as we looked into it, we realized a few things that were quite interesting. And at this point, we're not interested in being entrepreneurs by the way. We're just, you know, we're just digging in. Yeah. But it's a massive industry. It was $60 billion industry Palm oil alone in 2016 when we met. It's everywhere. And, and perhaps most interestingly, there was a really clearly articulated problem statement or demand statement when we started looking at this problem.
+
+3 (15m 1s):
+There were over 200 large consumer products companies, and there were nine countries which had made public commitments to their stakeholders that they were going to stop using this conflict. Palm Oil, which engaged in deforestation.
+
+0 (15m 17s):
+And you're talking about like the Unilevers and the Procter and Gambles of the world.
+
+3 (15m 21s):
+Correct. The, the, some of the largest consumer products companies in the world Yep. Had made these commitments, but every one of them was failing because there was no viable alternative. Hmm. And we first started to sort of look at agriculture and say, could you switch to another product? Could you switch from Palm to soybean? Could you produce that more sustainably? Yeah. and it became very, very clear that there was no existing viable alternative and that agriculture couldn't solve the problem. But there was this clear demand statement from the, the biggest buyers of Palm oil. And that seemed like a problem we could solved. and it seemed like a problem worth solving.
+
+0 (15m 58s):
+All right. So you start to, you start there thinking, okay, let's see how we can tackle this problem. You explore alternative oils, but you keep coming back to the reality that Palm Oil is superior, it's a great product. Then the next question is, well, can you grow more sustainably? And, and the reality is, you, you can't for the reasons you laid out. So what did, where, where did you go next?
+
+3 (16m 21s):
+So next we, we realized, you know, if it's not agriculture, you've gotta think sort of radically different. And, and remembering that the pro Palm oil itself is great. So getting a product which can look and function like Palm Oil, that's great, but how can we produce it differently? And watching what was happening with the Impossible Burger was an inspiration for us. And so we sort of said, okay, if, if fats and oils today come from animals and plants, what about the fungal kingdom? What about microorganisms like yeast and algae and bacteria? Could we use those to make an oil which looks and functions like Palm oil, but with a supply chain that's more scalable, more sustainable, more predictable, that uses the sort of concept of biomanufacturing instead of agriculture.
+
+3 (17m 14s):
+And that's where we got started.
+
+0 (17m 17s):
+We're gonna take a quick break, but when we come back, how a feeling of dejavu and a bond over impossible burgers inspired Sherra and her colleagues to start C 16 Biosciences the company whose product Palm could help save rainforests across the world. Stay with us. I'm Guy Raz and you're listening to How I. Built This Lab Audible lets you enjoy all your audio entertainment In one app, you'll always find the best of what you love or something new to discover. Audible offers an incredible selection of audiobooks across every genre. From bestsellers and new releases to celebrity memoirs, mysteries and thrillers, motivation, wellness, business and more.
+
+0 (17m 59s):
+And as an audible member, you can choose one title a month to keep from the entire catalog, including the latest bestsellers and new releases. With the Audible app, you can listen anytime, anywhere while walking, kicking back, working out, doing chores. You decide. Recently I've been using Audible to listen to Mike Duncan's the storm before the storm on my commutes. It's just so great having a story to pass the time. New members can try Audible for free for 30 days. Visit audible.com/built or text built to 500 500. That's audible.com/built or text built to 500 500 to try audible free for 30 days audible.com/built.
+
+0 (18m 43s):
+Are you ready to focus on professional development, build your community with sales and marketing leaders and hear from the brightest minds in business and culture? Will then join me in Boston for inbound 2023. It's happening in person from September 5th through the eighth. Inbound is an annual conference powered by HubSpot and albeit inbound this year hosting a conversation with HubSpot co-founders, Dharma Shaw and Brian Halligan on their nonlinear journey building and scaling their company. And there's lots more to experience at inbound, like expert led deep dives with industry thought leaders. Spotlight sessions with Reese Witherspoon, Derek Jeter, Andrew Huberman, and many more and unparalleled networking opportunities.
+
+0 (19m 28s):
+Reserve your general admission or limited availability. VIP tickets@inbound.com today. Welcome back to How I Built This Lab. My guest today is Sherra Tku of C 16 Biosciences. It's a biotech company that's created a Palm oil alternative that could transform Palm oil production into a sustainable and eco-friendly venture. I read that in 2018 alone, and it's probably even worse today, the changes in land use in Indonesia and Malaysia in order to to create more palm oil plantations resulted in more carbon emissions, CO2 emissions than the entire aviation sector, global aviation sector of that world.
+
+0 (20m 16s):
+Isn't that shocking? Yeah. I mean it's, and it's a vegetable oil. It's a vegetable oil. Yeah. And not to obviously knock Indonesia or Malaysia. There are, I mean, it's a business opportunity. We live in a world that is run on principles of capitalism. And so the incentives are there to make more of this because there's a demand for it. And so, you know, they're burning, burning land, clearing peat, releasing carbon, and then building these plantations because they can make more money. Is there fir, first of all, is there a sustainable way to do this? Cuz sometimes you see like sustainable Palm oil or you know, there even, there's even companies that sell Palm oil and it, you know, says we grow this sustainably.
+
+0 (20m 59s):
+Is that, is that true or is that kind of smoke and mirrors?
+
+3 (21m 4s):
+It's, it's been attempted and it comes with really good intentions, but the reality is it's really hard to confirm that the Palm oil in your product has been grown sustainably. and it just comes down to these very complicated supply chains where if you are buying, you know, a bag of potato chips, it's nearly impossible to trace that Palm oil and confirm if it came from land which did or didn't engage in deforestation. Yeah. So the so Palm oil can absolutely be produced sustainably. Most of it is not less than 20% of it is, and it's really been capped at that amount. And it's really hard to have confidence if it has been produced sustainably.
+
+0 (21m 49s):
+Okay. So producing Palm oil from trees in a sustainable way, obviously is challenging and it, it's not really a feasible solution to, to the problem which, which explains why so many companies have sort of falling short on their commitments to stop, you know, using products that lead to deforestation. So you guys set out to become like, I guess like the impossible foods of Palm. Well, right. So, so where did you even start? I mean, first of all, I guess you have to figure out if this was possible and was it clear to the three of you, even before you began that this, you could actually create a synthetic alternative that would be as good as Palm oil?
+
+3 (22m 26s):
+Oh no, absolutely not. It was, it was just a, a guess a hypothesis at this point. Yeah.
+
+0 (22m 32s):
+So how did you start?
+
+3 (22m 34s):
+So we, we looked to science, but we also looked to nature. So using microorganisms like yeast and algae bacteria that's been used for decades at this point to make products like insulin, to make flavors like artificial vanilla. And what we had started looking at was, you know, in nature, perhaps there are these organisms which are actually doing the work for us. You know, we wanna use biotechnology as part of this, but nature herself is a scientist. And so we looked out into the natural universe and we started finding a group of microorganisms, which were naturally oil producing.
+
+3 (23m 21s):
+And so they'd actually evolved for centuries to make oil, just like the oil Palm tree had evolved to make oil, there was a yeast strain that we eventually sort of down selected as a really compelling option. And when we started to look at that, we realized, okay, perhaps we could make an oil, which has got all of the properties of Palm oil, perhaps we could make it at scale. This is interesting. And at this point we only had about a thousand dollars. So we were, we were pretty limited in resources, but we started doing some early trials and some early r and ds and we could make only a few milliliters of oil, but sure enough it looked like Palm oil.
+
+0 (23m 58s):
+And you guys were doing this in like labs? Like, like you just re like rent bench space or something.
+
+3 (24m 4s):
+Labs is generous. We were doing a lot of this like in, in basements at the time. In kitchens
+
+0 (24m 10s):
+Or in kitchens. Yeah. And, and can you do this with off the shelf, you know, like ingredients
+
+3 (24m 17s):
+If you're a trained scientist? Yes. I think, okay. I think if you are your average consumer would be a bit challenging. Yeah. You need a sanitary environment and things like that.
+
+0 (24m 28s):
+Right. But you could, I mean, There you could order the different components and, and if you knew what you were doing, you could start to experiment basically.
+
+3 (24m 35s):
+Yep. And it's fermentation fundamentally. And so in the early days we did work with conventional equipment and it wasn't right, but, you know, we got a fermentation tank from a beer brewing company and we got a lot of our ingredients from the sort of local beer brewing company. And that was a way when we didn't have much money, we could start sort of doing scrappy science to get some basic proof of concepts to see that there was something worth pursuing here.
+
+0 (25m 2s):
+Now I know with, and of course the analogy is limited, but with, with something like impossible for Fus for example, they, they use the leg hemoglobin, it's a, this nodule, you know, the bottom of a soy, the root of a soy plant. And then, you know, with the yeast they can kind of create this textured protein that, you know, Teka Burger. Is it a similar type of principle? Like is that kind of what you were doing?
+
+3 (25m 29s):
+It's similar. The, the difference is we actually found a yeast, which was doing all the hard work. So the yeast was naturally making an oil. Hmm. Like we wanted to, so instead of sort of finding the DNA responsible for producing oil in the oil Palm tree and then importing that and genetically inserting it into a yeast, we actually found a yeast which could naturally make the oil that we wanted. And we've worked with it, we've used sort of the tools of, of biotech to improve that. But we found a yeast, which was sort of the workhorse for us. It was doing a lot of the hard work.
+
+0 (26m 3s):
+How long did it take you guys to get something that you thought, hey, this is kind of maybe cool
+
+3 (26m 10s):
+Pretty quickly we realized there was something interesting here probably within, you know, the order of a few months. And, and like I mentioned, we had just a thousand dollars on it. Wow. It took us much longer to be able to make something cool at meaningful scale, but pretty quickly we started to see that there was something worth pursuing. And how
+
+0 (26m 30s):
+Long, I mean from sort of once you kind of landed on the, on the process, like how long to make the, the oil like days, weeks, months.
+
+3 (26m 41s):
+So we, our process today we can start a, we call it a production run and in six days we can extract oil and Wow. That's orders of magnitude faster than what it looks like for Palm oil today, which is on the order of years from planting a tree to being able to extract oil.
+
+0 (26m 58s):
+Wow. Alright. So, so you, 2018, I think the three of you decide to make a, to make a go at it and to found a business, what you call C 16 Biosciences. Just explain the name C 16.
+
+3 (27m 14s):
+Yeah, C 16 is a 16 carbon fatty acid called Palm acid. and it's one of the major components of Palm Oil and it's one of the main reasons that Palm Oil is so good at, at its performance. So not the best sort of consumer brand name, but spot on for our customers. Right. Our customers knew exactly what we do. Yeah. and it was, it was actually quite effective in that way.
+
+0 (27m 38s):
+Essentially. I mean the goal I guess then, and probably still now is to, is to serve these large consumer CPG companies that probably account for the lion's share of Palm oil consumption or, you know, Palm oil purchases.
+
+3 (27m 55s):
+That's right. I think, you know, there's a lot of big buyers. They've all made this commitment to stop using conflict Palm oil, but they haven't been able to. And so we exist to serve that need and in the meantime can become a very large company, multi-billion dollar company, can have a massive impact on net zero emissions by reducing or removing hundreds of millions or perhaps a billion tons of CO2 emissions per year. And the best way to do that is really by working with these existing global brands to help them solve this, this problem.
+
+0 (28m 34s):
+All right, so you guys incorporate three of you and you apply to Y Combinator, the famous accelerator, you get accepted into it and you start raising money cuz You need a lot of money to make this work. This is not like a, I don't know, a cookie business. I mean it's like You need, You need facilities, You need, like scientists You need labs.
+
+3 (28m 57s):
+Yep. And we're tackling a massive industry, so we've gotta be able to grow something pretty big. So when we get into White Combinator, we need to raise some money on the back of it because at this point we just had a few thousand dollars and so we had to, you know, prove why someone should give us money to go chase this. And so one of the really important things was for us to be able to sort of stand on stage on, on demo day you have two minutes to talk about your company and say something compelling. And so we needed to be able to produce material amount of oil to show up and say this is Palm oil, but it doesn't come from trees, it comes from yeast, it comes from these bioreactors.
+
+3 (29m 40s):
+And we spent all summer working to be able to create enough oil to hold in a bottle that looked big enough. We started having some challenges because like I mentioned, we were, we were scrappy at the time. Yeah. And we were just having problems in the lab and we just couldn't get the process to work. And one of our, one of our early partners, he, he brewed beer at home and we were having so much trouble in the lab. We ran over to his house and we started using his at home beer fermentor outside on the porch of his house. And we made what we called sort of portugese and so we just threw it in there and crossed our fingers and sure enough it worked. We made enough oil, got up on stage for two minutes, held it up and gave our pitch.
+
+3 (30m 25s):
+And in about two weeks we were able to raise 4 million to get the company started.
+
+0 (30m 30s):
+We're gonna take a quick break, but when we come back more from C 16 about how they're trying to create an alternative solution to Palm Oil. Stay with us. You're listening to How I Build This Lab. Summer means grilling and Whole Foods can help you elevate your spread with quality proteins plus summerside and desserts. Fire up the grill with animal welfare certified meat, including choice cuts like bone and ribeye, top sirloin and New York strip steak and save with low prices on a wide range of dips and sides like organic pickles, organic coleslaw mix, spicy guacamole, roasted salsa verde and more from 365 by Whole Foods market.
+
+0 (31m 16s):
+There's also a huge selection of beer and wine, including wine made with organic grapes plus buzz list beer options and calorie transparent wines. Whole Foods is actually my go-to spot to pick up hangar steaks, which I love throwing on the grill in the summer. It's actually the best cut. Trust me. Make summer happen at Whole Foods Market. There are certain sounds that signal a good time is coming and there's no better way to step out than stepping into a good pair of boots, like a pair of handcrafted tecovas that come broken in. So you're ready to go out. They're built to last so you can stop loud and stomp Often they're an invitation to put your foot down and stand your ground.
+
+0 (31m 58s):
+A way of telling the world that you don't go gently. I recently got a pair of Tecovas, they're Chelsea boots and I love how beautifully made they are. They are so well designed, they are so comfortable. and you can see all the work and craftsmanship that's gone into making those boots. Tevas. Don't go gently. tecovas.com. T E C O v A s.com. Welcome back to How I Built This Lab. I'm Guy Raz and my guest today is Shara Ticku, co-founder and CEO of C 16 Biosciences.
+
+0 (32m 40s):
+It's a company whose eco-friendly Palm oil alternative could solve Palm oil's sustainability problem without involving a single Palm tree. Alright, you, you, you make enough this product and, and you are able to present it and, and raise some money and think about $4 million. And from what I understand, early on you decided that you were gonna start by pursuing the personal care market, not food. Even though Palm oils and ice cream and you know, and a lot of other delicious chocolate, you thought, let's tackle, let's make a product that can be used in the personal care market first. Is that just cuz that's a bigger opportunity or it was more realistic to make oil, it was harder to make food.
+
+0 (33m 26s):
+Great oil or what?
+
+3 (33m 28s):
+It's actually the personal care sort of applications for Palm Oil is actually a smaller market opportunity. Food is the bigger market, right. And so conventional logic would tell you go chase the big market. But I think there were a few holes in that that we saw. And, and again, I think fundamentally we were looking at what we're doing and recognizing that what we're doing is, is pretty radical. It's pretty ambitious and it's, it's pretty hard. We've created a new technology, we're competing against these massive global players and we have a lot to prove. And so we really wanted to pursue a strategy of bringing this technology to market that was going to set the company up to succeed.
+
+3 (34m 13s):
+How do we, what is our best chance at making this business successful at scale? And when we looked at food, there were a bunch of roadblocks, hurdles. There's a long regulatory pipeline for getting your product approved for use in the food system or, or green, green lighted to get in the food system. The customers in the food industry are highly risk averse and slow. And the cost and the margin of products are are quite low. And then when we looked at the beauty and personal care industry or, and also the home care industry, it's still massive. It's a massive opportunity. It's five to 7 billion for Palm oil alone today.
+
+3 (34m 53s):
+Yeah. and it's full of innovation, really fast r and d site sales cycles and it's a profitable industry. So it became really clear that this was an opportunity to get a product into the market quickly, which can be a challenge with science-based businesses. It takes so long to get your product into market. Yeah. And we wanted to get something quick and it, as soon as we started talking to customers in the space, they were so excited to take what we had and bring it to market. It.
+
+0 (35m 21s):
+It's interesting because you are, I mean essentially you are a science biotech company and your goal in, in the business model is to, is to serve these larger CPG companies eventually. But you guys decided to, at at least initially to create your own product, your own consumer product, like a brand. But I guess the idea was let's, let's make this oil make our own product and just like sh show this as a like proof of concept that this can actually work as a consumer product. Was that the thinking?
+
+3 (35m 57s):
+Yeah, I think there were two that's, there were two big reasons why we made the decision to launch our own product. The first was impact. Just get a product out there, get our brand out there and sort of, you know, dominate the headlines. Yeah. And we did that and the product that we launched was sort of modeled in the vein of a protest poster and we gave it this sort of cheeky name, which has a curse word, but it has butterflies and it tree in it,
+
+0 (36m 26s):
+Save the effing rainforest,
+
+3 (36m 28s):
+Save the effing rainforest, nourishing oil. and you know, we sort of, it's a nourishing oil for skin, for hair and for instigating change. And so we launched it with this sort of big bold protest to the industry basically saying, time is up. Everybody's made these commitments about Palm oil, but you haven't done anything because there's been no alternative. Now there is, it's time to take action. So that was a really important part of that strategy. It's a part of our brand dna. We're we're here to shake things up, right. We're not here to just plug into existing Yeah. Ecosystems. We're here to say let's change, let's move faster. And then the second was demonstrating to our customers how the product works.
+
+3 (37m 11s):
+It was really introducing the ingredient and the product for the first time. Yeah.
+
+0 (37m 15s):
+Yeah. I mean it's interesting because you essentially, you were going to produce this product that was going to be, and I think you're still an Eastern intention to, to be purchased by larger companies, but you're all of a sudden also have to become a consumer facing brand, right? Not a B2B brand. And so that's a different, like, that requires a different kind of marketing and a different kind of branding. Sort of walk me through how you, how you guys kind of manage that. Cuz that's, that's not easy.
+
+3 (37m 51s):
+It's not and it's, it's part of the reason we haven't necessarily launched a full fledged consumer brand. That being said, we launched this product, we spent $0 advertising it and sold out in three hours. and it was a limited launch. It wasn't meant to be sort of a revenue driver. Yeah. But it was an interesting experiment that we ran where consumers loved it. A lot of the people that bought the product were brand managers and owners at our customers. So our customers bought it and the, the media loved it. And so the, the brand that we launched it under, which is called Pless, really resonated.
+
+0 (38m 33s):
+So, so the idea this comes out and you get some attention and so just to be clear, like what I mean with you and your co your partners like are have any of you guys thought, you know, maybe we should just kinda lean into this consumer brand and maybe we should just like do a line of things
+
+3 (38m 50s):
+We have and one of the things that happened with this launch was we had about a hundred brands fill up our pipeline. Wow. So we currently have basically every major consumer packaged good company
+
+0 (39m 1s):
+That wants your, now they want your oil to make their own product with it.
+
+3 (39m 6s):
+And that's why, and that's really why we exist. Yeah. And so for now we're focused on that, but we are, we are paying attention to the market, to consumers saying they like what we've got. There's something unique and differentiated here and, and it's not off the table. But for now we've got a pipeline of all of our dream customers that came in, you know, zero marketing dollars spent aside from launching this product. And that's where we wanna focus.
+
+0 (39m 33s):
+Alright. Now just for a moment, take off your entrepreneur hat and just put on your critic's hat. This is hard cuz it's your company. But you know, just the other day I had some chickpea pasta. It was really good. Freeze you high in protein. High in fiber and I made it. and you know, it's, it's, it's, it's pretty good. But I mean, there's nothing like, you know, good old fashioned, you know, selina white flour, Italian pasta. It's so delicious. It's just not as good for you. And or, or like a, a burger to me is still better than an impossible. I like impossible. I always eat them, but it, it's still, we're not, it's not a one-for-one exchange quite yet.
+
+0 (40m 12s):
+I think we'll get there with meat and food products. We're just not there yet. Is it one-to-one exchange now with, with the oil that you're producing, can it absolutely replace Palm oil and it and it's undetectable to a consumer?
+
+3 (40m 27s):
+So what I'll say first is you absolutely have to perform as good or better to win in this market. That's true for plant-based burgers. It's true for alternatives to pasta. It's true for Palm oil. What I love about working on the Palm oil problem is, you know, it's not, it's not a burger, it's not meat.
+
+0 (40m 49s):
+Yeah.
+
+3 (40m 49s):
+It's this really important functional ingredient, but it's generally pretty neutral. And so we can enable that core functionality. And there are other sort of parts of it essentially, you know, we don't have that sort of consumer preference part that's attached to it. It's more neutral. Yeah. At the same time, I actually think that's one of the biggest opportunities that we have. And when we talk to, for example, large food companies, what they tell us is we actually don't have the oil profile that we want from the existing vegetable oils. We want something which can function like X, but existing vegetable oils or animal fats, existing vegetable oils, can't do it.
+
+3 (41m 34s):
+And we can't use animal fats cuz consumers don't want it. What they like about what we're doing is we have this platform where we can tweak the profile of the oil to actually be more uniquely suited for their needs, better performing than what natural vegetable oils have produced. And so in many ways there are ways to create new products that are better than what exists from a performance perspective. And that's one of the biggest opportunities here.
+
+0 (42m 1s):
+And, and I mean, I have to assume that the price per gallon or however it's measured of, of Palm oil is still much cheaper than than your oil right now.
+
+3 (42m 11s):
+It is, but it depends on which market. And so because it's used in so many different markets, they pay different prices. And so we've still got a way to go on cost. But in our first market, we're already gross margin positive. So in the beauty industry, we've got people willing to pay high prices for this because they love the story. Yeah. They love the innovation and they love the product and they'll pay high prices and we have a positive profit margin on it from day one.
+
+0 (42m 40s):
+You've raised, as I mentioned, 24 million, which actually is not that much. I mean it's, I mean, for, for what you're doing and, and I mean with that, will you, will you eventually need to raise more or do you think that that can take you to profitability?
+
+3 (42m 57s):
+I think there's a, there's a big question here. So historically companies like ours, and when I first started the business, I was looking at the companies that had sort of grown up ahead of us and they raise a lot of money and they take a lot of time, most of the time over a billion dollars, right? Yeah. Billion, 2 billion. And they take over 10 years to get revenue in the, in a way that feels meaningful, much less profitable. and you know, I think we, we chose to solve this problem by building a business. and you know, I think we look at, we look at climate change as a market failure. We look at the Palm oil problem as a market failure.
+
+3 (43m 37s):
+Hmm. And yet we chose to solve the problem through the lens of a for-profit company based on innovation. And fundamentally it's because we actually believe the best way to solve this problem is to make a better alternative. And you demonstrate that by making money. But I think the big question is, as is true with most businesses, profitability or growth. Right. I think we could run to profitability actually pretty quickly here with not a lot of additional capital. If we want to really think about, you know, the global vegetable oil industry's gonna be almost a trillion dollars by 2050. So if we wanna really try to chase the big market, it will take a lot more capital and time.
+
+3 (44m 21s):
+And we're at an interesting sort of fork in the road where that's a big question that we're, that we're asking and that we're thinking about
+
+0 (44m 28s):
+When in realistically are you going to be able to produce a Palm oil alternative that will be in chocolate and ice cream and toothpaste.
+
+3 (44m 39s):
+So we're in some beauty products, we're in our beauty product today. By the end of this year, we'll be in a handful of other personal care products. So think skincare and body care products on other brands featuring Pless as the sort of innovator. And within two years or so, we will be able to be in food products.
+
+0 (45m 2s):
+So one of the things that, that could be a driver of growth for you is, is legislation. I think the EU is past legislation this year that will require companies that, that trade in Palm Oil to like verify that's right. That it doesn't come from deforested land. I can imagine there's gonna be quite a bit of fraud there, but the reality is it'll be harder, right? It'll be harder for them to, to source Palm oil and the price of so, so-called sustainable Palm oil is gonna go, is gonna get expensive. So th this could be a huge market opportunity. This, you know, this like alt right, I mean alternative oils.
+
+3 (45m 39s):
+That's right. And we have, we have quite a few tailwinds working, working in our direction. When we, when we started this company in 2018, the I P C C report wasn't out. Yeah. You know, climate tech was not a word that people were using. The world was, was pretty different. Today, as you mentioned, the EU has passed this landmark legislation, which we sort of called the the deforestation ban. You also see retailers like Walmart and Whole Foods taking really serious action holding their suppliers, brands that make you know, your favorite peanut butter accountable for Palm oil explicitly. So we've got legislation, we've got retailers taking action on Palm oil.
+
+3 (46m 22s):
+There is a lot of supply chain risk as we've seen in the past couple of years. Russia's invasion of Ukraine has really dried up supply of sunflower oil. And Indonesia last year decided to ban exports of Palm oil. They make 60% of the world's Palm oil supply. And overnight they said, we're gonna stop exporting it, we're just gonna keep it for ourselves. And this has caused a lot of stress among these big consumer products companies as they're realizing something that they've taken for granted. These agricultural supply chains, this Palm oil supply chain, this abundant supply is In fact very fragile and perhaps will not suit the next 30 years.
+
+3 (47m 4s):
+So I think there's a lot of tailwinds moving, which could make change actually very, very rapid in this space.
+
+0 (47m 11s):
+It's a really, really cool idea. Shara of C 16 Biosciences, thank you so much for, for joining us.
+
+3 (47m 18s):
+Thank you for having me. Guy.
+
+0 (47m 20s):
+That's Shara Tku, co-founder and CEO of C 16 Biosciences. Hey, thanks so much for listening to the show this week. Please make sure to click click the follow button on your podcast app so you never miss a new episode of the show. and it's totally free. This episode was produced by Carla Estevez, with editing by John Isabella. Our music was composed by Ramtin Arablouei. Our audio engineer was Katherine Silva. Our production team at How I Built This includes Alex Chung, Chris Masini, Elaine Coates, JC Howard, Liz Metzger, Sam Paulson, and Carrie Thompson. Neva Grant is our supervising editor. Beth Donovan is our executive producer. I'm Guy Raz and you've been listening to How I Built This Hey Prime members You can listen to how I built this early and ad free on Amazon.
+
+0 (48m 13s):
+Music Download the Amazon music app today. Or you can listen early and ad free with Wondery Plus and Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built This merch and gear Wondery shop.com. Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.

@@ -1,0 +1,350 @@
+Indeed (0s):
+What's better than finding quality candidates? Finding them fast. With Indeed. you can attract talent interview candidates, and hire all in one place. As. soon as you sponsor a post on Indeed, you get a short list of quality candidates whose CVS match your job description. Boom. Just. like that. So. start hiring now with a 100 pound sponsored job. credit for your job. Post at Indeed dot com slash how I built Offer good for a limited time claim your 100 pound credit now at Indeed dot com slash how I built Just. go to Indeed dot com slash how I built and support this show by saying you heard about it on this podcast, Indeed dot com slash how IBU terms and conditions apply Need to hire you need indeed,
+
+NPR (48s):
+Did You know you are physically adapting to all your swiping Scrolling and tapping. We are changing our bodies and what they're able to do through our NPRs Body Electric A special interactive series investigating how to fix the relationship between our tech and our health. Listen in the TED Radio hour feed wherever you get your podcasts.
+
+0 (1m 15s):
+Hello and welcome to How I Built This Lab. I'm Guy Raz. The pandemic nearly crushed the ticketing company Eventbrite. For nearly two years, people basically stopped going to events and for Eventbrite's founder Julia Hartz the Pandemic was the biggest test of her career. And that's an understatement. Julia was first on the show back in early 2020 right before Covid, and that episode is worth Scrolling back to and checking out. It tells the entire story of how she built Eventbrite and it's an amazing story. But today you're gonna hear the inside story of how Julia and her team saved the company and how they're trying to position Eventbrite to grow and thrive in a cutthroat industry.
+
+0 (2m 1s):
+But first, I asked her to recount what happened to the company as the pandemic hit
+
+4 (2m 6s):
+Those early days, I remember as being very dark, but very definitive. There was never a gray moment. I think so often we're faced with gray moments as leaders, especially these days that was black and white. We went from, you know, record high ticket sales to negative revenue in 14 days. And something we had spent 14 years building was basically evaporated in the span of two weeks
+
+0 (2m 37s):
+In April that year. You had to lay off, and we talked about this a little bit, you had to lay off about half of your employees because you couldn't, I mean, there was no revenue coming in. There was nothing coming in. Right. And you, at the time you had about 1100 thousand to 1100 employees. I remember you saying like you, you know, you were, you'd been kind of nervous, which I thought was remarkable for you to just talk about. You've been nervous to step in a c e O by that point. You'd been c e o for almost four years, but you were still sort of quieting voices, doubt, doubting voices, self-doubting voices in your head, which I think is very healthy, by the way. I think all CEOs have those voices, but, but very few of them acknowledge it.
+
+0 (3m 20s):
+So now, you know, you're faced with massive challenge and test. So how did you, how did you do that? Just, I can't think of a blunter way to ask it.
+
+4 (3m 32s):
+Yeah, no, I I I, what strikes me is that there's all sorts of different, there's paradox in leadership of, of being decisive and being curious. And I really felt that I was in the middle of that during this time because the learnings were coming fast and they were coming in big waves. So the first thing that I did was tell the team to throw out the roadmap. There was not going to be business as usual in any area of our business in 2020 and probably for a few years after that. Yeah. And our Creators, our customers, those who produce events really did not know what was coming.
+
+4 (4m 13s):
+And we almost had to be that the canary to tell them what was happening. Yeah. And you know, what we, what we realized was that our business was in great risk. Their businesses were in peril. Yeah. And we needed to work together to get through this. So early on we looked at ways that we could really support local organizers in keeping their communities together. And with the North star of these are going to be the Creators that would be rebuilding the creator economy, the ev live events economy that would bring communities back together and kind of had an inkling of how important that would be.
+
+4 (4m 55s):
+But really we had no time to, to think about it. So we started supporting them in hosting virtual events. Yeah. And that took off almost immediately.
+
+0 (5m 4s):
+Yeah. I, I mean, I remember at the how, how quickly obviously live events turned into were canceled or postponed. And then, and then they turned into virtual events. We had two How I Built This Live show scheduled in March of 2020. One was in Seattle and one was in San Francisco, which obviously canceled those shows. And, and then pretty much by April we came up with a, an entirely new live episode of the show that we, we would, we would livestream. I
+
+4 (5m 30s):
+Mean, it was just complete insanity. So we were just acting, acting, acting, deciding, acting, deciding acting on this very, very short loop. But at the same time, everything stopped. Yep. For about two to three weeks. There were no events happening. And that pause guy was the silver lining for our business. Hmm. We were forced to pause and reset. Yeah. And what business gets to do that after 14 years and also a public company. Yeah. So it really, that pause was so transformative because it allowed us to sit back and say, given what we know about this business, what would we do if we could do it all over again?
+
+0 (6m 21s):
+How did you maintain optimism or did you not? Like when you, you know, you presumably you had to have all hands town hall meetings with your employees. You had to be on the, that Zoom call and your job as a leader is to be positive and to show, you know, confidence and optimism and to shield. I think it, maybe it's not the job of the ceo, but as a leader, I think in part it's to shield your, your team from the arrows that come, you know, your way.
+
+4 (6m 54s):
+It turns out that I, I ended up being a great wartime c e o and I think that's a, a, a skillset you probably don't know you have until you're in the middle of it. Yeah. And I, I was able to compartmentalize the fear and the uncertainty with what we needed to do to be there for first and foremost our Creators and then our Bright Links, which is our Eventbrite team. So it was a shared experience together, and I just, I combined vulnerability and empathy with just almost like a bomb bear quality of I'm not gonna let this company fail.
+
+4 (7m 35s):
+And so we're gonna get through this one step at a time. I think that's where my confidence was born as c e o because it became very clear to me what we needed to do. And then the other other thing I had in my corner was a fierce group of familiar advisors, but also people who I could just call, I mean, everybody wanted to know what was going on at Eventbrite. So I was able to access a lot of great guidance, and by and large, the most important guidance I got were from people like Henry Ellen Bogan who said, you know, cut cost and raise money now, don't wait.
+
+4 (8m 15s):
+Yeah. And be, be severe about it. And the second one was from Rule off boa who said, we're not giving up. Now, this isn't how the story ends.
+
+0 (8m 25s):
+I should mention both These are prominent investors that
+
+4 (8m 28s):
+You mentioned. Yeah. And they knew us and they knew the business really well. And you never quite forget when someone says the right thing at the right time and you remember it.
+
+0 (8m 38s):
+Yeah.
+
+4 (8m 39s):
+You know, it's like so important. You
+
+0 (8m 42s):
+Mentioned this, this term, wartime c e o, which I, I i I mixed feelings about, because obviously wartime is, is, you know, you think about Churchill, but it is true that it was a crisis. And crisis does tend to bring out the best in a lot of people. Yeah. Because it Forces you to focus on solving that one problem like a war, right. Like, like Churchill had to solve the problem of being dis defeated and destroyed by the Nazis. And you know, similarly I think about like reporters when I was a reporter, when I was a covering wars, that that was very easy to do. Not easy, but it, but it was easier to do great work 'cause you're focused and you had to be determined and you had to move quickly.
+
+0 (9m 22s):
+It's harder to do great work when like, you know, many years ago I covered the Pentagon just like walking the halls of the Pentagon and trying to find a great story. So I wonder, you know, it sounds like you really rose to the occasion. How did you harness that intensity, that adrenaline, and continue that kind of way of thinking once this crisis ended?
+
+4 (9m 45s):
+Well, prior to c I d I had spent a lot of energy trying to make other people happy. That was really what I believed to be my superpower, that I was empathetic and that I could bring happiness through the experience that people had on the platform and through the experience as a brightling. But I was tying myself into knots, trying to make everyone else happy and losing the plot more often than I probably was willing to admit. So I dropped that premise completely, and I focused on really five areas of, of criticality for us. Yeah. And the first two are the most important, which is the people. So it was how do we show up for Creators and help them maintain business continuity?
+
+4 (10m 30s):
+And how do we help our own team figure out the refocusing, the reset, the reimagination and the rebuilding that's going to happen. The third thing was raising money for the company, which was its own, you know, work stream. Yeah. And so I, I focused on those three in particular. Yeah. I stopped trying to make people happy and I stopped worrying about if I was doing a good job or not.
+
+0 (10m 55s):
+So interesting. I, I wonder how you, I mean, if, you know, revenue goes to Zero, right? And then you have this virtual business that you start, but there's no, there was no way that was going to make up for the loss from live events, right? Because you guys got a fee on every ticket sold. I mean, you're a publicly traded company, right? I mean, going without any revenue for a long time or significantly lower revenue for a long time is hard. How were you able to withstand that?
+
+4 (11m 26s):
+So, I haven't told this story yet, so I think I was waiting for this for this moment, but when we talked in July of 2020, I think it was impossible for me to have the clarity that I have in Yeah. Hindsight now, three years later, prior to Covid, things weren't going great at the company. We were a newly public company. We had acquired our largest competitor. We were buckling under the weight of that integration and migration. Hmm. And disappointing everyone. Hmm. So Covid was kind of our like, do sex akana moment. Like I, I feel like we were, you know, it was in a, a moment of just like discovering what we needed to do and, and almost stopping, you know, decline that was happening.
+
+4 (12m 21s):
+And we'd lost the thread on who's our most successful creator on the platform because of everybody's sort of like the everything platform, right? Right. And we couldn't find that signal. And we found the signal right before Covid hit, which was that frequent Creators those who are coming to Eventbrite regardless of their category, geo size, but they were using the platform at least one, one time a month. They were a small portion of Creators producing a big portion of revenue, and our product absolutely sucked for them. So that was the opportunity that we had just uncovered when Covid hit.
+
+4 (13m 2s):
+Hmm. And so beyond structurally changing the company, raising money to ensure that we'd have a balance sheet at the end of however long the recovery would take, we just completely reset what we were going to be coming out of the crisis.
+
+0 (13m 20s):
+So o obviously that was important, right? Focusing on, on, on that segment of your customers. But what about just keeping the business afloat when, when there was nothing coming in?
+
+4 (13m 30s):
+Yeah. So virtual events started to rise, but the money wasn't coming in. Hmm. So we were in a, we had to bring it all the way back to the basics. We have an aligned strategy around where we see the greatest opportunity and actually who we think is going to bring back the events economy in a hyper-local way. Let's go build the best product experience for them. And so we did a ton of foundational work in 2020. We ramped out a bunch of old tech, we rewired, you know, how Eventbrite works because we had built it to serve an event, but actually not to serve the creator.
+
+4 (14m 11s):
+So. if you had many events, the Eventbrite product experience just broke down. And then we built out a three year strategy, which we, which we published for our board at the end of 2020. And we said the most important thing that We can do for what we call a super creator, which is a frequent creator hosting at least one event a month, is We can help them find their audience and We can help them grow their audience. And no one's doing this at a, a scale that We can do it at four, these mid-market events, you know, there's a lot to be said about large ticketed events like Taylor Swift. Yeah. And, you know, sure. Our lives are chained together and linked together through the ways in which we just get together.
+
+4 (14m 51s):
+But the middle of that, if you imagine that a pyramid with the very top, the big stadiums and arenas in the very bottom, how you interact with your friends and what barbecues do you attend? Yeah. The middle of, that's a big fat ticketed matrix of events that exist on Eventbrite. Sure. And it was really hard to find signal for local events, especially during recovery. So we decided to build that for our customers, and that's what we focused our, our strategy on. And that really helped us gain focus and momentum and be a part of the recovery, not just stand by and watch it happen.
+
+0 (15m 30s):
+We're gonna take a quick break, but when we come back more on how Julia kept her company going during the pandemic and how Eventbrite is changing and evolving to the shifting events market today. Stay with us. I'm Guy Raz and you're listening to How I Built This Lab.
+
+LinkedIn (15m 53s):
+As a business to business marketer, your needs are unique. B two B buying cycles are long and your customers face incredibly complex decisions. Isn't it? Time you had a marketing platform built, especially for you. LinkedIn ads empowers marketers with solutions for you and your customers. LinkedIn ads allows you to build the right relationships, drive results, and reach your customers in a respectful environment. Not only do you get direct access to decision makers, you get to build relationships with them. That's over 950 million members, 180 million senior level executives and 10 million C-level executives. You'll also be able to drive results with targeting and measurement tools built specifically for B two B in technology. LinkedIn generated two to five times higher return on ad spend than other social media platforms. So many of the brands on How, I, Built This, use LinkedIn to reach customers every single day. Make B2B marketing everything it can be and get a $100 credit on your next campaign. Go to linkedin.com/built this to claim your credit. That's linkedin.com/built. This terms and conditions apply.
+
+Yaso (17m 8s):
+Hey, while we're taking a little break here, I wanted to tell you about an episode of How I. Built This we released a couple of weeks ago. It's about how the company Yaso was able to enter the competitive Greek yogurt market by focusing on a key differentiating factor. When Amanda got the idea to freeze Greek yogurt into a sweet, low calorie treat, she reached out to her friend Drew, and the two friends set out to make a high protein, low calorie Frozen yogurt bar called Yaso. Despite initial bad reviews from family and a series of noss from prospective manufacturers, they managed to get yasso onto the shelves of Costco and BJ's. but it wasn't long before they faced daunting competition from the top players in the freezer aisle trying to build off their momentum. You can find this episode by following How I Built This in your podcast app. And Scrolling back a little bit to the episode titled Yaso Amanda Klain and Drew Harrington, or by searching Yaso. That's Y A S ss O wherever you listen to podcasts.
+
+0 (18m 9s):
+Hey everyone, you know, every time I run into a How I Built This fan, the first thing they wanna do is tell me about their favorite episode, which is so awesome. So now I wanna share your favorite episode with the millions of people who listen to this show episodes they might not have heard or might wanna hear again. So here's what I want you to do. Grab your smartphone and record a short memo short, like less than 30 seconds, and tell us your name, where you live, and which episode is your favorite, and why you loved it. So for example, I might say, Hey, it's Guy Raz here in San Francisco, and my favorite episode of the show is the one about Hamdi, Lakay, and Chobani, because I learned so much about how to just push through and nothing seems to be working out.
+
+0 (18m 54s):
+And it gave me a whole new perspective on being resilient. So that's it. Something like that. You know, and by the way, that's not my favorite episode. I love them all equally. Anyway, once you're done with the recording email or message it to us at HIBT at id dot Wondery dot com and we'll share your favorites right here in the ad breaks in future episodes. Thanks so much. You guys are the best. Welcome back to How I Built This Lab. I'm Guy Raz. My guest today is Julia Hartz, co-founder and c e o of Eventbrite.
+
+0 (19m 35s):
+She was on the show back in early 2020 when we told the whole story of Eventbrite. And if you miss that, scroll back in, check out that episode. It's really, really cool. And anyway, going back to this conversation with the lack of live events in the early days of lockdown, Julia and her team used the hiatus to try and figure out how Eventbrite could better support event creators. And then they waited.
+
+4 (19m 59s):
+You know, everybody talks about the crisis, but it's like there were about nine different crises. Yeah. In two and a half years. The last moment that Covid impacted our business was Omicron in very late 21, early 22. Yeah. And even then it felt almost surreal, right? Yeah. Since then, we've seen consumer demand for gathering just go through the roof. Like people have to be together in real, in real life in order to thrive. Right. And that is indispensable. So while we saw one of the craziest black swan events that I think has happened to a company, we also knew that the intrinsic need to be together and the way in which you make indelible memories would eventually prevail.
+
+4 (20m 51s):
+It was just about when. Yeah. So virtual events went from 1% of the events on Eventbrite to 90% of the events on Eventbrite. Yeah. To now 10%. So that's sort of the curve. And that happened over a pretty long period of time. But once, once people started to get back together, you really saw it fall off in terms of, you know, people don't really wanna sit on a zoom at an event.
+
+0 (21m 17s):
+No, they don't. I mean, o obviously you, you could look at, presumably you look at your, your p and l, you look at your balance sheet and you're like, okay, we need to do this, this, this, and that. And we know that we'll be okay for three years based on the cash we have and on the, you know, if We can grow our business, our virtual business, and we'll get some cash coming in. But was there ever a moment where you thought, we might not actually survive this thing?
+
+4 (21m 45s):
+Thankfully, no. So when we, and that all came back to the decisions we made in March. So when we Yeah. Hal the company, which was so extreme, no one was doing that. Yeah. And when we raised more than we needed, and this is where being a public company was a virtue because we could raise convertible debt, which, you know, we raised two rounds in very favorable interest rate environments. We, we've barely touched that money. I mean, that was not something that we took lightly. It's expensive capital, even if it was at attractive rates. And you know, I still run the company as if I'm writing the check out of my own bank account.
+
+4 (22m 26s):
+So yeah. So it was important for us to maintain that fiduciary responsibility and that conservativeness, but we also needed to shift into high gear at some point, not just be on maintenance mode. Yeah. So when we went out to raise this capital, we got laughed out of the room several times on our recovery assumptions. So we were showing a base case, and then if we recover quicker case, and then a like terrible, terrible case, what it showed me is that you should always prepare for the worst. Totally. I mean, it's just like absolutely. What's the downside? Prepare for the worst
+
+0 (23m 2s):
+Every time.
+
+4 (23m 3s):
+Every
+
+0 (23m 3s):
+Time. And hope for the best.
+
+4 (23m 5s):
+But when you can't even imagine the worst, it's a very interesting position to be in because we couldn't have tabletop exercised the Covid pandemic. I mean, anybody who's claiming No, they did, I think is lying.
+
+0 (23m 18s):
+You cannot Yeah. You can't simulate that scenario 'cause you wouldn't have imagined it. Right?
+
+4 (23m 23s):
+Right. So it gave us, it gave us a new lease on life. We had this vision and we knew where we needed to focus. So
+
+0 (23m 30s):
+Essentially before, and Eventbrite was really just a platform where people would sell tickets, and then you would get a cut. And you're saying now it's more focused on a, a marketplace. And and what you mean by that, I think is that you go to Eventbrite, it knows where you are, right? Geolocates Yeah. And then it suggests events that are in your area.
+
+4 (23m 49s):
+Yeah, that's right. So Eventbrite is the, I would say like the Etsy for live experiences. I, you know, I don't love referring to other companies.
+
+0 (23m 59s):
+Yeah. Is it a new way you would describe it now versus three years ago?
+
+4 (24m 4s):
+No, not in the way of, in the way of inventory, but in the way that we are thinking about how We can help make Creators more successful. What we've stepped into now is Eventbrite is a place where you go to market your events through our marketing tools, where you go to advertise your events through promoted listings. And Eventbrite is a place where you go to discover great things to do. And that relationship with the consumer as the customer is the biggest shift. And I'd say the big challenge ahead of us is that, you know, we're a ubiquitous logo on a ticket. If you go to New York and you ask 10 people on the street, seven of them will say, yeah, I know Eventbrite. Either they'll say, I buy tickets to it for my, you know, my pursuit or interest.
+
+4 (24m 50s):
+I, I buy tickets to it for a school event. I go to shows on Eventbrite. Or they'll say, oh my God, of course I know Eventbrite. I mean, let me show you the events that I go to. You know, and it's, it's really like your playlist of memories. If you ask the same 10 people, where do you start when you don't know what to do on a Thursday night? Definitely not seven of them are gonna say Eventbrite.
+
+0 (25m 11s):
+Yeah. Right. So in, in other words, I remember like 20 years ago when I went out right. And I've got children and like, I go to sleep at eight. But, but, but when I didn't do those things, I would open up the Washington City Paper, or if I was in New York, the Village Voice, and you would look to see what was playing, what was going on. And essentially what you're saying is you are pushing to be that, that thing that people would just have that page up, oh, let's go to Eventbrite and see what's going on this weekend. Yes,
+
+4 (25m 45s):
+Yes. And that's a big tall order because I would pause it Yeah. That no one has solved local event discovery.
+
+0 (25m 55s):
+Nobody has it, it, no one has solved that problem. I think about this all the time. Yes. Like I,
+
+4 (26m 1s):
+Yeah. And Eventbrite is going to solve that problem. Hmm. And I would say hell hath no fury, like a company that has a newly sound life Yeah. And can see the problem that still persists. And we believe it's our right to win because we're already powering the events you're looking for. Right. And we have the knowledge of what's going on, and Eventbrite has that ubiquity and it has that trust because we've built it over the last decade and a half. I mean, in Silicon Valley, being an older company is sort of like being an older person. You like, you know, there's a little bit of like ego ageism that happens.
+
+4 (26m 43s):
+I actually think it's a great virtue. We know Yeah. A lot about live events through the lens of the hardest thing to do, which is ticketing. It's hard to make money in ticketing, and it's even harder to make a profit. And guess what? We've done both. Yeah.
+
+0 (26m 57s):
+I think the Etsy analogy's actually quite aptt because Etsy's a space for cre, you know, all kinds of crafts people and Creators also, they're people who, you know, mass producing. but it, it is a trusted space. You know, like every time I'm scrambling to find like something for somebody, I'll go to Etsy. Yeah. The problem is then I go down a rabbit hole and then I've spent like six hours, six hours later, I'm like, I've been on Etsy for six hours. So, but, but actually, like you can imagine, right? That if you can position your site as a place for, Hey, you know, I wanna learn about photography, I wonder if someone's teaching a course or, or if there's like a maker affair this weekend, or if there's this, I'm looking here and I'm in San Francisco, there's a dumplings festival coming up on the, so there are, are lots of things, but how do you do that?
+
+0 (27m 43s):
+Like, do you do bus ads? Do you do social media campaign? It's a marketing challenge, right? To get the awareness out. How do you do that?
+
+4 (27m 51s):
+So we do it through, what I would say is like the pull and push mechanisms. We start with our first principle, which is our job to put the right event in front of the right consumer at the right time, wherever they are. We're not building a closed walled garden. Right. You know, people who are interested in building audience are quite sophisticated in what kind of audience they want to build. Yeah. So when you're thinking about professional event producers and organizers, they know more about what they wanna be crafting than we do. Our job is to make it better, faster, and more effective for them to do that through Eventbrite than they could do on their own. And so what we focus on is, is we just rolled out in the back half of 2022, the ability to buy an Eventbrite ad.
+
+4 (28m 38s):
+So now you can promote your event in our highest trafficked surfaces, which is our homepage, our newsletter, our app. You can actually effectively buy clicks to your event. The second thing we did was we actually acquired a company in Q four of 2020, if you can believe it. It
+
+0 (28m 56s):
+Was a, it was a marketing company, right? Yeah,
+
+4 (28m 58s):
+Yeah, yeah. They were our partner toned in, and they hung in there with us during C O V I D. And so we came together at the end of 2020, and in five months we integrated the team and rolled out marketing tools called event we call Eventbrite Boost to our customers. But effectively what these marketing tools do is they aggregate the consumer data points on Eventbrite around a certain type of event or a geography, and they help the event producer build a smarter audience for their advertising. Then through our favorite generative ai, we auto generate ads for them that then they can deploy onto platforms like LinkedIn, Instagram, wherever they wanna reach more people.
+
+4 (29m 46s):
+And the reason why it's better than d i y is because you're getting like a five to six return on advertising when you do that five to six x, because we're able to help you build the creative, but then also, we're the first party transaction platforms, so we're actually transacting the ticket. Yeah. So the creator doesn't have to wait and try to read the tea leaves as to what's happening in order to get that signal.
+
+0 (30m 10s):
+So let, let's talk about your revenue streams. I mean, primarily it's a cut of ticket sales, but then also advertising or boosting an event. What other ways are you looking at to build other streams of revenue?
+
+4 (30m 25s):
+Well, so 95% of the revenue comes from ticketing fees. Yeah. And over 80% of the time, those ticketing fees are actually paid for by the consumer. And event rates, ticketing fees on average are $3. Yeah. They're
+
+0 (30m 39s):
+Low. Right? So when
+
+4 (30m 40s):
+We're, when we're talking, you're not that we're talking ticketing and this is not the same thing. So we've built this business on that. What we've done now is we've brought all of that, you know, advertising and marketing goodness to the front door, literally yesterday. So this is, this is new news that anyone who's using Eventbrite has access to all of that tooling and advertising, marketing tooling and advertising for a small per event fee. So we're effectively introducing a two-sided marketplace fee, but I'm talking about like $10 an event, right? For an event that's selling over 25 tickets. So we think this is a great way to balance out what we've built to help event creators drive audience, as well as continue to keep those ticketing fees as low as possible.
+
+4 (31m 29s):
+Because that's what really matters is the consumer being able to buy a ticket without, you know, getting gouged
+
+0 (31m 36s):
+Julia like many, many tech companies. You've also had some layoffs this year and you know, when we spoke in 2020 that, you know, you're running a publicly traded company. It is not necessarily the metric, but is one of several metrics, which is the stock price. Stock price is considerably lower than about half as much as it was when we spoke in 2020. How do you, how does that weigh on you? I mean, do you feel, obviously you feel responsibility to shareholders, but sometimes there's not much you can do about a stock price. You
+
+4 (32m 9s):
+Know what, it's one of those things that they don't tell you when you, when you become the C E o or when you take a company public, they don't tell you both sides of the equation. Which is mostly what I heard when we were taking Eventbrite public was, well, first of all, don't go public from current. Don't go public public about that. Yeah. Public CEOs and I decided I would never be that person to, to pass on that advice. But secondly, don't pay attention to the stock price, just run the business. Yeah. The other side of that is when your employee's stock options are underwater, that's a problem. Meaning it puts a lot of morale pressure on.
+
+4 (32m 50s):
+And while I don't believe in doing anything unnatural to solve for that, because we are all in this together, and in the long run, we are growing the business, I do think it's something that can become a distraction. Yeah. So the way that I've, the way that I've approached it is to make sure that everybody has a level playing field on information. So we share quite a lot at Eventbrite and then to explain the different stages of the stock as it changes. Does it get me down? Yeah, of course it does. I'm human. Yeah. I mean, this is, you know, this is a really easy indicator of success and I don't feel like it shows, you know, great, I don't feel like I'm, I'm a plus, but do I know that in the end, any given day will be a very small blip on the radar of a very valuable company that's growing up into the right.
+
+4 (33m 44s):
+Yeah. So, you know, I kind, there's no great answer, but you have to stay grounded and you can't let the stock market or the current stock price dictate what you do.
+
+0 (33m 56s):
+We're gonna take another quick break, but when we come back more from Julia on what it takes to be a good leader in really difficult times, stay with us. I'm Guy Raz and you're listening to How I Built This Lab. Welcome back to How I Built This Lab. I'm Guy Raz. Here's more for my conversation with Eventbrite co-founder and c e o Julia Hartz. I wanna ask you about employees, because I know when we had you on the show, like you had free food for employees and a fitness center and a wellness stipend, and, and, and maybe you might still have some of that, but I'm assuming like many companies here in the Bay Area, you are at, at the very least hybrid and maybe some people are entirely remote.
+
+0 (34m 56s):
+Tell me how you, how you manage just the, the workforce, the employees, like coming out of Covid, it's different time employees made different demands and had a different expectations. And with a tight labor market, they had a lot of power for the first time in a long time. So how did you kind of adjust and manage to both retain employees, but also to keep expenses down?
+
+4 (35m 23s):
+Well, first I think starting from a principle of it's not an us against them mentality. We are a company that puts at the very center of its differentiation as an employer. The idea that you can come here and be the, be the whole person you are and that you're cared for. So there's, that was just innate in, in our culture. This has been an interesting evolution. Yeah. And there has been no easy answers. And so I sat back and watched a lot of companies make a lot of proclamations during c i d Yeah. And I kept scratching my head because I sort of thought like, how the hell do you know how this ends up?
+
+4 (36m 5s):
+Like,
+
+0 (36m 5s):
+Like companies that said we're remote forever. Yeah. Example
+
+4 (36m 8s):
+Either on either side of the spectrum, right? Yeah. I, I have, I couldn't look anyone in the eye and say, I have seen the crystal ball and after the last Global Pandemic, here's how we worked. I mean, I, I have no idea how you would do that. So I didn't, I I, I really like stepped away from that and said, okay, what do we know for right now? And we are making shorter term plans and giving people clarity where you could pick your path. You know, there was a point where, like you, we were gonna be hybrid. And then where we've arrived today is today we are resetting as a remote first company.
+
+4 (36m 49s):
+We are the best gathering company in the world. And when I say that, I mean, you are gathering for a virtual meeting. It is going to be an intentional, productive, thoughtful, great use of your time. How
+
+0 (37m 3s):
+Do you do that? Tell me how you do that. Because a lot of, a lot of f CEOs are saying to me, what, what are, what are you doing? How do you do? What are people doing? Yeah. And I'm getting at a lot of different, different examples. So you're the best gathering place company. Let's touch, just talk about virtually what, what does that mean?
+
+4 (37m 19s):
+Yeah. So that means taking a step back periodically, about once a quarter, we take a week to scrub the calendar of our regular, regular, regularly scheduled programming and reassess why we meet and what the intention is. It means making leaders the best conveners. Now I believe that the skillset that a great leader needs at the t at the very top of the list is the ability to bring people together thoughtfully with great intention and productively.
+
+0 (37m 56s):
+Yeah. But how do you make a meeting? Let's just say any meeting. Yeah. Right. Because I, I hate meetings. Yeah. And I think a lot of meetings are a waste of time. And I think a lot of times meetings that I'm asked to go to, I shouldn't be at, they're too long and there's just too much stuff. Yeah. That half the people that don't even need to know. I mean, I'm not saying, how did you solve this problem? 'cause I don't think you have, nobody has. No, not yet. Like if somebody has, they're going to go to Stockholm and get the Nobel Prize or whatever, Oslo, wherever they give that prize. How do, how are you trying to tackle that problem? How are you making your company a better place to, to convene gatherings for employees?
+
+4 (38m 32s):
+Well, there's a way that you can do this through expectation setting and, and through, you know, supporting those expectations. So particularly for the meetings that you hate to go to, we're starting with cultural norms of make the main thing the main thing. Yeah. Actually got that from Josh Silverman. I'll give him a shout out on that
+
+0 (38m 49s):
+From Etsy. Yep. Yep. And
+
+4 (38m 50s):
+Then I think it's, it's, there has to be a very strong strategic map as to when people meet, to solve what problem, predominantly for the in-person gatherings, because having people fly all over the country or the world and meeting up at offsites, it's exhilarating, but it's also very costly. It's time consuming. Yes. And it's taxing. And so what we're working on right now for next year is how do we build a system wherein you can anticipate as a brightling when you'll see your team and you know exactly what you're going to be achieving together.
+
+0 (39m 30s):
+You know, I've, we've been a remote team. All my teams on all my different shows be even before Covid, just because you can work that way in, in, in what I do. And we communicate regularly. And I talk to everybody pretty much every day because I'm tracking a recording or, so we were using video interfaces for a long time. You know, I've talked to a lot of, a lot of leaders now who are like, you know, it's challenging because when you aren't in an office, especially for younger, newer employees, it's hard for them to find mentors. I mean, if you're, if you're a 22 year old joining Eventbrite at a college today, and everybody around you is pretty much remote, it's different than when you started, you know, in your career.
+
+0 (40m 11s):
+'cause you know, you worked for in, in the TV industry, right? You were working on Jackass and M T V shows and stuff. A lot to learn there,
+
+4 (40m 18s):
+A lot to pick up.
+
+0 (40m 18s):
+Right. And you found some people who thought you were smart and interesting and they helped you. It's much harder now. So do you have any, any thoughts about how you actually develop talent from within when we're, we're, we're, we're all, many of us are in a primarily remote or hybrid environment.
+
+4 (40m 36s):
+Yeah. I mean, I think it's, I think if you flip it and you look at it from a blank slate opportunity perspective, rather than a recapturing of what was and what worked for us when we were Right. We little pups. Yep. I tend to find that great things happen when you work on a multitude of different projects. And the advice that I give my niece who just accepted her offer at Microsoft, she's going into a remote team. And my biggest advice is take every single project that comes your way. Like, just absolutely knock yourself out. Yep. 'cause the more that you're participating and the more that you're working on different types of projects, that is a, that's actually an opportunity we didn't get early in our careers.
+
+4 (41m 20s):
+Yeah. I was, you know, I was like copying v h s tapes as an intern for, for M T V. Right. But then also leaders have to care about bringing on younger talent and mentoring them. And there's ways that you can do, do that remotely, that you actually couldn't do that if they were in, you know, an office in Spain and you were in an office in San Francisco.
+
+0 (41m 40s):
+Julia, the advice I got when I started my career 25 years ago was be the first one in and the last one out, which is a version of what you told your, your niece. Right. And, and take on all the assignments that come your way. And I don't give that advice today because I, I, I worry that, that it doesn't resonate quite as well with younger folks. And like when, when you and I were starting our career, you'd be told, Hey, leave your attitude. Leave your baggage, leave your personal life at the door. Sorry if you're having a bad day at, you know, at home, but like, this is work. Bring your a game to work. That was just normal par for the course. And that was the environment that many, many senior executives today and senior leaders in companies grew up with.
+
+0 (42m 24s):
+But now it's different. Now it's bringing your whole self to work, including your challenges, including other things. How do you, how do you approach it? How do you accommodate for that?
+
+4 (42m 34s):
+Yeah, I mean, I think about it as you don't have to trade one off for the other. And I wanna build a company where you can both be cared for and feel the demands of opportunity. So compassionate and demanding is the paradox that I focus on a lot. And I think that it's, it's, I guess I find it's a fallacy that working hard and being fulfilled with accomplishment is antithetical to wellness. And, you know, I think burnout is real. And I think the mental health challenges that we face during the Covid Pandemic present an opportunity for us, an opportunity to have honest conversations, an opportunity to embed support into companies, which I think should be the case.
+
+4 (43m 21s):
+And an opportunity to open up access to mental health support. Like we haven't had, you know, in our lifetimes really, but I don't think work is the enemy. Yeah. Like, I think being productive and being in community is the antidote to social isolation and mental health challenges.
+
+0 (43m 40s):
+And what about politics? I mean, companies are, and, and maybe it's tapering off a little bit now, but for a while they were really expected to take public political positions. Either you're in this camp or in that camp. And, and it became very challenging for companies that, you know, if they were neutral, that essentially they were not, they were, you know, consorting with the enemy or whatever. And, and this can have a massive impact on your business, you know, if, if, you know, look at Bud Light, right. Bud Light made a decision and, and it had a huge impact on its business for all, all kinds of things that just didn't, weren't an issue for a corporations and companies and public companies a a while ago.
+
+0 (44m 22s):
+What do you do? I mean, if there's a big issue, if there's a big, you know, I don't know, you know, something that happens in the United States, what's your position? Do you, do you as a leader in a company publicly make your views known? Or do you just say nothing?
+
+4 (44m 38s):
+It's, it's been a journey, that's for sure. And I feel like there was a moment in time where I was sending an email every other week on an issue that was completely outta my control. And it started to feel personally incredibly inauthentic because there has to be space for CEOs to be human and to be learning and growing alongside everyone else. And I reject the notion that A C E O should be, you know, know all, be all. Yeah. Like, that's, that's really dangerous, right? That's not good. Yeah. So I stepped back from that practice and I really focused on how can we get back to what Eventbrite can do to be a great company.
+
+4 (45m 25s):
+Eventbrite can advocate for social connection through live experiences That's right. In our wheelhouse. And We can be an active participant in helping to relieve the impacts of social, social isolation. We stand for freedom of assembly, and that's a really important thing for people to understand when they join the company. And there are things that people aren't going to agree with on the platform. Yeah.
+
+0 (45m 53s):
+Yeah. Where do you draw the line? I mean, presumably, you know, you would, if somebody wanted to have a, a a a drag event or something, no problem. But, but I'm assuming if somebody wanted to have like a a, you know, a neo-Nazi rally, not, obviously these are not comparable at all, but I'm just, just throwing two examples out that's, that would not be allowed.
+
+4 (46m 14s):
+You draw the line very carefully. Yeah. And you keep yourself grounded in first principles. What's really important for us is that the decisions we're making, we're making well-informed, well-intentioned and without subjective bias. And so that, that's a tall order. Right.
+
+0 (46m 37s):
+It is. I mean, do you, do you, do you, I mean, how do you decide, do you have a a, a a team or do you do case by case or what?
+
+4 (46m 45s):
+We do have a team. We have a team, we have a set of policies, and we have a very, very strong operation. Most of the time we're not dealing with anonymous online behavior and when people get together. Right. So I don't wanna give the sense that like, this is a big problem. It's really not. It's, it's something that we have to deal with from time to time. But it's also a place where I think as an organization, we continue to grow and be curious about what it means to, to stand for freedom of assembly. And, you know, there's been a number of, of different challenges like 30 years from now. When I look back on Eventbrite, I want Eventbrite to be known as one of the best companies to work at where you could do your best work, where you had one of your best managers or best leaders, and where you made a best friend.
+
+4 (47m 33s):
+And underpinning all of that is, I think, how our walking the walk at Eventbrite is that we do the right thing. Sometimes it's extraordinarily difficult to do the right thing. Yeah. But I think if your orientation is toward that, then that's where the gravitational pull is going to take you.
+
+0 (47m 49s):
+Yep. So told me in 2020, you said five years from now, so that would be 2025. So we're not there yet, but we're, we're, we're approaching, you said, I, I wanna have slowed down, started to live in a more thoughtful mode, have jumped off the merry-go-round and be less transactional about life, and be really thoughtful about how we build the best products for event creators. I think that you are, given what you told me over the last, you know, the course of this conversation, I think you're on that, on that path. Is that, do, do you feel like you're, you're on that path?
+
+4 (48m 17s):
+Yeah. Yeah, I do. I mean, I think getting back to the basics is an incredible exercise in discipline and focus, but also in realizing what's most important and myself personally, making that shift from somebody who was trying to make everyone happy, to really focusing and making the main thing, the main thing, and bringing people along to that vision has meant the difference between me feeling transactional and me feeling more grounded and thoughtful. So while I'm always in pursuit of using time to its n degree most effective, I also have felt like I've been able to slow down because we have a plan and we're executing on it, and I can enjoy a bit more, you know, the things that might come up in the future.
+
+4 (49m 7s):
+We didn't talk much about it, but I don't, I mean, I don't know about you, but the energy here is palpable around all the ways in which We can build, you know, great companies using ai.
+
+0 (49m 19s):
+Ai Yeah, sure. I'm going to these events all the time and watching this happen in real time, it's really cool. It's
+
+4 (49m 24s):
+Exciting. I think it's a, I think it's a, a moment of growth that we've seen before. So if you've been around long enough in the Bay Area, you've, you, you can recognize the signs. But I think, I think this time it feels a little bit different because I, I don't think we knew what was gone, what we had lost until it was gone. And I think communing and building together, that's the best antidote I think to, yeah. Putting Covid in the rear view mirror.
+
+0 (49m 49s):
+Julia. Hartz, thanks so much. Thanks
+
+4 (49m 51s):
+Guy.
+
+0 (49m 56s):
+That's Julia Hartz co-founder and c e o of Eventbrite. Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app. So you never miss a new episode. And as always, it is free. This episode was produced by Rommel Wood with music composed by Sam Paulson and Tine Arablouei. It was edited by John Isabella with research help from Kerry Thompson. Our audio engineer was Patrick Murray. Our production staff also includes Neeva Grant, Casey Herman, JC Howard Sam Paulson, Alex Chung, Elaine Coates, Chris Masini, and Carla Estevez. I'm Guy Raz and you've been listening to How I Built This Lab.
+
+Amazon Music (50m 48s):
+Hey, Prime members, you can listen to How I Built This early and ad free on Amazon Music Download, the Amazon Music app today.
+
+wondery Plus (50m 56s):
+Or you can listen early and ad free with Wondery Plus in Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built This merch and gear at Wondery shop.com. Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.

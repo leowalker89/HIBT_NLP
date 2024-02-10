@@ -1,0 +1,521 @@
+0 (0s):
+This message comes from NPR sponsor, Ruby, the remote receptionist and chat specialists company. Who's always on 24 hours a day, every day of the year, visit ruby.com or call 8 4 4 5 6 3 Ruby.
+
+1 (14s):
+Hey, it's guy here with some really exciting news. We are launching a brand new how I built this fellowship. Now we've done this in the past few years to help support the next generation of entrepreneurs working to build a better world. And this year we're taking it to the next level. We're going to pick 10 fellows. Each fellow will get matched to an amazing mentor, attend virtual workshops with some of the entrepreneurs who've been on the show and even have a chance to be interviewed by me and each fellow will then have an opportunity to pitch their business idea to a panel of amazing judges, including some of our favorite, how I built this founders.
+
+1 (56s):
+And guess what one winner will be selected to receive a $50,000 no strings attached grant $50,000. Amazing, right? If you are an early stage entrepreneur looking to make the world a little bit better and want to find out how to apply to become an HIB T fellow visit npr.org/fellows for more details. And remember the deadline is March 31st. The, how I built this fellows program, including an NPR grant to one select fellow is supported by GoDaddy rules apply.
+
+1 (1m 37s):
+Okay. So for today's show, we're going to run one of our favorite episodes from the archives. It's a story of Melanie Perkins, the founder of the design platform Canva, and right at the top of the show, you'll hear me say that the company is valued at a billion dollars. How Canva is now valued. It's $6 billion. Okay. Under the show Weren't any of the investors saying you don't have a tech team, you don't have a chief technology officer. Like I dunno if I'm gonna put my,
+
+3 (2m 9s):
+Yeah. That was literally what everyone was saying that, right? Yeah. It makes perfect sense that how are we going to get these things rolling?
+
+1 (2m 16s):
+How many people do you think you pitched over that? I guess two month period in San Francisco,
+
+3 (2m 21s):
+I don't know. Over a hundred people more. I was going through my rejections the other day. I was looking at some of the emails and there was quite a, quite a Dunphy
+
+1 (2m 35s):
+From NPR. It's how I built this show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. I'm guy Raz and on today's show how a college student named Melanie Perkins turned her passion for making better yearbooks into the design platform. Canva now valued at over a billion dollars. So there's a story that I think a lot of people have and the details might be different, but it's basically a version of this. There was this one time you had a very clever business idea.
+
+1 (3m 19s):
+Maybe it was an idea for a super useful product or a service that would make your life way easier. Mine was actually the one cup coffee maker. I swear that was my idea, but like most people I didn't do it. And if you're like me, you didn't have the time to work on it or the money, or maybe it just seemed too overwhelming to get started. But the way the story always ends is that a couple of months later, maybe a couple of years later, you're shopping at a store or you're surfing the web. And there it is. I can remember the very day I saw the one cup coffee maker at target. Someone took my exact idea and made it happen. Now, does this story sound familiar because every business starts out as an idea, but to turn an idea into a reality, you have to get started.
+
+1 (4m 8s):
+Even if it means starting out small, you have to plant the seeds for a business to grow before someone else does. And Melanie Perkins, as you will hear, she did have a big idea. She wanted to transform the entire desktop publishing industry when she was just 19 years old. But instead of feeling overwhelmed by the scale of her idea, Melanie got to work. She started out small by focusing first on one little piece of the idea that she thought she could make work, which happened to be an online tool to design and publish school yearbooks. Melanie grew up in Perth, in Western Australia.
+
+1 (4m 48s):
+Her mom was a teacher and her dad was an engineer. And when Melanie went to university to study communications, this was in the mid two thousands. She started using graphic design and publishing software programs like Adobe InDesign or Microsoft publisher. And she was frustrated that the programs were so clunky and so difficult to learn.
+
+3 (5m 9s):
+And it seemed completely silly that you'd take so many instruction manuals and so many steps through the most basic of things. Students would take a whole semester just learning where the buttons, where they learn, how to design something. It seemed very apparent that this whole desktop based thing would be completely archaic and outdated in the feature. And so had this very oversized vision for taking on all of these different industries from, you know, Microsoft office and lots of other industries as well. I thought rather than people using things like clip art, they should be able to have access to beautiful templates like designers do. But at that point in time, I was 19 and I had no business experience. And so rather than trying to take on the entire world of design, all these really big companies who decided to take on school year books. Yeah.
+
+1 (5m 49s):
+You keep saying, we who, when you say we, who are you talking about?
+
+3 (5m 53s):
+My boyfriend had co-founder
+
+1 (5m 54s):
+Cliff and you're still together, 12, 11, 12 years later. So you decided to start like a web based business that would help people design your books. How, how did you come upon the idea of, of yearbooks?
+
+3 (6m 9s):
+Well, we had this vision for all, for taking on the entire world of design, but yearbook seemed to be like a really pressing need because school teachers would get thrown into this thing. They had no desire to experience. I'd seen my mom put together school year books for her school
+
+1 (6m 24s):
+Grind.
+
+3 (6m 24s):
+It's a huge grind. And all of a sudden these people with no design experience were expected to create something, to look professional. And so we realized that it would be a really easy thing to do because there's such a strong market need for these people to create yearbooks.
+
+1 (6m 37s):
+So how do you go from having that idea to actually like what's, what was your next step? Cause it was you and cliff and he was also 19 20 20, by the way, what was it called? Fusion book, fusion books. So were either of you guys like coders or software engineers? I mean,
+
+3 (6m 53s):
+So we just went and interviewed every software development company in Perth, and most people told us that we are completely,
+
+1 (6m 60s):
+But how did you even have the money to pay them?
+
+3 (7m 3s):
+Got a 50 grand loan from friends and family, which was awesome. And then we got five grand back from JSA, which is like our tax thing. So that was our marketing budget. Yeah.
+
+1 (7m 12s):
+You went around to friends and family. So we have this amazing idea. We want to develop a web based software solution for people designing your books, which is a great idea. That's exactly
+
+3 (7m 22s):
+Right.
+
+1 (7m 24s):
+So you and cliff have a little bit of cash and you go round to software developers in Perth. Who did you eventually find?
+
+3 (7m 34s):
+Those is amazing company called in-depth. And I went in with like an 80 page description of exactly what we wanted to build. Like I had wire frames, threw it off, even though I didn't know what that, like you
+
+1 (7m 44s):
+Sketched out patients pages would look like it
+
+3 (7m 47s):
+Yeah. To the DSL, but every single button was going to do how it's going to work. Like these projects ended up being like five times bigger than I anticipated, but they were very kind and like we'd had a fixed price.
+
+1 (7m 59s):
+And what was going to make this better than anything else available at the time?
+
+3 (8m 5s):
+Well, I think that there was just nothing much available other than these desktop based programs. So rather than have ever any, having to send emails back and forth and collect all those files, I wanted it just to be collaborative and online and really simple.
+
+1 (8m 17s):
+Because at that time, if you wanted to make a yearbook page, you would just go on Microsoft word or, or like
+
+3 (8m 24s):
+Yeah. Microsoft word or publisher. And then also it wasn't just that part. You then have to go get your stock photos or stock illustrations to actually make it look really good. And so there'd be so many different things that you're having to piece together to create.
+
+1 (8m 39s):
+And then you would like email that page to somebody and say, Hey, what do you think? And they'd say, oh man, but you wanted something more like Google docs where everybody could kind of jump in and make changes. And that was correct. So you go to the software company in Perth and how long did it take for them to build out the software for you?
+
+3 (8m 58s):
+It's about six months before we had a first iteration and then immediately started and our second.
+
+1 (9m 2s):
+And, and do you remember what year? This was 2008, 2008. So you just put it up there on the one hand, your books seemed like a really niche market, right. Because it's, you know, one time a year when someone's using it, but on the other hand, every school does a yearbook. Right. So it actually surprising that there was nothing really out there to make it easy.
+
+3 (9m 24s):
+Yeah, absolutely. And the, on the plus side as well, because a yearbook actually has to get printed. That was how we're able to monetize. So we're able to give the software away for free and then actually sell the physical year.
+
+1 (9m 34s):
+So the idea would be that somebody would go on their design, their yearbook hit submit, and then you guys would take that and then print it and you would make money off of the actual printing costs. So what happened?
+
+3 (9m 49s):
+Well, we've got 16 schools in our first year, which we're very excited about. And then we ended up getting printing presses in my mom's living room. How did you,
+
+1 (9m 59s):
+How did you put, how did you get printing presses?
+
+3 (10m 2s):
+So Fuji Xerox had this really cool deal where they said that they'd give us the printer for free. If we paid for the ink and cut shoes. And they kind of believed that we had like an, a newspaper article in Perth and they obviously,
+
+1 (10m 15s):
+Oh, there was an article about you guys and they saw it and they thought, oh, we'll help out.
+
+3 (10m 19s):
+And they thought that that hope out and would become a big printing press company. One day, once they gave us a printer, we ended up with a couple of them actually. And so we would have a printing press going for 24 hours for three months a year. And it would just be printing out these yearbooks and then we'd go to a binding base. And that actually do the, the finishing and the binding. Did any of that,
+
+1 (10m 39s):
+These schools know that you guys were like 19, 20 years old?
+
+3 (10m 44s):
+I imagine. So.
+
+1 (10m 48s):
+So at, within your first year, do you remember like what kind of revenue you you did
+
+3 (10m 55s):
+The first year revenue would have been very modest, but it was enough to be able to afford to do more marketing the next year. So we just reinvest our profits every year into the next year. And very fortunately, I guess we had to become profitable quite quickly because otherwise we'd have no company immediately. So the first year we had 16 schools. The second year we had 50 schools. The next year we had a hundred schools and then it was like, I think it was 300. So it was growing quite rapidly.
+
+1 (11m 21s):
+How, when did you start to think about building this into something bigger? Because by 2010, you know, you're two years in and I can imagine you can start to see this thing has legs.
+
+3 (11m 34s):
+Yeah. So actually the original idea of taking on the whole world of design and making it easy for everyone was actually planted right from the start. And then we narrowed it down to yearbooks, but we had looking around and people would be like, oh, can we use this to design our canteen venues and our newsletters and our school flyers are like, surely there must be more technology available now that does that. And there certainly wasn't. But then in 2010, I met bill Tai who is a Silicon valley investor over from here. And he was just talking about all these companies and startups. And like, when I first heard him speak, it sounded like a window to a whole,
+
+1 (12m 11s):
+You met him in Perth. What was he doing there? He
+
+3 (12m 14s):
+Was speaking at a
+
+1 (12m 15s):
+Conference. This is in 2010.
+
+3 (12m 17s):
+So like, even though like we'd sort of had a company we'd thought we'd been growing. But the only thing that we knew at that point in time, as there were a small business that really struggled to get a loan from the banks, it didn't have a credit history. And there was this whole world of startups that were taking on big industries. So went up to him after a speech, someone there, Kylie, she asked me and said, Hey, she's got a cool company. And he said, yeah, if I went to San Francisco, he'd be here.
+
+1 (12m 45s):
+And you said, oh, okay, great. And will you just like took his number? Yeah. An email and stuff.
+
+3 (12m 50s):
+That's exactly right. And so, as soon as I met him, I realized that that was the next level and that if I could do anything we possibly could to get there is this,
+
+1 (13m 1s):
+So you, so you just emailed them and said, can we talk?
+
+3 (13m 4s):
+Yeah, I kind of was like, Hey, I'm going to be in Silicon valley. Just going to be in the area I'm going to catch.
+
+1 (13m 10s):
+Did you, did you really have plans at that point or you just thought, let's see what he says.
+
+3 (13m 15s):
+If I just say that I'm going to be there and he says, who made up will then I'll go. Right. And so could not have been more over the moon that he actually even responded
+
+1 (13m 24s):
+To my message. Sure. Come see me. Yeah.
+
+3 (13m 27s):
+I was just completely dumbfounded. Wow.
+
+1 (13m 30s):
+So you presumably could go and book your ticket to San Francisco. And how long was, were you planning on going out for coming out for?
+
+3 (13m 38s):
+I planned on coming out for two weeks. My brother was living here and I thought I'd come and visit him and I'd go and have this meeting that I was absolutely afraid of is an understatement. And so in between the time that he said that he'd meet with me and coming here, I put together my business plan. The feature of publishing was what I titled it. And it had a picture of us feeding Microsoft office and a JV and Google docs and a whole bunch of other companies. So we met on university of, and in Palo Alto at a cafe. And he said, we'll go for lunch. So I brought my, I physically printed my pitch deck, which I also didn't realize it was,
+
+1 (14m 21s):
+You're supposed to put on like a, a computer, right. That that's probably
+
+3 (14m 26s):
+Like a sleek Mac. Didn't know this
+
+1 (14m 29s):
+Stack of like stapled.
+
+3 (14m 31s):
+Like I had my paper pitch deck and he was like, do you have an iPad? And I'm like, no. And then I was like trying to flip the pages in my deck and explain about the feature of publishing and how we're going to take on all these big companies and try to eat my lunch. And he
+
+1 (14m 45s):
+Was there wrapped like
+
+3 (14m 46s):
+Engaged. No, he was on his phone the whole time. It was so awkward. I felt like the biggest flop. And, but very fortunately when I went home, I had an email from him and he said, if I could find a tech team, he'd be happy to invest. Wow. Yeah. So he'd actually been messaging a lot of different people and introducing me to them while
+
+1 (15m 7s):
+During the meeting. So he was actually on the phone messaging, other people.
+
+3 (15m 10s):
+Yeah. So the next meeting I had was with laws, Rasmussen who co-founded Google maps and meeting him completely blew my mind because I really didn't know. It sounds so bizarre, but I had no idea that people that made big world changing companies were just regular, nice, hardworking, normal people. And meeting laws completely changed my perception of what was possible.
+
+1 (15m 33s):
+And did he, when he met you, he said, Hey, there's something here.
+
+3 (15m 37s):
+Yeah. We ended up having an incredible conversation for hours. We both had a really similar view of what the feature of communication and publishing should be like,
+
+1 (15m 45s):
+What was he saying?
+
+3 (15m 48s):
+So those are few philosophies. One of them was that overtime industries would converge. So rather than having the print industry, being over here, having to use different software, to create a website and different software, to create a presentation and different software to create marketing materials and some of those things being online and some of them being desktop based that all these industries would come together and be in one page and then be accessible to the world. It seemed crazy that you'd have to use so many different tools and go and learn a different thing for every thing you wanted to create.
+
+1 (16m 16s):
+So you meet the Lars and you say to him, Hey, bill says, he's going to back me. If I find a tech team, can you help me? Is that what you said to Lars? Yeah. That's exactly.
+
+3 (16m 28s):
+And Laura said, he'd be happy to be an advisor, but what that ended up entailing was him rejecting everyone for a full year.
+
+1 (16m 36s):
+Yeah. W why did Lars have to approve of the tech team? Was that Bill's condition or
+
+3 (16m 41s):
+That was Phil's
+
+1 (16m 42s):
+Condition. He said, oh, I trust Lars. If Lars gives a thumbs up to your tech team, all fund you that's exactly right. So you are in San Francisco for the next three months until my faith are expired. Okay. To FISA sick, because three months he's a tourist visa. And where are you like working out of? Where are you
+
+3 (17m 0s):
+Sleeping on my brothers? So he had a one bedroom apartment. I was sleeping in his living room floor. And I was working in at Nordstrom, the shopping center, the Westfield
+
+1 (17m 10s):
+Shopping center. It's
+
+3 (17m 11s):
+An amazing coworking space. I don't know why more people don't take this up. It's free
+
+1 (17m 15s):
+As wifi. That's exactly right. The Nordstrom's in the Westfield shopping center in San Francisco. Okay.
+
+3 (17m 23s):
+And so I would go in there and I'd work. And between that, I'd be going to every single conference that I could, like anything, any meeting,
+
+1 (17m 30s):
+Any chatting with people, whoever would listen,
+
+3 (17m 33s):
+Like literally even on the bus, I'd be pitching people, trying to get them to join my tech team.
+
+1 (17m 38s):
+Are you just naturally kind of crook Arius and outgoing? Was it easy for you to just show up? Like you would just go up to him and say, hi, I'm Melanie. Can I tell you about my company? Is that what you would do?
+
+3 (17m 47s):
+So I'm actually naturally really introverted, but when I have a goal, I do everything I can together. And so, yeah, I would be getting off and it's like, if people would let me do a one minute pitch at a conference, I would get off and I'd be doing that one minute pitch and
+
+1 (18m 2s):
+Absolutely
+
+3 (18m 4s):
+Completely terrified. But I just keep on pushing myself. Cause I wanted this to happen.
+
+1 (18m 8s):
+Your, your partner and boyfriend, cliff, he, he was still at work. Right. Because presumably for those three months he was working on, on fusion, the yearbook company. Yeah. And how was it doing?
+
+3 (18m 18s):
+It was doing well, it was growing. It had like, he moved out from my mom's house to, into our first office. Yeah. It was, it was interesting time because we knew that there was this big, amazing opportunity over here, but it was really hard to make progress with. And then on the other side was fusion and that was a sure thing growing every month, every year it felt like I had been over in Silicon valley achieving nothing while like I'd left him with all the hard work. Pretty much summed it up.
+
+1 (18m 44s):
+So three months through you're here for three months. Was it exciting? Were you encouraged? Did you feel like this is moving forward?
+
+3 (18m 54s):
+I think every day I felt like I'd make a little progress, but by the end of the three months, I didn't have a tech team. And I left feeling like the biggest failure. Why? Because I had not landed a tech team, which meant that I hadn't landed investors, which meant that all I'd done in my view at that point in time was like nothing. I've learned a lot that I hadn't actually achieved anything. And so I went, when I was going back to Perth, I'm on the flight. I read a list of the things that I'd achieved. And one of them was like staying alive, which is a little group, but it was, yeah, it was a just saying, but then yeah, then moved the company from Perth to Sydney and came back around to
+
+1 (19m 37s):
+Coming up in just a moment by Melanie's next step in her search for investors was learning how to kitesurf stay with us. I'm guy Raz. And you're listening to how I built this from NPR. Hey everyone, just a quick, thanks to our sponsor. ZipRecruiter finding great candidates to hire can be like finding a needle in a haystack and working remotely can make finding qualified candidates even more challenging.
+
+1 (20m 21s):
+That's why you should try ZipRecruiter four out of five employers who post a job on ZipRecruiter, get a quality candidate within the first day, how their technology actively invites the right people to apply for your job. Take charge of hiring for your business with ZipRecruiter. Try it for free at ziprecruiter.com/built beat U I L T. Thanks also to Squarespace the easy to use website builder designed by world-class designers. Squarespace's all in one platform is dedicated to making it easy to establish an online presence with domains, marketing tools, analytics, and more go to squarespace.com/npr for a free trial.
+
+1 (21m 6s):
+And when you're ready to launch use the offer code NPR to save 10% of your first purchase of a website or domain. Thanks also to TD Ameritrade. TD Ameritrade's learning experience is curated from their vast library of exclusive content and customize it to fit your investing goals and interests get started at TD ameritrade.com/education.
+
+5 (21m 34s):
+The news is about more than what just happened. You need to know why it happened, who made it happen, how it's felt in the communities you care about NPR daily news podcast. Consider this gives you all of that. With context backstory and analysis on a single topic. Every weekday, it's not just information. It's what the news means. Consider this from NPR.
+
+1 (21m 57s):
+Hey, welcome back to how I built this from NPR. So something you should know before we get back in the Melanie story is that bill Tai, the VC investor Melanie met with at the Palo Alto coffee shop, he's a huge kite surfing fan. And Bill's taken these two things, venture capitalism and kite surfing and kind of combine them into a conference. He puts on called my tie. And back when bill met with Melanie basically told her, Hey, if you like kite surfing, I can invite you to this event. And you can talk to some other investors there about your idea,
+
+3 (22m 32s):
+Because I made it seem like I was really interested in Kaiser thing. And so he said that if I could Keiser, if I could go to this conference and that was where a lot of VCs and investors would be. So I learned to kite surf and felt like I was going to risk my life quite significantly. It's really
+
+1 (22m 47s):
+Frightening. And, and what does, what's this conference likely? What do you, what do you do?
+
+3 (22m 51s):
+They have tech talks like during the morning and then everyone kite surfs in the afternoon.
+
+1 (22m 56s):
+How many people are there? 150. Okay. So it's pretty big relatively. And it's at a hotel in Maui and Maui. Okay. And kite surfing by day and then mingling at night, you went or both you and cliff, we both went and you guys are, must be thinking, this is a way for us to get in front of potential funders, investors. That's exactly right. So what did you, were you thinking
+
+3 (23m 21s):
+We weren't scheduled to talk or anything, but one and one of the events we just said, like, can we talk to Marie? Can we do a pitch? And this was like 10 o'clock at night. And eventually he said, yes. So we ended up like, stay up until 6:00 AM, like preparing a pitch for the pitch of our lives and eventually got off and was so incredibly nervous in front of everyone. But apparently it didn't do so because they, this XC of Shutterfly came up and said, he'd be keen to invest. And a number of other people said that if they'd give us intros or it would be keen to invest as well.
+
+1 (23m 56s):
+What does that mean? Does that mean like I, when I'm ready to write you a check now or does that mean I'm interested in further talk and talking more about this,
+
+3 (24m 5s):
+Further talking more about this and when you see who else is going to invest before we invest is, was the general feeling. So you had to get enough people who are interested to invest for finding out.
+
+1 (24m 15s):
+So you did not leave Maui with like a stack of checks left now with how many checks? Zero. Okay. So the next, so from mal, you went back to San Francisco, still on a tourist visa. This is round two. Now it's you and cliff. And what did you do over the next six or eight weeks? Like, did you, was it, did you start to pitch potential investors? That, is that what you were doing
+
+3 (24m 38s):
+Pitching everyone included. We're still pitching for other engineers at this stage because we still didn't have an engineer or a pitching any venture capital list or angel investor that would take a meeting.
+
+1 (24m 51s):
+W weren't any of the investors saying, Hey, this is a really cool idea. And you know, fusion seems cool, but you don't have a tech team. You don't have a chief technology officer. Like, I don't know if I'm gonna put my,
+
+3 (25m 4s):
+Yeah. That was literally why everyone was saying that. Yeah, it makes perfect sense. But how are we going to get these things wrong?
+
+1 (25m 10s):
+How many people do you think you pitched over that? I guess two month period in San Francisco,
+
+3 (25m 16s):
+The three months it was, I don't know between the, like the first year and that year period. It would over a hundred people more. I didn't count that I was going through my rejections the other day. I was looking at some of the emails and there was quite a, quite a damn Dunphy.
+
+1 (25m 37s):
+So what was it that kept you going, like when you were just getting rejection after rejection?
+
+3 (25m 43s):
+I think you just know the game you're playing and you know, we wanted to build the future of publishing and we knew that this will like in my head, this is just absolutely the future. There's no way that things are going to be desktop based anymore. Everything was very evidently moving online. There's no way that things were going to be fragmented across all these industries. It was going to be easier for people. And so I really wanted to create that, even though it was frustrating, it was also, I knew it was a pretty important thing to do, to get people, to see the same feature that I did. Yeah. But I think it was really beneficial because we got so many different questions and comments and people not liking what we were doing at all. And men that we really had to know what we're doing and really refine our strategy. So every single day we'd go back and revise our pitch deck.
+
+3 (26m 26s):
+Every time we got a really hard question that would go right to the front of the pitch deck. So the hardest questions were answered at the right at the front. So rather than people sitting and go through the entire pitch and then being like, oh, but you're the same as some random company that actually had nothing to do with us. We then put aside in our pitch deck, which showed the gap in the market and all the other companies and where we believe the huge gap was, a lot of people would say they know nothing about design. They don't know anything about our industry. And so that was a reason to not invest. So we made the, one of the first pages of our pitch deck explaining the industry and where we believe this huge gap was,
+
+1 (26m 58s):
+This was in 2012. Right. Okay. So let's say I'm one of these investors you're meeting with in the bay area. I would say so. Yeah, this looks cool, but I have a lot of questions for you, Melanie. First of all, tech team, where's your tech team. You would say what,
+
+3 (27m 13s):
+We've already built a company with fusion books. We've demonstrated that we can make a profitable company. That's been able to grow. We've launched internationally and we're just going to take it onto the stage. I can totally understand why nobody wanted to invest in us. And then,
+
+1 (27m 26s):
+And I'd say, but you know what? Like, look Microsoft or Google the minute they see what you guys do, they'll crush you because they'll just put something else out way bigger. And, and I mean, you're just going to get crushed right away.
+
+3 (27m 39s):
+He sounds totally like one of those investors.
+
+1 (27m 41s):
+And what would you say?
+
+3 (27m 42s):
+I would say there is this huge gap in the market because to Canada to actually create this huge industry, the future of publishing, it would have to completely cannibalize your industry. And if you look at the areas of publishing over the years, we started off with metal plates and then we moved into the top setting and pay stuff. This is actually became the second slide in our pitch deck that we then moved into the desktop era. And then we moved. We're now moving into this new year, which we believe is going to be online. And what you will see dear investor is that no industry player has actually ever been able to go from one industry to the next and actually still maintain being the market leader. And so every single time there was a new era, a new market leader emerged.
+
+3 (28m 22s):
+And so we believe that market.
+
+1 (28m 25s):
+And then I would say, okay, but I, you know, it looks interesting, but you guys are way in Australia. I'm like, why would you guys consider relocating here making, moving your team here?
+
+3 (28m 34s):
+So it depends why when you ask this question, so at a certain point in time, we ended up finding an amazing co-founder Cameron Adams who had been at Google. And so he was going to be based in Australia. And we also met another amazing guy from Google who loves that was one of the best people we'd ever worked with Dave Herndon. So Lars actually introduced us to both cam and Dave, Dave had worked in the U S but he was Australian. He was going to be in Australia. And so it sort of started to swing the pendulum towards Australia. And then the government in Australia had this matching funding thing where they would match it. Every dollar that we got from investors,
+
+1 (29m 11s):
+They wanted to incentivize you to stay, to stay in Australia. So, so Dave Harner, who, you just mentioned, he what he ends up becoming your, your chief technology officer, right? That's correct. And, and, and I'm just curious, like he was a really talented engineer working at Google. I'm sure. His firm very well-paid at the time. How did you convince him to join your tiny startup instead?
+
+3 (29m 34s):
+Well, if he searched the term on Google bizarre pitch deck, I can proudly claim the number one. So I went on to, so firstly, we'd pitched Dave and Dave was like interested in what we're doing. He, so he was a little bit concerned about joining. So what I did was I went to his Facebook page and I took lots of photos from his Facebook page. And I put together a pitch deck and said why it would be such an amazing adventure to come and join and recreate the feature of publishing and change the face of the internet, using a storyline from the photos that I'd taken from his
+
+1 (30m 11s):
+Facebook page.
+
+3 (30m 14s):
+I think that that definitely moved it in the right direction. I think that he realized that we had a lot of passion and we're going to do whatever it took to make this thing happen.
+
+1 (30m 22s):
+Okay. So now you've convinced a few high profile people to join you. You're finally putting together this tech team to actually build the, this thing, but you're still pitching investors and getting rejections. Right? Well, w when did that change?
+
+3 (30m 35s):
+I had enough people that were somewhat interested that hadn't rejected us. So had a bit of a strategy where rather than asking if people wanted to invest, we'd ask people for their advice and you can go back and you can say, Hey, do you want to give me some advice? I'd love to show you my pitch deck. And then I'd give us some advice. So that means, I didn't say no to us at this point in time, they would just give you feedback, give us feedback. And they're like, okay, that's great feedback. We'll take that on board and be like, Hey, do you want to meet up again in another month? And look, we've done the things that we'd said we're going to do. And once he had done that enough times, I realized that you actually do the things that you say you're going to do. We kind of had enough people at that point though, kind of interested. We'd kind of been demonstrating that we could do what we said we were going to do.
+
+3 (31m 18s):
+And then at the tide turned because we had an, we were all of a sudden oversubscribed,
+
+1 (31m 23s):
+How much did you want to raise in that first seed round?
+
+3 (31m 26s):
+So we want to raise 1.5. I think we left San Francisco and we'd raised seven 50, but then over the coming months, we ended up filling out that round of about 1.6. I think it got to where it's totally oversubscribed. And then the Australian government gave us 1.4.
+
+1 (31m 45s):
+Yeah, exactly. You got 3 million bucks. This is what early 2013.
+
+3 (31m 51s):
+Yeah, 2012. So it was a full year of development between landing investment and actually launching the product. And in that time I invested like, well, like what the hell has she done with that money? I'm like, it's a long time. So like the lean startup was a big deal back then. And you launch and iterate and, you know, do something in a weekend and see if people like it. But the whole point was that we took all these really complex things and made it simple and then great for everyone and accessible. And so that took a lot more time than a weekend. And so you spend that year developing this thing and then spend a lot of time on user testing, making sure that people actually understood it. People were scared of designing because people are conditioned for their whole lives thinking they're not creative or can't design things.
+
+3 (32m 37s):
+So we ended up with these things called static challenges, but they'd come and they'd change the color of a circle and put a hat on a monkey and all these little silly challenges that built up people's confidence with their design abilities. So that took a while.
+
+1 (32m 50s):
+And, and why you were sort of building, building out this technology, presumably you had to hire people to write how many people did you have to hire in that first year before you even launched? I
+
+3 (33m 3s):
+Think we had about 15
+
+1 (33m 5s):
+People. So you had a team. I mean,
+
+3 (33m 8s):
+We had a table, it was exciting.
+
+1 (33m 10s):
+And it sounds exciting, but let me just the flip side of this, which is all of a sudden, you've got $3 million of other people's money. You've, you've convinced these really talented engineers to join you. You got other people who've given up their jobs to come and work for you. That's scary. That's a lot of responsibility on your shoulders.
+
+3 (33m 34s):
+Yeah, definitely. Actually. What about laws and started to think about this whole world of venture capital and taking people's money? I realized that I had to make a decision at that point in time that if I was going to pursue this path, I would have to be at least partially okay. With the idea of it not working out and why that was something that was important is I'm really not someone that likes to give up ever on anything. But yeah, certainly it was a lot of pressure, but I was also felt incredibly happy for it to have gone from something where everything was external. So trying to convince people to join my team, just something that was internal. Like I could, can work really hard to make sure that this was an amazing product. And I liked that switch.
+
+3 (34m 15s):
+That's my, my preferred place.
+
+1 (34m 17s):
+So you guys launch, I guess in August of 2013, and you're ready with this online graphic design and like publishing tool and you hang the shingle out and the website goes live and what happens? Like do, do people come to it right away?
+
+3 (34m 32s):
+Well, we were fortunate that because we had some high profile investors in that first round, when we landed that first round of investment, we made, we announced it, we got some tech crunch coverage, or we're pretty stoked about that. And we ended up with a waiting list of 50,000 people before.
+
+1 (34m 49s):
+Oh, so Bussa was by invitation only initially,
+
+3 (34m 53s):
+Where are these stealth startup that wasn't saying what we're doing. Right. And then, yeah, we, we launched in August, 2013. We'd spent a lot of time prior to that engineering. So people would have an amazing experience into cloud and to share it with others. And that certainly happened. And so within the first, you know, every month, this was the biggest and best ever. Wow.
+
+1 (35m 15s):
+And what, explain what the business model wasn't is like, you it's free to use, right? Like you can just go and design anything. So subscription model has to work.
+
+3 (35m 24s):
+So one of our philosophies right from the start was that we wanted designed to be accessible to everyone. We wanted to be free. And so Canberra is completely free to use. And then you can purchase images for dollar. And so it would mean that like, if you're putting together your school assignment or you're just a really small business, trying to get your social media off the ground, you can afford to create something for look great. And then we also have a paid offering. So if you're using it for work, if you would like to save your brand colors and fonts and logos, then you can go on our premium.
+
+1 (35m 56s):
+And it's like a subscription like monthly now. And, and so let's say I want to design like a yearbook page. Right. And I can go and design it. But if I want to actually download it, I have to pay for that. That's free as well. That's for you.
+
+3 (36m 8s):
+Yeah. We wanted, we wanted to ensure that our free product was a complete value lead. Like you could go in, get your thing
+
+1 (36m 13s):
+Completely free. It doesn't, it doesn't say Canva like printed on it or anything. Do you guys have ads at all? No ads. So how so you need a pretty significant percentage of your users to buy images because building this technology is expensive.
+
+3 (36m 32s):
+Yeah. So the concept was that we'd give away this offer for free, but then you could purchase images. You could purchase fonts, you could purchase potentially layouts, but we're currently giving them away for free. But the idea is that you would always be able to have that base product for free for everyone and we're actually profitable. So actually that business model has been working out all right, for us. And you can also print your design so you can click print and in 40 countries you can have it delivered.
+
+1 (36m 57s):
+I mean, one of the things that I'm, I'm really surprised about and I'm a little disappointed about actually, is that it sounds like you just didn't make any mistakes after we launched it. It just sounds like you put this great product out there and there were no bugs and everybody was happy with it. Is that is a true, I mean, I I'm, I'm like waiting for the disaster story where, you know, you launched it and then like it crashed for four days or something.
+
+3 (37m 23s):
+I'll give you, I'll give you a tidbit. So it's, I, it certainly hasn't been smooth sailing, but I guess I'm always just focused on the next mountain to climb. So for example, when we launched, so we had, I've just told you the entire backstory of all the, of the effort that had gone into getting it to launch. So I was back in San Francisco, sleeping on my father's apartment and he was actually away. So I'm just there by myself before. So I'm about to go to sleep. And so on break the embargo break,
+
+1 (37m 49s):
+The embargo that you're about to
+
+3 (37m 50s):
+Launch a VAT to lunch. Yeah. And article came out and they met their articles, said that we had a not very good product and that we had cheesy photography and that it wasn't very easy to use. And I felt at that point in time, like the last six years of my life was crushed. Yeah. Very fortunately that was a bit of a fortunately a false start. Everyone else seemed to like it and, and get what we're doing. So
+
+1 (38m 22s):
+As you scale and grow and hire more people, you are the CEO, you're the boss of the company. I'm your self-described introvert. You're sitting here. You seem like just ate kind and really delightful person. And sometimes you have to be tough as a seat. Like you have to make tough decisions. You have to fire people, you have to review people, you have to have difficult conversations with people. Have you had to learn how to do that? Or does that come naturally to you? Or do you just avoid doing that?
+
+3 (38m 57s):
+I think everything, every single day, right from the start has been a learning curve. There's been people that haven't worked out over the years. We try to just have the nicest conversation, try to actually help them to understand that why it wasn't working out, try to coach them to actually make them better. I don't know. There's just every, at every single stage there's been things to learn. And I don't think that, you know, some things never get easier, but you just have to figure out like, what is the best thing that you possibly can do and learn as you go? I think that that's one thing that I'm pretty good at is just in time learning. And over the years, there's certainly been a lot of things to learn,
+
+1 (39m 32s):
+You know, given that you are like one of the first Australian unicorns, right. I don't know. Does that increase the pressure on you or, or does it, are you just super proud of it and, you know, just carry on. I mean, do you feel any of that weight?
+
+3 (39m 48s):
+I think the ironic thing is like, since I was doing my assignments and you too, I've always put a lot of pressure on myself. And so that same pressure justifies today. Like, of course it's different, it's a different magnitude, but I think I've just always put a lot of pressure on myself. I've always wanted to do the best I possibly can. And now, yes, I feel a responsibility for the livelihoods of a lot of as team members. But I think that, you know, that same pressure of just like trying to do my absolute best every single day. Just kind of being continuous.
+
+1 (40m 19s):
+I'm just curious, like at the hundreds of thousands of designs that, that have been created, you know, up until this point with this tool that you brought into the world, like, do you, do you have any,
+
+3 (40m 32s):
+To me the stories that really touch me, like, so we've got 20,000 nonprofits using Canva and this is everything from people trying to end poverty to cure cancer. Like seeing the stories they're pretty damn cool. Like we had a lady who found her birth mother, who she created a poster on Canva, posted on Facebook, found a birth mother. That was pretty cool. We've seen so many people post their resume that landed them a job. Or there's just like so many stories every single day. I like look through Twitter and I see so many touching stories of, you know, that one philosophy of the design should be accessible to everyone is actually being put into practice and having real world implications.
+
+1 (41m 14s):
+How much of, of all of this, this amazing story do you attribute to your skill, your intelligence, your hard work and how much to luck?
+
+3 (41m 24s):
+I think it's a really interesting question because I think that if you zoom out of luck and you say, where were you born? Who your parents, who, what was the education that you got? You know, having good health here. There's so many layers of luck. So if you look at all of those things, I couldn't be luckier. But then on the other side of it, I feel like we've planted enough seeds that eventually one of those grows. And so that's kind of another version of Lucky's like we planted maybe a thousand seeds and one of those seeds grew. And so you could kind of attribute that data luck or hard work for planning a thousand seeds. So I'd say a little column, a little column bay.
+
+1 (42m 2s):
+How, how old are you now? 31. So 31 and amazingly you're so young, but you're a veteran. I mean, you've been in the startup world since you were 19. Like you started your first real company. So you, you have a lot of experience. I mean, you've got 12 years of experience doing this, raising money, starting a business, creating a brand marketing. What do you know now that you wish you knew when you were 23, 24, 25?
+
+3 (42m 32s):
+I think one of the wonderful things about this whole experience is that I didn't know a lot going into it. And I think that learning every single day as you go has actually been one of the most critical parts, because I think if I knew all of the lessons that I've had to learn over the last 12 years, I would have been incredibly intimidated and potentially not even wanted to start had. I listened to statistics for example, and thought that that was something that I should be afraid of or frightened of that probably would have dissuaded me because every single day you're getting thrown in the deep end. But at the same time, like I love challenges and taking on the, what seems to the impossible from the outside. I don't know when you don't know what you don't know, then you can't really be afraid of it.
+
+1 (43m 19s):
+That's Melanie Perkins, co-founder of Canva. The company says its publishing tool is now used by 30 million people a month. Oh. And by the way, when it comes to kite surfing, now they told me she actually got into it for a while, but she doesn't really do it anymore. I did it
+
+3 (43m 35s):
+And for five years, and I can now officially kite surf, but I felt for five years, like I was kind of risking my life. I'm kind of, I take risks in things that are kind of calculated and say, my risk loss ratio is a little out with that. I felt like I could die at any moment.
+
+1 (43m 52s):
+And thanks so much for listening to the show this week, you can subscribe wherever you get your podcasts. You can also write to us@hibtatnpr.org. And if you want to follow us on Twitter, it's at how I built this. Or at guy Roz in Instagram, it's at guy dot Roz. This episode was produced by Casey Herman with music composed by rum teen Arab Louis. Thanks also to Liz Metzker Farah safari, Doris gales, JC Howard, Julia Carney, Neva grant, and Jeff Rogers. Our intern is Janet who Jon Lee I'm guy Ross. And you've been listening to how I built this.
+
+6 (44m 35s):
+This is NPR. When the survivors of a mass shooting at a newspaper went back to work. Everything was different. Even email.
+
+7 (44m 47s):
+What if someone's sending us more death threats or what if somebody sends me a death threat and I don't see it. And then somebody comes and kills all my friends. And it's my fault because I didn't read the email.
+
+6 (44m 57s):
+That's this week on the capital Gazette series from NPRs embedded,
+
+8 (45m 2s):
+The message comes from NPR sponsor. Charles Schwab Schwab's financial consultants offer a modern approach to wealth management with personalized advice, retirement planning, and more all tailored to the specific needs and lifestyle of their clients. Learn more@schwab.com.

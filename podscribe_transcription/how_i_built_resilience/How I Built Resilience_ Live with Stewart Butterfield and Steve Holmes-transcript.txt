@@ -1,0 +1,152 @@
+2 (0s):
+Hey, it's guy here. And before we start the show. I wanted to let you know about a short Anonymous survey that you can take to let us know what shows and podcasts you're listening to if you want to help you can go to npr.org / podcast survey. It won't take up too much of your time, and this is a great way to support your favorite shows. That's npr.org podcast survey and thanks. Hey, welcome to how I built this resilience Edition. I'm guy Roz. So as some of you know, we started a new series of online conversations where each week. I'm talking to Founders and entrepreneurs about how they're building resilience into their businesses right now and in case you missed them when they happen live, we are posting excerpts right here in your podcast feed.
+
+2 (47s):
+And today. We're going to bring you to conversations later in the show. You'll hear from Steve homes the co-founder of Springfree Trampoline about the surge in demand for backyard trampoline. Links and the long waiting list to get one, but first to Stewart Butterfield the co-founder of slack and Flickr before the pandemic slack was a pretty widely used office messaging platform, but in a single week starting March 10th, slack on-boarded more than 2 million new users among those working remotely are stewards 2,100 employees who work in offices in 10 countries around the world. I spoke with Steward from his home in the Bay Area where he's been wondering. What is the future of work?
+
+2 (1m 27s):
+Work and slack look like thank you for being here. How are you doing, by the way,
+
+3 (1m 32s):
+I'm doing okay. I mean, I feel grateful that we have a backyard given that we have two little dogs. That's something on the other end. We have 2,100 employees around the world and of a distribution of how people are doing right now, you know, some people are okay many people are stressed and anxious, you know fears about the economic Fallout about the health of their friends and family and their communities some people Going a little bonkers trying to work while being the school teacher to their six-year-old and that they care to their three-year-old and the kids are obviously gone crazy then, you know people who are cooped up in a small apartment but kind of by themselves and then of course, there's the broader World which is much more mixed
+
+2 (2m 16s):
+you guys basically shut down your offices in San Francisco on March 6th. How did you make that decision so early?
+
+3 (2m 24s):
+Well, there's no other way. There's a lot of people talking about it. And there is this really, you know day by day or even in some cases going to hour-by-hour accumulation of events of things getting cancelled and you were debating whether to cancel our Global sales upside that which we had about 800 people together this year was going to be in Phoenix and we have guests wide in and that was the next week. I think can we do totally cancel that with like four days. I was in frequent communication with a couple of my peers other software companies and in the Bay Area mostly. And we were starting to talk about it. And I think I realized that it was going to inevitably happen and maybe we could differ by a week or something like that.
+
+3 (3m 6s):
+But there is zero point referring my week. And you know, if one of the incentives here is not just the health and safety of our employees but kind of being the good citizens and good stewards since we're able to do it. We should do it as quickly as possible.
+
+2 (3m 19s):
+And then I think you had an employee who was contacted by the CDC that they might have come into contact with somebody tested positive and Assuming that that also kind of prompted the decision to just tell everyone work at home. Yeah. Yeah. So actually I
+
+3 (3m 33s):
+mean on March 5th was a Thursday. So that was our board meeting hadn't really contemplated it later that day. We got notified by this employee that the CDC. I notified them that they had been potentially exposed. And since they had been back in the office since the exposure we decided we'll close the office on Friday, March 6th and over the weekend do a deep clean, you know people come in with a liquid UV lights and a bunch of others. But by Friday afternoon, you know this the accumulating evidence made it clear that we were going to have to decide to try down completely. So whenever you know after a Thursday, we can go back to the office and it turned out that was the last day in the office mostly hello
+
+2 (4m 12s):
+Stuart. We've had a lot of Business Leaders on the show like restaurant owners and prominent Founders. And for the most part their businesses are in trouble particularly Airlines and the restaurant industry for slack. It's been the reverse I mean after After it kind of became clear that so many of us are going to work from home demand for slack just skyrocketed has the demand slowed down a little bit right
+
+3 (4m 37s):
+now. We're we've now entered the quiet period leading up to our earnings call and the early stages of this. Yes. We saw huge increase in the number of new teams being created which is kind of people signing up for slack in the first place. Yeah converting to paid status of the customers who are already paid adding more users the people who are already using it. Their usage like, you know, the number of messages they sent per day kind of like every single metric up and I would expect that the good part. I think of having that surgery early on is it was great for employees, you know, it's great for morale to feel like you could help and I am mostly optimistic about human beings and in times of Crisis like this, I think people had a really strong instinct to help and if there's a place for you to put that energy it's not just productive and effective.
+
+3 (5m 25s):
+It's also kind of spiritually Calming your less anxious if you're if you feel like you're being at help. So I think really grateful for that. Also. We just invested so much over the last five years in disciplined culture around communication partly because of the use of our own product and partly just because you realize how important that was this transition. I think it was relatively easy because we had already invested so much in a style of working and you know ways of reporting progress and keeping people updated and coordinated but An office may have childcare and when I felt like a dick one of the cafe and sit outside and watch the people go by and stuff like that. This is different. You know, there's no childcare grandparents can't come and help and you know, there's there's one part of this that's a little bit nice probably people spending a lot more time with their families.
+
+3 (6m 14s):
+So it's really it's an interesting position because we just don't have a crystal ball. None of us. Do I think our position is this then we cannot tell because we just don't we
+
+2 (6m 24s):
+honestly don't know. I'm still getting a lot of questions from Facebook and and from YouTube and from Twitter. I'm going to start with Carly Batista. She asks, how are you going to ensure or how are you going to promote collaboration? You know, how can you continue that when your team is sort of spread out across the world at home? I mean obviously slack as a collaboration tool but having that face-to-face interaction, you know, I think for most of us we think of it as a crucial part of collaborating. How do you maintain that collaborative momentum?
+
+3 (6m 55s):
+Yeah, so it's a great question. And as I said, I think it's going to be harder for some organizations and easier for others. We had a 15 offices 10 countries around the world at our San Francisco headquarters, even years ago people would come and it's an open space office plan and we will definitely go have meetings and talk one-on-one. But the normal course of work was largely performed in slack and the advantage of that was if you and I are having a conversation and then the third person or the fourth person they're out today and they want to be able to catch up on. It's much easier if it happens in a slack Channel rather than a verbal conversation that's going to disappeared. So the first and second week after work from home order probably the two most productive weeks in the history of the company while I would say, we're probably still slightly above average but it is really starting to wear on people.
+
+3 (7m 47s):
+So it's it's a painful muscle to develop. I think if you didn't have to rely on it before if you were really reliant on in-person meetings to kind of get work done your get decisions made. We had over invest in in written communication and experiment with video tools to find the ones that work. So I
+
+2 (8m 4s):
+want to ask about the future of work. I mean a lot of people actually they're asking themselves. Why do I have to live in San Francisco where it's so expensive? You know, why can't I live in in Omaha or in you know, Lincoln Nebraska, you know anywhere else and still work for slack or whatever wherever company I don't know. I mean, what do you think? I mean do you think that it seems to me that this is going to have an impact on the way we work in the future and how How we think about the workplace? I mean some companies are going to have to even imagine a world where they don't have a physical office. I mean somewhere to go but big companies might start to think about
+
+3 (8m 38s):
+that. Yeah, I I'm hearing that more and more. So one of the big topics is do you expect to have a significant portion of your Workforce remote when this resumes and Universal? Yes, so I definitely expect that for us. I expect that for many companies. I've always liked that phrase never waste a crisis and I think again against this huge backdrop of People are much more accepting of other changes. I've heard all the things you said plus employees you feel like wow. I don't know if it's ever going to happen again, but being 1200 miles from my family and not being allowed to travel as really tough. I'd rather move back to my home town There's economic considerations. There's lifestyle and I think a lot of people who are cooped up right now boy, it'd be great to live in the countryside and be able to go for a walk sometimes so the downstream effects I think are going to be huge and I think Business Leaders are going to need to be open.
+
+3 (9m 27s):
+Open to a wider set of possibilities the good news. Perhaps is that when you're forced to do something that you previously thought was impossible other things that you also thought were impossible. Maybe become possible. Yeah, so I think generally not just slack not just zoom not just kind of tools that help you work from home, but just generally they'll be more acceptance of technology in the workplace in a positive way and people will be able to take more advantage of that to restructure how they work hopefully to get rid of some of the menial repetitive. Numb in parts of knowledge
+
+2 (9m 59s):
+work. I also think Stewart that if people start to think we think how they work right and if they decide look I want to live in the middle parts of the country. I don't need to live in San Francisco or New York. It could also reshape how people kind of create incredible ideas incredible businesses in in other parts of the country that have really kind of in some ways suffered from The Brain Drain that's coming to places like San Francisco, New York, Washington Allah
+
+3 (10m 26s):
+Etc. Yeah, and and and I totally agree and that will definitely create all kinds of new opportunities. I mean in any any period of change will dislodge a lot of incumbent businesses and unfortunately, you know, this kind of change I think is going to destroy a lot of businesses just in there's no nice way to say that the downstream effect of that is again a lot more opportunities for things that just wouldn't have been businesses before or new things that people are open to that. They wouldn't have been open to that's definitely worth
+
+2 (10m 53s):
+Stewart before we let you go one last question for you. How's it going? Change the way you think about your role as the leader of a company that employs 2,200
+
+3 (11m 4s):
+people. That's a great question. I don't know that I've internalized or acted on this to the extent that I should people need to be reminded. What's important more often people need to be reassured people need to be clear that we understand the plan because human beings hate uncertainty. I mean just historically it's almost like it's an evolutionary Instinct and you go back. Thousands of years Why didn't it rain this year? It can't just be random. You know that our crops were destroyed. It must have been because we didn't sacrifice enough goats or something like that. We always need a reason for things and then and in this environment, I think people need more than ever to be reminded what's important to be reminded why we do this and to feel like they understand what the plan is.
+
+3 (11m 47s):
+So hopefully my goal is to do that more, but that's going to be no less important when things go back to normal to the extent that they
+
+2 (11m 55s):
+do Stewart. Thank you, so Much for doing this. I hope to hope to see you in person at some point soon.
+
+3 (12m 0s):
+Yeah, that'd be great. Always a pleasure guy. Thank you.
+
+2 (12m 3s):
+That's an excerpt from my conversation with Stewart Butterfield the co-founder of slack and Flickr to see or hear our full interview. You can go to facebook.com how I built this or to NPR's YouTube page when we come back in just a moment. We're going to hear from Steve homes the co-founder of Springfree Trampoline, since the pandemic began. His company's phone lines have not stopped ringing but Steve is hoping that he can bring a little backyard. Joy to kids and to their parents who are stuck in quarantine stay with us. I'm guy Roz and you're listening to how I built this from NPR. Support for this podcast and the following message come from the American Jewish World Service working together for more than 30 years to build a more just and Equitable World.
+
+2 (12m 50s):
+Learn more at a jws dot-org. Hey, welcome back to how I built this resilience Edition. So for parents with kids stuck at home, the past few weeks have been particularly challenging but for those lucky enough to have a trampoline, it's a little bit easier except trying to get one now. That's a different story. Steve homes is the co-founder of Springfree Trampoline when Steve and his business partner Keith Alexander started Springfree, they set out to make a safer Trampoline by essentially removing the springs and replacing them with Fiberglass, I spoke to Steve from his office in Toronto where he's going in to headquarters every day and trying to meet demand which he says is three hundred percent higher than normal talk to me about demand compared Demand right now to demand at this time last year three hundred percent.
+
+2 (13m 47s):
+Wow, and your explanation is you know,
+
+1 (13m 52s):
+The explanation is that families are experiencing a new type of pain. You know, we've had so many stories that that trampolines weren't part of their family plan or their Journey
+
+2 (14m 1s):
+but but staying at home wasn't either
+
+1 (14m 4s):
+in or stopping organized Sports wasn't either and so we became part of that solution families were looking to relieve a pain and we were trying to create an opportunity for real family unity. And so, you know, we're working with families to try and say hey, this is a solution and we're here to try and make it as accessible as good as possible. Suppose also that whole covid thing started and when that shutdown started we saw that ramp up and demand Steve
+
+2 (14m 30s):
+understand this high demand how has Springfree altered its distribution Network during during this moment of significant disruption in the operation of your
+
+1 (14m 41s):
+Distributors. Sure. Let me let me just share. So we you know, we sell products around the world. We didn't know when the first when this shutdown started to take place we gathered as a Or Management Group when we were actually worried about the opposite happening things would go and we wouldn't be able to ship trampolines that lockdowns would take place and we wouldn't be able to ship anything. And so we kind of said oh man, and I walked into the meeting and I said look we're going to do three things. We're going to turn product Into Cash. We are going to create cash as best we can so if we have Partners who have extended receivables terms, there are we're going to change our distribution strategy.
+
+1 (15m 21s):
+We're not doing This on credit. We need to create cash. We need to preserve cash and we absolutely cannot cut staff and number three is the reason we're doing this is not because we're trying to save ourselves. We're trying to preserve that cash that we might leverage going forward to be able to take advantage of opportunities wisely. So we cut out almost all of our big retailers. We had a big retailer right at the start and send us a notice and say we're 90-day terms with them and they sent us a note and said we're going to a hundred and eighty day terms and we said Have a nice day. You're not
+
+2 (15m 53s):
+seeing anymore because you need the cash now for a rainy day and beef to ramp up more production, right?
+
+1 (16m 0s):
+There's lots of things. You need the cash for one of the things this you remember I came up with that strategy worried that we might get product shipped out there and turn it into a receivable and then the receivable goes bad and so I didn't want to do that. So we worked with our us dealers and said guys, how do we help you? Some of them don't have Banks. And so that's how we changed our distribution strategy we Focused on direct-to-consumer where we thought we could get the highest value and reduce our risk of having any
+
+2 (16m 29s):
+loss right because in normal times you're selling to retailers and you're basically floating them alone because they're gonna they're not gonna pay for 90 days now a hundred eighty days and now you don't want to take the risk of not getting paid. You need the money to also am assuming preserve your Workforce. Have you had any layoffs or furloughs? No,
+
+1 (16m 48s):
+you know, we have an amazing team of people. I remember Uh, pardon me if I get emotional, but
+
+2 (16m 55s):
+you get emotional every time I interview you I I love it. You cried in our interview. I love
+
+1 (17m 0s):
+it. Well when it comes to people, you know, the best part of business is people it's interesting. We never really used to get a lot of telephone calls people came online what when you have people who have a need like this and they have a sense of urgency sure they're happy to do business online, but they actually increase their desire to talk to people so Our retail store shut down. Those people stepped up the goddamn phone. We will be we're running seven eight hundred calls a day not missing one of them and you know, I mean you don't lay those people off.
+
+1 (17m 40s):
+Those are the men and women you go to war with I remember I'm going to call her out because I said I wasn't ready Austin Texas got shut down real quick and Phyllis who runs that store was kind of thinking. Okay. What am I going to do? And here's what we know about our three staff of I can teach any entrepreneurs about their people. There's three things they want to know. They want to know what's my job. How does it impact the company and and minor how do I get paid interestingly? If you go back to Dan pink, you know on what motivates people autonomy Mastery and purpose. We think there's three pillars to that you're motivated. You've got competency and all you need is Clarity. I have so many people who have that motivation and that competency and we're just giving them Clarity.
+
+1 (18m 26s):
+We're asking to rethink their jobs in New ways and they're doing it we're doing stuff online. We didn't even dream we knew how
+
+2 (18m 33s):
+to do and this is a question you get a lot Steve. This is from Colette. Whoo, and this is something we talked about in the podcast but really good question. How did you get your first 10 paying customers in the beginning? How did you convince the first ten buyers to buy it?
+
+1 (18m 48s):
+Well, I think you know people do this in the podcast is kind of funny. We really try to go out to some various shows. We went to what was called the Super Show the sgm a sporting goods. You factors Association and we started in Vegas and came away with no sales and then we went back a year later because we you know put on an enclosure and what our focus at the time was as you know guy was to try and build a relationship with God scope. So before we actually ever sold a trampoline to a single person, we had sold our first 400 to
+
+2 (19m 18s):
+Costco and the episode eventually Cusco kicked you out which could have devastated your business, but you put it didn't because you pivoted and you sounds like you are making some really important. Changes in pivots now, which I think is really important and also this idea that this moment will actually lead people to think creatively about what they will do about their Futures and a lot of companies are really getting hit a lot of companies that have been on how I built this and the thing that I think I come back to this idea I come back to is even if your business collapsed right? God forbid it does but even if it does your talent your ability that enabled the curry None of that business your drive your resilience your hustle that doesn't go away that that can't be fired.
+
+2 (20m 6s):
+Right? That's still there.
+
+1 (20m 7s):
+I really share the story but in 1995, I had that collapse, you know, my business was there and I remember phony my dad passed away. And trying to tell him I was failing and I was in this crisis and he said what are you talking about your mother and I love you your wife loves you. Your kids are going to love you get back into work and my dad was a minister. So business wasn't his thing and but that wisdom was you can be resilient you can see its way through it and I've been passionate about so many people the last few weeks who are in business who are struggling guy.
+
+1 (20m 48s):
+One of our businesses is really struggling we're in What wearing apparel business retails closed and I've been talking a lot to those guys and I keep encouraging them the same time every time get up every morning set of focus learn something new apply it and keep going because people will be with you in this
+
+2 (21m 8s):
+journey. I love it Steve homes. Thank you so much. We'll stay in touch. It's so great to see you. Thanks. Steve great to see you. That's an excerpt from my conversation with Steve homes the co-founder of Springfree Trampoline. To see our full interview. You can go to facebook.com slash how I built this and if you want to see all of our past live conversations, you can find them at youtube.com NPR we're going to be putting these conversations in your feed every week and hosting the conversations in real time at noon Eastern nine Pacific on Twitter YouTube and Facebook every Wednesday and Friday. If you want to find out more about these conversations or other virtual NPR events, you can go to NPR presents dot-org. This episode was produced by Candice limb with help from John Isabella.
+
+2 (21m 51s):
+Julia Kearney Neva Grant and Jeff Rogers. Thanks for listening. Stay safe, and we'll see you next week. I'm guy Roz and you've been listening to how I built this from NPR.

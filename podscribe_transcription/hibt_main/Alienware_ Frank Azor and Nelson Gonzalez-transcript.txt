@@ -1,0 +1,1037 @@
+0 (0s):
+Hey Prime members. You can listen to how I built this Early and Ad free on Amazon Music. Download the app today.
+
+1 (9s):
+When you leave home, can you ever really go back? Soccer legend. Leo and I both left Argentina As kids,
+
+2 (17s):
+You know, you're that piece of a puzzle that doesn't fit anywhere
+
+1 (20s):
+To so many immigrants is a way to reconnect. Listen to the last cup in the embedded podcast feed to hear the latest collaboration from NPR and Fudo Studios.
+
+0 (30s):
+If you're like me, you need to make every minute of your morning count. There's a new way to do that with a podcast called The Seven from the Washington Post. It just launched and takes you through the seven most important and interesting stories of the day in just a few minutes. Most episodes aren't much longer than five minutes, which is perfect for my busy schedule. Host Jeff Pierre takes you through the top stories of the day with the reporting and insight of the Washington Post. Get caught up every weekday at 7:00 AM as a listener of how I built this, we know you appreciate an informative, insightful story. The seven from the Washington Post is short and smart. It gives you well curated, accessible, and fascinating news.
+
+0 (1m 10s):
+Listen, weekday mornings, wherever you get your podcasts. Follow the seven from the Washington Post and get caught up on news today. Support for this show comes from Clavio. Clavio is the email marketing platform that brings all of your customer data into one place with hundreds of e-commerce integrations. Clavio helps you send relevant email and SMS messages to the right people at just the right time so you can build genuine customer relationships and grow revenue as brands face a more volatile economic climate and a challenging digital landscape. Clavio's powerful marketing automations and customer first data are critical to retaining brand loyalists and increasing roi.
+
+0 (1m 53s):
+It's time to talk to your customers like you know them because you do with Clavio. Learn more@clavio.com. That's K L A V I Y o.com.
+
+4 (2m 7s):
+One of the things that made life really interesting for us was we were a small company in Miami taking orders basically over the internet using credit cards. But the banks that we dealt with were all freaking out. What is this company doing? They're in Miami,
+
+0 (2m 27s):
+So they thought you were in something unsavory.
+
+4 (2m 30s):
+Yes.
+
+5 (2m 31s):
+And we're trying to run a business. We have to, you know, you, you have to buy parts, you have to pay rent, you have to pay services, and yeah, they would hold the money for however long they wanted to hold it for. Yeah, because they thought the business wasn't legitimate.
+
+0 (2m 52s):
+Welcome to how I Built This, a show about innovators, entrepreneurs, idealist, and the stories behind the movements they built. I'm Guy Ross, and on the show today how two guys from Miami with no formal education reimagine what a gaming computer can do. They make it fast, they make it sleek, and they call it alien wear. Up until the early 1990s, personal computer makers were focused on three general categories of users, office workers, students and designers, not necessarily gamers.
+
+0 (3m 33s):
+If you were a gamer, you could find thousands of games for computers, but they were fairly unimpressive. The best graphics were on consoles like Nintendos or Segas or the Arcade. And then in 1993, Intel came out with a new processor, the Pentium processor, that would eventually unleash a massive new market for PC makers, the gaming PC that processor made. Video games look and sound much better on PCs than ever before, but even then, if you were a video gamer, computers weren't being built for you. And it was around that time, the early to mid 1990s that video gamers started to get computers custom built.
+
+0 (4m 17s):
+They'd order them with faster processors and better graphics and sound cards features that weren't standard in the PCs sold by IBM or HP or Compact. This is a time when mom and pop PC makers started to spring up all over the US and around the world. These were small business owners that could build you a PC often for cheaper than the ones sold by the big players. And one of these personalized PC makers was a guy named Nelson Gonzalez. Nelson lived in Miami and hung out with a group of friends who loved playing games, video games, board games, Dungeons and Dragons, you name it. And by 1996, he decided to form a little business that would custom make gaming PCs for hardcore gamers.
+
+0 (5m 4s):
+Now, you might not think of Miami in the mid nineties as a tech hotspot, and it wasn't. But what Miami was and still is, is the gateway to the Latin American marketplace. And it meant that the city had warehouses filled with all kinds of computer components designated for export to South America. So at the beginning, Nelson had quick access to things like motherboards and computer cases and peripherals, the stuff you need to build apc. He called his little business Alienware in part because, well, he's fascinated by aliens. At the beginning, not a single bank would loan money to Nelson to get the business going.
+
+0 (5m 46s):
+So most orders required you to pay upfront. That small cash flow fueled a business that eventually became one of the leading gaming PC companies in the us. And the story of how Nelson did it with a small group of friends, mostly Cuban Americans, most of them broke, none of them with college degrees. How they managed to turn alien wear into a force in the world of gaming has a lot to do with both timing and an understanding of a customer base that none of the big players were serving. 10 years after Nelson founded Alienware in his Miami garage, the company was acquired by Dell and it's still part of Dell today.
+
+0 (6m 27s):
+On today's show, we're gonna hear about three of Alienware's founders and will talk to two of them, Frank Azore and Nelson Gonzalez. Frank will come into the story a little later on. As for Nelson, he grew up in and around Miami in the seventies and eighties, the son of Cuban immigrants, his mom was a homemaker, and his dad painted billboards when he was a teenager. His parents split up and he went to live with his mom and helped pay the bills. He worked at a grocery store. And as a janitor,
+
+4 (6m 56s):
+I was very frustrated because even though we were lower middle class and now it was, I would say lower class because it was my mom and myself and, you know, she needed help even with welfare. Yeah. And I myself, you know, was just, you know, working in these stupid, you know, jobs that really didn't go anywhere. And I was like, wow, is this life? Is this, is this is gonna be, you know, all that I can look forward to. So, you know, I kept my head up and, and I, I always aspired. I always had the confidence. And I think that my parents, especially my mom, gave me that confidence that I could do whatever I want.
+
+4 (7m 43s):
+And it wasn't, it was never something that, oh, you can't do this if you don't wanna do this. So I, I always had that mentality and I, I think it's very generic amongst Yeah. Cuban Americans in Miami. It's, I, I don't know what it is, or our parents' generation, how
+
+0 (8m 5s):
+Just a hustle mentality.
+
+4 (8m 7s):
+Yeah. You know, they would, you know, oh, I wanna be in, oh sure, I wanna be president of the United. Sure. Oh, come on. Yeah, that's easy type of thing. So it's like, yeah. A natural confidence that they would give you. So I always had that, that mentality of, you know, what I am gonna get out of this.
+
+0 (8m 22s):
+Hmm. And and I know when you were growing up, you spent a lot of time playing games and, and, and even video games, like going to the arcade. Right. But when did you start getting into, into computer games and h how, like did your f like did your friends all have computers at at that point?
+
+4 (8m 40s):
+There was one of our friends, Joe Pello, and he was the one, the first one that had a, a 3 86 I believe. And this was probably, gosh, 1990. And that's when we were exposed to the PC for gaming because we saw a couple video games loaded up for the first time. At that point, I made friends with a gentleman, an Iranian gentleman that had one of those small mom and pop operations where they built PCs. And I started hanging out there and I start learning more and more. So I had him build a pc and as, as I told him, well, listen, you're gonna build this pc, but I wanna, I wanna see how you build it if you don't mind.
+
+4 (9m 27s):
+He goes,
+
+0 (9m 27s):
+No, absolutely. You ordered one from him.
+
+4 (9m 28s):
+Yeah. Yeah.
+
+0 (9m 29s):
+And, and this was so you could play video games?
+
+4 (9m 32s):
+Yeah. Yeah. So I could play game and just, you know, just all around, just get on the internet for the first time. You know, it's, at this point I was longing for that kind of stuff.
+
+0 (9m 42s):
+You know, I, I wonder at this time, right, 1990, you could buy obviously a compact or you know, an or a variety, many, any number of dozens of, of, of these clones, right. No name brand off the shelf PCs. Why did you want it made for you at that
+
+4 (10m 3s):
+Time? You know, because I think that the, it was more expensive to buy an HP or a compact back then.
+
+0 (10m 10s):
+It was cheaper to go to one of these mom-and-pop places and have them custom build it for you. Yes,
+
+4 (10m 15s):
+Yes. Absolutely.
+
+0 (10m 17s):
+And, and you are watching him take all the components, obviously the, the case for the PC and the, the motherboard and the graphics. I mean, today you can go on YouTube and find out how to do this. Very easy. I've done it twice with my kid. But back then, 1990, oh,
+
+4 (10m 33s):
+I'll, I'll tell you what it was. It was not easy. And the other part of it is, you know, configuring the, the, the machine. So I could work with games back then was, you know, an art form unto itself
+
+0 (10m 46s):
+That, that's, that's just wild. Like you, so you, you had this PC built for you and then you'd go out and you'd get, you'd buy the, the game on floppy disk, presumably. Yes,
+
+4 (10m 55s):
+Absolutely. The game that really got me going the first time I saw it was doom.
+
+0 (11m 0s):
+Doom. Yeah.
+
+4 (11m 2s):
+You know, you're a Space Marine in a, in a Mars base, you're going through corridors and all of a sudden, all of a sudden you got these hellacious monsters coming out from, from the seventh level of hell or whatever, and you're shooting them up with a traditional gun and whatnot. So it, it was silly, but it wasn't silly. Yeah. So for us, this was, this world was perfectly acceptable, you know?
+
+0 (11m 27s):
+Hmm. Alright, so you've got this, this kind of new obsession, which is, which is playing these PC games. And I guess one of the people who, who shared your love of gaming was a, a childhood friend named Alex Aguila. And, and Alex is gonna figure prominently in this story because he would become a founding member of Alien Wear. But, but at this point, I guess you guys are just hanging out, right? Right. And what he, he gets an idea to develop his own game or something like, but, but it wasn't a computer game, it was a board game. What, what, what's the story?
+
+4 (11m 59s):
+Yes. Alex had this idea for coming out with a board game.
+
+0 (12m 4s):
+Okay.
+
+4 (12m 6s):
+And the subject matter was pro wrestling. You develop your character and you, you, you roll a dice and basically you, you have certain moves and you put the move on the other guy and it's, it's, it's a tactical game. Yeah. And, you know, I kind of was like an artist, you know, I used to draw a lot. So he had me do the characters that, you know, we thought were really cool.
+
+0 (12m 29s):
+These were wrestlers. Yeah,
+
+4 (12m 31s):
+Wrestlers. Like, wrestlers like the ultimate warrior, you know, type of, you know.
+
+0 (12m 35s):
+But you were making up, cuz cuz I think the Venn diagram of people who were into pro wrestling video games and role playing games was probably right. They, the, they all were in that center circle, right? Yes. That, that was a com because they're character based.
+
+4 (12m 50s):
+Yes, yes. And it was a bla it's a beer and pretzels game. It was a, in fact, we could play it today and have, I, I guarantee you, you got a group of people together and
+
+0 (12m 59s):
+I, I, I'm in, yeah, I'll bring the pretzels.
+
+4 (13m 1s):
+Yeah, absolutely.
+
+0 (13m 2s):
+I'll you I'll bring the beer. Actually,
+
+4 (13m 4s):
+Actually, yeah, that was, I would
+
+0 (13m 6s):
+Say that was a And how much, how much did you guys charge, by the way?
+
+4 (13m 8s):
+Oh, geez, man. Maybe it was like 1499 or something. Maybe it got to 20 bucks.
+
+0 (13m 14s):
+And, and do you remember like, how, how much, how many you sold? Like, man, Alex? A hundred hundreds?
+
+4 (13m 20s):
+I would say hundreds. I would say that's pretty good. I would say like three or 400 at least.
+
+0 (13m 25s):
+That's pretty good.
+
+4 (13m 26s):
+Yeah. Yeah.
+
+0 (13m 26s):
+Yeah. Alright, so, so you've got this successful, a relatively successful game, but what happened to it? Why didn't you guys decide to go big, you know, to sort of like, you know, see if you can, could get into to, you know,
+
+4 (13m 39s):
+Because real, I think real world dawned on us and slapped us across the face
+
+0 (13m 45s):
+And, you know, and, and what was that,
+
+4 (13m 47s):
+You know, 300 copies of this is not gonna, you know, buy a house in hi in, in, in Miami and, and support our family. Yeah. And that's the reality of it. Alex was at that time probably doing, if I'm, if, if I'm not mistaken, I think he was doing neurological diagnostic testing of some sort, and he was a technician. Hmm. You know, he was doing that. I was, I I was already doing something else.
+
+0 (14m 12s):
+What were you doing at the time? Well,
+
+4 (14m 13s):
+At that time I felt I needed more computing experience. So I interviewed for this job and my friends go, you're crazy. I, you know, again, here comes the confidence part. I interviewed for this job to be an IT support guy or to manage a network, a small network for a post-production house. So I got the job, I, I, I don't know how I got the job because really I, you know, I was a novice at computing. Okay. I had no formal education. I really, I'm not qualified for this, but I always felt that if given the opportunity, listen, I'll learn it and I'll, nobody's gonna outwork me. There's no way.
+
+4 (14m 53s):
+So I can do this. Sure enough, I got the job. I, I call Alex says, Hey Al, you know, I got, I got this job managing this network. What do you think? He goes, Nelson, you have no idea what you're doing. How the hell did you get this job? I go, I don't know, but you know what, I'm gonna do it. So he goes, you're nuts. I go, yeah, but something drove me to this. I didn't, I don't know what it was, but something was driving me, you know, I didn't lie, I really didn't lie in the interview, but I wasn't very truthful either because I didn't have the experience. I, you know, they thought I had. Yeah. So, anyway, I got the job. I learned a lot. It, it, it taught me a lot about the com, the components inside, inside the PC inside if you're gonna have a PC network.
+
+4 (15m 38s):
+And so I got a lot of exposure to the developers and a lot of smart technical guys that really knew their stuff
+
+0 (15m 47s):
+At this post-production house. Alright. So you are working there, and it would be around this time when you would found a company, I believe pronounced Sai
+
+4 (15m 58s):
+Sai of Miami. Sai
+
+0 (16m 0s):
+Sai. Okay. And I'm just gonna, I, from what I understand, this was a company which was like that your Iranian friend, you would Right. Do something similar. You would build custom to custom build pieces. Tell me about, about, about deciding to leave that job at the post-production house and starting your own, your own
+
+4 (16m 19s):
+Business. You know, we started doing it slowly. I I, so on the side, on the side, so I, I ask Alex, Alex, I need, I need a name for the company. So Alex is a big collector of War i, war ii, Korean War ACEs. So there was this famous Japanese ace back in War War ii. His name was Sakai, and he was shot, and it, it, it spoke to perseverance. The guy was a heroic fighter pilot. So we decided to name the company Sakai.
+
+0 (16m 53s):
+But it was just you was
+
+4 (16m 54s):
+Me at this point. It, it was me. Just you, it was myself and another gentleman that started with me, actually, he would be the first one to start a we with, which was, his name is Fabian San, and he works with Alex and Hector and all my friends. So Fabian is part of our group already. Yep. So Fabian goes around town and when we get orders from different, I don't know, little Mo, you know, again, these were small businesses that were, that were in need of a PC with a printer and blah, blah, blah. You know, so we build a custom machine for them, and I'd set up the whole thing. I did the whole network for them. And Fabian will go around and source the components that we needed to put these PCs together.
+
+0 (17m 39s):
+And just to, to to be clear, this was, you were kind of doing this out of your home, like in your garage? Yes. And how would you find people who, who'd order them from you? How would you identify any, any
+
+4 (17m 50s):
+Customers, friends and family really, it was Right. There was no dollars dedicated to advertising or anything
+
+0 (17m 57s):
+Like that. Right. It was like, oh, Nelson knows how to do this computer stuff. Exactly. Nelson, you know about computers, right? Can you, can you build one for my friend Joe over here like
+
+4 (18m 5s):
+That? Exactly. So I became that guy in the group. You know, the guy in the group? Yeah. That's the guy. He's
+
+0 (18m 9s):
+The geer
+
+4 (18m 10s):
+Computer guy. He's the computer. Hey, he's the guy. He's the guy. So then what was interesting was, Hey, can you build me a PC for, for gaming? Can we optimize it for Yeah, why not? So I built a couple machines. One was for Alex's father-in-law.
+
+0 (18m 32s):
+Okay.
+
+4 (18m 33s):
+We built it for him and we built one for Hector.
+
+0 (18m 35s):
+And what did, they said, Hey, I want a computer that can do, like, what was the difference between, just for people don't know, like a gaming PC in 1995 or 96, what's the difference between that and just a regular buil PC build?
+
+4 (18m 49s):
+Well, we tried, you know, we had a couple friends that did have hps and whatnot and, and they, it just didn't work. Right? It was very cumbersome. I mean, the, you had the video card was very important. It's always been very important, right? Yeah. The video card and the motherboard and whatnot. I, I f I felt that there was more quality with the motherboards and the memory and all the components that all I was picking. And even though people would say, oh, it's supposed to work together and, you know, whatever, it didn't exactly work that way. So
+
+0 (19m 22s):
+Like, certain components just didn't work with other components.
+
+4 (19m 24s):
+Yeah. I felt, I felt that there, there needed to be compatibility amongst peripherals and I kind of identified what those were for gaming so that they worked well in a gaming environment. Because, believe it or not, I mean, again, it's supposed to work together. It's, it's Windows based and everybody's, all the drivers are supposed to work together. That was not the case. Right. So I, I tried to make a system where they, it was dependable and it was fast.
+
+0 (19m 55s):
+Alright, so you've got this business, and, and by the way, I mean, there's a lot of labor that goes into that, you know, building a pc, and I mean, today you, you know, you can build one in, in an hour, but then I'm assuming this is many, many hours of work per, you know, maybe days per computer.
+
+4 (20m 13s):
+Right? But back then, the, especially the computer chassis were, man, they were, they were, they were not built with quality. Okay. And they were like, you know, they were cheap. And, and what happened was, I would cut myself. I mean, it was like a fingers, I was fighting a demonn every time I went into a computer and, and, and, you know, tried building it. It was literally a fight for my life. There was blood, there was, you know, it was, there was rituals, you know, it was, it was complicated. Yeah.
+
+0 (20m 45s):
+I mean, were you guys making any money? You and Fabian
+
+4 (20m 48s):
+Absolutely. Building nothing. Nothing. I tell you zero. Okay. I think it
+
+0 (20m 53s):
+Will. I you're gonna say absolutely boatload.
+
+4 (20m 55s):
+No, no, $0. If anything, we probably lost money, Lord, deal. The support. It's, I mean, I would, I routinely, I would have to go to people's offices because what's the other problem here? The other problem is that, you know, guess what? The internet was very new. The programs. They were, they didn't know how to use 'em correctly. Yeah. They, they didn't know how to configure a network. So therefore they had no idea what a network is and how it works. So there was a lot of troubleshooting. And I found myself going to a lot of these places and saying, man, this is not worth it. This is not, this is not,
+
+0 (21m 34s):
+You were the, you were the, because you were selling the PCs, but then you were the tech support too, which you probably didn't
+
+4 (21m 39s):
+Realize. Absolutely.
+
+0 (21m 40s):
+That was gonna happen. They were calling you like, Nelson, my computer's down. What's going on? You're like, oh, you're like building this other pc. Now you gotta stop and like, help troubleshoot that thing for that person.
+
+4 (21m 51s):
+Absolutely.
+
+0 (21m 52s):
+Yeah.
+
+4 (21m 52s):
+It, it was tough. It was tough. I, I gotta tell it was real tough. Yeah.
+
+0 (21m 56s):
+Yeah. But if the business wasn't making money, how were you gonna make it sustainable? I mean, that's what I'm trying to figure out. Yeah, because you knew that you were probably losing money cause Yeah. You know, you had to be competitive with your prices.
+
+4 (22m 10s):
+You know, I think I, I think I gotta admit something. I, I'm not that bright. I
+
+0 (22m 15s):
+You are very bright. No, no,
+
+4 (22m 17s):
+Seriously, I, I, you know, I, I kind of ignored the whole thing and then I, you know, I kind of ignored it. And then I, I have, you know, I'm looking at Fabian and I'm, I'm punching myself and I'm saying, man, this, there's gotta be a better way. So I said, I, I, and I gotta tell you, there was already a company around that was doing this already, back, back in the day.
+
+0 (22m 38s):
+What were they called?
+
+4 (22m 39s):
+Falcon Northwest.
+
+0 (22m 40s):
+Okay. Who? I, Falcon Northwest? Yes. Okay.
+
+4 (22m 42s):
+Yep. We, we became very familiar with 'em. They became one of our competitors. But I also saw them advertising on one of the magazines. I think it was Computer Gaming World, or a PC Gamer back then. Yeah. So I, at this point, I'm saying, man, you know, we did the, we did the Creative Gaming Designs, which was pro wrestler, and we did it through mail order. Oh, wait a second. Why don't we just, you know, put a little ad somewhere in a magazine like these guys do, and saw our services of putting PCs
+
+0 (23m 16s):
+Together. And what did the ad say? Something like,
+
+4 (23m 19s):
+Well, well, the ad was, it was strange. I gotta tell you, it was strange because I said, I said, I've gotta appeal to the nerds, like me and Alex and, you know, and all our friends. So the first ad we did was that of a weird looking alien. Okay. Hovering over a PC with all the, the configuration of, you know, what parts we were gonna use and, and, and, and the SumTotal. But I want to go a little bit, if you don't mind, I'll, I'll tell you a little, the funny story about how alien work came to be. Okay. I'm a big U f O guy. Yeah.
+
+4 (23m 59s):
+I'm a big UFO enthusiast. I've always been.
+
+0 (24m 1s):
+Yeah. Are they real? Do they exist?
+
+4 (24m 3s):
+My mind? You're, you know, you're absolutely a hundred
+
+0 (24m 7s):
+Percent, there's a different episode that we'll do.
+
+4 (24m 9s):
+Yeah, yeah. Absolutely.
+
+0 (24m 10s):
+The U f O episode. How about
+
+4 (24m 12s):
+This? So, and, and so is Alex, Alex is a big u f o enthusiast, even to this day. So, all right. I also knew, I kind of knew that I wanted my, like the company name to start with an A because that way we would be first in the Yellow Pages, or we
+
+0 (24m 28s):
+Be That was right. By the way, this was a common thing. My brother-in-law called his, used the word American in his company, cuz he'd be first in the, the binding business.
+
+4 (24m 38s):
+Absolutely.
+
+0 (24m 39s):
+Well, I know, yeah. I wanna know this story cuz I know that this is run 97. Yes. And you recruited, you basically went to your friend Alex Aguila, and you said, okay, I need you to join me. Well, in, in kind of,
+
+4 (24m 52s):
+Yeah. So it it's already like 1990. Yeah, 19. Late 97, early 98, I guess. And then, so I, I, I call Alex and I say Al, and he picks up the phone meal. Hey, what's up? What's, listen, I got this name for a company and we're gonna do the same thing, but we're gonna use the sa the model that we have for creative gaming designs, and let's just sell mail order computers. I saw this company called F and do it and they're in computer gaming world or PC gaming, why can't we do it? So he goes, yeah, what are you gonna call it? I go, how about Alienware? He goes, wow, that's a pretty cool name.
+
+4 (25m 32s):
+You know? And, and Alex and myself are pretty realistic. If he would've said, nah, I would've kind of like listened to that, you know, I would, I would've taken it seriously. Yeah. But he, when Alex and myself say yes at the same time, it's dangerous because it really does mean it's gonna be, it's gonna be okay. I go, but here's the thing, Alex, you're gonna need to drop your job. You're gonna need to leave your job and you're gonna have to bring a, like, I don't know, 5,000, I, I don't know if it was $5,000 or $6,000 because I would put the other $6,000 in.
+
+0 (26m 5s):
+You needed him to invest $5,000 in your company and join you. Yes. Yeah.
+
+4 (26m 10s):
+Listen, it was credit card debt. We didn't have any ca when I say, Hey Al, you need to bring $5,000. He didn't like, yeah. You don't have any cash. Yeah. So I tell, I call Alex, I tell him, man, this is the, the proposition. And he goes, dude, I'm there tomorrow. Wow. Oh, oh, okay. Let's do it.
+
+0 (26m 32s):
+When we come back in just a moment, how Nelson and his team break into the PC gaming market and why their credit card companies start to suspect they're running a shady business. Stay with us. I'm Guy Raz, and you're listening to How I Built This. For over a decade, American Giant has been making high quality clothing right here in the United States, like their flagship product, the classic full zip hoodie. Their clothes make perfect gifts since their products are comfortable, stylish, and super durable.
+
+0 (27m 15s):
+And when you give American Giant, you're supporting hardworking American manufacturing communities. The classic full zip hoodie has amazing functional details like hard wearing, pre shrunk, cotton reinforced elbows, structured side panels, and custom hardware. I wear my American giant hoodies all the time. I've got three of them. They've lasted me for years. If you see any photos of me on Instagram, I'm usually wearing their clothing cuz I buy it all the time. One of my favorite things about the products is that they're super versatile. They can be dressed up or dressed down for any event. Shop gifts that last@americangiant.com slash built and get 20% off when you use code built at checkout.
+
+0 (27m 59s):
+That's american-giant.com/built promo code built at how I built this, we hear all about how founders have worked hard to build their companies from the ground up. Today's sponsored Justworks is all about supporting that small business growth. Whether you're looking for help with payroll benefits, HR tools or compliance. Justworks has you covered, Justworks makes it easier for you to start, run and grow a business. Let me tell you how Justworks can help your business. So the way people work is changing and you need HR tools that can keep up whether your team is local, remote, or distributed.
+
+0 (28m 40s):
+Justworks helps you comply with state payroll tax requirements. Keep up with state labor laws and access health insurance plans in any state. Justworks makes it simple to hire and manage remote employees across all 50 states. It's an intuitive self-service user experience that makes admin easier for your whole team. Take a look at Justworks transparent pricing by visiting justworks.com/pricing. That's just works.com/pricing for details. Hey, welcome back to How I Built this.
+
+0 (29m 21s):
+I'm Guy Raz, so it's 1998. And Nelson's childhood friend Alex has agreed to quit his job and join Alienware. And at this point, Nelson is looking to get the word out about his new gaming computer and he manages to get it reviewed by a small publication, which is a pretty big accomplishment. Yeah.
+
+4 (29m 41s):
+Listen, it was, I was like stunned. I called Boot Magazine, I don't know who I spoke to. And I said, well, I got this company, I've got this machine and I want you guys to check it out. I'm, it's a game. Oh, it's a gaming computer. Hmm hmm. And I think that's what got them interested
+
+0 (29m 57s):
+Because there were not that many gaming computers being made at
+
+4 (30m 1s):
+The time. No. There was only Falcon,
+
+0 (30m 3s):
+There was only, this is crazy. No, none of these big PC companies, IBM and Dell and none HP and Compact were making gaming. They were only making PCs for Yep. Basically business workers and students and Yeah. Yeah.
+
+4 (30m 20s):
+Business and the consumer. The consumer PC back then was probably Gateway Micron compact. Yeah. But they were, you know, they, they weren't optimized for, they were doing big volumes and, you know, whatnot. So,
+
+0 (30m 32s):
+So, so this was a completely under the radar thing. And yet there was this culture subculture of magazines and gamers who were basically getting them built, built by their friends or these mom and pop shops.
+
+4 (30m 46s):
+Yes, yes. They were there, we were there, you know, and then there was the software developers that were introducing the world to 3D gaming. Hmm. And I just felt that, wow, man, this is so exci, you know, honestly, I didn't even care about making money. The overriding factor for me was more so, wow. I, you know, this is so cool. This is absolutely so cool. There's gonna be, you know, maybe I'll have a customer or two out there, you know, maybe in Oregon or in Washington state or New York or somewhere, you know, playing on one of my computers, a video game that that person's gonna love.
+
+4 (31m 27s):
+You know, what greater joy is that, you know.
+
+0 (31m 29s):
+Yeah. So I, I think, I think you get a, a pretty good review in, in this one magazine and boot magazine. But, but I guess it's, it's kind of a small publication, right? So, so from what I gather, you decide to send another computer to another magazine to PC gamer, which is bigger. And I guess this time you also take an ad out, right? Like, like in the same magazine,
+
+4 (31m 53s):
+Right? So we send the machine, the machine was like the most glorious piece of machinery and hey, yeah, we're gonna, we're gonna do an advertisement. The advertisement back then for a full page was $5,000.
+
+0 (32m 7s):
+And how'd you pay for that?
+
+4 (32m 8s):
+That's a lot of money. They also gave us net terms. I think I go, oh wow. Okay, good. Cool. Net terms. Let me put a credit card on this and or whatever, you know, I don't know. I, it,
+
+0 (32m 18s):
+It was, that's a lot of money. 5,000.
+
+4 (32m 20s):
+It's a lot of money. But I told we were, you know, I'm not a gambler, but I definitely gambled on that one. We gambled on that one because between the machine, the rent, the, the, the advertisement, I mean, we, we were clearly way beyond the remains already.
+
+0 (32m 38s):
+And, and by the way, what you, you mentioned this beautiful pc, I mean, obviously the chassis was off the shelf, but how did you make it beautiful? Like what did you do to it?
+
+4 (32m 49s):
+It was such a complicated machine. It had one 2D card, two 3D cards, 3d, 3D fx, voodoo cards and sly.
+
+0 (32m 59s):
+Yeah. Yeah.
+
+4 (33m 1s):
+It had two sound cards. Okay. Okay. It had two hard drives. And skai well, I had, it had a raid controller for the, the hard drives and, and, and Tan to make 'em faster memory of the gao, by the way, that machine cost us money. That was, that was a big investment.
+
+0 (33m 23s):
+Yeah. How much, how much would that, that machine cost? That
+
+4 (33m 26s):
+Machine would've cost. I mean, back then it cost like 6,000, $7,000.
+
+0 (33m 31s):
+Wow. And and you could not buy a PC like this off the shelf in 1990. No,
+
+4 (33m 36s):
+There was no way. There was
+
+0 (33m 37s):
+No way. There's no way. You had to be. It's,
+
+4 (33m 40s):
+It's lunacy.
+
+0 (33m 40s):
+It's just so amazing because the, there were big companies out there.
+
+4 (33m 44s):
+I know. Just I know,
+
+0 (33m 45s):
+I know. This was happening under their, their nose. I know. All right. So you build this thing, basically you're just picking the best components Yes. Just kind of cherry picking the best thing. Yes. And making like a, a Maserati pc. Basically
+
+4 (33m 59s):
+A custom hot rod. Yeah.
+
+0 (34m 1s):
+Like custom hot rod. A hot rod. It's a custom hot rod. Yeah. That's what you were doing. Oh yeah.
+
+4 (34m 5s):
+That's,
+
+0 (34m 5s):
+That's what it was. And these, these chop shops exist. Right, exactly. You get a custom hot rod today. Exactly. And Ford and Chrysler and the, you know, Tesla, they're not making custom hot rods, cuz
+
+4 (34m 15s):
+Exactly, exactly.
+
+0 (34m 17s):
+I mean, I mean, I was looking, I just was, before, before this interview, I was just looking at prices for like an iMac at that time. Cuz you're, you're talking about five, six, $7,000 for what you were building. Yeah. An iMac was $1,299 98. Yeah. PCs, desktop PCs at that time were like 500 bucks. I
+
+4 (34m 37s):
+Know. So
+
+0 (34m 38s):
+This was a premium product for a very specific kind of customer. This is not a mass product.
+
+4 (34m 44s):
+Yep, yep. It was a tough, you know, it was a tough proposition, but only those that could appreciate it appreciated
+
+0 (34m 52s):
+It. Yeah.
+
+4 (34m 54s):
+Because they knew the power of this PC once they loaded up their favorite game. I, I mean, we would give them a range of things. Like, okay, you can only pick from these three motherboards. You can only pick, you know, and let's say and and from these two manufacturers in terms of memory, but they had the ability to create themselves your own machine.
+
+0 (35m 17s):
+I mean, it is, it is, it is kind of remarkable here. Here's this like group of like Cuban American kids, right? Yeah. In Miami. Yeah. Not a tech center by any means. Certainly at that time. Yep. Like building these gaming pieces and, and like Yeah.
+
+4 (35m 34s):
+Crazy. I go back in time and I go, what, what were we thinking of? What, what's going on here?
+
+0 (35m 40s):
+Yeah. And, and by the way, when, when that review came out in PC Gamer, how, how was it? Was it favorable?
+
+4 (35m 47s):
+We got a great review.
+
+0 (35m 49s):
+What'd they say?
+
+4 (35m 50s):
+He loved the machine. He called it an 800 pound gorilla. And he want, he says, I I'm not gonna give it back to them. There's no way. I love this machine because he's, the guy's a gamer himself. Wow. And we had the ad and then we got, we got a couple orders, and then we noticed, I already started using, I started getting a little proficient with the web stuff and we noticed that there was some traffic. But back then all we did was com You could configure the machine online, but you couldn't order it.
+
+0 (36m 17s):
+Wait, you could go to the website and you could design what you wanted. Yes. But you couldn't order it. You could call in and say, this is what I wanna do. Yeah.
+
+4 (36m 25s):
+And Alex would be the sales guy. So Alex would answer the phone and take the order and, and all that good stuff. And we did okay. We did like, I don't know, 15 machines that month,
+
+0 (36m 38s):
+Whatever. Well, and that's like at three to $5,000 a pop. That's pretty good.
+
+4 (36m 43s):
+Yeah. Yeah. No, actually back then it was the, the machines were averaging closer to six or $7,000.
+
+0 (36m 51s):
+Hmm. Okay. So, so Nelson up to this point it was, it was pretty much you and Alex and Fabian who are running Alienware. But, but we're gonna pause for a second because this, this is when another key person enters the business. That is Frank Azo. And Frank is actually here with us. He's been sitting here listening to our conversation quietly and patiently. And by, by the way, Frank, have you learned anything you didn't know listening to Nelson?
+
+5 (37m 18s):
+Oh yeah, I've learned a ton. This has been, this has been awesome, actually.
+
+0 (37m 23s):
+Awesome. Okay. So Frank, I think you were like, what, like 17, like a kid. I shouldn't say kid. I guess you were a teenager and this is the late nineties. I, and I'm, I believe what you joined this budding group of three guys called Alien War. Is that, is that, is it Right?
+
+5 (37m 39s):
+Yeah, it was 1998. I was 16 years old. I was 16. Okay. A junior in high school.
+
+0 (37m 45s):
+And, and where, where, and you grew up in Miami too?
+
+5 (37m 48s):
+Yeah. Born and raised in Miami. Very similar upbringing to Nelson, Alex, and, and the whole gang
+
+0 (37m 54s):
+Cuban parents, immigrants or grandparents,
+
+5 (37m 57s):
+Cuban parents. They came over a little later than Nelson's. They came in 1959.
+
+0 (38m 1s):
+And, and by the way, were you a good student? I mean, I think probably you were,
+
+5 (38m 6s):
+I was not. Hmm. But my father ran an experiment. My parents ran an experiment on me in high school and they said, if you get straight A's will buy you a car. And suddenly I realized that I could be a phenomenal student and I can get straight A's. And that's when I realized how coin operated I am.
+
+0 (38m 26s):
+And and how did you connect with these guys? How did you even know what they were doing?
+
+5 (38m 32s):
+So a mutual friend that we didn't know was a mutual friend, was a friend of my sister and her and her husband, my brother-in-law. Yeah. And one day I'm at their house again, I'm in high school. I'm a junior in high school. And he was there. I tell him I'm building computers now, almost exactly the same story as, as Nelson, Nelson and Alex. I was building it for friends and family. And he told me that he was working with a few guys that were, that started a computer company. And I go, oh man, that sounds incredible. I'd love to, you know, get to meet them. And he's like, actually they're hiring. So he handed me, you know, like a post-it note with the name of the company, alien, where PC and Alex ALA's phone number on it.
+
+5 (39m 14s):
+And I still have that sticky note till today. And then I called and we set up an interview for, I don't know, someday during the week. And they asked me to be there like at 12 or one. I'm like, actually, can I show up at three?
+
+0 (39m 26s):
+Yeah. And, and and Right, because you were in high school and what were they looking for? Did you know
+
+5 (39m 31s):
+Somebody who was older, mature, had a lot of experience? Everything. I wasn't, yeah. Okay. So I, I, I walk in and there's some guy with a long ponytail sitting to the right on a couch when I walk into this office. And then I see these two other guys. One of 'em is Nelson, one of 'em is Alex,
+
+0 (39m 51s):
+Who is the guy with a ponytail
+
+5 (39m 52s):
+That was Fabian.
+
+0 (39m 53s):
+Fabian, okay. Yeah.
+
+5 (39m 54s):
+And they look at me like I'm a, a criminal or something that just walked through the door. And Alex would admit to me later that that was the moment he realized they needed to start locking the front door. So weird. Strangers wouldn't walk in and, and I'd said, Hey, you know, I'm, I'm frank and you know, I think Max talked to you about me. And they're like, oh, no, no, you're ver you're, you're too young for this. We want somebody with a lot more experience. And I said, well actually I'm here already and I'm willing to work for free, so why don't you at least talk to me?
+
+0 (40m 27s):
+Wow.
+
+5 (40m 28s):
+Yeah. And it was funny cuz Nelson talks about confidence, right. And I don't know where all that confidence came, but like the confidence to walk through that door and to sit down, even though they were kind of pushing me out the door, it was just something that I had at the time. And I think I got 'em when I offered to work for free. That was the killer line. But it worked out. And they called me the next day and asked me to join
+
+0 (40m 53s):
+And, alright. And so this became your after school job?
+
+5 (40m 56s):
+Yep. I would leave school at 2:20 PM and I'd rush over to Alienware, get there before three, and then we would end every day at
+
+0 (41m 6s):
+Seven and basically just b building PCs
+
+5 (41m 10s):
+So Fabian would build them. And then when I joined Nelson built a checklist of everything. He wanted me to check on the computer to make sure that it was built correctly. And then I would load all the drivers on the computer. And what we would do, what's really cool, we would actually tell customers they could send us their games. They could send us their joystick, their game pads, whatever hardware they, they wanted pre-configured on the computer. They can mail it to us. We would install and configure everything for them so that when they received the computer, they just turned it on and all the work was done. It was a fully turnkey system.
+
+0 (41m 46s):
+So, alright, Nelson, it's just the four of you guys still at this point. And, and, and I guess it's a sustainable, I mean, it's kind of, you can handle the workload, right? Because it's like 98 and what you're building two, three PCs, four PCs a week, five, 10 maybe.
+
+4 (42m 1s):
+Yeah, maybe eight. Eight to 10 PCs
+
+5 (42m 4s):
+A week. But I, I should I, I want to just visualize the environment for one second please.
+
+4 (42m 8s):
+Yeah,
+
+5 (42m 8s):
+Please. So it was a two-story building, tiny little office. How many square feet was it, Nelson?
+
+4 (42m 13s):
+It's tiny. It's a hundred square
+
+5 (42m 14s):
+Feet. 800 square feet. I, these decisions predated me, but somebody decided it must have been Nelson, that, that we are gonna build the computers on the second floor and then we are gonna walk them down the stairs. Keep in mind these computers weighed 50, 60 pounds. Yeah. Heavy. So this 16 year old kid would walk down the stairs carrying this 50, 60 pound computer, and then we would package it on the first floor. So we would put it in a box and then put, you know, foam and all that, and then package it again. Well, Alex would be on the phone trying to sell computers and Nelson would be on the other phone next to him trying to do tech support for customers. Right. And then Fabian and I would be trying to package the computer, but the tape gun would make so much noise as you were putting the tape on the boxes.
+
+5 (42m 59s):
+Yeah. Now we had to wait until the two of them were off the phone so we could tape the boxes. And so we'd just sit, be sitting on the couch waiting for the phone calls to end. Then we'd tape 'em and then we'd, yeah, we'd ship 'em out every
+
+0 (43m 14s):
+Day. Yeah.
+
+4 (43m 14s):
+But one of the things that made life really interesting for us was we were a small company in Miami taking orders that we would, you know, we'd at least book 50% of, of, of the order on the credit card and the remaining balance when it's shipped out. So of course the banks were all freaking out. What is this company doing? They're in Miami. Oh God, the world's coming to an end.
+
+0 (43m 46s):
+They thought you were in something unsavory.
+
+4 (43m 48s):
+Yes. So they would, oh no, we have to keep the monies in reserve because there's fraud. What fraud? There's no fraud. I mean, we were, fraud was insignificant at our level because everybody was, I mean, they were seriously ordering the machines and we would do our due diligence with the, the, the sale. Yeah. But we also had the difficulties of dealing in Miami because, you know, they, nobody knew what was, you know, they didn't understand the business
+
+5 (44m 19s):
+Model. So imagine that one day you're not getting deposits in your checking account for your business, and you call the credit card companies and you ask them, why aren't you sending us the money? And they'd be like, oh, we have to hold it for 60, 60 days to make sure this is legitimate. Wow. And we're trying to run a business. We have to, you know, you have to buy parts, you have to pay yourselves, you have to pay rent, you have to pay services. And Yeah, they would hold the money for however long they wanted to hold it for. Yeah. Because they thought the business wasn't legitimate.
+
+0 (44m 48s):
+But I mean, the model, if it did work, if, if you did get the money right away was great because you got the money to buy. You didn't have to hold inventory, right? Correct. You could just get an order in and then you'd go get the parts you needed and then make the machine.
+
+4 (45m 4s):
+For the most part, as our volumes began to grow, it was getting more and more challenging to source the parts.
+
+5 (45m 10s):
+We used to do some pretty insane things to get parts. I remember a new graphics card had just launched and we couldn't get any of them. Hmm. And we sent every employee with their credit card to every electronics boutique in Miami and in North Broward. And we asked them to go buy the maximum amount of graphics cards that the retailer would sell them, and then we'd reimburse them on their credit card after they, you know, they, they brought the car, the graphics cards back. But, you know, we were small, we were really small, we were arguably insignificant. And these parts were in high demand in many cases. And sometimes you'd be competing against the big companies like Adele or HP for something like memory or for a motherboard or for a processor.
+
+5 (45m 55s):
+We have an incredible story about when AMD launched the first one gigahertz processor. We couldn't get our hands on it. So Nelson Outs came up with the idea, just buy a bunch of gateways that have the processor in it. Wow. We'll take out the one gigahertz processor, we'll put a cheaper two or $300 processor that we can get and then we'll put that one gigahertz processor inside our systems. I mean, we did crazy things like that.
+
+0 (46m 18s):
+And what would you do with the gateway computers?
+
+5 (46m 21s):
+We'd use 'em around the office for desktops. For corporate, like for your workstation. You'd use it as your office pc. Yeah.
+
+0 (46m 28s):
+You know, it's interesting. I'm just, what you were able to do despite being tiny, a drop in the bucket Right. Early on, which was the big PC companies, they could make cheap PCs. You guys couldn't, you were not able to make cheap PCs. You didn't have the connections, you didn't have the supply chains, you didn't have the, you know, you didn't have the capital to scale that, but you could make expensive PCs because that was possible to do and to charge a lot of money for expensive PCs, which the big PC makers, they were looking to reduce their prices.
+
+4 (47m 4s):
+Exactly. What we were doing was selling four PCs in one. Yeah. And they were fascinated by the fact that we were, you know, we were commanding that much money from those
+
+5 (47m 13s):
+PCs. But, but keep in mind what we were doing was providing the customer with the service that the big companies really couldn't do. They were so configured for no customization or low personalization, let's call it that, and high rate of manufacturing. Yeah. That what we were, we were configured completely opposite of that from day one. And that ultimately was, I think one of the biggest competitive advantages that we had. And there was a lot of secret sauce on that. Like, you know, because we were smaller, we were, we had access to certain components in ultra high tech and emerging technologies that weren't ready for mass scale and mass adoptions.
+
+5 (47m 55s):
+Yeah. So that we used our size to our advantage.
+
+0 (47m 58s):
+Were you guys able in the late nineties to get a line of credit from a bank or any loans to just to shore up, you know, your supplies or to, or did you even try?
+
+4 (48m 11s):
+Yes, we did. There was one banker that we spoke to that Got it. She got it. She was an older lady. We explained the circumstances. She came to the office, she saw what we were doing. She saw we were busy and we couldn't, I mean, we're pulling our hairs. And she goes, you know what, tomorrow you get the loan. Hmm. She came, she drew up a check for $50,000. We signed the documents and, you know, we needed that money for the operational part of the business. So she was a godsend. She was the only one. Really? Yeah.
+
+0 (48m 42s):
+Wow. And, and what, at what point, right? Because Frank, you join in 98 and it's still the four of you, but, but obviously that was not gonna last because you had to, you would get in, more orders would come in and you would need more than two people building PCs at a certain point. What, what was the, what was the tipping point? What, what happened? Like was it a slow burn or did it all of a sudden just start orders to start to pull in that made it impossible for just the two of you to build the computers?
+
+5 (49m 15s):
+Yeah, I think the, the, the inflection point was when we evolved the website so that customers could actually order it on the website instead of just configuring it. Right. You know, and, and that is when things started going from like 20, 30 computers a month to 50, then 70, then a hundred. The, the challenge is, is the numbers still sound small, but you have to understand it's exponential growth. You're like doubling like one month to the next. And Wow. You know, as the business grew and you know, Nelson Nadick started hiring more employees, we would outgrow every single space.
+
+5 (49m 55s):
+And then what ended up happening is by that time they were able to find the next parcel of real estate to keep up with our growth. And we would build it out and move in. We were never able to move out of the last building that we were in because the business just kept growing so fast. So it was always an idea of we're gonna move from this old building to the new building. But by the time the new building was ready to move into, we were so big we could never leave the old buildings. And that basically happened forever. Until
+
+4 (50m 23s):
+Until, well the last one To the last one. Yeah. That we finally got a
+
+0 (50m 26s):
+Ride and all right. So, but, but really you were still even in the early two thousands under the radar, right? There was no, the big guys, the big players were not part, in fact, I think at this point in the early two thousands, the big computer companies were in crisis because there were so much competition. The price of PCs was so low. They, I mean, I mean this is when IBM was thinking about and, and eventually did sold off its computer division, stopped making computers sold to Lenovo.
+
+4 (50m 57s):
+There was a quite a bit of pressure back then for them, but they didn't understand our market. They had no idea that this market would grow so fast. And that there were so many people that were closet gamers, if you will. There were moms and dads and kids of all ages and college grads. And we were appealing to a lot of people.
+
+5 (51m 25s):
+It was a bit of a golden age because as we were coming up as a hardware provider, two gamers, some of the greatest games ever created were also coming up. You had obviously, you know, John Carmack at Id developing the Doom series. In the quake series. You had Tim Sweeney and, and Mark Rain at Epic creating Epic. Epic, unreal. And then at the same time, he had Microsoft taking notice of all of this and saying they're gonna get into the gaming space with the Xbox. Yeah. And you know, for a while, as much as that was a threat to PC gaming and the death of PC gaming was pronounced, it also was a huge opportunity because they spent billions on marketing and advertising.
+
+5 (52m 8s):
+And they brought the, the Halo franchise, which was a first person shooter game that was exclusively on the pc. All first person shooter genre was pretty much always on computer gaming. They brought that over to console gaming for the first time. And suddenly this platform of consoles, which had tens of millions of gamers out there, you know, from Atari and even before Atari were playing PC level games. And that was a big inflection point as well. But everything was happening all at the same time.
+
+4 (52m 39s):
+You know, and there, there's another component to this, aside from the gaming and the customization and all the good stuff. We poured a lot of personality into the pc. The only guys that were really doing something interesting with the PC that gave it a design, gave it a life was Apple.
+
+0 (52m 57s):
+Yeah. Beau beautiful. Right. They, when those colors came out in the late nineties or the early two thousands Yeah, it was, yeah. Game changer. Those giant monitors that were blue and translucent. Yeah,
+
+4 (53m 8s):
+Exactly. So there was no PC maker out there that was really doing that. And
+
+0 (53m 13s):
+They were just boring, beige colored boxes.
+
+4 (53m 15s):
+It was awful. Awful. Yeah. So we made a decision, you know, we're gonna, we're gonna do some cutting edge stuff, not only inside the box but outside the box. We're gonna give this machine a personality, like a car, like a Ferrari. Like a Porsche. So we started doing that with the PC and
+
+0 (53m 34s):
+Doing what?
+
+4 (53m 35s):
+Well we started, we first, we had different color scapes of like plasma, purple martian red, lunar white.
+
+0 (53m 43s):
+And it was the, and it was the color of the actual metallic chassis. Or it was like colors that were like lights.
+
+5 (53m 50s):
+We had contracted a body shop that basically painted cars, going back to the hot rod analogy we were making earlier.
+
+0 (53m 58s):
+Okay.
+
+5 (53m 58s):
+They were painting these cases and we did keyboards. Wow. Monitor speakers.
+
+0 (54m 4s):
+Right. So you would buy the cases that were off the shelf, but you would paint them,
+
+5 (54m 9s):
+We would send them to a body shop in Miami, or actually initially we sent them to one in Minnesota. In
+
+4 (54m 14s):
+Minnesota, okay.
+
+5 (54m 15s):
+Yeah. And then they would paint them and then we'd ship them down. Eventually Alex was like, this is too expensive. Shipping things back and forth cuz he was running supply chain and operations. So we moved them down here and they set up a body shop down here in Miami,
+
+4 (54m 28s):
+Next to us, next to us.
+
+5 (54m 29s):
+Right behind the warehouse. Yeah. Anywhere was is still one of the few brands that has like a personality behind it where you can cover up the logo and know immediately that that is an alien where product and you know, people don't buy it purely because of its function. They buy it because, okay, it performs a function, but it has a style. It represents me, it says something about me as the, the purchaser of that product. And that was very similar to Apple back then. Apple was, you know, very similar
+
+0 (55m 1s):
+Creative, creative people. Right.
+
+5 (55m 3s):
+The creative people, the rebellious people, the whole campaign they had around that alien war was the closest thing you had to something like that in the PC world, in the PC spectrum.
+
+0 (55m 14s):
+Now, I mean obviously you were getting attention for what you were doing, certainly when, when you were one of the very few businesses doing this. But, but by the time this became clear, it was clear to the, to, you know, Dell, for example. Right. And other big computer makers that there, there was money to be made there. They got into this game. And you guys, I think when, when Dell really got in 2003, you were, you know, you were probably doing, you know, 50, 60 million a year in revenue, maybe a little bit more. So you were doing a significant amount, but, but not like Dell. No,
+
+4 (55m 46s):
+No, no, no. Yeah, we were, or
+
+0 (55m 48s):
+Nothing. I mean, you had a brand, but, but now the big companies are coming in and, and building these really good gaming PCs that you could buy, and they had a better distribution. Some of 'em were available at Best Buy and all these other places. That must have been a little concerning, even though you had a good brand. What, how were you going to, I mean, were you guys nervous at all?
+
+4 (56m 11s):
+No, not at all.
+
+0 (56m 12s):
+You weren't nervous.
+
+4 (56m 13s):
+Okay. When Dell got in, we were, and okay,
+
+0 (56m 16s):
+Of course you're nervous.
+
+4 (56m 17s):
+The, the only reason I said Dell was because Dell, we mimicked Dell's business model. We didn't reinvent the wheel.
+
+0 (56m 24s):
+Right? You, you built Dell's model was you ordered a custom made PC and they would send it to you.
+
+4 (56m 30s):
+Yes. But hey, we also, you know, we were also growing. So I always felt that, hey, you know, if given the right funding and, and, and we could, you know, get some good hires and make, and, and develop a supply chain with, which is the hard part with the, the east, then hey, we really do have a chance
+
+0 (56m 54s):
+When we come back in just a moment, Nelson and Frank keep an eye on their biggest competitor, which as it turns out is watching them too. Stay with us. I'm Guy Raz, and you're listening to How I Built This. LinkedIn is where B2B marketing is everything It can be B2B marketing can be b2 brilliant, B2 Bold, and B2 breakthrough. How with a platform purpose-built to make B2B mean more for your business. A platform with tools to help you build better relationships with your key customers to boost your buyer journey while building your brand.
+
+0 (57m 38s):
+We constantly hear from business leaders from all sorts of companies about how helpful LinkedIn marketing solutions is for building brand awareness and helping their customer base grow. LinkedIn is the platform with the trusted data and lead generation. You need to beat KPIs, drive roi, and stand out amongst the competition. Get ready to b to boldly go or know marketers have gone before. Rethink your B2B marketing LinkedIn ads and get a $100 credit on your next campaign. Go to linkedin.com/built this to claim your credit. That's linkedin.com/built. This terms and conditions apply.
+
+0 (58m 22s):
+Audible is the home of storytelling that allows you to have more time for enjoying books in your busy life. Your imagination can run wild every day with new stories to listen to from the Audible app. Recently, I've been listening to Barbarians at the gate on Audible, and with my super busy schedule, audible makes it easy for me to enjoy all the content that I love on the go. Audible has an incredible selection of audiobooks across every genre. From bestsellers and new releases to celebrity memoirs, mysteries and thrillers, motivation, wellness, business, and so much more. As an audible member, you get full access to a growing selection of included audiobooks, audible originals and podcasts.
+
+0 (59m 6s):
+Let Audible help you discover new ways to laugh, be inspired, or be entertained. New members can try it for free for 30 days. Visit audible.com/built or text built to 500 500. That's audible.com/built or text built to 500 500 to try audible free for 30 days. audible.com/built. Hey, welcome back to how I Built this. I'm guy Roz. So it's around 2004 and Alienware has become one of the fastest growing private companies in the us.
+
+0 (59m 46s):
+It's doing over a hundred million in revenue and has like 500 employees. But that kind of growth can be really hard.
+
+4 (59m 56s):
+It was pretty tough. I gotta tell you, I mean we, you know, we talk about growth as being Oh, it's great and you know, yeah. You see that ticker, remember that UPS commercial where you saw that ticker, the orders started coming in. Yeah, well, that's a problem too, right? I mean, yeah, if you don't, if you don't have the infrastructure, then you could blow that brand away. I mean, it's gonna, you're gonna have bad surveys, all sorts of bad things happen. One of the things that we did was the little that we managed to keep for ourselves. We always reinvested in the business. We never, we were never top heavy. We didn't, we took, you know, average salaries.
+
+4 (1h 0m 36s):
+We didn't give ourselves big bonuses. We sold the notion to the employees also that, hey, there'll be time for that. That will happen, but I need you guys to do it with us. Yeah. So, you know, that we were, we were pretty successful managing the expectation and the growth.
+
+0 (1h 0m 56s):
+Tell me about the relationship between the, the, the four sort of original people involved. I mean, obviously you're still friends with Alex and the two of you are friends and you haven't worked together for a long time. We're gonna get to that in a moment. What happened to alien wear? But did you, did, did you all kind of, everybody kind of have their lane and focus on that, and was there ever any tension or, or, you know, different views about where to go and which directions to take?
+
+4 (1h 1m 29s):
+What I learned was that I did not have, I was not your typical CEO because I just didn't have the, the training or the business acumen or whatever. But if there was a disagreement, if there was debate, then fine. I actually, I welcomed it a lot. I I wanted to hear all the bad stuff first and you know, all the negative news first, and then let's focus on how we get better. Yeah. You know, so we, we and everybody for the most, they knew it was a lot of work. It was a lot of work involved, especially us that we just didn't have the, the, the, the typical tools that a, a perhaps a, an MBA coming outta school would have.
+
+4 (1h 2m 9s):
+But we figured it out and then we, we were smart enough to hire people that were smarter than us. But you mentioned contention.
+
+5 (1h 2m 19s):
+I think one of the greatest assets that we had at Alienware is how different Nelson and Alex are and were, and how much they debated every issue. They rarely ever saw eye to eye. And the beauty of that was that we would see almost every angle of a challenge or a decision that we had to make because they saw it always differently. And finally they'll debate it out. And, you know, I remember my first day on the job, I could hear them screaming downstairs and I'm a brand new employee and I looked over to Fabian and I go, what, what's going on? And he goes, don't worry about it. It'll, it'll all be over in a few minutes. But it was that contention and that debate and those, those different perspectives that helped us arrive at really good decisions.
+
+5 (1h 3m 3s):
+And ultimately I think had we not had that, we probably wouldn't have been as successful as we were.
+
+0 (1h 3m 10s):
+Alright. You guys are obviously, you know, you built this thing in a garage, you know, you know, in your house and, and, and less than 10 years in, you consider going public, but ultimately you get an acquisition offer from you, from Dell, from your biggest competitor from the Evil Empire, obviously. And he's, Michael Dell's been on the show, but, but, but you must have been like, they were your competitor. You probably saw them as an evil competitor.
+
+4 (1h 3m 41s):
+No, no,
+
+0 (1h 3m 42s):
+I didn't. No, you didn't.
+
+4 (1h 3m 43s):
+I saw them as, as my long lost brother. You know, the Rolins and the Vulcans, if any, anybody can understand that out there. You know, they, they were, we were very similar. We had the same model. Yeah. So the first time X P comes out,
+
+0 (1h 4m 2s):
+Their, their xps, this is the, their
+
+4 (1h 4m 4s):
+Xps. Yep.
+
+0 (1h 4m 5s):
+In 2001 or two, or maybe
+
+4 (1h 4m 7s):
+Four. No, 2000, well, maybe this was closer to 2003. Frank. Yeah.
+
+0 (1h 4m 12s):
+Okay.
+
+4 (1h 4m 12s):
+Yeah. Well, I, I sent a, a note to Michael
+
+0 (1h 4m 15s):
+This to Michael Dell, the found founder of the company, right.
+
+4 (1h 4m 18s):
+Thinking I'm never gonna get a response. I said, okay, Michael, at dell com Sure enough, whatever. Maybe I shouldn't have said that on the air.
+
+0 (1h 4m 26s):
+That's right. It's not hard to figure these out. Yeah.
+
+4 (1h 4m 29s):
+Yeah. So I sent him an email and I did this one on my own. I just said, you know, man, I am a little bit concerned. I'm a little bit concerned because this is a big guy and he's in our space and I should be, I should be concerned. But I said, I'm gonna be very cordial about this whole thing. Yep. Hey Michael, this is Nelson. I just wanna welcome you on board. You're giving a lot of visibility to the gaming market. I appreciate it. Blah, blah, blah.
+
+0 (1h 4m 54s):
+Oh, so you're welcoming into him, into your space. Yeah. Yeah. You weren't like, you jerk, you're coming at you were like, Hey, welcome, you know,
+
+4 (1h 5m 1s):
+Keep your friends close, but keep your enemies closer. I mean, right. So I said, okay, so and so we exchanged email, by the way, he responded within minutes. Huh.
+
+0 (1h 5m 12s):
+And you don't keep in touch with him. That was it. It was just a cordial exchange.
+
+4 (1h 5m 15s):
+Exactly. Exactly. Okay. We, we exchanged maybe a couple emails about a couple things, but we don't, nothing, nothing major. So 2006 comes around. I think what happened was, and I, and I, I don't wanna speak for Michael, but we probably got wind of, you know, us growing Yeah. And us going public. And at that point, he, he sent me an email and he says, Hey, do you want to meet, you know, in Orlando? I go, sure. And he goes, bring Alex, let's, let's sit down and talk. So we met in Orlando and he goes, guys, I wanna buy you out. And I'm like, okay. I'm thinking, why do you wanna buy us out? You know, it's going on. But he goes, well, I, I think that you guys are doing great.
+
+4 (1h 5m 57s):
+I've always admired your company and you're doing the right thing. He recognized the value in the brand
+
+0 (1h 6m 2s):
+And this came outta the blue. You had no idea this was gonna come. No idea. No idea. Idea. You did not know you were not soliciting this. No. He just is like, I think I wanna buy you guys. Yeah. Did he put a number on the table at that time?
+
+4 (1h 6m 15s):
+He put a number on the table, didn't work. I mean, the number didn't, well the, the funny thing is that we come to terms, he, he sends his guys over, they start doing the due diligence, then a month or two into it, all of a sudden Michael sends, you know, calls me and says, Hey, we're gonna have to pull out. Wow. What you're gonna pull out now after knowing everything we were doing and how we run our business Yeah. And our books. Are you crazy? I didn't say anything. I kept my mouth shut. I, I kept cool. I said, okay, you gotta do what you gotta do and I gotta do what I gotta do.
+
+0 (1h 6m 53s):
+Yeah. Why did they pull out?
+
+4 (1h 6m 55s):
+Well, I guess he wanted to, you know, they, he presented it to the board, you know, I'm sure the board said gaming. What is gaming? Are you guys crazy? You're enterprise, you're, you know, you don't need this, blah, blah, blah. Yeah. You know that typical board stuff. Yep. And, and he was, he, he really did love us. He really, you know, he, I I almost felt like he was one of our customers. But I'm thinking, well, it, whatever it's meant to be is meant to be. We're gonna go now. We're gonna present and we're gonna go public. That's it. I get a phone call, unknown caller, I'm driving to dinner with my wife.
+
+0 (1h 7m 33s):
+This is 2006.
+
+4 (1h 7m 35s):
+This is 2006. I get this call from unknown. I know. Unknown means Michael. So I get the phone call and then we start talking, talks about a number. I say another number. He says, okay. I says, Hey, this time we, we have a deal, right? And he goes, yes, absolutely. And we made the deal happen. Then he asked me, he asked me, what do you want to do, Nelson? Do you wanna stay, do you wanna be incorporated into the Dell machine or do you want to, you know, be your own, you know, entity and pick from us what you need when you need it? The challenge was that I wanted to make anywhere a little bit bigger.
+
+4 (1h 8m 14s):
+So no, I want to incorporate, I want to incorporate into your supply chain mechanism. I want to, you know, get in there so that we can grow the eating word business. So it, it presented with challenges and stuff. It's hard. I mean, it, it, it's, it. But honestly they did a phenomenal job of preserving the, the brand
+
+0 (1h 8m 35s):
+When he, when that came to you, obviously we're gonna make a lot of money. The, the founders are gonna make a ton of money. This is gonna be a, it's an undisclosed acquisition, but I, I can imagine what it was, given which revenue is, you do some calculations and figure out roughly how much you got was in your view at that time. Cuz I think I probably would've done that. Was it part, part of it was, was it like, okay, I'm just, I'm tired. I've been doing this for so long, I just need a break. Was that part of it too?
+
+4 (1h 9m 10s):
+No, no, no. I was ready, I was ready for the next, I was, I was gearing up for the next level.
+
+0 (1h 9m 16s):
+So, so to you it was, Dell was going to be with their supply chains, with their, you know, marketing note chops with their massive scale. You were thinking we're gonna use their resources to grow even bigger and now we're gonna be part of Dell, but, but we can only do this if we have access to massive resources. Like, like the resources they have.
+
+4 (1h 9m 35s):
+Exactly. Exactly. But what I soon found out that I'm not a corporate guy.
+
+0 (1h 9m 41s):
+Yeah, because you were hired to be a Dell employee. Now, now you're the CEO of a Dell portfolio company.
+
+4 (1h 9m 47s):
+Yeah. And I, you know, Alex and myself, and especially Alex, myself, couldn't, we weren't gonna fit in you.
+
+0 (1h 9m 54s):
+You weren't, you weren't, you weren't, you didn't wanna go to the meetings, you didn't wanna
+
+4 (1h 9m 57s):
+Yeah, there was a lot of corporate, you know, like requests and a lot of decisions that would take a long time because there was a lot of analysis that had to be done understandably slow. So it was a public company and I understand that, but man, I kind of wanted to move at the speed of light and they just, the, they're, they're an aircraft carrier and we're like a little PT boat.
+
+0 (1h 10m 19s):
+Yeah.
+
+4 (1h 10m 20s):
+So, you know, one of the things that Alex, Alex was tired. Alex was, you know, was, didn't do a lot of work. He was very tired. I I was tired as well, but I was ready for the challenge. But Alex said, listen man, I I don't think I could do this. And once Alex says that, I'm like, mm, I'm not gonna do this without Alex. It's gonna be very, very difficult and I just don't want to do it. So that's where it ended.
+
+0 (1h 10m 45s):
+Yeah. So Nelson, you left, you, you and Alex left Alien where I think at roughly the same time, and Frank, you stayed on, in fact, you stayed on in, in a leadership role at Dell, I think, until just a few years ago. But I mean, I mean, Nelson back then, I mean, I think it was 2007 when you left Alienware, and I wonder, did you, did you go through a period of just like sadness or I dunno, or depression or, you know, like what do I do now?
+
+4 (1h 11m 16s):
+Yeah, I was depressed for like two years. It was tough. I was going a hundred miles an hour and every day. And then all of a sudden, you know, because I, you know, Alex, Alex could adopt very well because he, he's got so many hobbies and he, Alex is like a machine. He just, he, he's got a million things going on, but I am very singularly
+
+0 (1h 11m 42s):
+Focused. Your hobby was your job.
+
+4 (1h 11m 44s):
+My hobby was my job.
+
+0 (1h 11m 46s):
+Yeah. And, and that's amazing. See, people don't, don't people just saying, oh wow, you get all this money. Like, people are probably thinking that about you, like, yeah, yeah. You're loaded. You've got, you've got everything set. You're, you're set for life and here you are, you're actually depressed.
+
+4 (1h 11m 59s):
+Yeah. I, you know, I, I was brought up from pretty humble beginnings. Money obviously is important for everything, but it, it's never been the most important thing in my life. I felt that I was contributing something to people. And that's what I, that's what drove me. Hmm.
+
+5 (1h 12m 22s):
+Nelson is a, a creator. He used to create the Alienware ads. Most of the product, if not all the product innovations that you saw at Alienware, the industrial design was all really being fed from, from Nelson's mind. And, you know, that creative outlet was, was now gone. It wasn't, it wasn't there anymore. But I mean, everything you still see to today, I mean the, the, the industrial design characteristics of Alien, where as they've, as they're still carried through, there's components and elements of all of that that, that, that came from, he was the visionary behind all of these things. But it's, it's in a lot of ways, you know, alien wear is, is Nelson.
+
+4 (1h 13m 3s):
+Gee, thanks Frank. I I should hire you to speak for me.
+
+0 (1h 13m 9s):
+So Frank, you, you stayed on for a long time. You only left Dell in, in 2019. Yep. And then when you left, you, you would, you, you were the vice president, the gm four premium consumer brands. Yep. You did a big, big massive job at Dell. So you really, I mean, and you kind of oversaw the growth, the explosive growth of alien work. I mean, to the point where now it's not just PCs and laptops, it's like they make gaming chairs and headsets. I, the gaming chairs thing still boggles my mind that that's a whole thing. But I mean, really, like, you oversaw this, this massive growth of this brand for the next, what, how long were you there?
+
+0 (1h 13m 55s):
+Almost 15 years. 14 years.
+
+5 (1h 13m 58s):
+Yep. Long time. It goes by fast.
+
+0 (1h 14m 1s):
+And, and tell me what, I mean, is it, I mean, is that what happened that with Dell's resources and, and you know, it's kind of platform, you were able to take Alienware to the next level?
+
+5 (1h 14m 16s):
+It wasn't that easy initially when Dell acquired Alienware, we were still competing against Xbs gaming cuz Xbs was their gaming brand. Yeah. So mission number one was to survive that
+
+0 (1h 14m 31s):
+With the hope that they wouldn't shut you down and just take your technology or take your, your people.
+
+5 (1h 14m 35s):
+Correct. Correct. Yeah. You know, to the PC industry is extremely challenging. It's very competitive. You have hyper-competitive people and you had two, you know, sets of people now trying to win against the same customer, trying to win the same customer.
+
+0 (1h 14m 53s):
+Wow. So you're internally competing with your colleagues now.
+
+5 (1h 14m 57s):
+Yes, and we are dependent upon them because to Nelson's point, right? We immediately recognized the benefit of leveraging their supply chain and their operations. And the competitor piece was definitely awkward, but the cultural differences were so stark. You know, Alienware was all about just, we gotta do whatever we gotta do to get the job done. And going to a large company, Dell was 50,000 employees by the time I I had joined, was a completely different world with tons of analysts and all this research and all these well-educated professionals and enormous experience and just this carefulness and this thoughtfulness to every decision that's made.
+
+5 (1h 15m 46s):
+And that was very different, a completely different environment. And it was extremely intimidating, very, very scary, very uncomfortable. Suddenly I felt like I was back in kindergarten, almost like starting at ground zero where I had to learn a big company and I had no experience with that. And it was a different language. It was everything, everything was different about it. Hmm. Then it became, okay, once it was pretty clear that we were going to survive, then how did we shift from surviving to thriving? And that took a little bit of time to go off and figure out and, and we figured it out. I mean, but the whole time, you know, what I'd say is we built this thing, you know, and Nelson, Alex, and more than anybody, I built this baby, if you will, and you don't wanna let it die.
+
+5 (1h 16m 38s):
+You don't want to let it not prosper and see it, recognize its full potential.
+
+0 (1h 16m 43s):
+Yeah. When you guys think about, about this journey, right? You know, this, this thing has started in 96, 97, the garage soul for, you know, who knows how many millions of dollars to Dell, but a lot. And you built a brand that is really enduring, you know, certainly, you know, one of the most prominent, you know, gaming brands in the world. How much of that do you attribute to, to how hard you worked and your skill and intelligence, and how much do you think has to do with luck, first to you, Frank?
+
+5 (1h 17m 18s):
+I think it has to do Almost entirely with the people that were involved in all of it. That was the secret sauce of Alienware was the differences in opinions and the respect that everybody had for one another. And all, all of that was there luck? There was an enormous amount of luck. So many other things could have gone wrong and a lot of things went wrong. This was not a perfect journey by any means. I mean, there was an enormous amount of a obstacles that were presented along the way, and harder work had to overcome those obstacles. But I think it's the people, and it was the luck of those people coming together that were really the driving forces from my perspective.
+
+0 (1h 18m 3s):
+Nelson,
+
+4 (1h 18m 5s):
+You know, interesting you say about, you know, you talk about work, I think I, if I had to give one piece of advice to an entrepreneur is if you're not smarter than they are, then I'll work them. If you have a tendency of saying, Hey, I'm, these people are smarter than me, my competitors, my whatever, but you know, I'm, I'm pretty smart too, and I cannot outwork them, so I'm gonna work hard. I think that's one of the biggest things that we all had in common. We worked really, really, really hard because we just did not have the formal training that we needed.
+
+4 (1h 18m 49s):
+But beyond all things, I think that without passion, we're nothing. And I think if you take that approach as an entrepreneur and, and, and look at business that way, and, you know, not do it just solely for the money, but for whatever else drives you, you know, I, I think you'll be okay.
+
+0 (1h 19m 14s):
+That's Nelson Gonzalez and Frank Azo, two of the co-founders of Alienware. Frank is now an executive at a md, a company that makes processors and a whole range of gaming devices. In a while back, both he and Nelson were appointed to the board of yet another gaming company, game Craft. So for the first time in like 15 years, they're working together again. Before I let you go, Nelson, you said you, you, you believe in, in aliens, right? Oh
+
+5 (1h 19m 46s):
+Yeah.
+
+0 (1h 19m 47s):
+So here's my question. If they come, if they arrive to planet Earth, are you going to run out of your house with your arms open to the sky saying, yes, take me welcome, or are you gonna like, run to the hills and, and, you know, with your ammo and, and shotgun and hide,
+
+4 (1h 20m 3s):
+I am not one of those believers that aliens are just entities from another galaxy year, another world. So
+
+0 (1h 20m 10s):
+To ruin my story, my, my scenario, okay,
+
+4 (1h 20m 14s):
+Keep going. Okay. So if, if I had to leave with them, if they gave me an option, I would definitely, you know, give five minutes, let me talk to my family, but I'm, I'm
+
+0 (1h 20m 24s):
+Gone. You're on that, right? I'm,
+
+4 (1h 20m 26s):
+Yeah.
+
+0 (1h 20m 26s):
+Even if they poke needles in you and, and dissect you, you just,
+
+4 (1h 20m 30s):
+It depends where they poke the needles at. You know, like,
+
+0 (1h 20m 33s):
+But you, you had to check out that ride. You're like, you know what?
+
+4 (1h 20m 36s):
+I have to check out that ride.
+
+0 (1h 20m 38s):
+Hey, thanks so much for listening to the show this week. If you wanna contact the team, our email addresses h ibt, id.wondery.com. And if you wanna follow us on Twitter, our account is at how I built This and mine is at Guy Raz and on Instagram or at How I built this. And I'm at Guy dot Roz. This episode was produced by Carrie Thompson with music composed by Routine era Bluey. It was edited by Neva Grant with research help from Sam Paulson. Our production staff also includes JC Howard, Casey Herman, Liz Metzger, Alex Chung, Elaine Coates, John Isabella, Chris Masini, and Carla Estevez. Our intern is Susanna Brown.
+
+0 (1h 21m 19s):
+I'm Guy Raz and you've been listening to How I Built This. Hey, prime members, you can listen to how I built this early and ad free on Amazon Music. Download the Amazon music app today, or you can listen early and ad free with Wondery Plus and Apple Podcasts. If you wanna show your support for our show, be sure to get your How I built this merch and gear@wonderyshop.com. Before you go, tell us about yourself by completing a short survey at wondery.com/survey.
+
+0 (1h 22m 0s):
+The world's greatest sporting event only rolls around every four years. And every four years everyone becomes a soccer fan. That's right. Billions of eyes are about to fall upon 32 nations battling it out for soccer supremacy. And the Men in Blazers podcast will once again be your guide to every incredible goal, every heartbreaking defeat, and every moment of human triumph. This is America's number one soccer podcast, bringing you expert analysis of every US man's national team game, and exclusive interviews from a slew of athletes and celebrity guests all month long. This is what the world will be talking about. Follow men in blazers wherever you get your podcasts.
+
+0 (1h 22m 42s):
+You can listen ad free on the Amazon Music or Wondery app.

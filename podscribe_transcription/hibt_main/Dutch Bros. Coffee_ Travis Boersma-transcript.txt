@@ -1,0 +1,848 @@
+0 (1s):
+Hey Prime members You can listen to how I built this early and ad free on Amazon Music Download the app today.
+
+The Indicator from Planet Money (9s):
+Think of all the things you can do in 10 minutes or less. Scroll through social media. check your bank balance, make a sandwich, or learn about the surprising economics behind all these things. The Indicator from Plan of Money is a quick hit of insight into the economics of business, work, and everyday life. Every weekday in less than 10 minutes. Listen now to The Indicator podcast from npr,
+
+Upwork (31s):
+How I Built This is pleased to have Upwork as our presenting sponsor. Visit Upwork dot com to get hiring. Upwork has a message for you. Everything you know about business, it was made up by a bunch of guys a hundred years ago. Don't stay bound to their antiquated rules like the nine to five workday, commuting to an empty office building, or only hiring full timers. Embrace a new way of working with Upwork. It's a portal to the future of business, and it's disguised as a website. Go to Upwork dot com. There, you'll see the light and also find talent for projects of any size From simple deliverables to complex projects from short term help to full time hires. you can finally let those old business titans and their tired ideas rest in peace. This is how we work now. Visit Upwork dot com to get hiring talented professionals today.
+
+0 (1m 21s):
+The world needs entrepreneurial leaders and we're educating them at Babson. Gain the skills to lead, motivate, and inspire through Babson College's MBA program. Available full-time, part-time, and online experience in action-oriented, hands-on learning approach that helps you find opportunity in every challenge, whether in your own venture or as a leader within the business, Babson offers. What if thinkers a path to change the world and the way it works with the tools and mindset, you need to stand out among your peers and solve real world problems in any career you pursue. When you come to Babson, you join a thriving network fueled by passion and innovation at the school.
+
+0 (2m 4s):
+Ranked number one in entrepreneurship for 30 years by US News and World Report. Apply today at babson.edu/mba. You know, we talk a lot about hustle on How, I, Built This. And recently I spoke to Jason Suga, who shared some amazing stories about starting out in comedy. He put in a lot of reps. He played small houses in Vegas. He played an Amsterdam night after night for years. But during that grind, he got an idea for a character who would go on to become one of the greatest leading men on tv. Ted Lasso. Check out my conversation with Jason Sudeikis on my other podcast. It's called The Great Creators.
+
+0 (2m 44s):
+Just search for the Great creators with Guy Raz, wherever you listen to podcasts, or go to the great creators.com. And now onto today's show.
+
+3 (2m 59s):
+We opened our first day downtown Grants Pass next to the post Office. Hmm. And Dane was like, I don't know if I could do it, man. He's kind of hiding out in the back.
+
+0 (3m 9s):
+And what do you mean he couldn't do it? Why
+
+3 (3m 11s):
+He, he just, I think all of a sudden it just kind of all like, oh my God, this is real. We're doing it. Yeah. And I'm like, hang on dude, I'm gonna go make you a a little eight ounce mocha. Yeah. And I'm gonna put some tunes on. Yeah. And so I put on some Lead Zeppelin going to California and I got him a coffee and I said, Hey man, it's on.
+
+0 (3m 47s):
+Welcome to How I. Built This. A show about innovators, entrepreneurs idealist, and the stories behind the movements they built. I'm Guy Raz and on the show today, how two brothers sold espresso drinks out of a push cart in Grants Pass Oregon, and built Dutch Bros into a billion dollar business with over 700 stores. I am sure you found yourself in a situation like this. It's late at night, you're with a close friend, and you start talking about all the things you could do together.
+
+0 (4m 27s):
+and you ask, what if we try that one thing and just go for it? And sometimes that conversation can power you to do great things together. Travis Boersma had that special connection with his older brother Dane. They would often talk about all sorts of crazy business ideas, but the one that really worked started out as an espresso cart in a grocery store parking lot. They called it Dutch Brothers or rather Dutch Bros. And today that former coffee cart is a billion dollar beverage business with more than 700 locations across the United States to get there was a wild ride, often joyful, but also at times painful and even tragic.
+
+0 (5m 11s):
+And what is now a hugely popular brand. Started in the small town of Grant's Pass in Oregon. Travis grew up in the seventies on his family's dairy farm in Grant's Pass. And he spent a lot of time with his brother Dane, even though Dane was 17 years older than Travis.
+
+3 (5m 30s):
+Yeah. He, so, you know, I mean, I remember being 2, 3, 4 years old and going on dates with Dane
+
+0 (5m 36s):
+Go, go tagging along on his dates.
+
+3 (5m 39s):
+Yeah. Yeah. And he was, he was like a second father, but, but he treated me like a brother. And we had such a, a great relationship. We were really family oriented, being on a, on a dairy farm and, and growing up in a, in a small community. It was a really cool way of life.
+
+0 (5m 58s):
+So you grew up basically working on the farm?
+
+3 (6m 0s):
+Yeah, I did. You know, and man, I mean, have a motorcycle to rip around on and, and a dog to chase you around and herd cattle and, and go into the creek and fish and, and all sorts of stuff. And back then we had hop yards next to us and that was an incredible playground for me.
+
+0 (6m 22s):
+And Hop yards like grew growing hops. Yeah. Which was fed to the cattle,
+
+3 (6m 27s):
+No, fed to the beer drinkers.
+
+0 (6m 30s):
+Okay. So, yeah, I got you. So, so did you, I mean, that's a tough, it's a tough business even harder, arguably today because fewer people are drinking milk than ever in the United States. And so your dad, he had this dairy farm. What did that mean for, for money? I mean, was money tight or did you not really have a sense of that? Or was, you know, was it he did okay with with the dairy farm?
+
+3 (6m 56s):
+Well, you know, I think it is a tough way of life and, and you learn a lot about work ethic and, you know, we were third generation dairy farmers as far as Dana and I go, and my dad was second generation. And quite honestly, I, I think my dad had a desire and ended up opening an RV business in the eighties because he, he always wanted to do something different than the grind.
+
+0 (7m 20s):
+Hmm. All right. So you, you grew up and you go to college of, eventually you wind up at Southern Oregon University and meanwhile, Dane, who's is way older than you, I mean, he's, he's already married and, and raising a family, and I think both of you are pretty entrepreneurial, right? Like, you, you would talk a lot about business ideas.
+
+3 (7m 39s):
+Yeah. I would have a lot of dialogue with my brother while he was milking cows. I'd go down, hang out, we'd talk about life. Yeah. And we talk about businesses and we'd talk about possibilities and, and he would cast a vision with the dairy farm. That was incredible. He was like, man, if we had like purebred Holsteins and, and we fed 'em really well and we had, and we're really mindful of, of the quality and
+
+0 (8m 4s):
+He wanted to turn it into like a, like a high end, like organic dairy or something like that.
+
+3 (8m 9s):
+Yeah. And it was organic before organic was organic. Yeah. And so we could dream about that and have some fun with it. And then we could go down different paths of like, well, maybe we should think about opening like baseball batting cages or like, you know, we would talk about business a lot. Yeah. And I think one thing that's noteworthy is Dane had a Dairy Queen franchise at the age of 22.
+
+0 (8m 35s):
+Wow. He, he bought a franchise.
+
+3 (8m 38s):
+Yeah. And at that time, I think Dairy Queen, it was still in its younger years. I mean, they had, it was before the blizzard. Yep. And so he was doing well with it and, and having a ton of fun and making a lot of money. And he ended up selling it and taking a $60,000 profit. And I think he reinvested that money in cows on the dairy farm and, and began to take the lead role and run the farm Wow. As my dad transitioned into the RV business.
+
+0 (9m 10s):
+So there's something that happened on the farm in the, in the early nineties, I guess it started to struggle a bit and you guys had to let go a lot of the people who worked on the farm because you couldn't afford to pay what was, what was going on. Why, why did the farm run into trouble?
+
+3 (9m 26s):
+Well, you know, as we had this creek run through the property, there were some environmental regulations with the deq and they give us a certain timeline to become compliant with it. Yeah. And if you didn't adhere to that timeline, you'd have a fine monthly that you'd have to pay. And, and we couldn't afford that. And we got to the place, we had very little confidence in our ability to do that. So we made the decision that we needed to sell the cows. Wow. And my dad was well off, my mom was well off, but, you know, this was Dan's way alive more so than anything else. And he had three kids at the time.
+
+0 (9m 59s):
+Hmm. Alright. So it sounds like in the early nineties, this was the beginning of the end of tr kind of transitioning out of the dairy business. Yeah.
+
+3 (10m 10s):
+So as Dan assessed his situation, he was kinda like, wow, man, I need to go get a job and maybe I need to go to Walmart, or I need to go to Fred Meyer, get a job and be able to provide for the family. And I was like, hold up, dude, time out. We've talked about all these different business ideas. You and I have gambled on football games, we've taken risk, we do all this crazy stuff at the horse races. Like why don't we pursue one of the business ventures that we've talked about? And he is like, what are you thinking? And I said, yo, when I was over at soccer, I was, you know, sometimes late night with too much beer or too many parties and need a little pick me up in the morning and a hangover recovery.
+
+3 (10m 53s):
+I was drinking espresso and mochas and lattes. And, and I said, you know, I think we could maybe delve into something like an espresso business. And, and he goes, I don't, I don't even know what espresso is.
+
+0 (11m 5s):
+Yeah.
+
+3 (11m 5s):
+You know? And I said, well dude, you gotta, you gotta check it out. And we kind of left the conversation and, and he went to a local restaurant that night called the Bistros an Italian restaurant here in Grants Pass. And they had espresso on the menu. So he ordered it after dinner and they brought it out in a little short Tassi cup with a lyric creme on it. And Yeah. And he took a nip off it and he was like, holy, this is so bitter and strong and it tastes terrible. Like Yeah. Nobody would buy that. Yeah. And I said, okay, hold up, get in the car. I'm taking you down to this little place that I've been frequenting and I'm gonna get you a vanilla latte. So we head down this little drive through here in Grants Pass, believe it or not, at that time in 1990.
+
+3 (11m 51s):
+And it was called Western Espresso with an X
+
+0 (11m 55s):
+Espresso.
+
+3 (11m 56s):
+Yeah. And this little lady named Bonnie worked there, and she was probably the coolest, most friendly person in Grant's Pass. She was kind of oaky, barefoot, kind of a hippie lady. And I pulled up, she goes, Hey Trav, how are you? I said, I'm great. Yeah. Actually I need two vanilla lattes today. I got my brother Dane. Oh, hey Dane. You know, and it was a single head, little electra machine. So, and it was organic Peruvian coffee, which was like, I didn't even know what that was, but it sounded cool. And, and so I handed over to Dane and I start to pull away and I look over and Dane had taken lid off of the cup and he's licking the milk foam.
+
+3 (12m 37s):
+And he's like, this is unbelievable, man.
+
+0 (12m 41s):
+You were like, roughly 21. He was about 38. Yep. Around this time. and you have this idea cuz you'd seen espresso carts, like you saw them in Portland, right? Yeah,
+
+3 (12m 53s):
+Yeah. I remember being a kid and, and being up there in Pioneer Square and seeing this cart with these colorful bottles and steam rising up in the air. And, and I remember saying to my mom, Hey, we should go over there and check. And he says, she'd be like, that's coffee. It'll stunt your growth, don't worry about it. And I'm like, okay. And then being at school, you know, that's where I, I really started to consume coffee for the first time in my life. Yeah.
+
+0 (13m 21s):
+So, I mean, coffee culture in America, this is still like, still the so-called first wave, right? It's like before the sort of Starbucks kind of revolution happens. Yeah. But you were starting to drink some of these drinks and you liked them and you thought, Hey, why don't we do a, a coffee cart, like make espresso drinks from a cart and you pitch this to your brother after you get him to try a vanilla latte. Yep. And he says, what?
+
+3 (13m 48s):
+Well, he's kind of like, well, this is really good. This is kind of a mind blow. He goes, what? How do we find more out about it? And I said, well, I remember up in Valley River Mall in Eugene, they used to have a cart at Nordstrom's, and Nordstrom's would serve up these coffees in the mall. And I said, I don't know what they ever did with a cart, but you know, maybe I should give 'em a call and and see if I can chase it down. And, and so I ended up making a phone call and they said, oh yeah, you know, we still have that cart. Believe it or not, it's in storage. And I asked them if they had it, you know, if they had any interest in selling it. And they said, you know, yeah, we do. And, and if you want to come take a look at it, you're more than welcome.
+
+3 (14m 28s):
+Wow. You know, I had a, I had, you know, friends that were going up to school in Eugene and they were in a fraternity. So I, it gave me a great reason to go up and party and go check this, this card out. And I was excited about it. I got there and they pulled it outta storage and it was just dilapidated beat to hell. And, and they said they wanted $5,000 for it, and I wouldn't have given them 500 for it.
+
+0 (14m 50s):
+Okay. So, so you knew that you wanted to get in a, an espresso cart. This was not gonna be the one, so did you go, did, what'd you do next?
+
+3 (14m 59s):
+So I came home, told Dan, I said, look man, that's not it. We gotta figure out a new path. And he goes, you know what, one of the guys that I graduated high school with works up at Boyd's Coffee up in Portland, and his name was Larry Winkler. And Larry told Danny, he goes, we sell espresso machines, we sell carts, we've, we've got packages and you know, we wholesale coffee to a number of different restaurants and, and we provide coffee to different people who have pushcarts, believe it or not. And he goes, you know, you guys should come up, check it out. So we did. Hmm. We made a trip. We decided to, to not just go to Boyd's, but to hit any coffee establishment that we could through the I five corridor all the way up to Seattle and back.
+
+0 (15m 44s):
+So you, you would just basically, you've located different coffee roasters along the I five corridor, which is obviously the main sort of north south highway that connects Canada to, to Mexico. and you what you got off the freeway and you just stop and pop in and, and just ask like how they do it. Yeah.
+
+3 (16m 3s):
+And, and think about this, man, we didn't have Google Maps or anything like that. No. We had maps. Yeah. I mean, we didn't, we didn't have cell phones. We had to go like to a payphone. Yeah. And so there was three different places in Eugene that we went to. One was the coffee corner in the fifth Street public market, and we had a great experience there. And so, you know, then we, we made the trek up to Boyds and we sat down with Larry and he introduced us to a guy named Gary Jacobs. And, and Gary came over and he said, well, this would be perfect for you. And he shows us they have this fancy showroom floor, and, and they have this little tiny cart with like an ice ice chest and an umbrella and a single head espresso machine.
+
+3 (16m 44s):
+And,
+
+0 (16m 44s):
+And I'm just curious, so Boyds not only roasted coffee, but they also sold coffee carts. Yeah. That's just, we that's unbelievable. That was their business.
+
+3 (16m 54s):
+Well they were, you know, they were selling coffee carts because there was a lot of people at that time doing these carts and putting them in like Fred Meyer or
+
+0 (17m 6s):
+It's a grocery store in the Pacific Northwest
+
+3 (17m 8s):
+Yeah. Or going to different fairs or different events and festivals and serving coffee. Wow. It was in its infancy and Boyds was ahead of the game.
+
+0 (17m 21s):
+It just blows my mind that you could like go, go there and they're like, yeah, here's, here's model the X 500. It's the, it's the state-of-the-art coffee cart. Or you might wanna do the X seven 50. Like, it's amazing to me that there was a company that had off the shelf coffee carts that you could buy.
+
+3 (17m 39s):
+Yeah. And, and, but that experience was a turnoff for us at that stage. We, we felt like we were being sold. Like, here's here's your bundle and this is what you should do. And, and we were looking for something a little bit higher end, a little bit better equipped. And we really anticipated doing, we wanted to be able to handle volume.
+
+0 (18m 2s):
+What did that mean? You needed like, multiple espresso. Like you needed to be able to make like three espresso at the same time. I mean Yeah.
+
+3 (18m 9s):
+We, we knew that, I knew that we needed to be able to do two at the same time rather than one because of the time that it would take. And for customers, if you had five people that came up and wanted to get a beverage a piece, then the timing would double if you only had one. Yeah.
+
+0 (18m 31s):
+What, what was the idea? Where were we gonna put the cart? Did you have like a vision like, oh, we'll just put it here and then we'll haul it on a trailer here? Or was it like, it'll be in a permanent spot? Like what was the idea you guys had in mind?
+
+3 (18m 44s):
+You know, the idea that we had in mind to begin with was, let's put it at Fred Meyer. We knew that in the Portland market there had been carts placed at Fred Meyers and they were doing well
+
+0 (18m 55s):
+Inside the store or outside
+
+3 (18m 57s):
+Either one.
+
+0 (18m 58s):
+All right. Let me ask you a dumb question cuz we're still couple months before you're gonna actually do this. I can make an espresso now because their commercially available machines are affordable, I know how to do it. But in 1992, this was a different proposition. Espresso machine was like hugely expensive learning how to pull an Es proper espresso. Like you didn't know how to do any of that. Was that a barrier at, in any way was like, was this gonna be a problem?
+
+3 (19m 26s):
+That was part of our, our thing. Like how are we gonna learn how to do this? I mean, what do we, and what we knew was, is that we weren't gonna open unless we had it dialed. Yeah. And so when we talked to these roaster wholesalers, that would be part of our questions, like, how can you help us to learn what we need to do here? And we ended up finding a place called Nice Wonger, and we thought that that was the one, they had a La Poni espresso machine. Mm. They had these fancy carts that were better than what Boyd sold. Yeah. And we could buy a package from them for like $15,000. And we were like, all right, I think we got it.
+
+3 (20m 7s):
+Yeah. The only part about it was it felt like we were buying a new car off a lot and we didn't feel like we had somebody that could help us and teach us. Hmm. And so we made the trip back down the, and the common bond that Dana and I had that was so cool is music. You know, so we were rocking Beatles, led Zeppelin, Jimmy, c c r, I mean Kat, Steven Chicago, the list went on and on and
+
+0 (20m 36s):
+You were on the road to find out Yeah. And with Kat Stevens.
+
+3 (20m 39s):
+Oh man. Yeah. You know, and, and I listened to the music with Dan from when I was two years old
+
+0 (20m 44s):
+On great, great music. I mean, I'm, I'm just imagining you on the road where I left my happy hole Yeah. To see what I could find out. Yeah. and you guys are driving down the I five,
+
+3 (20m 55s):
+Nah, nah, right? Nah,
+
+0 (20m 59s):
+Nah. Yeah, yeah. Right. Okay. I'm with you. I'm in the car with you. Okay. Yeah.
+
+3 (21m 2s):
+You know, I mean, at this stage we're like, we're asking ourselves how are we gonna make this work? What do we need? How do we, you know, and while we're kind of cruising, I mean, we're high as hell on coffee. Okay. I mean, we've had more caffeine than you could ever imagine a day. Yeah. I, you know, so we're on our way back down, I said, you know what, let's pop back into that fifth Street public market place in Eugene that we liked. That was so cool. It had the good vibes, man. Okay. Like, we didn't go see the roasting plant or, or talk to the guy who owns it. Let's see if we can connect with him. And so on our way down, we called, we found out where it was, it was right across the street,
+
+0 (21m 36s):
+What was it called?
+
+3 (21m 37s):
+It was called the Coffee Corner.
+
+0 (21m 39s):
+Okay.
+
+3 (21m 39s):
+Yeah. And they have all these locations and all these varietals, and from what we can see, it looks like they're like crushing it. And they got, they've got like this great energy that's real hospitable about
+
+0 (21m 52s):
+'em. Yeah.
+
+3 (21m 53s):
+But the magic for us was meeting Paul Layton, who was the owner, and he was the roaster. And when we went into the little roasting area that they had, and it was small, I wanna say it was 1500 square feet, but he had burlap sacks of green coffee everywhere throughout it. Hmm. And it was like a mad scientist lab.
+
+0 (22m 16s):
+And that was, was that the first time you saw green coffee beans? Yeah. So cool. Yeah.
+
+3 (22m 21s):
+Yeah. And this guy's like, Hey, come on in, let me get you a cup. I knew you were coming. So I, I brewed some Kenya double A, and this is a really spicy kind of coffee that's got a nuttiness to it. And, and Dana and I are looking at each other like, what the hell did we just walk into here, man, because, you know, cat Stevens was cool, but this guy's like, he's got this big beard, he's wearing Birkenstocks. So he goes, this is the thing, man, I can help you out with everything you need and I can teach you how to pull shots and steam milk and make a cappuccino. And this is a passion of mine and I care deeply about the qual.
+
+3 (23m 2s):
+Wow. I'm, I'm pursuing the perfect cup. And I'm like, what the, I, I didn't even know to the extent what all these varietals were. It reminded me of like wine and all the different areas where you'd grow these Yeah. You know, different, I mean, I, I was like, this is just a unique wild endeavor that has more depth than I could have ever imagined. Mm.
+
+0 (23m 28s):
+So his idea, so the idea was he would teach you how to do this, but of course with the hope that you would buy his coffee, that was the idea.
+
+3 (23m 35s):
+Yeah.
+
+0 (23m 36s):
+Yeah. And does he also have things to sell you? Coffee cart equipment?
+
+3 (23m 41s):
+He had it all. In fact, he asked us a bunch of questions. He was like, so gimme a real idea of what you want to do here. Yeah. And so Dan and I were like, well, you know, we want to do this mobile push card and we do have a fixed location that we want to do at Fred Meyer. And he was like, okay, yeah. In order to do that, he goes, you should do like a manual pull machine because there's some art to pulling shots manually rather than like a push button. You wanna, you wanna be able to show people and talk to people about what you're doing and, and how that's important to you. And yeah.
+
+0 (24m 18s):
+All right. So you, so he basically says, I've got everything you need. How much, I mean, your brother was, he was in his late thirties at that point and had already run a Dairy Queen. So he's coming to the table with some, you know, some experience. and you were a young guy, but how much money did you guys have to invest, you know, a machine was gonna cost money, the cart was gonna cost money. What did you guys have to put into this?
+
+3 (24m 42s):
+Oh, man, I, so I had very little, and, and Dane had, you know, Dane was frugal, man. I mean, I think he had maybe $60,000, but our first car all in was 12 grand.
+
+0 (24m 54s):
+All right. and you made an agreement with Paul that you would buy beans from him?
+
+3 (24m 58s):
+Well, so we, when we left from that experience with Paul, we were ecstatic. We were like, we found our guy. Yeah. This is it, man, we're over the moon. And when we got back to Grant's Pass, it was like within a week he was down with the equipment, the cart was being built, and we set it up on a, in an old living room table. And we were in our Old Milk house and, you know, we brought our stereo in with a couch. And, and he brought with him 10, 10 pound bags of coffee. And he said, you know what? I think the best thing for you guys to do is once I teach you how to pull these shots and steam milk is just have fun with it and try to come up with what you think would be best.
+
+3 (25m 44s):
+Hmm. I mean, it was back to, let's, let's throw some, some music on and let's, I remember making a hazelnut latte and sipping that thing, man, and going, dude, this is unbelievable, man. Well now let's try it with that mocha java bean, and let's try it with the Colombian bean. And what about the blend that he had that was dark? And what about the French Row stuff? Man, that's, yeah. Yeah.
+
+0 (26m 10s):
+And between the time that you took delivery of this push cart and the time that you actually set up and started to sell coffee, do you remember how long that took?
+
+3 (26m 18s):
+I wanna say it took us about three months before we finally were open. And there's, there's a little story to tell there. Okay. So we kind of got to this place where we had made our simple menu, the mocha, we both knew was gonna be our top seller in the thing that was most popular, because there was gonna be a learning curve, especially in Grants Pass for people that had never had an espresso coffee before, never had a latte before. So we tried all sorts of different stuff like Mrs. Richards hot fudged to Nestle's quick to Hershey syrup to Ghirardelli's. And we were just pulling her hair out because you'd have challenges with either powdery or syrupy and settlement.
+
+3 (27m 3s):
+And it just wasn't meeting our expectation. And so Dane finally looked at me and he goes, I'm gonna go down the street to Valley Road Dairy, who the Zola family had been doing this for years. And they had a chocolate milk that was so rich and creamy. He goes, I'm gonna go pick up a couple quartz of that and bring it back and let's steam it up and see how it, how it holds up. And he did. And we both looked at each other and we're like, that's it, man.
+
+0 (27m 30s):
+Wow. Steaming the chocolate milk and putting in a steamer. Yeah. It
+
+3 (27m 33s):
+Was already blended. It already held true. Yeah. And when we steam, it was faster. It was, it was more consistent. It was amazing, huh. So we got our menu dialed, we had our logo, we had our name
+
+0 (27m 46s):
+And your name. You came up with a name.
+
+3 (27m 48s):
+I came up with the name Dutch Bros because we're brothers and we're Dutch
+
+0 (27m 51s):
+Dutch Bros. You're like third generation, like your great grandparents came from, the old grandparents came from the old country. Yeah. Okay. and you can say Dutch Bros. You don't say Dutch Brothers.
+
+3 (28m 0s):
+I say Dutch Bros. Yeah.
+
+0 (28m 3s):
+Like, what's that coffee brand? It was like an old coffee brown. It was like Hills
+
+3 (28m 8s):
+Brothers.
+
+0 (28m 8s):
+Hills Brothers.
+
+3 (28m 9s):
+Yeah. Yeah. They, I think everybody else went, brothers. And we were like, you know what, fuck tradition. We're going Bros.
+
+0 (28m 14s):
+You guys are Bros. Yeah. Yeah. So, alright, so when you were ready to actually put this out there and start selling coffee, where did you, where did you go? Where was it? Where did you put it?
+
+3 (28m 26s):
+So we drew up this nice proposal and had visited with the Fred Meyer store manager. And we sent it in and, and they said, yeah, you know, we got your application and it looks great, but we haven't got to it yet. and you know, hang in there and we'll get back to you. Huh. And another week passes and Dane says, you know, he says, I wonder if we should maybe look for a second location, maybe, maybe there's a better location for us to go to.
+
+0 (28m 54s):
+Yeah.
+
+3 (28m 55s):
+And then all of a sudden there was like this flash and I was like, there used to be a shaved ice place right next to the post office, next to the railroad tracks, downtown Grants Pass.
+
+0 (29m 5s):
+Hmm. Was there foot traffic there? I mean, were, was there a lot of people who would pass by?
+
+3 (29m 11s):
+So it's a main thorough affair that goes to the coast. So you have a ton of cars that drive by and then you have a lot of people that park and walk over the post office to get their mail. Right.
+
+0 (29m 25s):
+Got it.
+
+3 (29m 26s):
+And Dane said, well, bill Rosk, one of my buddies is the manager for that whole shopping complex. Let me give him a call. Hmm. So we showed him what we'd give to Fred Meyer, and, and he looked at it and he said, I'm completely down. If you guys wanna put it here, it's 150 bucks a month. There's power on this billboard sign there that you can probably use. That's what they used. And, and we got everything ready. And we said, well, we need a, a little storage shed to build to put the card in to leave it there overnight. And Yeah.
+
+0 (29m 59s):
+Cuz it was outdoors. You were in the outdoors.
+
+3 (30m 1s):
+Yeah. Outdoors man. And we opened our first day downtown Grants pass next to the post office, and Dane was like, I don't know if I could do it, man. He's kind of hiding out in the back. And What
+
+0 (30m 13s):
+Do you mean he couldn't do it? Why? He,
+
+3 (30m 15s):
+He just, I think all of a sudden it just came, it just kind of all like, oh my God, this is real. We're doing it. Yeah. And I'm like, hang on dude, I'm gonna go make you a, a little eight ounce mocha. Yeah. And I'm gonna put some tunes on. Yeah. And so I put on some Lead Zeppelin going to California and I got him a coffee and I said, Hey man, it's on.
+
+0 (30m 45s):
+When we come back in just a moment. Travis and Dane realized that Pushcarts can only go so far. And the real business is in drive-throughs. Stay with us.
+
+3 (30m 56s):
+I'm Guy Raz and you're listening to How I. Built This.
+
+Burrow (31m 5s):
+Once a company knows what they do best, where do they go from there? Well, if your borough, the furniture company known for reinventing everything you thought you knew about furniture, you go outside Burrough's new outdoor collection just launched with a strong chip resistant, galvanized steel frame and easy to clean fabric. Burrough's Outdoor Collection is built for everyday use and to withstand the elements. The modern, sleek look and quick drying plush foam cushions bring the comfort and style of indoors outside. And it's also customizable. You can choose from 19 different configurations and purchase individual pieces or bundles to fit your seating needs. And as always, get free shipping on every order. How, I, Built This listeners can get 15% off their first order at Burrow dot com slash built. That's Burrow b u r r o w.com/built for 15% off Burrow dot com slash built.
+
+Airbnb (32m 6s):
+Maybe you stayed in an Airbnb before and thought to yourself, this actually seems pretty doable. Maybe, my place could be an Airbnb. It could be as simple as starting with a spare room or your whole place when you're away. You could be sitting on an Airbnb and not even know it Maybe, your kid is heading off to college in the fall and you'll have an empty bedroom. You could Airbnb it and make some extra cash while they're away. Or if you have a vacation plan for this summer, that could be a good time to Airbnb your entire place. Whether. you could use a little extra money to cover some bills or for something a little more fun, your home or spare room might be worth more than you think. Find out how much at Airbnb dot com slash Host.
+
+3 (32m 50s):
+One more thing before we get back to the show, please make sure to click the follow button on your podcast app so you never miss a new episode of the show.
+
+0 (32m 58s):
+And it's totally free. Hey, welcome back to How I. Built This. I'm Guy Raz. So it's 1992 and Travis and Dane are officially in business selling espresso drinks from a push cart outside of shopping center in Grants Pass. Oregon.
+
+3 (33m 19s):
+In the very first day we ran into a real problem. The owner of the grocery store, who was the anchor tenant in the shopping center came out and he basically said, what in the fuck are you doing in my parking lot? And Dan and I are like, we talked to Bill Ross. He goes, I don't care who you talk to, this is my parking lot. I lease this, I want you gone now. So one thing led to another man and I end up heading over to his office and his wife was sitting there in a desk next to him.
+
+3 (33m 59s):
+She goes, Dave, at least be polite and hear him out. Hmm. And I was like, oh, okay. And he had put chains up on these entrances that would come off of sixth Street to access his parking lot because he wanted to restrict people from going to the post office parking in his lot. So I said, well, I can help maybe with informing people that you'd rather not have them park here. And and he said, I I don't care. I want you gone. And his wife said, well, Dave, let me, I'm gonna go talk to he and his brother for a moment and you know, I'll be back.
+
+0 (34m 35s):
+Yeah. I'm I'm just curious why he was so mad.
+
+3 (34m 38s):
+Yeah. I think what the deal was is, is he felt like he should have, we should have asked him for permission. Yeah. So his wife, she goes, look, you know, we've been under a lot of stress. This market is brand new for us. It's our whole life. We've invested our money into it. And we have people that own grocery outlet. They're like the brass and, and you know, we've got an answer to them. And I said, listen, I, I get it and I'm sorry. And if we could be of benefit, we'd be happy to furnish you guys, your crew, everybody who works for you, we can give you free coffees. All we ask is that you give us an opportunity to stay here for the month. We, we paid the rent.
+
+3 (35m 18s):
+Right. And so the next day she came in and she said, okay, this is a deal. It's a month. And then once that month's up, you're well on your way. Said deal done deal. We're cool. Very first day we did $65,
+
+0 (35m 33s):
+It's not bad.
+
+3 (35m 34s):
+And we were slapping high fives, man. Yeah. I mean, we profited, we figured like 30 bucks. Yeah. And, and that was more than we were doing on the dairy farm in the darkest days.
+
+0 (35m 44s):
+Yeah. I mean, the beauty of that cart was, I mean, you knew there was a price you paid for it, and then you could measure how quickly it would take to pay to sort of recover the cost of the cart. And then after that everything's gravy. I mean, obviously you've got the expense of getting, being the coffee in, but like that was the big initial investment.
+
+3 (36m 3s):
+Yeah. I mean, we had low overhead and we knew what we had to, to make to pay the bills. And from that point we started earning customers one at a time and it was word of mouth and, and it was us promoting the product. And now customers are starting to walk by and get their mail and they're kind of looking at us like, what the hell is that? And so I started to just say, Hey, if you're going to get your mail, I'll make you up a coffee and I'll have it ready when you come back by and you can check it out. And they'd be like, what? Oh no, I, I'm not interested. And I'm like, no, no, it's okay. I'm just gonna give it to you. And they go get their mail and they'd come back by and I'd, I'd hand them one and they're like, oh wow.
+
+3 (36m 45s):
+This is, this is really good.
+
+0 (36m 47s):
+Hmm. All right. So you're out there running this coffee push cart outside this grocery store, this grocery outlet. And when your one month agreement was up, did a couple who had the store parking lot let you guys stay there?
+
+3 (37m 1s):
+Yeah, so as we're cruising through two, three weeks into the gig, there's this u V that pulls up into the parking lot of grocery outlet guys with suits, hop out of it, couple of them light up a cigarette and start strolling over to the push cart. And Dan and I see 'em come in and I'm like, I think that's the brass for Grocery outlet. You know, we're kind like on pins and needles. And so they come over and one of 'em orders a cappuccino, which let me know, like, you know, okay, these guys are sophisticated coffee drinkers and they look over to us and they're like, wow, this is really good. You know, nice job.
+
+3 (37m 43s):
+They left a $5 tip and they were on their way over to Grocery Outlet then to talk to Dave and, and Jill and they complimented Dave and Jill on us being there and how that made it a more welcoming environment for customers to come to Grocery Outlet because
+
+0 (38m 2s):
+Grocery Outlet, like for people who don't know it, it's like a, like a discount grocery store.
+
+3 (38m 6s):
+Yeah, it is. Yeah. And, and it changed the trajectory for us. So that nice. You know, now we are clipping along and as long as we stayed in good graces with Grocery Outlet, we knew that we were there for as long as we wanted to be there. Yeah. From there, Fred Meyer calls and they say, Hey man, you're approved, huh? And we're like, oh my God, what do we do? And Dane said, well, maybe we should do the second location, maybe we should buy another cart. And I said, yep, let's do it.
+
+0 (38m 38s):
+So you guys basically took whatever cash mostly it was his cash probably. Yep. And bought a second cart from that same guy, from Paul and Eugene.
+
+3 (38m 46s):
+Yep. And it was exactly the same.
+
+0 (38m 48s):
+Did that mean you have to hire somebody or did, would you Man one and he man the other, that's
+
+3 (38m 52s):
+How we started is I man one and Heman the other and we'd rotate. However, Fred Meyer wasn't doing nearly the volume of our downtown location and it never would. Hmm.
+
+0 (39m 5s):
+Now I, I guess one of the things that your brother was into were, were books by Tony Robbins, the, the Life coach, and Yeah. One of the things he was into is this idea of like Unlimited limitless possibilities, right? Like thinking about what you could possibly do. And I guess the two of you, you and Dane, even in those early days, would sit down and then like map out what you wanted the business to be like in a year, five years, 10 years. Tell me what you wrote down. I mean, what did you envision? Oh my gosh. Judge Bros being in five years at that point. This is 1993. So what, what did you think it was gonna be? 98 and then in 2000, you know, three and Well,
+
+3 (39m 49s):
+The process was, I mean it was really incredible. I mean, it was like Dane when we sat down on the living room floor of his mobile home and did the school setting workshop. And the process in itself is like, I mean, I'm writing like become a helicopter pilot, built a, a home on the river above Savage Rapids dam. Oh,
+
+0 (40m 10s):
+These are, these are like personal goals. These are not goals for the company,
+
+3 (40m 14s):
+It's anything. It's okay. It's personal, it's professional, it's everything. It's open locations of Dutch Bros within the state of Oregon and the 11 Western United States have locations. Yep. It's have a drive through, it's build a coffee house, it's roast our own coffee. It's just anything you could ever think of.
+
+0 (40m 37s):
+Yeah. And what did that do for you? I mean, lots of people write goals down, but how, how was that? I don't know. How was that actually useful in this case? Did what, what did it do for you?
+
+3 (40m 47s):
+Well, the crazy thing is once you write all these goals down, it's almost like inventory your dreams. And after you did that, then we exchanged them with each other and we read 'em out loud and we laughed because so many of them seemed so farfetched. But the amazing thing is it was like they were in our subconscious. It wasn't like we went and got tattoos of these goals. Right. Wrote 'em on a mirror to look at every day, but we started to drive toward 'em.
+
+0 (41m 16s):
+So you are basically trying to manifest these things that you, you'd written down in meantime. You are, you've got these pushcarts and, and I think like what a good day would be. What, like 200 bucks?
+
+3 (41m 28s):
+Yeah. So, you know, I guess second year in our downtown location's doing, you know, between two and $300 a day and Fred Meyer tips around, you know, 80 to a hundred dollars mark every day. And, and we, we opened three more Pushcarts and we ended up going to Walmart in Grants Pass, RCC in Grants Pass, and then Walmart and Medford and we have employees now and trying to figure out like how do we get those other locations to perform like our downtown one? And we never really could. And we kind of finally landed on the ultimate success formula that we learned in this Tony Robbins book. And it was know your specific outcome, take massive action toward it.
+
+3 (42m 8s):
+Ask yourself if the actions work and that you're taking and if it's not, change it until it does. And we started to look at the push cart gig and we said, you know what? I think we need to change it. I think we need to have our own environment. Bonnie who had Western Espresso had moved on and she had given it to her kids and they kinda ran it into the ground and they were, it was dead and gone. And we said, you know, that may be the best location for it. Let's pull these carts outta Walmarts. That environment is not for us. They wanted us to monitor people smoking. They, it was just a, a weird environment. You couldn't play music. It, it just wasn't us.
+
+0 (42m 45s):
+You wanted your own permanent location. Yeah. And Bonnie's place was, it was basically available.
+
+3 (42m 52s):
+Yeah, she had a little trailer there and they had packed it up and they had vacated the premises and had sat there for a year. And, and so we ended up contacting the property owner and we decided that our customers that come downtown, a lot of moms and dads with kids and sometimes it's rainy and sometimes it's not the, the best weather conditions. What if we did a drive-through,
+
+0 (43m 16s):
+Was it already a drive-through?
+
+3 (43m 18s):
+Bonnie had had a drive through, so Bonnie had a trailer there.
+
+0 (43m 26s):
+Okay.
+
+3 (43m 27s):
+When Bonnie left, she took her trailer that had the espresso machine in it with her. So it was just a pad site. Got it. So Dana and I decide to build our own custom trailer outfitted with the coffee equipment in it
+
+0 (43m 41s):
+Inside. Okay. A
+
+3 (43m 42s):
+Unique custom trailer, like a Wells cargo trailer and put the push cart in it and we were able to have it all enclosed and have a drive-through where it was, you could drive through and we could serve you from a window or just an open air space, just like any, any drive-through would serve anybody. But it was a mobile unit.
+
+0 (44m 4s):
+Got it. So, but like drive through co I don't think they were drive through Starbucks. I mean they were drive through McDonald's and you get coffee there, but Right. Drive through espresso places. It was not, it was not a thing. No,
+
+3 (44m 16s):
+It wasn't a thing. And I think, you know, for us, when we figured out that that was gonna be the niche for us, it was a game changer.
+
+0 (44m 26s):
+How did you, once you converted this trailer into a, you know, a drive through espresso bar, how did you, I mean, was it just clear right away? It was obvious right away that that was how you were gonna sell coffee in the future.
+
+3 (44m 41s):
+So when we opened and we had that drive-through experience, we also had our old school walkup experience that you could park your car, walk up, sit on a bench underneath a tent, have a cup of coffee, warm your hands by a Mr. Heater if you wanna talk with us. But the drive-through line that started to form was incredible. And once we had the, the location open for maybe a couple months, we realized like, this is just where it's at. This is our niche. And it started to exceed volumes of three to $400 a day.
+
+0 (45m 16s):
+Hmm. Alright, so you've got this, this drive to location and I guess there was, there was like a, a customer who, who was going to the location? A guy named Marty McKenna. Yeah. Who, who loved it and was like, Hey, can I like do a version of this in Medford, which is, which is like 30 miles away and you guys agreed to work with him. Tell, tell me how that happened.
+
+3 (45m 36s):
+Yeah, so Marty was coming in and Marty was like, man, this is so unbelievable. I would love to take this concept to Medford and, and do it myself. Would you guys be interested in, in sitting down talking about it? And legitimately he said, look, I, I'd be willing to give you $500 a month to use your name and I'd sign a business license agreement if you want. And if you guys teach me how to make everything, I'll use all the products and buy 'em through you and let's take the plunge and, and see what pans out.
+
+0 (46m 7s):
+And how did it do?
+
+3 (46m 9s):
+He started rocking. Wow. He got to a point, you know, we sent our best barista with him because
+
+0 (46m 16s):
+This is what you call baristas. Barista. Yeah.
+
+3 (46m 19s):
+And the volume started to really build.
+
+0 (46m 23s):
+So the, the idea of kind of what was sort of a version of franchising really began with this guy just saying, Hey, can I open the location? Like, you guys, this was not something you were looking to do, but it, because he, he sort of approached you about it, it sort of, I guess triggered some thoughts about well maybe we can open more locations beyond Grant's Pass. Correct. And did he become a partner in this in a sense?
+
+3 (46m 47s):
+Yeah. I I think, you know, it wasn't too long into the gig, maybe it was six months to a year into the gig, we all sat down and talked about this idea of partnering up and growing both Medford and Grant's Pass. And we were all in like a third, a third, a third.
+
+0 (47m 4s):
+Yeah. Now this seems kind of crazy to do like, like this guy Marty, who I'm sure is a great guy, but like you barely knew him and you opens his location, then he becomes a partner, a third partner owner. Did that turn out to be a mistake? Or did did that work out? Well,
+
+3 (47m 20s):
+You know, when you have partners there's always compromises.
+
+0 (47m 23s):
+Yeah. Cuz it was you and your brother and your family. And so, you know, that's different.
+
+3 (47m 27s):
+Yeah. It really was. Yeah. You know, know, we cared so deeply about the product and how we did it. And so Marty was kind of in a different place. I mean, he didn't have the commitment, the the way of living real frugal. You know, he wanted to take more money and we wanted to roll the money back into the organization. So there was some challenges in those years and we got to a place where like, okay, we've, we've gotta grow here. We want to invest, we wanna go buy a coffee roaster. And, and we talked to Marty and, you know, he didn't have the money to continue with expansion, let alone grow and, and invest into a roasting operation.
+
+3 (48m 7s):
+So we decided, well, you know, if we just do the roaster on our own, we can sell coffee to the business that the three of us are partnered in still. And, and then that created a little bit of a rub. Hmm.
+
+0 (48m 21s):
+I mean, in a nutshell, you and Dane were disagreeing with Marty about some, some pretty fundamental things. I mean, clearly you guys wanted to, to use your revenue to grow the business and, and he didn't. And I guess all of that, all that got so challenging that you started talking about ending, ending the partnership, right?
+
+3 (48m 40s):
+Yeah. You know, Dana and I looked at each other and we said, you know what, this is a long play and, and we're gonna grow and I think we can do it better if Marty wasn't here and maybe we should be buying Marty out. And Hmm. So finally we just said, you know what, let's talk about that real number of what it would take. And he finally threw out I'd do it for 1.2. And had we had a financial advisor at that time, they would've said, no way, don't do it. It's, I mean, how many years is that gonna take to get your money back? And Yeah. But we took the plunge and we gave him, he, he carried the paper 1.2 million at 7%. Hmm.
+
+0 (49m 18s):
+So you, you bought him out for 1.2 million, obviously could not pay that off right away. So you 7% interest. And that was, I mean, this is 1999, I think at that point you had 10 total locations Yeah. And eight of them that you guys owned and then two that were licensed. So you were a small business. I mean, I mean your revenue, I can't imagine what your revenue might have been. Maybe 5 million at most a year. 10, maybe 10 million, I don't know.
+
+3 (49m 45s):
+Oh man. Yeah. It was, it wasn't even that,
+
+0 (49m 48s):
+But a million dollars, a big amount of money. And, and, and, well
+
+3 (49m 51s):
+Let's put it this way, it was a, we wrote him a $12,000 check every month. Wow. And Dan and I were taken home just to live on, I think it was like three grand.
+
+0 (50m 3s):
+Wow.
+
+3 (50m 3s):
+But you know, we had kind of formed a belief like, if you're not growing, you're dying.
+
+0 (50m 8s):
+So he's outta the picture in 99. And what I'm trying to figure out is, so now it's back to you and your brother and you've got these 10 locations total, and now you know you wanna expand, but over the next four years you would open 40 more locations, drive-through locations. So h help me understand how you did that. Did you, did you guys finance all of these? Was it franchisees? Was it it was the same model, a trailer converted into a, into a coffee place?
+
+3 (50m 42s):
+Well, so we had these really cool buildings that Dane designed and as we continue to grow the demand for wanting to franchise the business was there with friends and family. Yeah. And customers that
+
+0 (50m 57s):
+They wanted their own location.
+
+3 (50m 59s):
+They were like, man, how can I, can we get in, can we take this over to Roseburg? Can we take it to Klamath Falls? And Yeah. And so Dane wrote the first franchise agreement and I wrote the operations manual. Wow. and you know, franchise owners would take all of their own money, invest it into a fully equipped mobile unit, and that didn't require any capital from us. And we would get a franchise fee of say like 30 grand and then we'd get royalties and they'd buy the beans from us that had a profit margin built into 'em because
+
+0 (51m 35s):
+You were roasting your own beans. We
+
+3 (51m 37s):
+Were roasting our own beans. And so that really became a cash cow for us. And it became the lifeblood of the company for our own growth, our own investments, and paying Marty off.
+
+0 (51m 52s):
+Hmm. Alright. 2004, you're, you've got a lot of growth ahead of you and it's, it's a good place to be. You're 34 ish, Dan's a little over 50 and this is going to prove to be a really challenging time actually. It's, it's challenging as an understatement. This is gonna be a rough few years ahead, which you did not yet know. But I guess around that time you started to notice that your brother was slurring his speech. What, what do you remember?
+
+3 (52m 25s):
+Well, I remember the first time that it was brought to our attention, we were in this local Mexican restaurant that we love called Taqueria and Grant's Pass. And, and we were just having lunch and Dane's wife Sandy came in and we were talking and she goes, how much have you had to drink? And he goes, nothing. And she goes, well why are you slurring your speech? And I was like, well that's weird. He is kinda slurring his speech. That was the beginning of something that we had no idea of what to imagine.
+
+0 (53m 1s):
+Meantime, that same year there was a fire at your warehouse.
+
+3 (53m 7s):
+Yeah.
+
+0 (53m 7s):
+And I think it destroyed everything inside like your inventory. Like what, what happened? Well,
+
+3 (53m 14s):
+It was August 8th, it was 108 degrees out that day. And I'm over at my sister's house, Carly's house with her husband Brian, who works with us at the stage and we're swimming in their pool and we're literally, you know, maybe a half a mile away from where our headquarters is located. And, and my mom comes driving up the driveway at a pace like that looked dangerous and she slams the brakes on and jumps out. She's like, there's a fire we need to go. And we literally jumped out of the pool in board shorts and headed down to the warehouse.
+
+3 (53m 55s):
+And, and when we got there, what I saw was this giant trash dumpster that we had that's made out of plastic, melted against the wall on fire. All of a sudden here came the fire department pulling in and they, the one chief came over to me and he was like, Hey listen, you know, we're gonna do the best we can. Is there anything that we need to know? And, and I said, well, the number one thing is to save the coffee roaster outta there if that's the only thing that made it out, that that'd be the thing that's really important for us. And I said, I, I'd like to go in and get that stuff. And he goes, you cannot go in here. You're not allowed.
+
+3 (54m 35s):
+If you do, you're insurance could be voided. Trust me. Do not even, I know it's tempting. Sit here, let us do our job. And I said, okay. And so I ultimately still had confidence that they're just gonna put the fire out and everything would be cool. And, and the smoke was so dense and so much in there, they couldn't get a hold on it. And they, it just got away from 'em. And, and we literally lost everything, including the roasters.
+
+0 (55m 6s):
+Wow.
+
+3 (55m 6s):
+All of it.
+
+0 (55m 8s):
+When we come back in just a moment, Travis and Dane get through the fire and then face an even bigger blow. Stay with us. I'm Guy Raz and you're listening to How I. Built This.
+
+Tecovas (55m 26s):
+There are certain sounds that signal a good time is coming and there's no better way to step out than stepping into a good pair of boots, like a pair of handcrafted to covas that come broken in. So you're ready to go out. They're built to last so you can stomp loud and stomp. Often. They're an invitation to put your foot down and stand your ground. A way of telling the world that you don't go gently. I recently got a pair of Tecovas, they're Chelsea boots, and I love how beautifully made they are. They are so well designed. They are so comfortable. and you can see all the work and craftsmanship that's gone into making those boots. Tecovas. Don't go gently. tecovas.com, T E C O V A s.com.
+
+Nissan (56m 12s):
+If car designers can make cars look like anything, why are there so many boring cars? Nissan dares to design what others won't. By approaching each project in a completely different way. Nissan Design gives you everything from the adventurous frontier to the ZZ iconic sports car styling to the futuristic aria all in one brand. Each Nissan vehicle has its own story and identity. Nissan knows that thrill isn't just about zero to 60. Thrill should start the moment you see a car from the arc of the roof to the way the headlamp meets the grill. Every detail of a Nissan vehicle is designed to get your heart racing before you ever press start. Nissan knows what thrill looks like because they design it into every vehicle they make. Learn more about the 2023 lineup@nissanusa.com.
+
+0 (57m 5s):
+Hey, welcome back to How I. Built This. So it's 2004 and the beginning of what Travis calls the dark years for Dutch Bros. For starters, something is up with his brother Dane, he's not doing well, and he's slurring his speech. And around the same time, a fire at the warehouse destroys everything, including the coffee roasters.
+
+3 (57m 26s):
+I'm just sitting there and I'm mean, I'm like, once I realized that it was gone, gone, I called Paul, Paul had been our green bean voker and fire. I said, Hey man, I don't know what to do here. And so he called me back and he said, I talked to David Boyd up at Boyd's and they're willing to roast coffee and, and keep your guys' product going. Oh wow. So, you know, wow. I said, that's amazing, thank you. And literally the next, the next morning I was like, we gotta figure out what we're gonna do. And people were coming up that were community members and saying, you know, you may want to consider antidepressive at some point because this is gonna be a long road.
+
+3 (58m 13s):
+And and these were people that had actually had fires themselves. Yeah. And I'm like, listen man, all I wanna do is get it behind me and make sure that our stores are not impacted.
+
+0 (58m 28s):
+Wow. So that's going on. And eventually your brother gets a diagnosis.
+
+3 (58m 38s):
+Well, the diagnosis didn't come so easy and with ALS or Lou Gehrigs, it doesn't,
+
+0 (58m 43s):
+And that's of course what, what he was diagnosed with als.
+
+3 (58m 46s):
+Yeah. And, and you can't diagnose it until you're well into it. What happens is you go through a process to rule out, you know, a tumor cancer,
+
+0 (58m 59s):
+Parkinson's or something else. Yeah.
+
+3 (59m 1s):
+Parkinson, you, you rule out all these things through testing and time. You know, when this fire happened, I was so concerned about him. I thought, oh my gosh, he's so stressed out. I kept thinking maybe he's just overwhelmed. and, you know, we're growing at a, a rate that's, you know, maybe excessive. And, and so I just, I mean, my heart hurt for him because I knew something was wrong. I just didn't know to what extent. And it took us a good year and a half to figure out that he could have als and that was brutal news to even entertain because we knew it was a death sentence.
+
+0 (59m 42s):
+Wow. And I think normally when people are diagnosed with als, they live usually for another three, maybe up to five years, depending on Yeah. The symptoms. Yeah.
+
+3 (59m 53s):
+And the hard part is, is is you, you think, how do we beat it? What can we do? Yeah. You know, maybe there's a way, maybe we're the miracle and, and then you're thinking, well, maybe it's something else still.
+
+0 (1h 0m 8s):
+Yeah.
+
+3 (1h 0m 9s):
+And so, you know, we thought maybe it's Lyme's disease and he was getting treated and try flying to Colorado Springs had a pourer insert in his heart for Lyme's disease. And you're like, well, you know, it could be that and maybe this will, you know? And, and he didn't really want to do that. But he asked me, he goes, Hey man, what do you think? And I said, I go, damn man, I I think you should turn over every rock, man.
+
+0 (1h 0m 33s):
+Mm. Tell me how you coped with, I mean, you were, you know, now you had to run this thing and he had to focus on his health on getting better at, or at the very least, surviving. Tell me about your just like mental, emotional state, you know, trying to be the leader and a boss and this happening.
+
+3 (1h 0m 56s):
+You know, not only was Dan my business partner, he was my, my brother. He was my best friend.
+
+0 (1h 1m 4s):
+Yeah.
+
+3 (1h 1m 4s):
+And what I now know is he was my mentor and for him to be going through this thing, it was horrific. And I was like, loaded all on my back. I'll do everything that I possibly can to make sure that the business stays afloat and that it's working and that we go through this, these storms. And, and literally I was killing pain with booze and dope. And it was tough, you know? And, and I was not healthy. The business was doing okay, but I wasn't handling it well. And it took its toll. It really truly did.
+
+3 (1h 1m 46s):
+And I think that there was a pivotal moment in time, and it's when, when he finally, this is the deal with als. You either get a limb onset or it starts with your speech and it goes to swallowing and then it goes to your breathing diaphragm. So it had gotten to the place where his breathing diaphragm, he was really having a hard time breathing and he was on an oxygen, which is the worst thing you could do because he wasn't having a hard time getting oxygen in. He was having a hard time getting the carbons out. Mm. So at some point he couldn't do it anymore. And we had to go to the hospital. And, and at that stage, he had the choice to be put on a ventilator and the family chose to go down that path.
+
+3 (1h 2m 33s):
+And from there he's probably one of the few people that was able to still walk
+
+0 (1h 2m 37s):
+Yeah. With
+
+3 (1h 2m 38s):
+A ventilator. But it doesn't adapt to your heart rate, man. I mean, it's air in, air out, air in, air out. And so, you know, you can maybe take a few steps and pause. Mm. And his quality of life for the next two years, seeing grandkids born and those kind of things, and going over to visit with him and watch music videos and, and football games and that kind of stuff was, was still there. But, but it was, it was brutal.
+
+0 (1h 3m 8s):
+I, I wanna, I wanna get a sense of your internal world, cuz obviously what he was going through is just unimaginable.
+
+3 (1h 3m 16s):
+Yeah.
+
+0 (1h 3m 16s):
+How did you, you, you said you were self-medicating, right? Yeah. Alcohol, smoking pot or whatever you were using to dull the, your pain. How did you manage the business while you were also suffering? How did you do that?
+
+3 (1h 3m 34s):
+You know, the business was a huge priority. I felt compelled for Dane and his family to continue to perform well. Right. And make sure that we continue to grow and scale. And that if we were gonna go down this road and Dane wasn't gonna be here, I was going to make sure that I was able to provide for them.
+
+0 (1h 3m 58s):
+Yeah. So that was also driving you.
+
+3 (1h 3m 60s):
+Yeah, it sure was. You know, and so I had the wherewithal and I had the leverage to perform to the best of my ability and I had to ratchet it up. And there came a time in 2008 where we had grown into some markets. The brand wasn't well known. It needed to be pioneered in those markets. And, and we had franchise owners that were willing and able, but it was a challenge and we were growing with people that maybe had business experience, but they didn't necessarily grow up in the company. And Yeah. They maybe didn't have the principles or values all the way that we did. and, you know, the real estate bubble is, was about ready to burst if it hadn't already because
+
+0 (1h 4m 42s):
+This is 2008 now. Yeah. Yeah.
+
+3 (1h 4m 46s):
+2008 was probably the time where we made the heaviest, I made the heaviest decisions that I ever made in my life with the company. And we decided to draw a line in the sand and stop our, our growth with franchising and evaluate how we best should grow. And, and that's like stopping a train because Yeah. You've got a year and a half of locations to go still open that you're committed to with franchise owners that are growing.
+
+0 (1h 5m 11s):
+But I'm not, I I'm just, I'm confused if, I mean, 2008 you're growing, their franchise is growing. Yes. When people said, Hey Travis, I wanna open a location. You said, no, we're, we're freezing it right now. And they said, well, why, why are you freezing? You're doing so great. What was your answer?
+
+3 (1h 5m 29s):
+I think when, when we got to 2008 and we were struggling in these new markets with Boise, with Fresno, with Tempe, Arizona, they, there was, the stores were not performing to the level where they were profitable. Hmm. When you buy a franchise, I think there's an expectation that you're gonna get a brand name with a system to execute by and it's gonna profit.
+
+0 (1h 5m 55s):
+Yeah. Yeah.
+
+3 (1h 5m 56s):
+Right? And so when you don't profit, people start to come up with creative ideas that they think are gonna help them to get the result. Right. And so our team was trying to teach culture to people at business acumen. And we knew that we really didn't wanna sell franchises anymore to people who just had business acumen. We had people that wanted to open 30 locations in a state and give us millions of dollars. And we're like, nah, that's really not what we want to do.
+
+0 (1h 6m 29s):
+So what did you guys do? Like, how, how did you start to change things?
+
+3 (1h 6m 33s):
+So I remember going in and talking to Dane and I was like, man, I don't know. And, and at this stage, Dane couldn't ride anymore. He, he had lost his mobility. He was bedridden and our communication was him smiling. Yeah. Or his eyes. Wow. And I said to him, I said, Hey man, I, I'm burning the candle at both ends here. I don't know if I should sell the company or if I need to like go work on me or you know, what I should do and maybe I should go to one of those Tony Robbins seminars. And he smiled and his smile in his eyes said a thousand words to me.
+
+3 (1h 7m 19s):
+And I went to Tony's Life Mastery, his Wealth Mastery, the Date with Destiny, the U p w, all of it. And the thing that happened that was really unbelievable is he had developed this thing and it was, it was a test and it was called Business Mastery. And we went to the first one and it was like 75 people. And I brought our team and I think I was only supposed to bring two of us. And, and it was ideas around like where you at in the lifecycle that you're in of, of the company and where is the industry and its life cycle and what business are you really in? And I'm thinking to myself, we're in the coffee business, it's pretty self-explanatory. I mean, we're we're selling beverages.
+
+3 (1h 8m 1s):
+Yeah. And one of my team members that, those like a brother to me, Dave looked at me, he goes, you know what, man, maybe, maybe we're in the relationship business, we see customers that come in day in, day out. We have franchise owners who are running these businesses. We're trying to make sure everybody's beaten to the drum the same way we're kind of ruling with an iron fist right now. But he goes, and maybe the product is love. And, and I was kinda like, maybe but what the hell are you saying? And the five of us sat down and reflected heavily and kind of got to this place of like, you know what, that's exactly what it is and who we are and we gotta grow from within and from within only with the people who understand the culture that have the fire in their belly.
+
+3 (1h 8m 57s):
+And it was game changer.
+
+0 (1h 8m 59s):
+So you made a decision that year that you would only sell franchises to people from the system. So people who essentially the prerequisite to, to start franchise was you had to have worked as a barista Yep. Or a manager at a Dutch brothers location.
+
+3 (1h 9m 15s):
+Yeah. And, and then they didn't have the money.
+
+0 (1h 9m 18s):
+Yeah. So you had to finance that.
+
+3 (1h 9m 20s):
+Well, no, we didn't have to finance 'em and we didn't. They, you know, a lot of people would magically, I mean when you, when you have that burning desire, you find a way to get the money. Yeah. And a lot of them had a mom or a dad or a, an uncle or an aunt or a, a customer for that matter that were willing to take the risk and put the money up. And then we kind of got to the place later where we looked at it differently. We said, you know what? We gotta bring the barrier to entry down and we've gotta really, I mean, we'd never closed a store because it didn't perform. Yeah. But I'll tell you, it was a whole new approach. And all of a sudden we started building momentum and those markets started flourishing.
+
+3 (1h 9m 60s):
+And, and, and it wasn't shortly thereafter in 2009, I lost Dane
+
+0 (1h 10m 7s):
+2009, your brother passes away from als. He was 55 years old and you now, I mean, you'd already pretty much been running the business by yourself, but you didn't have him as your guide and mentor anymore. It was like, it was all you now. Yeah.
+
+3 (1h 10m 30s):
+But Dane's wisdom and Dane's guidance and the values and the principles and the culture, those were things that were established throughout our partnership and the time that we had together. And man, had I not had him There, you know, he was, he was the catalyst as a leader and he, he led by example. He was the most selfless, tolerant man that I've ever known.
+
+0 (1h 10m 56s):
+Hmm. Alright. So now at, at this point you're trying to, to go forward, you know, running this company without, without Dane and you have this new approach on franchising. So what did you do in terms of like, growth? Did you also have a, a different view of what that was gonna be? I mean, that, that year, I think that the year he passed away, you had something like 135 stores in seven states. Did you still feel like, you know, let's slow this down, let's not go so fast.
+
+3 (1h 11m 28s):
+I, no, I think when we stopped the train, if you will, it didn't take effect until 2010. We only opened two locations in 2010 as a result of hitting the brakes in 2008, in 2009, we star we turned growth back on. But it was with our own people only. And so we opened, I wanna say 20 locations in 2011.
+
+0 (1h 11m 57s):
+Tell me about the people who are coming into the stores. I mean, did you notice, like, because it's not a bar, there's no alcohol, it's a safer place to hang out, especially for younger people. Did you just notice certain groups of people hanging out at the stores?
+
+3 (1h 12m 15s):
+Yeah, I think that high school and college students predominantly part of that was the service and part of that was the music. And part of that was Rebel
+
+0 (1h 12m 27s):
+Rebel, which is this energy drink that you basically, you guys just created. Because, you know what started out as a coffee, hot coffee beverage place really morphed into a cold beverage place. And, and one of those things was, was the Rebel Energy drink. Which let's talk about that for a moment. Cause that really began earlier, right? You guys were serving Red Bull over ice. Yeah. And that was a popular option for some people.
+
+3 (1h 12m 55s):
+Yeah. It's, it's hard to believe how the market in the industry has changed over the course of time. But we ended up doing a, a product that was a frozen beverage, like a granita, but better, we called it Brain Freeze in the early days. And this was kind of the segue to colder beverages, blended beverages, and really something that played a critical role in our growth. And as we grew into Northern California, our franchisee down there, Chris Rener, he, we were offering Red Bull and he started taking Red Bull and putting different flavors from Torani syrups in the Red Bull and pouring 'em over ice.
+
+3 (1h 13m 42s):
+And that was absolutely a game changer for our organization. And, and back in the time that, that we were serving Red Bull, they were adamant about their can, they wanted their product in their can to be served. and you know, at bars, if you were to go get a vodka, red Bull Bars would make you the drink and then they'd hand you the can with it to chase it
+
+0 (1h 14m 6s):
+Of Red Bull. Yeah. And and that was like a requirement from Red Bull.
+
+3 (1h 14m 10s):
+Yeah. I mean they were so, I mean they were like, we don't like the idea that you're just serving it in a cup. Yeah. and you know, we're almost hesitant to continue to go forward with you guys, but you're doing so much volume and, and we're really interested in the volume that you're doing. So we went round and round and we were like, well, if we can't come to a better agreement to where you guys give us a better price point, we do promos together, we figure out ways to work together here, then we're gonna probably need to do our own. And so we did and we were nervous about it and we didn't want it to be the same as as Red Bull.
+
+3 (1h 14m 49s):
+We wanted to to to have its own identity. And, and then when we, we implemented it, it was Dutch Pro's, blue Rebel, and I mean, we just started to explode.
+
+0 (1h 14m 60s):
+Did that become your biggest seller or one of your biggest sellers?
+
+3 (1h 15m 2s):
+It's one of our biggest sellers. Yes.
+
+0 (1h 15m 5s):
+Yeah. If you go to the, to the menu today, right. It's definitely different from where it began as on that card. I mean, it's like the drinks are very colorful. There's some coffee drinks, but there's mainly non-coffee drinks, sodas, lemonades smoothies, energy drinks, mango na really your, your business is like sweet cold drinks.
+
+3 (1h 15m 28s):
+Well, we have a nice blend and so, you know, coffee is still the backbone of our business. I think our number one drink as far as hot beverages goes like a golden eagle.
+
+0 (1h 15m 40s):
+Is that the, is that the a latte like a
+
+3 (1h 15m 42s):
+It's a like a vanilla caramel mocha.
+
+0 (1h 15m 46s):
+Oh, okay. I got you. Right.
+
+3 (1h 15m 47s):
+And I mean we serve a lot of iced blended frozen concoctions with coffee.
+
+0 (1h 15m 55s):
+Yeah. What, what you made a second sort of transition or pivot around franchising I think around 2015 or 2016. By that time you had about 265 locations. You were in seven states still mainly on the West coast. I mean, you, I think your, your revenue was about 280 million and by 2015. But, but you decided to stop franchising actually at that point. That the existing franchisees would be grandfathered in, they would still run their businesses, but that from that point forward, all new locations would be corporate owned. Right.
+
+3 (1h 16m 31s):
+Well Dan and I, from the early stages always wrestled with is it better to franchise? Is it better be company owned? Yeah. But eventually it just made better sense to morph into company owned stores and provide these regional operator opportunities to the farm league or the bench that we have that's developed, we've got 320 qualified operators that aren't in those capacities yet, that have more than four and a half years of experience today.
+
+0 (1h 17m 3s):
+Yeah. I mean it's amazing cuz you started the, the business in, you know what, 19 90, 92?
+
+3 (1h 17m 10s):
+Yeah.
+
+0 (1h 17m 11s):
+92. And it was only in 2018 when you brought in an outside investor, T S G, which is a, a huge, they, they've got steaks and big food brands and they bought a minority steak in Dutch Bros in 2018. Correct. So they, you know, once you bring out an outside investor, obviously there, there's an endgame, right? And it's either you sell it or you go public. And in your case, I mean, you, you eventually stepped down as a C E O in, in 2021 and the company went public later that year and you know, you raised $500 million in that IPO. I mean, it was, it was a hugely successful IPO that also turned you into a very, very rich person.
+
+0 (1h 18m 1s):
+I mean, probably far beyond what you wrote down in the Tony Robbins, you know, imagining your on a little limitless future when you were, when you were 25 or whatever with your brother. I mean, it, it is kind of crazy. Right? I mean that that, that you, what started out as a coffee cart turned into a billion dollar business
+
+3 (1h 18m 26s):
+And I still feel like we're small.
+
+0 (1h 18m 29s):
+Yeah.
+
+3 (1h 18m 30s):
+And for me, well yes, there's this wealth and there's all this money and all that stuff, you know, I'm just a regular dude man. And I believe that you never arrive until you depart.
+
+0 (1h 18m 44s):
+Yeah. But the ambition from what I understand, is to grow to more than 4,000 stores. That's like Starbucks level.
+
+3 (1h 18m 53s):
+Yeah. And it comes back to providing opportunities for the people. I mean, you can earn six digits on just one store when you get to a given community, drive your stake in the ground. and, you know, so I love that we can have those opportunities for people to climb into those seats and we have an infrastructure to support 'em with. It's really us doing the best we can with what we have, where we are with everybody.
+
+0 (1h 19m 19s):
+Travis, when you think about this journey and, and where do you, you got to, I mean, this is the biggest IPO in the history of any Oregon company, which includes Nike, which is the biggest apparel brand in the world. Like you guys, you know, did pretty well. How much of, of where you are now do you attribute to, to the grind, to the work, to your skill? And how much do you think has to do with, with getting lucky?
+
+3 (1h 19m 43s):
+Let's put it this way. The struggle is real for all of us, no matter where you are and what you do. And so the grind is part of it, but when opportunity and being prepared and meet, that's where luck lives. and you know, this life isn't fair. and you know, the loss of my brother, I, I probably learned the greatest lesson out of and realizing that, you know, I don't get to control everything. You know, I use this idea of like, life has a destination. The river has a destination, it's the ocean. And if you look at it, you know, you can get a kayak and a helmet and an oar and, and navigate your way. Or you can be a log and let it take you wear a may or you can fight it and swim upstream and exhaust yourself.
+
+3 (1h 20m 30s):
+And if you're able to use the resources that you've been given and you can step outside, walk downstream, see what lies ahead and try to plan for it the best of your ability, that's How I like to look at this life that we get to live and hmm. Hell, I'm the luckiest guy to ever live. I feel like
+
+0 (1h 20m 47s):
+That's Travis Boersma co-founder along with his late brother Dane of Dutch Bros. This is like a thought experiment. And I know they're gonna be people who might hunt me down for this, but co could you make the argument that America's now a better espresso country, like better at espresso drinks than Italy?
+
+3 (1h 21m 10s):
+Ooh.
+
+0 (1h 21m 10s):
+So I know, I know. I'm gonna get, I know.
+
+3 (1h 21m 14s):
+I'm just gonna say no to that. And, and you know what, I'm gonna go ahead and sit on the Italy side of it.
+
+0 (1h 21m 23s):
+Yeah, fair enough. Very safe. Very safe and diplomatic answer. Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast apps. You never miss a new episode of the show and it's totally free. This episode was produced by Alex Chung, with music composed by Rum Arab Bluey. It was edited by Neeva Grant with research help from Katherine, Sypher and technical assistance from Gilli Moon. Our production staff also includes JC Howard, Casey Herman, Sam Paulson, Liz Metzger, Carrie Thompson, Elaine Coates, John Isabella, Chris Masini, and Carla Estevez. I'm Guy Raz and you've been listening to How I Built This Hey Prime members.
+
+0 (1h 22m 13s):
+You can listen to how I built this early and ad free on Amazon. Music Download the Amazon music app today. Or you can listen early and ad free with Wondery Plus and Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built This merch and gear at Wondery shop.com.
+
+3 (1h 22m 33s):
+Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.
+
+Capital One (1h 22m 40s):
+With the Capital One Spark Cash Plus card, you earn Unlimited 2% cash back on every purchase and it has no preset spending limit so your purchasing power can adapt to meet your business needs. The Antonelli's Who own Antonelli's Cheese Shop in Austin, Texas use their 2% cash back from their Spark Cash Plus card to help cover their employees healthcare costs. Imagine what the Spark Cash plus card from Capital One could do for your business. Capital One, what's in your wallet. Find out more@capitalone.com slash spark Cash plus terms and conditions apply.

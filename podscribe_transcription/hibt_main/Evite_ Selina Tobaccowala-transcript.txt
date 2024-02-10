@@ -1,0 +1,680 @@
+1 (0s):
+This message comes from NPR sponsor Comcast business gig fueled Network Solutions that help businesses. Go beyond the expected to do the extraordinary Comcast business Beyond fast. Learn more at Comcast
+
+3 (14s):
+business.com. The way that the doc home was at the time was you know, eyeballs. It was like everything was about like growth in the traffic and there was no discussion. Ian or talk about revenue and then the bubble burst and all of a sudden it went from spend spend spend to oh my gosh, we need to fire the team. So
+
+1 (41s):
+you guys had to lay off more than half of the people who worked at the company.
+
+3 (45s):
+Hmm. We went down from 73 to 28. That was one of the toughest days of my career even to this point.
+
+1 (1m 0s):
+From NPR it's how I built this a show of that innovators entrepreneurs idealists and the stories behind the movements they built. I'm guy rosin on the show today how to friends from college pioneered the idea for online invitations and then rode the ups and downs of the.com bubble with their company Evite. If you were to write a business idea in Haiku form, it would go something like this. It solves a problem super easy to explain people will use it and back in the early days of the World Wide Web.
+
+1 (1m 44s):
+There were a lot of problems that were ripe for solving including paper or rather how to use less of it. Think about the last time you wrote a letter on paper or filled out a registration form with a
+
+3 (1m 56s):
+pen or filed a physical
+
+1 (1m 58s):
+document into a All filing cabinet right for the most part email and electronic documents have replaced paper same with invitations most of the invites I get and I'm pretty sure you get come in an email and for that simple
+
+3 (2m 13s):
+convenience you can thank
+
+1 (2m 15s):
+Selena. Tobacco Allah because back in the late 1990s Selena and her friend Ali wrote the code that would power the first online invitation business Evite.
+
+3 (2m 26s):
+And for a Time Evite was a darling
+
+1 (2m 29s):
+of the The.com bubble within two years of its founding it was valued at around a hundred and fifty million dollars, of course when the bubble burst in 2000 so did evite's value but unlike other.com era companies such as Cosmo or pets.com or lycos or geocities Evite hung in there and it's still
+
+3 (2m 51s):
+around today. In
+
+1 (2m 53s):
+fact invitations from Evite reach more than a hundred million people a year. The company is now owned by Liberty Media and while it has tons of competitors Evite is still one of the biggest players in online invitations as for Selena. Tobacco Walla. She's still an important name in Silicon Valley. She's become a kind of role model for women and girls who want to get into Tech. In fact back when she was a kid. She loved computer. She was obsessed with them. She grew up in Ramsey New Jersey the daughter of two immigrants from India
+
+3 (3m 26s):
+from my parent's perspective. If you ask who I was I I mean, I was always that person like waving my hand in the air with the answer in class and which I think annoyed a lot of my teachers most of the time. I love to read I am a terrible athlete but I always loved team sports and it was something that was important to me. I actually was voted basketball captain of my Ramsey High School basketball team, but not because of my athletic ability but only because I built a stats program in high school to help the other players shoot better.
+
+1 (3m 58s):
+Wow Beauty. Like built a stage program on your home computer.
+
+3 (4m 3s):
+I did it was on the army pro database and I used to come home after every game and like database who shot from where and then print out a sheet the next day and give it to the good players and they eventually decided that they wanted me to be their Captain which was very funny because I'd only play the last two minutes of the game either if we were really up or really behind how did you get into computers as a kid? So it's really from the influence of my dad. He started off as a each card programmer for a company called EDS and he was therefore I think about 25 years and he rose from being this punch card programmer to multimedia president a couple levels away from the CEO of this huge organization and you always exposed us to technology when he would take us to work every so often we would see that entire, you know, it's a huge mainframes and servers and you'd walk in and you'd see all the computers and the technology and it was just always exciting to me and so he brought a Get her home probably when I was you know, eight nine ten years old and I got excited about coding and starting to build things and then my mom slept me to Summer coding camps and all different places across New Jersey to expose me to it more.
+
+3 (5m 14s):
+I
+
+1 (5m 14s):
+mean, it's just before like now, of course every parent's like I want my kid to learn how to code but like in the sort of early mid 80s this that was not the thing. What were you learning? What was the code?
+
+3 (5m 25s):
+I'm so I pretty sure it was logo and basic at the time and Then I do remember learning Pascal when I was in Middle School. Were
+
+1 (5m 33s):
+you often one of the only girls in those
+
+3 (5m 36s):
+classes? Definitely and if I look back now, I think about that, you know, I remember I took the AP Computer Science class on my high school and I'm pretty sure I was the only girl in class but it never occurred to me at the
+
+1 (5m 47s):
+time. Do you remember like even as a teenager thinking like when you ask a teenager, would you want to be when you grew up and you know, some of them have an answer and some of them I'd say the president and some might you know say businessman or a Lee and I are like would you say I want to do something in
+
+3 (6m 2s):
+computers right from high school I wanted to do something and computers like that was what I got excited about. That's what I wanted to study and when I was looking at colleges, you know, I was only focused on okay, what are the best colleges for computer science? And that was my criteria. And so you
+
+1 (6m 17s):
+decide to go to to the West Coast to Stanford? Yeah. This is like the beginning of the.com. Boom 11.0. Did you get that feeling that? That was that I don't know was that energy present on campus in 1994
+
+3 (6m 34s):
+so that energy of starting a company and this company starting around you and that.com boom. I mean that was all around you especially by in 1996-1997. I mean there was excite there was Yahoo! There was so many different companies and that idea that you were a computer scientist and you could go start a company was absolutely in the
+
+1 (6m 54s):
+air because 1994 important year, right the year Netscape the Netscape browser come. Out for Matthews. Do you remember using the web for the first time
+
+3 (7m 5s):
+and I don't remember the exact moment. I use the web for the first time but I remember that my year 1994 freshman year was the first year everybody had email on my high school friends at email and it just changed everything like that time ended in computer technology was just this mass shift to introducing that consumer to all of this content and Communications that nobody had access to pry. Fire, I guess like in your
+
+1 (7m 30s):
+first year you met somebody who was who would go on to be an important business co-founder and partner later on again and I'll leave how did you as you meet him?
+
+3 (7m 42s):
+So I lived in all freshman dorm count branner and two doors down for me was this guy I'll and he was from Wisconsin. He was a swimmer but he loved computers and he was always building stuff in this will this will age us what we worked on. First year book that was going to be digital instead of physical for you. Put it on a multimedia CD and distributed it to all the printer freshman
+
+1 (8m 9s):
+and it was just the photos and you would put the CD in and there's your
+
+3 (8m 13s):
+yearbook. Yeah, exactly. So
+
+1 (8m 15s):
+you and I'll like you work on this your book and then did you just continue to kind of talk about ideas
+
+3 (8m 22s):
+or so I had a little blip which was I took a computer science class in my freshman year. And I didn't do that. Well, and I got a little nervous which is this the right field for me and that summer I got a job, which was what I thought was going to be data basing activity in the mall and it turned out I was the mall greeter where I would literally stand there and say welcome to promise Park and I was complaining about it to my friend's dad. He ran the IT department for an investment bank called Warburg Pincus and he said quit your Mall job come in turn for me. And I had the most amazing summer experience. I helped build one of the first websites for this Investment Bank, we built this application called morning meeting notes to help them, you know record all their Monday meetings and I fell back in love with computer science and it was really then my sophomore year that I went full steam ahead on CBS.
+
+3 (9m 20s):
+It was once I saw using computer science in the real world and I saw it was I reaffirmed that I was good at it, you know when you walk into Stanford and also, All of a sudden, you know, you have been the valedictorian and you've been the best student in your class and then you walk in and all of a sudden your average and it makes you question in the sense of like, oh am I going to be good at this when I get out into the real world and having that summer experience. I saw I can do this I can make this work and I love
+
+1 (9m 46s):
+it. So you go back to Stanford. Yeah and what
+
+3 (9m 49s):
+happens, you know, I kept in touch with Al we were actually computer partners. He like to work alone. Most of our projects you did with three people and I would definitely was somebody who said I'm fat. We're doing it by myself. And so we didn't necessarily work together on projects in our sophomore year and then in my junior year, I went and studied abroad in Berlin and I was supposed to be there for two quarters my fall quarter and my winter quarter and my winter winter quarter supposed to be an internship. And so I was talking to all these German companies and I get this email from Al and says, hey, I'm thinking about starting a company. You're the first person I thought of do you want to do it together? And I thought and I looked I was at there's so much going on inside. Lacan Valley.
+
+3 (10m 30s):
+There's no technology going on in Berlin. There was no internship. I was excited about and I said, yes and I came back to Stanford for the winter and we started planning. What was his idea? So we had at the time a pretty terrible idea. Our company was actually called noodle Works, which stood for object-oriented template language and we had this idea that we were going to help other people code using Graphics. We were going to democratize coding to Buddy, and we tested it with a bunch of our other friends and just said, okay, you're not a computer scientist. Like can you use this? Can you try it out and it was kind of that early form of user testing and it was very clearly and quickly that it wasn't that useful and people who weren't computer scientists weren't actually that interested in coding, but we weren't ready to just give up on starting a company because there was so much excitement about starting the company and that we had really little to lose at that time.
+
+3 (11m 27s):
+I mean, I was still in college He had just graduated, you know, our expenses were in high. And so this idea of we're just going to keep working until we find an idea that works. And that was the mode we were in and what were you
+
+1 (11m 39s):
+guys actually doing like taking me into the brain Center of that company where you just sitting at your computers and tapping away at keys.
+
+3 (11m 49s):
+We would brainstorm and we would go back and forth and talk about different ideas. And then yeah, then we'd like sit down and we just code and we code all day and then I go to class and then I'd come back and code and but we had just a few different ideas and we landed then sometime in kind of late 97 early 98 on this idea called collage. What was that? So the idea behind collage was that you had now all this information on the web, you know. You would go on Netscape and you had your hometown newspaper or you had ESPN sports, which you might love you might have the latest recipe of the day on the Food Network. And the idea was is that you could clip together stuff from all over the rebbe create your own home page.
+
+3 (12m 34s):
+And then algorithmically we would update it for you as things updated. And this was before my who before that concept of creating a home page and that was our vision and our idea and the concept was is you'd wake up every morning and you Come see the information that was relevant and important to you. Yeah, and so like to build
+
+1 (12m 55s):
+collage. I'm assuming it probably didn't cost you that much because it was just their time
+
+3 (12m 59s):
+right? Yeah, so we had and had spent two hundred ninety nine dollars on a fries server and that was our only cost and then our little tiny office space and the rest of it was just time and we were you know living with AB I was living with a bunch of roommates and we used to actually have like a five dollar a day. Add a budget we set for ourselves for lunch for both of us and we would try to game it till I get enough food. So I mean did you guys
+
+1 (13m 28s):
+manage to like create a really working product like a web app or wax would more calling web apps but a
+
+3 (13m 35s):
+site. Yeah, so we created this site that you would go to you'd create your collage page and then you could bookmark it and you could every day you could come back or few times a day and you'll get updates on it whether it was your stocks whether it was your weather. It was your local news the national news and we started to get some consumers on it. But we also started to see the portals. We started to see Yahoo excite really those were the two big ones really starting to take off and we thought okay. This is really interesting because these were becoming people's home pages, but they're not personalize their generic. So no matter who you were you would get the same article on the front page so that we thought oh, our home page is way better, right?
+
+3 (14m 17s):
+We're letting you Is it for you and so let's go talk to them and see if they'd be interested in buying our product.
+
+1 (14m 23s):
+All right, but how does a senior in college and a recent graduate like get that meeting or maybe it was easier than
+
+3 (14m 30s):
+yeah. That is the beauty of the Stanford Network. You know, these are the things that that you can't discount when you think about privilege that people have is like you reach out to, you know, an executive at excite and our executive at Yahoo. And you say I'm the senior from Stanford, you know, we'd love to talk to you about. Products we build and they take the meeting
+
+1 (14m 51s):
+huh. So that's what happened like you or Al or both of you like approached. Whoever was running excite and said, hey, can we
+
+3 (14m 58s):
+talk it was yeah. We approached Joe Kraus Craig Donato, like all these guys and we said hey like we want to talk to you about this product. We've built and we want to come demo it for you and they're like sure come show it to us.
+
+1 (15m 12s):
+So when you went to excite, what did you do? You should kind of walk them through what you created and what was their
+
+3 (15m 18s):
+reaction. So we walk them through what we created and their reaction was like wow. This is really cool. We can see our users would love this concept of personalization and that wasn't there yet on the internet. Yeah, and it's just obviously so foreign to what's there today, but if you think about the internet and 1897 1998, it was mainly content sites
+
+1 (15m 40s):
+so are just just to pause your first like you were a senior in college and you're like in the boardroom of excite with Al That graduated like a semester before you and you've got you've got this like business thing going. Did you at any moment think when I graduate I have to get like a stable real job or did you think I'm gonna I'm gonna jump in and do this because this is like at a time, but now everybody wants to be an entrepreneur but like in 1998, it wasn't so clear cut like there wasn't much of a template right?
+
+3 (16m 15s):
+So I will always remember this day. There was the Stanford job. Bear and I was at work and we were renting this, you know, tiny office space and I called my dad and whenever I have issues or questions even to this day, I called my dad and I said hey Dad, you know, I don't know whether to go to Stanford job fair. And he said three things to me. He asked me three questions. He said do you like working with Al and I was like, yeah, it's great. I'm you know, I learned a ton from him. We challenge each other. It's fun and he said you enjoy what you're working on. I was like, yeah, I really think we're going to like help people use the web better. I love the product. I love the mission. And he said are you learning and I was like absolutely like I'm learning faster than I think I would in any other situation and he said what's the harm in taking the risk?
+
+3 (16m 57s):
+Like Don't Look Back go put your whole heart into it and go after it and I have used those same three criteria, which is people first, you know product / Mission and what am I going to learn in every business and career decision I've made since
+
+1 (17m 12s):
+then so you decide. All right. We're going to make a go of this your attic site and they are sorry. About this thing that you guys built collage and what do they say that do they say Hey, you know, we want to buy you we want to wound you work with us. What was their
+
+3 (17m 29s):
+response? So we go ahead and sign this business deal with them which in retrospect was horrible, but we licensed our technology and product to them exclusively. So we gave them a huge window of time that they had exclusivity and that meant we couldn't actually go Go work with / sell it to anybody else in that time
+
+1 (17m 51s):
+frame. So just let me let me try to understand this you guys go in there with no one to kind of guide you through the process and they say hey, we want to license this and here's some money and you guys are like great. Let's do it.
+
+3 (18m 6s):
+Yeah, I think the check was like 50 or 55,000 dollars that we were going to get for the licensing when it sounds like
+
+1 (18m 12s):
+insane money's right?
+
+3 (18m 13s):
+Yeah. It was like, oh my God, that's like an amazing model. And um, and so Like side and of course later, you know when I talk to my dad about it, he's like you signed what what were the terms and but we had no idea like we were just so excited about it.
+
+1 (18m 30s):
+So so you guys sign this licensing deal with excited to give you a $50,000 check which is more money than you ever seen in
+
+3 (18m 37s):
+life. They don't give it to us. They weren't going to give it to us until we launched and that's another story we oh
+
+1 (18m 42s):
+so you got you okay, so they didn't give you the check. They give you the promise of a check once they
+
+3 (18m 48s):
+launch Yeah until they launched our until I think it was like in November of
+
+1 (18m 53s):
+1998. So your job is to help them launch this thing out into the world. So what were you guys doing in 1998 where you going into the excite offices and trying to make that happen?
+
+3 (19m 4s):
+I was literally going there every day and I would talk to the different product managers who are in charge of the home page and I would show it to them and I like got to know people there and we kept making moving it forward to try to get it out the door. We were very close. But what happened we're doing this final review with the executive team. And at this point now they have a lawyer and the lawyer comes in the room and says, you can't just steal this content from all these different websites. Like you have to we have to go licenses kind of people we have to go have these business conversations and then all of a sudden it was just dead in the water. Wow,
+
+1 (19m 43s):
+wait, so it's dead in the water, but does does that mean you guys can take collage back and try and And retool it and sell it somewhere
+
+3 (19m 51s):
+else. No because we had signed this agreement that it was exclusive until November of 1998. So we said okay, we need to like let that go until then and we need to work on other things. And so this was in like the early summer and we started building other
+
+1 (20m 6s):
+products. So you ended up getting nothing from excite
+
+3 (20m 10s):
+Oh So eventually when the expiration date came around I you know called and I said, hey you guys always this money. And um and we had no money and so it meant a lot to us. Yeah. So every day I'd call and I'd call and this poor admin started to feel bad for me. And she said okay, I see your agreement. I'm gonna go into my boss and I'm going to try to get your check and eventually she got the check for us and I think I sent her flowers because she was so excited that she got this check for us.
+
+1 (20m 40s):
+She walk away from excite with 50,000 bucks, but no product and excite for the record does not exist anymore right? I
+
+3 (20m 48s):
+know. No, they got bought by at home eventually. Is that still around? I don't think so either
+
+1 (20m 55s):
+I love this period I love this like period and internet history because like some of these companies were massive and then we don't even remember them. All right, so you and I'll go back to the drawing board. By the way. Were you were you guys like crushed when it was clear that they were not going to put, you know, bring collage out into the
+
+3 (21m 13s):
+world. So we had gone back to the drawing board much earlier because we saw At okay, we sign this dip business deal. We can keep trying to get them to do it. But in between we need more ideas, we need more products. And so that summer before even the November we started building more products. This is Summer of 98 summer of 98. We were in this like small office space on California Avenue and a lot of the people in our building where these like small Consulting
+
+1 (21m 40s):
+shops. This is in Palo Alto this in
+
+3 (21m 42s):
+Palo Alto and we started to think we said, okay, how are all these Consultants scheduling their me? Eating's and scheduling their tasks with all of their clients because this time there wasn't this like web-based mail web-based calendaring everything was just internal to your company. So we built this product web to do and web Cal and we were going to we were going to go sell this product in the company.
+
+1 (22m 8s):
+This is going to be like what Google Calendar is today.
+
+3 (22m 12s):
+Yes. It was almost like the calendar Lee and Google Calendar and so we built out these apps. We put on dress clothes. I still remember like we got both of us got soup. Okay, we're gonna go sell this to people and we went to this big Consulting shop and we did the whole pitch and this guy says to us he says so you're telling me if I want to schedule a meeting. I have to send it to Boston like send it to Boston. He's like, well, that's where my computer's are that run the runner servers like no it goes over the Internet. He's like no no, Was over the Internet that what does that mean? That's not gonna work servers are in Boston.
+
+3 (22m 53s):
+And so we go back and forth on this discussion and we leave there and as we're leaving out takes off his tie and he throws it and he says that's it and I was the calmest person you'll ever meet in the world. And so this was like I said, that's it. We're going to figure out and do something for the consumers and so we go to the grocery store which is where we had lunch was days because I was the easiest place to find cheap food or sitting outside and we said, oh, well, what if we take this web calendar thing and we let consumers Is do it let them organize stuff with their friends and that was the birth of Evite. And this was July August 1998. So you had gone
+
+1 (23m 27s):
+to like businesses. You're thinking that's going to be a B2B product and when you get that push back you both sort of decide to how these businesses let's just put out into the world and see if just ordinary people want to use
+
+3 (23m 41s):
+it. That's exactly right. We started selling their businesses and we just knew we said this is not the people we want to work with we want to be We want to scale and you know, the part of what I've always loved about technology is this idea that you can use technology and reach millions and millions of people and just that's why I've always been focused on consumers
+
+1 (24m 2s):
+and just to kind of be clear like Eva it was and it is but but then I'm assuming it's similar to what it is now, which is you could get a template and design a cool digital invitation that would kind of be emailed to somebody and then they would open it up as an
+
+3 (24m 16s):
+attachment. So you would receive an email and one of the learnings we had was you couldn't put the information in the email because the nobody would click through so we put enough information in the email to entice you and then you would click through and you would come to this page to RSVP and it was that was the main function was finding out who is coming and we both other features on the ability to do potlucks the ability to take different payment from pit from people to give a gift. I mean there was a lot of it but at the core base Eva it was always a place to find out who Coming so you'd go
+
+1 (24m 50s):
+to the site and there'd be these different channels like baby shower happy hour or sporting event fundraiser for schools. And that that made it easy to kind of it was a template. They made it easy for you to just like pick some graphics and then send it
+
+3 (25m 3s):
+out. Exactly. So you as the Creator would pick, you know your category and then that would trigger a whole bunch of other stuff.
+
+1 (25m 11s):
+Was there anything out there like it at the
+
+3 (25m 13s):
+time now when we first launched there was nothing that we knew of at like it and then then after we launched there was service after service after service. So you their time dance when.com. There was so many competitors that came what we believe was
+
+1 (25m 29s):
+after us. All right. So in July, I guess of 98 you guys launch Evite you launch this new product. How did you launch it? Did you just was it just a web page that you just put out into the world?
+
+3 (25m 40s):
+It was a web app. We just put it out and it was called Evite right from the beginning and the first Evite was my indoor soccer team which goes back to the fact that I'm But I always loved team sports and I invited my team and then we actually had to go back to our consultant because we had to make money. Yeah, and just to be clear you guys were Consulting on the
+
+1 (25m 60s):
+side right like like coding projects for other companies.
+
+3 (26m 3s):
+Yeah. So we were Contracting on the side to try to make our ends meet ya. Yeah, and they're working on this project and I'm very very clumsy. We have this fry server underneath our desk and I actually trip over the cable and the phone rings. Oh and somebody calls and says like hey what happened to Evite? So we plug it back in and we turn it on and we realize that this at this moment that Evite itself had been growing, you know, someone from the indoor soccer team used it invited somebody else and they invited somebody else and this was way before the concept of viral marketing was a word but it was built into the product. This product variety was there and I was built it naturally into the way Evite worked
+
+1 (26m 44s):
+and the only I guess presumably the only way to get it some attention is to start using it yourself to send it out. Your friends you send it out to your soccer crew, but then how did other people find out about
+
+3 (26m 53s):
+it with the way that Evite was designed by Nature as soon as you send one there was an average of 18 other people that found out about it. And then one of those people just had to say oh, this is interesting. I'm going to go ahead and create an Evite and then they kept spreading. So the idea was to get people
+
+1 (27m 10s):
+to use it instead of paper invitations or just an email because people still did paper invitations in
+
+3 (27m 17s):
+1998. Are we A tagline on one of our t-shirts and mm that said paper invitations are so 90s,
+
+1 (27m 24s):
+but the future was going to be electronic and no one was going to send out paper. And so this was a way to do it and it was going to be for free.
+
+3 (27m 31s):
+Yeah, when you look at that time in that.com. Boom, everything was for free you had email that had just come out which was like Yahoo mail excite male Hotmail which was the big one. Yeah, and then there was the beginning of the instant messenger platforms that were messaging back and forth. So if you think that When you look at what had happened to the internet, it had started out as this content. We're all people were doing was consuming information. And then as the pipe started to get bigger as people start to get more comfortable it started to more viewer towards communication and commerce and that was sort of the big lift in the.com. Boom where people started to buy thing you had pets.com you had stamps.com and then people started to communicate using email instant messenger products like Eva, and that was the really the influx of That.com boom
+
+1 (28m 20s):
+so you and L have this kind of what's a bad experience with excited right? Because you license this thing you built. It didn't work out you really kind of walked away from that with very little this time around. I'm assuming you wanted to be a little wiser and to do it on your terms.
+
+3 (28m 40s):
+Yeah. So this time around, you know, we had this product which was kind of growing on its own and we're getting excited about it. And I, you know, tell my parents and my mom Show uses it invite people to Thanksgiving. We always had this huge Thanksgiving because she invited all the Indian families all around who had nowhere to go and she used it. And she said wow, this thing is really cool. And my dad was out on the west coast on a business trip and he sits us down and he said hey, you know, you guys really need to hire someone who is a business person and a couple months later. We met a guy named Josh Silverman and he was Stanford Business School and he'd written a business plan for this company. I think it was called to gather which was basically Evite. And we met up and it was like he had the business skills in the business idea.
+
+3 (29m 23s):
+We had the product in Tech and it was just so such this match where you were complimenting each other skill sets and we knew we didn't have the skill set of how do we raise money? How do we actually build a team and we were for this was our first job out of college and Josh was coming, you know out of business school, but with business experience prior to that as well. And so he joined as our CEO.
+
+1 (29m 47s):
+So what was the The idea this point was the idea that we got to make this big if we were going to make this big we need money because we got to hire people and so how are you going to do
+
+3 (29m 58s):
+that? So Josh had the network of venture capitalists and the concept understood fundraising and that market and so, you know, when we saw I was like, okay, this is an idea that we can go raise capital on this is an idea that can become huge and so he helped us raise money and we raise our first financing round 5.7 million dollars. Hours from August Capital.
+
+1 (30m 21s):
+There's a story told about this era in Silicon Valley and I don't know whether it's entirely accurate or maybe it is that early Venture Capital firms or the existing ones. We're really ready to just throw money at whatever seemed attractive or interesting like it was kind of a free-for-all is it was that your impressions it pretty easy to convince, you know Venture firms to give you money
+
+3 (30m 45s):
+in that year and this is 99, right? Yeah. We raised 37 million dollars for online invitations like it's crazy. When you look back at it and all of the Venture capitalists at the time they were focused on this metric. Eyeballs. How many eyeballs do you have? How many and that meant? Like how many people are actually visiting your site? Yeah. What's your growth in terms of actual just unique visitors the conversation was never about revenue and never about how much sales do you have on the other side of it? It was just how big can you grow this free product?
+
+1 (31m 18s):
+So when the VC firms were asking you these questions no one ever or very few people asked you how you guys going to make money.
+
+3 (31m 26s):
+So for all these free sites at the time, I mean that advertising was the core business model and so the very much the understanding was is that you grow your traffic and you get to enough traffic and you can start to get advertisers and there was this still unproven of how much were Brands willing to pay for that digital advertising.
+
+1 (31m 45s):
+How big was it? How many eyeballs did you have when you Or when you were raising that kind of
+
+3 (31m 50s):
+money in the first year we had at least a million users using the
+
+1 (31m 54s):
+product cute. Do you remember what the company was valued at that point?
+
+3 (31m 58s):
+I would assume it was definitely over a hundred hundred fifty
+
+1 (32m 1s):
+million. Wow. It was that crazy. I mean you were like 22 23.
+
+3 (32m 6s):
+It was so crazy and also was so much on paper that never really hit you because you know, we were still living with I was living with a like four different roommate. Eights and we're working literally six seven days a week sleeping at the office a bunch. Like we're so focused on just building the product and building the company and building the team that the financial part of it never really struck you because you weren't it's not like you were out there like spending this money you didn't have or spending this money that was on paper.
+
+1 (32m 38s):
+So with that 37 million dollars in funding. What does that mean? I mean, did you guys get a big office and and start to higher up?
+
+3 (32m 47s):
+So yeah, so we had this Big office on 17th and Alabama and when you looked at that area in Potrero, there was spinner.com. There was like so many in San Francisco. This is on San Francisco and it was one of those warehouses that used to be a sewing Factory. And this was after we had had like a middle office in San Mateo with a bunch of inflatable Furniture as we were still on the path to raising money. But yeah, that's what you did and you built out your office and then you started hiring people and all these different departments and Earring and product and design and analytics marketing and really started building out a company. So
+
+1 (33m 25s):
+by closer of December 99 early 2000 when you're getting you know a million plus hits on the site. Did you start to attract advertisers?
+
+3 (33m 37s):
+So we did start to attract advertisers and one of the things we actually did right was we decided to go try and partner with Brands and this was really more Josh than a lanai. And this other guy Jim Benton and they went and they got a remember like Finlandia Vodka to go sponsor the happy our Channel and then Pampers to sponsor the baby shower Channel. And so we got real Brands and then built this like integrated experience with them including like you'd respond to your Eva and you get this full page ad that we could make interactive for them.
+
+1 (34m 13s):
+All right. So you guys have this thing going you've got advertisers interested you get some big Brands who are involved. L've does that mean that Evite by 2000 was starting to see significant Revenue? No.
+
+3 (34m 26s):
+So the thing is is that even though we had some of these big Brands we're starting to see some Revenue but no way where we close to profitability and you've suddenly have 70 75 people on your operating expense. And yes, you've started to sell some of these really big and important Brands, but they are all still trying to figure out how to price digital advertising. Right, right. Nobody really had this sort of like, oh the value of an impression on the web. How does that compare to TV? How does that compare to radio? And obviously that question still exist today to a certain degree, but there wasn't necessarily this whole like tracking infrastructure and all that was still very
+
+1 (35m 7s):
+nascent, but you had Venture Capital which gave you guys a really limited really long Runway. Yeah, but even so with 75 employees and you got rent to pay and server space and Other costs. I mean that money was only going to last a certain amount of time. Did you guys feel any pressure to kind of hit profitability or you not really worried about that just
+
+3 (35m 31s):
+yet. So the way that the.com was at the time which is it was you know, eyeballs. It was like, can you spend your money faster? I still remember one of the VC's in the boardrooms and we need a billboard on 101. And so I was like, okay like them we'll put a billboard on 101, you know. Everything was about like, you know the growth and the traffic and there was no discussion or talk about Revenue then the bubble burst and all of a sudden all anybody could talk about was oh my gosh, all these companies are bleeding money. How are we going to get them to profitability? How are we going to figure out whether these business models work and just there was this huge shift in the middle of two thousand
+
+1 (36m 13s):
+and that was the bubble that burst and like it literally felt like it was overnight like one day or one month it was Was spend more money in the next month. It was like, oh my God. What are we gonna
+
+3 (36m 21s):
+do? It was literally overnight like that. Like you had it didn't feel gradual. It went from spend spend spend to oh my gosh. We need to fire the team.
+
+1 (36m 35s):
+When we come back how Selena and I'll broke some very bad news to their colleagues and why they eventually decided to put Evite up for sale. Stay with us. I'm guy Roz and you're listening to how I built this from NPR. Hey everyone, just a quick thanks to two of our sponsors who helped make this podcast possible.
+
+1 (37m 16s):
+First two are how I built this 2019 lead sponsor hiscox hiscox, the business insurance experts who understand that each business is as unique as a fingerprint or a barcode and Taylor's intelligent Insurance Solutions to fit every business has very specific needs which may explain their 97% customer service rating get a quote or purchase a policy. It hiscox.com hiscox business insurance experts. Thanks. Also to Brave Brave is a free next Generation web browser that values your security and privacy. This means stopping trackers and creepy ads from following you as you browse while getting unmatched speed and Battery savings, you can even earn rewards for opting into their privacy respecting ads switching to Brave is easy.
+
+1 (38m 5s):
+You can import all your bookmarks with one click and your Chrome extensions work in Brave learn more about Brave at Brave.com built Brave yesterday was about big Tech today. It's about us. Greg yeah, what do you do around here again? I write a newsletter where can people get that sweet sweet content npr.org / Planet Money newsletter. That's where they can say. That's where they can sign up. Yeah do it. Hey, welcome back to how I built this I'm guy Roz.
+
+1 (38m 46s):
+So it's the year 2000 the.com bubble has burst and Selena and her partner Al they know they are going to have to make some very painful decisions because Silicon Valley at this point is basically in
+
+3 (39m 1s):
+turmoil, so it wasn't just us like it was the whole ecosystem and environment around us and we had all those friends that were entrepreneurs and like, you know, we had all had these dinners with like the portfolio's of all the venture Blessed moment they would invite all the founders and CEOs together and you would meet all these other people and everybody was suddenly like it was like this huge wave of oh my gosh. What are we going to all do and when the rubber meets the road venture capitalist only focus is on their return and there are multiple and that was a huge learning for me at the time because you know Alan I could see of like, hey we can strip the cost down. We can like get this business to profitability pretty quickly and then grow it over time.
+
+3 (39m 42s):
+I'm but as soon as they invest capital and they invested at a specific multiple unless they can see it getting to you 3 x 5 x 10 x that multiple. They don't care at that point the Venture capitalists become focused on how do I get as much return of capital? How do I get out of this as quickly as possible? Because they're valuing their time as well
+
+1 (40m 5s):
+was that I mean, it sounds like it was a revelation and of course, yes. We now know that that's what venture capitalist want they want. One return and many times. They'll say oh no, we're in it for the long haul but actually they really want to short term return or maybe a medium term literally right? Was that like a gut punch to realize that
+
+3 (40m 25s):
+definitely I mean, we were an experienced entrepreneurs and you know, you you're thinking about I've poured my heart and soul into this product. I poured my heart and soul into this company and this team and you know, the Venture capitalists are focused on what their return is and that is what they should be focused on because their responsibility ultimately is towards their LPS and their funds and that's what we want them focused on in order to make the whole economy work and so it wasn't just like us and it wasn't just our company but there is this definite, you know, is it felt like instantaneous shift to we need to figure out what's going to happen to the economy.
+
+3 (41m 6s):
+We need to figure out what's going to happen to all of our investments. So clearly
+
+1 (41m 10s):
+you knew once the writing was on the wall. It was clear that Evite was going to have to lay off people on it seemed good 70 75 people. I mean you knew that people were going to lose their jobs.
+
+3 (41m 21s):
+Yes, the the laying off people was one of the toughest days in my career even to this point and because the team had done nothing wrong, right like they had worked hard. They had put their energy into the product. They'd help they did what we asked them to do like we were actually executed. Cuting really well, like I said, there were tons of competitors around us that were doing almost the same thing. But yet we were growing the fastest. We were the best well known brand and so to feel like that we then had to go into these rooms and lay them off was a really really tough thing and trying to get the right severance package with them from the board and I still remember all of those arguments as well and eventually, you know, like getting to a place where you felt.
+
+3 (42m 10s):
+Okay, we're going to treat people as good as we can. But it was hard because people had put their faith in you to grow the business and they made the decision to come work at Evite versus other
+
+1 (42m 22s):
+jobs. So you guys I guess had to lay off more than half of the people who worked at the company.
+
+3 (42m 30s):
+Hmm. We went down from 73 to 28. Wow, and those numbers are like stuck in my head. And so there is actually this website at the time and it was called company and every day they would be publishing articles about which company was doing the layoffs that day and they somehow knew about it before any of the other employees had known. Out of person would think and where the firing party was going to be after the team was let
+
+1 (42m 60s):
+go and did they find out about you guys eventually?
+
+3 (43m 4s):
+Yeah, they and yeah, you know, we you try to keep this like tight lid on it, but of course like you had to schedule meetings for everybody and like put them in rooms. And as soon as those meeting invites went out like it would get published, uh company immediately,
+
+1 (43m 20s):
+I guess around that same time November of 2000 the Tour the team decided to put an ad in the Wall Street Journal that said we're up for sale. We're looking for a buyer.
+
+3 (43m 31s):
+Yeah, we knew people love the brand and people recognize the brand and so we said look like let's put it out there and let's do something bold and we did and that did bring multiple buyers to the
+
+1 (43m 43s):
+table. Why did you I mean even after the layoffs, why did the company think that it needed to sell? Couldn't it have continued with like a Her staff and just you know, sort of try to save money and keep it going.
+
+3 (43m 59s):
+We definitely could have continued with a thinner staff. But the main concern was from the Venture capitalists in the sense that they are looking at can this become a billion-dollar valued business and given that all of a sudden valuations had fallen through the floor from their perspective. They wanted to sell the business and Alan I didn't control the company at that point anymore.
+
+1 (44m 24s):
+So the company goes up for sale, you get lots of suitors, I guess or some suitors or some interest and not that long after March of 2001 Evite sold. It was sold to prove 2001. Yeah, I guess it was Ticketmaster at the time but which is now part of IAC.
+
+3 (44m 40s):
+Yeah, we sold the Ticket Master citysearch and it was just this very this concept that you know, Ticketmaster was going to be your big events. You know, the Michael Jackson City search was going to be your local events. And Evite was going to be your personal. Events, and it was this like brand portfolio that we joined and it was a really nice fit for what they were trying to do.
+
+1 (45m 3s):
+Were you happy with that
+
+3 (45m 4s):
+decision? You know for me, I had invested so much of myself and I think so much of my time into the product and as it became clear that it made no Financial sense to continue with this as a business. I was very focused on how do we find a good home? How do we make sure that the product lives on because that was part of what you felt for these 73 people who had worked there, you know people had put their time into designing the product or Marketing the product or looking at how do we grow the product and you wanted that product to live and that was really a huge Focus for me when we were trying to sell the
+
+1 (45m 47s):
+business. So what happened after it was sold, I mean you get to scale down company presumably you and L become employees of Ticketmaster
+
+3 (45m 57s):
+citysearch. So actually only two of us want the deal myself and this other guy Jim who was in charge of all of the advertising relationships. And so we were literally moving the company down to LA and we were going to rebuild they're going to hire a new management team for Evite. We're going to rebuild the engineer's and there were really only Gemini that went with the deal. When the company
+
+1 (46m 20s):
+was sold for I think for an estimated 25 million dollars. We're you now I mean because you know on paper at least a year before that you would have been set for life. But when you sold were you set for life financially when that deal came through
+
+3 (46m 37s):
+we were not set for life financially. I mean, it was a very, you know, when we look back obviously it would have been much better for us to have sold the business in the peak of the business, but you know, Hindsight is 20/20 sure. So, you know, we got something out of the deal and we had this great experience and we were you know, I think I was like 25 or 26 years old and had this great job to land into but no it wasn't suddenly that we were you know, Filthy Rich and you know buying Lamborghinis. Not that I would do that anyway,
+
+1 (47m 6s):
+so you so you become an employee of this new company, you're essentially working for Ticketmaster and how does it feel to work in a bigger corporate environment at that
+
+3 (47m 16s):
+point, you know is Is I had never really had
+
+1 (47m 22s):
+had a job
+
+3 (47m 23s):
+in a sense where you know, yes, Josh was my boss and he gave us feedback and and but I was always felt like a peer relationship because we were still the founders of the company and we were very collaborative. It was just so different to go into an environment where all of a sudden I was like an employee like I had never experienced it before and for the first like eight months it was this position where I was like trying to The team and then I was supposed to leave but in my time there I got to know the CEO and CTO at Ticketmaster and I actually was enjoying what Ticketmaster was doing, which was like bringing people to live events. And I was like, these are people I can learn from and the bubble had burst up here.
+
+3 (48m 4s):
+And so, you know in Silicon Valley it was not that same like wave of innovation and I thought okay, like I'm going to go spend a year at a bigger company and I want to learn from these guys. I'm imagine initial intention was go there for one year like get some Perience and then come back up to the valley.
+
+1 (48m 21s):
+So you went on to work for Ticketmaster involved in the ticket sales business. You would guess by 2002 you really had nothing to do with Evite anymore.
+
+3 (48m 30s):
+That's exactly right. Was that weird? I mean you you
+
+1 (48m 34s):
+don't it in like a dorm room and an Evite was like totally in the rearview mirror
+
+3 (48m 40s):
+Evite was mostly in the rearview mirror. You know, I'd still the guy who is in charge of it actually for most of that time as a gentleman named John Foley. Is now the CEO of Peloton sure and he was he's a wonderful guy and you know, so it would still catch up with him every so often and see how it was doing. And even today there's the gentleman in charge of Evite Victor, you know every so often we'll go grab a coffee and you'll tell me how it's doing and he gives me swag and I went and I did there and international women's day and talk to their team because they are excited to have a female founder but in terms of my learning and like my time to move on it was the right time.
+
+1 (49m 19s):
+So you end up staying there for
+
+3 (49m 22s):
+six years, I think Mmm. So
+
+1 (49m 25s):
+what made you decide that you wanted to finally leave
+
+3 (49m 28s):
+Ticketmaster? So there were a couple factors, but the biggest was that Ticketmaster merged with Live Nation and it was for me the people in the culture is the most important thing and it was very clear to me that the culture of the team that was coming over wasn't exactly what I wanted. But the second big thing is I was Traveling 60 to 70 percent of the time because we had businesses in Norway Sweden Italy Germany, and I wanted to become a mom and I didn't want to travel that much. So I had the very great Fortune of meeting a gentleman named Dave Goldberg. Who is the CEO of SurveyMonkey and I joined as the president and CTO of SurveyMonkey and October of
+
+1 (50m 11s):
+2009. What was the decision that I mean you want to be a mom you said and why was that the right? company to
+
+3 (50m 19s):
+go to So Dave and I'll tell you more about it, but he was just a fantastic Mentor a fantastic leader and just had this vision for what we could do and what we could build together and two days before I interviewed at SurveyMonkey. I was like ha something doesn't feel quite right and I peed on a stick and I was and it came positive and I was thinking what should I do? Should I still go to this interview? Like I'm already pregnant and I went for the interview and I was living in London I was flying back to London and David at even upgraded me which was like my first time. I was in first class. I was like, wow, they give me pajamas this is amazing and and I'll and and I check my Blackberry and there's an offer from Dave in my inbox.
+
+3 (51m 5s):
+What am I going to do? So I call my dad I said dad. What should I do? And he said put it all in one e-mail I said, what do you mean he said? Well, you have to negotiate, you know, you need to negotiate your offers to negotiate your offer and tell him you're pregnant all in one e-mail gives them an out and I thought Okay, so, you know ice and I'm like number one like you know, I want one more Equity number two. I'm in the exact staff for Europe. So I can't start for at least three months and number three ever early signs of pregnancy and Dave wrote me back. I think with an eight minutes and he wrote why he was going to build a culture at SurveyMonkey that was going to be great for families and yet we were going to build a really really big business and you know what we did both of those things.
+
+3 (51m 50s):
+things
+
+1 (51m 52s):
+Do you feel like the kind of place you were going to spend the rest of your career?
+
+3 (51m 57s):
+So Dave wasn't a big believer in performance reviews and a jar and sitting down but once a year, he would take me out to lunch and he would always say this is what you need to do to become a CEO and in February of 2015. He said to me he said, you know now you're ready to be a CEO. It's just your choice and I remember looking at him and saying Dave there's being your number two is the best job I could ever have And so I did think I was going to you know be at SurveyMonkey for a really really long time.
+
+1 (52m 27s):
+And I feel like after that conversation. He passed away was suddenly happen suddenly and many people remember his wife Sheryl sandberg's beautiful remarks at his funeral and also the things that she wrote publicly about that at that point. Did you did you feel like you weren't going to stay the company once when she
+
+3 (52m 49s):
+was gone? You know when they're such a big change with an executive at a company,
+
+1 (52m 56s):
+obviously, there's just a lot of
+
+3 (52m 57s):
+change. So it's not like you initially no of like this is a place I want to be this is a place. I don't want to be it depends what happens with leadership and So eventually it became clear to me that that wasn't a place I wanted to be anymore and that I was ready to move on and part of it was I was inspired to do something and health and wellness after really taking a step back and looking and thinking about what happened to Dave and fortunately enough the timing was Fact without this may seem co-founder from Evite and we had had you know a couple of lunches and getting together since about November and we had talked about Haley, you know, like would you be open to doing something again? And for both of us the timing was just perfect you
+
+1 (53m 34s):
+hadn't launched a start-up since 1998, right? And I guess in 2016 you thought you decided, you know, I want to go back to a startup. I want to try this again what you know, this is now your third or fourth start up together, right? I mean if you go back to collage and and was it was a company called with a weird name noodle where Cuda works right you get used to so like you guys have been to that Rodeo before you're back. So did you at this point that you guys say? All right, we're going to do a different differently this time the way we we launched this thing.
+
+3 (54m 9s):
+So initially we were going to take a different approach in terms of we wanted to validate product Market fit of an idea first, you know, we were in a very different position where You know when I was 22 years old, there was no opportunity cost right? So it was like if I was going to start a company and I was going to code in a room, you know, I didn't have responsibilities. I didn't have children. I didn't have a mortgage. I didn't have other opportunities at my doorstep that I could also learn a lot and do a great deal way. And so we said, okay we're going to give ourselves 2016 2 prototype and user test a couple of products. And if one of the products test well and we come up with an idea that we're excited about where we could Bring our expertise to the table if we come up with something that we then can go raise capital law and will do that.
+
+3 (54m 55s):
+But until then we'll sort of find it ourselves. And so that was kind of the different approach that we took you
+
+1 (55m 1s):
+see you and L mean you're inspired to do something in health and wellness that guess you start this thing called geek so which is like an
+
+3 (55m 10s):
+exercise app. Yeah, you know, like getting people to exercise is hard like exercise is something that people have a tough relationship with it's not something You know, I didn't exercise for six and a half years while I was at SurveyMonkey. The only thing I ever did was like walk from my car to the train station and you don't prioritize it because it doesn't seem fun. And so we saw this big opportunity. Where can we develop a live group fitness classes delivered via your phone and make it a great experience and make it disruptively cheap which is what technology can do and so that was our idea and You know, the thing that is definitely working for us is when people try our product they're using it.
+
+3 (55m 55s):
+They're loving it. We're getting good engagement. Once we get people to try the product. We've had a really really good results from them.
+
+1 (56m 3s):
+Does it feel this time around during the startup with a lot of experience executive experience under your belt and then earlier startup experience in your twenties. Now, you're a parent and you're a little older and is it feel
+
+3 (56m 17s):
+is the excitement different is the experience?
+
+1 (56m 20s):
+Radically different from what it was like in your early
+
+3 (56m 22s):
+20s, you know, the experience is pretty different in a number of ways. The first thing is is that you understand more in terms of your responsibility as a leader. This is my first time actually being in the CEO chair and you know, everyone always says is like, oh, you know, it's like it's harder than you think and it is more stressful than you actually initially imagined versus having always Dave there. You know and so the responsibility when I was at Evite didn't really hit me until we had to lay the people off, you know, like and then all of a sudden you were like, oh my goodness, like these people have an interested in me, but you didn't you didn't feel it in the same way.
+
+3 (57m 6s):
+I would say that then the other piece of it though is like when you do have these other priorities in terms of your family and your kids you have that ability to not just do it by sheer hard work like when you are young We were working six seven days a week. We are coating all night were sleeping in the office and like that is not an option, but you have a lot more experience on your belt so you can do things faster, you know, so like that is the trade-off
+
+1 (57m 34s):
+when you think about where you have been what you have created and what UNL built together and even though evite's not yours is still around today and it's still, you know, pretty significant. Do you think that that Happened and you were able to find that success because of lack or because of your intelligence and hard work you guys put into it.
+
+3 (57m 58s):
+I mean if you think of luck as privilege then I had a ton of it, you know to be able to to have two parents who love me unconditionally and sent me the Stanford without a penny of debt. I'd say that's a huge amount of privilege that then you can work hard off of
+
+1 (58m 15s):
+so you would take luck and privilege and privilege is an important idea a lot of Written in to say, you know, people say luck, they're not talking about privilege and not enough people. Do you would sort of make the case at that had and has had a lot to do with your success
+
+3 (58m 30s):
+privilege has had an outsized impact on My Success
+
+1 (58m 34s):
+when you see it today or when you get an Evite or when you hear somebody because people say I'll just send me an Evite right? It's like just Google it like it's a Xerox this thing like that's a thing to term. Do you feel like it's yours or What does it feel like something totally separate?
+
+3 (58m 52s):
+You know when I hear somebody say is like oh like oh just send me an Evite and you realize that well, they don't necessarily mean an actual Evite. They mean just no electronic invitation. You do feel a little twinge of being proud right? Because you think you know, you put a word into the vernacular and you know, when suddenly like years later your kids here from somebody as like, oh, you know your mom started Evite and they've heard of Evite and they're like what Mom look, You started that you know, it's like you feel that sense of Pride from having built something and innovated and it's exciting.
+
+1 (59m 31s):
+That's selling that tobacco Allah. She's the co-founder of Evite and gig so and since I last spoke with Selena she and how actually sold geek so to a company called open fit and she's now working there as Chief digital officer. And by the way a few years ago, Evite Mark, the two billionth invitation sent out using its platform and it remains one of the largest online invitation sites today. And please do stick around because in just a moment. We're going to hear from you about the things you're building, but first a quick message from one of our sponsors MailChimp.
+
+1 (1h 0m 16s):
+So you want to grow your business. Now what male chimps all-in-one marketing platform. That's what it has all the marketing stuff. You need to grow all in one place. Learn more at mailchimp.com. The world is complicated but knowing the past can help us understand it so much
+
+3 (1h 0m 36s):
+better. That's where we come in. I'm run David feta.
+
+1 (1h 0m 39s):
+I'm ROM teen Arab Louis and where the host of through-line mpr's History Podcast every week will dig into
+
+3 (1h 0m 45s):
+forgotten stories from the moments that shaped our
+
+1 (1h 0m 48s):
+world through line from NPR. Listen And subscribe
+
+3 (1h 0m 51s):
+now,
+
+1 (1h 0m 55s):
+Hey, thanks for sticking around because it's time now for how you built that.
+
+3 (1h 1m 3s):
+I have a love for ballet from a very young age. It was something that I really adored Jimmy Ramsay started
+
+1 (1h 1m 9s):
+taking ballet classes when she was growing up in Atlanta.
+
+3 (1h 1m 13s):
+When I first started my mom took me to the dance store to buy my dance clothes. So I got the pink ballet shoes the pink tights
+
+1 (1h 1m 21s):
+pink shoes and tights are these standard uniform ballerinas have been wearing for hundreds of years, but when Jimmy it was about 10 years old, she spent her summer training at the dance theater of Harlem run by Legendary Arthur Mitchell he wanted to dispel the myth that black dancers couldn't do ballet.
+
+3 (1h 1m 40s):
+So it really felt great just to dance with other dancers who look like me and also had on their own individual colors because at the dance
+
+1 (1h 1m 50s):
+theater of Harlem ballerinas did not have to wear pink shoes or
+
+3 (1h 1m 54s):
+tights. They can wear tights and shoes that
+
+1 (1h 1m 57s):
+match their own skin tones, but since no one made dance tights and darker colors the company members had to dye them they would use tea
+
+3 (1h 2m 6s):
+bags and so basically just put them in the
+
+1 (1h 2m 9s):
+water soak your tights in there and the longer the tights it in the tea the darker they would get but when Jimmy I went back to Atlanta she had to put on the pink tights and shoes
+
+3 (1h 2m 21s):
+again and it just always felt like I didn't belong my upper half of my body was one color and then when I look at the bottom half of my body, it didn't feel like a part of my body
+
+1 (1h 2m 32s):
+and it's Jimmy except Passing through high school and college that feeling of frustration never laughed. So after she graduated she decided to open a small dance studio for kids in our neighborhood and she wanted the kids to wear their own colors. So she explained to the parents how to dye their tights and choose
+
+3 (1h 2m 51s):
+and I brought a photographer in for our first performance, but when I looked at the pictures, I'm like, oh God this looks god-awful the tights don't match the shoes the
+
+1 (1h 3m 2s):
+shoes on. Match the
+
+3 (1h 3m 3s):
+dancer the tight Summit should answer it just
+
+1 (1h 3m 6s):
+didn't look good. So Jimmy, I decided to find out if she could make her own shoes and tights for dancers of color. She took four thousand dollars in savings and she started to do some research. I would go to different Studios just to see what
+
+3 (1h 3m 20s):
+most people shapes were and complexions were
+
+1 (1h 3m 24s):
+and try to match them up with different makeup should be a narrowed it down to four colors
+
+3 (1h 3m 29s):
+brown, mahogany, cocoa
+
+1 (1h 3m 31s):
+and 10, and she A manufacturer in China who could make dance tights in those
+
+3 (1h 3m 36s):
+colors. It takes a lot of potion-making
+
+1 (1h 3m 40s):
+to make sure that the colors were just right and then she found a manufacturer in Pakistan to make dance shoes to match the exact colors of the tights. She launched the apparel last December on her website and already dancers are starting to perform in it is just amazing to see the beauty of all
+
+3 (1h 3m 58s):
+of those different skin tones together on
+
+1 (1h 3m 60s):
+stage,
+
+3 (1h 4m 1s):
+you know, it's just wonderful to To feel like oh, maybe I'm
+
+1 (1h 4m 4s):
+inspiring the next dancer. It's a great feeling. Jimmy is brand is called Blends spelled with a z at the end. She still in the very early stages of the business, but she's made about $50,000 in sales so far by the way, Jimmy it was selected as a how I built this fellow at our Summit in San Francisco where she won the competition to be on this podcast if you want to find out more about Blends or here previous, Let's head to our podcast page how I built this that npr.org, and of course if you want to tell us your story go to build got npr.org and thanks so much for listening to the show this week. You can subscribe at Apple podcasts or wherever you get your podcasts.
+
+1 (1h 4m 47s):
+And while you're there. Please do give us a review. You can also write to us at H IB T at npr.org, and if you want to send a tweet, it's at how I built this or add guy Roz our show is produced this week by JC Howard with music composed by rum teen Arab Louis. Thanks also to Candace limb, Julia car Nissan has myshkin poor Eva Grant and Jeff Rogers. Our intern is Sequoia Carrillo. I'm guy Roz and you've been listening to how I built this. This is NPR.

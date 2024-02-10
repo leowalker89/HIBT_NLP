@@ -1,0 +1,848 @@
+1 (1s):
+This message comes from NPR sponsor Adian the future-proof payments platform. Welcome all payments be on The Cutting Edge of customer experiences and grow your business with Adian. Visit a dyn.com NPR to learn more. Hey, it's guy here. So what are some of the key traits that successful entrepreneurs have in common? Why do some people succeed when others fail how do you build something with no connections? No money and no experience. And can you learn to develop the skills and traits? It takes to become an entrepreneur well to find out the answers to all these questions pick up a copy of my new book.
+
+1 (41s):
+It's called how I got this and if you love the show, you will love this book. And if you order before September 15th, I'll send you a free autographed book plate to put inside the book just visit Gyros.com or how I built this.com to order or pick up how I built this wherever you get your books. And thanks. How much was it going to cost you to get this prototype
+
+3 (1m 8s):
+built a little over two hundred thousand dollars when we thought it would cost. Wow, so I had to empty every single dollar my 401k use every single Dollar in my savings account. I had to borrow a little bit on top of that. I need up are in a little bit from Linden Club
+
+1 (1m 23s):
+at a high interest rate
+
+3 (1m 24s):
+at a very high interest rate and maxed out all my credit cards and put it all in on on this side. At the time you don't even have a name.
+
+1 (1m 40s):
+From NPR it's how I built this show about innovators entrepreneurs idealists and the stories behind the movements they built. I'm guy rosin on the show today how Toba wattana turned his frustration with scheduling meetings into calendly a multimillion-dollar business that makes setting up a meeting quick and simple. One of the things we talked about a lot on this show and a thing that is such a crucial part of building anything is rejection hearing the words know for some people.
+
+1 (2m 22s):
+It's easy. It doesn't FaZe them. But for most people rejection is hard and overcoming the fear of it building the resilience. It takes to withstand the endless knows it comes from practice. Think about Yes guest we've had on the show like Mark Cuban and Sara Blakely their earliest jobs were in sales. They had to make the same pitch over and over again and here hundreds and hundreds of people tell them no over and over again. Same thing with entrepreneurs like Davis Smith who built Cotopaxi and David Neil Elman object blue as young men they had to do what is probably the most difficult form of salesmanship going door to door.
+
+1 (3m 8s):
+Or as missionaries most of the time the doors slammed in their faces, but like anything else eventually you get used to it and it helps build up a thick skin, which of course served all of these entrepreneurs very well later on as it did for today's guest Topo etana taupe also spent his early years as a Salesman first door to door selling alarm systems and later doing million dollar software deals. with major companies and all of the knows he heard along the way served him especially well when he eventually went on to launch and then fail it is first two businesses losing tens of thousands of dollars along the way but like other people you've heard on the show taupe was able to take all of that disappointment all of the slam doors and all the meetings that went nowhere and all of the failed aspirations and to think of it more like research so that when he finally set out to start a business that did and is doing really really well.
+
+1 (4m 15s):
+He had a better idea of what he wasn't supposed to do in a much better sense of the steps he needed to take in order to succeed and what taupe wound up building was calendly. It's a meeting scheduling platform that he started because he got so frustrated trying to schedule his own meetings and couldn't stand the endless back and forth emails. They just seven years after it launched. Its a 60 million dollar a year business and as you'll hear it reached that point with just a small amount of outside investment. But before we get to calendly a little about topes earliest years, he's Nigerian and he spent his childhood in Africa growing up in the suburbs of Legos.
+
+1 (4m 60s):
+His mom was a pharmacist and his dad was a microbiologist who was also pretty entrepreneurial. He sold chemicals to different businesses. And topes early childhood was pretty great.
+
+3 (5m 12s):
+Yes who lived in a number of different places but where I lived for 12 years you call it like a lower upper class neighborhood for you know in that part of the world you all of our neighbors were friends with all the kids in the neighborhood. My parents were very active in the neighborhood. So everyone kind of knew them and they were people We were really kind of very magnetic. So they just really attracted. A lot of people very generous people very given people and people just there were always people around is what I remember as a
+
+1 (5m 50s):
+kid. Were you a well-behaved kid
+
+3 (5m 53s):
+depends on who you ask I knew how to get into enough trouble to really terrorize my siblings, but not really face the wrath of my parents or your parents, correct? My mom was my dad was not so much they could not have been more
+
+1 (6m 8s):
+opposite. So your mom was the kind of disciplinarian. Your dad was more kind of chilled
+
+3 (6m 13s):
+out. Yes. So my dad was hey, you know, let's eat 10 ice cream sandwiches for dinner if that's what we want. My mom's like no ice cream in this house
+
+1 (6m 23s):
+was were you pretty good student as a little
+
+3 (6m 25s):
+kid, I'd say so very good I'd
+
+1 (6m 27s):
+say is that something that your parents stressed at home education
+
+3 (6m 30s):
+they did but not, you know, I don't remember having a lot of conversations with my parents about my grades. There was just an expectation that you prefer. Well in school because they did I remember as a kid, you know, probably eight or seven my mom would argue with my dad about how she really thought it was important for us to go to Harvard. I didn't know what Harvard was but I know that my mom thought it was
+
+1 (6m 53s):
+important and when you were little like 8 9 10 11 would people talk about you as a smart kid of the say. Oh, there's taupe. He's really smart or did you just feel like just everyone you knew was pretty good at school.
+
+3 (7m 7s):
+I don't know. If people did I think the first time it occurred to me was so I ended up skipping a few grades, you know, like in primary school and I think that's when I knew her and I think my mom was a little worried about what that might mean and how how that might play out. So I think that was really the first time I became conscious of it,
+
+1 (7m 34s):
+I guess when you were 12 years old your father. Your father was tragically killed and I can't imagine what that was like for you for your brothers. And your mom. What do you remember about that time about how you felt?
+
+3 (7m 53s):
+I remember that a change everything. I thought I knew so as a kid, I you know, my dad was my hero right and you know because that when you're when you're 12 and your I'd let you get away with everything. He's your favorite
+
+1 (8m 9s):
+parent. Yeah,
+
+3 (8m 11s):
+I would stay up late at night to my dad came home. No matter how like that was so after he died, you know, I went through, you know a period of time in which I lost a lot of weight. I didn't really have an appetite for many many months after that. I became an insomniac at the age of 12. These are things I now recognize that are you no signs of trauma, but at the time I didn't really recognize it
+
+1 (8m 35s):
+you were 12 years old when your father died. And and you were there you saw his death. I did was it was a robbery essentially a carjacking. I can't imagine how you were able to cope with head of the kid. I mean, I mean it's hard for kids to process emotions easily. Sometimes I read that you kind of went back to school and kind of carried on I did I
+
+3 (9m 2s):
+did, you know, I think some of that is the Nigerian way. To be honest with you, but I also think within that my mom had a very my mom was a very strong and resilient person and you know, one of the things I really appreciate about the manager and culture. It's really everybody's your family or I even you or your family friends are essentially think of themselves as your family. So I think she was able to you know, a lot of people rallied around her and supported her, but she definitely it was a very very difficult. Time for her but I think she also really wanted us to I don't want to say move on with our lives, but I think she wanted us to know she thought the best thing that we could do is proceed with our lives.
+
+3 (9m 52s):
+That's what would make our dad proud
+
+1 (9m 55s):
+your dad at the time of his death had P kind of had gone through starting several businesses and some of them were kind of did okay, and but I guess you Never kind of fulfilled his dream really making it big
+
+3 (10m 10s):
+right? You know, I don't know. I think that's one of the things I really miss actually is, you know, when you're 12 years old. There are a lot of things you want to ask, you know, you want to ask your parents or you don't get to so I don't really know what his dreams were. I do feel as I think about it as an adult now is I think he knew that he was incredibly he was incredibly gifted in so many different ways and I think he felt like he hadn't done his best work yet, huh?
+
+1 (10m 35s):
+So from what I understand when you finish High School in Legos, you had an opportune opportunity came to you to go study in the United States is is that what happened?
+
+3 (10m 47s):
+Yes, there was always that given that I was going to go to college in the States, but then what happened was because my mom also retired at the same time the whole family ended up moving to the state's at that in
+
+1 (10m 60s):
+96 you have family already in the u.s.
+
+3 (11m 3s):
+Correct? So my older siblings We're here till my older siblings were here as well as my aunt and her husband and her kids. And as a matter of fact when we first came to the states, we live with
+
+1 (11m 13s):
+them. Where did you move to Marietta Georgia? And what was the plan that you would go to university? I mean you'd finished high school. So what was that the plan
+
+3 (11m 21s):
+so that was the plan so I took the SAT, but then my mom was like you can't go to college in 15 you're too young. So I ended up going to high school. I went to Wheeler High School Marietta. I went there for two
+
+1 (11m 32s):
+years and here I mean, Tristan what is it? What was that? Like for you mean you'd come from from Legos to Marietta Georgia. And now you are a student there was it totally different with it's completely different world for you.
+
+3 (11m 48s):
+Oh, absolutely. I mean everything from the way the way class has worked to uniforms, right? So the very fact that you didn't have to wear uniforms was very very different from what I was used to one other thing that was very different for me was in high school in Area I was a very popular kid that was very different here. Now just new country very different culture and you know, most of the people in the high school they've known each other for many many years because they went to middle school together. They went to maybe went to elementary school together. And that was I guess it was tougher socially that academically for
+
+1 (12m 28s):
+sure. Yeah. I mean you remember I mean coming from Legos where everybody around you was black right? I mean the leader Business Leaders and people are powerful and also the poorest people everybody around you was black and coming to America where racial issues are front and center was that so jarring or something that you didn't expect when you arrived
+
+3 (12m 51s):
+not really and that's not to say they weren't issues. But I think I was probably lying to them and I think part of the reason why is in a lot of ways, I've always kind of been the odd man out and everything I've ever done right so you Even in high school Nigeria was two years younger than most of the kids. And so I've been kind of used to being the odd man out and just really be able to connect with all kinds of different people and not really thinking much about the differences. So I probably was blind to some of those things.
+
+1 (13m 25s):
+Alright, so here you are and you graduate high school. So presumably this at this point, you know, you're you're going to go to college you have the opportunity to go in your In but now you're 17 or maybe close 18. So you you decide to go to the University of Georgia. And initially, is that right? Correct? And what did you what did you study when you got there? What was your what was your focus
+
+3 (13m 48s):
+computer science initially, but I graduated with a sorry a degree in
+
+1 (13m 52s):
+business and why and why computer
+
+3 (13m 54s):
+science? Yes. I pick computer science for for two reasons. So back in 95 Windows 95 was launched and that really opened my eyes. I just saw all these grown adults, you know, tripping over themselves or by software. I thought I was really fascinating. I also notice at the time that their world's richest man was Bill Gates and so my little teenage mind I started to connect the dots around. Maybe this is where the world is going.
+
+1 (14m 22s):
+So when you got to the University of Georgia, I mean, this is like 98, I guess ideate. I'm still early days of the internet. Did you like it? Did you like living in Athens? Did you like being a student at UGA?
+
+3 (14m 35s):
+I loved it. I loved it. I felt like I actually came into my own and I was in a developing my own independence
+
+1 (14m 41s):
+and how were you did you work while you were a student as well?
+
+3 (14m 44s):
+I did so I initially worked at CVS
+
+1 (14m 52s):
+like as a cashier. He has a
+
+3 (14m 53s):
+cashier but then I you know, like most college kids. I wanted more money and somehow I think through a classmate or a friend I learned about door-to-door sales.
+
+1 (15m 5s):
+So you thought that's what I want to do to make more money.
+
+3 (15m 8s):
+Yeah, so I got a job selling alarm systems door to door.
+
+1 (15m 12s):
+Wow. This is why you were a student like
+
+3 (15m 14s):
+during the summertime. Yeah. Yes. It was a summer job. I talked about like the most difficult job ever. I would knock on people's doors at you know, right before dinner time. And and so I'm pretty sure half the people who bought for me bought from his just so they could get back to their dinner.
+
+1 (15m 30s):
+And and what are you doing this in in Athens,
+
+3 (15m 33s):
+Georgia, correct? So and I Georgia so we would go knock on doors for 3-4 hours and try to make a sale and what would happen was the job was strictly commission, right? So which is in you could potentially work all week all month and make nothing
+
+1 (15m 49s):
+you that's right. How did you do? Did you make decent cash that
+
+3 (15m 52s):
+summer I did I did. So what happened was my very very first day. I sold two alarm systems which allowed me to make $500. Which at age, you know 19 that's that was a lot of money. Yeah, it's great money. It was the most money I ever made in a day and interestingly the rest of the week. I did not sell anything and so the very fact that I sold two alarm systems the first day, I think if that sequence would have been reversed if I would have gone the first four days without selling any alarm systems, who knows what I would you know how my career would have changed but that's what happened.
+
+1 (16m 31s):
+Did you like going door to door selling things? That's really Art, I mean because people slam doors in your face and they're not interested and they say no soliciting. Did you like that?
+
+3 (16m 41s):
+I liked it, huh? And I'll tell you why I liked it because of his first two days because you made the money. Yeah, and I think it also really gave me the understanding that there's a hit rate, right? So if you knock on next time on the doors, you will ultimately make x amount of dollars. So to me was very predictable thin and in between there's a lot of rejection. You know people were unhappy that I interrupted their dinner that part was tough, but the rejection of people not really wanted to buy that didn't really phase me. The other thing I really liked was it was the first time like I could I could really influence how much money I made I could work harder. I could improve my skill and not wait 6 months 12 months to make more money.
+
+3 (17m 24s):
+I can make more money than next day the next
+
+1 (17m 26s):
+week, huh? So did did being a salesperson just come naturally to you. Do you think
+
+3 (17m 31s):
+I guess you could say so I did feel like it was stretching a new ways that I had never been stretched before so keep in mind at the time. I'm still a computer science major. All right, so I was used to a different form of any electron stimulation of code in your right coding instruct the computer to do these things for you and you see what you create that was fulfilling but then this was a whole different a whole different form of fulfillment and satisfaction you could You are influencing people's decisions, right that's for filming in a way. She graduated from college and
+
+1 (18m 1s):
+when you did it, you have a like a ton of job offers.
+
+3 (18m 4s):
+No far from it. I think one of the things I've learned in a myself and you know, many many years after it is I think being the child of immigrants I think maybe hurt my understanding about how to be successful in the business world in America. And so I didn't do some of the things that my peers were doing like Chef's I didn't do those things in hindsight. I should have done those things and my parents would have known to you know, they would have probably pushed me to do that. If they were from here. They didn't I mom didn't know that herself not to put the blame on her, but I think there's probably more Savvy about how those things work today.
+
+1 (18m 46s):
+But from from what I read about you mean you did land a couple of pretty good sales jobs out of college, I think for a couple of years you Were working for a like a luxury travel agency and then and then you got a job with IBM selling software. What was that? Like,
+
+3 (19m 5s):
+you know, it took me a while to you know, there's a little bit of an adjustment right? I'd spent a lot of time selling to Consumers of the last few years. And turn now I was selling to it managers, right? So it people and also selling in some cases to to CIO. So I got exposed to a much more complicated and much more. Are sophisticated sales process, but I loved it. I found myself not really like I enjoy the work I did but you know, I've always been a very very impatient person and so, you know at the time I looked at the CEO of IBM and he was in his 60s and it took him all 40 years to get there and I didn't know that I had that much time to wait, so I wanted to be in an accelerated path.
+
+3 (19m 51s):
+And so I started looking for a much smaller. All software company that was grown in much faster rate. So at the time, you know, IBM was probably cool growing double digits every single year and some of the businesses that I was looking at where you're probably going growing double digits every month and so really wanted to to work for a smaller company with more growth opportunity.
+
+1 (20m 20s):
+So you really even what where do you find
+
+3 (20m 23s):
+I went to, Kansas. City to work for a company called perceptive software a made Enterprise content management software. So I think of it as software to manage paper files, right so digitized files and manager approval workflows around
+
+1 (20m 40s):
+it. So this is like a B2B stuff, right?
+
+3 (20m 42s):
+Yeah, and so I really enjoyed working for the company. But why was that the company part of the onboarding process is you get a chance to meet with the founders and you know, they tell the story The These founding story and that story just really opened up my eyes why it was the first time I heard about the founding story of a company of a successful company because before then I thought that most people who started in a very successful companies. They just hit the ground running on day one. They knew exactly what product I want to deliver to the market customers receive it accepted we break their backs to pay them money. But what I learned from this founder was it took them eight years to really get to product Market fit.
+
+3 (21m 25s):
+As we call it today and the idea pivoted many many many different times. And the reason that that business became successful Wells had more to do with their ability to learn from their customers their their own resilience. So from that point on I think it made me realize that you know, entrepreneurship was way more attainable than I thought it was before that. So I thought I had to be you know, I just yeah, it's just the story made me realize that I didn't have to have All the answers, but if I saw something that I thought needed to be changed, I just needed to take action and learn and persevere and so because of that I started it kind of rekindle this very, you know, this latent idea that I had of becoming a tech entrepreneur.
+
+3 (22m 13s):
+Is it from that point on I started dabbling in a bunch of small businesses
+
+1 (22m 18s):
+why you were at the suffer company,
+
+3 (22m 21s):
+correct? So I think I had the ideas while I was there. I don't think I act The first one till I think right after I left that
+
+1 (22m 27s):
+company so so you guess you end up working for the software company for like three years and then you you left Kansas City went back to Atlanta and around 2010. Correct? What why what happened
+
+3 (22m 38s):
+a few things a so the time my mom was a my mom was really sick and she ended up being in the ICU for for about a month month and a half or so and she was recovering from the complicated case of malaria. And so because she was recovering from that. I think of a time she looking back on it. Now. She she had cancer at the time that she was recovering from that and she was just in a in a tough place and I wanted to be closer to her. I was thinking about going back to Elena and then at the same time I got recruited by a company in Atlanta that one of my best friend's was working at and so that kind of accelerated the Asian to to come back to Atlanta was it also a software company?
+
+3 (23m 29s):
+Yes. It was another software company doing a very similar thing but for a as in selling enterprise software by selling it to in a different industry.
+
+1 (23m 38s):
+So this company that you don't think is called there to for it. Is that is that right? That's correct. And I guess why you were there you meet you meet like this business contact who don't know the whole story about but he starts giving you ideas for how you can. Like start your own company.
+
+3 (23m 56s):
+Yeah, so he told me that he had actually helped a number of different entrepreneurs start a number of different e-commerce businesses. So he said most people start e-commerce businesses because they want to sell something in particular. They want to sell hand sanitizers. They want to sell Mass whatever it may be. It's like well, that's one way to start a business but he said an interest in a really interesting way to start a high-growth e-commerce business is to instead start a business around around keywords that have a lot of traffic a you can optimize for so instead of starting a business to sell hand sanitizers because you want to sell hand sanitizers. What if you started a business some light bulbs because it turns out that there's a lot of traffic for light bulbs and no one's really satisfying that need very well.
+
+3 (24m 42s):
+I'm just throwing that as an idea look I got chicken and so I thought that was Fascinated and he showed me some of the businesses that he'd helped start and in hindsight. I should have probably interview some of those other entrepreneurs but ideas on a fascinating and so I paid him to do an analysis for me to find out what are some key words at the searching for exactly and are not and no one's really fulfilling the e-commerce need
+
+1 (25m 10s):
+and what do they come up with? He came back with
+
+3 (25m 12s):
+projectors. Projectors projectors.
+
+1 (25m 15s):
+Yep, like like slide projectors. Yes live video projectors
+
+3 (25m 21s):
+movie projector. So perfect. Yeah, there are actually six specific keywords. It was HD projector is it was movie projectors? I forget what the other for award or now so there's it. There's a ton of search traffic looking for major movie projectors. And then you analyze the sites that are currently ranked and high for that keyword and then you look at how this placeable they are, basically and His instincts were that were easily replaceable that you could with three six months of work. You could be you could be at the the highest ranking site for the for that
+
+1 (25m 53s):
+keyword. So did you start a projector company? I did I've never
+
+3 (25m 58s):
+used a projector in my life. Right? Well, yeah maybe using maybe seen a few in a different meetings, right? But never really bought one before said it will not before but the analysis seem compelling to me and so we started a projector business and we call it a projector spot.com. And after something like two three months of work, we set up the website and we were ready to take orders and I should add that the we didn't actually go out and buy projectors and sell them on the website. We establish Dropship and relationships with different wholesalers and in a space of 2 to 3 months or so. We launched the business.
+
+1 (26m 37s):
+And did you have to put in a lot of money to start this up?
+
+3 (26m 41s):
+Yes, I put in Probably something like I would say about twenty thousand dollars or so. I don't remember all the details but I would say most of the probably went to the website
+
+1 (26m 52s):
+development went that sounds a lot of money, but you will you just saving all the money that you're making from sales over the years
+
+3 (26m 59s):
+I was so I had some really good two years and I just suck that money
+
+1 (27m 4s):
+away. And did you do like when you told your friends about it? They are did you did you tell anybody about her to keep it
+
+3 (27m 11s):
+secret? I didn't they all laughed. And Phil laugh
+
+1 (27m 14s):
+laugh saying what? Yeah a movie projectors or HD projectors. Like
+
+3 (27m 19s):
+yeah, they asked me all the all the smart questions. They should have asked me what do you know about protectors? If it's this easy to start a business. Why would this guy is just not run the business himself? Why are you so confident that you're going to rank highly for these keywords? Yeah. So there's a lot of laughter when I share the idea for sure.
+
+1 (27m 39s):
+All right, so you launch this thing and and do any
+
+3 (27m 43s):
+Come in they do they do huh, but then I saw a very very quickly that the margins were razor razor thin right? So you end up selling a $500 projector. Maybe you make $5, right? What? Why are they so thin? Well one because Electronics in general, it's just very commoditized and there are many many other Merchants out there. And so most of the competitors were actually not making their money on the projectors like it was a lost leader for them. What they were really doing was they were creating their own there are making money from the accessories or the light bulbs. Maybe the lens I don't forget what you know, what all the supplies and parts are which explains why I had no business doing this in the first place, but that's really where the bulk of your profits came from.
+
+1 (28m 27s):
+So how long did the business
+
+3 (28m 28s):
+last I would say less than six months. Oh,
+
+1 (28m 32s):
+yeah. See, you lost all that that 20,000 dollar investment.
+
+3 (28m 36s):
+I did I did but I wasn't It didn't phase me that minute. It was disappointing in some ways. Yeah, because I had you know, because he put a lot of time and effort into getting it up and running you sacrifice many late nights many weekends and and you do all that and it doesn't really materialized.
+
+1 (28m 57s):
+How did you know it was time to just give it up
+
+3 (28m 59s):
+two things one. I realized that I didn't I just didn't really care about projectors. All right. So what I learned a few things happen, right so whenever people Place orders. So some people would Place orders Without Really asking any questions, but then a lot of people really came to projector spot.com not just looking to buy a projector, but they wanted to be educated about projectors. And so I realized that for me to be successful in this business one, the business model was just really really tough and to I needed to become passionate and knowledgeable about projectors and I just didn't really want to spend my life doing that.
+
+1 (29m 37s):
+So, all right. See you. You just kind of leave that behind and did you have an immediate idea after that or did you come take some time?
+
+3 (29m 47s):
+No, I knew exactly what I wanted to do
+
+1 (29m 48s):
+next. Wow, what was it
+
+3 (29m 51s):
+so I wanted to go back to e-commerce and but I thought that this time around I would pick a higher margin product. And so I turned around and create another e-commerce website and this time around rather than paying the guy $20,000. I built it all myself
+
+1 (30m 8s):
+you built a website and
+
+3 (30m 9s):
+And what was the product so I call the website yard steals.com
+
+1 (30m 13s):
+yard feels like steals like cheap deals for the
+
+3 (30m 16s):
+yard. Exactly. Okay. And so the idea was you know, you can get good deals on home and garden equipment. That was the category that I was going after and what I wanted to do was I a few of my co-workers at work. We're crazy about the Big Green Egg. I'm not sure if you've heard of it
+
+1 (30m 36s):
+before sure the grill you have to our
+
+3 (30m 38s):
+girl. Yeah, so ceramic Grill and people are fanatic about it people who love it just love him. They Rave about it. But what I spotted was that Aspen articles people were about the Big Green Egg. It was actually really difficult to get it if you didn't live in a major city. So if you lived in the city like in Lana, I was easy for you to get if you lived in a city like Athens, which is let's go. Let's 70 miles from Atlanta you had to drive to a major city to get it. And so I thought that I thought there's an opportunity there and I started calling the different manufacturers of these. Grills, I thought I could build a better a better e-commerce business and they could and my larger Vision was I would do a better job of driving traffic and driving demand to to your Stills.com.
+
+3 (31m 23s):
+And eventually I would go start my own I would build my own, you know tips Blue Egg, whatever you would call it. And did you
+
+1 (31m 33s):
+think another 20 grand into this idea?
+
+3 (31m 35s):
+Probably a little less, but I forget the exact
+
+1 (31m 38s):
+amount. All right. So you put this up and do order start to come in
+
+3 (31m 42s):
+or to start coming in and the margins are better this time. So instead of making, you know, like five dollars for five hundred dollar purchase, you're making a few hundred dollars on a $700 purchases or something like that so much better margins,
+
+1 (31m 56s):
+but you never saw a Big Green Egg you would just get the order you would contact the shipper and then they would ship out of some Warehouse.
+
+3 (32m 3s):
+Exactly. Yeah, I never saw one. It's just order in and order out and so I think what I found was I did much better than the first business, right? So, you know probably netted sold more grills one, but I think this I found that the same problem kind of repeated itself when people come to buy any kind of product. They're not looking just to just to do the transaction. They're also they're looking to be educated and so I thought to build a real successful business around this you have to invest time and effort into building a brand into educating people in creating Content and doing all these different things that just wasn't excited about that work.
+
+3 (32m 43s):
+I didn't feel like home and garden. I just didn't feel like that was my
+
+1 (32m 47s):
+calling. So when I mean, so how long did that last ultimately that
+
+3 (32m 52s):
+business probably about the same three to six months. I would say right
+
+1 (32m 56s):
+once you amuse since we have two back-to-back failures not this is a good thing because you can need those in the future. You need to start and fail at a couple businesses. Did you think maybe I'll take a break from starting up? Is this for a while and go back and get a safe
+
+3 (33m 11s):
+job? Yeah, so this entire time I never quit my day job. So what I end up doing is I'm still working my my day job at that time traveling all over the country. But what I realized was that I was I started all these different businesses not because I was passionate about solving a problem or and not because of probably necessarily existed. I was doing all these things because I wanted to start a business and so I thought that I wanted to take a break And rather than forcing a business idea. I thought that I had to pick a problem that truly existed and I needed to pick something that I was, you know, really excited and committed to being a student of it.
+
+3 (33m 56s):
+And I decided that I would basically take a break from starting businesses until I found until I found that idea that checked all those boxes. All
+
+1 (34m 4s):
+right, so you are doing your day job selling enterprise software and I guess One day I've promoted from what I understand you like start to think about scheduling and calendars a tell me what happens?
+
+3 (34m 20s):
+Yeah, so I was a national account manager. So I manage the number of Fortune 500 accounts in the southeast of the company's doing over a billion dollars in revenue and also selling complex enterprise software to them. So what that meant was the types of the kind of companies you're selling to our like the Coca-Cola Of the world so they need to bring 10-15 people to a meeting and then a lot of times for the deals that we sold we needed to also involve systems integrators or so. These are the firm's that would actually go in and deploy the software so they would bring another three people. So very often you are trying to arrange meetings with 20 people across three different companies and it can be very painful.
+
+1 (35m 4s):
+It's so painful when you've got like five people want us to do a conference call nur's multiple emails and I can do Today, yep. I'm going to Wednesday. I can't do Wednesday. How about Tuesday? It drives me
+
+3 (35m 14s):
+up the wall. It's a common problem and I'm thinking is 2012 because at this time is 2012. Surely. This is a solved problem. I'm going to do an internet search and see what I can come up with that can really make it easy for 20 people across three different companies to compare their availability and I do a search and I find a number of different products on the market. And that are sold in bits and pieces of it but none that really but I thought did it really really well
+
+1 (35m 45s):
+and you didn't know what that looked like. You were just looking for an option,
+
+3 (35m 49s):
+correct? I just knew that as a consumer as a potential consumer, I didn't feel like any of the product on the market at the time really checked all the boxes of
+
+1 (35m 57s):
+what I would need. What was it that you thought you
+
+3 (35m 59s):
+needed? Yes, sir. A few things. I found I needed at the time. So one there are a lot of products on the market that were really tailored to. Brick and mortar businesses, they do a lot of appointments. So if you are a salon and you do hundred appointments a day, there's a lot of great software for you, right if you are an Enterprise software sales rep that really does maybe five external means a day or three or four there are no really good options for you. The other thing I noticed was that as a salesperson one of the things I knew very well was that just because you want to meet with somebody doesn't mean they want to meet with you. You right and so I thought a lot of the products that exist in the market really spent a lot of time designing for the users of the salt or not so much the recipients of the invitation and so I thought that this would gain Mass adoption you really needed to build for both for all participants.
+
+3 (36m 55s):
+You needed to make it a great experience for every for all the users of the product whether they were your own registered users or the people who are receiving invitations from the original third users. Those are some of the things that I yet that I noticed.
+
+1 (37m 9s):
+All right, so You you think maybe there's something to
+
+3 (37m 13s):
+this? Yes, and so I spent two three months signing up for every single product that existed on the market and really deconstructing them tearing them apart. I must have signed up for what felt like probably, you know, 20 to 30 different products. I use the products religiously to really understand how they worked. I spent a lot of time in their Community forums to really figure out what their customers. As were saying I would submit support tickets to really understand their customer service. I would pose as a buyer of their software to understand how the reselling it how they're pitching it.
+
+3 (37m 53s):
+And what I learned was that despite the fact that I thought that were gaps and what they did their customers love what they did in spite of the fact that their customers wanted a lot more. They thought what they did was incredibly valuable. And so that was interesting to me and told me that if at a minimum you do as much as what they're doing, there's a decent business to be had out there and then I thought if you took it to a whole different level and you really lower the barrier of Entry, right and really democratize it and make it made it simpler for you know, the more casual schedulers. I thought there was an even bigger opportunity and I just knew that this had to be done
+
+1 (38m 34s):
+and how long I mean How many months does it take before you save yourself? Okay, I've done the research. There's nothing like what I want to make maybe I gotta do this. It takes me six months.
+
+3 (38m 47s):
+So with the other businesses that I started I basically had made a decision to start a business and I look for all the evidence to support that decision. I'd already made with this I led with an open mind. So I was just as happy to not do it as I would have been too. Do it. So I just really let the fact can I guide me and I was hoping at the end of my my exploration I would come back and say this is just like the other business ideas that I've had someone's already done it they're doing it really well go do something else, but then the six months I couldn't sleep. It's all I've thought
+
+1 (39m 26s):
+about it's all you thought about.
+
+3 (39m 28s):
+Yeah.
+
+1 (39m 30s):
+When we come back in just a moment White Oak put every penny he had into his new project. And why when he finally built it he was forced to give it away for free stay with us. I'm Kyra's and you're listening to how I built this from NPR. Hey everyone, just a quick thanks to our sponsors who helped make this podcast possible. First two epic Provisions maker of Epic bar. Beef was Nature's idea. The Epic bar was their idea the new beef sea salt and pepper bars have three grams total carbs why it's in their nature after all they're made with a hundred percent grass-fed beef and Nature's macros 3 grams total carbs 11 grams of protein find them in the I'll or at Epic bar.com.
+
+1 (40m 27s):
+This message comes from NPR sponsor Adian the future-proof payments platform Adian connects you with customers around the world and makes it simple to accept all kinds of payments in app online in-store touch-free and Beyond with a single solution keep customers happy and your business growing with Adian business not boundaries visit. Ady e and.com NPR to learn more. Thanks. Also to Microsoft teams. Now. There are more ways to be a team with Microsoft teams. Bring everyone together in a virtual room collaborate live on the same page and see up to 49 people on screen. Learn more at microsoft.com teams.
+
+1 (41m 13s):
+I'm Lisa Hagen and I'm Chris axle where the hosts of no compromise NPR's new podcast exploring one family's mission to reconstruct America using two powerful tools guns and Facebook new episodes drop every Tuesday join us for the no compromise podcast from NPR. Really quick before we get back to the show. One of the Hallmarks of economic crises like this one is that people actually start businesses slack betterment. Even Air B&B all companies. We featured on this show. We're all founded during the last economic crisis and a lot of people are talking about using this period now as a chance to reimagine what they do and if that's you well, I've written a book that you might find helpful.
+
+1 (42m 1s):
+It's called what else how I built this and I wrote it. Anyone who's starting a business thinking about starting one or just looking for inspiration and ideas from the incredible stories in the book The how I built this book is designed to be that voice in your head cheering you on when you're feeling like you just want to give up. The book is based on interviews with hundreds of leading entrepreneurs and at races how to start a business or pursue a big idea and how to avoid the big mistakes along that Journey. You can get your copy of how I built this wherever books are sold. sold including Amazon Barnes and Noble Target and your local in the bookstore and also by visiting guy Roz.com or how I built this.com Hey, welcome back to how I built this from NPR.
+
+1 (42m 55s):
+I'm guy Roz. So it's around early 2013 and taupe Owatonna has this idea to make software to help people schedule meetings in the most seamless and efficient way possible. And the first thing he needs is for someone to do the coding
+
+3 (43m 14s):
+and so I decide that this needs to happen fast. So it's not really something I can code myself and I start going to meet ups to see if I can meet other technical co-founders, but that didn't prove to be successful. And so my third option became let me see if I can hire a firm to build initial
+
+1 (43m 31s):
+product because he could not find a
+
+3 (43m 33s):
+technical co-founder. You looked around I did. So what happens is this a lot of people have everyone has an idea for an app they want to build and so if you're talented engineer you get you get a lot of terrible pictures every single day and so most Engineers are entrepreneurial they would rather pursue their own ideas or if they're going to take their is there other like bet on themselves and kind of go after it. So as as easy as it sounds that you know, just because you have an idea it doesn't mean that you can really attract get Engineers to get excited about it. This is an important
+
+1 (44m 8s):
+point, right because you're right everybody has an app idea. But if you're not a software engineer, you can't make it you need one to help you but if you can if you find a good one as a good chance at that engineer wants to start their own. This on their own and they would they would sort of be like well, why should I do this with you?
+
+3 (44m 23s):
+Exactly and also, you know, they're also probably well-paid at what they do. So kind of you know risk and all that to
+
+1 (44m 31s):
+start up a business with some random person
+
+3 (44m 33s):
+exactly.
+
+1 (44m 35s):
+So you could not find a technical co-founder which is a common problem. Yeah. So to make this thing you decided to like Outsource it to like some, you know engineering company that does these things for
+
+3 (44m 47s):
+hire exactly. So there are lots of companies out there. That really helped where their large corporations are entrepreneurs bring their products in life. And so what I ended up doing was I started talking to a few companies in the states. There was one in Atlanta. There's one in Charlotte. There was one in San Francisco and inevitably the very first question they would ask me was what's your budget and I get that it's an important question, but I just felt like they all they really cared about
+
+1 (45m 16s):
+was how much you gonna pay us exactly.
+
+3 (45m 19s):
+Yeah. And so I kept looking and so I didn't rule those people out, but I ended up getting finding a company in Ukraine and from the first interaction that we had, you know, their initial their initial response and it wasn't how much budget how much money how much money do you have to put into this company to this idea. Their first response back was we think is a great opportunity to as a matter of fact, here are three ideas that we have and so I knew I knew that I wanted to pay attention to To them
+
+1 (45m 52s):
+this company called rails where I think
+
+3 (45m 53s):
+right? That's correct.
+
+1 (45m 55s):
+And and did you I mean, did you make any of these companies sign like non-disclosure agreements or did you just kind of risk it that you would tell them your idea and hope that they wouldn't copy
+
+3 (46m 6s):
+it now I didn't I did not make them sign any kind of nda's not because I did, you know, ultimately what I believe was and is still what I believe today's I think the key to success is the execution of it not so much just idea because you know a number of other people will form and I had the idea but I was thinking of executed very different way and I thought my own I guess I you know, maybe I was full of myself a my own unique perspective of what needed to be done would be good enough to protect the
+
+1 (46m 34s):
+idea that this make this important Point again because it is true. A lot of people are paranoid about talking about their ideas. But ideas ideas are a dime a dozen and and 10-20-30 a hundred other people may have had the idea that you had thousands may have but it's executing idea. Well, which is something that you have to believe only you can
+
+3 (46m 56s):
+do Absolutely, and you know, it's interesting you say that because the other thing that happened is as a scrappy entrepreneur, one of the things I try to propose was hey, why don't I just give you a cut of the equity and you and you can work for free, but even they weren't willing to take that
+
+1 (47m 14s):
+risk? Yeah, because otherwise they'd never get paid. I mean everyone is going to be calling them up with every
+
+3 (47m 20s):
+idea. That's correct. And so they weren't they weren't willing to do it and which I fully understand and but it worked out. Well, I guess.
+
+1 (47m 27s):
+So you hired them to build a prototype of what this could look like in like an MVP a minimally viable
+
+3 (47m 35s):
+product. Yes. So before I hire them actually flew over to Kiev to meet with them and we spent two days really brainstorming on the idea the they challenged me to a lot of different ways. I learned a lot from them, but I actually came back to the States initially not thinking that I was going to do the idea actually came back from the meeting thinking man. This is Much bigger than I thought maybe maybe it's too much to do but I ended up changing my mind why a few things happened around the same time. I found that my mom's cancer was terminal and I think it gave me a sense of carpe diem a little bit and just really realizing that you know, who knows how much time we all have your like.
+
+3 (48m 25s):
+Here's my mom and She's dying. What she make the same decision if she was faced with the same decision knowing her life span. How what decision would she make that really changed my thinking around? Go for it.
+
+1 (48m 43s):
+You're thinking who knows what's gonna happen to me tomorrow? They're do this
+
+3 (48m 47s):
+correct now is the time to do it. Nothing's guaranteed. You can try to wait for the perfect moment that perfect idea. They're perfect the perfect development sequence or you can start with this place and started with what you can do and expand from there.
+
+1 (49m 5s):
+All right, so you decide to do this and how much was it going to cost you to get this prototype? Built
+
+3 (49m 13s):
+a little over two hundred thousand dollars is what we thought they were
+
+1 (49m 15s):
+closed. Wow. Did you have that
+
+3 (49m 18s):
+money? I had most of it but it required doing a lot of things to tell you not to do so I had to empty every single dollar my
+
+1 (49m 26s):
+401k and pay the pay the penalty
+
+3 (49m 28s):
+presumably. Yep. I had to use every single Dollar in my savings account. I had to borrow a little bit on top of that. I need to borrow a little bit from Lending
+
+1 (49m 38s):
+Club at a high interest rate at a very high
+
+3 (49m 40s):
+interest rate. So Cobble together my 401k and my savings and then then some debt and maxed out all my credit cards and put it all in on this on this idea that at the time didn't even
+
+1 (49m 56s):
+have any I mean, that's a really big risk. I mean, yeah, you know you were what 3132 I guess it still could recover if it was a disaster. But I mean wow that's a lot of money you were basically cleaned out. I'm assuming yes, aren't you nervous?
+
+3 (50m 15s):
+Not at all. It sounds crazy to say that now it could have done it could have been really really really bad and I would have sent me back many many years if you didn't work out but not at all. Here's why I've learned a lot from my previous failures. I felt like you know as crazy as it sounds I felt like I had a calling to do this right for number of reasons. I felt like I spent all my life in sales and I think I really understood. I thought I knew a lot about meetings and media netiquette and what works what doesn't work. I felt like I actually don't like the e-commerce businesses and I tried to start I actually know a lot about software businesses and I felt like I because I spent so much time researching the the space.
+
+3 (50m 57s):
+And I felt like I knew exactly what needs to be built to build a great business so it sounds crazy but I wasn't I wasn't scared.
+
+1 (51m 6s):
+So this is 2013. You put all your money into this product to be built this company rails where most that money's going to them? What did you tell them? You said Okay. I want this to be like a calendar that somebody can just say hey, here's a link to my calendar you pick a time when you want to meet me and that calendar. Would be integrated with whatever they used whether it was Google or Microsoft or whatever. Yeah, so a few things. So
+
+3 (51m 34s):
+before I ever met rails where I've actually come up with my own requirements document. Okay, so it's again something I didn't do with the previous businesses. So I had I create my own detailed list of requirements and detailed flows that need to happen that needed to be built and also my own sequence of how the work needed to be done. So what were your requirements? Oh, man, you need to be able to integrate your Calendar be able to specify your availability and all these different ways you to guard your availability. And so, you know, I thought the user experience and design just needed to be front and center. I can just needed to be appealing functionally. And also, aesthetically we get really fancy with with how we detect the time zones to make it really really accurate without the user having to you know intervene at all.
+
+3 (52m 23s):
+So there are a lot of technical small little technical details that really made a difference in the Use experience that we had to
+
+1 (52m 28s):
+figure out. Alright, so you get this product it takes about 6 or 7 months meantime. How is your mom doing? This is 2013. Yeah, so she
+
+3 (52m 39s):
+died about two months into the into the development. So she died in June 2013.
+
+1 (52m 46s):
+Did your mom know much about what you were working on?
+
+3 (52m 48s):
+Not really so I kind of downplayed it to her. So I told her that I was you know, she knew about that she knew about the previous businesses, and she she supported my my different business ideas, but she wanted me to she wanted me to prioritize my day job, but she thought it was you know, it was But I was doing really good with my job in that. She didn't lose. She didn't want me to lose focus at that. So in some ways I downplayed what I done to her, but I'd really committed a few hundred thousand dollars to it. You never
+
+1 (53m 22s):
+told her I did not because she wanted you to have security and health insurance and all that stuff. Right?
+
+3 (53m 29s):
+Correct all the things that she felt like she wanted for her son and she wishes that that my dad always provide it right?
+
+1 (53m 37s):
+Yeah. So after her death, I mean How are you able to kind of just because you were in the midst of building this thing? Like this was intense. I mean soon after you were you were in Ukraine again? How do you stay
+
+3 (53m 53s):
+focused? Yeah, so I poured myself into the into the business into the product. And so, you know, it was a very very very difficult thing for me very very difficult. Even for me but Callum it became a huge distraction
+
+1 (54m 10s):
+from
+
+3 (54m 11s):
+and I just I want Like a dog so I don't have to think about
+
+1 (54m 17s):
+that. So by the Fall around September of 2013 the first version of this product is available, but you would spend all your money on developing its so, how are you going to I don't know pay for the servers and pay for I mean get the word out about it. I mean because you had no money left, right?
+
+3 (54m 41s):
+Yeah, so I got no help along the way through rails were actually so a few things happened. As roles where was built in the product. They got connected to another potential client a software company in San Francisco that's gone on in done really well to multi-hundred Million Dollar business now and in fact company was looking to engage them to do some work for them. And so rails were was was like, hey, let's show you this product that we're building, right? So the show them commonly. And at the time calendar is not quite it's in a not quite ready to be in a public beta but what ends up happening is they love the product and so somebody from their from their customer success team signs up for the product and starts using it to schedule onboarding calls with their customers, which those customers happen to be k 2 K through 12 schools.
+
+3 (55m 41s):
+So a customer success person from this company in San Francisco start scheduling onboarding calls with Okay through to our schools.
+
+1 (55m 49s):
+Yeah,
+
+3 (55m 50s):
+so the cats out of the bag at that point
+
+1 (55m 52s):
+because when you send somebody your calendly link and they see it. They're like hey, what's this? I want this to
+
+3 (56m 1s):
+exactly they say I schedule a lot of meetings that was easy. I would love to use this to simplify my medians and so the K through 12 school start adopting it and then they turn around and start using it for parent-teacher conferences, right? So the use Is goes from we're doing using it to do onboarding calls to these schools are during parent-teacher conferences with it. And then you know a few weeks in a school comes to us and says this is the best thing that ever happened to us. We've been struggling with parent-teacher conferences. We strobe. Wow, you know how you know, you know the administrative burden of setting them up the participation rates. We want to roll this out to all of our teachers
+
+1 (56m 43s):
+and what school where's the
+
+3 (56m 43s):
+school in Kentucky? And so they come to me and they say they want to sign up 80 teachers and I just a teacher's which at the time was a lot of
+
+1 (56m 53s):
+people now just interrupt hope what was your business model. How would you make money off of this at that point?
+
+3 (56m 58s):
+Yeah, so I'm glad you raised that because I think like the dimension that so because I ran out of money. My idea the business model going into it was to have a 14-day trial. So you can use the product for free no credit card. No feature restrictions for free for 14 days. And at the end of this 14 days, you would have to upgrade with the credit card
+
+1 (57m 20s):
+while and then pay like a subscription fee exactly.
+
+3 (57m 24s):
+But because I ran out of money we couldn't build a the billing features and so by default the product became a hundred percent free.
+
+1 (57m 32s):
+You couldn't build a filling.
+
+3 (57m 34s):
+Features, correct because I ran out of I had just enough money to build the scheduling capabilities, but not enough money to get the round to to enforce the billing. So no way to capture revenue from your potential users. You
+
+1 (57m 49s):
+couldn't just like set up cause I guess you can't really sit up QuickBooks, right?
+
+3 (57m 52s):
+Or you can set up quick looks like it's with an online product. You have to find a way to restrict the features if they're not paying. Yeah, there's some technical complexity. There is some work that needs to be done to to kind of turn the feature. Is often done based on their trial status their payment status collecting the payments initially. I mean to just to give you an idea initially that's that was for maybe two or three months of work for two Engineers to work on that.
+
+1 (58m 17s):
+Well, okay, so you could not do the see you see you are forced to give this away now, but then how are you going to pay for it? I mean giving it away. How are you going to make money well and was the plan to just get a bunch of users and then kind of figure it out. Hopefully you would get in
+
+3 (58m 33s):
+bed. Expedite that has to become the idea. So I was faced with this dilemma. So keep in mind. I'm still working my still working my full-time job as whole time today job. Yeah, so I hadn't left that. So this is you know, this is my side hustle. I was still you know, it's meeting my application to the company. I was actually had a really good year that year and so I felt like so long as I was, you know, it was not interfere with my job. It didn't really I just didn't feel like I needed to disclose it. And so I have this dilemma in which the business is growing, you know in the sense that I will sign up for it and every time every day the sign is a growing because of the virality of the product that because people again good value from these in the product, but I had no I didn't have the money to to turn it into a revenue generating
+
+1 (59m 19s):
+business and and just to clarify it really started with this one software company in San Francisco and then went to teachers and then from there it just organically grew exactly so the
+
+3 (59m 30s):
+first you know, 300-500 signups really came. Heavily from K through 12, but after that initial wave of K through 12 is spread to all kinds of different Industries expect to people in all kinds of different roles. It was salespeople as recruiters and was Freelancers most Consultants. I just began to spread like a wildfire.
+
+1 (59m 51s):
+When did you know or what did you feel comfortable leaving your job your day job.
+
+3 (59m 57s):
+I wouldn't say so. I don't know that I actually felt comfortable, but I knew that a decision had to be made because I know In the growth of calendly. I realized that won this thing was growing in spite of the fact that I was just doing it part-time and to I own a hundred percent of this thing. I was growing and so to me the choice was very
+
+1 (1h 0m 18s):
+obvious enjoying this time. Did you tell anybody about Electro idea or or did you keep it a secret? Like did you just tell your friends about it?
+
+3 (1h 0m 27s):
+I told my close friends. I definitely told my my my brothers and my siblings
+
+1 (1h 0m 31s):
+did people think it was a good
+
+3 (1h 0m 33s):
+idea. No, they didn't Think so. I thought it was a solid problem. I remember when I when I was leaving and I told my boss. I was leaving. It's like your Leah for that. He felt like he'd feels me that I you know, like he felt like I was like I got get desperate and I and I'm pursuing you know scheduling that's a solved problem like nobody needs that but yeah, it was not it was definitely not obvious. I didn't quite know how it's going to fund it, but I think there's decision to me was clear and so I began to Put together a pitch deck then started going to different events trying to meet
+
+1 (1h 1m 10s):
+investors and at that point you still had not you willfully you'd funded this thing by yourself funded in myself
+
+3 (1h 1m 18s):
+and ran out of money and then I convinced Trails where tour for not work for free but to work with understanding that when I raise money, I would pay them back. So wow, I was able to get them to work on
+
+1 (1h 1m 31s):
+credit. There's a quote of yours. I read and I want to read it to you. I'm curious to ask you more about it because you describe the process of trying to raise money. You said everyone said no. Meanwhile, I watched other people who fit a different profile get money from them for shitty ideas. Those VCS were ignorant and short side of the only thing I could attributed to was that I was black. Can you can you walk me through your experience trying to raise money?
+
+3 (1h 2m 2s):
+So I think first of all, I think it is difficult for pre-revenue businesses in general to raise money, especially in the Southeast right because I think that the farther you ate you are away from the coast and more they are more investors value revenue or as yeah, when you're on the coast, I think they care more about growth. So I think that process for anybody's as challenging but I'm sure race big play some aspect in it, but it's not really there's probably more to within
+
+1 (1h 2m 32s):
+that but did you but I mean you didn't really it sounds like you didn't really kind of pitch to investors at this point yet.
+
+3 (1h 2m 39s):
+I definitely should investors it. Yeah, and I got
+
+1 (1h 2m 42s):
+all in all in Atlanta the Atlanta
+
+3 (1h 2m 44s):
+area all in the Southeast people in Atlanta people in the Southeast. I had you know a guy from a pretty big firm. Not only did he feel like I mean, I'll tell you I had a very What I thought was a very condescending kind of experience. So at the time I was actually in Kiev, right? So I'd flown to Kiev to work with rails where and I stayed up till 2:00 a.m. To meet with this person and then he stands me up right. So just a lot of like a lot of experiences like that or just it's one thing to not invest but it's another thing to check out of treat people like that. Yeah. How much is that is just the arrogance of you know, somebody who thinks are in important these C versus Ray's I know a guy who knows but I mean, I do know that many other entrepreneurs who didn't have as much who hadn't made as much progress.
+
+3 (1h 3m 38s):
+Had more friends than I did.
+
+1 (1h 3m 40s):
+So how did you eventually wind up connecting with people who who did want to invest?
+
+3 (1h 3m 48s):
+Yes. So I started going to different events. I got started connecting with people in the startup community and then I ended up signing up for a membership at a at a place in Atlanta called the Atlanta Tech Village, which is a it's a co-working space specifically for Tech startups. And it's while I'm connecting with different investors that the the owner of the Atlanta Tech Village catches wind of calendly David Cummings is his name and he thinks it's really interesting because he at the time he was actually using a competitive product and so he knew firsthand that this is a big problem and he was impressed with what we done and so we get
+
+1 (1h 4m 33s):
+connected huh? So what happens
+
+3 (1h 4m 36s):
+so we have a Or two meetings and he falls over the term sheet and says I'm I love what you're doing. And I think that this is this can be big. I'd love to invest
+
+1 (1h 4m 49s):
+I read that s like $350,000 or something like that. What are you nervous about taking that investment? Cause you want a hundred percent of this thing, but at the same time you needed the money. Yeah, so
+
+3 (1h 5m 0s):
+I was ambivalent about raising money to be honest with you because you know, I feel like I started the business, you know, the most difficult way possible in a really Lee, you know putting everything I had risked everything I had to start the business and so in some ways I felt like a step backwards to have to cede some of the ownership but once I met David that changed in the sense that I felt like I was going to have a when I was going to be, you know working with this successful entrepreneur that himself and not just a money man, right? I felt like I could learn a lot from from him.
+
+1 (1h 5m 39s):
+And so
+
+3 (1h 5m 40s):
+then Bivens I had went away once I hit once I met him
+
+1 (1h 5m 43s):
+so it's it's a spring of 2014 and you get this this investment in your business of about $350,000 and how much runway does that give you a at that time. I mean was that because I mean I'm assuming the business even in April was like was just you right?
+
+3 (1h 6m 3s):
+That's right. So it was just me I was the only employee and then, you know rails were and That ended up give me I want to say something like nine months of Runway.
+
+1 (1h 6m 12s):
+And do you remember how many I don't know? How many people had you signed up by, you know a year into it by September of
+
+3 (1h 6m 20s):
+2014 maybe about 15,000 at the time
+
+1 (1h 6m 23s):
+like just pretty good and I'm assuming that in that first full year 2014. You really had to figure out a plan to make this profitable right to monetize this
+
+3 (1h 6m 33s):
+yes. And so that became you know priority number one was I raised the $350,000 because honestly, I didn't enjoy the fundraising experience. And yeah, it's not and I Make sure that I was I never really had to do that again. And so I prioritized generating Revenue by August 2014. We turned on billing and introduced a Premium plan until we start generating Revenue in August of 2014.
+
+1 (1h 7m 5s):
+And how did the Premium plan work?
+
+3 (1h 7m 7s):
+So that actually created it created some function of the time and you know looking back on your would have done it differently, but
+
+1 (1h 7m 12s):
+part of friction with
+
+3 (1h 7m 14s):
+customers he and users and so some portion of the existing user base was disappointed that they had now had a paper product that was hundred percent free, right but really what the with a Premium plan did was he basically we still had a free product but we just limited what you could do on the free plan. And so you had to upgrade to the Premium plan to get part. Let's call it 60 percent of the features. You may be to get for free before
+
+1 (1h 7m 39s):
+right? And what was what are you charging for
+
+3 (1h 7m 42s):
+it $10 monthly if You pay if you paid monthly or 96.3 paid
+
+1 (1h 7m 48s):
+annually and was your idea already at that point that hopefully one day big companies like Microsoft or you know, Microsoft would like, you know, big companies would use your your service
+
+3 (1h 8m 1s):
+it absolutely was that the plan to eventually begin to acquire larger customers, but some of that was already happening, right? So we were getting no pockets of you know a department in in those big Genesis using our product
+
+1 (1h 8m 16s):
+and do you I mean do you at this point do you just kind of do you continue to seek out outside investors or do you decide to just see if you can make a go at it, you know through cash flow Revenue a little bit of both. So
+
+3 (1h 8m 31s):
+we start to generate revenue and it definitely extends the runway and I forget exactly how much additional time it gave us, but we ended up raising an additional $200,000 in early 2015. Team as cushion is an insurance policy of sorts. We ended up not needing it. Wow, but we
+
+1 (1h 8m 50s):
+did so did you ever go get VC money at
+
+3 (1h 8m 53s):
+all? No, not after that.
+
+1 (1h 8m 55s):
+I said, what is the total amount of money
+
+3 (1h 8m 57s):
+raised on the balance sheet just the half the $550,000. That's all the outside Moon that's going into the
+
+1 (1h 9m 3s):
+business. That is all the outside money that's gone into calendly. That's correct. I believe that you you will do what close to 30 million dollars in Revenue this year
+
+3 (1h 9m 13s):
+60
+
+1 (1h 9m 16s):
+I mean, what are you ever worried that that me given that you didn't raise that much money. And now you've got how many users do you have now? I mean monthly
+
+3 (1h 9m 23s):
+users about 9 million people use the product on a monthly
+
+1 (1h 9m 27s):
+basis. Were you ever worried that some big company like, you know, like Microsoft or Google or somebody else would just come in and with a lot more money, you know and just gonna Crush you
+
+3 (1h 9m 39s):
+I used to what I found is that you know when you spend a lot of time with your customers, I think you You find out that there's a there are a lot of things that they want to do that need to be done that maybe those companies don't have appetite for doing
+
+1 (1h 9m 53s):
+you now are based in New York,
+
+3 (1h 9m 55s):
+right? I live in both Atlanta and New
+
+1 (1h 9m 56s):
+York in okay the but the company is based in Atlanta. That's correct. And how many employees do you have
+
+3 (1h 10m 3s):
+a little shy of
+
+1 (1h 10m 4s):
+200? Wow, what what is so I mean, you can basically operate in covid X really like like everything's normal. Yeah.
+
+3 (1h 10m 14s):
+I've been impressed by Hydra. I think the team has been and we've been able to stay productive and actually grow even faster as a remote company
+
+1 (1h 10m 25s):
+has Pez you have you seen growth in in people signing up after covid or has it slow down we've seen growth.
+
+3 (1h 10m 32s):
+So what we've seen with covid is that it's at its accelerating digital transformation for a lot of businesses some of the industries that were seen that acceleration in or telemedicine. For example higher education Financial Services retail. We've always done well in those Industries, but we've seen an uptick in those Industries really adopt in online scheduling.
+
+1 (1h 10m 56s):
+I mean as you kind of think about, you know with a product you offer and how you know technology changes so quickly what I mean, are you thinking like four or five steps ahead of what calendly might be in five years time to make sure that it doesn't Become obsolete.
+
+3 (1h 11m 17s):
+I do know this. I spent a lot of my time thinking about you know, our overall vision is to take the work out of meetings, right? So we really think about our mission as not just removing the back-and-forth of scheduling, but how can we really automate the entire meeting experience? Right? So if too often not only a major meetings difficult to schedule people sometimes forget to show up when they show up they're not prepared. There's no clear memory lane. Ization of the key decisions that are made and you know action items that are open there should be things that we're looking to fix and there's a lot there and that will keep us very very busy for five years.
+
+1 (1h 11m 59s):
+Would you ever sell the company to you know, a sales force or a huge player like
+
+3 (1h 12m 3s):
+that? Absolutely not. I'm I'm very excited about what we're doing and I feel like we're just getting started. There's a lot to there's a lot to do and so that's not remotely in my radar.
+
+1 (1h 12m 18s):
+When you think about your journey and and what you've accomplished, you know, we've had some incredible lows and your life Som some failures quite a few and this just unbelievable success. How much of this do tribute to to your hard work and talent and how much do you think it has to do with just being lucky being at the right place the right time?
+
+3 (1h 12m 42s):
+Oh, that's a great question. So I think everybody's Lucky, right? I think the very fact that I didn't get hit by a bus today that's luck. Right and we're in the same thing for you the fact that didn't happen to you that's luck. And you know, I look at the family. I was born into I think your family really determines your your ceiling in life and your your floor as well. Like how high both how high or low but there's names are and I had no say in the family that I was born into so I feel incredibly lucky there. I picked the right industry, you know, when that's growing like crazy. So all those things are definitely lat. But I think so. I think we are lucky but I think what amplifies that luck and what makes one successful is hard work.
+
+3 (1h 13m 25s):
+It's skill. It's resilient. It's an appetite for risk taken. So that's my view. I think it's a combination of both but I think when you add those four thins it just ticks lock the whole different level.
+
+1 (1h 13m 42s):
+Let's hope I would Hannah by the way Toph wasn't kidding. when he said calendly has grown during the pandemic, in fact the company reported in August that since going into quarantine small business owners have set 13 million more meetings than they did in the same time period before the lockdown Hey, thanks so much for listening to the show this week. You can subscribe wherever you get your podcast. You can also write to us at HIV T at npr.org. And if you want to send a tweet, it's at how I built this or add guy Roz my Instagram at guy dot Roz.
+
+1 (1h 14m 23s):
+This episode was produced by Rachel Falkner with music composed by routine Arab Louis. Thanks also to Kansas limb. There are scales JC Howard, Julia Carney need Grant and Jeff Rogers. I'm Gyros and you've been listening to How I At this this is NPR comedian. Larry Wilmore has had quite the career but maybe his most infamous moment came from a single joke. He made to President Obama back in 2016. There was a rallying cry from people who said yes, sir. One more. Thank you. That was the blackest thing I've ever seen in my life, you know. Listen to the it's been a minute podcast from NPR.

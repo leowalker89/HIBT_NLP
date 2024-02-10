@@ -1,0 +1,983 @@
+0 (0s):
+Hey Prime members. You can listen to how I built this early and ad free on Amazon Music. Download the app today.
+
+1 (9s):
+One year ago, a white man came to a supermarket in Buffalo, New York.
+
+2 (14s):
+He just walked around and shot all the black people.
+
+1 (16s):
+How do you make sense of something this terrible when you're a kid?
+
+3 (21s):
+I think it was all my fault.
+
+1 (23s):
+Listen now to the latest series from NPRs embedded podcast.
+
+Upwork (30s):
+How I Built This is pleased to have Upwork as our presenting sponsor. Visit upwork.com to get hiring. Upwork has a message for you. Everything you know about business, it was made up by a bunch of guys a hundred years ago. Don't stay bound to their antiquated rules like the nine to five workday commuting to an empty office building, or only hiring full-timers. Embrace a new way of working with Upwork. It's a portal to the future of business and it's disguised as a website. Go to upwork.com. There you'll see the light. And also find talent for projects of any size. From simple deliverables to complex projects. From short-term help to full-time hires, you can finally let those old business titans and their tired ideas rest in peace. This is how we work now. Visit upwork.com to get hiring talented professionals today.
+
+Capital One (1m 20s):
+The Spark Cash plus card from Capital One helps you earn unlimited 2% cash back on every purchase. And with no preset spending limit, your purchasing power can adapt to meet your business needs. Jorge Guvera, founder of Masi Enda Reinvests his 2% cash back to help grow his business with new products. And I really love the idea behind Maie. It's a supply chain company connecting Mexican heirloom corn farmers with restaurants, chefs, and consumers. And while Maie is connecting more people to the culinary and cultural richness of the Mexican kitchen, it's also elevating traditional heirloom farmers that work in areas that live below the international poverty line. Imagine what the Spark Cash plus card from Capital One, an unlimited 2% cashback on every purchase could do for your business. Capital One, what's in your wallet? Find out more@capitalone.com slash spark Cash plus terms and conditions apply
+
+1 (2m 14s):
+before we start the show. A quick thought about writing. I recently interviewed Nick Kroll, who's written hundreds of hours of sketch comedy. But here's the thing, Nick never sits down in types. In fact, learning how to write verbally made him way more creative and successful. And if you wanna hear more about it, check out my conversation with Nick Kroll over on my other podcast. The Great Creators just search for the great creators with Guy wherever you listen to podcasts.
+
+0 (2m 42s):
+And now onto today's show.
+
+5 (2m 53s):
+I stayed late one night and I was really proud of myself cuz I sheet rocked the entire kitchen every last
+
+0 (2m 58s):
+Bit and you were like, awesome. I've done it. I
+
+5 (3m 1s):
+Called in the inspection before 6:00 AM and it is funny because the inspector at the time, he's like, you know Tim, I'm gonna pass you for this, but I just want to show you something about Sheetrock. See these little divots here? That's where you can put the little joint compound and you don't get these big bumps that are on all of your walls because you've installed all of these backwards. Yeah, it's still Sheetrock, it still works. Just, just don't ever tell anybody about this because it's too embarrassing.
+
+0 (3m 33s):
+Welcome to How I built this, a show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. I'm Guy Raz and on the show today how Tim and Carrie League took two demanding businesses and mashed them into one by launching Alamo Drafthouse Cinema, a national chain that serves dinner with the movie. In 2019, movie theaters in the US sold about 11 billion worth of tickets. But in 2020 ticket sales plunged 80% in a single year.
+
+0 (4m 17s):
+Now of course that had everything to do with Covid, but the industry is still trying to fully recover. Ticket sales this year are a lot higher than last year, but still way off where they were before the pandemic People's habits changed. They started getting used to watching new releases at home. And it's hard to know if that change is permanent, but like any crisis in any industry, it also means there are opportunities for brands that can figure out how to differentiate. So when it comes to movies, big theater chains are trying to create better experiences, upgraded seats, better sound, bigger screens and food that is actually good.
+
+0 (4m 58s):
+But long before the industry was trying to turn movie watching into a movie experience, Tim and Carrie League were experimenting with that exact idea. In 1993 with his own savings, Tim rented out an abandoned movie theater with the idea of showing classic films while serving full meals and drinks. He and his wife Carrie, refurbished the place themselves and in order to save money, they literally lived behind the screen of the theater. Now that project fizzled out after about two years, mainly because the theater was in a rough neighborhood in Bakersfield, California, not exactly a prime spot for sipping a glass of rose while appreciating the finer points of Citizen Kane.
+
+0 (5m 41s):
+But that shaky experiment in Bakersfield eventually grew into Alamo Drafthouse Cinema, a chain of now 40 movie theaters across the US that was among the first to offer full meals and drinks served to you while you watch a first run film. Now running a movie theater is hard enough, but adding in a restaurant on top of it is even harder. Each of them have their own challenges around licensing, labor, logistics, you name it. But Tim and Carrie figured out how to make it work by focusing on building a sense of community at each of their theaters, which you will hear about. And as with so many other founders I've talked to on the show, Tim and Carrie didn't have the slightest intention of going into business or in this case starting a chain of movie theaters.
+
+0 (6m 28s):
+They both went to Rice University in the late 1980s where Carrie studied microbiology and Tim mechanical engineering and art. And they first met when they were freshman.
+
+5 (6m 38s):
+The first stage of our courtship was mornings were, and still continue to be challenging for me, I'm a much more of a night owl late person. And so I had a 8:00 AM calculus class and so I would wake up, set an alarm, open up the door and wait for Carrie to walk down the stairs and then hand her my homework to turn in so I could go back to bed. So that was how we sort of, that's I like that was sowing the seeds of the relationship, you know?
+
+0 (7m 5s):
+Yeah. Alright, so you guys meet there and you, well you become a couple like freshman year and that was it. Yeah,
+
+7 (7m 10s):
+Second semester is when we started dating.
+
+0 (7m 13s):
+Wow. So all of those kids that you knew back then and may still know some of them today, are they surprised that, that you got, I mean, because they're all, you know, everyone remembers like that couple that meets freshman year of college and maybe stays together for four years or maybe splits up. But here, here we are, like we're talking like 35 years later.
+
+7 (7m 35s):
+I think that they thought that it was strange that we were together at the time. And in fact, I think that a lot of people didn't know that we were together probably until senior year. Huh?
+
+5 (7m 45s):
+Like your parents? Yeah. Your parents didn't know.
+
+7 (7m 47s):
+Wow. Yeah, we were definitely an odd couple.
+
+0 (7m 53s):
+Yeah. Alright, so you guys graduate in 1992 from Rice University and Carrie you decide to pursue graduate work in microbiology to pursue maybe a PhD.
+
+7 (8m 7s):
+Yeah, and And I will say that my relationship with Tim was a deciding factor in where I went to school
+
+0 (8m 14s):
+Because he was going to California to go work for Shell. Right. And that job was in Bakersfield. And I've been to Bakersfield many times and there are like oil rigs there. Is that, I mean, is that why there's a Shell presence there, presumably? Oh
+
+5 (8m 27s):
+Yeah. I mean if you watch the movie there will be blood. That's kind of the, the, the Kern Valley Oil epicenter. It's a huge reserve. And so it's all stems from Bakersfield.
+
+0 (8m 38s):
+And you are an engineer for Shell and Carrie, you're up at, at Davis uc Davis, which is like what, five hours apart, but still you're both in the same state. And tell me about that job, Tim. I mean, was it, I mean you get there 92, I'm sure you're paid pretty well, but it was maybe soon you get there and you realize it's not the right fit.
+
+5 (8m 60s):
+Yeah, it's really, it was day one, you know, I filled out my paperwork. I, you know, signed up for my 401k, got my health insurance all sorted. And then the head of HR said, okay, well all you gotta do now is go down to the basement and pick out your art. And like, I mean, she didn't know, but that like left me cold and my tracks like, what exactly does that mean? And I can't wait to go see what this basement is. And so I went down and you had an office with a window and three walls and so you went down to choose what paintings would be on your three walls between, you know, they had landscapes and oil derricks or a combination of landscape and oil derricks. So you could choose whatever, like spoke to you and then put it on your wall.
+
+5 (9m 41s):
+And it was at that day where it's like, okay, I don't think I'm gonna fit in here and I gotta now maybe a little bit too late in the game figure out what I wanna do with my life.
+
+0 (9m 52s):
+Wow. And Carrie, you, you're up at, at uc Davis and presumably working towards a PhD in microbiology.
+
+7 (10m 2s):
+Yeah, it was interesting because I was with this other group of PhD candidates and I'd say, oh, I see that negative land is coming to town. Does anyone wanna go see a show? And they'd tell me, no, I think that the new addition of microbiology today arrives in the mail today, so I, I can't go anywhere. And that was sort of when I realized that in a competitive field like that you could have no outside interests and I was doomed. Hmm. And when we would call each other every night and see each other almost every weekend, a huge part of our conversation revolved around, we've made a terrible mistake.
+
+7 (10m 45s):
+Yeah. What are we gonna do? And we would fantasize about opening a small bookshop or you know, running away to be tour guides in Costa Rica or, you know, millions, millions of ideas.
+
+0 (10m 60s):
+Alright, so the two of you are in different parts of California and presumably trying to see each other as often as possible on the weekends maybe driving up Tim to Davis and you're at Shell I think for maybe a year or maybe less, I don't know how, how long you actually work there when you, when you come across a movie theater in Bakersfield that is available for lease. Yeah,
+
+5 (11m 27s):
+So on my way to work was this abandoned theater and it had always been there, so I passed it, you know, a hundred times. But one morning it was different. It had the red marquee letters on it said four lease and it was those red letters that was really the, you know, stereotypical light bulb moment. I just drove in in the morning, couldn't stop thinking about it all day. It was Thursday or Friday. And I went out to a bar that night and just was waxing poetic about this great idea about opening up a cool venue, showing really amazing art house and classic movies in a classical theater. And I just got obsessed with it.
+
+0 (12m 5s):
+I think it was called the Teon Theater. And so this theater is available for lease and you start to think, hey, this could be cool, but like, did you call Carrie and say, Hey, yes, this, yeah. Tell me about that conversation.
+
+5 (12m 22s):
+Well, I I I just wanna clarify some of your language. This seems to imply some sort of thoughtful approach to decision making. It was a
+
+0 (12m 31s):
+Methodical strategic plan.
+
+5 (12m 33s):
+Yeah, I think the amount of time we're talking about from turning left on Baker Street and seeing that for lease signed to signing the lease, I think was about eight days.
+
+0 (12m 45s):
+Eight days.
+
+5 (12m 47s):
+Yeah. So I mean, I know I talked to Carrie immediately Yeah. And was super excited about the idea. And then probably the next conversation was that we're gonna do this, we're gonna make this happen. I've got some business books at the library. We, this is not gonna be that hard at all. We can totally do this. And, and it was, I don't know, I I say often like the, my two greatest strengths at the time were arrogance and ignorance. That just drove me forward because I should have thought it through maybe a little bit more,
+
+0 (13m 14s):
+And I mean, I'm not criticizing at all, but I think you were like 23 at the time and it, I mean there's a romantic idea of running a movie theater, but, but there's a difference between the idea and actually doing it and knowing how to do it. Yeah. And, and it had everything you needed inside. It had a screen, it had projectors, it had seats. It was, you just had to like do some dusting and it was ready to go. Oh,
+
+5 (13m 36s):
+I wouldn't quite go that far.
+
+7 (13m 38s):
+I would come down on a weekend and I would load my car up with as many seats as it could hold. And then I would spend the rest of the week every evening Reupholstering seats
+
+0 (13m 51s):
+Like yourself. Yeah,
+
+5 (13m 52s):
+Yeah, yeah. Carrie reupholstered 90% of the 500 seats of the first theater. And I would spray paint the bases and backs and then Carrie would take the raw materials and watch movies through the week and then meet me the next weekend
+
+7 (14m 5s):
+Because at this point I had really given up on my biology.
+
+0 (14m 11s):
+Yeah. So the plan was, alright, let's take this over. And, and do you remember how, how long it took you before you were ready to open it? I mean, you signed the lease, I think it was in 93 at some point, but do you remember, was it a month or two months or three months before you actually had had done the work to renovate it?
+
+5 (14m 30s):
+I, I think it was around three or four months. We didn't have any projectors. So there was a friend of ours that ran a punk club and he had stripped out some projectors from a dollar theater and I bought those from him for 2,500 bucks. And it was part of the deal that he had to show me how they worked, like how to take them apart and how to operate them.
+
+0 (14m 54s):
+And you were, I mean, you were still working at Shell so yeah. You were financing all these renovations through your salary and savings.
+
+5 (15m 3s):
+Yeah, so I lived very, very frugally cuz I was planning to do something. So I saved every nickel that I made. I was probably making close to 50 grand a year in the mid nineties. Yeah. And I, I had accumulated $50,000 and two years at Shell. And so that's what I used to open up the first one that, that nest egg.
+
+0 (15m 24s):
+And did you sort of think through how you were gonna do this, you were gonna work, do do your day job and then run the theater at night? Or like hire people to, to run? Cuz movies also play during the daytime, right? When you're at your other job?
+
+5 (15m 37s):
+Not at ours. We were just at nighttime. Okay. But I should probably take this opportunity to apologize to the Shell Oil Company for being probably one of their worst employees. I Right. It did, it got to a point where the head of HR said, well Tim, we've, we've come to a crossroads, you're either gonna need to quit or I'm gonna have to fire you. So then, then I was down to one job and you know, so we opened up and turns out that it was a lot harder than I expected and it was all consuming and I was underwater. I was just, I was just floundering.
+
+0 (16m 9s):
+I read that you guys opened with Susan Kane, which is awesome. I mean great obviously California story and, and one of the greatest movies of all time and were, were all your dreams fulfilled that night? Was it sold out packed and it was amazing. Glamorous and Yeah,
+
+5 (16m 22s):
+It was amazing. I it was a wonderful night. There was, you know, there was, it's pretty full, I think there was maybe 250 people there. And it just felt amazing and great. Everything was working. I was exhausted but like completely fulfilled. And then the next day we showed Christov Kiki's Blue.
+
+0 (16m 43s):
+Oh yeah, good film.
+
+5 (16m 44s):
+A wonderful film. Yeah. And two people came.
+
+0 (16m 49s):
+Two people.
+
+7 (16m 50s):
+Yeah. There's something that I should mention about the location of the theater that Tim had signed a lease for, which was a, in Bakersfield there's a very distinctive delineation between the right side of the tracks and the wrong side of the tracks. There's literally
+
+5 (17m 5s):
+Tracks.
+
+0 (17m 6s):
+Right.
+
+7 (17m 7s):
+And yeah, it, we were very firmly on the wrong side of the tracks where we were continually having to shoo away drug dealers and prostitutes off of our front steps.
+
+5 (17m 19s):
+Yeah. And there was a, there was a payphone attached to the theater and I got so angry because of the drug traffic out of that payphone that I probably with hedge clippers cut off the receiver at least 15 times and they just kept on replacing it. Going back to arrogance and ignorance, you know, something that was drilled home to us very strong was that location, location, location mantra that some people that may have paid any attention to running a business, opening a business might have heard. I, I didn't, I, that was news to me.
+
+0 (17m 50s):
+And, and so how did you, I mean, I don't obviously know the economics of a movie theater, but presumably like a certain percentage of every showing you, you know, you want, you want it to be, I don't know, 10 or 15% sold in order to cover your cost or something like that. Yeah. Because running a movie theater isn't like the, the church night movie where you charge everybody a dollar and give them popcorn. Cuz that's not actually, technically you're not supposed to do that. I think you have to pay a license fee even though, you know, that happens all the time. But in, in a movie theater like you, you have to pay the distributor for the rights to, to project that film onto a screen. And so whether 10 people are there or or or a hundred people are there, doesn't matter.
+
+0 (18m 32s):
+You still have to pay.
+
+5 (18m 33s):
+Yeah. And going back to that, that time, one of my first moves was I bought a copy of Box Office magazine and it had the names of all the studio and the indie distributor contacts with phone numbers. And so I just ended up calling everybody and I, you know, it's just saying, Hey, I, you know, I'm, I'm, we're gonna be opening up an art house theater, I don't know how this works. Like how does this work? Can you tell me how it works? How do I get movies? And really without fail they were so kind like it was just, it was a novelty, I think. And the way it generally works, there's a, a minimum of like a couple hundred dollars versus 35% of the box office that's kinda like the standard for second run art house films.
+
+5 (19m 21s):
+And I can tell you that we predominantly paid the minimum cuz 35% did not equal $200. Yeah. The accounting was, wow. Not that challenging.
+
+0 (19m 32s):
+I don't know what the numbers are, but what, was it ever sustainable this, did it ever get to a point where, where this was like, no. No.
+
+5 (19m 42s):
+A lot of times we would hope and pray that nobody would come. Cause that means we could go get a cup of coffee somewhere and have a night off. But inevitably, you know, two minutes before Showtime, one elderly couple would come in and they'd watch whatever. Yeah. We're playing and you know, the show must go on. But it never, never gained much traction. There, there was a diehard group of probably 200 people in Bakersfield that loved what we were doing, you know, that was our community. But it yeah. You know, they, they go to the movies three or four times a year and it just wasn't sustainable for us.
+
+7 (20m 13s):
+Yeah. Although our costs were very low. We had no employees. We lived in a little room that we had carved out behind the screen.
+
+0 (20m 22s):
+Behind the screen in the theater. Yeah.
+
+7 (20m 26s):
+And we ate meals that I prepared in the Crock Pot every day using probably a dollar worth of ingredients. Wow. And we didn't have any shipping costs because we would drive down to Los Angeles and bring up the film prints ourselves and go to the depot where we got the popcorn and the candy and we would also pick up the posters and the advertising materials that we would need. And
+
+5 (20m 54s):
+We didn't even process that. That's not normal, you know, like we were the only ones coming to National Screen Service and the Popcorn Depot to pick it up in our car and drive it back to Bakersfield. But it did save us, you know, upwards of probably $150 a week on shipping that we just didn't have.
+
+0 (21m 11s):
+I have to assume that, that the money that you make in a movie theater is from like, concessions from like popcorn and candy. But one of the things I guess you guys started to do there was to serve food with, with movies. How did you, how did you decide to start doing that?
+
+5 (21m 28s):
+So we started partnering with local restaurants. It was kind of the, when we worked really hard and we put together special events that were thoughtful and creative, then people would come. And so we would do these events where we'd show, you know, like I post and have an Italian feast associated with it and have an elevated ticket price and we'd split the profit with the restaurant.
+
+0 (21m 53s):
+And by the way, did you, were you able to sell alcohol?
+
+5 (21m 56s):
+Well, we wanted to. That was the original plan. And during that three or four month period of construction, you know, I had finished a pretty heavy day of construction. So I'm wearing a dirty t-shirt and, and cutoff shorts. And I was, you know, 24, I think 23 at the time. But I looked, I think about 14. And so I, I just strolled into the alcoholic Beverage Commission office and said, I'd like one of those alcohol licenses please. And we were turned down. So that was one of the main reasons I think if we could have gotten that alcohol license, we might have actually been able to sneak through and make it work.
+
+5 (22m 37s):
+But I will say at this time, about a year into it, you, you do the, the math on it. We've been under the most high stress environment of a failing business, living together 24 7 without a break from each other for a year. And we're still in love and we're still enjoying our time together. So, you know, after what, eight years of being together, I finally realized that means it's like, it's, it's time to propose. And so Wow. So we got married in the middle of all that.
+
+0 (23m 5s):
+This is in, I think in 1995. And Carrie, when you told your parents that you were marrying Tim, they were like, great, you're marrying a guy who's got a failing movie theater. Awesome.
+
+7 (23m 19s):
+They were very ambivalent about the whole thing the whole time.
+
+5 (23m 23s):
+I, so I think my, my parents were more disappointed in me right. Because of throwing away the career. And we explained this also to our parents, and I think this probably takes a little bit of the edge off of it, is that we had come to peace before we started with the idea of total and complete abject failure. Right. So we knew that that was a high probability given the nature of the business that we were going into. And so we had no obligations, nobody counting on us other than ourselves. And so why not, like, give it a shot? It could be fun, it could be changing, it could change everything. And if we fail, we'll put our tail between our legs, we'll not talk about it again and we'll go become engineers and researchers again.
+
+5 (24m 10s):
+And so they knew that and weren't devastated by that. They were, they were supportive.
+
+0 (24m 15s):
+All right. So meanwhile, you're, you, you guys are running this theater and, and you, you make it to year two and I think you're doing some, some pretty cool things by year two. You like, like you start to host live music, live bands. And, and so can you tell me a little bit about this? I mean, I'm, I'm thinking about Bakersfield in the nineties and I'm, I'm trying to, I grew up in LA and Bakersfield in the nineties had, I mean, corn came from Bakersfield. Yeah. The band Corn. Right. I think that's the most fam maybe like Merle Haggard is more of, you know, but, or you know, that, that kind of genre of country. But Korn was like the biggest band of the world at a certain point.
+
+5 (24m 51s):
+So that coincides. Right. So we had the Westwood One Radio network, Korn reunion show at the theater. Wow. So it was a big deal. And so this was a, a special show for them.
+
+0 (25m 2s):
+That'd be a scary show. A homecoming
+
+7 (25m 4s):
+Show. It was awesome. They literally shook the plaster down from the ceiling. Yeah.
+
+5 (25m 10s):
+And we also, we would combine silent films and music, which is pretty cool. The first time we did that there. Oh,
+
+0 (25m 18s):
+You'd have like live piano accompaniment or,
+
+5 (25m 21s):
+Or punk bands too. So
+
+0 (25m 22s):
+Punk bands to, to like silent movies. Oh yeah, yeah. The
+
+5 (25m 25s):
+Twenties. That's, oh wow. Like we kind of workshop some fun ideas and said, oh man, like this is a great crowd. Too bad we're they're just drinking water outta the water fountain.
+
+0 (25m 35s):
+The theater would last for about maybe a bit over two years. And I guess the kind of the, the deua to use a film term was a, a live performance in 1996. That was, was a performance by Montel Jordan, who, if any listeners can't remember who Montel Jordan was. The song is, this is How We Do It, which is played up Bar Mitzvah's weddings around the world today. And I don't know what he's sang after he sang that song, cuz I don't know if I don't, you know, you gotta sit through like 1215 Montel Jordan songs until he gets, gets to This is how we do it, which is what everybody came to, to the show to see him sing.
+
+0 (26m 16s):
+He's performing at the theater and I guess there was a pretty bad incident that happened that night. Yeah.
+
+5 (26m 26s):
+So there was some sort of a coral, we think it was sort of a love triangle dispute. And as somebody was driving away, somebody else pulled a gun out and shot and ended up shooting the person who was driving away in the head. And that person wrecked his car into our box office basically and died,
+
+0 (26m 50s):
+Crashed the car into the ticket booth.
+
+5 (26m 52s):
+Yeah. And so that, that was it. We were already, I mean the neighborhood was, was really cool cuz that street was an old street and there was a lot of really fun, interesting business trying to make a go of it, but the crime was just high. Yeah. And so the art house crowd never wanted to come. And with that press, we just knew that's it. And we were, we were gone 30 days later.
+
+0 (27m 16s):
+Hmm. And so you shut it down and then what? I mean, now you are your theater's done? I mean, what next? I mean, did you think about maybe, I don't know, maybe I go to law school, maybe like, or did you carry, did you think maybe I'll go back into the, into a PhD program?
+
+7 (27m 33s):
+No, we had been talking before that incident. We had been talking about trying again in a better location. We knew of the existence of other theaters that served food and drinks during a movie. Hmm. So we strongly felt that if we could do something like that, and if we did it in a place that could support it, that it could be successful. We weren't ready to give up.
+
+0 (28m 3s):
+When we come back in just a moment, Tim and Carrie decide to launch a new movie theater in a whole new city. And in the only parcel of real estate, they can get a parking garage. Stay with us. I'm Guy Raz and you're listening to How I Built This.
+
+Burrow (28m 27s):
+Once a company knows what they do best, where do they go from there? Well, if you're bur the furniture company known for reinventing everything you thought you knew about furniture, you go outside. That's right. Burrow's new outdoor collection just launched with a strong chip resistant, galvanized steel frame and easy to clean fabric. Burrow's Outdoor collection is built for everyday use and to withstand the elements, the modern sleek look and quick drying plush foam cushions bring the comfort and style of indoors outside and the easy to remove cushions make for easy storage when you need to put it away. It's also customizable. Choose from 19 different configurations and purchase individual pieces or bundles to fit your seating needs. And as always, get free shipping on every order, which can save you up to $100 on large items. Like the outdoor furniture in this collection, how I Built This, listeners can get 15% off their first order at burrow.com/built. That's Burrow b u r r o w.com/built for 15% off burrow.com/built.
+
+Bite (29m 33s):
+Do you want a straighter smile without ever needing to enter a dental office? It sounds impossible, but with Bite you can transform your teeth entirely from the comfort of your own Home Bite offers clear aligners that are doctor directed and delivered straight to your doorstep. Prep time for your Smile journey is minimal. Just take an impression mold of your mouth, preview your 3D smile and order your all day or at night aligners. That's it. You'll even get to track your smiles progress every step of the way with the Bite app, plus you'll have access to your clinical team seven days a week. Best of all is that average treatment time for all day aligners is faster and more affordable than traditional braces. Get the smile you've always wanted. Go to byt.com and use code Wondery at checkout to get your at-home impression kit for just 1495. That's code wondery@buy.com for over 80% off your impression kit.
+
+0 (30m 22s):
+One more thing before we get back to the show. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show. It's usually just at the top of the app and it's totally free. Hey, welcome back to How I Built This. I'm Guy Raz, so it's 1996 and Tim and Carrie have shutter the Tajo Theater in Bakersfield, California, but they can't give up on the idea. So they decide to look for another city where they can show movies and serve hot meals all under the same roof.
+
+7 (31m 2s):
+And we figured, well, we learned how to run a movie theater. We can learn how to run a restaurant. How hard
+
+5 (31m 8s):
+Could it be?
+
+0 (31m 12s):
+Oh man. But you decide to do this in Austin in Texas, which obviously an amazing city. Why did you, why'd you decide to to do it there?
+
+7 (31m 25s):
+We had been contemplating a variety of different cities that had a population of young people who liked to go out. Hmm. And fully half of them came off of the list just because I don't like cold weather.
+
+0 (31m 41s):
+So like Minneapolis out Min Boston out. Yeah. Yeah.
+
+7 (31m 45s):
+It just seemed like a good choice
+
+5 (31m 46s):
+And we wanted to be in where the action was and so we had a, we found a real estate broker and they were touring us on sites and we would put in, you know, an offer and we were, we were rejected. It's like, no, we're, we're looking for somebody that has more than a, like a heroically failed business. Yeah. And actually a little bit of money to do this. And so And how
+
+0 (32m 10s):
+Much money did you guys, I I read that you had raised about $250,000 from like, friends, family, anyone.
+
+7 (32m 17s):
+Yeah. So I had told you that my parents were incredibly ambivalent about everything that had happened up to that point. Yeah. And they didn't have a whole lot more faith in this project, but I just wanna give a shout out to my parents whom I adore that they mortgaged their house
+
+0 (32m 38s):
+Wow.
+
+7 (32m 39s):
+In order to lend us a hundred thousand dollars. Yeah.
+
+0 (32m 41s):
+Wow. That's kind of nuts because you, your record by that at that point wasn't amazing. I mean, you guys are obviously smart and passionate, but like you, you weren't coming to the table with a record of success in the, in the movie theater business. Yeah.
+
+5 (32m 58s):
+So there's the a hundred grand from Carrie's folks, my dad and my folks put in 50. We did some really, you know, silly proposal to our friends and we got maybe $10,000 from friends as an investment. We did a series of credit card, you know, take out the credit cards, max 'em out. Yeah. So we got probably 25,000 from that. So I came into the te you know, putting 50 grand in, probably still had, you know, $20,000 in the bank. And then we left with $20,000 in the bank. I think. So we, we had, it was neutral. We,
+
+7 (33m 34s):
+We also took the screen, the projector and all of the seats out of the tejon because it was being gutted on the inside after we left. Right.
+
+0 (33m 44s):
+I wonder what that theater is today?
+
+7 (33m 46s):
+It's a church.
+
+0 (33m 47s):
+Oh, that's okay.
+
+5 (33m 48s):
+It's a common transition. Okay. And then Bank of America had to invest in America loan with, it was like a one page form. Yeah. And so we, we got I think $50,000 from Bank of America and which we paid back in, within a year. And we had a long term still have a relationship with Bank of America. And Hmm. They said, wait, you guys were probably in the, the 1% that paid that back we're not, we're no longer investing in America on those terms.
+
+0 (34m 17s):
+By the way, it just occurred to me it would've made more sense for you to have started in San Antonio, given that you're called Alamo Craft House. You
+
+5 (34m 26s):
+Don't have a, like a a time machine or something there at the office too, because it's really, so the, the story of the name is, I, I loved this neon artist in town, Evan Voyles. And so I sought him out. It's like, I want you to make a sign for us. We have $5,000. Can you do it? It's like, well that's pretty low, but maybe you'll ask me to do more signs down the road. And so let's look, the only way we can make it at this price is you get a rusty old can and I'll put some fresh neon on it so
+
+0 (34m 55s):
+A rusty old can, like a piece of metal, like a
+
+5 (34m 58s):
+Old vertical blade sign. Okay.
+
+0 (35m 1s):
+And then he would put neon on that sign. Okay. Yep.
+
+5 (35m 3s):
+Yeah. Yeah. So he, he's, he, that's his specialty. He does vintage style work on vintage style pieces or mix 'em from scratch, but those are more expensive. Okay.
+
+0 (35m 11s):
+And you go to like a scrapyard and you just find something like that. Yeah.
+
+5 (35m 15s):
+He had a neon graveyard hit a property south of town with like 40 signs. And so we had it narrowed down to two. And I really tried hard to convince Carrie the one I re was really showy. And it's like, and it already had letters. It's like, it's, it's, it's, it's the same price, but we would've had to call our theater chain the Tasty with two E's, the Tasty Burger. And it just, to
+
+0 (35m 41s):
+Her credit doesn't work.
+
+5 (35m 41s):
+No, no, no. It's no.
+
+7 (35m 44s):
+So our neon guy told us, you have to choose a name with
+
+5 (35m 49s):
+Five or six,
+
+7 (35m 50s):
+Five or six letters. And so we looked at each other and we said, well, we wanna be first in the phone book. So it has to start with a and the top of our original building had that kind of Alamo esque shape to it. Yeah.
+
+0 (36m 7s):
+Because there was a time where people would say, huh, what movie theater should I go to? Let me open up the phone. Yes. We have to
+
+7 (36m 13s):
+Explain this. Yes. To all the people who have never seen a phone book.
+
+0 (36m 16s):
+Can you grab the phone book so we can figure out what movie theater we're going to back
+
+5 (36m 20s):
+In my day?
+
+0 (36m 24s):
+Oh man. All right. So you, all right. So you have a little bit of cash to put down for a lease and then, but what did you eventually find? What, was there a movie, like an abandoned movie theater or shutdown movie theater in Austin available?
+
+7 (36m 37s):
+No, we rented the second floor space of what was serving as a garage at the time in the heart of the warehouse district.
+
+0 (36m 47s):
+A garage for vehicles in
+
+5 (36m 49s):
+A parking garage. Parking garage.
+
+7 (36m 51s):
+Yeah.
+
+0 (36m 52s):
+And, and wait, so somebody said, here's a garage, you can turn this into your movie theater.
+
+5 (36m 56s):
+Yeah. Second, second floor only. First floor two valuable. You guys aren't worthy for the first floor.
+
+0 (37m 1s):
+How do you, how do you I'm just thinking I'm in this space and I'm like, okay, there are 50 cars in here. Yeah. We can put the screen there. Like, oh, that's a lot of, I can't even imagine renovating a garage and turning into a movie theater.
+
+5 (37m 14s):
+I, I don't know how he did it. I'm gonna explain like, the list of things that $230,000 bought us because we still had like 20 grand left at the end. So we installed the cheapest elevator, we installed both bent from scratch, men's and ladies restrooms. We upgraded the water service to supply those restrooms. We built a commercial kitchen, we built a projection room, we changed the structural of the columns on the building. So we'd get five extra feet of ceiling height and it doesn't, you know,
+
+7 (37m 43s):
+You put in the H V A C system,
+
+5 (37m 44s):
+H V A C system, new H, like there was nothing. It was just a new
+
+7 (37m 47s):
+Electrical,
+
+5 (37m 47s):
+New electrical, new plumbing. You know, I'm just processing it now. It's just, it's nuts. Another thing that's not very wise,
+
+0 (37m 55s):
+I mean just the, the, the money you'd have to put down to just get that into shape and not let alone, you know, build the, I don't know, just make it look nice.
+
+7 (38m 7s):
+We spent a lot of time at the library learning how to do construction. We bought, we took out books from the library about how to build stuff and in addition, we knew that we wanted pizza to be the sort of the, the core offering of the restaurant. And so Tim took a job at a pizza place to learn how to make pizza. And I took a job as a waitress to try to learn how to be a waitress. And then I would steal paperwork from the management so that I could try to figure out what the managers were doing.
+
+0 (38m 40s):
+Yeah. And so it was about six months of just gutting that building, turning it into a movie theater and built and building a pizza oven as well. Or, or
+
+5 (38m 52s):
+I bought a pizza oven off of, you know, the outta the back of a newspaper. So every piece of equipment that we bought was used.
+
+0 (38m 60s):
+Wow. Alright. So it was gonna serve mainly pizza, but but beer and, and cocktails as well.
+
+5 (39m 7s):
+Just beer and wine to start. And it was pizza, salads and sandwiches. And we actually baked our own bread for the sandwiches for the first few years. Wow. Which is, I say wow. But you know, it ended up being, depends on the day sometimes it was. Wow.
+
+0 (39m 24s):
+And did you, and, and were the what, how, what was a seating like? Was it, were there's like round tables, like in an old jazz club? Or was it Rose like in a movie theater with like little individual desks for food?
+
+7 (39m 37s):
+Yeah, it was rows of seats that were spaced probably two and a half times as far apart as you would see in a normal movie theater. Right. And then we built these banquettes long tables in front of the row.
+
+0 (39m 53s):
+Okay. So not too different from what they look like now. Pretty,
+
+5 (39m 55s):
+Pretty similar.
+
+0 (39m 57s):
+I, I, I read that before you guys opened. And again, like, I'm just amazed at the, just how hard this was to do and, and, and how you threw yourselves into it. But I guess when you guys were getting inspected, the inspector was like, you put the Sheetrock on backwards and all the sheetrocks on backwards. Something I would do. But yeah,
+
+5 (40m 20s):
+It's, it's so, yeah, I, I stayed late one night and I was really proud of myself cuz I sheetrocked the entire kitchen every last
+
+0 (40m 27s):
+Bit. And you were like, awesome. I've done it. I've done
+
+5 (40m 29s):
+It called in the inspection before 6:00 AM And it is funny because the inspector at the time, he's like, you know, Tim, I'm gonna pass you for this because technically it's all good. Right? But I just want to show you something about Sheetrock. See these little divots here on the side of the sheetrock, that's where you can put the little joint compound and you don't get these big bumps that are on all of your walls because you've installed all of these backwards. Yeah. It's still sheetrock it still works. Just, just don't ever tell anybody about this because it's too embarrassing.
+
+0 (41m 1s):
+All right. So you passed the inspection and you're ready to open up. And you open up. This is kind of an epic opening cuz I think they're two of the greatest comedy films ever with a double feature raising Arizona. And this is finals hat
+
+5 (41m 18s):
+Sold out.
+
+0 (41m 19s):
+Tell me about that night people coming to watch those movies. The pizzas are slinging into the oven and what, what, what was it like?
+
+5 (41m 27s):
+It was smoother than I would've thought. Like there were, there were things about it, there's like little granular things that went wrong. Wrong. We had this idea, we'd have these little cart metal carts that you'd roll down the aisles, but it was a disaster. And after about five minutes we'd ditch the carts. Ditch the carts. But you know, it was great. Everything worked and it just felt we had made it, we did it.
+
+7 (41m 50s):
+Everyone had a good time. Staff and customers alike. We were on top of the world. We were on cloud nine
+
+0 (41m 59s):
+And this was, I think you had about 220 seats, right? Yes. Yeah. And now you're in, you've got a critical mass, you've got tens of thousands of students at ut you've got music scene, it's, I mean it's a cultural capital. Like this is now you're like where you should be.
+
+5 (42m 17s):
+Yeah. I mean the problem is that day two wasn't good. So it was, you know, remember Bakersfield like Citizen came Yeah. Wonderful. Everything was feeling great. And then the next day there were two people. So we showed the Clint Eastwood movie the next day Absolute Power. Cause we weren't being an art house, we were kind of a second run movie theater showing Hollywood movies. Okay. But it was better than Bakersfield because we had three people show up on day two. But this time we had a staff and we didn't have any money in the bank. We had, we had enough money for about three payroll cycles and then we're done.
+
+5 (42m 59s):
+We're like Donezo. Wow.
+
+0 (43m 2s):
+Yeah,
+
+5 (43m 2s):
+We had 26 employees when we opened up. Wow. And that was still pretty lean, you know, for what we were trying to do for a 200 person restaurant. And what we forgot was advertising.
+
+0 (43m 16s):
+Oh right. You have to put movie ads in the newspaper at the time Yeah. In the art section so people could like flip through and see what was playing. You couldn't yeah. You didn't place those ads.
+
+5 (43m 25s):
+Yeah. So we, we started taking out some ads and then we would also, when we closed down and this, you know, probably sounds terrible, but you know, we were desperate. We would go to the other movie theaters with some pretty snarky flyers like, why are you here? And just like, cover put, you should be at our theater. And so it's like, this is our target audience, let's do 'em. And then we're, you know, routinely chased away from those marketing opportunities.
+
+0 (43m 53s):
+But, but here's the thing. Your, I'm assuming that your value proposition wasn't, hey we're an art house cinema in Austin. Or hey, we're a second run movie theater in Austin. It was, hey, we serve beer and good food and you can see a cool movie. Yeah. That was what you were focused on.
+
+5 (44m 11s):
+A hundred percent. And so a couple things happened pretty early. You know, the, the folks at the Austin Chronicle were very kind and wrote about our events and the, the midnight movie programming worked pretty quickly. And then about three weeks into Operation Austin Powers the first one hit the second run market and it hit us like a freight train. And what do
+
+0 (44m 36s):
+You mean?
+
+5 (44m 36s):
+Well, at the same time before that weekend, Ann Hornaday, who's now a critic for the one of the Washington Post. Washington
+
+0 (44m 44s):
+Post. Yeah.
+
+5 (44m 44s):
+Yeah. So she wrote a really nice article about what we were and what we represented and what what we were trying to do.
+
+7 (44m 52s):
+Yeah. And I was like a deer in the headlights in the box office, just like mechanically like a zombie just selling tickets. And in my head I was panicking.
+
+0 (45m 3s):
+Yeah. How many, how many people did you have on staff that night?
+
+5 (45m 6s):
+There was two in the two in the kitchen and Carrie and two waiters. So there was four. But the, the bartender showed up in the middle of the rush and I was like, damn, put on an apron. And so he actually worked that shift and then I waited tables and you know, thankfully we made it through that night and from there on it was actually pretty great. Like it, it worked after
+
+0 (45m 30s):
+That. Yeah. Let me, let me ask you about the food part for a moment, because I've been to Al Draft House and it's super fun to eat while you're watching a movie, but it's also different, right? I mean I guess it depends cuz you can go to any movie theater and somebody's crunching on popcorn. They might be really loud, but like, like there was gonna be an element of just disruption cuz you would have servers like Yeah, people are moving around, getting up, getting the food. And so how did you kind of think about managing that in those early days?
+
+5 (46m 1s):
+You know, it's not, it's not perfect, right? I mean, we take a hard stance on, you know, guest behavior in terms of no talking, no texting, but we acknowledge that we're not a pristine environment. You know, there's, there's cinemas in France that don't allow any food at all into the cinema. It's just a pure experience and we're far from that. But it's a huge part of our training to, you know, wear black and crouch down and know the movie don't disrupt during, you know, a key pivotal moment. And now we're in a different era where we're, you know, to pre-order in advance and you don't have the checkout process. So you're kind of eliminating the touch points of server interaction with you.
+
+0 (46m 44s):
+Yeah. So, alright, so the Austin Powers kind of thing just really kind of just helped you guys find your footing and I think like within a couple months, maybe within a year you started to do more of these special themed menus. Like you, if you played streetcar name desire, you would serve New Orleans food or Godzilla was being screened, you'd serve sake.
+
+5 (47m 12s):
+Yeah. So it's, it was a leap for our ability for our culinary team cuz we weren't, you know, hiring, you know, Michelin rated chefs. So yeah, like I, I think it took us a while. Like I remember week two, you know, the servers were finished and they'd, they'd pick up their checks and they'd check out and then Carrie and I would just clean the theater. And then one of the waiters said, you know, everybody's gonna kill me for saying this to you guys, but the way it works in restaurants is the waiters actually clean the theater. You guys don't, you guys shouldn't do it. I just, I don't want to do it, but I just can't watch any further is watching you do this every single night.
+
+0 (47m 53s):
+I'm, I'm curious about some of the things that you did because this was, we're talking when it was one theater and there's something that you guys, I mean there are many of these sort of events that you would mount. Like for example, you started this thing called the Rolling Roadshow. And I think one of the things you did was you somehow got a like 60 or 70 canoes and you, you hauled them out to the edge of a river and you had, you screened the movie Deliverance so people could watch deliverance in canoes on a river bank. Yeah,
+
+5 (48m 25s):
+We'd have, we'd hire banjo players on the river. Yeah. So you'd do this river cruise to, and Carrie roasted a whole pig on a spit, you know, it's just for the squeal like pig parallel for six hours. So, but it was so awesome.
+
+0 (48m 42s):
+Amazing. I wish I was there, but it doesn't sound like a super efficient, like, you weren't sort of thinking, all right, is this gonna bring us a return on our investment? Are we gonna be able to make money off this? Is this gonna be sustainable? It was just like, this is gonna be fun, let's do this.
+
+7 (48m 56s):
+Yeah. All of the extra stuff that we did, the Feast Nights where we would show a food related movie with a matching menu, the Rolling Road show, the scavenger hunts that we would do. All of that was for us, that was for fun and it was for the community that we had developed. All of the people that we saw, you know, week in and week out, that would come to the theater and became our friends.
+
+5 (49m 23s):
+People would come and they'd hang out in the lobby afterwards and, you know, people would have another beer and we'd just talk about things and a lot of ideas. If once you start doing crazy weird things, then everybody has ideas for crazy weird things. Yeah. You know, like I I, I remember very distinctly, I mean it wasn't a moneymaking venture, but for five years we had an annual cannibal film festival where we showed cannibal films and purported to be selling actual human flesh. And then, but we did, you know, those were also the things that people would write about and talk about. It became part of the, like our identity to Yeah. One up ourselves in these fun things, but all the while just having a blast
+
+7 (50m 6s):
+And they didn't not make money. Yeah. When Right. We would always plan it out such that the ticket price did make us money. It, it's just that a lot of times there wasn't cushion, you know, we had to sell it out in order to make money. Yeah. And most of the time we did,
+
+0 (50m 22s):
+I I wanna ask you for a sec about the no advertising because I, I think, and I think it's still, still to this day, you don't play ads before films. But, but back then, I mean surely that was another source of revenue. Like you could have had another income stream from that.
+
+7 (50m 39s):
+There were several times when we had the opportunity to find out how much of an income stream
+
+5 (50m 44s):
+Yeah,
+
+0 (50m 44s):
+I bet that
+
+7 (50m 45s):
+It would be. And we both said, no, we don't wanna know, we don't wanna know, we don't want to have any regrets at all or any inkling of temptation. So don't tell us.
+
+0 (50m 58s):
+But what, I'm just curious, why, why were you so opposed to ads? I mean, great ads can be really entertaining. I mean obviously people watch the Super Bowl for ads.
+
+5 (51m 6s):
+Oh guy, that's, you know, your hardest, your
+
+0 (51m 9s):
+Heart of parts,
+
+5 (51m 10s):
+You know that's not true. I know,
+
+0 (51m 11s):
+But, but I'm curious why. Yeah. I mean why were you so opposed to it?
+
+5 (51m 16s):
+I thought that, and this, I I do feel like it was forward thinking that it would instill loyalty to us. Like all, here's all the things I hate about going to a movie theater. We're not gonna do this to you. This is, you know, maybe Super Bowl ads are somewhat entertaining, but I can tell you the caliber of cinema ads in the nineties was not No. And I just found it offensive
+
+7 (51m 37s):
+And still are not. Yeah.
+
+5 (51m 39s):
+And just thought that that would be a long, like, that's how people are gonna want to come to us cuz we're different. We're we're not the same movie theater that you used to.
+
+0 (51m 47s):
+Alright, so you've got this one really successful movie theater in Austin that is what you now you, you guys are living a dream, but I guess a twist of faith, which is often what happens in these stories twist of fate occurs, which is that a potential competitor is thinking about coming into or a company that, that that wants to compete and wants to have a similar model. Food, drinks, movies is thinking about opening up a, a spot in Austin and that starts to change the way you think about expanding.
+
+5 (52m 24s):
+Yeah, we had no, no plans to expand and the landlord of the Village theater was a fourplex in Central Austin called me and he's familiar with the theater and he had seen a line around the block for our theater and said, Hey, I just wanna let you know that I have an a ready to be executed lease with a competitor of yours and I'm going to sign that lease. Wow. But if you want it, you can have it. It's yours cuz I'd rather, I'd rather work with somebody in town local and I like what you do, but here's the prebio, you have to sign it by this week, by this Friday.
+
+5 (53m 5s):
+And you can't change a word in the lease.
+
+0 (53m 10s):
+And how long was lease gonna be for
+
+5 (53m 13s):
+10 years? 10
+
+7 (53m 14s):
+Years.
+
+0 (53m 14s):
+10 years. Yeah. You had, you had six days or five days to make a decision.
+
+5 (53m 18s):
+Yeah. So no surprise we signed that lease without changing a word and embarked upon construction project number two.
+
+0 (53m 27s):
+How did you finance that?
+
+5 (53m 29s):
+That one was $300,000 and we just financed it out of profits
+
+0 (53m 37s):
+Outta cash flow. Yeah. Wow. So that was, so, okay, great. And did you have to do similar amount of work on it or?
+
+5 (53m 44s):
+No? Well, I mean different, it was bigger work and it was like, it was a, a bigger kitchen cuz it was four theaters, you know, double the amount of seats but
+
+0 (53m 52s):
+Four theaters. Yeah. Four screens. Four screens. I mean that's like, that's like a, a restaurant with four dining rooms with 200 people on each dining room. One central kitchen and a wait staff going from like one dining room to the next, which are really far away. That's a big operation. It
+
+5 (54m 10s):
+Is a, a big operation. But interestingly, so we ended up running first run movies, like brand new movies there.
+
+0 (54m 17s):
+I read that by 2003. Cuz I think you, you actually opened a third location in 2003 that year, is that right?
+
+5 (54m 26s):
+Yes. We opened a third location
+
+0 (54m 28s):
+Also in Austin. Correct.
+
+5 (54m 30s):
+And
+
+7 (54m 30s):
+It was a very similar situation where Yeah, the landlord called us and said that there was a competitor potentially moving in. I feel like most of the expansion that we've done or that we did early on was entirely based in fear.
+
+0 (54m 46s):
+Yeah. I I read that by 2003 Alamo was making much more money from food than ticket sales. And that might have happened even before. Which makes sense, right? I mean, because that's really where you especially drinks, right? When people are buying multiple drinks.
+
+5 (55m 3s):
+I mean, it's all, it's really just about cost of goods. You know, the, you're, you're paying a majority of the ticket on first run movies to the studio, you know, and on food you're, you're paying what rounds to 25% of just food cost, right? So you have a much better profit margin. So there's still profit to be made in the movie tickets, but the, you know, beer and alcohol costs are less than food costs. So that's where the real profit was. But it was, you know, it's a balance of probably one-third box office, two-thirds concessions.
+
+0 (55m 36s):
+Hmm. Alright, so you, you've got, you know, these, these three locations I guess, and you're thinking about a fourth location and I think around this period people, people start to approach you about maybe franchising and you, you did it. You, you opened a new franchise, a few franchises, I think around around Texas, like in Houston and, and maybe San Antonio, but I guess you weren't like really comfortable with that. Like what, what, what was going on? Tell me the story.
+
+5 (56m 3s):
+Well at that point I think we had become really ingrained in the Austin community and we're enjoying the aspects of community building at a real scale. Yeah. And there was more, more headache on the franchising and I didn't, it wasn't where my passion was.
+
+0 (56m 22s):
+Yeah. There was probably a lot of lawyers and meetings and you're, and you wanna like mount cool movies and like Yeah. Have chit chats with directors on, in front of audiences probably.
+
+5 (56m 31s):
+That's all good stuff. Yeah.
+
+7 (56m 33s):
+I feel like we had been sort of dragged kicking and screaming to every level of expansion and finally we were ready to say no. Yeah, no we don't wanna do that because now the four screen first run theater was financing all of the cool stuff that we were able to do at the single screen theater. Then suddenly people were talking about going nationwide. Yeah. And I think we just didn't wanna think about that. Did
+
+0 (57m 1s):
+It? Did it stress you out?
+
+7 (57m 3s):
+Yes.
+
+0 (57m 5s):
+When we come back in just a moment, a franchising deal devolves into a nasty lawsuit and gets settled in a very surprising way. Stick around. I'm Guy Ross and you're listening to How I Built This.
+
+Cerebral (57m 29s):
+If you're struggling with stress, burnout, anxiety, or have trouble sleeping Cerebral can help Cerebral offers 100% online personalized mental healthcare plans that include therapy and medication management. You can choose your clinician from cerebrals vetted and trained team of experts and attend all your sessions from the comfort and convenience of your own home. Get started with or without insurance and only pay one flat monthly rate. And for mental health awareness month this may, you can get an exclusive 50% off your first month with cerebral.com/wondery. That's cerebral.com/wondery. For 50% off your first month,
+
+Hulu Ad Manager (58m 10s):
+Unlock the power of streaming TV ads for your clients with Disney's Hulu ad manager, the one-stop self-service tool for businesses of all sizes. With Disney's Hulu ad manager, you and your clients can reach engaged streamers, access an endless portfolio premium content and launch a campaign within minutes you'll enjoy choice of control with industry leading planning tools and a single dashboard. Get started today with Disney's Hulu ad manager at www.huluadmanager.com/stream.
+
+0 (58m 44s):
+Hey, welcome back to how I built this. So it's 2004 and with some trepidation Tim and Carrie moved further into franchising, basically turning Alamo into two companies. The first will be run by them and made up of the theaters they already have in Austin. The second will be run by two new partners who wanna build well beyond Texas.
+
+5 (59m 7s):
+It was actually a great deal and it was causing us a lot of stress. You know, I preferred the putting on a show aspect of of Alamo. Yeah. But it was very enticing to us. So we did it.
+
+0 (59m 19s):
+So just to clarify, there were, there were these, these guys, John Martin and David Kennedy and they, they basically said, look, we want to create a new business that is a franchising business. We will run it and own it. You guys will own a part of it. And you were okay with that.
+
+5 (59m 38s):
+Well, even in those early days of franchising, we were very upfront. It's like this is not a normal franchise. And yes, we're undeniably at chain, but we started preaching this mantras like we're a loosely connected network of local community theaters. Alright,
+
+0 (59m 56s):
+So they're opening franchises, but meantime you guys are now really able to just, those guys are doing the franchising thing, whatever. You're focusing on your own initiatives and you really kind of double down on this rolling road show thing that you do. And then like you, you take it outside of Austin like you guys did. Like I was so cool, I wish I was there. You screened Rocky on the rocky steps of the Philadelphia Museum of Art. Yeah,
+
+7 (1h 0m 22s):
+That was a great tour. Ugh,
+
+5 (1h 0m 25s):
+I think we did all, we did Rocky one, two and three. Ugh. And it was a marathon and we also had these giant slabs of beef up at the top of the stairs that people could take pictures of themselves punching. It was really gross
+
+0 (1h 0m 39s):
+Like poly in the, in the meat packing. Oh my God.
+
+5 (1h 0m 43s):
+It's, it's very wasteful. I'm sorry but it was such a cool thing and it dripped a lot on the steps and I apologize to the city of Philadelphia.
+
+0 (1h 0m 50s):
+Yeah, I remember that scene. These, these punching those carcasses of meat in these, the, the newscaster, the news reporters there and they're doing a segment and oh my god, that's so cool. So you've got this going and I guess around 2009 you start to have second thoughts or maybe second thoughts as an understatement about the, this what's going on with the franchising. You're not happy with how it's turning out what was going on, what what, what was making you uncomfortable about how the franchising was rolling out?
+
+7 (1h 1m 23s):
+It wasn't actually we who were uncomfortable. We were having a great time, but when we sold the franchise rights, we made very, very sure in the contract that we were gonna be allowed to do whatever we wanted regardless of what direction the franchise took. Right, Okay. And so we were just doing that. We were doing whatever we wanted to do. We were having a great time. Yeah. And in the meantime the franchise was working very, very hard on systems and efficiency and all of that sort of a thing. And they were, became increasingly unhappy with people calling them and saying, but the Alamo is supposed to do it this way.
+
+7 (1h 2m 7s):
+Oh, why is this theater in Denver not doing it this way and referring back to us? So yeah, that was making them very unhappy and they wanted to retract some of the language in the contract that was gonna allow us to not pay attention to what they are doing.
+
+0 (1h 2m 24s):
+And so you ended up in a legal battle with your former partners around this?
+
+7 (1h 2m 31s):
+Yes. They,
+
+5 (1h 2m 32s):
+Well, well guy, they sued us first
+
+0 (1h 2m 37s):
+And they sued you basically because they wanted to change the language of the contract to make you, I,
+
+5 (1h 2m 41s):
+You know, it's, it was like we were angry and we were just like baffled by it. It's like, no, come on. It's a pretty clear language and this like trademark infringement and things like that. So then we countersued to unwind the deal basically. So we felt that there was things that had happened between us that they were in violation of. And so you're gonna, you know, you're gonna push me, I'm gonna push you that we, so we went to war
+
+7 (1h 3m 8s):
+And it was clear that this was ugly enough that there weren't gonna be no winners other than the lawyers. But the interesting thing about it is that to that point, we had never really met or spoken to Dave Kennedy who was the guy who had put the money in to buy the, the franchise.
+
+0 (1h 3m 28s):
+So you didn't know him? We
+
+7 (1h 3m 30s):
+Didn't know him. He didn't know us.
+
+0 (1h 3m 31s):
+So the first time you really kind of meet him properly is is during this lawsuit? Yes.
+
+5 (1h 3m 37s):
+During first day of deposition.
+
+0 (1h 3m 40s):
+And you're just sitting there hearing his take and then
+
+5 (1h 3m 44s):
+And vice versa. Yeah.
+
+7 (1h 3m 45s):
+Yeah. So we went first I think and he sat and he listened to our deposition about the fact that, you know, a lot of the things that we did were not done for profit. Yeah. And during my deposition they came out with an email where I had, I don't know if it was an employee or or a partner in one of the events that we were doing. And I said, well we really want to do this thing and I know it's gonna add a lot to the cost but it really doesn't matter if we make a profit. And so they took this email and they threw it at me in a kind of an aha way sort of accusing us of trying to, you know, tank the company by not caring about profit.
+
+7 (1h 4m 28s):
+Yeah. And it gave me just a really great diving board for explaining the difference between short term profit and long term investment in a brand. Hmm. And Dave Kennedy was sitting there listening to it. It was the first time he had ever heard me say anything outside of the contract negotiations, which went through the lawyer.
+
+0 (1h 4m 53s):
+Wow. And so what happened?
+
+5 (1h 4m 58s):
+So we finished the day of deposition and afterwards Dave Kennedy to his credit, texted me and said, Hey, would you have time for breakfast tomorrow morning? And I said Yes. And it was a pretty bold move on his part. Yeah.
+
+0 (1h 5m 19s):
+Especially cuz his lawyer would've been like, what are you doing?
+
+5 (1h 5m 22s):
+I know, exactly. Yeah, ours did too. Yeah. Oh man. Our lawyer was this tough as nails female barrel racing rodeo champion
+
+7 (1h 5m 31s):
+Missing half of her
+
+5 (1h 5m 32s):
+Fingers. Oh my gosh. I was so scared of her. Yeah. So he proposed the idea, it's like, hey, I have a left field idea for you. What would you think about crushing the brands back together and you stepping in as CEO of the consolidated company? Wow. So basically like, liked what we had to say, liked our vision for the company and the brand and it was a, a wild idea.
+
+0 (1h 5m 60s):
+He's heard what you've said in depositions and he starts to think, Hey, that sounds such a bad idea. Yeah. Asks you to breakfast and offers you to be the CEO of a combined company. I mean at
+
+7 (1h 6m 9s):
+50% of the combined business also
+
+0 (1h 6m 11s):
+Amazing. I mean this is like a, this is like a, a great example of why like mediation is often a better option than lawsuits. Yeah. Because you could, I mean he's basically saying, why are we going through this? Let's just work together. Yeah. I mean, what incredible maturity and foresight.
+
+5 (1h 6m 29s):
+I agree. And the beauty was that once we did it, cuz obviously cutting ahead, we said yes. And the idea of growing so that we can truly support the movies that we love got super exciting and helping craft that plant to open in LA to open in New York and to like, to be a force in the industry. That was a totally different game. And they had built a great structure and system and knew how to grow. Yeah. Knew how to expand. They had, you know, running laps around us in accounting, in operations and, and we had the perfect counter strengths.
+
+0 (1h 7m 8s):
+Okay, so these, this thing, I love this this thing that, that, and it kind of happened again serendipitously, although probably at the time, I don't know if it if it ever, ever thought it would happen that way or or work out that way. But you guys have had this kind of very strict policy, let's say about noise. Like I don't know if, if if, if you've ever heard of like a Keith Jarret concert. Yeah. Like Keith, if you cough at a Keith dirt concert, like he will, he will look at you and ask you to leave. Like he will walk upstage if he hears like candy wrappers. Right. And your policy was like that around phone texting. Like if you text in a theater, you know, we'll kick you out.
+
+0 (1h 7m 48s):
+We don't want you to mess up anyone's experience. And I guess this lady, this woman went to a theater and was really mad because she was kicked out and then left a voicemail which you guys then turned into like a YouTube video. Yeah.
+
+5 (1h 8m 2s):
+We, we consulted with our lawyer first because wanted to find out property ownership on that. So apparently the way I understand the law is if somebody leaves you a voicemail, it's it's your property as long as you don't sell it. Cuz then you'd have have to kind of work out a deal with the the person. Yeah. So we didn't sell it, we just turned it into a little bit of a snarky clip cuz she was very mad and she was obviously a little bit intoxicated and was furious about getting kicked out cuz she was using her phone in the theater and in your
+
+0 (1h 8m 32s):
+Effing little
+
+7 (1h 8m 33s):
+Se
+
+0 (1h 8m 33s):
+Theater. She
+
+5 (1h 8m 34s):
+Was very funny. And I mean it's, it's probably, I don't know how many, it's it's big for us. I don't know, 10 million, 12 million views on it. So it became our, our calling card for a long time. Yeah.
+
+7 (1h 8m 46s):
+We, we always do a PSA to explain our policy to people before the movie and that's by far Yeah. Our most popular PSA of all time.
+
+0 (1h 8m 57s):
+So when you became, and around the time you became c e o I know Carrie, you took some time away because you had your, your children twins. Yeah.
+
+7 (1h 9m 6s):
+And, and you may have noticed that, you know, when we've been talking about the expansion and every time we expanded that I was the one with far more reluctance. So, so when the companies got crushed together and it was a major commitment to essentially unlimited expansion, that was when I tapped out and said, okay, I'm ready to have kids now. Yeah.
+
+0 (1h 9m 31s):
+Yeah. All right. So I, I wanna, I wanna jump forward a little bit to, to 2017, which is sort of the year where the, the kind, the me too movement really started to kind of explode obviously in the New York Times with, with the reporting and, and in other organizations and, and you know, I don't think there was a single organization that that wasn't affected by it, including yours. Right. And, and you guys had somebody who worked with you or who's like running the magazine that, that Alamo Draft house was putting out and he, he was accused of sexual harassment and, and, and Le left or was fired. And, and, and, and that would've been the end of the story, but I guess he was brought back a few months later.
+
+5 (1h 10m 12s):
+Yeah.
+
+0 (1h 10m 13s):
+What, what happened?
+
+5 (1h 10m 15s):
+So it was challenging because Yeah. You know, it's,
+
+0 (1h 10m 21s):
+You'd known him for a long time right? Long
+
+5 (1h 10m 23s):
+Time. Yeah. Yeah. He was a friend. So I kept in touch with him and it was just, I saw that it was challenging for him cuz he didn't find any pathway to, to write Yeah. Anywhere anymore and was depressed and I was worried about him. And so I, I made the decision at the board meeting to offer him a copy editing position that he could do from home because
+
+0 (1h 10m 48s):
+He, he sort of came back quietly and somebody saw his byline and said, why is this guy back in the company? Yeah. Yeah.
+
+5 (1h 10m 55s):
+And, you know, once that happens and you know, especially at the time within, you know, a very important movement in our culture, you know, that it's, it's also not a, a place for nuanced dialogue. But what clearly what had happened is I was the leader of this company and I had made a mistake and what was necessary immediately was to acknowledge the failure and mistake. And there were other allegations from the past that came forward and we had spent so much time focusing on guest experience and being laser focused on guest experience.
+
+5 (1h 11m 35s):
+And frankly, we could have done a much better job of building a proper culture, building, you know, a safe environment for work. You know, it was a, a lot of things were just casual. So I embarked upon tour and, you know, went to every location and apologized and it was basically a listening tour of like, what's wrong in the venues that I may not know about. And, you know, we truly want to be the best theater that has ever been, help us.
+
+0 (1h 12m 4s):
+And did you learn about, I mean, on this tour, did you learn about things that people had experienced that you didn't know?
+
+5 (1h 12m 12s):
+Absolutely. Yeah. I mean, there were sexual harassment issues, there was allegations of racism. There was like, it is individual, you know, managers that I don't think were kind. Yeah. You know, so what we did in the wake of it is we established a really robust anonymous engine where I would start my day every day and just read comments from teammates across the country. And we had a, a monthly all staff meeting where the ones that were the hardest, we would address them publicly in front of everybody. And you know, we, we grew from it. It was, it was really hard and painful and we're better because of it.
+
+0 (1h 12m 59s):
+I want to, and we're, we'll talk about the movie industry in a moment, but I think 2018 was the higher watermark, or maybe it was 2019 of, of box office sales. It was like really great. And even 2019 was pretty strong. And then of course, COVID hits and you're an industry not only in the movie industry, you're in the restaurant business too. Like you get hit by this twice. Yeah. Right. You're running restaurants and movie theaters in the same place. Lot
+
+5 (1h 13m 30s):
+Of lot of shared recycled air.
+
+0 (1h 13m 33s):
+Oh my God. But I mean, you guys shut them all down, you shut all your locations down. Yeah. You go from, from like tens of millions of dollars coming into the door to zero in like a day. Yeah.
+
+5 (1h 13m 47s):
+You know, everybody knows it. This is not a unique story for us, but just we had no idea at the time in March of 2020 when if ever this is coming back.
+
+0 (1h 13m 58s):
+Yeah.
+
+5 (1h 13m 59s):
+And we, we knew, you know, very quickly knew our burn rate as to what debt was accumulating from some very expensive leases. And, you know, we had gotten a little over our skis in terms of being bullish on expansion and had mounted some debt and had a big team.
+
+0 (1h 14m 17s):
+You'd hit by that point, by that point, like 47 locations or something like that.
+
+5 (1h 14m 21s):
+42, 43, something like that. Yeah.
+
+0 (1h 14m 23s):
+Yep. You eventually had to file for chapter 11 bankruptcy in, in March of 2021. Yeah. Tell me what, what, I mean, basically you would not be able to pay your debts at that point.
+
+5 (1h 14m 38s):
+Well it's, it's a little bit more complicated in that we probably had about two payroll cycles left before we were done. Wow. And so in December we took on some basically distressed asset financing. Right. So that money's not cheap, but turns out not a lot of people waiting in line to invest in movie theaters at December, 2020. So, you know, but at the end of it, it did what it's supposed to do. Right. So we're back. Yeah. We're healthy. Everybody took a little haircut. We took a big one.
+
+0 (1h 15m 16s):
+You guys had to sell. I didn't get to sell a lot of your assets, so some of your assets to a private equity group or a venture group. Right. I mean that, that's essentially what happened. That helps you emerge from bankruptcy.
+
+5 (1h 15m 28s):
+Yeah. And so we, we weathered it. Right. So it's, it's far from ideal, but you know, we live to ride another day. Right. So the balance sheet looks good and we're actually growing and expanding new theaters. We're bullish on the future of the industry and looking for opportunities to grow.
+
+0 (1h 15m 46s):
+I think you now have how many locations? Roughly?
+
+5 (1h 15m 49s):
+39. Just about to be 40.
+
+0 (1h 15m 51s):
+Okay. So now we get to the conversation that you've been asked a bazillion times and I'm gonna ask you for the bazillion and one one time bazillion. One time, which is the future of movie theaters. Okay. And movie industry and streaming and all this stuff. We know that there are 3000 fewer movie theaters today than there were screens than there were before the pandemic. We know that some big chains are gone, and so we know that there's been some shedding, but, but do you still believe that people will wanna go to the movies in as in the same rate in 10 years from now?
+
+0 (1h 16m 33s):
+Five, 10 years? Yeah. When you, when you've got, you know, on a 50 inch TV screen today is like a joke. You can buy one for 200 bucks. Yeah. What is gonna make people go to, to movies at the same rate that they've been going to in the past?
+
+5 (1h 16m 49s):
+Well, I guess I'll ask you a question of do you have a, a stove in your house? Yeah,
+
+0 (1h 16m 56s):
+I got a really good one. You mean a stove shop? Yeah. It's awesome. Yeah.
+
+5 (1h 17m 1s):
+But you still go out to restaurants right? Every once in a while. Yeah. So that's really it. Like, like humans and I think this is so evident after Covid, like the first time I stepped back in a movie theater, we put together a very nostalgic clip about welcome back to the movies. But like, I was in tears. Yeah. I was just so happy to be out of the home, you know, and like every once in a while, no matter how much streaming content you, you watch at home, you want to get out, you want to be a part of an event, you want to have experiences. So I think there's, there's legit pressure to up the game to make sure that our industry, cinema industry delivers, you know, exceptional experiences.
+
+5 (1h 17m 47s):
+Like there's just something about, you know, I, there's, there's a lot of times I hate the home experience in a way because there aren't the rules. Like if, if, if somebody calls me, I'm gonna, I'm gonna answer that call if I, if there's like a little pause in the, where it's a little bit lull in a movie, I, I, because I'm addicted to my device, I I have this urge to pull it out. So like being lights down in an excited theater, experiencing something fresh with a group of people and that's the core experience, like that core product is beautiful. I love it.
+
+0 (1h 18m 25s):
+Yeah. If you think about all the ups and downs of this and it's a tough business and you guys have really been up and down and up and down and up and, and have really built, you know, this incredible thing that, you know, people know and has, has become kind of like a model for other competitors and others to kind of create a, a almost like a dinner theater experience. How much of, of where you are today do you attribute to just how hard you worked the both of you, and how much to the luck that you came across?
+
+7 (1h 18m 60s):
+I would say that a lot of it has to do with hard work. We worked 11 hours a day for seven days a week for probably five years. But at the same time we have been incredibly lucky because of all of the people that we've come across who have been so supportive and kind from the film distributors early on to the people who helped us get started in Austin. We didn't tell you the story about the food purveyor at Cisco, who knew that we were an impoverished couple that was asking him for samples to develop our menu just so that we would have something to eat.
+
+7 (1h 19m 41s):
+And he provided us with huge amounts of samples. Anyway, he knew that that's what we were doing and he did it anyway, so yeah. Also a good deal of luck in there,
+
+0 (1h 19m 52s):
+Tim.
+
+5 (1h 19m 54s):
+Oh, you know, it's, it's, it's definitely a mix, you know, and I'm, I'm not unaware of like, the basic luck that I have, just the privilege of having a stable family life and supporting parents and a good education and not really like having a nuclear family. It just like, it's, you know, it's all I know, right? But I know that that's not everybody. And I, I'm keenly aware that that has given me what others don't have. And, you know, I, I certainly work really hard. I I still like doing it. And on the flip side, just like, like life is just full of these weird little moments like having a lease sign pop up or you know, that we were able to get financing before we ran out of payroll.
+
+5 (1h 20m 46s):
+Right. So I, I put the scales more, more in luck than in hard work, but gosh darn, I can work pretty hard when I need to.
+
+0 (1h 20m 57s):
+That's Tim and Carrie League, co-founders of Alamo Drafthouse Cinema. Three years ago Tim stepped down as CEO and became executive chairman. He's now working on a new concept, a luxury movie viewing experience with good wines, small plates and private viewing. And they plan to open the first one in 2024 in a refurbished Arch Deco theater on Manhattan's Upper West Side. Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show. And it's totally free. This episode was produced by Carla Estevez, with music composed by Rameen era Bluey.
+
+0 (1h 21m 38s):
+It was edited by Neva Grant. Our production staff also includes JC Howard, Casey Herman, Sam Paulson, Liz Metzger, Alex Chung, Elaine Coates, John Isabella, and Chris Masini. I'm Guy Raz and you've been listening to How I Built This. Hey, prime members, you can listen to how I built this early and add free on Amazon music. Download the Amazon music app today, or you can listen early and add free with Wondery Plus and Apple Podcasts. If you wanna show your support for our show, be sure to get your How I built this merch and gear wondery shop.com.
+
+0 (1h 22m 24s):
+Before you go, tell us about yourself by completing a short survey at wondery.com/survey.
+
+‎Flipping the Bird: Elon vs. Twitter (1h 22m 31s):
+From Wondery comes a new series, flipping the Bird, Elon versus Twitter, a story about what happens when the richest man on the planet decides to acquire a powerful social media company in the name of free speech. But does he have what it takes? It started off promising Or is this all just about Elon? He's essentially mad that his tweets aren't performing as well as he would've expected of to, But really just felt like, okay, this really is just a platform being ruled by a dictator who does things on his own whims And what will be left of Twitter by the time he's done, Basically my entire team was, was gone. By the end of it. Infrastructure was just completely gutted. He'll like tweet a thing and then everyone's like, we gotta work on that now because he tweeted it. I'm supposed to believe this man is a genius. It just felt like everything was kind of descending into chaos. Follow Flipping the Bird wherever you get your podcasts. Hey Prime members. You can listen to episodes add free on Amazon music. Download the Amazon music app today.

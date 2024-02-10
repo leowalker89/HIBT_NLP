@@ -1,0 +1,305 @@
+0 (0s):
+Wondery Plus subscribers can listen to How I, Built This Early, and ad free Right. now join Wondery Plus in the Wondery app or on Apple podcasts.
+
+1 (10s):
+Think, of all the things you can do in 10 minutes or less. Scroll through social media, Check your bank balance. make a sandwich or learn about the surprising economics behind all these things. The Indicator for Plan of Money is a quick hit of insight into the economics of business, work and everyday life. Every weekday in less than 10 minutes. Listen now to the Indicator podcast. From NPR
+
+2 (32s):
+When, you find something you love, you stick with it. Like this podcast and like working out with Peloton this holiday season, bring home a Peloton bike, bike plus, or tread and workout your way. I always look forward to a ride on my Peloton bike. Unleash Yourself Ride run box or freak the hit out. It's your workout. your rules for Pelotons December offer. Head to www do one peloton dot ca slash deals all access membership Separate terms apply.
+
+3 (1m 4s):
+Hello listeners. this is Mike Cory of Against The Odds. You might know that I adventure around the world while recording this podcast. And over the years I've learned that where I stay when I travel can make all the difference. Airbnb has been my go to place for finding the perfect accommodations because with hotels, you often don't have the luxury of extra space or Privacy. Recently I had a bunch of friends come down to visit in Mexico. We found this large house and the place had a pool, a barbecue, a kitchen, and a great big living room to play cards, watch movies, and just chill out. It honestly made all the difference in the trip. It felt like we were all roommates again.
+
+3 (1m 45s):
+The next time you're planning a trip, whether it's with friends, family, or yourself, check out Airbnb to find something you won't forget.
+
+0 (1m 55s):
+Hello and welcome to How I Built This Lab. I'm Guy Raz. So I think it's fair to say that Warby Parker has transformed the way Americans buy glasses. When the company launched back in 2010, the industry was dominated by just a few legacy manufacturers and getting a pair of glasses for under a hundred bucks was virtually unheard of. The co-founder is Neil Blumenthal and Dave Gilboa were actually some of the first guests we had on How I Built This back in 2016. And if you haven't heard that episode, it's worth scrolling all the way through the podcast queue. It's towards the bottom to check it out. It is such an inspiring story. Anyway, fast forward to today and Warby Parker is no longer the scrappy startup.
+
+0 (2m 39s):
+It was back then. It's a publicly traded company with more than 200 stores across the US and Canada and more than 3000 employees. But getting to that point hasn't exactly been smooth sailing. The social media landscape that helped Warby Parker reach so many customers in the 2010s has completely changed and competitors have entered the space offering similarly sleek and stylish glasses at even lower prices. And maybe the biggest change of all artificial intelligence, which Neil and Dave says is one of the main things that keeps them up at night today. But we'll get there from the beginning.
+
+0 (3m 20s):
+Neil and Dave have led the company as co-CEOs, an arrangement that's still in place today that they say helps them more effectively run their company.
+
+4 (3m 31s):
+Having a partner makes the, the highs a bit higher. We get to celebrate together when things are going well and it makes the lows a a bit higher where you have someone who can, you know, help pick you up when things are are, are not on track. And there hasn't been a situation where we can't align and find a a, a path forward. And so, yeah, feel very lucky to be on this journey together. Like, you know, being a founder or an entrepreneur can often be very lonely. And so having a a partner's been, you know, incredibly beneficial for both kind of mental health and, and for achieving better outcomes. But we also recognize that, you know, it doesn't make sense for both of us to be involved in every meeting and every conversation.
+
+4 (4m 12s):
+And so we do try to divide and conquer where we can. Sometimes that means that one of us is speaking at a conference while the other is managing some internal meetings. And then we each have our own direct reports. So every department, every executive only reports into to one of us and that allows us to kind of spend more time in those parts of the business. Then Neil and I are constantly updating each other probably, you know, a couple dozen times a day if there's new information that that's coming up. And then at least on a monthly basis, we'll each join the one-on-ones that our partner has with his direct reports. And so we're kind of constantly in the loop on all information that that's going on in the company.
+
+4 (4m 55s):
+And if we need to substitute for one another, we're informed and we can provide continuity. That also enables us to be efficient in managing the day-to-Day aspects of the business.
+
+0 (5m 5s):
+Neil, what happens if somebody says, oh, I spoke to Dave about this, or vice versa. I spoke to Neil about this. Like I'm sure that happens and has happened a lot over the last few years.
+
+5 (5m 16s):
+It does sometimes happens and we joke around that we don't want to get in a situation where, you know, somebody gets one answer from mom and then goes to dad. Yeah, we've now have a lot of practice. If someone's asking for something that requires a little bit of thought, we don't feel an incredible amount of urgency to quickly commit to something and we'll say, Hey, we'll get back to you. Right? You know, one of our friends is a, a former Navy Seal and was head of a special operations group and he taught us, Hey, when you're faced with a decision, often, like the first decision you have to make is how much time do you have to make this decision, right? If you're in the Navy seals, often you have split seconds to make decisions. In business, you have often a lot of decisions.
+
+5 (5m 56s):
+That means that you can't be slow, right? Because a competitive environment is fierce and you need to be making quick informed decisions. But, you know, a couple hours a day often doesn't make a difference. In fact, it actually leads to a, a better outcome because you're more thoughtful and you might, you know, ask one more question, right? That leads to a a, a better outcome.
+
+0 (6m 19s):
+Alright, so there've been a lot of changes at Warby Parker since we last spoke. You've got stores more competitors, you've gone public and we'll talk a little bit about all those things. But let's just talk first about the competitive landscape and the challenge of breaking through. I mean, when you've got all of these new competitors in the space, have you responded, you know, for example, for on price, like if a competitor is all of a sudden offering something that looks similar, does it affect how you guys price your products?
+
+5 (6m 52s):
+We think the best brands and the best companies really understand the market and you have to be constantly evaluating pricing, right? Yeah. Across, across the board. And of course because of the internet, right? It's made pricing very transparent. We've always believed in providing exceptional value and we define that as charging a fraction. So literally a fourth or a fifth of what other people charge. So we launched with $95 glasses. We still sell $95 glasses today. Now we've introduced some additional frames that have more complex construction that cost more to manufacture like our precision progressives offering, which is a top of line progressive lens.
+
+5 (7m 36s):
+Generally for people over the age of 45 that have a complicated prescription, those start at $395, whereas they would cost well over a thousand dollars elsewhere. So we're always looking at providing exceptional value and then also we don't foresee a lot of new entrants challenging us in, in the short term. And if we look at the overall market, 88% of glasses are sold in bricks and mortar. So it's still only 12% online penetration, which is really low. So if we wanna really scale and and tackle this market, right, we gotta be focused on that, you know, 88 to to 90% and those are the big optical chains that have a thousand plus locations.
+
+5 (8m 21s):
+There's also a long, long tail of independent optical shops and optometric practices that don't have the capital or the technological resources to invest in a customer experience like we do. So right over the past few years we've launched the first of its kind True to scale virtual try-on. Yeah. So we were innovative when we launched with a home try-on right? Select five pairs of glasses, we ship it to you free of cost, you have five days to try it on at home. Well now, you know, once people had iPhones in their hands with the true depth camera, we were able to create a virtual try-on. That was great and helpful because it actually put a digital image of the frames on your face.
+
+5 (9m 5s):
+True to scale. You can move your face around and really get a sense for how they look and, and feel. Similarly, we launched a virtual vision test that enabled folks to do a simple vision test from their home so they could renew their contacts or glasses, prescriptions, right? These are things that keep us a step ahead of everyone in the category, whether it's a new entrant or you know, a legacy retailer that's been around for decades.
+
+0 (9m 34s):
+So, alright, let's talk about the brand impact. 'cause I, I have had so many conversations on the show where people have referred to the Warby Parker model or the Toms model or, you know, you guys were really pioneers and D two C and also in this one-to-one giving model. You know, I've been to Warby Parker stores, I've gone on the website and the one-to-one model. It doesn't seem like it's emphasized as much. I know you still do it, right? You still give one pair of glasses away for everyone you sell, but I was surprised that it's not like front and center of how you position your business. So can you talk a little bit about that for a moment?
+
+5 (10m 12s):
+Sure. I, I think we've learned, and we learned this very early on, in fact actually when we were working on the business plan is what's most important to customers and when they're buying glasses, what's most important is the glasses look good on their face, then how much do they cost? And then is it good quality and is it good service? Lastly, you know, is there a social ethos behind the brand? And is my purchase sort of helping and serving others? So with that knowledge, when we're meeting new customers for the first time, we lead with fashion, right? Glasses are a core part of someone's identity. We want them to look great. Then we tell them that it's only $95 right?
+
+5 (10m 52s):
+Including all the bells and whistles. And frankly, it's not until usually after they purchase that they even learn that for every pair of glasses we sell, we distribute one to someone in need. Yeah.
+
+0 (11m 5s):
+I'm, I wonder whether consumers, I mean, you, you've kind of addressed this a little bit, but I wanna dig into it a little bit more. Is there evidence as far as you guys know that consumers really care or choose a brand because of its social mission? Like, does it move the needle that much?
+
+4 (11m 22s):
+So what we found is that the biggest impact is in our ability to attract and retain some of the most talented, passionate, driven people in the world who wanna work for a mission-driven organization. And so that's where we tend to see kind of the biggest benefit from a business standpoint. It
+
+0 (11m 39s):
+It's about attracting good people to work for you more than selling more glasses.
+
+4 (11m 45s):
+Yeah. We do think that it, you know, creates a positive halo for the brand. You know, we think that engenders goodwill probably creates more opportunity for people to talk about the brand when someone comments on how good they look in their glasses. And so we do think that there are some, you know, tangential benefits from a customer standpoint, but we don't believe that it dramatically influences how people shop for glasses. As Neil said, what people care most about is, you know, do these glasses look good on my face? Is the the service great? Yeah. Is is the, the value and the price great.
+
+0 (12m 21s):
+Yeah. But aside from, you know, also retaining or attracting talent, like why, like when you ask yourselves, Hey, this is why we do that. Like this is why we spend a considerable amount of our capital resources on giving glasses away. How do you explain it to yourselves?
+
+5 (12m 39s):
+It's motivating to us. And when we were starting the business, we were trying to figure out, hey, what's the type of place where we're gonna wanna come to work every day? Where we gonna want to give our blood, sweat and tears when we're tired in the morning? You know, what's gonna motivate us not to hit the snooze button, but to wake up quickly and and, and get to the office and it's doing good in the world. Yeah. And we were frankly shocked that there's a billion people on the Planet that don't have access to glasses. Right? That's crazy. And that requires real strategy, real resources sort to tackle a problem of that scale. And we've seen that actually as we've grown as a business, right? We started primarily just providing glasses overseas in places like India and Bangladesh.
+
+5 (13m 24s):
+And as we've scaled and have gotten more expertise and and resources, we've then been able to go into schools across the US and convince school districts and city governments to partner with us to hire eye doctors. And we're actually right here in New York City, we're providing glasses to every kindergartner and first grader that, that needs them. So we partner with the city, we have doctors that go in and provide eye exams to those that need it. And then we lay out a bunch of frames that our team has designed and the kids have agency and they choose what pair of glasses they want. We make them, they get them back in a couple weeks and the glasses look good on their faces and they use them and they perform better in school.
+
+0 (14m 10s):
+And that's, it's awesome. So is there a part of the team that's only focused on this part of what you guys do?
+
+4 (14m 17s):
+So we do have a social innovation team that's focused on figuring out how we can have as much impact as possible across stakeholders. And then we've actually found that it's incredibly motivating to our core team members in functional areas of the business to be able to spend part of their week on these efforts around getting glasses to students in need, in schools, in, in low-income areas across the us. And so our eyewear design team, they actually design these frames for, for kids. Our merchandising team goes through kinda a full merchandising process like we would for any collection that we'd be selling to, to customers, our supply chain team and our optical labs.
+
+4 (15m 2s):
+They're cutting lenses, inserting frames, and shipping them off to schools and incorporating that into kind of part of their actual functional job duties. They're able to connect the work that they're doing to the impact that, that we're having. And again, really motivates and attracts talent that wants to feel like their work means something.
+
+6 (15m 24s):
+We're
+
+0 (15m 24s):
+Gonna take a quick break, but when we come back, how Warby Parker is reaching new customers and why brick and mortar is anything but dead. Stay with us. I'm Guy Raz and you're listening to How I Built This Lab.
+
+7 (15m 47s):
+Hey, I'm Michelle
+
+8 (15m 48s):
+Beetle. And I'm Peter Rosenberg.
+
+7 (15m 50s):
+Hey Peter. Tell the people about our new podcast,
+
+8 (15m 53s):
+Right? It's called Over the Top and we cover the biggest topics in sports and pop culture using Royal Rumble rules. That means we'll start with two stories, toss one out on its ass, and dive into the other stories with ruthless aggression.
+
+7 (16m 6s):
+Oh, but it never stops because every 90 seconds after that,
+
+8 (16m 14s):
+By God whose music is that, another story comes down to the ring, rinse and repeat until we arrive at the one most important thing on Planet Earth that week.
+
+6 (16m 24s):
+Yeah,
+
+7 (16m 26s):
+Follow over the top on the Wondery app or wherever you get your podcasts. You can listen to over the Top Early and add free right now by joining wondery Plus.
+
+8 (16m 35s):
+For the record, this is not a wrestling podcast.
+
+7 (16m 37s):
+No, no. But it is inspired by wrestling.
+
+8 (16m 41s):
+Isn't everything inspired by Wrestling Beetle? Fair point. Yeah.
+
+9 (16m 49s):
+Hi guy, it's Jan from Amsterdam. I've been listening to your show for years now, and I have been moved by so many of the stories, so it's hard to just pick one. That is why I wanted to highlight one key insight I learned from your show. And that is about how building a business is not only about hard work with a portion of luck, but also about the magic that often arises from connecting with the people you cross spots with. So from that perspective, your show gave me the confidence to get out there and build a business, and it also gave me the patience to wait to come across the right co-founder. But thank you so much for helping me make the right decisions and for highlighting the magic of connecting with people you meet along the way.
+
+0 (17m 28s):
+If you wanna share your favorite episode of How I Built This record a short voice memo on your phone telling us your name, where you're from, what your favorite episode is, and why a lot like the voice memo you just heard. And email it to us at HIBT at id dot Wondery dot com and we'll share your favorites right here in the ad breaks in future episodes. And thanks so much. We love you guys. You are the best. And now back to the show. Welcome back to How I Built This lab. So when Warby Parker first launched, it was a direct to consumer brand that only sold its glasses online, but now Warby Parker has over 200 stores across the US with plans to open even more.
+
+0 (18m 23s):
+Was that more of a marketing play, you know, that if you get stores a brick and mortar store out there, people become more aware of your brand? Or was it more complicated than that?
+
+4 (18m 33s):
+Yeah, so at the end of this year we'll have 240 stores across the US and Canada. Wow. And our journey into retail was one where it started by just listening to our customers and, and trying to, to solve their problems. And we came to appreciate that having convenient physical locations enables us to make shopping experience convenient for our customers. It enables us to hire eye doctors and offer eye exams, enables us to have opticians where we can offer adjustments. But,
+
+0 (19m 2s):
+But it's more expensive than just doing a D two C brand.
+
+4 (19m 6s):
+There's certainly real costs that are associated with opening stores from paying rent and building out the stores and hiring teams. But the costs of operating an e-commerce business have also increased dramatically over the 13 years since we came into existence, where you essentially have landlords in the form of Google and meta, and when you open stores, those stores serve as billboards and are able to attract customers on their own. And we find that the, the economics for us are, are pretty comparable regardless of a channel that, that customers are, are shopping in.
+
+0 (19m 46s):
+Yeah. It's interesting you mentioned this that I, I I think that's a very apt analogy. Google Meta are the new landlords because you wanna reach customers, you're forced to pay money to those platforms. Help me understand your kind of approach to that world. I mean, is that where for the foreseeable future, maybe even beyond that marketing will be that it it it is gonna be dominated by these two companies?
+
+4 (20m 12s):
+So we believe that all brands, you know, can benefit from those platforms. They're very efficient and getting in front of the, the right audiences, but they're charging more and more for that opportunity. You can't just rely on paid media and, and advertising. And by far the number one source of, of new customers for us is our existing customers. And if we're able to treat, treat our customers well, if we're able to give them a great experience, they tell other people about the brand. And that's really the number one marketing tool for us.
+
+0 (20m 44s):
+Yeah, I I remember walking through downtown San Francisco in 2017 with somebody who said to me, brick and mortar retail is dead. It's over, it's all moving online. And your company was an example of that. And then more people said, COVID is the death nail of brick and mortar retail. No one's gonna come back to it. Do you think people were wrong? 'cause you're growing, I mean, you've got 230 plus stores, so clearly you're bullish on having physical locations. Why?
+
+5 (21m 18s):
+Yeah, I think people were way wrong. And that doesn't mean that e-commerce penetration is not increasing in most retail categories, but it's not increasing at the rate that would make bricks and mortar sort of disappear. And then similarly, retail in general, right? Consumption is increasing. So the whole pie is increasing as well. Listen, there are over 48,000 optical shops in the us That's a lot. And the vast majority of Americans prefer to go into a physical space to shop for glasses to get their eye exam, to talk to an expert.
+
+5 (21m 59s):
+And that's not changing anytime soon. Yeah,
+
+4 (22m 2s):
+I think probably the most powerful aspect of our business model is that we have a direct relationship with our customers and, and we're constantly collecting feedback and, and data around the customer experience and where there's friction and where we're exceeding expectations and where there are problems for us to solve. And what was very clear when we launched and we were scaling our, our e-commerce business was that, you know, people loved our product, they loved the experience, they loved being able to do a home, try-on and try on frames. What was really frustrating to them were the aspect outside of the Warby Parker journey where they had to get a new prescription and we didn't have any doctors to send them to.
+
+4 (22m 45s):
+So we had to go to a non Warby Parker doctor. And it was kind of a disjointed customer journey for them. And in particular, optometry is interesting. It's the only part of human medicine where a doctor can prescribe something to their patient and then sell them that product and make margin on it. Yeah. But if you go to a, an MD and they write you a prescription for a drug like Lipitor, you go to a third party pharmacy, the doctor's not making money on that optometry is, is different. And, and so there are all these economic conflicts where someone would try to order from us, they'd send us their prescription, it'd be expired, we'd say, here's some local places where you can get an eye exam. They would go to update their prescription and then there'd be kind of pretty high pressure environment for them to purchase glasses from that location.
+
+4 (23m 33s):
+And we've found kind of increasing complaints from our customers that, you know, they, they would love a, a more convenient way where they could complete their entire customer journey at Warby Parker. And as we started opening stores across the country, we hired doctors for some of those stores and we found that customers loved being able to have one stop where they could get their prescription buy glasses and then also get contacts from us. And so that's really where we've been spending a lot of our time, making sure that we can reduce friction for customers and patients and, and make the entire customer journey as easy as possible.
+
+0 (24m 9s):
+It's, it's interesting because I'm thinking about the brick and mortar store and how it helps you. Is there evidence that you have gathered that shows that it's like a reinforcing system where the store increases awareness, people might go online, then go to the store? Like I, I, the analogy I'd make is when we started putting this podcast on the radio, I don't know, six or seven years ago, it actually grew our podcast audience. Because even though radio's a legacy medium and it's, you know, the audiences are, are declining, it still does have an impact. People might then go and subscribe to the show on their iPhone or whatever, however they use it. Right. And so is that more or less what, what happens with the stores?
+
+5 (24m 50s):
+That's exactly right. What we found is that if we're going into a new market and we open up that first store, there is some e-commerce cannibalization for a short period of time. The way to think of it is there's a certain size pizza. Yeah. In that market, the store comes, there's a bunch of people who have been buying online who actually prefer to go in store. So once that store is there, they start going there. But having that store there increases awareness, it increases the size of the pie. So while you might have now a two-thirds, bricks and mortar one-third online split over the long run, the point is just that the market is so much bigger now because now people know of Warby Parker, they trust Warby Parker, they're ready to purchase from Warby Parker because of that store being there.
+
+5 (25m 40s):
+The other thing that's happened in the last few years is our business has changed pretty dramatically. So in addition to opening up, you know, 240 stores, we've moved towards a holistic vision care offering. And what we mean by that is that in addition to selling glasses, right? We have eye doctors and provide eye exams, we have contact lenses. And so folks sort of engage with those products and services both online and offline. So someone might come to our store, get an eye exam, buy a pair of glasses, maybe make an initial purchase of contacts, but then do all of the reordering online going forward. So whereas we always had an omni-channel experience now because of our increased product and service offering, there's even more reasons to go back and forth between physical and, and, and digital.
+
+0 (26m 29s):
+You guys decide to, to take the company public in 2021, I believe, right? Is that right? 2021, yeah.
+
+4 (26m 36s):
+September, 2021.
+
+5 (26m 38s):
+Yeah. And we, we take a lot of pride that we went public through a direct listing,
+
+0 (26m 44s):
+Not as a spac,
+
+5 (26m 45s):
+Not as a spac, not even as an IPO. Right? We didn't need any capital, so we didn't wanna raise capital that would dilute shareholders. And we thought that going public through a direct listing, we were only the eighth or ninth company to, to ever do that.
+
+0 (26m 60s):
+So you didn't have to do a road show or any of that stuff 'cause you were like, we're just going public.
+
+5 (27m 4s):
+Yeah. We literally press a button. Well, I mean, there was a ton of work that that went into it. Yeah. Right. But one of the advantages to doing a direct listing is that you don't have lockups. So our shareholders and our longtime investors and our employees could sell their stock day one. So when, when we went out at $54, a lot of people did, and they made a lot of money. And that was incredibly well deserved. And that's a source of pride for us because we also have seen so many companies that have gone public and then they have a six month lockup and the share price is riding high, and then literally a day before the lockup expires, a day before investors and employees can sell.
+
+5 (27m 45s):
+Right. The stock drops. So there was a moment where a lot of our longtime investors and our employees were able to take advantage of that very hot market and those very high share prices.
+
+0 (27m 60s):
+Was that the primary motivation for going public?
+
+4 (28m 4s):
+Yeah, there were several reasons that caused us to go public. And, and I think the advent of the direct listing made it more appealing to us. We didn't need capital, we had plenty of capital on, on our balance sheet. And so the concept of a traditional IPO where you end up taking on a lot of dilution, that didn't really make sense to us. But when this new avenue where you could become public without raising any capital emerged, and it became much more interesting to us. And it did give us the opportunity to provide liquidity to some of our longest tenured employees. So this was an opportunity where our earliest employees could buy a, a, a condo for themselves or their, for their families.
+
+4 (28m 45s):
+And that was a, a big motivation. We also recognized that as a private company, you're limited in, in the number of shareholders that you're able to have. And we would often hear from our customers, they'd email me and Neil directly some of our, our biggest fans, and they'd tell us how much they loved Warby Parker. And they asked if there's a way that they could become a shareholder. And when we were private, we couldn't enable that to happen. Yeah. But as a public company, the the cap table is much more democratic. And so that was another motivating factor. And then third is that our mission is to create vision for all. And we think of that both literally and figuratively, where we literally wanna make sure that every human being on the Planet who needs classes has access to them.
+
+4 (29m 31s):
+But we also wanna prove that you can build a great for-profit business that does good in the world without charging a premium for it. And hopefully inspire a lot of other companies, a lot of other entrepreneurs to think along the same lines. And going public puts us on a bigger stage, there's a bigger spotlight on us, our finances are also under a bigger spotlight. And, you know, we want to prove that this is a, a great business and, and it can withstand all the scrutiny that that comes along with being a public company. And we do believe that our impact over time will be bigger as a result of that decision.
+
+0 (30m 10s):
+We're gonna take another quick break, but when we come back, Dave and Neil discuss the future of Warby Parker and how AI will change eyecare Stay with us. I'm Guy Raz and you're listening to How I Built This lab. Welcome back to How I Built This lab. I'm Guy Raz. Here's more for my conversation with Warby Parker co-founders, Neil Blumenthal and Dave Gilboa. Now that you're, you know, you're a mature business, you're not a scrappy startup anymore, there's a lot more bureaucracy and it puts you in a competitive disadvantage.
+
+0 (30m 51s):
+Right? That's why there's Airbnb because Marriott and Hilton and Hyatt dela couldn't figure this out. And so Airbnb comes in and same, same with you guys, right? You know, you figured out a model that disrupted a, a bigger industry, but now you're a big player with competitors who are, you know, understandably nipping at your heels. So how do you keep that startup mentality going if it's possible at all?
+
+5 (31m 19s):
+You know, are we as nimble as when we had 40 people working out of one room and everybody knew what each other were doing, so we didn't have to have meetings? Obviously not like that was a a, a special time. But yeah, we now have a level of resources and expertise that we couldn't even dream of right? In those early days. And that enables us to do things at a scale and a level of, frankly, thoughtfulness that we couldn't do back then that we think leads to more impact. So one of the phrases that you'll hear people around the company often talk about is scale with integrity.
+
+5 (31m 59s):
+So scaling with integrity from our perspective means that we're being thoughtful, we're moving quickly that we're making investments in the future, right? So we're not just making short-term decisions. And that was actually when we went public, something that we were worried about was Yeah. You know, was would short-term thinking, infect the, the organization. And what we found is that it's not that short-term thinking has clouded out long-term thinking, but going public has actually created some more urgency, which is fantastic, right? That quarterly reporting, it's like, hey, if something was going to be done a few weeks later, let's get it done. So, you know, we're still having a lot of fun.
+
+5 (32m 41s):
+We're still, you know, able to innovate. There are definitely times where we just run up to a few folks and every company has, you know, 15 or 20 people that just, you can give them a prompt and they will run through walls to make stuff happen. And, and we have that too. And do those folks sometimes ruffle some edges because maybe they broke a process. Yeah. And, and that's completely okay and we make it okay within our culture. Hmm.
+
+0 (33m 8s):
+I've mentioned this in the show before, it's from an interview I did with Ken Scholt from Relief of American Express many years ago. And basically it says, become the business that is gonna put you out of business. And with companies like Zenni and 1-800-CONTACTS, they're, you know, competitors, you guys are obviously have done things and are doing things to stay ahead of the curve, like eye exams, on site eye exams and contact lenses and virtual tryon and also virtual exams. Like there are a lot of things you're doing. Do you sort of think about that? Like what do we have to do to become the business that that could potentially put us out of business?
+
+5 (33m 46s):
+Absolutely. Well, what's funny about the two examples that you mentioned is that they've been around over 20 years each. So, you know, I I think because people aren't as familiar with them as our brand, right? They think that they're the upstart, you're the
+
+0 (33m 60s):
+Upstart
+
+5 (34m 0s):
+Yeah. That have, you know, surpassed them in, in a lot of areas. So yes, we are looking at everybody, whether they're folks that have been around 20 years or or new folks and can we learn from them? Is it a good motivator that we'll sometimes use for the team, like, Hey, how did these guys get this done? Are they moving faster than, than we are?
+
+4 (34m 22s):
+And what we're probably more scared about is students that grew up in a digital era that are thinking about how to build a next generation company using the latest advances in AI and in ways that may sneak up on us. And so actually just yesterday we had a hackathon where we had a, a bunch of our team members spend three days just looking at different ways that we could use generative AI to innovate and add new features and, and make sure that, you know, if there's a new startup disruptive approach to our category that it's coming from within Warby Parker and that we're able to cultivate that and, and build that.
+
+0 (35m 4s):
+That's what keeps you up at night.
+
+4 (35m 6s):
+Yeah, absolutely. And we're constantly thinking about where are we hearing that there's friction and, and problems from our customers. How can we address those? If those problems persist, someone will solve them. And, and it should be us.
+
+0 (35m 21s):
+I mean, your brand was built on arguably one of the most disruptive dissemination engines in the history of our species social media. Now we're entering this new phase, artificial intelligence, there's a lot to be worried about. How do you think that the coming technology, particularly around artificial intelligence, will change our relationship with eyeglasses and with what you guys do as a business?
+
+4 (35m 48s):
+Yeah, we believe the consumer experience is gonna be orders of magnitude more personalized and, and, and customized for every individual. So based on the measurements and the contours of your face, we'll recommend the best products for you and kind of generate that digital experience on the fly. And so it should result in a much faster, more personalized experience that results in better matching of products and services to every individual user.
+
+5 (36m 17s):
+And then even think about sort of the healthcare implications, right? As we push farther and farther into eye exams and eyecare, the old adage, the eyes are the windows to your soul, the eyes are the windows to your health. And we can learn so much through imaging and then we can use ais to make diagnoses eventually and, you know, help better triage customers, not just within sort of eyecare, but for primary healthcare and, and, and beyond. I mean, we believe that the AI revolution will be more impactful than the internet revolution, right? This is on the scale of the industrial revolution and, and perhaps even even bigger.
+
+0 (37m 2s):
+I get a lot of questions from corporate leaders around how to navigate the very complex world that we live in, the social dynamics politics. A lot of companies made statements around George Floyd and have taken public stances around political issues like abortion. This is not new, but it's new or right, like in the past, companies just didn't weigh in in general. Now it's more common, but it also is tricky and treacherous because it means that when you don't say something about one thing, people ask, well, you said it about this other thing.
+
+0 (37m 44s):
+So how do you think about your role in speaking out around issues?
+
+5 (37m 50s):
+We have a framework by which we make decisions and it's often about impact on our stakeholders, our employees, and our customers, and then also our ability to have impact on a particular issue. So as we thought about our racial equity strategy, for example, roughly 2% of optometrists in America are black. We hire a lot of optometrists. Can we work with optometry schools? Can we work with partners to raise awareness of the profession of optometry in black communities and increase the number of black optometry students so that way we can have better representation within the field of optometry and perhaps better health outcomes, right?
+
+5 (38m 39s):
+That that's how we sort of think about some of these issues. You know, making bold proclamations or performative statements, again, sometimes not lead to desired impact and may actually lead to disruption and, and distraction. So it's something that we think a lot about.
+
+0 (39m 2s):
+I think when we spoke many years ago, you talked about creating an enduring brand, building a hundred year company. So is that still something that you aspire to? And because I've started to change my views on this, I started asking myself, does it matter if you're a hundred year brand? Does it matter if you're the next Coca-Cola or Ford? I mean, you can accomplish a lot in 20 years and fold up and move on, but is that important to you guys to have a, a legacy brand that outlives you?
+
+5 (39m 31s):
+We think so when we're, when we're asked what are you trying to do here? We're trying to provide vision to the world. We're trying to provide the tools to enable people to see, we're trying to build a brand that inspires, that people love. And when you ask somebody on the street, whether five favorite brands, we wanna be named there, we wanna be named alongside Apple and and Nike. And you know, we want that to endure. Now you only get that if you deserve it. So we need to deliver in the days, the weeks, the months a, a, a years ahead to be a brand worth loving. Yeah.
+
+4 (40m 7s):
+And a hundred years is, you know, it's an arbitrary timeline, but think it is representative of the fact that we, 13 and a half years in, we feel like we're still just getting started here and we have less than 1% market share in a massive category. We have distributed 15 million pairs of glasses to people in need, but there's still a billion people around the globe who need access to glasses. And there's just so much work to do. And the bigger we get, the more opportunities we uncover and we're just, you know, excited about all the new opportunities and challenges ahead as we build out our eyecare practice and hire hundreds of eye doctors as we innovate in telemedicine, as we scale our contact lens business as we continue to lead in how brands can evolve in a a omnichannel world.
+
+4 (40m 59s):
+And, and so we're as excited as ever by the challenges ahead and, and still feel like we're in the top of that first inning. And so if the top of the first inning is 13 and a half years long, then maybe the the whole game is over a hundred years and we really just wanna make sure that we're delivering as much impact as possible.
+
+0 (41m 19s):
+Awesome guys, thanks so much.
+
+5 (41m 21s):
+Thank you.
+
+4 (41m 22s):
+Yeah, this is fun.
+
+0 (41m 24s):
+That's Neil Blumenthal and Dave Gilboa co-founders and co-CEOs of Warby Parker. Hey, thanks so much for listening to the show this week, week. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show. And as always, it's free. This episode was produced by Sam Paulson, with music composed by t Arablouei. It was edited by John Isabella with research help from Kerry Thompson. Our audio engineer was Patrick Murray. Our production staff also includes Alex Chung, Casey Herman, Carla Estevez, Chris Masini, JC Howard, Malia Aguello Neeva Grant, and Catherine Cipher. I'm Guy Raz and you've been listening to How I Built This Lab.
+
+0 (42m 16s):
+If you like How I Built This, you can listen early and ad free Right now by joining wondery Plus in the Wondery app or on Apple Podcasts. Prime members can listen ad free on Amazon Music. Before you go, tell us about yourself by filling out a short survey at wondery.com/survey.

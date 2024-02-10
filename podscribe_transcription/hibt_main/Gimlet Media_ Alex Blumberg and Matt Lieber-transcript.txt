@@ -1,0 +1,917 @@
+1 (0s):
+Support for NPR and the following message
+
+2 (2s):
+come from Comcast through Internet Essentials Comcast has connected more than 8 million people from low-income households to high-speed internet most for the first time more at Comcast Corporation.com Internet Essentials
+
+1 (18s):
+really quick before we start the show. I want to remind you about an upcoming live recording of the podcast. It's happening in Denver on November 13th at the Paramount Theater. I'll be interviewing Kurt Richardson. He's the creator of the Outer-box phone case and if you haven't been one of our live shows before they are super fun their chance to see me and to meet other builders and fans of the show. It's all brought to you by American Express and we'd love to see you there. So to get tickets go to NPR presents dot-org and hope to see you in Denver.
+
+2 (52s):
+I had a dream I was at some party and Ted Koppel was there. It was like Alex how long you gonna stay at this job don't want to start something on your own and I remember telling him like no Dad. I'm pretty happy is like are you really so then I woke up and I told my wife about that dream and I think that kicked it off. I just have to bite the bullet and quit
+
+1 (1m 26s):
+from NPR. It's how I built this. This a show of that innovators entrepreneurs idealists and the stories behind the movements. They built I'm guy Roz and on the show today have to public radio producers turn podcasts into profit and a media company called gimlet been sold for more than two hundred million dollars. So some of you may know that for most of my early career, I was a news person. I covered a bunch of Wars. I was posted overseas. I was a host on NPR's Evening News show but then in 2012, I left I left to essentially relaunch a podcast.
+
+1 (2m 9s):
+It was called the TED Radio Hour and I still host it and back then that decision believe it or not was like going into the Wilderness of Journalism several of my colleagues were like you're To do a what a podcast and to be honest. I was a little embarrassed myself. I was leaving the prestigious world of news for the Exile of podcasts. But of course what eventually happened was precisely the opposite of Exile podcasts exploded today podcasts are a half a billion dollar industry. And what was once considered an afterthought even at a place like NPR is now one of
+
+2 (2m 49s):
+its most important. Sources of
+
+1 (2m 51s):
+revenue now back in 2014. One of my colleagues was watching as explosion really closely. His name is Alex blumberg. Alex is someone I've admired for a long long time. He was a producer on This American Life and then he went on to co-create one of my favorite shows Planet Money and Alex started to dream of an idea to build a production company like HBO except for audio for podcasts, but even then the thought of making money off podcasts We're still a fairly new proposition besides like a lot of mature and stable organizations and PR can be slow to innovate and Alex realized he couldn't launch this idea inside the company.
+
+1 (3m 35s):
+So he left which was a huge gamble. Lots of people in public radio thought he was nuts. He also knew nothing about how to run a business now as many of you may know Alex documented this journey on a podcast called startup in that show. He describes the Collapse and downs of starting the business and how he eventually came to meet his co-founder Matt Lieber they decided to call their company gimlet and went on to produce a bunch of podcasts including reply all and homecoming and then in 2019 Matt and Alex sold the company they founded to Spotify for around 200 million dollars, which I think is fair to say is not a sum of money you often hear connected to public radio folks unless they are.
+
+1 (4m 21s):
+Major donors. Anyway, we'll hear from Matt Lieber a bit later in the show. But first to Alex who grew up in Cincinnati, his dad was in advertising and his mom ran a public assistance program in the city and even though it may not seem obvious given what they did. Alex says, both of them were actually really
+
+2 (4m 40s):
+entrepreneurial. Oh, yeah, they were entrepreneurial and yet we never use that word. Yeah. I didn't learn that word at home. I probably learned that word in college. My mom was a social worker and she ran a public employees assistance program, but I never heard her talk about it that way and then my father he was always advertising. My dad was always in advertising and he you know, he was a copywriter and then he worked with a couple different people different agencies and then he eventually started his own advertising agency and then that agency and then another one that became wolf Bloomberg crody. So he was the Bloomberg and the Wolf Bloomberg Grody. I like it grew pretty big it grew like at a certain point.
+
+2 (5m 20s):
+He never liked. 70 80 people wow big and he never talked about it as
+
+1 (5m 25s):
+like this is my business citing
+
+2 (5m 27s):
+really like we're building this business or anything like that. If anything he was embarrassed about it why I don't think he valued it at all. Like I think all he wanted to do was be a poet really are like an academic or a great thinker of some kind
+
+1 (5m 41s):
+but he had this successful business that seemed to kind of grow I guess just grow on its own or grow
+
+2 (5m 48s):
+organically. I know I mean, I remember asking about this at one point because it was like later later later on the journey when we when Matt and I had started gimlin we were like growing this company and it was like all I could think about and was consuming every single sort of thought in my mind. And when time later I asked him about that I was like, how did you feel about it when you were starting it? I never heard stories from mu about it. And I think what he told me he was like he was like, I just never felt like I never felt like those were my people the people I worked with
+
+1 (6m 20s):
+Did you did you sense or notice a change in your family's lifestyle, you know having gone from your dad working for a company your mom doing social work to him running this pretty successful at agency. Oh, yeah,
+
+2 (6m 32s):
+there is there is a there is a moment where my dad's company was doing very well and business was booming and they one of their clients whose Proctor and Gamble and all of a sudden we had money and it was fortunately right around the time that I was going to college so they were able to pay for me. My sister go to college
+
+1 (6m 52s):
+you went off to college you went to Oberlin and you study political science government. Did you have a sense of what you wanted to do when you want to college? I could you think I want to get into public service like my mom. I want to do some kind of social worker. Was that your plan or did you think I want to get into journalism or did you not really?
+
+2 (7m 10s):
+No, I think I had a sense of like wanting to do something good in the world. Like I remember I studied Russian because back when I was in college Russia was so funny. Evil empire right? So feminism, right and I had this very sort of political feeling about like, you know, they're they're people just like you and me mr. Reagan and I'm going to learn their language and prove it to you and I think one of the things I was a big consumer of narrative nonfiction from an early age, you know, we had magazines lying around the house like we had the New Yorker and Harper's that was that kind of household and like I pick them up early and really love them and then as I got older I love them more and then yeah, but I never I never On myself as doing that that felt like the people who did that the people who did journalism those were the kids who were like sort of on the school paper and had, you know majored in journalism and had like gotten internships when they were in college and you weren't doing any of that I wasn't doing that.
+
+2 (8m 5s):
+I was like I tested well and I took AP classes. Yeah, but I was not a motivated student. I was a very comfortable with a high B.
+
+1 (8m 14s):
+So you graduate I guess you you g go back to Cincinnati.
+
+2 (8m 19s):
+Well, no, I went to Russia. Shh spend a year in Russia, then spent a summer in Cincinnati and then moved to Chicago and that's where I sort of picked up. My post-collegiate life wasn't was in Chicago
+
+1 (8m 28s):
+and in Chicago you were actually a teacher
+
+2 (8m 29s):
+right? I was yeah, I taught school at a private school for four years at science,
+
+1 (8m 34s):
+but it wasn't going to be the thing you were going to do,
+
+2 (8m 37s):
+but I wasn't the thing I was gonna do. No I didn't I didn't feel like it was the thing. I liked it at a certain point sort of in my second or third year. I was like, I don't think this is really what I want to do. But like honestly guys, I think really what happened was. My girlfriend broke up with me
+
+1 (8m 52s):
+in Chicago in
+
+2 (8m 53s):
+Chicago. We've been dating for many years and we were in love and it just it really shook me and when she liked what he had to do and she was like, I'm gonna move to New York. I'm going to go to film School. And I was like wait, that's not fair. We weren't supposed to be actually pursuing our dreams here. You're going to actually pursue your dream and then I was like, oh my God and I are going to go to film school and then you're going to become a famous director. And then your name is going to be the Marquis and I'm going to be supervising recess and it shook me and it shook me into realizing I was like, well, wait was that wrong? I thought I'd like supervising recess and then I realized like no I want to I have something else that's my ambition.
+
+1 (9m 33s):
+But you didn't know what it was.
+
+2 (9m 35s):
+I didn't I knew what it was at that point because she was she was transformative into with the other way that she was transformed as she was from New York. And so she knew people in New York media and so through a friend of one of her friends. He was like best friends with one of the editors at Harper's magazine and I was like wait, there are people at Harper's magazine who who are friends of the people. I'm friends with like that seems crazy, you know, like they felt it so far away out of you know, like completely beyond my reach and then here this guy was and so I'd spent a summer in in Brooklyn interning at Harper's magazine for free. This
+
+1 (10m 15s):
+is like 1996 some 1994 94. Okay 94. Yeah.
+
+2 (10m 19s):
+And so I knew that I'd wanted to do that. I'd been really captured by that experience. So I was like, okay. Well, that's my dream. I should start pursuing
+
+1 (10m 26s):
+it. So
+
+2 (10m 28s):
+what did you do at that point? I dabbled did a bunch of things. I've dabbled in grad school. For a little bit. I like went to a year at grad school and in Chicago, but basically after she broke up with me, I was 30 years old. I didn't know it was going to do with my life and I was like looking around for stuff to do and I found out about this American life is what happened as a listener. I knew about it as a listener and I knew that it was coming out of Chicago and it was like the incredibly hip new thing and a guy there who had worked at Harper's magazine who? I'd been this incredibly intimidating editor there who I was really enthralled with but like scared of this guy Paul tough.
+
+2 (11m 10s):
+He was working with This American Life in the early days. And so through him I got introduced to Ira I believe and I was able to get a job as the administrative assistant at this American life. So
+
+1 (11m 22s):
+you are in your early 30s just been dumped just been dumped you're an administrative assistant at this American
+
+2 (11m 29s):
+life living the dream.
+
+1 (11m 31s):
+Yeah it was anyone were like, I know Sam I'm worried about you. Like today, I want to feel like that like we're your parents sort of like wondering why God does Alex have any direction or what? I don't know what's going on. What was going on in his
+
+2 (11m 42s):
+life the time around medical school is running out here
+
+1 (11m 44s):
+son. Yeah. Well you worried or not. Really?
+
+2 (11m 47s):
+Oh, I was really worried. I was really worried. I was a very aware of like how I presented like I was like a loser, you know, I was like 30 years old. I just been dumped and I didn't have a career and I was an administrative assistant, but it felt like I'd spent the entire previous decade just But not doing anything just like waiting because I was afraid and I thought like that. We keep me safe and then the safe thing had just resulted in intense heartbreak and there's no excuse doubt not to do the scary thing. So it felt for the first time in my life. I felt like I was like where I should be and being the administrative assistant At This American Life, it was like Ira and three producers and they were trying to get out an hour of like hi.
+
+2 (12m 33s):
+Police radio every single week and they were just like completely up to their necks and work. And so there was lots and lots of stuff
+
+1 (12m 41s):
+for me to do and was Ira teaching you how to make
+
+2 (12m 44s):
+radio. Yeah, I mean he was I don't think it wasn't like he was sitting down and like he was like come here administrative assistant at each other a prank radio, but it was just such that was like the second year of This American Life existence. It had already become something of a thing in the world. It was like, you know very well known and was on a lot of radio stations and it was on the rise and Ira was just running. Yeah and never stopped he would get there early in the morning and he would leave late late at night and everybody would and including me and so like he had no choice but to teach
+
+1 (13m 15s):
+me. How did you get your first story on to the
+
+2 (13m 18s):
+show? Ira came to me and was like the ten year anniversary of Harold Washington's death is coming up and he was like, I'm wondering if we should do something for it. Here's this book read it and see if you think there's a story there and so he gave me this book called fire on the Prairie by Gary rivlin which is all about Mary Washington are watching was the first black mayor of Chicago and he'd been this sort of like incredibly charismatic leader who just sort of like just tipped off this entire, you know, sort of Health
+
+1 (13m 49s):
+Most
+
+2 (13m 50s):
+racist black backlash Insight in Chicago. So we started producing it together and I just like would identify all these people from the book and then we would go and interview them and I'd sort of try to help them come up with this with the questions and I remember that like the show came out on Friday and on Wednesday. We had nothing written nothing produced Nothing Cut. Wow, and then he just dove in and just wrote an entire hour long documentary in three days. Wow, this is crazy. He said Up all night. I'd never seen anything like it.
+
+1 (14m 21s):
+Yeah, I remember that episode because I think it's called Harold. It's called Harold. Yeah, I remember that episode. It's a classic This American Life. That was the
+
+2 (14m 28s):
+first thing you produced. Yes, that's one way of looking at it, but it was so exciting. Yeah being there so exciting and it was all that I had wanted and so the thing that motivated me was like I need to this is what I want to do. I want to do this. And by hook or crook I'm gonna learn how to
+
+1 (14m 51s):
+do it. But I mean, obviously you started to do more and more and more stuff for the show. Yeah over the next couple of years.
+
+2 (14m 59s):
+So yeah over time I like I started I became sort of like one of the more experienced seasoned producers At This American Life that meant doing my own shows do much stories as well as producing other people's stories. And then there was there's a couple years of that just making stories that just felt really exciting.
+
+1 (15m 20s):
+Look Alex. I want to just pause for a second because Matt Lieber is sitting next to you and he's been waiting here patiently. Yes. Sorry. I'm digesting I'm digesting everything else just said I do I've never heard you used to tell all that stall
+
+2 (15m 35s):
+the strands together. Oh, yeah.
+
+1 (15m 36s):
+Can I just watch one do like a like a split screen here for a sec? Because wow Alex while you were working at This American Life Matt, you were in college, I guess around that time and I read that you like me were like a big fan of radio. Yeah. Do it. Should you actually remember listening to to This American Life at that time? Yeah, like it was like literally I was in the car turning the dial
+
+2 (15m 59s):
+and then I heard
+
+1 (16m 1s):
+an episode of This American Life and I was and I stopped because I was like this doesn't sound like anything else. Yeah, which is funny because now like a significant portion of the most popular podcast on Earth are this sound but at the time it was really weird it was unusual. Yeah and which I guess we should just back up for a sec to say that you you grew up in Massachusetts just outside of Boston. And when you when you went to college to Bowdoin College in Maine, damn, did you also get involved in like college radio? Well, I had done some research write and when I was in college, I interned at the local public radio station, so I was doing my College radio at Bowdoin which was wbb or and then I spent the summer interning at WBUR which was the NPR station.
+
+1 (16m 51s):
+And when I graduated college, I was kind of trying to figure I had applied to be an intern at this American life and I spent like a week on my application you had to like write an essay you had to critique a story you had to pitch a couple stories. Yeah. I had all this like I thought like I have all this radio experience. Sure. Yeah II sent in the package and I didn't even get rejected. I just got nothing nothing. Like I just didn't get a response not just because Alex because Alex threw it in the garbage. He was in Chicago. Alex must have been on the other end the other hand. What year was this? 2001 few members application Alec? No, it was that memorable.
+
+2 (17m 31s):
+Thank God I did I would not in charge of the internet petitions at that point.
+
+1 (17m 35s):
+All right, so you don't you don't get the internship. So instead I guess just out of college you move to to New York to try to get a job in radio. Yes. That's right. I moved to New York on September 1st. 2001. Wow. With the idea that I would get into radio but not knowing anyone, but I figured if I wanted to be in radio and media like New York would be the first to go and I had a friend who had a room openers in his apartment and then on the morning of September 11th, 2001. I was on my way into a job interview in downtown Manhattan at a staffing firm.
+
+1 (18m 16s):
+It was the kind of place where they would like put you and you would be a receptionist at like an insurance company a temp agency temp agency exactly and on my way to the subway. So this was 9/11 and on my way to the subway like the second plane hit the second tower and the subway shut down and so I didn't go in
+
+2 (18m 35s):
+to Manhattan that day.
+
+1 (18m 38s):
+And on the way back from as I was going back to my apartment. I saw this guy in a park in downtown Brooklyn hitting golf balls.
+
+2 (18m 49s):
+He was just hitting a pitching wedge
+
+1 (18m 51s):
+and there's a whole crowd of people all around the boat looking
+
+2 (18m 53s):
+up at the at the
+
+1 (18m 54s):
+smoke coming from both towers and this guy just kept hitting golf balls. And so I was like, this is real it was surreal. It was just surreal. Yeah, and so I ran home. I got my mini
+
+2 (19m 5s):
+disc recorder and I
+
+1 (19m 7s):
+interviewed the guy. And he was from he was a Trinidadian guy and I was just like, how can you be like, aren't you upset like why aren't you home with your family? Like why are
+
+2 (19m 17s):
+you hitting golf balls? And he's like, he was just basically
+
+1 (19m 20s):
+like no man like this is America and in America, you know, everything's going to be all right. Wow, and and you actually turn that into into a radio story think yeah it aired on weekend edition, which was in PR show and you know Millions Of people listen to it and that was like my first that was the first piece I ever got on on a radio show. You are actually go on to spend the next several years working at a couple of different public radio stations in New York and Boston. Yep. I guess like it around 2010 you make a big change like you decide to go to business school.
+
+1 (19m 59s):
+Yep. So what happened what changed? Well, I had done all these jobs in radio and I think I spent like a year year-and-a-half actually working at MTV radio. My job was to interview celebrities on red carpets. And then cut up sound bites and send them
+
+2 (20m 17s):
+to Local music
+
+1 (20m 18s):
+DJs. But the most of that that most of that decade I spent producing journalism news culture and also music at a number of public radio shows and I happened to be on three shows in succession. There were cancelled and that made me doubt whether there was going to be enough like stability and opportunity for me. And I remember at the time my parents were always a bit bewildered. Third by why I was working in radio. My dad particularly was confused not by my interest in media. But but public radio,
+
+2 (20m 53s):
+right? I remember what he would ask me. It's like
+
+1 (20m 56s):
+he's like, hey, maybe have you ever thought about
+
+2 (20m 57s):
+television is it because I think you could make a better
+
+1 (21m 0s):
+living and what she was correct about and it was at a time. It was just a really hard time in media period in New York. So this was 2008. There's lots of layoffs happening the beginning of the internet as a like disintermediation of Publishers was happening. So if you were in Legacy Media, you were looking around realizing that your business model is collapsing. Yeah, and people are beginning to get laid off from like newspapers. And there was this rise of digital and I remember reading an
+
+2 (21m 33s):
+article in New York Magazine about how like media was no longer going to run New York.
+
+1 (21m 40s):
+There were all these new startups and they were like technology and product startups
+
+2 (21m 45s):
+and that was
+
+1 (21m 45s):
+where the Teacher was and there were these people who are
+
+2 (21m 50s):
+entrepreneurs who were like
+
+1 (21m 51s):
+crazy optimistic about what the world they could build is and I also I was in journalism. So people are just generally like journalists are skeptical by nature and I thought like
+
+2 (22m 3s):
+I kind of want to be on the other side.
+
+1 (22m 5s):
+And so
+
+2 (22m 7s):
+that was when I decided to leave
+
+1 (22m 9s):
+so you went to business school with the idea of like, I don't know going into consulting or starting a business or Something like that.
+
+2 (22m 19s):
+No,
+
+1 (22m 20s):
+I went to business
+
+2 (22m 21s):
+school as like a last
+
+1 (22m 24s):
+it's like a Lifeline. Yeah, it was a Lifeline. I understand. I began to understand by that point that some of the biggest changes in our world are driven by business and if you understood
+
+2 (22m 36s):
+how markets function
+
+1 (22m 38s):
+and how business operates that's like a tool set that you could do a lot
+
+2 (22m 42s):
+with.
+
+1 (22m 44s):
+All right. I'm go back to you Alex and we'll come back to you Matt in a bit. So Alex you to work on this American life and people really become like a part of like The Ensemble like yeah, I think anyone who remembers that show in the 2000s remembers your name
+
+2 (22m 59s):
+hearing your name all the
+
+1 (23m 0s):
+time. And then in 2008 there was a pretty significant kind of moment where he produced an episode of the show called The Giant pool of money. And you did that with Adam Davidson who was also a public radio reporter at the time. How did that how did that happen? How did that come
+
+2 (23m 16s):
+about? Yeah. You know what? It was. It was somebody at This American Life had bought a house and I had asked her like what wait, how did you how did enough have enough money for the down payment was like I we didn't have at that point. We just they just gave us the loan without a down payment was like really I was like, that's it. I didn't know that happened and she's like, oh, yeah. And so then that sort of me like I was like that's crazy and then there's always credit card debt out there and everybody I knew had huge credit card bills and so I was just like started like I was just like casually looking at this the story of debt in America what's going on and then the more I got into it the more I sort of like start to understand the macro economics of it and how it what it had what that had to do with the Chinese Central Bank and and I was friends with Adam Davidson this whole time and Adam Davidson was a was a correspondent him at NPR and he was the business and economics correspondent NPR.
+
+2 (24m 1s):
+And so we had been kicking around this idea of doing something on like housing debt. So we reported this whole story of like the Global Financial system and how it had sort of led to these conditions where people were borrowing massive amounts of money without anybody checking to see whether they could pay it back or not. And I explained this thing that was Happening all around and explain it in a way that had like characters and people that you could hear and hear those stories and it was funny. And yeah, I think Adam and I both knew it like we both knew. Well, we're making that like we're onto something here like it felt like this very powerful thing.
+
+1 (24m 33s):
+Yeah that episode The Giant pool of money would go on to win like every award and was a huge huge piece of Journalism that year and got a lot of attention and I guess the two of you decided hey, hey, why don't we what are we start something around money? Why don't we do it? Why don't we create something bigger which led to the creation of Planet Money? Yeah and Adam sort of said to you. I need you to join me to make this happen. And and the two of you had to kind of build a company within a like a mini company within a company, right? I mean over like an ensemble cast like Like This American Life.
+
+2 (25m 11s):
+Yeah. Yeah, we had we came in and we were like, okay, we're gonna do this. We're gonna do this like Dave's Daily the beginning was his daily podcast. Me and Adam. We're like the ones in charge of it and we'd never been in charge of anything before we had to go to management training learned a lot about ourselves that is and that was sort of the experience where I sort of learned like okay, I can be a boss. Hmm
+
+1 (25m 30s):
+while you was a two of you were kind of ramping up plan on money and as it kind of hit cruising altitude became a really successful podcast and radio feature on some of the NPR shows. Did you did you I mean you're now in your early 40s, were you You married at that point you have kids. Yes
+
+2 (25m 51s):
+early on right in the very sort of beginning of Planet Money. Our first child was born my side and then and then our daughter was born, you know less than two years later. So yeah is a sort of a busy time. We were starting Planet Money And I was like starting a family at the same time trying to balance it all eventually Adam.
+
+1 (26m 9s):
+He decides to take a leave to write a book and sort of starts to move on from the show you are Still there. At what point did you start to think maybe I don't know. Maybe I should move on.
+
+2 (26m 25s):
+Well, I think I think it was a gradual thing. I think a couple things happened over the course of Planet Money one. We did this project called the T-shirt project which was Adams idea, which was like, I think he came in one day and was like, I think we should follow a t-shirt as a Around the World As It Gets
+
+1 (26m 39s):
+made like cotton feel to the store.
+
+2 (26m 41s):
+Yeah. Exactly. We start with the farmers who make the cotton then it gets spun into the yarn again gets woven into Fabric and then cut and sewn into t-shirts and then gets shipped back and we'll tell the whole story and it happens all over the world in all these different countries and we'll meet the people and actually make a shirt. And then we just started thinking about it was just like the super exciting idea. So we so we you know, I think it's a bit like took it like another year or a year and a half before we actually did it and it was this huge hit that was like it became this thing that our listeners went along with we start talking about it. We would prepare all these stories about it. And then we sent all these reporters all
+
+1 (27m 13s):
+around and you sold a lot of t-shirts right? And we sold a ton of
+
+2 (27m 16s):
+t-shirts. We sold like 20,000 t-shirts. Wow, we made like almost six hundred thousand dollars,
+
+1 (27m 22s):
+which was not like profit for you. Guys, right. It's just that was just NPR's money.
+
+2 (27m 27s):
+Yeah, that was just NPR's money, but it was also like and that's what you use to fund the trips and everything like that. Like we knew that that was gonna we were hoping to earn back what we spent on like doing this crazy project, but we made that back and more. Yeah, and we were doing these like Live Events where like there be huge theaters would show up and see us talk and people were like asked us to sign autographs which never had never happened to me before and my all my years of radio journalism. And so it just felt like There's something going on here. If I like there's money to be made and it felt like there's a big opportunity, you know to like if we can tell if we can start a podcast the super popular podcast about business and economics then then you can start a podcast about anything.
+
+2 (28m 9s):
+Yeah, and it just felt like we should do that. We should do more we should do more planet money's do you want to start more shows? I want to start more shows. I wanted to figure out a way to do it with MPR
+
+1 (28m 18s):
+because podcasting started to really gain traction right like yeah. I started TED Radio Hour in Teen and we were one of the kind of the early shows. It really got a big audience and people were starting to talk about podcasting around that time as a viable
+
+2 (28m 33s):
+business podcasting just like the numbers were just growing and then there was people out there who would making it who are making a business of it independently like Roman Mars who had launched the podcast 99% invisible. Mmm was very inspiring to me like he was out there on his own and he had done it. He'd been doing it for like a couple years prior to prior to Leaving till lunch gimlet and he had like a small staff and he had like advertisers and I remember asking him early on like questions about like how you know where to get your advertisers. How does it work? And it was just working really well for him, you
+
+1 (29m 7s):
+know was their excitement when you talked about this at NPR was their excitement where people like yeah, this is great. And
+
+2 (29m 14s):
+I don't I'd there one something in some places there was but it was like I also knew that it was important to me that it wasn't going to be a non-profit. Hmm. And the reason was if you have a large Global News outfit with people all around the world, there might not be a viable business model for you and you might need to make that work you might need Foundation money and stuff like that. You might need to just like go that route. You might not be able to actually just turn a profit. But with Planet Money I was like no there you can turn a profit on Planet Money that's like advertisers want to be on that show. The audience is big enough. It can be profitable if And it should be it doesn't make sense to force it into a structure that it doesn't need.
+
+2 (29m 60s):
+And also I felt like I was creating a lot of value. Yeah, and I wanted to have ownership of that value if I was going to take this risk. I wanted to be able to be rewarded for it.
+
+1 (30m 9s):
+So as you are kind of thinking about this idea, did you a clear idea of what it was going to be? Did you think like, okay we're going to have we're going to spin this out. We're going to create all kinds of new shows are going to be this this this and this and we'll need a team this size, or was it more?
+
+2 (30m 25s):
+Abstract definitely more abstract. It was like sort of like we'll need to make the Planet Money of cars in the Planet Money of the internet right Planet Money of you know, whatever else, you know, and my plan in the very beginning before I met mad and before like I actually had like actually talk to any investors or anything was like I just need somebody to give me a bunch of money and then I can hire some people and we can start making stuff.
+
+1 (30m 47s):
+So at that point, I mean mm, this is
+
+2 (30m 50s):
+2013. This is 2013-2014. Yeah,
+
+1 (30m 53s):
+I'm the whisper challenge you running into But NPR that they were a nonprofit organization and they just could not figure out how to make this work or was it more like? Yeah. We're just no one really want to make a decision. Nobody wanted to kind of pull the trigger or or no one really thought that they were legs to this or was it like a combination of those
+
+2 (31m 12s):
+things a lot all the above. I think I was a risky Venture, you know, like there's not that many places that are set up to like take that kind of risk, even though I didn't feel like a risk even though I felt like Well, I know how to do this in like obviously I've done it before so but like no that's not true. I've done it inside institutions. Yeah whose contributions I was way undervaluing, you know, if you're NPR, that's a lot of risk to take to just be like, yeah. I'm going to give you this money to try to start something that like, I have no idea if you'll succeed or fail and there's not that many institutions set up to do that to do that. Yeah, I was frustrated though. I was frustrated. I was frustrated at the inability to like I felt like we were sitting on gold.
+
+2 (31m 54s):
+Like we they recognized the editorial gold, but I felt like we're sitting on financial gold with Planet Money and people love it and it's brand new and it's different and they're consuming in a different way and it just feels like you know that you're getting these like teeny tiny ad rates and like nobody knows what it is yet and it just felt like it felt like we were just listening Giant and that nobody knew about us. Yeah.
+
+1 (32m 18s):
+Do you remember the point in your mind where you thought I'm going to leave you've worked. It for organizations your entire life. You've never run a business. You've never gone out on your own. You've got like a family you're 47. How did you get to the to a point where you thought I am going to do this and I will leave my safe stable comfortable job if I have to because that's a that's a pretty big
+
+2 (32m 45s):
+leap. I know this is exactly the moment but this was a moment. I'm it's never just one moment. But here is a moment that I remember I had a dream I was at some party and Ted Koppel was there and Ted Koppel somehow knew who I was and he came up to me at the party and he was like Alex how long you gonna stay at this job really good do that don't want to start something on your own. And I remember telling him like now Ted I'm pretty happy. It's like are you really? So then I woke up and I told my wife about that dream and I think that kicked it off.
+
+2 (33m 31s):
+Yeah, I just have to bite the bullet and quit.
+
+1 (33m 36s):
+When we come back in just a moment how Alex learns that it's a lot easier to make a podcast than to make a podcast company and how he documents almost every humiliating moment of that process on the show startup stay with us. I'm guy Roz and you're listening to how I built this from NPR. Hey everyone, just a quick thanks to two of our sponsors who helped make this podcast possible. First to zip recruiter. Hiring can be a slow process Cafe Altura Co oh Dylan. Misko. It's needed to hire a director of coffee.
+
+1 (34m 18s):
+So he went to zipper Cooter posted his job and found the right person in just a few days find out why four out of five employers who post on zip recruiter get a quality candidate within the first day try zipper Cooter for free @ Recruiter.com built be uilt thanks also to eat Ray technology is making investing easier every day consider core portfolios from E-Trade. It's a simplified approach to investing that saves you Time by building monitoring and managing a portfolio for you with access to support whenever you need it with core portfolios investing never feels like work for more information visit each Ray.com NPR E-Trade Capital Management, LLC Maddie's a fire here host of a new daily science podcast from NPR called shortwave this week the first all-female spacewalk.
+
+1 (35m 15s):
+We got to talk to both of those astronauts in space. We have you loud and clear NPR listen for that and subscribe too short way from NPR. Hey, welcome back to how I built this I'm guy Roz. So it's 2014 and Alex blumberg is going to walk away not from one, but from to Plum jobs in public radio and he's gonna do this to start a podcast company something that at this point was not an entirely proven concept. So he decides to lay out his case on a podcast which calls startup here's a clip of
+
+2 (35m 54s):
+it. I love podcasts. It seemed like someone should come up with money to invest in making new shows like these and come up with a theory about how those shows could be profitable. I kept waiting for someone to do that and then came this thought. I thought that's gotten a lot of people into a lot of trouble the
+
+1 (36m 11s):
+thought well I could do that and do did you think you were going to do this by yourself was that was that the plan at the beginning? Yes.
+
+2 (36m 20s):
+I thought that was what I was gonna do. Basically I was on my own millions of people listen to Ooh, This American Life and Planet Money and NPR and I didn't have any personal brand and so my big fear was like I figured I'd be able to like get a podcast together. I just didn't know how anybody was going to know about us. Yeah, so I had to do something that was going to attract attention to what we were doing and I figured like okay a guy recorded himself trying to start a company. That'll be that'll be good. It was like a marketing
+
+1 (36m 53s):
+Ploy doing it an audio diary of Making this company. Yeah.
+
+2 (36m 57s):
+Are you meeting someone with money? This is my wife Nadine early one morning a couple months ago stopping me as I was on my way out the door to do something. I'd never done before meet a guy who works at a venture capital firm and try to get him to give me
+
+1 (37m 10s):
+money. Did you and your mind have a sense of how much time you had before? You could no longer just survive of nazarenes income?
+
+2 (37m 20s):
+No. I didn't buy that point. She was working at MSNBC. You so she had she was making a lot more than you make in public radio, but it wasn't long. Like we didn't have a ton of savings and I didn't have a job. Yeah, I had a couple bad maybe like I don't know three four months five
+
+1 (37m 41s):
+months. That was it Max. And and I mean you were like in your apartment you had I think two kids at this point, right? Yeah, and you just started out talking into your microphone.
+
+2 (37m 52s):
+Yeah. I started anything I was doing I would Mike my Of doing it any meetings. I had set up I would tell the people ahead of time like and you know, I'm sorry podcasting coming and like funny thing. I'm also making a podcast about it. Haha going to come out with microphone. And for the most part they were into it like it was like, you know, it got me in the door and a certain way. It was like it was unusual. Yeah, you know, like if you're a VC, you've seen 70 got five gazillion people pitch you a different kind of like food delivery app or something, you know, but you probably haven't seen people come with Full head gear and boom mic recording it. So it was if nothing else was a
+
+1 (38m 30s):
+novelty. All right. So you leave Planet Money in March of 2014. And would you go like just have meetings with with people that money would you just try to set up meeting after meeting?
+
+2 (38m 41s):
+Yeah, I would set up meeting after meeting. I would reach out to everybody that I knew who'd been involved and you just meet somebody and then they introduce you to somebody else and they introduce you to somebody else and it's all like, you know, but ultimately became very clear like nobody was going to invest I could only tell half the story I could only tell the story of like here's the kind of things that I've made and here's and I'm going to just keep doing that. And that wasn't that wasn't a business that wasn't the business
+
+1 (39m 5s):
+and your pitch was I want to make like the HBO of audio Yeah. I want to make really high quality shows. It's gonna be ad-supported. Maybe we'll sell stuff. I guess they're
+
+2 (39m 13s):
+here everyone. Yeah. No, I feel like I would I would go out and I would be all pumped up and I'd be practicing I had I'd go over my pitch and I'd go out and do it and then I'd fly out somewhere and then I was one of like, I don't know three four meetings that day, and I was just one idea out of a million ideas and other people were pitching ideas that had proprietary software or you know, like but scientific breakthroughs and they'd been like part of a Lab at Stanford, and I was pitching a podcasting company and I hadn't worked in a for-profit company since I was a bagger at a grocery still at school and high school and I remember calling my wife I We actually recorded one of these conversations when I called my wife after one of these things.
+
+2 (39m 58s):
+I think it was actually ended up being in the startup episode. I'm feeling I'm feeling the same way. I felt the last time I was out here. I'm sitting there talking to to this guy and I'm describing something that feels like the biggest thing I've ever done. Like I ate a scale beyond my wildest imaginings something that I can't even tell if I could pull off. And it's totally not big enough. Like it seem small to him. But like even when I was like at the depths of my depression and feeling small and stupid and like what the hell have I done the fact that I was able to talk about it on tape.
+
+2 (40m 47s):
+I knew it was good tape. So the more I failed as a want to be an entrepreneur the more I was succeeding as a radio documentary producer. And so there was something weirdly comforting about that like at least all this work won't be for nothing. At least. I'll have a some
+
+1 (41m 3s):
+document. Yeah, I mean startup really was Fascinating to listen to him. This is he said like now iconic moments like a lot of startup fans will remember that moment. When you you're trying to pitch a gimlet to the investor Chris sacca,
+
+2 (41m 19s):
+so I'm making a network of digital podcasts
+
+1 (41m 24s):
+that we will monitor that that
+
+2 (41m 26s):
+will that will that is going to meet
+
+1 (41m 29s):
+sorry. So what's it gonna take to do it? So it'll take
+
+2 (41m 35s):
+a million and a half dollars. I think
+
+1 (41m 39s):
+and it got the I think yeah,
+
+2 (41m 41s):
+it'll take a minute. I was so naive and it was like that meeting that really showed me how naive I was all the questions. He asked I had no idea how to answer. What what's what's the exit was like, what's the eggs? What does that even mean? He's like well who you know, I give you money you build a company then how am I gonna get my money back? What's your exit you gonna sell to? And no idea didn't have even occurred to me.
+
+1 (42m 4s):
+Yeah, and when people said yeah and I'll offer you a little bit of money here or there. How did you even know like what percentage to give them? How do you even know how to accept the terms in the term sheet. Did you are you Consulting with a lawyer? Did you just because that those things are
+
+2 (42m 19s):
+complicated. Nobody was offering me money until I literally nobody I don't think anybody offered money until mad and I teamed up I think when I was doing it by myself, I didn't get That
+
+1 (42m 32s):
+point so you come to this conclusion that you need a partner probably somebody with some experience in business or maybe at least an MBA. When did you meet? When did you meet Matt?
+
+2 (42m 44s):
+I met Matt over the summer of 2014. I believe and we were introduced by a mutual friend in public radio and the story that I heard was that sort of like there's another guy running are all around town. With sort of the same story talking about like how there's a business to be built in audio and he was sort of off in his world doing the same thing that I was doing. And so we finally met what Matt
+
+1 (43m 14s):
+when you met Alex. What were you doing in the summer of 2014? I had done my MBA and then and then become a Management Consultant at Boston Consulting Group, which meant that I would go and work inside
+
+2 (43m 28s):
+of large companies and help them develop growth strategies or
+
+1 (43m 34s):
+solve problems or
+
+2 (43m 35s):
+things like that, but then I began to think about
+
+1 (43m 38s):
+digital audio and I was listening to a lot of podcasts at the time and I thought every time A new medium comes
+
+2 (43m 47s):
+about New Media companies get built. This is true
+
+1 (43m 52s):
+across the last, you know hundred years of history and I thought someone will build the defining Media company around on demand digital audio and like why not me and I told a lot of people about this not that I was starting a company because Alex was much further advanced than I was but just like that would be
+
+2 (44m 8s):
+exciting. Like I think someone's going to do that and I think
+
+1 (44m 12s):
+it would be really fun and I was I told my friend Who had been a mentor to me back in my radio career? And he said oh, you should meet this other guy Alex. Would you think about it? When when you first met did you think this is it? This is like a slam dunk. I'm in or was it not not quite that clear. I mean, this is the
+
+2 (44m 34s):
+thing about like, I feel like I already knew him because I had listened to
+
+1 (44m 37s):
+his stories. This is the thing about audio like when you live and I'm sure you've experienced this guy, which is when you meet people they've they walk up to you like they're your and right and everything he was saying about like I'm excited about audio and I think it's underestimated and I want to do a business around that I was basically I just sat there and shook my head and said, yes, and I think this is how the business could work and I think it could be really big and that sounds exciting and I basically said let me know how I can help
+
+2 (45m 3s):
+ya. It's a funny moment because really what I was looking for was a co-founder, but I didn't know my co-founder yet. And so there's a lot of there's like some sort of weird dating thing that has to happen. And as we started to talk more about like what would be helpful. I think you suggested like why don't we do a business plan? Right? I think I just started
+
+1 (45m 25s):
+working on it basically like nights and weekends and sending you things and what kinds of shows we would create which was along the lines of what you were doing. But also how they were get distributed who the partners would be and I was doing that not because I was like trying out to be your co-founder. Actually, that's the crazy thing and I was doing a lot of work doing so much
+
+2 (45m 43s):
+work, but it was a The thing this for me it was like it was a fun and I would wake up in the morning
+
+1 (45m 50s):
+just excited to do
+
+2 (45m 52s):
+it. Yeah, and I would get up in the morning and there early in the morning and there would be like multi page business plan that Matt had somehow produced like and I was like, oh my God, this is, you know, amazing. I'm making a case that investors could actually get behind
+
+1 (46m 8s):
+but did you Alex did you pretty much from the beginning when when Matt started to kind of help you out and just give you Free advice did you think okay. I think this is the guy or were you not quite there yet.
+
+2 (46m 21s):
+I wasn't quite there yet because I think we didn't know each other at all. Yeah, we had met like three times. Did we only
+
+1 (46m 30s):
+meet three times when we
+
+2 (46m 32s):
+no no, I mean by the time we signed we'd met more than three times by the time we actually signed an agreement but like I think around the business plan era, right, right. Yeah, we came over to Matt. We had an initial meeting sort of at my house where my brother is. Some beers and we drank beers and talked about like what was happening just a couple startup bridge
+
+1 (46m 50s):
+and risk. He's
+
+2 (46m 51s):
+hatching and I did a bunch of I did some reference checking. So I started calling around
+
+1 (46m 58s):
+to people who had worked with
+
+2 (46m 59s):
+Alex. You did. Yeah. Oh, yeah, and it always still shocks
+
+1 (47m 4s):
+me that you didn't do that for me.
+
+2 (47m 6s):
+But of course I could the time you didn't have a clue. Yeah. Now you would never hire someone without like
+
+1 (47m 11s):
+blind reference check it so I called a couple people.
+
+2 (47m 15s):
+Work
+
+1 (47m 15s):
+with him and they're pretty consistent which is he's a brilliant
+
+2 (47m 19s):
+brilliant editor like incredibly supportive.
+
+1 (47m 22s):
+And then I had lunch with Adam Davidson your partner. Wow, Adam is a very direct person and he
+
+2 (47m 28s):
+was also like yeah, Alex is also like
+
+1 (47m 32s):
+tenacious and you know doesn't back down and is really stubborn and it actually all that turned out to be
+
+2 (47m 38s):
+true like the four words to describe Alex are those brilliant
+
+1 (47m 42s):
+Storyteller stubborn control
+
+2 (47m 44s):
+freak. And I was like that's a that's those are some of the qualities you want to have in starting in the early stage. And what about you
+
+1 (47m 52s):
+Alex? I mean Matt you didn't know him at all. You just knew that he had some experience that was in public radio and he had a business degree. But
+
+2 (47m 60s):
+like I had concerns about how we didn't know each other and I was I was worried about that and we're pretty different people trying to think of like what our first major conflict that was. Oh, I remember very clearly
+
+1 (48m 17s):
+because I because I
+
+2 (48m 19s):
+think this is before we agreed to partner. This
+
+1 (48m 21s):
+is going to sound very diabolical but I was like we have to have a fight so that we see how each other are going
+
+2 (48m 28s):
+to adjusting conduct ourselves in
+
+1 (48m 31s):
+it in a situation with conflict and I kind of forced it. Yeah, it was like 9:00 p.m. We did both put our kids to bed and I came over your apartment and I think it was about About it was our Eternal fight, which was you are
+
+2 (48m 48s):
+saying this is we're just going to make a bunch
+
+1 (48m 50s):
+of podcasts. Like that's what we're going to do and I was saying first of all, we're going to make more than a couple of podcasts. We're going to build a company and an organization and a culture and it's going to end up being really big and it's going to
+
+2 (49m 5s):
+be way more work than we're doing now, and it's going to be incredibly hard
+
+1 (49m 9s):
+and I think you're under estimating that because for you you'd think you're just going to be able to Do the same thing you did at Planet money, but do it a couple more times.
+
+2 (49m 19s):
+And actually the thing we're doing is completely different. So
+
+1 (49m 23s):
+when you guys finally did decide to partner I had to come about well Alex did it as part of startup.
+
+2 (49m 32s):
+So the final thing to discuss which we had put on the agenda for the last time where we see this relationship going.
+
+1 (49m 39s):
+Yeah checking in on it looking back. I think you only felt comfortable having that conversation because you had the microphone Phone and then that began a you know it go she ation
+
+2 (49m 48s):
+basically about what the partnership was going to be
+
+1 (49m 50s):
+and I think I think Alex originally you offered like 10 to 15% ownership. Just know that right no lower
+
+2 (49m 58s):
+than it was in the I think I said in the range of 1 to 10. I'm key to the success of the company and I want to feel I want to feel that that is reflected in the cap table. I
+
+1 (50m 9s):
+guess there's a subtext to the I am key to the success of this company, which is You are not at me you meaning me and Matt was anywhere. So do you believe that somewhat offended by this? Justifiably, I would say I can't imagine doing this for the numbers that you're talking about. I just can't imagine doing it because if it's 9010 I'm like this and now it's a job and in a job. I'm not going to like and then your and you're the boss. I'm just not interested in that and I don't think that will mix the company succeed. So you guys 10 per play out this Negotiation in the podcast eventually Matt you come back you say let's split it then you say okay about 5347.
+
+1 (50m 53s):
+Alex goes back you talk to your wife. Your wife is saying no. It's too high. Finally you agree on a 60/40 split. This is all out there. Yeah for everyone to hear. This is public all public and that was great though. Everybody was happy with that. I
+
+2 (51m 10s):
+was were you yeah, I was I was just I was excited. Cited to just get started building the
+
+1 (51m 16s):
+company and I felt that it was a being able to get through that negotiation and get to an agreement. Was it solidified our relationship and Alex that entire time you were going back and forth with Matt? Like how confident were you about this idea that this decide this company was even going to work.
+
+2 (51m 38s):
+You know what I think on some level I knew it would work. I'm not not a big risk taker not a Serial entrepreneur. It just felt so clear to me. But of course I didn't know was going to work, right? So, of course you actually have anxieties and eventually I admitted my to myself the possibility that like, oh this could not work out but it was by that point. We were like four years into it and it was it was definitely a workout like it was already growing and has like it's funny and you know, I looked when we eventually sold the company Spotify people were posting a slack Channel all these very very Pictures of the very very first office the very very first months of that first office and at the time I've been so proud of that office and I couldn't believe that like, look we have an office and we got people to give us money and it's all working and then I looked back and I for the first time I saw it Through The Eyes of a non True Believer, I saw it from the outside.
+
+2 (52m 33s):
+I was like, oh my God, you quit your good job to do this to like show up in this Dusty office with no infrastructure and like you guys made your own studio and like Like what were you possibly thinking and all these people came along with you? Like what was it felt like looking from in hindsight. I somehow accessed all the all the doubts.
+
+1 (52m 54s):
+Of course on a startup podcast. You describe all about that first office in Brooklyn and the people you hired and working with Matt, and and you also talked about how early on you change the name of the company to gimlet because I guess one of your potential investors thought your first name was just dumb. American public with what was it again?
+
+2 (53m 16s):
+The American podcasting Corporation the American genius named because it was like a call back to the original big media companies that were started within the original era of like of
+
+1 (53m 28s):
+radio Americans a Casting Company be lumpy Academy. Yes, that's right. Yeah. Yeah, so did you like the name gimlet at the
+
+2 (53m 36s):
+beginning? No, I didn't and it wasn't just investors who hated the name American Broadcasting Corporation. It was also
+
+1 (53m 42s):
+met he you. Hated the name to I hated the name and I was I insisted on a new name and then there's a there's a consulting company whose job it is to create names for new companies and new products and they ran a sir process that landed us on gimlet and I
+
+2 (53m 59s):
+think which you
+
+1 (54m 0s):
+didn't like and I think part of the reason you didn't like it was maybe you didn't like the name but I think more of the reason was you didn't like the idea that so there was some experts that we were going to go consult in such a corporate fashion. Who would give us our Yeah, it felt like I
+
+2 (54m 15s):
+wasn't it felt funny. I felt inauthentic. Yeah, huh. I don't know this is this is an interesting like I think Matt and I went up the other big fight. We always had was just around your gut like and how you make decisions and had spent like 12 to 15 years making decisions with my gut. Like that was the way you do it when you're making a story for This American Life and I was taking that with me into starting a company. Denis and so like the fact that a branding company had come up with our name. It just felt like It just felt wrong. But of course it wasn't wrong end up being totally fine.
+
+1 (54m 54s):
+So as you guys crawl through 2014 your first big I guess acquisition or partnership was reply all which was a show that ABS in a slightly different. It was a different version of that show, but it existed. How did how did you guys convince those those guys PJ and Alex to bring their show to gimlet
+
+2 (55m 15s):
+they were hungry to do something. It was a side project. They had they had day jobs. We had to convince them that it was okay to leave their good jobs and join a shaky start up, but it was exciting. I think a lot of people were feeling the way that I had felt which was that like, there's more Happening Here than public radio's the infrastructure to accommodate right now. Yeah and start a put us on the map reply. I'll put us on the map people knew about us people were coming to us and just being like Oh my God, I hurt I just for some startup. It's not the
+
+1 (55m 45s):
+best guy and I guess people were actually were actually investing you you initially managed to raise about a million and a half dollars. But I mean even with a million half dollars that that wasn't really gonna be enough right? I could you could you scale up with that. Could you actually like start hiring a lot more people?
+
+2 (56m 6s):
+Well, when we raised the first
+
+1 (56m 8s):
+million and a half dollars of financing our plan was that that would take us through the profitability and then we would fund our growth through that's right. We always built the company so that we could either be profitable or get to profitability based on the amount of cash. We had in the bank and we were always over-optimistic in our projections. You thought that that seed round was gonna be the only round of money that you had to goes every round we thought was going to be the last round was it just the reality of the other business was that you actually could not raise the amount of money you needed to raise it. Just the money wasn't coming. In instantly from advertisers or whatever. No it was it was a combination of
+
+2 (56m 52s):
+we decided to grow
+
+1 (56m 53s):
+faster than we originally had so we decided to launch more
+
+2 (56m 57s):
+shows which required hiring more people
+
+1 (57m 1s):
+than we originally had planned to in the original plan. And the reason we decided to go faster was we saw that like podcasting as a trend and as a like a cultural moment was really crystallizing and we didn't we wanted to Make sure we stayed at the Forefront of it. So we wanted to launch more
+
+2 (57m 18s):
+and so that's why we ended up raising more to grow faster. And also just like we had like in the beginning like we had so many hits, you know, like start up with ahead and reply was a hit and mystery show and crime town and with Matt's not saying is like he built an entire infrastructure had gimlet he built a sales team and he built the sales marketing team and we built and built a finance operation and a in a people have separation and all those things were Working in concert and he had really good people to like lead those and build those and we are monetizing.
+
+1 (57m 52s):
+I mean the business the so you see the business is working well, but I have to imagine it's a media company and I can't imagine that you were making more money than you were spending. You had to spend more money to grow this business and did that worry you or did you guys both say we're just we're not going to make it. We're just not going to make a whole lot of money in the first couple of years. We actually did make more money than we brought in like in our second year of operations. We generated profits on an accrual
+
+2 (58m 21s):
+basis because the way the podcast work is you
+
+1 (58m 27s):
+launched a podcast and when you launch it, it has an audience of zero, but you have to pay the people to make the podcast and if they're going to work for you for a few months before you're able to launch and then once the podcast launches you have an audience of you know tens of thousands or maybe hundreds of thousands of people. If you're lucky and and then over the course of a year the audience grows and there's a size of an audience where you multiply by the size of audience times. The number of episodes you produce times. You know, how well you're able to monetize their advertising and then it becomes a profitable entity. So you've each podcast is like a little business inside the big company and you have to invest in them before they become profitable and we always understood
+
+2 (59m 12s):
+that Were you
+
+1 (59m 15s):
+just being inundated with pitches? Hey, I've got this idea want to do the show and M. Assuming you were and how did you filter out? Like, how did you deal with that kind coming
+
+2 (59m 25s):
+that's hard. That was one of the things that was really hard. It was like sort of like everybody has a pitch and like, okay, we've set it up to make more podcasts and then it's like okay, which ones were going to launch. How are we gonna watch them who's going to do them? And then everybody in the world is like I want to do this podcast. I want to do that podcast and what do we do? How do you how do you do this over and over and over again with a bunch of different people in a bunch of different topic areas? And how do you not make it the same thing over and over again? Like how do you not make it actually the Planet Money of blah blah. Like how do we actually make them feel new and different and that that was hard that was like the part that was the thing to figure out.
+
+1 (1h 0m 4s):
+I remember we had a conversation Alex. I think it was probably like 2016 and I think at that point you said, you know, I'm almost at the point where I'm making as much money and income as a maid at NPR, I think it was around 2016 and I thought man that is just such a risk like this guy's done his late 40s. He's got two kids like he's just getting to that point after two years of a slog and wow, you know, and and I don't know if you guys ever experienced this but Being on the outside and you know me sort of being connected to the public radio world in the radio world. I had a lot of conversations with people who are so skeptical who's at, you know, that thing is just not going to work.
+
+1 (1h 0m 45s):
+It's it can't work because they're not gonna be able to be as profitable as they say and their investors are you know, they're not going to make a return and blah blah blah. Did you guys ever hear any of that nay saying or were you sort of shielded from that we heard it secondhand.
+
+2 (1h 1m 3s):
+And nobody never nobody would say to our face
+
+1 (1h 1m 5s):
+know what to say to your face. Nobody.
+
+2 (1h 1m 6s):
+Nobody face it us, but I think
+
+1 (1h 1m 8s):
+that we had both come out of this amazing institution of public media and what we learned there informs our success in a lot of the people who were early employees and built the company came out of that same system, but I think in some places we are viewed as a threat and and I think some people's natural reaction to a thread is just is too They say it as a
+
+2 (1h 1m 33s):
+form of self Comfort I guess and then there was some more like it's going to change everything you're going to bring in money and you're going to ruin it. I think there's a lot of people I think there's a lot of fear that like we were opening a Pandora's Box.
+
+1 (1h 1m 48s):
+Did you ignore that criticism or did you did sometimes as you did it like make you feel bad
+
+2 (1h 1m 54s):
+it filled me. That is pure gold what part of it filled you when we first First started the company when we were out
+
+1 (1h 2m 4s):
+pitching to raise money. We pitched the company to probably three of the biggest public radio stations and none of them invested. And one of the pictures was the most insulting condescending response. We ever got from any investor ever and that actually did fuel me because I was like, we are going to show you remember what they said. They said you haven't You don't understand how risky this is. You haven't evaluated the risks. The quality of your presentation deck is beneath you wow, and the price that you've put on the company is expensive bordering on outrageous putting an insulting bordering on insulting and I was so mad and I remember and you were just kind of like,
+
+2 (1h 2m 55s):
+yeah, you are just disappointed. You're like, that's what
+
+1 (1h 2m 57s):
+happens. Yeah, but for me that made me just want to prove everyone
+
+2 (1h 3m 1s):
+wrong. But meanwhile, I mean you were
+
+1 (1h 3m 4s):
+growing and and I mean every time you you you want a bracing like it's not twenty twenty seven million dollars by by 2017. And and what around the time you had like over a hundred employees, right? Yeah rounded over a hundred as you start to hire more and more people especially people coming from public radio. That's a challenging group of people to oversee. Okay, that is not we're not talking about like so Or Engineers or you know computer programmers super easy come well not compared to be easier right where they cover sales teams for the coming in and like this is a group of highly intelligent highly creative people with a million different ideas and not easy to manage.
+
+1 (1h 3m 50s):
+So I have to imagine that you guys ran into some challenges their
+
+2 (1h 3m 55s):
+challenges. Yeah. Yes. Yes. We did one of the things that I started to realize very late. Eight this year was that the hard thing about any media business is that there is a thing at the center of any project that you're launching of any show you're trying to launch and that thing is a mystery and the Mystery is will people listen to this or not. And there's no way to quantify why people listen to things there's no way to predict whether people will listen to things it's unknowable and dealing with that mystery. That's what every Person is doing and yeah that presents a real hard management Challenge on the one hand.
+
+2 (1h 4m 37s):
+You have to manage the anxiety that comes with knowing that so people who have somehow have figured out that mystery and are like doing successful shows. They know on some level that that they don't know why they're working by what they're doing is working and so you have to manage their anxiety about that and then for the people who are launching something that isn't working. You can't tell them why Because you need them to have like figured out the essential mystery and they haven't figured it out. And so you have to just be like you haven't figured out. I'm sorry and it took us forever to fix it took me forever to understand that
+
+1 (1h 5m 14s):
+because you had to I mean, you're a business with a with a piano and you got to be profitable and which means that some shows that don't work have to be killed and some of those shows are done by people that you've known that our friends which means that you are going to lose
+
+2 (1h 5m 28s):
+friends. Yeah, and I hired almost all my friends. The beginning because all my friends from the business.
+
+1 (1h 5m 36s):
+Did you have sleepless nights that you have? I mean you we heard your anxiety when you were when you were starting this company in the podcast. Did you have even more anxiety after you start to gain traction and you started to see some success or did your anxiety mostly go? Well the
+
+2 (1h 5m 54s):
+opposite the more successful we got I think the more anxious I became. It became harder and harder to sleep. I would wake up in the middle of the night and they really had never really done before and I think it was about like just the more successful you get the more the bigger. The stakes are high are the stakes are the more people that are that are that are depending on you and you just have to contend with like you can't make everybody happy and I love making people happy. It's like one guy essential character flaws.
+
+1 (1h 6m 28s):
+How about you Matt? Did you did you have more anxiety as you started to actually see success with the company? Yeah, I think I did and oftentimes like the moments of on the outside where it looked most successful inside. It felt like the biggest mess. And inside it felt like it was going to fall apart
+
+2 (1h 6m 54s):
+and that's and that's really
+
+1 (1h 6m 56s):
+hard to live through it and then and learning that actually that is the common experience of starting a company helps a little bit as our coach says we cuz we go to a leadership coach says like just because you feel like it doesn't mean you are. So we had an episode about Yelp and Yelp was offered like half a billion dollars by Google a couple years after its launch and Jeremy stoppelman said no we're going to we're going to keep going and Yelp today is valued at you know for a billion dollars and etcetera Etc. And of course you guys were approached or you began conversations with Spotify to acquire gimlet.
+
+1 (1h 7m 42s):
+They made a an offer reportedly more than 230 million dollars a really big offer. I would have taken the money personally, but I'm just wondering did was there any part of you that thought let's let's not take this. Let's just keep going and build this into a billion dollar company.
+
+2 (1h 7m 59s):
+Um, there was a small part maybe not ignored. Nope. Not really. I don't know why Alexis making that up and no we're here because we were a company was going
+
+1 (1h 8m 13s):
+Very well at the time actually we were we have the most momentum we'd ever had as a company. This was in the fall of 2018. Our audiences were growing faster than they had in years. We had come out of the summer and all of a sudden like there was more and more interested from advertisers and spending money on our podcasts and we had a hit television show that we had produced for Amazon called homecoming starring Julia Roberts. And so if you if you are around New York City at the time like you couldn't turn around without seeing a Foot billboard with Julia Roberts is face on it starring in homecoming which was based on our podcast.
+
+1 (1h 8m 58s):
+But there were a couple things that we just weren't there were two like basically industry level challenges that we were confronting along with every other podcast company and one was audiences are still having a really hard time discovering new podcasts. Like if you ask people how they find out new podcast, they would typically say like word of mouth like a friend told me I found out about it from another podcast. Cast but Discovery was really hard and then we weren't getting data that we could share back with our editorial teams about how the shows were performing who was listening to them and that kind of inhibited the monetization as well. And so we thought that for podcasting to become like as an industry to become to realize its full potential those two things had to be addressed and we couldn't do those alone and Spotify which is the world's largest music streaming platform could Do that together with us?
+
+1 (1h 9m 54s):
+Yeah, it wasn't even so much the much like the money. It was more like the we felt like we could achieve so much more by joining forces, then we could independently
+
+2 (1h 10m 6s):
+and Company like Spotify that that's their business, you know, they have this huge built-in audience that's already listening to audio and it felt like that's that's a great Synergy is the word. I'm thinking I can't think of a I can't think of a I'm going to say Synergy I would have been you would have been
+
+1 (1h 10m 22s):
+Totally ridiculous amount of money. If you said Synergy you would have been ashamed and public radio if you use that
+
+2 (1h 10m 28s):
+word. I'm probably not the first person that said that word on this podcast. Am I
+
+1 (1h 10m 33s):
+so you so it makes total sense, right? Because spotify's a giant right and and full disclosure as you know, I did a podcast with Spotify they they paid a lot of money for gimmick because it's last valuation before the sales like 55 million, and and now you found yourself. very quickly I mean I know it's a long slog but five years with a lot of money and now you're presumably committed to working with Spotify for a few more years yeah what do you think I mean are you gonna you gonna buy a you know ten Tesla's and a mansion and a house in the Hamptons or what are you gonna do with your with your life and your wealth I yes
+
+2 (1h 11m 17s):
+no okay it is like it is life-changing for us both
+
+1 (1h 11m 22s):
+yeah yeah and someone asked me recently know how are you and I said well I'm really rich and it turns out money doesn't make you happy But it does make you safe. Yeah, and so I feel an incredible amount of safety knowing that I gonna be able to put my kids through college and I don't have to worry about that. And you know, we've never owned a home and now my wife and I are gonna buy a home.
+
+2 (1h 11m 55s):
+It's it is a life-changing thing. Yeah, I think right after it happened. I kept thinking like this feels like a big deal. I don't understand why I still feel like Zack. Same way like, it feels like a an event that should just sort of give you a whole new outlook or something. And it didn't it does it takes away this huge hum of anxiety that was always in the back of my mind about like money and the future and that hum is gone and that's nice but it sort of takes away nothing else, you know, and which is surprising I would have thought I would have thought it would feel different derp.
+
+2 (1h 12m 34s):
+We my wife's parents came from another country to this country and were as refugees and worked all night cleaning offices to pay for her to like live in America. And and so I think when this happened it was just like it was a winning the lottery for them and then we were able to pay off their mortgage and renovate their house and have them come and visit our kids more often and it's been just an incredible blessing.
+
+1 (1h 13m 8s):
+Do you feel like what happened to you the outcome and the story of gimlet happened? Because you're super smart and talented and worked really hard or because you got lucky. I think it's mostly luck but not in the obvious way. Like I think I think for me it was the luck of bug being born into the family. I was born into at the time that I was so I had I had the luck of being in a family where my parents sent me like paid for my college and then we're in a position to financially support me so I could do unpaid internships producing radio because that was my passion and then they also sent me to business school and that is like an extreme level of privilege and then the other forms of locker having met Alex when I did and having really good timing on the idea of starting a podcast and audio Gas company in 2014.
+
+1 (1h 14m 10s):
+I definitely don't think I'm like
+
+2 (1h 14m 11s):
+smarter or more talented than your average entrepreneur. Yeah, it's funny. I think both things are true though. Like I think there's probably a lot of people who could have tried to start this company and it wouldn't have been successful. So I think there's something we brought something to it. Um, I'm proud of that I am proud of that but I think that's the part that's easy to tell and most easy to over emphasize. Sighs as you're looking back and especially as you're looking back and I think it's important to remember that that's like a tiny part of it.
+
+1 (1h 14m 43s):
+Yeah and both of you guys have the potential to be on the other side of the table from where you guys were right the investors you both can be investors now for other startups and the other side to it is you both can give away a lot of money, too. So do you do either of those or both of those things appeal to you?
+
+2 (1h 15m 5s):
+I don't know about investing like it. Maybe I don't know like I'm trying I'm still trying to figure out like what what this all means write. It seems only sure only supporting that I would do that since so many people trusted us and I worked out for us and for them. So it feels like I should sort of pay it forward and that way yeah
+
+1 (1h 15m 23s):
+Matt. Yes, I will do both. Yeah, I've made a couple of Angel Investments and you have oh, yeah. I've been told. Oh no interesting and it's fun. And even cut Alex into that. Wow,
+
+2 (1h 15m 36s):
+didn't even didn't even tip me in the ordering on the deal flow himself. You want to be we should talk about
+
+1 (1h 15m 45s):
+its Matt Lieber and Alex blumberg cofounders of gimlet by the way, the eighth and final season of startup launched a few months after our conversation and in it, you can hear many more details about the past few years at the company including some very serious money problems. They got into last year and how they got out of them all. So some great fly-on-the-wall moments from the Spotify acquisition and it kind of surreal scene where Alex and Nadine are having it another sleepless night, and for whatever reason they find themselves hunched over a screen scrolling. I kid you not through pictures of the royal
+
+2 (1h 16m 22s):
+family,
+
+1 (1h 16m 27s):
+and please do stick around because in just a moment. We're going to hear from you about the things you're building, but first a quick message from one of our 19 lead sponsors of how I built this hiscox who understands every small business is unique and tailors its policies to your business has very specific needs get a quote or purchase a policy at H is co x.com hiscox business insurance experts. Oscar-winner Regina Kane has been acting for more than three decades, but she says it's just in the last few years that she's really come into her own being a mother had a lot to do with getting me to that space for Jenna came on her Hollywood long game next time on it's been a minute from NPR.
+
+1 (1h 17m 14s):
+Hey, thanks so much for sticking around because it's time now for how you built that in this story starts back in the late 1990s when Casey Kerrigan was working at a rehabilitation. Tation Hospital in Boston. I was seeing a lot of patients with knee arthritis, especially women in their 50s and 60s and what we found is that high heels affected pretty much the whole body. She found that high heels don't just affect knees butt hips feet lower back. Pretty much everything now Casey specialty is Physical Medicine. So she started to do some research and she soon realized that high heels are not the only enemy women's Shoes in general have all sorts of problems too narrow of a toe box too
+
+2 (1h 17m 59s):
+narrow of a 4-foot a lack of true spring in the
+
+1 (1h 18m 4s):
+soul and some of Casey's younger patients would say. Yeah. I know these shoes are bad for me, but I want my feet to look great and fashionable, but gosh do we really want to be
+
+2 (1h 18m 13s):
+walking around in shoes that are doing this? I mean, let's walk around and choose that are going to be the easiest on our joints.
+
+1 (1h 18m 22s):
+So at this point around 2009 Casey decides to quit her very safe, very good paying job at the University of Virginia medical school and she sets out to design a Kinder shoe for women when I left. I thought you know, this shouldn't be too hard just need to make a soul that's flat and springy and that
+
+2 (1h 18m 43s):
+accommodated the natural anatomy of a woman's foot how hard could that be
+
+1 (1h 18m 48s):
+actually pretty hard for starters? No shoe factory in the world seemed set up to make the The kind of shoe Casey had in mind which was wide in the toe totally flat on the bottom with a Super springy Soul. Nothing in the design is like meant to just be pretty or everything is functionally based. So using computer-assisted design software Casey taught herself how to make those first shoes. But remember she couldn't find a manufacturer to make them. So she and her husband took their savings, they bought an old warehouse and they filled it with all kinds of equipment I bought Big filament Winder to make these carbon fiber Springs. I bought a water jet saw then there's ancillary things like you need a like a shoe.
+
+1 (1h 19m 34s):
+What do you call it? By the way, this is all happening. When Casey is already in her late 40s. Oh killer that's it. So you need a water chiller. She's been medical doctor than a tenured professor and suddenly she's making shoes. I never thought yeah, I ever be a cobbler right in about 2000. Levin Casey's first shoe was ready to sell. It was kind of a heavy chunky leather sneaker. You know, these were like Orthopedic looking
+
+2 (1h 20m 3s):
+shoes. I got to be honest not really attractive because
+
+1 (1h 20m 6s):
+they had real thick soles but a few years later Casey found a better material for the souls rubber pellets the same stuff. They make those super bouncy balls out of and at roughly the same time 3D printing was becoming cheaper and I
+
+2 (1h 20m 22s):
+thought hmm. Wait a minute
+
+1 (1h 20m 24s):
+if 3D print it I can basically create the soul that I could only
+
+2 (1h 20m 28s):
+imagine ever making you know with traditional manufacturing.
+
+1 (1h 20m 32s):
+So now Casey could make thinner and more flexible soles for all kinds of new designs like a tennis shoe and a ballet flat and even a platform sandal with a fluorescent blue bottom and it's comfortable. That's the thing is when you step on our souls, it's springy. I mean women don't smile because they've never experienced it before Casey calls the shoes. Oh shhhh. Which is an anagram for the word shoe both she and her husband run the company at of Charlottesville in Virginia last year. Just selling from their website. They made about three quarters of a million dollars. If you want to find out more about oh shoes or here previous episodes head to our podcast page how I built this dot npr.org.
+
+1 (1h 21m 15s):
+And of course if you want to tell us your story go to build dot npr.org and thanks so much for listening to the show this week. You can subscribe at Apple podcasts or wherever you get your podcast. And while you're there, please do give us a review. You can also write to us at H IB T at npr.org and if you want to send a tweet, it's at how I built this or at guy Roz. Show is produced this week but James Dilla who see with music composed by rumty narrow Bluey. Thanks. Also to Canada slim Julia Carney Santa's Mexican porn Eva Grant. And Jeff. Rogers are in turn is Sequoia Carrillo. I'm guy Roz and you've been listening to how I built this.
+
+1 (1h 22m 1s):
+This is NPR.

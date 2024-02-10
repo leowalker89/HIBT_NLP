@@ -1,0 +1,479 @@
+0 (0s):
+I'm Gregory Warner posted the podcast, rough translation on our new season. We're telling stories about the cultures of work, the nine to five, it's a myth and rest around the world.
+
+1 (10s):
+I came into this totally prepared to defend my American productivity
+
+0 (14s):
+At work. The new season of the NPR podcast, rough translation,
+
+Klaviyo (20s):
+Ready to turn your small e-commerce business into the next big thing. Klaviyo can help. It's the easy to use email and SMS platform that gives you everything you need to build genuine relationships with your customers. And even if you're new to marketing Klaviyo can help you become an email expert with drag and drop design templates, simple insights, and made for e-commerce reports and recommendations. Give it a try with a free account at klaviyo.com/built. That's K L a V I Y o.com/built
+
+4 (56s):
+Test vigilant here from the wall street Journal's as we work podcast this season, we'll take you from that first job all the way to retirement and all the career moments along the way. Listen, wherever you get your podcasts.
+
+5 (1m 12s):
+As we were brainstorming ideas, the first filter I would apply is what is sort of, gut-wrenchingly difficult that just people are willing to go to the ends of earth to, to figure out. And I said, I know credit scoring is such a gnarly problem. I still brace for impact. Every time I hit my credit card over, because who knows, they might cut it up and bring it to me in two pieces because my credit is so bad and it was sort of this like, oh, that's really hard. There's a lot of people like me who screwed up in college and probably would like to buy things using credits, but how these horrendous triple digit rates they have to deal with. So that was the jump off point. Then we went to work virtually
+
+3 (1m 60s):
+Welcome to how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built. I'm guy Roz and on the show today, how max Levchin regained his sense of purpose after losing himself in the long shadow of PayPal and eventually built a firm, another multi-billion dollar FinTech company, that's changing how we buy things on credit. I love every conversation I have with founders for this show.
+
+3 (2m 41s):
+I learned so many things from each interview. And as a team, we spend a lot of time trying to find founders. Who've built brands that have had some kind of wider cultural impact. But most importantly, we look for founders who are willing to be open because really what I'm asking each founder is to share his or her story in the hope that you, you, the person listening will benefit from it. And in some ways, max Levchin could be the poster child for this mission in part, because max is obsessed with solving hard problems so much. So he named his tech incubator, H V F, which stands for hard, valuable and fun.
+
+3 (3m 23s):
+Not only was he a key founder and developer at PayPal, but he went on to have a hand in the founding of Yelp glow, which is a suite of apps around fertility and pregnancy. And now affirm, it's a platform that allows you to buy millions of products by splitting up the payments into equal installments. This is one of those rare how I built this episodes, where the interview went on for such a long time. And the interviewee was filled with so many great stories and insights that we broke it up into two episodes. And if you missed last week's episode, please go back and start there before continuing with this one last week, we heard about the origin story of PayPal and all the characters who helped build it, including Reed Hoffman, Peter teal, and Elon Musk PayPal eventually sold to E-bay for one and a half billion dollars.
+
+3 (4m 17s):
+But after walking away with a significant chunk of money, max was bored. He wasn't going to sit on a beach for the rest of his life. He needed a new hard problem to solve. And so he started to explore. He first went down the social media rabbit hole with a product he built called slide before he landed on a new idea and idea to make it easier for people to buy products on credit, without punishing interest rates and late fees. Over the past 10 years, affirm has grown to become one of the country's most highly rated brands. And what's known as the buy now pay later sector. But for now let's pick up the story where we left off last week.
+
+3 (4m 59s):
+It's around 2002, 2003, and max has walked away from PayPal with a reported $34 million, but he's having what he describes as the worst year of his life. He feels rudderless. He's just sitting around his apartment and his pajamas and waiting for something to happen and to make matters worse. His then girlfriend, Nellie has just broken up with him.
+
+5 (5m 23s):
+Yep. She basically said you were in sufferable and go figure out what do you want to be? I'm pretty sure we're gonna get back together, but you're impossible to be with go away and like be on your own for a little while.
+
+3 (5m 36s):
+Did you, did you ever want to kind of be a, a 27 year old with some money and, you know, get a, an awesome car and get a great place to live and just kind of blow some cash? Did you, did you ever do any of that?
+
+5 (5m 50s):
+I attempted a poor excuse for that. Right after she broke up with me, I always wanted to live in a loft somehow. I was obsessed with this idea of extremely high ceilings and yeah, so I got this loft south of market in San Francisco, and I decided to learn how to DJ. I think I was trying to call myself DJ irate. I'll leave it to the, to the reader to understand what that meant. But I took a bunch of lessons, got some equipment and then started inviting my nerdy, PayPal friends to come to my loft and have dance parties. And I had like two or three, and then the neighbors complained and I was like, wow, this is, this is quite a different level of misery.
+
+5 (6m 36s):
+Probably shouldn't be doing this. And then I decided this whole thing was kind of silly and I stopped
+
+3 (6m 41s):
+No shame. We've all done things in, in our youth that, you know, are important for you want to do you, you need to do those things. You need to live those experiences to be able to reflect on them. But it sounds like one of the things that you actually did do at that time was to use some of your money to create like, like an incubator, right. Called MRL ventures. You did this with w I guess you got some backing from Peter teal. Yeah,
+
+5 (7m 9s):
+Exactly. So right around the sort of DJ phase, I realized that basically the only way out of the pit of despair was to work. Like I wasn't going to be happy with just more money or cars or anything really. And I was missing my girlfriend desperately. So I was sort of like, well, I need to, I need to return to some kind of notion of what I was when she thought I was okay. And I basically said, well, kind of, what's the essence of work for me. Like I can write code, but I don't seem to be motivated and I can brainstorm product ideas, but it just nothing's on the whiteboard what's going on. And I sort of went back in my mind to the earliest days of PayPal and sort of the happiest moments was Luke and Kenny bought all these really cheap whiteboards and we would just fill it with ideas.
+
+5 (7m 55s):
+And some of the ideas were completely insane, but that was like intellectual fountain of just craziness and creativity and cool. And so basically I decided what I need is to rent an office that I could Mount lots of white board on the walls and just start brainstorming and bring in some people that I love brainstorming with and something good will come out of it. And so it was less a, a formal incubator and more of a, I need to pack a room with brilliant minds and something will happen. And as we started doing this, it actually very, very quick that cool ideas start to appear. And it's like, wow, what I really need is a structure. And maybe some engineers to start prototyping things. So it evolved as opposed to was created.
+
+3 (8m 36s):
+So you, you got some office space in Soma. And we heard about this when, when we did our episode on Yelp with Jeremy Stoppelman, who, who you had met through the merger, he became like one of the people that you brought in to come up with an idea, and he had this idea for like a review website, when you heard that idea was that immediately in your mind, you're like, yeah, let's do it. This sounds great. I'm I'm, you know, let's go for it.
+
+5 (9m 1s):
+Yes. Actually, this may be the only time in my life that I had sort of jumped off a cliff without checking if there's water. So I had already gotten back together with then girlfriend now, wife, who had graciously took me back after. I think we stayed apart for maybe six weeks, by the way. So this was not like a true long separation or anything, but my, my, my spirits were suddenly very much up because the love of my life was, was willing to have me again. And I was coming to work and I was brainstorming and my whiteboard was filled with ideas and Russ who was my chief architect at PayPal and Jeremy, who was my VP of engineering at PayPal were hanging out in the space and brainstorming kind of all the time.
+
+5 (9m 47s):
+And they're kind of in this corner together talking about all these berries ideas around local search, and they pitched me on what became Yelp and entirely on a whim. I basically said, I will buy as much of this company as you'll sell me for a million dollars. And I don't think I've ever done that before or after.
+
+3 (10m 4s):
+Yeah. It was a great, great Ford fortunate decision. Cause I think you got about 11% of the company
+
+5 (10m 10s):
+By the time of the IPO. Yes. But in the moment, it was much more since there was a really nothing
+
+3 (10m 16s):
+Meantime, this incubator was also a place where you could come up with your own new idea and, and the idea that you eventually land on was a company called slide for people. Don't remember what it was. Can you just briefly describe what slide did
+
+5 (10m 32s):
+It did a lot of things in there in license problem. The very original idea was this realization that I had that content online will start to become more like TV, where you do nothing and just content washes over you. And this is before YouTube. So this idea of video on demand on your desktop just wasn't a thing yet. And, and video, by the way, it was bare very expensive to stream and to post and to encode. And so I taught, all right, so video, isn't a thing yet. And maybe won't be a thing for awhile, but what's the closest thing to a video that people could interact with it the same way that they interact with TV, where you get news and you get content, then you get beautiful images and maybe ultimately get advertising and that's how you monetize it.
+
+5 (11m 18s):
+And so I come up with this idea of a, kind of an application that sits on your desktop in a corner, like sort of a tip that just scrolls images of things and goods and advertisements and stories and news, and you get to configure it. And it was inspired in a way by a much earlier company that died in the dotcom crash called the point cast. Right. I remember obsessing over what Pointcast was and what it did wrong when did it right. And eventually I decided they did nothing wrong. They were just too early.
+
+3 (11m 47s):
+She, she, her idea was, was basically to, to create a way to share photos and videos that was going to be, and sort of nicer and sort of more user-friendly. Yeah.
+
+5 (11m 57s):
+Yes. It was primarily about personal photo sharing. So it was very clear that regular people, people that kind of don't really care about cryptography and complex problems are going to start flooding onto the internet. And I sorta said, well, if the world of the internet becomes suddenly very social, they're all these humans that are emotional, what will they do? What will they need? They're all going to just follow the seven deadly sins, because that's what humans do. We're all wired to transgress in sinful ways. And so I wrote down the seven deadly sins and said that my motto will be one start-up for every deadly sin. I remember reading or hearing the quote vanity is the devil's favorite sin.
+
+5 (12m 40s):
+So I thought, well, what does vanity look like online? But it has to be media sharing. It has to be photo sharing has to be video sharing. And so the slide was very much invented through this sort of intellectual rigorous attempt to figure out what will people do once vanity becomes the dominant behavioral force online.
+
+3 (12m 58s):
+Yeah. I mean, remarkably precious because at that, of course did happen, but probably you were just a little bit too early, right. Because I was thinking about this just the other day, looking at Instagram. And so many Instagram accounts are just people taking photos themselves. Right. It, social media is really, I mean, something we would have called vanity a few years ago is just normal now. Right? Yeah. Could you call it vanity is almost a weird people would be like, what do you mean it's vain for me to put photos of myself on my account. That's what everybody does. But you were, you were a little bit early on that. Yeah,
+
+5 (13m 33s):
+Probably I
+
+3 (13m 34s):
+Could. Yeah. What, what was it about this idea that appealed to you? I mean, this is very different from, from what you had been doing, not eat, not just a PayPal, but just like, it was different from your interests and like cryptography and, and just like really intense, like mathematical problems. And this is like consumer photos. Like what, what was it about it that appealed to you?
+
+5 (13m 57s):
+I think you just answered the question yourself. Part of my existential crisis was I was super successful building a payment system at 27. And all I knew was how to secure things, which, you know, mostly you secure money. And I knew about payments and I knew about banking now in 90, how to fight fraud and all kinds of really intense things. How could I top that? You know, in my thirties, how was I going to build a better PayPal?
+
+3 (14m 28s):
+And really from what I've read, it sounds like you were motivated by this idea of like, you want it to make something that was bigger than PayPal because to you, PayPal was that you could measure it by a number of 1.5 billion. And in your mind it wasn't about the money. It was about surpassing that number. So you could feel like you created something on your own PayPal, wasn't your, like the peak of your
+
+5 (14m 50s):
+Career. Yeah, but that was certainly a significant motivation. I'm not sure I was explicitly comparing it in terms of the sort of exit number, but I definitely thought of how many people will use this thing and how valuable would it be for some definition of value. And so absolutely. It was a, how can I, one up my younger self,
+
+3 (15m 10s):
+I read that around this time you were, again, you were quoted as saying, I don't know what I would do if I couldn't start companies. I'd probably think about slitting my wrist. Oh my gosh, max. But, but, but really, I mean, that was an to some extent is as we will continue to talk about your, your story is your motivating force. There's a restlessness, right? Like you, you do have this restlessness yeah.
+
+5 (15m 38s):
+Starting company. This is clearly the thing that gets me going.
+
+3 (15m 42s):
+All right. So slide becomes your, your idea. And did you go out and raise money for it right away?
+
+5 (15m 51s):
+Pretty much. I think the original idea was that Peter and I funded it. And then fairly soon thereafter, I sort of went out and raised a quote-unquote proper financing round. And this time I had a brand name to bring to sand hill road. So lots of St Hillary road firms were excited to, to participate. And we were off to the races
+
+3 (16m 12s):
+Slide was a, can you tell me what it was like as a consumer? How would I, what would my experience be with it? What would I do with it?
+
+5 (16m 19s):
+So by the time Facebook started really growing explosively and MySpace was still a thing we'd really kind of nailed this one use case. It's exactly, as you mentioned, you know, most photos, people post online are of themselves. And so we had basically evolved the product to be just a really beautiful way of showcasing your own photos. And instead of sharing them to a specific individual, you just broadcast them to anybody who would come to your MySpace page or your Facebook page or anywhere. So it was basically a little scrolling, self advert showing off your photos. And eventually we added things like photo effects and stickers and all the things that you see today in photo-sharing software, just 10 years earlier.
+
+3 (17m 3s):
+And by the, at its peak, how many employees did you have at slide
+
+5 (17m 7s):
+28? If I remember correctly
+
+3 (17m 9s):
+And it, I mean, I think at one point it was hitting like 150 million users a month.
+
+5 (17m 15s):
+I remember noticing that we were something like the seventh largest property on the web.
+
+3 (17m 21s):
+I'm curious, having gone from running PayPal, which was about, you know, financial transactions to a really sort of much more consumer facing site. That was a bit more about fun. Right. Did you enjoy it? Did you, you know, did you find your passion for it?
+
+5 (17m 40s):
+The honest answer is I loved the team that I built, but w we had some pretty serious challenges throughout, through multiple sort of realizations that my part, that the culture wasn't going the way I wanted to one point I had to ask a couple of people to leave, because I thought they were just creating what is now called toxicity and the team blowing the company up from within and throughout the whole thing. I felt like a fraud. Like I never played video games growing up. I was not really into photography. I was not a photo sharer. And so this idea of building entertainment products was this sort of mask icon. And in some ways I was using my own product in real life. I was putting sort of a happy face sticker on max left.
+
+3 (18m 23s):
+I mean, it's, it's interesting. Cause I, I would imagine that you, you were able to attract really great engineers and, and a great team because of your reputation, but what was, what were the problems that had, had, had begin to unfold?
+
+5 (18m 37s):
+Probably the most important learning from, from the problems is that this is going back only the PayPal, but PayPal was this unbelievably combative kind of a truth seeking by any means necessary almost culture. And when I left, I thought to myself, you know, next time around, I wonder if we have to fight so much, like maybe it's better if we had a little bit more love all around. So as I was building slide, I over-indexed on this idea of hate. We really have to have just a lot more collegiality. And that works really well if you are doing great as a company, but inevitably every company goes through ups and downs and sometimes downs take a long time and you go through the pit of despair for a while.
+
+5 (19m 22s):
+And in that moment is when all the veneer is stripped, you know, sort of all the superficial, you know, such a nice guy. And you know, I, gosh, I just really enjoy spending my time with you. It goes away because you start to ask yourself who's fault. Is it? And why are we not doing well? And the professional emotion, if you will, you need, at that time is respect for your partners' abilities. You don't actually need to feel like that person is an amazingly nice guy. The key thing is, I know you will be in your foxhole, holding your position, sort of almost like a military level intensity. And as slide started unraveling a little bit here and there.
+
+5 (20m 4s):
+I noticed that there are these people who are extremely loving towards one another, that would, I would find out they didn't respect each other at all. And I sort of had to start asking the question, all right, well, if you don't respect this person professionally, one of you cannot be here,
+
+3 (20m 19s):
+But obviously things are going well enough at slide that, I mean, Google decides to buy it. And in 2010, I think for around $180 million and you become a Google employee, but I'm assuming when you got there, you did not think you would be at Google for the rest of your career.
+
+5 (20m 38s):
+I knew that I would leave and start another company at some point, but I certainly didn't enter the campus thinking, Hey, this is very temporary thing. I was actually quite genuine and I'd never worked for anyone for more than a couple of months. And that was one time at eBay. And so I sort of thought, you know what, like all the stress of being a founder, maybe I don't want it. It turned out I did.
+
+3 (21m 2s):
+You became a vice president of engineering at Google. I mean, it's a pretty important job. How did you, how did you find the, the environment there? Did you, did you find it liberating not to have to, you know, be awake at 3:00 AM, stressing out or did you find it, you know, actually stifling,
+
+5 (21m 21s):
+I think for a little while I was suddenly worry-free, but I found myself bumping into some of the corporate walls reasonably quickly. And by the way, just so you know, I don't mean to sound like an advert, but there's, there's lots of good things to say about Google and none of it is in any way disingenuous, but for an entrepreneur, you get reminded you're an entrepreneur. When you're not trying to run a company, the most, you start realizing that sort of rules are written and you kind of have to follow them because you're in someone else's backyard. And eventually I sort of said, look, I think I'm probably better off on the outside stressing at three o'clock in the morning.
+
+3 (22m 2s):
+I think you lasted at Google for about almost exactly a year from August to an August.
+
+5 (22m 8s):
+That's right. I actually knew a little bit earlier Sundar who's now of course the CEO of the whole thing was singularly. The kindest person I met at Google when I was sort of lost in the corporate wilderness there for a little while, he took me on a box and talked to me and let me sort of pour my confused heart out. And, and so as he was counseling me through, what's really going on in your head, man, I pretty quickly, you know, maybe six months and figure it out like this probably isn't going to work. And then I chatted to his Larry and Sergey. And they'd sort of said, look, before you hang up, your, your, your cleats poke around at Google X, look at all the really amazing stuff we're doing. Like surely there's something intellectually interesting that he can try to find.
+
+5 (22m 48s):
+And I did that for six months. I honestly looked for something cool and maybe more autonomous and independent that I could do.
+
+3 (22m 55s):
+Were they disappointed when, when you I'm sure they were, when you, when you said you were going to step down.
+
+5 (23m 0s):
+Yeah. I don't think they were, they were pleased.
+
+3 (23m 3s):
+Was that a hard conversation? Yeah,
+
+5 (23m 5s):
+It was honest. I mean, I sort of said, look, I, I have a road. I have to go find it again.
+
+3 (23m 11s):
+Meantime you, so you leave Google in 2011, but there there's other things going on in your life. I mean, for one thing, you're still very involved with Yelp. I think you'd become the chairman in 2012, but you still had that the incubator, right?
+
+5 (23m 27s):
+Yes. I, I, I kept my fingers involved in, in a fair number of pies and yellow. Certainly a very important one.
+
+3 (23m 33s):
+All right. So, so 2011, you are now once again, out in the world, I'm trying to figure out what you're going to do. And from what I understand, cause the first time this happened to you really, it was, it was a rough period. I mean, personally, cause you were lost, you didn't really know what to do. Did you go back into a slump? I mean, this time it was different. You're married you've kid. I think he had at least one kid at that point.
+
+5 (23m 58s):
+Oh wait, we have the second one just as I was leaving Google. So this is the same wonderful Nellie and now plus two kids and a puppy. And my primary thought at the time was, Hey, last time I ended up almost losing everything. So I am definitely going to go start some company or do something to keep my brain occupied. Otherwise I run the risk of being sold to move out again. And so I was actually very, very keen on finding something interesting. And in fact, I was like literally talking to people to start brainstorming maybe the day after I walked out of mountain view for the last time.
+
+5 (24m 38s):
+But I also decided I would take longer figuring out what I want to do because throat slide for sure. And even throughout Google, Nelly would tell me, I know you're gonna start a company next time around, just sit back and ask yourself what would make you happy? What is the thing that you're really meant to do?
+
+3 (24m 59s):
+And, and what was the, what was the kind of thing that made you happy that, that you thought I need to do?
+
+5 (25m 5s):
+I didn't know. And most of 2012 I spent kind of brainstorming completely random ideas, but the probably most important output of that time, I wrote this essay for myself titled hard, valuable, fun, where I try to sort of explain what is it that drives me? Like why do I do the things that I do in sort of this rigorous self-reflection process? And the very short hand is it has to be difficult. I'm an engineer at heart. I like solving puzzles and if it's not hard, I just don't really value it enough and going all the way back to PayPal. One time I was working very late at night, it was working on some project outside of PayPal at the PayPal office.
+
+5 (25m 50s):
+I was still kind of had enough time to, to tinker Peter walked in and he asked me, what are you working on? And I'd sort of describe whatever program I was trying to hack together. Know that sounds really difficult. So yeah, it's really hard, but is it valuable and valuable? I don't know. I it's just really fun. Said, well, hard is not always valuable. Valuable is typically hard, but the inference doesn't work the other direction all the time. And it's sort of really stuck with me like that is such an easy way of explaining why a lot of puzzles are kind of worthless. And so it's still important for me to build these really solve really hard problems, but they have to be valuable sort of a, you know, nod this to Peter teal.
+
+5 (26m 31s):
+And then I said a whole paragraph on what is fun for max. And I don't really think it's photo-sharing and I don't think it's social games that was sort of this moment of truth. I was like, oh, I know the class of companies I'm going to start. And then I showed it to Ellie and she said, if you finally figure yourself out, and that was a liberating moment because I then said, well, it sure sounds like something in financial services again, but I'm definitely not going to do that. She'd say just give yourself permission to go build something. That's like another PayPal, but better.
+
+3 (27m 5s):
+And we come back in just a moment, how max starts to build a business that makes it easier to buy things on credit, a need. He identifies after discovering that his own credit rating is pretty terrible. Stay with us. I'm guy Ross. And you're listening to how I built this.
+
+Whoop (27m 31s):
+This podcast is brought to you by whoop a wearable health and fitness coach. Whoop isn't just another fitness tracker. It measures your heart rate, variability, resting, heart rate, and a fully phased breakdown of your sleep. Whoops algorithms, then process all of that data to provide you with a daily personalized recovery score that can help, you know, how you should approach your day will really change how I think about sleep and recovery. I've always known how important those two are, but the data takes it to another level. If I wake up fully recovered, I know I can go out and push myself, whether it's an, a workout or a full day of interviews. And when I'm feeling a bit low, whoop can tell and provides me with coaching feedback to help get me back on track. I wore their all new four dot oh, it's designed with new biometric tracking, including skin temperature, blood oxygen, and a lot more sleep, better, recover faster and workout smarter with woop. The all new device is free when you sign up for a membership, go to woop.com w H O O p.com and enter built at checkout to save 15% off today.
+
+Audible (28m 39s):
+I'm pretty much always on the go. So I don't have a tough time to do the things I want to do like read novels, which is why I love audible. Audible offers an incredible selection of audio books across every genre from bestsellers and new releases to mysteries and thrillers, wellness business and more, and all audible members get access to a growing selection of audio books, audible, originals, and podcasts that are included with membership. You can listen to all you want plus more get added every month. I'm going to be doing some traveling this summer. And while I do, I plan on catching up with fiasco and original podcast from audible, let audible help you discover new ways to laugh. Be inspired or be entertained. New members can try it for free for 30 days. Visit audible.com/built or text B U I L T to 500, 500 that's audible.com/built or text B U I L T to 500, 500 to try audible free for 30 audible.com/built.
+
+5 (29m 50s):
+Hey, welcome back to how I built this I'm guy Ross. So it's around 2012 and max Levchin is hammering out an idea for a new FinTech company. And he starts to formulate a plan around this very embarrassing thing that had happened just after he left PayPal.
+
+3 (30m 6s):
+He was a multi-millionaire at that point and he had decided to buy a new car.
+
+5 (30m 12s):
+So I fly down to LA and try to buy this beautiful. One of the very first heart, top fully retractable convertibles, which was probably my most coveted possession in my late twenties. And the dealership said, oh no, cool. You're you're the PayPal guy. Like I saw you guys went public. You're still gonna have to pay cash because your credit that I just checked is terrible. I don't know what you did, but my God and I I'm standing there next to Nellie. And next to Luke, one of our PayPal co-founders and sort of my I'm slowly shrinking and my face is probably purple with embarrassment. And it was not the only, in fact it was one of many, many experiences where my credit would get checked and it would be this moment of like, oh God, please, please.
+
+5 (30m 54s):
+Don't say out loud that I came to the us as a 16 year old until my first credit card on campus, which I promptly went delinquent on. I had no record at all. And I had no idea how many of the payments work in college. And my FICO score went through the floor and it's been a decade and I took a company public and still doesn't matter. I still look like a deadbeat to the rest of the world because of my credit record.
+
+3 (31m 15s):
+Hmm. So I guess you start to think about how to solve that kind of problem. Like somehow sort of how to make it easier to presumably to buy things on credit or to build up like a good credit record.
+
+5 (31m 27s):
+Yes. As we were brainstorming ideas, the first filter I would apply is what is sort of, gut-wrenchingly difficult, you know, a real problem in the world that people are willing to go to the ends of earth to figure out. And I was chatting with Nathan, one of my closest friends from college days who was my head of risk at PayPal. He went on to co-found Palentier
+
+3 (31m 52s):
+With Peter teal.
+
+5 (31m 54s):
+And I said, I know credit scoring is such a gnarly problem. I, I still sort of brace for impact every time I hit my credit card over because who knows they might cut it up and bring it to me in two pieces because my credit is so bad. And Nathan said, you know, w what's freely stupid? Is that a PayPal? We had access to all this amazing purchasing data. We never once tried to use it for credit scoring. We did so well with anti-fraud and oldest data-driven risk decisioning credit is kind of the granddaddy of them all. And it's actually sort of the consumer-facing part of risk decisioning. Can you, and will you pay your bill if I gave you money up front and asked for it back later?
+
+5 (32m 34s):
+And it was sort of this like, ah, that's really hard. There's a lot of people like me who screwed up in college and probably would like to buy things using credits, but are either priced out or have these horrendous triple digit rates they have to deal with. And it seems to be going to stuck in 1970s. And so that was the, that was the jump off point. And we went to work virtually.
+
+3 (32m 54s):
+So you, you started to ask yourself, can I solve this problem? Right? Maybe there's a way to create some kind of, of mechanism to evaluate consumers in a different way.
+
+5 (33m 8s):
+Great. And this idea that there must be other forms of figuring out what do you really are like as a financial Accenture, beyond your ten-year-old college record or lack there off. And then fairly quickly we realized that fundamentally what people really want is not some abstract, better credit score. They want to buy things. They don't want to be confused and they don't wanna be scared by the cost if they're paying over time.
+
+3 (33m 36s):
+All right. So you, you start to ask yourself, how do we solve this and how do you solve it? I mean, I mean, banks, you know, and, and lenders have a system, they, they evaluate your credit score based on a variety of factors, whether you've paid your, your bills late. You know, if you, if you've missed a rental payment or mortgage payment or, and that's basically how they figure out whether you are going to predictably, pay them back. And, and, and it has a more or less worked for banks, not, not great for consumers, but there's a reason why that works because it's risky to lend money. Presumably. So how are you going to solve that?
+
+5 (34m 13s):
+The, the short answer is there's no short answer. The, The most important thing we realized very early on was the problem. Isn't so much with a credit score. Oh, there's plenty to improve there on, but with the tools available to consumers to borrow money, this will sound harsh, but I, I genuinely believe what I'm about to say. So payday lending is a well understood, awful thing where you have very high rate compounding of interest into principle and ability to extend European period, essentially arbitrarily so long as you're here to kind of feed chunks of money to the lender. You know, that that's the anathema, that, that that's the worst thing in the world.
+
+5 (34m 53s):
+That's the payday lending right now, reduce the rate by let's say one zero, and you're, you're describing a credit card. The two products are basically identical. You can revolve more or less in perpetuity the rate slower. So it looks a bit nicer, but it's still an exponential curve. And the most common way to borrow money in America is a credit card. Yeah. So one of the key insights for our firm was gen Z and millennial generations, which are now make up more than half of Americans. Spenders are starting to actively ask the question, is this the best way? And the fairly loud answer is no, it's not. It's a lot nicer to say, Hey, I'm going to borrow X dollars.
+
+5 (35m 34s):
+It will cost me additional Y dollars or maybe it'll cost me nothing because the merchant that really wants me to buy you, whatever, the thing that I'm trying to buy is prepared to pay my interest for me. So maybe there's really no upcharge note, no interest. And that's it. And then I know that after six payments or 12 payments or 18 payments, whatever the good number is for me, I am done. And if I'm late, there's not going to be a gotcha, like ha late fees. So we said, let's not do late fees and let's not compound interest into principle. And sort of just stripped out all the payday lending, like yuck from payments.
+
+3 (36m 12s):
+So, all right, just to explain what what you're describing is, is known as B N P L, which is buy now pay later. Right. And, and, and the company you've launched a firm is one of several companies in this space right now. That's right. All right. But, but anyway, in the case of affirm, I guess, I guess the way it works is you make these short term loans to consumers and there's no compounded interest in and no late fees. And, and I guess when you launched, you were trying to be like an alternative to, to normal credit cards, right?
+
+5 (36m 46s):
+Yeah. Big part of credit cards is that there's some gargantuan limits and, you know, you're encouraged to fill up your bucket of debts and never really fully empty it. The product that we built was all about, Hey, borrow a hundred dollars, paid back in six weeks, be done. If you need to borrow another a hundred, let's have that conversation separately. And it might unfortunately result in us telling you, we don't think you can take on another a hundred dollars.
+
+3 (37m 11s):
+And as I, as I understand it, right from, from looking at it, the loans can work in different ways, right? Like you guys do some loans where the customer does pay some interest, and then there are other loans where the customer doesn't pay any interest at all. Like, like basically if you bought a hundred dollar pair of sneakers, you would just pay it in four installments of 25 bucks. But what I wonder is how do you assess risk? Right? Cause like when I go for a home loan, they look at my records and my scores. And, but when you're just looking at a random new customer, how do you assess whether they're going to pay a loan back?
+
+5 (37m 47s):
+Know it's not that different from getting a rate for a mortgage, except we do it in a matter of seconds
+
+3 (37m 53s):
+And you use different data points. So
+
+5 (37m 55s):
+We don't look at additional credit scores since, you know, we founded the company with the belief that we can do much better, but we do look at the data that goes into that score. In some ways we can think of us almost like computing, a different score, using much of the same data, plus a bunch of other data. Right. Sort of at the limit, we literally say, Hey, we can't figure out how to reason about your financial situation. Like maybe you are, you know, what's called a thin file where your information is there, but it's just not enough of it. Would you please log into your bank account right now? We'll look at your cashflow and we'll actually decide whether we think you can carry this amount as a monthly obligation. And we'll honestly tell you, and obviously it has to happen fully, automatically.
+
+5 (38m 38s):
+No human can look at a data and calculate it quickly enough.
+
+3 (38m 42s):
+Okay. So essentially you're, you're basically using artificial intelligence to, to underwrite pretty much every alone you do. But like w w when you were pitching this model to investors, did do they believe that that approach was good enough to mitigate the risk that you know, that you'd make such smart lending decisions that you wouldn't need to charge late fees or things like that?
+
+5 (39m 6s):
+You're absolutely right. Every investor I talked to and for awhile, I'd sort of funded it myself because I've been fortunate and people didn't really believe that this is possible, but every time someone would ask me, like how in the world are you going to do this without late fees, without a deferred interest without the oldest surface, natural quote, unquote natural. Yeah. I'd said, look, I think we're going to lose a lot less money because vast majority of people are going to pay us back.
+
+3 (39m 31s):
+But if there's no late fees, right. And you don't, it's just a straight, you know, four payments. What's the disincentive to, to just not pay on time.
+
+5 (39m 44s):
+Well, for one, if you're delinquent, you can't transact again. If you are what's in the industry is evocatively called a sloppy payer, which is someone who generally pays their bills, but are almost never on time. The normal financial district behaviors say, great, you're a fantastic revenue opportunity. You have the money. You just don't don't care about being on time and we'll charge you a fee for that. And so instead of doing baths, we basically said, look, we will go out of our way to remind you and remind you and remind you, we'll send you multiple notifications through multiple channels through our app, through a text, through an email. And we'll also give you an opportunity to set up a fully automatic kind of a timed withdrawal from your bank, just so you're not late.
+
+5 (40m 28s):
+And for vast majority of people, this is more than enough and they are on time. But if something happens and you're unable to make the next payment, that's fine. But that prevents you generally speaking from transacting again until your current, or at least until we understand what's really going on. Hmm.
+
+3 (40m 44s):
+Alright. I want, wanna, I want to dig into this from the merchant's perspective, because from what I understand, when a consumer makes a transaction with a firm, the merchant pays a fee, right? Like, I mean, whether it's a 0% loan or even a loan with interest, the merchant is assuming some of that cost. Right. So, so why would they even go for that? Like what what's in it for the merchant?
+
+5 (41m 5s):
+The reason the merchant finds that compelling is because without affirm this transaction, most likely would not have happened
+
+3 (41m 12s):
+Because it concerned it might not have a credit card
+
+5 (41m 14s):
+Yeah. Or chose not to do it. About half of the United States, adults are revolving on their credit card right now, and the revolving is expensive and it gives you extreme anxiety if you're revolving for a long time on a lot of money. And so putting more onto your credit card for those people is very, very stressful event. And the choice state have is, well, I'll buy it anyway, you know, dammit interest rate or, you know what, I'm not going to buy it from being the third choice was a really powerful enabler, he'll say, okay, so I can buy this thing. I will pay no interest or some number of dollars on top of the retail price, but then I'm entirely out of debt for this thing in six months or six weeks.
+
+5 (41m 54s):
+That seems like a pretty clear value proposition.
+
+3 (41m 56s):
+So, all right. So in 2012, once you set out to launch this thing, how did you find customers to, to who would be comfortable using it?
+
+5 (42m 7s):
+We were looking for a hack, basically a trick to get consumers who are interested in borrowing money to pay for things over time without having to spend marketing dollars. And so we had a couple of friends that were in e-commerce and literally called around and said, Hey, would you consider putting up, pay with affirm right next to your pay with visa and pay with MasterCard? We think there's a whole world out there that doesn't have access to visa, MasterCard that probably would use us or nothing. And then the sort of the wow moment was when one of them called me back and said, all right, we just saw a 30% spike in volume. As soon as we added your button.
+
+3 (42m 47s):
+When we come back in just a moment, how max gets merchants to use his brand new payments platform and why he's spent way longer working at a firm than any other job he's ever had, stay with us. I'm guy Raz. And you're listening to how I built this
+
+Vrbo (43m 9s):
+There's power in getting together with the people you love. And today your family, isn't just about people with shared DNA. It's also about the chosen family you found, who like what you like and know what you've been through. Maybe getting together with your people means reconnecting with your childhood friends or watching the game with your college teammates or seeing your new baby meet your best friend's baby for the first time. Or maybe it's about reuniting with the whole crew or laughing until you can't breathe or big sister real talk, or just sitting in silence with someone who truly understands you. One thing is clear. Today's families don't often live in the same city, let alone have a single place to come home to VRBO knows the best places with your people. With millions of vacation homes, your place can be anything from a charming mountain cabin or Lakeside lodge to a city apartment or luxury home with private pools, hot tubs, full kitchens, and extra bedrooms. VRBO homes provide the space and comfort. You need to focus on the people who matter visit vrbo.com or download the VRBO app to find the perfect vacation home for your people. VRBO, a place for together.
+
+6 (44m 24s):
+The lead is a sports podcast from Wondery. That brings you the biggest and most interesting stories from the world of sports.
+
+7 (44m 30s):
+Twice a week, we go deep on a story in the news, usually with a reporter who has covered that story up close,
+
+6 (44m 36s):
+Join me
+
+7 (44m 38s):
+In me, Tiffany Oshinsky,
+
+6 (44m 40s):
+As we cut through the noise and the hot takes so
+
+7 (44m 43s):
+Many hot takes
+
+6 (44m 44s):
+To bring you really great sports stories. Like how w NBA star Brittney Griner, who has been detained in Russia since February might actually make it out,
+
+7 (44m 54s):
+Or how Boston Celtics coach EMA you Doka transformed his team by leaning into a different side of his personality.
+
+6 (45m 1s):
+The lead covers the big stories, the small stories, and yes, importantly, even the occasional mascot story,
+
+7 (45m 7s):
+Make listening to the lead a part of your routine. You can listen on apple podcasts, Amazon music, or wherever you listen to podcasts or better yet get the show ad free by joining Wondery plus in the Wondery app,
+
+6 (45m 20s):
+The lead home of the best storytelling in sports.
+
+3 (45m 31s):
+Hey, welcome back to how I built this I'm guy Roz. So it's 20 12, 20 13, and max has launched this new company, affirm a buy now pay later service that simplifies the experience of buying on credit. And at this point he's looking for some merchants who will sign out of the plan.
+
+5 (45m 51s):
+The very first one you would have heard of is 1-800-FLOWERS. It was actually a fascinating conversation where I talked to a two founder CEO there, and one, a hundred flowers had been around for quite some time, obviously. And I thought this would be a, what in the world are you talking about? And he actually said, oh my God, like this is, you know, very similar to what we used to do in the seventies where people would call us in the phone and order. And they'd say, oh, you know, I don't have the money right now. I'd like to pay later and say, oh, no problem. You know, just what, write down a phone number, of course. And in the complaint and later yeah, but layaway, but you get the flowers today. And so it kind of a layaway with instant delivery.
+
+5 (46m 31s):
+Yep. But he grasped the idea instantaneously. He's like, yeah, this is great. Let's give it a test. And so it was probably the easiest sale I've ever closed. And having a brand name merchant was a huge enabler. It literally allowed us to say, Hey, you know what? It worked for them. They're referenceable customer. That's when I sort of started knocking on much sort of a larger doors, if you will.
+
+3 (46m 53s):
+And then who was, who, who were the next one? So what were the next dominoes to fall, so to speak?
+
+5 (46m 57s):
+So the next set that we were unbelievably lucky to get were a lot of the online can have a new direct to consumer sellers of homewares and homework out equipment like Peloton revolutionized home workouts, and Casper just completely rewrote the rules on mattress replacement cycle and how you sell it, how you deliver it. And so all of these brands were kind of being born in the early teens, you know, the last decade. And we able to sign up at an incredible number of them very, very quickly during 20 14, 15.
+
+3 (47m 34s):
+So I wonder when you, when you got this together and launched in 2014, I mean, did you have to bring in a lot of money? Did you have to have a lot of cash on hand or, or was all or all of these sort of the interest payments essentially paid by the retailers and you know, and then in some cases, the actual consumer, you guys never affirm, never had to pay any of those fees.
+
+5 (47m 59s):
+Oh no, we, we certainly, we certainly did. So when we launched the product, just the very, very first launch with one 800. So the way the product questions from the capital perspective, as long as you're growing into negative capital product, you approve a consumer, they get their flowers, you send money minus fees to one, a hundred flowers. The consumer pays you back. First payment is due, let's say 34 days from the transaction. So for those 34 days, you've already paid your retail partners and you're waiting for consumers to come back and pay you. So at any given time, you are waiting for money to come back and you need to continuously get more capital to grow the company.
+
+3 (48m 36s):
+So essentially you had to have the money and have to have the money to pay the, you know, the full amount to the, the retailer minus your fee that they're going to pay you. And then you get the, the money directly from the consumer.
+
+5 (48m 51s):
+Yes. So the day we launched, I'd sort of said, well, we have no way of financing these loans and it's going to be negative cashflow business. And so I will put up a hundred thousand dollars of my own money to, to front these payments. And if there's any uptake at all, we're going to have to figure out how to scale some sort of a capital program. And I went through sort of a sleepless night thinking, oh my God, this thing launches, and everybody wants it. And my hundred thousand dollars will run out and what I do then, so I actually had this load of ACE, like, you know, asking Nelly, like how much more should the left your family be willing to put up? And of course it launched the nobody cared, you know, true, true revelation from the world of startup.
+
+5 (49m 36s):
+Very, very rarely does a product launch immediately have the effect of an explosion. Just typically things don't work.
+
+3 (49m 45s):
+It was crickets, nobody, nobody, nobody showed up.
+
+5 (49m 48s):
+So we had to learn how to promote it a little bit, how to work with one, a hundred flowers to tell consumers as they're considering their, their choices and bouquets, that there's in fact, a way to pay overtime as available later. But as we started seeing transactions very quickly, we had to figure out how to fund the actual loan flow and the way that works first, you borrow money. So you can lend it. You go to bank partners, non-bank partners and say, Hey, here's my financial profile of my products. I would like to borrow from you. And obviously I want to pay a lower interest rate that I think is fair to charge the consumer or the merchant on the other side. And, you know, th th the spread will be my feet. And you can imagine scaling that program to larger, larger, larger, and eventually you effectively issue bonds and those become tradable.
+
+3 (50m 35s):
+So how, how fast did it, did it, I mean, did, did you feel like affirm once, you know, you get through that initial period with 1-800-FLOWERS, how, how quickly before you, you convinced other big retailers, cause now it's, you know, it's, it's pretty much everything is on Amazon now, right?
+
+5 (50m 52s):
+It is on Amazon, the first major break retailer for us with Walmart. And it took a long time. And I got to know some of the folks in senior management team there. And the thing that was pretty amazing is how similar their thought process was about the good and the not so good other the financial products I was struck by just how aware they are of their customer and how these financial products can be really harmful. And so we had sort of meeting of minds long before we were official financial partners.
+
+3 (51m 26s):
+W one of the things that's been really interesting about affirm is, and I, it sounds like you very sort of intentionally thought of gen Z millennials as your consumer base, right. Is it, is it fair to say
+
+5 (51m 42s):
+There's a fair amount of gen X as well, but it definitely skews very young.
+
+3 (51m 47s):
+I was looking at some just kind of broad data around affirm, and it has a very high use rate among people of color. And I, I mean, this is obviously always sensitive to talk about, but from, from what I understand, it's been particularly among black consumers has, has been very welcomed. I mean, it's, it's a, it's a fact that that credit ratings can, can disproportionally negatively affect people of color in the United States and bill payday lenders in particular have been particularly predatory, you know, in, in underserved communities. So, yeah, I mean, this is an option for lots of people who, who didn't have another option before.
+
+5 (52m 30s):
+That's right. It is a natural consequence that we don't look at traditional credit scores and traditional credit data as much. There's plenty of great people, across many, many underrepresented groups. And by great, I'm not passing character judgment of care, of course, but financially solid footing enough to borrow money and pay it back successfully without the needs for the nastier alternatives. And if you treat them right, they tell their friends, which is true for, I think, any of us and therefore these products take off because of their honesty and transparency that we bring to bear. And so I, you know, I would, like I said, it, it, it doesn't make me happy.
+
+3 (53m 9s):
+You know, max it's, it's interesting. I mean, affirm is it's a, it's a math problem, right. That you're solving here because I'm assuming that you're looking at the math and affirm is a public company. And so it's, you know, all your financials are open and it's not yet profitable, but, you know, looking at the math where it's headed. Yes. Is that, is that true?
+
+5 (53m 33s):
+Yes. The probably most important thing about affirm is exactly what he just said. It is a really, really, really cool, big math problem that we're solving. If you look at the unit economics, which is what happens to every transaction, if you divided the overall dollars in, by the total number of dollars transacted, you'll see that that number is very positive. And so over time, so long as we don't spend the excess transactional economics, pulsar inherently become profitable. And it, it is something that we can model and can see in our future because our whole company has stopped short of prognosticating, what that immediate future future is.
+
+5 (54m 17s):
+But it, it is, it is exactly that
+
+3 (54m 20s):
+W which I guess will leads me to my next question, which is running a public company is very different because you are now quarterly earnings reports. And, you know, you've got to answer a questions from the media and from shareholders, but, you know, over the last year, your stock price has gone from 176 down to, you know, in the low thirties. Does that, does that keep you up at night or are you confident enough in the math that you're not worried?
+
+5 (54m 49s):
+I'm not worried. I am very confident in the math. That's probably the thing that I'm most confident in, in, in most, most worlds, the stock price matters for two really important reasons. There are two constituents. So there are people who bought the stock. One, it was higher than it is right now. And it is my job to try the absolute hardest. I have to make sure that they don't feel that they made a mistake. I think the company is an exceptional shape. And so I, my, my duty to my shareholders is not lost on me, but the way to do it of course, is to build a great company over a long period of time. And so the fluctuations of the stock today, or tomorrow is something that I don't really look at to be completely honest.
+
+5 (55m 36s):
+The second group that I really care about is the employees. And for them, the mission is truly important, but they have choices in their employment. And I need them to believe in, I need them to be here and continue building things w you know, all of us together. And so the stock price matters as a indicator of value that we have created for the personal finances of our employees. So that that's really important, which is why I care about the stock price. But I care more about building something that five years from now is 10 times more successful financially than we are today. You know, there's a great, I think Graham quote, in a short term, the market is a voting machine and in the long-term, it's a weighing machine.
+
+5 (56m 21s):
+And I like that thinking process,
+
+3 (56m 22s):
+Max, you've been working on a firm now for 10 years. This is the longest you've been at one job. Yeah. Right. In your, in your entire career, 10 years by
+
+5 (56m 34s):
+Wide margin too. Yeah.
+
+3 (56m 35s):
+Yeah. I mean, if I, if I'm looking at you, I'm thinking based on his record, he's, he's restless, he's he, he's, he, he's got to find some new challenge he's going to, he's got to, just to live, to survive, to thrive, to be happy. He's going to have to come up with something new. Is that true?
+
+5 (56m 56s):
+A little bit in the following sentence. So, I mean, this sounds weird. And to some people, presumably extremely prosaic, but financial products is like a play land for me. I feel embarrassed saying that out loud, I guess, but the, the ideas that are sloshing around in my head, the things that need to get built needs to get built tomorrow. Most of them these days are really in financial services because every where I look every sort of rock, we turn over as we were on a farm, there's like, oh my God, that clearly needs to get reinvented and done better. And so the opportunities that I see these days are just predominantly in my own industry.
+
+5 (57m 37s):
+So how do I stay fully engaged and fresh at affirm if I really am going to soul sheriffs with the public and commit to them, which I certainly have that I'll, I'll be here a long time. So we organized in some ways, sort of the incubator 3.0 inside affirm. And there's a team called CTS zero to 60. Fortunately not just me, but a bunch of other, pretty smart people who are constantly coming up with ideas that we're incubating inside, affirm and launching in the sort of the way I describe it to my investors. If you look at any successful startup, you know, not just a firm, it's always a S shaped curve where you start with nothing. And for awhile, it's just nothing and nothing and nothing.
+
+5 (58m 17s):
+And then something clicks and then it goes vertical and he just keeps going up and up and up. And then eventually it has to slow down as you saturate the market, as the market becomes more and more competitive as consumer profits change businesses, don't go way, but the growth curve slows and we're lucky to have hit on a giant opportunity in a giant market. So affirm as it exists today is very far from asymptotic turning into an S-shaped curve. But if I'm going to be here 10 years from now, I'm going to be here 20 years from now. I better have another S curve type product in my pocket. And so a lot of what I work on these days, surf, what gives me the greatest happiness really is experimenting within the CTS team, building new ideas.
+
+5 (59m 2s):
+And most of them are going to go exactly the way of the Dodo as any other startups, but even if one of them becomes another S curve that propels affirm to the next big thing, its purpose will be fulfilled. So I'm pretty sure I'm exactly where I need to be, or quite sure I'm exactly where I need to be. So I'm not in fact restless, the restless has come from, gosh, I have to do another really, really important management meeting. And that rather tinker with CTS,
+
+3 (59m 31s):
+I I've been thinking a lot about the story you told of when he met Peter teal, you went to this lecture that he gave in front of four or five people. And, and I think that was a very lucky moment for him. And I think it was a very lucky moment for you too. And I think both of you had you not met would have figured something out and been successful. You, you were motivated, you came out there and you were clearly a talented computer programmer and mathematician. So there's no doubt that you would have figured it out, but you did have those moments like going to that lecture at Stanford and, you know, eventually, you know, being part of PayPal, which is the, kind of the history of, of, of web 2.0, I mean the, all those people that came out of PayPal are hugely influential, hugely powerful for, for better or worse.
+
+3 (1h 0m 22s):
+How much of your journey and, and what happened to you? Do you attribute to those lucky moments and how much do you think have to do with just how hard you work and in the grind and, and in your intelligence?
+
+5 (1h 0m 39s):
+That's a great question. I I've, I've heard you asked this before. And I, I thought, what is my answer? And came up with very little canned, anything, you know, I think the role of luck is vastly under appreciated. I think the action you take when an opportunity appears is yours, and it's the choice and willingness to take the risk and decision to just go for it and sort of damage your dose sort of moment. But if you are unwilling to move or unable to recognize, or don't encounter these moments of opportunity, you know, it's probably not available to you.
+
+5 (1h 1m 25s):
+And I, I feel a certain degree of guilt that some brilliant people I know may not have had some of these moments and they, they could have been much more successful than they are. And yet I do think that probably moments of luck appear in front of most of us at some point or another in our lives. And what do you do after once you see one of those have one of those, it does come down to work ethic and just willingness to grind, then sleep less and compromise things like work-life balance, which have their own consequences. It's not free and it can be very damaging, but luck is the kickstart.
+
+3 (1h 2m 8s):
+That's max Levchin founder and CEO of firm and co-founder of PayPal. By the way, whenever you're asked to verify, you're not a robot online, by trying to figure out what those wiggly letters spell, you could be taking the Gauss spec login test. Only a human has the ability to discern those letters. Max created that test after PayPal was getting hammered by hackers. That was back in 2002. And the test in modified form is still widely used across the internet. Hey, thanks so much for listening to the show this week. If you want to contact the team, our email address is H I B T N I d.wondery.com.
+
+3 (1h 2m 50s):
+If you want to follow us on Twitter, our account is at how I built this in mind is at guy Ross and on Instagram I'm at guy dot Roz. This episode was produced by Alex Chung with music composed by re-up team era bluey. It was edited by NEPA grant with research help from Claremore Ashima. Our production staff also includes JC Howard, Casey Herman, Josh lash, Liz Metzker, Carrie Thompson, Sam Paulson, Catherine cipher, Elena coats, John Isabella, Christmas, Amy and Carla STS I'm guy Ross, and even listening to how I built this.
+
+3 (1h 3m 36s):
+Hey everyone. So I want to make sure you know, all of the different ways you can listen to how I built this. As you probably know, you can follow the show on Amazon music, apple podcasts, or wherever you're listening right now, but a one let you know that you can actually listen to the next episode of how I built this today. One week early on Amazon music, you can also listen to it early and ad free by subscribing to Wondery plus an apple podcasts or on the Wondery app. Please do follow us on your podcast app. So you always have the latest episode downloaded. And another way to support the show is by filling out a survey at wondery.com/survey. And thanks.

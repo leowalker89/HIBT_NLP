@@ -1,0 +1,692 @@
+Rough Translation - NPR (0s):
+I'm Gregory Warner posted the podcast, rough translation on our new season. We're telling stories about the cultures of work, the nine to five, it's a myth and rest around the world. I came into this totally prepared to defend my American productivity At work. The new season of the NPR podcast, rough translation.
+
+Slack (20s):
+Many of you might already use slack to make work happen. But for those who don't, I want to share an example of how slack has empowered us here at how I built this. So slack is kind of our digital headquarters. The, how I built this team has used slack to communicate for years because we're a distributed team and it's become essential to us, especially during COVID when we all began working from home, but it's not just us companies, big and small use slack to achieve pretty impossible feats. And you can watch those stories over at slack.com/stories. Again, that's slack.com/stories, slack where the future and how I built this works
+
+Klaviyo (1m 4s):
+ready to turn your small e-commerce business into the next big thing. Klaviyo can help. It's the easy to use email and SMS platform that gives you everything you need to build genuine relationships with your customers. And even if you're new to marketing Klaviyo can help you become an email expert with drag and drop design templates, simple insights, and made for e-commerce reports and recommendations. Give it a try with a free account at klaviyo.com/built. That's K L a V I Y o.com/built.
+
+4 (1m 42s):
+We've went on a social event from our little son's preschool. And then I met this nice grandparent of one of the kids and said, I love homes. I love renovation. I did multiples in my life, you know, send me delinq. And I sent him the link and then he calls me afterwards and he said, are you crazy? How many users you said you have and why aren't you raising money for this? And he said, well, you know, it's our thing. Nobody tells us what to do. And he said, you know what? I think that you're making a mistake. I'll just say this. If you're not going to raise money, somebody else will realize what you're doing. There we'll raise money that will copy you.
+
+4 (2m 24s):
+And you will say goodbye to this initiative.
+
+3 (2m 32s):
+Welcome to how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built. I'm guy Roz. And on the show today, how a frustrating home renovation led a D to tarko and her husband to build house an online community for homeowners and remodelers. That's grown to 65 million users worldwide. I love stories about accidental entrepreneurs in part, because I'm one of them. This show you're listening to started as a side project, I just really wanted to learn how ordinary people build extraordinary things.
+
+3 (3m 17s):
+And I thought there might be a small group of people who would also want to hear those stories. But to my surprise, it took off in a big way. I was, and still am genuinely amazed and delighted that millions of people listen to the show each week. It is mind blowing to me. But anyway, the point of all this is to explain that I never intended to stop doing the other things I was doing at the time, how I built this was a fun side project, but it soon became clear that this show was in fact, the main project. And it completely changed everything I do now in a much, much bigger way, like to the tunes of billions of dollars.
+
+3 (4m 0s):
+This is a version of the house story house. If you're not familiar with it is a website app and an online community for architects, interior designers, and people like you and me who are looking to renovate their homes. It's used by more than 65 million people. And it's the biggest home renovation community of its kind. Basically it's a place to get ideas to buy the materials you want and to hire professionals to help you get the work done if you don't want to do it yourself. But this entire venture last valued at over $4 billion started as a hobby, a side project, a project to renovate a D two tacos home in Palo Alto, California.
+
+3 (4m 43s):
+At the time she and her husband alone thought there should be a simple and inexpensive way to design your own renovation project. Something that could be done online back then, Dee was working as a financial planner. Alone was a software engineer at eBay and houses. First customers were other families at their kid's school. It was a website where they could post photos of their home renovations and also a place where local architects and designers could promote their work. But very quickly and organically D and alone started to get inquiries from designers in cities, outside California, and word started to spread through the community of people involved with the home renovation industry.
+
+3 (5m 29s):
+And some of their friends practically shook a D and alone by the shoulders trying to convince them that house could become even bigger, maybe even huge, but a D held back. She already had a career and she had two young kids at home, but eventually she was convinced that how has had too much potential to treat it like a lifestyle business. So she walked away from a promising job in finance to become the CEO of house and to help lead it to become the massive site. It is today. I need you to taco was born and raised in Israel where her parents worked together in the real estate business, family was close and she lived in a tight knit community.
+
+4 (6m 13s):
+I was actually guy studying with the same 38 kids in the same class from first to eighth grade. And I'm very, very proud to tell you that to date I'm in touch with the vast majority of the kids from that class. We meet every several years with some of kids. I still call them kids. I still have close relationships today. So it was a very warm, friendly, close environment with lots of fun memories.
+
+3 (6m 47s):
+How were you as a student in school where you could student
+
+4 (6m 52s):
+I an okay. I wouldn't say excellent student. I made it through, you know, guy. My mom was so liberal and so trusting. And she said to me in high school, look, I know that many kids just in high school, don't tell the truth to their parents. So let's have some ground rules here. I don't want you to ever need to lie to me if you don't want to go to school or you'd rather have a fun day once a month or whatever it is with your friends at the beach, let it be just don't lie to me. And if you tell me the truth and you promise to never do things behind my back, I will always have your back and always support you.
+
+4 (7m 38s):
+And she did. And she said, that's your, your life give telling you why you should study. And I know you're capable of doing whatever you want. However, do it your way. Just never lie to me.
+
+3 (7m 52s):
+I know, I know that in Israel, the surf for the vast majority of teenagers, that the path is pretty clear. You're going to do service military service for men. I think it's three years and for women too. So, so what did you wind up doing for your military service?
+
+4 (8m 8s):
+I ended up selecting going to the air force. I think that a big part of who I became later on is due to my amazing experience in the few years I serviced in the air force and what I did there.
+
+3 (8m 22s):
+I'm assuming that given there's been a time lapse between the time you served in today, is it, it's not probably not classified what you did anymore. Can you, can you talk a little bit about, about your experience?
+
+4 (8m 30s):
+I was involved in very interesting plans and missions, and one that is very well known to the public today was the rescue of Jewish people from Ethiopia at the time that politically, it was very, very challenging to do that.
+
+3 (8m 48s):
+Yeah. This is the, the sort of the late eighties when Israel was airlifting Ethiopian Jews out of, out of Ethiopia. And I think also Eritrea these sort of midnight missions. Correct.
+
+4 (9m 0s):
+So I think I had a very, very meaningful service and I think I learned a lot at a very young age, how to emphasize what's important, how to juggle zillion things and still, you know, catch all the balls. And, and again, be sure that what's the most important is being catched first.
+
+3 (9m 22s):
+So as I understand that once you, you finish your service, you went to do a bachelor's degree at, at Hebrew university in Jerusalem. And I read that while you were there, you, I guess you and some friends went on a trip to Thailand, like a backpacking trip. And, and it's, it was actually on that trip where you would meet the man who'd become your husband and eventually your business partner alone. So how, how exactly did the two of you meet?
+
+4 (9m 49s):
+Yeah. In Bangkok, we had to travel with very, very limited budget and, and, you know, in order to get to the islands, we had to take a 15 hours bus. And I was traveling with two girlfriends. The three of us sat in front, you know, the front of the bus and the bus driver came to me at the beginning of the journey. And he said, I'm sorry, you cannot sit here. More people need to come in next station, you have to move to the back. And then he literally took my hand, walked me to the back of the bus, pointed to an empty seat next to a lawn and said, you sit here.
+
+4 (10m 30s):
+So we ended up sitting next to each other for 15 hours and we talk the entire time. Or if you ask alone, he will say, I talked 14 and a half hours. And he said a few things. No, I don't think so. But we did talk a lot. And it was just very, very magical.
+
+3 (10m 52s):
+You connected right away.
+
+4 (10m 53s):
+Yes.
+
+3 (10m 54s):
+What'd you guys talk about
+
+4 (10m 57s):
+Walks life outside of earth if possible or not? What do we know? What we don't philosophy, all kinds of things that you can't even imagine. It's just tried to squeeze first five, six dates with someone into one ride of 15 hours. Right. And you're trapped. You can go anywhere. And when we arrived to the area of the islands, I was supposed to go with my girlfriends and, you know, just stay all the time with them. And I ended up spending all the time with em and I always say our life started in a honeymoon. And I thought, well, from here, it's only going to go down.
+
+4 (11m 39s):
+Right. You know, how can you keep things, you know, at that level of the islands in Thailand, the rest of your life. And when we ended up being together, I said, I going to hold you up to these standards. That's what I like.
+
+3 (11m 51s):
+Alright. So, alright. So both of you, presumably you go back home to Israel and you stay together and you're basically a couple. And from what I understand alone was still doing his military service and getting a degree in computer science. And I think, I guess at some point he starts sort of like, like a small business developing software. And I guess you're planning to go into like international trade or, or finance or something like that, is that right?
+
+4 (12m 19s):
+Correct. But Alon said, I have a better idea. I'm about to finish my service in the army. And I got a few clients that want me to build these systems for them program for them. And why don't you come and partner with me and you'll deal with everything related to the business side. He already had IBM and other big tech companies asking him to develop systems. And so I, I learned a lot about it when we, again, we lived together. We were already together for, for a while now.
+
+4 (12m 59s):
+Right.
+
+3 (12m 59s):
+And I guess, I mean, not too long after, right. One of the one from what I understand, one of your clients came to you and, and, and proposed a merger with them and, and they had a similar kind of company and they wanted the two of you to run it out of the United States. Is that right?
+
+4 (13m 18s):
+Yes. And now we are married, no kids. And an offer comes our way to legally merge our business into a startup that just raised a few million dollars, moved to New York with the thinking, by the way that we'll do it for a few years and go back. That's what we thought, Israel.
+
+3 (13m 42s):
+So this is, I think you moved there, what, in 99 or 2000, something
+
+4 (13m 45s):
+Like that.
+
+3 (13m 47s):
+All right. So you move there. And, but from what I understand this arrangement, it doesn't, it doesn't really last, very long, I think like less than a year. And, and the two of you, you and Alon decided to, to leave this company or to move on or something like that, which presumably meant that you had to find it like another job pretty fast, right?
+
+4 (14m 11s):
+Yeah. So you're absolutely right. For two reasons, one, we had some savings, but there were not enough to stop working small savings. And, and we absolutely needed the money. And to the, the clock was sticking with the working visa, because we're pretty nerdy on that front where people that will never spend one minute in a place without the appropriate approval. But we knew that when this deal will end, both my salary and the working visa will end and we can no longer stay in the us. And so we knew we have a few months and then we had to make a decision. What is this poor going to do today after this?
+
+4 (14m 54s):
+What are we going to go back to Israel? Are we going to try to look for something else in New York? Or are we going to move like alone, wanted to the Silicon valley right now? The year guy is 2001 now. And the end of the.com bubble burst pretty much. And, and everybody is getting out of the Silicon valley. Lots of jobs are being cut. Lots of startups are shutting their doors. And everybody's telling us that we're crazy Alon. However, had a very different idea in his mind. He, he wanted to move to the Silicon valley.
+
+3 (15m 36s):
+And, and I'm assuming like part of you probably want to go home to see your fan, to be with your family. But he was a software engineer. I mean, this is what he had studied. And so in 2001, even though the bubble had burst, Silicon valley was still the Mecca. It was still the place to go to. If you wanted to get into tech,
+
+4 (15m 55s):
+He was very drawn here and he thought it's going to be amazing, but I was actually so not into it, this area, the Silicon valley. And I said, over my dead body, I meant it. This is the suburb. You know, I need a CD. I need to leave. I need New York. I can't live in a place like this where young, we don't have kids. What am I going to do there? And he looked at me. He said, I think you should really, really just give it a chance for me.
+
+3 (16m 26s):
+He, so presumably he starts looking for jobs out there and he got a job at eBay, right. That was the job that they offer. He got, which enabled you to move.
+
+4 (16m 35s):
+You make it sound easy. I can tell you that that period of our life is something that I always tell to other intrepreneurs and to my kids and, and remind ourselves where we were when we got to the Silicon valley, because we didn't know a soul in the Silicon valley. And we came, we didn't have money. I was still on that visa. Yeah. We had zero knowledge. What's going to happen. And the clock was sticking on the visa and our savings.
+
+3 (17m 2s):
+So you didn't go out there with a job in hand. He just said, let's go out there and figure it out.
+
+4 (17m 8s):
+Well, after 16 interviews and four rounds, where they called him to Ava, he finally got the offer. So it must have been like a month and a half, at least where we are renewing our hotel, you know, every single week until he got the offer. But we had moments there that I always remind myself how we set one day, the small hotel. And I told him, what are we doing in this place? You know, I want my friends, I want my family. I want the city. What are we doing? It's not going to happen. We're wasting time and money and energy.
+
+4 (17m 49s):
+And then he do, you know the story about these two frogs? And I said, what? And he said, the two frogs that fell to the bucket full of milk. And I said, no, I don't any. And he said, D two frogs fell to a bucket full of milk that we're jumping, jumping, jumping. One of them got very tired. So what she did, she stopped jumping, drown, died. The other one kept jumping and jumping and jumping until the milk turned to Potter. She climbed on it and got out of the bucket. If you'll continue jumping with me, we'll find what we want, but you have to continue jumping and you have to believe that it will happen.
+
+4 (18m 29s):
+It will turn to Potter. You will see. And alone is so know that person. So it was striking to me that he usually it's the opposite and it was so inspiring. I said, okay, I'll jump with you. I came all the way here. I'll jump with you.
+
+3 (18m 45s):
+Okay. I should mention that a lot is happening around this time. Right? I'm sort of fast-forwarding of this a little bit here, but the two of you decided to start a family. And then you also go back to school to, to study financial planning. And then you pursue a job in, in finance, right?
+
+4 (19m 5s):
+Yes. I studied. I started the internship halfway through school and my boss, Phil had the branch of Commonwealth financials. It's a very big financial planning firm, but he had his own brand for 40 years in the Silicon valley. And what was interesting about his brand was he served lots of the tech executives in the valley. So the exposure through financial planning was really striking to me learning and coming to it from this direction. Right. And feel at some point realized that I'm not his, I think typical worker
+
+3 (19m 44s):
+In which way, what do you mean?
+
+4 (19m 46s):
+I think I was very honest with him about less sugarcoating of different things that I wanted to say about the approach, about where I thought that he's too conservative, then I would dare to say it. What other people didn't say? And I had nothing to lose at this point. I wanted to learn and grow. And when I saw something that made like, what, how can you do it like this? You know, this is so old school, I would say it.
+
+3 (20m 16s):
+And did, did that annoy him or did he like that? He liked that
+
+4 (20m 19s):
+He liked that the fact that I came and challenged, everything was something new and compelling to him. And he wanted me to talk like this all day long. And so, so he was ready for his retirement, which I didn't know at this point he was getting close to 70 at this point. And he, at some point came to him and said, I want to offer you a full-time job and to deal. And I said, what's the deal. He said, I want you in a few years to take over the practice from me.
+
+3 (20m 48s):
+Wow. It's a pretty great offer. I mean, for somebody who knew nobody in the area who just like previously year, year or two before learn how to do financial planning, the fact that he's really kind of taking you under his wing and saying, I think I want you to run this place. That's pretty great.
+
+4 (21m 4s):
+And it was very flattering. And I talked with Alon a lot about it, which for a moment, sounds very compelling to him as well. He said, well, if you do that, I'll be able to leave eBay and start my own thing. Right.
+
+3 (21m 19s):
+Because he'd already done it once.
+
+4 (21m 20s):
+It was obvious. It was, if there was something obvious in our life, it was that Alon is an entrepreneur born to be in tech. He, at some point will start his own company. I had no doubts. It was me that experienced stack for years, both in Tel Aviv. And later on, you know, for another year in New York that said, it's too intense for me. It's, it's not something that I can imagine alongside with having a family. And it wasn't an option for me not having a family.
+
+3 (21m 51s):
+I was alone coming home and talking. Were you talking through ideas? I mean, this is, so what we're talking about, the period of like 2002 to 2000 sort of six, seven, was he, was he constantly coming up with ideas or, or, or will you not really talking about specific ideas?
+
+4 (22m 8s):
+I think the first few years we're all dedicated to our new couriers. Yeah. Along was really, he built the API from scratch, you know, for eBay. And so, so he was very, very busy doing what he did there at the beginning. They didn't have it. Then he built it and then suddenly it became meaningful part of their business. And at this point we are already, you know, having a second child, we were so busy.
+
+3 (22m 37s):
+All right. So alone has this career at eBay, clearly with an eye to starting something down the road, you have a great career and are starting to earn, you know, decent money. You're mainly on a salary, but you could see a future where you could actually make a lot of money running this business. When, when Phil, your boss and mentor retires, meantime, you're living in Palo Alto. And I think you, you, you, around the time of the birth of your second son, you bought a house in Palo Alto, right? Yes. And this house is going to play a role in what's going to happen, because I guess this was a kind of old fashioned house. Hadn't hadn't really been remodeled when you bought it. It was sort of dated like eighties or right.
+
+3 (23m 20s):
+Decor and things like that. Fifties decor. Okay.
+
+4 (23m 24s):
+Untouched from the fifties too, was not just building the fifties. Nobody updated it from the people.
+
+3 (23m 30s):
+And when you bought it, presumably like most people who buy houses are a lot of people be like, oh, we can fix it up. We can do some things here and there.
+
+4 (23m 36s):
+Yes, of course. And, but we knew that we had to save money first in order to do that. And I remember Alan telling me, oh gosh, you know, we're going to put all our savings into this down payment price is so high here. If, if, if it will go down, we're broke.
+
+3 (23m 55s):
+And I think that you guys were so busy, you have two kids, you've got busy jobs. Like, yeah. Okay. We can, you can live with it, an ugly ceiling or a, you know, a linoleum, whatever, like 50, you can live with that. It's fine. And, and I'm assuming you did live with it.
+
+4 (24m 10s):
+We had no choice. We had no money when we finished paying for the house. We had very little left when you were going to live with it for awhile and we'll need to save again. You know, it starts, you know, slowly updating different parts of the house. That was the deal. We knew it. Yes, it was livable, but believable in a way that our tiny master bath was so tiny. And so small. And along these 6, 4, 3, he, he had to stand on his knees when he brushed his teeth in the morning and evening. Right. You know, it was that little.
+
+3 (24m 44s):
+Did you ever start to actually look for somebody to help you or a contractor or, or anything like that?
+
+4 (24m 51s):
+Oh yeah. So first we saved the money. So it was possible to do something, not everything but something. And we started looking for professionals, architects, and builders, and people to help us. And this is where we started facing some challenges. First finding good professionals that would be relevant for us was extremely hard. Our network was very, very limited to the people that we knew. And we ended up hiring someone that worked with us for almost a year on plans. And, and that process was so tedious and problematic because we were asked to run to the bookstore on university avenue and buy blocks and, and showing the books what we like and what we don't like.
+
+4 (25m 39s):
+And then just to hear from the architect or the people, you know? Yeah. That's very nice that you like this, but that's going to cost 10 X from what you have. So it's not an option. So frustrating took a long, long time to get plans in our hands for the first part of the remodel. And when we looked at it, we realized two things. One, we just don't like this plan at all. None of us like the plan and two, we can't afford it. We're so far between what we have in the bank right now and what this is going to cost us. And we had to throw it away after lots of money that we spent to, to get these plans and start all over again.
+
+4 (26m 20s):
+And we wasted more than a year on that. So that's on the bad side on the good side house was born because of that.
+
+3 (26m 32s):
+When we come back in just a moment, how a Dean alone channel their frustration into a side hustle until an expert tells them they're crazy for not turning it into something bigger, stay with us. I'm guy Roz. And you're listening to how I built this.
+
+Whoop (27m 0s):
+This show is brought to you by whoop the world's most powerful wearable health and fitness coach whoop isn't like other fitness trackers. It measures your vital signs, including heart rate, variability, resting, heart rate, and a fully phased breakdown of your sleep. Whoops, algorithms process, all of those data points to provide you with a daily, personalized recovery score, which you can use as a guide to know how you should approach your day, check out their woop four dot, oh, it's all new design includes biometric tracking like skin temperature, blood oxygen, and more. In fact, I recently tested it out for a few weeks and it's actually amazing to see all of the data that it gives you. It's pretty incredible sleep, better, recover faster and workout smarter with woop. The all new device is free when you sign up for a membership, go to woop.com that's w H O O p.com and enter built at checkout to save 15% off today.
+
+Audible (28m 1s):
+2022 has given many of us time to figure out what truly makes us happy. And with audible, we can have more of it. Audible lets you enjoy all your audio entertainment in one app, you'll discover exclusive audible originals from top celebrities, renowned experts and exciting new voices in audio. In fact, I just finished listening to barbarians at the gate, which was wow. It was quite a ride. And as an audible member, you can choose one title a month to keep from their entire catalog, including the latest bestsellers and new releases members get full access to a growing selection of included audio books, audible, originals, and podcasts. You can download or stream their included titles, all you want. And you can also listen to the how I built this book on audible. By the way, new members can try audible free for 30 days, visit audible.com/built or text B U I L T 2 500, 500 that's audible.com/built or text built to 500, 500. Hey, welcome back to how I built this
+
+4 (29m 13s):
+I'm guy Roz. So it's around 2008 and a D and alone are having one of those classic entrepreneurial moments where they realize that the problem they have is also a problem that lots of other people have finding good ideas for a home renovation and getting them to fit your budget. So during that year, we try to look for solutions for it. First, it was the problem of getting to good professionals that would really understand our style, be able to accommodate our budget and do what we want. Right? And so we looked a lot and the more we looked, the more we realized it's problematic.
+
+4 (29m 57s):
+It's many of the professionals in the industry did not even have websites. They had the listing in a yellow book or some directory or Legion sites, but you couldn't tell what it's all about, what are their expertise, what they are good at, what's their style. We couldn't get what, what we wanted online. And the more we tried, the more frustrated we became, how come we can do it efficiently? So that was it. That's, that's how it started. And, and Alon kept saying, it doesn't make sense. It doesn't make sense that it does is that it works like this. There must be a better way of doing it must be a better way of doing it.
+
+3 (30m 32s):
+I am trying to figure out at what point do you remember you or Alon saying, you know, maybe there, maybe we should just like build a website to make this easier.
+
+4 (30m 43s):
+Th the idea that the must be a better way for us doing it for people doing it was already, you know, forming itself in 2008 when we struggled with, with our own process, but not in a way of thinking, oh, and now we're going to build a huge company out of it
+
+3 (31m 5s):
+Or a business or even a
+
+4 (31m 7s):
+Business.
+
+3 (31m 7s):
+It was just like, let's just do it, this thing and see if it can make sense.
+
+4 (31m 11s):
+It was a neat, there was a need and the need was very clear. The more we talk to people in the community, we have a neighbor that is an architect. We have friends from our kids' school that experienced the same thing. When they try to remodel, we met some, some professionals during our process and we started asking questions. And the more we talked to people, the more we realize there are lots of frictions in, in this and this frustration about the process was something that professionals in the industry shared as well, because they were pointing fingers to us. And they said, Hey guys, you know, you understand that?
+
+4 (31m 53s):
+You're asking us to do something impossible. You're pointing your fingers to a picture that, that costs so much more than what you can afford. So educate yourself before you ask thing and don't blame us that you can do it,
+
+3 (32m 6s):
+Right? Because if you look at a picture in a magazine and by the way, this has not changed. Cause I follow a bunch of design things on Instagram, just to keep, just to keep my head into the craziness of the world. And I'll see like, you know, oh, we just did a simple renovation project, you know, in, in the middle of Sweden and it looks great. But then you realize that it was probably like two, three, $4 million, but you wouldn't know that from just looking at the picture. Right. And certainly not, not sort of looking at a magazine.
+
+4 (32m 32s):
+Correct. And so when we started building house, it was very clear to us that one, it needs to be very, very visual and too, it needs to bridge these gaps between what the professionals know in the industry and what the homeowners don't know, but should know. And all these data need to come attached to the photos, which is the uniqueness of house. Today, we have over 370 million metadata tag attacks to these millions of photos. So when you are looking at a photo, you don't just look at something you say, I like it. You know, what is that style? Which materials product layout were used, what was the budget who created it? Who are the professionals that worked in it?
+
+4 (33m 14s):
+You can ask them questions and that helped from the get, go to bridge some of these gaps. Okay.
+
+3 (33m 19s):
+All right. So just some nuts and bolts questions. So, so for example, in, in 2008, when, when you started talking about, maybe we can kind of tinker with this, you could pick up architectural digest, which you can still do today, right? And you can open a page and see a beautiful renovated room, but you can't obviously tap on the magazine and know what, you know, what the paint is or the color is of the brand is your, the, what you guys were trying to do is to essentially put that view of that room on a webpage, but that every part of it had a tag where you would know that, oh, that's a, a towel hole, whatever the motel holders called or there's a, you know, that fixture, I don't even know the name of that fixture.
+
+4 (34m 4s):
+It's more than that. It's even a layer before that. Even the fact that many times you see a picture and the person that is being interviewed is the homeowner. You know, it's a lab that build a beautiful home and they're interviewing about their home. You don't know who was the builder, who was the designer? Is it too expensive that I should be? Even if they mentioned the name that it makes sense for me to call them, or they're going to laugh in my face because my project is way too small for them. Right. And for us to make sure that these professionals can stand behind their work and say, that's my job. Let me explain to you what I did, how I did it, and that wasn't possible.
+
+3 (34m 42s):
+But so, so when in 2008, you and Alon are talking about how to solve this. How does it, w w what was the next step? Did he start to build a website? Like sort of an on the side and, and at night?
+
+4 (34m 59s):
+Yes. So it started with a website and he started programming. But when you program a website, you need somebody to choose the website besides us, in order to know if it's useful,
+
+3 (35m 12s):
+But just so just let me, I want to slow it down a little bit, because this is important. Some the details when he started to build the website, right, you had to get photos up. And the idea was presumably to get photos of completed renovation projects. So where did you go? Who did you ask for, for photos from?
+
+4 (35m 33s):
+So by that time, after working a year with multi-part professionals and also meeting different homeowners that have been through remodeling projects in our area, we had the first, you know, people to go to and say, Hey, we are trying to build this platform that we can all use, where we connect the dots, would you participate? And people said, oh yeah, sure. Why not?
+
+3 (36m 3s):
+And, and just for context, or you are still going to your job, you're still working in the, as a financial planner alone is still going to his job at eBay, correct. The name house was, did it have a name already at, at that point?
+
+4 (36m 18s):
+So we needed a website, right. To put everything in. It started with a website, not with the app and money was limited. Right. And so we went and looked for domains and obviously more common house names like house were
+
+3 (36m 35s):
+Not
+
+4 (36m 36s):
+Available, not available. A house was the closest we could get to house, which was a combination back then, the word buzz was heavily used with lots of consumer websites. It was a buzz to do this, a bus to do that. So, so we said, Hm how's with Tuesday zzz at the end, it's kind of, people can think it's, it's a combination of house and buzz. It sounds good. It's, you know, just five letters
+
+3 (37m 5s):
+It was available.
+
+4 (37m 6s):
+And it was available for $35
+
+3 (37m 8s):
+Because a made up word.
+
+4 (37m 10s):
+Yes. So $35, we didn't know.
+
+3 (37m 14s):
+Yeah.
+
+4 (37m 14s):
+So we said, okay, we can afford 35 bucks. And, and, and we got it. It was not yet open to the outside world. We were just, you know, using it with 20 parents from our kids' school that were the first users that provided feedback about it with the first set of professionals, mainly on the design side, architects and interior designers from Palo Alto and the bay area that we knew. And when we did it, we worked in the morning, came home, spend time with the kids, put them to bed. And then our second shift started at night when the kids were sleeping.
+
+3 (37m 53s):
+But I'm assuming once you got to that head space where you're like, I'm going to work during the day, and then I'm going to work at night on this thing. I mean, you knew that your husband had this dream of starting a business, but, but it sounds like, I mean, this is the first thing in like seven years that got you excited to, to help him start it. So clearly you must have started to think in your head, maybe there's something here. Maybe there is a business here.
+
+4 (38m 20s):
+Not for me.
+
+3 (38m 22s):
+No,
+
+4 (38m 23s):
+Not for me. I was so on my way, you know, to take over the business from fail. And I kept doing everything I had to do in terms of licenses and tests and, and taking over and meetings with clients in order to fulfill my agreement to him, you know, that at some point he can retire and I'll take over. And actually in my head, I, when we started seeing, you know, the ramp up of this, I thought, well, maybe that's going to be our lawns thing. You know?
+
+3 (38m 55s):
+So
+
+4 (38m 56s):
+He potentially may be able to continue with this. And with our plan that I will be the main supporter. And nobody thought about, you know, money, big business, you know, that was too big for us to think about these things at this point.
+
+3 (39m 16s):
+But when, when you, cause I know you, he sort of launched this in 2009 and two of you launched in 2009 and you started out really, there were photos from local architects, you knew and designers, and then you asked parents at your kid's school to get, get on the site and start using it, which is, you know, how most of us star, we asked people, we know, but then what do you do? Like where does it go from there?
+
+4 (39m 39s):
+It started growing by word of mouth. The minute that we opened it to the outside world and people could refer each other, the referrals started happening. It took life of its own really.
+
+3 (39m 51s):
+And when you could refer other people, once they were in, they could upload pictures without your, they could just upload it and fill in the data themselves. All right.
+
+4 (39m 59s):
+And we started getting, we had a little, no, there supported house.com, which Alanna and I would check every night. What kind of emails and requests and bugs and ideas. And you know, somebody from New York that would say, we see what you do in San Francisco, would you consider opening it in New York as well? Professionals told their homeowners. They worked with to use it, to tell them what they like homeowners told their professionals to use it, to show what they like. And it started spreading this way. And then we started being more proactive, inviting different groups from different locations.
+
+3 (40m 39s):
+I guess, what would motivate an architectural firm or an interior designer to put their stuff up on your site? Was it was free advertising for them,
+
+4 (40m 47s):
+Correct. Brand-building purely brand building in a way that didn't exist before.
+
+3 (40m 53s):
+So here's, here's my question. I mean, you know, you've got a website and you know, both of you have a steady incomes and stuff, but as people were using it, did it cost, did it cost a whole lot of money? I mean, I guess it was like, not that expensive to actually keep this up.
+
+4 (41m 9s):
+Well, at the beginning we didn't have that much traffic. It was us as users and our surrounding community. And I will say before it started expanding to the hundreds of thousands. We had the moment guy at around 20,000 users that we thought that this is it
+
+3 (41m 26s):
+Right. And that was what two or three months in
+
+4 (41m 29s):
+Probably several months in pretty
+
+3 (41m 31s):
+Great 20,000 users. And you were not advertising
+
+4 (41m 34s):
+True. We didn't have money to advertise, but, but it then got stuck on 20,000. And we were looking at Google analytics and looking at our data and he didn't go anywhere. And we did more, you know, of what we did until now. And we kept, you know, developing and adding content and enhancing the product yet. It got stuck at 20,000. And I remember that conversation that we had that maybe this is it, but I will not forget that. During that year, I got myself a meeting at D architect association in San Francisco, the chapter in San Francisco.
+
+4 (42m 14s):
+And I went to pitch the idea to them.
+
+3 (42m 17s):
+I did pitch the idea of what, what were you pitching for them to contribute to the, yeah,
+
+4 (42m 22s):
+Join, create a profile of all your portfolio and become part of the community. And I went to meet with the board. There were 17 people around the table and there were different voices around the table. Some people were very business oriented. So they said, well, we'll encourage all our members to upload portfolio. If you'll sign up an agreement that if you ever try to monetize, it will be excluded from, from anyone at monetization attempts. We will build our work portfolios, but, but you will never charge us
+
+3 (42m 58s):
+For it. They didn't want you to make any money off of it.
+
+4 (43m 1s):
+Correct.
+
+3 (43m 1s):
+And obviously that would make zero sense. I mean,
+
+4 (43m 4s):
+Of course when I said, wow, it's not the business, I'm not monetizing it right now, but I cannot guarantee something that I don't know how this is all going to evolve. Or what I can say is you have a lot of benefits in it. See all those that already joined, you know, what's, what's happening to them. And they said, well, we'll think about it and get back to you. Okay. And I left the meeting and I swear got 24 hours later. I started seeing some board members that were sitting in that meeting, uploading like crazy all their portfolio to house. And I told them something is working here because if I just talk to them and that's the reaction, but then I go back and that's what they do personally for their business.
+
+3 (43m 52s):
+So
+
+4 (43m 52s):
+That was a good signal that,
+
+3 (43m 54s):
+And did that begin then a surge of new new users?
+
+4 (43m 60s):
+I wouldn't say the Dame moved the needle, but it was a signal that the idea is sinking. So we kept jumping and we started expanding it in different directions.
+
+3 (44m 12s):
+Okay. Here, here's the question for you? How are you doing that? And also keeping a full-time job.
+
+4 (44m 20s):
+A lot of it was done nights and weekends, literally nights and weekends. We started getting some folks from our community and friends that to be involved beyond just being users, right. And offer their help on different fronts. One offer to help build more present on social media sites, which were very, very new at that time. Like, you know, Facebook, Twitter and so on. And another one was a designer and offered a lawn to start working on the design side and, and, and potentially give a facelift because I landed a great job, but he's not a designer.
+
+4 (45m 4s):
+Right. And, and so nobody worked full-time job, but we started getting very passionate, interested friends and people around us that wanted to help us. And, and so it was very little, but it helped a ton.
+
+3 (45m 20s):
+So 2009, by late 2009, because you're working at the financial firm planning firm and then coming home and answering emails from support and trying, I mean, this is like, I can't even imagine the number of emails that you were facing on a day-to-day basis now. Yes. And, and, and so at this point, we're either of you, or you were alone, even starting to think about quitting your jobs to work on this full-time
+
+4 (45m 48s):
+I didn't think that we're both going to do it. I, at some point started thinking maybe at some point along, we'll be able to do it. Full-time if it will continue evolving like this. And then we went on a social event from our little son's preschool and I was chatting with different people. And then I met this nice grandparent of one of the kids and, you know, chit chatting. And he was a former Israeli too. So it was very easy to start a conversation about something, about living in the area and moving and differences and so on. I don't know how I got to mention this side leader project to which keeps me also very busy at night.
+
+4 (46m 29s):
+And then I tell him all about it. And the more I say things about it, the more questions he asks. So obviously someone is in front of me that understands home remodeling very well. Apparently he owned multiple homes. And so we decided to talk afterwards. He asked me to send the link to the website and I said, sure. I said, I love homes. I love renovation. I did multiples in my life, you know, send me the link. And I sent him the link and then he calls me afterwards, his name is Amos. And he said, are you crazy? How many users? You said you haven't. And I tell him,
+
+3 (47m 5s):
+You know,
+
+4 (47m 6s):
+We did have a few hundred thousand monthly users at this point. And, and thousands of, of, of professionals with portfolios, very, very active working with this homeowners. And, and he said, and how much money did you invest in it? I said, well, right now we're paying $2,000 for the servers. But you know, we sponsor it from Our time, which is a lot, but our time is it? And why aren't you raising money for this? He said, well, you know, it's kind of really fun that it's our thing. Nobody tells us what to do. We don't want to any investor to come and ruin this fun.
+
+4 (47m 46s):
+And we really don't need it. It's expanding like this. And when he said, you know what? I think that you're making a mistake. I'll just say this. If you got to this point with no money from investors, without tons of engineers helping a loss to program, or to you to build this community, or all these things happen. If you're not going to raise money, somebody else will realize what you're doing, what you're doing, they will raise money. There will copy you. And you will say goodbye to this initiative. So my recommendation to you think carefully, if you don't want to raise money, and if you do, I'm happy to help you to do.
+
+3 (48m 23s):
+And did he have money to give you this, this guy, his name is <inaudible>.
+
+4 (48m 28s):
+He actually did. And I didn't want to. So after talking with Alan for a while about this, what I got at this point, I realized that Amma's as <inaudible>, he is an interpreneur that built multiple companies. The last one, he took public and then sold for 4 billion to MMC networks. So not exactly the guy from the street, just giving me advice, somebody that understands something, and I called him back and I said, you know, we may may consider it, but two things, one, we don't want to find VCs or investors that will tell us what to do.
+
+4 (49m 9s):
+We are really on a path here, and we want to invest in the product and user experience and expand this community significantly before we even think about the business here and how to make money,
+
+3 (49m 21s):
+Because you had no business model, you know, business model. At that point, it was just getting people into,
+
+4 (49m 26s):
+We didn't make any money. And, and we said, there are lots of things you can go for. And, and different ways to monetize this. At this point, Google already reached out to us and said, you have, wait,
+
+3 (49m 39s):
+How did they find out about you?
+
+4 (49m 41s):
+So one of the users was working at Google and you know, the ads part and, and he, you know, saw how much activity we have there because he was an avid user. And then they reached out from Google and they said, why aren't you putting some Google ads, stair and monetizing it? And we didn't want to,
+
+3 (50m 3s):
+So,
+
+4 (50m 4s):
+No, we didn't want to clutter the experience. We didn't want to tilt our focus at this early stage from product development and user experience and our mission to how do we make a few dollars out of it right now? So what I told AMAs was we need to bring investors that do it at our pace, our way, not put pressure on us now to monetize it right away. Doesn't matter what else we care about. And so AMA said, I I'm happy to, to help you with that. And I can invest too. And I said, no, and that's my second thing. I must not just, they need to meet the right investors. That will agree to do it our way. I want you to stay on our side as a mentor.
+
+4 (50m 47s):
+I don't want you to be on the other side as investor. And he said,
+
+3 (50m 49s):
+You told him he couldn't invest in it.
+
+4 (50m 51s):
+That was my immediate ask. Yes. That he will not invest so that he can advise us, you know,
+
+3 (50m 58s):
+Both. But I got you. I hear you. I mean, this poor almost, although he already sold a company for 4 billion,
+
+4 (51m 4s):
+But he needs our little project for, for the money. But he was, you know, by our side, we met once we decided that we're going to explore it our way, no decks and presentations on sand hill road. That was a big no-no.
+
+3 (51m 20s):
+You didn't want to go down and see, you didn't want to go to the Sequoia, capital and benchmark. And also you don't want to do that. You don't want to sit in front of a bunch of VCs with a deck to answer questions.
+
+4 (51m 28s):
+Not just that. I didn't want to put imaginary numbers on a deck where all, what I wanted to put on the deck is how much fun it is to grow a community that is adopting it and sharing it with others, by word of mouth and our product roadmap and how big that can be given what we're seeing. Now, I didn't want to put, you know, imaginary numbers and, and, and business models that we can all tell how people do. Then I know I didn't want that at all.
+
+3 (51m 56s):
+Right? Cause it's all fake numbers. It's all during the pitch is all fake. It's all invented numbers.
+
+4 (52m 1s):
+I didn't want that. I wanted somebody that will see it fall in love with it. Say, I love it just the way it is. I like it. I'm behind you take the money, keep doing it.
+
+3 (52m 11s):
+That's great. I mean, it's a great position to be in, right? Because it actually reduces the pressure in a sense that you're not like desperately looking for money, but at the same time, you know, that, that if you were going to make this into something full time, like a real company, you would need some, some investment capital. Right. And, and, and eventually you did, like you did in an, I think what, like $2 million you raised just to start this thing. So how did all of, all of that come about?
+
+4 (52m 45s):
+Yeah. So, so just for you to know about the 2 million back then, we were spending so little and accomplishing so much when Amazon asked me how much money I think that we've want to raise. I said, well, see how much we do with $2,000 a month. Can you imagine, you know, what $1 million will do to the business, not being naive, just really thinking about how much we care, you know, squeeze ourselves, you know, and, and get out of ourselves, you know, for this. And so he said, well, if you think that you want to raise a million, then at least raise to have some buffer there. I really want you to have cushion to hire a top engineers and great people.
+
+4 (53m 29s):
+I recommend that you'll consider two instead of one that's okay too, but not more, not more. And so we ended up meeting through the small network that we had back then very, very few people, very casual environment, either at our house or, or a coffee place. Very, very casual. And I think Alan was the one who met outside of the house with orange first.
+
+3 (53m 57s):
+And I should mention, this is Oren Sev, who, I guess, who, who becomes an important investor in house. And he's, he's a, an angel. I don't know him, but I know about him for three. And by <inaudible> it was an angel investor in Silicon valley.
+
+4 (54m 12s):
+Well, well, most Andrews at that time were investing small amounts. Again, we're talking about the early 2050 100, maybe 200 K in each startup. We called it a spray and pray, you know, approach for Angeles. He had a very different approach. He invested in very, very few companies every year, just his own money, but much larger amounts. And so that was Orrin and not the typical NGO, but we met him. And after that, a few days later, I was, I was on the phone with him and the lawn was on the, you know, connecting.
+
+4 (54m 55s):
+And we were talking business with Oren and Orin said that he wants to invest and he can give us the money by the end of the week. And this was, you know, it just a few days after we met to put, you know, such a quick offer on the table of $2 million, that was kind of our remember and I've remembered the scenery. Like, like it was yesterday because the kids were quite young and they were throwing oranges at each other. And I was trying to tell him why it stopped throwing this all over the house. And that was such a mess there, but hilarious. And to said, yes, I'm interested and I'm behind you. And I'm telling him, does he even know what's going on in the house right now, when he's giving us a proposal to give us $2 million
+
+3 (55m 40s):
+And had you, by the way, and had you and, and, and alone put a value on the company to just say, yeah, you know, we think it's worth $10 million or, or not really not yet.
+
+4 (55m 50s):
+So not naive because we came from this universe, but we were never in all the rounds that they send, the ones that came after we're so not fixated on what's the valuation should be, it was almost not ignoring it, but it was really down in terms of our list of priorities down to least. And, and the reason was I was so certain that we have to bring the right investor that would really let us do it our way that it doesn't matter. What's the valuation or how much we need to give that person. If it's the wrong person, it will kill everything. And if it's the right person, it can change everything.
+
+4 (56m 31s):
+And so I built a lot of trust with aura. And during that process, it was almost hard to believe what he did for us, because he was so honest with us, walking us through a term sheet and showing us line by line, what he's proposing. And he could have go the other way around which many investors do too, in a sense, first time founders that are founding a company in the us like this, but he didn't. And he said, I'm founder friendly. I may take more, but I, I give you a lot of freedom and I will sit in the backseat and that's your right? He said, all the right things gave us all the right terms. And the valuation didn't matter at all.
+
+3 (57m 12s):
+So July, 2010, you raise that $2 million. They get the Zev orange avenue, a small group of investors take 35% stake in the company at that point, were you ready to quit your job?
+
+4 (57m 28s):
+So just before we closed that round with, with Orrin alone, and I had that conversation,
+
+3 (57m 34s):
+He said, I need you to run this thing with me. Is that what he said?
+
+4 (57m 39s):
+He said, D I know you have this deal with feel. I know that you invested a lot of time, energy effort studying in this, but I think you love doing house more. And I think that you should seriously consider, quit your job too, as I'm going to do common, do it with me. And I also think that you should be the CEO. So that was a launch girl to me. And it's not an easy thing to consume, but he said
+
+3 (58m 13s):
+It. And did you immediately think, okay
+
+4 (58m 16s):
+Now?
+
+3 (58m 17s):
+No.
+
+4 (58m 17s):
+I think for many people, including myself, I'm not any different. It's very hard to stop the way you were thinking until now, and completely changed direction without digesting it all the way, the implication of what you're doing, especially if you are very, very invested. And it's not that I was in that bad place. Right. I felt like obligation to, to feel to the business. I invested a lot in it, and I had very different thinking during that path about how I see my life. Many times you have expectations from people around you, from family, from yourself, and you have, what did I do? Did I just waste my time?
+
+4 (58m 58s):
+All this year is doing all bus for what? And I'm going to start all over again. But the honest truth was when I asked myself, what would I be more excited to do when I wake up in the morning, it was definitely that.
+
+3 (59m 12s):
+And you told Phil your boss at, at Commonwealth financial, that you were leaving, that you were going to do this thing full time. I mean, presumably he knew you were working on this because, right, because I mean, you you'd already told them about it. So what was his response? Was he like disappointed in you or did he kind of let you go on piece
+
+4 (59m 34s):
+He's first reaction was I knew what this sparked in your eyes. When you talk about this, I can't replicate it for you in the business here. I just can't. I knew you. I knew you're going to do it. I'm sad for myself, but I'm happy for you
+
+3 (59m 54s):
+When we come back in just a moment, how a D and alone continue to grow house without paying to market it and how the pandemic totally changes the trajectory of the business. Stay with us guy rise. And you're listening to how I built this.
+
+6 (1h 0m 25s):
+Hi, does today feel fast? Most days do. It's just how the world is wired. We're always pushing and in some ways that's good. As our lives get busier, we have to give ourselves a little time, a space to unwind. That's why we created become, become as a podcast. Sure. We like to think of it like an audio vitamin, a small thing you can do for yourself. A daily dose of relaxation and mindfulness there's short and easy.
+
+6 (1h 1m 6s):
+And just by pressing play, you're already there become is your space to unwind, listen, exclusively on Amazon music, or simply tell your echo device Alexa, play the podcast become,
+
+3 (1h 1m 29s):
+Hey, welcome back to how I built this I'm guy Roz. So it's 2010 and a D to tarko has just quit her job in finance to be the full-time CEO of house and invest your orange Zev has just put in the first big chunk of money. And of course, at some point down the road, how's, we'll monetize through commissions on its marketplace and a subscription service for home builders and designers. But at this point alone at a D are not really thinking a whole lot about the business model.
+
+4 (1h 2m 4s):
+We felt it's so early and there is so much to do in terms of building the product and user experience that it would be wrong to tilt our attention to monetization at this stage. And we actually told that to Orin, he invested and Oren said, I'm with you. The one thing that Oren D change our opinion about when, when he invested, we told him that we probably don't want to talk to VCs for a long, long, long time. Probably not until the point that we will be ready for monetization. And six months in orange changed our one mind.
+
+4 (1h 2m 45s):
+He said, look, if you want to bring top talent, top engineers compete with companies with a lot of money. It would be very helpful for you. If you have a top tier VC backing you off, that's my opinion. If you don't want to do it, that's fine. If you do, I'm happy to make some intros.
+
+3 (1h 3m 6s):
+And you ended up getting money from Sequoia capital, which is one of the top venture firms in the world.
+
+4 (1h 3m 14s):
+Yeah, I feel very fortunate because we didn't even, we, again, no deck, no numbers, no imaginary things, a meeting at the office, showing the website, showing the numbers and T at a local, you know, place in downtown Palo Alto. And in that meeting, they looked at each other and they said, we're going to give you an offer.
+
+3 (1h 3m 35s):
+Well, a D when you, after that round, I think it was almost $12 million. You had money. This is December of 2011. You had real money to hire really presumably really great engineers and designers. And I think by 2012 you had about 26 people working for you. But how are you? I mean, how are you growing the site? Was it still growing organically? Because it is a tribe, right? I mean, designers, architects there, I'm assuming that people heard about it through them, but you also needed ordinary people who are not designers and architects. People like us to go to the site to just start using it for their home renovation.
+
+3 (1h 4m 17s):
+So was it, was it word of mouth growth or did that money also allow you to start to do paid marketing?
+
+4 (1h 4m 24s):
+Now? It, it, it was for years until we even started with the paid marketing, we were very fortunate on that front. The expansion kept, you know, happening organically by word of mouth. We didn't have to pay for it. And, and we could only focus on bringing the talent, invested a lot of our money and time and energy finding this talent. In fact, Alon and I, for years spend 50% of the time interviewing people. That's what we did in the first few years. And we did it across the board. When we decided to build the sales team, then I interviewed all candidate until we got to 150 solid salespeople on the ground.
+
+4 (1h 5m 8s):
+And when we decided to expand internationally, every engineer, every product manager, every designer, we interviewed them all. And it took a while until we, okay. We have a solid foundation here.
+
+3 (1h 5m 21s):
+I'm wondering a D I mean, yes, you have Sequoia behind you, which is a giant, right? And that, that sends a signal to pretty much everyone else that this is forced to be reckoned with when they back a company, but still, you know, I wonder, I mean, you know, wonder why, like Facebook, didn't just try to do something similar. I mean, were there other companies or, or any of the giants out there trying to, to compete with you early on,
+
+4 (1h 5m 52s):
+Not specifically Facebook that you mentioned, but there were definitely attempts by different players with much more money and recognition. And well-known in the industry lucky as it was not all the way and too little too late, and these initiatives were a down,
+
+3 (1h 6m 15s):
+Did you get nervous? But I mean, did any of them ever make you nervous that you, we gotta hurry up and get ahead of these guys they're coming after us?
+
+4 (1h 6m 22s):
+I, I think that the mindset was always, we are very unique because we have that robust, enormous global community that has both the homeowners and professionals. Right? Today we have 65 million homeowners in the community and 2.7 million professionals. And we have very deep where the only ones who can, first of all, introduce them to each other. And this is like a flywheel. One is bringing the other. And that is a huge differentiation when you are the technology platform and you're providing tools to both sides and both sides come to you, they're always going to be others. And the fact that there is interest in this industry, and somebody want to copy something from us, it's actually flattering
+
+3 (1h 7m 8s):
+I D who helped you and alone see this as a really big thing, because you even up until the middle of 2010, you, it sounds like the two of you were not much sure what this could be, but like you raise money in 2010, $2 million. By 2014, the company has done a, a funding raise at a $2.3 billion valuation, like three and a half years in. I mean, that is crazy if you think. And why did you, I think admittedly, you didn't see that in 2010, you didn't see that it could be that big.
+
+4 (1h 7m 49s):
+I think that, first of all, in the first few years we realized that this is a huge industry. Okay. And home is such an important thing for people. And, you know, the second expand after they pay for the house is to actually customize it and build it and renovate it for, for themselves. And we realized along the way, there is so much more where barely scratching the surface in terms of the product we can develop for our community and for both sides of the equation here. But I don't think we ever sat there because we never created this describes saying, and this is what it's going to be.
+
+4 (1h 8m 33s):
+And I was always very down to earth. That's what we deal with right now. Yes, there are lots of different opportunities down the road that can be expansions in so many different directions, but right now what we're dealing with is so big. And so changing the industry, that this is what we want to do.
+
+3 (1h 8m 50s):
+D I'm curious about working with your husband and I, and I say this, I should say, in all being Kennedy, I work with my wife. She, she, she runs our production company. How do you, how do you kind of divide and conquer? I mean, do you both have your sort of areas of interest and focus and, or do you also, and this is not, I mean, it wouldn't be surprising, but you also have areas where you just really disagree and just, and have like arguments over.
+
+4 (1h 9m 17s):
+So it's everything, I think day to day, obviously we're both involved in everything. You don't always agree. And sometimes Alon will convince me that something is better, you know, this way versus the other. And sometimes I will convince him and sometimes we'll let you know, other folks in the company convinced both of us that there is a, another way of doing it and that's better than it's okay. Also to make mistakes and then realize that maybe there is a better way of doing it and change things.
+
+3 (1h 9m 49s):
+What is it about alone that makes it work, that where the two of you actually not only have created this business, but, but seemed to really like to, to work together.
+
+4 (1h 10m 2s):
+I will start with the end of it. I would never do it for someone else. Yeah, sure. Ah, this is crazy. And I, and I need to have somebody that I truly and fully trust 100% when founders are strangers that can work as well. But many times, what I see is we had different points of view or we, we were in different stages in life. One wanted to just sell and move on. The other ones felt like can do it forever. We are hearing sometimes founders that are coming from the same background. So there is a lot of ego of who's going to dictate what I, we just don't have these things. Yeah. And while it comes with other challenges, like balanced of home and kids and the company, and as Orrin once told me, and I really remember that conversation when I not complained, but I vented, I said, it's such a crazy time.
+
+4 (1h 10m 58s):
+Or, and I don't know what I'm doing. You know, it's so crazy with, with the kids. The kids were young and, and he said, you're very fortunate that day, because all the good things that can happen in life are happening to you and you choose to embrace them. So just choose to enjoy them. You can be at the peak of your career when you are 20 and probably not, when you are 70 or 80, and you also can't raise your family and, and your young kids at these two extreme ages for most people, it happens at around the same time at your age. And you decided, which is a choice that you want to have both. And you are juggling between. So embrace the fact that you are fortunate to do it, enjoy it.
+
+4 (1h 11m 42s):
+And he was so right. So right about it.
+
+3 (1h 11m 45s):
+You've been quoted talking about co you know, the sort of quote, work life balance thing, and previous articles. But I wonder, and you've talked a little bit about, you know, some of those experiences that you had around just like, you know, the, the kind of this pressure that you felt, but did alone also feel that pressure as a, as a father.
+
+4 (1h 12m 3s):
+I think that there is a difference between in, in society between mothers and fathers and Alon is an amazing father, but I will say mothers and fathers either by nature or society expectations, or both are wired in a different way. And I think at least I can talk about ourself. It's, it's almost like you, this child is born with that potential baggage of guilt. I'm not doing enough. I'm not there enough. I need to do more. I need to do more. And I think mothers have more in this bag than, than dads in general.
+
+4 (1h 12m 45s):
+I'm generalizing. And again, not to take anything from him because he's amazing.
+
+3 (1h 12m 51s):
+And meanwhile, I mean, house was just on this, this growth tear. I mean, from the time that you launched until, you know, just, just every year it was growing and, and new products are being created and it spread internationally. And then the pandemic hits and yes, and like a lot of companies you guys struggled at first, I think you even had to do some laughs, but then pretty quickly things started to turn around, right. People were starting to use their homes working from home too, and they're starting to renovate their homes because of that. You actually had like crazy record growth in, I think in late 20, 20, 20, 21. Is that right?
+
+4 (1h 13m 32s):
+Yeah. So what happened is we indeed face all this challenges at the first few months of the pandemic, but then several months later when things started, you know, opening up some trends that we saw prior to the pandemic started accelerating big time, right? So there were three trends, big ones that we saw in the industry prior to COVID, especially in the us, but some of them were very relevant in other markets
+
+3 (1h 14m 1s):
+Too. And what were they?
+
+4 (1h 14m 2s):
+The first one was the baby boomers. That's the generation that is heavily remodeling and preparing their homes, you know, for the next
+
+3 (1h 14m 11s):
+Phase for retirement.
+
+4 (1h 14m 12s):
+Correct. And this definitely accelerated big time during, and, and, you know, the pandemic, th the second one was home equity that was at record high
+
+3 (1h 14m 25s):
+People, taking it home equity loans.
+
+4 (1h 14m 27s):
+Yes. And, and the third was, especially in the us lots of aging homes that are 40 years old or more, that needs massive repairs build up and renovation like our husband, we got it. Right. And so these trends were there prior to the pandemic. And the reality was not just that these three trends accelerated, I think, many homeowners wanted and still want to reimagine their home. And, and the functionality of this home now that COVID created a different reality. We used to work from the office.
+
+4 (1h 15m 9s):
+I didn't have a home office at home guy. I didn't, because I didn't need one, but all of a sudden, not just that I needed one Alani that his space and my kids studied from home the whole year, and many homeowners wanted to leverage every single inch of their home. And they wanted it now because they needed it now. And professionals need to keep up with this space. So yeah, it really changed the dynamic. And I think it's here to stay because our mindset about our house completely changed. Yeah.
+
+3 (1h 15m 42s):
+D you've been at this now for 12 years and it's, it's, it's pretty clear. There's been talk about an IPO and it'll probably happen at some point. Maybe even this year, you are young. I mean, you're not yet 50. You have, you can do another company. You could, she could run a foundation. There's lots of things you could do. You could do it pretty much wherever you want. Do you, do you, do you, are you excited about the idea of running a public company and doing quarterly calls with investors and reporters? Is that something that appeals to you?
+
+4 (1h 16m 14s):
+I think that the next phase or level of the company should not be a goal or a mission by itself, different milestones of raising funds, privately, publicly adding partners. Investors are just supporting avenues along the way to make sure that your path is, is, is conquered there and you are getting to the place you need to get. So then when I put myself in all this, I say, am I excited about it? I'm not offended. I don't think it's relevant. You know, I once was interviewed by a reporter and just before me and in New York, they interviewed someone that about parenthood and of research that was done among many, many parents.
+
+4 (1h 17m 3s):
+What are the ages of your kids that makes you more excited about and which ages you're kind of not excited about or prefer to forget? And I take the whole package and whatever is needed in order to provide what I need to my kids at every age, including the less compelling ages. And I take the, and look at all the beauty that comes with each stage. And this is how I see my role as a founder of this company at any stage, there were many different challenges. And at any stage there was spin every stage. There was so many great things to be inspired by, to look forward, to, to be happy about, you know, we grew from being the first two homeowners to 65 million homeowners that are using cars today.
+
+4 (1h 17m 49s):
+So it's unbelievable for me to even say it, but I'm still a user. And I feel very grateful and fortunate, but I'm not the story. The story is, you know, how do you take these fortune and, and what do you do with it? I just feel very, very lucky on that front.
+
+3 (1h 18m 5s):
+Yeah. I mean, let's talk about luck because you know, there's always an, I, I believe there's always an element of luck, but I'm wondering how much of that you think is a factor. You know, you, you, you met Alon on, on a bus, you were, it was a seat next to him. And that's, that was just seat you took, you know, you met this guy almost on a kid, one of your kids, field trips or school trips, and that led you to a group of investors. How much of the journey of housing, what you guys built do you think has to do with, with those lucky breaks and how much do you think has to do with just your, the work that you guys put into it and, and your intelligence and hard work?
+
+4 (1h 18m 47s):
+I think that 90% of it is, and again, some people describe it as luck. Other will say, coincidence, being at the right place. I, the way I see it, I think we all have different opportunities surrounding us every single day. Tons. We just need to open our eyes and look and be fair with ourselves. Because many times we think that we walk in a certain path and I'm saying it because I, well, I can complain to you until tomorrow about, I didn't want to live in the suburb. I feel that we were very fortunate that we moved here because lots of amazing things happened in the Silicon valley for us, that I'm very grateful for.
+
+4 (1h 19m 27s):
+And I could tell you that, you know, all my goodness, I choose to stop financial planning after investing so much in it. But I feel so fortunate that I did because see what happened.
+
+3 (1h 19m 43s):
+That's a <inaudible> co-founder and CEO of house, by the way. Did you ever, did you ever finish renovating that house or did you just did just like give up on it and move to a new house
+
+4 (1h 19m 57s):
+Still
+
+3 (1h 19m 57s):
+In the same
+
+4 (1h 19m 58s):
+House, the same house
+
+3 (1h 19m 60s):
+Renovated. Now
+
+4 (1h 20m 1s):
+Renovated, now that
+
+3 (1h 20m 2s):
+It's done,
+
+4 (1h 20m 3s):
+You know, a house is not walls. A house is place to create memories with the people you love the most. And this is how I see this house. It brought so many great moments to our lives and to our kids' lives. And, and that's what it's all about. It's, it's nothing else.
+
+3 (1h 20m 23s):
+Hey, thanks so much for listening to the show this week, by the way, if you want to hear every episode one week early, check out Amazon music. And if you want to listen one week early and add free subscribe to wondering plus in apple podcasts or on the Wondery app, and please do follow us on your podcast app. So you always have the latest episode downloaded. And another way to support our show is by filling out a survey at wondery.com/survey, if you want to contact our team, our email address is H I B t@iddotwondery.com. If you want to follow us on Twitter or Instagram, our account is at how I built this.
+
+3 (1h 21m 4s):
+And mine is at guy Ross on Twitter and on Instagram at guy dot Roz. This episode was produced by Josh lash with music composed by REM teen era bluey. It was edited by Neeva grant with research help from Margaret Serino. Our production staff also includes JC Howard, Liz Metzger, Alex Chung, Carrie Thompson, Catherine cipher, Elaine coats, John Isabella, Christmas Sini, and Carla STS and guy Roz. And you've been listening to how I built this.
+
+3 (1h 21m 48s):
+Hey, everyone. So I want to make sure you know, all of the different ways you can listen to how I built this. As you probably know, you can follow the show on Amazon music, apple podcasts, or wherever you're listening right now, but a one let you know that you can actually listen to the next episode of how I built this today. One week early on Amazon music, you can also listen to it early and ad free by subscribing to Wondery plus an apple podcasts or on the Wondery app. Please do follow us on your podcast app. So you always have the latest episode downloaded. And another way to support the show is by filling out a survey at wondery.com/survey. And thanks.

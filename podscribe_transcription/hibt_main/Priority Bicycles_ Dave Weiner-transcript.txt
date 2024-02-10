@@ -1,0 +1,728 @@
+0 (0s):
+Wondery Plus subscribers can listen to How I, Built This early and ad free Right. now join Wondery. Plus in the Wondery app or on Apple. Podcasts,
+
+Peloton (11s):
+When you find something you love, you stick with it. Like this podcast and like working out with Peloton and with up to $950 off Peloton purchases this holiday. Bring home a Peloton bike. Bike plus, or tread and workout like nobody's watching. Unleash Yourself. Ride, run box or freak the hit out. It's your workout, your rules. I always find myself looking forward to my next ride with Peloton. For Pelotons best offers of the season now extended through December 5th, head to www.one peloton.ca/offers all access membership. Separate terms apply
+
+2 (48s):
+7:30 AM work starts in 30 minutes. It takes 25 minutes to get there. So you wrap the door down the stairs, grabbing a coffee on the way. The Breakfast of Champions, you glance down at your watch, 7:58 AM Your big meeting starts in two minutes. You've been prepping for it all month. You pause. Then remember, you are a champion. You've got this inhale, cool mint and exhale confidence. Excel gum. Do what feels fresh,
+
+5 (1m 19s):
+Did You know you are physically adapting to all your swiping. scrolling and tapping.
+
+3 (1m 24s):
+We're changing our bodies and what they're able to do through our habits.
+
+5 (1m 30s):
+NPRs Body Electric, a special interactive series investigating how to fix the relationship between our tech and our health. Listen in the TED Radio hour feed wherever you get your podcasts.
+
+0 (1m 47s):
+Now you're a full year end the business, right? August of 2015. Yeah. And you had that really successful initial Kickstarter, but a year later, not much. Not much Action. Yeah.
+
+6 (1m 60s):
+The classic bike was still doing well. So I knew that we had a win that could carry the company though it couldn't carry me. Yeah. And now I'm, I'm pretty deep. I have one successful product. I have one unsuccessful product. I know that the way I can grow this business, it, it is simple in theory and hardened reality. I need to have a bike that changes everything.
+
+0 (2m 35s):
+Welcome to How I. Built This. A show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. I'm Guy Raz and on the show today how Dave Wiener quit his job in tech to build a bike that wouldn't rust or need a new chain. And grew Priority Bicycles from a Brooklyn startup into a major player in bikes. Back in the early days of this show, we used to run a segment called How You Built That. And it was where founders of very small mom and pop businesses could tell us their story usually in two to three minutes.
+
+0 (3m 20s):
+Anyway, one of those companies was founded by a guy named Dave Weiner. And at the time, and this was back in 2017, Dave was barely three years into founding his small bicycle company. So we heard a bit about it. Dave talked about what made the bikes different, and we parted ways. But six years on Priority, Bicycles has become a formidable brand. So today on the show, we're bringing Dave back to tell the full blown story of how he built Priority. Now, initially the idea was to make a low maintenance bike at an affordable price, and Dave's bike would include things like disc brakes, puncture resistant tires, and internal gear hub.
+
+0 (4m 3s):
+And most importantly, instead of a metal chain, his bikes would have a carbon fiber belt drive. Now, normally components like these would drive the price of a bike up to three or even $4,000. Only super high-end bikes had these features, but Dave wanted to price his bikes at under a thousand dollars. But to do that would require a whole lot of engineering and an entirely new business model. Dave decided to start priority after a career in computer software. It was a risky pivot because his job was steady and the money was good, and the bike industry is a hard nut to crack.
+
+0 (4m 44s):
+Three companies tend to dominate sales, at least in the US giant specialized and Trek. But over time, priority managed to carve out a place for itself. Dave would have to draw on his skills from his first career in software to handle the challenges of selling these bikes, including the chaotic rollout of his first models after an unexpectedly successful Kickstarter campaign and an explosion in demand during Covid that basically emptied his warehouse, followed by a big fall off in bike sales this year, which has affected the entire industry. All along though, the driving force behind Priority Bikes was rooted in Dave's own love of cycling, which began when he was a kid riding around with his friends in a small town in northern California.
+
+6 (5m 34s):
+I loved riding my bike and my friends and I went riding. That's what we did after school. It was a You know, long before there, there were kids playing video games, right. We, we were mountain biking and we loved it. And that was absolutely my passion and still very much is.
+
+0 (5m 51s):
+So you grew up really like, like a lot of kids just into, I mean this is the, the other thing, the eighties and, and Right. All you have to do to understand the eighties is just watch et because that's all they did. They biked around and sometimes they'd have an alien in the basket of the bike and that's what like kids did.
+
+6 (6m 9s):
+It's spot on. We, we got home from school, well, first off we rode our bike to school and then rode our bikes home and then stayed in front of the house or down the street at the mountain. And yeah, not only did I like to ride my bike, I love to work on it. Right? I, I like changing my bike and fixing my bike and making my bike better. And then I, I loved working on the neighbor's bikes and doing it everything I could to be involved in how the bike worked and how to improve it.
+
+0 (6m 33s):
+This wasn't just about putting like a playing card in the spokes to make the sound, which I did. Every kid seemed to have done that in the eighties. You'd put a play like wrap playing cards and rubber bands in the spokes. I dunno if kids,
+
+6 (6m 46s):
+I think it, I I think it was more, yeah, it was playing cards, not like a baseball card. You need like a wax coded playing card.
+
+0 (6m 51s):
+Wax that right. Playing cards to
+
+6 (6m 52s):
+Make that. Yeah, that's right. That's
+
+0 (6m 54s):
+Righting sound. Yeah. Yep.
+
+6 (6m 55s):
+Yeah, that was fun.
+
+0 (6m 56s):
+And, and in high school you got jobs at bike, bike shops, right?
+
+6 (7m 1s):
+Yeah, so I was fortunate enough to work for the local chain of bike shops. Had a wonderful owner who took me in and let me learn, let me extend my knowledge of how to work on bikes through their mechanics, which were all great with me. And, and I, I learned a lot more about how a bike shop ran.
+
+0 (7m 21s):
+Hmm. Yeah. So, alright, So for college, I, I guess you studied business at uc, Santa Barbara. And, and I guess you, you also got a a a pretty solid background in in like it, because I guess all during college you worked at a company that, that did like software for bike shops.
+
+6 (7m 41s):
+That's right.
+
+0 (7m 42s):
+And so then when you graduated, did you stay in the bike world? Like what, what did you wind up doing?
+
+6 (7m 47s):
+Yeah, so I, I got a job opportunity from Giant Bicycle, which was a You know, one of the top still is of course one of the top bicycle companies in the world. And I saw myself growing in the bike industry. Yeah. And so who doesn't wanna go work for one of the top bike companies?
+
+0 (8m 4s):
+And they're, they were based, they were based or still are based maybe in Los Angeles?
+
+6 (8m 8s):
+Yeah. Yeah. Newbury Park. So kind of halfway between Santa Barbara and la.
+
+0 (8m 12s):
+And what did you do for Giant?
+
+6 (8m 15s):
+I worked a dual role in both parts ordering and the aftermarket parts ordering. And I worked in IT
+
+0 (8m 22s):
+And, and was, I mean, at that time I imagine that I, the it part of a bike company was still very new, very small part of Giant at the time.
+
+6 (8m 32s):
+It was tiny. Yeah. And that's why having me who You know, I I was a a, I both had this kind of database in my head of every bike for, for doing it for four years. I I you didn't need the software. You, you had me. I could, I could tell you every little specific off the top of my head and, and I knew a lot about software and, and that's why they had, they asked to put me in this joint role because they had a small IT department and they were going through a big system implementation.
+
+0 (9m 1s):
+What kind of, what was the software doing?
+
+6 (9m 3s):
+So it was enterprise resource planning and, and, and that entails all aspects of the company. So it's your inventory management, your financial management, You know everybody in accounting and, and down the line. Yeah. And all of a sudden I realized that Microsoft owned this software and they were gonna be putting tremendous resources behind it. And I knew it really well. Right. And so I started to look for, for, for a role in, in doing this new, new software Micro, which was later called Microsoft Dynamics. And, and I found a company in New York that needed someone to head a group to, to take this software on.
+
+6 (9m 46s):
+And, and I took that opportunity to move to New York and try something new. Hmm. And, and plus my friend Connor Siegel just moved to New York and he was having a good time and it seemed like a fun place to be in your early twenties.
+
+0 (9m 60s):
+And did you, I mean, were you a bike commuter? Were you riding a bike to work every day? Yeah,
+
+6 (10m 6s):
+The, right when I got to New York, I got a You know, a used seventies Schwinn and made sure it was properly adjusted and used it every day to get to work and get around the city. And so I've now been in New York 19 years and I rarely go anywhere. That's not by bike.
+
+0 (10m 26s):
+And by, by the way, the the company you were working for in New York had nothing to do with bikes, right? I think it was just, it was strictly like a software business called Coal Systems. And, and you started there as, I guess like an IT consultant, but then you stayed for a long time. In fact, you actually rose the ranks. You beca eventually became the CEO. That's right. That's right. And so how, how did that happen? I mean, did the founders, I don't know, I know it was a small business when you joined probably 10 or 15 people, but did the founders kind of like mentor you into that role?
+
+6 (10m 60s):
+Yeah, there were two founders and they mentored me extensively and they also really encouraged me to grow my area of the business and then at some point take over management of the business. Yeah. And I liked managing, I would say I liked managing the business more than I liked managing people You know. But we had a really nice group that we're all passionate about the software and, and, and even more importantly, we're passionate about our customers.
+
+0 (11m 29s):
+W while you were, I mean you, you, you would end up working there for 10 years, but I guess you, you like with your friends and people you knew in the city, you kind of had a reputation as the, as the bike guy. Like people knew you as they come to you for like recommendations for what to buy or like ask you to help them fix their bikes, right? Like people knew you as that person.
+
+6 (11m 49s):
+Yeah, absolutely. So something that was different for me in New York than, than California. You know, in California we ride our bikes all year round, right? In New York we don't, and it You know it gets really wet and the the snow and the ice are on the ground and we stop riding bikes. And so people here in, in, in New York, You know Spring comes and their bike sat in the, the basement all winter and You know if they're lucky in the basement, didn't flood the, the bike probably needs a tuneup and, and needs some adjustment. And so I found a lot that every time I wanted to go ride a bike with a friend my bike was ready to go because that was part of what I did. But their bike never was ready to go. So I always had to call a friend, get there early, tune their bike and make sure it's ready to ride.
+
+0 (12m 35s):
+And I guess even while you were kind of rising through the ranks at, at Coal this company, you still were, were thinking about bikes like maybe, I mean, not even thinking about it, but you were literally sketching out ideas for like, could you, could you create a bike company?
+
+6 (12m 57s):
+Yeah. In 2013, I started to think about what would be next for me. I loved having entrepreneurial ideas. I, I loved in software being able to twist and turn with the bike with, with the software company and, and, and figure out how we can, could evolve. We, we grew to, we grew much larger. We had I think 280 something employees when I left in 2014. This was
+
+0 (13m 23s):
+'cause it was, I think just to clarify, the the company was bought, it was acquired by a bigger company, right?
+
+6 (13m 29s):
+That's correct. Yeah. We, we wound up selling the company to a, a bigger company, which was the right thing to do. It's where our industry was going. But it got to the point that I felt like I, I wasn't using my entrepreneurial energy the way I wanted to. Yeah. So I had the title of president and CEO but I certainly didn't feel like it. And I was getting told to run the business in ways that I disagreed with. And so I, I felt like it was time to go. Yeah. And when I stepped down, I was used to working seven days a week and I've never known how to relax and so relaxing wasn't gonna start then.
+
+6 (14m 16s):
+And I had a young family, so I knew I needed to do something in selling the company a year earlier. My non-compete was heavy and You know I knew software at this point. I knew bikes. And all I could think about is how can I put those two together? And this idea that I'd written down a year earlier about starting a bike company kept, kept ringing in my head as as the only answer.
+
+0 (14m 43s):
+So I guess from what I understand, you were really landing, kept landing on this idea of like, could I make a different kind of bicycle? Could we sell like a bicycle that didn't require a whole lot of maintenance?
+
+6 (14m 56s):
+Y Yeah, that's right. So I was trying to take my experience of working in a bike shop, working for a bike manufacturer. And when you're in that world, you're most excited about the high-end bikes. You're excited about the carbon fiber, the titanium Yeah. The full suspension. And when I left the bike industry, my, the way I used a bike changed. I wasn't riding $5,000 bikes off road. I was riding $300 bikes on the road. And so were my friends. And so I started to think about what do my friends need? Well, I go to their house and I have to tune their bikes every time before we go for a ride.
+
+6 (15m 36s):
+And You know the bike needs to be reliable so people aren't getting flat tires and they're not ruining their pants as they ride You know with their, their pants getting stuck in the chain. I started to just think about all these really simple creature comforts and I also started to bring in my experience of software. And back then in, in 2014, there wasn't a lot of Bicycles being sold online. And those that are, were pretty low quality. So I thought, gee, if we could bring something to market that's a bike shop, quality bike that's really reliable, really long lasting that maybe that'll, that'll resonate with people.
+
+0 (16m 16s):
+And you basically now, I mean spring of 2014 you were unemployed, but you had this plan to, to kind of build a bike. And I think at this time you convinced your friend Connor Siegel from college to help out. Yeah. Was there anybody around you who thought this was kind of, I'm sure there are lots of people who are excited for you, but were, were there any, anyone who is like, I dunno, maybe your parents or, or, or family who cared about you or like You know this, you're, you're leaving this job to do this. It's really risky.
+
+6 (16m 51s):
+There was, my parents have always been nothing but supportive of me and my wife. I had her full support to do this and, and to give it a shot. But there was other people in my life that when I told I left a high paying job, CEO of a company and, and a very good paycheck to start a, a startup with no money and I'm not gonna make any money, but I'm gonna make this work. I, there were definitely others in my life that looked at me like I was crazy. And the bike industry is an overcrowded industry. It it, it's not an industry that is needing another brand.
+
+6 (17m 34s):
+Not 10 years ago, not today. It it, it's a, it's not a slam dunk
+
+0 (17m 40s):
+When we come back in just a moment. Dave pulls together a prototype and a Kickstarter campaign, but then has to make a decision that carries a lot more risk and costs a lot more money. Stay with us. I'm Guy Raz and you're listening to How I Built This.
+
+LinkedIn (18m 9s):
+As a business to business marketer, your needs are unique. B two B buying cycles are long and your customers face incredibly complex decisions. Isn't it time you had a marketing platform built specifically for you? LinkedIn ads empowers marketers with solutions for you and your customers. LinkedIn ads allow you to build the right relationships, drive results, and reach your customers in a respectful environment you'll have direct access to and build relationships with decision makers. That's 950 million members, 180 million senior level executives and 10 million C-level executives. 79% of B two B content marketers said LinkedIn produces the best results for paid media. So many of the brands on this show and How, I, Built This use LinkedIn to reach customers every single day. I know because they tell me make B two B marketing everything it can be and get a hundred dollars credit on your next campaign. Go to linkedin.com/built this to claim your credit. That's linkedin.com/built. This terms and conditions apply.
+
+Eight Sleep (19m 18s):
+This episode is brought to you by eight sleep. The pod cover will improve your sleep by automatically adjusting your bed's temperature based on your individual needs. The cover can be added to any bed like a fitted sheet and allows you and your partner to cool or warm your side of the bed as low as 55 degrees and up to 110 degrees. And I can tell you it's happened to me. I was a terrible sleeper. I tried a bunch of different things including cognitive therapy and I can tell you that after sleeping on the pod cover by eight sleep for a few months, it's a total game changer. It turns out my body likes to sleep on a really cold mattress and eight sleep figured that out. And in the past few months, I've slept deeper, longer and sounder than at almost any time in my life, probably since I was a baby. It's amazing. The last few months of the year can be stressful, but I rest easy knowing that I'm sleeping on the most sophisticated sleep tech in the world. Invest in the rest you deserve with the eight sleep pod. Go to eight sleep.com/built and save $150 on the pod cover by eight sleep. Eight sleep. Currently ships within the USA Canada, the UK select countries in the EU and Australia.
+
+8 (20m 32s):
+Hi, I am Elizabeth from Monaco and my favorite episode is the one with Danny Meyer of Shake Shack. And it's especially the part where he says that in order to be in business you have to learn to love problems. That really resonated with me and in fact, it changed my whole perspective on how I run my business. I think in order to be an entrepreneur and enjoy it, you just have to learn to flex that problem solver muscle. And that episode really reminded me of that. In fact, I think you can apply that to life in general. If you just approach life with a problem solver mindset, you have a much better time. Thank you.
+
+0 (21m 13s):
+If you wanna share your favorite episode of How I Built This record a short voice memo on your phone telling us your name, where you're from, what's your favorite episode is and why a lot like the voice memo you just heard. And email it to us at HIBT at id dot Wondery dot com and we'll share your favorites right here in the ad breaks in future episodes. And thanks so much. We love you guys. You are the best. And now back to the show. Hey, welcome back to How I. Built This. I'm Guy Raz. So it's 2014 and Dave Weiner has just left his job as the CEO of a successful software company to build a new kind of bicycle.
+
+6 (21m 59s):
+I knew how to design every thing on the bike other than the color and graphics where I needed some help, but I knew how to do all of the basics, right. And we wanted this bikes to last a long time. It You know you still see a lot of, a lot of older bikes on the road because they were made with good materials. A lot of, a lot of what you buy today doesn't last like it used to. So we wanted to go back to that and really use every component with stainless steel and aluminum where we could So that the components would last You know would last.
+
+0 (22m 33s):
+Alright, so let's talk about this bike that you were designing because most bike maintenance involves the chain or the brakes or the tires, I think right? For, for the most part that probably covers like 60, 70% of why people need their bikes repaired.
+
+6 (22m 50s):
+That's right. That's right.
+
+0 (22m 52s):
+And so you wanted to completely overhaul those things.
+
+6 (22m 55s):
+Yeah, and I, I You know, we didn't want to, if you will say reinvent the wheel. We wanted to use the best parts that were out there. So simple things. I knew that when I worked in a bike shop, people got flats a lot. Yeah. And if they came in I could say, Hey, in addition to changing your tube, let's put a a a thorn resistant tire on here or a thorn resistant tube and let's make sure that it's less likely you'll get the next flat and nine outta 10 tires. Customers say, great, we want that. Other bike companies, they weren't selling bikes with things like puncture resistant tires because those cost more. Yeah. And most customers don't see that on the price tag.
+
+6 (23m 38s):
+They see a bike and they want the cheapest bike that does what they need. And if one guy says, our bike has puncture resistant tires, most people don't care. So I I just tried to do things like the puncture resistant tires. I tried to do the brakes. We, we wanted low maintenance brakes and I always rode what's called a coaster brake bike, which is You know probably how you grew up riding a bike guy with you pedaled forward to go and backward to stop
+
+0 (24m 2s):
+Right. Backward to stop. Yeah,
+
+6 (24m 3s):
+Yeah, yeah. Called a coastal brake. So coastal brake bikes are, are You know rather maintenance free. You can use, run those for thousands of miles without ever tuning the brakes
+
+0 (24m 14s):
+Because they don't have any brake pads on the tires.
+
+6 (24m 16s):
+Yeah, there's some, some braking components inside the hub, but they go thousands of miles without ever needing anything. So You know, just, we tried to think of simple things like You know very high-end spokes So that the wheels You know don't go outta true or, or, or don't rust. And to use a comfortable seat. Little things like the bike should come with a kickstand. Right. Yeah. And then the final one was the belt drive. And that was, was really our differentiating feature.
+
+0 (24m 46s):
+And, and I guess we should explain this for, I mean lots of people know what it is now, but basically most bikes have a chain which requires oil. And that chain, especially if it's a, it's a, a bike with gears, but like move from one You know one gear to the next as you switch the gears, right. A belt drive is literally a belt made out of carbon fiber and there's no the, the whole gear system's in an, in an internal hub. So it essentially replaces a metal chain.
+
+6 (25m 15s):
+Yeah, that's right. So the, the belt drive that we use is made of polyurethane and inside of it is carbon fiber cords and the carbon fiber cords, You know, keep it together and the belt drive lasts three times longer.
+
+0 (25m 30s):
+And and the advantage is you don't have to oil it at all.
+
+6 (25m 33s):
+You don't have to oil it, it's not gonna eat your pants or stay in your pants. You never have to grease it. It's not gonna rust. All of the gearing is inside the hub and the advantage there is it's sealed from all the elements and so it doesn't need all the constant maintenance. And if your bike falls over, nothing bends, you can just really focus on riding your bike.
+
+0 (25m 55s):
+Yeah. So Dave, when you went from like You know, running a company with 200 plus people to just being by yourself and then Connor was on the west coast kinda giving you feedback that must have been kind of lonely just sitting there and You know all day just, just kind of working on this.
+
+6 (26m 13s):
+No, it was great. I, I liked, I liked having a small company. I didn't like having no company. So, so Connor was helping in the beginning nights and weekends, So that, that moved to full-time pretty quickly. Our first employee, Lauren was working with me. We've been in the same building on Hudson Street in Tribeca ever since, since we started. So one of the founders of coal systems a software company was the, the initial financier of priority. And so he, he gave us office space and, and I've only worked in that building since 2004.
+
+0 (26m 54s):
+So you did not, like you decided that you were gonna go start raising money from venture funds or whatever and probably was, but you, you needed some money to start. So how much money were you, did you, did you sort of need to, to get this off the ground?
+
+6 (27m 9s):
+You know, I don't remember the exact number, but it was in the, the hundreds of thousands of dollars. Right, right. It, it was not, it, it was not a little, a little amount of money. I, I approached John, who was one of the founders of, of coal systems and, and I, I presented him what my plan was for Priority Bicycles. And he said right away that he would support it and he would finance it. Wow. And he did.
+
+0 (27m 31s):
+So he wrote you a check and 'cause you needed the money to presumably to, for the research and to source the, the, the components to, to build the bike and then to even start a a, a production You know small production line. Yeah,
+
+6 (27m 47s):
+That's right. So I worked, before we started the company, I of course worked on how much this bike would cost and how many we need to make to, to even start production of it. And, and the first thing I did is I got on a plane and I went to Taiwan because Taiwan is still where, where, where most quality Bicycles are made. Yeah. Because all of the suppliers are there from the frame welding to the seats, to the handlebars, to the grips. Everything is made in Taiwan or at least in, in, if you want a high quality bike, it, it's all very much made in Taiwan. And I met with I think about 30 different suppliers to show my
+
+0 (28m 26s):
+Idea. And this is what in the spring of, of 20 of 2014? Yeah.
+
+6 (28m 31s):
+It, it would've been in the spring of 2014. And there's a annual bike show that was coming up in Taiwan. So I made those, my dates and I made sure I had all of my, all of my spec sheet and what I wanted to build with the bike ready. And I started weeks beforehand emailing many of the suppliers to set up a meeting.
+
+0 (28m 55s):
+And, and when you say suppliers, like you couldn't just go to one factory and say, here's what I want you guys go make it for me. You had to go to like the people who made the com every component of the bike separately.
+
+6 (29m 8s):
+Yes and no. Certainly when we talk about the belt drive, that was very much on us and we had to do on our own because bike companies, bike manufacturers didn't know anything about belt drives yet. But You know, and, and, and working with the tire makers to make sure we get the tires the right color and the right, the right type of rubber in them, that, that was really important. But the simple, simpler components like a handlebar, I Drew what we wanted as a handlebar and I handed that over to the different bike companies and, and they can price out getting what I'll call, call the, the, the more straightforward components.
+
+0 (29m 44s):
+So you go to this trade show with your plans and, and by the way, I mean I I have to assume that most of these factories had minimum mortars that and, and probably minimum mortar would've been, I don't know. And that hundreds of thousands of dollars.
+
+6 (30m 2s):
+Absolutely. Yeah. Any serious factory doesn't want to talk to you about making a couple hundred bikes. The the number used often in the industry is 300 because it used to be you could get 300 Bicycles in a container, you can't anymore, but because the boxes have gotten bigger, but no one will entertain an order under 300. And that said, most better factories won't talk to you under 3000.
+
+0 (30m 30s):
+So you go to this show in Taiwan in the spring of 2014 with your plans. And tell me about the experience. I mean was it, was there resistance? Were most of the companies like I Yeah, I'm not, I don't work with such a small You know I work with big brands or I'm not interested in such a small order.
+
+6 (30m 49s):
+Yeah. 80 to 90% of the companies I had tried to make appointments with would take 'em, but didn't want to talk to me. And the first question they ask is, You know, where's the money coming from? How many bikes are on your first order? And and my confidence was the other way around. I said, You know. I remember meeting with these suppliers saying, I know we're gonna sell a significant number of these bikes. I need to know if you can make them and how good you can make them. And, and also where you can improve on, on our designs and our ideas.
+
+0 (31m 22s):
+So you were looking to order, I mean, did you have a, a number of bikes that you, you thought you want, you you needed to, to make for that first run?
+
+6 (31m 30s):
+Not quite yet, because we hadn't started selling it yet. Yeah, right. I was confident that if we had a good quality product that we could sell some, I I didn't know if we could get to the 3000 that some of the better factories wanted. I I did think I could get to 300, which one of the, some of the smaller companies wanted. So
+
+0 (31m 46s):
+There was this idea that a friend gave you to go to Kickstarter, try put it on Kickstarter and see what happens. And and when you made that decision, did you have a, a prototype already built or Not yet.
+
+6 (32m 1s):
+When we started working on the Kickstarter, we only had a prototype that I had made in New York that you
+
+0 (32m 8s):
+Welded yourself.
+
+6 (32m 9s):
+I didn't weld myself. I I bought an off the shelf bicycle frame and I made modifications to it. I I made a cut in the frame to get the belt drive on. I had a, a friend of a friend weld it in his kitchen. It wasn't the prettiest, but it did work and it did start to show what we wanted to create. Yeah. And so, so leading up to the Kickstarter, I had narrowed it down to three different factories and I paid all three factories to make essentially the exact same thing. Knowing that if you ask three companies to make the same thing, you'll get three very different items.
+
+0 (32m 51s):
+And when they arrived, was there clearly a, a a a better one out of the three?
+
+6 (32m 57s):
+Yeah, absolutely. There was. And and also that factory, they had worked better with us in the process. You know, I think one of the factories took our drawings and didn't ask any questions and produced what they thought it was. The other two asked questions and, and certainly the one we went with asked the most questions. And because they asked the most questions, they got the best answers. And, and we also thought that they had suggestions on how to make that design a little bit better. And and they were right.
+
+0 (33m 27s):
+So one of the questions I have about the, the, the chain free bikes, right? The, the belt belt drives was was the reason why most Bicycles at the time were not made with that was 'cause it was more expensive?
+
+6 (33m 39s):
+Yeah, it's significantly more expensive. Certainly the belt drive is more expensive than a chain drive.
+
+0 (33m 45s):
+But how are you going to make a cheaper bike with these components? That's what I don't understand. I mean, I mean if, if internal hubs and belt drives and You know puncture resistant tires were just inherently more expensive and, and really were on high-end bikes. How are you gonna sell it for You know, I guess under a thousand bucks?
+
+6 (34m 7s):
+Yeah. So so that's where You know some of my experience in, in working with software systems came in. I, I knew we had to sell the bike online as much as I, I grew up working in a bike shop and I love, love, love bike shops. We, we wanted the bike shops to help the customer make sure it's assembled correctly and, and certainly be there if they have a problem. But we wanted to ship these bikes directly to consumers
+
+0 (34m 32s):
+Out. You did not wanna sell them through bike shops.
+
+6 (34m 34s):
+We couldn't 'cause it would be too expensive. We couldn't be cost effective. Yeah. And, and so You know we're You know, 10 years later we worked with many bike shops and we actually sell quite a bit of bikes now through bike shops and, and, and, and more to come. But, but back then it was, we needed to have a direct relationship with the customer. It's the only way we could get to that price that, that they needed. And, and we felt that customers were looking for that product or at least I did.
+
+0 (35m 3s):
+Alright, so you guys, so so you decide to launch this Kickstarter in July of 2014. It's about four or five months after you left your job as CEO, right? The what, what was the, what was the, the, the offer you could pay what to get a bike?
+
+6 (35m 21s):
+$350, I believe that included shipping
+
+0 (35m 25s):
+$350 and you would get a belt drive bike aluminum frame. You would, it would be shipped to your door.
+
+6 (35m 37s):
+Yeah.
+
+0 (35m 37s):
+And I mean that's a And how much were you hoping to, to raise for that Kickstarter?
+
+6 (35m 43s):
+Yeah. And at, at the time, I don't think you could find a belt drive bike under a thousand dollars. Yeah. It was, it, it was a, a really amazing value bike and at the time we wanted to raise $30,000. I felt that if we raised $30,000, it would be the world showing me that this was good enough to, to make more and figure out how to sell them
+
+0 (36m 6s):
+350 bucks. So I mean you were basically looking to make what, like a hundred bikes right? A little less than a few, about a hundred bikes for $30,000.
+
+6 (36m 17s):
+Yeah. Okay. And You know, we, we always felt that if we got some bikes out in the field, people are gonna love these and they're gonna go to work the next day and say what a cool and different and unique bike they bought
+
+0 (36m 30s):
+And, but were you gonna cover your costs? I mean, three 50 bucks per bike and shipping,
+
+6 (36m 35s):
+We would cover our cost, but not anymore. Right.
+
+0 (36m 39s):
+So you were essentially just, it was just a wash
+
+6 (36m 42s):
+Y Yeah, we had one part-time employee and, and Connor and I were, were at the low low price of nothing. Right.
+
+0 (36m 50s):
+Okay. So you launched this Kickstarter and it actually, I mean, You know as as kick some cool Kickstarter campaigns go. It did, did very well. Was it on the front page of Kickstarter
+
+6 (37m 3s):
+You know, I think it did make it to the front page of Kickstarter at some point. Not on day one. A friend who, I just met a friend of a friend who, who had a watch company I met with about maybe 60 days before our launch. And he was telling me about growing his, his watch company. And when I told him about Priority Bicycles and what I wanted to do, his advice to me was, you need to hire a PR firm today. It was 60 days to go, you need to hire 'em today because otherwise you're only going to, the only people that are gonna support you on Kickstarter are your friends. Yeah. So you gotta spend the money, you gotta hire a PR firm and they need to tell your story and then you gotta hope it works.
+
+0 (37m 46s):
+And and did you do that?
+
+6 (37m 49s):
+I did it the next day. I, I think I did the same thing as, as looking for a bike company. I think I called 10 of 'em. I set up appointments and I, I dropped everything I was doing and I found a PR firm.
+
+0 (37m 60s):
+And how did you, I mean, PR companies are expensive. You presumably had to use a significant amount of your working capital to, to pay them.
+
+6 (38m 11s):
+It, it was the biggest risk decision we made at Launch. That was our single biggest expense before we launched. But, but they, You know, told our story to the media and we had, I, it must have been a dozen articles on the day we launched on Kickstarter with Major Media. And I think in the first day in Kickstarter we sold over $200,000 in bikes.
+
+0 (38m 39s):
+Wow. Your goal was 30,000. And by the time the campaign ended, how much had had you raised on Kickstarter?
+
+6 (38m 47s):
+Five 50. So half a million dollars, five
+
+0 (38m 49s):
+A half a million. More than half a million dollars. So that's a big order. And so you got 1500 bikes that you had to order at that point. That's right. And you promised to have them by Christmas, I think. Right? That was the, that was the deal.
+
+6 (39m 6s):
+We did, the Kickstarter ended in August and I thought we could make them in 60 to 90 days and have 'em by Christmas.
+
+0 (39m 15s):
+And so as we've experienced in the show with other companies that have started on Kickstarter like Uni and, and some, some others, it, it's a kind of a, a a mixed blessing, right? Because you have to fulfill the orders. And I have to imagine, I mean, 1500 orders, that's 1500 different customers and it was just the three of you at priority.
+
+6 (39m 38s):
+Yeah. I became very good at customer support and any of our original Kickstarter backers, they've asked a question and I was generally up till 10 or 11 at night doing support. Yeah. And, and You know, this is a conversation that my wife and I have. I, I like to say that when I started priority I, I I, I worked less because I worked so much in software and, and she says there's no chance I a hundred percent worked more. And, and so I've gotta assume like most things, she's right. I never felt like I was working more because I loved it. And I can talk about Bicycles all day long and I can talk about customer experience all day.
+
+6 (40m 19s):
+And I loved going to Asia to work on the bikes and work with the production team. I I just loved every moment of it.
+
+0 (40m 27s):
+How are you? So, so between the time that you close this Kickstarter and the time that you have to start, You know, gotta get these bikes out. There are lots of, every single day there are at least two, three, maybe more roadblocks. You get a call or an email from a customer, A supplier can't make this part in time. Big and small challenges every day. And how did you kind of handle those mentally? I mean were did you, did you ever like get, did they ever stress you out? Did they create anxiety or were you like, okay, let's just tackle this one, one thing at a time?
+
+6 (41m 9s):
+Well, well I live on stress. I do very well under stress. I, I think that's kind of my happy place unfortunately. But doing software programs, I became a project manager. So I handled this the same way I would a big software implementation. I had every step I had, every supplier, everybody was in my database. I knew who I was contacting, which days I knew who I was following up on. And I wasn't letting anything slide. And if you were my supplier back then, I'm sorry, I probably called you too much. I probably checked in too much. I wanted every update and I stayed on top of every detail and I loved it.
+
+6 (41m 49s):
+I loved that time.
+
+0 (41m 51s):
+When we come back in just a moment, how Dave grows priority with some big wins, but also some stumbles. His first model has a chaotic rollout. His second one falls flat, and then the extreme whiplash of Covid. Stay with us. I'm Guy Raj and you're listening to How I. Built This.
+
+NetSuite (42m 23s):
+Your business was humming, but now you're falling behind. Teams buried in manual work, taking forever to close the books. Getting one source of truth is like pulling teeth. If this is you, you should know these three numbers. 36,000, 25, 1 30 6,000. That's the number of businesses which have upgraded to NetSuite by Oracle 25 NetSuite turns 25 this year. That's 25 years of helping businesses do more with less close their books in days, not weeks. And drive down costs. One, because your business is one of a kind. So you get a customized solution for all of your KPIs in one efficient system with one source of truth, manage risk, get reliable forecasts and improve margins. Everything you need all in one place. Right now Download NetSuite's popular KPI checklist designed to give you consistently excellent performance absolutely free at NetSuite dot com slash built. That's NetSuite dot com slash built to get your own KPI checklist NetSuite dot com slash built.
+
+Shopify (43m 35s):
+You know that's the sound of another sale on your online Shopify store. But did You know Shopify powers selling in-person to That's right. Shopify is the sound of selling everywhere online, in store, on social media and beyond. With Shopify, you get a powerhouse selling partner that effortlessly unites your in-person and online sales into one source of truth. Track every sale across your business in one place and know exactly what's in stock. Plus Shopify's award-winning help is there to support your success every step of the way. Do retail right with Shopify. Sign up for a $1 per month trial period at shopify.com/built. Go to shopify.com/built to take your retail business to the next level today. shopify.com/built
+
+6 (44m 38s):
+. Hey, welcome back to How I. Built This. I'm Guy Raz. So it's late 2014 and Dave is on the hook to deliver 1500 bikes to his customers on Kickstarter and he manages to deliver most of them by Christmas with just a few days to spare. Yeah. So for the most part, we got most of them out I think around the 22nd. And most of them got to people by the 25th.
+
+0 (45m 4s):
+What, why, why so late? What happened?
+
+6 (45m 8s):
+So it was our first time importing anything and US customs held all of our containers for random inspection.
+
+0 (45m 18s):
+Hmm. You just got unlucky. You just got picked?
+
+6 (45m 20s):
+Yeah. Yeah, we got unlucky. There was nothing more to it, but that, that's a stressful time because we're going into Christmas, we promised everybody they'd get it at Christmas. Your bike's gonna ship in two weeks and then two weeks later we say we don't know when your bike's gonna ship because customs held our containers and they won't tell us anything.
+
+0 (45m 39s):
+And you just had to wait until they were inspected. You couldn't expedite it, you couldn't make it go faster.
+
+6 (45m 43s):
+No one you can call, you
+
+0 (45m 45s):
+Couldn't drive to the port.
+
+6 (45m 48s):
+I, I threatened You know some of our, IM importing guys that, that I would drive to the port in, in Newark and and be there in half hour. But they told me that wouldn't, that wouldn't help. That would only make things worse. And we waited and that was incredibly stressful time because customers who bought these for Christmas gifts were not happy.
+
+0 (46m 9s):
+And and so they were just eventually finally inspected and saw that there was nothing illicit in there and then released.
+
+6 (46m 17s):
+That's it. And and you get to pay for the time that they were held to.
+
+0 (46m 21s):
+Oh, you have to pay them for the storage fees. Right?
+
+6 (46m 24s):
+Yeah. I gotcha. Yeah, yeah, exactly.
+
+0 (46m 26s):
+I mean, you're still a small company and now once you sell a product to people, you also have to sell the customer service to them. I mean, were the bikes working? Were there, were there issues that were cropping up? No,
+
+6 (46m 40s):
+The bikes were great. The problem was getting the customer, the bike they ordered more than anything. Yeah. We had this task of eight labels, eight boxes and, and somehow they, they got it all wrong. And so somebody that ordered a white small got a black large and someone that ordered a black large got a white small. And and that was really stressful. I was doing all but a hundred percent of the customer support at that time. And, and that was a really stressful time and especially because we didn't have spare bikes yet. So You know if, if one customer got a white one and that ordered a black one, we had to find out how to get that white one to the person that ordered it.
+
+0 (47m 20s):
+Alright. So the bikes arrived to, to customers. And in that first year, do you remember what your, I mean you launched in July, so You know sort of the, that half year of, of 2014. Do you remember how much you guys brought in? You had, you brought in 550,000 from the Kickstarter, but I I'm assuming you didn't sell another half a million dollars worth of bikes that first year.
+
+6 (47m 42s):
+Y yeah, that was disheartening. 'cause you do, like I said, you do have a Kickstarter where you raised half a million dollars 30
+
+0 (47m 48s):
+Days, you're thinking, yeah, we're gonna put you and
+
+6 (47m 50s):
+You're, the next 30 days will be another half million Right now. No,
+
+0 (47m 53s):
+But it was more like 10,000 maybe or 20,000.
+
+6 (47m 58s):
+Yeah. If I remember correctly, we sold about 2000 bikes that year at 1500 in the first month and then 500 in the next six months that follows.
+
+0 (48m 7s):
+Right. So probably about $600,000 in, in total revenue that may maybe that year. Yeah.
+
+6 (48m 14s):
+Yeah, that sounds right.
+
+0 (48m 16s):
+So 600,000 is pretty great for, for year one. But, but I'm assuming you had loftier goals for year for the first full year in business.
+
+6 (48m 24s):
+Yeah, we did. And the first thing we realized is that while we had this amazing model, we probably need more than one.
+
+0 (48m 34s):
+Yeah.
+
+6 (48m 35s):
+So the next lesson learned came in a, in a bike. I I wanted to design the next bike and at that point I had a two year old and so I couldn't think of anything better than designing a bike for him.
+
+0 (48m 46s):
+A kid's bike.
+
+6 (48m 49s):
+Absolutely. So I made him a, a training wheel bike and I made it with all the features. I want a belt drive, of course all these rust free aluminum features. I made it with puncture resistant tires. The whole tire didn't need any air. So, so as a parent you could just get the bike and go, you don't have to worry about putting air in the tire every month. It was
+
+0 (49m 12s):
+Just a solid rubber tire.
+
+6 (49m 13s):
+Yep, yep. Exactly. And it was, it was an awesome bike that totally failed.
+
+0 (49m 20s):
+So what happened? What, I mean, just kids' bikes not, it didn't, it didn't connect with people.
+
+6 (49m 26s):
+Yeah. I I I think there were a variety of problems. One is I built a bike that I wanted Yeah. Not a bike that our customers were telling us they wanted. And so the first lesson there is, is You know, listen to your customer. Because if as much customer support as I was personally doing at the time, I was hearing from customers what they wanted all day and I didn't deliver it. I delivered something that I wanted. And, and also to, to make a $300 bike for a a three year old is, is a tall number for, for a lot of parents. As it should be.
+
+0 (49m 60s):
+You know Now you're a full year in to the business. Right. August of 2015. And that must have been disheartening. And I wonder, I mean the business was not far from being profitable at that point. You were not paying yourself anything. Correct. Were you stressed out at all? I mean, you're a full year in and you had that really successful initial Kickstarter, but a year later not much action.
+
+6 (50m 25s):
+Yeah. The, the classic bike was still doing well. So I knew that we had a win that could carry the company though it couldn't carry me.
+
+0 (50m 35s):
+Yeah. And when you say we're, we're doing pretty well, like, what do you remember about 2015? Like 20, $30,000 a month in, in, in revenue? I
+
+6 (50m 43s):
+Would say that's about right. Okay.
+
+0 (50m 45s):
+Yeah.
+
+6 (50m 45s):
+And now I'm, I'm pretty deep. I have one successful product. I have one unsuccessful product. I know that the way I can grow this business, it, it is simple in theory and hardened reality. I need to have a bike that changes again, that changes everything.
+
+0 (51m 4s):
+So, so basically you had this, this challenge which was you needed to make a new You know you needed to make more models. And I guess sort of in 2015 you start to work on a new bike that would become a commuter bike
+
+6 (51m 21s):
+Y Yeah, that's right. In listening to our customer, we learned that a lot of people were using the classic as a commuter because it was low maintenance. And anyone who rides their bike to work every day needs the most reliable bike they can. 'cause they get up and they've got however many minutes they have to ride their bike to the office and, and the bike can't let 'em down. And we needed to, to make this bike to, to turn it up to make it more aggressive and how someone sits on the bike. So the geometry needed to change. The brakes needed to change. You can't go fast on a city street, for example, with a coaster break. You, you, you need disc brakes just like you'd see on a motorcycle or any other high-end bicycle.
+
+6 (52m 5s):
+It needed disc brakes and it needed more gearing and it needed a belt drive system that scaled to the type of power that a everyday cyclist could put out
+
+0 (52m 16s):
+That bike Right. now you had You know really a just many more expensive components on it. So what, I mean what were, what like what, what were the margins? Like I know what the margins on like clothing is, for example. We've done a lot of clothing brands, but like, I mean is it, was it under 10% for you guys?
+
+6 (52m 37s):
+No, we were getting it up to the, the thirties. Okay. We were getting the margin up there, but we were also starting to buy in volume at that point. We knew that we weren't gonna make a hundred of these. We, we needed to make a thousand of them. And like anything else, when you buy in volume, you, you do get better pricing. And we also knew that if we were gonna make a run at this, we, we had to give it our all. Yeah. And at the same time we started go into hotels, which were really good for us.
+
+0 (53m 3s):
+You started to go, tell me about hotels. What do I mean this 2015, how did, how did you work with hotels?
+
+6 (53m 10s):
+Yeah, so one of the things we started in our Kickstarter was you could buy 10 bikes and get your brand name on them.
+
+0 (53m 17s):
+Ah.
+
+6 (53m 19s):
+And we did that thinking that there were companies and, and there were, there were companies that bought 10 bikes and, and wanted their name on it. You know How I. Built This Ride on a bike. Yeah.
+
+0 (53m 29s):
+Let's put on a bike.
+
+6 (53m 30s):
+Yeah. Wouldn't that look good? So we had never thought about hotels until the vice Roy, Santa Monica was our first hotel. And they called and, and Connor and I had actually lived together briefly in Santa Monica. So we knew the area and that was a very cool hotel. So
+
+0 (53m 48s):
+They contacted you and they said, Hey, we want your bikes for our hotel.
+
+6 (53m 53s):
+Yeah. You know, they're, they're right there across the street from the ocean. And they said, we have a bike program and our, our, our guests use our bikes to ride around the beach. But the problem is we, we bought some six months ago and they're rust buckets.
+
+0 (54m 8s):
+Yeah. 'cause they're by the ocean. That's
+
+6 (54m 10s):
+Right. Yeah. So they said, they started looking online and they found our Kickstarter and they found this idea of, of a no rust bike. And they were really intrigued. Hmm. And they were our first hotel and they were a wonderful customer that, that helped our brand look good. Hmm. And we started to open up a, a, a sales department in, in, in You know, in in priority that just focused on selling to hotels.
+
+0 (54m 35s):
+And, and really this idea came from the hotel, not from you guys. I mean, they, they approached you. It turned out to be a great, like a sort of You know stroke of luck because then you kind of thought, well this is a great way to advertise our bikes.
+
+6 (54m 50s):
+That's it. It goes back to listening to the customer. If you, you pay attention, I think a lot of times your customers will tell you exactly what you need to do.
+
+0 (54m 58s):
+Dave and I, I I read that you guys also, one of the struggles you had was with manufacturers. Like you went through different manufacturers over the first three years, like three different manufacturers. This is not uncommon, but, but what, what were the issues you were having with manufacturers?
+
+6 (55m 17s):
+Reliability was, was at the, for the forefront. None of 'em made bad products, but they, they made unreliable products and, and the timing wasn't always what we expected. The first three assembly factories were not meeting our timeline. I was going to every single one of our productions and they might have the wrong components. They didn't know how to assemble a bike the way I would expect them to. And it was taking much more of my time than I could ever imagine. And we needed to do too much rework on the bikes that were coming in. And it, it became to the point where not only was it not sustainable for our current bikes, but we worried that we were gonna add these higher end commuter bikes and, and how could we grow with this company.
+
+6 (56m 9s):
+So
+
+0 (56m 9s):
+What did you do?
+
+6 (56m 12s):
+I did the same thing I did before, but I I, I did it differently. Right. So I, I, I went to China and Taiwan and I met with 10 different manufacturers. I narrowed it down to three. I asked the three to make the exact same thing and waited. It was the exact same process I did earlier. But the difference was we were a bigger company. We now had a bank account. We now could come and say, all right, we need to order a few thousand bikes. We now have three models, not one You know. We actually had a website and an email address and, and, and articles that say that our bikes are good.
+
+6 (56m 50s):
+And so we were able to go to a different tier of manufacturing and, and found three great factories that could all do the job and, and wound up settling with one, I think around 20 16, 20 17.
+
+0 (57m 7s):
+Hmm. So as, I mean, as you were sort of growing year over year, did you, were you able to reach profitability within, within a few years or, or not quite yet?
+
+6 (57m 19s):
+Y yeah. In, in year three, I started to, to take home a salary and started to realize that we had a real company. We had a You know, a handful of employees at that time and, and You know I could take vacation both financially and, and physically.
+
+0 (57m 35s):
+And, and in terms of like, in terms of like growing the business, did you, did you ever, in those first few years, did you ever think about going out and raising money or did you
+
+6 (57m 48s):
+I didn't in those first few years because I didn't see yet how it could help us. Right. You look at a business and you say, well, if we had more money, we could grow faster. Right? But did we want to, did we want to grow that fast? Yeah. And we were getting approached by VC and PE firms rather consistently, and a lot of the people that run those companies ride bikes and they were hearing about us and they were reaching out and, and the timing just didn't feel right. Yeah. We didn't have enough staff to even think that through. We just wanted to keep growing slowly and happily and, and slowly is probably the wrong word. We were growing at 50 to a hundred percent year over year.
+
+6 (58m 29s):
+And and when you're that small, you should be right. You, you, you can't grow at 10% when, when you, when when you're a brand new company or, or something's, something's wrong. So we are growing substantially, but we didn't feel the need to bring in outside money yet.
+
+0 (58m 44s):
+And and your price point was basically that high end, the priority eight was, was under a thousand dollars, but you also had like $400 bikes.
+
+6 (58m 54s):
+That's right. We, we, we'd launched the Beach Cruiser at that point too, which was really successful for us. So, that was a huge seller.
+
+0 (59m 0s):
+So probably by year three or four you were, you were probably doing about at least 5 million in annual revenue. I don't
+
+6 (59m 9s):
+Know if it was five. I would say it was a little south of that, but it was a couple million dollars and we were cashflow positive, not by much, but, but we were cashflow positive every year. And I loved the organic nature of growing the company. And, and I didn't feel any need at that point to, to put gas on the fire.
+
+0 (59m 31s):
+Yeah. Alright, so 2020 hits and what happened? What happened right when the pandemic hit? What happened to your business? Yeah.
+
+6 (59m 39s):
+So in the beginning, our business fell apart. Nobody was thinking about buying a bike. When the, when Covid started, everybody was thinking about buying eggs, buying milk, and, and what was it? Lysol wipes. Right. And it was really hard. We, our employees didn't want to come to work. Nobody was emailing in asking about bikes. Certainly they weren't coming to our showroom in Manhattan to look at bikes. It was, it was really scary.
+
+0 (1h 0m 8s):
+I mean, you went from shipping bikes every day, probably a hundred or so to none,
+
+6 (1h 0m 18s):
+None. I mean, there would be a trickle, but it was nothing that could keep us in business.
+
+0 (1h 0m 22s):
+How long did that last?
+
+6 (1h 0m 24s):
+Probably the better part of three months. And all of a sudden everything started to sell. And the emails, you couldn't stop them from coming in. The media was saying, You know you can't go to the office, but you surely can ride the bikes outside with your family. And people were doing it. And You know when the media started to send that message, it wasn't just us. Every single bike company had no inventory. We sold out of everything quickly. You
+
+0 (1h 0m 54s):
+Sold out. Right. Because there were no shipments coming in either for a while or they would come in slowly. It's
+
+6 (1h 0m 59s):
+Not slowly. Our factories were shut down.
+
+0 (1h 1m 1s):
+Your factories were shut down. And so your website was sold out. Sold out, sold out and everything.
+
+6 (1h 1m 6s):
+Every single model.
+
+0 (1h 1m 9s):
+Wow.
+
+6 (1h 1m 9s):
+And our warehouse at the time, we had about a 50,000 square foot warehouse. It was empty.
+
+0 (1h 1m 18s):
+So 2 20 20 turned out to be a good and bad year. A good year in the sense that your orders were way up but bad because you couldn't actually deliver them. You couldn't fulfill those orders quickly. That's
+
+6 (1h 1m 29s):
+Right.
+
+0 (1h 1m 29s):
+And when did it become, when did the supply chain issues start to work, work themselves out by 2022?
+
+6 (1h 1m 36s):
+The last half of 22.
+
+0 (1h 1m 38s):
+Wow. It took that
+
+6 (1h 1m 39s):
+Long. We're right around a year. And, and even You know, I'll say that, not on high-end components. So about a year ago we started to get basic inner tubes and tires and things like that. But the hiring gearing system that we're using on, on our higher end bikes, we, some of 'em we still are six months out.
+
+0 (1h 1m 59s):
+Wow. And, and meantime, you were, you were making, you were producing different models, right? I mean, like, this is part of your, your whole approach. You've got like, what, 20, 25 different models?
+
+6 (1h 2m 11s):
+Yeah. We've got about 25 now from kids' bikes to commuter bikes to adventure bikes, to gravel bikes. And and now we're working with, with cargo bikes as well.
+
+0 (1h 2m 21s):
+By the way, I I should mention during Covid you actually did take on some outside investment from a, from a private equity group.
+
+6 (1h 2m 29s):
+That's right.
+
+0 (1h 2m 31s):
+And, and you were probably able to take a little bit of money off the table after You know, presumably putting, I mean, putting in lots of years into the business. But I also wanna ask you about, about this year because it, it's been a challenging year for a lot of consumer brands, consumer products. I mean, I mean, COVID was just, it was like a shot of steroids for probably every bike company. Yeah. It's not, it's no secret. There's been a significant slowdown in bike sales in 2023. And, and even, even some bike companies, some well-known ones, I think it's like Van Moof, I think Yeah. Have gone outta business. Yeah.
+
+6 (1h 3m 8s):
+The You know everything we read with industry data says that most bike companies are down 30 to 60%. Wow. And at the same time, a lot of these companies, and there were a lot of new companies that started, they invested some money, they bought a lot of inventory, and now they're selling it really cheap, trying to turn that inventory into cash as quick as they can. And so there's a lot of sales going on because people, people need to move their, their inventory. And so it's just a, it's, it's a much harder time to sell a bike than it's been in, in our nine years. And this'll be our first year that we don't grow and You know we're not doing what we hope to do this year.
+
+6 (1h 3m 50s):
+But I think not losing Right now is winning and, and we're doing a good job of not losing And You know. It means while our competitors, some of 'em are shutting down locations, some of 'em are laying off staff. We're not doing that. Yeah. But, but we also know that the industry will rebound. We know we gotta keep our head down and, and, and keep working at it.
+
+0 (1h 4m 15s):
+You also had another challenge, this here challenge and understatement. You had an accident or pretty bad bike accident, which is of course You know. You know. It's unfortunate for somebody who's been in this industry and and devoted his life to, to, to cycling. But you got, you got doored in New York City, right? Yeah.
+
+6 (1h 4m 39s):
+Yeah. On January 11th, I was riding to my kid's school to volunteer at an event. And I, I got doored. Somebody opened their door without looking, which Yeah. Laid me on the street and You know what, what followed was not good. So there was a couple incidents that followed that. But You know, I, I wound up in the hospital for four weeks and over a week in ICU.
+
+0 (1h 5m 7s):
+Wow. So you spent four weeks in, in hospital and, and obviously had to step away from the business for, for, for some time this year.
+
+6 (1h 5m 16s):
+I think I stepped away from life for some time this year.
+
+0 (1h 5m 21s):
+Yeah.
+
+6 (1h 5m 21s):
+It was talking about the business. It was really comforting to know that the business was doing great, that Connor and my team have totally taken over and that, that everyone missed me on a personal level, but didn't miss me in the business. And they, they were continuing to do everything they could to, to run the business responsibly, especially in a, in a bad time. And, and it, it showed me today how fortunate I am to have an amazing partner at work and family at home and, and great people behind me every step of
+
+0 (1h 5m 58s):
+The way. Yeah. Last night I was at, at an event in San Francisco and I was in an elevator. Somebody recognized me in the elevator and said how much she loves this question I'm about to ask you. And it is polarizing. 'cause about 20% of our listeners hate it, but it's gonna come anyway. Which is, when you think about your journey and, and all the things that have gone into it, where you are now, we're almost 10 years in. You've got a great brand that people know. You've got 20 plus different models price points from 300 all the way to 5,000. So there's something of everybody. How much of, of where you are today do you think has to do with, with the work you put in and, and the time and the, and the planning and the project management, how much do you think has to do with just getting lucky?
+
+6 (1h 6m 43s):
+I think it, it's all hard work. We have been in the right place at the right time, but we wouldn't have been in the right place at the right time if we didn't work. Our butts off. And You know what I learned in doing business systems, and I think I probably was involved in implementing close to a hundred. What I learned is that some of the most successful businesses were just the ones that worked really hard. Hmm. We work really hard at everything we do. And so we have got lucky sometimes, but, but I think that's because we are prepared for the situation and always being prepared for the situation.
+
+6 (1h 7m 23s):
+That means that when those opportunities come and when luck hits us, that we're able to capitalize on it.
+
+0 (1h 7m 29s):
+That's Dave Weiner founder and CEO of Priority Bicycles, by the way, is there a world where we bring back the playing card in the, in the spokes? Like, why isn't that back? Like, why I someone doing that anymore?
+
+6 (1h 7m 43s):
+You know, I have actually thought about that before and I have taped the card to my kids' bikes and they find it amazing. They like it. Oh yeah. They love it. Yeah. But then five other people on the street find them annoying.
+
+0 (1h 7m 59s):
+Yeah. It's sad. Maybe that's the thing. Maybe, maybe we should just, like, maybe it's a business, maybe somebody listening. Just, just make that business a playing card that you put in the spokes of a bike.
+
+6 (1h 8m 8s):
+I, I think, I think we need a, a guy Ross Dave Weiner playing card that that'll go out with a series bikes. We'll have to think
+
+0 (1h 8m 15s):
+About that. Yeah. All right. We'll, we'll do that. That's a very possible See the Sells. I love it. Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show. And as always, it's free. This episode was produced by Josh Lash, with music composed by Ramina Arablouei. It was Edited by Neva Grant with research help from Carla Estevez. Our production staff also includes JC Howard, Casey Herman, Carrie Thompson, Alex Chung, John Isabella, Chris Sini, Sam Paulson, and Malia Aguello. Our audio engineers were Gilly Moon and Robert Rodriguez. I'm Guy Raz and you've been listening to How I Built This.
+
+0 (1h 9m 14s):
+If you like How I Built This, you can listen early and ad free Right now by joining Wondery Plus in the Wondery app or on Apple podcasts. Prime members can listen ad free on Amazon Music. Before you go, tell us about yourself by filling out a short survey at Wondery dot com slash survey.
+
+Jiffy (1h 9m 34s):
+Hey you? Yeah, you, I'm gonna let you in on a little secret. Jiffy is the fastest and easiest way to get jobs done around the house. Just hop on the Jiffy app. choose from the 40 plus services and bam, you'll be matched with a reliable pro in seconds, windows and eaves cleaning. Check yard cleanup, check plumbing. You guessed it. They've got it all. Plus. all jobs come with a satisfaction guarantee. Download the Jiffy app or sign up at Jiffy on demand.com. And don't forget to use the code first for $25 off your first job.

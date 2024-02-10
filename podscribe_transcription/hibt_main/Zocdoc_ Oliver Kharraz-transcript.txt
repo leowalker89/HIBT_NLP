@@ -1,0 +1,632 @@
+1 (1s):
+This message comes from NPR sponsor Adian the future-proof payments platform. Welcome all payments be on The Cutting Edge of customer experiences and grow your business with Adian. Visit a dyn.com NPR to learn more. Hey, it's Gyros here. You know one of the Hallmarks of economic crises like this one is that people actually start businesses slack betterment even Air B&B all companies we featured on this show were all founded. During the last economic crisis and a lot of people are talking about using this period now is a chance to reimagine what they do and if that's you well I've written a book that you might find helpful.
+
+1 (43s):
+It's called what else how I built this and I wrote it for anyone who is starting a business thinking about starting one or just looking for inspiration and ideas from the incredible stories in the book The how I built this book is designed to be that voice in your head cheering you on when you're Like you just want to give up the book is based on interviews with hundreds of leading entrepreneurs and it traces at start a business or pursue a big idea and how to avoid the big mistakes along that Journey. Normally, I'd be leaving on a book tour at around this time where hopefully I'd get a chance to meet some of you and thank you for your support of our show, but of course book tours are all going virtual right now.
+
+1 (1m 26s):
+So I wanted to make sure that you and our most Voted listeners get a chance to get a signed copy. If you pre-order the book in the next few weeks before September 15th. I'll send you a free signed book plate that fits right inside. You can order the book. However, you get your books or you can find all the information you need at Gyros.com or how I built this.com.
+
+2 (1m 56s):
+Cyrus ended up going door-to-door for doctors offices actually showing them a PowerPoint page and this is really a testament to Cyrus's sheer will and
+
+1 (2m 6s):
+determination. He just went to random doctors offices.
+
+2 (2m 10s):
+Yes. It's selling to doctors is one of the hardest things to do.
+
+1 (2m 14s):
+Why?
+
+2 (2m 15s):
+Well, first of all, their office managers are trained to protect the doctor from people walking in selling them
+
+1 (2m 21s):
+stuff. So he's got a lot of knows he got a lot of
+
+2 (2m 24s):
+Nos and a few times it was even escorted out by security. I really think one-in-a-million could have pulled this off
+
+1 (2m 38s):
+from NPR. It's how I built this a show of that innovators entrepreneurs idealists and the stories behind the movements. They don't I'm guy rise and on today's show how to friends pounded the pavement New York City to convince doctors to sign onto their new booking Services ZocDoc and how they grew that idea into a business valued at nearly 2 billion dollars. One of the most challenging problems for startups that offer to connect customers with service providers is what's known as the chicken and egg problem.
+
+1 (3m 22s):
+This is the problem companies like Airbnb and lift had to solve without home listings in the case of Air B&B or drivers in the case of lift. You'd have no customers but at the beginning neither of these companies had any customers so convincing people to Their homes or drivers to offer rides to strangers was not an easy thing to overcome and Tony shoe the co-founder of door - who was on the show back in 2018 had the same problem when he started out he needed customers who wanted food delivered to their homes and he needed lots of restaurants to participate but you can't get restaurants without the customer demand and you can't get those customers without lots of restaurants.
+
+1 (4m 10s):
+Same thing with clasp. Pass and Birchbox, you need both sides of the market to buy in and back in 2007 in New York City. All of our career has had the quintessential chicken and egg problem. He and his co founder Cyrus musume were trying to launch ZocDoc. It's an online service that takes a lot of the pain and frustration at of booking a doctor's appointment. You can go online find the type of doctor you need plug in your insurance. And book an appointment through a system that's directly linked to that doctors calendar a super simple and smart idea right but back in 2007 Oliver and Cyrus had to convince doctors that this was a service worth paying for but then why should they pay for it?
+
+1 (4m 60s):
+If there were no potential patients and meanwhile Oliver and Cyrus had to show potential patients that this was a service with lots of great doctors to choose from and all those chickens. Hands, and all those eggs took a long time to bring together and then after growing slowly and then quickly all of her faced his biggest growing pain of all the realization that he had to completely revamp the business model of ZocDoc. If it was going to survive a decision that was so painful. It actually led to the breakup of his nearly 10-year partnership with Cyrus, but let's start at the beginning all of our cause was born and In Germany mostly in rural parts of the country.
+
+1 (5m 45s):
+His mother was German and his father was from Iran and came from a long line of doctors for me.
+
+2 (5m 53s):
+It really starts in some ways with my dad and the time he grew up and he had did every reason to become a social activist and and so he came to Germany from the Middle East when he was very young around 20 and with the know Money in his pocket no language skills and you know, he had personally done worked a lot of odd jobs, but he eventually became a psychiatrist but what has really shaped me much more than being born in Berlin. Is this social activism that I had that I saw him live and that he really made our family man trike.
+
+2 (6m 35s):
+We we always talked about Talent brings responsibilities and some of the need to use Whatever Talent behind to help those around us that we can and make a difference
+
+1 (6m 49s):
+given that your father was Iranian. And your mother was was sort of German and you even though you were born in Germany. Did you feel did you feel as German as everybody
+
+2 (7m 1s):
+else? So yeah, I I didn't have a second identity. We only spoke German at home and yet as you say I was also not always fully accepted. So if I give you an example in my school there were 1200 students and you could pick out to the didn't look like everyone else and I was one of them right and even an enlightened country like Germany that is noticeable. So I had what I call a visual accent with people will see me on the street and And they would ask me how I learned to speak German so well and but they also it's cool that it's get my name when reading out scores because they weren't sure how to pronounce my last name and and I put unit he's taken away and even that was physically threatened.
+
+2 (7m 48s):
+So I think that really shaped me in in many ways because I realized very early that in order to be as successful as everyone around me. I would have to be dramatically. Better and really work much much harder than anyone else. And then so that rated used it. They strong work ethic in
+
+1 (8m 9s):
+me for the record Oliver is somewhat downplaying his work ethic because just out of high school. He actually started his first successful company. It was the early clunky days of the internet and he designed a way to help people send emails more easily and he wound up selling that business not for a ton of money but enough to get him through medical school. But after practicing medicine for a couple years Oliver realized he couldn't stop thinking about that first business he'd started and how he wanted to start another. So he quit his job in medicine and took a consulting job with McKinsey and eventually moved to New York.
+
+2 (8m 51s):
+That was my goal was actually to start another company that that's why I left I'll get but I also realized at the time that I sold my first company far too cheaply that I To learn more about business first and and Mackenzie. I got exposure to balance sheets and peony Al's and and and had a lot of very practical experience of what it means to manage a business and I think very fondly of my time at McKinsey was one of my better decisions
+
+1 (9m 20s):
+Mackenzie going to Mackenzie's a little bit like going to business school mother lot of people at McKinsey have come from Business Schools in that, you know, many people go to business school thinking they will find a co-founder. Did you were you actively looking around at your colleagues to think maybe I can do something with him or her, you know, maybe that person absolutely and were you or are you just thinking about different business ideas all the time?
+
+2 (9m 46s):
+Well, it is actually very hard to find good ideas. And my definition of a good idea was that it needed to have a great Mission. I wanted to make sure that we actually do something good in that we stay true to sort of talent brings responsibilities, but also So wanted to be a large market and to have a great mode around it. And and also I wanted it to be based on our contrarian inside because I thought that all of the best companies I have that at its core.
+
+1 (10m 15s):
+Well, she wanted Mission you wanted a company that could kind of dominate its field by building a moat around it, but was also contrarian that's that's that's those are some interesting criteria
+
+2 (10m 28s):
+and that's why I screamed for several. As and rejected pretty much every idea that that I came across huh
+
+1 (10m 37s):
+and meanwhile while you're going through all that, I guess you meet this guy Cyrus musume who's another McKinsey consultant and and just they just become friends. Like he's just like somebody like and and you guys start hanging
+
+2 (10m 52s):
+out. Well, we got put on a study together that required us to travel globally and if you've ever done that it meant for us. We were 16 18 hour days. Is together for three four five months on end and we really got to become great Partners in that and what we realized is that we had some very complementary skills. You know Cyrus is one of the most charismatic and gregarious is individuals you'd ever meet. He's very passionate. He could be more forceful which sometimes was needed to be effective with clients. Yeah, and You know, you've talked to me now for a little bit as you can probably tell I'm more dispassionate and logical and more measuring more German.
+
+2 (11m 39s):
+I'm more German is in many ways a site that that also sometimes was effective with clients, right? But
+
+1 (11m 46s):
+in Cyrus is American right
+
+2 (11m 48s):
+these American. Yes, but that that clothes - and how we work together that really started in friendship and we stayed close off of the study caught up over lunch pretty regularly to bomb. Different business ideas with one another and you know, I think we connected because we had similar interests and because on some levels we were equally passionate about what we were doing. It was irises passion was more visible to others than mine, but we had were close enough together that we both accepted the other as a individual that we could learn a lot from
+
+1 (12m 29s):
+was it was it clear pretty soon after you Our hangout Cyrus that this was the guy because you were you were on the lookout for a
+
+2 (12m 36s):
+partner. You're like, I think I think was was absolutely an option. I know reality is that with both founded companies before making Z and we both knew that we wanted to do it again and Cyrus was always great about being very honest rather than just nice and and I value that a
+
+1 (12m 58s):
+lot. Yeah. All right. So so this guy Cyrus super charismatic really smart clearly the two of you start to to work together and and what kind of business ideas are. Are you coming up with? Well,
+
+2 (13m 14s):
+we kind of fell in love with this new idea that came about in one of these lunches where Cyrus told me about how he had recently ruptured his eardrum by flying with a cold and then he found it very difficult to actually find a doctor and he had asked people for Isn't it called down his insurance directory listing started with the A's and some of these doctors weren't accepting new patients some no longer accepted his insurance one provider I could pass away. And so he said well, why does it take me four days to see a doctor when I'm in pain, right? And why can't this be much easier? Yeah, and we both very quickly realized the potential of this idea.
+
+2 (13m 60s):
+I know from working. He had projects McKinsey. We knew that helps us the freshly spending millions of dollars for marketing to grow their patient base because they had wasted inventory, right? They had something that I like to call Hidden Supply which is these last-minute cancellations no-shows rescheduled that that go to waste and then on the other hand there were the patients who had a hard time accessing this
+
+1 (14m 25s):
+you thought it immediately clicked with you. You suck my God. Yes doctors appointments connects page. Two doctors.
+
+2 (14m 33s):
+Yeah, well, look if you go through the four criteria that I had right? It's a great mission, right? We're making one of the most personal needs more accessible for patients. We can help the patients to get in faster. We can help the doctors become more efficient. We can make the entire Health Care System more cost-effective keep people out of the emergency room things like that. And and it's a Marketplace. So there is a so strong mode and and clearly anything in healthcare. There is a large market and I think the contrarian inside that we had was the fact that yeah, you know, like most people thought it's normal that people have to wait 24 days to see a doctor because there's a doctor shortage and write our inside was really the now doctors have last-minute availability because of these last-minute cancellations and no-shows re schedules.
+
+2 (15m 25s):
+And so I felt very good about this
+
+1 (15m 28s):
+idea. So, so do you remember How long between the time that the you have that first conversation to the time we're both of you said let's start this business was it like months or weeks or
+
+2 (15m 42s):
+days? Those was weak? You know, we what we see what we started doing is actually mocking up the side and how we imagine it back then in PowerPoint and just the liar image of a website and let ya wireframe exactly we would when we go to Starbucks and we'll check. Help strangers and say hey, here's a $5 gift card. Give me your
+
+1 (16m 6s):
+thoughts. Like I am sorry. I can't go back. You just go up to people and Starbucks and give them a gift card and say, can you give me your thoughts or random person?
+
+2 (16m 14s):
+Yeah, absolutely. That's that was sort of our Market testing.
+
+1 (16m 17s):
+They wouldn't they would be like, excuse me. This is a little weird your
+
+2 (16m 20s):
+Myspace. Oh that that might also happen from time to time. But you know, there's lots of people in
+
+1 (16m 25s):
+Starbucks. This is a very undermine of you. That's the bright because usually you would be sort of more.
+
+2 (16m 32s):
+And it's about doing that. Well, you know, I think there was a lot less rejection understand you but I think people are actually quite open. I'd sort of suggest you try this out in front of you if you're on threatening and look harmless as we probably did and then they'll be pretty
+
+1 (16m 49s):
+open. So you want to go on Starbucks and you'd say hey we're thinking about a company here. Can you just look at this PowerPoint will give you a $5 gift card. And what was in the
+
+2 (16m 60s):
+PowerPoint the PowerPoint? Was just what we thought this website would look like and we would ask them. Is this a service that resonates with you? You know what you use it and and we got incredibly valuable feedback here and it really set us in many ways on the right
+
+1 (17m 18s):
+track, right? So at what point did the two of you decide let's quit mackynzie. Let's let's pursue this
+
+2 (17m 26s):
+probably a month or two after we initially discussed the idea.
+
+1 (17m 30s):
+Did anybody say you are crazy. You for quitting.
+
+2 (17m 33s):
+Well, everyone everyone told us that we're crazy. And we got a lot of negative feedback on the idea to write people would say this is just won't work out. I would never pick my doctor on the Internet or I already have a doctor or doctors wouldn't accept patients that are looking on the internet. There were all kinds of projections that people had when they were thinking about their own situation, but When when you talk to people and Starbucks, they actually thought about it much more positively. So we were encouraged enough to say well this is this going to work as long as we get out of our Circle and if you don't ask McKinsey consultants and doctors the responsibility better.
+
+1 (18m 18s):
+Alright see you are in your 30s at this point and presumably you were making pretty good cash at McKinsey because you were probably, you know expenses you're on the road all the time. So, you know when you quit I'm assuming you had some money to Launch the business and probably live off for a while.
+
+2 (18m 36s):
+Yeah, so I very deliberately had never raised my living standard to the money that they were paying me at McKinsey and I had saved every time so that I could know be in a position where I can find this and where I can afford not to take us out already for a couple of years.
+
+1 (18m 54s):
+Well, so so like a couple hundred thousand you saved,
+
+2 (18m 58s):
+you know, maybe I'm too German to discuss personal finances. But yeah, I
+
+1 (19m 3s):
+had built this. Mmm not radios. You can tell they're everybody's another story. Yeah, I
+
+2 (19m 8s):
+had I had enough money to live off for several years, but I also satisfied both Finance the company early on not of our own savings so that clearly diminished. You know, how much money we had left over after
+
+1 (19m 23s):
+that. So now you both decide to quit and you have some technical expertise because you had you had done some coding but This is next-level stuff. Were you able to be the technology founder and Cyrus was going to be the sort of the business founder
+
+2 (19m 42s):
+absolutely not so I coated but at that point I had really not touched a computer for a long time. We knew we needed to have a technical co-founder. And so Cyrus knew a guy named Nick and Drew from the time together Trilogy
+
+1 (19m 57s):
+software and this is another company that they were both worked at together
+
+2 (20m 0s):
+the couple of the boat. Previously worked at together and Nick just brought a totally different perspective and and really educated saracen me on a lot of things and and he was really the one who understood a building a seamless experience for the consumer and Inns in many ways. Nick was sort of a shock jocks early
+
+1 (20m 20s):
+genius. Did you did you have the names Arctic from the beginning?
+
+2 (20m 24s):
+Not not initially. We went through several phases on what the right name could be for a while. To have a descriptive name. So we looked at Physicians.com and doctors.com and we actually track down the owners of one of these domains and they wanted several million dollars for the domain name and and we were finding the company ourselves. So there was a completely out of the question. So then we just sat in a room and we brainstorm a list of fifty or a hundred names and then start eliminating names until we arrived at ZocDoc.
+
+1 (20m 57s):
+What does it mean?
+
+2 (20m 58s):
+Well, it doesn't mean anything which was the beauty of it. We could there were zero search
+
+1 (21m 4s):
+results. Okay, there's no meaning behind the sock.
+
+2 (21m 8s):
+There's no meaning behind it. And in hind side that was precisely the right thing to do because of that. It really was a blank slate for us to fill with with meaning and really build a brand around there were exactly zero search results for ZocDoc when we started it and it resonated right like once you know that it takes more than three weeks from picking up the phone and For doctors still you actually see someone you realize. Oh, there's really not much else that we have to wait so long for to get and this is more important than most of these other things where you already have fantastic access modes, right if you imagine if air travel work the way that Healthcare works that wouldn't be an Expedia that wouldn't even be a Delta.com.
+
+2 (21m 55s):
+That would be individual phone numbers for every plane. Okay, imagine if that happened half the planes would fly it. Empty, it would be a massive pain that was exactly the state of health care before self talk
+
+1 (22m 9s):
+is amazing that that the nothing like this was out there in 2007.
+
+2 (22m 15s):
+Yeah. Look, I think in many ways you couldn't have builded much earlier in the early days when we went out there. We were the ones installing internet and the doctors offices. We they were Many times just migrating from paper books to scheduling systems. We were sort of at the cusp of digitization for healthcare and we were just lucky in our timing to get this right and start offering the service when that also
+
+1 (22m 48s):
+happened. All right, so you decide to pursue ZocDoc and it's the three of you I'm assuming really just at the beginning and were you working out of one of your apartments or did you guys rent space?
+
+2 (22m 59s):
+No, we worked out of respect for Birdman's many times we came to Nikki at the nicest apartment and and we could bring my breakfast burrito and wake him up and and you know, the the reality is that we originally had a pretty ambitious launch plan, right? So we got together around July. We wanted to launch by December of 2007, but then something interesting happened were Nick send an email suggesting to look at what was then called TechCrunch 40 and no techcrunch's is one. Is now a household name but the the draw for us back then was there was a $50,000
+
+1 (23m 38s):
+prize now, it's called TechCrunch disrupt. I
+
+2 (23m 41s):
+think now let's go to the TechCrunch disrupt in it. So it's a major like a start-up competition. It's a start-up competition and we were the first class of those was much less known. We budgeted two hours to fill in the application and really just send it off. We didn't think about it anymore that there was an early July and early August we heard that we had been accepted. Kept it, but there was a complication we'd have to be ready by September 18th. That was three months sooner than we had originally planned to launch.
+
+1 (24m 14s):
+So you would have a live website by September that is right that is right with doctors
+
+2 (24m 20s):
+with doctors, right? So we actually debated for a few hours whether we should even try to go for that but we ultimately said yes we can get the website working and we wanted to have enough dog. Earth just to have a scroll bar. So it would look pathetic. Right and so Nick and I coded night and day and you know, Nick really busted his but he did the patient facing side of the website and and you know, there was the program inside what was potentially even harder because we were trying to launch a Marketplace was to actually get the initial Supply on there. And remember the website wasn't there yet. So Cyrus ended up going door-to-door for doctors offices actually showing them.
+
+2 (25m 1s):
+Them a PowerPoint page and this is really a testament to Cyrus's sheer will and determination if you think about what it means to really start a company early on there's nothing to show right you maybe you have a PowerPoint but there's no website. There's no patience. There's no other doctors. No social proof. Yeah, and it has to run on passion and I was very clear that that is Cyrus's
+
+1 (25m 27s):
+superpower. He just went to random doctors offices or he had like a Two doctors offices me started kind of walking block by block.
+
+2 (25m 36s):
+Well, there was a lot of walking involved. We launched in Manhattan so you can literally go down the street and you see the signs and and you walk in
+
+1 (25m 47s):
+and he was basically saying look it's a way to connect you to patients. How was how many by the way, what was your objective? How many doctors did you need to sign up to have this website look okay by
+
+2 (25m 58s):
+September so if in 6 and 10 When was our
+
+1 (26m 2s):
+goal? Okay, so just doable
+
+2 (26m 5s):
+it is it was extremely hard really is telling to doctors is one of the hardest things to do.
+
+1 (26m 15s):
+Why what were they saying?
+
+2 (26m 16s):
+Well, first of all, it is very very hard to even speak to a doctor right they are being shielded. Their time is very valuable. The office managers are trained not to let anyone talk to them to protect the doctor from people walking inside. Stuff share then. Secondly, they many didn't want to give up control over their calendar, which he asked them to do. Right? We ask them to post times that a patient could book into it and it was just a far-fetched idea for many of them that patients would actually do
+
+1 (26m 48s):
+this. So he got a lot of knows he got a lot of
+
+2 (26m 51s):
+NOS, but he'd go there and he just simply not leave until he got a chance to speak to the doctor and you know a few times it was even escorted out by security. I really I think one-in-a-million could have pulled this off.
+
+1 (27m 5s):
+I mean was he going to particular kinds of doctors or was he generally focused on an internist General
+
+2 (27m 12s):
+Practitioners? Oh, yeah, so we began with dentists. Okay, because our thinking was that people go to dentist most often and we wanted to make sure that we have an offering that is relevant for patients as often the lives as
+
+1 (27m 27s):
+possible. I got you. So So eventually I'm assuming you do get what Six to ten or how many did you get by September of 2007? I think we launched with eight. In the meantime, you and Nick or doing the backend stuff, right? You were doing the coding and building the website. That's right. And as you were building it, how did it look
+
+2 (27m 50s):
+so the bit that Nick build looked awesome for the time I think and it was quite impressive. We were very satisfied that we had us. Crowbar that we had a map that we had back then already the insurance selector and a lot of feature that just weren't to be found really anywhere
+
+1 (28m 10s):
+else. All right. So September 2007, you are ready to reveal this service at TechCrunch and to all three of you present or did did Cyrus kind of woozy the
+
+2 (28m 24s):
+spokesperson. So Cyrus and I presented Nick stayed behind in New York to make sure that the left Website was actually up and running.
+
+1 (28m 34s):
+This is in San Francisco that you
+
+2 (28m 35s):
+went to. Yeah, we flew out to San Francisco. And so we launched stock in front of eight nine hundred people. A lot of them were journalists when the judge has opened up with feedback guy Kawasaki who we knew and valued as in vegetables for a for apple. He did he came out of just said he didn't get it. He would never use this in front of everyone right and his Is direct one was something like honestly, it was just never occurred to me to go to any side of pick a doctor that's really burned in my brain. And what was worse is that he seemed to be right, you know, we didn't get a single booking that day.
+
+2 (29m 17s):
+We were hoping that this PR would get us of our initial batch of users,
+
+1 (29m 23s):
+right? There's no other so many Tech journalists there. So you think you know, the publicity may be would would lead to
+
+2 (29m 29s):
+bookings. That was the hope But it actually took three days before we got our first legitimate patient and and in the entire first month, we only got five bookings.
+
+1 (29m 44s):
+All right. See you come back from San Francisco. And you know, you had guy Kawasaki say I don't never use this service. I'm sure he feels differently today, but maybe then he'll said that but did so did you come back feeling like like dejected like losers or were you excited? Like how did you feel coming
+
+2 (30m 4s):
+back? Well, you know, I think we were obviously hoping that we would eventually get more bookings and yeah in the beginning we probably refreshed the bookings report hundred times a day, but as we were thinking through this but we realize it was really a typical two-sided Market pays challenge. It's just a classic chicken and egg problem. You need the supply to get the demand and you need the demand to entice the supply and For ZocDoc. I was even trickier right when you think about it. Healthcare is hyperlocal and very complicated. So you have to match such as supply and demand on a zip code specialty level and then we have thousands of insurance has to take into account until we realized that our odds of actually finding a patient that wanted what we had on offer there, you know quite low and so the best path forward was to methodically buildups.
+
+2 (31m 5s):
+Supply so we just just kept going to put up a huge map of Manhattan on the wall and then actually put little flags on it where the doctors brother we had on the website and which insurance is they accepted and we just we knew that perseverance is the name of the game.
+
+1 (31m 27s):
+When you come back in just a moment how Oliver and Cyrus begin to drum up interest in ZocDoc and how they even start to raise some money after they figure out how to dress differently stay with us guy Roz and you're listening to how I built this from NPR. Hey everyone, just a quick thanks to our sponsors who helped make this podcast possible. First two epic Provisions maker of Epic bar. Beef was Nature's idea. The Epic bar was their idea the new beef sea salt and pepper bars have three grams total carbs why it's in their nature after all they're made with a hundred percent grass-fed beef and Nature's macros 3 grams total carbs 11 grams of Find them in the bar.
+
+1 (32m 23s):
+I'll or at Epic bar.com. Thanks also to stand for small and American Express. If you're a small business owner head to stand for small.com partner for resources offers and tools from a growing group of companies that want to help your business. Get back to business visit stand for small.com partner to get started. Thanks. Also to Microsoft the world has changed. Aged, and Microsoft teams is there to help us stay connected teams is the safe and secure way to chat meet call and collaborate to learn more visit microsoft.com teams.
+
+2 (33m 9s):
+Here at life kit. We know that getting your financial house in order can feel painful. Now. There's this whole coronavirus pandemic the
+
+1 (33m 16s):
+0s are and personal finance tune-up series will help you feel more confident and get you on the right track. Listen And subscribe to NPR's life kit and just a reminder. You can pre-order the how I built this book right now. And if you do I'll send you a free signed book plate to go inside the book. The book is a collection of insights and wisdom from some of the most Incredible and inspiring makers inventors Builders and dreamers on Earth to preorder and to get your free signed book plate while supplies last please go to guy Roz.com or how I built this.com.
+
+1 (33m 56s):
+Hey, welcome back to how I built this from NPR. I'm guy Roz. So it's 2007 and Oliver Cyrus and Nick are basically powering through with ZocDoc going door to door trying to convince. Vince doctors, it's a valuable service. And the thing about doctors is even though they're really smart and capable and we depend on them a lot of their offices especially back in 2007. We're sort of technologically in the Stone Age.
+
+2 (34m 27s):
+It was incredibly complicated to think the doctors calendars with hours because none of the software was actually made to think we're even in the places where we Add things up and running we would frequently get feedback that while the the appointment didn't happen because the doctor wasn't available and we really couldn't figure out why this was the case because when we did screen shares with the office and we looked at their calendar and and our calendar it was identical right and we couldn't figure out why that's happening. So I ultimately decided to sit next to the office manager. I went there and got to know him and his family.
+
+2 (35m 9s):
+Family should be photos of his dog. I fixed the printer. I thought it better strategies to play Minesweeper still couldn't figure it out until one day the doctor would come out and she'd say hey David, I'm out next Friday. And then what does David do does he go to the counter and block out next Friday or does he take a Post-It note rides on a doctor out next Friday and sticks this to his monitor, right? And in the real world these The notes of course happen and and but once you know that math is your friend and you can start filtering this out and that's one example, they were literally a thousand point one percent solutions that we had to figure out to make this
+
+1 (35m 50s):
+work. Wow, that just sounds I'm getting exhausted just hearing about that because this is like even this like pre Google Calendars, right?
+
+2 (35m 59s):
+Yeah. Yeah, that was that was early days and what we were extremely focused over around were making sure the experience was fantastic and if something went wrong Ang we fixed it, right. So I was our customer service. I personally would call the doctor and and confirm the appointment was all said and if it wasn't I personally contact the patient to let them know and then I would offer them an Amazon gift card alongside with an apology. There was actually one case where I didn't catch a patient in time and and they're already in the subway to the doctor. And and so I raced them to the doctor's office and picked up a bouquet of flowers on the way there.
+
+2 (36m 39s):
+And and met them in person to apologize and that was really a turning point where I said, well the service has to work and we need to be have this Patients First attitude in terms of how it works completely ingrained in the
+
+1 (36m 54s):
+company. Alright, so you clearly need to kind of grow this or you offering this service to doctors for free at the time
+
+2 (37m 5s):
+initially we offered it for free, but we eventually Really started charging $50 per
+
+1 (37m 11s):
+month, but say I'm a doctor you come into my office and you say hey if you pay me I can bring you more customers. I would be skeptical I would have said to you you who's I mean who'd even knows about you. You're going to you're asking me to pay you money for Phantom, you know bookings for for maybe no customers. I mean did some of the
+
+2 (37m 31s):
+doctors say that's you know, many the this is you summarize our sales challenge, right? It was very hard because If you wanted to we couldn't easily share how many patients their competitor Down the Road God like that was something that was confidential.
+
+1 (37m 50s):
+Yeah. Alright. So you are you got this chicken and egg problem enough enough people signing up and you got skeptical doctors, but you know that this service could really benefit the doctors, but you also need them to pay for it because otherwise, you know a business meantime at a certain point. I'm assuming you guys start to think we better go out and look for money if we're going to really make
+
+2 (38m 8s):
+this thing. NG work yeah. Yeah that that happened. So in the in the spring of 2008 we decided we should raise a series a and we make the rounds we get in front of a number of the big-name VC only
+
+1 (38m 25s):
+New York or deals to go to Sand Hill Road in Palo
+
+2 (38m 27s):
+Alto Jose Angel Road. Basically, it's a toll road initially weren't very successful at all. Yeah, we got polite nose and Three no feedback until someone took us aside and told us you know, what the idea seems good, but your Consultants I'd and the perspective of those Consultants can get anything done. And what we realized is that even though we had both founded companies before our McKinsey pedigree in our khakis and button-down shirts. They were really hurting us and so
+
+1 (39m 3s):
+we were wearing khakis and button-down shirts.
+
+2 (39m 8s):
+It sounds crazy and weird a with a pleated pants or
+
+1 (39m 12s):
+were they at least not pleaded please
+
+2 (39m 16s):
+but now they were not treated but but yeah, we after hearing that feedback. We very quickly just went to the next Gap and bought jeans and t-shirts and from then on the convos with the Reese's went a lot
+
+1 (39m 30s):
+better. So you went from McKinsey consultant look to the so the tech casual uniform of jeans and
+
+2 (39m 38s):
+That does exactly right and we introduced ourselves not as NBA's and McKinsey Consultants, but we introduce those officers previous entrepreneurs that are starting their next
+
+1 (39m 50s):
+company but was I mean we're was anyone biting was it worth of where they're people who were like, yeah. There's a great idea. I'm in
+
+2 (39m 56s):
+so I mean interestingly enough. We had raised some money from friends and colleagues and many of those they invested in US business plan uncie. I mean just based on the fact that we were giving up our careers at McKinsey to pursue ZocDoc. So that felt really great. And as we started changing how we appeared in how we introduced ourselves to venture capitalists. So we started to get offers and so and August of 2008. We ended up raising five million from khosla Ventures pieces Expeditions, Marc benioff.
+
+1 (40m 33s):
+Well, Marc benioff, Jeff Bezos envinate Coastal has All their funds are in which sounds like a lot but for we want to do it's actually kind of limited because you still it seems to me in 2008, even though you have five million dollars a lot of money. You still have this problem, which is you've got to get customers and then to get customers you need lots of doctors with lots of options, but to get doctors you need lots of customers booking through the site. So how do you do that?
+
+2 (41m 4s):
+Precisely these five million dollars per They literally earmarked for making New York work right make our first Market work, but immediately after raising the money the financial crisis hit right? And you may remember there was this rest in peace memo that went
+
+1 (41m 24s):
+around about startups, right? Yes
+
+2 (41m 27s):
+about startups never being able to raise money rest in peace Good Times. Yeah, so we got the strong ties to make the money stretch and we probably No not during this time. This was really our first go-round making hard choices and we're going to be frugal and not to do things. We can't afford and we learned to not let money replace critical thinking and creativity. But now if we continue to grind away at New York and at some point we felt well if you wanted get to the next level we have to prove that doctor isn't just a New York City phenomenon, right?
+
+2 (42m 7s):
+We had to prove that it would work in a second City. But at that point we didn't have the money to do this anymore.
+
+1 (42m 16s):
+And by the way, you're still your approach was still the same it was door to
+
+2 (42m 19s):
+door. That's right, Georgia door
+
+1 (42m 21s):
+and how are you building awareness about the about the fact that Zack doc existed with customers with potential customers.
+
+2 (42m 28s):
+So we it was very very difficult to get someone to the website. Yeah, but when they did They loved it because it was such a step change from how Healthcare used to work for them. Right? They used to have to pick up the phone and wait on hold and then play scheduling Tetris with the office manager. Can you do Wednesday morning? You know, how about Thursday new know about Friday afternoon, and now they could do the same thing in a minute and have complete overview about the availability patients loved and they told their friends so we started to get Word of Mouth Going and so we saw New York really kicking up and we felt like okay.
+
+2 (43m 14s):
+This is going to work in New York at a minimum. Right? But we also realized that it took us a fair bit of time and money to get it going in New York, and we couldn't with the money we had left from the 5 million easily expanded to a new city at the same time raising money was going to be difficult. The next generation of investors wanted to see that it works in other cities as well. Sure. So we were a little bit in this Catch 22. We ended up applying to those Force boost your business competition
+
+1 (43m 50s):
+for Forbes has this competition. I don't know if they still do where they give away money right
+
+2 (43m 56s):
+to they were promising $100,000 prize and at this time we won and you know, what they did is they gave us one of these. These large Publishers Clearinghouse eyes checks and very useful actually used it to cover a hole in one in our only conference room. There was a hole in the wall and we covered it with that check
+
+1 (44m 20s):
+at this point you are you are working at an office. Not not an
+
+2 (44m 23s):
+apartment at this point. We were working out of a shared office space pretty we work. Yeah, pretty move Erick so they had given us this Publisher Clearing House sighs check, but they failed to give us The small check for three months and we were getting really nervous but it would still get it. But but ultimately we got that hundred thousand dollars and that's what we used to launch in our second Market in
+
+1 (44m 50s):
+DC in Washington DC. And what did it require you guys to move down there or were you did you hire because I'm assuming you had to eat a lot of your early capital is going into sales like Business Development just hiring sales reps. Is that right?
+
+2 (45m 4s):
+That's right. We had a couple of sales reps at the time. I'm in terms of a very first employee ever was a sales rep. He's still with the company today and he was great. He figured out how to really charm his way to the doctor. So they were no more security guards escorting anyone out.
+
+1 (45m 27s):
+When did you I'm assuming that even in 2009 2010 and Beyond you were not yet profitable
+
+2 (45m 34s):
+far from
+
+1 (45m 35s):
+it. Yeah far from it, right because it's a cat. Intensive business.
+
+2 (45m 39s):
+Yes, we obviously invested heavily in customer service. We wanted patients have a great experience and we had quite a sizeable engineering team because that was actually a major engineering
+
+1 (45m 53s):
+effort. So what started to happen? When did you start to kind of see a real Turning
+
+2 (45m 58s):
+Point? Yeah. So we we had launched the ark successfully with years of hard work. We've got an adult. The ground is transported that to DC and had worked well in DC and now we said well, why are we not in more cities? And so we actually we raised a serious be with Founders fund and we use this to expend off the east coast of San Francisco than Chicago and we just got better and better at it. So we then ended up raising a citrusy and 2011 from Goldman ntsc and we primarily use this to grow. Delta team and sign up more and more doctors and from 2011 till 2013.
+
+2 (46m 42s):
+We launched roughly 30 new cities.
+
+1 (46m 46s):
+I've had that by 2014 you would cover like 40% of markets in the US which is huge. I mean, that's right. And that's a huge number of cities. And in that year your valuation of ZocDoc went past a billion dollars and that's that's pretty remarkable. I mean you were kind of on this like really trajectory and you had a pretty straightforward model, right? Mm. You were charging doctors a flat fee every year and then they could take all the bookings they wanted and I think that by that point like by 2014, it was not cheap. It was expensive you'd really raise the price. It was like $3,000 a year, right something like that.
+
+2 (47m 28s):
+Yes, we charge doctors three thousand dollars a year and there was a flat fee no matter how many bookings Doctore actually facilitated for them and the reality was for some doctors that got a lot of bookings. That was a great deal. Yeah, but but there are also doctors that God a lot fewer bookings and for them that fixed cost was actually too expensive and some of them were starting to leave the service and so we got into a situation that required us to invest a lot to stay where we are and then invest even more to continually So our overall provider base, which means we had to build out a massive sales team to always signed up more doctors, right?
+
+2 (48m 14s):
+And you know, it's some point during this time. Oh Nick actually ran an analysis that showed that it would take us several years. If ever for us to make our money back on many of the doctors we signed up
+
+1 (48m 29s):
+because you would have to sign up ex number of hundreds of thousands of doctors paying that amount every year. To make your money back
+
+2 (48m 37s):
+to make sort of our the cost of the sales team back well and they'll this was fear that is what make us dependent on external capital for are very long time. And now it's a clearly there are many companies that have taken sort of a grow fast at all costs approach and and they held onto this for an extended period of time, but you know it clearly puts off talking to Dependency to investors and their mindsets. Yeah
+
+1 (49m 13s):
+so meantime, you know, I'm from what I understand. There's disagreements. I mean, there are you know, the leadership team including Cyrus. He he I think he's sort of his position is the flat fee model is actually the best way to go. Is that a fair assessment of his position?
+
+2 (49m 33s):
+Yeah, I think that I think that's right. Right. I mean there were two fundamentally Divergent ways how the business could go forward right one way was to continue to work on optimizing the unit economics of our subscription model and the other way was to think about how to make it more transformative leap and then find a new more profitable and more sustainable model and there. Our look I can certainly understand the reluctance and taking this leap very few companies really change their underlying business model.
+
+2 (50m 13s):
+Once they have a certain scale and then live to tell about it. Right? We only know the names of the companies that have done this like Netflix when from DVDs to streaming Adobe Cloud from a box software to the cloud, but there's there's not a lot of companies that do that and and soft opening. Had to make a choice which direction wanted
+
+1 (50m 36s):
+to go. And I should say Oliver that that I mean this became intensely personal for you because you and Cyrus really disagreed on on the direction of the company should take and then he stepped out. He left the company and you moved into the role of CEO this right and I want to ask you about this, you know, one of the one of the Beauties and the flaws of this show is its Simplicity and we talked to one Person or sometimes to it's a single narrative and so we don't have Cyrus with us to tell us what happened. But when I asked you about this time because this was your co-founder.
+
+1 (51m 19s):
+This was your partner. This was your friend and he was leaving the company. How did you feel at that time?
+
+2 (51m 29s):
+All I can say is was a very hard and very emotional period for everyone involved. Yeah and It was certainly a departure, but it was also true that given these two Divergent choices you you couldn't not both of us could be useful to
+
+1 (51m 51s):
+ZocDoc and I have to imagine that for a period of time. It was sort of the end of your
+
+2 (51m 58s):
+friendship. I'll look again. We were very close we had were not only friends. We had worked for eight years buildings after together 14 hours a day, and we probably talked more to each other than to anyone else in our lives. But Sarah's and I are still in touch from time to time and I think he's cheering us on from the sidelines.
+
+1 (52m 23s):
+He's still at personally an owner of the company.
+
+2 (52m 25s):
+Yeah. So
+
+1 (52m 26s):
+shoulder. Here's the thing. I mean. We've told stories about breakups we've had we've had episodes were they were married couples who split who divorced but continued the business co-products the Susan Griffin black and her husband Brad. They continued the business Stacy's Pita Chips. They continue the business after the divorce sold it for a quarter of a billion dollars. You guys were worth valued at one point eight billion dollars. This point was ever a party that just thought, you know, God look at what we're doing and look we're going and I mean I did you and Cyrus ever sit down and say you know, this thing is just this is growing and let's just this is figure this out.
+
+2 (53m 6s):
+I mean, I think the the challenge is that it's not as if there was an analytical way to decide what the right path forward is the as long as investors wanted to give us money growing it all costs was fine strategy. The question was just how dependent you wanted to be on the Goodwill of investors
+
+1 (53m 31s):
+it sounds like you were tired of going out raising money. You don't want to do it anymore.
+
+2 (53m 35s):
+Oh not at all. But I think you want to raise money from a position where you know what you're trying to Fizz and for us it wasn't clear that the business model would work in a way that that we could just flip a switch and be
+
+1 (53m 52s):
+profitable. Yeah, so that was a tough year for you 2015. There was an article in business. I think Business Insider and it was about the sales team at ZocDoc that year and it was it was some allegations that you know, Pete members of sales team were using Adderall even cocaine. They were under immense pressure. They were working all the time when you saw that article and I'm not saying you were even aware of any of this you may not even have been aware of it, but I have to think that that article really alarmed you and and maybe even
+
+2 (54m 22s):
+embarrassed you Yeah, I mean look at there were a number of articles in 2014-15 IO they didn't absolutely get everything right, but but I certainly can say is that you know at the time is AutoCAD to their large sales team and we were still scaling very quickly. And yeah, maybe maybe the it was too focused on you know, hitting targets and Focus enough on creating a strong culture the I hear these stories from six years ago from from time to time and from from you now from candidates and and really every time this happens.
+
+2 (55m 5s):
+It's like a gut-punched and have because this we know we're completely different company now, yeah on so many levels but clearly you
+
+1 (55m 14s):
+saw that and knew that you had to change something.
+
+2 (55m 17s):
+Well, yes, I look I like there's a there's a couple of things about this right we are A technology company, but we had set ourselves up too much about execution and celebrating wins and and really too little about being adaptable and learning and building the trust required to try things that help at the risk of failure. And so one of the first things I did is to change our core values, you know to emphasize those behaviors is one of our values has adaptable not comfortable and other one is progress before Perfection Learners before Masters, right? And we only kept really one value constant their patients first and personally that that there was more of the cultural that I thought was right for a ZocDoc to succeed on many
+
+1 (56m 5s):
+dimensions. So you take over the company's got a high valuation, but you're still not making money and you know that you've got to change the underlying business model. You're never going to make money. And from what I understand. This is sort of the beginning of what you have internally described as the second founding of the company
+
+2 (56m 22s):
+that is right. That is Is
+
+1 (56m 23s):
+right and that basically happens in in 2018. You you launch this new business model where instead of the $3,000 your membership fee. Basically you would charge doctors a lot less like like 200 or 300 bucks. But then every booking you would take a cut from that booking so some more like a travel agency
+
+2 (56m 45s):
+a little bread. We'd only charge for new patient booking. So the existing patients to a practice we made free but yes, there was the Idea, and it sounds like such an obvious thing to do but here was the problem with it. And why why we thought it was incredibly risky to try this our best customers that had been on for a long time. They got lots of bookings. Right? And if we start charging them / bookings their prices go up very significantly here in some cases ten times more and that Seemed completely insane to us and in particular because when we talk to other companies that were gone through similar changes and even pricing experts.
+
+2 (57m 35s):
+Their number one advice was make sure whatever you do never charge your best customers more and for us would be precisely the opposite and the thing that was counterbalancing this in our mind was well, maybe we'd be able to bring on A lot more doctors because the barrier to entry is now much lower that was there was the back and forth in the team to figure out whether it's really the path we want to want to go.
+
+1 (58m 7s):
+So this is still a risky strategy because you're depending really on new bookings because the 200 dollar annual fee is dramatically lower and I have to imagine in year one. You actually start dropping your Revenue in the year one of this kind of second. Founding right?
+
+2 (58m 24s):
+Well from a risk profile versus that right? The the worry is that you lose all your best customers and with it all the bookings that they used to be getting. Yeah. And so we needed to be ready for a very significant drop in bookings and revenue and II, you know sort of challenge was here that the beauty of this approach models that we got all this money up front. Right and share it now to one. We're getting paid after the booking with with a 30-day payment period so we had a huge working capital requirement to make that
+
+1 (59m 6s):
+happen. So did you see a drop in Revenue in 2018 when you rolled this out?
+
+2 (59m 11s):
+No, we didn't because we actually didn't see the doctors believe the way that we had anticipated and in fact, yeah while we had very much worried that that they would be upset and some of them certainly were upset. We were providing so much value to them that the one of them just said, you know, what what took you so long. I knew I was getting a great deal all along so that worked really well and we had piloted in Georgia initially in April 2018, and then that had worked and there's a we then allowed in Colorado a few weeks later that work to and from there. We went to Washington State.
+
+2 (59m 53s):
+8 and again, very positive results and after these three stages I said, okay great. We know this works has grown it out in our largest most important Market. Let's go to New York and that went terribly horribly
+
+1 (1h 0m 8s):
+wrong. Yeah. They the doctors in New York. Not only were so pissed off. They actually I read mounted a change.org petition. I don't know what tube to end this practice. Or something and they were really mad and either really really mad. And I guess you guys responded you said all right, we won't we won't roll this out of New York for a while.
+
+2 (1h 0m 33s):
+Yeah, you look in New York. We facilitate roughly one in five new patient doctor relationships in the entire city on ZocDoc. And so the economic impact for the providers in New York was much greater than for the providers in Georgia, Colorado or Washington. And so yes to give you one example, there's a Dermatologist and Soho, and he paid under the old subscription model yet ten doctors are paid $30,000 and under the new pricing model. His cost was going to go out from $30,000 to roughly $340,000.
+
+1 (1h 1m 7s):
+Wow. So what was your response to that? I mean, it seems like a pretty reasonable concern.
+
+2 (1h 1m 13s):
+Yeah. So look after the conversation with the dermatologist. I actually put down the phone and I thought you know what? He's right and and so I paused and we regrouped and we did a couple of critical things during this time. Like the first one is we just went on the listening to her. Yeah, we talked to Providers. We got their feedback and we just adjusted our transition plan to give providers A much longer grace period to decide, you know, whether they want to transition to the new model or not. And then so then we relaunched, New York. Six months later and Ed when dramatically better.
+
+1 (1h 1m 58s):
+So this strategy works and you see results from the strategy pretty quickly like within a year.
+
+2 (1h 2m 5s):
+Yeah, we within a year. We had finally had some incredible momentum and I was really going better than we had expected in. Our wildest dreams are our existing client churn went down to essentially zero and mean people still retire and and move jobs, but no one really left the service and we were adding more and more providers because the barrier to entry was low and so in 2019, we began growing profitably
+
+1 (1h 2m 37s):
+so it sounds like 2019 was really the banner year
+
+2 (1h 2m 41s):
+2019 was a was a fantastic year and honestly, we had so much momentum coming into 2020 and it feel like hey, we worked really hard for three years and is profitable and the sky was the limit until health is
+
+1 (1h 2m 59s):
+Sam until March of 2025
+
+2 (1h 3m 2s):
+Demars of 2020 and and that that's really maybe the third founding of ZocDoc.
+
+1 (1h 3m 10s):
+Right? Well, I want to ask you about March of 2020 because your business is based on people booking with doctors and going to the doctor. I have to imagine your revenues must have plummeted like every other industry like I mean doctors offices are still in most of the country. Slow or to our trickle of patients coming in
+
+2 (1h 3m 31s):
+absolutely. So when the lockdown started happening we saw in person bookings declining anywhere between 50 to 90 percent by the end of March. Yeah, not surprised and a lot of the advice that was getting was to lay off people and make sure that we hunker down to weather the storm, but I saw an opportunity to build windmills, right? So I thought well we should be need to Be there for our patients. We should be expanding into Telehealth and I need every team member to help me do that. And so we really went all in and supporting video visits and our product and engineering team began redesigning the tire market place to support virtual care.
+
+2 (1h 4m 20s):
+And so we actually released the soft dark video service and we made this available to any Position whether they are on ZocDoc or not for
+
+1 (1h 4m 31s):
+free. And by the way, how'd you like had a plan to do this? How long would it I mean I would imagine if you said in February this year. Hey, you know, I really want to focus on Telehealth. Would you have expected that by may it would have been ready to go?
+
+2 (1h 4m 48s):
+Absolutely not. I think what has been really fantastic to see is how we really finished two years of roadmap in two months. Oh wow, and it's great because it just gives us a window on what the next phase of ZocDoc will be. I'm really looking forward to that in my mind. We're the point were Amazon started from going selling only books to also adding CDs. We have just gone from doing only in person to also doing Telehealth and I can't wait to see how this
+
+1 (1h 5m 26s):
+unfolds. it sounds like you might be reading between the lines here, but you really admire and respect your co-founders particularly Cyrus and the work that he did to build this company, but I wonder if do you think that you will I don't know rekindle your friendship I don't need to do is that something that is in the cards because a breakup is This is emotionally I was hard. I said really hard.
+
+2 (1h 6m 2s):
+Yeah, I know guy do I think will work 14 hours together again, maybe not but you know, I I've gone through tougher breakups and reconciled in my past. And so I think we are we're in good shape. And honestly, we are meeting were talking from time to time. Yeah, we both have things to do and places to be so we're not hanging out all the time. But but is now also five years ago. So we are very much focused on making our joint baby
+
+1 (1h 6m 42s):
+successful. When you think about your journey and all that's happened to you. How much do you think this has to do with with luck? And how much do you think it has to do with with the hard work you put in and in your your
+
+2 (1h 6m 57s):
+skills? Well, we look I I believe that there's really three ingredients to success and in the order of importance. They are luck than Talent than hard work and the only one that's completely under you controllers. How hard you worked right and working hard to gives you more shots on goal. It helps you stay on the top of what you your talent allows. And absolutely we started at the right time the right place. So what what I'm proud of in all of that journey is only that when we were wrong and when we had to revise and when we needed the grit to actually make it work, you know, we lived up to that and that's really that's a all that anyone can ask of themselves to do
+
+1 (1h 7m 52s):
+that's Oliver Kara's co-founder of ZocDoc, by the way, remember how they originally wanted to All it Physicians.com or doctors.com but couldn't afford the million dollar price tag to buy the domain name stock doc.com wasn't only available the price they paid for that domain name six bucks. And thanks so much for listening to the show this week. You can subscribe wherever you get your podcasts. You can also write to us at HIV T at npr.org if you want to send a tweet. It's at how I built this or add guy Roz. You can also follow me on Instagram. That's at guy dot Roz.
+
+1 (1h 8m 34s):
+Our show is produced this week by Jared Anderson with music composed by round Tina of Louis. Thanks. Also to Julia Carney canvas limb Neva Grant and Jeff Rogers. I'm guy Roz.
+
+2 (1h 8m 45s):
+Even listening how I built
+
+1 (1h 8m 47s):
+this. This is NPR.
+
+2 (1h 9m 4s):
+black voters play a crucial role for any Democrat who seeks to win the White House, but some big device amongst that block and some serious ambivalence could determine who is elected president this November listen now on the coast which podcast
+
+1 (1h 9m 17s):
+from NPR

@@ -1,0 +1,704 @@
+Guy Raz (0s):
+Wondery Plus subscribers can listen to How I, Built This Early, and ad free Right. now join Wondery Plus in the Wondery app or on Apple podcasts.
+
+1 (10s):
+Think, of all the things you can do in 10 minutes or less. Scroll through social media, Check your bank balance. make a sandwich or learn about the surprising economics behind all these things. The Indicator for Plan of Money is a quick hit of insight into the economics of business, work and everyday life. Every weekday in less than 10 minutes. Listen now to the Indicator podcast from NPR
+
+Guy Raz (31s):
+Support for this podcast and the following message come from Corient. Corient provides wealth management services centered around you. They focus on exceeding expectations, simplifying lives, and establishing legacies that last four generations leverage their exclusive network of experts to help achieve your personal and professional financial goals. As one of the largest integrated fee-only registered investment advisors in the us, Corient has experienced teams who can craft custom solutions designed to help you reach your financial goals. No matter how complex Real wealth requires real solutions, connect with a wealth advisor today at Corient dot com.
+
+Guy Raz (1m 16s):
+Fussing with plastic cards should be a thing of the past. Instead, pay the Apple way no matter where you're using it in store, in an app or online. It's accepted at many of your favorite shops, so you can pay for everyday items like coffee, gas, and groceries. Apple Pay is easy, secure, and built into iPhone. All you have to do is set it up, just add a card in the wallet app and you're good to go. Hey, before we start the show, a quick thought about imposter syndrome, which is something that comes up often in How, I, Built, This interviews. I recently interviewed Kerry Brownstein, who worked with Fred Armisen to create Portlandia, which is one of the funniest TV shows of the 2000 tens.
+
+Guy Raz (1m 57s):
+And Carrie talked about feeling nervous and unprepared in the writer's room and eventually how she found her place there. If you wanna hear more about it, check out my conversation with Carrie over on my other podcast. It's called The Great Creators. Just search for the great creators with Guy Raz, wherever you listen to podcasts, or go to the great creators.com and now onto today's show.
+
+Hernan (2m 27s):
+I remember looking at the p and l statement by the end of that month, and we had maybe $10,000 in revenue,
+
+Guy Raz (2m 37s):
+And you had a staff of six.
+
+Hernan (2m 38s):
+We had a staff of six
+
+Guy Raz (2m 40s):
+And 10,000 bucks. Ain't gonna cover those costs.
+
+Hernan (2m 43s):
+Nope. No, there wasn't. Like even if we get to 10 times this a hundred times, this is not going to be a big business of the scale that I thought that, that it would. And I remember thinking, oh my God, what did I do?
+
+Guy Raz (3m 9s):
+Welcome to How I. Built This. A show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. I'm Guy Raz and on the show today how Aeron Lopez saw the early promise of podcasts and left a corporate job to start wondering a podcast platform that eventually sold to Amazon for hundreds of millions of dollars. Back in 2012, I left the world of broadcast radio and went into the world of podcasting. And at the time it was like going into exile.
+
+Guy Raz (3m 49s):
+up to that point, I'd only ever been a print, radio and TV reporter. So when I started in podcasting, many of the people I knew in traditional media took pity on me, who listens to podcasts. A very famous colleague asked me at the time, and why would you listen to one subject for a whole hour? And to be honest, I asked myself the same questions. I had no idea if anyone would ever listen. But just two years into my own journey, another podcast managed to turn the whole industry mainstream. That show was season one of Serial and it would help Usher in a podcast boom that inspired thousands of people to get into the space.
+
+Guy Raz (4m 35s):
+One of them was a TV executive named Anon Lopez. At the time, he was the CEO of Fox International Channels. And when Anon heard Serial, he realized the audio industry might be at an inflection point similar to what he'd seen happen to television in the early two thousands. Back then, a new technology called TiVo allowed viewers to record their favorite shows and watch them anytime. And this allowed TV writers and producers to create an entirely different kind of program TV shows that told long complicated stories over the course of a season, it was the dawn of the prestige era in television, and Arnand believed that audio was primed to go through the same revolution.
+
+Guy Raz (5m 22s):
+So in 2016, he left his job at Fox to launch a podcast network called Wondery. After struggling to pitch the idea to early investors and coming close to running out of Cash Anon and a small team managed to score a hit with a true crime podcast called Dirty John. And soon enough, Wondery became the target of acquisition offers from bigger players, including Amazon, which did acquire Wondery in 2021. Reportedly for around $300 million. Annan left the company shortly thereafter, in part to fight an indictment he faced related to his time at Fox. He was found not guilty, but the ordeal lasted nearly three years, which we'll hear about.
+
+Guy Raz (6m 7s):
+Also, to address the elephant in the room, yes, How I Built This is distributed by Wondery. And no, they didn't ask us to make this episode. In fact, they didn't even know about it until just a few days ago. The thing is, I wanted to interview Anand because he's one of the most successful podcast entrepreneurs in the business, and his story is somewhat unlikely. In fact, he barely spoke English until his early twenties when he immigrated to the US from Argentina. He grew up in Bueno Aires. His dad ran an auto parts store and his mom was an accountant. And Ernan came of age in the 1970s and eighties, a time of massive social change in South America.
+
+Hernan (6m 50s):
+We grew up for as long as I remember in this military dictatorship. And when I was 13, I remember we transitioned to democracy and the whole country celebrated as if it was 10 times Christmas. Hmm. There was joy in the air and there was this enthusiasm with a newfound freedom of press. And I remember at the time going to the city to celebrate the new Democratic government. And also at the same time, this is 1983, I was 13, something else was happening in my life. I was coming to the realization that I was gay and of course in Catholic country, not something that was easy to accept.
+
+Hernan (7m 34s):
+And this also happened to be at the same time of the AIDS crisis. I got to see the awful headlines that were being written about gay people in this context and reading headlines that were just not true and, and and feeling if people knew what the truth is, they just would not be printing what they're printing. And I think that's probably when I got the bug that I wanted to work in media and yeah, I went to write for the school newspaper and then becoming the editor of the newspaper.
+
+Guy Raz (8m 7s):
+And so when you were a teenager and your parents or you know, 'cause Argentina's a sort of, and certainly then very machismo culture, right? And so that's right. As a teenager growing up, were there other young men that I don't know that you could, that, I mean was there a community that you found? Was there like an underground?
+
+Hernan (8m 27s):
+No, no, no, no. Not when I was a teenage. Well, I guess when I went to college to study advertising and communications, that was the first time that I talked to somebody and I told them what I was feeling and they were open and and welcoming. It was a straight guy. He, he was a musician. And, and then after that, as would happen, I met a guy and I fell in love and any plan of being in the closet just went out the window.
+
+Guy Raz (8m 56s):
+How did your parents react when you told them
+
+Hernan (8m 59s):
+Not not great? I think they were from coming from the point of love, right? They were concerned about me and, and they, they were having the same concerns that any parent would have at that time or, or any time at, at that age. So, so they wanted me to get therapy and, and really believe whether it was a temporary phase or not. But they came around and they, you know, they, they became loving and accepting and so did my siblings. I have an amazing relationship with them. I talk to them every weekend. They're still in Argentina.
+
+Guy Raz (9m 32s):
+And so growing up, do you remember feeling like having big aspirations to do big things? Were you, do you remember feeling ambitious as a, even as a teenager?
+
+Hernan (9m 44s):
+I had a little bit of an entrepreneurial streak. I remember when I was 18 with four friends of mine, we bought airtime on a neighborhood radio station. This was late at nine or Thursday at 11:00 PM and we had a radio show and we financed it by selling advertising. And that show was the equivalent of what a podcast today would be and one with 10 listeners. And that's assuming that every one of us got both of our pens to listen. But it, it was short lived because then I got a real full-time job at a radio and cable company.
+
+Guy Raz (10m 21s):
+He did so well selling ads that eventually anon got an offer to move to the US to work for Fox International Channels. And we're fast forwarding a bit here, but while he was in the us, Ernan got an MBA at the University of Miami and then rose through the ranks at Fox with almost unbelievable speed. By age 30, he became the senior vice president for Fox Latin America, a job that partly involved adapting US shows for a Spanish speaking audience.
+
+Hernan (10m 52s):
+I was in charge of programming and marketing and I, with my team was in charge of deciding the programming schedule and how we would market them and how we would launch them. So
+
+Guy Raz (11m 3s):
+What kind of shows? 2000, I'm thinking like what did Fox have? Simpson's X-Files, I think. Right?
+
+Hernan (11m 9s):
+Simpson's X-Files, alibi, Buffy the Vampire Slayer. Oh, angel
+
+Guy Raz (11m 14s):
+Shows. Wow.
+
+Hernan (11m 15s):
+It was really at beginning of a renaissance for the 20th century Fox studio. Totally. And I didn't know this at the time, but that was the dawn of what's today considered the golden age of television. Yeah. If you think about it, that that was the time when the Sopranos and six feet under were launching and our sister channel effects in the us what was about to start that revolution with the shield, which was their way of going after the character driven, very greedy, incredibly well produced drama. And I was just very fortunate to be there to witness it all.
+
+Guy Raz (11m 55s):
+Alright, so while you were sort of rising up the ranks at Fox Latin America, I read about this really something that you wrote about a couple years ago and it was about your accent because, you know, having learned English only a few years earlier, you had a pretty heavy accent when you spoke English. And I guess you got advice from like a mentor. And tell me, tell me about what, what, what happened?
+
+Hernan (12m 24s):
+What happened was that in 2001, I started to report to a new boss, David Haslingden. And I learned so much from him. He was an amazing mentor and coach, the person that took time to develop the skills from each of the executives that he took interest in. And my career was, was making progress, but I had this hunch that there was something that was keeping me from going further and his boss had sent word or had sent a suggestion that I should take accent reduction classes.
+
+Guy Raz (13m 2s):
+Accent reduction classes. I don't even know they exist. of course they exist, but got of course. But who knew? So was your accent hard to understand? Were you hard, was it hard for people to understand you when you spoke English?
+
+Hernan (13m 14s):
+In hindsight, yes. And I remember being at meetings and seeing faces of people frowning and I remember that being the cue that, oh, I said something that people are not understanding and that got in the way of my ability to communicate and to inspire people and to get my points across. And I remember hearing that advice and saying, oh my God, what a gift. How did I not see this before? And how did I not know that their accent reduction coaches? So I remember finding one in LA as far as time spent versus impact on my career.
+
+Hernan (13m 55s):
+One of the best decisions I ever made. And I recommended this to so many people over the years. It's
+
+Guy Raz (14m 1s):
+So interesting because, you know, I've lived all over the world as a reporter in my past life and in countries like Germany and France, accent is really appreciated and valued. And I think in the United States today, no boss would ever give somebody this advice. They would not give this advice because it would be considered to be toxic, right? To say, Hey, you might want to take a class to work on your accent. So you're, you're, you know, but you, you know what I mean? Like, nobody would've told you that in 2023 at all
+
+Hernan (14m 36s):
+1000%. And, and I remember this same executive gave that advice to somebody else who did get offended and, and didn't work on it. And you still probably can see that I still have an accent. It's not that it completely went away, but think about it. If you are at a com at a meeting with your peers and you come up with a great idea, but you're not communicating it well in a way that comes across and then another colleague who has a perfect accent and is a great communicator, picks up on your idea, but then communicates it in a way that inspires people, that gets people to say, oh wow, that's a great idea.
+
+Hernan (15m 16s):
+Who do you think gets credit for the idea?
+
+Guy Raz (15m 18s):
+Yeah. Yeah. I read an interview you gave a few years ago, you said, I don't think I would've made it to the c-suite level at Fox if I hadn't taken those accent classes
+
+Hernan (15m 29s):
+A thousand percent. I don't think I would've.
+
+Guy Raz (15m 32s):
+It's it's just so interesting how little tweaks, and it's not like you did this for years and years. It was a, it was a couple of months. That's right. That's of of taking, taking classes and then practicing on your, it's like physical therapy. You go, you get the physical therapy, but they get to do the work on your own.
+
+Hernan (15m 45s):
+That's right. And now there're apps that allow you to do it. Yeah. And, and, and it give you instant feedback. So it's a lot easier now than it was before.
+
+Guy Raz (15m 54s):
+Alright, so you are now, this is, you know, early two thousands, 2003 you became president of Latin America and the GM of U for the UK for Fox International Channels. So you were really, clearly you had people there who were, who really liked you, were impressed at the work you were doing. Did you, were, were you good at finding mentors?
+
+Hernan (16m 17s):
+I think most importantly, David, my direct boss was the best mentor and he gave me chances and opportunities to learn. But I was always somebody who was reaching out to other people and trying to learn. I heard this amazing expression that if you work in international, you have the ability to quote, unquote read tomorrow's newspaper because you are in a country and you're seeing a trend. And that trend probably happened at some other country five years before, two years before, three years before. And so you are much more able to predict trends that are going to happen from one place to the next.
+
+Hernan (16m 58s):
+So for example, my boss David gave me the chance to launch a television channel in the uk and that that would become the FX channel in the uk. And remember flying in, we only had six months to get from zero to launch. And noticing that the television market was hyper fragmented because every household had digital penetration. So, and they had multiplex Channels. There are a number of things that weren't even available in the US And I remember thinking, this is the way that multi-channel television will go everywhere, not just the uk. So in the future we're going to go through a world of hyper fragmentation of audiences.
+
+Hernan (17m 41s):
+So that's when I started to realize that we need a new set of skills to create shows and market them in a way that would break through.
+
+Guy Raz (17m 51s):
+Alright. And meanwhile, you're, you're continuing to move up the ladder at Fox and, and we're, we're fast forwarding again here a little bit, but, but I guess around 2011 you are promoted to president and CEO of all of Fox International Channels, which again, is a pretty incredible rise. I mean, you've reached sort of the top of the food chain Yeah. Overseeing tv, Channels, production houses, digital assets all over the world. And you probably were thinking, I imagine that, you know, maybe one day you'll be the head of Fox, I don't know, or maybe the, the head of another studio. Is that, was that the trajectory you felt you were on?
+
+Hernan (18m 32s):
+Part of me felt that I wanted to see whether I could go and lead another company. And at the time I also was curious about entrepreneurship. And I remember part of my job was in, in, in business development, talking to founders, talking to entrepreneurs, and seeing how they went from zero to 100. And actually there's a moment that I remember in 2015, there's this bank that generated or published a valuation of the whole company of Fox is called a sum of the parts valuation, where they go and value each part of the business.
+
+Hernan (19m 17s):
+And there's FIC which at the time had grown into one of the biggest parts of the Fox organizations, was valued at $10 billion.
+
+Guy Raz (19m 26s):
+Wow.
+
+Hernan (19m 27s):
+And part of me wondered if I could create even a small version of that starting from scratch without the benefit of a large organization with amazing brands of amazing colleagues. And, and, and so I had that nagging sense and, and at the time I, I felt that at Fox I probably had risen at as far as as I
+
+Guy Raz (19m 52s):
+Would. And we're gonna talk a little bit more about where your head was at in a second, but, but I also wanna pause and ask about your personal life. Because by this point you'd also gotten married and, and had kids, right?
+
+Hernan (20m 5s):
+Yeah, so, so I, I got married to my, my now ex-husband in, in 2008. We, we had met while on vacation and, and very quickly the, the very first day that, that we were, we talked about having kids and we were trying through IVF initially that just didn't work out. And, and, and then we got on the adoption list and in 2010 we were blessed with our son. And then within nine months we were blessed with our daughters. So that was a busy, busy time at our household.
+
+Guy Raz (20m 40s):
+Meantime, in the background, you, like many people started to listen to podcasts. I got into podcasting in 2012, so I'm like a dinosaur in this industry. And I remember very distinctly, 'cause I had started, you know, with this show the Ted Radio Hour, that it really, everything changed for everybody with Serial, serial. It, it, it really kind of floated all boats, you know, it was such a phenomenon that people were like, wait, what's this podcasting thing? And then they discovered other shows. You also had that experience just as a consumer, a listener of podcasts I think. Right?
+
+Hernan (21m 19s):
+That's right. I had a number of friends, not a lot, but they came to me and they all used the same language. You have to listen to Serial. And I remember listening to it and saying, whoa, now I understand. This is just something that I had never experienced before in, in, in Audio. It was
+
+Guy Raz (21m 39s):
+So good. That first season was unbelievable.
+
+Hernan (21m 42s):
+Unbelievable. I remember I listened to maybe the first four episodes over a month and then the Final Four and binge listened to them on a flight back from Europe. And, and I remember crying and, and feeling that just, it was an incredible story. So emotional and so well told. And so I said, okay, zero's great. What's next? And then somebody recommended Startup the show that Alex Bloomberg.
+
+Guy Raz (22m 7s):
+'cause he started his company around then Gimlet around 2014, I think.
+
+Hernan (22m 11s):
+That's right. That's right. Yeah. And I remember listening to it and liking it every bit as much. 'cause not only was an amazing narrative CLI story, but it also happened to be about the, the creation of a company. And, and again loved it. And I looked for other shows like those and Zilch. But
+
+Guy Raz (22m 33s):
+You were listening to TED Radio Hour, my show at the time,
+
+Hernan (22m 36s):
+I was listening to TE Yes sir. But it was not a serialized
+
+Guy Raz (22m 39s):
+Show. It was not a serialized
+
+Hernan (22m 40s):
+Story. It was exactly, I was looking for a serialized story. 'cause remember one of the things that I learned at Fox was, and, and this was true of any entertainment company, there was a lot of value to be created out of having a library of Evergreen ip. Yeah. So I I I thought that 0 1, 1 of the reasons why you could spend the time in making a show like that was that people could listen it two years, three years, four years later would still be current. Yeah. And that, that's something that I aspired to do.
+
+Guy Raz (23m 9s):
+And you knew that there was something about this evergreen idea, right? Which is you make content that has a lifespan beyond it's that week or beyond that month that it could live. I mean, this is how I think about this show. Like if you go back That's right. Seven, eight years to on this show, the stories, they don't change. I mean, they, they elements change, but they stand, they're evergreen. You can hear them in 10 or 20 years is still valuable.
+
+Hernan (23m 32s):
+That's right. And, and when you talk to anybody who has run a movie studio or a television studio, they will tell you that library funds new production. Right. That the profits and the cash flow that comes from library typically is what funds new production because new production is expensive and risky and more new production doesn't work. Whereas library, you only monetize what actually has worked.
+
+Guy Raz (23m 53s):
+So essentially when people watch, you know, Halloween horror movies around Halloween or or Christmas movies Home Alone around Christmas, that actually wets you're talking about that. That's right. Those libraries are just, they live forever and and they can generate, they generate enough money to fund new projects.
+
+Hernan (24m 9s):
+That's right. And that, that happens in music as well. So it's, it's a, it's a dynamic that has been well known and, and one of the reasons why libraries are valued as much as they are. And that, that, again, true of many, many years of ip.
+
+Guy Raz (24m 23s):
+So, alright, you're listening to these podcasts, but you're a listener to them. I mean, you've got this job at Fox, very successful executive, but I have to imagine it wasn't right away where you're thinking, that's it, that's what I can do.
+
+Hernan (24m 37s):
+It It was, it didn't take a long time to, to be honest, because I, I always felt that timing is important and, and it's, you can be right on time too late or too early, too late. You cannot go back from too early is also bad. But if you have to choose, you better be too early than too late. It's always better to be just a tadd little early before everybody else goes into one trend. Yeah. And I went and studied the history of what happened in public radio in other countries and noticed that there were audio dramas being produced in the UK and Canada. Yeah.
+
+Guy Raz (25m 15s):
+I mean the BBC had an it still does. The archers are, and you know That's right. The whole that was what the BBC golden age of the BBC was. It was radio dramas. Even in the US they existed.
+
+Hernan (25m 27s):
+That's right, that's right. Back, back in the post-war. Right. And they were replaced by television. And if you remember in the nineties, the most popular television shows were episodic. Yep. Were procedurals and sitcoms. You can watch what episode Skip the next Yep. And in the turn of the century, TiVo gets invented and with it on demand television, so people are able to watch television on their own time. Surprisingly or not, the Sopranos six feet under, and that new Goldman age of television of character driven drama starts at that time. That's when showrunners know that they're going to be able to tell stories over an arc of a season.
+
+Hernan (26m 7s):
+So character development becomes more or as important as plot.
+
+Guy Raz (26m 12s):
+So the minute TiVo happens, that enables what we now call sort of the golden age television. Because you could record them and watch them on your own time.
+
+Hernan (26m 23s):
+That's exactly right. So my analogy was that if episodic was a pass and TiVo happened, and that led to the golden age of television, which led to the new age of not only HBO, but FX and A MC and, and eventually Netflix. Then podcasts were the TiVo moment, maybe Serial was HBO, but there was an opportunity to create fx, Showtime, a MC, all of that amazing IP that followed. And I, I just happened to be witnessing a potential inflection point in what, what then became the golden age of audio.
+
+Guy Raz (27m 5s):
+And everybody had a smartphone, which was like a TiVo in their pocket for audio.
+
+Hernan (27m 10s):
+That's right. And there was, the shows were funded by advertising. So there was very little friction. And you can promote shows through the Apple podcast chart and, and the app. And there were so many things lining up that I felt that this was an amazing opportunity. I'll be crazy not to take it.
+
+Guy Raz (27m 34s):
+Let me come back in just a moment. Aeron takes the leap to start his own podcast company and learns that despite his skills and connections, a leap can feel more like a plunge. Stay with us. I'm Guy Raz and you're listening to How I. Built This. This episode is brought to you by eight Sleep. Sleep Science shows that in order to sleep our best, our body temperature needs to drop in the early and middle part of sleep and rise in the morning. I used to be a terrible sleeper, but I can tell you that I've been sleeping on the pod cover by eight sleep for a few months now.
+
+Guy Raz (28m 16s):
+And it is a total game changer. Seriously, it's absolutely incredible. Eight sleep figured out that my body likes to sleep on a really cold mattress so it changes the temperature without me needing to set anything. Just in the last few months, I have slept deeper, longer, and more sound than I have probably since I was a baby. It's amazing. The pod cover will improve your sleep by automatically adjusting your bed's temperature based on your individual needs. The cover can be added to any bed like a fitted sheet and allows you and your partner to cool or warm your side of the bed as low as 55 degrees and up to 110 degrees the last few months of the year can be stressful, but I rest easy knowing that I'm sleeping on the most sophisticated sleep tech in the world.
+
+Guy Raz (29m 3s):
+Invest in the rest you deserve with the eight Sleep pod. Go to eight sleep.com/built and save $150 on the pod cover by eight Sleep. Eight Sleep currently ships within the USA Canada, the UK Select countries in the EU and Australia. Raise the bar of your entertainment with five Sonos most powerful speaker. Use five to experience vividly clear room filling sound for music, streaming vinyl and more five's unrivaled. Acoustic design features three high excursion woofers within a sealed architecture that eliminates reverb and echo when positioned horizontally. Five automatically separates the left and right Channels for impressive stereo sound.
+
+Guy Raz (29m 48s):
+In fact, I have one in my house. And it's not just a beautifully designed piece of equipment. It is an incredible sound. It's like you're in a concert hall when you put music on. And it's also really easy to connect whichever devices you have, whether it's through Bluetooth or through the three and a half millimeter Jack. We can connect our turntable CD players, a projector and tons of other devices directly to the five. And with Sonos, we started with one speaker and then expanded over time. Sonos makes pairing super easy since Sonos speakers connect over wifi. That means you can group speakers in different rooms and play music throughout your entire house. Visit Sonos dot com to learn more and find gifts for every listener on your list.
+
+4 (30m 33s):
+Hi guy, my name is Kayla. I'm from Cleveland, Ohio, and my favorite episode was with Sarah Blakely from Spanx. And she had talked about how when she brought her idea for Footless pantyhose to the manufacturer, they thought that she was crazy and that nobody would want it. And when I first submitted my product idea to a manufacturer, they thought the same thing. And it was kind of an aha moment for me of, okay, maybe I'm onto something. So I'm grateful for that inspiration and all of the episodes and wealth of knowledge that you share with us.
+
+Guy Raz (31m 5s):
+If you wanna share your favorite episode of How I, Built This record a short voice memo on your phone telling us your name, where you're from, what your favorite episode is, and why a lot like the voice memo you just heard. And email it to us at HIBT at id.wondery.com and we'll share your favorites right here in the ad breaks and future episodes. And thanks so much. We love you guys. You are the best. And now back to the show. Hey, welcome back to How I. Built This. I'm Guy Raz. So it's around 2016 and Anand Lopez has a top job in television, but after becoming a fan of podcasts like Serial, he starts to think about launching his own podcast company.
+
+Hernan (31m 56s):
+When I talked to my boss at the time, Peter Rice and, and, and I told him, well, I want to start this podcast company and, and, and this is what I like to do. And he said, oh my God, that sounds like such a fun idea. I don't know that it'll be commercially successful, but I believe in you and we'll make the first investment Wow. As Fox. And so they, they put a $250,000 check.
+
+Guy Raz (32m 20s):
+So my question, I mean here, here you are. Now you are, you know, at this point, you know you're gonna start a business and you have a lot of connections, obviously in a lot of experience, but still risky because it's 2016 podcasting is, you know, it's, it's blowing up, but it's still, you know, not clear. Did a part of you think, well, I'll try this and if it doesn't work, I'm sure I can go back and work as an executive at a media company.
+
+Hernan (32m 50s):
+A part of me thought that that was a fallback. And, and, and I I, yeah, I talked to a lot of people in my internal circle and, and to be frank, a lot of people thought I was crazy about going into this new space because the whole industry was thought to be worth $125 million.
+
+Guy Raz (33m 9s):
+Yeah. Which is nothing. I mean, you know, if a bunch of people are competing for market share, they're competing for three, $5 million, $10 million.
+
+Hernan (33m 16s):
+That's right. And I'm saying thought to be, because the industry itself didn't even have an official estimate.
+
+Guy Raz (33m 21s):
+So at the time, this is 2016, you, you le Lee Fox and you, you decide you're gonna start your own podcast network. And let, let's talk a little bit about what that was going to be, because obviously you were inspired by Gimlet and what Alex Bloomberg and Matt Libra were doing there. And we did an episode on them a couple years ago on this show, which is, is a really interesting story and worth listening to. But let, let's start with the reaction. I mean, I'm sure most people around you are like, you know, this is great, Heron, go, go for it. Did you feel any sort of, I don't know, underneath the surface that there was, people were like, this is, this is a weird idea. Like what is he doing?
+
+Hernan (34m 1s):
+Oh no, they did, he wasn't, wasn't very much under the surface. I, I remember talking to colleagues that were wondering like, what the heck is Hernan doing? And, and, and it was just very, 2016 was tough. It was in a number of ways. So because we had that 250,000 check from Fox and then a few friends and, and former colleagues also offered to invest and we raised another 200 grand. And I thought, okay, this is easy. Yeah. But then this is where it gets interesting. I I I try to go and raise money from Venture Capital the way that Gimlet had raised money. Yep. And the phones stop ringing.
+
+Hernan (34m 41s):
+You
+
+Guy Raz (34m 41s):
+Couldn't mean even with all of your industry experience in your background, you couldn't raise any Venture capital money in 2016.
+
+Hernan (34m 49s):
+I could not. I guy I talked to, I stopped counting the nose after I hit 50 on venture capitals. And they all had different versions of different reasons and they were legitimate by the way. So the industry was super small. I was a solo founder in my forties with no experience in starting a business from the point of view of, of they, they were looking at it and, and had spent too much time at what they thought was a cushy corporate job. Yeah. And so, yeah, we just hit a wall.
+
+Guy Raz (35m 20s):
+Well, tell me a little bit more about this. I mean, you, you're going from a guy who flies to Bueno Aires or Berlin or you know, Singapore, wherever. And like you're being chauffeured into these boardrooms and you're the boss from Fox and you're meeting with all these people, all of a sudden now you're like being brought in for meetings and you know, sitting in conference room where everyone's like, okay, why are you wasting our time? What, what is this about?
+
+Hernan (35m 49s):
+Pretty much. And, and setting up my own printer and, and, and trying to find out how to do payroll and, and gets worse actually. So on top of that, that my husband at the time was in the hospital for a couple of months and then was unable to work for the rest. So I was yeah. Taking care of him, dipping into my own savings every month because we were unable to fund the company. And, and they, there were many points in 2016 that I said, what am I doing? And I was ready to give up.
+
+Guy Raz (36m 22s):
+How many people were you able to hire from, from that initial seed funding?
+
+Hernan (36m 28s):
+We hired six people very early on. We, we had somebody in sales and, and, and head of the operating office, a chief content officer of Guin with Fox for 20 years.
+
+Guy Raz (36m 42s):
+And this is a, a a, a major sort of figure. So, so he probably got some equity 'cause you couldn't possibly pay him what he was getting paid a Fox.
+
+Hernan (36m 50s):
+That's right. That's right. Yeah. And so ev yes, he did. And, and we had somebody in charge of recruiting shows that this is one of the things I learned at Fox was that it, it's almost impossible to create a media brand with just your own content. You have to combine content that you produce with content that you license from others. And that was the model for Wondery as well.
+
+Guy Raz (37m 14s):
+So Anand you, when you started this out, right, I mean, you've got to raise the money and start a business, but at the same time you had to make great shows, right? And, and, and you wanted to do something different than, than what was being done in public radio at the time or, or at a company like Gimlet. So what was it that you wanted to do?
+
+Hernan (37m 34s):
+So I wanted to bring everything that I had learned in 25 years in television to the area of podcasting, from storytelling style to marketing to business model. But the first product that we wanted to launch were audio dramas. It hadn't been done much. It was only maybe one or two audio dramas. And, and I, I essentially wanted to create those Hollywood soundscapes with characters and sound design and, and essentially turn it into scripted audio. And, and we did, we we, we launched this great show, I thought, or we all thought at the time called Secrets Crimes and Audio Tape.
+
+Hernan (38m 18s):
+It was an ongoing audio drama and it hit only number two on Apple podcasts. And we couldn't get to number one because there was this one other show that launched at the same time called How I. Built This. Have you heard of it?
+
+Guy Raz (38m 33s):
+Wow. Did not know that. Yeah. Yeah, yeah. Sorry about that.
+
+Hernan (38m 36s):
+That's when I became a listener of How I Built This. And again, I, I think what we learned in Secrets Crimes was that there were so many people that the audience for an audio drama was limited, but podcast listeners loved true stories. That's how I fell in love with podcasts. So the insight was that we could actually tell true stories, but following the Hollywood playbook of character development, cliffhangers high stakes and sound design. Right. And also I should say that at Fox we paid a lot of attention to sound.
+
+Hernan (39m 17s):
+We, we, we were often fond of saying that sound is where the motion comes from. Yeah. I'm sure you heard the story that you watch a horror movie with the sound turned off. It's nothing, it's
+
+Guy Raz (39m 26s):
+Not scary.
+
+Hernan (39m 26s):
+There's nothing at all. And then the marketing playbook of trailers and super trailers and podcasts about the podcast and how to build momentum. One of the most difficult things is how to create urgency for something that is evergreen. That's something that my colleagues in the movie studio used to talk about a lot. It's
+
+Guy Raz (39m 47s):
+Interesting 'cause you, you were doing was sort of reviving old style radio drama, but but updating it and modernizing it and I guess the difference, the big difference was that what you public radio right, or even Gimlet, which was rooted in public radio, was still about journalism. And that's not what you wanted to do. You could actually tell stories in a different way that we're more focused on entertainment.
+
+Hernan (40m 10s):
+That's right. And by the way, the, the reason why I didn't follow what Alex and Matt and other people in the, that space were doing was that they were so good at it that I did not think that I could do a better job Yeah. At doing what they were doing. So there was a space to do something completely different.
+
+Guy Raz (40m 28s):
+I mean, when you listen to a show like Radio Lab or this American Life that are so beautifully produced, they're very, very hard to make. I mean, most, most people,
+
+Hernan (40m 36s):
+Oh my God,
+
+Guy Raz (40m 37s):
+Don't understand the amount of work. And so that was not what you, you did not, I mean, you, you were not trying to recreate that. You couldn't compete with that.
+
+Hernan (40m 46s):
+I could not compete with that. And, and, and quite honestly felt that there was a bigger opportunity in the one space that Wondery was creating in which we were alone.
+
+Guy Raz (40m 56s):
+And, and, and by the way, that first year, did you even attract any advertising?
+
+Hernan (41m 1s):
+I did, but just didn't make enough money to pay for the cost. So the, the first year we lost a ton of money and I remember looking at the p and l statement by the end of that month and we had maybe $10,000 in revenue. Hmm.
+
+Guy Raz (41m 18s):
+And you had a staff of six.
+
+Hernan (41m 19s):
+We had a staff of six
+
+Guy Raz (41m 21s):
+And 10,000 bucks ain't gonna cover those costs.
+
+Hernan (41m 24s):
+Nope. No they wasn't. And I remember thinking, oh my God, what did I do? Like even if we get to 10 times this, this is still not going to cover the cost. Even if we get to a hundred times this, it's not going to be a big business of the scale that I thought that, that it would. But look, I mean, there are times at which you have to overcome every no that you get. And you have to be able to distinguish between the helpful nos and the unhelpful nos. And I got some of both every time that, that I went to a Venture capital meaning, and, and they told me, no, we cannot fund you because the time is just not there.
+
+Hernan (42m 15s):
+The, the, that was one thing and, and it was hard to respond to that. But there were times where they were saying, look, we cannot find you now because we don't want to fund a business that relies primarily on third party content because we think that at the end of your agreement that that those margins can be competed away. We can fund you if you bring a significant amount of your revenue coming from your own content. That is if you
+
+Guy Raz (42m 45s):
+Own a property. Right.
+
+Hernan (42m 47s):
+And, and, and I said, but that's precisely what I'm doing. That's, that's our plan, believe me. Yeah. And they said, yeah, come when you've done it.
+
+Guy Raz (42m 55s):
+So you get through 2016 and you get to 2017 to launch Hollywood crimes. Yeah.
+
+Hernan (43m 1s):
+Hollywood and crime.
+
+Guy Raz (43m 2s):
+Hollywood crime. And that, that show did, did was a hit. But what, but what was it about that show that like, 'cause I think that show really changed how you thought about what Wondery should be doing.
+
+Hernan (43m 15s):
+That was the first show in which we realized that if we tell a true story with the Hollywood playbook, with character development and with stakes and with sound design, then people were going to listen. And it was also the show in which we tried the marketing playbook of having a launch campaign that allowed people to get excited about the show. It wasn't an accident that we launched in the first week of January. We knew that nobody else was going to launch a show at the same time. So our chance of getting to the top of the Apple podcast chart, which at the time was
+
+Guy Raz (43m 54s):
+Really important. Yeah.
+
+Hernan (43m 56s):
+It was a way of really getting more people to see you and see, see, see your show, and see your brand and see what the Wondery logo was. Just, we put a lot of attention into all those details and that, that sometimes are overlooked.
+
+Guy Raz (44m 12s):
+Let me ask you about how you sourced producers at the time. Even, you know, 20 16, 20 17. I mean, now there's lots of people who know how to make audio 'cause podcasting has exploded. But then it was pretty much the only people who knew how to make really high quality audio programs were in public radio.
+
+Hernan (44m 30s):
+That that is true. And we, we really were paying attention to who was out in the market. We're going to podcast meetups and, and I think it helped that we were the only ones in la everybody else in the east coast Yeah. Was competing with the same pool of talent. And we're the only ones in LA and, and people who were in our world sometimes were really working for Hollywood projects that, that essentially allow them to pay the bills. And they were doing audio as a passion project on the side.
+
+Guy Raz (45m 1s):
+How did you, you'd gone from Yeah, let's be honest, having people, you know, kiss your butt when you're running Fox. Okay. Being this guy like, oh, Ana's coming to the building guys. You know, or I've, I've, I've seen these, I've seen this play. I've, I've been been places where people talk about the boss, like they're a god, you know, which I think is unhealthy, but it's, it happens especially in Hollywood to going to the guy who's like going to podcast meetups at like dive bars and you know, in Los Angeles with like 12 people showing up and you telling 'em about this, this new thing you're starting.
+
+Hernan (45m 33s):
+But I, but I think that that has always been one of my skills that I've been always adaptable. Yeah. I remember growing up in Argentina and, and just seeing how realities can change from one moment to the next. I think that gives anybody who comes from a similar environmental background, the ability to just, just adapt. And at the same time, there was this sense of community in the podcast industry that everybody was excited every time they met somebody who understood what they understood. And we all felt that over time everybody else will get it too. But we just are excited to be at the early stage of what we now realize was a new golden age of audio.
+
+Guy Raz (46m 16s):
+Alright. So by 2017 you've made your first few shows, right? And you're starting to, to bring in some advertising revenue, but, but you're still struggling to attract investors, right? Because you haven't really had a hit show yet. But then of course something happens. I guess I, the story I, I I understand is that the LA Times basically approaches Wondery because they wanna launch their own podcast. I mean, at thi at this point, other media outlets like the New York Times were jumping into podcasting, right? So the understandably the LA Times wants to get in on the action. And, and so what did they just call a meeting to, to bat around ideas with you?
+
+Hernan (46m 55s):
+That's right. And they went around the room and they pitched different stories that they had been working on. And at the third one I said, that's the one.
+
+Guy Raz (47m 4s):
+What was the story they told you?
+
+Hernan (47m 6s):
+It was Dirty John.
+
+Guy Raz (47m 8s):
+Hmm. And, and what was the actual story?
+
+Hernan (47m 10s):
+It it was a story about a woman in Orange County who had been tricked by this grifter who obviously pretended to be who he was not. And she fell in love with him.
+
+Guy Raz (47m 26s):
+His name was John Mehan.
+
+Hernan (47m 27s):
+John Mehan, exactly. Yep. And her daughters really did not like him. And there was a, a really high stakes family drama of two generations of people who are not Sinai eye to eye. And it was this incredibly rich psychological thriller and with, with a a, a completely unexpected ending. Yeah. And then finally we went to the Apple podcast team and actually shared with them the first episode of the show. They loved it so much that they agreed to give us what at the time was called the Beyonce treatment, you know, the takeover of the top carousel of the Apple podcast app.
+
+Hernan (48m 7s):
+And this put us on the map, could
+
+Guy Raz (48m 11s):
+Prove the concept of, of it's, even if you didn't own this ip, you could show that what you were able to do with it, and that presumably would convince people that there was a huge potential here.
+
+Hernan (48m 24s):
+That's right. And we, we could go to any meeting and say, we are the company that made Dirty John. Yeah. In the, in the middle of that happening, we, we got approached, finally looked like we were going to raise money and we, one major company agreed to essentially fund our CSA at $5 million at a $25 million valuation. They give,
+
+Guy Raz (48m 47s):
+They give you 5 million at a $25 million valuation. This is a and this is a major, I I know who it is, but you can't, you don't wanna talk about it specifically. Who it was is a major LA player.
+
+Hernan (48m 57s):
+That's right. Yeah. We'll even call it a global player.
+
+Guy Raz (49m 0s):
+Global player. Okay. And, and they made an offer, right? It's not an investment firm. This is a player in the industry corporate. Right. And they made an offer to make a 20% investment in, in Wondery. So that was exciting. That was, that was good news.
+
+Hernan (49m 15s):
+That wa that was very exciting. I felt, okay, I'm, I, I, yeah. Now we are finally going to be able to take this to the next level where we shook hands and then don't hear anything for a couple of weeks. And the corporate team calls back and says, actually, we've been looking at the deal and we decided that instead of investing, we want to buy your company outright for the same valuation
+
+Guy Raz (49m 40s):
+For $25 million.
+
+Hernan (49m 42s):
+That's right. And, and tempting. Yes. But
+
+Guy Raz (49m 46s):
+You probably could have walked away with 15 million bucks.
+
+Hernan (49m 49s):
+Maybe, maybe even more than that at the time. But, but I said no. What I really wanted to do is what you guys promised and we shook hands on, which is do an investment, run it so that we can make this company a lot bigger and have big plans. And there's this Dirty John thing that you guys don't know how big it's gonna be, and believe me, it's gonna be great. And they said, well, either we buy the company or nothing. There's no investment. Hmm. And I was tough, but I ultimately decided to just not take the offer. And because I, I just was confident that we were about to hit something big
+
+Guy Raz (50m 30s):
+When we come back in just a moment. Why Arnon says no to a new offer to buy Wondery before saying yes to Amazon. And how is life turns upside down when he is embroiled in a federal bribery case? Stay with us. You're listening to How I Built This, Joining an entrepreneurial community, becoming a global leader, bringing new skills to a family business, chasing a world changing idea. These are just some of the reasons why students choose Babson College to earn an MBA or specialized master's degree ranked number one school in entrepreneurship for 30 years by US News and World Report.
+
+Guy Raz (51m 16s):
+And number 10, best College in the country by the Wall Street Journal. Babson College is building the entrepreneurial leaders of tomorrow at Babson. You'll see what it takes to lead inside and outside the classroom with hands-on learning opportunities and wisdom from professors who've experienced business firsthand. Find out what your future holds and put thought into action at Babson College. Apply today at babson.edu/grad programs. If you like using debit over credit. Don't you think it's time to also get rewarded? Well, now you can with Discover Cashback Debit.
+
+Guy Raz (51m 56s):
+It's a checking account that rewards everyone with cashback on everyday purchases. Plus you're not charged any account fees, period. Whether you're moving, starting a new job or headed into that next stage of life. Whatever it is, discover, cashback, debit is for everyone. Check out eligibility and terms at discover.com/cashback. Debit Discover bank member FDIC. Hey, welcome back to How I. Built This. I'm Guy Raz. So it's 2017 and Arnon has just turned down a $25 million offer to buy Wondery the company he started less than two years earlier.
+
+Guy Raz (52m 41s):
+And instead he's betting on the success of the new podcast that he's about to launch with the LA Times. So you were taking a risk, I mean, even if Dirty John was a success, it wasn't necessarily gonna make tons of money.
+
+Hernan (52m 56s):
+Not only that, but also I I'm sure you heard this before, that it's very often that happens that a company that makes you an offer, you're turn it down, that's it. You're done with a company. They, there it is. Not that they're gonna come next year. And sometimes they do some, I mean, there, there are cases where a company keeps chasing the valuation up, but Right. More often than not, you're done with that company because they, they're gonna feel bad that you turn them down and
+
+Guy Raz (53m 18s):
+It kind of poisons the relationship in, in,
+
+Hernan (53m 21s):
+In some respects.
+
+Guy Raz (53m 22s):
+And this was a company that you needed a relationship with?
+
+Hernan (53m 25s):
+I did. And, and like, but look, we're all good. We, we still remain in, in our relationship. But, but yes, I was very mindful. Okay. That's, that's not going to be ultimately the buyer of, of my company. But I, so you know, we went and launched Dirty John in October of 2017 and it really hit the zeitgeist. It was number one on Apple podcasts for 30 days straight inmates. Something like 2 million listeners within the first month per episode. More, way more than we have predicted and, and saw ads on. But, you know, guy, the the, the one thing that made me proudest of was that we kept hearing all these stories about mothers talking to daughters and vice versa about listening to Dirty John and saying, you should listen to Dirty John to find out about toxic relationships and red flags.
+
+Hernan (54m 22s):
+And that's where we finally hit what wonder was meant to be. We came up with, with a name for it, what we called emotionally immersive storytelling True stories with a perspective that allowed listeners to immersive selves in the shoes of all the people in the story. And to understand what was happening to them. And I, I think that was from that moment on the defining trait of every Onery show.
+
+Guy Raz (54m 50s):
+So once that show really kind of hit, I have to imagine you're coming back now when, now when you're going to investors, 'cause you get, I mean you're still at this point working on the initial seed money and the money you're putting in. And do you just ballpark, do you know how much you were in in, in like from your own cash? Seven
+
+Hernan (55m 13s):
+Figures? I can't tell you exactly how much, but it was seven figures.
+
+Guy Raz (55m 17s):
+And and that was, I mean, you clearly were, you know, had made good money as an executive at Fox. Was that scary to you or were you like, you know what, I can put in seven figures. I've got it in the bank.
+
+Hernan (55m 27s):
+Oh God, it was scary. Yes. 'cause he was, you know, I was, you know, I had two kids and my husband ex at the, at the time had gone back to work, but he was still building his medical practice. So
+
+Guy Raz (55m 38s):
+This is your retirement money.
+
+Hernan (55m 39s):
+That's right. Yes. And, and again, there was a non-zero chance that this could go nowhere. That, that there will be no buyer or there will be no, no, no wonder in the future that nobody would, would see the value in it.
+
+Guy Raz (55m 51s):
+So you, in 2018, with the momentum of Dirty, John, go back to the inve, go back to investors. Did you go back to any of the investors that you talked to previously?
+
+Hernan (56m 4s):
+Well, actually one of them called me back. I, I, in October of 17, I got a call from Alan Patrick of,
+
+Guy Raz (56m 12s):
+Of Greycroft,
+
+Hernan (56m 13s):
+Of Greycroft. And many people consider him the father of modern venture capital. He called me up for a meeting and in New York and he eventually became the, the lead investor alongside with Larry Hippo and advancing Jerry Redstone's company. But that took several months.
+
+Guy Raz (56m 33s):
+Was it? But it was easier to, to attract the money at that point. It
+
+Hernan (56m 36s):
+Was easier because at the same time he had listened to the region every episode. So he understood emotionally. And also we felt that we couldn't rely on only miniseries. Right. So at the time we came up with this concept of the Always on shows that also came from the emotionally immersive storytelling. The first one was American History Tellers. It was a show that allowed people to put themselves in historical moments. And so that was the first show. And then we had also lined up a business wars with the second show that we created that. And that allowed us to essentially have wholly owned Wondery shows that in the future would allow us to have a library that that made wondery Plus possible.
+
+Guy Raz (57m 21s):
+And wondery Plus is your paid subscription service. That's right. So in that year, 2018, really it's, this is the 'cause you start in January, 2016, tough year 2017, start to get some momentum. And then Dirty John, and then 2018, now you're working on, you know, other programs. You have Doctor Death, which is gonna be another huge success and gladiator. But I guess in that year, 2018, you actually started to talk to a serious acquirer just, you know, two years in about buying you out.
+
+Hernan (58m 0s):
+This they called us. And again, this was a call that I, I wasn't expecting. It was maybe nine months after, or maybe eight months after we had, we closed our CSA run, which had valued the company at $22 million or less than
+
+Guy Raz (58m 15s):
+Is the gray craft investment. That's right. Valued. That they led, that valued the company at 22 million,
+
+Hernan (58m 21s):
+$22 million. So, so less than, than what I expected a year before. And, and this company says Hernan, we've been following and they hadn't bought any companies in the podcast space.
+
+Guy Raz (58m 30s):
+Can you tell us which company was, I'd
+
+Hernan (58m 32s):
+Rather not, but,
+
+Guy Raz (58m 34s):
+But can you give us a hint? Like, was it what kind of company?
+
+Hernan (58m 36s):
+It's a tech company that what a lot of people use every day
+
+Guy Raz (58m 40s):
+And it's say what kind of tech
+
+Hernan (58m 43s):
+Content tech is essentially, or media? Yes. It's both media and tech.
+
+Guy Raz (58m 47s):
+And at that point they had not purchased any podcast companies. No. So they contact you. They
+
+Hernan (58m 52s):
+Contacted me and said, Hernan, we actually were fans of what you've been doing and, and we've been following and, and we, we would like to make an offer for your company. And so first I, I told them, look, thank you. I'm very flattered. But quite honestly, we, we just literally raised money, as you know, from VCs. And VCs are not in the business of investing. So that can flip. Somebody will away buy the company in, in in nine months. It just, so in order to make this work for their perspective, you would have to value the company at something that just would make sense for you.
+
+Guy Raz (59m 27s):
+Yeah.
+
+Hernan (59m 28s):
+And they said, well, can we try? So we, we exchanged an NDA, some basic information. We, they came with an offer that was four times when we erase that and
+
+Guy Raz (59m 42s):
+It took over 80 million bucks.
+
+Hernan (59m 44s):
+Again, hard to say no from the perspective of, okay, if this was my business, maybe it would've been tempting, but it wasn't my business anymore. I had great investors and, and a great team and it were just scratching the surface of what we could do. Yeah. And we, we, we knew that, again, Dr. Death had come out, gladi had come out and we knew that the following year we would do that times two or maybe more, but we, yeah, we, we, we turned them down.
+
+Guy Raz (1h 0m 16s):
+I mean, this was a, I mean, 80 million, you would've probably walked away with maybe half of that, maybe a little bit more. Your investors would've been happy. They would've gotten a pretty decent return. That would've been an amazing outcome. But at this point you felt like the momentum was on your side that you could confidently say, no,
+
+Hernan (1h 0m 35s):
+I had, so for that, for all those reasons, it was a, a scary thing to do. But I was having a lot of fun and I always thought that there was a chance that we could even take the company public one day. So there were a number of options, but regardless, I felt that I had taken investment from some of the best and brightest investors in the venture capital world. And it would've been disappointing to them to, to essentially sell that quickly. And, and, and even, even if it was four times what they invested at.
+
+Guy Raz (1h 1m 10s):
+How were you, what about your pipeline of, of like content creators? How did you develop a pipeline? Especially as there was more money coming into the industry with other content companies who were now starting to write checks, significant checks. How were you able to compete when, you know, you didn't have an endless pool of money to do that?
+
+Hernan (1h 1m 30s):
+I think really helped us that we were in LA and we are kind of alone in LA and a lot of people Yeah. Had listened to Dirty John. And the, the other thing that helped us was the fact that Dirty John, even though it was owned by the LA Times, very quickly got optioned to television. It was turned into a very successful television show for Bravo. And it's, it, it really put us in a position where, because we were in Hollywood, we could give creators the potential of having their show be turned into a television show because we were starting to show that there was a track record. But every time that a pitch came to us, we thought, could this be turned into a high stakes character driven, interesting human story that will resonate with showrunners because it would resonate with viewers.
+
+Hernan (1h 2m 28s):
+For example, if somebody came to us and said, I have this open case and nobody has been able to solve it, and I want to create a show on me trying to solve it, we would always say, no thank you. Because one of the most tried and true things in Hollywood is that you need to have a satisfying ending to a story. And when you don't have a clear ending, people will not recommend the show to other people. It's just as, as simple as that.
+
+Guy Raz (1h 2m 59s):
+In 2019, Gimlet gets acquired by Spotify. It was really one of the first major acquisitions of a podcast company. It was big is over $200 million. That must have, you must have thought that was a good sign for wondering.
+
+Hernan (1h 3m 17s):
+I thought so, yes.
+
+Guy Raz (1h 3m 18s):
+I mean, you knew that this thing that you were starting, I mean, and I think you were clear about it. You want it, your goal was to eventually get it, have it be acquired by a larger player in, in the industry or in media.
+
+Hernan (1h 3m 30s):
+W when, when you take investment from Venture Capital, that's something that you have to accept that Venture Capital will want an exit. And the only two ways of exiting a company are either selling to another company or going public. And I thought the more likely outcome was to be acquired, but it was a chance if the company had a lot bigger to go public as well.
+
+Guy Raz (1h 3m 55s):
+Annan, were you ever concerned already in 2019, you know, Gimlet gets acquired and, and now the advertising is starting to really grow and, and it was clear that podcast advertising was gonna grow at the same time. More podcasts were coming online, so the competition was gonna also grow. But in the back of your mind, did you ever think, you know, we cannot depend on advertising revenue alone because look what happened to newspapers and you know, a ad ads not just print ads, but online ads were declining in, in, in, you know, and you could see that that could happen in podcasting. There's gonna be a race to the bottom to charge the least amount of money. Were you thinking about that?
+
+Guy Raz (1h 4m 36s):
+Were you like, we gotta figure something out here to, to develop new, new revenue streams?
+
+Hernan (1h 4m 42s):
+Yes. And remember that's what attracted me to cable television at the very beginning. The fact that they had dual revenue streams. And so when we raise our Cs a I presented to our investors a five-year plan, not year by year, but essentially told them, look, in 2022, I want to be here and I want us to have those so many listeners and so much revenue and of that revenue so much needs to come from our own original content. And so much needs to come from international. So much needs to come from sources other than advertising. I was, we were putting all in a bucket and, and yes, revenue diversification was a key goal of ours from an earlier,
+
+Guy Raz (1h 5m 27s):
+Alright, 2020 Gimlet had sold the year before. It's looking very good for the future of Wondery. And you find out that you have been indicted by the federal government alleging that you were, when you were at Fox, your previous career, that you were involved in a bribery scheme to acquire the rights to soccer, tv, soccer games for Fox networks. First of all, were you aware that you were being investigated?
+
+Hernan (1h 6m 1s):
+I was shocked. A thousand percent shocked, as was my lawyer. This actually happened in April of 2020. So we are just going to work from home. Everybody in the team, I had two third graders doing school from home and we were being hit with advertiser cancellations and listener dropping. And we felt all this great thing that we had built now was, was crumbling was under question, but I I first, let me take you back to what happened. Yeah. Remember when I was at Fox, this is 10 years before we, our business had hundreds of entities all over the world. Some of them were wholly owned, some were joint ventures.
+
+Hernan (1h 6m 44s):
+One of them, a joint venture in South America was being run by a partner who unbeknownst to us, had been bribing soccer officials in South America and taking tens of millions of dollars for himself for years before we, we bought into the joint venture. And when he got caught in 2015, he decided to become a witness for the government. And he falsely implicated a number of people, including my colleague and myself as being aware of what he was doing and not stopping him. Which for you as low is the same as as, as doing something.
+
+Guy Raz (1h 7m 26s):
+But your point was that Yes, I I I hear you. Like there, there was clearly the evidence shows that bribery happened, but, but me as a Fox executive, I was not aware of it.
+
+Hernan (1h 7m 38s):
+That's right. So this, this guy said that I knew what he was doing and I did not stop him. And that's a lie.
+
+Guy Raz (1h 7m 44s):
+You pleaded not guilty and you, you, you had to post bail because you faced prison time, which I'm sure was very stressful. The thing is, you decided that you would not leave step down from Wondery, that you would continue to run it in, in light of this indictment, did you have investors who were like, Hey, maybe you should step aside for a while and just deal with this?
+
+Hernan (1h 8m 10s):
+Not a single one said that. Wow. We had, if anything, the the one thing that got me through Guy was an amazing group of friends and my family, my, my now husband at the time time we, we were just starting dating my employees. Every single person supported me because they knew my character. They knew that what this guy was saying was a lie, and they were motive. They, they were just determined to help me get through.
+
+Guy Raz (1h 8m 40s):
+So how do you, I mean obviously the case was not gonna go to trial for a while, but you are now in the process of dealing with just the psychological effects of having to prepare for trial and, and lawyers. And from what I gather, I think Fox now at this point, owned by Disney covered your legal costs. But you still had to sit for, you were gonna have to sit for depositions, you were gonna have to talk to lawyers, you're gonna have to a considerable amount of your day-to-day time, which already was probably full, spending it on trying to make Wondery bigger. You'd have to carve out maybe up to a quarter of your time, maybe a third of your time, and devote it to this trial and this lawsuit.
+
+Hernan (1h 9m 18s):
+It, it wasn't as much ever because the, you know, the, the, the process works in slow ways and, and there are times obviously preparing for trial. But that, that was not for two years later that, that, yes, I was spending a lot more time. I I eventually had to wait three years to get my case heard before a jury.
+
+Guy Raz (1h 9m 37s):
+Meantime, you were also, you know, you were the face of Wondery, but everybody around you, you say said, don't, you know, stay, do this. You were committed to doing this. You were committed to to, to, to growing the company. But I wonder at that time, whether you start to think that maybe this would be the year to, to sell Wondery.
+
+Hernan (1h 9m 57s):
+So around that time in the summer, we were approached by investment bank that had been working with saying that was renewed interesting winery, Stitcher had just been bought by Sirius XM and Serial Productions by the New York Times.
+
+Guy Raz (1h 10m 14s):
+The ringer was bought by by,
+
+Hernan (1h 10m 17s):
+There were a number of acquisitions and, and you know, but there were multiple people that were still interested in the space. And we had hundreds of shareholders, including every single employee in Wondery was a stakeholder. Yeah. And we had, you know, I I at the time was the minority owner with my family of Wondery. I had significant stake, but, but more, more people than me on the majority of the company. And w there were lots of conversations in the board and some people wanted us to continue to build, but ultimately we came to the conclusion that taking the deal with Amazon was in the best interest of the company.
+
+Guy Raz (1h 10m 58s):
+So you got offered still not being reported the exact amount, but anywhere from between two to $400 million by Amazon to acquire Wondery and pretty great, pretty great result for, you know, for you and, and for the shareholders and stakeholders.
+
+Hernan (1h 11m 18s):
+Yes, yes. And most importantly for me as a founder would allow me to see Wondery become the best possible version of what it could become. I, I knew that Amazon had the resources and the where will and the motivation just to turn it into something a lot bigger than I could probably do on my own. And, and so I I'm very happy that we ended up doing that deal.
+
+Guy Raz (1h 11m 45s):
+So, okay, so you're, and you leave wondering in 2021 after the acquisition goes through, but it was bittersweet because you now had to deal with this lawsuit, this, this, this indictment. And in March of 2023, you were found guilty of, of these allegations by, by the federal government that you were involved in this scandal. The case relied very heavily on testimony from this one man who had already pleaded guilty in 2015, Alejandro Burko, you knew that you were gonna appeal, you appealed immediately, but still it's like, okay, here we go again.
+
+Guy Raz (1h 12m 30s):
+And in that time between the appeal and then what eventually happened, which we'll talk about in a moment, how did you just get through the day? I mean, you faced 20 years in prison at that point. I mean, how did you react to that possibility?
+
+Hernan (1h 12m 47s):
+I, it's, it is really something that you just, you need to find it in yourself. And, and I talked to a lot of people who went through adversity that they did not expect. I read this book called Ikigai. It's, it's essentially a, a Japanese philosophy about how to live a longer, a more fruitful life. And, and that's the other thing that, that helped me get through, reading lots of meditation, trying to stay with my routine as much as I could, trying to spend a lot of time with the kids, spend more time virtually with my parents who came to visit me. Yeah, all of that.
+
+Guy Raz (1h 13m 28s):
+So September of 2023, a federal judge through throughout the conviction, basically determining there was not enough evidence to convict you of wire fraud and bribery. That must have been an unbelievable relief.
+
+Hernan (1h 13m 45s):
+I, I, I can't describe it. I mean, getting that call on that Friday night, on Friday, the before going into a long weekend from my lawyers, they, they themselves could not find the words because we were always confident that this was going to be the outcome. Ultimately, we just didn't think that it was going to happen at this particular stage necessarily. But we were all confident that, that this was going to ultimately be the outcome. But yes, I was, I was obviously very happy.
+
+Guy Raz (1h 14m 13s):
+I mean, there could still be the possibility of an appeal from, from federal prosecutors, right? I mean it, that there's still a possibility
+
+Hernan (1h 14m 22s):
+There, there is a possibility, yes. But I am living my life as if this job is over because I know that the truth is in my side and I'm having seen the strength and the weaknesses of our legal system. And actually there's research, even despite the presumption of innocence that we all taught in school, people that go to serve on a jury believe that indicted equals guilty. And deep down I was one of them. And I'm, yeah, embarrassed to admit it, but I, I was one of them. And, and it took me to go through this grueling experience to realize that not only indicted doesn't equal guilty, but sometimes guilty doesn't equal guilty.
+
+Hernan (1h 15m 2s):
+You know, you work in podcasts. I worked in podcasts. I'm sure you listen to many stories of wrongful convictions and, and you just, you don't think that it could happen to you until it does.
+
+Guy Raz (1h 15m 14s):
+And I'm curious to get your take on podcasting, the industry in general, because, you know, there's still money that's being made and podcasting, no question about it, but it's changed a lot since 2016. Since 2012 when I started. There are millions and millions podcasts now in English alone, and it's harder for new shows to scale. Advertising is more competitive. There have been all kinds of articles about, and there have been, you know, budgets cut and layoffs that, you know, places like Spotify, I mean, they basically shut down gimlet. There've been layoffs at, at NPR and, and Vox Media and Sony. I mean, it's, it's, i I wonder if you think this is just part of the cycle of any business or do you think this bodes badly for the future of podcasting?
+
+Hernan (1h 16m 5s):
+I think I, look, I don't know much about specifics because I don't get the data that I used to get when I was in the industry. But yes, there might be pockets that are less financially viable than there were before. But as a whole, the industry continues to grow. And in fact, there are lots of companies that are pushing to add more video to podcasts. And, and there's, I I think we're still in the early innings of podcasts in different languages. So I think the industry has lots of room to for growth. Absolutely.
+
+Guy Raz (1h 16m 40s):
+Do you feel like your timing was fortuitous?
+
+Hernan (1h 16m 43s):
+I definitely remember at the beginning I talked about being too early or too late. Yeah. And maybe I was a year too early, but yes, my timing was really, really fortuitous in that if I tried to launch Wonder the exact same version of Wondery in 2018, I don't know that it would've gotten to where it did, because
+
+Guy Raz (1h 17m 7s):
+By that point it was already too competitive.
+
+Hernan (1h 17m 10s):
+It was already a lot more competitive.
+
+Guy Raz (1h 17m 13s):
+So I mean, here you are, this guy who came from Argentina with broken English to the US when he was 27, to try and make a life, you know, and, and rose at the ranks at Fox. And, and here you are, you know, 20 Five years later wealthy and having created a pretty significant business that has had a cultural impact on American media. And so when you kind of reflect on, on your story anon on where you got to where you are now, how much of, of, of where you are do you think has to do with your, your skill and your work ethic, and how much do you think has to do with getting lucky?
+
+Hernan (1h 17m 55s):
+I think that over my, my life probably being at the 0.1% of lucky and at the 0.1% of unlucky at different points in my life. And sometimes you don't know when bad luck can become good luck later on, but you can't control that no matter how much luck you have or don't have in your life. Hard work is essential. Yes, there's always some degree of luck in every success story, but people often don't tell you about the degrees of bad luck that happen in in success story.
+
+Hernan (1h 18m 37s):
+And again, you can only control what you do and how you respond to events around you.
+
+Guy Raz (1h 18m 46s):
+That's Anand Lopez, founder of Wondery. Since leaving the company in 2021, he's co-founded another business called Dans, which makes digital displays for showcasing NFTs and other kinds of digital art. Anand has also launched a nonprofit that helps young professionals from marginalized communities get ahead in their careers, which by the way often includes accent coaching. Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show. And as always, it's free. This episode was produced by Chris Maccini, with music composed by INE Arablouei.
+
+Guy Raz (1h 19m 27s):
+It was Edited by Neva Grant with research help from Alex Chung. Our audio engineers were Gilly Moon and Maggie Luthar. Our production staff also includes Casey Herman, Carla Estevez, JC Howard, John Isabella, Katherine Cipher, Kerry Thompson, Malia Aga, and Sam Paulson. I'm Guy Raz and you've been listening to How I Built This. If you like How I Built This, you can listen early and ad free Right now by joining wondery Plus in the Wondery app or on Apple podcasts. Prime members can listen ad free on Amazon music.
+
+Guy Raz (1h 20m 8s):
+Before you go, tell us about yourself by filling out a short survey at wondery.com/survey.
+
+5 (1h 20m 15s):
+Israel is 5,690 miles away from the US 11 hours by plane. Hate travels faster in a comment in a post in a second. Jewish hate is up 388% in the us. Black hate, Muslim hate, and Asian hate are up to when one hate rises. They all do. Let's stand up to all hate together. Share and wear the blue square from Stand up to Jewish eight.org.

@@ -1,0 +1,671 @@
+1 (1s):
+Reveal the economic patterns all around us while you swipe right and left, understand money better with the indicator. One of NPR, daily podcasts, more voices, all ears, NPR podcasts.
+
+2 (15s):
+Here's a little bonus mystery for everyone. What do the world's billionaires have that they really don't want you to know about? I'm not talking about Illuminati parties, although those go down too, I'm talking about their art collections because the power of art as an investment is a clearly guarded secret for some, but that's all changing. Masterworks is the first platform blowing the $1.7 trillion art and collectibles market wide open and to making it so anyone can enjoy the financial benefits of art investing at a price, tailored to them. Go to masterworks.art/wondery to get priority access that's masterworks.art/wondery. See important regulation, a disclosures@masterworks.io slash CD.
+
+2 (56s):
+Again, that's masterworks.art/wondery question when you're doing a Google search DM or swiping, right. Have you ever worried you'd wind up murdered? Yeah, you may want to reconsider while many online encounters lead to exciting new relationships. Some become devastating dates with death. I met my murderer online is the only true crime podcast to tell the tragic tales of how the internet can lead the unsuspecting into deadly encounters. If you are a fan of true crime, then you have to listen to, I met my murderer online, available on apple podcasts, Stitcher, Spotify, and wherever you listen to podcasts,
+
+4 (1m 38s):
+You had to have a Garmin GPS device that was actually device that would work with Strava in those early days. So you have to have one of those devices that would track your workout and you would plug it into your computer. And the data would flow up into Garmin and from garment into Strava. Yeah.
+
+5 (1m 56s):
+And you know, one of the points of friction was, well, how many people have garment devices? And so there's a whole period of time where Michael and I were negotiating with the likes of Costco and others just literally trying to buy Carmen's so that we could either sell them or give them away to friends so that we could get people onto the platform. Basically, we tried to make participation, Strava as hard as possible.
+
+6 (2m 24s):
+Welcome to how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built. I'm guy Ross. And on the show today, how two friends who missed the competition and comradery of the locker room decided to capture that feeling with an app and grew it into Strava. A platform used by a hundred million athletes around the world. Subcultures often have the power to build brands. We've seen it on this show.
+
+6 (3m 4s):
+Countless times, CrossFitters helped to make RX energy bars. A hit bloggers, turned WordPress into the biggest website builder in the world. And gamers helped turn discord into a massive social network. Now often it's a deliberate strategy on the part of the founders make a product that is good enough for the hardcore fans, test it on them, make it better, and then figure out how to turn it into something with widespread appeal and some of the best Guinea pigs out there happen to be athletes, because you can gather a lot of data around their activities that runs or bike rides or swims can help you understand how they use the product.
+
+6 (3m 47s):
+But more importantly, at least in the case of today's story, Strava, people who run or cycle or swim or hike can be a little, let's say competitive. They like to compare personal bests and distances or heart rates. And they also like to talk about the things that make their runs or bike rides, better, good shoes or socks or sunglasses or technology. So back in 2008, when Michael Horvath and mark Gainey set out to build a platform where people could share their workout data, they decided at first to target dedicated cyclists, Michael and mark figured if they could make something that worked for committed athletes, the kind of people who were already spending thousands of dollars on their cycling, the word would then spread to more casual athletes and Strava could then expand to other sports like running today.
+
+6 (4m 44s):
+Strava calls itself the largest sports community in the world with about a hundred million athletes using the app. I first interviewed Michael and mark for our resilience series back in the middle of the pandemic. And we talked to mainly about the trends that we're seeing around fitness at the time, we didn't get the time to get into the story of their founding. So we asked them to come back for a longer conversation. And one of the things that's really interesting about their story is they actually tried to launch Strava or something very similar to it back in 1995, but they were just too early. They couldn't convince investors or even software builders that what they were trying to do could actually be done.
+
+6 (5m 29s):
+So they pivoted into an entirely different kind of company and eventually sold that company. And then the two of them went off in totally different directions and two totally different parts of the country only to come together. Again, 10 years later, mark and Michael first met in 1987 as students at Harvard and in the first of many serendipitous moments in their story, they met in a group that neither of them had ever expected to join the university crew team before arriving at college, mark had hoped to compete in track and field. And when he got to Harvard, Michael had first wanted to go out for the sailing team.
+
+4 (6m 12s):
+I'm more or less kind of showed up at the first meeting that the sailing team had and said, Hey, I think I'd like to join the team. And it was not a great first encounter. I think there were six or seven people at the meeting. They all seem pretty serious. It didn't seem like it'd be a lot of fun. So I was like, huh, do I really want to do this? It wasn't, I didn't come here to do this. It was just something I thought would be fun to do. And the next day I was in line trying to register for classes and a bunch of other organizations were out along the line of students trying to recruit people. And one of those was the lightweight crew team. And so I went to their meeting that evening and that was a totally different story. It was a room full of people, maybe 60 or 70 or so.
+
+4 (6m 55s):
+And they seem to be having a lot of fun and I thought this might be something worth trying. So I went, went to the practice the next day and the rest is a big part of the history and for mark and me.
+
+6 (7m 5s):
+So you joined the crew team? Yes. And as for you mark, I know you're like a few years behind Michael in school. So you, you got to cut Harvard a couple of years after he did. Yep. And you've been like a champion level, cross country runner in high school, I think. Correct. And so were you planning to run in college too? I mean like how did you end up with Michael on the crew team?
+
+5 (7m 28s):
+So when I arrived, my freshmen fall, I was challenged and that I had some injuries. I'd been suffering from some stress fractures, basically in my leg and my foot. And you know, that in combination with having been running competitively and hard for, you know, at least four or five, six years, I will fully admit I was somewhat burned out. Right. And then a very long story short, I was introduced to the crew program to sort of serendipitous. Part of drawn me to crew was this romantic notion that while you're out on the water and won't it be beautiful, but it turns out that's not the case when you're in a, when you're in a cruise shell, you're, you're staring at somebody's back. And thankfully that class in particular Michael's class were kind enough to take me under their wing and, and frankly start coaching me because I had a steep learning curve.
+
+6 (8m 18s):
+You know, th there's this perception that crews like this sport of privileged men and women, and that it's like, you know, very preppy. And I'm not saying that's entirely untrue, but th th th the part of it that I don't think a lot of people understand is that it's really hard, especially if you are in Cambridge, Massachusetts, because you have to wake up at like five in the morning or four in the morning on freezing cold days and get out into freezing, freezing cold river. And it's like, you're practicing for a race. That's like six minutes long.
+
+5 (8m 52s):
+Yeah, no, you're, you're right on so many levels. The, the elements that you battle when you're rowing, whether it's out on the water early mornings and, you know, waiting for the ice to thought, or in the winter when you can't go on the river, but you're still forced outside to do stadiums, things like that. And then you're right. I think at one point some I'm sure one of the mathematics majors, you know, did the math around how many hours of practice we do for six minutes of racing. And, you know, you didn't want to know that math.
+
+6 (9m 21s):
+Yeah. All right. Here's a question for both of you. It's the mid eighties. You are in Massachusetts, and then you're getting in a freezing cold boat in a freezing cold river. Tell me what was attractive about that to you?
+
+5 (9m 36s):
+You know, guy, I often refer back to the time spent on the water and the boathouse. I mean, that was my education at Harvard, without question the life lessons there. And I remember being out on a, on a long road, so this was supposed to be just a call it 45 minutes. So along the water where we're all supposed to be pulling at a relatively easy cadence and working on our endurance and the boat was just rocking back and forth. We had no rhythm whatsoever. It just was miserable. And this was at a time where we were just starting to experiment with heart rate monitors. So early days again, late eighties. And so we're all wearing them. And the coach actually stops the boat because he can tell we're just we're miserable.
+
+5 (10m 16s):
+And he asks each of the rowers, call out your heart rate number right now. Tell me, tell me what your monitor is saying on your wrist. And we kind of go down the boat. And one of our top rowers, it was not Michael, by the way, it was somebody else. But his heart rate was like 40 beats higher than everybody else. He clearly was working way harder. And, you know, he was trying to pull hard. He was trying to do what he thought was right. But just the fact that he was actually working harder than everybody else completely threw off our entire system and the sort of the, the rhythm that we had. And as soon as we got him to just actually relax and calm down, that boat took off like a rocket.
+
+5 (10m 57s):
+And to me, that's just, this is the element of teamwork. This is sometimes, you know, go slow to go fast. I mean, there's all these phrases that we've now used for years and decades later, they were learned right out there on the water.
+
+6 (11m 13s):
+So while the, while the two of you were, were at college together, did you, I mean, did you, the two of you particularly become close or, or did that happen later? Did, did, did the two of you kind of forge a close friendship already while you were students?
+
+4 (11m 29s):
+What I recall was it was the summer a year after I graduated, mark is still on the team and there was the Harvard, Yale, Princeton race down at Princeton. And we both realized we wanted to go on this trip to go see the race. And so I, I offered to drive. I had a car, I had a really very old and not very dependable Jeep CJ five. So we hop in this car it's very cold day and the car has very little heat, but this trip is burned in my memory is the moment where mark and I went from being classmates to being friends. And we did a down and back in the same day, we weren't, you know, you didn't have a lot of options at that time.
+
+4 (12m 12s):
+We didn't have money to pay for hotels, but this is where we, the friendship really started. And from there, it was the rest is, is, you know, he's been part of my life ever since.
+
+6 (12m 22s):
+Yeah. So after graduation, the two of you go off in different directions. Michael, you go to, I think you're going to Northwestern university outside of Chicago to, to do a PhD in economics and mark, I guess you, you went to Palo Alto to work there at a place called TA associates, which it's like a, like a private equity firm, something like that, is that right?
+
+4 (12m 45s):
+Correct.
+
+6 (12m 46s):
+And from what I understand, I guess your job was to call up companies and say, Hey, I'm with TA associates. And can I talk to the CEO or the owner? Like you literally do that.
+
+5 (12m 58s):
+Yes, that's exactly with one extra line in there, which is, I promise I'm not selling something. We actually have capital that we're interested in investing in the business. You know, we've invested in some really fascinating companies, we're in the same place as you were. We take minority positions. We're not trying to buy you, but the mission was to get on a phone with someone and get them talking.
+
+6 (13m 19s):
+But essentially you were learning about, I mean, if you've got a com a founder or an owner on the phone and they were interested, presumably it was like a ticket to learn everything about that company and how it ran. I mean, this was like an education, right for you.
+
+5 (13m 36s):
+That's exactly right. It's I love to joke, but I mean, this was some sincerity. I got paid to go to business school because every day was another case study. The good businesses had a set of principles that were almost identical. It was really fascinating, but the bad businesses, there were a million reasons why they were in trouble. And so to be able to learn those different things and to understand the pitfalls. And when I talked to recent college grads today, I'm always quick to point to any kind of cold calling sales opportunities where you can get on a phone. And yes, it's scary. My first six months were, were pretty miserable. I mean, I had a lot of people hanging up on the phone on me and I couldn't understand why they would do that.
+
+5 (14m 19s):
+And then I realized it wasn't them. It was, it was me. I had to, I had to learn the language. I had to teach them how to trust me on the phone and that I was, I was offering something of value and, and what started as a kind of a tough job turned into just an amazing education.
+
+6 (14m 36s):
+All right. So you've got this job at the private equity firm, but, but at some point, I guess you started to think, you know, I want to start my own thing is that, did that experience there kind of get the wheels in your head, turning
+
+5 (14m 50s):
+It, did the wheels had even turned earlier than that. I, with a good friend, we'd start a small business, even when we were at Harvard. So We had this, we had a concessions business. So we figured out that it all the non-mainstream sports, you know, swimming, indoor track and field and all these sports that frankly were not of interest to the professional concessions guys. There were still spectators that were there. So my cellphone in front of mine, Chris would go down to the local grocery store. We'd buy a bunch of hot dogs and buns and coax expects a Coke. And we figured out that, you know, for 9 cents, which was the cost of a bun and a hot dog, we could turn around and sell that for $2 at these local sporting events.
+
+5 (15m 34s):
+And that was great. I mean, that's how I paid for all my meals and spending while I was at Harvard. So that was, that was the first inkling. And then you're right talking to all these entrepreneurs. And my first job, I absolutely just had an interest to start something. And so I, I left, I left the firm in September of 1995 to go pursue something.
+
+6 (15m 59s):
+I mean, you left to pursue something that you weren't quite sure what you were going to do, but you initially took a job at, at a running store. Right,
+
+5 (16m 7s):
+Right. I left. But then I had to still put food on the table and pay the rent. So I went from a very nice cushy, you know, investment job to getting, I think I got $8 an hour working at Metro sports, but it was great because I could work at the running store for, you know, maybe four hours a day, punch a clock and then have the rest of my time. Totally free to focus on whatever business opportunity I wanted to go do.
+
+6 (16m 33s):
+Meantime, your old pal from college, Michael Horvath moves to, to Palo Alto to, to start teaching at Stanford. And presumably you're like you guys reconnect.
+
+5 (16m 46s):
+In fact, I, I take credit here. I think I convinced him to come to California. I had been at his wedding in Chicago. He and I had a, we'd even done a race out in Chicago. We'd done the marathon together and things. But no, I, I was a big say it was one of my best sales jobs was selling them on the merits of coming to Northern California.
+
+4 (17m 4s):
+Yeah. So as mark mentioned, I gotten married during grad school. I met Ana and six months later we were married. So as I'm, I'm fielding offers about different places, I can go have some options in the Midwest, the east coast, but these options on the west coast were really interesting. And on a same thing, she had thought of moving to San Francisco after, after she graduated. So we said, let's, let's do it cause Mark's there. So, yeah, mark was a big reason why we chose Stanford over the other choices.
+
+6 (17m 35s):
+And Mark Michael basically made that move at a, at a good time, because meanwhile, you were thinking about starting a business, and this is even before you had an idea and I guess you were starting to look for a co-founder right?
+
+5 (17m 48s):
+Yeah. Entrepreneurship lonely. I felt it was important. I wanted a partner. I wanted a team mate. Right? Part of the best thing of all the experiences I had in my life that were positive were where I had teammates, where we were training hard together. So I had gone out to a number of my friends and Michael was somebody obviously, you know, spent a lot of personal time with, and I love to joke that, you know, he had the office at Stanford, which was one of the few places on the country that had really good internet speed. So, you know, we could do that with, there was some truth to that, but it was also just, he was somebody that I could trust and was really smart to helping me think through these, these ideas.
+
+6 (18m 26s):
+So Michael, help me understand this. You are a newly arrived at Stanford where you on tenure track there, when you got there.
+
+4 (18m 32s):
+Yes. Tenure track assistant professor
+
+6 (18m 34s):
+And mark comes in and says, Hey, I want to start a business. I want you to be my business partner, but like, you've got to, you've got to do your tenure track stuff. You've gotta write research papers. What, what, what convinced you to say sure, yeah, I'll do this
+
+4 (18m 48s):
+At the beginning. I, it was not didn't cross my mind that this would turn into me joining mark to start a company. I think I was just really excited to be thinking about starting a company. What does it take?
+
+6 (19m 2s):
+But no idea what the company was just
+
+4 (19m 4s):
+Know were exactly. We were exploring a lot of different paths.
+
+6 (19m 7s):
+What were some of the ideas you were thinking about at the time,
+
+5 (19m 11s):
+A big range? So I, you know, two examples, we were looking at things like headlamps for mountain bikes and, you know, night running and things like that. Didn't go very far for a variety of reasons. But another idea that we were looking at was this simple notion of, you know, my friends and I, who had all been competitive in, in college and in high school. And when we graduated, there was this void in our life. There was this, this hole that we felt. I remember, I remember when TA first hired me, my from a, they said, oh, you know, one of the things you're going to love being here is you're going to get that same competitive thrill that you got while you were competing in rowing and running.
+
+5 (19m 51s):
+And, you know, they sold me on a lot of stuff. That was one that was a total bag of beans that they saw megas. That was not the same, great job, not fulfilling in terms of my competitive drive. So we started exploring this notion of, could we create a virtual locker room on this new thing called the internet
+
+6 (20m 10s):
+Virtual locker room?
+
+5 (20m 11s):
+Yeah. We, we, we had this concept of, could we use the internet to bring our, all of our old buddies back together who now, you know, spread across the globe and in all their jobs and basically share their workouts. Yeah. So this was when people ask, when was Strava started? You know, the honest answer is the first business plan was written in late 1995. It just wasn't called Strava. It was called Connor sports. It was named after my dog Kauna and we had this concept of we're going to go create this virtual locker room.
+
+6 (20m 41s):
+I just want to, I want to just explore this idea for me. Cause it's, it's amazing to me, this is a social media idea, right? Really 10 years before social media would start to become a thing that's right. 15 years really. And, and it was like, Hey, can we recreate that feeling we had in the locker room where we were talking about our times and our achievements and kind of comparing in a, in a, in a supportive way, but also competitive way. You want it to kind of recreate that virtually
+
+4 (21m 8s):
+That's right. The internet would get, allow us to bring the community together. And it would be around being active. So very much like what Strava is today, but you know, like you said, 1995 long before what we think of as today as social media companies are the ones that we all know love and hate.
+
+6 (21m 25s):
+I mean, if, if my memory serves me well, the internet in 1995 was still like mainly static pages. It was just like text some pictures on static pages. Right. What websites were very, very, it looks like cave art compared like, like we look at it now. Right? So, so this was a complex idea that you had, was it possible to do that in 1995?
+
+4 (21m 48s):
+It turns out it wasn't that's that's, that's what, what we found out when we went out to talk to some people who actually knew how to build things on the internet or build things out of software,
+
+6 (21m 58s):
+Who did she go see?
+
+5 (21m 59s):
+There was actually a website development firm that was very focused specifically on the sporting goods industry.
+
+4 (22m 6s):
+That's right. And so they said, you know, the things you want to do with this virtual locker room, can't be done. They, you know, and by the way, I think it's a terrible idea. No, one's going to share personal information on the internet with complete strangers. Well, who
+
+6 (22m 19s):
+Would do that?
+
+4 (22m 20s):
+Who would do that? So, you know, we, we got talked out of the idea by the people who we went to to see if we could get some help.
+
+5 (22m 28s):
+They also put us though in touch with a number of their other clients, because from a business model perspective, the way we thought that this virtual locker room would make money was in a sense through sponsorship that you'd have these sporting good companies that would want to interact with all of our, you know, all of the athletes who were involved on in the locker room. And they too were very skeptical. They were like, you know, we just spent a million dollars on this, this new website of ours. And we're not really sure we want to get any customers coming to this because we're frankly faced with this bigger problem, which is we're getting all these emails from customers now directly from consumers, with the advent of the internet, it was much easier to go to, you know, dubdubdub.nike.com or Trek bikes.com than it was to try to find a retailer online.
+
+5 (23m 17s):
+And so they were, they were like, look, we don't want to sponsor you because we don't even know what to do with this website and consumer that we have. And that was when I would say that's the good news, because what happened to us as entrepreneurs was while we were disappointed that our idea didn't have merit, we were listening and what they were telling us was, Hey, there's this other problem out there, which is, we're getting a lot of customer email that we don't know what to do with. And Michael and I just looked at that and said, well, that's crazy. Of course you want to answer the customer email. I mean, that that's gold. How do we help you solve that?
+
+6 (23m 48s):
+Wait, so let me, let me try to understand that. So, so in 1995, I'm assuming if Nike or K2 or Trek bikes had a website, it was not an e-commerce website was not to sell products at the time. It was just a website. And maybe there'd be some pictures of what they sell and athletes using the equipment. But there would, there would be a button on the website that would say, Hey, contact us. People would contact them because it's a, Hey, my, my shoes coming apart, or my ski, the binding on the skis loose or something. And that email it, and nobody would respond from the company.
+
+5 (24m 21s):
+Correct. What w what it was, was not even a button there just simply be an info at, oh, that was, that was the classic info
+
+6 (24m 27s):
+Matter
+
+5 (24m 28s):
+Support at, you know, name, your company. And what was amazing was consumers are really smart if they're on the internet and I can click on that button and send a question saying, Hey, where do I find a size 11 in the color blue that's way easier to do than picking up the phone and calling an 800 number.
+
+6 (24m 45s):
+Right. But nobody was responding. They was just going into like a black box.
+
+4 (24m 50s):
+That's right. You know, so you can take this as mark and I are. So we want to start something. We think we have a good idea. We're told it's not a good idea, but then someone hands us a problem saying, can you solve this? It felt like here's a challenge we're up for. And we managed to get something like 10,000 real email messages printed out on paper from a handful of these companies that a web development company was working with. And we use this to sketch out what would a email customer response software system have to do? What would it have to be capable of doing to be able to handle this flow of emails and the types of questions that were coming in and how you'd have to think about standardizing responses?
+
+4 (25m 34s):
+We, so we did all of this really with just without any experience in the industry of customer service. We had no, no real concept of how we would build this, but the most important lesson for me out of that was just how you don't have to figure out all the answers to how you're going to build something. You have to start with something that gets you to the next challenge to solve. And this was the first one, which was we had to design something really worth building.
+
+5 (25m 56s):
+Yeah. So again, when we heard about customer email, we assumed that that problem had been solved in other industries. It was just that the sporting goods companies didn't yet have the solution. So Michael and I then started making calls. I started, I remember I started calling around to basically Silicon valley, you know, to the, the big companies of the day, the Intels and the Ciscos and the Oracles, because I just assume they must be handling all of their customer email really well. And we'll take that solution and we'll bring it to the sporting goods industry. So we were still hopeful that we were going to stay kind of in this industry that we were passionate about, but we were, we were evolving sort of the solution set. Here's the irony. When we made those calls out to these other companies, nobody had a solution.
+
+5 (26m 41s):
+Nobody was, they all had a huge problem. You figured
+
+6 (26m 44s):
+There was an off the shelf solution that you could maybe sell correctly, these other companies.
+
+5 (26m 48s):
+Yeah. And then we could stay in sports and we can stay connected and we'd figure out how to, how to bring that to life. But when we learned that nobody was solving for customer email, that was the moment in time. Or like, wait a second. This is, this is crazy. This is, I mean, this is going to be the future. This is how consumers are going to, this is how they're going to interact online. Maybe we ought to spend a little more time here
+
+6 (27m 15s):
+When we come back in just a moment, how mark and Michael wind up spending a lot more time on customer email, but how more than 10 years later, they come back to their original idea, stay with us. I'm guy Raz. And you're listening to how I built this. Did you know that the art market has outperformed the S and P by 164% for the last 25 years? Usually it's the ultra rich that get to decorate with Decount things and resell them at a profit. But through masterworks, investing in art is finally available to everyday investors who don't have a trust fund or a slush fund, or a seat on the board of Wastar Royko.
+
+6 (28m 5s):
+Masterworks is in New York city, FinTech, unicorn that's democratizing. The art market. Masterworks is the first alternative investing platform that allows everyone to invest in paintings from artists like Picasso and Monet. And they already have more than 400,000 members. So get started today@masterworks.io, promo code built that's masterworks.io, promo code built. You can find important regulation, aid disclosures@masterworks.io slash CD that's masterworks.io, promo code built industry disruptors. Make the world go round there. The entrepreneurs and innovators that take stale and outdated technology and transform it into a product that benefits everyone like never before.
+
+6 (28m 50s):
+That's why I want to tell you about borough. It's a new kind of furniture company. Burrow makes everything with comfort in mind, I've even watched how burrow makes the process of buying furniture. Super easy, bro is proud to launch everything you need to build the bedroom of your dreams, including a solid hardwood bed frame, cooling mattresses, modular dressers, and a clever nightstand. Every order, no matter how small or large is delivered directly to your door for free, which can save you well over a hundred dollars when it comes to big stuff like couches or beds. Thanks again to burrow for supporting the show. Listeners can get $75 off their first order at burrow.com/built that's burrow, B U R R O w.com/built for $75 off burrow.com/built.
+
+6 (29m 42s):
+Hey, welcome back to how I built this I'm guy Ross. So it's 1995 and Michael and mark put their initial idea of a sports startup on hold. And they pivot to something entirely different software to handle customer emails. Michael's parents lend them about $75,000 to get started, even though to be Frank, they don't really know what they're doing. Like, why did you guys think you were like, at what point did you say? Yup. We're we're the guys, and then you raised your hand and you were like, yep. We can do this.
+
+4 (30m 15s):
+I think it's, maybe we're surprised. I'll speak for myself. I think looking back on it now, I'm surprised that we took that leap, but I think what, what made it not seem like such a leap was that this was happening all around us. You had people with, with no domain expertise, starting things on the internet, because it was such a new technology, new, medium, a new place to do things. And so we, we kind of fit that model at least, which was that we were willing to try something that hadn't been proven yet. And once we got going and started developing this, we pretty quickly became seen as well. You know, more about this than anyone else.
+
+6 (30m 56s):
+How did you learn about it? What did you cause this is like, you couldn't just go onto Wikipedia. There was no Wikipedia. How did you, how did you even learn what to do next
+
+5 (31m 5s):
+First off guy? I think you're hitting an important nail on the head here. And so in my case, and Michael, what we did, I'll never forget. We did track down a little company. It was called catapult entertainment. This was a company again, mid nineties that was basically allowing to Nintendo gamers that live in different cities to play and communicate with each other. And they had a part-time 16 year old kid who was answering customer email for them. And my old roommate was in that company. And he said, Hey, you should talk to the 16 year old kid. I think he's actually got a pretty good solution. And so I remember sitting down with him at a local subway restaurant and he took a placemat, turn it over and been sketching, sort of what the screen needs to look like in the screenshots and how the emails should move and how you interact with the inbound and the outbound message.
+
+5 (31m 56s):
+And you know, that one fateful meeting, we turned him into a consultant to us this 16 year old, I think became perhaps the first consultant we had at Kona. And, you know, we became those experts that you described. It was, you know, you, you learn pretty quickly. It comes in these funny little chunks
+
+4 (32m 12s):
+Guy. I think another key thing we learned from were actual live customers of our technology before we even had something we could sell, we, we realized that it would take a long time if we were going to build our own system. So we, we took an off the shelf software called FileMaker pro to someone who knew how to create custom templates for it and ask them to, to basically build what mark just described, that, that placemat from the 16 year old turned into a FileMaker pro version of what we would eventually try to bring to market as an enterprise software. And we went out and got a handful of customers. They actually started using this system in house and were giving us real feedback.
+
+4 (32m 55s):
+And so we, we had, we had something to work with.
+
+6 (32m 58s):
+The venture world was very different in the late nineties, but also this was the beginning of the.com boom era. What would eventually become a bus? But I mean, there was, there was money pouring into companies. Was it easy for you to raise money at the time?
+
+4 (33m 14s):
+Yeah, we I'd say we were early on the wave of the big investments in internet, but we were also different. We were not a.com where your e-commerce for example, or we were trying, we weren't trying to disrupt something that was already happening in the real world, per se. We really trying to build tools to enable those companies to be successful. So I think we had a hard time raising capital relative to had, we tried to do this two or three years later. We had a hard time because I think a lot of venture firms looked at what we were trying to offer and saying, well, why is that going to be a standalone company? Why won't that just be handled by Microsoft outlook or, you know, the other email software companies out there that just, they didn't understand the translation between personal email and customer service via email.
+
+4 (34m 1s):
+So that started to change as you S the problem got written about more, there was a, for us, at least a very formative moment was where I can't prove it was the wall street journal started to write about how Amazon was solving this problem with building their own solution for customer service email, because they didn't couldn't find anything. And that was really validating for what we were trying to do, but we did find eventually success with raising capital, our series, a led by Draper Fisher, Jurvetson DFJ. We closed that round and I believe it was 1996 and $700,000.
+
+6 (34m 38s):
+So, I mean, when you, of course you look back on what you were developing back in 19 95, 96, it looks like right. Like primitive stuff, right. With FileMaker pro. But, but then, but back then, this was like, kind of innovative, I guess, right. Because it was a solution.
+
+5 (34m 52s):
+Yeah. It's I go back to my days, even working at the venture firm, one of the key things that the partners used to tell me is if you can solve a real problem or their significant pain, it doesn't matter how small company you are. They'll listen to you. And I took that to heart and it was proven true. The pain was significant enough and it was growing fast. And I mean, when we started to talk to some of the larger internet companies, you know, we had clients that were now receiving tens of thousands of customer emails on a daily basis. And you do start to realize, no, this is a critical piece of their business going forward. So, yeah. And I'm the first always admit, I mean, so much of good entrepreneurship is timing. And we got very lucky. We, this was 19 95, 19 96, right.
+
+5 (35m 34s):
+As all of that infrastructure was just beginning to be developed in a meaningful way. And within a year we were doing million dollar contracts.
+
+6 (35m 43s):
+You were getting big customers. You can like, I mean, I mean, I guess it wasn't so big then, but now eBay, right? Like airlines, like major companies,
+
+5 (35m 54s):
+Part of our strategy was let's own the dot-coms who we used to joke. If we see that someone gets a venture venture round and raises capital, we should be one of the first checks that they write. Because if they're, if they're starting an e-commerce business, there's three or four pieces of infrastructure that they have to have. And one of those pieces is, is communication.
+
+6 (36m 15s):
+How did you go about dealing with the scale of this case? It, I mean, people wanted this software companies wanted the software. How did you manage just like bringing on staff and meeting the demand?
+
+5 (36m 29s):
+Yeah. It was like, it was a crazy time. I'll be the first to admit. I mean, it went from two guys and a dog hanging out in an office too. I know when I left in the summer of 2000, we had just over 1200 employees. So,
+
+6 (36m 42s):
+Because he went public in 99, right.
+
+5 (36m 44s):
+We did, we went public in early fall of 1999.
+
+6 (36m 47s):
+I mean, you went from, from the two of you in 95 to a public company in 99. I mean, you went from zero to a, what, what was the market cap at its height? When it was public company?
+
+5 (36m 60s):
+I believe it was just under 11 billion was the market Kansas
+
+6 (37m 5s):
+Peak.
+
+5 (37m 6s):
+It was insane. That's the right word for it.
+
+6 (37m 8s):
+But what explain, I mean, you go public in 99 and I think you, Michael, you left actually right dress just before you went pop and you'd the company went public. You, you decided to take two to kind of leave. What, what was, Why did you decide to leave it at that point?
+
+4 (37m 29s):
+Yeah, so it was the summer of 1998. So about a year before we are going to take the company public, I went to mark and I said, I, I think this is where I really do have to make a choice. It's either jump all into Connor because that's what Connor needs or jump all into academia. I can't be, have a foot in each any longer and, and do well for either one. And so we did work out an advisory relationship with Connor. So I, I stayed connected, but in a very different capacity. And I want to be clear here as like, it's almost like you're, you, you do have a, you have a better quality and the company has a better quality of existence.
+
+4 (38m 9s):
+If you really separate as much as possible at some level when you don't have a role to play anymore.
+
+6 (38m 15s):
+I think in 2000, you, you eventually moved to New Hampshire to take a job at the, at the business school at Dartmouth.
+
+4 (38m 20s):
+That's right. The decision to go back to, to move to New Hampshire, everything from now, we have four children. Where's our place in the world. And New Hampshire seemed like a great place to raise a family. This'll be a great way to spend the
+
+6 (38m 33s):
+Rest of your lighters
+
+4 (38m 34s):
+Teaching, teaching entrepreneurship. Now I can take the skills or the experiences I had starting Kona with mark. It all seemed like it made sense. The puzzle pieces were fitting together. If that had been the story, the rest of the story, everyone would have said. Yeah. That makes total sense. Yeah,
+
+6 (38m 50s):
+Totally. What about you, mark? I mean, around the time the company you went public, you also left some, I mean, what did, what did you do? I mean, you could have, you could have gotten a sailing boat and gone around the world. Like, what did you do at that time? Did you already think I'm going to do something else? Or did you decide to take time to just kind of enjoy the fruits of that, that experience?
+
+5 (39m 14s):
+Yeah. It was a focus on my personal life and specifically, so my wife at the time, her name's Lisa, we've been divorced now for many, many years, but still one of my closest friends. And if I'm not mistaken, she became pregnant in August of 2000 with twin boys. So my life over the next year or two, I would say filled with joy when it comes to sort of Jake and Charlie, who are the twins who were born in March of 2001,
+
+6 (39m 42s):
+You get to be a full-time dad,
+
+5 (39m 44s):
+Full-time dad. But, you know, there was honestly guy, there was kind of a dark cloud that then for whatever reason, kind of rested over the Gainey family for a bit. And you know, that the boys were born prematurely. So we had health issues and Lisa unfortunately had pretty significant health issues that carried on for a while. And, and then it was early 2002. I was out, I was actually training that was actually trying to get some of my athletic life back. Unfortunately, 10 days before an iron man event that I was training for. I had a bike accident. This was Memorial day of 2002 and was airlifted to Stanford and emergency surgeries.
+
+5 (40m 26s):
+And that, that period of time for me after Khana was, was, again, it wouldn't give it up in terms of particularly the two boys in my life and, and the friendships I have. But I also learned that just because you're set financially, it doesn't mean you shouldn't keep working. Cause when I don't work, I tend to have problems arise in my life. So I like to stay busy professionally, as well as personally,
+
+6 (40m 52s):
+You started to get anxious, probably that cause so there's a liming, right? Cause you know, you've got the comradery of the people around you and a sense of purpose. You're going to an office, you're you have meetings, there's there's tension, creative tension, but you know, you're all working towards this goal. And then all of a sudden like, no, your phone's not ringing. You're not, you're not right.
+
+5 (41m 12s):
+I, I, there was a period that professionally, what I did was I spent a lot of time on boards and I thought that perhaps that was the next chapter in the same way Michael described his, his academic opportunities as sort of the next chapter. I saw myself as, okay, well perhaps now I can take my experience and apply it across a spectrum of, of board opportunities and so forth. But what I learned was those, I love to equate being on boards, to eating junk food. And I'll be the first to attest. I liked junk food. Like I will occasionally have it. And so in the moment being on a board can feel really good. You're, you're contributing, you're having interesting intellectual conversations.
+
+5 (41m 53s):
+You're, you're thinking through strategy. The only problem is you leave the board meeting. That's like junk food. It's just not that satisfying at the end of the day, you're not on that team. Who's going and now executing all these ideas that you discussed and it served its purpose for those four or five years that we were basically trying to stabilize our family and get everybody back and healthy. And this is, this was the time I ended up leasing. I divorced in 2005. So we had to go through that period and that chapter in our life as well. So between the health issues and the, just the family dynamics board service was a great way for me to keep my finger on the pulse of what was going on. But it wasn't something that was going to satisfy me. Long-term
+
+6 (42m 33s):
+And meanwhile, Michael, you're now living in Hanover, New Hampshire teaching at Dartmouth at the business school there. And I guess while you're there, you actually get asked by some colleagues to help with their startup, which is like a health startup. Is that right?
+
+4 (42m 48s):
+Yeah. So there's this a group of scientists at the engineering school who have started a biotech platform company and it looks like they need some help. They keep, you know, they ask me to give them some advice. We start meeting more regularly and by virtue of being exposed to their idea and where I see I could be helpful, I realize I could have a role to play in this nascent company. And so I joined as the CFO and the VP of operations at this company called <inaudible>. And we go through the process of raising capital. We go through building a team, building a laboratory, and I stayed with that company until 2005. And it's sold in 2006 to two Merck, really good outcome for everybody involved, but what do I do next?
+
+4 (43m 32s):
+And so I don't go back to teaching.
+
+6 (43m 34s):
+Do you decide not to stay in academia?
+
+4 (43m 36s):
+That's right. It was teaching the second year and then the third year where like I'm telling the same stories. I have no way to
+
+6 (43m 44s):
+Update
+
+4 (43m 44s):
+The go and update them and bring in new things. And I think eventually I'm just looking at this and say, I'm going to become obsolete here. And teaching is a bit like board work that mark mentioned it's you can't go much further than just maybe giving people a few insights and telling some motivating stories and then they have to go and go and experience it themselves. And I wasn't ready to be done experiencing myself. I wanted to continue to grow and continue to learn.
+
+6 (44m 12s):
+And meanwhile, mark you'd mentioned that you kind of were focused on, you know, your personal life and there was health and choose and dealing with your kids and health issues with your wife at the time and your own challenges with your accident, your bike accident during your let's say interregnum. Cause it lasted for like five plus years, I think. At what point did you start to think? I got to start something new. I got, I got to launch something new.
+
+5 (44m 42s):
+Yeah. I think it was as stuff stabilized in my life as my, again, health and family situation. As, as those things stabilized in that 2005 timeframe, Michael was just coming out of <inaudible> at that time. So I remember, okay, here's, here's our chance he's coming out of that. And I'm stable knock on wood or we're too young not to, you know, think that there isn't something else to go do here.
+
+6 (45m 10s):
+All right. So now we're in sort of like kind of phase two for, for you mark phase three for you, Michael, which is a new, old idea, right? Because you had an idea in 1995 to create a social network around athletes, people sharing their achievements. It was not technically possible to do it then, but it sounds like that idea did not die in your head.
+
+4 (45m 35s):
+Yeah, that's right. In that process of 2005 to 2006, we looked at consumer brands in general and said, what's what's missing in our own lives.
+
+5 (45m 46s):
+And we spent some time thinking about companies that we really admired. We made a list of if we had been founders of XYZ company, what would it have been? And it was telling because it wasn't a bunch of Silicon valley companies. I don't think there was. I mean maybe, maybe we put apple on there. I can't remember. But otherwise it was all these iconic consumer brands. It was the Patagonias, there was a Virgin from the UK. It was these, these brands that have stood the test of time had been around for decades, but they just had a unique relationship with their consumer. And if you think about our history now, we're, we're these two enterprise software guys. And we both started took this leap of faith that it's like, we don't, we don't want to do that again.
+
+5 (46m 28s):
+It would be easy to pull out the playbook and, and replicate another enterprise software company. And we could bring the band back together and hire a bunch of folks we knew before, but there was an intellectual curiosity. And I think this is again, I give credit to Michael where it was like, yeah, let's, let's, let's go do something we've never done before. We were almost going back to what we felt like when we were 25 and we didn't know how to do anything. I think because of that, the idea that had surfaced back in 1995, around the virtual locker room made sense to revisit the problem was still there. You know, we were now in our early forties, but we knew that sports and, and participating in games and things were meaningful to us yet. It's really hard to do.
+
+5 (47m 9s):
+Life gets in the way. And so could we think about software as a platform and the internet as a way to perhaps help both inspire and motivate folks like ourselves to stay active?
+
+6 (47m 22s):
+All right. So the idea was let's build something and this is now right. 2006. So these it's sort of pre-AP, but you've got a websites now that I remember using like map my run and things like that, that, that were out there, but it's still pre pre mobile devices. Right. It's still like a couple of years before the iPhone is going to come out. And so what, what were you initially thinking that you would do a website that would be this community where you could track and, and compare your, you know, your, I don't know, your running times, was that the, the idea that you landed on?
+
+4 (47m 58s):
+Yeah. So we've got to introduce a very important person to the story and that's Davey Kitchell, Davey, and his family live in Norwich, Vermont across the river from Hanover. And it's my 40th day of my 40th birthday. And we sit down for coffee that morning. And Davey has been experimenting with, if he uses a Garmin cycling head unit, Garmin was making a
+
+6 (48m 23s):
+GPS
+
+4 (48m 24s):
+With GPS in it, it was, this is in 2006, this is pretty bulky, pretty expensive, but he wanted to see if he can use this to try to collect some data that could help him train better. So there was something interesting there that we said we ought to keep talking because you seem to be working on the actual, call it the R and D of something that could be important and fit into our world as well. And so we asked David to keep working on stuff and see what he comes up with and what he comes up with by the summer of 2008, spring of 2008 is what we now know is the Strava segment, leaderboard. The idea that you can have people in this case, riding their bicycles at different points in time, but they can see their, their times on a climb or any stretch of road compared to each other.
+
+4 (49m 16s):
+So this prototype that he is working on comes out of that phase of 2007, 2008. And we, we decide in the summer of 2008, mark and I are now pretty sure this is going to be it it's, it's the virtual locker room idea among all the few other possibilities we were experimenting with or thinking about this is the thing.
+
+6 (49m 38s):
+So, and, and the name Strava is strive, right? It's a Swedish word for strive.
+
+4 (49m 42s):
+Yeah. It's pronounced definitely Swedish, but yeah, it's is in Swedish, but we chose a name that hopefully can go around the world.
+
+6 (49m 50s):
+And the idea was you would run, run this kind of in a distributed way. You wouldn't have an office like mark, you'd be on the west coast, Michael you'd be in Hanover, New Hampshire. And you'd just kind of do it all virtually.
+
+5 (50m 1s):
+Well, we were committed to the distributed model, but as soon as we began the process of hiring folks, we also believed in the power of face-to-face and being in person. So we opened a small office in Palo Alto.
+
+6 (50m 16s):
+And so for Michael, did that, did that for you to that mean commuting across the country?
+
+4 (50m 21s):
+Yeah. Getting on a plane more and more regularly.
+
+6 (50m 24s):
+All right. So you have this, so you're all kind of working this concept and it's going to be, I keep saying a social network and maybe, maybe that's not accurate, but it sounds like that's sort of where it was headed, but I guess something happens in 2008 that there's a breakthrough, right. That kind of changes the way you think about it. What, what was it, what happened? Yeah.
+
+5 (50m 45s):
+Summer of 2008, we had a group of individuals, I think maybe no more than a half, a dozen cyclists on the east coast, out in Hanover. And another half dozen cyclists that we recruited on the west coast and Davey had built a very basic website. We used to call it the green machine. It was this lovely shade of green that everybody would log into. And we made sure that everybody had Garmin cycling devices. And we asked them through the time of the tour to fraud. So over a three week period in July of 2008, would you be willing to upload to this website and an exchange we're going to, we're gonna create some competitions we're gonna, we're gonna put east coast against west coast.
+
+5 (51m 27s):
+We just love to get your feedback and your reactions to this experience of not just going out for a ride, but then sharing that information on the Strava website. And for me, the takeaway was two-fold. One was, it was clear very quickly that the cyclists who were using it were infatuated by the information they were sitting. Like there was a high level of engagement with this data and the storytelling. David just did this amazing job of taking what was pretty raw GPS information and creating a story for somebody afterwards takeaway too, was just the level of interaction between the cyclists now. I mean the level of trash-talking and gamesmanship and comradery and the competition back and forth between east and west, it was fervent.
+
+5 (52m 13s):
+It was just this really funny experience to watch them and they couldn't get enough of it. And so that experience over three weeks in the summer of 2008 was really the final catalyst that we need to say, okay, we may not have the business model nailed down here. We've, there's a lot of specifics, but it was enough of an energy there and enough excitement after that quick three weeks that we said, we've got something
+
+6 (52m 39s):
+When we come back and it's just a moment come mark. And Michael got Strava out of its awkward adolescent phase and how, because of life circumstances, they each had to learn how to run the company, stay with us. I'm guy Ross, and you're listening to how I built this Great entrepreneurial leaders, overcome setbacks, thrive in uncertainty and find creative potential where others just see chaos, these aren't skills. They're born with their skills entrepreneurs learn. You can gain the same set of skills and entrepreneurial mindset at the FW Olin graduate school of business at Babson Babson believes the future is fueled by entrepreneurial leaders.
+
+6 (53m 30s):
+And at Babson, you learn to think and act entrepreneurially and develop a mindset you can use in any context, the worldwide leader in entrepreneurship, education, Babson equips you with the tools and mindset needed to successfully tackle complex challenges, head on whether it's your own business or as a leader within a business, choose from full and part-time master's degrees and certificate programs all built on the same globally recognized methodology. It's this proven methodology that has earned Babs in the number one ranking for entrepreneurship for 29 years by us news and world report act on your ambition by learning more at babson.edu/grad.
+
+6 (54m 10s):
+Now that's babson.edu/grad. Now
+
+2 (54m 17s):
+Bombas mission is simple. Make the most comfortable clothing ever and to match every item you purchase with a donation to someone in need. Bombay has designed their socks t-shirts and underwear to be the clothes you can't wait to put on every day. Everything they make is soft, seamless tag lists and has a luxuriously cozy feel. So you'll look good and feel great knowing you are helping someone in need. Get 20% off your first purchase at Bombus. By going to bombus.com/podcast. That's BOM bas.com/podcast.
+
+6 (54m 53s):
+Hey, welcome back to how I built this I'm guy Roz. So it's around 2008 and Michael and mark are hard at work on Strava, a platform for cyclists to clock and compare their rides. And by the way, that emphasis on cyclists and only cyclists is totally intentional
+
+5 (55m 12s):
+Arcata experience had taught us something really valuable, which was by just picking one sub category of an audience, a perspective customer. And back in economy days, it was email response, which I can tell you many investors said that's not even a company. That's not even a product. That's a feature yet solving that problem for that one audience opened up so many opportunities for us going forward. And so we, in many ways applied the same thing here. We went after a, a passionate cyclist, not because we thought that that was going to be the sole market, but by creating that opportunity and that relationship with them, the way in which you can build an experience, it becomes really rich and really authentic for that group.
+
+5 (55m 55s):
+And there is a leap of faith and it's, I always remind people, don't get confused between vision and go to market. And in case of Strava, our go to market strategy was cycling. And lastly, the reason was there are lots of running apps that were out there and running solutions. There actually, weren't very many solutions that were addressing the needs of cyclists. And so we kind of did an end around, instead of going into the crowded market, we, we picked a space that had just as fanatic a base, but without the noise of other competitors,
+
+6 (56m 27s):
+I mean, it's like any tribe, right? It's like CrossFitters, right? Like cyclists. Presumably if, if one cyclist starts using this and loves it, then you know that they're going to talk about it too. It just, and then there there's a vitality to it.
+
+4 (56m 40s):
+Yeah, that's right. We knew we'd get to the other sports. We knew it, but we didn't know when we didn't know how long it would take for us. How long would we stay with cycling? And some of the biggest cha say discussions we had was when do we start expanding into other sports? And we didn't really do it in earnest until 2012.
+
+6 (56m 55s):
+How did, how did, how did a consumer interact with, with Strava and on August 18th, 2009, when you launched it,
+
+4 (57m 3s):
+You had to have a Garmin GPS device. That was the only device that would work with Strava in those early days. So you have to have one of those devices that would track your workout and you would plug it into your computer. And the data would flow up into Garmin and from garment into Strava. So compared to today, it required a lot of work, if you will. And so, as you might imagine, grew slowly, you you'd have to do all those steps that today, you'd say a lot of people just take for granted that happens to, with their mobile apps,
+
+6 (57m 34s):
+You would buy the device, he would wear it. You would, you know, cycle, he come home, you plug it into your computer. And then that data would be uploaded to a website where you could, you had a profile. Basically,
+
+5 (57m 47s):
+Basically we tried to make participation, Strava as hard as possible. Let's, let's make us extremely hard and then start reducing friction slowly but surely. But no, you're, you're just, as you were describing that I was reminded of, you know, one of the points of friction was, well, how many people have garment devices? And so, I mean, there was a whole period of time where Michael and I were negotiating with the likes of Costco and others just literally trying to buy Garmins so that we could either sell them or give them away to friends so that we could get people onto the platform that we had sometimes a phrase that we say, which is do things that don't scale. Yeah. I would say we probably did this perhaps to an extreme level in the early days of Strava.
+
+5 (58m 27s):
+When we look back at it,
+
+6 (58m 28s):
+When you, I mean, this is still again, I mean, I think the iPhone comes out in 2007 and smartphones kind of are beginning to emerge, but immediately before you launched, because you launch it in 2009, the summer of 2009, did you think that it was going to be an app first a product?
+
+4 (58m 46s):
+No, we should have moved off of web onto mobile sooner, but we, that's not the team we had and that's not the that's not mark. And I, we were not big app users. We, so going back to this sort of, did we have the set of experiences that would ultimately make Strava the most successful? I'd say here's an example where we didn't, we launched Strava into a pretty crowded space already. And we were on a, on a technology on, on a platform, the web that was not going to become the dominant platform. And it wasn't until 2012 until we, we really had a viable mobile app into the market. We launched something in 2011, that would, that didn't work, but it took us a while to shift off of that.
+
+6 (59m 28s):
+Did you even have an, an idea of how this could be sustainable? Or did you say, did you just kind of figure, let's just build it, let's get people on and then we'll figure out how we're going to, how this can become sustainable.
+
+4 (59m 40s):
+Yeah. We, we actually had always had the intent to have it be that the business model was a subscription that we would, there's a free version you start with, but to get the best of what we are building you, if that's something you subscribe to. Yeah.
+
+6 (59m 55s):
+I imagine as you're thinking, you know, sort of five, 10 years out at the time you were thinking, okay, we can have a subscription option, a freemium model where, you know, there better features. If you have a subscription where you also thinking, and maybe, you know, we'll have some ads and maybe because we're going to have all this data, we can also be a data broker too. Was, were those parts of the equation,
+
+5 (1h 0m 18s):
+Actually guy, just point of clarification. We launched the subscription within that first year.
+
+6 (1h 0m 25s):
+I gotcha. Okay.
+
+5 (1h 0m 25s):
+So it was, it was always right. We to answer your question, you're right. We, we did. And have, if you look over Strava, 13 year history explored various monetization models, and we've always come back to that fundamental premise, which is when we're building something for our customer, for our members. And it's something that is a value enough that they'll pay us. That that's a good thing. I like to state the simple idea that we want to strive to be as important as a runners, running shoes, as important as a cyclist bike. And if we can get to that place, the rest sort of sorts itself out.
+
+4 (1h 1m 4s):
+I do remember the earliest business plans had the concept of sponsorship, but we said, no advertising. We're not, we're
+
+6 (1h 1m 13s):
+Not, why is that? Why did you, why'd you take that position?
+
+4 (1h 1m 16s):
+We already found that advertising on the websites and digital experiences that we were using, that it wasn't, it was a distraction. It was, it may work economically for the advertiser. It may work great for the, for the platform that presents the ads, but it didn't feel like it was in the best interest of the actual experience or the con that the customer. And so we believed we, we at least want it to start with a thesis that we could build something better than that advertising per se, so that you could basically turn your customer into the product so that you're selling their attention. That did not make sense to us from the very early days.
+
+6 (1h 1m 55s):
+And I mean, you also had this incredible access to amazing metadata around human health, you know, a trove of valuable information. I mean, what is your, what, what has been your position on data? I mean, how do you, how do you handle it? I mean, obviously people make it available. You know, if you've got a friend on travel, like right now, I know that mark took a, an eight mile ride this morning at 5:30 AM. And your average speed was 8.2 miles an hour. And I can probably tell where you live from this, but, but you know, we're friends on Strava, soak break, you, you, you gave me access to it. But how do you, how do you think about privacy?
+
+6 (1h 2m 35s):
+How did you, did you, and did you start to think about it from the beginning when you launched it?
+
+4 (1h 2m 39s):
+Yeah, you're exactly right. That privacy and trust of our, our athlete in Strava for ensuring that their data is safe, that they can control how they show up on star. That's critically important. And if we're going to use data for any purpose, it's gotta be anonymized and aggregated and not, we never sell anyone's private information. We never give away anyone the product. Okay.
+
+6 (1h 3m 2s):
+Yeah. And so when did you first launch the app on the app store?
+
+4 (1h 3m 6s):
+We had a version in 2011 in the app store iOS only. It was bare bones and ultimately wasn't successful. We rebuilt the app in the course of the next six months after launch, but it showed us the power of building a mobile apps. You can, it's just such an amazing way to give access to the experience to millions of people. So the phone is really a great entry point for getting more people into the community.
+
+6 (1h 3m 33s):
+One of the things that I think is so interesting about the, the way you launch it was you didn't actually target, you know, sort of casual athletes or people who just took a, you know, a run once or twice a week. You actually were trying to go for like the best athletes, like professional athletes, even.
+
+5 (1h 3m 53s):
+Well, these are shades of gray. It's not necessarily how good they were, but how passionate they were. So you're right. We were targeting, they didn't hit Nestle had to be good at it, but they were probably spending thousands of dollars on it. They were probably talking about it with their friends when they weren't writing. And we used to have a phrase, you know, let's make sure we build it for the best in the world and meet their needs. Because if we do, they're the ones who inspire so many others to then join the platform.
+
+6 (1h 4m 22s):
+Here's, here's a question who is the person, like when you were describing Strava to people who is the person you imagine would come to it because you know, you are sharing your runs and sometimes your runs might suck. So when you describe the kind of person who would go on it, what were the reasons why you thought they would go on it? Was it, was it to brag or boast, or was it to motivate themselves? Like who, who was that person?
+
+4 (1h 4m 49s):
+It's it's people keep people active and they will find the joy in the, the activities that they do. They will find more joy in them by sharing them on Strava. Yeah.
+
+5 (1h 4m 59s):
+But I've had this insight that as people have joined Strava, historically, they often don't join because they're trying to join the community. They join because they're looking for a way to track their own personal activities. And I often refer to it as single-player mode versus multiplayer mode. If you go back to our earliest days, we had to build an experience where if you were the only person on Strava, you would get value. Yeah. Even today with the tens of millions of people who are there, you can actually onboard a Strava and have a very private, rich experience where you can see your trends. You can, you know, you have this, this digital log that's available too, but the magic happens when you begin following just a few people and you referred to my ride this morning.
+
+5 (1h 5m 45s):
+It's nothing to write home about. It was only eight miles, but what was fun about it was I got up there before the sunrise. And if you look at the activity, it's not my distance or how fast I was, but ever some spectacular color out there this morning that I was able to, to enjoy. And then to be able to share that with some friends and family, I get way more kudos today for something like that than I do, you know, a fast mile time or a marathon.
+
+6 (1h 6m 13s):
+So one of the first kind of, one of the first things you decide to introduce once the cycling community is kind of solidified as the running, and this was a separate, so separate, completely separate site, right. Strava run and Separate. Okay. And from what I understand, like the cyclists like went crazy. They, they just so felt so betrayed and angry that you had this running app
+
+4 (1h 6m 39s):
+Too. They that's true. They were jealous that we were spending any time devoted to a sport that they didn't love. And I think what changed was the minute they understood that, Hey, these are their friends who run and they can celebrate them and build community with them. And in the Strava feed, which is the place where you see other people's activities, you get to decide who's in your feed. You follow them, they can follow you back. But that, that first reaction of, you know, why are you ruining Strava? It was perfect before. Why are you adding these things that we don't care about? We definitely heard a lot of flack for that.
+
+6 (1h 7m 14s):
+So, so the business is expanding and, and you're doing well. I mean, I think you guys were able to raise a paramount of money around this time to something like, like $4 million, but meantime around 2010 or so, I think there are some major personal challenges in both of your lives, which will affect you. Who's going to lead the company. Mark kind of walk me through what happened.
+
+5 (1h 7m 39s):
+Well, when we launched, I was running the business in the bay area. And then in 2009, literally that spring that we're doing it, my ex-wife starts to have some pretty serious health problems again. And I'm now single parent full-time dad. And so by early 2010, it was, Hey, my God, I really need you to, to run this. I
+
+6 (1h 8m 1s):
+Needed him to become CEO.
+
+5 (1h 8m 3s):
+Exactly. So here I was CEO for all of, you know, a year and change. And at that point, even though he was in Hanover, I was like, I am coming out, you know, on a frequent basis, but not out here running things. We just, he, I owe him because he stepped in at a moment in time when I needed to devote my energy to my family.
+
+6 (1h 8m 24s):
+So you become CEO in 2010, Michael, and in December, 2013, you announce that you were stepping down and you switched positions again. I think mark, you come back as CEO, Michael, without, I don't want to pry into your personal life, but are you willing to talk a little bit about, about that, that time in your life?
+
+4 (1h 8m 53s):
+Yeah. Glad to share. It's part of my story and you know, there's a, there's a sadness to it, but there's also a continuing on and forging ahead and discovering some great things to come on. The other side of that sadness. And so, you know, the, the roles we've played in the, over the course of, of Strava have changed, but one thing hasn't changed, which is we're doing this together. We're co-founders together in this. So he steps in, in December because in September of that year, a few months prior, my wife Ana had been diagnosed with metastatic breast cancer. She had been first diagnosed in 2004, had gone through treatment at that time. It recurred again in 2006 and had gone through treatment again.
+
+4 (1h 9m 34s):
+And so it was a real surprise. We'd been seven years had not had had this sort of receded more to the background. And so in September she's diagnosed, it's a shock. It's a huge shock. And the prognosis is not great. It's, it's metastasized into her, her liver and her bones. And so recognizing that and understanding what that meant for the two of us and what it meant for my capacity to run the company that took a while. And I credit mark for being able to come to me and say, you've got to, you've got to see this differently. You've got it. You can't do both. The company is going to suffer your family's going to suffer.
+
+4 (1h 10m 15s):
+You're going to suffer and we can find a better way. We can find a different way. So we did,
+
+6 (1h 10m 22s):
+Right? Because I think at this point, mark stepped back in as CEO. Correct. But Michael, you didn't, you didn't leave entirely. You stayed on with the company, right?
+
+4 (1h 10m 32s):
+Yeah. I took the role of president. I could take on as much work as my schedule would allow to prioritize, taking care of my family, taking care of Ana during the last few years of her life
+
+6 (1h 10m 47s):
+During your time, When you stepped away, did you stay in Hanover in New Hampshire?
+
+4 (1h 10m 56s):
+Yeah. That's where we kept our, our home there during my, my increasingly long visits to San Francisco. I had an apartment in San Francisco, which I gave up. So I'm in Hanover. We have an office there. We have a growing team there actually. And mark is his CEO running the company and in San Francisco. So during that phase, I was his commute partner. He would, whenever his ride into this, into San Francisco, it would be when he, and I would talk every morning, 45 minutes or so of, of touching base. And again, just roll, switch to your I'm. Now the sounding board, I'm whatever he needs, needs me to do. I'm doing whatever. However, I could be helpful. I'm trying to do what I can from, from Hanover.
+
+6 (1h 11m 38s):
+So you mark our back as CEO now. And tell me a little bit about, I mean, how, how the, the, the practice being adopted, I mean, is, is it almost entirely just word of mouth? I mean, is it that tribe of cyclists and runners who are telling other cyclists and runners about this and, you know, wanting their friends to be on it so they can share their experiences?
+
+5 (1h 12m 3s):
+It is as simple as it sounds, our, our greatest source of growth, our, our members it's been like that from day one. And frankly, despite our efforts to come up with other ways to grow and so forth. And there's not to say we don't have an, a fantastic marketing team and there aren't things that we continue to do. But if you look at sort of the core, best source of our growth, it's, it's happy members. It's people who are engaged in Strava and are telling their friends. And yes, that was happening in 2013. And, you know, in a typical sort of network like effect and particularly a freemium business like ours, if you're patient and you have the resources to be patient, the flywheel does start to spin faster and faster and faster.
+
+5 (1h 12m 46s):
+And you could see that in our growth, just Michael can tell you how long it took us to get our first million members. And, you know, now we had 2 million every month, but I think it took us what Michael eight years does he, our first million members, I think maybe not quite that long, but not eight years, but it was like three or, oh, what was it like?
+
+4 (1h 13m 3s):
+I believe we hit a million daily actives in 2015. What that shows you though is like word of mouth is slow until it's fast. Right? It's like we, we were patient, I guess we built patients into who we brought on as investors. We built patients into our team so that we said it might take us awhile, but we're going to get to a place that's going to be really great. And it's going to be very resilient when we get there. And I think that's where we've arrived to at this point.
+
+6 (1h 13m 28s):
+I know you came back to, as a CEO in 2019 and November of 2019. That's right. And you know, the, the business model is clear, it's a subscription model, right. And so that was where your revenue was going to come from, but the free product you were offering, I think from what I've read was so good that, you know, people are, you know, it was, you had subscribers, but there are plenty of people who are happy just using the free product. So at a certain point, did you, did you have to have internal discussions where you were like, you know, we gotta, we gotta make the free product a little bit less attractive because we need subscribers
+
+4 (1h 14m 10s):
+That period of November, 2019 mark. And I teamed up to come back to run the company, him as executive chair and me as CEO. It was a, a challenging time realizing that we are now at that point 10 years in on a journey, the company needed to become sustainable profitable. And so your question about the free and paid balance between free and paid, it was, we didn't start with saying the free is too good. We started by saying, we have to, we have to create more value in the subscription. Would we build more features? Yes. Would we rebalance the equation between the free and the paid by moving some things from the free site to the paid site? Yes. We would do that in the name of building Strava to be sustainable building it so that we can be here for the next hundred years.
+
+5 (1h 14m 56s):
+Yeah. Guy there, just to give you context. Cause I think there's, there's an important chapter in here that, where there was an important lesson that hopefully any of your other entrepreneurs, because from mid 20 17, 20 19, we had brought in an external CEO and, and no regrets. However, during that period from 17 to 19, we were experimenting across a lot of monetization models. We were, we were looking at frankly, we were looking at ads in the feed for the first time in Strava history. We were looking at data insights. So when Michael refers to coming back and facing some challenges, but also just trying to simplify, that was what late 2019 was for us as, as two founders, let's, let's come back, remind everybody.
+
+5 (1h 15m 40s):
+We really only have one customer as Strava. And that is the active person who just loves being out and being active every day. And we want to build something that's great enough that they want to pay us for it. And if they want to use it for free, that's great because our free members are not just a marketing channel. Our free members are contributing their activities to strive every day, which enhances the experience for everybody else. So companies go through these ebbs and flows and we went through this period where we, in some ways I'd argue, we just bit off, more than we could chew. We were spread really, really thin as a company in 20 17, 20 18, 20 19. And we learned the value of focus, which is we just brought it back to its basics.
+
+6 (1h 16m 19s):
+You know, one of the things that happen unexpectedly, I think for every business, but certainly for yours was that 2020 and then 21 and two just proved to be huge growth years, right? Because the pandemic people were shut out of gyms and stuck at home. And so people wanted to exercise. You want to get out? I mean, he had one and a half or 1.1 billion uploads in 2020, and then a 38% increase in 2021. Then you're still increasing in 2022. How many, how many employees does Strava have now, by the way,
+
+4 (1h 16m 53s):
+We're close to 350. We entered the pandemic with about 180. So we've, we've almost doubled since then. And again, this is how we invest. We've reached profitability at this point. So we're reinvesting the benefits back into, by hiring more people, being able to do more so that we can continue to serve our community.
+
+6 (1h 17m 17s):
+I kind of want to understand what draws the two of you together. I mean like, like 15 or 16 years ago, you guys were on different sides of the country and pursuing very different paths. When, when mark, you, you reached out to Michael and to, to kind of get back together and build what would become Strava. Why did you reach back out to him? I mean, what, what is it about Michael that, that made you want to work with him? Again?
+
+5 (1h 17m 45s):
+This concept of trust is a word that often gets overused, but not understood. And that there's just, he and I had such a long history together and being able to trust someone at a very intimate level, that's hard to define, but it's there. Second is we compliment each other very well. I like to joke that y'all have to do is look at our degrees, you know, art history and economics, and there's just a yin and a yang to the way in which we think. And the third reason I'll tell you guys that because he's got, he's got the golden touch, Michael is, you know, there's some truth to the simple fact that as long as I've known him
+
+6 (1h 18m 24s):
+To make things work, he
+
+5 (1h 18m 25s):
+Wins Michael's Michael was a very quiet winner, whether it was Connor or glycophorin good outcomes. And I just give him a lot of credit.
+
+4 (1h 18m 34s):
+Okay. So you can't see, but I'm, I'm over here blushing. So guys, if it's okay, let me tell it from my perspective as well, which is the person I've learned the most from in life is mark in the sense of I've evolved and changed and understood many, many things about leadership and how to really think about the process of creating something of value. And mark is incredibly aware and that the need, even just the need to be able to communicate effectively. But we, we have the, the joke is if I write the first draft, it's three pages and it should be one. If mark writes the first draft, it might be a half a page and it should be one, but he, he boils things down.
+
+4 (1h 19m 15s):
+He reduces things to what actually will people be able to understand it. And, and that's that's leadership is that you, you can't throw everything at them and expect them to do, to make the most of the information you're passing along. And so when, when we look for compliment the complimentary styles in other way thing, you know, I think I see in mark, if I boil it down to I internalize problems, I look at them and I say, how would I solve this? What, what skills do I have? What, what can I bring to, to the solution, mark externalizes? He says, who can I talk to? Who has perspectives that will help make a great decision here? You put those two together, the, the analytical internal approach and the external collect the right solutions from others.
+
+4 (1h 19m 57s):
+And that's a powerful combination.
+
+6 (1h 19m 59s):
+It just strikes me as kind of remarkable that it sounds like you never fight that you never had conflict. Is that true? Is that right?
+
+4 (1h 20m 12s):
+You had some mark and then I'll answer it.
+
+5 (1h 20m 14s):
+I'm going over my answer because I think the short answer is no, but fighting, but fighting is, but then I, but then there's all these caveats to that because our challenge, what I've and I'll speak for myself here. Our challenge is two co-founders and partners is when we don't communicate. That's when challenge occurs, as long as we're able to stay sinked, it doesn't even have to be synchronized a hundred percent of time. But as long as we have communication going, then it's pretty rare that you see fights. But, but we've had our, we've had our moments. We've had to figure out when we have our friend hat on versus when we have our business hat on. Right. And that's, that's the art
+
+6 (1h 20m 51s):
+Mark. You, I mean, you know, you, you, you injured yourself and you didn't end up on the cross-country team and ended up stumbling into the crew team. And Michael, you didn't like, you decided not to do sailing. Cause he just didn't like the vibe there. And you happened to see the crew table when you're registering for classes. And that eventually brought the two of you together and in your lives would have, may have been equally interesting and great had you had that not happened, but definitely that steered you in a different, in a different direction and then led you eventually to founding a business together and then a second business together.
+
+6 (1h 21m 32s):
+And here you are today. How much of your journey do you think has to do with, with, with luck? Like things like that and how much do you think has to do with just how hard you worked and grinded away? First team mark.
+
+5 (1h 21m 45s):
+There's a huge percentage of my life as associated with sort of luck and circumstance because I keep pushing because I keep grinding. So I think that there is an element of creating luck. And my thought is that I was just reading a book recently. I think it's called how champions win or something to that effect. And it just talks about optimism, being a learned trait rather than something you're born with. And that is what I think I, I do have in me is optimism. And with that then yeah, the luck comes and goes. If I look back in my life, I've had plenty of bad luck. I've had bicycle accidents and ski accidents and I've had heart problems and I've had a divorce.
+
+5 (1h 22m 28s):
+I can go back and look at bad luck and good luck. But if you bring optimism to things, it's amazing how the luck keep servicing in a good way.
+
+6 (1h 22m 36s):
+Nicole,
+
+4 (1h 22m 37s):
+I think mark and I are wired very similarly. We are at our heart. We're optimists. We approach challenges as well. They represent the opportunities. I will say one thing guys, as we have talked through our meeting on the crew team and just the path dependency of what would have happened if mark had not gotten injured and had stayed on the cross-country team, what would have happened in my life, if that sailing meeting had been a little bit more fun. I do think about that as I have confidence that mark and I would have found each other, somehow I just can't imagine my life without them.
+
+6 (1h 23m 13s):
+That's Michael Horvath, founder and CEO of Strava and mark Gainey, founder and executive chairman. And by the way, one of the off label uses of Strava is that users can chart their run or bike ride along a specific path so that it actually draws a picture. And sometimes a pretty elaborate one. Right now I'm looking@aninstagramaccountcalledstrive.art. And some of these images are amazing. There's dragons and bunny rabbits and tigers, even Frank Sinatra and Freddie mercury there's queen Elizabeth and R2D2, and also images from actual art, like the girl with the Pearl earring and yes, even the baby on the Nirvana album cover.
+
+6 (1h 23m 59s):
+Hey, thanks so much for listening to the show this week, please do follow us on your podcast app. So you always have the latest episode downloaded. If you want to follow us on Twitter. Our account is at how I built this in mind is at guy Roz and on Instagram, I'm at guy dot Ross. If you want to contact the team, our email address is H ibt@iddotwondery.com. This episode was produced by JC Howard with music composed by Ramtin Arablouei. It was edited by Neeva grant research help from Farah safari. Our production staff also includes Liz Metzker, Carrie Thompson, John Isabella, Christmas Eve, Carla estas, Catherine cipher, Margaret Serino, Alex Chung, Sam Paulson, Josh lash, and Elaine coats and guy Roz.
+
+6 (1h 24m 45s):
+And you've been listening to how I built this. Hey everyone. So I want to make sure you know, all of the different ways you can listen to how I built this. As you probably know, you can follow the show on Amazon music, apple podcasts, or wherever you're listening right now, but a one let you know that you can actually listen to the next episode of how I built this today. One week early on Amazon music, you can also listen to it early and ad free by subscribing to Wondery plus an apple podcasts or on the Wondery app.
+
+6 (1h 25m 34s):
+Please do follow us on your podcast app. So you always have the latest episode downloaded. And another way to support the show is by filling out a survey at wondery.com/survey. And thanks from wondering, call me curious as a podcast hosted by Nikki Boyer that finally gives you definitive answers to life's burning questions. We're all on 24 7 information overload on our newsfeeds and our inboxes on Tik TOK. It's so hard to know what is real and what isn't. When it comes to health, pop culture and relationships. That's why Nikki is bringing you call me curious every week on call me curious, Nikki dives into all the things you've heard about, but don't really know about that's right?
+
+6 (1h 26m 15s):
+No more nodding along at parties or running to the bathroom to Google. What is cryptocurrency you'll learn and laugh along the way as she explores life's little mysteries and the Internet's hottest topics like does intermittent fasting work or is it true? You can't die in your dreams. You'll find out with Nikki and some of her hilarious friends on her podcast. Call me curious, listen, to call me curious on apple podcasts, Amazon music, or wherever you listen. You can listen early in ad free by subscribing to one repless in apple podcasts or on the Wondery app.

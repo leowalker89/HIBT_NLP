@@ -1,0 +1,725 @@
+Rough Translation - NPR (0s):
+I'm Gregory Warner posted the podcast, rough translation on our new season. We're telling stories about the cultures of work, the nine to five, it's a myth and rest around the world. I came into this totally prepared to defend my American productivity At work. The new season of the NPR podcast, rough translation,
+
+Principals.com (20s):
+No one is slowing down in this hiring race for the right talent. That's why principal wants to help you stay competitive by providing a comprehensive benefits package, tailored to your companies and your team's needs because having the right benefits may help you reward and retain your team. So they feel valued and motivated and ready for the future. And that makes all the difference for your business from large corporations to small and mid-sized businesses. Principal has the retirement and group benefits plans customized for your goals. Your company's future depends on its people. Give them the tools they need to succeed. Talk to your financial professional today about the right benefits plans from principal, principal, life insurance company, Des Moines, Iowa. For important information about their products. Visit principal.com/disclosures.
+
+Audible (1m 8s):
+This episode is sponsored by audible 2022 is all about celebrating our newfound self-awareness and making positive change. Audible helps make space for what matters to you. It's a destination for your wellness. Whether you're looking to soul search, be inspired, work towards new goals, unwind or simply be entertained. Audible offers an incredible selection of audio books across every genre from bestsellers to new releases, to celebrity memoirs, mysteries, and thrillers, motivation, wellness business, and more plus new members can try audible free for 30 days. Visit audible.com/one three pod or text Wondery pod to 500, 500 that's audible.com/wondery pot or text one DRI pot to 500, 500,
+
+5 (1m 53s):
+2000. And one for me was largely a year of trying to scale this thing as it was just blowing the doors off with its growth every week, the growth would just be so much more than the systems could handle. Every Monday when eBay auctions would settle, this is, would just go down for multiple hours. And at some point, our head of database scalability, who was also a very accomplished blues singer and guitarist brought his guitars to the office and w played the Monday blues because we own knew the site with crash.
+
+3 (2m 31s):
+Welcome to how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Roz. And on the show today, how max election took an idea? Nobody cared about transformed it into PayPal, a brand that embodied startup culture with its rapid rise, hairpin turns and world famous founders. There are just a few companies in tech whose overall impact when a lot further than just the products they produced.
+
+3 (3m 11s):
+Hewlett Packard is a classic example. It's not the computers or printers they made that matter. But the fact that David Packard and bill Hewlett were pioneers who laid the foundation for what is now known as Silicon valley. A tare is another one. Sure. Nolan Bush Nell's video games and consoles are cool, but what matters more is how a tare ushered in the video game revolution. That's now a massive force in global entertainment, and then there's a company called PayPal. Yes, it may be convenient to pay someone using PayPal, but its products aren't nearly as important as the legacy that came out of it.
+
+3 (3m 51s):
+The group of people who helped launch PayPal back in the late 1990s would go on to either found or fund companies, including YouTube, Tesla, Facebook, Yelp, flicker, LinkedIn, Mozilla, Palentier, and many more. You may have heard the phrase, PayPal mafia, a term popularized by fortune magazine in an article that came out in 2007. The PayPal story is full of public drama and private intrigue. And not surprisingly has focused on its three best known founders, Peter teal, Reid Hoffman, and Elon Musk. But the guy who actually had the earliest idea for PayPal is max Levchin.
+
+3 (4m 34s):
+Max is a gifted computer, scientist and coder who founded his first companies as a student at the university of Illinois in 1998, he launched a tiny cryptography company with Peter teal that would evolve into PayPal. Max would eventually go on to help start several other companies, including a firm, a payment platform that lets you pay for things in installments. Max's story is so rich. So full of anecdotes of the now famous founders he once worked with and so full of lessons for anyone hoping to launch anything of value that as the two of us were talking, I kept wondering how we were going to keep it all to a single episode.
+
+3 (5m 17s):
+So we decided not to try instead, we're going to tell Max's story in two parts in this episode, part one, you'll hear about his early years, the launch and growth of PayPal and its eventual sale to eBay. And next week, part two, everything max did after PayPal, including the company he's most involved with today. Affirm max Levchin was born in the mid 1970s in Ukraine when it was still under Soviet rule as a Jewish family, the older generation of the left chin clan faced a lot of hardship.
+
+5 (5m 53s):
+Both my grandmother and grandfather come from fairly large Jewish families. My grandfather came from a family that was largely incarcerated by the Soviet state during the 1930s, persecution of Jews and other intellectuals all throughout the sort of first half of a 20th century, my grandfather's family found it's various members in the gulags. And so by the time I met my grandfather, he had already lost most of his brothers and sisters. And the reason he and my grandmother survived, they were both physicists and they were both involved in some defense related work for the state.
+
+5 (6m 40s):
+So as the Germans approached Kiev, they're both sent very far off into Siberia to help the war effort from far away from the front lines.
+
+3 (6m 52s):
+And from what I understand, when, when you were growing up, your mom was also a physicist, right?
+
+5 (6m 58s):
+Yeah. She was employed at the food sciences research Institute, which sounds very boring, but she had a really cool job. She was measuring foods for radioactive contamination and before Chernobyl, that was the very boring job. And then after Chernobyl, it became a very exciting job, not in a good way.
+
+3 (7m 19s):
+So your mom worked for the state and was a scientist and, and, and your dad was a,
+
+5 (7m 26s):
+But he was a writer. Although he too had a, a chemistry degree as a matter of fact, but his calling was a fine arts.
+
+3 (7m 33s):
+And did you speak Russian at home or did you speak Ukrainian dialect?
+
+5 (7m 37s):
+We spoke Russian and my grandparents who lived with us spoke Yiddish to have an encrypted channel from the, from the young ones.
+
+3 (7m 46s):
+Where's your family at all? Religious. Who did, did you have any Jewish identity or did they sort of stay away from it because it was you, you could be persecuted in the Soviet union if you practice religion or Judaism. Right.
+
+5 (7m 60s):
+I definitely identified as Jewish, but had zero understanding of the religious identity or really the historical that I knew nothing of Jewish holidays, but amusingly enough, one of the things that happened. So first of all, I guess I was in the track program most of my life. So I would, I would get into this math and science special track. And inevitably, because at least Soviet Jews were so obsessed with education. I would get to this new class and you'd be like half Jewish. And one time a teacher made a joke and it was very much an anti-Semitic slur. And all of us kind of were little stunned because normally he came from other kids didn't come from teachers, but it also just happened all around us.
+
+5 (8m 46s):
+So it wasn't like that you'd have a deal. And then after class, some kind of a spontaneous movement began. We're like, you know, we shouldn't put up with this, like this, this doesn't okay. And so we somehow talked ourselves into submitting a formal complaint to the school about antisemitism. Why at the time we seems just completely misguided because like, maybe we still get kicked out of school. But I think both the school and the teacher was so shocked by all these pre-teen early teen Jewish kids getting worked up about being called, you know, the equivalent of a, you know, unprintable word in class that the ultimately centered the teacher and, or like, yeah, you can't really teach this class anymore.
+
+5 (9m 27s):
+Which in retrospect, I think my parents were like, what are you doing? You're going to get kicked out. Like this is going to jeopardize your chance of getting into a good university. And in retrospect, like you hate me. That was cool.
+
+3 (9m 39s):
+Okay. So I've read that as a kid in Ukraine, you were, you were already getting into computers, right? Like you were already learning about, about programming, right?
+
+5 (9m 50s):
+Yeah. A whole collection of really lucky coincidence. So as my mom joined this food science research Institute, but the state gave her an order to learn how to program. And she wrote me into it and basically said, look, you know, I'm not really sure I understand how this stuff works, help me out. And so that was my first kind of rabbit hole into programming. And within a few months I was a better programmer than my mom, and then better programmer than her colleagues. And I was just gorging myself on hold, hold the knowledge that I could get from, with like translations with various computer science books. And so by the time I got to the U S I was completely hooked on the idea of writing software. And I knew that I wanted to be a software engineer.
+
+5 (10m 32s):
+I knew I wanted to go somewhere sort of beg, borrow and steal, get my way to a keyboard in the monitor.
+
+3 (10m 37s):
+So if a union collapses in 1991 officially, and Ukraine would become an independent state. And today we're seeing the, the, the long tail of that story, your parents decide to immigrate to the United States. First of all, what did they, I mean, what were they going to do when they got to the, what was their plan when they got us?
+
+5 (11m 0s):
+I'm pretty sure they had no plan,
+
+3 (11m 2s):
+But they just knew what they wanted to get out. So
+
+5 (11m 4s):
+Couple of things led to it. So my grandfather in particular, but also my grandmother were generally speaking, apparently quite dissident in their views. And I would know it, even though they lived with us. So my grandfather, he and my grandmother had been scheming to get out of the country since maybe the seventies, certainly all through the eighties. And two things happened in 1986. My grandfather died quite suddenly and my grandmother retired and she completely disappeared from the spotlight. She was, she was an internationally known astrophysicist and know, actually one of the coolest things I found after I came to the U S is my grandmother's research papers in the Harvard library, which was like, oh, wow.
+
+5 (11m 52s):
+I did not know this was the thing with
+
+3 (11m 54s):
+Your physics royalty.
+
+5 (11m 57s):
+I am, I'm a physics royalty adjacent, but she was an amazing woman. And it's completely appropriate that she has papers in the Harvard library, but my grandmother decided that she would get us out the entire family. And so she engineered this mass Exodus of the left clan while basically dying. She had breast cancer that was fairly aggressive all throughout this process. And she just sort of said, you know what, screw this way, we're getting out. And so I don't think they had a plan. They just had an opening where they realized that so its state was falling apart. She had to bribe a Soviet official to give her new birth certificate.
+
+5 (12m 40s):
+And suddenly we found ourselves on a plane to New York.
+
+3 (12m 44s):
+Well, so you, you were let out and you land in Chicago in 1991. So what is your parents do for a living when they got their,
+
+5 (12m 54s):
+My father, a man of arts spend a bit of time painting signs for shops on Devon street, which is kind of a main drag in north side of Chicago. And my mom babysat for the first, I think, 10 years of our life in the us.
+
+3 (13m 11s):
+And did they speak English?
+
+5 (13m 13s):
+My mom spoke decent English and my dad did not.
+
+3 (13m 17s):
+You a 16 year old kid. Did you speak English?
+
+5 (13m 20s):
+Yes. They started me on it at two. I think they're they're tapes of me trying to speak English as a two year old.
+
+3 (13m 26s):
+Wow. All right. So you could integrate into the school system, your brother, your junior high school basically. And was, was it hard for you when you got to school?
+
+5 (13m 36s):
+So I could definitely was not. I definitely had my fair share of you're not from around here type conversations, but I was fortunate in the sense that I went to a very normal inner city public high school in Chicago. He was something like 30% black, 30% Asian, 30%, everything else, 10% people you didn't know existed. It was just some sort of a very, very, very integrated mix of anyone and everyone. And so this was not a, oh wow. You're not from around here. It was more of a, oh, you're one more of these people who speaks with a funny accent and does math really well in place clarinet.
+
+5 (14m 17s):
+Okay. You know, we have three of you over there in the corner.
+
+3 (14m 19s):
+Yeah.
+
+5 (14m 21s):
+I tracked every stereotype.
+
+3 (14m 23s):
+So I read a story that you, you, you, you knew about MIT and that was your dream to go to MIT. And you talk to your school counselor about it, but you, you were steered in a different direction, not to MIT.
+
+5 (14m 38s):
+Yes. This is a one of these, you laugh, you cry, you end up in a different university stories. So I don't remember actually, whether this was the way it was formerly translated or the way I translated it. But in my, from English to Russian, back to English translation of MIT, it became MTI.
+
+3 (14m 56s):
+So you still, you talk to your counselor and said you wanted to go to MTI.
+
+5 (14m 60s):
+Yes. I was burying system really want to go to MTI. And she said, well, I just don't think I know the school.
+
+3 (15m 6s):
+He was sort of MTI the Montana technical Institute.
+
+5 (15m 9s):
+I think my, my counselor may not have heard that one either, but she basically said like, you'd never taken an act. You never taken an sat. You're fresh of the boat as they come, just like, you know, get your bearings. And then you'll, you know, you'll, you'll, you'll get to the right university. And so I was quite discouraged, but fortunately I have met this great guy named Eric who is still one of my very closest friends. And I said, all right, I'm I really want to go do computer stuff. Where do I go? And he said, you know, the, the brightest kids from this school get into university of Illinois at Urbana champagne. And that's where I'm going to try to get into, if you want, I'll, I'll show you how to get the paperwork. And that's how I ended up at U of I
+
+3 (15m 48s):
+All right. So you get to school and you are determined from the day you get there to, to what, to become a software engineer when you graduate or to start your own software company or both. I mean, from what I've read, it sounds like you kind of knew what you wanted to do when you got there. Is it, is that true
+
+5 (16m 8s):
+A little bit after I got there. So I got there, I was still very much under the spell of my grandmother who was with us. She, she actually managed to survive long enough to see the family move to Chicago. And so on my way to college, she was quite ill, like really, really old by that point. And she basically said, look, I think you should probably consider being a professor. And that was my plan when I entered the UI. But midway through sophomore year, I ran into a couple of guys that were starting their first company. And they sort of infected me with the entrepreneurial wonder less than that. That's when I knew I just needed to write code and build companies and products and businesses.
+
+3 (16m 47s):
+I mean, I mean, this was kind of an, a heady time at the university of Illinois. And I think Netscape was Marc Andreessen came out of there. Right. And, and, and, and so, you know, it was, it wasn't MIT, it wasn't Stanford, but it was not far behind in terms of like the, the innovators that, that would come out of there. But it's, it's still the mid nineties, right. It's still like early internet days, but you probably had access to, to see, or to be exposed to technology that maybe ordinary people weren't exposed to yet, even as it is a computer science student.
+
+5 (17m 25s):
+Yeah. But that's exactly what happened. And so, so all of us were kind of realizing that we're in the middle of this maelstrom of innovation and we couldn't, we couldn't know, and didn't really know exactly what it was happening, but suddenly there was lots of attention to this mosaic project that mark Andreessen started at national center for supercomputing applications. And there are all these people visiting campus and looking, and the graphical browser mosaic, the one launched in 93 when, when I entered campus. And so I was thrust into this, like the future is being made right here. Nobody knows what it looks like, but it's definitely being created right in front of you.
+
+3 (18m 5s):
+Do you, by the way, do you remember getting on that browser for the first time and just see, because I remember it just seemed like something totally. What is this?
+
+5 (18m 13s):
+And so then you Ave residence hall, computer lab downstairs to the left a second computer for first row. Yeah. That's where I was when I saw my first copy of mosaic. And I actually remember thinking, well, this isn't that big of a deal, except the embedded images are crazy cool. Like this is just like all these other texts, sort of hyperlinked, navigating things that I've seen before. But the images right alongside the text is just like a complete different experience. It's like reading a book. And that was pretty amazing.
+
+3 (18m 45s):
+While you were in college, you, you already started to connect with other students to found click start businesses, right?
+
+5 (18m 54s):
+So I think a lot of the immediate reaction to two things that the launch of mosaic and kind of the like, oh my God, this is different than important. And everything will change now. Plus wow. Mark and five other people just upped and left campus and went to Palo Alto, California, which seemed like, you know, going to the Mars to start a company. And that, that construct was so cool. And so inexplicably desirable, I ran into these people who were kind of hanging around the same computer science circles. And they're like, Hey, we're going to go start a company. You should join us because you're one of these guys who doesn't sleep, doesn't eat, just writes code. And I was like, that sounds great. I don't really know what we're going to do. And I can't, we don't know it either, but we're just gonna go start a company.
+
+5 (19m 35s):
+It doesn't matter what it's going to do. And what we kept on trying to do is answer the question. Okay. So the world today looks like this now ad web. So advertising exists on TV. It exists when you drive highway 57 from Chicago to champagne, what happens to advertising? When everyone has a web browser, we should build a company around that.
+
+3 (19m 56s):
+And I know you started a number of companies around this period, which didn't quite work, but what were, what were some of the ideas that you came up with?
+
+5 (20m 5s):
+So the first one was in fact, a web advertising, I think may have been the very first web advertising company failed miserably for lack of funding and lack of understanding of how advertising industry really worked. Next one was an attempt to reimagine classified. So I looked at it back of a newspaper. I was like, oh, classifieds in a newspaper. How about classifieds? Plus the web. That's actually kind of vaguely successful
+
+3 (20m 30s):
+To create idea. I
+
+5 (20m 31s):
+Thought
+
+3 (20m 32s):
+So. And, and successful in which way? Like, like people were paying money for it.
+
+5 (20m 36s):
+Yeah, my friend and I started that and he would literally call small regional newspapers, like an upper peninsula, Michigan newspaper with circulation of 200. And it would say, do you guys have a website? And it's like, yeah, we just got on the web ourselves. We have a website. It's like, great. You need a classifieds package because right now you sell, you make money by selling classified space in the back of the newspaper. Surely you will want to sell some classified space on your website. And so we would actually charge them SAS fees, like $1,200 a year.
+
+3 (21m 5s):
+But none of these companies that you started really went anywhere though. Right? Like you didn't have to walk out of college with a big chunk of cash in your wallet.
+
+5 (21m 14s):
+No, I walked out with student loans.
+
+3 (21m 16s):
+Right. Got it. Okay. But, but you, you walked out of college clearly like fired up to, to, to start something.
+
+5 (21m 26s):
+Yeah. The, the very seminal moment sort of like, this is what I'm going to deal with for the rest of my life was when the very first company failed. We drove up to Chicago, the four of us to try to raise money and were rejected. It was the, the advertising web business. We actually went to, I think Leo Burnett, one of the large advertising agencies at the time. And they were sort of like, yeah, that you guys have no idea what you're talking about. It's not going to hunt. And so this was our last ditch attempt to save the company. So we were driving back to champagne, completely silent, the four of us in one car and just kind of like this, this or that, like end of the road, we're dead. And all I could think about was what is the next company I'm going to start?
+
+5 (22m 8s):
+Like I could not even, like I was trying to convince myself this, like, this is the moment of grief. You need to feel bad about the death of your first company. I was like, but I, but I'm not I'm. I just can't wait to figure out what the next one is going to do. And so when I left college, I was just sort of on this kick of like, well, number one, number two, number three, number four, they've all failed, but surely number five will succeed. I just couldn't wait to get started.
+
+3 (22m 34s):
+When we come back in just a moment, how max moves out to Silicon valley meets an up and coming small time investor named Peter teal and starts a brand new business that initially goes absolutely nowhere. Stay with us. I'm guy Raz. And you're listening to how I built this
+
+Burrow (23m 3s):
+Industry. Disruptors, make the world go round. They're the innovators that take out data technology and transform it into a product that benefits everyone, which is why I want to tell you about borough. It's a new kind of furniture company that makes everything with comfort in mind, from their modular sofas and sectionals that make assembly painless to their wall. Shelves that make mounting a breeze. Borough is designed to make life easier. Breaux is proud to launch everything. You need to build the bedroom of your dreams, including solid hardwood, bed frames, and modular dressers, everything you love about their living room furniture, simple assembly, premium materials, and more are built into their bedroom designs. Every order, no matter how small or large is delivered directly to your door for free. Thanks again to burrow for supporting our show. Listeners can get $75 off their first order at burrow.com/built that's burrow, B U R R O w.com/built for $75 off burrow.com/built
+
+Whoop (24m 9s):
+today's podcast is brought to you by a whoop. The world's most powerful wearable health and fitness coach whoop isn't like other fitness trackers. It measures your vital signs, including heart rate, variability, resting, heart rate, and a fully phased breakdown of your sleep. In fact, I recently tried woop and it really helped me figure out how to think about sleep and recovery. Now I've always known how important those things are, but the data takes it to another level. So if I wake up fully recovered, I know I can, you know, go out and push myself whether it's an, a workout or a full day of interviews. And when I'm feeling a little rundown, whoop can also tell me and gives me coaching feedback to help me get back on track. I wore their all new four dot oh, it's designed with new biometric tracking, including skin temperature, blood oxygen, and a bunch more data sleep better, recover faster and workout smarter with woop. The all new device is free when you sign up for a membership, go to woop.com that's w H O O p.com and enter built at checkout to save 15% off today.
+
+5 (25m 22s):
+Hey, welcome back to how I built this I'm guy Roz. So it's 1997 and max Levchin has just graduated from the university of Illinois with a bachelor's degree in computer science. He's already walked away from a few businesses that he couldn't raise money for. And now his former co-founders are telling him to go west My co-founders number one and two upped and left for Palo Alto because they knew you had to go there because that's where the action was. We failed to raise money. Silicon valley was chock full of venture capitalists that were interested in giving money to people like us. And so they said, you know what? This college thing is overrated. We can drop out and go. Hmm.
+
+5 (26m 2s):
+And because these two guys, Scott and Luke moved to Palo Alto, I knew we will kept in touch. And I had gotten nonstop stream of, oh my God, it's Mecca for startups here. And you're riding away in, Champaign-Urbana get out here as soon as you can.
+
+3 (26m 19s):
+This is Luke Nosek and Scott banister, right? Yup. They'd come back into your life. Well, in 1998, cause you, you move out there to kinda hang out with them.
+
+5 (26m 30s):
+Exactly. 4 69 grant avenue, a purpose queue. I was crashing on Scott's floor and Luke was in apartment P across the hallway.
+
+3 (26m 37s):
+And when you got there, what did you do?
+
+5 (26m 40s):
+I sort of, because I was hanging out with Scott. I promptly became his brainstorming partner. I knew programming and I thought myself pretty great software engineer, but I knew that most of my failures as a startup CEO, CTO, whatever I thought I was, or because I would build things that I thought were good and easy to use. And then I would show them to someone like the classified software and people were like, this is really great, but I have no idea how to make it work. It's so complicated. So I decided that my next sort of a development phase in life would go hang out with people who are really good at product design. And Scott happens to be just the genius product designer type thinker. And so I sort of attached myself to him and would just roam around wherever he would go and say, all right, I have a product idea.
+
+5 (27m 24s):
+And you're telling me, all right, you know, tell me a product idea and I'd tell him, and he'd rip it apart and show me why it's a stupid idea and all the things that are wrong with it. And it was my crash course education, product design.
+
+3 (27m 34s):
+So you were kind of trying to come up with different ideas. And I guess in, in August of 98, a fateful in certainly fortunate and counter, we went to a lecture at Stanford by Peter teal. We know who Peter teal is today. He was at the time, presumably just a kid. You know, he, he, I think he would have Stanford and law school and Wharton finance and, and left finance. And at that point he had raised some money to start up a hedge fund. I don't think it was a huge head federal. I think it was relatively small.
+
+5 (28m 6s):
+I think it was $10 million. It was very
+
+3 (28m 7s):
+Small compared to what it would be today. Why didn't you go to that lecture? What was the lecture? And you were not a student at Stanford. I think it took place on the campus.
+
+5 (28m 20s):
+It's a funny story. So, so Scott's apartment had no air conditioning, as many apartments in Palo Alto do not, but it had a heater which would turn on based on some magic and conditions and rules that I couldn't understand, but that it was mostly on somehow and 98 summer was unbelievably hot. And so as much as I could, I would go find an air conditioned room to just like, not be drenched in my own sweat. And Stanford has all these wonderful classes during the summer and they don't really check IDs. You just kind of roam at least back in the 1998 timeframe. Yeah. At the time I would just kind of wander into a room, any room and sleep in the back of the electrode was big enough.
+
+5 (29m 3s):
+Nobody cared. I was sort of half conscious of this guy named Peter teal because Luke told me about this young hedge funder, Peter teal, he thought was really brilliant because among other things, he was this super crazy libertarian quote unquote. And so as I was Romy's for Stanford, looking for electric to crash and sleep, I saw Peter's name. I was like, oh, all right. Well, if the lecture is boring, I can sleep. And if the lecture is interesting, I could listen and see who this person is.
+
+3 (29m 34s):
+What did he talk about?
+
+5 (29m 36s):
+He talked about currency trading, which was fascinating because I'd never even knew that whole genre business existed and more than anything, I just thought he was really bright. He was obviously very, very smart person.
+
+3 (29m 48s):
+Did you, I mean, from, from everything I've read about you, you were a little bit awkward. Maybe you still are today a little bit, which is okay. That hasn't changed. No, no shame there, but you did have the summon, the courage to go talk to him, by the way, what was it? A packed lecture hall? Was it like hundreds of people?
+
+5 (30m 7s):
+No, actually the reason I didn't sleep cause because it was literally six people in a tiny little room about as big as a broom closet. And I was like that my first reaction, I remember very vividly kind of like, oh my God, I can't walk out. I can't even sleep because lecture, this Peter Guy will see me in probably yeah. Mock me or something. So I just kind of sat there and listened. He had another person who came up to him afterwards and you could tell from the look on his face that he was not enjoying the conversation. He'd just looked absolutely miserable while he was being sort of interrogated slash talk at, by some random person. And so I sort of decided that my, my move would be to free him from the grasp of this, this person who was interrogating him.
+
+5 (30m 49s):
+So I sort of came up and said, hi, Peter, I'm Maxim Luke's friend. And I think he probably didn't necessarily know which Luke I'm talking about, but he was like, oh, max. Yes. Great, great. Oh, I'm so sorry. I have to talk to this person. And so he's just kind of abandoned the guy who was torturing him and started talking to me.
+
+3 (31m 5s):
+And what did you talk? What did you talk to about just, do you remember, did you say I liked your lecture or
+
+5 (31m 9s):
+I became an awkward self and basically said, well, I'm, I'm max. I just moved here from champagne. And so it was like a weird kind of a zero content conversation. And then he asked me what I'm up to. And I said, I'm definitely going to start a company again. And he said, oh, that's cool. We should definitely talk about that. Let's meet for breakfast. Okay. How about tomorrow is very indicative of how Peter teal generally does things with Peter steel does.
+
+3 (31m 35s):
+So the next day you guys meet for breakfast, where, where was it?
+
+5 (31m 38s):
+Was it hobbies on Embarcadero and I'm a commuter rail. Yeah.
+
+3 (31m 43s):
+Yeah. All right. So you go for breakfast at hovies legendary Silicon valley diner cafe. And, and you're like 22, 23. He's probably close to 30. So he's like the, you know, you probably, you're probably thinking of how this guys knows where it's at. He says, what are your ideas? And what did you, what'd you tell him?
+
+5 (32m 5s):
+I came prepared. I had two ideas. One was based on a consulting gig. I did while I was in champagne. There was this company in Chicago. They would gather everything from like short clips of commercials from TV and photographs, or like ripped out pages from magazines, advertising, typically consumer packaged goods. And they would gather this whole thing up into a database, which I would code for them. And then they would sell that database to major brands. And this was sort of, you know, illegal way of gathering competitive intelligence and nothing like this existed on the web. And they're all these companies now that we're marketing things on the web.
+
+5 (32m 45s):
+And I thought this should be a competitive intelligence company for, for the web. So that was my idea. Number one. And I pitched that to Peter and he was sort of like, Hmm, okay. And I could tell he just was not impressed. I thought it was the coolest idea in the world. And then he asked me like, all right, so like, what's your other idea? You said you had to, and before I fully fully decided that I wasn't going to get a master's or doctorate, I was very hard at work on cryptography. So the idea of secret codes and, you know, breaking and making codes, and that that's, that's what I wanted to do. If I were to go get a PhD and I had this sort of half formed idea that the world eventually would have small devices.
+
+5 (33m 27s):
+Everybody would have a small device in their pocket, and this is long, long, long pre iPhone. But this was right around the time of the heyday of the Palm pilot
+
+3 (33m 35s):
+Palm pilot. Yes.
+
+5 (33m 36s):
+And then I looked at the security design of the Palm pilot and was sort of flabbergasted to know that there was no way to encrypt anything. You could communicate with other Palm pilots, but people could sniff the communication and just steal your secrets. And so I had the second idea called secure pilot, which was going to be cryptographic software for Palm pilots. And I was very reluctant to share this because like, this is a niche within a niche like crypto, you know, security, like most people don't care about this stuff. And Palm pilots are still in their infancy. There's maybe 1 million of them sold. So I kind of blurted that one out. And Peter was super excited about it. He's like, this is a crossing ever, like, you should absolutely start this company. And I w I would like to invest. And I was like exact opposite of what I expect expected in every dimension, but sure.
+
+5 (34m 17s):
+I'll take your money.
+
+3 (34m 18s):
+This was cause with Palm pilots, you could like exchange addresses in infrared. Right. You'd point them at each other. And that basically, if you want, if you knew how to, or was, it was relatively easy to just suck information from, to someone else's PalmPilot. Yes. And you were like, this is a security flaw. We should develop the technology and, and all right. So he says, I like this idea. I think we can maybe fund invest in this.
+
+5 (34m 44s):
+Yeah. I think he literally offered to invest on the spot. It was actually like the amount of time it took him to go from that's a cool idea. And I'd like to invest, it was like fewer than a sip of his smoothie. It was, would you like nanoseconds? I was actually startled and was sort of like, okay, well, I guess I'm starting this company. Cause I have an investor, which by the way, this was the very first investor interaction I've ever had in my life that wasn't get out, this isn't going to work.
+
+3 (35m 8s):
+And what did you know about like, did he, did he say like, I'm going to give you $100,000? Like how much money was he, was he willing to give you?
+
+5 (35m 16s):
+He asked me how much money I thought I needed to get this off the ground. And I said, I think I need about a half a million dollars. It's a great, I'll invest 300,000.
+
+3 (35m 24s):
+Wow. Okay. So it's pretty great. And, and, and a, a fortuitous meeting for Peter teal as well. Cause he was, he had a $10 million fund at that point. I mean, not bad, but not great. Not, not necessarily guaranteed to make money. Yes. What, what was it about? I don't know, Peter teal only, you know, I've read a lot about him and obviously his, his reputation precedes him. And some of that may be character caricature in some might not, but, but even as a student at Stanford, he was, he was a bit of a lightning rod. What, why did you trust him? Cause you know, it could have gone really badly and he could have, you had no experience dealing with cab venture capital investments.
+
+3 (36m 6s):
+Like you didn't probably know how to structure the terms or your equity. What was it about him that connected with you?
+
+5 (36m 15s):
+I think the sort of the pragmatic answer I had absolutely nothing to lose. There was nothing to take from me. And so in terms of risk reward, it was sort of like the worst that can possibly happen is I I'll go from nothing to nothing. So it there's, there's just very little downside. The thing about Peter that I think most people who don't know him just can't fully relate to. He has this amazing ability to see what you are great at. And he gets so excited on your behalf to be your best self as the kids we'll call it these days that you can't just not get infected.
+
+5 (37m 0s):
+You become this ball of energy because this guy, Peter teal, you barely met is just so excited about how talented you are in this one area. And you will change the world and, and, and he wants to be a part of it. And he wants to be an investor in that he wants to be a partner and your friend, and he's clearly genuine in it and kind of like, I didn't even know I am back good. And this guy he's telling me he can see it and he's doing it with his entire bodies that excited. And I was still knee deep in my various imposter complexes at the time I was this immigrant kid. I wasn't quite sure if I dropped my accent fully and it was supposed to be a PhD in computer science, but I just got a bachelor's and ran away. And he was just so genuinely excited to build this thing and to help me build it.
+
+5 (37m 44s):
+And, and I think that it's the, his superpower is that he enables you to be your very best self.
+
+3 (37m 50s):
+Wow. So what, what was the next step? I mean, with a $300,000 investment, did he say, go and raise the other 200? Did he say, go start working on this? What, what, what did he say? Go hire somebody. What did he, what did you do?
+
+5 (38m 5s):
+I think he originally thought that I kind of had a plan and he would just sort of write me a $300,000 check. And then off you go and he did say like, look, you need to go line up the rest of the money because this isn't going to be enough. You just told me you need at least half a million dollars. And so I sort of immediately went up to the fact that this is my first and only successful fundraiser. That's I probably could use some advice on how to do it. I said, okay, well I'll maybe I'll help you out. And he had this guy that worked for him in teal, capital management, kind of his, his second in command named Kenny, Ken Howery. Kenny will help you, Ken. He's very good at fundraising. He helped me. And so Kenny got to work and made me a pitch deck. And then I went into pitch, some randomly selected venture capitalists, and they were all one by one telling me how is it will never work.
+
+5 (38m 52s):
+It's a stupid idea. And it was just like rejection and rejection. So at some point I went back to Peter and said, all right, something's not working. Like you bought this and can you help me with the deck? But it's just not landing with anyone. What do I do? And so I said, fine, I'll help you. And so he started coming with me on these venture capital pitches.
+
+3 (39m 11s):
+So, so basically it wasn't the content of the pitch. It was you, you just sucked it, you work in it.
+
+5 (39m 18s):
+I think it may have been me.
+
+3 (39m 20s):
+Yeah. And he was charismatic and, and more confident than you.
+
+5 (39m 24s):
+Yeah. I was very awkward and this totally did not work in venture capital where I would show up like with a disheveled hair and a t-shirt that said Microsoft socks or something like that. And people like, all right, this is not a serious person
+
+3 (39m 36s):
+At that time. At that time it would change. Of course. But at that time it was like, right. Cause you probably venture capitalists. We're used to people with MBAs pitching them.
+
+5 (39m 46s):
+Yes. I think they very much wanted to hear from someone who went to a top tier school and could speak financial language and definitely had shoes on instead of flip flops.
+
+3 (39m 58s):
+Right. But even with, even if your pitch skills, weren't great. I I'm still skeptical. I'm also skeptical about this idea. I don't, I would not invest in that idea. It doesn't seem that promising to me. So I guess I, I, I mean, if Peter teal was behind you and he probably, he already had some connections, maybe that it gave other investors confidence, but what were they investing in?
+
+5 (40m 23s):
+I am not sure. I think that's the honest answer. I think more than anything, first of all, I mean, just to give you a sense for the success rate of these pitches, we ran out of venture capital, kind of the Sandhill road, classic blue chip venture capitalist community very quickly. I think we were roundly rejected by 100% of those pitches. We drove up and down sand hill road and got absolutely nothing. And then we started pitching people kind of in the outskirts of the broader Silicon valley. Remember driving to a place called I think it was called red roof ventures or something red brother. And it was a very long drive. And Peter first drove me around because I didn't have a car.
+
+5 (41m 3s):
+And this was a particularly memorable meeting because these people basically throw us out. They're like, this is a stupid idea. We don't understand anything about it. We know we have another 15 minutes on the clock, but you're wasting your time and our stew. So please leave. And so we were not successful even with Peter's cache. And so we pretty quickly shifted into these like friends and family, wealthy people, Peter knew and maybe raise money for his hedge fund. And so this was definitely not a professionally sourced seed capital, nothing like today.
+
+3 (41m 34s):
+All right. And, and this company that you launched was, was this, was this a company that you called field link?
+
+5 (41m 39s):
+The, the very original name was field link because the idea was you would have all these salespeople in the field and they would have secrets on their Palm pilots. And you would have to encrypt those secrets. That was the encrypted field link. And then it was kind of an awful name even by my unsophisticated measure. And so I decided I wanted to give it a new name. So I spent a lot of time thinking about it and came up with confin city, which was confidence and Infiniti combined. And I was very proud of this. And then I pitched Peter and he was like, sure, whatever, like, we have bigger problems. We need to raise money. And then I told someone else and they were like, oh, like a long con, like, okay, you're going to sell me a security software by company with a word con in it.
+
+5 (42m 20s):
+That's terrible. And so we kind of knew from day zero of the Confederate, he wasn't going to last, but that was the placeholder name for awhile.
+
+3 (42m 27s):
+But I think in, in any case, you, you, at this time do get some funding from, from friends and family. And I think you, you managed to hire your friend for the university of Illinois, Luke Nosek right. Like to come out and help you. And did you get office space? Did you like get rent a place and, you know, put computers in and get a fast T1 line and then start clamoring at the keys on your computer?
+
+5 (42m 53s):
+Basically, we got our first office for this newly renamed infinity on university avenue, which Peter actually placed at the time, a lot of significance on like having a cool address. Like you don't want to be in some random crappy off the grid office. You want to be on university avenue because that signals that you're important. You're you're in the mix. So we got that 3 94 university suite two, and we had a bunch of Ikea furniture that we self assembled and we started typing.
+
+3 (43m 27s):
+And at some point, I think pretty soon after Peter teal, he, he became the CEO of this company that you started. Did you ask him to be the CEO or did he sort of say, you know, I should, I should probably be the face of this thing because I'm a little bit better at presenting.
+
+5 (43m 46s):
+It was very much my, my efforts. I remember talking to him towards the end of 98. I think I was paying off a parking ticket. He made me get a car because he was tired of driving me around. So I had to buy a car and Luke had to be my co-signer because I had no credit. And so I promptly got in my first parking ticket. And so I had to go to the courthouse in Palo Alto, I think, or city hall or something like that to pay off my ticket. And I was standing on the steps of city hall, basically telling him about yet another failed attempt at fundraising. And the fact that I really should just be writing code. And he was telling me like, no, no, no, you really should be recruiting your friends from college.
+
+5 (44m 28s):
+Like this will not work out if it's just you writing code all the time, you must know some smart engineers, go get some, as we talk about sorta like, you clearly know what we should be doing as a company. And I just want to build this thing. Like maybe you should be the CEO. And I sort of said it out loud. And he was like, oh no, that's a terrible idea. Like, I don't want to do this. I have this fun distant really well. And I sort of like, no, no, no, that's exactly what you need to start wanting to do. And so I went into this mode of must persuade Peter teal to be the CEO of this company.
+
+3 (44m 56s):
+So Peter is a CEO and you are presumably the head of technology. And you're, you're, you're trying to develop this, you know, this crypto software that will encrypt data between PalmPilots, but at some point, clearly this shifted to a completely different business. So tell me about how you came to the realization that maybe that wasn't the right thing to focus on.
+
+5 (45m 21s):
+So this are the backdrop, Peter and I, and Kenny and Luke are whole kind of roaming around Silicon valley, trying to see if there's demand for the software that we're building. Right. And it's becoming clearer and clearer that there really isn't. There's no nicer way to put it that no one really cares. And I remember talking to Jeff Hawkins who created a Palm pilot and his executive team. And they're like, ah, yeah, you know, security. Like, we totally thought about it. It'll, it'll get on a roadmap one day, but it's a consumer product right now. It's like actress books. And like, nobody's clever enough to steal things through these IRB teams, but I can show you a demo where I can do that.
+
+5 (46m 2s):
+Like, yeah, but you're like a weird kid who wants to steal things from IRB. And so it just wasn't really a value to the market. And we basically shifted kind of back to the brainstorm mode where Scott banister and Luke and Peter and Reed Hoffman, who was Peter's friend from Stanford and a handful of others would just stay up really late at night and brainstorm, you know, w w what else can we do with this tech before we call it a day? And read was one of the more precious grains who was sort of like, Hey, you can secure other things. Maybe you can like secure invoices or secure IOUs, or, you know, secure something that kind of is valuable in and of itself.
+
+5 (46m 46s):
+And that kind of pushed us close enough to this idea of an electronic wallet. And then there was a very short throw from that to, well, what if we just secured money? And that that's kind of the starting point of PayPal,
+
+3 (46m 57s):
+Reid Hoffman. Who's been on the show who was on the show a few years ago. And if you want to hear a story, you should go back in and check out that episode. He went on to found LinkedIn, was he con kind of just hanging out as a friend, or was he did Peter like bring him on as an employee of this company,
+
+5 (47m 17s):
+He was a board member of ours and he was running this company called social net. I think it was called. And it was failing. I actually remember visiting read at his company and it was like one of these stark kind of a, I I'd already failed four times. So I was perfectly comfortable with failing companies, but I'd never seen any large scale failing company. And I walked into his office and it was dark in the middle of the day. And it was just like, no people there at all, lots of desks. And I was like, wow, this is so depressing. And that's when Peter sort of said, look, you should join our board and maybe you should join our company. And so eventually Reed of course joined PayPal as a full-time employee, but at the time he was a board member. And so he was mostly hanging out with us and brainstorming.
+
+3 (47m 55s):
+And so you begin to kind of pivot into, into this idea that maybe you should focus on and encrypting money transfers. Is it, is it a year before you, you, you make that pivot or is it faster,
+
+5 (48m 8s):
+Faster? I think by kind of mid spring, late spring 99, we were full steam ahead on we're going to encrypt money
+
+3 (48m 17s):
+And you, and you change the name to PayPal at that point.
+
+5 (48m 21s):
+W well, we started the name, change process suites. We took a couple of months to get there.
+
+3 (48m 25s):
+All right, at that time, and this is 1999, your PayPal, it's not yet PayPal that we would know of as PayPal. It's still, the concept is still like, if I were just, I don't know if I was just meeting you at, at a, at a party somewhere and I was not a tech person, I'd say, all right, well, what are you working on? Explain this thing. How does how's it gonna work? Well, like from the consumer perspective, what would you have said in 1999,
+
+5 (48m 51s):
+First of all, he would, would've walked away thinking, wow, that guy's a nerd. He can not explain what he works on and Boise awkward. So I'll, I'll try to do a better job. I'm not going to channel my a 23 year old self. Otherwise it'll, it'll just be long and boring and awkward. But the story I would use is like, Hey, so imagine you and your best friend are going out to dinner and who anyway, carries cash. These days, cash sucks. Nobody has cash. Nobody wants to have
+
+3 (49m 19s):
+Carries cash. It's 1999. We're all carrying cash. Of course,
+
+5 (49m 23s):
+Yes. I, I frequently would get called out, like, what are you talking about? I have cash in my pocket. Do you not have cash in your pocket? I say, well, what if you don't have cash? Well, what if you forgot? What, what if you need to split the bill? But what if it's a business dinner? It's like three people it's complicated. So what you need is an IOU, but I use our super awkward. You're not going to write them down, but if you have a Palm pilot and they have a Palm pilot, you can just beam them, essentially a promissory note that compels you to pay them back. If they cover dinner
+
+3 (49m 54s):
+And, and the promissory note would be tied to your bank account,
+
+5 (49m 57s):
+It would be a cryptographically secure message that you could later on, connect your Palm pilot to a computer. The message would automatically get processed, and then it would go against your bank account or your credit card.
+
+3 (50m 9s):
+Oh, wow. Okay. I like that. That's cool to hear.
+
+5 (50m 12s):
+Very,
+
+3 (50m 13s):
+Yeah, no, I like it. I like it. Cause it, you know what, you know, I like it because I know that there are still people out there probably owe me at least a hundred bucks. They're like, oh, payback, next week. Or, you know, you'd paid for somebody who's movie or something like I'll hit you up later, but I don't remember it. I'm sure I owe people like a hundred, 200 bucks too. So that would have been great. There you go. And presumably the business model would be around taking a fee every time the money got transferred. Okay. But at that time there were other products out there. There was something called Digi cash, I think. Right? So there were companies that were focused on, you know, ways to transact and, and send money back and forth in an encrypted way. So didn't, they already solve the problem that you were trying to solve?
+
+5 (50m 56s):
+I think they thought they did, but actually funny enough, one of my more memorable Silicon valley inaugural moments, I went to the Digi cash shut down party. They started this company. It was really well-funded. It was supposed to be the digital currency and it just completely died and it didn't succeed in the market. So I actually went to the party or the wound it down, it was on Stanford campus of all places kind of outdoors around this picnic table. And they asked me like, who are you? And what are you doing here? And it's like, oh yeah, this idea of like moving money through ether with digital signature sounds so cool. And they're like, that's a terrible idea. We just failed at a company doing this. But the reason all the prior experiments failed is releasing to summarize.
+
+5 (51m 38s):
+There were just entirely user friendly. They were awfully difficult to use as a consumer. And if it's not easy, it's just not going to work with money. Money works pretty well when it's in paper form and it works really well when it's a card form. So if you're trying to push it into an application or into a mobile device, it better be easier and quicker than the existing systems.
+
+3 (52m 0s):
+So how are you guys going to solve that problem? How are you going to make this? You were going to basically make it so easy that you could just beam a digital promissory note to someone else at the dinner table. And then that would be it. They connect to their computer and then it would connect to their bank account. And then they would get the money deposited in their account.
+
+5 (52m 19s):
+I remember literally drawing buttons, like special onscreen buttons for the Palm pilot app that we built to be more bubbly, like buttons that looked like they had 3d to them to make them friendlier, to make them look like it's easy and inviting to tap the amount of dollars you can beam to your friend. Cause I wanted it to be friendly and easy to trust and consume.
+
+3 (52m 44s):
+But what I'm trying to figure out is it doesn't, I mean, it's still, there is still friction there. Like you got to beam the thing, then dock your device and then probably connect to the, like, it doesn't sound like it was a seam. It was going to be a seamless process.
+
+5 (52m 58s):
+This is maybe why you have knots. Most likely used the PayPal on your Palm pilot. The, the simplest user interface always wins.
+
+3 (53m 9s):
+So November 99 PayPal sort of begins operations. What, as a consumer at that time, what did that mean? Was it a website or was it still focused on doing it through Palm pilots?
+
+5 (53m 23s):
+So it was primarily focusing upon pilots. He would go to the PayPal website and you would see that you can download this application compiled for your Palm pilot and because not everybody had a Palm pilot just yet. You could do cool things like, Hey, I will promise you to pay for my Palm pilot, but you don't actually have to have a Palm pilot. It'll just reach you via email. And then you would sign up, create an account. So it would kind of made a cross compatible Palm to web Palm, to Palm. And as a footnote, we had a web to web, but very much a demo quality product that I threw together to just show how this works. If you just don't happen to have any Palm pilots around.
+
+5 (54m 4s):
+And it's that demo that took off like crazy.
+
+3 (54m 7s):
+So initially the idea was it was peer to peer. Like I send you money, you send me money promissory note. And by the way, I imagine that, cause we know e-commerce really took a long time for e-commerce to take off for people to trust it, you know, seven or eight years. So it was still when you launched it, it must've been a tiny number of people who were like, yep. I mean, I must've been really like early adopters who were confident in and felt secure with this.
+
+5 (54m 33s):
+Yeah. One of our very first engineers, Russ made a screensaver that was just floating this number on a screen that showed how many users we had in total, who would ever sign up. And he was like 17, 17. I could go home, come back the next morning. They're still 17. It was growing about that fast.
+
+3 (54m 55s):
+When we come back, how in the space of a year, PayPal goes from 17 users to hundreds of thousands and how in the space of three years, it goes through a merger, a management, shakeup, an acquisition, and an IPO stay with us. I'm guy Ross. And you're listening to how I built this.
+
+Babson College (55m 31s):
+One major factor that can make or break your business idea. Who knows about it. You need collaborators and supporters, both intellectual and financial. You need people who champion your idea, bring our vision to life alongside other high achieving entrepreneurs at FW Olin graduate school of business at Babson college, the graduate school offers access to the opportunities, community and critical resources entrepreneurs need through the Arthur M blank center for entrepreneurship. The center ignites the exchange of innovative ideas and has supported 400 plus entrepreneurs and 385 plus businesses while awarding more than $600,000 in funding and in kind services. Babson's annual competitions, including E pitch, rocket pitch and beta challenge, award generous prize money, and provide the opportunity to pitch your business to faculty, investors, and expert advisors, and to receive real-time feedback. They give you the opportunity to find your champions, learn more about their full and part-time graduate level programs at the school ranked number one for entrepreneurship for 29 years by us news and world report, visit babson.edu/grad. Now today,
+
+Inside Tracker (56m 42s):
+everyone ages at different speeds. And the date on your ID may not truly represent your biological age. If you're looking for ways to extend your health span and slow, the aging process, the keys run in your blood, which is why inside tracker provides you with a personalized plan to improve your metabolism, reduce stress, improve, sleep, and optimize your health for the long haul created by leading scientists and aging, genetics and biometrics inside tracker analyzes your blood DNA and fitness tracking data to identify where your optimized and where you're not. In fact, my wife has used inside tracker and she really appreciates the guidance. That's given her on the right exercise and nutrition and supplementation for her body. Plus you can add inner age 2.0 to any plan for a calculation of your true biological age. For a limited time, get 20% off the entire inside tracker store. Just go to inside tracker.com forward slash built that's inside tracker.com forward slash built.
+
+3 (57m 51s):
+Hey, welcome back to how I built this I'm guy Roz. So it's 1999 and max and his partners have built a new peer to peer payment system soon to be called PayPal. And almost right away, the service starts to attract one very important user group. People who use eBay
+
+5 (58m 12s):
+Back in 99. There really isn't a wait to take a credit card payment online. If you are trying to sell things for a business, there are a couple of companies that kind of provided that service, but if you were eight, like a normal person, just trying to sell something on eBay, it was not a thing like you could not sign up for a business account and process credit cards. And PayPal was this peer to peer system that had a web only interface, which we made as a demo. And you could just tell someone, Hey, type in your credit card number, and I will charge your card as many dollars as we agreed. And it was like, had, had an effect of a minor explosion to the bay community.
+
+3 (58m 52s):
+And I think we should be clear here, which is you, you mostly created this thing to be used on PalmPilots right. I mean, but where the explosion was happening was on the web. Right. So, I mean, so the web version that you'd originally launched almost as an afterthought. I mean, I think that ended up being like adopted by like a hundred thousand users in January of 2000. And I think by March of that year, something like a million people were using PayPal. So how did it grow so quickly? I mean, this is not, this is not a time with a social media marketing, right? Like where you, where you advertising or was it just people discovering it?
+
+5 (59m 32s):
+Two things happened. So the eBay seller community, it was unbelievably self observing. So anyone able to sell things on eBay with constantly optimize for selling things more and faster, people are starting to make careers out of it. And so the second a seller would see it on someone else's site as I, what is this PayPal button? Oh, you click on this. And it asks for a credit card number, like amazing. And so that was a very important growth vector. And then Luke came up was the original viral marketing idea where he had said, Hey, what if we gave every new user who signed up 20 bucks, but not just 20 bucks for signing up, but 20 bucks to the person who invited them.
+
+5 (1h 0m 16s):
+And so three college students in particular, I think going on these absolute benders of inviting their friends and getting us to give them $20, but the eBay growth was entirely natural and it was really based on just sellers spotting, other sellers using it.
+
+3 (1h 0m 29s):
+I know you are focused on, on the technical side, but you know, you were probably clued in to all parts of the business. How did you guys convince the credit card companies and the banks to cooperate
+
+5 (1h 0m 41s):
+Some combination of asking forgiveness versus permission and just the overall naivete and headiness of the time, or we showed up and said, Hey, we're going to do this. And we promise nothing really bad will happen. We'll do just enough KYC to make sure there's no money laundering and people doing things. And they've sort of said, okay, well I guess commerce has good credit card processing is good. We like it. But keep in mind, this was pre nine 11 and the world is very, very innocent relative to today. Back then, this is, this is before Patriot act before extreme focus on things like money laundering and terrorist financing, et cetera, et cetera.
+
+3 (1h 1m 25s):
+But one of the biggest challenges you guys face at the beginning once you launched was fraud, right? I mean, there was, I mean the company was like losing millions of dollars a month from fraudsters who were, who were trying to figure out how to outwit the system.
+
+5 (1h 1m 42s):
+And we started noticing kind of all these maybe illegitimate transactions, maybe people kind of buying things from themselves and then taking the money out of the system. And then we'd realize that, oh, the credit card they use was actually not there as it was stolen. And then it just hit very, very hard sometime in April of 2000, we saw just these enormous attacks, primarily from my former Homeland or the general region, the oldest or the Eastern block countries, basically realizing that this is a very loosely secured financial system. And at the time, the sort of idea of securing private information, things like payment credentials, and what's now called PII personal identifiable information was really in its infancy.
+
+5 (1h 2m 28s):
+And so by mid June, I think I was starting to sort of become aware of the fact that we're probably losing tens of millions of dollars to these fraudulent activities per quarter. Wow.
+
+3 (1h 2m 42s):
+All right. So as, as you start to see more and more people adopt this thing, and I don't quite understand this part of the story I, I, and, and what, what was going on, but there was a, another, I guess, competing company that was founded around the same time called x.com by Elon Musk. We all know who he is and he was trying to do, I guess, a similar kind of thing. And, and I know this cause because Jeremy Stoppelman who went on to found Yelp and we'll get to that later, Jeremy's been on the show in the past, he was working with Ilan and, and to, to him, PayPal, you guys were like the enemy.
+
+3 (1h 3m 24s):
+It was, it was a battle to the death, but the, the two companies merged in March of 2000. How did that marriage happen? Who w w what do you remember about that?
+
+5 (1h 3m 34s):
+That's definitely a, a long and winding story. So the very short version is not only is x.com extremely concurrent to PayPal. It's also literally in the same exact building. We were 304 university suite to their suite. One, which we did not know about. And well, we realized that our number one competitor was literally our next door neighbor, and that had the super charismatic guy, Elon Musk running it, he had already sold zip to. And so he was both successful and wealthy, and he had succeeded in pitching so quiet capital, and they came at payments a little bit after we did, but they had some really good ideas that we didn't have. So very quickly, we start just looking at each other and going, oh, that's a good idea.
+
+5 (1h 4m 17s):
+We'll copy that. And vice versa. And we were in the market just beating each other up as hard as we could primarily by way of offering more aggressive incentives, to be sellers and buyers to join. That's when the intensity really goes up and like late April early may, 2000. And as this happens, Elon hires this guy, bill Harris, to run X. And he was one of these guys who could sort of see one plus one equals three. Obviously these companies need to merge instead of beating the crap out of each other in the market. And so he was kind of the primary force behind that merger.
+
+3 (1h 4m 51s):
+You guys were mortal enemies, and all of a sudden you become, you know, x.com and PayPal are the same company. W w did you, do you remember just thinking, wait a minute, this is crazy. Do you remember how you felt about that?
+
+5 (1h 5m 6s):
+It was definitely a little bit of a adjustment if you will, in terms of, we knew by then we knew some of the main characters and I'm sure they knew us. And so we'd sort of appropriately demonized them and made ourselves to, to heat them. So we have to kind of get to know these people that we merged with and adjust their thinking from guanos will die to actually, we need to make it work. Now, it wasn't without tension. Definitely some interesting, very loud debates between engineering teams on religious matters between windows and Unix. But it, it actually, I, I remember it kind of feeling initially very awkward and the not feeling very awkward very quickly.
+
+3 (1h 5m 50s):
+What was your kind of relief about that in a sense, instead of competing against people like Elon and his team that you are now all come, you know, harnessing your collective power.
+
+5 (1h 6m 1s):
+Yeah, I think so. My main concern at the time, I think Peter's as well, was this notion that it was just so completely irrational for these two companies to try to kill each other while the opportunity was so vast. And there were plenty of other competitors, including huge banks that were saying, Hey, you know what, we're going to get into payments online too. And just the ability to tell capital markets, Hey, there's only one bet you need to make. There's only one company you need to consider funding, et cetera. But that was extremely productive.
+
+3 (1h 6m 34s):
+W when, when the two companies merged to, how do you, this is around sort of mid 2000. Do you remember how many employees total now this merged company had?
+
+5 (1h 6m 43s):
+I would say on the order of a couple of hundred and aggregate, maybe less than 200, but not a lot. Okay. You can definitely know everyone.
+
+3 (1h 6m 49s):
+Okay. So you knew everyone. And then pretty soon after the merger, Elon, Elon becomes a CEO and your, in the number two position as CTO. So how did you find working with him at the time
+
+5 (1h 7m 8s):
+Combination of amazing and infuriating? He is very smart. He can be extremely charming and loves debate, and he has an engineer's mindset. So it for an engineer, which I certainly am. It's a great person to agree or disagree with because it's always rational. It has never, well, you know what? I have a, I've made a decision and now we're going to go left, which I think a lot of engineers find extremely difficult to work with. He and I disagreed on about a million different things, but the debate was always intellectual and civilized
+
+3 (1h 7m 48s):
+Did. I mean, you were younger, you're younger than, than Yolanda Peter. And, and did you, were you comfortable with, with sort of him, you know, kind of running the show and, and from what everything I've read about, and there's a new book of course, about PayPal and all the people that came out of, out of it was that he really kind of saw this as x.com was the sort of the senior partner in this relationship. And he was the boss.
+
+5 (1h 8m 11s):
+If I'm entirely honest, it was never entirely the perfect arrangement for me. Up until that point, I'd never actually worked for anyone in my life that said I had never felt a moment of disrespect or resentment towards Elon in a sense that I I'd always found him to be incredibly impressive and intellectually honest. And so I didn't enjoy the, now do what I say, but I did not question the capabilities of the person saying it.
+
+3 (1h 8m 47s):
+I mean, clearly there were tensions growing within PayPal. I mean, Peter, Peter was out of the picture, kind of, you were still there. And October of 2000 Elon Musk becomes the CEO. By the end of that calendar year, the board ousted him, they fired him. What do you remember about that? I mean, he, they, it was, this was not a personal thing of maybe was, but it was, from what I understand, it was really just a fundamental difference in how to operate the company.
+
+5 (1h 9m 21s):
+Yeah. Yeah. I remember plenty since I was very intimately involved. It's fairly hard to unpack, I think to the sort of uninitiated, I guess I don't want him, there's all these raging emotions and you hate each other, and then you merge and it's a 50 50 merger, which means no one knows who won. And that's, by the way, the root of all complexity@paypalx.com story, is that because we sort of settled on this? Well, there's not really a senior partner is just split evenly. There was no sense of well who gets to pack up and go home basically. And so as the sort of thing, unfolded and unfolded and unfolded, the emotions ran very high and people were meeting clandestinely in coffee shops, but it was certainly not personal.
+
+5 (1h 10m 8s):
+In fact, one of the, sort of most telling things about Elan is that after the board COO essentially left him without the CEO job, he wanted to meet, one-on-one sort of, he and I met at the parking lot of PayPal and he sort of sat on the curb. I didn't doubt the validity of what just transpired, but I felt incredibly sad for him and all he's like, why did you do this? I was like, you know, it just seemed like the correct thing to do for the company. And I'm really sorry, the way it all went down is that I understand, but I don't understand that. And then we didn't speak for a few years, except for, for formal interactions in the board.
+
+5 (1h 10m 53s):
+I mean, he stayed on the board and it was extremely awkward to be in board meetings with Elon where he would sort of sometimes glare at me as I would say things, Peter, but, and then PayPal went public and he took me out to this extremely nice dinner and not sort of like, where's the grudge man as like, oh, what's the point of holding grudges? Yeah. It ended well for all of us. It's all good. And so that's sort of that that's basically Elon in a nutshell that he, he's both a big man and a big man.
+
+3 (1h 11m 21s):
+Hmm. Well, I'm curious, max, what was your lifestyle like during that time? I mean, it, I mean, it seems like it was such an intense period. Like I've read about like how you would sleep in, in your office, like under your desk or like in a sleeping bag, by the way. Did you, did you do that often or was that, was it sort of like off and on again,
+
+5 (1h 11m 43s):
+I did it quite a bit. I will have to admit to this. I had a very strange lifestyle, which in retrospect probably took a few years off my expected lifespan, but certainly slept in the office. That was a restaurant downstairs from our second office. And I knew that it would close a 10:00 PM. And so the 9 58 and a half minutes, I would sprint down the steps to just get under the door of this restaurant and get my first meal a day. And so on that this was definitely extremely unhealthy lifestyle, but I needed the time to work.
+
+3 (1h 12m 23s):
+T T tell me a little bit about the, I mean, I think one of the benefits of early success, but also downsides is you get quoted when you're young. And I, you know, I have some of that myself, but so, so, you know, I've, I've read quotes or articles about this time at PayPal. And it sounds, I don't want to caricature, but it sounds like a little bit of a frat culture, you know, and I know that you, didn't one of the things that you did not want, I think specifically were quote unquote frat boys, but there was a kind of a, a confrontational style and, and this expectation to just fully like live this thing all the time, or is that, is that not accurate?
+
+5 (1h 13m 8s):
+I think there's some truth to it and some misunderstanding. So you're totally right. One of the interesting accusations that sometimes is leveled against the early PayPal crew is that it was this idea of a frat culture. It's actually quite the opposite. You know, if anything, we were screening against this idea of service, self-righteous privileged person who would come in and assume their rights. We wanted to have extremely honest intellectual debates over everything. Like one of the thing that was really telling about the people culture, we would sometimes slow down a release or a feature, or even at a decision because we wanted more debate that said it did lead to some extremely intense personalities and pull out arguments and people shouting at each other.
+
+5 (1h 14m 1s):
+The thing that's revealed, I guess, important to understand is that we're on my memory at least basically zero personalizations of these debates. Somehow we all one another enough to never say. And, and therefore you're stupid.
+
+3 (1h 14m 18s):
+How did, how did PayPal survive the.com crash of 2000, 2001?
+
+5 (1h 14m 23s):
+That squarely goes to the brilliance of Peter teal in his nose
+
+3 (1h 14m 27s):
+Who became the CEO, I should say, after Elon was ousted
+
+5 (1h 14m 31s):
+That's right. So Peter has this unbelievable ability to sniff market crashes in the air as they approach. And I remember him telling me it's all going to get very ugly for startups. Like we're going to have to raise money. We're going to have to be paired financially. And he went on this sort of quest of fundraising, but it was very rough. One of the more stark visuals I have from those days, the cafe where Peter and I would hang out and like some of our more important recruiting pitches took place there. And some important negotiations took place there. It was suddenly closed. It was boarded up.
+
+5 (1h 15m 11s):
+And then all these other shops in Palo Alto were closing up because the startup ecosystem wasn't really around anymore to support them well.
+
+3 (1h 15m 18s):
+So you, you guys had cash on hand because Peter had raised that money, which enabled you to survive it. All right. So now Elan is out it's 2001. Peter teal is CEO again, and, and PayPal is, is, is, is growing. And you're doing fine. Despite the sort of the collapsing tech world around you. It felt okay within PayPal, there was no kind of nervousness or panic.
+
+5 (1h 15m 47s):
+You know, I think we were too busy
+
+3 (1h 15m 49s):
+Too.
+
+5 (1h 15m 49s):
+And he's scared. I would love to tell stories of existential dread, but I think quite primary concerns were, can we keep the site up in 2001? For me, it was largely a year of trying to scale this thing as it was just blowing the doors off with its growth every week, the growth would just be so much more than the systems could handle. Every Monday when eBay auctions would settle, this one would just go down for multiple hours. And at some point, our head of database scalability, who was also a very accomplished blues singer and guitarist brought his guitars to the office and played the Monday blues because we all knew besides your crash.
+
+5 (1h 16m 33s):
+And it was a surreal, and then he would come back up and we would send out an apology and CNN would write a story about how PayPal goes down again. And it was just this thing that would repeated itself. And so as the world was burning in terms of startup, you know, in 2001, I was just trying to keep the thing going.
+
+3 (1h 16m 51s):
+The company went public in February of 2002, and I think I'm on like day one, the shares were up like 55% was an amazing debut on the NASDAQ. When it went public, you were CTO. Peter was a CEO, I believe. Who did you, did you envision your future? I mean, you were still 26, 20, 27. I don't mean, you know, you were very young. Did you think that this was the beginning of the end for you? Like you are now sort of mentally moving on to something else? Or did you still see PayPal as your career?
+
+5 (1h 17m 25s):
+I was definitely not thinking any of those thoughts. I was still very much in the execution mode. I remember sitting down and thinking, okay, so now I'm at least on paper, very wealthy, but I'm still working just as hard. Like I fell asleep in my car right before driving home and then woke up four hours later trying to figure out where I was. It sounds like nothing's changed except we're now publicly traded. How weird is that? I knew that something was going to change, but I also just was so busy and the war with all the various competitors and eBay was trying to shut us down while also try to sort of cooperate with us because their seller ecosystem depended on us so much.
+
+5 (1h 18m 5s):
+But the thing that I started registering is that the team was very tired and kind of the, the, the reason ultimately eBay was able to acquire us is because the team was so overloaded over the four years of, of previous life.
+
+3 (1h 18m 22s):
+All right. We know that eBay would acquire you just a few months after you went public. But, but what you just said is, is also just unbelievable, right? Which is E-bay was trying to shut you down. Explain that. Why?
+
+5 (1h 18m 37s):
+So in the, I don't remember who came up with this metaphor, but it's a good line. So someone, I think for me, they said PayPal is throwing a party in eBay's backyard and charging attendance. And I think that's pretty accurate in a sense that we were providing a service to a million plus eBay sellers, helping them collect credit cards online and charging them what we thought it was a fair price for it. eBay did not have a revenue share arrangement or just a service available to eBay sellers and buyers, except they had their own service that they had fully acquired are acquired, and then build up called bill point, right around the same time as PayPal was founded, they had tried and tried and try like they did all sorts of really kind of obvious things like, Hey, if you use bill point, it's free for six months and then you have to turn off PayPal and Reed Reed would send a note to the general counsel saying, Hey, I just received this disturbing email in my inbox.
+
+5 (1h 19m 37s):
+This seems to be prime for a, you know, antitrust investigation, just say. And so it was kind of a race, which they should have absolutely won because they had a product that was supposed to do what we did that the owned that Glenn built in that, you know, could be promoted much, much, much better than we could,
+
+3 (1h 19m 55s):
+So they could have, they could have completely crushed your model. They could have said, we can only use Billpoint on eBay.
+
+5 (1h 20m 1s):
+And they tried it various times and PayPal fans in the seller base protested and eBay was always very, very careful not to step on their seller's toes too much, because that's where all the revenue came from. And right, I think at the time they were very concerned that if paperwork to get turned off, commerce would slow down and eBay would make a lot less money.
+
+3 (1h 20m 26s):
+So even after you went public, you kind of depended on eBay, you needed eBay, you to keep them happy, but she also knew they didn't like you. And presumably you had to start thinking about diversifying your revenue streams, because you were so dependent on eBay and you're a public company and your share price would have tanked if eBay kicked you off. So what did you, I mean, what were you guys doing to prepare for that possibility?
+
+5 (1h 20m 50s):
+That was the great unspoken or maybe spoken in, in the payroll? Hall's concern is that we were diversifying very rapidly. We were going international. What you were trying to figure out what PayPal offline looks like. So maybe you go into a best buy and you use PayPal to buy things from the shelves instead of from the virtual ones and signing up all these partners outside of eBay. And yet Ebates self was growing so quickly. All of our tests to diversify away from the dependency on eBay volume, or kind of few tile can imagine you have a company that's just growing 100% year on year and you're providing payments. You better find something that grows even faster. And there wasn't a whole lot like that going on.
+
+5 (1h 21m 31s):
+Yeah. I think one of the things that sort of prepared me for life as an entrepreneur after was this multi-year period where on any given day, we expected eBay to call us and say, okay, you're done get off. We don't mind losing all the volume because we're ready. And we had all these double secret and triple secret plans of what we do then. But in reality, we all knew that this would be pretty catastrophic. And so brace for impact correctively.
+
+3 (1h 21m 59s):
+I mean, what an incredible opportunity that you had at such a young age to experience that kind of uncertainty and volatility, because that was going to serve that obviously would serve you well, as you, as you advanced in your life and career. But I mean, it's almost like, you know, business school class, except the consequences are a little different. You're not going to get a bad grade. You're going to lose all your money.
+
+5 (1h 22m 20s):
+Yeah. I think the backdrop of coming to the U S with nothing, just trying to survive as a multi time startup failure. Once you get some barnacles of good life on you, that's when you start getting scared until you have something to lose. It's not that scary to, to be in this permanent concern state. I certainly remember being really scared, but not so scared that I would go hide or something like that.
+
+3 (1h 22m 49s):
+Hm. In 2002, right. When, when eBay announced that it was acquiring PayPal, and clearly you are clued in on this because you were part of the leadership team at PayPal. Was that surprising when they came, when they said, Hey, you know, maybe we should, maybe we should just acquire you.
+
+5 (1h 23m 10s):
+No, actually it was kind of the opposite of a surprise. In fact, it was becoming very, very clear that they were completely dependent on us at this point. And every move they would make, it was just another point of proof that we were succeeding in their own internal systems was not. And sure enough, this is well before the IPO, they came to us and said, Hey, how about we just buy you guys? And so of course, initially we just said, no, we're doing fine. Thank you very much. Then they came back again and the sort of dance began and right, as we filed to go public, they came in and said, Hey, we'll, we'll, we'll buy you. Don't go public. And we said, no.
+
+5 (1h 23m 51s):
+And Peter said, I think this is the last time. I really don't think that they're going to come back after we go public. By the way, PayPal had an amazing bedding culture. We would bet each other, all sorts of things all the time. But I bet Peter a dollar that they would come back in less than six months. And I think twice the amount or something like that. And I won one half of that bet. It took longer than six months, but the valuation was in fact dictated by the market. So it was better than better than two X.
+
+3 (1h 24m 19s):
+Yeah. They paid one and a half billion dollars to acquire PayPal. They acquire PayPal on in October of 2002, you're 27. You walk away with, on paper, something reportedly about $30 million. You're set.
+
+5 (1h 24m 34s):
+Yeah. And I left a few months after the acquisition,
+
+3 (1h 24m 39s):
+But I, I read that there's an article that was written in the times about you in 2007. And, and you you've been quoted in that article saying that the year after eBay purchase PayPal was a worst year of your life.
+
+5 (1h 24m 52s):
+Yeah.
+
+3 (1h 24m 52s):
+Which, which sounds nuts. Right? Because you got all this money and you're young and you can do whatever you want. I think you had a girlfriend at the time. Who's now your wife and I don't, I'm not asking this, like with a sense of judgment. I'm just curious. Can you explain how that became the worst year of your life?
+
+5 (1h 25m 12s):
+I think it was a first time when I had no clear purpose, which quickly became no clear sense of direction. And I would literally wake up in the morning and sit in the PJ's that I slept on my newly acquired couch, flip up on a laptop and stare at it and think I'm going to start a company. That that's the only thing I know, that's the thing I want to do. And then I would just sort of sit there and my girlfriend would go to work and then she would come back and she would find me the same place and, and in what, on for a long time. And it was sort of, I, you know, I, I'm not sure that qualifies for depression.
+
+5 (1h 25m 54s):
+And I have a lot of empathy for people who actually do suffer real mental health issues, but that's about as close as I came to just spinning out entirely, mentally out of control. And that, that was a long year.
+
+3 (1h 26m 6s):
+W why didn't you go, I mean, a lot of, a lot of the folks that you worked with went into investing. I mean, obviously Peter teal, famous, livid, most famously. Did you try that at all?
+
+5 (1h 26m 17s):
+I did this, this, this part of the story. I don't know if I ever told anybody. So Roelof who is now of course, a he's the miss Mr. Cigar capital at this point, he's kind of the, the front man of the band there invited me to spend some number of months, maybe more at Sequoia capital
+
+3 (1h 26m 35s):
+Ruloff was your, he was your, your, your head of finance right? At page.
+
+5 (1h 26m 39s):
+He was our CFO. And so I started going to school every day and it was great. I started sitting in on pitches. So I would meet entrepreneurs that were kind of like me, but, you know, four years prior. And then I started noticing that I was really good at ripping into people's ideas. They would bring in this really cool concept. And at first it was half baked. It was just, you know, some bright eye kid freshly out of college, thinking about here's, what they're going to build. And I would immediately explain to them why would fail? And I gotten so good at stabbing them in the heart. That one day I went home and told Nelly, my wife, I don't think I can do this. Like, I've, I've become so cynical. I'm now taking out my anger about not being in a startup on other startup founders.
+
+3 (1h 27m 25s):
+You, you were quoted at the time and I'm started to read this quote to you. Cause again, if I was quoted, when I was 27, I was probably said some stupid things. I would be embarrassed. But you said to the times I took this perverse pleasure in seeing if I could make someone cry, which does sound a little bit mean?
+
+5 (1h 27m 41s):
+Yeah, I am not sure. I was very nice at all at that time.
+
+3 (1h 27m 45s):
+And you think that came from this, this place of like, I need to be doing this. Why am I not doing this?
+
+5 (1h 27m 51s):
+In retrospect, it was probably just envy. I want it to be defending my idea against all enemies, foreign and domestic. I want it to be them.
+
+3 (1h 28m 3s):
+And that is where we're going to leave max Levchin story for now next week, we'll be back with part two of our conversation where we'll hear about all the things that Maxim built since PayPal,
+
+5 (1h 28m 16s):
+That was sort of this moment of truth. I was like, oh, I know the class of companies I'm going to start. And then I showed it to Ellie. And she said, you finally figures yourself out. Just give yourself permission to go build something. That's like another PayPal, but better.
+
+3 (1h 28m 32s):
+Hey, thanks so much for listening to the show this week. If you want to hear every episode one week early, check out Amazon music. If you want to listen one week early and add free subscribe to Wondery plus in apple podcasts or on the Wondery app, please do follow us on your podcast app. So you always have the latest episode downloaded. And another way to support our show is by filling out a survey at wondery.com/survey. If you want to contact the team, our email address is H I B t@iddotwondery.com. If you want to follow us on Twitter, our account is at how I built this. Mine is at guy Roz and on Instagram I'm at guy dot Ross.
+
+3 (1h 29m 16s):
+This episode was produced by Alex Chung with music composed by REM team era bluey. It was edited by Neeva grant with research help from Claremore Ashima. Our production staff also includes JC Howard, Casey Herman, Josh lash, Liz Medsker, Carrie Thompson, Sam Paulson, Catherine cipher, Elena coats, John Isabella, Christmasy ne and Carla estimate says I'm guy Roz. And you've been listening to how I built this.
+
+3 (1h 30m 6s):
+Hey, everyone. So I want to make sure you know, all of the different ways you can listen to how I built this. As you probably know, you can follow the show on Amazon music, apple podcasts, or wherever you're listening right now, but a one let you know that you can actually listen to the next episode of how I built this today. One week early on Amazon music, you can also listen to it early and ad free by subscribing to Wondery plus an apple podcasts or on the Wondery app. Please do follow us on your podcast app. So you always have the latest episode downloaded. And another way to support the show is by filling out a survey at wondery.com/survey. And thanks
+
+Wondery: Business Wars (1h 30m 46s):
+In business competition is the key to success. Every product you own from the shoes on your feet. So the phone in your hands got there because of cutthroat business decisions. And one is podcast. Business wars brings you stories about the most well-known in the world and how the decisions they make shape, what you buy and how you live with over 50 seasons to choose from. You'll hear about the fight for your feet with Nike versus Adidas, the battle to control the smartphone market with iPhone versus Blackberry or their new season. That's covering the world of ice cream, Haagen DAAs versus Ben. And Jerry's tells the story of these two legendary American brands that have spent decades trying to conquer the global ice cream market. Each season of business wars is entertaining, fun, eyeopening, and will help you understand a little bit more about the world around you. Listen to business wars on Amazon music, apple podcasts, or wherever you get your podcasts. Listen, one week early and add free by joining one repless in apple podcasts or the wonder.

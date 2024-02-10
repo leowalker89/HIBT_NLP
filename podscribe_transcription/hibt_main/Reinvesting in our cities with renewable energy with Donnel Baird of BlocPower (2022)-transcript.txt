@@ -1,0 +1,437 @@
+0 (1s):
+Hey Prime members You can listen to how I built this early and ad free on Amazon. Music Download the app today.
+
+1 (9s):
+Think of all the things you can do in 10 minutes or less. Scroll through social media. check your bank balance, make a sandwich or learn about the surprising economics behind all these things. The Indicator from Plan of Money is a quick hit of insight into the economics of business, work and everyday life. Every weekday in less than 10 minutes. Listen now to The Indicator podcast from npr.
+
+Indeed (30s):
+These are our hiring goals. They say they're very aggressive, but when everyone looks to you, you're calm. Why? Because you know you don't need a miracle. You need indeed. Indeed is the hiring platform where you can attract, interview and hire all in one place. One of the things that I really appreciate about Indeed is that it helps you easily schedule and conduct virtual interviews and not just that. Indeed's matching tools really make it easy to find quality candidates. In fact on Indeed. Over 85% of employers find quality candidates whose resume matches their job description the moment they sponsor a job. Start hiring now with a $100 sponsored job credit to upgrade your job. Post at Indeed dot com slash built this offer good for a limited time claim your $100 credit now at Indeed dot com slash built. This terms and conditions apply.
+
+Peloton (1m 23s):
+Working out is tough, and finding a workout program that sticks is even tougher, which is why I always look for people to work out with because they hold you accountable. But it doesn't have to be that way. In fact, Peloton built an app that'll make you crave your workouts. The free Peloton app has classes like yoga, strength training, hit cardio and boxing. That can be done wherever, whenever. Whether you have five minutes or 20 minutes, there is a workout for you. And Pelotons classes don't feel like a regular workout class. They feel like entertainment, they're fun, exhilarating, laugh out loud, hilarious, and make you wanna come back to them over and over and over. Ready to give it a try. Get started and Download the free Peloton app today. Peloton app available through free tier or paid subscription. Paid membership start at 1699 a month.
+
+1 (2m 16s):
+Hey everyone, the How I Built This lab team is taking a little bit of time off this summer, but don't worry, we'll be back in your feed with fresh new How I Built This Lab episodes in just a few weeks. Meantime, I hope you enjoy one of our favorites from last tier with Danelle Baird, the founder of BlocPower.
+
+0 (2m 32s):
+It's a company that's electrifying buildings across the country as a way to fight climate change. Hope you enjoy now onto the show. Hello and welcome to How I Built This Lab. I'm Guy Raz. Almost a third of all the carbon emissions released by Americans each year come from buildings, homes, apartments, offices to keep them lit and heated or cooled. And this is a big problem, but there is a solution which isn't as complicated as you might think, and the solution is to electrify our buildings and making sure that that electricity comes from renewable sources like wind or solar or hydropower, or even nuclear power.
+
+0 (3m 23s):
+Most of our energy still comes from burning coal and gas, but advances in technology in recent years has made it possible within our grasp to decarbonize all of our buildings. And to do it quickly, about eight years ago, Danelle Baird, an entrepreneur from Brooklyn, saw an opportunity to focus on decarbonizing buildings in low income neighborhoods. Neighborhoods like the one he grew up in. He founded a company called BlocPower that converts any building into a carbon free building by electrifying it. So far, BlocPower has converted more than 1200 buildings and recently signed a deal with the city of Ithaca, New York to electrify and decarbonize every single building in the city.
+
+0 (4m 8s):
+Danelle Baird, welcome to the show.
+
+3 (4m 10s):
+Guy Raz. I just couldn't be more delighted to talk with you.
+
+0 (4m 14s):
+So you grew up in Brooklyn, parents, immigrants. Tell me a little bit about where you grew up and and what they did.
+
+3 (4m 23s):
+So my parents immigrated from Guyana and my dad was an engineer and my mom was a teacher and the country's economy was collapsing. And so they moved to the United States into a pretty tough neighborhood in Brooklyn Bed-Stuy, which is where Notorious B I g is from. And at the time in the early eighties, most of the buildings didn't have working heating systems. So in the winter, we and all of our neighbors, when it got super cold outside, we would open up the windows and we would turn on the oven in the kitchen and open up the oven door and use the oven to provide heat to all of our apartments. All winter,
+
+0 (5m 3s):
+You just turned on the, the oven in your kitchen cracked it open and,
+
+3 (5m 7s):
+And you gotta remember to open up the window so the carbon monoxide can flow out of the apartment. So that's, that's how we did it.
+
+0 (5m 12s):
+Yeah, and that was just normal. That just seemed normal growing up.
+
+3 (5m 16s):
+Yeah, there was like a furnace in the basement that was supposed to like burn oil or gas and provide hot water heating through radiators and, and or vents depending on what kind of building you're in. Right. But you know, oil and gas can be super expensive and maintaining that furnace can be super expensive. And so the landlady was like, look, we're gonna charge you guys like $25 a week for this like one bedroom apartment, but there's no heat, so all of the apartments are gonna have to use the gas ovens in the kitchen for heat. And like that's what we did. That's what our neighbors did. That's what my friends at school did. That's what we did.
+
+0 (5m 50s):
+I know you went on to study history and political science at Duke, but what, what were you sort of interested in doing? Were you, were you interested in politics? Is that the direction you thought you'd head into?
+
+3 (6m 2s):
+I was really interested in trying to improve the lives of my family. You know, we have this large immigrant family. I probably have 40 or 50 cousins and I had been given a lot of educational opportunity. I ended up going to an elite private school for high school and then going to Duke for undergrad. And my giant family was like, all right, we got Danelle through, we gotta send him to Wall Street so he can make some money and come back and pay for all of his young cousins to go to college. And so there was this kind of community uplift component to what was the expectation. But when I got to Duke, I learned about climate change. I got really interested in black civil rights and economic justice and came out of Duke extremely political and then ended up becoming a community organizer
+
+0 (6m 52s):
+Working initially for President Obama's then Senator Obama's presidential campaign I think at first. Right?
+
+3 (6m 57s):
+Well, initially I was working with the, there's a small team of community organizers who had trained President Obama when he was a community organizer back in the south side of Chicago. And so I did that for three years and was supervised by the same people that had trained Barack Obama. And then when he announced that he was running for president in 2007, I said goodbye to my girlfriend and friends in Brooklyn, packed up a car and drove down to South Carolina to become a, a senior staffer with the Obama for America campaign.
+
+0 (7m 30s):
+I mean you, you grew up with not a whole lot of access to heating in your apartment when you were doing that work in South Carolina. Were you exposed to anything like that during that time?
+
+3 (7m 42s):
+Yeah, that was what was so interesting guys, when I, you know, I ended up going to like eight or nine states with the Obama presidential campaign. And there's a pattern that I saw as we would head into low income and working communities to persuade them that Barack Obama was their guy and he was gonna support their interests and they should turn out, there's this persistent pattern where there's, there's just this tremendous waste of energy and neglected low and moderate and income buildings that really reminded me of where I grew up. I remember walking around outside one day and it was 20 degrees outside and I was looking at this giant apartment building with all the windows open and I was like, ah, that's just like my three story apartment building where I grew up.
+
+0 (8m 24s):
+They're heating their houses with their oven.
+
+3 (8m 27s):
+Yeah, they're heating this giant apartment building with their ovens. And so there is an inefficiency in the energy system that I saw not only in Brooklyn but in Cleveland and in Charlotte on the South Carolina Georgia border and the Obama campaign that led me to believe that this was a persistent pattern of energy neglect or energy poverty that needed to be addressed. I didn't understand at the time that it was like a business or market opportunity, but I just saw it was like a pattern and I knew it was unhealthy. Right? Because if you don't open up the windows, you're breathing in carbon monoxide and nitrogen dioxide and stuff that's very unhealthy for you and your kids. And so I knew it was an energy problem as well as a public health problem.
+
+0 (9m 9s):
+You went on to work for the US Department Energy for a couple years. Tell me a little bit about what you did during that time. This is sort of 2008 to 2011.
+
+3 (9m 17s):
+Yeah. So remember there was a financial collapse and yes, So I was a liaison between the US Department of Energy and a bunch of labor unions and energy utility companies and Wall Street banks around a particular part of the 2009 Recovery Act. It was six and a half billion dollars with a B that was being invested in greening low income buildings, which of course was becoming my thing. And I was like, I want to do that. I want to go green, low income buildings. And they're like, great, you can work with these labor unions and energy companies. And the labor unions had 90 billion of pension funds that they wanted to co-invest in greening buildings with 6 billion that was provided from the federal government as part of the Recovery Act.
+
+3 (10m 6s):
+Wow. And so the plan was we were gonna create this new green buildings industry across America. We were gonna retrain and rehire a million laid off construction workers to, you know, go building to building and Secretary of Energy Chew had this vision of like an 18 wheeler Mack truck filled with organic insulation and it was just gonna drive down the block and stop at every house and like pump green organic insulation into every home, into every attic. Love it. To save people money. And we were gonna create a bunch of jobs. So like that was the vision and we were just gonna have a hundred billion dollars to do this with. And guys, you might imagine we could not quite pull it off, but it was a really compelling vision. You get to create jobs, you get to reduce greenhouses, gas emissions, you get to move off of foreign oil.
+
+3 (10m 51s):
+Greening buildings is a pretty compelling policy goal with a lot of social and environmental and financial outcomes. And I worked on that for a few years. It didn't work out quite as well as we'd hoped. Like other things work, like they loaned half a billion dollars to Tesla, they invested a ton of money in rooftop solar and those things worked really great. Yeah. But the idea of going building to building to green all the buildings in America, we were not able to pull that off.
+
+0 (11m 15s):
+So what I'm curious about, you're, you're working on this federally financed project to help quote unquote green these buildings, which is to make them more energy efficient and maybe put in solar panels and things like that. Presumably why you're doing this, you're learning a lot about the inefficiency of buildings because when we think of like carbon emissions, we think of, you know, coal powered energy plants, right? But buildings, I didn't know. This buildings account for 15% of the world's CO2 emissions,
+
+3 (11m 48s):
+15% of the world's CO2 emissions, 30% of the United States CO2 emissions. Wow. Than in New. York city where I am buildings are 67%. So if you look at New, York City and San Francisco, you have massive amounts of CO2 and greenhouse gas that's being emitted by buildings. And so there just isn't a way to deal with climate change unless you green the buildings.
+
+0 (12m 13s):
+And that comes from presumably the energy used by everybody in the building so that when they plug stuff in or the lights or whatever, you know. But also other things like in a home, I guess your washing machine, your dry or your gas oven in stove top are all those the factors that add up to 30% of carbon emissions.
+
+3 (12m 30s):
+That's right. There's all the appliances and all the electricity that we use in our buildings. And so we burn oil and gas or coal in some places to produce electricity and send it through transmission lines to use the electricity in our homes. And then on site in our homes, we burn gas to cook with to produce hot water that we shower with. And we also burn oil and gas for heating. And so for example, in New York City, there's 10,000 giant apartment buildings that burn oil for hot water and for heat, like a truck filled with oil pulls up once a week and runs this like tube into the basement, into the heating system and like pumps oil from the back of the truck into the basement.
+
+3 (13m 13s):
+And then you burn that oil to produce hot water year round. And that is how apartment buildings in 2022, 10,000 of 'em at least use fossil fuels. And that's on site, right? So it's a pretty significant amount of greenhouse gas emissions.
+
+0 (13m 29s):
+So this is a huge problem. You are exposed to this problem and even these so-called energy efficient buildings or these programs that you were part of to insulate homes better and to make them more efficient. And with efficient appliances, even with those things, it's still a problem.
+
+3 (13m 45s):
+It's a huge problem. Why are we digging up dead dinosaurs and burning them in our houses? This is an ancient Mesopotamia. Yeah. Like what are we doing? Yeah, it's 2022.
+
+0 (13m 56s):
+Yeah. And we literally are, we're, that's what oil is. It's just a compressed plant and animal life from millions of years ago. Yeah.
+
+3 (14m 4s):
+There's a better way to do this, right? By the way, it's really dangerous. I mean there's the, all the pollution that it produces that we breathe in. But you know, look, if you put a gas explosion alert in Google as I do, then every week or so you're gonna get an email about some poor American family's home blowing up and exploding because the gas was leaking and someone lit a match or flipped on a light bulb. And so this is like an unsustainable, unhealthy, unsafe, and super expensive way to power buildings. And so we need to do something new.
+
+0 (14m 41s):
+Alright, so you start to realize this and it around 2012 you decided to go to business school. Did you have a fully formed idea in mind about what you thought you might wanna do?
+
+3 (14m 52s):
+I did Guy. I apparently, in my Columbia Business School application, I wrote up the argument for BlocPower. And basically it was that there seemed to be all of these challenges and opportunities in the green buildings industry that I was learning about while I was working with the Department of Energy and the labor unions. And I just couldn't figure out why we couldn't do a better job of like fixing the industry. And so I would ask this question around, well, why can't Wall Street provide the capital to pay for us to green all the buildings? And the would be, well, wall Street can provide all the capital. And then I'd be like, okay, why can't we train more mechanical engineers to do a better job of analyzing the buildings and figuring out what kinds of green equipment should go into buildings?
+
+3 (15m 39s):
+And the answer would be like, well, nothing's stopping us from doing that. There was just no one who was focused on it, who was willing to kinda invest, I guess their whole life and make it their mission to solve this problem at scale. And for me, because I care about climate change and because I care about creating jobs in low income communities, like the one where I grew up, green buildings just seemed like a really important mission. and it seemed like it could just check a lot of boxes for me and be a life well lived if I pursued figuring out how to solve the problem of greening buildings. And so in order to do that, I needed to, to get an MBA to at least learn enough about business. And so that was the school I applied to.
+
+3 (16m 18s):
+And I did have an explicit submission of trying to figure out how to build a nonprofit called BlocPower or something similar.
+
+0 (16m 26s):
+Hmm. So people who have solar panels and all of these things that enable them to live in a less carbon polluting way tend to be higher income people. You essentially said, look, there are tens of millions of people who live in low income buildings, not only in the US but around the world, and they should also have the opportunity to live in a green building. And that was from the get-go, that would be your focus
+
+3 (16m 54s):
+From the get-go. That was my focus. I wanted to engage with the communities that I grew up in and grew up near and served to green their buildings. I mean, when I was working with the Obama folks, I had one of my favorite pastors in Bed Stuy call me and he goes, Hey, you're working on Green and Buildings, right? I'm like, yeah. He's like, I'm spending $10,000 a month on my energy bill. And I'm like, what? Wow. So he had 150 year old formerly Catholic building, and he had a school for neighborhood kids, like elementary school, and then he had senior activities and lunches. So the church was like constantly filled seven days a week. And so the heating system and air conditioning system was always on, right?
+
+3 (17m 35s):
+So he's spending $10,000 a month on his energy cost and he goes, I only have $300,000 a year of revenue coming into the church, and $120,000 of that is going out on energy. Wow. So it's a massive pain point for low income people, right? So the other part of it is like, you know, when I was growing up in Brooklyn, man, there's like two kinds of waste that I saw when I was growing up and when I was a community organizer. There's like a waste of all of the energy and the fossil fuel gets just wasteful, right? When you look at it as someone who cares about climate or just someone who cares about efficiency. Like why are you heating a building to 90 degrees when it's 20 degrees outside and doing that with gas ovens and then all of the heat is floating out the window.
+
+3 (18m 19s):
+It's absurd. And then the other waste is the waste of human potential. When you walk around these neighborhoods and you see scores of unemployed young people who have children that they need to provide for, and they have talent and they have genius, and they have dreams, but they don't have any opportunity. And it's like you can address both pieces of this waste by training those young people to go and green those buildings and just make everything much more efficient. And so that's what I wanted to do.
+
+0 (18m 49s):
+We're gonna take a very short break. We'll be back with more from Danelle Baird of BlocPower in just a moment. Stay with us. You're listening to How I Built This Lab.
+
+Canva (19m 1s):
+Today's sponsor, Canva for Teams is a design platform that makes it easy for anyone to create stunning visual content, even if you aren't a graphic designer. Our team uses it to create episode artwork, social media posts, and graphics for our website. Canva has endless templates for things like presentations, business documents, brainstorms, posters, and more turn inspiration into design in no time with canva's wide selection of premium fonts, photos, graphics, videos, audio tracks and animations. Canva also has AI powered magic features to help kickstart your creative process like magic design. Start by uploading an image and watch as a collection of unique templates appear curated specifically for you. Customize them to your liking or simply finish them with a few personal touches. Design and collaborate with Canva for teams. Right now you can get a free 45 day extended trial when you go to Canva dot me slash built. That's c a NVA me slash built for a free 45 day extended trial Canva dot me slash built.
+
+Airbnb (20m 10s):
+Maybe you stayed in an Airbnb before and thought to yourself, this actually seems pretty doable. Maybe, my place could be an Airbnb. It could be as simple as starting with a spare room or your whole place when you're away. You could be sitting on an Airbnb and not even know it. Maybe, your kid is heading off to college in the fall and you'll have an empty bedroom. You could Airbnb it and make some extra cash while they're away. Or if you have a vacation plan for this summer, that could be a good time to Airbnb your entire place. Whether. you could use a little extra money to cover some bills or for something a little more fun, your home or spare room might be worth more than you think. Find out how much at Airbnb dot ca slash Host.
+
+0 (21m 2s):
+Welcome back to How I Built This Lab. I'm Guy Raz. My guest is Elle Baird, founder of Black Power. So you literally founded this company while you were at business school, right? Yes. and you launched it formally in 2014, but not as a nonprofit, as a for-profit business.
+
+3 (21m 20s):
+Correct. I learned enough about business in business school to say, well, look, I mean, greening buildings in America is gonna cost like 5 trillion. There's 125 million buildings in America.
+
+0 (21m 31s):
+Literally, it'll cost 5 trillion. Literally,
+
+3 (21m 34s):
+Someone's gonna have to put up 5 trillion, but there's a way to do it and make a financial return. So someone's gonna make like 0.7 trillion by investing $5 trillion. So someone's gonna make like huge fortunes, right? Wow. By investing in greening all the buildings. And like that's why we work with Goldman Sachs, right? It's not like, I mean, they are nice people, or at least the part of the bank that we work with are nice people, but they're gonna make a lot of money if this all works out.
+
+0 (21m 59s):
+But you started this as a for-profit business because you wanted to attract capital and you wanted to show that there was a business model in basically converting low income apartment buildings into not just energy efficient, but carbon free buildings with solar panels. And the idea was you could actually do this and it can make money.
+
+3 (22m 22s):
+We thought that we could go into the poorest neighborhoods in America and build a business making those buildings greener, smarter and healthier and make our investors a ton of money. That's what we thought. And that's what we've been trying to prove. Alright,
+
+0 (22m 34s):
+So you've got the concept and you know what you want to do. Now help me understand what that is, because this is not what the Obama administration was doing when you were trying to green buildings or make them more efficient. It wasn't about pumping better insulation of the building. You had a very different plan, which was to take a building and to do what with it.
+
+3 (22m 55s):
+We want to decarbonize the building.
+
+0 (22m 57s):
+And how do you basically do that?
+
+3 (22m 59s):
+There's a set of new hardware that allows us to make buildings all electric in the same way that Tesla and Rivian can take an automobile and rip out the fossil fuel engine and replace it with an all electric engine. We can now do the same thing with hardware in buildings. And so we can go into basically any building in America and rip out the existing fossil fuel equipment that heats the building, heats the hot water for cooking and showering. We can rip all of that fossil fuel equipment out and replace it with equipment that only uses the electricity and actually reduces greenhouse gas emissions by as high as 70%. And so then the next question is like, okay, well if it's using electricity, is that electricity sourced from like burning coal or gas?
+
+3 (23m 45s):
+Well, sometimes. But you can also source that electricity from solar on the roof of that building, or a solar farm or a wind farm or a hydroelectric project. And so by converting the building to a hundred percent all electric equipment, you create the opportunity to fully remove fossil fuel consumption in that building. So that's, that's what we do.
+
+0 (24m 5s):
+Let's get granular for a moment. And let's just take a, let's say a 10 story apartment complex in Bedstuy. And it's an old building built in the late sixties, early seventies, not super well insulated, not super efficient, but you wanna convert that building. You can essentially put enough solar panels on the roof of that building to power that building, or would it require other sources of energy as well?
+
+3 (24m 31s):
+If it was a building in like downtown Cleveland, you could put enough solar on the roof. But because New York is, is so dense, the roofs in New York aren't big enough to like provide enough power to the tall buildings. Mm. What we do have in New, York city is we get most of our electricity or will next year from a hydroelectric project in Quebec. Oh. And so there's this giant dam in Quebec that bends a bunch of turbines and produces clean electricity and sends that electricity down to New York city. And so see, the source of our electricity in New York is gonna be far, far cleaner than it is right now and than it is in most places in the country. And so,
+
+0 (25m 10s):
+So you can convert that building to that power source in Quebec, for example.
+
+3 (25m 14s):
+Exactly. So that 10 story building maybe burning oil or burning gas right now for heating and cooling and hot water and for cooking. So we rip out all of that fossil fuel equipment, replace it with all the electric. We electrify everything in the building.
+
+0 (25m 29s):
+The fundamental core of this is it has to first be electrified the building, you gotta remove gas and oil, and then you focus on the source of that electricity. Is it gonna be wind, solar, hydro, et cetera?
+
+3 (25m 41s):
+Exactly. We electrify that building.
+
+0 (25m 43s):
+So you gotta get electrified first. Okay. So that's a first challenge. And then let's say you're talking about 10 story building with, I don't know, seven or eight units per floor. Are you going into each unit and replacing the stove tops, putting in electric ovens and so on and so forth?
+
+3 (25m 59s):
+Yes, sir. We're going into each unit, we're putting in all electric induction stoves that use electricity to cook on the stove top and use electricity to bake. And then in certain kinds of projects, we're gonna put in a small modular air conditioner sized heating and cooling system so that that apartment building can control its own comfort with a local in-unit electric heat pump,
+
+0 (26m 26s):
+Basically replacing an in unit air conditioning that might be hanging out. Radiator.
+
+3 (26m 32s):
+Radiator or air conditioner.
+
+0 (26m 33s):
+That's right. And the heat pump is electric powered. And they're still relatively new in the US for sure. And they basically work by like sucking out warm air in the summertime from a house and by pumping in warm air into the house in the winter.
+
+3 (26m 49s):
+Yeah. So it's a cool piece of technology, even if it's cold outside, there's some amount of warm air that's embedded in outdoor air, even if it's below freezing. And so they're gonna find that warm air and suck it into the system running across a refrigerant line and a compressor, and then pump that condensed heat into your home. And then in the summer it reverses itself and sucks in the warm air that's inside your apartment, runs it across the refrigerant line and pumps it outside. Hmm. So it's like an air conditioner that can go forwards and backwards to pump heat where it's needed.
+
+0 (27m 24s):
+And they're just as effective as a gas powered air conditioner. Like even in in, if it's super hot outside, like 105 degrees, it can still bring in cool air. Like really cool air.
+
+3 (27m 34s):
+That's right. Whether it's 105 degrees or whether it's five degrees below zero, they are able to function.
+
+0 (27m 40s):
+And it's not cooled by Freon or the same chemicals
+
+3 (27m 43s):
+That cool. No, no. They're, they have refrigerants. One of the cool things that we are really excited about is they're actually using CO2 as a refrigerant. Hmm. So now if you take a step back, right? and you look at our climate challenge of like, oh my God, what's gonna happen when we put a hundred million air conditioning units in India and China as middle class folks? Like buy houses and build houses in, want air conditioning, right. To stay cool. Well, if CO2 is the refrigerant that we're gonna be using, in effect, we're putting a price on carbon, right? Because we're using that CO2 as air conditioning. So I, one of the things that I'm really excited about and really hopeful about is if Mitsubishi and Dacon and Fujitsu and the giant heat pump manufacturers are able to crack the code on CO2 refrigerant globally at scale, this is one of the most important things that can happen.
+
+3 (28m 33s):
+Because then we're gonna start to power buildings with co2. And that's, that's just gonna be huge.
+
+0 (28m 39s):
+So now you have this clear idea of what you wanted to do, and you have already done some of it at this point, but this is back in 2014 and you start to attract some investments.
+
+3 (28m 50s):
+Ugh. Attract is strong guy. Strong
+
+0 (28m 52s):
+Attract is strong, but it's, I know it took a while. It took a while, but today you've attracted I think over 60 million in investments. Let's kind of break this down. Yeah. If you go right to Goldman Sachs's headquarters and you say, I want to electrify this building, they're just gonna write you a check. If you go to a, you know, not even a low income building, even a, you know, a family that has some money, it is very expensive to do it now. Right? Like for example, if you wanna put solar panels on your home, it's not cheap to do it. That's right. And buying a an induction stove is not cheap. It's expensive. That's right. Heat pumps are not a huge expense compared to what already exists in the market.
+
+0 (29m 34s):
+But just to, to do it, it's a lot.
+
+3 (29m 37s):
+Yeah. You might spend a hundred thousand dollars to electrify Yeah. The average American's home, right?
+
+0 (29m 41s):
+That's right. So how do you do it in a building where, you know, residents are already struggling to pay their, their utility bills?
+
+3 (29m 50s):
+Well, it took us about five years to figure this out. But what we've done is created a new financial product where let's say we're gonna spend a hundred thousand dollars to electrify a home. What we're gonna do is calculate the size and the cost of the equipment that we're gonna use to electrify the building, the cost of removing the fossil fuel equipment, the cost of that conversion, the labor cost, right? The cost of paying the, the well trained certified contractor to come to your home and physically remove the equipment, put in the back of the pickup truck, drive it, you know, demolish it, install the new equipment all in, that's gonna be a hundred thousand dollars, right?
+
+0 (30m 25s):
+Yeah.
+
+3 (30m 26s):
+When we electrify your home, we think we're gonna save you 20, 40, 60% on your annual energy bill, because the modern all electric equipment that we're putting in is so much more efficient than the wasteful, unhealthy fossil fuel equipment that's currently in your home. So the question then becomes, how can we stretch out that a hundred thousand dollars cost over seven years, or 10 years, or 15 years, so that the cost of repaying that a hundred thousand dollars project is less than the amount that you're saving by shifting from fossil fuels to clean energy.
+
+0 (31m 7s):
+How do you make the case to the people in that building? Do you appeal to their sense of civic duty or their personal health or the long-term cost savings? Like how do you make the case that people in the building should go through the, you know, it's inconvenient period of getting things converted and swapped out and construction workers, and then maybe some costs associated? How do, what do you say,
+
+3 (31m 35s):
+We say this project is gonna be a pain in the butt. It's gonna be a little bit of a hassle, but it's gonna be worth it because we're gonna save you money and we're gonna make you money. So for example, the church pastor that I told you about in Brooklyn, who was spending $10,000 a month on his energy bill, on his oil bill, because he had a school and senior lunch and all these programs in his giant church that was so expensive to, he didn't cool. We went into that church in 2014 and figured out we could reduce his energy costs from $10,000 a month to like $7,000 a month. So we would immediately save him $36,000 a year. And we thought that in order to generate that $36,000 a year savings, that it would cost $25,000 of capital to pay a local construction firm to come in and reduce and, you know, reduce his energy waste and improve his energy equipment so he doesn't have $25,000 laying around.
+
+3 (32m 32s):
+Right? Right. So we're gonna lend it to him and we're gonna buy the equipment, pay the contractor, supervise the contractor, complete the project, and reduce his annual energy cost from 10,000 a month to 7,000 a month. And then we're gonna charge him a thousand dollars a month for four years, or five years, or 10 years, or however long it takes to repay the 25,000 a dollars loan that we've provided. But to the pastor, he's still seeing $2,000 a month in savings, even after he repays the $25,000 loan. Right. He was paying 10, now he's paying eight and he's got a brand new awesome clean energy system that he feels good about.
+
+3 (33m 12s):
+He's preserving God's creation. The millennials and Gen Zs in the congregation are excited about it because he's, you know, he's taking care of the Planet. Everyone is healthier because it's, you know, you're not burning oil in the basement and breathing it in while he is preaching. Yeah. Like, everything's better, man. And so there's all these benefits Yeah. That come from doing the project. And so our job is to explain to people, look, it's gonna be a hassle. We're gonna make it as easy as possible, but we're gonna save you money. Your building's gonna be healthier and it's gonna be more valuable if you were gonna sell this building. Now it's a green building and it's gonna be worth 10, 15% more than it otherwise would be. So
+
+0 (33m 50s):
+You guys are basically doing everything from soup to nuts, right? So if a building says, yeah, we wanna work with BlocPower, you essentially handle the financing, you handle the contractors, the crews, the equipment, everything, all of
+
+3 (34m 4s):
+It. All of it. The engineering, the design, the architects, the contractors, the equipment we call the manufacturer. We negotiate the warranties, we do all of it on behalf of the customer.
+
+0 (34m 16s):
+And also I think you are also sourcing workers from communities where you're focused on too, right?
+
+3 (34m 24s):
+100%. We have got a really cool project in New York with Mayor Eric Adams. We're hiring 1500 people from the low income communities where I grew up and where I was a community organizer in New, York City. And we're training them on how to electrify buildings and we're paying 'em 20 to 40 bucks an hour and putting them to work, to decarbonize buildings in New, York City to install heat pumps and solar panels. And so we've got 1500 of these workers guy, we had a whole street gang that was like out dealing drugs a few months ago, and there's like 50 of 'em. And they came to us and they said, look, we're willing to shut down the gang if you guys are willing to train us and get us certified and get us jobs, electrifying buildings where we can make 70 grand a year, 80 grand a year, and we don't have to run from the cops or run from the rival gangs like we will shut down this street gang.
+
+3 (35m 15s):
+And so we set up a training specifically for them and, and you know, we shut down a whole street gang. So we're really excited to be able to start addressing this like double waste, right. The waste of human potential in these communities alongside the waste of fossil fuel energy. It's, it's really inspiring for me after 10 years of work to be able to come full circle on that. We're thrilled about
+
+0 (35m 32s):
+It. I mean, this is a for-profit business. You must make a profit, you've got a lot of investors and that is ultimately what you will have to do. Yep. But how about government subsidies and government grants? Could that be a source of your revenue?
+
+3 (35m 47s):
+Absolutely. I mean, we, we just want a contract from the city of Ithaca, New York, where Cornell University is located. Yeah. And we have four years to electrify every single building inside city limits.
+
+0 (35m 59s):
+Every single one.
+
+3 (35m 60s):
+It's gonna be the first city in the whole world to be 100% electric.
+
+0 (36m 5s):
+Wow.
+
+3 (36m 6s):
+There's several cities across the United States where the mayor is just like, screw it. We're decarbonizing the city by the year 2030. And it's the law in that city. Yeah. And so they need people to come in and partner with them to actually implement and deliver. And because we have a full suite of services, we do the engineering, we do the design, we order the equipment, we finance it, we project manage everything. We measure and verify the avoided emissions. We're like a great partner for certain kinds of cities to help them figure out how to decarbonize their buildings. So we're doing that in DC and in Georgia and in San Luis Obispo and Oakland, California, and lots of places across the country who are headed this way, who've already passed laws that they're gonna be a hundred percent green by the year 2030.
+
+3 (36m 57s):
+Then we're really hopeful that that's gonna be successful.
+
+0 (36m 60s):
+We're gonna take a quick break, but we'll be back in a moment with more from Danelle. Baird of BlocPower. Stay with us. You're listening to How I Built This lab.
+
+5 (37m 10s):
+Get ready for more at Ontario Place. More fun, more to explore, more to see and do. Discover amazing places to share a meal. Spark your creativity at the all new Ontario Science Center. Enjoy festivals or dance and sing along to your favorite band. Make a splash at New beaches along the waterfront and explore new trails and parks. Get ready. There's more fun to come. For everyone at Ontario Place to learn more, visit Ontario dot ca slash Ontario. Place paid for by the government of Ontario
+
+4 (37m 40s):
+Raising kids can be one of the greatest rewards of a parent's life. But come on some days parenting is unbearable.
+
+6 (37m 49s):
+I love my kid. But is a new parenting podcast from Wondery that shares a refreshingly honest and insightful take on parenting. Hosted by myself, Megan Gailey, Chris Garcia, and Kurt Browner. We will be your resident, not so expert, expert. Each week we'll share a parenting story that'll have you laughing, nodding, and thinking, oh yeah, I have absolutely been there.
+
+4 (38m 13s):
+We'll talk about what went right and wrong, what would we do differently? And the next time you step on yet another stray Lego in the middle of the night, you'll feel less alone.
+
+7 (38m 23s):
+So if you like to laugh with us as we talk about the hardest job in the world, listen to I Love My Kid. But wherever you get your podcasts, you can listen ad free on the Amazon Music or Wondery app.
+
+0 (38m 43s):
+Welcome back to How I Built This Lab. I'm Guy Raz, I'm talking with Danelle Baird, he's the founder of BlocPower. Alright. A hundred million dollars that you've raised. Incredibly impressive. I think you've done work on more than 1200 buildings. You've got this partnership in Ithaca and growing partnerships. Do you have a sense of when you get to profitability? I mean, in your mind, is it 10 years from now or is it faster than that?
+
+3 (39m 9s):
+I think we were profitable last year. Oh
+
+0 (39m 11s):
+Wow.
+
+3 (39m 12s):
+There was like a stray million dollars in there that I couldn't quite get my little grubby CEO hands on that they hid from me. And so I think we like made a million, I think we did like 18 million in revenue last year.
+
+0 (39m 23s):
+So you were already profitable.
+
+3 (39m 26s):
+Yeah. But again, we have a mix of capital from Silicon Valley and Wall Street and Silicon Valley. You don't really have to be profitable as as we're all learning. Correct.
+
+0 (39m 34s):
+Right.
+
+3 (39m 35s):
+But on Wall Street, you do have to be profitable. Yes. Right? Yes. And so the majority of the capital that we've raised is actually from Goldman and Microsoft, and we have to repay them. And so every dollar that we take in from them has to have a plan where we can give them 4, 5, 6, 7% return out of the profits that we generate. So again, our business model is to go in, use digital models and software to figure out how to profitably upgrade an individual building and to make an investment using Wall Street Capital in greening and electrifying that building and saving so much on the energy bill that the building owner sees some savings and our lenders see some profit.
+
+3 (40m 17s):
+And if we play our cards right, so do we. And our Silicon Valley investors. Now, having said that, over the next two to five years, as we prepare to like go public and I p o, we will not be profitable if I'm doing my job. Like we will be investing in r and d and expansion just like Uber did, right. Or Airbnb or any other tech company because we want to take the message of electrification to every corner of the country. And so our job is to make those investments so that we can grow rapidly. And I think that that'll be the best thing for our company. And I think it'll be the best thing for the Planet.
+
+0 (40m 50s):
+So the plan is to take it public.
+
+3 (40m 52s):
+We gotta go public. And again, why we partner with conservative energy utility companies, with mayors, with congress people, with city council folks who are trying to decarbonize and electrify their city. They don't wanna partner with a startup. They want to be able to like Right. Go on Google and see that you're publicly traded and you're stable and your financials are good. and you know, if a mayor signs an agreement with us that five years from now, all his voters aren't gonna kick him out of, or her out of office because we went bankrupt. Right? So they want that stability and transparency and we're gonna need to do that in the public markets. Absolutely.
+
+0 (41m 30s):
+Presumably there are other companies out there, there, I know there are other companies out there that are doing similar things to what you're doing, but your, let's say brand, right? Your competitive advantage is you already have built the connections, particularly in low income communities, where there's a huge potential to electrify tens, hundreds of thousands of houses and homes and buildings.
+
+3 (41m 53s):
+Yeah. I think in Silicon Valley, and this is why we had such a hard time raising capital initially, you know, look at Tesla, like to come out with the Roadster first and it's like, I don't know, would it cost a hundred grand, 200 grand?
+
+0 (42m 5s):
+Yeah. Something like that. Yeah. It
+
+3 (42m 6s):
+Was expensive, right? Like most Americans can't afford that. And then as you're successful, you sell enough of those things, you invest, you buy more machines, and then now you do the sedan,
+
+0 (42m 16s):
+Then you get the model three. Yeah. Right?
+
+3 (42m 18s):
+And so now you're charging people like 75 k. Yeah. And then you keep investing and then you bring the cost down to 30 K, right? Same thing with the Apple iPhone, right? We've flipped that on its head and said, we're gonna start with the lowest income people first, and that allows us to be mass market first. And so that has been a painful journey, but now that we've seen a little bit of success, yeah, we do have a competitive advantage and that we can expand to be mass market before other kinds of companies that have really been focused on more affluent customers. So That's right. And look, more importantly, I think that allows us to build a political coalition of people who can access our technologies and who, you know, it's a broader range of people who are gonna care about climate policies.
+
+3 (43m 4s):
+So maybe we can get something passed. And that's, that's what this is all about.
+
+0 (43m 7s):
+You know, I spoke to a founder of a carbon capture company on the show a couple weeks ago, and he said to me, carbon capture is gonna be the one of the biggest commodity markets in the world in 50 years. Yeah.
+
+3 (43m 19s):
+It's gonna be like bigger than gold and oil. That's that's correct.
+
+0 (43m 22s):
+It's hard for us to wrap our head around that right now. And you're basically saying the same thing. What you're doing, this electrification and the market opportunity is so huge, but we just can't entirely see it yet. You know, politically, there's still huge challenges to overcome in, in the United States, right? Like this is not a problem that a couple of Silicon Valley VCs or you know, or some billionaire philanthropists can solve. This must be solved at scale and it can only be solved with huge, massive federal government incentives and And dollars, right?
+
+3 (43m 60s):
+Correct. And so what does it look like to do that? Right? And so, yes, like it is important to have federal incentives, and we have some of those in the bipartisan infrastructure bill that was passed. Now what's interesting, the president used the Defense Production Act, which puts us on like wartime footing to produce all electric appliances. Yes. And so heat pumps and electric ovens are now gonna be incentivized through this wartime production act to be manufactured in America at low cost. We're not gonna have to ship him overseas, right? And so the cost of these things are gonna drop dramatically if this plan works.
+
+3 (44m 41s):
+And over the next two and a half years, the Biden Harris team will put a lot of capital out to finance companies and green infrastructure projects across America. And then what needs to happen guy is those projects, we need like half of 'em to be successful. And then they need to share their data on their engineering, their construction, their design. They need to like open source and share that data globally so that Silicon Valley and Wall Street can duplicate and scale those projects. And so with our project in Ithaca, for example, we are signing up nine other cities across America to race Ithaca, to electrify all of the buildings.
+
+3 (45m 31s):
+And I think we gotta make it interesting and competitive for local folks, right? Like what are the ways that we can collaborate in a scenario where we have robust federal investment and how do we get this done even if that federal investment tapers off? And then, you know, there's other countries around the world, right? Like, you know, India, they don't have robust government investment across the continent of India to get this done. And so we've gotta demonstrate and explore and then share data and that data will allow capital markets to scale and replicate solutions across the country. You know, 20 years ago, I didn't think that everyone would have an iPhone or an Android, but billions of people across the world now do.
+
+3 (46m 16s):
+And so we need that kind of solution at scale. And I think it's possible. and you know, I wouldn't be working on it otherwise I'd go find something else to do. Yeah.
+
+0 (46m 23s):
+Danelle, I wanna ask you a sort of a, an unsavory question because we've talked about this beautiful, incredible idea and concept and business that you've built, but of course, humans, many humans can be motivated by greed and generating wealth. And certainly in the capitalist system that that is often the case. Who and how will they make the most money off of this future green revolution?
+
+3 (46m 52s):
+Who and how? And then I would say a third question is who should make the most money off of it? Right? So I think that innovation in America from as far as I can tell, is funded by Silicon Valley venture capitalists. Yes. They are making a ton of money. They've invested in Uber and Airbnb and all these incredible companies that have done really, really well and they've made a ton of money. And so now folks who normally invest in other kinds of investments like Fidelity, they're like, oh, we gotta come in and start investing in venture capital as well. And so to the extent that the climate crisis can be solved by the traditional Silicon Valley suite of solutions, meaning chiefly software, right?
+
+3 (47m 36s):
+Yeah. And with this archetype of a founder who, from what we're being told, it's like a 19 year old Caucasian male who drops outta Stanford or Harvard, you know, like Steve Jobs, like Zuckerberg, like Bill Gates, Silicon Valley is looking to finance that kind of archetypal founder and company to solve the climate crisis. So that's one piece of it. The second piece of it is the federal government is investing billions and billions of dollars. The Biden Harris administration is providing lots of capital to small businesses and companies, just like the Obama administration loaned 500 million to Tesla and Elon Musk. There's like a ton, there's like 40 billion of loans that are being made to green energy companies using tax payer dollars, which, you know, the companies will need to repay.
+
+3 (48m 25s):
+Yeah. Then there's Wall Street. And so our partners at Goldman Sachs, for example, they have allocated 700 billion to invest in addressing the climate crisis. And I think that number's only going up. So there's trillions of dollars of capital from Wall Street and Silicon Valley and the government to invest, and they will choose a set of entrepreneurs and companies who they hope will grow and scale and expand and make a ton of money while solving the climate crisis. But I think there's a bigger question around who should and you know, that's traditional capitalism and innovation in America and Silicon Valley style technology investing and like that's how it's gonna go if left unchallenged.
+
+3 (49m 11s):
+I think that there's another better path though. We actually believe in a lot of crowdfunding. For example, we've filed with the S E C to raise capital also from ordinary Americans. If BlocPower does well, we want like our local rabbis and pastors and high school teachers or whatever, who invested $25 or $500 or whatever, they had to buy some of our stock early on. We want them to make money alongside Goldman and, and our venture capitalist investors. So we filed with the S e C to create that. So that's one part, but that's not just like a, a moral or ethical thing to do, right? Like we need more and more Americans to look in the mirror and say, if 50% of Americans are alarmed about the climate crisis, what can we do about it?
+
+3 (49m 58s):
+Right? So yes, we can complain and call our senators and or post on Twitter or whatever, and we can go out and buy an electric vehicle. That's great. And we can decarbonize our homes, but we need like a movement of Americans across multiple parts of society that is broader than just like a thin, you know, partnership with venture capitalists and Wall Street. Like we need regular working and middle class Americans to Embrace the opportunity of climate change to make money. And so in our view, it wouldn't just be the entrepreneurs and the, the Silicon Valley tech companies and investors and Wall Street folks who would make money off of this. But all of us would co-invest in climate companies as investors, as well as customers.
+
+3 (50m 43s):
+And I think if we could achieve that, then we would also be building the broad-based political coalition that is needed to pass climate change legislation.
+
+0 (50m 54s):
+We know this has to happen, right? Yes. Because we, we need to decarbonize, we must and 30% in the US coming from buildings. So most of us, our carbon footprint for most of us on an individual basis is basically our home and our cars. Right?
+
+3 (51m 9s):
+That's right.
+
+0 (51m 10s):
+And, and so we can really have a huge impact on this. and it seems like there's some things that are really hard. Like if we only sold electric cars for the entire fleet to be electric, it's, it's gonna take a while. You're saying with this is it can happen much faster actually, but primarily about converting the source of energy into a building, essentially electrifying a building and it can happen pretty quick.
+
+3 (51m 35s):
+We can do this in the next 10 years. I think that if we mobilize a generation of young people who are focused on this problem across the political aisle, right? Like I've talked to young evangelical Christians who are very concerned about preserving God's creation in the face of catastrophic climate change. Like how do we come together as a generation and say, this is a solvable problem. We have all the hardware we need, wall Street's gonna give us all the capital we need, we have all the machine learning and digital twin technology that we need to figure this out. We have everything we need to go do this. Right? And like we can do it. It's a doable thing.
+
+0 (52m 12s):
+Danbert, thanks so much for joining us.
+
+3 (52m 14s):
+Guy Raz. I just couldn't be more delighted to talk with you.
+
+0 (52m 19s):
+Hey, thanks so much for listening to How I Built This Lab. Please do follow us on your podcast app so you always have the latest episode downloaded. If you wanna follow us on Twitter, our account is at How I Built This in mine is at Guy Raz. And on Instagram, I'm at Guy Raz. If you wanna contact the team, our email address is HIBT id dot Wondery dot com. This episode was produced by Carla Estevez, with editing by John Isabella. Our music was composed by RT Arablouei. Our audio engineer was Neil Rouch, our production team at How I Built This includes Alex Chung, Chris Masini, Elaine Coates, JC Howard, Liz Metzger, Josh Lash, Sam Paulson, Catherine Cipher, and Carrie Thompson.
+
+0 (53m 3s):
+Neeva Grant is our supervising editor. Beth Donovan is our executive producer. I'm Guy Raz and you've been listening to How I Built This Hey Prime members You can listen to how I Built This early and ad free on Amazon Music. Download the Amazon music app today. Or you can listen early and ad free with Wondery Plus and Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built This merch and gear at Wondery shop.com. Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.

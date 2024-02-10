@@ -1,0 +1,833 @@
+0 (0s):
+Hey Prime members. You can listen to how I built this early and ad free on Amazon Music. Download the app today.
+
+‎Embedded Podcast (9s):
+What if the greatest tragedy of your life was just covered up? I have never seen any, anything like that before or after. This is the story of the worst Marine on Marine friendly fire in modern history. A story kept from the public. It's like, what did y'all have to hide? Listen to NPRs Embedded podcast and its latest series taking cover.
+
+Upwork (30s):
+How I Built This is pleased to have Upwork as our presenting sponsor. Visit upwork.com to get hiring. Upwork has a message for you. Everything you know about business, it was made up by a bunch of guys a hundred years ago. Don't stay bound to their antiquated rules like the nine to five workday commuting to an empty office building, or only hiring full-timers. Embrace a new way of working with Upwork. It's a portal to the future of business, and it's disguised as a website. Go to upwork.com. There you'll see the light. And also find talent for projects of any size. From simple deliverables to complex projects, from short-term help to full-time hires, you can finally let those old business titans and their tired ideas rest in peace. This is how we work now. Visit upwork.com to get hiring talented professionals today.
+
+2 (1m 20s):
+Hey, it's guy here. And before we get to the show, you know that feeling when you think back to some of your early work and you cringe? Well, I recently spoke with Tom Hanks and he told me he gets that feeling too. He can't even watch his own movies. And for a man widely known as the nicest person in Hollywood, Tom Hanks also struggles with what it means to be authentic. Check out our conversation on my other podcast. The Great Creators just search for the great creators with Guy Roz, wherever you listen to podcasts. And now on to today's show,
+
+4 (2m 1s):
+There was a piece in the Wall Street Journal that did a blind test on suiting and our website blew up. And I'm like, okay, we gotta capture this momentum. I mean, this is a dream. We're doing an opening. We have all kinds of press coming, you know, I think six, 700 people on the guest list. This was the moment, right? And two days or before opening, I get a call from this landlord and say, her, you heard you're gonna open tomorrow? I say, yeah, yeah, yeah, we're all done. I mean, you know, big opening. Yeah, you're still don't have your permit closed out, so that's not gonna happen. And I'm like, shit,
+
+3 (2m 50s):
+Welcome
+
+0 (2m 50s):
+To how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. I'm Guy Raz, and on the show today how Foca de Young started by selling suits out of his dorm room in Amsterdam and grew suit supply into a global fashion brand. Today's story is about improvising. And improvising is an important word here because every single entrepreneur will have to just figure it out multiple times along their journey.
+
+0 (3m 32s):
+For example, you can't plan for a city inspector to threaten to shut down your business because you violated an obscure zoning code. You can't plan on a supplier refusing to sell you goods. You can't plan on the factory that makes your stuff messing up all your product. You can't plan on your well laid plan falling apart. But no matter what happens, your job is to solve the problem in a creative way and preferably quickly. And that is the story of Suit Supply. It's a fashion brand with around 150 locations around the world. Suit supply sells men's clothing and also makes made to measure suits.
+
+0 (4m 13s):
+And like some of the higher end designer brands, all of its fabrics come from Italy, but suit supply sells high quality suits at a fraction of the price. This was Foca de Young's model from the very beginning to build an efficient manufacturing and supply chain that would allow him to cut out unnecessary costs and drastically reduce the price of a high end suit. And by 2000, the year Suit Supply was officially founded. Foca was selling those suits online. In fact, suit supply was one of the earliest e-commerce retailers in Europe. And today around a third of its business happens online.
+
+0 (4m 55s):
+Foco was born in the early 1970s and grew up in a small town in the Netherlands. He studied law and economics at the University of Amsterdam. And after graduating, he got one of those fancy management training jobs at Procter and Gamble, a job that practically guaranteed a stable career, but it wasn't the life Foca was looking for. He wanted to be his own boss. And it just so happened that while he was a student in the late 1990s, Foca came up with the idea for selling suits, which began when he needed to buy one himself.
+
+4 (5m 29s):
+When my grandfather died at a very old age, you know, for his funeral, I needed a suit and a nice suit, don't wanna have a nice suit. And then somebody knew a guy that knew a guy that was selling suits straight out of Italy from a factory. And, and you know, I met this guy, bought a suit, and then I thought, okay, he was using this connection to buy leftover fabrics that were produced into suits. And it was very nice products. I was still studying. I needed a sort of a, you know, some, some ways of actually making a little money to get by and, and I thought you, you know what? I'm gonna sell suits to my fellow students for, you know, their interviews, graduation parties and all that kind of stuff.
+
+0 (6m 10s):
+Wait, hold on, hold on. You, you said I'm gonna sell suits to my fellow college students, but how were you going to, you were going to go get them from that same factory or from that guy that you bought? I would,
+
+4 (6m 21s):
+I would get that from that guy that, you know,
+
+0 (6m 23s):
+Okay, you were ba was basically saying them, Hey, let me just buy a bunch of suits from you and then I'll resell them. I'll mark them up 20% or something.
+
+4 (6m 29s):
+Exactly. Right. And, and he was giving me a discount if I bought some more. And then, you know, I I, I was basically, you know, a little distributor and folding up my bed in my dorm room when, you know, some of my buddies came in to, to come and fit. And then the problem was with student business, it was only a few times a year, right? Yeah. When there were graduations or when there were parties, right? Yeah. So, you know, it was not consistent. So when these events were not there, I was like, okay, you know, where else can I sell them? And that's how I ended up ringing doorbells
+
+0 (7m 5s):
+Of businesses, basically. Oh,
+
+4 (7m 6s):
+Businesses. Yeah. It just went in, talked to the reception.
+
+0 (7m 8s):
+Small businesses.
+
+4 (7m 10s):
+No, we went all the way up to, you know, even I remember having events in the, the Dutch National Bank. Wow. And Heineken, they were
+
+0 (7m 20s):
+You, what? You'd go to the receptionist and you'd say, Hey, yeah, I'm, I'm selling suits and I'd love to show what I am. You know, could, could you guys organize a room for me where I could bring my stuff?
+
+4 (7m 30s):
+It's not that. So, you know, you, you sort of, you have to talk to them a little bit and you know, it's that we did these events there and there. It's maybe something for you guys. I mean, do, do you think the guys are dressing well here? And they said no, they could use some help. They would always say they could use some help. And that was sort of the hook in.
+
+0 (7m 46s):
+Okay. And then I guess at some point you decide to actually go to that factory in Italy to say, you know what? I'm working with this guy, but why don't I just go directly to the factory in Italy and see if I can just buy it from them?
+
+4 (7m 57s):
+Yeah, exactly.
+
+0 (7m 59s):
+And did that, by the way, did that guy that you were buying them from, did he, did he get annoyed that you were bypassing the middleman?
+
+4 (8m 5s):
+No, I sort of, at some point my business got a little bigger. Right. And this, this guy that was giving me stuff was running to his limits. Right.
+
+0 (8m 15s):
+How many, how many suits were you selling a week?
+
+4 (8m 17s):
+I was, I think I, you know, I did every Friday I had one of these events. Then I think I was doing probably 40, 50 a week,
+
+0 (8m 27s):
+40 suits a week,
+
+4 (8m 28s):
+Something like that. Yeah. The, the problem was what, what actually happened was, was his business model, and he made this sort of deal where the factory in Italy was producing suits for some of the bigger brands, right? Yeah. And they would tell these brands, yeah, well, you give me this cloth to make you a product and we need 3.1 meter to make this product. But in reality, when they were really efficient, they only needed three meters or 2.9. So, you know, they always kept over and they, they're left over a little bit of fabric, right. That they then made the same product for and they just resold it through that channel.
+
+0 (9m 6s):
+Wow. So they would essentially have excess material that was gonna be like, I don't know, let's just say a name, Armani or something, whatever, who, whatever brand they had extra material and they're like, well, let's just make a couple more suits and we'll just sell 'em without the label. And Exactly. Men would show up and say, yeah, you know, you can get this quarter of the price that it would cost in the store.
+
+4 (9m 24s):
+It was, yeah, it was a quarter of the price. And then what happened, of course I was selling more and I was telling said, well, can't you gimme more and even have more because this access fabrics, they ran out. So yeah. Then I said, okay, but let me then talk to your source to see if I can work something out with them, because I have, I think I have a bigger market.
+
+0 (9m 45s):
+Wow. Alright, so you go to this factory and what did you say to them?
+
+4 (9m 50s):
+I just said, I need more suits. And then I sort of found out what the whole business model was and why it was constrained. Right. And they said, well, we can give you more, but then you have to buy your own fabric.
+
+0 (10m 3s):
+I see. So they would, they they were willing to make the suits for you, but but you had to buy the fabric. Yeah. So you could basically get these factories to make an unlabeled, you know, unbranded suit, but the same quality for a, a third of the price or a fourth of the price.
+
+4 (10m 22s):
+Yes. And what I sort of, you know, I, I was new to this business. I have, I had no idea how it worked. Right. It is not like I was in my twenties and wanted to be the next Tom for or something. Yeah. I just, you know, it was, it was, it sort of started as a side hustle. And then I found out a little bit because I had to go through the motions of how inefficient that whole business worked, because this factory, they made a beautiful product. Yeah. But then, you know, if you look at how it was sold, they made a product for a brand, and then this brand goes into a trade show. Yeah. And these trade show customers, and there's agents bringing in these customers or agents selling it to, you know, independent stores again.
+
+4 (11m 9s):
+And if you then add it all up, because I sort of knew how much this suit costs, right. And how much I could sell it for, which was a fourth of the price. It was at a, a luxury store. It was the same product. So didn't you start figuring out why is that Right. How is that possible? And who is making all the money here? And then you find out that it's a lot of inefficiency of how the whole business was structured. That price ends up to be the price at some point. Right. And my, my distribution was very different.
+
+4 (11m 49s):
+I didn't have to deal with all these people in between. I just, well, you
+
+0 (11m 51s):
+Were the distributor, you were the guy that was literally going to the trunk shows.
+
+4 (11m 55s):
+Exactly. I didn't have this whole big overhead. I didn't have occupancy costs, I didn't have expensive stories. You know, that was, you know, remember it was in 2000. Right. It was not the direct to consumer market. Right. It was not really, you know, invented yet. Sure. I was basically able to, you know, reinvent the whole business model from scratch.
+
+0 (12m 20s):
+You were also able to take advantage of changes in European law, right. Which is, which is that you could have have those shipped from Italy without dealing with customs or taxes or, I mean, because it was now relatively easy to, to get things back and forth between European countries.
+
+4 (12m 35s):
+Yeah. I mean that, that it was at the time that Europe was becoming one market and, but also one currency. And then it also coincided with the moment that eCommerce started to happen. I think that was the biggest change at the time. So as I made a website and I was at this whole idea of selling high quality suiting shirts and you know, what goes with it online?
+
+0 (13m 1s):
+Online, yeah.
+
+4 (13m 2s):
+And I think at some point that was the point that I sort of, you know, quit Proctor and Gamble. I thought, you know, this is something I have in my hands now, you know, let me focus on building something around this.
+
+0 (13m 16s):
+You know, I, I'm curious because we've had people on the show, right? Who've, who've done things like, like work at a big company like Proctor and Gamble for a few years and, and, you know, before going on to start to start their own thing. And the argument is that, you know, this is gonna give you exposure to a whole new world and, and how big corporation runs, and it's gonna give you insights and connections that you know, that that might help you build your own business. Right. So, I know you decided to leave, but do you think that if you had stayed at p and g for longer, that that might have been beneficial?
+
+4 (13m 48s):
+Nah, I don't think so. You know, what are you gonna learn in an organization like that is, you know, first of all, 50, 60% of the, of the effort in an organization like that goes to the political process, right? Positioning yourself well and all that kind stuff. It's not, it's not just doing stuff, right. There's a whole lot of thing that, that, that goes along with it. And there's also a risk, right? Comfortably, you know, you might think, okay, this is great, I make some money, et cetera. And are you actually then gonna make the jump five years from now when you're beginning your thirties, you make this nice salary, you bought this house, you met your first, you know, wife or a friend, or you know, are you then gonna make the jump?
+
+4 (14m 31s):
+And the question is, how relevant is tho are those experiences of being in a big company, right? They're probably very irrelevant at some point if you have your own company, that's really big. But at the beginning, you know, they're not, I don't think they're relevant. The, the, the most things you'll learn are about just doing stuff.
+
+0 (14m 53s):
+Alright? So you leave Procter and Gamble and you realize, and you decide, I'm gonna focus my attention on the suit business. When you first went to that factory in Italy and you're in your early twenties and you're like, Hey, can you make me a bunch of suits? They, they, they were like, yeah, no problem. I mean, they, they took you seriously and it was relatively straightforward. I mean, this is, these are factories that we're used to working with big brands and big labels. So why, why would they be willing to work with like a 23 year old kid?
+
+4 (15m 24s):
+Well, that's a good question. But I was, you know, buying already some of the leftover stuff. Right. So I had a relationship with him Yeah. And I was actually paying, you know, I was, I was a legit customer. I was paying them cash. Yeah. And I came back and I got more and I paid it. So, you know, getting it sued together was not the hardest thing. This factor, what was the hardest thing was actually getting fabric. Right? The, the, the fabric business was in Como, right? In the, in the north of Italy.
+
+0 (15m 55s):
+Around Lake Como?
+
+4 (15m 56s):
+Around Lake Como. Okay. And, you know, it's there because it ready for a few hundred years because the water coming from the mountain is extremely soft and it's great to wash wool in. And that's where the best fabrics in the world come from. And I wanted to have the best fabrics and these, these, the only way to do that is to put orders in trade shows that they would have, you know, they would have this every season, this convention on the lake Como very fancy, but I was not able to get invited there. Yeah. You know, you have to be very legit to, to get in there. Yeah. And, you know, I had to do that through somebody else that was, you know, already a customer of some of these, these mills to be able to buy fabric.
+
+4 (16m 41s):
+Right.
+
+0 (16m 41s):
+Because it's a, these are relationship businesses. It's not like you can just call up and say, Hey, can I order 20? I mean, it might be different today, but then you couldn't just say, can I order, you know, 40 reams of fabric, they only sold to specific clients. Right?
+
+4 (16m 56s):
+Yeah. I mean, you know, these were the, the mills like vi all these kind of guys, they were also really protective for their, you know, they didn't suddenly want their, their, their high-end fabrics and then sold for a price that they could have never imagined the product was being sold for.
+
+0 (17m 14s):
+So how are you able to, so you had to find somebody who was an existing customer and have them buy it for you and then you buy it from them.
+
+4 (17m 21s):
+Exactly. It was just getting in between.
+
+0 (17m 23s):
+How did you find that person?
+
+4 (17m 27s):
+That person already had a, you know, a little business that he was doing in Holland. Okay. And I just paid him a markup.
+
+0 (17m 34s):
+Yeah. It's, it's a little bit like wine. Like you can't just go to a burgundy maker and just go and buy their wine like they have. They're selling it. It's already spoken for, like, some restaurants are gonna get it and some collectors are gonna get it and some shops and that's it. It, and if you wanna buy that wine, you've gotta go to the other person who's, who's already on that list to get it. You can't just get it.
+
+4 (17m 56s):
+Yes. And what I also learned is that, you know, as these people are also running businesses, right. And if you are, if you're able to show that you're actually, you know, you're legit, you're doing business, you can convince them of doing business with you. It took me some time, you know, for the first years they wouldn't even talk to me. Right. Yeah. And, and you know, and then you get a few ones on boards and see how, you know, that was, especially when we went into online and they saw that we were maybe potentially the new thing that was gonna happen in the business, stuff started opening up. And now our business is by, by far the biggest customer of all these mills. Right. In Italy. Alright.
+
+0 (18m 34s):
+You were the pariah then. Now obviously it's changed, but let's go back to when you bef even before you were the pariah, which is you're just a small time guy trying to just do a hustle here, getting a bunch of suits and selling 'em. And, and, but now you are buying more and, and still even in those early days, you're not doing this through a shop. You're doing this really just by going to businesses from business to business in Amsterdam mainly, and trying to sell suits. Correct. And when did you actually open your first brick and mortar store? What year?
+
+4 (19m 7s):
+2000. 2000. Okay. What, what happened is, and I think that was really the breakthrough because, you know, now I'm having this online business, an online store, and it went pretty okay. Even pretty well, you know, people were buying stuff, but I, with this product, people wanted to have, you know, a place where they can do their alterations fitting, see the product. That's still the case actually with fashion, that people wanna have some physical presence. So then I was thinking, okay, where, because I didn't have a lot of money to open a whole, you know, store on an expensive location. And I was thinking, okay, where if I'm looking at my customers, where are they? You know, and most customers were driving and commuting, you know, back and forth from offices and, and appointments between the two bigger cities in, in Holland Roam and Amsterdam, big highway.
+
+4 (19m 56s):
+So how about, you know what, I'm gonna make this whole a little experience center and pickup point and tailoring, and where can people, you know, pick up their product, see it next to the highway
+
+0 (20m 7s):
+On the highway between Rotterdam and Amsterdam? Yeah.
+
+4 (20m 10s):
+There
+
+0 (20m 10s):
+Was sort of, because that's, that's where the business commuters were going. The, the, that's
+
+4 (20m 13s):
+Where the business commuters were going, which was of course insane in the eyes of the whole industry. Insane
+
+0 (20m 20s):
+That it was off the highway.
+
+4 (20m 22s):
+Well, it it insane to have a business where you sell high-end quality suits on the highway, and
+
+0 (20m 27s):
+Oh, instead of in sort of like on a fancy street in a downtown
+
+4 (20m 30s):
+In instead of on a fancy street, I think the newspapers were writing about this crazy store that was selling high-end, soothing next to the highway online, but now opening stores, this was gonna revolutionize retail. And, you know, all the high-end streets in the, in the middle of the cities were gonna disappear. And this was all gonna happen. Right. People when new changes happened, they were very hyperbolic. And so what what happened was, you know, I opened this store, which was completely logical in my mind. I mean, I was not really attached to this playbook. I just wanted to have a store somewhere where was the most easiest place where I thought my customers would be.
+
+4 (21m 11s):
+Yeah. I was, I was surprised with it. But what the effect of our business was, is suddenly people were queuing up because we had so much pr
+
+0 (21m 20s):
+And, and this store, as you say, off the highway was not in Amsterdam. It was, I think, I think it was, it was closer to like Skile airport, right? Exactly.
+
+4 (21m 29s):
+It was, no, it was really next to a highway. You had a gas station, you had a store where they were selling magazines, cigarettes, and all that kind of stuff. Yep. And I rented a space next to it and, you know, that was, that was basically it.
+
+0 (21m 43s):
+And you called it suit supply.
+
+4 (21m 45s):
+I called it suit supply.
+
+0 (21m 47s):
+And Cause that's what it was. You were supplying suits.
+
+4 (21m 50s):
+I was like, you know, as, as, as, as straightforward as I could
+
+0 (21m 54s):
+Think, it's, it's a very utilitarian name. It doesn't actually scream out luxury. Like you hear that word suit supply and you wouldn't think luxury. You would think, okay, that just, that's what it does.
+
+4 (22m 5s):
+Yeah. But at the time, it made sense because it was, we were direct to consumer, you know, very, you know, disrupting the market. And it was sort of a name that, that, you know, went Yeah. Well, with that time moment, we were seen as the new, the new solution to everything. Yeah. Which was also, by the way, imposed an immediate problem because these local retailers that were around it were looking at us with, you know, a little bit of an envy, I think
+
+0 (22m 34s):
+You mean competitive brands or competitors.
+
+4 (22m 36s):
+Yeah. Yeah. And what they did, they said to the municipality, these guys are in somewhere where you cannot have retail. This is not zoned for retail, it's gorilla retail.
+
+0 (22m 47s):
+They said this store can't be there next to a gas station because it's not a wait. Why? But why would they say that? What argument would they have to make that? Well, they had
+
+4 (22m 55s):
+The argument that the unit that I was in was not zoned for retail. Oh,
+
+0 (23m 1s):
+I see. Okay.
+
+4 (23m 2s):
+And then I get this, you know, guy from municipality coming in and, you know, we are helping customers. Yes. Well, sorry, you, you're having retail here, you cannot have that. You need to close down,
+
+0 (23m 12s):
+Huh?
+
+4 (23m 13s):
+I'm like, shit, you know, I'm, I put my 10,000 bucks. I had that 15,000 bucks. I put everything in that store, and these guys were seriously coming to it with a letter that we were not zoned for retail. And we had to close down.
+
+0 (23m 26s):
+I mean, I'm totally sympathetic to you, like I would've been pissed. But that is a, an amateur move, right? To open a store where there, it's not zoned for that. Like you should have known.
+
+4 (23m 37s):
+Yeah, I should have known. Well, I mean, how could I have known that? Because next to me, there was two units, right? I was also like, I can't believe this, this is actually true. Right? Because it was, was so obvious that it should have been zoned for retail. And I went to the municipality and I, I, I just wanted to see the plans. I wanted to see the blueprints. And I got the, and said, well, you can go there, just wait for you in this little room and we'll bring you the blueprints. And then you could sit in that room and went over these big pile of blueprints. And then I saw that one of my building, and it said exactly that unit next to us said, with, with with pencil. It was written in there, it said store. And my unit said nothing. And so then I thought, okay, I, I took a pen.
+
+4 (24m 19s):
+I practiced as long as I could to, you know, have almost the same handwriting as the unit where it was store written in. And I just penciled store in my unit. And then I went back to the municipality and said, guys, what do you mean on these, on these blueprints? It says store. I said, oh. Oh, okay. Oh, we didn't know that was it. That was it. They
+
+0 (24m 42s):
+Would basically just hand write store in there and you're like, guys, you missed it. It is here. It says store. And they're like, oh, okay. All right. Exactly. It just seems crazy.
+
+4 (24m 54s):
+They just wanted to get rid of the problem. Right. They had complaining people, they were probably sympathetic of what we were doing, but this just needed an argument of getting rid of the problem. I didn't have, I didn't know how to solve this problem other than that. Wow. And, and, and I never heard anything of them ever since.
+
+0 (25m 13s):
+When we come back in just a moment, Foca takes suit, supply Global, decides to move production out of Italy, and in the process almost destroys the business. Stay with us. I'm Guy Raz and you're listening to How I Built This.
+
+Canva (25m 36s):
+Today's sponsor, Canva for Teams, is a design platform that makes it easy for anyone to create stunning visual content, even if you aren't a graphic designer. My team uses it to create episode artwork, social media posts and graphics for our website. Plus it's easy for us to collaborate and make tweaks to designs before they go live. Canva has endless templates for things like presentations, business documents, brainstorms, posters, and more turn inspiration into design in no time with Canvas wide selection of premium fonts, photos, graphics, videos, audio tracks and animations. Canva also has AI-powered magic features to help kickstart your creative process, like the Magic Eraser, which you can use to clean up unwanted details in your images, design, and collaborate with Canva. For teams. Right now, you can get a free 45 day extended trial when you go to canva.me/built. That's c a nva.me/built for a free 45 day extended trial Canva, me slash Built.
+
+5 (26m 44s):
+Hey everyone, I'm Patrick Wyman, host of Tides of History, the podcast that covers thousands of years of recorded history, taking you back in time and placing you in the lives of those who came before us. With five seasons and over 250 episodes, there's something for everyone. If you're interested in the Iron Age, check out the entire season devoted to that era, which explores myriad topics, including classical empires like the Neo Assyrians, the Phoenicians and Greece's Dark Age, or listen to our deep dives into Renaissance Italy, the invention of news, the Protestant Reformation Witch Hunts, and even the Black Death. And if you prefer more contemporary history, listen to our episode about the unparalleled rise of capitalism. Whether you are a history buff or just have a passing interest, tides of history will fill you with wisdom and wonder for everything that came before.
+
+5 (27m 30s):
+Follow tides of history, wherever you get your podcasts, you can listen ad free on the Amazon Music or Wondery app.
+
+0 (27m 37s):
+Before we get back to the show, please make sure to click the follow button on your podcast app so you never miss a new episode of the show. It's usually just at the top of the app and it's totally free. Hey, welcome back to How I Built This. I'm Guy Raz, so it's 2001 and Suit Supply has been in business for a year and it's doing pretty well. In fact, Foca just made under 10 million euros in revenue, just selling suits in one store and online. And then in 2002, Foca decides to take on an investment from a larger Dutch fashion brand.
+
+4 (28m 20s):
+I thought at the time it was gonna be beneficial for us to be part of a bigger business, and that was public and, you know, we could learn something there. But it also, the other side was, is that, that I didn't give away any governance. Right. So it was still, you know, fully in control. Yeah. And basically their incentive was, you know, they needed to affiliate them with something that was online so that they could tell the markets, Hey guys, we have a strategy of online and you know, we're also looking at online and this is the business that we've invested some money in. You know, at the end of the day we were not part of that business, but sort of, you know, next to, or, you know, could tap into some of the resources.
+
+4 (29m 3s):
+I don't know if that was really that helpful to be honest. Yeah,
+
+0 (29m 7s):
+Because these were, these were just really Dutch fashion brands, right.
+
+4 (29m 11s):
+Very Dutch focused.
+
+0 (29m 13s):
+What I wonder though is they put in about 200,000 euros in 2002, but your business, your your revenue was like eight to 10 million around that point time. So why do you think you needed that money? It doesn't sound like, it sounds like you had enough, I mean, if your, I mean, I guess your margins were pretty thin.
+
+4 (29m 32s):
+Margins were thin and it, you needed I needed the two, 300,000, I, I don't know the exact number here anymore. Right. But it's with some in that ballpark. Plus it was a credit line, right? I, my, my business was growing at the time, but I still had to pre-finance all the fabrics, all the,
+
+0 (29m 50s):
+You had to pay for it in advance.
+
+4 (29m 52s):
+Yeah. I mean, I was,
+
+0 (29m 53s):
+You didn't have like 30, you couldn't like order it and then pay 30 or 60 days later during,
+
+4 (29m 57s):
+Or 60 days. No, there was, they were not giving me that credit yet. And you know, the, the thing is you buy your fabrics, then you have to send them to your factories, they have to produce it, then they have to send it to your stores. I mean, that whole process has your cash tied up before you way longer than if you were just a, you know, a business that's buys wholesale.
+
+0 (30m 19s):
+Yeah. All right. So what now that you had this cash, this line of credit and this cash, what was the plan? I mean, was it to just start to build like another 10 stores in the Netherlands?
+
+4 (30m 33s):
+Yeah, I mean that, that's the moment when, you know, the obvious wing was to expand and, and open more stores. Yeah. And I didn't have still a lot of cash. So I, I really went from, you know, this, this, this crazy location into other cities, but still doing the same thing almost. And finding spots that were, you know, interesting that I could create some kind of an experience in. And it was easy for customers to go to, but still keeping our occupancy cost low.
+
+0 (31m 5s):
+So you were not going to the high street, the main street in the towns where it was more expensive to the leases more expensive. You were going like on the outskirts of town
+
+4 (31m 13s):
+Outskirts or whatever inside the town, but then not on main on main. Yeah. My customers were coming for, you know, the quality of the product, the fact it was an attainable price point and they were getting a great service. So why would I now then go by the standard playbook of how everybody was building a fashion brand even though my, you know, my, the guys that put some money in was like, no, no, no, you have to go there and there and this is how you build a brand. I was like, no, not really, because, you know, I can build a brand based on quality of product, based on quality of service and just figure out to be more efficient so I can actually maintain that proposition.
+
+0 (31m 50s):
+And how did people, I mean obviously you did not have a huge advertising or marketing budget as you opened the stores. Like what would make them go in there? Were they, was it mainly word of mouth? Like you have some guy wearing a suit and somebody would say, Hey, where'd you get that suit? It's really nice. They say, guess what, it was like 200 euros. I got it from this store called Suit Supply. Is that how people would find out?
+
+4 (32m 14s):
+It's, it's more or less, yeah. They talk about it, it becomes part of the conversation that is the most important advertising you can get. If you don't have that, forget about it. You, you are, you're never gonna be able to buy against that.
+
+0 (32m 27s):
+So you were really, I mean, you had to be super efficient to squeeze profit cuz you were getting the fabric it was being made in that factory. And was at that time was made in the same factory that you had originally bought, bought the suits from still?
+
+4 (32m 41s):
+No, I think we've expanded our fabric factory based by
+
+0 (32m 44s):
+Then by by then. Okay, I got it. So you were, but, but, and you had these suits coming in from Italy and, and I wa I'm, I'm trying to figure out like, cuz you were getting attention in Holland, you were getting press attention, you were, there was buzz around this business and I think, I think by like 2003 you had I think at least three stores in the country, right?
+
+4 (33m 4s):
+Probably a little more, yeah, about about eight, nine stores.
+
+0 (33m 7s):
+Eight or nine stores. Okay. Something
+
+4 (33m 9s):
+Like
+
+0 (33m 9s):
+That. And so, and I know we, we mentioned this a little bit, but I'm curious about the competition, particularly in, in the Netherlands. Cuz you know, I think a lot of people outside of, you know, probably don't realize this, but in every European country there are multiple brands that really just kind of remain inside the country. Right? Or maybe just in like the region or maybe only in Europe. And you know, it would be like if in the US every state had like 20 different fashion brands that were only in North Carolina or you know, only in, in Alabama. And there are some, there's a little bit of that, but not really that much of it. Right. So at the time were the competitors in the Netherlands, were they disparaging what you were doing?
+
+0 (33m 53s):
+I mean, were they, because I think you were even sued by competitor. I, I don't know if I'm pronouncing it right, but it's og e r Oger is how would pronounce it. And they sued you because they didn't like one of the advertisements you, you had mentioned like, you know, their name and one of your brand advertisements and it basically said, Hey, if you're looking for our shop, just go to OER and turn left and then turn right and you'll No,
+
+4 (34m 14s):
+The phrase was like that. He was constantly trashing our, you know, we were trashing our business a little bit and et etc. So we yeah. O is it pronounced Ogre? Oj Yeah, oj oj. Forgive me. But they were like, I don't know what's the equivalent demos premium luxury store in Holland. And right at that time we opened a second store and we opened a store in Amsterdam in the city, but it was sort of, you know, in that area, but not in a main on Main Street, around the corner a little bit, et cetera. And then we had an ad that says, for a beautiful suit, you go to OJ and then you admit take a left and a Right, right. And basically just a route to go to our store. Yeah. And it was sort of a little bit of a pun and we joke and et cetera.
+
+4 (34m 55s):
+And it was a little tongue in cheek and he went for it. He started suing us on that as he
+
+0 (35m 2s):
+Is oj Yeah.
+
+4 (35m 3s):
+And, and I still have to thank him for it because, you know, it was, he gave us a lot of momentum and a lot of publicity. Right. Yeah. So that store, you know, took a huge, huge jump.
+
+0 (35m 15s):
+So you've got, you know, 2004 or five you, you're really in, still in the Netherlands, in Holland. When did you decide to move outside of, of Holland and open a store in the next country?
+
+4 (35m 27s):
+I think, you know, that's was one of the thing, I think I've waited for a little too long. I think 2008, nine, I started with the first store in Belgium and then in London. Yeah. And London was an interesting example because
+
+0 (35m 45s):
+Very expensive to do business there.
+
+4 (35m 47s):
+Extremely expensive. And it's the Lions then from suiting, right?
+
+0 (35m 52s):
+Savill Roe. Right. And you're basically going to London and saying, Hey, we can undercut their prices and offer the same quality.
+
+4 (35m 59s):
+Yeah. So I wanted to open a store in SA Row. And funny thing with SA Rowe was actually that that store was designed designated by the Crown of London that could only have traditional English tailors there
+
+0 (36m 14s):
+On Sava Row
+
+4 (36m 15s):
+On sro. Yeah. So we were trying to get locations, but we were getting, yeah, but you guys are not traditional in English. So we went, took a side street and opened a store there, you know, and then, you know, my pr brainstorming about PR and said, you know, we're gonna bulge your, we are gonna bulge you on the location on a bed and you're gonna sleep in there. And then we have all these alarm clocks and then we bring in the press and that we are gonna wake up several row, right. We're gonna be this whole new kid on the block.
+
+0 (36m 42s):
+Wait, sorry, you literally brought a bed in there with a bunch of alarm clocks around you to attract, we
+
+4 (36m 48s):
+Bolted the bed on the outside of the building, like 10 meters high, you know, was also like, you know, really scary
+
+0 (36m 56s):
+A bed on the outside of the building, 10 meters above the ground and you had alarm clocks around it and you slept in that bed. And this was to attract media attention. Yeah.
+
+4 (37m 5s):
+It was sort of the pr stumped, right. This was
+
+0 (37m 7s):
+Gonna be your PR stuff. I got you.
+
+4 (37m 9s):
+We have, we have like a hundred or a thousand alarm clocks hung up on there and they were all gonna ring at the same time. And we bring the press and
+
+0 (37m 15s):
+You were gonna be in the bed.
+
+4 (37m 17s):
+Yeah. I mean, I was, you know, spending a few hours in the morning in that bed. The press came, all the alarm clocks would off
+
+0 (37m 23s):
+And the idea was let's just do this stunt and we'll attract attention at least. Yeah.
+
+4 (37m 27s):
+You know, we got this Amsterdam stunned where Mr. Orge sort of bite, so let's, let's see if we can, you know, stir up some trouble. All right. And nothing happened. It was,
+
+0 (37m 40s):
+You didn't have any customers.
+
+4 (37m 41s):
+They didn't have any customers. I mean, it was, it was horrific. Nobody fell for it.
+
+0 (37m 47s):
+So wait, wait. So you were in this bed and like no one, like you're just looking down at the ground and there's like four people milling
+
+4 (37m 53s):
+It out. Yeah. Four people. Like pathetic. Yeah. I think it was not, there was not gonna hit the main news. So then I started hiring actors to be in the store to sort of browse around and sort of, we had some dynamic happening because it was really,
+
+0 (38m 9s):
+You just hired people like to
+
+4 (38m 11s):
+Come and Yeah. To play customer.
+
+0 (38m 13s):
+Yeah. Just so to show that your store was busy,
+
+4 (38m 15s):
+This show was busy, it was something happening and yeah, it was very, very slowly picking up, picking up piece by piece by piece. And I think, you know, it was a hard market to crack.
+
+0 (38m 25s):
+How long did it take?
+
+4 (38m 26s):
+I think it took about two years. I think this was, you know, 2009, 10 it started to happen. People realized that, you know, this was a really good product for an interesting price. And what we also did, I think back then, we put our tailor in the front of the store. Right. And so it was actually, you know, there were people working and suing and doing stuff. Right. It was
+
+0 (38m 51s):
+Taylor was sewing right in the front of the store.
+
+4 (38m 53s):
+Yeah. And so people passed by and said, okay, you know, what's going on here was a little theater, you know, the store got busier and busier and busier and it was doing a few million than, you know, 5, 6, 7, 8. It was a gradual process. So we slowly built a reputation.
+
+0 (39m 10s):
+I mean there was, was a key difference, which was on Salva Row. You go in the, they would fit you the tailor would, you know, depending on the store, the, the tailor would then, or the tailors would start manufacturing your suit on site. In that store. You guys in 2006, about two years before moved your manufacturing to China from Italy where you were still sourcing your fabrics from, but no longer making the suits in Italy. Tell me why you moved the manufacturing to China in 2006.
+
+4 (39m 42s):
+Well, what what happened is, you know, at the time in Europe is that manufacturing got, you know, more and more and more scarce people with the skillset were getting older, leaving factories. Young people didn't wanna work in these factories anymore. And, and the skillset of making something really nice was slowly disappearing. The amount of people that were able to do it were getting smaller and smaller and the amount of product that we were needing was getting bigger and bigger. So, you know, we had to find a solution. And I was reading the, the annual report of Zenya at the time, which
+
+0 (40m 18s):
+Is obviously one of the big premier luxury brands Yeah. Suit brands. Yeah.
+
+4 (40m 22s):
+So brands and they were, you know, expanding into China and they bought a joint venture into a Chinese garment manufacturer, suit manufacturer in a town called Windau. And I was like, oh, that's interesting. If they were also doing that, then there must be a certain level of, you know, high-end quality there. So I'm calling this factory, you know, I got the number and and nobody picks up the phone or nobody speaks English Yeah. In that factory of course. And so I'm thinking, okay, it's Christmas at that moment. And I'm like, okay, I have nothing to do cuz everything's closed here in Europe anyway. You know what, I'll just take the plane and go to China and go to knock on the door of this factory.
+
+4 (41m 4s):
+Right. How much time is it gonna cost me? A few days. And I'm, and this is the time in China where, you know, it's not like now is everything is fancy and nice airports, you land in Shanghai, you take a taxi six hours, you come into this village where there's hardly any street lighting and, and there's one international hotel in the town. I still remember the Victoria Hotel. And, and I check in there and, and in the morning I'm sitting at the breakfast, there's, there's only one European person there and it's an Italian guy. And I'm thinking, okay, this Italian guy is probably, you know, part of the Zenya group, otherwise why would there be any Italian here?
+
+4 (41m 47s):
+And so introduced myself and this was Toko and Tokos were complaining about, yeah, I'm just being put here with Zenya because we bought this factory and now I have to, you know, produce because also part of our agreement in this joint venture is that we supply in certain amount of, of production capacity. And I went into that factory with him and he gave me a tour. I was amazed this was, you know, something I'm like, I've never seen some so much quality and so much detail before. It was probably one of the best factories I've ever seen. Better than ever anything I've seen in Italy. These were two brothers that founded this, you know, from, from a very young age.
+
+4 (42m 31s):
+And they had just one thing in mind. You know, they were completely fanatic about it. They wanted to make the best suit in the world. Hmm. And they, you looked at all the Italians, looked at all the brands and they were, you know, their pattern making, their quality, their level was fantastic. And Zenya figured that out. That's why they bought a joint venture in there. Wow. So I thought I struck oil, right? Yeah. I came back from that trip, I'm like, guys, we found the best factor in the world now our product can be so much better and by the way, we can probably also make a little bit more margin on it. Right. That was not the main driver, but you know, still it was gonna be more efficient.
+
+4 (43m 13s):
+And, and we have, you know, enough production capacity there, you know, the guys wanna work with us because we're actually solving a problem for them because they, they needed some extra, you know, food for the line.
+
+0 (43m 25s):
+Yeah. For
+
+4 (43m 25s):
+The production
+
+0 (43m 26s):
+Line. Kaen, it wasn't enough to just make Xenia suits. They had to make all kinds of
+
+4 (43m 30s):
+No, they made all kinds of suits and zenya was, you know, the stars seemed to align perfectly. Yeah. So I thought, you know, guys, we are gonna move to China everything for the next season to China. Boom. But then of course we, you know, we didn't figure out all the logistic parts and the fabric got stuck at customs for a month then, you know, this, this factory, we weren't used in working for international clients yet. So they made it in the wrong model because there was stuff going wrong in translation then, you know, they, they had to send it out and it was stocking customs. Again, there was so much stuff that needed to, you know, iron out from a logistic perspective.
+
+4 (44m 11s):
+So everything was, you know, the quality was great and the craftsmanship was great, but everything else around it, it was a nightmare. I almost tanked the business with it.
+
+0 (44m 21s):
+You almost tanked the business by moving it to China
+
+4 (44m 24s):
+In the beginning. Yeah. Because if we would've been out of product for two months, you know, how where are we gonna get revenue?
+
+0 (44m 29s):
+So what'd you do? How did you resolve that?
+
+4 (44m 31s):
+I had to run the business here and then I flew back almost every weekend, you know, for two to China to China and be in the factory just, you know, pushing and, and, and
+
+0 (44m 41s):
+You're going to China multiple times a month.
+
+4 (44m 44s):
+Oh yeah. Yeah. I I, I went on the plane five, six hours and then started to push and, and get things done and be there. And then I got somebody internally that, you know, was just out of university and working for us in the store and you know, I said, guy, just come with me. Why don't you stay here and just, you know, the only thing you have to do is make sure that these fabrics that are here actually going into production, you know, and that we're, and call me if there's anything going wrong. Yeah. And you know, this guy stayed there and stayed there and slowly, he actually helped us build up our whole production office in China. He learned Chinese in, in, in half a year.
+
+4 (45m 24s):
+And
+
+0 (45m 24s):
+This was a Dutch guy is a Dutch
+
+4 (45m 26s):
+Guy, 19 years old. But he was a, a handy smart guy, you know, great pusher. And I just needed to have, I didn't need also somebody that was crazy enough to stay there. Right. That didn't have a a a, you know, a family or you know, was tied into, into Europe. So I just needed a smart guy to sort of oversee.
+
+0 (45m 47s):
+Yeah. Alright, so you've got, now you work out the kinks, it's gonna take you about two or two years and you've got your person on site there in China making sure that they're making it to your specifications, but the quality is good. You're happy with the end product. I mean these, it sounds like these Chinese tailors are like, like artisans, like the kind of artisans that might have been in Europe 30, 40 years ago.
+
+4 (46m 13s):
+Yeah. They were phenomenal. I mean, and there still are, I mean the pride of being part of that business and making this product and you know, if, if the head pattern designer wanted to explain something to the team or the whole factory floor, it was silent. They were all sitting around him and listening in all.
+
+0 (46m 33s):
+Yeah.
+
+4 (46m 34s):
+I found it extremely impressive to see, I mean, everybody that discounts Chinese production, you know, it's, it's, I don't think know what they're talking about. In a lot of cases
+
+0 (46m 44s):
+You had, so you had Italian fabrics being shipped to China. That's still your model today. Yeah. And then basically they were cut, the fabric was cut and the the material and the pieces, those cut pieces were sewn into suits in China. Yes. So now you've got this operation going, now let's go back to London. In London you've got the store off Salva Row. But there probably still was in 2008, 2009 a kind of a snobbiness or snootiness about something made in China, a suit made in China that, that some people wouldn't find that to be quality a quality suit. You want it made in Italy or you know, made in London. Even though the manufacturing base in those countries are very low, very small today.
+
+0 (47m 28s):
+How did you convince people that your suits were, you know, a high quality product because the price point was lower. So already there, you know, the sort of the psychology around that is like, well if it's so cheap it must not be good.
+
+4 (47m 41s):
+It started as in London, unlike other stores we opened, it was more of like a drip drip effect. Right. There were a few people that came in that were surprised about the actual product and the actual quality that we're bringing for the price point. And I call it the Heineken effect. And we have a beer brand here in Holland, it's called Heineken. And you know, for us here that is sort of, it's a great beer. Yeah, but it's just beer, right? Yeah. Wells in, you know, any cloud of the
+
+0 (48m 11s):
+Countries, it's a premium beer.
+
+4 (48m 12s):
+It's a very premium beer.
+
+0 (48m 14s):
+Yeah, yeah. That's a good analogy.
+
+4 (48m 16s):
+So the first customers that you're getting are customers that are a little curious, right? They might not be the conformity driven people that are snobby and they're just shopping on several row. I'm not going to get a customer maybe that, you know, once I have this at that moment, this big brand name and say okay about the, I don't know, the $5,000 in Yasu or whatever. But you get the customers in the beginning, Hey, you know, this is interesting. These guys are doing something new that helped us in London a lot. Because on one hand you had these stores that had all these craftmanship and such, but you also had a lot of customers that actually knew good product, right?
+
+4 (49m 1s):
+Yeah. The same as in Italy, the same, you know, you could, people that feel say, hey, this feels like good fabric and they fit it on and say, Hey, this actually really fits, feels good. So they, I think at the end of the day in London, the customer gave us the credibility.
+
+0 (49m 15s):
+I think by 2010 you had 32 stores and I think that was in three countries. So between Belgium, Holland, London, maybe you had one or two other countries still mainly western, all in Western Europe. So you decide, and it makes sense because the, if you really wanna scale your brand, if you wanna be a global brand, you've gotta be in the United States. And so you knew probably already by 2009, 10 that you were gonna eventually get, get to the us That that was part of your plan. I'm, I'm, I'm assuming
+
+4 (49m 50s):
+Yeah. It was the, the, the biggest market, you know, it's everybody wants to be in the US because it's such a buying power. Of course it's also an aspirational thing, right? You wanna make it, you wanna make it there and not just be a European brand. But it was also, you know, everybody was saying it's the hardest market to go into. The US consumer market is so competitive. There's a lot of red tape down there. You know, I, I think the, the amount of warnings that I got for going into the US was almost endless. But I was going there every now and then and looking around and, you know, I thought what we are doing is not really here.
+
+4 (50m 30s):
+And I think at that moment also I felt that the market in the US was, was ripe for it. Just getting it done was seemed so hard, right? Yeah. And so expensive. I mean New York was, you know, London was expensive, but going into New York was a completely different bowl game.
+
+0 (50m 50s):
+And presumably New York was gonna be your first location for obvious reasons. It's the capital of the fashion capital of the United States. And also you could argue it's a suit capital of the US cuz there's so many people in finance and law in New York, men who wear suits to work.
+
+4 (51m 6s):
+Yeah. And New York was the obvious location market, but
+
+0 (51m 9s):
+Also the market most expensive,
+
+4 (51m 11s):
+Most expensive, most competitive I could say. Well, you know, I'm, I'm, I'm just trying to get my feet wet here. You know, I didn't even know if we were actually gonna be successful in the US Right. I just wanted to get started. Right. So to get a little bit of experience, you know, see how many of all these warnings that people were giving me were actually true. And I remember at some point we were, I was walking through Soho and, you know, finding locations and at some point I was looking up because it, I forgot about, you know, being on the ground floor too expensive. You know, it was customers millions in rent a year. I was never gonna be able to pay that
+
+0 (51m 46s):
+Millions in rent a year for one store.
+
+4 (51m 49s):
+For one store that was sort of the ballpark. 1.52 million a year
+
+0 (51m 52s):
+For a lease and you would have to sign a probably a 5, 10, 10 year lease.
+
+4 (51m 56s):
+Yeah. Five years and put guarantees behind it and all that kind of stuff. So we doing okay, but it was not like we were not able to do that. And so at some point, I see this little handwritten piece of paper in a window on a second floor says for lease and you know, go up there. This, you know, there's, there's this sort of furniture store on the second floor and oh, it's a little, it's a little messy. And I called his number and you know, the guy landlord of that building, you know? Yeah, no problem. $250,000. And it, and this landlord was very happy to give me a year lease with a six month break and if I couldn't make it after six months, I could happily walk away $250,000.
+
+4 (52m 44s):
+So, okay. Alright. And, and you know, it was not a shitty space. It was actually a nice spot. Beautiful high ceilings. You know something that could, on the corner of Mercer Room brooms, it was actually a typical Soho loft space of four, 4,000 square feet. And later I found out why this was a handwritten piece of paper and why this guy gave me this deal because he apparently was the landlord from hell and there was no legit broker that actually wanted to work with this guy anymore in the whole state of New York.
+
+0 (53m 20s):
+Why don't we come back in just a moment That landlord tries to stop suit supply from opening in New York, and Foco learns how an infusion of cash actually slows his company's momentum. Stay with us. I'm Guy Raz and you're listening to how I, Hey, welcome back to How I Built This. I'm Guy Raz, so it's 2011, and Foca has decided to open a suit supply store in soho in New York.
+
+0 (54m 1s):
+He's drawing up plans and getting ready to build out the store.
+
+4 (54m 5s):
+And then what happens was our, actually, when you're one of these moments that, you know, you do a lot of hard work and sometimes you get lucky. There was a piece in the Wall Street Journal that did a blind test on suiting, and we got out of that contest with a headline that a $600 suit supply suit was better or just as good as a $3,600 Armani. That was the review they wrote after they ordered some stuff online. We were not even open yet. They just ordered. Okay. We were, we were just shipping already stuffed online to do like, and
+
+0 (54m 38s):
+They just do a comparison and that, that's pretty great. I mean, what a, what a lucky in fortuitous piece of media to get
+
+4 (54m 45s):
+It was phenomenal. Right? And at that moment, you know, our, our website blew up and I'm like, okay, we gotta capture this momentum we got, we can't wait until we have all the permits done. And, and, and because it was gonna take two months to get a permit even and, and, you know, design zone for all the store, we gotta open this store now if we wanna keep this going. So we did a quick design, had furniture made and shipped in a plane. All the lighting has to be done and walls had to be placed in, you know, something had to be done to that store because it was a mess. So we found probably, I know some kind of contractor, but it was probably the equivalent of the Sopranos that was, wanted to do it without permit.
+
+4 (55m 29s):
+So I opened the store, it's almost done. I mean, this is a dream. We're doing an opening, we have all kinds of press coming, you know, I think six, 700 people on the, on the guest list. Some really important people for the industry that we were able to get on the back of the Wall Street Journal article. This was the moment, right? And so two days or before opening, I get a call from this landlord and say, her, and you heard you're gonna open tomorrow. I said, yeah, yeah, yeah, we're all done. I mean, you know, big opening, yeah, you're still don't have your permit closed out, so that's not gonna happen. And I'm like, shit, of course, you know, thought I had everything done and disco Well, I said, don't worry about it.
+
+4 (56m 16s):
+You know, all the permits are getting done, you know, our architect's working on, it's a, according to him self-certified job, you know, some phrasing I heard along the line and it's gonna be done.
+
+0 (56m 28s):
+Yeah.
+
+4 (56m 29s):
+And I said, well, if you can have a way, because we, it's not something you can do. We'll figure it out with my lawyer. Here's his number. Call this lawyer. He says, well, I'm gonna go on a holiday today, so it's not gonna happen. I'm like, okay, this is, we need to find a solution. So I called this landlord back, I say, okay, I'm gonna give you $150,000 as a deposit for me to open tomorrow and for you to align me to do that. And if I close out the permits in two months, find you, gimme the money back and otherwise, you know, it's yours. This guy was having the baddest reputation you could ever imagine. And he tells me, well, how are you gonna put that in contract?
+
+4 (57m 11s):
+I said, I'm not gonna put it in contract. I'm gonna trust you. I don't think everybody, anybody would've has had said that to him in a long, long time. So, you know, I've said, he said, well, okay, I'm thinking I'm never gonna get this hundred 50,000
+
+0 (57m 28s):
+Back. No,
+
+4 (57m 29s):
+But okay, at least I'm gonna have my opening and I'm gonna keep my momentum, which is way more important right now. Well, at the end of the day, we had our opening, we had a lot of people come in. It was fantastic. And, and the guy actually gave me my money back after three months. He
+
+0 (57m 43s):
+Returned the money. When you got the permits,
+
+4 (57m 45s):
+He returned it. But it was essential for us to do it. I mean, if you talk about momentum and that store was, you know, packed from the first moment and we had the first floor and then it was too small, and we got the second floor and the third floor and the fourth floor. And I think now it's, it's six floors.
+
+0 (58m 3s):
+W when you, I mean, one of the things that you were doing from the beginning was having tailors in the stores. And this is like, this is not, you know, it's not like a retail shop where you just have like college students who are trained for, you know, a couple days and then they're selling on the floor. This is like a highly skilled job. So what were you doing to make sure that you had, like were you putting your tailors through training program, you know, before they even sat in the shop pr and presumably they were already qualified tailors, I imagine.
+
+4 (58m 36s):
+Yeah, there's, you know, finding quality staff and training them is, is the hardest part. There is. And you know, in the beginning we were bringing people from Europe and training them and the tailors, but also especially the, you know, our style experts on the store floor. These, these are two different job in our business, right? Somebody is selling it and pinning it. They're doing the measurements and somebody is doing the actual work of doing the alterations and doing the suing. If it's a, if it's a ready to wear suit, that needs to be altered. Now both jobs need a lot of training. Of course you have in a city like New York, you have tailors. So we were able to find them and, and train them into how we want to do the work.
+
+4 (59m 16s):
+We have a relentless high-end training program where we bring everybody to our one week onboarding program. When you finish that, you're brought into a store and you're paired with what we call a style expert. And you're getting for two months more and more and more in, in knowing all the details about style and about measurements and everything about the business. We don't spend the money on advertising. We spend the money on training our people, and we also follow the progress very carefully. We believe our store teams, we always say are our marketing teams.
+
+0 (59m 49s):
+I mean, I'm wondering how do you retain those people? Like for example, I'm in the Bay area, so if I wanna go to the San Francisco store, I can set up an appointment, I can go meet with a stylist or a tailor or whatever, and there's an onsite tailor. And, and we're now, especially in the US and probably in Europe, retail shops are having a hard time not just finding people to work in those stores, but retaining people. So if you're investing all this money and training, how do you keep people, I mean they're, they could get trained and then take off after a few months or a year and then you've sunk all that money in training.
+
+4 (1h 0m 27s):
+Yeah, I think, you know, the, the most important thing is first your selection of people. You know, you gotta, you gotta like your job, right? If you ask somebody at Apple, why do you work at Apple? Right? They're, they're not gonna say, well, how great their benefit package is and what their remuneration. They say, you know, I like to work here because I like the technology, I like the product. I want to be a programmer at some point, or a, or a product designer or, you know, they resonate with the product. It's the same in our business. If you, you would wanna work with us, if you like to dress and style people and make them go out of the world to look good, that's where you get your energy from.
+
+0 (1h 1m 5s):
+Hmm.
+
+4 (1h 1m 6s):
+And then it's about having a path for people, a career path for them. So we, we have what we call the sun and the moon path in our business where the sun and the moon are both very important. And to make sure that we have life on earth. We would freeze the death of the night or we would wouldn't have the tides there wouldn't, would not be a life on, on earth. So we are very clear about always, you know, you want a moon career, you want a sun career. The moon path is the mantra of the moon path is so we can only have eyes for our customers. And these are old jobs that make sure that, you know, everything works, that stuff is organized and stuff is managed and the roster is there and the product is in the store.
+
+4 (1h 1m 52s):
+And so that the other part of the business can focus on only one thing as as, as styling customers and getting people into the door and, and creating attraction. And there we have very specific career paths that are, I think, new or different than other retailers. You can become a style expert in, in, in training other people, but you can also become what we call a key opinion leader where we train you in how to represent the brand on social media or on outside of the store, where you basically become sort of a, I would say a mini influencer, but with a very big difference that you're able to book an appointment with you on the spot on your Instagram.
+
+0 (1h 2m 37s):
+So your style advisors have their own Instagram pages and, and, and have built their own followings. They
+
+4 (1h 2m 43s):
+Built their own following, they built their own Instagram pages. They, we, we work with them to create content. We train them on how to do this. So we build these career paths that are very, one is more operational and one is more creative in creating attraction with customers and creating, you know, looks and style. And that leads into the one path leads, you know, you could say at the end in a ceo. And the other path leads into a brand director position as you know, in the top of the pyramid almost. So to your point, what does retention mean? Retention means that, you know, you have to figure out how you can create growth for these people.
+
+4 (1h 3m 24s):
+So they also have a feeling that it's worthwhile for them to stay with your business.
+
+0 (1h 3m 29s):
+We had a, a couple weeks ago on the show, we had Michael Coors, the fashion designer who turned his talent into a, you know, one of the biggest fashion brands in the world. It's certainly one of the top 50 and yeah, you know, eight, 9 billion business. And he very consciously set out to do that to become like a Tommy Hilfiger or a Calvin Klein brand. And one of the ways he did that was by making sure his products were available everywhere. Your products are only available in suit supply stores. But I have to imagine that in the past and probably even now, there have been people who've come to you and said, Hey, open a suit supply, you know, a little shop let inside of, you know, gallery Lafayette or open a suit supply inside of Liberty or open one inside of a, you know, Bloomingdales and also sell suit supply stuff to department stores and you'll be much bigger if you do that.
+
+0 (1h 4m 22s):
+You'll be a much bigger brand. What's been your reason for not doing that?
+
+4 (1h 4m 27s):
+Well, you could do that and you probably get some money and it, it's, it's very different for different products, right. You know, I think Michael course is very successful in the accessory business and handbags, right? Yes, sure. And you know, if you look at that business and the thing from a service perspective that you have to do is make sure you know, you have a nice product and you have somebody in the store that gets you the, the right hand back from the back of houses and sells it to you. The problem with our product is, and the problem with our business is it is, and I would say the Goldman Sachs of retail, it's so execution intensive to do it, right? Right.
+
+4 (1h 5m 7s):
+You go to our store because you have a dinner, a date, an important event, a meeting or a celebration or whatever, something you know is important for you. So this person that is gonna help you, you know, you gotta have trust with you gotta this persons to develop some kind of relationship with you. Then they have to do all the pinning, right? The measurements right. Then we have to alter it or, or even if it's a custom made suit, make it for you and then it has to come back on time and then we have to fit it again. So this is a very high touch service model that is almost intangible connected to the product itself. You know, if I try to separate the two of them, it's gonna gimme a little short-term success, but in the long term I don't believe that I can separate the two from them and be a very successful brand over a longer period of time.
+
+0 (1h 6m 0s):
+But it's always gonna limit your scalability, right? If you are only in suits of, I'm not saying this is a criticism, I think that's a, I actually like that cuz you can control quality but it is gonna limit how big you can be.
+
+4 (1h 6m 13s):
+I don't know if it actually limits scalability. What it, what it does do it, it underpins sustainability, right? I think with doing that, we can protect the brand. We can protect what actually drives us and what drives us as a brand. So, you know, they always say I, you know, I go to my stores every six months. I'm not saying all the stores, but probably 80% of them. And of course we celebrate everybody's success, but everybody has to name two things that we can do better. Now they always tell me, I'm a focus, you cannot do that when you have 500 stores.
+
+4 (1h 6m 55s):
+I said Okay, well you know, I'll figure that out when I have 500 stores. But I'm pretty sure that the only way to get there in our model is to make sure that we keep control of execution and, and excellence. Cuz otherwise I have to change my model. I think I have to start, if I just put a product in a department store, why would somebody buy our product? And that's something else. You know, the only way of doing that is then start spending huge amount of money on advertising. Yeah.
+
+0 (1h 7m 26s):
+You bought, you bought out your, those guys who originally were original investors who had I think a third of the company, you bought them out in 2015. So now back to being essentially the majority shareholder or at that point, or were, were you the a hundred? Did you own a hundred percent of the company at that point?
+
+4 (1h 7m 45s):
+Yeah.
+
+0 (1h 7m 46s):
+Wow. Okay. Around that year, your revenue, your wo worldwide revenue was about 200 million and you were growing. What I'm wondering about is you are in a business that is, it's a high end product. Your margins are very, very thin because you're trying to offer a competitively priced product. So how were you able to squeeze out more efficiency to make more money from this? Like what were your options?
+
+4 (1h 8m 15s):
+I think at the time, you know, if I look at the business itself, we were in actually too many countries. You know, we opened our business in the US but also we were in Germany, we were in Italy, we were in, you know, our business was inherently inefficient because we were in so many different places. Right. But don't
+
+0 (1h 8m 33s):
+You have to expand? I mean, isn't your only option at that point to expand, expand, expand because your margins were so, so thin?
+
+4 (1h 8m 42s):
+No, I mean, yeah, you have to expand, but you also have to be, you know, careful of how to expand and what you do. And it's, we were able, rates were extremely low. Capital markets were, you know, flooded with cash. You could, you know, borrow cheap. A lot
+
+0 (1h 8m 57s):
+Of money. Cheap.
+
+4 (1h 8m 58s):
+Yeah. Cheap to borrow
+
+0 (1h 8m 59s):
+Money. So you were able to expand by obviously with these low rates and, but you're saying the expansion was not, cuz I would think the, I mean I think by 2020 by before the pandemic had 135 stores, today's 150. But, but you're saying that was not a good a not a good strategy.
+
+4 (1h 9m 16s):
+No, it's a good strategy. No, definitely a good strategy. But what I said is, okay, when those rates were so low and money was abundant, you could, you know, suddenly from a constantly cash strap business, we raised a lot of debt and suddenly we had a lot of cash. Yeah. You know, we've never had like, you know, let's say just a 50 million sitting on the bank account. Yeah. And as an entrepreneur you have endless IDs, right? Yes. You always think, you know, I can do this and I can do that, and then I can do that. And, and naturally that's always circumvented by, you know, not having enough money to do 'em all. Yeah. Right. So this changed. So then I opened, you know, for, okay, let's go full throttle.
+
+4 (1h 9m 59s):
+We opened, you know, we did a year when we opened I think 10 or 12 stores in the US when we only had 10 or 12. Then, you know, at the same point we started, you know, figuring out and opening a women's line and it was few women's stores. Yeah. And we did too much. And instead of gaining a lot of momentum and gaining scale, what happens is that your execution starts to suffer, your momentum starts to slow. And this big snowball that was rolling out of the mountain and accumulating, a lot of that stops and you know, then, then you have to spend a few years of, you know, pushing it back in momentum again.
+
+0 (1h 10m 39s):
+I guess for you that that sort of breaking point item, both for a lot of businesses would would've been the beginning of the pandemic March of 2020. Right. Where because I, I mean you have at that point 135 stores, you've got the, the women's line and all of a sudden your bus, I mean, still you were doing a lot of business online. I think about a third of your business already at that point was online or maybe more, but without the shops. I mean, that's your, that's your identity. That's the the customer relationship. Right. And you had to shut them, most of them down temporarily.
+
+4 (1h 11m 15s):
+Nobody, you get great to be online, but if everybody's sitting at home, nobody needs our stuff. Find suits. Yeah. Nobody's needing, you know, sure. It's suits, whatever. You know, we, by then we've expanded our collection into way more stuff than just suits. Right. We were, you know, in the more elevated casual part of stuff. Yeah. But it's all product that you need if you go out, if you're social. Yeah. If you're having, if you're going on a nice date or a nice, you know, event, those were not happening. So for us it was business was just cratering,
+
+0 (1h 11m 46s):
+Your sales fell initially about 40% in, in that year. Tell me about what you were thinking, because here you've got a business, you started 20 years before that. It was just up, up, up and up and up and up every year. Growth, growth, growth, growth up and up. And then bam, you've got this calamitous year. So the question is, you're in the middle of the pandemic and you're thinking, holy, you know, crap, no one's gonna be buying suits. That's the conventional wisdom. Right? And, and so, you know, it, it would make sense to start thinking, well, maybe we should go into athleisure where, and, and there are examples of brands that really broadly expanded.
+
+0 (1h 12m 28s):
+Did you ever entertain anything like that?
+
+4 (1h 12m 30s):
+No. What we thought about is, you know, what does the new suit look like? Yeah. Is is, you know, people still want to have looks. Right. And, and it's just gonna get a lot harder for them because before it was a blue suit and a white shirt and now it's suddenly now trousers. Chinos white sneakers, white sneakers or slip-ons. Yeah. Or whatever, five pair different styles of shoes. And then you can pair 'em with a, with a polo or a crew neck or a shirt or, and then it's a jacket or you know, the amount of options to go into this elevated sort of replacement of that moment of that dress moment is suddenly endless. So we invented Look builder where you could easily, you know, build your own looks.
+
+0 (1h 13m 12s):
+It's on the website. It's a feature of the website where you could click
+
+4 (1h 13m 14s):
+Play. Yeah. It's a feature. Clearly
+
+0 (1h 13m 16s):
+It's super cool by the way. It's a model and you could just put on different clothes on, on this model
+
+4 (1h 13m 21s):
+And you know, the output of that technology would help us to create, if you're shopping a certain item online, we could also immediately show you five different ways of wearing that item and actually be able to shop that look. And then we came out of the pandemic and we were doing all that kind of stuff. And then on top of that, a lot of people suddenly wanted to dress up and wear suits for all kinds of reasons. So we were selling a ton of suits and on top of that, our whole elevated casual and how we invented that was also extremely successful.
+
+0 (1h 13m 55s):
+You know, I'm curious about the financial side, which is, you, you own, you still own a hundred percent of the company today, right?
+
+4 (1h 14m 2s):
+Yeah.
+
+0 (1h 14m 3s):
+And so I am sure that you get approached or have been approached by investors or private equity or venture folks who are like, look, let's, we wanna buy a chunk of this business. We will, you know, I mean Michael Kors did this in 2004 or five where, you know, some investors came in, bought a part of his business, but then helped him scale it right. To a much bigger place. Your business obviously is big, 150 locations, but would you consider it, would you say, you know what, I'll bring on, well, partners with big wallets, take some money off the table for me and then we can use that money to fuel the growth of suit supply even further. Is that something that you would maybe do?
+
+4 (1h 14m 44s):
+Well, I mean that the, you know, we get these calls all the time. Of course, yeah. And it's always nice to talk to people and sort of to learn about how they look at your business. Right. I mean, you know, that's, that's, but you know, from a personal side, I, I'm happy to say that I made my doll and I, you know, I, I don't have to take money off the table. Right? Yeah. And on the business side, I had these conversations many times and you know, I have to always say is that I ask myself because it sounds great, right? But it's important to understand is why do you like your business?
+
+4 (1h 15m 24s):
+I like to be in control, have the freedom, and in this running, this business takes so much energy. It's 16 hours a day, there's always something going on.
+
+0 (1h 15m 35s):
+You're still working that way, even now, 23 years in 16 hours a day. Oh,
+
+4 (1h 15m 39s):
+A hundred percent seven days a week. Which I'm fine with, you know, if I have, but it's taking a lot of energy. So, and
+
+0 (1h 15m 47s):
+You're almost 50. I mean, not to say I'm, I'm too, you're not an old guy, but that's, it's a long time to work that hard.
+
+4 (1h 15m 53s):
+Yeah. But I'm, I, I, you know, I, I like to put my energy in there and if I, if I, if you lose control or you have to really think about what it would mean if you changed that, if you would still be able to put the same amount of energy in there. I'm not saying we're never gonna do it or we're never gonna IPO the business. Or maybe at some point I think it's good for the business or it's a safer, you know, it's, I mean, I'm, I'm almost 50, you know, I'm gonna, how much, maybe I'm gonna do this in another 10 years. But it's also, you have to think about how we are gonna bring the business into maybe a different, I don't say stratosphere or whatever you call it, but I want to, I want to be able to at least feel that I can attribute the same amount of energy to it every day.
+
+0 (1h 16m 36s):
+Okay. One of the things we, we haven't talked about, cuz it really isn't that much written about you, at least in English, and we've, you know, we do a lot of research on, on all our guests, and so I just don't know much about your personal life. Do you have a family? Do you have children? Did you get married? I mean, were you able to do that? And all of this work over the last 23 years?
+
+4 (1h 16m 58s):
+I have two kids with my ex-wife or was not ever, never married, but my ex-partner in that regard. Yeah.
+
+0 (1h 17m 6s):
+With all that, with all that travel and all that work 16 hours a day, I mean, probably there were some personal sacrifices. I imagine you, you probably didn't get to spend as much time with your kids maybe as you would've liked
+
+4 (1h 17m 19s):
+In the beginning where they were really babies and small and, you know, no, I, I didn't spend a lot of time with them. On the other hand, I, I very consciously spend a lot of one-on-one time on them when they got older and I could do stuff with them and have experiences with them. I took 'em on traveling a lot with me. You know, they, they've, I've, they're not a lot of kids that have been in so many countries. I think before they were eight or nine. They're,
+
+0 (1h 17m 45s):
+Your kids are, are adults now. They're
+
+4 (1h 17m 47s):
+Older right now. They're, my, my daughter is 19 and my son is 17.
+
+0 (1h 17m 51s):
+Either of them wanna work for the business
+
+4 (1h 17m 56s):
+And I think my son wants to be an, I think he, his only choice is also being an entrepreneur because he's so stubborn. So I don't, I don't know if he wants to work in this business and my daughter is, you know, very into design and, and so could be, but one or the two would want, that would be great. But I also have to say that I think the most fun of having a business is being able to build it yourself.
+
+0 (1h 18m 25s):
+So you would encourage them to start their own thing.
+
+4 (1h 18m 28s):
+I would encourage them more to start their own thing than, you know, to start managing my headaches. Yeah.
+
+0 (1h 18m 35s):
+You know, we've talked for a long time and you've had a long time to reflect on, on your story and what you've, where you are today, and obviously it's a really successful brand that you built. But when you think about this story, and I'm sure you haven't recounted it in such detail often in your life, how much of where you are today do you think is, is because of the hard work and the grind you put in, and how much do you think has to do with luck?
+
+4 (1h 19m 1s):
+I think most of it has to do because hard work and doing so much stuff all the time, all over the place. And, and you always think as an entrepreneur, you know, 10 years, I think it's, some days it's gonna be less and and less, but you know, it, it never gets less because you should also start doing, you know, more and more stuff again. And, and because, you know, the luck somebody else said is with the hardworking because you know, then, then you also increase the chances of, you know, getting lucky every now and then. Yeah. Right. If you sit on the couch and nothing happen, you're not gonna get lucky. And also going against the grain a lot of times or following, you know, not the, the usual standard playbooks and not so much from any inherits.
+
+4 (1h 19m 49s):
+We want to be different because you know, you didn't have a choice. You had to be different or you had to be creative to get to an end goal. Yeah, I think that's also the, the, the fun of it. Right. At the end of the day,
+
+0 (1h 20m 4s):
+That's Foca de young founder and CEO of Suit Supply. By the way, you remember how Foca would go into businesses and offer to improve the wardrobe of the workers? Well, suit Supply still offers a corporate service and has helped outfit both male and female staff for brands like Four Seasons, hotels and Omega watches. Hey, thanks so much for listening to the show this week. Please make sure to follow the show wherever you listen on any podcast app. Usually there's just a follow button right at the top so you don't miss any new episodes and it is entirely free. If you wanna contact our team, our email address is h ibt id.wondery.com.
+
+0 (1h 20m 47s):
+This episode was produced by JC Howard with music composed by Rameen era Bluey. It was edited by Casey Herman with Research Help from Sam Paulson. Our production staff also includes Neva Grant, Elaine Coates, Liz Metzger, John Isabella, Carrie Thompson, Alex Chung, Chris Masini, Carla Estevez, Sam Paulson, and Kira Waki. I'm Guy Raz and you've been listening to How I Built This. Hey, prime members, you can listen to how I built this early and ad free on Amazon Music. Download the Amazon Music app today or you can listen early and add free with Wondery Plus in Apple Podcasts.
+
+0 (1h 21m 31s):
+If you wanna show your support for our show, be sure to get your How I Built this merch and gear@wonderyshop.com. Before you go, tell us about yourself by completing a short survey at wondery.com/survey.

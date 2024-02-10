@@ -1,0 +1,284 @@
+0 (0s):
+It's Sky Ross Here. on the Wisdom from the Top podcast. I talk to leadership experts and some of the world's greatest business leaders about how they lead, innovate, and transform the people around them. If you're trying to make it in business or just wanna think more like a leader, this show probably for you. Listen now to the Wisdom from the Top podcast, From Luminary and npr Maybe. You've stayed in an Airbnb before and thought to yourself, this actually seems pretty doable. Maybe, my place could be an Airbnb. It could be as simple as starting with a spare room or your whole place when you're away. You could be sitting on an Airbnb and not even know it. Maybe, your kid is heading off to college in the fall and you'll have an empty bedroom.
+
+0 (41s):
+You could Airbnb it and make some extra cash while they're away. Or if you have a vacation plan for this summer, that could be a good time to Airbnb your entire place. Whether. you could use a little extra money to cover some bills, or for something a little more fun, your home or spare room might be worth more than you think. Find out how much at Airbnb dot ca slash Host are you an entrepreneur or a startup owner? Starting a new business is an exciting journey, but it also comes with its fair share of risks and uncertainties. As a new business owner. you invest significant time, effort, and capital into building your venture business.
+
+0 (1m 23s):
+Insurance safeguards your hard work by protecting your personal assets. Without it. A substantial liability claim could put your personal finances like your savings or your home at risk. Liability insurance also gives you a competitive edge in the market. Many clients and partners require proof of insurance before engaging in business relationships. So visit Zensurance dot com slash save 35 to get a free quote for the low cost insurance protection you need so you can focus on growing your business. Worry free.
+
+1 (1m 60s):
+We can't see tomorrow, but we can hear it tomorrow. Sounds like hydrogen being added to natural gas to make it more sustainable. It sounds like solar panels generating thousands of megawatts, and it sounds like carbon being captured and stored. Keeping it out of our atmosphere. We've been bridging to a sustainable energy future for more than 20 years because what we do today helps ensure tomorrow is on Enbridge, life takes energy.
+
+0 (2m 31s):
+Hello and welcome to How I. Built This Lab. I'm Guy Raz. So when you think about self-driving vehicles, you might imagine something like a robo taxi. You know, a car that can take you to work or school or home from a bar or a restaurant. In fact, If, you live in San Francisco or Phoenix or a few other test markets, you can actually get a ride in a driverless car from a company like Waymo or Cruz. In fact, I've actually ridden in one myself and they are actually pretty amazing. But there is a whole other industry that will be affected by autonomous vehicles as well, and that's trucking, and it's a huge part of the economy. According to the American Trucking Association, there are about three and a half million truck drivers in the us but even with that many workers, there is still a huge shortage of truck drivers in this country.
+
+0 (3m 19s):
+And that's a problem that Chris Urmson believes could be solved by autonomous vehicles. Chris's company, Aurora is building an autonomous driving system that can operate everything from large semitrucks to passenger cars. Chris has actually been working on autonomous vehicles for his entire professional career. He was a founding member of Google's self-driving car program, which is now Waymo. And it all started as an early fascination with science and robots.
+
+2 (3m 47s):
+You know, as a kid I was kind of mesmerized by the space program and shuttle launches and, you know, enjoyed a lot of science fiction and thought robots were neat and built some outta Lego. And then as I was finishing up my computer engineering degree, I saw this poster of this robot crawling out of a volcano, and that had been developed by the folks at Carnegie Mellon. And I thought that was just really cool. And my girlfriend, wife now said, you should apply. And so I did and, and I got in and I got to go study robotics for five years or so. and you know, it's, it's exciting stuff.
+
+0 (4m 26s):
+So you end up at Carnegie Mellon at, at a very interesting time because it was sort of like the beginning of, of the autonomous driving revolution. Most people probably were not aware of that at the time. We now know that, that it was, and I guess while you were there, you started to get into what would become autonomous vehicles. You started to get interested in this technology. Tell me about wh when you first started to kind of see this nascent industry emerging.
+
+2 (4m 57s):
+Yeah, and, and it certainly wasn't then. I, I remember, so I had, I'd been there for a few years and there'd been a lot of research in automated driving for decades before I got to Carnegie Mellon. And it was kind of in a, a bit of a lull. And I was down in Chile in the Aama desert with a robot that we were using to study ways you could look for signs of life on other planets. And my PhD advisor, red Whitaker came down and told me about this DARPA Grand Challenge, which was this robot race from Los Angeles to Las Vegas across the desert. And he said, we're gonna have to make a robot that drives 50 miles an hour across the desert. You know, I was there slow walking behind a robot hoping it would work out in the middle of this desert down there and thought that just sounded awesome.
+
+2 (5m 41s):
+And so kind of shifted the focus of the, the research I was doing jumped into that with two feet. And originally the mission was about how do we keep our young men and women on the supply lines outta harm's way in, in conflict? And that seemed like a, a big deal. And then over the course of three of these defense department competitions, the DARPA grand challenges, you know, it moved from driving in the desert to driving in mock urban environments. And by the, the end of the third one, it was clear that this technology could have a huge impact on, on America's roadways.
+
+0 (6m 13s):
+Yeah, th this first one in 2004, I mean this was like, you know, sort of right in the middle of the Iraq war and, and DARPA was sponsoring all this, all these different kinds of technologies, as you say, to kind of develop autonomous vehicles that could protect soldiers from, from, you know, being in, in, in, in harm's way. That first challenge, 2004, not a single vehicle like finishing one vehicle managed to go seven miles, maybe that was yours.
+
+2 (6m 37s):
+That that was ours. No, and it was still an amazing day, right? So we were stood in the grandstands at this place called slash x, which is kind of a biker bar out in the middle of the desert. And that was where we happened to launch from. And I remember standing there and I was part of the team that launched our robot in the morning, and you see this thing just drive off into the desert, and we happen to have this giant fin on the top of it for some reason, and you could kind of see it over the sage brush. And as it, you know, it left and it drove, you know, 40 miles an hour off into the desert. And it got, like you said, about seven and a half miles out of what was supposed to be 130 miles, I think. And the poor thing got stuck up on a berm. The, the wheels spinning it was, you know, and, and the wheels were just touching the ground, so they were melting the tires and big plume of smoke coming off of it.
+
+2 (7m 24s):
+And so it was amazing one regard, right? To see these things go off and you had this kind of like sending your, your child off to school for the first day where yeah, you know, it's often the desert by itself. And then the heartbreak of the fact that you were hoping it would go 130 miles and we went seven.
+
+0 (7m 40s):
+There was a, a huge leap between what happened in 2004 and 2005, 2005, a bunch of cars finished, you guys came in second to the Stanford team. What happened in that one year to make that leap in technology possible?
+
+2 (7m 55s):
+Yeah, well I think that what was really exciting about the challenges was that it was an opportunity to focus a bunch of research that was happening broadly and kind of bring it together on one mission. If you will. And and unlike most academic work where, you know, the idea is to kind of have the concept and you get the robot to do the thing once and you shoot the video and then it doesn't matter if it ever does it again or if it ever did it before, you've kind of made the, the point here it was truly a race. And so the thing had to be reliable enough that when you kicked it out, the, the chute first thing in the morning that it worked the first time and was off on its way.
+
+2 (8m 36s):
+And so there was, you know, there's a lot of neat ideas we put into it. I think this was the first time where you saw the, the whole conglomeration of what is now a self-driving vehicle. We had lidar radar camera, we had machine learning, we had high definition maps, all this stuff that is now making vehicles kind of come together in a moment to solve this problem. And, and it was still a bit surprising that we, we made as much progress as we did in those years, but there's a lot of, a lot of people kind of worked very hard, you know, and enjoyed the, the thrill of making the thing happen.
+
+0 (9m 9s):
+Yeah, I mean it's, it's so interesting because so many people have gone on to found to start their own autonomous vehicle. Companies have been part of, were part of these challenges. You Sebastian th run, Kyle Vtu started Cruz, Dave Ferguson founded neuro, both of those founders were on our show in the past. What do you think it, it was about those challenges that that just kind of captured the imagination of this cohort of people who you all, who you know, you don't know them. Yeah,
+
+2 (9m 38s):
+Yeah. No, and, and it is, it's one of the great successes I think, of government funding, right? And it's, it's kind of hit that sweet point between out there enough that it, it wasn't kind of a trivial commercial process, but close enough that there was a next step to be taken beyond it. and, you know, it, it was simple to explain, right? We were racing across the desert. It was technologically achievable apparently, but it didn't feel like it on the front end. And I think there was an element of the competition part that was attractive, right? Like, yeah, you know, part of being an entrepreneur is you have to, you know, you have to want to win.
+
+2 (10m 19s):
+You have to have the grit and determination to push through things. And so I think there's, there's some element of kind of the human spirit part of it that, that enabled it to be as successful as it has been.
+
+0 (10m 30s):
+Going back to that time, was it clear to you that this was, this was the future of, of travel, of driving?
+
+2 (10m 38s):
+I would love to say yes, but, but the, the honest answer is not in 2004, 2005, right? It was for me at the time, it started out as, this is really cool. Yeah, right. This is an amazing technology. I get to go drive Humvees in the desert and lasers and cameras and computing. And it was just exciting and interesting and, and very cool. And then as I started to learn about the, the challenges our troops were facing out in the world and how complicated supply lines are, you know, and how vulnerable our troops are while they're operating those vehicles, and how much, you know, we lost more people on the supply line than we did on the front line in, in Iraq.
+
+0 (11m 14s):
+Yeah.
+
+2 (11m 15s):
+And so that became, okay, I get it, this matters. And then the 2007 challenge was a little different. So it was the urban challenge, and here, instead of driving down a trail in the desert, we were driving on a retired airb base, so on the road, and we had to be on our side of the road and, and, you know, got to collaborate with General Motors and Continental for the first time. and, you know, starting to talk to them and, and kind of widening the aperture to start to think about, oh geez, like this is actually broadly applicable and there's a chance here to, to, you know, take a real bite out of the 40 some thousand Americans who die on the roads and, and make it more accessible. Like, it started to really gel and then really became clear to me how important this was and how transformational this will be for society and, and, and for the economy, and how important it is that we actually see this technology make it to market.
+
+0 (12m 8s):
+All right. So before we, you know, sort of go down that, that rabbit hole too deeply, just gimme a sense of, of why, of how you think self-driving vehicles will make our lives better.
+
+2 (12m 20s):
+So when I, I look at self-driving vehicles first, we see the opportunity for safety. 40,000 Americans, one and a half million people killed globally in traffic accidents. It's a pandemic and it's something we can address. And this is the technology that will address that while continue to give people the freedom that they expect and want to be able to move through the world easily and freely. I do expect that we will give freedom back to people who have lost the ability or right to move around, whether it's because of illness or injury or age. There's some people who aren't or shouldn't be driving and, and in our society, If, you can't drive to get somewhere. You become isolated and, and that has devastating social and, and physical impacts on people.
+
+2 (13m 5s):
+So, you know, keeping generations engaged together, I think is incredibly valuable. And we should be able to level the accessibility of transportation that, you know, cars are only becoming more expensive. By providing ubiquitous, highly efficient, clean, safe transportation, we'll be able to level the social playing field for, for, for all of society.
+
+0 (13m 29s):
+We're gonna take a quick break, but when we come back, have Chris Urmson help start Google's secret self-driving vehicle program and why he eventually left that job to found his own self-driving vehicle company. Aurora, stay with us. You're listening to How I Built This lab.
+
+4 (13m 49s):
+Do you spend sleepless nights worrying about being submerged in quicksand, being attacked by an unrelenting swarm of killer bees, or how you'd outs swim an angry giant shark? I'm Anthony at Tamnick and I'm here to tell you to stop worrying and let me an anxious and overly informed comedian be your guide to solving your most worrisome what ifs. Don't panic. A new comedy podcast from Wondery leans into our most absurd anxieties and diffuses them with humor and actual advice for how to deal. Should you find yourself facing your fears, you'll laugh, learn, and possibly sweat profusely. Enjoy. Don't panic on the Wondery app or wherever you get your podcasts.
+
+4 (14m 31s):
+You can listen to, don't panic early and ad free on Wondery Plus join Wondery Plus in the Wondery app or on Apple Podcasts.
+
+0 (14m 44s):
+One more thing before we get back to the show, please make sure to click the follow button on your podcast app so you never miss a new episode of the show. It's usually just at the top of the app and it's totally free. Welcome back to How I Built This Lab. I'm Guy Raz and I'm talking with Chris Urmson, founder of Aurora. All right, so after these DARPA challenges, you were recruited to go work for, for Google by Sebastian Thrum, who was kinda like one of your, one of your rivals during these competitions. He was the head of the, the Stanford team in these DARPA challenges.
+
+0 (15m 25s):
+And I guess he recruited you to come work at Google on the Secret project at the time, which was a, a a an autonomous vehicle project. Tell me about how did they describe it to you at the time?
+
+2 (15m 39s):
+Yeah, so this was 2009 was when I started Google. And so Sebastian and I had been, you know, competing in these challenges and, but you know, it was a friendly rivalry. We all kind of got that this, there was a race, but it was about moving this technology forward and we had talked about doing something together and thought about it a couple of different ideas and eventually Larry Paige had said, Sebastian, you know, why would you do this outside? We, you know, we want to do this at Google, let's put a team together. And so I was there to help, help found the team at Google and it was, it was a very secret project. Nobody knew that we were doing it, you know, because, you know, they wanted to be able to take a risk and try something out there and see how it went.
+
+2 (16m 26s):
+And it, it kind of had this dread pirate Roberts feeling to it when I signed up. They said, you know, you, we, we'll give you two years to go do this and then we'll probably fire you, but you know, it should be fun in the interim. And so my wife and I and our kids moved out from Pittsburgh to, to the Bay Area and at the time it was a very difficult decision because I just joined the faculty Carnegie Mellon. And that had kind of been my aspiration up to that point and like, well, you know, when are we gonna have a chance to go visit with the crazy people in California and were Birkenstocks and, and all that and you know, but it felt like a, a difficult decision and in retrospect it was probably should have been the easiest decision of my life.
+
+0 (17m 5s):
+Hmm. Well, as somebody who's wearing Birkenstock right now, I can say that was a probably a good decision cuz they're great shoes. Exactly. But but seriously, so you, you get to, to Google and, and the challenge is what I mean there you were given a challenge to to to create a fully autonomous vehicle like that can Yeah. Can go on the roads. Like what, what did they tell you they wanted to accomplish?
+
+2 (17m 26s):
+Yeah, so, so one of the brilliant things they did was take the DNA of the DARPA challenges and kind of bring it internally. And so we were given two goals really to drive a hundred thousand miles in public roads and then to drive a thousand miles of very specific roads that that Larry Page and Sergey Brynn had kind of picked out as ways to, to kinda make sure that we had both the, the breadth and depth of performance. And from that we'd be able to figure out like, is this 50 years away or is it five to 10 years away? And thus whether it's worth kind of a, a company spending resources on it. And so, you know, the a hundred thousand miles was pretty straightforward. We, we mapped a part of the freeway in the Bay area here.
+
+2 (18m 8s):
+We had a bunch of cars that just kind of went up and down it and we learned from that and refined it. And, and then the other was driving a thousand miles of really interesting roads where we'd have to kind of push the capabilities so we could really understand like, is this viable? And so it was things like driving around Tron
+
+0 (18m 27s):
+Tron is on a, is sort of a peninsula in the Bay. It's, it's, it's just north of San Francisco for people who aren't, who aren't familiar with it. And it's, it's, yeah, I mean it's a tiny, tiny road that just kind of leads to the town and goes around the peninsula and that's it.
+
+2 (18m 40s):
+Its, it's actually for, part of it is one lane for both directions, which is, which is fun. And then there's another, a road called Page Mill here, which is this windy road that winds out of Palo Alto up to the top of the, the mountains here. And it's a very popular road for cyclists. I ride there pretty regularly, so, you know, a nice breadth of, of different types of roads and driving. And so we ultimately completed both the a hundred thousand miles and this a thousand miles of interest in roads within about 18 months of starting.
+
+0 (19m 11s):
+I mean at the time did you feel like it's just a matter of time, it's just a matter of, you know, maybe a few years before this is normal, this is deployed everywhere, we're gonna see this all over the place? Or did you still think it was a long road ahead?
+
+2 (19m 23s):
+No, I, I think, yeah, it was, it was clear that both were true that this was going to happen and that there was a lot of work to be done. And I think in 2012 I said something about working to make sure that we had self-driving vehicles before my, my son had to get his driver's license. And so we missed that by a little bit and, and I didn't miss by much cuz my younger, my older son still hasn't got his license and my younger son just got his license, you know, two weeks ago. So, you know, I feel like in the grand scheme of things, that doesn't feel like a terrible estimate in, in retrospect. Yep. But you know, what's exciting is that today, you know, in, in Phoenix, in San Francisco, in LA you're actually able to get a ride in a self-driving vehicle.
+
+0 (20m 8s):
+Yeah. I, I mean in, yeah, I've been in one of those vehicles in San Francisco and you see them driving around and it's, it's still quite amazing to see a vehicle with not a single human inside just driving the streets. And of course they're not perfect yet, but they're, it is pretty amazing to see it.
+
+2 (20m 24s):
+It is. And, and it's one of these things that will have a profoundly positive impact on society.
+
+0 (20m 31s):
+All right. So you, you have eventually left Google to, to start your own company. And tell me a little bit about, first of all, what makes Aurora different from your competitors? Cause they're obviously many of their competitors, you know, you've known for a long time Yeah. Who are working on similar types of technology.
+
+2 (20m 54s):
+Yeah, I think when we founded the company, part of the thesis was if we brought the right people together with the right experience and, and the business model and the, the kind of the, the collaborative spirit that we could actually have a bigger impact than trying to build something in isolation and, you know, be a disruptor, quote unquote. And so for us, we're focused initially on trucking. We see that as a gigantic exciting market where yeah, long haul truck drivers, they're 10 times more likely to die at work than, than an average American. And they spend all this time away from home and they don't get to see their kids or their wives or their husbands. And so helping goods move more efficiently, helping that become lower cost over time, we can have a huge impact on while addressing this critical shortage drivers we have and helping the US economy.
+
+2 (21m 45s):
+And, and that's good for all of us. And then we've made some really important technological bets. So one of the core technologies we have at the company is, we call it first light, which is the special lidar technologies. So Lidar is using light, light radar and it allows us to, to see farther than other people can and see how fast things are moving instantly. And so for driving trucks, you have to see a long way down the road and, and first light enables us to do that. And then there's a variety of other exciting ways we've folded machine learning and AI with classical algorithms to make our system really robust and human-like in the way it drives.
+
+0 (22m 21s):
+Can you sort of, I mean, sort of explain the difference between developing a driver that can handle a, a semi, a large truck and a driver that is, is driving a taxi, is it, is it a different type of technology that you have to develop for a, you know, a long haul truck?
+
+2 (22m 40s):
+So If, you think about it upfront, there's a lot of commonality and, and in fact our technology can drive light vehicles and big trucks, but there's, there's a few big differences. So one is if you're driving at relatively low speeds in a city, then you don't have to look as far ahead because it doesn't take you as long to stop and everything's moving a bit slower. Yeah. And then if something breaks, you can basically just kind of stop where you are, kind of move a little bit to the right and everybody's kind of moving slowly. So it's not that big a deal. Whereas If, you're driving a truck down the freeway, it's 65 miles an hour. You have to be looking out 400, 400 plus meters to see what's happening because there's so much momentum and inertia with that, that thing.
+
+2 (23m 25s):
+and you can't just kind of stop in a freeway lane. You have to be pulling to the edge of the road whenever possible and getting out of the way. And so the way we've architected our system is that it can span from the high speed stuff and the trucks down to the light vehicles as well. And If, you think about, you know, If, you wanna become a truck driver, you have to be able to drive a car first, right? So there's a lot of common skills that are used, whether it's understanding traffic and thinking about how to maneuver a vehicle and kind of that, that level of intuition. But there's a an extra chunk of stuff you have to do to move from driving a car to a truck.
+
+0 (24m 1s):
+And, and essentially, and, and correct me if I'm wrong, but I mean you are basically building an autonomous driver that is, you're not building vehicles, it's not vehicle specific. You are building the technology that will essentially could replace a human driver
+
+2 (24m 16s):
+That, that's exactly right. So we, we look at ourselves and we think, okay, the thing we can do best in world is build that driving capability. And there's companies out there that have been at it for a hundred years that build vehicles and they've, they've got a whole lot of battle scars learning how to do that. Well, let's work with them rather than against them.
+
+0 (24m 34s):
+So, I mean, gimme a sense of where your technology is now because so, so we have these different levels, right? Of autonomous driving is like level, you know, 0 1, 2, let's, let's first talk about like level two, which I think is where, you know, cars that have some kind of automation like, like Teslas Yeah. Right? Which are ca like the Tesla calls itself a full self-driving, you know, system or whatever it, it, it calls itself, but it's actually not autonomous, right? It's not designed to drive without a human intervention.
+
+2 (25m 11s):
+That's right. And, and, and there's kind of a really simple way to think about it. So level zero is your, your classic Corvette then it's basically, it's a steering wheel and breaking gas pedal and a clutch and you know, very manual. And then level one and two are systems that are designed to help a person. So there's a person who's responsible for driving and whether it's the Ford Collision Warning system or for Collision assist. So if you're about to hit something, it hits the brakes a little bit before you do or lane keep assist, you know it, a lot of modern cars have these kind of features and yeah, so one If, you have one of them at a time, then it's level one If you have kind of in lane and, and a long lane control, that's level two.
+
+2 (25m 54s):
+And then we'll not talk about level three cuz that's kind of a confusing place. But when you switch to level four and five, instead of the system assisting a human driver, the system is actually driving the vehicle and the human is really along as a passenger. And so for us, the systems we've been building from day one are aspire to be, are intended to be those level four systems. So it does all of the driving. So our trucks will leave our terminal, drive the frontage road, get onto the freeway, drive down the freeway, get onto the frontage road, drive through the commercial neighborhood and pull to their terminal. And they do that end to end. And then we today operate with people on board who are checking the system.
+
+2 (26m 39s):
+They're there in case something isn't behaving the way it's supposed to. And, and, you know, to, to kinda monitor and provide feedback to our engineering teams who are continuing to make that, that system better
+
+0 (26m 50s):
+You. In, in earlier in 2023 you announced that you had achieved, essentially you achieved level four autonomy, that your technology is essentially ready to go.
+
+2 (27m 2s):
+We're, we're a little, little nuanced from that. So what we said was we achieved feature complete, which means that we do all the things at this point. So all of the skills that we, we think the driver needs to have to be able to get from a terminal to a terminal are in place. And so for the next few months we're gonna be focusing on confirming that all the things work the way that we, we expect them to and need to, to be confident in the safety of it and refining in the places where, you know, through that testing we identify shortcomings to get to the point where we're aspire at the end of the, this year to be a ROAR driver ready. Which at that point means yes, it's ready to go. We've kind of met the, the first point where we would be willing to put the truck out on the road with nobody in it.
+
+0 (27m 49s):
+And, and I mean is the intention, and I guess maybe it's not really up to you to decide that, but once you make, you know, sort of have perfected, let's say the technology, it's up to the partners, whether it's, you know, Hyundai or Kia or whoever is using it to decide whether that vehicle will transport goods or, or, or people. Right?
+
+2 (28m 11s):
+Well, Y yes. And the way we think about it is If, you are FedEx who's one of our partners today. What'll happen is you'll call up Paccar and you'll say, I'd like to buy a Peterbilt 5 79, which is, you know, a long haul truck.
+
+0 (28m 26s):
+And PACCAR is the, the company that makes the the the vehicle
+
+2 (28m 29s):
+Yeah. Make, yeah. They, they make the truck and, and we wanna get that truck and we wanna buy it with the Aurora driver installed on it. And so then that'll come into the FedEx fleet and then when the Aurora driver drives that truck, FedEx will pay us for driving it for them is is kind of the way to think about the business.
+
+0 (28m 47s):
+Right. We're gonna take another quick break, but just ahead, Chris talks about the potential challenges of operating an autonomous trucking fleet. And what do I mean for the millions of people who are working as truck drivers today? Stay with us. You're listening to How I Built This lab. Welcome back to How I Built This Lab. I'm Guy Raz and my guest is Chris Urmson, the founder of the autonomous trucking company. Aurora Chris, as somebody who's worked on this, your, you know, your entire professional life now you encounter, I'm sure skepticism now and again, maybe not of course in your day to day work environment, but, but outside of it you do and, and it's understandable, right?
+
+0 (29m 36s):
+Cuz people are thinking, okay, here's a, a semitrucks, right? And it's being driven by a machine and, and I I, I can intellectually I can understand and accept even why a machine will be a better driver than a human. I think they will be. But at the same time, you know, I still think about, well what about, you know, just, just weather conditions or road like the ways that a human driver, an experienced truck driver knows how to operate in, in extreme weather, you know, a horrible storm snow. I just, things that that seem nuanced, can't, I mean the technology can solve for all of those, those variables
+
+2 (30m 15s):
+Yes. Is my, is my expectation. And, and again, I don't wanna oversell where we are today. So today there's limitations on, you know, the weather conditions that we're willing to let the trucks operate in. But I, I think about fog for example. So fog is something that'll, you know, a lot of accidents happen in fog. Yeah. And, and they happen because people operate in, in what I call faith-based driving mode. So they, they look out in front of 'em stands fog, they don't see anyone. They're like, oh, I'll just keep driving at 65 miles an hour. Yeah. And then of course somebody had to slow down in front of them and you get a, an accident and then the person behind them, you know, was doing the same faith-based driving kind of mode and crash in the back of them. and you end up with 120 cars on the interstate.
+
+2 (30m 57s):
+Whereas the way the automated driving system will work, the Aurora driver will understand, I can't see as far as I normally can, that means I should slow down. That means that I will be able to respond in situations where, you know, somebody's had to slow down in front of me because I've got enough distance to stop. And so the, you're taking the impatience, taking the ego outta driving, you know, there's a place for that, right? If you're on a racetrack and you're, you're enjoying the sport of driving, great, go do that. Enjoy it. Right? That's, that's a human pursuit. But the mundane parts of getting from A to B and doing that safely, reliably, efficiently, right.
+
+2 (31m 39s):
+It's a place where we can have a huge positive impact.
+
+0 (31m 42s):
+Yeah. I mean, and I, I always come back to this idea and I know you've, you, you've been asked this a million times and you know, and this is a conversation that comes up, but again, I'm not, I'm not convinced it's the right question, but it still comes back to me because I think it's worth exploring, which is yes, there is a shortage of human long haul drivers. We know that there's a, you, you see these drivers at truck stops and most of them are older, tend to be older men. you don't see a whole lot of young men doing these jobs cuz they're hard and you have to be away from home for days or weeks at a time. But, but at the same time, I i, I still wonder what, what happens when we have a, a world of, of totally driverless long haul trucks.
+
+0 (32m 23s):
+I mean, on the one hand, you know, statistically we probably will be better off fewer accidents, more efficient cars, but at the same time it does, I mean, you are talking about humans who, who, who do these jobs. Yeah. What would those people do instead?
+
+2 (32m 39s):
+Yeah. And I, I think it's, it is really important to acknowledge, right? I, you know, I say this regularly, this is a really important job. It's a really difficult, dangerous job. and, you know, we, we should all be incredibly thankful that there are people willing to do it. At the same time, there's an opportunity to make society better and for these folks to, to ultimately move to, to other jobs. Now, my expectation is that if you're driving a truck today and you would like to retire as a truck driver, you're going to be able to, the shortage of that dire and the opportunity to, to kind of grow the, the freight market is, is real. And so I expect that again, you'll be able to retire trucking and as a truck driver and you'll be able to get a better job instead of having to drive long haul, there'll be more demand for, you know, local haul.
+
+2 (33m 26s):
+And, you know, I, I see a real opportunity there. We're also working to put training in place for the jobs of the future around maintenance of these vehicles. We, you know, we have folks who've transitioned from our operations driving team to working in our command center, which are helping support the remote operation of these vehicles. There's gonna be all kinds of interesting roles around the terminal. So these will be much like the rest of the arc of technological advancement where there's disruption that displaces certain jobs. We almost universally look back on it and say that both increased the quality of life for society in general and actually increased employment.
+
+2 (34m 7s):
+You always have to think about the, the, the human side of this, and you have to have empathy for those folks that, that, you know, ultimately will have to make a change. But I think in this case, the, the ramp is going to be such that they will have the option of whether they wanna make that change or whether they want to continue driving.
+
+0 (34m 26s):
+So I've seen that, that the expectation is that the commercial service will launch by the end of 2024, which is, you know, seems doable, but also ambitious, right? I mean, just because of the, there, there's still probably some regulatory hurdles and also just safety. I mean, what, what you're working on, like, there's just zero room for error.
+
+2 (34m 50s):
+And, and this is where we're really proud of the work we're doing. So we've shared publicly how we think about safety and we've shared this thing we call a safety case, which is how we're gonna convince ourselves that this vehicle is safe to operate in the roads and it, it spans everything from when it's working properly. Does it drive in a way that's safe? If something breaks, does it know about it? And kind of handle that in a way that's, that that's appropriate. Have we thought about how it protects itself if somebody tries to attack it? Do we learn from things that have happened so that we're constantly improving and do we have a company where we have the right procedures and the right culture and, and we're trustworthy to kind of deliver something like this?
+
+2 (35m 34s):
+And one of the things that's really exciting is that we can use simulation tools to test the driver against more events than a, than a person will see in a lifetime. So today one of the things we do is we, we look at all the ways vehicles get into crashes and we build simulations of those and we actually expose the Aurora driver to them. And it's tens of thousands of these things and we see how it responds. And that level of evaluation is something we, we would just wouldn't ever be able to put a human driver through.
+
+0 (36m 7s):
+So by the end of 2024, when, when this is now commercially available, do you expect a company like FedEx to be hauling goods in a FedEx branded truck that is autonomously driven?
+
+2 (36m 21s):
+So today we haul goods for a number of our partners. And so there's an Aurora tractor with a FedEx trailer or a, a Hirschbeck trailer, or a Warner, a Schneider trailer. and you know, we do this with a person in the cab Yeah. Monitoring driver. But we're, we're being paid to haul these goods today. And so yes, our expectation is by the end of next year,
+
+0 (36m 45s):
+There will be no human. Yeah.
+
+2 (36m 46s):
+And you know, the, the way we're gonna launch this is initially it'll be on one lane, which is what you call kind of a trucking route. And that'll be between Dallas and Houston. And then we'll expand likely Fort Worth to El Paso, and then we'll kind of grow the network out from there. Right.
+
+0 (37m 2s):
+And so the difference between now and let's say a year or two from now is there won't be a human in the truck.
+
+2 (37m 7s):
+That's exactly right. Yes.
+
+0 (37m 10s):
+Wow. And so, I mean, when you th when you kind of look out in, you know, in the future, like, I mean you've been in, you've been involved in this now for 20 years.
+
+2 (37m 19s):
+Embarrassingly long. Yes.
+
+0 (37m 21s):
+20 years, right? I mean, yeah. That first competition was 2004 and you were working on it in, in the years before. Yeah. 20 years ago. If you looked out 20 years ahead, you might have imagined things being maybe a bit different. I don't know, it's hard to know. Maybe, maybe there were people involved in that DARPA challenge who thought, oh, 20 years from now, no one's gonna be driving. And I think we've made some in, I mean, people involved in this industry have made incredible innovations. But in, in 10 years from now, I mean, do you think that it's possible that 50% of the trucking fleet in the US will be autonomous?
+
+2 (37m 58s):
+I think that's probably high for 10 years from now, but it's gonna be tens of percent is my expectation in, in a decade.
+
+0 (38m 7s):
+Wow. Yeah. And eventually, I mean, before the end of your life and mine, probably every long haul vehicle will more or less be driven autonomously.
+
+2 (38m 18s):
+I don't know if it's gonna be every, we'll see, you know, I may have a lack of imagination, but I think of, so If, you think about the different kind of trailers you can haul. So today we haul what are known as drive vans. So these, if you've seen a kind of a box truck on the freeway, that's, that's what this is. And then we, we also have recently started hauling refrigerated trailers. So this is a box truck with a chiller on it so that you can ship lettuce or produce without it going bad in the back of the truck. We've also, we, we intend to haul intermodal trailers where it is basically, you think of a box that can lift off of the chassis that has the wheels underneath it. And so those are all pretty straightforward. And then you get into some more complicated things.
+
+2 (38m 58s):
+So liquid tanks, you, you've seen kind of the cylindrical trailers that are on the freeway and those have fluid in them. And so if they're full, then they're kinda like a heavy box truck. But as you start to take liquid out of them, then they can slosh around. And so that one I figure will probably be able to handle. But that'll be a little further down the road. The really most complicated and difficult ones are flatbed trailers. So these are ones where you have a, you know, a piece of equipment, maybe it's a tractor on the back of the trailer and it's tied down with ratchet straps. And for those, the, the driver has to go out and do a bunch of inspection and the, the weight's gonna be kind of weird on it. So figuring out how you can, you know, how you make sure that the safety of that cargo on the back of the tractor is secured, you know, is another leap.
+
+2 (39m 44s):
+I think.
+
+0 (39m 46s):
+Chris, let, let me just a sort of ask you to put on your, your entrepreneur's hat for a moment, because there has to be a significant level of stress knowing that you're essentially overseeing a company, a business that with amazing technology, and I'm, I'm absolutely sure it's gonna work. But one mistake, one accident shuts it down for a while. I mean, I mean, if, if one of these trucks, even if there's a fender bender, it could be, you know, regulators and politicians calling for a suspension of the service. I mean, you're sort of at the mercy of fate in, in a way.
+
+2 (40m 24s):
+I think that's, I think that's right, but there's a lot we can do to help influence that. And we're, we're seeing that it's not quite as dire as you as you're laying it out to be. So I remember back when I was at Google, you know, the first time we had a crash, it made national news. The second time we had a a crash, it made national news. The third time it made local news and, you know, the fourth time people stopped reporting on it. Right? and, you know, it's not quite that sharp a curve, but it's pretty close. And, and so I think that there's a level of transparency we can provide. There's a level of care that we have put into the work that can help insulate from some of that.
+
+2 (41m 7s):
+For example, we were driving on a freeway in Texas and another person was driving a car, they dozed off and sideswiped our truck. Now, fortunately everybody walked away. It was minor damage to the car, minor damage to the, the truck. We ran our protocol for what happens if an event like this occurs. And we informed the, you know, the agencies both state and federal about what happened. We in fact shared a video on our blog about what happened. And we think that level of transparency, engagement will, will help. Unlike a lot of Silicon Valley companies, we have spent a lot of time engaging with the federal regulators and the state regulators, the dts and, and Nitsa and FMCs a these are regulatory agencies at the federal government and helping them understand both the promise and risk of the technology, helping them understand what we're doing, why we're doing it, how we're doing it, and bringing them along on the journey because, you know, they, they have an important, difficult job and the the last thing they need is to be caught flatfooted as, as something's happening.
+
+2 (42m 13s):
+And we think that kind of transparency where people can understand what's going on builds trust and helps reduce the the knee-jerk reaction that could otherwise occur.
+
+0 (42m 25s):
+Chris Herson, thanks so much.
+
+2 (42m 26s):
+Oh, my pleasure. Thanks so much, guy.
+
+0 (42m 29s):
+That's Chris Urmson, founder and c e o of Aurora. Hey, thanks so much for listening to How I Built This Lab. Please make sure to follow the show wherever you listen on any podcast app. Usually there's just a follow button right at the top so you don't miss any new episodes and it is entirely free. If, you wanna contact our team? Our email address is HIBT id dot Wondery dot com. This episode was produced by Chris Maccini with editing by John Isabella. Our audio engineer was Katherine Silva. Our music was composed by Ret Arablouei, our production team at How I Built This includes Alex Chung, Carla Estevez, Casey Herman, JC Howard, Liz Metzger, Sam Paulson, Carrie Thompson, and Elaine Coates.
+
+0 (43m 15s):
+Neeva Grant is our supervising editor. Beth Donovan is our executive producer. I'm Guy Raz and you've been listening to How I Built This Hey Prime members You can listen to how I built this early and ad free on Amazon music. Download the Amazon music app today. Or you can listen early and ad free with Wondery Plus and Apple Podcasts. If, you wanna show your support for our show? Be sure to get your How I Built This merch and gear at Wondery shop.com. Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.

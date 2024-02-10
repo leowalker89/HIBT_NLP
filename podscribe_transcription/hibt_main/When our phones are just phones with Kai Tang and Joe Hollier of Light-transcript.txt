@@ -1,0 +1,275 @@
+wondery Plus (1s):
+Wondery Plus subscribers can listen to How I Built This early and ad free Right. now join Wondery Plus in the Wondery app or on Apple podcasts.
+
+Indeed (10s):
+What's better than finding quality candidates? Finding them fast. With Indeed. you can attract talent interview candidates and hire all in one place. As soon as you sponsor a post on Indeed, you get a short list of quality candidates whose CVS match your job description. Boom, just like that. So start hiring now with a 100 pound sponsored job credit for your job. Post at Indeed dot com slash how I built Offer good for a limited time claim your 100 pound credit now at Indeed dot com slash how I built. Just go to Indeed dot com slash how I built and support this show by saying you heard about it on this podcast. Indeed dot com slash how IBU terms and conditions apply Need to hire you need indeed.
+
+Pipedrive (58s):
+This episode is brought to you by Pipedrive, the easy and effective CRM for closing more deals and to drive small business growth. With Pipedrive. you can track your sales pipeline, manage leads, and automate your entire sales process in one central place so you can focus on selling Plus. Pipedrive is easy to use, it's fully customizable for your needs and produces visual reports for your business. To unlock even more sales success. sign up today and get a special 30 day free trial right now at Pipedrive dot com with the code built terms and conditions for the discount apply.
+
+0 (1m 42s):
+Hello and welcome to How I Built This Lab. I'm Guy Raz. So imagine you're waiting somewhere, right? Maybe you're in the checkout line at the grocery store or at a restaurant and just waiting for the bathroom to open up. And while you wait for a few minutes, what are you doing? I bet there's a high chance that you take out your smartphone and just start scrolling. I do it. I'm embarrassed to say In fact. A recent study found that on average American adults spend almost three hours a day, three hours staring at their smartphones. Of course, smartphones are amazing. They've brought massive convenience to our everyday lives, but they've also let tech companies access intimate details of our private lives for advertising.
+
+0 (2m 23s):
+They've also allowed our work to creep into our personal time off. And of course smartphone use has been linked to an increase in anxiety and depression, especially in children and teens. Well, Kai and Joe Holier looked at these problems and they thought, what if there was a different kind of phone? And so they set out to design a phone that would give people a set of useful functions without the endless stream of social media content and other distractions. They called it the light phone and it has calling and texting, but it also lets you do things like play music or podcasts and get directions. You can take notes on it and set up a hotspot but no apps and it doesn't track users for advertising.
+
+0 (3m 5s):
+It doesn't sell their personal data. It's not designed to keep us glued to the screen. It's actually quite the opposite. The company's tagline is a phone for humans. Anyway, before they started work on the light phone together in 2014, Kai worked in product development on some major cell phone brands including Nokia, Blackberry, and Motorola. So he had experience with actually making cell phone hardware. Joe worked as a filmmaker, animator and illustrator after college. And because both Kai and Joe had design backgrounds, they met while attending a 30 week incubator program for Designers that was put on by Google in New York.
+
+1 (3m 47s):
+The premise was that each of us might come up with an idea for a new sort of technology company, a smartphone app specifically, right? And that if a designer could make the vision of such a product seem real, that would entice investors or developers and engineers that could help bring that to life. Because that's something Google kind of was doing internally and they wanted to see if that was something that they could multiply externally.
+
+0 (4m 15s):
+And presumably like most of the people in this program are like, okay, what kind of app can we build that can attract attention and presumably can make money? I would imagine that's how most people were thinking, right?
+
+1 (4m 27s):
+Well there's a kind of like golden metric that was really what was most important. And that was how many hours a day someone spent with a product. So if you could make something that was sticky, you know, that people would use for hours a day, there didn't really need to be an inherent business model because you could start collecting all sorts of data and selling advertising. And that was sort of the kind of business model that so many smartphone apps in particular had already embraced.
+
+0 (4m 58s):
+This was like the height of that kind of thinking. I think with after Facebook kind of just blew up. People are like, don't worry about how you're gonna monetize, just focus on getting signing up users and then we can make money off them in in different ways.
+
+1 (5m 12s):
+Exactly. So
+
+0 (5m 13s):
+What about this was in 2014 was troubling to you to either of you if if if at all.
+
+2 (5m 19s):
+Yeah, I think it is. That's exactly why we decided to do something different. It was almost nerve wracking watching people use their smartphones in public, you know, in the park, in a train station restaurant. If you just look up, it's al almost bizarre that everyone is touching and staring a little screen instead of, you know, enjoying the conversation making eye contact or actually pay attention to your kids. That's the reason we feel like the goal to maximize people's time, attention and data is just not fair. The reason I quit the job is just because I don't understand why we need to make a new phone every two months, every three months when
+
+0 (6m 5s):
+You, you quit your job as a phone designer because you felt like why are we making a new phone every few months when this last one's perfectly good?
+
+2 (6m 11s):
+Yeah. Like just because there was a slightly better camera that's make a new phone or because we could rotate a phone this way that way. And it's like, but who needs that? And does anyone actually look at how people use it? Like I remember this feeling that my smartphone is the source of anxiety when I look at it. 'cause I know if someone calls me after 10:00 PM there's something bad happen in in other side of the world, right? Yeah. So I just remember this feeling that smartphone being this source of anxiety. Yeah.
+
+0 (6m 43s):
+So you guys are in this incubator program for, for Google and at what point Joe, did you start to think, hang on, maybe there's something else to think about here. And how did you find Kai? Who, who clearly agreed with you?
+
+1 (7m 1s):
+Yeah, I think it was, you know, in the program we were doing user research and asking people about their relationships with their smartphones and no one was saying, I wish I spent two more hours on my smartphone. In fact people were kind of had these, you know, over the top, I almost wish I could just go off the grid forever kind of sentiment. And I found myself as a freelancer checking my email when I was at the beach trying to change a song and seeing some email that I could do nothing about. And I said, you know, why is it that I bring everything with me everywhere? I thought back about, you know, even further AOL instant messenger and kind of dial up computers of my childhood.
+
+1 (7m 42s):
+There was only one room in the house that you could access the internet. Yes. And there was this very clear distinction between online and offline time and I think the smartphones became so ubiquitous that we almost forgot we have the agency to actually sign off from time to time. And when I talked to Kai about the idea, he immediately resonated and it was, you know, kind of felt like something we might be able to do together with his background.
+
+0 (8m 11s):
+Yeah, tell me about the idea. I mean you said to him, Hey let's forget about working on an app, let's build a phone that doesn't distract you. Is that what you said?
+
+1 (8m 22s):
+I mean it was basically like instead of making an app to keep people on their smartphones, well if we make a phone to get people off their smartphones, right? Almost taking the app into the physical sense and you know, Kai's first reaction was, it's really, really hard to make a cell phone. You don't wanna make a cell phone. But we started talking about what this might look like and pitching it to peers in the program with us and we got a really deep polarizing reaction.
+
+0 (8m 51s):
+Yeah. What did they Kai, what did they say?
+
+2 (8m 54s):
+Well it's really interesting is some of them would say this is gonna change my life. And some other group of people would be like, this is why do I ever need that? Right? My smartphone, it's perfect, it does everything for me. There's nothing wrong with my smartphone, right? But I think everyone had a reaction, you either love it or you hate it. And I think that's every designer's goal just to create something that that that actually relates to the individuals.
+
+0 (9m 24s):
+Alright, so you guys decide to partner up and see if you could create a phone that didn't distract you. Once you agreed to kind of work on this, what was your first step? What did you, did you guys start to sketch it out on paper? What it might look like? What did you start to do?
+
+1 (9m 43s):
+Our first step was really actually trying to test the hypothesis that people might enjoy taking a break from their smartphone. So we actually got a couple flip phones and we set up call forwarding for about two dozen people over the course of a couple weeks. And whether it was either a weekend or just an evening would ask them to leave their smartphone calls would forward to this new flip phone, but they would only have access to nine contacts. What we saw from that was pretty amazing, kind of described this initial anxiety like tapping your pocket, checking the flip phone a couple of times every few minutes. But after you know a certain point there's this kind of magical moment where you are present and it's incredibly refreshing and rejuvenating and you know, they described feeling ready to come back to work with a clear head.
+
+1 (10m 35s):
+And then when we actually looked at the flip phones, we realized that no one used them at all. It was really this kind of peace of mind that god forbid there was an emergency, my mom, my cat, you know, partner, whatever, I was reachable. But that the actual value that we brought them wasn't in any one feature. Yeah. But actually in the lack of features,
+
+0 (10m 58s):
+And both of you obviously have design backgrounds and Kai, you literally designed smartphones so you basically knew how you could do this, but you guys decided let's do a Kickstarter. 'cause that's a a, a good way to raise money. You need money to do this. So you launched Kickstarter and you, you got $400,000, you 3000 people back this project. And with that money, what were you able to do? I mean, because I'm thinking you gotta send 3000 phones to people. Wow, that that seems like a lot more than $400,000.
+
+2 (11m 32s):
+Yeah, that's not even enough. Not even a friction that we needed to build the device.
+
+0 (11m 38s):
+So what did you do?
+
+1 (11m 40s):
+Well a big part of the Kickstarter wasn't just the money, but actually the traction that could be used to, you know, inspire partners or investors to see the value in this that people were willing to contribute at such an early stage. And that was a huge momentum push for us.
+
+0 (12m 3s):
+We're gonna take a quick break, but when we come back, Joe and Kai confront some big challenges creating what they call a phone away from phone. Stay with us. I'm Guy Raz and you're listening to How I Built This Lab, New York Times bestselling author Shaa Serrano and Emmy winner Jason Concepcion are back together again this time aiming their high powered microscope at the NBA in their new weekly podcast six Trophies. Jason and Shea cover the biggest storylines in the league by handing out six pop culture themed trophies for six basketball related activities. Things like the Ryan Gosling in Drive Trophy, which is given out to a player or a team that did something incredibly cool that week.
+
+0 (12m 49s):
+Or the Lauren Hill. You might win some but you just lost one trophy which is given out to a player or a team that tried something but it didn't work out that great for them. Or the Walter White Tread lightly trophy, which is given out to a player or team approaching dicey territory kickback as Jason and Shea recapped the top happenings from around the NBA through their lens of movies, music and more. Follow six trophies on the Wondery app or wherever you get your podcasts. You can listen to six trophies ad free Right now on Wondery Plus. Hey, while we're taking a little break here, I wanted to tell you about an episode of How I. Built This we released a couple of weeks ago about the company BioFire. After looking into the data engineer and founder Kai Klopfer discovered that two-thirds of gun deaths in America are due to accidents and unauthorized use by children and teens.
+
+0 (13m 39s):
+Now his company, BioFire, has created the world's first handgun with an electronic firing system that unlocks instantaneously upon fingerprint or facial verification. And then most importantly, relock once the user, lets go of it, the idea is by no means new. So in this episode I spoke with Kai about what makes his technology so groundbreaking and a little bit about the evolving US gun market. You can find this episode by following How I Built This in your podcast app and Scrolling back a little bit to the episode, A biometric smart Gun with Kai Klopfer of BioFire or by searching How I Built This BioFire, that's B-I-O-F-I-R-E wherever you listen to podcasts.
+
+0 (14m 21s):
+One more thing before we get back to the show, please make sure to click the follow button on your podcast app so you never miss a new episode of the show and it's totally free. Hey, welcome back to How I Built This Lab. I'm Guy Roz. So it's May of 2015. And Joe and Kai's light phone has generated a lot of interest and backing on Kickstarter and with that support, it's time for them to take their design from the drawing board and figure out how to make it real.
+
+2 (14m 56s):
+Yeah, so we, I think we started by just getting phones from Amazon or Alibaba and break it apart and try to, you know, Frank stand build a phone that looks like what we are trying to do, So that we have a physical prototype we could show suppliers as well as our investors. And the crowdfunding campaign was really helpful for our suppliers to understand what we trying to do and how many people or is there a market for this kind of product. Yeah, you know, suppliers was like investor. Yep. You know, they could build any out of product with their capacity, but they have to decide, okay, I'm gonna, you know, take a shot with life phone.
+
+2 (15m 43s):
+So getting the first couple suppliers on board were really critical for the product manufacturing.
+
+0 (15m 51s):
+Describe that first light phone. I mean what did it, what was the promise? What would it do?
+
+1 (15m 56s):
+We called it your phone away from phone. Right, okay. And the idea was that it wasn't necessarily trying to replace your smartphone, but to just say, hey for you know, a couple of hours a day or maybe for a weekend or you know, while working on a a certain project you might want to go light. What that actually meant was that the original light phone was a simple two G cell phone that had its own sim card and we made software that would kind of make it seamlessly feel like it was your, an extension of your smartphone number. Your calls would forward to the light phone and when you called someone it would display as if the call was coming from you and it would allow you to leave your smartphone behind and just take the phone aspect out of the phone.
+
+0 (16m 43s):
+Okay. So you start working on it and this is not, I mean this ends up taking quite a long time. Did it take longer than you had anticipated to actually develop it and then deliver it to the Kickstarter backers?
+
+2 (16m 58s):
+Yeah, for sure. I think we estimated a year and a half. I feel like it took us almost two years to actually get the product out, which we appreciated that people were being very patient with us
+
+1 (17m 14s):
+Mostly.
+
+0 (17m 14s):
+And, and so when you finally delivered these phones, I mean there was mixed reaction to them, right? Because it was in a two G network originally and there was some challenges with it. Right,
+
+1 (17m 26s):
+Definitely. I mean, aside from any technical challenges, it's quite the ask for the end user. So I think what we saw a lot of was almost like a gym membership where someone wants to go light but is struggling to actually integrate that kind of experience into their day-to-Day life.
+
+0 (17m 45s):
+So this phone comes out in 2017, January of 2017, and you ship I think about 15,000 units before you had to kind of put a stop to it and there was a waiting list, like people were actually even selling some of these on the secondary market for like two, three times the price.
+
+1 (18m 3s):
+Yeah. And that whole time we were taking pre-orders, which was wow. You know, help keeping our lights on. And we were incredibly grateful that people would be willing to spend money for a phone that might not be delivered for one to three months, depending on where we were in that kind of timing.
+
+0 (18m 20s):
+And that $400,000 that you raised, I mean, did that take you all through this period of time or did you have to seek other sources of financing?
+
+2 (18m 30s):
+It took us to the first stage, which is paying our suppliers to do the design work and getting samples built. I think we needed 2 million more just to actually go through the process. So we raised money from the mission aligned investors along the way Yeah. To help us deliver.
+
+0 (18m 52s):
+And clearly this was gonna be just the first iteration. I mean, you, you clearly had ambition to make a more sophisticated phone and that would be the light phone two. And in 2018 you launched another campaign this time on Indiegogo for the light phone two and that one raised about three and a half million dollars. What did, what did the light phone two, what was that phone going to be able to do?
+
+2 (19m 17s):
+Well, I think we learned so much from the first light phone. Our users were telling us that they wanted to go light more often, meaning use light phone more often, but they don't have Uber. They want text message. They want this one or two more things to make that experience more enjoyable or have that peace of mind knowing to have those tools. I think that's when we started to revisit our philosophy saying that, hey, you know, the goal originally was trying to give people that peace of mind so we could break away even just from time to time. So what if we offer our users couple more utility tool if that enables millions or more people try light phone.
+
+2 (20m 5s):
+That's what we wanted to do.
+
+0 (20m 6s):
+So tell me about what this phone does. The light phone two,
+
+2 (20m 10s):
+It has phone call, you can send text message, you can write text message now we have music MP three player podcast. You can get simple direction. We have hotspot as well as calendar and notes. You could take text notes or a voice memo.
+
+0 (20m 30s):
+And so I guess eventually you'll be able to like hail an Uber with it. Hopefully
+
+2 (20m 35s):
+Lyft, a ride sharing tool is something that we, we trying to do, but that requires, you know, the ride share company to collaborate with us.
+
+0 (20m 44s):
+So tell me a little bit about, I mean, building a phone company, it's not, this is not easy. This is a huge challenge and you are basically saying to people, look, smartphones have taken over our lives. We're losing our time and our attention to these devices. And so you've gotta convince, you know, a certain number of people to adopt the product, but you have to build them too, which requires a lot of money. And I guess over time that was became an sort of a focus you had to raise more money to make these phones, right?
+
+2 (21m 16s):
+Yeah, yeah. We, we, we gotta raise a lot more money than we originally planned just to make the light phone two.
+
+0 (21m 22s):
+So when you told investors about this idea, how did you convince 'em to back you? I mean, presumably some of 'em were like, well I don't think people are gonna gonna use these things.
+
+1 (21m 33s):
+I mean there's definitely the concern about is this just a niche product? Is this, you know, does there any actual mass market adoption? I think anyone that's been in interested in investing in the light phone does feel morally. There's something really beautiful going on with light phone and that we have this sort of honest and transparent business model that's so kind of unique.
+
+2 (21m 55s):
+As a matter of fact, one of our investors from foxcom, the company that make iPhone and Samsung, so we were in the meetings explaining what life phone is, what life phone's trying to do.
+
+0 (22m 8s):
+Yeah.
+
+2 (22m 9s):
+One of the executive from Foxcon was saying, guys, I need this phone. My, my families are pulling apart they smartphone. My kids don't talk to me. You know, we all on our phone on a dining table, you know, I need this phone. And I think that emotional connection drove a lot of investors to us because of the business model that every app, every social media are deploying. Doesn't matter what you do, doesn't matter what product you're trying to create, as long as you're making money from advertisement or user's data, there's no way out. You will have to maximize their attention and time.
+
+0 (22m 52s):
+You know, one of the things I struggle with because obviously, you know, for, for people who feel like their phones have kind of come to control them, and I think a lot of people listening feel that. And I certainly have days where I feel like that. But on the flip side, like I just, I think about yesterday I went to San Francisco to have lunch with a friend and I hailed an Uber and then I looked at a map app to see how long it would take me to get there. Then I got to the restaurant a few minutes early. So I checked my Gmail quickly, answered a couple emails, so it was like time efficient. And then cha, I, I had to, my wife texted me and needed me to transfer some money in our bank and I did that for my phone.
+
+0 (23m 33s):
+And on the one hand, 10, 20 years ago, I couldn't do any of that. And maybe probably I, I stopped to notice things around me more for sure. And I think there are elements of the world we lived in then that were better. But on the other hand, there's incredible efficiency. And so I have to wonder that we've just gotten to a point in human history where these things kind of won. Well,
+
+2 (23m 59s):
+We're not disagreeing that smartphones is efficient and it's a very helpful computers that help us do things. But at the same time, Joe and I, we're not asking people to give up technology. Yeah. All we're trying to say is that we should have options. We should have tools that intentionally design designed just like hammer or screwdriver. You use it, you put it back, and you don't think about your hammer 24 7. You don't hold your screwdriver and swipe your screwdriver for five hours a day. Right. Why can't we reimagine the mobile device that does not have the components of, you know, attention economy, but has all the modern utility.
+
+0 (24m 50s):
+When we come back after a short break, more from Joe and Kai about building their minimalist smartphone, the light phone. Stay with us. I'm Guy Raz and you're listening to How I Built This Lab. Hey, welcome back to How I Built This Lab. I'm Guy Raz. My guests today are Kai Tang and Joe Holier. They think that we need to redefine our relationships to our smartphones, which is why they built a minimalist version of a smartphone. It's called the Light Phone.
+
+0 (25m 31s):
+There was a, there this is, now I'm sure lots of people listening know about this, but there was a famous study probably 20, 30 years ago, it was a study into memory and it studied London cab drivers. And you may know about this study Definitely. Yeah. But London cab drivers had remarkable memories. And that's because there was a time where to be a cab driver, and maybe even to this day, you have to, I don't know you to memorize every street in London. I remember in the nineties you get in a cab, you would just say a street and the driver would know. And you know, I, I drive to like, on the weekends I go hiking and I still use my GPS app to tell me where to go. And I'm going to the same places.
+
+0 (26m 11s):
+And I thought about this recently, I thought, I can't believe that I'm relying on the GPS. It's kind of scary 'cause I've been there a hundred times.
+
+2 (26m 18s):
+I, I definitely think we are losing some brain muscles with the technology we have. Like, I don't even remember my parents' phone number or my girlfriend's phone number. I don't, I can't remember phone numbers. And we rely on GPS to go everywhere, even just a couple blocks away. You know, maybe it's a good thing. Maybe this boring task that's being replaced by technology is a good thing for us. That we could live our life better or we could like, you know, actually talking to our friends while the computer is doing those, those things. Right. But that's not what's happening.
+
+1 (26m 54s):
+Kai, do you
+
+0 (26m 56s):
+Exclusively use a light phone?
+
+2 (26m 58s):
+Yes, both. Joy and I use light phone exclusively. We do have our iPad or computers for everything else. So it's a separate tool for different purpose. Yeah. If I know I need my iPad to do things that life phone doesn't do, we will carry that tool with us. But other than that, like commuting, taking a walk down the street or having dinners, I'll just bring my life phone.
+
+0 (27m 23s):
+Tell me about, you know, I know you've raised up, up to I think about $11 million in total. Is that, is that right? Yes. Tell me where, where the company is now. I mean, you know, it took Tesla 15 years to get to hit profitability. So to Rivian and some of these other Electric car companies that won't hit profitability for another 10 years, probably. I have to assume that you're not yet profitable.
+
+2 (27m 46s):
+We are breakeven at the moment with the sales from our website, with the support from our users. We don't do advertisement. So all the sales are word of mouth and play phone. It just becomes such conversational piece to a lot of our users that if you have it with you, you know, usually people ask, Hey, what's that? You know, what's your smartphone? Why don't you use a smartphone? Right. So the whole conversation becomes why I don't, I don't use smartphone. What's the problem? You know, and what's the relationship between us and technology?
+
+2 (28m 26s):
+And, and in our website, sales is sustaining our operation and our r and d at the moment, we do have investors that's supporting us, but we trying to keep it as private as we can and stick to our agenda and our value and yeah.
+
+0 (28m 45s):
+Where do you see the most potential for growth? I mean, I know that there was like a, there's a school in Massachusetts I think that that banned phones and then they basically said, okay, everyone can have a light phone. Is there a, a sector, a category of people in particular who you think, where you see growth for this product?
+
+1 (29m 3s):
+I've been really pleasantly surprised by the wide kind of range of users that have found value in something like the light phone. Yeah. We get a lot of families not just buying it for their kids, but actually like the parents. Maybe they, they have like a newborn wanting to be more present in a better role model. We have celebrities that are buying the phone as something to kind of keep some separation between them and the internet at large. We have a lot of artists and musicians that see it as a kind of like peace of mind space for their own practice. And then, yeah, this recent school has been a really inspiring new angle because we've had dozens of schools in conversation since about promoting a similar kind of policy or at least trying to make it more accessible.
+
+1 (29m 54s):
+And actually the Buxton School was a kind of an amazing case study for us.
+
+0 (29m 59s):
+This the school in, in Massachusetts,
+
+1 (30m 1s):
+It's a small private boarding school. And I think what was really amazing was that they banned smartphones for the faculty as well as the students. Hmm. So. that there was this kind of like level playing field. It wasn't just like do as I say, not as I do. And the s it, the school just saw fantastic results. Especially when it came to things like mealtime. I think, you know, the classroom was pretty expected that, you know, with people being more attentive. But I think the real magic was seeing kids integrate and mingle in mealtime and around the campus.
+
+0 (30m 36s):
+Is there a world where the next iteration is it has the same features but maybe adds a camera, not a camera that's gonna go to social media, but just a camera to take photos?
+
+2 (30m 47s):
+Yes. I think that's part of our plane. So camera is a great tool to capture a moment to, yeah. Documenting your life or even just a receipt, right? I think that's a very useful tool. If we do have a camera in life phone, it will be a tool that allows you to capture those moments. But we will not allow sharing or commenting or liking to be part of that experience. 'cause you know, if you take a film camera, you take a photo, you don't thinking about sharing or where to post that photos. Right? That's a great tool and we, that's kind of inspiration of how we think a camera might work with iPhone.
+
+1 (31m 33s):
+Yeah, I think the thing we want to avoid the most is when you see someone at a beautiful monument or you know, an overlook on a trail and they take the photo, but it's almost as if they didn't even see it with their own eyes. Because now they're looking down trying to put the right filter, the right caption. And it's one thing to capture that moment for seeing it and remembering it. But if you're not present when you're taking the photo, I think that's missing the point.
+
+0 (31m 60s):
+How many people work for the company now?
+
+2 (32m 2s):
+We have around 15, employee
+
+0 (32m 5s):
+15. And so you, and you do no marketing at all. It's entirely just word of mouth.
+
+1 (32m 10s):
+We do a lot of projects and initiatives, but what we don't do is spend money on Facebook meta platforms or Google, you know, ads. It's really about things that our users can help spread making videos or we recently just did a campaign where we made a fake company called The Alliance of Big Tech and we used that to kind of say, do not buy the light phone for all of these reasons. And we sent about 700 shirts to some of our earliest users, a kind of great grassroots way to start a lot of conversations about the phone. And I think as Kai kind of mentioned before, the conversations about the phone, whether or not someone immediately purchases it, it's not just like, how does it work?
+
+1 (32m 58s):
+You really start to talk about the internet at large and what it means to be a human in 2023. And they tend to stick with people. So a lot of our new users have heard about the light phone for three or six months or even maybe longer. And so a lot of our marketing is just kind of feeding them more anecdotes, more examples of how other users have fitted into their life to make that less intimidating of a jump.
+
+0 (33m 23s):
+You know, we, we talked about how you launched this phone in in, or the idea came in 2014 when this problem of this sort of attention economy was clearly it was already a problem, but very few people were thinking about it at the time. And you know, over the last few years, movies like the social dilemma, documentaries about the attention economy have come out. There's more attention being paid to it, but the problem is worse. So let's sort of fast forward 10 years from now. I mean, do you think that something will change? I mean, will there sort of be a groundswell of action by like Gen Zers who are like, no, we're, you know, we're not taking this anymore. We want our attention back and we're gonna not buy smartphones.
+
+2 (34m 4s):
+It's funny you mentioned Gen Z 'cause that's actually one of the biggest surprise to me. I originally thought that our user will be, you know, older generation or my generation 35 to 40. But no, it turns out like 75, 80% of our customers are Gen Z. A younger generation who are really brave to say no and willing to give a try. And 10 years down the road, I think smartphone is just a glitch. Our behavior with smartphone right now is, it's just not normal in my opinion. You know, technology needs to be invisible.
+
+2 (34m 45s):
+It shouldn't be the focus of our life every day, 24 7, wake up with it, sleep with it, go to the bathroom with the smartphone on hand and ignore your family and friends. And then you know, the tree, the cloud around us. And I think eventually a lot more people will be looking for a different option.
+
+0 (35m 13s):
+That's Kai Tang and Joe Holier co-founders of the company Light and creators of the light phone. Hey, thanks so much for listening to How I Built This Lab. Please make sure to follow the show wherever you listen on any podcast app. Usually there's just a follow button right at the top so you don't miss any new episodes and it is entirely free. If you wanna contact our team, our email address is HIBT at id dot Wondery dot com. This episode was produced by Casey Herman, with editing by John Isabella, researched by Alex Chung and music by Rum Arablouei. Our audio engineer was Neil Rouch, our production team at How I Built This includes Alex Chung, Elaine Coates, Carla Estevez, JC Howard, Chris Masini, Liz Metzker, and Sam Paulson.
+
+0 (36m 3s):
+Neva Grant is our supervising editor. I'm Guy Raz and you've been listening to How I Built This.
+
+wondery Plus (36m 12s):
+If you like How I Built This, you can listen early and ad free Right now by joining Wondery Plus in the Wondery app or on Apple podcasts. Prime members can listen ad free on Amazon Music. Before you go, tell us about yourself by filling out a short survey at Wondery dot com slash survey.

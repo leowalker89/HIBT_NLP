@@ -1,0 +1,245 @@
+0 (1s):
+Hey Prime members You can listen to how I built this early and ad free on Amazon. Music Download the app today. It's Sky Ross here on the Wisdom from the Top podcast, I talked to leadership experts and some of the world's greatest business leaders about how they lead, innovate, and transform the people around them. If you're trying to make it in business or just wanna think more like a leader, this show's probably for you. Listen now to the Wisdom from the Top podcast. From Luminary and npr. As an entrepreneur. You don't just create things and make content. You embody a lifestyle. Shouldn't your website embody it too? Well A Life URL is a polished and personalized place for your business.
+
+0 (43s):
+A life domain is unique and memorable. Just like what you're building, life gives you a URL with a point of view as strong as your own. And name.com makes it simple to find the right domain and connect it to your favorite products. Own a web address that's as inspiring as your content Get a life. Learn more at name.com/life and use promo code built 25 for 25% off the first year of your life domain. This episode is brought to you in part by Microsoft Clarity to build a successful product. The biggest advice I give to product teams is to know your users by seeing how users truly experience your product.
+
+0 (1m 26s):
+You can identify product opportunities and prioritize changes that matter. Microsoft Clarity makes all of this possible with simple yet powerful features. Watch session replays to discover what works with users and where they struggle. View heat maps to see where there's engagement and what content gets ignored. Pinpoint what's really bothering users with frustration Metrics like rage, clicks, dead clicks and more. You'll be blown away by how simple and easy Clarity is to use. So stop guessing, get Clarity. Oh yeah, did I mention it's completely free and works across apps and websites? Check out Clarity at Clarity dot microsoft.com.
+
+0 (2m 7s):
+Hello and welcome to How I Built This Lab. I'm Guy Raz. Right before the pandemic I joined my son on a school field trip to a recycling center in the Bay Area here in California. And I was really surprised to see how it works. There was a giant conveyor belt of glass and plastic and paper all mixed up in a row of people sorting it as fast as they could. And while the workers were amazing and fast, there was a ton of stuff that was inevitably left behind and not recycled in the us. The E P A estimates that only a third of all waste actually gets recycled. And one of the main reasons for this, well, most recycling facilities just aren't equipped to sort through all the materials they receive.
+
+0 (2m 54s):
+My guest today, Matanya Horowitz, launched AMP Robotics in 2014 to tackle this very problem. The company uses artificial intelligence and robots to sort through waste more efficiently, which means recycling facilities across the world are able to actually recycle more of the material they received. Matanya studied Robotics at Caltech and it was there where he discovered deep learning. It's a method in artificial intelligence that enables computers to process data like the human brain.
+
+1 (3m 27s):
+You could just start to see that machines were going to be able to see as well as a person for the first time in a very kind of fundamental and true way. And so, even though that wasn't my focus area, I was like, oh my gosh, this is gonna be massive. So I, I started focusing on that. I started studying it and after graduating I was looking for areas where I thought it could be useful. Cause I was like, this might be the next mobile phone sort of wave. It could be the next internet, I don't know, but I just know it's gonna be a big deal.
+
+0 (3m 54s):
+Alright, so you're seeing the, the beginnings of what will and is already starting to revolutionize industry in the US and even consumer products. And you get your, your PhD from Caltech in 2014 and with obviously a lot of experience working in Robotics. So you start to explore, Hey, what could I do? What, where can I actually make a contribution? And of course, we know you end up in, in the sector of recycling, but, but how did you come to that?
+
+1 (4m 25s):
+So I, I wish I had a story that was a, about me really being an expert in recycling or maybe I saw a plastic bag blow across the road and it made me sad or something. But I, it was a very academic process. I I, I said to myself, okay, you have a machine that could see roughly as well as a person. What does that open up? There were different things in drones. I was pretty interested in. I had an idea for a drone you'd kind of throw in the air and it would follow you and create kind of like a highlights reel. You could throw it in the air while you were
+
+0 (4m 54s):
+Snuggling. Oh, I want that.
+
+1 (4m 55s):
+Yeah. You know, I, I think somebody actually went ahead and did that. And I saw that you'd have to graze a lot of money for drones. It seemed like it was getting very crowded. So this is around 2013, 2014. I started researching a couple different industries, but I visited a recycling facility in Los Angeles. And if you've ever visited a recycling facility, you'll see that the main task is people standing around conveyor belts sorting through material by hand. Yeah. You have people picking bottles, cans, cardboard, paper. It's a tough job. It doesn't smell great. And the turnover's very high. People don't kind of put their, their full heart into the job.
+
+1 (5m 36s):
+And so the material quality is lower than it needs to be. and it was really clear that this is a, an industry where Robotics could really have an impact. and it would talk to the recycling facility owners and managers and they would say, this industry absolutely needs robots. I don't understand why we can't get robots. And with a vision system and technology, they could see roughly as well as a person. Now you could bring that tool to this problem.
+
+0 (6m 1s):
+Yeah. Y you know, I wanna just step back and, and talk to you about recycling. Only about 60% of American households have access to like curbside recycling programs. Right. You know, for most of us, we just dump it all into one bin, you know, all recyclables or maybe you sort paper and then, and then everything else cans, glass bottles, and then it gets dumped into a facility. I've been to one, I went to one in Berkeley, California a couple years ago and was amazed because it is a conveyor belt and there are humans just sorting things out on the conveyor belt as it passes by. And a lot of things just naturally don't get sorted or, you know, like a a a bottle gets tossed in with aluminum.
+
+0 (6m 42s):
+I mean, it's just gonna happen. And these facilities are just super inefficient and I was kind of surprised learning that only about 35% of waste is recycled in the US even though much more of it is recyclable.
+
+1 (6m 59s):
+Right, right. Well there's a couple kind of core challenges to the industry that, that you're hitting on. You know, one of the main one that we're making a big impact with is, is technical. All this material you put in the recycling bin, it gets smashed, it gets folded, it's dirty, it's torn in different ways. And so you have this huge stream of material that is inconsistent and that inconsistency makes it very hard to separate. The core task of the industry is to separate out these different commodities. Yeah. You wanna get all the number one plastics in one spot, the number two plastics, but if they're smashed up, if they're folded and they're kind of mushed together,
+
+0 (7m 34s):
+It's hard to know what's what
+
+1 (7m 36s):
+E Exactly. And that core technical problem is what's made the industry so reliant on, on people. The second problem is really a, a problem of incentives. If you can separate material out, is it gonna be worth separating out? Can you sell it for a profit? And because of the need for all of this manual labor, what you find is for a lot of materials, it may not be profitable to actually recycle them, which is unfortunate cuz what you find is the vast majority of materials can be reused or recycled in some way. But for many of them, you know, the two thirds of material that isn't getting recycled today, that incentive isn't very strong. And so you, it's hard to build a
+
+0 (8m 13s):
+Business. In other words, it's not strong because the cost, particularly the labor cost of recycling all the stuff is sometimes higher than the price you get Yes. For selling recycled materials. Right.
+
+1 (8m 26s):
+Yeah. Well, and to give you a couple figures that I think are helpful, most of these materials, they live in a commodity market. So, you know, oil goes up and down, plastic goes up and down. So sometimes, you know, just by virtue of what the economy's doing, recycling becomes a better or worse business. You know, setting aside any technology like, like what we have. Yeah. But some rough figures here are that the recyclables you put in your recycling bin, depending on that commodity market, are probably worth about a hundred dollars per ton. And that's real value. Like you can Yeah. Pull out that plastic and, and sell it. The trouble is, is that the cost of running it through a recycling facility ends up being about a hundred dollars a ton. Depends on how modern the facility is Wow.
+
+1 (9m 8s):
+And these things, but you're kind of at this point where it's a little bit more marginal. But what you can see is if with technology you can bring that cost of sorting down to $50 a ton or $20 a ton. And also if you make it worthwhile to sort more materials that a hundred dollars a ton of value can become more like one 20 or one 40 either by purifying the material or being more specific about what you separate out. Yeah. And now recycling starts to become this phenomenal business. Wow.
+
+0 (9m 34s):
+Now you've sort of incentivized more recycling, so a significant amount of material is recycled, but, but it's only about a third and there's a lot that is thrown away. And plastic in particular, I think is problematic because not only, as you mentioned, not only it does it, its its price go up and down depending on the price of oil. Sometimes it's just cheaper to make virgin plastic than it is to recycle it. But plastic also degrades after several uses, like recycled plastic over time becomes toxic essentially.
+
+1 (10m 8s):
+Well, yeah, there's a, there's a whole bunch of different kind of issues around plastic. You know, the, you know, the one that I'm most focused on personally is sort of plastics in the ocean, and how do you really keep all these plastics from getting there? Yeah, yeah. And it's an interesting story, but you know, all of these challenges around plastic, the, the real hard part about it is it's kind of matched with plastics being this wonderful material. Like it's, it's so strong, it's so lightweight, can keep our food safe. And so, you know, as I see it, the most important thing that you know we can do is we make it so that the world tries to capture that plastic and get value out of it so that we can make sure it's properly handled and doesn't make it into our environment and into our, you know, food or, you know, whatever.
+
+1 (10m 53s):
+And what I get most excited about over the long term is if you make recycling this fundamentally better business, you not only create a incentive to expand recycling in the US or in Europe, but if you can make it so that it, there's a stronger incentive to recycle in the developing world now you really make a huge impact because it ends up a lot of these plastics in the ocean are kind of coming from developing nations where they don't have strong waste infrastructure. That's the the dent we ultimately wanna make.
+
+0 (11m 23s):
+We're gonna take a short break, but when we come back, Matanya explains how he got AMP Robotics off the ground and why that involved some dumpster diving. Stay with us. I'm Guy Raz and you're listening to How I Built This lab Build your success story at Babson College join a community of problem solvers at the school. Ranked number one in entrepreneurship for 30 years by US News and World Report Babson's action oriented hands on learning approach helps you find opportunity in every challenge and develop critical thinking and communication skills so you can lead, innovate, and inspire in the business world.
+
+0 (12m 5s):
+Graduates from Babson go on to take the next big leap in their careers. Whether it's successfully launching their own venture, earning a promotion, or landing their dream job and making an impact. These graduates become a part of your network ready to support you on every step of your path. Babson is where your entrepreneurial leadership journey begins. Get started at Babson dot edu slash success. The Spark cash plus card from Capital One helps you earn Unlimited 2% cash back on every purchase. And with no preset spending limit, your purchasing power can adapt to meet your business needs. Jorge Gaviria, founder of NDA reinvests his 2% cash back to help grow his business with new products.
+
+0 (12m 47s):
+And I really love the idea behind nda. It's a supply chain company connecting Mexican heirloom corn farmers with restaurants, chefs, and consumers. And while Marciana is connecting more people to the culinary and cultural richness of the Mexican kitchen, it's also elevating traditional heirloom farmers that work in areas that live below the international poverty line. Imagine what the Spark Cash plus card from Capital One an Unlimited 2% cash back on every purchase could do for your business. Capital One what's in your wallet. Find out more at Capital One dot com slash spark cash plus terms and conditions apply. One more thing before we get back to the show, please make sure to click the follow button on your podcast app so you never miss a new episode of the show.
+
+0 (13m 32s):
+It's usually just at the top of the app and it's totally free. Welcome back to How I Built This Lab. I'm Guy Raz and my guest today is Matanya Horowitz, founder and c e o of AMP. Robotics. Alright, so you are searching around for how you can be part of this new emerging technology AI combined with Robotics and you land on recycling, you realize that part of the problem is just the human problem just sorting this stuff accurately and so you decide to tackle this problem and see if you could launch a company that could, could essentially automate this.
+
+0 (14m 17s):
+So tell me about the idea that you decided to come up with.
+
+1 (14m 20s):
+Yeah, well I was focused on where is a spot where this artificial intelligence technology was the, the core linchpin to building a new product. So I, I started focusing on recycling and I liked it because it seemed like you could use robots that had already been around for decades if you could pair them with this vision system. And I thought that was really good. You should have one hard technical problem that was gonna be the vision system. You didn't wanna have to innovate on the robotic side at least not too much. That was at least the idea. So started kind of zeroing in on this idea of building a robot that could be bolted onto a conveyor belt and just pick stuff like that's really all we're trying to do is pick a bottle and pick a can.
+
+1 (15m 1s):
+I applied for a grant from the National Science Foundation. There's a program called the S B I R, small Business Innovations Research Program that gave me some seed funding to get started and started building a little prototype. There was, you know, a lot of kind of good fortune on the way initially I couldn't afford a conveyor belt and got a grant from Oscar Blues, the brewing company they had Oh yeah. For recycling stuff. And, you know, I was applying for these grants, I was visiting recycling facilities. I didn't know the industry that well and so I was honestly saying a lot of dumb stuff, asking a lot of dumb questions and you know, I'm kind of amazed looking back that people would gimme the time of day. But, but yeah, started kind of building this robot the first data sets for the vision system.
+
+1 (15m 44s):
+So you, you sort of need examples of bottles of cans to train this artificial intelligence stuff. Yeah, I did dumpster diving for 'em, was gonna recycling centers and pulling out bottles and cans and yeah. Just started hacking away at it.
+
+0 (15m 57s):
+I mean this is a hardware and a software challenge, right? Because yes, you've gotta build the hardware to be physically resilient, right? Because there's a lot of just grossness that it's gonna deal with and you know, there's probably gonna be rotten milk or rotten
+
+1 (16m 13s):
+Oh, so much rotten
+
+0 (16m 13s):
+Milk things, right? Yeah. In, in on that conveyor belt. And then there's the software side, which is, it's gotta identify the different plastics, what's glass, what's paper, what's yes. Right? And then pick it up quickly. Tell me how you started to work on building a machine that could identify what it's picking up and sorting out.
+
+1 (16m 34s):
+So the interesting thing was the computer vision technology, this artificial intelligence actually started to work really well almost from the beginning. Wow. You know, we had some insights really early on as to what would be important to these algorithms and, and had a lot of success. I initially, you know, we weren't at 99% accuracy, but one of the nice things about recycling is honestly the bar is a little low. Like it's hard to consistently create pure material. And so as compared to automotive where you can't run over one out of a hundred people, you see, you know, for us if you mess up on one bottle or can, you're still doing a lot better than the status quo. So it's a very forgiving environment and we were able to kind of meet the standards of the industry pretty quickly.
+
+1 (17m 16s):
+The part we thought would be easy, which was using these off, off-the-shelf robots that ended up being really tough. So rotten milk sounds gross, but the real problem with it is that when as it dries out, it starts to get really sticky. Yeah. And sticky with a robot is not good.
+
+0 (17m 31s):
+And these were, and these robots had like claws like, you know, like you would see like a, an arcade with a claw machine or how are they picking up the recycled material?
+
+1 (17m 41s):
+So, you know, we actually did start with claws and that was basically what my PhD was on, was having robots use claws in interesting ways. And it's really hard, it's just really hard to imitate what people do. There's so many sophisticated things you do. Like when you're picking up something that's flat like a a, a flattened carton, if you kind of do it slowly, you'll see you do things like you push down on a corner of it to get the opposite corner to lift up. And then you, that lets you wrap your fingers around and it's very hard to get a robot to do this kind of kinda sophisticated multi-step planning. And what I saw was it was gonna be tough and we ended up switching to a whole different technology that I, I didn't even know much about in graduate school, which was using vacuum technology.
+
+1 (18m 21s):
+So basically using something that's a industrialized system, but it's, it's not that different from your vacuum cleaner at home and you think about, okay, I can take my vacuum cleaner and I can kind of point it at an aluminum can, I'll probably be able to pick up the aluminum can. That's kind of what we started to do. Just point a vacuum at the thing you want and pick it up and we found we could get that to work really well. So we, we kind of hit the easy button on this. I mean, it's not that easy. I've spent like nine years of my life thinking about vacuums.
+
+0 (18m 50s):
+I've seen a video of this. It's like tubes, right? Yes. There's like a few tubes over the conveyor belt and they'll just pop down and suck up each piece of traction and it happens really fast. Like yes in a millisecond, but, but how did you make it so it, it wouldn't just suck up like four things, right? Instead of just the actual thing it needs to suck up.
+
+1 (19m 11s):
+You, you end up having this trade off exactly like you're describing. It can't be too big or it'll pick up too much, it can't be too small. We rely a lot on our vision system to look at the items even if they're overlapping and only target kind of promising areas to pick things up. And it's gotten pretty sophisticated. There's multiple layers. The thing self cleans, it reverses the airflow after every pick to clean itself out in case they picked up some plastic bags or something. But it's a tough problem. We're still working at it, we're constantly trying to make it better. The hardest part out of all of it ended up being keeping it from getting gunked up with that rotten milk pieces of glass debris. There's so much stuff that can just kind of accumulate in a recycling facility.
+
+1 (19m 52s):
+And what we found was even once we made something that worked, most concepts for doing this, we'll get gunked up with stuff within half an hour and we needed something that would last days and that ended up being the hardest piece of it.
+
+0 (20m 4s):
+So do, do you have a sense of, of the accuracy? I mean how much, so for example, in a traditional recycling center where it's sorted by humans, I have to imagine that oftentimes, you know, some glass gets into the aluminum cans, you know, and some paper gets into the plastic. How much more accurate are these machines in humans?
+
+1 (20m 24s):
+So there's kind of two ways to answer. So one is a person can actually be very good and produce above 99% purity, but they almost never do just cuz the, the staff tends to not be motivated and it's a tough job and you start zoning out and things. And so what you'll see is for most commodities, the recycling facilities will produce material that kind of bumps around 90 or 95% pure. And so our facilities, the biggest thing is besides being fully automated and having this lower cost structure as a result, is they're just extremely consistent, like constantly producing material of the same purity. But yeah, we'll be 95 to 99%. Interestingly, what you find is, you know, there's this broader supply chain, we're selling the plastics to somebody and they take these plastics and because the industry can't get to a high enough purity consistently, those buyers will actually have a whole sorting process where they sort it again, they, they're cleaning up what they just bought.
+
+1 (21m 20s):
+We sell those guys robots. So our robots are helping clean the stuff up. And so the result though is, is we can calibrate the purity to what the buyer will pay. So if they pay a premium, you know, we can hit a very high standard, you know, if they're looking for kind of something that's middle of the road, more like 95% will just produce at 95%.
+
+0 (21m 38s):
+Let's talk about your customer. Who in the United States who handles recycling? Is it, cuz I think a lot of people assume it's like the government or municipal offices, but it's mostly not right? It's private companies.
+
+1 (21m 50s):
+Yeah. It, it'll be companies like Waste Management or Republic Services. So those are Fortune 500 companies. You'll find some small family businesses. We have one customer that's recycling and disposal services in Virginia. But the way the industry works is your city will have, or your HOA will have a waste contract and they'll have a contract with one of these groups. Some municipalities decide to do it themselves, but, but for the most part it's a a, a company and they'll take your trash and they'll take your recycling, they'll bring the trash to a landfill or, or sometimes an incineration facility. They'll take the recycling and sort it out and, and run that business. And yeah, the municipalities typically aren't doing all of it themselves, but, but in some cases they do.
+
+0 (22m 34s):
+So when you started to, I mean, when you, when you began this journey and, and you started to raise money for it, presumably you had to sort of say, hey, this is a big market opportunity, right? Because look, let's be honest, nobody is, I mean, as much as They say they are is is investing just outta the goodness of their hearts. They, they wanna make a return if presumably most of the, the customers here are companies that are, are already recycling and if recycling isn't a big driver of revenue, right? For some of these big companies like Waste Management, which makes its money from collecting garbage, how do you make the case that this is actually gonna be, this is gonna make money for them?
+
+1 (23m 14s):
+Yeah, so fundraising was very hard for most of the life of the company for, for exactly this reason. You know, we started with these sorting robots and we kind of described this one that uses a suction cup and really that that's actually not so much about the recycling business, it's really about kind of labor and automation. And so you look at the market and you say, okay, there's tens of thousands of people doing this manual sorting task, there's a potential for tens of thousands of robots. And you do the math on that and you find that that market's worth a couple billion dollars and that that can be exciting for a certain class of investor. But when they look at it, they'll say, okay, there's municipal contracts in this industry. There's a high degree of concentration into the biggest waste players that makes it really hard to sell lots of units.
+
+1 (23m 58s):
+These things just slow it down. And so what we found was this kind of story around automation didn't really attract a whole lot of investors. And we ended up getting the self-selecting group of investors who believed in kind of a bigger picture, which was why is it that the world is throwing away all of this good stuff? Like all of this stuff does have value, okay, it's because sorting it costs too much. Okay? If you can solve that, what does that mean? Hmm. And if you do some math, what you find is that between the plastics, the metals, the paper and everything, the world is throwing away hundreds of billions of dollars worth of value. That's not counting some of the fundamental cost of disposal, like moving it to a landfill and throwing it away and the cost of doing all of that.
+
+1 (24m 43s):
+And so if you can make a dent in the fundamental economics of recycling and make it a better business, you're unlocking hundreds of billions of dollars of value. And that is exciting. And so what you see for us is we started with this robot and that was kind of the, the first kind of beachhead it let us build out the technology. We've sold hundreds of those robots now, and it, it's a very strong business, but really what we're trying to do is, is make the recycling industry a better industry and unlock this latent value of of our garbage. And if you can do that, then that becomes very interesting and you can build a massive business on that.
+
+0 (25m 20s):
+We're gonna take another quick break, but when we come back more from Matanya about how AMP Robotics is automating the recycling industry, stay with us. I'm Guy Raz and you're listening to How I Built This Lab. This message comes from how I built the sponsor Crow. There is no shortage of volatility in business today from workforce challenges to supply chain hiccups. But volatility isn't our enemy doing nothing is Crow is ready to help you uncover opportunity in uncertainty. With deep experience in audit, tax advisory and consulting, K Crow can help you Embrace volatility in today's economy.
+
+0 (26m 4s):
+Visit Embrace volatility.com to discover how, once again, that's Embrace volatility.com.
+
+4 (26m 12s):
+Reboot your credit card with Apple Card the credit card created by Apple. It gives you Unlimited daily cash back that you can now choose to grow in a high yield savings account at 4.15% annual percentage yield and savings is built right into the wallet app so it's easy to monitor your progress. Apply for Apple Card now and the wallet app on iPhone and start growing your daily cash with savings today. Apple Card, subject to credit approval savings is available to Apple Card owners subject to eligibility requirements savings accounts provided by Goldman Sachs Bank, U s A member F D I C. Terms apply.
+
+0 (26m 54s):
+Welcome back to How I Built This lab. I'm speaking with Matanya Horowitz founder and c e of AMP Robotics. It's a company that's using artificial intelligence and Robotics to make recycling more efficient and economically viable. So when you were working on this and you got grants and you were starting to get some traction, what did you expect to happen that didn't happen? In other words, did, I mean I, I think, and this is case with most entrepreneurs interview, you think that it's going to be easier to solve faster than it actually is. Was that the case for you?
+
+1 (27m 30s):
+Absolutely. The tough thing ended up not being the technology. Like it did take a while. I thought it would take maybe six months. It ended up taking more like two years to have something that was good. But the hardest problem ends up being matching that technology to the business problem and having something that people really love. So when we got something working, I was like, okay, great. Hard work's done. And then I found out that the real hard work was beginning, which was to go sell a ton of these things and go visit the recycling facilities, understand how to price it, you know, and all of this sort of work. But I think it was surprising to me the extent to which, you know, even if you have great technology, you just really gotta make sure that you position it right to have a catch fire.
+
+0 (28m 13s):
+So tell me a little bit about how this would work with existing recycling facilities. The idea is your equipment and technology would essentially be installed and automate it.
+
+1 (28m 25s):
+Yeah, that's right. So we'll go into an existing facility and we can deploy now several different types of robots and we can get these recycling facilities to be almost fully automated. So just a handful of people pulling out the stuff that's not supposed to be there, like bicycles and garden hoses. And what's really key there is we do it with very little change to their existing operations. Most of that equipment gets installed over weekends when people aren't running anyway. And so you have this very like low friction path to automation. What you see is recycling facilities can use their lower cost structure to go after more material. They'll start running second shifts, they'll start expanding recycling programs. And those are a set of solutions we have for the existing infrastructure.
+
+1 (29m 7s):
+We've now gone on to start building recycling facilities around our technology new greenfield sites built from the ground up around ai. What you find is you can do, you can go a step further, you can have facilities that'll run 24 7 facilities that can have even higher rates of material capture, higher purities be much more flexible and crucially they can be fully automated. And so now you're starting to really kinda like see this cost per ton of sorting starting to drop significantly and really kind of changing what is profitable to recycle versus what's not.
+
+0 (29m 41s):
+Has it been fairly easy to convince recycling facilities to adopt this technology or is there still resistance?
+
+1 (29m 48s):
+I'd say it's kind of middle of the road. It's like the adoption of any new technology. People wanna make sure they're, they understand the technology, they're going to be handing over a large fraction of their business to these robots. And so what we've done is we've tried to make it easy for the technology to be adopted. You can get one or two robots, you know, work with it for six months, start to trust the system and then get another four. And then once you've kind of got comfortable with that, you get another four and eventually your facility is almost fully automated, but you never had to sort of take a huge leap and, and you know, blindly believe in the technology, you could sort of step your way into it. And we've seen that strategy to be successful.
+
+1 (30m 30s):
+We have customers that still have one or two robots and they're kind of integrating it with their process. We have other customers who have almost their whole facility automated with these systems. The question we're constantly focused on internally is how do we make the rate of adoption even faster? And that has a lot to do with technology, interesting pricing structures, you know, what can we do to help insulate customers from commodity swings themselves because that'll affect the return of the robots. There's a real kind of like enterprise sales process, you know, people are very deliberative and it, so it just takes time. And,
+
+0 (31m 4s):
+And you guys are also getting into the recycling industry yourselves. I mean, you're not just servicing facilities, you decided to build your own, right?
+
+1 (31m 14s):
+That's right. We started with what's called secondary sorting where we were actually buying from the existing facilities, low quality materials. But there was kind of two goals with this. One was, there's this interesting there of n niche opportunity to take advantage of kind of inefficiencies in existing facilities, but we were really focused on showing what a recycling facility built around AI could do. And now that we've done that, we're selling those facilities to the waste players, we're pushing those facilities into new domains and kind of sorting stuff that other people haven't in the past, but we really needed this kinda like a facility we controlled so we could show what the technology was capable of.
+
+0 (31m 58s):
+And those facilities are fully functional,
+
+1 (32m 0s):
+Fully functional. They've run 24 7, they run fully automated. you don't have people picking at stuff. You know, I've been doing this for about eight years and I feel like only now are we getting to like the really, really cool stuff where, you know, you walk inside these facilities, you have like literal tons of material, like tons of plastics and things flying around and everything is magically sorting itself and it's just the, the absolute coolest thing. And you know, we've kind of been working towards this for so long, it's just great to see it in, in reality.
+
+0 (32m 31s):
+So how long before you can see a full transition to a fully automated recycling centers?
+
+1 (32m 38s):
+You know, I would say you're already seeing this massive shift inside the industry. You know, over the next five years, I think you're gonna see the vast majority of facilities be pretty close to fully automated. The technology doesn't take that long and it's not that difficult to deploy. And the economics, when you have a really good recycling facility that's much more automated, they can be very strong. And so there's a strong incentive towards this adoption of the tech.
+
+0 (33m 1s):
+So, you know, I know that for example, China used to import a lot of plastic and materials and then I think in 2017 they basically said we're not gonna take it anymore. What does that mean for you, your industry? I mean, is that actually a good thing that that things, you know, have to be dealt with domestically now from your perspective with AMP, does that mean that there are opportunities there for you?
+
+1 (33m 25s):
+Certainly. You know, one way of looking at this is in the US a lot of material was going to China or Southeast Asian countries. You know, one of the things I I point out to people is it really speaks to how valuable this stuff is. Like it was worthwhile to move this stuff across the Pacific Ocean and pull out these different plastics. Like that whole thing was worthwhile. People were doing that at a profit. But, but yeah, there were a lot of issues with it. One of the reasons it was worthwhile to do this in places like China was one of the main reasons is they had lower labor costs. So it would be sort of easier for them to pull out the specific materials over there by lowering the cost of sorting here in the United States, it's, it's almost one of these main manufacturing reshoring stories.
+
+1 (34m 10s):
+Like we have lowered the cost of sorting so much, it's now worthwhile to do this domestically and us buying these low value plastic bales and separating the different materials out, that's basically what was happening in China. It was getting shipped over there and people were separating out these low value plastics that shift in from China and Southeast Asian countries really happened a couple years ago. And the industry has adapted. So it has created this push for higher quality materials and that does serve as a tailwind to us. But yeah, i I take it as kind of like an example of this reshoring that's happening more broadly.
+
+0 (34m 44s):
+So if in fact most or all recycling facilities become automated, what kind of impact will it have on recycling? I mean are, you know, right now in the US 35% of materials are recycled, which means two thirds of things that can be recycled or not. What, what kind of difference will it make if it's totally automated?
+
+1 (35m 4s):
+Well, so for the existing facilities, you'll see them get hungrier for materials. If you look at the recycling rate in the country, this kind of one third figure, what you see is that it's, it increased rapidly in the nineties and then kind of flat lined. And really you were kind of seeing this limited of the kind of economic viability of the system in its current form. So you'll start to see that rate again, start to go up. What that looks like on the ground is you'll start to see recycling programs in more rural areas where the greater the volume of material you have, the easier it is to justify a facility. If you make facilities lower cost or the operating costs lower, now you can go after smaller and smaller areas.
+
+1 (35m 44s):
+You can also go after dirtier materials. This is something that Robotics and AI really open up for the industry is the, there's a number of different sources of garbage that often don't participate in recycling programs. Apartment buildings and other multifamily housing often aren't part of recycling programs. And that's a big reason why you don't have deeper penetration to the industry. And a lot of that has to do with where the garbage is kind of stored in those complexes. and it just being harder to stand up, well separated streamer recyclables, if you can just go through dirtier material, you can ask less of consumers and now you can expand access to those recycling programs. But as you start to make the economics better, you start to see that this 34, 30 5% number can start to look more like 50 or 70%.
+
+1 (36m 31s):
+And we think that there's a real opportunity to do that in the next five years.
+
+0 (36m 36s):
+Amazing. Matanya Horowitz, thanks so much.
+
+1 (36m 38s):
+A real pleasure. Thanks for having me on Guy.
+
+0 (36m 41s):
+That's Matanya Horowitz founder and c e o of AMP Robotics. Hey, thanks so much for listening to How I Built This lab. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show. And it's totally free. This episode was produced by Sam Paulson, with editing by John Isabella. Our music was composed by Rum Arablouei. Our audio engineer was Katherine Silva. Our production team at How I Built This includes Alex Chung, Casey Herman, Chris Masini, JC Howard, Liz Metzger, Carrie Thompson, Carla Estevez, and Elaine Coates. Neeva Grant is our supervising editor.
+
+0 (37m 20s):
+Beth Donovan is our executive producer. I'm Guy Raz and you've been listening to How I Built This Hey Prime members. You can listen to how I built this early and ad free on Amazon music. Download the Amazon music app today. Or you can listen early and ad free with Wondery Plus and Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built This merch and gear at Wondery shop.com. Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.
+
+5 (38m 0s):
+Celebrity feuds are high stakes. You never know if you're just gonna end up on page six or DUIs or in court. I'm Matt Bellisi.
+
+6 (38m 9s):
+And I'm Sydnee Battle. And we're the Host of Wonder's new podcast. Dis and Tell where each episode we unpack a different iconic celebrity feud from the buildup, why it happened and the repercussions. What does our obsession with these feuds say about us? The first season is packed with some pretty messy pop culture drama, but none is drawn out and personal as Britney and Jamie Lynn Spears.
+
+5 (38m 30s):
+When Bri Britney's fans form the free Britney movement dedicated to freeing her from the infamous conservatorship. Jamie Lynn's lack of public support. It angered some fans, a lot of 'em, it's a story of two young women who had their choices taken away from them by their controlling parents, but took their anger out on each other. And it's about a movement to save a superstar, which set its sights upon anyone who failed to fight for Bri. Britney.
+
+6 (38m 54s):
+Follow Disin. Tell wherever you get your podcast, you can listen ad free on Amazon Music or the Wondery app.

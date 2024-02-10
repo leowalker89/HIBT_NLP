@@ -1,0 +1,305 @@
+Wondery (0s):
+Wondery Plus subscribers can listen to How I, Built This Early, and ad free Right. now join Wondery Plus in the Wondery app or on Apple podcasts.
+
+Crowddesk (10s):
+This message comes from How I Built This sponsor Crow. There's no shortage of volatility in business today from regulatory shifts to digital disruption. But volatility isn't your enemy doing nothing is you can uncover opportunity in uncertainty. Crow offers top flight services in audit, tax advisory and consulting to help you take on your biggest challenges. Visit Embrace volatility dot com to Discover How Crow can help you Embrace volatility. Once again, that's Embrace volatility dot com.
+
+Audible (48s):
+Get closer to the best. you With Audible. you can enjoy all your audio entertainment in one app. You'll always find the best of what you love or something new to Discover. I recently listened to Mark Hyman's Blood Sugar Solution, which completely changed how I think about what I eat, when I eat it, and how metabolic health is connected to a long life And. As an Audible member, you can choose one title a month to keep from their entire catalog, including the latest bestsellers and new releases. New members can try Audible free for 30 days. Visit audible.com/built or text built to 5 0 0 5 0 0. That's audible.com/built or text built to 5 0 0 5 0 0 To. try audible free for 30 days audible.com/built.
+
+Turbo Tax (1m 41s):
+TurboTax makes all your moves count. And roughly 37% of taxpayers qualify to file 100% free with TurboTax free edition form 10 40 and limited credits only. File 100% free. Max refund guaranteed. See if you qualified to file for free@turbotax.com. See max refund guarantee details at turbotax.com/guarantees.
+
+0 (2m 9s):
+Hello and welcome to How I Built This Lab. I'm Guy Raz. So about a third of the food we eat things like blueberries, citrus, almonds and carrots are pollinated by insects and mostly by bees. And by and large they do an amazing job. The problem is that with rising global demand for food and dwindling bee populations, we'll have to find other solutions to make sure the world can produce enough food for everyone. So a company called BloomX has developed a technology that replicates the process of pollination using robots and artificial intelligence not to replace insects, but to enhance what they're already doing.
+
+0 (2m 50s):
+The technology developed by BloomX can help increase the crop yield by up to 30%, which means more crops, using less land. The company was started by Tai Sade, who has a French and an Israeli background. He grew up thinking a lot about agriculture while living on a kibbutz in Israel and working in the orchards every week.
+
+1 (3m 12s):
+So I, I grew up in a kibbutz, so growing everything farm, you know, orchards of persimmon, cirus, avocados, bananas to big open fields of wheat, cotton, corn, and you know, big farming activity. Yeah, I specifically was small in the orchards. That was where I was involved since I was 11 years old. Understanding and loving the space of agriculture, of producing food and, and growing crops.
+
+0 (3m 44s):
+So, I mean, as a, as a child, as a teenager, you are working in the orchards, I'm assuming this was a commercial farm. It was producing fruits and and vegetables to sell.
+
+1 (3m 53s):
+Yeah, you're right. So it's, I think it's a very unique way of how kibbutz are managed, which means that, you know, the youth, the education was very involved in the farming activity and it means that while you are studying, you also involved in the community. So it could be farming to be other things that you can do. And I specifically was involved in farming one day per week, you know, as a mentoree part of my, of my life, of my routine as part of growing in a kibbutz.
+
+0 (4m 24s):
+Alright. So you grew up in this environment, but was your intention as you were growing up, was it your, did you think, you know, I'm gonna stay in agriculture? 'cause I know I, I mean, people I know who grew up around agriculture or farms, very few of them stay there. They, they tend to move on to do something else. When you were, I don't know, going to, you know, when you were a teenager or thinking about going to university, did you imagine that this is what you wanted to continue to do? Or did you think, you know, I'm gonna go do something completely different?
+
+1 (4m 54s):
+So I think, you know, back then it was something that was like that that was my dream or intention to do. Yeah. I'm also coming from a family, from a French family who, you know, in our culture back home was very a lot about food and I think that's, yeah, it's a very strong tool for us back home to, to share love. Absolutely. Think that's something that from very engaged, I was exposed from my mother, which is originally from France and was a big, big part of my culture and influenced me. So, you know, fast forward I opened a restaurant with my mother and sister. It was a family business that we had for almost nine years.
+
+0 (5m 36s):
+You were managing the restaurant?
+
+1 (5m 37s):
+Yeah, we were the owners and managing together with my mother and my sister after few years that the business was established basically in I would say successful or self sustain, you know, a lot of the drivers for me to take, to do what I'm doing today is this entrepreneurial mindset. And then back, back then, maybe seven years ago, eight years ago, I understood that I want to deal with a more impactful challenge or challenges that we're facing globally. Challenges of agriculture and food.
+
+0 (6m 12s):
+So, I mean, some context here, because you live in a part of the world that has many challenges to producing crops, there's not a lot of water. There can be extreme heat and a limited amount of arable land. So there's been a lot of interesting technology that's come out of the Middle East of Israel. I believe your country is one of the biggest recyclers of water for agricultural use. Right. So, so there is already an infrastructure around developing technology around agriculture, right? Like you, you probably saw that growing up already.
+
+1 (6m 52s):
+You're right. So I think that, you know, this mindset is coming from a place that they, they needed to innovate because they didn't have the right infrastructure to produce what they need. If it's water, if it's to fertilize land, if it's finding new ways to protect the crops. And, and I think that a lot of the innovations that we have came from, from the, from kibbutz. So the irrigation pipes that were invented by Netafim, that's a kibbutz in Israel that basically that sit on the desert, basically invented that because they needed to control the water and irrigate.
+
+0 (7m 30s):
+This is you're talking about drip irrigation? Yeah,
+
+1 (7m 32s):
+Drip irrigation. Yeah, you're right. Because they needed that. Right,
+
+0 (7m 35s):
+Right. 'cause it uses, obviously uses less water when it says dripping from the Exactly the hose. Yeah. Which is obviously widely used around the world. I wanna ask you about what you started though, because I guess you, you decided to move away from the restaurant business, of course to focus your full attention on, on trying to solve some pretty big global problems connected to food and agriculture. And eventually you honed in on, on a single problem that, that is not just specific to your part of the world, but but exist all around the world, which is honey bees as pollinators, bees are essentially right. Like they are essentially, well, the, the workers of, of, of, of agriculture, not everything requires bees for pollination, but I think a significant percentage of the food at least consumed in the United States, re maybe a third or half of the food we eat requires bees as pollinators.
+
+0 (8m 30s):
+So things like blueberries and avocados and almonds and strawberries, cucumbers, different kinds of fruits and vegetables that we eat require bees as pollinators to carry pollen from one plant to the next in order to produce yields. You're right. And I used to do stories on this when I was a reporter about bee colonies just collapsing, you know, and it was scary because without bees we, we can't, there's a significant amount of food that can't be produced. Presumably you, when you were growing up, how, I mean you would have bee colonies or you would have, you would release bees into the orchards or, I mean, because this is a, there, there's a process to it, right?
+
+0 (9m 12s):
+I mean, bee colonies are brought onto on on trucks. Colonies are deposited in, in orchards and fields and then the bees do their thing and then a couple months later they're picked up and taken away. Is that more or less how it worked on your kibbutz?
+
+1 (9m 27s):
+Yeah, so yeah, that's how it worked in my kibbutz and that's how it worked today. To produce food we need pollination. Pollination. I mean the transaction of pollen. Yeah. From a single flower to the other flower, which is usually transferred by insect. So around 80% of the commercial growing crops that we use today are pollinated by insects. The other 20% are pollinated by wind.
+
+0 (9m 53s):
+And I think out of the insects, most of them are bees, right? Yeah. There are moths and others and butterflies, but mostly bees.
+
+1 (9m 59s):
+So you're right, we use those honeybees boxes, pushing them into the orchards or whatever we want to pollinate and, and effectively they pollinate. So here is the interesting part. The number of honey beehives has increased from the 1960s to today by around 81%. But the number of land that needs pollination globally in the same time grew much more. And that's what created this big gap that you know, today and effectively how we manage and use honeybees to pollinate make this process very problematic from the honeybee perspective, which basically decreases the functionality and decreases the high numbers and et cetera.
+
+1 (10m 41s):
+Because of the commercial use, which is very intense. We talked about trucks transferring them from one place to another, pesticides that affect them disorientation, bad nutrition for example, to pollinate only avocados. If they don't collect the avocado nectar or pollen,
+
+0 (10m 56s):
+It's not good for the bees. Yeah.
+
+1 (10m 58s):
+So to eat only one thing is not good for, for any living creature. The reason we use them is because it's easy for us to manage them and put them in boxes and we can manage them because it's a very socialized organism that we can just commoditize. But other natural pollinators than insects is actually much more important to pollinate many type of crops. But we cannot just spread many insects or different butterflies or whatever what to pollinate the crop. Yeah. 'cause they're not controlled like honeybees. And that's why we created bloomex, basically because what we find out is that not only that we are harming the honeybees while we're using them like that, they're not pollinating effectively many type of crops.
+
+0 (11m 41s):
+We're gonna take a quick break, but when we come back, Ty's big idea and his process that pollinates crops without using bees at all, stay with us. I'm Guy Raz and you're listening to How I Built This
+
+LinkedIn (11m 54s):
+Lab. As a business to business marketer, your needs are unique. B2B buying cycles are long and your customers face incredibly complex decisions. Isn't it? Time you had a marketing platform built specifically for you? LinkedIn ads empowers marketers with solutions for you and your customers. LinkedIn ads allow you to build the right relationships, drive results, and reach your customers in a respectful environment you'll have direct access to and build relationships with decision makers. A billion members, 180 million senior level executives and 10 million C-level executives. 79% of B2B content marketers said LinkedIn produces the best results for paid media. And so many of the brands on How, I, Built This use LinkedIn to reach customers every single day. Make B2B marketing everything it can be and get a $100 credit on your next campaign. Go to linkedin.com/built this to claim your credit. That's linkedin.com/built. This terms and conditions apply
+
+Miro (13m 12s):
+this episode of How I. Built This is sponsored by Miro. If you haven't heard of it, Miro is this incredible online workspace. Our team relies on it for a lot of our own brainstorms and processes and I think it's super useful to try out if you wanna build something great with your team. One of my favorite features of Miro is called the Miro verse. Sometimes starting work on an online visual workspace can feel overwhelming, but with Miro verse you can select pre-made boards for pretty much any use case, collecting feedback, running meetings, icebreakers. It saves you the hassle of building from scratch. And what's really cool is that a new template has just been added this time for me. We partnered with the folks over at Miro to create a how to build a podcast Miro verse template to help kickstart your journey to making a podcast. Check it out and let me know what you think. Head on over to miro.com/ HIBT, that's MIR o.com/ HIBT to check out our Miro versus template for yourself.
+
+0 (14m 22s):
+Hey, welcome back to How I Built. This Lab. I'm Guy Raz. So my guest today is Tai Sade, who realized that honeybees alone, which have been commercialized by humans to pollinate crops for centuries, are actually not always great at pollinating, especially as global demand for food rises. Alright, let's talk about, let's talk about bloomex. I know you started this, you started working on this idea in 2019 and you launched in 2022. Let's, let's talk about how this idea came about. Essentially, we've talked about what the problem is, which is bees as pollinators, obviously crucial and vital. But the commercialization of bees is a problem because some bees are non-native to parts of the world and they can't be brought in.
+
+0 (15m 10s):
+And certainly it's not healthy for bees to just be sort of monocrop pollinators. I mean, my understanding is you can, I mean, humans can pollinate, like you can physically pollinate plants, right? You don't necessarily need bees, but bees are, are obviously important and they do it well and they can do things much more quickly than humans. But, but you were, you essentially said, can is there a way that we can artificially pollinate plants essentially, I don't know, to replace bees? Was that what you were thinking?
+
+1 (15m 44s):
+So it, it wasn't to replace bees, but to enhance the pollination activity. And I think that what's very interesting to understand, you know, from what I've shared, you can understand that if honeybees are not the natural pollinators, I think that from our logic, it, it was meant, okay, so we, we shouldn't look on the honeybee and how to improve it. We should look on the plant, we should focus on the plant, not on the insect in order to understand the mechanism and how we can enhance the activity on the plant.
+
+0 (16m 13s):
+Essentially, from what I understand, the way pollination works, I mean if it's a bee or a hummingbird, they land on a, on a flower, they're vibrating and that shakes the pollen loose, which kind of, it's like a, a, a cloud of pollen that lands on the bee, then it goes to another flower and drops that pollen. And then you've got, it's doing its job. It not only does bee get nutrition from the pollen, but it, it propagates that that plant and wind also does this wind also shakes plants and spreads pollen. So essentially you need, you, I guess you needed to figure out how do we vibrate plants, right? How do we like shake them a little bit and somehow get the pollen from one flower to another?
+
+0 (16m 59s):
+Is that sort of how you were thinking about it?
+
+1 (17m 2s):
+So actually all flowers that have different mechanism to transfer pollen from one flower to the other, what differentiate those mechanism is the faucet that you need to apply on the flower in order to release the pollen or transfer. So vibration, for example, the bumblebee vibration, which you meant is is one of them. It's one of them. Regarding to blueberries, tomatoes, peppers, another mechanism that we're applying, for example, is basically electrostatic forces to collect upon out of the flowers and then apply them by friction. And what we're mimicking there is that, for example, sticky pollen like avocados, mangos that have a very sticky pollen, which means that the plant requires from the insect to really work hard to get the pollen out.
+
+0 (17m 46s):
+Gotta dig that out, right?
+
+1 (17m 48s):
+We got to dig that out. Yeah. And that's why it's sticky. And for those kind of flowers, for example, avocado in, in a co-evolution between the plant and the insect basically means that when the honeybee flying the became electrically charged, that electrical charge, when they approach a flower gets the, the, the pollen to jump on the body. So we try to basically to, to mimic that process and to create electrostatic mechanism that collect the pollen out of the flowers and then apply it. Huh.
+
+0 (18m 19s):
+Okay. So essentially, you know, as bees, right? As they approach a a flower there, there's like an electric charge that's created by their buzzing and that shakes loose the sticky pollen from the flowers so it can pollinate other flowers. And, and, and basically your company has figured out a, a way to kinda replicate that process but but maybe do it even better than bees.
+
+1 (18m 42s):
+Yeah. And we actually see that it's walking, you know, and that's a very interesting mechanism that we're replicating that we apply today for, for several crops, but could be others. But we also have like the data on when to pollinate. We have an algorithm that allows us to understand how environmental conditions affect the flying behavior for every crop that we're working on that give us the right pollination window to pollinate and create a focus of the pollination season based on real time environmental conditions that we have in the field.
+
+0 (19m 15s):
+Alright, this is a business show about entrepreneurship. If you've, if you're just joining us, you are listening to High Built. This is not a show about agriculture, but I'm going to do my best. You started to work on both hardware and software. So let's break it down a little bit. 'cause you've developed a, literally, I've seen a video of it, it's like a machine with arms on top of an autonomous vehicle. And this, this vehicle just goes down the aisles of, you know, of let's say citrus trees or whatever, whatever crop it needs to pollinate. And the arms brush up against the plants and essentially they're pollinating those plants.
+
+0 (19m 57s):
+Can you explain, especially 'cause most people listening to the show do not understand, including me, don't work on farms, don't understand agriculture, but understand technology. So can you explain how that system works?
+
+1 (20m 11s):
+Yeah. So what you describe is, is correct we are mimicking the bumblebee vibration system by those electric vehicle, which have two mechanical arms that ba basically vibrate the bottom of the plant, the blueberry flowers on the branches with the same frequency that we are trying to get the, the, the vibration of the pumble bee.
+
+0 (20m 33s):
+So just to clarify, I'm looking at a picture of this, it's like a small little, it looks like a, it's an autonomous vehicle, it's very small, it's called a burrow. And, and your technology's on top of this autonomous vehicle and it vibrates the, I've seen a video of it, it vibrates the blueberry bushes ever so slightly. So the blueberries don't start coming down, right? They're not like dropping No, no. It's a very almost imperceptible vibration. But that alone spreads pollen.
+
+1 (21m 2s):
+Yeah. So while it create, basically, and, and that's something we don't see in the video, but it's the, the flower, when it gets a vibration for those mechanical arms, the pollen is basically released from the flower.
+
+0 (21m 14s):
+It's like a pollen cloud that just is, is developed and it drops onto the other flowers.
+
+1 (21m 19s):
+Yeah. Yeah.
+
+0 (21m 20s):
+How, I mean, how much better are these operating than bees?
+
+1 (21m 25s):
+So I think that it's like everything there is this ROI and the cost effectiveness of everything we do, right? So yeah, this specific vehicle will replicate every week, same plant. It can do up to 20 hectares a week in six days.
+
+0 (21m 40s):
+Wow. And, and just to clarify, one hectares, I think about two and a half acres. So, so this vehicle can pollinate about 50 acres worth of crops in a week. Which, which is probably more than a, than bees could do on their own, right?
+
+1 (21m 55s):
+Yeah. But I think that the comparison is not on, on, you know, honey bees. The comparison is more that that's, that's what we emphasize eventually it's on the results on the yield. Okay. It's something to compare to the insert and in in compare in compared to ibs, when we apply those, you know, machines, we, we see a range of between 10 to 40% of yield increase to cause get of using our services
+
+0 (22m 20s):
+If there's so much more efficient and in pollinating. And if the yields are clearly higher than using, you know, commercial bee colonies, it sounds like they could replace the commercial use of bees.
+
+1 (22m 32s):
+Yeah, I, I think that they could replace, but you know, trying to replace natural process that, you know, growers have been working for years, which are having a lot of, you know, reliability, right?
+
+0 (22m 45s):
+The growers are used to having bees and, and then you want bees on your farm and
+
+1 (22m 50s):
+Also, and also on that, you know, honeybees, they have value, but if it will reduce them, that could also affect the, the, the yields of the crop. So essentially the goes need to understand what they have with honeybees, what they have with us and what they have together
+
+0 (23m 10s):
+Essentially. So what, what what the, the technology does is you would say keep using the honeybees, but you will see that your yields will go up because Yeah. Where the bees can't actually perform efficiently this technology that we have these that, you know, we can actually produce better results.
+
+1 (23m 29s):
+Yeah. Yeah. And I think that we need to strategize together how to use honey bees and us. Maybe they will reduce the amount of honey bis because it's becoming more and more expensive and using us as a supplementary tool for pollination. So I think that is, we're very agnostic in a sense of we want to show you the value of using our services and you eventually, you, the goal will, will evaluate what is best for you. Again, agriculture is not natural. And if you want to have this essential process of pollination in the field, like you irrigate if it's drip or whatever, or fertilize differently, you need to have also a control on the coordination process.
+
+0 (24m 10s):
+We're gonna take another quick break, but when we come back, how bloomex technology could actually help save rainforests across the world. More on that in a moment. I'm Guy Raz and you're listening to how I Built This
+
+NetSuite (24m 20s):
+Lab Your business gets to a certain size and the cracks start to emerge. Things you used to do in a day are taking a week, you have too many manual processes, you don't have one source of truth. If this is you, you should know these three numbers. 37,000 25, 1 30 7,000. That's the number of businesses which have upgraded to NetSuite by Oracle 25 NetSuite turns 25 this year. That's 25 years of helping businesses do more with less close that are books in days, not weeks. And drive down costs. One, because your business is one of a kind. So you get a customized solution for all of your KPIs in one efficient system with one source of truth, manage risk, get reliable forecasts and improve margins. Everything you need to grow all in one place. Right now, download NetSuite's popular KPI checklist designed to give you consistently excellent performance absolutely free at NetSuite dot com slash built. That's NetSuite dot com slash built to get your own KPI checklist NetSuite dot com slash built
+
+0 (25m 43s):
+on How I Built This.
+
+Mint Mobile (25m 44s):
+We love to highlight businesses that are doing things a better way so that you can live a better life. That's why when I found Mint Mobile, I had to share Mint Mobile ditched retail stores and all those overhead costs and instead sells their phone plans online and passes those savings onto you for a limited time. They're passing on even more savings with a new customer offer that cuts all Mint Mobile plans to $15 a month when you purchase a three month plan. That's Unlimited talk text and data for $15 a month. Mint Mobile's network is crystal clear and ever since I switched to using it, I've saved so much money and you can use your own phone with any Mint Mobile plan and bring over your own phone number along with all your existing contacts to get this new customer offer and your new three month Unlimited wireless plan for just 15 bucks a month, go to Mint Mobile dot com slash built. That's Mint Mobile dot com slash built. Cut your wireless bill to 15 bucks a month at Mint Mobile dot com slash built. Additional taxes, fees and restrictions apply se Mint Mobile for details.
+
+0 (27m 1s):
+Hey, welcome back to How I Built. This Lab. I'm Guy Raz. So my guest today is Ty Sade. His company BloomX has developed technology to help farmers pollinate their crops, including one of their newest products, the Crosby. So the one product you have is this, this sort of apparatus that has these kind of metallic arms that, that physically vibrate the, the the bushes. You also have another product called Acro Bee and I'll describe it 'cause we're on, we're on raw podcasts. So it's basically like a long pole and attached to it is like a, a panel. It, it's like a square panel and a human holds this long pole and walks through, I guess through the orchards and holds this panel up against the trees.
+
+0 (27m 49s):
+And that also pollinates. So this is an electrostatic system. Can you explain how that works?
+
+1 (27m 57s):
+Yeah, so you described it correctly. That's a manual version that we have today. We're also developing a mechanical version, which is basically big mechanical arms that have big electrodes, big plates, flexible plates that they attach to a tractor or
+
+0 (28m 12s):
+Pickup. And that would just drive down the roads. Yeah. And it would electrostatically statically move the pollen from one flower to another.
+
+1 (28m 19s):
+Yeah. What's happening there is that eventually we have two varieties that we use in the orchards to cross pollinate. So avocado is a great example. We have the pollinator variety. Could be edinger realty
+
+0 (28m 32s):
+Is the Edinger avocado the smooth skinned one by the way? Yeah,
+
+1 (28m 35s):
+It's the smooth green. Yeah.
+
+0 (28m 36s):
+Yeah. I don't like those ones. Yeah, I'm always, I'm a hos guy. Yeah. Usually gimme those any day.
+
+1 (28m 41s):
+Yeah. So you know, the, the market loves hu but we plan the pollinator variety to enhance the, has productivity. That's why we put them new, new each other in the orchards. So what we do is basically we collect from the pollinate variety, it could be inger, fruity, other smooth skin avocados. And we transfer the pollant we collect in the plate, just rub it by friction on the, on the flowers that we want to pollant on the house.
+
+0 (29m 9s):
+So you take basically the pollen from one variety of avocado with these electrostatic plates and you transfer to an another variety of avocado. Why? Why which is the has? Yeah. Yeah. But why do you do that?
+
+1 (29m 22s):
+So why we do that is because honeybees don't like to pollinate the has avocado flo, they don't like the I see. Taste. They don't like the nectar. So if you don't have, it's not that they're not polling at all, it's not binary. Right. But eventually, statistically you'll have less visits of honeybees. You will have less fruits. Okay. So statistically we increases the distribution of pollen because we predict what is the right time when pollen is receptive to collect
+
+0 (29m 49s):
+It. Is that generally in the spring, presumably?
+
+1 (29m 52s):
+Yeah. So it's in the spring, but I mean, not as a period. I'm talking really every day. We know what the per day, we know the hours. How do
+
+0 (29m 60s):
+You, do you know that the, how do you, how are you able to know that
+
+1 (30m 3s):
+The, the, the algorithm basically that what we do there is to understand how environmental conditions affect flowering behavior. And by that basically that's something that, you know, part of the secret sauce of how we built that. But in every, in every crop is different flowering mechanism, different complexity. But the operational essence is the same. We're trying to understand what will be the right time in every day having those temperature, humidity or sun of light, what will be the right time to pollinate tomorrow, the day after tomorrow and et cetera. So we, we can identify that, but it's a per day practice because for example, avocados have 1 million flowers in a season of one month and a half.
+
+0 (30m 49s):
+One, one avocado tree.
+
+1 (30m 51s):
+Yeah. Eventually out of it, if you'll have 200 fruits from an avocado tree, that would be amazing.
+
+0 (30m 57s):
+From one tree, even though there's a million flowers.
+
+1 (31m 0s):
+Yeah. And that's why we we're trying to improve the statistics of the pollen distribution on the right and the best conditions we can have and then to affect the size to affect the fruit sets. And that's what we are doing.
+
+0 (31m 12s):
+So you could, I mean you could in theory, if you could get that treated to produce 250 or 300 avocados, that could be Exactly, well, one weird question could, I mean, is there, there must be a point where the, the tree should not be producing that much fruit because it wouldn't be, it would damage the tree.
+
+1 (31m 33s):
+Again, you're totally right. And and maybe I can take it back again in the natural process. You know, trees don't need to have 200 fruits, you know, we're trying to optimize that from a commercial perspective. Yeah. But, but for the trees to, to reproduce himself, he don't need that amount. So yeah, there is this balance of what we're trying to take out of the tree, but also in our perspective, do that responsibly. Yeah. Avocados and other crops that we're dealing with, pollination is a limiting factor for ill, okay. Okay. So there is a very big gap that we can increase the yield responsibly without taking too much resources from the trees that will be like a negative effect in the following years.
+
+1 (32m 14s):
+Okay. Not demanding too much of the tree. That's, that's kind of our, you know, philosophy and, and that's very important. We are focusing on crops that have pollination challenges. It's not that every crop have pollination challenges. Citrus are, don't have pronation challenges because honeybees where we use them, they love. Yeah, yeah. They just love that,
+
+0 (32m 35s):
+You know, but avocados are challenging that
+
+1 (32m 37s):
+You, avocado challenging mangoes, leeches, almonds, apples, cherries, blueberries. Hmm. Cocoa coffee.
+
+0 (32m 46s):
+And so, so those are the crops that you're mainly focused on.
+
+1 (32m 50s):
+Those are in the pipeline. We're still not there yet for all of them. Yeah. But yeah, definitely.
+
+0 (32m 54s):
+So definitely. Where do you see the biggest potential for your technology to be used?
+
+1 (32m 58s):
+So the main activity we started with avocados and that was more in Latin America where the market is. Colombia. Yep. Peru, Mexico. So we started engaging with companies there in our, you know, validation process. And from there we also understand that, you know, blueberries is a very big opportunity which suffers from pollination limitations and is very, is growing rapidly in Peru, Mexico, and I would say generally orchards in the outdoor that we want to leverage our cross bee. So it could be the subtropical like mangoes, glitches and academia. Yep. Or nuts. So that's, that's the focus.
+
+0 (33m 38s):
+Alright. Steve, you've got the, you got the hardware and you've got this software, this algorithm that you've developed. I know you raised about $8 million to date from investors in mainly I think in Israel and you have started to work with customers. Now you are in a situation where I imagine it would, you know, to state the obvious there's been some disruption with, with the war that's happening in the background. Is your business on hold? Are your employees not, you know, your team? Is it, is it, is its focus elsewhere or are you still able to run the business?
+
+1 (34m 23s):
+Yeah, so that's a good question. In our, in the current climate and situation, we are in Israel, but we, we must go on as a company and provide our services and operation to where we have commitment. You know, the main maj, the majority of our activity is not in Israel, it's in, in Latin America today. So a lot of our employees and product managers are there together with our distributors.
+
+0 (34m 49s):
+And, and so essentially the war has not disrupted your business because you're main, mainly focused on central and South America.
+
+1 (34m 57s):
+You're right. Yeah. Okay.
+
+0 (34m 58s):
+Yeah, it's interesting because you, you you mentioned, you know, avocados and blueberries and those are two significant crops, particularly in the US market. And I think some of that has to do with their, their beneficial health, you know, qualities around inflammation, reducing inflammation. And I know there's been a lot of, a lot more interest in blueberries and raspberries. I just read an article in the New York Times about avocados and how Mexico, in Mexico, a lot of land is being cleared to produce avocados, which presents its own challenge and own problems because there's, there's rainforest are gonna be cleared and land that's gonna be cleared to build avocado farms.
+
+0 (35m 40s):
+But if you could increase the yield per hectare, I, you know, I guess in theory you could prevent some of that environmental destruction by, by clearing land to make more and more farms.
+
+1 (35m 52s):
+You're definitely right. And I think you really touched the point of, you know, I talked about what, what I'm doing here, which is trying to, to face with global challenge and find a solution so that the incentive to better produce from your own farms, it's better, it's better by mentally and financially for you. Okay. And that's something that retailers, you know, having this conversation with their producers and that's something that became more and more aware. And that's something that is also something that we can measure and add value for the go. It's a conservative world agriculture. But I think that this problem of pollination in where we are is something that grow, really want to, to use and solve
+
+0 (36m 38s):
+If this technology becomes the standard. Right. And you mentioned that, that growers are conservative, that agro farmers are conservative, which makes sense. I mean, they know what they're doing, right? They're, they're, many of them are coming from generation, have this generational wisdom that's been passed down to them, you know, so they, they are, they have a, a deep sort of inherent understanding of of land management and and so on. But I, I mean there are, there are innovators too. There's a lot of innovation that happens in, in big commercial agricultural facilities. So if this technology is widely applied in theory, you wouldn't need to build, you wouldn't need to develop that much more land because you would just increase the yields in existing plot on existing plots of land.
+
+1 (37m 26s):
+Yeah. I I think that, you know, our, our mission, that's part of our mission statement from an environmental perspective for sure. And that's not only us, but also for the farming industry. So I think that pollination is a tool to have better control, better performance, and also better environmental outputs on how you produce your foods. People understand that we need to produce much more with much less, and not only as a, you know, as a buzzword that that's the reality that we need to face in order to feed the world and to, to make it the same as we have it today.
+
+0 (38m 5s):
+Sade, thank you so much.
+
+1 (38m 7s):
+Thanks a lot, guy. It was a pleasure.
+
+0 (38m 11s):
+That's Tai Sade co-founder and CEO of Bloomex. Hey, thanks for listening to the show this week. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show. This episode was produced by JC Howard, with music, composed by Tine Arab Louie It was edited by John Isabella with research help from Carla. Esteves. Our audio engineer was Neal Rauch. Our production team at How, I I. Built This includes Alex Chung, Casey Herman, Chris Sini, Katherine Cipher, Kerry Thompson, Malia Aguello, Neva Grant, and Sam Paulson. I'm Guy Raz and you're listening to How I Built This Lab.
+
+Wondery (38m 54s):
+If you like How I Built This, you can listen early and ad free Right now by joining Wondery Plus in the Wondery app or on Apple podcasts. Prime members can listen ad free on Amazon music. Before you go, tell us about yourself by filling out a short survey at Wondery dot com slash survey.
+
+10% Happier Podcast (39m 13s):
+Hello, I'm Dan Harris, host of the 10% Happier Podcast, where every week I talk to meditation gurus, top scientists, even the odd celebrity about how to do life better. These are wide raging conversations. We explore topics such as productivity, anxiety, enlightenment, psychedelics, relationships, and every episode is loaded with practical tools you can put into your life right now To start this year off right, we've asked some of the smartest people we know about their non-negotiables, the practices and principles they cannot live without. We're talking about big names like Bill Hader, Esther pll, Glennon Doyle, John Cabot Zinn, and the legendary Buddhist nun Pamela Chodron. These conversations were fascinating and like I say, extremely practical. Kick off your new year with non-Negotiables, a special six episode series from the 10% Happier Podcast, the Smartest People we know. The advice you cannot live without. Listen to 10% Happier on the Wondery app or Wherever. you get your podcasts.

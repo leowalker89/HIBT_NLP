@@ -1,0 +1,275 @@
+1 (1s):
+This is my voice. It can tell you a lot about me and I'm not changing it for anyone in NPRs, Black, Stories, Black Truths, you'll find a collection of NPR episodes centered on the black experience search NPR r Black Stories Black Truths, wherever you get podcasts.
+
+Notion (23s):
+This episode of How I Built This is sponsored by Notion One of my biggest challenges is staying organized to remember what I need to do and when I need to do it. So, I've been using Notion ai. It's a productivity software that's simple and beautifully designed. And here's the coolest thing, It has the power of AI built right inside of it. Notion AI helps you work faster, write better, and think bigger Doing tasks that normally take you hours in just seconds. Use Notion AI to summarize documents, write first drafts translate into any language and more. Try Notion AI for free when you go to Notion dot com slash built. That's all lowercase letters Notion dot com slash built to try out the incredible power of Notion AI today. And, when you use our link, you're supporting How I Built This. Try Notion AI for free right now at Notion dot com slash built.
+
+1 (1m 22s):
+Hello and Welcome to How I Built This Lab. I'm Guy Raz. So right now it's the beginning of the show and you're probably listening pretty actively, at least I hope you are. But the reality is that sometimes our attention drifts. So what if right before you reach that point your headphones or your earbuds triggered a small audible tone that basically told you you're starting to lose focus?
+
+0 (1m 47s):
+Well, that's where today's guest comes in. Ramses Alcaide is the co-founder and c e o of the non-invasive wearable tech company. Neurable Durable's main product is N 10. It's a set of headphones that adapt to your natural working rhythms to help prevent burnout. Neurable actually began in 2015 when Ramses was getting his PhD in neuroscience at the University of Michigan. But his interest in technology goes back much further.
+
+2 (2m 13s):
+I came from Mexico, I was born in Mexico and I came to the United States when I was five and I. Remember that I was so into computers. My parents bought me one that was basically a computer that was a throwaway computer by some large company. and I remember taking it apart and being just so fascinated by it that I wanted to fix other people's computers and So, I would post up signs in my neighborhood where I would b basically do like computer repair for people for like $20 an hour. And that was great money back when I was a kid. Like especially when you're like anywhere between six, seven, like eight years old. Right? and I remember I'd show up and they'd open the door and they're like, oh, it's so cute you brought your son with you. And my dad's like, no, I don't know anything about computers.
+
+2 (2m 53s):
+Like he's gonna fix whatever your problem is. Hmm.
+
+0 (2m 56s):
+So from an early age you had this knack for computers and I, clearly your passion for tech continued. And from what I understand, when you were a kid, your, your family experienced a tragedy that that really sparked your interest in robotics. Can you tell me a little bit more about that?
+
+2 (3m 12s):
+Yeah, I mean really the, the idea of Neurable and kind of the concept of, of what I've dedicated my life to started when I was about eight years old. My uncle got into a, a trucking accident in Mexico and he, you know, he lost both his legs and it was really intense time for the family. We, we brought him from Mexico to the United States to get his prosthetics made and, and my uncle's kind of a genius, you know, he, he's been an inventor all his life. He is always been a hard worker and seen him through that struggle and seeing how unnatural the prosthetic systems he started using were, that's what really motivated me into how do I leverage this curiosity that I have with electronics and computers to try to make something more natural for him.
+
+0 (3m 56s):
+Like in your head, you were thinking one day I'm gonna make something that's gonna let him control his prosthetics.
+
+2 (4m 1s):
+Exactly.
+
+0 (4m 2s):
+And I read that you got an undergraduate degree in electrical and electronics engineering and it seems like you could have taken a path towards robotics, right. Especially inspired by what happened to your uncle. Was that a path that you were potentially pursuing?
+
+2 (4m 17s):
+Yeah, definitely. So when I was studying electrical engineering, I worked with the prosthetics teams at the University of Washington and then, you know, I was like, I really wanted to create the brain into these prosthetic limbs. So I went to grad school and I started working with brain computer interfaces more. And that's when I worked with people with a l s and Children's Cerebral Palsy. and I was like, wow, this is, this is just a whole nother level. I mean, as, as terrible as it is, for example, my uncle having to go through this experience and having prosthetics that don't work with him naturally, what if you can't even move your eyes? Right? Like that's, that's just a whole different level of need. And so that's really what pivoted me from something that I thought I was gonna dedicate my life to robotics to something much broader.
+
+0 (5m 2s):
+Alright. Let's talk about brain computer interfaces. 'cause I think a lot of people when they hear that term, they think of like electro EEGs, right? Correct.
+
+2 (5m 10s):
+E e g electroencephalography
+
+0 (5m 12s):
+Nodes are that are attached to, to people's heads, you know, that track brainwaves. But what, what were you trying to, to solve with, with this research and, and this concept? Yeah,
+
+2 (5m 24s):
+Definitely. So essentially the work that I did as my graduate student work is I was working with children who had severe cerebral palsy. And the issue there is that we were not able to essentially give them these tests that they needed to be allowed to get physical rehabilitation. And the reason for that is because they couldn't communicate, at least not in the traditional means, like talking or pointing. And so we use brain computer interfaces to solve that problem. And, and the, the blocker there was that, you know, you have this eight year old kid, he just got 20 minutes worth of setup with goop and gel in his hair to make the technology work. There would be about 10 minutes worth of like calibrating the system. And then it would take sometimes between one to five minutes to like even get a response from them.
+
+2 (6m 8s):
+And so the work that I did was essentially in machine learning classification so that we could interpret their brain activity at a much higher level of accuracy. And what that enabled us to do is reduce the response time from one to five minutes to anywhere between 30 seconds to a minute, which is enormous for an eight year old kid. 'cause you know, having them sit there for five minutes to say, you know, yes or no question is, is is crazy. Alright.
+
+0 (6m 32s):
+Help me understand what the technology is that you're talking about. Well, you said it would take, you know, five to 10 minutes for set up and what, what was it that you were doing differently?
+
+2 (6m 41s):
+Yeah, so the reason the setup takes so long is because getting brain data is incredibly difficult. That there's, there's a lot of noise in the environment. Even you're blinking, you know, talking the electromagnetic noise, even the lights impact the ability to collect this data because the sensors are, are so sensitive and, and brain signals are so small. And so we essentially developed an artificial intelligence that was able to use brain data that we previously collected and then also brain data that was coming in and essentially increase the signal to noise in order to essentially be able to do classifications of what a person intended to do. In this case, the child was selecting a multiple choice question at a greater fidelity.
+
+2 (7m 22s):
+And when you can do that at greater fidelity, you don't need to repeat the question numerous times and through less repetition, you know, it gave people a better user experience. And so being able to make that brain computer interface work in, in a seamless way really unblocks a lot of its use cases.
+
+0 (7m 39s):
+Alright, so how much data can brainwaves tell us? Like in theory, could you look at a person's e e g reading and no, you know, for example, how they'd answer a simple yes or no question or, or even that like that they're thinking about like pushing a button or, or moving an object.
+
+2 (7m 55s):
+Yeah, I mean there's, there's a lot that you can take from brain data. So for example, just using e e G, you can identify a person's focus. You can identify, you know, for example, measures of of stress, whether, you know, for example, they're going through a stroke, epilepsy, sleep responses like REM sleep. So there's a lot that you can do 'cause your brain is a central hub for everything. But the main issue is in order to to tap into those types of applications, you usually need to have a giant gel cap system with lots of setup to really be able to tap into them, right? So, you know, imagine like you're an eight year old kid and we set you up with a system and there's like gel running down your face and you don't want to be there, but you know your future's being dependent on it, right?
+
+2 (8m 44s):
+Or imagine we try to bring this to the real world, like no one's gonna wear that, right? No one's gonna wanna wear a swimmer's cap with gel in their hair. And so how do we unlock all these incredible value propositions? And we created an IP at the University of Michigan that helped us increase the signal to noise of those brainwaves so that we could actually bring it to everyday devices instead of having them be trapped in the laboratory setting. Even if we could just unlock what we already have in the lab, it'd be a major step and it would accelerate so many fields. And so it was, that's what The company was focused on, essentially, how do we create an everyday brain computer interface? How do we unlock the brain to billions of people?
+
+0 (9m 24s):
+It it makes sense 'cause the brain just sends out electric signals to the rest of our body. And so if you could somehow harness or capture those signals, maybe you could make them work in ways that we haven't been able to make them work yet.
+
+2 (9m 39s):
+Exactly. And, and even just the stuff that we were doing in the laboratory, for example, no one has a e e G device at home, right? But what if instead you just put on your Apple AirPods to go take a call and then every single time you do that, we're tracking your brain just a little bit more to be able to tell you, Hey, actually you know what, you're trending toward Alzheimer's. you know, now you're getting older. We're starting to see this cognitive decline. This is when you should go seek out a doctor not 10 years into the disease before it's, you know, it's already too late, right? And so how do we unlock all these incredible value propositions of brain computer interfaces to the masses? And so that's really what the main work that we do at Neurable is
+
+0 (10m 22s):
+We're gonna take a short break, but when we come back in just a moment more from Ramses about bringing brain interface technology to the masses. Stay with us. I'm Guy Raz and you're listening to How I Built This lab. When we think of sports stories, we tend to think of tales of epic on the field. Glory or incredible against all odds comeback stories. But the new podcast Sports explains the world, brings you some of the wildest and most surprising sports stories you've never heard. Take the teenager who wrote a Wikipedia page that got a young athlete signed to a million dollar deal, or a tennis pro who came at a retirement to fight off an invasion.
+
+0 (11m 3s):
+What about the Ugandan national basketball coach who was really an undercover agent for the C I A from award-winning journalists across the globe? Sports explains the world goes beyond leagues and stats to share stories that will redefine your understanding of sports and their impact on the world. To hear these and other incredible stories from the wide world of sports, listen to sports explains the world on the Wondery app or wherever you get your podcasts. You can listen to Sports Explains the World ad Free on Wondery Plus get started with your free trial at Wondery dot com slash plus.
+
+0 (11m 48s):
+Welcome back to How I Built This Lab. I'm Guy Raz. My guest today is Ramses Alcaide who launched his company Neurable back in 2015 to develop brain computer interface technology. Alright, so you basically, while you are a student launch, you know what eventually becomes Neurable, right? Starting out just looking at how you could use brainwaves and patterns to help people and, and now it's evolved into wearable devices, but essentially it's about the technology. It's about building up a way that you could really measure what's happening inside of our bodies in an accurate way by measuring brainwaves
+
+2 (12m 29s):
+Exactly in, and the hypothesis there was if we just build a reliable brink computer interface system, which is what our core technology enabled us to do, it doesn't mean it's gonna scale because it has to bring people value, right? And so that's why we ended up going toward focus and helping individuals essentially prevent, you know, burnout from occurring. And then on top of that, with some of our groups, we actually do it for safety. So preventing injuries due to fatigue, for example, the Air force, you know, really big problem, right? So it can save billions of dollars and then that enables us to have a really strong concrete step one for us to build a business and enable large amounts of these systems to go out.
+
+2 (13m 15s):
+And then from there really open it up to others to help solve some of these other problems as well.
+
+0 (13m 20s):
+Alright, so basically you we're trying to solve this challenge, this problem, which is how do you gather data from brainwaves in an easier way, right? Like for example, I've got an Apple watch and So I wake up and it can give me some data about my sleep, it'll, it'll tell me my heart rate, blood, oxygen, So, I mean, you know, given what we can already gather from just our heart rate, right? Which is quite a bit of data beyond all the things we've talked about, what other things potentially could we learn about our health or you know, our general state from these devices, from these, these brainwaves? Yeah,
+
+2 (13m 58s):
+You know what's really interesting is that brain detecting devices are actually the ultimate wearable. A lot of the devices that you wear right now, for example, accelerometers for movement or for heart rate, they can either be picked up through brain data or they originally come from the brain and those are just secondary sources of signals, right? So for example, you can actually pick up Parkinson's responses using the Apple Watch. The issue is that by the time you pick it up at the hands or through walking metrics, your brain's already been dealing with it for the past 10 years. And so with the brain you can actually pick up a lot of those things earlier. So there's two parts. One is that brain-based wearables are gonna replace all the other wearables that you have.
+
+2 (14m 42s):
+That's step one. And so all that data and all that value that we're seeing with existing wearables are gonna be all consolidated into one device. But then two, there's certain things that you can only pick up from the brain. you know, for example, traumatic brain injury information tracking A L Ss, right? Seizure detection. There's so many other things that you can only do with the brain that you know, not only are you taking care of the, your previous wearables, but now you're adding a whole plethora of medical use cases that have already been tested out in, in scientific literature, but now are able to be used at scale. Alright,
+
+0 (15m 16s):
+So let's talk about these headphones, the theon headphones that your team has been working on and I and is getting ready to release later this year. What, what are you able to, to track using, you know, putting these headphones on, on people now? What, what can you actually find out about?
+
+2 (15m 31s):
+Yeah, so there's kind of like three areas where we use the technology in right now. On the first end is, for example, understanding an individual's focus over time when they're fatiguing, when they should be taking a break in order to maintain it. Your, your brain is kind of like your body is to dehydration. You should be in, in the case of the body drinking water throughout the day, or you should be taking breaks throughout the day too. Even though you may not feel thirsty or you feel tired, you should be doing that in order to maintain a high level of, of hygiene for your own work and life balance. And so that's, that's kind of the first area. The second one is in control. So we have the ability to, for example, use brain activity to do very minimal controls on the hardware as well too.
+
+2 (16m 14s):
+So changing music tracks play and pausing music. And then on the third end is there's so many incredible biomarkers that can be picked up using this type of technology. Like I said, tracking Alzheimer's or cognitive decline or, you know, other types of biometrics. So essentially just like how the Apple Watch started out as a system for tracking your movement, now it can actually pick up like heart arrhythmias. And so all of that medical landscape and biomarkers are also available through these brain computer interfaces.
+
+0 (16m 45s):
+But how do, how do headphones, how do sensors around your ear capture as accurate information as as those other sensors?
+
+2 (16m 53s):
+Yeah, I guess to answer that we have to break it down into two steps. First is like, how do we capture those signals from headphones? Well, the brain is, is very conductive, right? So for example, one of the brain signals we look at is called P 300. So we don't really have to get into the details of it, but essentially that comes from an area of your brain called the parietal lobe. It's, it's around the back of your head. And even though that's signal comes from around the back of your head, the signals is such a strong response. It can actually go, it goes all over your brain only the farther it goes from the signal source, the smaller that signal becomes, so it becomes harder to read. So we know that these signals go across the head, but you lose the ability to record them easily.
+
+2 (17m 37s):
+And so that's where our AI comes in. It picks up these signals even though they don't come from the most perfect location, they come from the areas that headphones are at. And from there we're able to boost those signals to a level that makes them usable for different applications.
+
+0 (17m 52s):
+So presumably when, when people have access to initially the headphones, they'll have, there'll be like a, an interface where they can sort of either on their watch or just on a webpage or their smartphone where they can see this data, correct?
+
+2 (18m 6s):
+Yes.
+
+0 (18m 7s):
+And initially it will be, what kind of data will they have access to?
+
+2 (18m 11s):
+Yeah, you know, it really depends on the audience. So for most individuals buying our tech, they're just gonna be able to see their focus scores whenever they do work and, you know, suggestions on how to improve their focus over time, reduce fatigue, create more balance in their life. But there is a whole bunch of raw data and, and filtered data that is more granular that's gonna be available to scientists or people who want to dig in deeper. And from that, that's where you can pick up a lot more detail as to like, you know, sleep measures or you know, epilepsy, et cetera.
+
+0 (18m 47s):
+And, and So I, the idea is you would wear the headphones all day and you would just go about your day.
+
+2 (18m 56s):
+You would wear the headphones whenever you're working. So like right now I'm wearing headphones, So, I, just do, you know, a couple hours with of work, wear the headphones and then they would notify me when I should be taking a break in a way that's optimal for my mental health.
+
+0 (19m 10s):
+So like what kind of notification?
+
+2 (19m 11s):
+It would just be an audible notification. you know, we recommend you to take a break and you can ignore it if you want to. Sometimes, you know, you're in the middle of something, you need a few more minutes, that's fine. And then you would take a break and it can tell you how long you should be taking a break. And then when you come back, it, it's actually really surprising, especially in our user testing, like people don't realize how much they needed it and they come back and then they just crush their work and they're like, wow, like I didn't think I needed this break, but I came back so energized and like focused. And it's, it's having people have that feeling consistently and their day feeling really motivated about the work that they did so that they don't feel guilty about, you know, taking some time off when they get home. That's essentially the feeling we're able to give people with the technology.
+
+0 (19m 52s):
+E essentially is recommending when you need to take a break right? When you're working, but what is that based on? What, what kind of data is it getting to suggest that you need to stop working?
+
+2 (20m 3s):
+Yeah, so we did a, a large study with a, a professor from, from Harvard who's now a professor at Worcester Political Technical Institute. And he had created this incredible method for identifying an individual's focus. And so what we were able to do, and we did close to a thousand individuals worth of data collection on this, is we tracked people just doing their work and then leveraging this algorithm that we co-worked with this individual at, at Harvard. And what we saw is that there was very clear breaks in in the data where we could see that if we were to recommend them a break at this time point, it enabled them to have three to four hours of higher productivity afterwards, feel more refreshed, reduce their errors in the amount of work that they do instead of just burning themselves out and, and feeling really like, you know, bad about their day essentially.
+
+0 (20m 54s):
+Okay. So it can basically sense certain brainwaves that would suggest, according to this research that it's time to take a break. What else can it do? While you're working and you've got the headphones on,
+
+2 (21m 6s):
+One of the, you know, best parts about the technology is you can actually build things on top of it. So a few of the things that people are building, for example, the first one is with Audible, right? You can listen to an audiobook and then when you get distracted, it'll actually automatically pause it, which is really great because this happens to me a lot when I read or when I'm doing audiobooks, I have a d h d I'll start reading it or, or listening and then I'll just start zoning off into something else and then I'll realize that I get to the end of the page of the book or the end of that paragraph in, in the audiobook and I realize I haven't paid attention at all and I gotta rewind it. Yeah. So there's ways to, for example, automatically pause things and there's, there's a whole bunch of other things that you can do with the technology too, but essentially it's that reliable.
+
+0 (21m 51s):
+On that note, 'cause I I, this happens to me too, right? When I'm, I'm reading a book and I just zone out or even listening to a something, how does it know that you're zoning out? Yeah,
+
+2 (22m 2s):
+It's the same algorithm for focus and fatigue essentially. We notice that there's a sharp decrease in an individual's focus. And once we identify that if it remains consistent, then we know that the person's not focused on the task that they were on previously. And so then we're able to just pause it. Or in the case of, of reading, for example, I have an output, a small audible tone and it just reminds me, hey, that's right, I should be reading right now. you know, I I just got distracted by, you know, random cat that walked by and now I should get back to the reading.
+
+0 (22m 37s):
+We're gonna take another quick break, but when we come back more from Ramses on just how close we might be to mind control technology, stick around. I'm Guy Raz and you're listening to How I Built This Lab. Welcome back to How I Built This Lab. I'm Guy Raz and my guest today is Ramses Arcade, co-founder and c e o of Neurable. There are a bunch of companies working in this space, just like with AI and other categories.
+
+0 (23m 18s):
+Many of those companies are massively well-funded, you know, hundreds of millions of dollars in funding. you know, you've raised 20 million, which is impressive, but tiny compared to some of these other companies that I'm sure as you know, how do you prevent those companies from just super, you know, with their cash supercharging this technology and leaving smaller companies behind?
+
+2 (23m 39s):
+Yeah, I think a lot of those companies aren't really our competitors. That's why, you know, like Neuralink is not our competitor. you know, we're, we're non-invasive. We don't require surgery. Most of those companies that, that do invasive need a ton more money. It makes sense. The way I would think of Neuralink is kind of like a HIBT replacement. you know, no one really wants a HIBT replacement until you know you actually need one. And even if they end up being 10 times better than your actual hips in the future, you're probably want to be able to keep your hips for as long as possible, regardless when it comes to the competitors more in our space, which is non-invasive, we're probably one of, if not the best funded company in the world.
+
+2 (24m 20s):
+And so that's enabled us to continue staying ahead and, and at first it was because of our technology, we're at least five to 10 years ahead of, of anybody else in the market. But now it's because of our business partnerships that we have that we continue to grow.
+
+0 (24m 33s):
+So let's talk about the products that you're developing right now. It's, it, it's gonna be a commercial product, right? Headphones initially, is that right? Yeah,
+
+2 (24m 43s):
+Headphones. And then very soon after in earbuds.
+
+0 (24m 46s):
+And let's talk about the headphones for a moment. When will they be available?
+
+2 (24m 49s):
+They're gonna be available essentially Q four this year or Q one next year. And then from there we'll continue improving things and, and working with the customers that we have to help us further evolving the product and, and helping scientists unlock more capabilities. It's really gonna be a community effort to, to build these types of devices.
+
+0 (25m 10s):
+Okay. And so presumably the idea is to build on this and to be able to create other features down the road, but lots of companies are working on ways for our thoughts to be turned into actions. Tell me about that side of the research that you're doing. 'cause presumably down the road you, you'd want to do something around that.
+
+2 (25m 32s):
+So you know, some of this research, it's called silent vocalization research has been around and the main issue is that when you collect this type of data, you usually need sensors like around the mouth and the face, and they pick up primarily muscle activations that are completely invisible to the user. And so we're essentially doing very similar methodology, but inside the wearable devices that are gonna be compatible with our platform. And with that, we're gonna be able to open up more capabilities for individuals to interact with their technology. And the best part is if you have any headphones or earbuds that are Neurable compatible, you'll just get be be getting all of this through software updates essentially.
+
+2 (26m 16s):
+But, you know, at first we're gonna introduce a system for very simple forms of control, just launching Spotify, play pause next track. And then as we collect more data with individual's consent, obviously we're gonna be able to further expand those capabilities. But the main goal is how do we essentially create more of a seamless interaction system between humans and their computers.
+
+0 (26m 38s):
+Also on your webpage, there's a, in this video it shows like a young woman walking and like thinking in her mind of a message she's sending to her dad, like a text message. She's like, Hey dad, meet me at home for dinner. And she's just thinking it, how far away are we from that reality? I mean, are we 10 years away, five years away, a year away, 20 years away?
+
+2 (27m 3s):
+So that thinking to text perspective, at least the very first versions of it are the ones that I was discussing earlier where it's very simple like play pause next track, and then as we collect more data and build out the system, it'll enable more of things similar to the video that you saw. So
+
+0 (27m 20s):
+Just to clarify, you're saying that that in a short period of time you'll be able to wear these headphones and just think in your B brain without saying it, play music or play this song and it'll play it.
+
+2 (27m 33s):
+It's a little bit more nuance in that, but essentially, yes, and like I said, we already have working systems of that in lab and so really everything on that video are things that are wholly within what we're building. So it, you know, it's not like a vision video of a hundred years from now. At least V one is gonna be available within the next two years. So
+
+0 (27m 54s):
+Just to, for me to understand, I mean does when, when I'm thinking of the word play, is my brain making a specific brainwave to that specific word?
+
+2 (28m 4s):
+So think about, for example, you have an athlete and the athlete thinks about throwing a football. Yeah, well, when they think about that, even though they're not throwing the football, that area of the brain that is associated with throwing a football is activating and those muscles are activating. It's not happening at a visual level. Like you don't see the, the football player moving his arm just thinking about it activates those areas. And so whenever you think of a word like play, pause or next, the same thing happens in the brain. And so we're able to pick up those signatures, even though you're doing it silently, you're not, you know, visually, you know, saying something out loud, you know, audibly or visually, but we're able to pick up those signals and then use that essentially as a, as a source for how we control devices.
+
+0 (28m 52s):
+So j just like, let me, let me go back and, and sort of reverse engineers. you know, when you walk down the street and you see somebody talking really loud and you now know that they're on a phone call, like they're wearing earbuds and they're on a phone call, but even like 10 years ago, even five years ago, that was still jarring. You'd be like, wait, what are they? And then, oh, they're a phone call and now it's normal, totally normal to see people walking down the street just talking to themselves. But if you took a human from like the 1950s and you dropped them in, in like, you know, modern day, some modern day city and just saw people talking to themselves, they wouldn't understand what was going on in 10 years from now.
+
+0 (29m 33s):
+Are we, I mean, are we likely to see a version of that except in silence? Like people maybe having conversations with other people through their, you know, their device, their ear earbuds or whatever it might be, but just in silence.
+
+2 (29m 49s):
+I mean, I wouldn't say 10 years from now, right? I, i I think it's gonna take longer, but what I would say is that, you know, within the next 10 years, people are going to be communicating to their technology silently. you know, I think that communicating via voice is still gonna be a, a more efficient method of communication with somebody, at least in the near term. But when it comes to, for example, let's say you're having a conversation with somebody and you get a notification, right? Being able to push it outta the way or to reply to it real quick in a way that doesn't break the conversation would be very valuable, right? Let's say, you know, for example, you are talking to somebody about a really great place that you went to go eat to, but you forgot the name, right?
+
+2 (30m 31s):
+So helping it pull up that information in a way that doesn't disrupt, oh, hold on, lemme pull out my phone and you know, just wait a second while I figure everything out, So I think that we're gonna be communicating with our technology seamlessly and invisibly, and then that enables us to also free up some of our cognitive loads that we can continue to have these more engaged and connected conversations in the way that we traditionally do.
+
+0 (30m 55s):
+I mean, the idea presumably is to initially sell the headphones, but tell me more about the, the, the broader vision certainly around, you know, making this a profitable business.
+
+2 (31m 9s):
+Yeah, definitely. you know, at least for us, the number one step is how do we unlock all the potential brink computer interfaces to the world, right? And so the first step is we work with different companies, OEMs, some of you know, the largest in the world are, are some of the ones that we're working with. And we help them release Neurable powered products. The first one is going to be a pair of headphones, eventually it's gonna be earbuds, ar glasses, helmets. So we also work with a few groups that that build helmets for, for example, pilots or for, for individuals that are in high risk environments.
+
+2 (31m 51s):
+And so imagine being able to at least step one, track their mental health, track their fatigue so that they don't, you know, to help prevent accidents that could happen. And then longer term, enabling them to control their technology much more easily. And then even longer term, being able to make sure that key health markers can be caught ahead of time so that they're able to get care earlier and we're able to accelerate a lot of research.
+
+0 (32m 19s):
+So, I, the idea is, is is long term not just have consumer products, but enterprise products.
+
+2 (32m 25s):
+Exactly. Yeah. And we work across the realm. Like a lot of people think that what we're doing is we're, we're building headphones, but the reality of it is, is our technology can scale across any type of head warm device. And so we partner with different head warned companies and we help empower their, their devices to be compatible with our platform. And then that enables 'em to get access to this portfolio of use cases that can help their, you know, employees that can help students that can be used for medical applications, et cetera.
+
+0 (32m 57s):
+Ramses, I'm not sure what, what science fiction book it was. I, I somebody listening will remember, but there's a, there's at least one book about how our thoughts in the future, it'll be possible to read them. Now obviously we're talking about science fiction today, but if we're, if we think about where this technology is going, you can take that leap of faith and imagine that within my lifetime and yours, we might get to a place where our thoughts could be read. And it's amazing if we can achieve that as humans, but it's also really scary. Like our brains like the things that the, the stuff between our ears, like one of the last private places left, you know, everyone's got a camera, there are drones everywhere.
+
+0 (33m 40s):
+you know, we, we talk on cell phones, like the only place where we're really, we can really be private is in our heads and, and that might go away.
+
+2 (33m 50s):
+Yeah, I guess I'm a little bit less worried about that, you know, and the main reason for that is just because when you're talking about non-invasive, so non-surgical measures, you know, it's, it's one of these things where we're just so far away from that level of detail that like, I'm less worried about it and at the end of the day, you can just take it off, right? You can just take off your, your headphones or your earbuds. Where that really becomes more scary is invasive. Like with invasive we can get to that type of future. I agree. But at the same time, you know, and, and this I was actually at a panel with, with the d o d where they were asking us questions about, hey, should we be worried about, you know, people leveraging, bring computer interfaces, at least the invasive kind for, you know, all this kind of scary stuff, you know, like controlling jets or something.
+
+2 (34m 39s):
+And, and like at the end of the day, it's like one is everyone's more focused on how do we help that person with a l s communicate. Two, it's gonna be way easier to fly a jet the way you fly it now for the next like yeah, a hundred years. So like, let's not really worry about that right now. Let's just help that person with als let's, let's help them at least reliably say yes, no, and you know that they love somebody and, and let's get through that breakthrough. you know? I mean obviously in the far far future, anything is possible, but I'm, I'm more of an optimist when it comes to where we're headed. I think we already have good enough ways to destroy one another. We don't need, we don't need to do it in a more complicated and difficult way.
+
+0 (35m 18s):
+You know, I just, I just saw the film Oppenheimer, like probably millions of other people, and you just see the challenges that they were dealing with and you know, the, just how quantum physics has just developed from nothing into this incredibly powerful discipline, you know, in in, in the course of, of a lifetime half a lifetime. What, what, what is something that you just are trying to figure out that kinda keeps you up at night, but shit you're really excited about?
+
+2 (35m 44s):
+Yeah, I mean, for me the thing that, so there's two parts to that. One is like, what are some of the challenges and what are some of the excitements? So the challenges are essentially what we're doing right now is we're trying to validate as many of our assumptions as possible, trying to make values that are really sticky with customers that add, add a lot of value to them so that when the product comes out, you know, it, it is going to be successful. This is kind of like when the iPhone first came out, you know, we don't really know how much impact it has until it came out, right? Yeah. For example, Uber wouldn't have existed without the iPhone. We wouldn't have g p s in a person's pocket, right? Yeah. And so there's gonna be so many solutions that we don't even know people are gonna start building with this.
+
+2 (36m 26s):
+Once you have brain computer interfaces as part of your everyday life, that I'm really excited to see what others create from what we're building.
+
+0 (36m 36s):
+Ramses, thanks so much.
+
+2 (36m 37s):
+Yeah, thank you. This is a absolute pleasure. It's a pleasure meeting you as well too.
+
+0 (36m 41s):
+Yeah, nice meeting you. Good luck. Thank
+
+2 (36m 43s):
+You.
+
+0 (36m 47s):
+It's Ramses alc, co-founder and c e o of Neurable. Hey, thanks so much for listening to How I Built This Lab. Please make sure to follow the show wherever you listen on any podcast app. Usually there's just a follow button right at the top so you don't miss any new episodes and it is entirely free. If you wanna contact our team, our email address is HIBT at id dot Wondery dot com. This episode of How I Built This lab was produced by Rommel Wood and edited by John Isabella, with music by Tine Arablouei, our production team at How I Built This includes Neva Grant, Casey Herman, JC Howard, Carrie Thompson, Alex Chung, Elaine Coates, Chris Masini, Carla Estevez, and Sam Paulson.
+
+0 (37m 30s):
+I'm Guy Raz and you've been listening to How I Built This Lab. Hey Prime members, you can listen to How I Built This early and ad free on Amazon Music. Download the Amazon music app today, or you can listen early and ad free with Wondery Plus in Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built This merch and gear at Wondery shop.com. Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.

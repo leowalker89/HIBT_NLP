@@ -1,0 +1,845 @@
+2 (0s):
+Support for NPR and the following message come from Comcast through Internet Essentials Comcast has connected more than 8 million people from
+
+1 (8s):
+low-income households to high-speed internet most for the first time more at Comcast Corporation.com Internet Essentials.
+
+2 (18s):
+So really quick before we start the show. I want to remind you about the final stop on this year's how I built this live tour supported by American Express. We will be in
+
+1 (27s):
+Denver Colorado. So
+
+2 (29s):
+if you're anywhere near Denver on November 13th, come see the show. I'll be talking with Kurt Richardson of other products. It's all happening at Denver's Paramount Theater on November 13th. You can get your tickets right now and find out more about it at NPR presents dot-org and I hope to see you there. We knew the business that we had wasn't working. And so with the last bit of cash that we had we managed to pull in every single favor that we had left our friends and family had said that we really love you guys, but we're not we're not giving you any more money. This is terrible business like well done, but enough's enough.
+
+2 (1m 17s):
+From NPR it's how I built this show about innovators entrepreneurs and D lists and the stories behind the movements. They built I'm guy Roz and on today's show how a Buddhist monk and a stressed-out marketing consultants at down of a Starbucks and wound up launching headspace meditation app that has millions of users around the world. So we had several episodes that feature co-founders and if there's one thing that's clear. It's that all of them brought different skills to the table and Method Adam Lowry mix the ingredients to make the soap Eric Ryan design the now iconic bottles and Reddit Steve Huffman.
+
+2 (2m 7s):
+Did the coating Alexis Ohanian did the content and at away Jen Rubio focused on building Buzz for the suitcases Steph Curry figured out how to get the made so you get the point right and it's almost hard to imagine any of these companies making it without both co-founders and that is also probably the case with today's story because it's a story of two totally different people with totally different strengths. One of them handy puddicombe trained as a Buddhist monk for more than a decade. The other Rich Pearson was a rising star at a top-tier advertising agency in London.
+
+2 (2m 47s):
+They Head because Rich was spiraling he was burnt out and looking for help and Andy was the person he happened to come across at the time and he was offering one-on-one meditation sessions at of a back room of a doctor's office. Neither. Andy Norwich could have imagined that eventually the two of them would build a meditation app headspace now used by millions of people and a business that generates more than a hundred million dollars in annual revenue and the story of how they came together at the exact right moment each with the exact skill set. They needed to co-found and build headspace.
+
+2 (3m 27s):
+Well, it's a pretty long journey and Andy the Buddhist monk, he would say that it took as long as it was supposed to but it actually starts when Andy was growing up in the UK in the 1980s. He was first introduced to meditation as a kid around the time his parents marriage started to fall apart. Here's my parents split up at 10
+
+1 (3m 50s):
+and my mom was I think she was she was looking for a way to cope meditation definitely was within her kind of sphere of of interest and in Bristol, there was a local group. It was a TM group transcendental meditation group and she decided that she was going to do a six week course and my sister I found out was going along with her and I didn't want to be at home on my own. So I asked if I could join them. Yeah and it led to actually kind of a couple of years of doing that kind of thing into my early
+
+2 (4m 22s):
+teens. This is in like the early 80s when meditation was by no means mainstream. I mean even sort of
+
+1 (4m 29s):
+Westeros was so outside of
+
+2 (4m 30s):
+mainstream. Yeah and did it feel weird or different when you were kid is you feel like this was a little unusual it did but I don't know if I
+
+1 (4m 40s):
+had that point of comparison, you know as a kid, you don't necessarily have the this is this is weird and that's not my mom was going So I was going there wasn't until I told a really good friend of mine. He still a very good friend of mine. I shared with him confided in him that I'd been going to do this thing because I knew it was a little bit kind of weird and and I went into school the next day and all the other kids in the class was sound their desk cross-legged sort of bombing at me as I walked in the room and it was at that point. I think then I registered that okay. This is definitely not something that is mainstream is probably not something that I'm going to be able to talk about too much to other people.
+
+2 (5m 22s):
+And what was it was it focusing on breathing due to remember what those group sessions are
+
+1 (5m 27s):
+like with TM is typically a mantra. So you're given sort of a word or a phrase in you repeat it over and over for sort of a 20-minute period and at that time I found it really really difficult as an energetic young kid to sit there and be still and to focus, but it was definitely No, I still found you know, I still look back at it with a sense that it was it was a very positive influence an early stage in my life when you were like
+
+2 (5m 58s):
+16 because in the UK, it's a little different than in the US which is it's only that time like the drinking age. Yeah probably wasn't really enforced and it was typical for 15 16 year old kids to go to pubs and get pints of beer and yep
+
+1 (6m 12s):
+drinking cultures is very different. There were
+
+2 (6m 15s):
+you into that were you part of that?
+
+1 (6m 17s):
+I was very into it by that stage. I was playing in a rugby team as well and it was very much part of the culture. Yeah, we'd go out at the weekend with our with our fake ID and go and find some drinks
+
+2 (6m 29s):
+around that around this time. Like in your teens why you were at a pub one night. You went through a kind of a pretty traumatic experience. Yeah. What happened?
+
+1 (6m 45s):
+It was Christmas Eve. We had a Party at the local Rugby Club in keynsham. And so it's Christmas morning by the time we all sort of came out onto the street and we were standing in a big group outside the club owner a drunk driver came down the road and crashed into to the group of us and I was just very lucky to be standing on the edge of the group, but it killed two people and injured to put in sort of critical right intensive care like 1212 of the group and you know, every single one of us there that night dealt with dealt with it in a different way. I think we were all very confusing.
+
+1 (7m 27s):
+I was still young when I'm 18 years old, you know, I don't know if we ever really kind of know how to deal with that kind of thing. I just wanted to get away. I think we often do this. I like the idea the sense of getting away in a physical way kind of we think that we're going to be able to outrun it mentally as well. And of course, he never can so Yeah, like I think a really to this day, you know kind of a really important and impactful part of my own Journey. So
+
+2 (8m 4s):
+so I guess eventually you left home. You went you went to college and you started studying at a place called De Montfort University by the way, we're like, where is that?
+
+1 (8m 16s):
+Yeah, that's enough. Um, it's in Bedford. So I was a sports college and actually I didn't go straight there. So my grades weren't good enough. So I went to spend a couple of years in as you here in the US doing some coaching's sports. I already trained prior to University. I trained as a personal trainer. So I was already working in sort of gyms and things I'm really enjoying that till eventually when I was 21. I got in as a they call it as a mature student in England its basic means of grades don't have to be quite as good and you're a little bit older. So they let you in I think is a Pity thing and I started studying Sport Science.
+
+2 (8m 52s):
+See you you're at University and you decide to drop out in the middle of it. Yeah. What why what what happened?
+
+1 (9m 1s):
+Yes. I was just increasingly. You know, I just felt this sense of So unsatisfactoriness, I kind of felt like I was doing something I enjoyed but I just didn't feel like it was really making me happy. And at the time I was going out with this girl who lived there kind of locally and we talked a lot, you know, she was really into Buddhism and staff and and you know, she talked with a huge amount of admiration about these monks and nuns that would go away and meditate and try and understand their mind, you know, and and it was just into the second year. It was pretty early on just had a day, you know where all of a sudden that seemed to make a lot of sense.
+
+1 (9m 46s):
+I just it was like an inexplicable feeling that I just had to do this so much so that I went into University that same afternoon and said I'm going to leave this is what I'm going to do.
+
+2 (9m 60s):
+So just as she won't understand this you are in a second year in college. Yeah, you're kind of just something's missing which is Unusual for a young person and their 20s or early twenties to kind of experience. Yeah, and you decide that you want to go and study Buddhism and become a monk. I'm yeah, I mean just yeah, I would frame it
+
+1 (10m 24s):
+ever so slightly different a you're absolutely correct, but my experience of it was not that it's not that I sat there and chose to do it. I genuinely felt nothing else made sense. It wasn't it didn't even feel like a choice. I didn't I didn't sit there for days thinking should I do this? Should I do this? What are the pros? What are the cons? It sounds I'm aware of how strange that sounds but just suddenly think one day you're going to quit college and go and become a Buddhist monk, but at the time for what it's worth it felt like a calling I couldn't sort of ignore.
+
+2 (11m 3s):
+So this is like sort of really pre-internet, you know browser. Is definitely could just like go to the internet and the University library and like look up you know how to become a Buddhist monk or like where do I get? Yeah. Yeah. So what did you decide that you're gonna drop out of University? And how do you even yeah find out what to do.
+
+1 (11m 22s):
+I mean firstly I just love the idea that's even kind of a search option on Google these days how to become a monk but I guess it is and there are probably people kind of Googling that but no back then I'd read a little bit and most of the stuff I had read was from Southeast Asia. So it has his home in Thailand and Vietnam and and Sri Lanka so I started thinking okay. I'm going to go to Thailand. I knew of a teacher who was there who are really kind of respected. I enjoyed their writing so I thought okay. Well, I'm going to I'm going to go there but this girl friend of mine said o friend of mine has just come back from from the Himalayas. She went to visit the Dalai Lama. He was in Northern India in this kind of small town.
+
+1 (12m 4s):
+I went and got a Lonely Planet guide from the local library. And looked it up and thought well, that looks interesting. Okay, maybe I'll fly to Daddy instead and you know the Dalai Lama's there must be a pretty good place. So I flew into a film to Delhi. I think I done a little bit of research and I printed some stuff out before I went and I knew of a retreat center. So I went to retreat center and said kind of you know, this is this is what I'd like to do. Could I just start off maybe by working here kind of maybe doing some Retreat and I was there for probably six months or so before then going on to Thailand and Burma sought to actually train in a in a
+
+2 (12m 42s):
+monastery in when you got there to Burma. What was the commitment you were making like how long we going to be there in that particular tradition? You don't make a time commitment. I
+
+1 (12m 54s):
+didn't later on in the Tibetan tradition I did but I started training as a novice Monk and it was over all the of all the training. It was really full-on. It was way more full-on than what I've come from, India.
+
+2 (13m 7s):
+What do you what do you mean like what was a typical day like
+
+1 (13m 10s):
+so in Burma, it was just meditation. So we were doing an 18-hour day. So it's eight hours of sitting and eight hours of walking meditation all in the same room Plus in the two hours for eating at 5:00 in the morning and 11 you'd have lunch and then no eating after midday. And then you'd have somewhere around three three and a half hours sleep at night time. And that was it seven days a week. So it was it was a
+
+2 (13m 37s):
+really I mean
+
+1 (13m 39s):
+really kind of quite extreme retrospectively. I think I would have done things a little differently. There was no one there were no English people there. There was no one who spoke really English even my teacher there didn't really speak any English. So every afternoon I had ten minutes with him and I'd go and sit there and he'd look at me and he'd sort of smile and look very kind of warm and happy and sometimes I'd sit there and I'd smile and kind of laugh and other days I'd sit. And I'd cry and he didn't really have anything to say because he didn't speak English it. Sometimes he just speak Burmese anyway, and I would just sit there and kind of you know, so there wasn't a lot of instruction taking place.
+
+2 (14m 19s):
+Yeah, I've talked to people have done in the past now, which is like 10 days sound Retreat and who've had like in certainly in the first few days really broken down, you know, really just emotional breakdowns is so hard. It's so feel so isolating. You must have experienced that.
+
+1 (14m 35s):
+Oh, yeah. Yeah. I definitely I met a part of myself that I had never previously experienced and it was vulnerable. It was painful challenging in ways. Yeah. I don't even know how to describe.
+
+2 (14m 50s):
+What are you still thinking? Yep. I want to become a monk. Like I mean to me, I think 90% of people would have just dropped out of that point said this isn't for me.
+
+1 (15m 1s):
+I think there's different ways of looking at that guy think through the lens of a Buddhist monk. I think you just look at him. Say was You know kind of that was my journey and you know, this is the journey I'm on and I kind of eat did you know when you're living your life and it just feels like you're in the right place in the right time, even if it's difficult. There's still a sense that this is this is just where I should be right now. So even when it was difficult, I still felt that this is where I should be right now. But yeah eventually kind of the was a point where I think I kept getting. Alien Asia as well. You know, like that is the additional challenge. It's not just the challenges of the mind. It's the challenges of the stomach and the bowels as well.
+
+1 (15m 41s):
+And I remember eventually a teacher from Australia coming and he said look, honestly, he said if you want to kind of go and do like a year a tree or a two-year Retreat or something like that. He said I'd probably try and do it in the west if you can he said find a good teacher, but he said it's so much easier to do that. So I yeah, I started sort of looking at some some other places as well and and I met this teacher this Tibetan Lama and You know, we talked a lot by that stage. I'd already kind of done multiple years. I don't know Pro 4 years something like that our training and we talked to we talked a lot and I was so moved by his warmth by his compassion by sense of joy things that I'd not necessary.
+
+1 (16m 23s):
+I'd witnessed a lot of awareness and focus and attention in other monasteries, but hadn't really kind of seen this other sort of side. And yeah, I made the decision was really easy again kind of actually this is what I've been looking for. And yeah now I don't know how many years later 25 years later. He still he still my teacher now.
+
+2 (16m 42s):
+So any I mean it during this period like I assumed that you'd go home now and again to visit family and friends and when you did like, what did they think of you do they feel like you changed a lot? Yeah, so
+
+1 (16m 56s):
+I do remember going back. So I was I was fully ordained and I remember walking down the High Street. So I mean, this is a small town in the south west of England. I'm walking down there. A bright sort of maroon robes and seeing kind of old school teachers and you know old mate and then saying to my friends kind of a be great to all meet up together and and they're like sure yeah just come down the pub. We'll be there right where we always are and I'm thinking in my mind, you know, there's this conflict. I'm a monk. I can't walk into a pub as a monk and maybe it's okay if I just drink water and look they're not going to meet me anywhere else because like genuinely they be saying no same chairs for many years. Yeah, they weren't going to give them up.
+
+1 (17m 37s):
+So I did I walked into our local pub where we used to hang out as teenagers and I sat down around a table. Remember there were eight of us around this table. I drank water they drank beer and we talked about the Himalayas, but I never felt like I I lost touch with the character or the person I grew up with it wasn't like a different person. Yeah, it was just I was having a different experience.
+
+2 (18m 3s):
+Okay. I want to I want to confess for just a couple of years to the early 2000s because I guess at a certain point you as you wind up in Moscow in Russia teaching in a meditation center there. Yeah, and I guess you were sort of you're supposed to be there like waiting until you get a spot at like one of these long-term regenerates is is that
+
+1 (18m 24s):
+right? Absolutely. So there was a there was a full year or treat coming up at one of the monasteries and this Retreat just kept getting pushed back. So I found myself in Moscow for a number of years kind of teaching meditation, but waiting to go into long-term Retreat and so I think on the one hand I was thinking okay. I want to make a long-term commitment to to retreat and better understanding my mind and on the other hand. I was getting this kind of experience of what does it mean to take? Each meditation, you know and it wasn't what I'd set out to do but I kind of accidentally found myself in a position where where I was I was then teaching you were
+
+2 (19m 3s):
+teaching meditation in Moscow to Russians in English,
+
+1 (19m 7s):
+correct and mixed in with the Russians were a bunch of expats who lived in in Moscow and I got to know people who were come along to these centers kind of alongside the the sessions that we have at the center. I'd meet up with them and then one of the expats had invited me to go in and teach his execs at an oil company in Russia, and he said look, you know kind of you can't come in dressed as a Buddhist monk, you know, it's an oil company were in Moscow and that had got me thinking about this whole idea of you know, demystifying isn't trying trying to make it more accessible
+
+2 (19m 44s):
+you go back to the UK in 2004 after a couple years in Russia to study Circle. Art's is a total like lets out of left field people going to listen to us today. Wait. What? Wait, I think you are a monk. You were doing what he learned join the circus. What what's what's the story?
+
+1 (20m 4s):
+Yeah, so it sounds crazy. I know it. He actually State stay with me guy. It does actually make more sense than it than it first sounds what happened was I was in Moscow and I'd already made the decision actually to sort of hand that my ropes to no longer be a monk what why so I found increasingly over the years that I was there that as I say, I was meeting people and I was finding a way of talking about meditation in a way that I had never experienced myself and but that seem to really resonate with people you
+
+2 (20m 41s):
+found a way to explain it to people language that you exactly you wished you had had
+
+1 (20m 47s):
+exactly that so I found myself living in Moscow still teaching in The Meditation Center, but no A living as a monk and I hadn't done any exercise for 10 years and I was really excited about doing some exercise and a friend of mine there was doing a degree Moscow State circus and he said look, you know, I used to look like Robotics and stuff and juggling and you know, I didn't just come along, you know meet some of my teachers so I did and I don't really got to know how it happened but I was there and one of them said, hey look, you know, you can do a degree in this back in London and I was already thinking okay. How do I make this transition from Buddhist monk living in a monastery?
+
+1 (21m 29s):
+Too kind of making this content more available. Yeah, I'd no money as a monk. You give away all your belongings. So I given away all my clothes money everything. So I think how am I going to go from Russia back to England and I kind of saw an opportunity, I guess as of now a very mature student at 32, I was I was in a position where the government would essentially kind of pay for everything like
+
+2 (21m 55s):
+fund your education to study to study circus
+
+1 (21m 59s):
+or so. Yes, so so they funded not only the degree but they also funded my my living as well. So, you know, I was I got into a situation where I didn't have to find kind of a job when I went back to the UK. So by during the day I went to school and studied studied circus Arts. It was a it was a big big
+
+2 (22m 19s):
+difference in mean time in your mind you had this idea of I think I can make meditation more
+
+1 (22m 24s):
+accessible. Yeah. I mean every available I was up at four o'clock in the morning. Writing content and trying to work out kind. Okay. Well, what is this thing that I want to do? But alongside that running in parallel was a managed to find a place where I could teach teach meditation just doing one to one at that point. I found a doctor who ran an Integrative Health Centre in London where they had everything from sort of rheumatic specialist to cardiac Specialists, you know, right across the board all different disciplines and he had heard of mindfulness and he said we'll look if you can make it work here then I'm happy to give you one of the clinics rooms
+
+2 (23m 6s):
+who were the kinds of people who were going to see you were they too were they people who are suffering from medical ailments where the people who just had work stress or were they kind of hippie-dippie kind of people or people in suits and ties or
+
+1 (23m 20s):
+yeah, they the I deliberately chose that clinic or that kind of approach because I didn't want it to be in a an alternative plan. Health clinic or something, you know, I wanted it to feel really kind of mainstream. That was that was intentional. It was also in the city. It was in the financial district of London. So most of the people I was seeing worked in the financial industry, they were struggling with depression anxiety. Insomnia migraine. It was broad, but I would I would say that they were all struggling with many of the things that we all suffer within in life
+
+2 (23m 58s):
+now. So in London, were you convening like larger meditation groups represent mainly one-on-one groups.
+
+1 (24m 4s):
+So I did I'd start with some Workshop. So the the in the clinic I was primarily yeah, but by that stage, I'd finish kind of studying at the so school. I was working full time in the clinic seeing anything from and it's six to ten people a day and I started at weekends. I started I did a few a few workshops, but it only really changed to sort of much longer larger groups after I met my now very Good friend, Rich who's the co-founder of head
+
+2 (24m 32s):
+space? So this is probably a good time to bring you in which you've been sitting here patiently. Yeah. Yeah in this I understand it like you when you met Andy you were I guess in your mid-20s and working in London at this sort of high-powered Ad Agency called BBH. Is that
+
+1 (24m 49s):
+right? Yeah. I was working on kingly street right in the middle of Soho. Yeah,
+
+2 (24m 52s):
+right. So so you're like sort of day-to-day life was probably like working all day and like not getting much sleep. And what was that more or less what it was like,
+
+1 (25m 2s):
+yeah. I was working a lot. Like we you know, if we were pitching we'd often work 15 16 hour days and we would it was client services. So you were you know, you're the best of clients you have to work crazy hours. But the same time there was just a lot of there's a lot of drinking and partying that went with the culture and it was a way to kind of really let off steam when everyone worked really hard and played really really hard. It was very hard living I would say for for in Early years when I when I was working for sure.
+
+2 (25m 31s):
+I'm did you like that life? Well, I'd love that to be honest
+
+1 (25m 35s):
+with you. I absolutely loved it when I felt like I'd found my career calling and I loved it. I could be around creative people and come up with creative kind of products over time that I think when I gave up drinking when I kind of decided that I was not going to kind of live as hard. Yeah. I just knew I didn't want to do that anymore. And I kind of I felt the kind of the shallow nature of selling people things like maybe didn't want and I just wasn't getting I just wasn't getting any Joy from that experience and I didn't know what I wanted to do and I was getting acupuncture at the time because I was just getting more and more anxious as I kind of didn't really feel like I understood my place in the world.
+
+1 (26m 18s):
+And in that the person that was giving me the acupuncture said look and I was obviously tell you about my job and how unhappy I was said. I've got a guy actually got a course starting next month. Have you ever thought about being an acupuncturist? I think you'd be a brilliant acupuncturist and I'd said no, I've never considered that and but I yeah, I went in and the next week and I quit
+
+2 (26m 41s):
+and decided I was going to go and become an actual jurist. Yeah, that's how that happened. Wow. So did you start taking classes? Yeah,
+
+1 (26m 50s):
+I just felt like I wanted to do something
+
+2 (26m 53s):
+that had some impact and so I
+
+1 (26m 56s):
+started the course 3
+
+2 (26m 58s):
+days a week in a normal academic kind of calendar and in I was freelancing for the rest of the time to kind of make money through do freelance advertising. Well freelance kind of just marketing of
+
+1 (27m 10s):
+advice like it was weird when I kind of quit my job. Lots of people reached out and so I kind of managed to Cobble together quite a few independent jobs that was enough to kind of pay my, you know, pay my mortgage. I got
+
+2 (27m 24s):
+flatmate and I managed to kind of survive that way and pay for my course, so you're doing that. And how did you come across Andy? I mean at that time he's teaching meditation in the city in London. Did you hear about it from someone else? Yes is the one of
+
+1 (27m 41s):
+the this guy could Adam Breeden you had a business school
+
+2 (27m 44s):
+style lanes and he had asked me to help him out with some marketing. So I was helping him. Yeah, we've become good friends and I was open about you know, how anxious I was feeling and just how that
+
+1 (27m 56s):
+was getting progressively worse and he'd
+
+2 (27m 58s):
+been getting one-on-one lessons from Andy and he suggested I should go and meet Andy like Andy had this clinic and he'd wanted
+
+1 (28m 6s):
+some help with it. So it was the skill swap. You know, I met Andy and he had the clinic and so he said look, why don't you know, I put you through the clinic experience and I think I can help you and maybe you can help me with some ideas for the clinic
+
+2 (28m 21s):
+and Andy. What did you think that rich could help you with? Did you think he might be able to help me figure out a way to get this out to more people? Yeah, I think I think
+
+1 (28m 31s):
+exactly that, you know, I could see that it was working for people and people who previously wouldn't have looked at meditation. We're getting benefit from it at that time. I was starting to put together. I was thinking I do I start trying to train other people to teach meditation. Do I try and take this into workplaces? I just didn't really kind of I'd no idea I plug 0 business experience, but also no idea how to Brand it or anything, you know kind of and I just thought that the rich could could help sort of help me yet. Take this idea outside of the the clinic and Beyond that's right. So with there was a Starbucks that was over the road. And so we would before the session we would go over the road and he and he tell me what his ideas.
+
+1 (29m 14s):
+I'd give him a loads of ideas and then we go to the clinic and he would teach me meditation. So I really kind of start it was a very much an exchange of skills with no real sense of where it would wear it would go.
+
+2 (29m 27s):
+But any I mean, what did you say to? Rich, like did you say Hey, you know, I want to start an education company. I want to make like pamphlets like was it was not that specific.
+
+1 (29m 38s):
+I think it was more about what I really want to demystify meditation. I want to get meditation out that want to get more people meditating. I don't know how to do it kind of outside of the clinic at which point I said, how do you feel about the name because it's his days I really want to do is find meditation. I said talk to me about the name. It was that it was called a sunya. That's right. Which Andy can but
+
+2 (29m 60s):
+is that was the claim of your clinic as soon yeah.
+
+1 (30m 2s):
+Yeah, everything is called a senior. So Sonia Sonia data and a sunyata which old old Sanskrit words but as soon you means kind of bringing the making something real out of emptiness and so like the sentiment of it was kind of right in the sense that kind of I wanted to bring something into the world that kind of, you know, people hadn't necessarily experienced. But I mean an old Sanskrit name probably not the right way. Demystify something. So you guys start this process of just
+
+2 (30m 32s):
+kind of brainstorming and the meantime Rich you're going through a course right? Like I meditation course. Yeah, and he's teaching me as he would his clients in the
+
+1 (30m 42s):
+clinic. It was a ten week course and it was just a really good kind of training experience
+
+2 (30m 49s):
+the aim of it the star it really was just the kind of simple exchange. This was like a almost like a barter. It's a great word. But like yeah you gave Andy gave Rich free meditation sessions and Rich you gave Andy free Consulting. Yeah. That was very much. I won't yeah got the better end of that deal like who's gonna lose no money out because Rich your project a lot of money for your
+
+1 (31m 12s):
+consultant fee. I think I got the bed know I'd I don't know
+
+2 (31m 16s):
+honestly, I did genuinely I kind of you know,
+
+1 (31m 18s):
+I remember when I was the second time. I went to see him. I basically wrote out a stream of consciousness of everything that was in my mind. It's like I couldn't
+
+2 (31m 27s):
+make sense of it. And so I
+
+1 (31m 28s):
+didn't know how To explain in words what was going on in my mind? And so I just make throat this man I think back at is this madness of
+
+2 (31m 36s):
+like double-sided kind of 18 sides
+
+1 (31m 40s):
+of pure drivel. Really when I when I think about it and Andy, I gave it to Andy and said look, this is what's going
+
+2 (31m 44s):
+on and he patiently read every single word in
+
+1 (31m 48s):
+front of me and never like a look of judgment or
+
+2 (31m 52s):
+anything on his face. And at the end of it was just like I think one I
+
+1 (31m 55s):
+think this is like very normal and to
+
+2 (31m 58s):
+you know, I think I can help you with it. And so to hear
+
+1 (32m 0s):
+that when you
+
+2 (32m 2s):
+felt desperate
+
+1 (32m 5s):
+is I yeah one of the like the kind of things anyone can ever do for you, so I think I genuinely definitely think I got the better. I got the better end of the deal with and then Andy
+
+2 (32m 15s):
+so Andy, I imagine that most of the people who came and saw you really liked you because you are there to help them. What did you like about rich or what? Did you did you I mean there must have been some kind of connection between the two of you pretty
+
+1 (32m 29s):
+Quickly, as you know, obviously we got on very well, but we had a shared sense of anything is possible. Just I think that was just our character. I think whether it was we were born with it. I we kind of got bought up in different households, but we both had a shared sense that anything was possible. We both shared a naive optimism and ambition. I think we both got energy from being with the other person. So you're
+
+2 (32m 55s):
+meeting regularly and your kind of brainstorming and at what point did the two of you say. Hey, let's do something together. Was was it the feeling from the beginning or did that
+
+1 (33m 6s):
+evolve? Well, I think yeah, I don't think it right from the beginning. I definitely didn't think that that was gonna be the thing. I thought I was genuinely just helping Andy and I just felt very grateful that I was getting help with my anxiety. And so I just thought it was genuinely a like a skill squat, but the I think the moment it kind of became clear was when we were talking about What it could be and we got a sense of that kind of shared understanding and Andy actually said to me would you come and would you like to work with me? And I thought he was saying it's my business. Would you like to come and work for me? And I was like, yeah sure.
+
+1 (33m 47s):
+He said well, I can't afford to kind of pay you but would you do it and I was like, yeah, of course and it was at that point that Andy said to me know I'd like as a 50/50 partner. Like I want I want let's start this thing
+
+2 (34m 1s):
+together and that was the first time
+
+1 (34m 4s):
+genuinely that I thought. Oh, he actually wants to do business with me
+
+2 (34m 13s):
+when we come back in just a moment originality turned the one-on-one meditation experience in the clinic into an app used by millions of people all over the world. Stay with us. I'm guy rise and you're listening to how I built this from end. r Hey everyone, just a quick thanks to two of our sponsors who helped make this podcast possible. First two are how I built this 2019 lead sponsor hiscox hiscox, the business insurance experts who understand that each business is as unique as a fingerprint or a barcode and Taylor's intelligent Insurance Solutions to fit every business has very specific needs which may explain their 97% customer service rating get a quote or purchase a policy at hiscox.com hiscox business insurance experts.
+
+2 (35m 18s):
+Thanks also to Volvo 60 years ago Volvo cars introduced the three-point seatbelt, which is credited with saving More Than A Million Lives Volvo believe this invention was too important to keep to themselves. So they wave the patent rights and gave it away to the world with seat belts now standard across all brands. There is a little piece of Volvo in every car on the road today because at Volvo Will always come first learn more about Volvo's history of Innovations at Volvo cars.com u.s.
+
+1 (35m 53s):
+Did you know about the Cuban connection to Cuban jazz or how Mambo influenced early rock and roll I'm Felix counted as host of NPR music salt Latino podcast. I'll tell you about all those exciting stories and much more and some special programming. I've cooked up for Latino Heritage Month. Listen And subscribe to all Latino from NPR.
+
+2 (36m 20s):
+Hey, welcome back to how I built this guy Roz. So it's right around 2010 when Andy puddicombe and Rich Pearson decide to go into business together. But at this point they still don't really know what the business is going to be. They have a hunch that Andy's meditation training could help a lot of people the problem is how do you scale Andy the very first idea actually I think on the
+
+1 (36m 46s):
+first or second time that we met in Starbucks I
+
+2 (36m 48s):
+said she puts on her lap and and he's like,
+
+1 (36m 52s):
+yeah, I like the idea but it's it won't work because traditionally it's always been taught in a kind of teacher to
+
+2 (36m 58s):
+student model like in a kind of in live in person. And so that's when we started to play around with the idea of events and Live Events. So you were going to be a like a Live Events business.
+
+1 (37m 12s):
+We were we were for several several years. Yeah. We were live event. We did Live
+
+2 (37m 16s):
+Events and the out of curiosity. I mean Rich has come Mary. In this world, he'd been in advertising and Business Development. Like this was a totally normal Pursuit. Yeah, but you had been like you would given away all of your stuff right? Like, you know, if you were like living in monasteries and wearing robes like was a part of you uncomfortable with the with the idea of like a business.
+
+1 (37m 40s):
+Yeah. I don't know if we really thought of it as it was almost more like kind of how do we just change the behavior in the way people think about something obviously to survive while I was working at the clinic. I'd had to charge money and so I'd kind of got past that point that was at the beginning of the clinic that was a really big leap for me to charge money to teach somebody meditation felt so fundamentally different from where I come from. I spoke with enough teachers that really kind of Coach me through that and help me get understand that will that is the reality of living in the world like your landlord is going to want some rent and if you have a Gail it's kind of okay to put a value on that and in order to share it so I'd gone through that kind of more through the clinic process.
+
+1 (38m 27s):
+So by the time we got to head space it was more about just this big idea of of demystifying meditation and getting out
+
+2 (38m 34s):
+there. So you guys needed to to build an events company or to advance companies probably not the best description. But this idea that if you wanted to spread this idea, you'd still needed money to mount events and to advertise and so so where did you go first?
+
+1 (38m 51s):
+Well, we went to Andy had some clients at the clinic that he you know, he'd worked with and people that he knew in Russia that kind of contributed so friends on that side
+
+2 (39m 2s):
+went to my dad
+
+1 (39m 4s):
+my poor Dad I've got rich is that by the way like have to give me a shout out. He was amazing. Yeah. I mean it was all the see if it hadn't have been for him. We wouldn't have we wouldn't have made it and he I remember going I want to see him I'm we presented him with this this big kind of pitch. We put together a business plan and everything and at the end of it. He said, I don't know if he was like it's a terrible idea. And so those think this idea is going to work but he said if anyone can make it work, he said I think you two guys can and he said so, you know, I'm prepared to I'm prepared to give you a tenth of what you've asked for it is exactly but it's on you guys not on the idea.
+
+2 (39m 46s):
+Yeah, and I read that your dad invested or give you 50,000 pounds to help start it, but I'm I'm wondering I mean, did you tell him you know, oh we're going to have a Vance and people can buy tickets, you know, we're going to create a sustainable business that way or was there more like and I mean how would he have seen a return on his investment the bad the time it was purely just the events and we felt that we could build a business from
+
+1 (40m 15s):
+that and that was the business
+
+2 (40m 16s):
+of what that
+
+1 (40m 18s):
+quite rightly actually in hindsight. Ted would never make a good business case it didn't but the thing I would say is one. He never ever once asked
+
+2 (40m 28s):
+for any shares in the business or any return for any of the money that he gave us and to the point that
+
+1 (40m 34s):
+actually when we finally
+
+2 (40m 35s):
+did do a fundraising 2015 like our first proper fundraise that was when we kind of forced him to take shares for the amount that he'd invested in the early
+
+1 (40m 46s):
+days, but he never genuinely he said to me I was never expecting to see any of that that money back
+
+2 (40m 53s):
+and how did you come up with a name headspace?
+
+1 (40m 56s):
+It was one of those Beautiful Moments and trust me. There was so many bad things. We'd I don't remember them all but we work we're actually going I think we were going down to sit down to your daddy my dad and we're on the way on the way down there and I'm rich kind of said, I really feel like it just needs to have something very tangible in there. Like the mind is so intangible like, you know kind of the word head I think Really kind of clear what it what is about and I was in the passenger seat and I said, yeah, but it needs to feel spacious. Like that's what people want. That's what people are looking for. And we you know, we looked at each other and went let's face. It was just one of those and we I mean we spent months trying to go through a brainstorm all let's so many bad idea.
+
+1 (41m 39s):
+What were some
+
+2 (41m 40s):
+of the names you were
+
+1 (41m 41s):
+like, I've got some one of them was recognition. I know that which sounds like a bad German techno club in but when I'm there was recognition, there was like mine space other was mindlab mindlab mine Jim. Yeah, I mean every combination that was the none of them good. No, none of them.
+
+2 (42m 3s):
+All right, so you have a little bit of capital to work with its 2010. Yeah. And what's the first thing you do? Do you like Mountain event?
+
+1 (42m 14s):
+Tell him how you spend the money Richie. I mean I went snap with the the I felt well, we both felt that meditation was really intangible and you can touch it and you can see it and you can what is it? And so we really wanted to create a physical experience. So we spend off the 50,000 pounds. We spent twenty thousand pounds of it on the the kind of physical collateral to give out at the event. So we designed these beautiful cards about 60 different cards leading you through the 10 steps of meditation tips for how to sit Rennie was really the first version actually of the the app in a way.
+
+1 (43m 3s):
+Uh, yeah, I think so the 20 grand went on that and then I remember sitting on the back of Richie's moped traveling around London looking at trying to find the right venue and we eventually Hold on bafta
+
+2 (43m 16s):
+the art film frame
+
+1 (43m 18s):
+film and television kind of yeah, Freddy kind of luck. See kind of feeling I just as far away from the community center Vibe as we could get because we were trying to you know, put meditation this new space and I think it was 10,000 pounds a day. So basically on that first event, I think we'd already blown 30 before we even kind of turned
+
+2 (43m 37s):
+up. Okay. So so this first event happens, I guess in May of 2010, right? And by the way, how many people showed up?
+
+1 (43m 44s):
+Yeah, we had about 200 people there. So it was and
+
+2 (43m 47s):
+this is in in London at bafta. It was in London bafta.
+
+1 (43m 50s):
+Yeah, and it was off the back of we'd had an article in the
+
+2 (43m 55s):
+times and it launched about four weeks
+
+1 (43m 58s):
+before the event. It was double page spread, which is really hard to get in the times and it said britons are you can easily and his words. He said Britain's top meditation Guru the experts expert and it was about how Andy had been training. Some politicians and sports, you know professional athletes who had been coming to the clinic and it was a kind of profile piece on on Andy and
+
+2 (44m 22s):
+that one it
+
+1 (44m 23s):
+helped sell tickets to the
+
+2 (44m 25s):
+events. And
+
+1 (44m 26s):
+secondly, it started a process where we managed to get a book deal a three-book
+
+2 (44m 32s):
+deal with hotter and Staunton and the advance from
+
+1 (44m 34s):
+that which I think you've still at that time. It was like one of the highest advances paid for a debut nonfiction author really
+
+2 (44m 43s):
+funded the rest of
+
+1 (44m 44s):
+the business year. It really did. Yeah, exactly gave us. I was a hun
+
+2 (44m 48s):
+hundred eighty thousand eight thousand pounds
+
+1 (44m 51s):
+which at that time at that stage in the business that was huge a
+
+2 (44m 55s):
+transformational probably. Yeah it is because I have to imagine that the events that you launched weren't really generating because they're expensive right? You've got to make the venue space and maybe provide ever losing money on them guy so describe what they were like, we would you sit like on a stage or in the front of the room and Meditations was there food was her coffee a T5 has faced by mrs.
+
+1 (45m 20s):
+In the taxi on the way to the first event with Andi and I just looked at him and I've been so busy trying to work out all of the the, you know to get the events that are just yes the event. I just turn him I said that what have you got planned for days, you know, do you know what you talk about? And he's like,
+
+2 (45m 36s):
+I'm just working it out and I was thinking we'd like fucking minutes turning
+
+1 (45m 42s):
+up and it's starting at the first event was Andy on stage for eight hours with some
+
+2 (45m 47s):
+breaks, isn't it is an all day event. You can
+
+1 (45m 50s):
+you go over here you go feel sorry for the audience, but it was it was just it was me. It was me land. In fact, probably I'd say all the bafta ones, right? So probably for the first sign of six or eight events we did that was the format it was it was eight hours on stage a break for lunch like a couple of breaks kind of Midway through morning and afternoon and another break for lunch. Yeah. We did we used to try and put them on every four to six weeks and they got short As they got shorter so we went from a full day to a half day from a half days of two hours then eventually I down to 45 minutes. Yeah something and I think the shorter they became the more often we did them and we would do maybe sort of two or three in a day. Yeah on a Saturday rather than sort of one big one every six weeks or something but it was it was like hindsight's no site, but we got to
+
+2 (46m 36s):
+speak to pretty much every single person that came to those events. And
+
+1 (46m 41s):
+I don't know if you think back to 2010 the UK probably the most cynical Market in the world at that time around this type of subject matter. So it was just really interesting for us to see how different people responded. We got feedback cards that were very detailed that we made people fill out. They weren't allowed to leave but it was brilliant because it that really that input and that feedback. It was just a big research
+
+2 (47m 8s):
+group for me eventually did launch the
+
+1 (47m 10s):
+air, so I guess it was
+
+2 (47m 12s):
+2012 when you launched. The first version of the app, how did that how did that happen? I mean it sounds like richly you would already in your mind. You were thinking we've got to put out an app and Andy it sounds like you were a little bit reluctant about doing that. So how did you kind of come to terms with turning it into an
+
+1 (47m 30s):
+app? So we talked about how could we recreate that 10-week journey in the clinic? How could we kind of give somebody that
+
+2 (47m 39s):
+so same level of salt
+
+1 (47m 40s):
+benefit and definitely I was reluctant but then when we I think eventually they just lock me in a studio or something and so just just try and record some stuff and see see what happens but like yeah well together we chatted and translated the the 10-week course
+
+2 (47m 59s):
+into a 365 Day program. And the reason that we got to that point was that we knew the business that we had wasn't working and our friends and family. It said look, we really love you guys, but we're not we're not giving you any. Money, this is terrible business like well done, but enough's enough and so with the last bit of cash that we had we managed to pull in every single favor that we had left. And where were you recording the Audio? I mean, did you have to get Studio space and and do that year we I mean so much of head space is down
+
+1 (48m 35s):
+to generosity and kindness of friends and people we knew along the way and Rich had you know, whenever we needed something or had a problem he but I know a guy well, I know go and we find them up and he had this friend Dre. Who's not the doctor who's a very who's a very dear friend of both of us now and Dre was I mean, he was amazing. I mean the first version of the app, he basically gave us free access to his studio for the first couple of years, right? He had a
+
+2 (49m 8s):
+recording studio. He yeah, he
+
+1 (49m 10s):
+had a recording studio as part of his business his In business and I mean maybe we pay for the engineer. But other than that, I mean he did everything for free. He was again, we just couldn't have done it with without him.
+
+2 (49m 23s):
+You would just you would record 10-minute meditations that you could
+
+1 (49m 28s):
+yeah, they're actually longer so it wasn't that time. We you know, we just did them all real time and everything. So it was yeah, it was 10 minutes for 10 days 15 minutes for 15 days. And then it was 20-minute meditations for the rest of the
+
+2 (49m 41s):
+year. And it was just your voice speaking a little bit silence coming in silence like in real time.
+
+1 (49m 49s):
+Yeah, Alden real totally out of time here. And yeah, we put together this year long
+
+2 (49m 53s):
+course. Hmm, but when it came to the app itself, like the the coding part, did you like hire a tech team or did you just like have some outside company put it together for you?
+
+1 (50m 4s):
+Well, the my old agency at BBH helped us they gave us some kind of help in kind of pulling it together and then we also Add a lot of Freelancers. So we had a freelancer in Bulgaria. We had someone in India we had people in London. We just it was really a scrappy as we could make it just to get the thing up and then we managed to convince. This is a really big thing for us or two things that happened that really helped. So I think as a woman called Kathy Waters
+
+2 (50m 37s):
+at virgin agreed to put our content on every single Virgin Atlantic plane and we pitched her and go down at Gatwick. Yeah,
+
+1 (50m 44s):
+and she came back a couple of weeks later and said, yeah, we're going to put it on we could put it on a laptop which was
+
+2 (50m 49s):
+massive. We're gonna put and he's recordings on our plane. Yeah and really going to pay for this or that you just knock. I know I definitely thought it was a great exposure and Margaret
+
+1 (51m 0s):
+massive huge it was
+
+2 (51m 1s):
+massively and then on the back of that we then managed to convince the Guardian newspaper in the UK to
+
+1 (51m 8s):
+put a million
+
+2 (51m 9s):
+booklets on the front and we didn't pay for it the booklets of
+
+1 (51m 14s):
+So we we put together they wanted content and we wanted exposure. So is it was a great it was a great deal. They said could we come up with a booklet on how to meditate but they would actually kind of you know, put there in today for the populace. Yeah. So we put together a little mini sort of manual for the start of the year on on how to meditate and now to have a mindful
+
+2 (51m 35s):
+year and did that immediately have an impact on on the downloads of the app. That's exactly right like in that first month. We launched we took 32,000 pounds in Revenue in that 1st January and that was you know, based that we've never made a single parent in any month leading up to that. That was a really amazing moment for the for the team and then it was like, oh my God, this thing is going to fall down last week. We ripped it. All right, so you guys are Scrappy and and this thing starts to get a little bit of traction and then you decide pretty early on 2013. Can relocate you going to move uproot your lives and move to Los Angeles.
+
+2 (52m 18s):
+Yeah why
+
+1 (52m 20s):
+we were coming over to the US and we've done an event in New York, which was covered by the New York Times and what we found was that every time we came over to the us we were making great connections great relationships great friendships, but we would always be saying, oh we're from the UK. We're going back to the UK and very often those conversations. We will great when you when you move out u.s. Or when your company kind of moves out here. Let's pick these conversations up and so we got us kind of chatting and I think both of us and we used to love coming to California. Especially it always felt like home for both of us, you know, I think we really connected with with the feeling here and there were a lot of a lot of really good business kind of reasons for coming here.
+
+1 (53m 6s):
+Yeah. I think what is to say I think in the UK you speak to
+
+2 (53m 9s):
+someone about an idea and
+
+1 (53m 10s):
+they'll give you a thousand reasons why you can't do it.
+
+2 (53m 13s):
+And I think in
+
+1 (53m 14s):
+America you say the same idea and they go there's a thousand reasons why it work and have you thought about making it bigger and can I introduce you to XYZ and it's just a different it's built into the culture and the psyche here in a way that it's not
+
+2 (53m 29s):
+extra but you don't have
+
+1 (53m 31s):
+to it's kind of just part of the way that this country is being built and I think that if you are positive and you dream big like there is no better place. I think in the world to build a project like headspace and I think we felt like
+
+2 (53m 44s):
+that. I do want to ask you Andy about it shortly after you moved to California. You were diagnosed with
+
+1 (53m 52s):
+cancer. I was yeah so
+
+2 (53m 55s):
+all of a sudden you guys moved business there and trying to grow it and there's this huge setback. First of all, you are fully recovered today.
+
+1 (54m 7s):
+I am thank you guys. Yeah, I am. Yeah, we're five I Five Years on from it now did you I mean, this is a real
+
+2 (54m 16s):
+test because you would work with people who are recovering from cancer treatment and plead the clinic in London and and and it's different when it happens to
+
+1 (54m 27s):
+you it is and it's also different, you know, I'd spent many many years kind of doing practices specifically reflecting on one's own mortality and impermanence and and death and it's very different doing that in an abstract way in a monastery when you're healthy, but I did find I found meditation was kind of my rock throughout that period it was it was something that I came back to not just once a day but sort of many many times a day, you know, it's not that I was free from Fear don't get me wrong. It was a scary time, but I think the Temptation in those types of situations in life is to LEAP ahead to what might be what could be and to get kind of caught up in a lot of anxiety about that or maybe to even get into a kind of a conversation in your mind of you.
+
+1 (55m 13s):
+Is it fair or am I you know, and thankfully you like that training kind of allowed me to you know, as much as possible to stay fairly kind of present and not to get sort of to too caught up in that stuff.
+
+2 (55m 26s):
+So we're you kind of out of commission for for a while.
+
+1 (55m 30s):
+I was you know, so I you know the first week obviously, you know, we didn't really need never medical insurance. We were so new in America. And in the meantime, you know, we were having to establish ourselves in in the US and kind of get set up here and also manage the team back home as well because there were sort of yeah 1215 people in the office back in London. Yeah. It
+
+2 (55m 54s):
+was I think it was a challenging
+
+1 (55m 55s):
+time like all around really it was a
+
+2 (55m 58s):
+really I didn't really know anyone in we didn't know anyone. I we
+
+1 (56m 2s):
+didn't we were really kind of out here on our own and so there was no other choice and Andy had all
+
+2 (56m 8s):
+these things booked in all these speaking engagements and the company needed money and so we couldn't turn him down and we'd signed contract. So I had to learn how to kind of go out and do that and it
+
+1 (56m 21s):
+was it was a really challenging time. But also just to
+
+2 (56m 24s):
+see I think Andy Lucinda and his wife go through that and feel very helpless It's Tricky like it was just a really tricky mix of emotions. I would say that I had that I had and lot of just
+
+1 (56m 38s):
+uncertainty. I mean guy that the load that rich to cut lie alongside just running the business the day-to-day of running a fast kind of growing company. He basically took on all of the events and talking kind of, you know engagements which were in Europe and in Asia and I mean Rich was I Remember how many miles you flew in there was a space of a like a month.
+
+2 (57m 3s):
+I mean tens and tens of
+
+1 (57m 4s):
+thousands just it was he was living living on planes. So it was it was really amazing to kind of watch actually just that the capacity that he had to do that
+
+2 (57m 14s):
+when you guys got to La was it already clear that to build this into something bigger. You would have to raise outside money.
+
+1 (57m 23s):
+Well, we route to be honestly we were bit not bit. We were very nervous about it. And it took us a little well. I think it took me a long time actually to get comfortable with it. It was kind of irrational fear about losing control of the vision and the mission if it is that irrational what happens it happens a lot does happen a lot and we'd probably heard a lot of bad stories. And so when we got to California it was the product was it really did take off in a different way and the business was really making serious kind of money and so at that point when Like when people were coming to us saying we want to invest in your company. I do think we had a lot of Leverage because the business was generating a lot of cash and we didn't have many people working at the company.
+
+1 (58m 9s):
+So it enabled us we probably to be honest go before he went overboard, but we met over 60
+
+2 (58m 15s):
+different investment
+
+1 (58m 17s):
+houses have be the best way to describe it until we found someone that we really felt aligned with and we could get the deal done that would work for
+
+2 (58m 26s):
+us. I'm trying to imagine like pitch meetings. I know that a lot of investors when you got to California, we're really interested in and you probably didn't have to sort of sell them on the idea too hard. But Andy, I mean just wondering given like your background and like, you know, you studied to be a monk and you like gave up all your possessions and you have this Epiphany as a you know, 24 year old 23 year old to live a simpler life now you are The all those things that you did we're going to be built into a business that these investors were talking about scale and you know billion dollar company and was a part of you uncomfortable with that. I have to imagine it was um, I'm sure
+
+1 (59m 9s):
+the word there were moments of discomfort. I think the bigger the kind of thing that went if they're talking about scale. Well, that's great. We were talking about the same thing. We wanted to get this out to as many people as possible and we couldn't do that without the money. I think that the Temptation very often is to is to look at it in a very sort of black-and-white waned in just in society in general and say kind of like, you know, okay money money's bad, you know, you guys are trying to do this. It's good money is bad. I didn't really look at it in that way. I kind of I think money can be incredibly helpful, you know, I was really excited about getting meditation out there and getting it to to more people. So that was a way of doing
+
+2 (59m 47s):
+it. It seems like one of the ways you guys have also Managed this process because I think you've raised almost 75 million dollars after a few rounds of first round was 2015. I think you raised about 30 million dollars that rich you handle the business side, really and Andy you kind of focus on just really the content.
+
+1 (1h 0m 7s):
+Yeah, Didn't I mean need a books and rightly. So yeah Ritchie Ritchie. So after that the business yeah, but we got you know, like Andy said like we we work more as a kind of
+
+2 (1h 0m 16s):
+creative, right? Yeah partnership on the things that you know, and he's passionate about and I'm passionate about and the other day to day running is and is not involved in in a lot of that. Yeah, you know, once you guys raised to these rounds you had capital from marketing and to really push this out in new ways and there was an ad I think it came out in 2016. It was a it was a theater something like, you know, when I when I meditate I crush it when I meditate you know, oh, yeah. Yes. Yeah and and so some people Isis and said look, you know medication is not about performance is this is not the point of meditation is not to make you a better investment banker.
+
+2 (1h 0m 58s):
+It's not to make you a better football player. It's that is not what it's about. How do you feel about that when people say that who's interested in that campaign? Because I think I think he actually
+
+1 (1h 1m 12s):
+did something really kind of helpful. We wanted to we wanted to show people that meditation isn't
+
+2 (1h 1m 18s):
+this thing, you know, and we're going to
+
+1 (1h 1m 20s):
+tell you how you're going to benefit from it. We wanted to say look there is a skill anybody can learn the skill and you can apply it with your own intention to any aspect of your life. The reality is as I've seen over kind of a
+
+2 (1h 1m 34s):
+lifetime is that
+
+1 (1h 1m 36s):
+very often the reason
+
+2 (1h 1m 37s):
+people start meditating isn't the reason they necessarily continue meditating
+
+1 (1h 1m 42s):
+and that they might begin it because they want to be better on the football pitch. But over time they start to realize is showing up in other areas of their life. While and yes, they're performing better, but actually they're starting to have better relationships. And and we wanted to break the mold and kind of say it's not
+
+2 (1h 1m 59s):
+just about feeling calm and having
+
+1 (1h 2m 1s):
+relaxation, you know, that kind of traditional way of thinking about meditation. They can also be active it can also be exciting it can be joyful and it can be
+
+2 (1h 2m 11s):
+different and I mean, I guess one of the reasons why you have to advertise your you know, your app your product is because you have competitors right there Arthur other meditation apps out there. Yeah, which is which is like one of these kind of weird aspects about this whole world because you kind of expect the meditation space to be like peaceful and kind and gentle but this is a big business now right like yeah, there are other people in the space. So do you guys I don't know. I mean do you sort of you've got competitors? Do you are you kind of like looking over your shoulder to see what they're doing? And and are you trying to beat them?
+
+1 (1h 2m 47s):
+No, I think we're different ways of kind of looking at it personally. I don't necessarily look at it as as competition in the conventional kind of sense. I feel like we have a job to do and we'll talk keep doing that and what other people do other people do and I don't really like the idea of I think it's very strange idea of competing for people's happiness. I mean that sounds like a it sounds kind of absurd in a way. So I kind of feel like look if our mission genuinely is to improve the health and happiness of the world then if anyone's out there doing things that will genuinely improve the health and happiness of individuals. Then that's something to celebrate is not something to you know, feel bad about from a competitive point of view.
+
+2 (1h 3m 32s):
+So anyone listening to this interview who's familiar with headspace all recognize and he's voice right away. I know Andy you probably like people come up to you and cafes. Are you handy from from headspace? And so because it's so distinct and I wonder I mean Is headspace a company an idea that can live without and he's image and brand personality behind you
+
+1 (1h 3m 57s):
+definitely live without my image. I mean, this is a face for radio if but this is probably a question for Rich some rather I think so if you think about it, we do have a English female
+
+2 (1h 4m 11s):
+voice in the product at the moment. So that shows you that the essence in the quality in the authenticity of the content is still there, but it's just delivered by someone else.
+
+1 (1h 4m 23s):
+So we're in
+
+2 (1h 4m 25s):
+French were in German. We're going to be in Spanish. We're going to be like there's other languages coming out short this year for in the same the same kind of idea. So I definitely think it's not just about Addie's voice. And so
+
+1 (1h 4m 36s):
+as long as we always stay true to the way that we build products. I think there's a
+
+2 (1h 4m 40s):
+huge room to bring in other voices other experts that aren't Andy. So yeah, but you almost have to You have to think about what is right because the value of a company can't be wrapped up around a single. Yeah. I don't see that. I mean ya know I love listening to you, you know on the app, but if one day you both decide that you want to step out of this and your investors, yeah want to sell it or whatever. It can't be wrapped around her. That's correct. He's out and it's a lot. It's a lot of pressure to have it in just
+
+1 (1h 5m 13s):
+that I think I think that that cancer kind of Scare at she was a really good, you know a good wake-up for for us to start thinking about that kind of
+
+2 (1h 5m 24s):
+you know, it's too risky to have it. You know,
+
+1 (1h 5m 27s):
+what if that person you know, or if I knocked over by a bus or eaten by a shark or whatever happens in California, but you know, like there is a risk, right? And so I think it's not only part of improving, you know, it's D risking things for the company, but it's also helping to improve the experience for our members as well
+
+2 (1h 5m 45s):
+ND when you think about All that you had wanted when you were 23 24 and a life of Simplicity. You have a very complex life. Now you guys have what 200 plus employees, you know, you've got investors you've got to have investor. Cornwall's you've got family you running a business people depend on you now, that's a very different life than the one that you had originally signed up for. But do you prefer this way?
+
+1 (1h 6m 19s):
+I honestly can't compare the two I can't say kind of a car look at one and say I prefer it to the other because for me they're not separate the obviously they are different experiences of Life different environments. But the Mind still the same, right and I didn't necessarily go into the monastery because that was necessarily how I would always want to live. It was more. I thought it would take that long for me to understand my mind and I feel really lucky to have been in a position where I was able to go to that environment to experience the Simplicity of that and then have this incredible almost what feels like a second chapter where I get to kind of share that but it's a you know, it's something that all the kind of complications and stuff.
+
+1 (1h 7m 6s):
+Yeah, they're not easy, but you kind of you live with them because you care about
+
+2 (1h 7m 11s):
+it. How much of what happened with headspace. Do you attribute to your hard work and your intelligence and your How much to just luck?
+
+1 (1h 7m 23s):
+Did the last giveaway? Yeah, I think I do know I would describe it as just a lot of generosity. I think it's one of the things that without that from a lot of people that really did Just Believe in Us in the early days, maybe cash Phi that is like, I don't know probably but I would also say we've work we've worked really really hard as hard as you know, I've never been more committed to anything in my whole life because our hearts are in it. Yeah, I think there's there's just a set of ingredients that come together and we've contributed to that but we've often said as well that sometimes it feels like there's just this this momentum.
+
+1 (1h 8m 5s):
+It's almost like a train. Yeah, that's just going and it's like we grabbed onto the back of it and to start with we felt like we were kind of, you know, sort of just comfortably sort of traveling along and then it just sort of picked up a lot of speed and now we're just hanging on to read the back of the train. Because it's finger is paining credible to be a we feel like we are part of something rather than necessarily making something
+
+2 (1h 8m 26s):
+happen. There's anybody comb and Rich Pearson cofounders of head space today headspace has millions of users in a hundred and ninety countries and a last reported valuation of 320 million dollars. And even though Andy is no longer The only voice narrating on the headspace app these days. He enriched joke that if anything ever happens to him, at least he still have hours and hours of his meditation recordings.
+
+1 (1h 8m 56s):
+So I think I think they've worked it out as a couple of thousand kind of in total.
+
+2 (1h 9m 0s):
+So if you are eaten by a shark, there's a thousand hours that are still there on tape. Exactly exactly.
+
+1 (1h 9m 9s):
+I'm hoping his this is not gonna go down that way. Look if it does yes a
+
+2 (1h 9m 13s):
+connection. Oh, yeah. Thanks for having us. And please do stick around because in just a moment. We're going to hear from you about the things you are building, but first a quick thanks to Capital one's business credit card the spark Cash Card offering unlimited 2% cash back on everything you buy for your business Capital One. What's in your wallet visit capitalone.com for more information. Well movies are about to heat up and pop culture happy hour from NPR has you covered will tell you whether some of the big films on the way are as good as you're hoping they are and will help build a list of gems.
+
+2 (1h 9m 58s):
+You can uncover for yourself start your Oscars properly with pop culture. Happy hour from NPR. Listen And subscribe now. Hey, thanks so much for sticking around because it's time now for how you built that and our story this week starts at nine years ago on top of a camel. I was on a camel Safari in the Thar Desert in Western India. This is Jensen bream and it
+
+1 (1h 10m 22s):
+was scorching
+
+2 (1h 10m 24s):
+hot my Scandinavian skin was burnt to a crisp and then snap someone's sat on my sunglasses. He's only pair of sunglasses in the middle of the desert. The arms were completely crushed totally destroyed. But fortunately the front part of the frame was still intact. So Jensen took a piece of twine and tied it around the hinges to secure what was left of the frames to his head and it actually worked really well.
+
+1 (1h 10m 51s):
+They weren't falling down my nose. They
+
+2 (1h 10m 53s):
+didn't fall off as we were racing camels through these sand dunes. They didn't pinch his head or his ears and when I didn't want him on I could just drop them around my neck or put them in my pocket and not have to worry about breaking them Jensen like the sunglasses so much. When he got back to the US he kept using them. He just took off the twine and replaced it with a leather cord and I wore that macgyvered pair
+
+1 (1h 11m 16s):
+of sunglasses for
+
+2 (1h 11m 18s):
+the next five years and wherever he went people notice them even strangers would come up to me on the street and be like, hey, where did you get those and Jensen started thinking, you know, maybe I should start selling these things like two bikers and Backpackers and people like that, but I just didn't know where to begin, you know, sourcing the materials and and finding a manufacturer is such a daunting task. So Jensen partnered with a friend from college named Nikolai who knew a little about manufacturing and the two of them started to call around they found a company to make the lenses for the sunglasses, but they still needed a really important component the cord to take the place of the side arms, you know, it had to be soft because it's going around your head and over your ears, but it had to be rigid enough to kind of keep the sunglasses secure.
+
+2 (1h 12m 4s):
+It also had to look nice and elegant so it can just look like a List, but the core they started with was actually a shoelace from a high-end Boutique company and it looked really great. But Jensen a nickel I wanted to make it waterproof. We would melt Cedar beeswax in a pot in my kitchen and dip all these chords in the wax and then bake the cord in the oven for two or three minutes pull it out and dab it dry. And then repeat the process but in the end those first cotton chords kind of fell apart and the guys had to keep looking we must have gone through 12 to 15 different chord manufacturers and when they finally found the right cord, they still had to find just the right thread for stitching it into a loop.
+
+2 (1h 12m 51s):
+But the first iteration came out and it looked like someone had coughed up a hairball onto our cord. And by the way at this point Jensen and Nikolai were under a lot of pressure because they'd already done an Indiegogo campaign and had to assemble 3,000 pairs of sunglasses. They were doing all of that by hand every pair has two chords. So we had to tie 6,000 cord ends tie them and then clip it and then fuse it with heat and then counter sink it in the bead after two months of working 12 to 17 hour days and it was so stressful Jensen and Nikolai were finally ready to ship out the glasses. They got some great reviews from outdoor magazines.
+
+2 (1h 13m 31s):
+They got into a few REI stores and they're doing pretty well online and they're going to finish their first full year on the market with about a million dollars in sales. Oh and they call the shades umbra's people always are like ombre has hombre has its own Brazil because hombre mean shade in Italian, it's Jensen bream his Partners Nikolai pallone and they run umbra's out of Seattle and for every pair sold, they planted 20 trees. If you want to find out more about umbra's or here previous episodes had to our podcast page how I built this dot npr.org. Of course if you want to tell us yours. Tory go to build npr.org and thanks so much for listening to the show this week.
+
+2 (1h 14m 14s):
+You can subscribe Apple podcasts or wherever you get your podcast. And while you're there, please do give us a review. You can also write to us at HIV T at npr.org and if you want to send a tweet, it's at how I built this or add Kyra's our show's producers week by Casey Herrmann with music composed by rum Tina or Bluey. Thanks. Also to Canada slim. Julia car Nissan has Mexican porn evil Grant and Jeff Rogers are in turn is Sequoia Carrillo. I'm guy Roz and even listening to how I built this.
+
+2 (1h 14m 53s):
+This is NPR.

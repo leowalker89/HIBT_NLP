@@ -1,0 +1,971 @@
+0 (0s):
+Hey Prime members. You can listen to how I built this early and ad free on Amazon Music. Download the app today. This episode of How I Built This is brought to you by New York Times All Access for the best in news analysis and culture. There's only one New York Times. And now you can enjoy times level expertise in the areas of games, cooking, product reviews, and sports. With a New York Times all Access subscription. In addition to original reporting from journalists worldwide, you can unwind with Spelling Bee wordle, the crossword and more. Enjoy delicious recipes and daily inspiration from cooking experts. Explore independent reviews for thousands of products and wire cutter and discover in-depth personalized sports journalism from the Athletic New York Times all access, everything that Times offers all in one subscription.
+
+0 (52s):
+To subscribe, go to ny times.com/all access. With the Capital One Spark Cash plus card, you earn unlimited 2% cash back on every purchase and it has no preset spending limit so your purchasing power can adapt to meet your business needs. The Antonelli's Who own Antonelli's Cheese Shop in Austin, Texas use their 2% cash back from their Spark Cash Plus card to help cover their employee's healthcare costs. Imagine what the Spark Cash plus card from Capital One could do for your business. Capital One, what's in your wallet. Find out more@capitalone.com slash spark. Cash plus terms and conditions apply workforce challenges, supply chain hiccups, digital finance.
+
+0 (1m 38s):
+There's no shortage of volatility in business today, but volatility isn't the problem. Doing nothing is Crow believes that within all these challenges lie hidden opportunities and better ways of doing things with specialized experience and audit, tax, advisory and consulting. Crow can help you embrace volatility in today's economy. Visit embrace volatility.com to see how Crow can work with you. Once again, that's embrace volatility.com. Hey, so back when Carly Rooney and David Lou decided to launch a wedding magazine online, the internet was so basic that it barely had ads, but as the internet got bigger and bigger, so did the Knot.
+
+0 (2m 25s):
+And today it's grown into an international brand that helps people celebrate all kinds of milestones, weddings, babies New Homes, bar Mitzvahs. This episode first ran in March of last year, and I think you're gonna love this one because it's also extremely funny with a really great wedding scene. So here it is.
+
+2 (2m 47s):
+We put together this deck, we practice this presentation, we go through this whole dog and pony talk about the, what we're planning on doing and what we're gonna build. And he looks up and he says, this has gotta gotta be the worst business plan I've ever seen. And, and the air just got sucked out of the room
+
+0 (3m 11s):
+From npr. It's how I built this. A show about innovators, entrepreneurs, idealist, and the stories behind the movements they built. I'm Guy Ross, and on today's show, how One Couple's Disastrous Wedding inspired their business. The Knot, the number one wedding planning site in the US Right now, I've got three wedding invitations hanging on my fridge, and I sometimes wonder about the people behind those cards. The six people who are probably freaking out right now. The caterers, the flowers, the bridesmaids, the groomsmen, the venue, the hotel discounts for guests, the hair, the makeup, the photographer, the, I'm gonna stop here because I'm starting to get stressed out and I'm already married, by the way, fun fact.
+
+0 (4m 6s):
+The average wedding, the average wedding in the US now costs $35,000, and the planning for it takes between nine months and a year. So my advice elope, and if that's not an option, you will probably at some point make your way to the knot.com. It's a multimedia platform that helps you plan your wedding, and it's a big business. The Knot is the center of a media group now valued at more than half a billion dollars, which is all the more remarkable because at one point during the.com bust, the knot stock price fell to 26 cents. But we'll get to that a little later.
+
+0 (4m 47s):
+When founders Carly Rony and David Lou started The Knot in the late 1990s, it was more like a chat room. It was a place people could pop into and type in all caps. Is anyone else freaking out about their wedding planning? Well, today, thenot says it's used by 80% of all couples planning a wedding, which is also remarkable because David and Carly's wedding was kind of a disaster. They actually met briefly when they were both undergrads at NYU in the 1980s. They were both in the same film program, but it wasn't exactly love at first sight.
+
+3 (5m 24s):
+Well, David was a senior and I was a freshman, and we didn't really talk during it because he might have
+
+2 (5m 32s):
+Exchanged two sentences in the entire year.
+
+0 (5m 34s):
+Wow. Yeah. The entire year. Yeah,
+
+3 (5m 35s):
+Because he looked like kind of a super senior snob to me. Did
+
+0 (5m 40s):
+You by David? Did you notice Carly at that time? Oh yeah,
+
+2 (5m 42s):
+I I had a, I I had a crush
+
+0 (5m 44s):
+On it. You did already at that point. Oh, yeah. But nothing ever came of it. So after college, Carly and David went their separate ways. David got a job working at a startup in Philadelphia where he made video yearbooks for high schools, and Carly was a script reader for a movie director in New York. But a few years later in the early nineties, they both happened to be invited to a Christmas party by a former NYU professor.
+
+3 (6m 9s):
+And I remember like looking across at this group of people and thinking like, who's that guy with the ponytail? Why does he look so familiar?
+
+0 (6m 17s):
+You have a ponytail. So so you're like, I don't know, your late twenties David at this point. Yes. Kind of just, you're like, yeah, I'll show up at this party. And
+
+2 (6m 27s):
+Well, actually, I remember the doorbell ringing and hearing Carly's voice, and I immediately remembered her. Wow. And she walked in and made a beeline for the, the
+
+0 (6m 37s):
+Vodka and went up to you and said, Hey, handsome.
+
+3 (6m 42s):
+Well, what's funny is we ended up ing,
+
+2 (6m 43s):
+We pretended that there was a project to work on
+
+3 (6m 46s):
+Together. Yeah. We were like, we should talk about this more. Maybe we could do work on something together. And so we both left the party with the premise of being back in touch. But,
+
+0 (6m 56s):
+But clearly there was you, there was interest beyond, I mean, right? Or or or was it just super earnest, like you thought Yeah, let's, let's have collaborate. No,
+
+3 (7m 4s):
+It was, it was totally arou.
+
+0 (7m 5s):
+It was ause. It was Aru.
+
+2 (7m 7s):
+We had our first date in February. We moved in together in June. We were married in
+
+0 (7m 11s):
+July. Oh my gosh. You've jumped through this story so fast.
+
+2 (7m 15s):
+You,
+
+0 (7m 16s):
+You've gone from from ponytail at the party to being married like seven months later.
+
+2 (7m 23s):
+Yeah.
+
+3 (7m 24s):
+Yeah. Well, was what the irony that one of the starting ironies of the story is that, you know, I have divorced parents. I never thought I was getting married. I didn't believe in marriage. I thought people just sort of like Jean Paul Sarra and Simon Deir would be better to just be in love with someone maybe, but have your own home just in case. And then I met this guy and I'm like, this is kind of amazing. He's so amazing. He lived in Philadelphia at the time, and I actually then moved right to DC at that time to work on a project at the Smithsonian. And so we started this like long distance romance between Philadelphia and DC and I don't know if it was like something in the air or it was just like mad true love.
+
+3 (8m 7s):
+But one time we were sitting there and we were talking about taking a trip to Hong Kong and I said, oh, you wanna get married in Hong Kong? Just like out of the blue. I don't even know what I was thinking. He said, sure. And I was like, okay, then let's get married.
+
+0 (8m 24s):
+Wow. So you go to your parents, Carly, and you say, you know that guy David, I've been telling you about Yeah. We're getting married.
+
+3 (8m 30s):
+Well, what's funnier is like, I haven't told you about this guy, David.
+
+0 (8m 34s):
+Oh,
+
+3 (8m 35s):
+But by the way, we're getting married, you might wanna meet him prior to the wedding.
+
+0 (8m 39s):
+And, and, and did they say, Carly, this is crazy. This is not gonna work. This is not how marriages last.
+
+2 (8m 45s):
+That's exactly what they said.
+
+3 (8m 47s):
+That is exactly what they said. Right. And in fact, turns out, and I never knew this, they had sort of had a whirlwind in romance and gotten married very quickly and ended up divorced. So this was just like their biggest fears playing out in front of them. And you know, because you're, you know, like young and spit and you're like, you just don't understand mom and dad.
+
+0 (9m 6s):
+So you, you guys get married and, and how, how, how's the wedding? What's the wedding like?
+
+3 (9m 13s):
+So we were trying to look back at why it was that we picked a date of July, I mean,
+
+0 (9m 22s):
+In DC in Washington DC but, but which, which, where, where I am. And it is a horrendously oppressive time of the year. July in Washington DC is is a time when people leave. Yes.
+
+2 (9m 33s):
+On a rooftop
+
+0 (9m 34s):
+Outside, on a rooftop outside in July, in Washington DC this is gonna be your wedding day.
+
+3 (9m 39s):
+And really how hard can it be? You're literally throwing a party for 80 people. Like, like what do we need? We need like a location. We really didn't have a place in mind, but we figured we could find once we sent out the invitations, which were, and
+
+2 (9m 52s):
+Just said, the invitations were postcards from the national zoo that had pictures of panda armor.
+
+0 (9m 58s):
+They're
+
+3 (9m 59s):
+Really making us sound crazy.
+
+0 (10m 0s):
+And it said, what? Just show up in Washington DC on this date. We'll give you details when you arrive. Exactly.
+
+2 (10m 5s):
+It's a July 10th location. T B d.
+
+0 (10m 8s):
+Okay. Gotcha.
+
+3 (10m 10s):
+But it was all, you know, kind of in this spirit of like, we're just gonna throw this fun party. And, you know, my, our actually community around us pulled together. And that was the fun part about it. My aunts who live nearby were like, we're gonna go get flowers at the farmer's market. Another aunt of mine was like, I have a friend who live, who has a, there's a rooftop on the top of her building, which is a block away from your home. And then there was this Peruvian restaurant near us that we knew kind of served fun tapas and pa So we went and asked them, I mean, we really just figured it out. And over the course of three weeks, and it sounded at this point, I'm kind of loving it. Like it was like the first original DIY rooftop, you know, edgy wedding, alternate wedding.
+
+3 (10m 55s):
+And the only problem was that, you know, you still watched the news those days to find the weather. And we sort of turned on the news on the Wednesday before and saw the weather chart, which included
+
+2 (11m 6s):
+Hundred eight.
+
+3 (11m 8s):
+It was hundred
+
+2 (11m 8s):
+812. It was climbing,
+
+3 (11m 10s):
+It was gonna be 111 degrees on our wedding day. What?
+
+0 (11m 15s):
+111 degrees.
+
+3 (11m 17s):
+The, the story just gets worse from there. It's boiling hot. Our guests look like they're dying. We had, you know, booked this venue, the venues air conditioning had broken from trying to get the place cool. Oh wow. And as we said, it was like a beautiful Peruvian place. And because, you know, we, I have a flare for the dramatic, I thought that the most incredible thing would be if instead of serving the paella that we were serving behind the scenes, if they would bring out the pa Oh yeah. Kind of walk it through the
+
+0 (11m 47s):
+Room. The giant plate of paella. Right. Great clams. And
+
+3 (11m 52s):
+It's so, my, my only horrifying part of my wedding day Yeah. Was turning, looking up and seeing my grandmother's face as they walked this steaming plate of paella by her, I mean, she was just horrified.
+
+2 (12m 11s):
+Everyone's drenched
+
+3 (12m 13s):
+And wet and this steaming fishy, I mean, it was like, oh my God, this is such a colossal disaster. Everyone is so completely uncomfortable. There's no air conditioning
+
+0 (12m 24s):
+And really everybody just wants snow cones.
+
+3 (12m 26s):
+Everyone wants the hell out of there. Yeah. Is what they want. And we walked away from that evening being like, oh my God, I never wanna do anything related to weddings ever again. What a crazy industry. Why isn't it easier? Why isn't there a place to find this information? I just like, yeah. What, yeah, it was exactly all the things we, we thought would be horrible about planning a wedding were. And so we slammed the door and never wanted to think about it again.
+
+0 (12m 54s):
+So 1993, you are married, you move in, you're living together in Washington, DC what do you, what are you guys doing at that point in your lives? You're still at Smithsonian, Carly? Yes.
+
+3 (13m 5s):
+We finished the project. We all move back to New York.
+
+0 (13m 8s):
+Back to New York To New York. Okay.
+
+2 (13m 9s):
+Start grad
+
+0 (13m 10s):
+School. Start grad school. Right. So you start working on your ideas projects. And
+
+2 (13m 15s):
+So in the very first semester, I'm taking this class on interactive media and this new technology that was going to transform the world was CD ROMs.
+
+0 (13m 25s):
+Yes. Yes. They were going to transform the world. Exactly. They
+
+2 (13m 30s):
+Were. Yeah. And we started noodling on this idea that this project that Carly had been working on all summer was going to be the large single largest collection of Smithsonian objects collected from all the different museums and was being brought to Japan and was gonna talk about American history. And we said, that's such a shame that the American audience will never get to see this. Why don't we see if the Smithsonian will hire us to produce the sort of epic American history disc, you know, it has the Disney Gillespie's trumpet and the Ruby slippers and the Apollo space capsule and you know, all the work is already done. We can just, you know, scan it and put it in and some animations music and we have a CD rom.
+
+2 (14m 10s):
+And we pitched the Smithsonian and they thought it was an awesome idea. We thought they had a budget. And they said, and they said, great, you guys, if you can find someone who will pay for it, you can do it.
+
+3 (14m 22s):
+Which is already farfetched that Smithsonian would agree to have two people who know nothing about anything. Yeah. Right.
+
+2 (14m 30s):
+And we walked into the egghead software store and started pulling CD ROMs off the shelf and writing down the names of the publishers and started faxing proposals to people. Wow. And we had this one group out in Portland, Oregon called us up immediately, said We're doing edutainment discs. This is right in the center of her bullseye and American history disc with the Smithsonian brand. They flew out, took us to Smith and Wilensky for a big steak dinner. And at the dinner the guy writes on a cocktail napkin, one Gold Master American History CD ROM Smithsonian content, hundred thousand dollars budget, six month delivery date sign here.
+
+0 (15m 12s):
+What? Wait. Well, you guys have no experience. No. You just pitched this half baked idea to this Smithsonian. You then fax this half baked idea blindly to a bunch of publishers. Yeah. And they, this one company bites.
+
+2 (15m 27s):
+Yeah. And we, we, we actually said, can we, can we go to the bar area to discuss for a second? And we go in there and we're like, is this, is this binding? Is this a real contract? What, what happens? And we just said, you know what? Whatever, let's just go, let's just sign it. And we went in, we signed it and the guy turns says, you know what, you know, this is not a binding contract. We said, we assume so. And he said, but this was a test. This was a test to see if you guys had the chutzpah to actually sign this, this napkin. And he said, let's do it. Wow.
+
+0 (15m 54s):
+So you get this money and, and you start working on this project right away. Yes.
+
+3 (15m 58s):
+I mean, that was it. We like basically founded a business. We used all of our film school experience, actually, we were suddenly like they're producers and
+
+2 (16m 6s):
+We literally hired all my classmates. Everybody, everyone said we're on board. I mean, you know, we're, we're all in school for this. And suddenly to be able to create a commercial product with the Smithsonian brand was exciting.
+
+0 (16m 17s):
+So you, you deliver this to the Smithsonian and then they make this CD rom available in their, in their shops and and stuff.
+
+2 (16m 23s):
+Well, so the publisher was actually very aggressive about getting the discount and, you know, no one was really making any money on CD ROMs. And, and pretty quickly we realized that this was not gonna be the medium that was gonna change everything. But this publisher managed to get the CD rom OEM bundled with every one of the early imax. So if you bought the one of those imax, you got our disc. And as a result, you know, we got maybe a, I think it was like a dollar per disc that was actually distributed. So it became a windfall for us.
+
+3 (16m 54s):
+Wow. Yeah. No, so millions of these is sort of one of the top grossing disks of all time because it got bundled, it was such a easy win. And that was the Yeah. That turned out to be the sort of launch of our company.
+
+0 (17m 7s):
+So you walked, you walked outta that project with like some cash to, to play with
+
+3 (17m 12s):
+Enough cash to keep the people that we had hired around. At least I think that like
+
+2 (17m 18s):
+I dropped outta grad school. Right. Because suddenly I realized, well we have this company now and we're gonna work on the next project. And we were a little digital media studio.
+
+3 (17m 27s):
+But in the middle of this, working on this project together, one of the four of, like, one of the four of us, our two friends, Michael and Rob, they sort of said, Hey guys, don't you think we should be thinking about, you know, we work well together. Do you think we should be thinking about something, doing something that isn't work for hire for somebody else?
+
+0 (17m 45s):
+Like something that would was yours that you guys would own. Right.
+
+2 (17m 48s):
+We started brainstorming, what can we build, you know? Cause our vision was now to create this multi-branded, multi-platform content studio. And we started looking at the different categories and we said, you know, sports, news, entertainment, that's all
+
+0 (18m 1s):
+Like, what were you doing? You were, you were like brainstorming.
+
+3 (18m 3s):
+Right. And that's what's funny, like the, the, the later story makes it sound like it was all like premeditate on her after her horrible experience planning her wedding. The idea was birthed. And in reality what happened is that Michael actually was like, Hey, this guy friend of mine, he wants to do like this online shopping thing and something related to like registry and maybe we should do something in weddings. Huh. And I think David and I look like we'd like seen a ghost. Like, oh my god,
+
+0 (18m 33s):
+No way. Jesus
+
+3 (18m 35s):
+Weddings, do you know anything about the wedding? Well, they suck. Yeah. Like completely disaggregated. Like the industry is old fashioned. Right? And, and then of course you have that moment, you're like, right, it's a disaster. And it would completely and fundamentally change if you introduced technology to it.
+
+2 (18m 55s):
+Yeah. You know, there was not an MBA between the four of us. So you're talking about four film grads. So our research was going to the magazine store and pulling different categories like, you know, bridal travel, urian, and we looked at these wedding magazines like, wow, they're huge. Look, they're 400
+
+0 (19m 11s):
+Pages. Just to, just to sort of understand, like you, you, you decide that you wanna do something in content and weddings was probably the, the way to go. But what, what would it be like a, I mean this is like 96, 97. I mean a website, a message board.
+
+2 (19m 28s):
+Yeah. This is 95. 95. There was no websites.
+
+0 (19m 31s):
+So what was it gonna be like a way for people to just list their services?
+
+3 (19m 36s):
+So we were content people. So we thought the best place to start would be putting incredible, like, fresh content on the internet. And the only way
+
+0 (19m 45s):
+Here's cool idea for your wedding.
+
+3 (19m 47s):
+Yes. Yep. And so the only way I would agree to do this, the one who was suddenly I was looked at immediately like, you're the woman, you're gonna be interested in weddings. I was like, the only way I am touching this is if we do something really, really different. Like the reason we didn't access any of the information that was out there when we were planning our wedding is cuz it was written for people who were completely had a different worldview than me. I did not dream about my wedding every day from my, when I was born. I did not, I wasn't marrying in a traditional way. I mean, I have like an intercultural marriage with divorce parents. I mean, every problem there could be in a wedding was in my wedding.
+
+3 (20m 27s):
+And those magazines made you feel like crap. Yeah. They wanted you to quit your job, sit with your mommy having bomb bonds and dream up your big day. Yeah. And calling it your big day. That just wasn't my thing. I think none of my friends either were that way. Like all the women I know were like, it was, you know, it was the, at this point it's like the nineties, your hip, you're forward looking, you care about fashion and there's like a whole, like, it's just such a different movement among young people. And that wasn't reflected at all. It was like the industry that had been left behind. Hmm. Our whole overall attitude, and the reason why we called it the Knot was that we wanted our brand to be very like, alternative and differentiated and not be, you know, the kind of traditional cookie cutter, these are the rules way to plan a wedding.
+
+3 (21m 16s):
+We wanted it to be like dare to do it differently.
+
+2 (21m 19s):
+And you know, if you looked at the landscape, you know, bride's magazine had been around for 50 years, modern bride for 35 years. Martha Stewart was like a hot thing, been around for 10 years and we didn't know which way to attack that. And we suddenly realized based on, you know, also Carly's, you know, belief in the dis differentiation of our brand that we would be become weddings for the real world. And we defined that as interracial couples, interdenominational couples, same sex couples,
+
+3 (21m 49s):
+Extra couples.
+
+2 (21m 49s):
+Right. You're pregnant. Yeah. You already have babies, you're divorced, you know, second marriages, all the stuff that we knew that the traditional media companies couldn't touch, you know, these are the marginal areas and we're gonna own, we're gonna declare ownership of
+
+3 (22m 1s):
+Those. We also had a really big sense of humor. Right. We wanted to, to be irreverent because we thought that that was sort of attitudinally. If you wanted to talk to brides and grooms, not their mothers, you needed a new voice.
+
+0 (22m 13s):
+Right. Yeah. So I'm trying to understand, if you were to describe this to your grandmother who was appalled at the paella at your wedding, would you have said, so grandma, we're, we're, we're making basically a magazine, but it's going to be in the computer, in the internet. Was is that a fair description of, of how you were thinking about it?
+
+3 (22m 30s):
+There were, yeah. Two components. One, it was like the world's coolest wedding magazine mixed with a community. Right. And
+
+2 (22m 39s):
+Remember this was on aol, so we launched on aol.
+
+0 (22m 42s):
+AOL had like these message boards and these chat rooms, chat rooms and like sites. So it was a, it was you, you partnered with AOL to, to start this up.
+
+2 (22m 50s):
+Well, they provided the C financing.
+
+0 (22m 52s):
+How did you even get to aol?
+
+2 (22m 56s):
+So friend of a friend. Of a friend. Exactly. So Michael, our rainmaker co-founder had an in and managed to get us an audience with Ted Leones Wow. Who was running the greenhouse and was making investments. Yes. And I remember we put together this deck, we practiced this presentation. Carly, Michael and Rob were like the, the, the marketing and presentation geniuses. And we rent our little car drive down to Vienna, Virginia. And we had this audience with Ted, and we go through this whole dog and pony talk about the, what we're planning on doing and what we're gonna build. And he looks up and he says, this has gotta be the worst business plan I've ever seen. Wow.
+
+2 (23m 36s):
+And, and, and we were you just, the air just got sucked out of the room. Yeah.
+
+0 (23m 40s):
+But by the way, how did you propose to make money off of this in that, in that plan? Well,
+
+2 (23m 44s):
+We, we hadn't gotten to that point yet. Okay. And so, but he basically said, he was like, look, wait a minute, what's the lifetime, val? I mean, how long is an average engagement? And we said, you know, nine to 13 months. And he said, so your, your average lifetime value of your customer is nine to 13 months. How do you ever plan on recouping any of your marketing costs in nine months? This is impossible.
+
+3 (24m 4s):
+Right. If your audience churns a hundred percent every year, you never, if you do your job right and they find the right person, you will never have them as a customer again.
+
+2 (24m 12s):
+Right. To this day, I credit our, our co-founder Rob, who stood up and said, you know, we're going to sell advertising. And Ted looks at us and says, there's no advertising on aol,
+
+3 (24m 23s):
+There's no advertising on the
+
+2 (24m 24s):
+Internet. And, and we said, well, we plan on selling it. And but how
+
+0 (24m 28s):
+Would he, but if there was no advertising, no advertising was allowed on AOL
+
+3 (24m 32s):
+Partner, no one had done it.
+
+2 (24m 33s):
+No one had
+
+0 (24m 33s):
+Had done
+
+2 (24m 34s):
+It. Okay. Yeah. There's no iab, there's no banners. There was, you know, all basically a subscription business. And, and Ted looks at us, kind of funny, and then he picks up the ma you know, the brides magazine we brought as sort of like the, the show show and tell. And I still remember he picks it up, brings it to his nose and flips through the pages. He goes, I don't know anything about this industry, but I smell money. He goes, let's fund them. Wow. And so in 90 seconds we went from the worst business idea he had ever heard to, you know what, let's give these guys a chance
+
+0 (25m 3s):
+When we come back. How David and Carly launched the knock watched its value skyrocket with the.com boom. And then fall to rock bottom with the crash. Stay with us. I'm Guy Ross and you're listening to How I Built This from npr.
+
+4 (25m 24s):
+Nothing's better than feeling comfortable in your own shoes. Maybe you're a parent raising a little rockstar or a techn nomad working from anywhere. All birds wants you to be comfortable in your actual shoes too. They're wool runners. Pipers and loungers are so cozy you might forget you're wearing them and they're crafted from natural materials that tread lightly on our planet. So get comfortable in your shoes, get to know the wool runners pipes and loungers@allbirds.com. That's a L L B I R D s.com.
+
+5 (25m 53s):
+In the 1970s, Sam Walton stepped away from his retail empire Walmart. But with Sam Gone, the company nearly buckles under the weight of a power struggle at the executive level. Hi, I'm Lindsay Graham, host of Wondery Show Business Boomers. We tell the true stories of business leaders who risked it, all the critical moments that define their journey and the ideas that transform the way we live our lives. In our latest series, Sam Walton is distressed with how his company is being run in his absence. So he comes outta semi-retirement, determined to take back control and take his company to the next level. Driven by a desire to be the best. Sam grows his company, crushes the competition, and transforms Walmart into the biggest retailer in the world.
+
+5 (26m 35s):
+In the end, the man that many once called the Courier of Hillbillies is known by another moniker, the greatest businessman of the century. Follow Business Movers. Wherever you get your podcasts, you can listen ad free on Amazon Music or the Wondery app.
+
+0 (26m 53s):
+Hey, welcome back to How I Built This from npr. I'm guy Roz. So in 1996 when Carly Rony and David Lou pitched their idea for the Knot, the big wigs at AOL wound up giving them a pretty hefty amount of cash.
+
+2 (27m 8s):
+We got our seat financing by 1.6 million. I think it was their largest investment at that time too, in any content partners.
+
+3 (27m 15s):
+Ironically though, like it isn't really that much money if you have to buy computers for $7,000 each desktop.
+
+2 (27m 23s):
+Right. And you know, there was no such thing as open source software. So we were paying software licenses, you know, there was no WeWork. So we had defined an office to rent in New York. In New York.
+
+0 (27m 33s):
+What were you doing to build a site?
+
+2 (27m 36s):
+We wanted to make sure that the audience came to our site would see something fresh in new every day. So we treated this like a daily publication, like a newspaper. We had 10 content channels. They had to be fresh content, you know, distributed every single day.
+
+0 (27m 49s):
+What do you mean 10 content channels? You'd go to the site and there's like 10 tabs.
+
+3 (27m 52s):
+Yeah. Right. There's like planning and fashion and bridesmaids
+
+2 (27m 57s):
+And The Great Escape was the
+
+3 (27m 59s):
+Honeymoon. Yeah. Honeymoon channel. So a lot of it was just producing and publishing content constantly.
+
+0 (28m 5s):
+And who did you get to write that content?
+
+3 (28m 8s):
+I had this connection to a, a group of fun, really fun young writers. Mm. They were the people who wrote for Sassy Magazine. So really strong attitude. We had men and women
+
+2 (28m 22s):
+All had great sense of humor,
+
+3 (28m 24s):
+Really good sense of humor. And we had them, they, you know, my, my litmus test is if they would never, ever, ever write for a wedding magazine, then they could write for me. The other key piece of it though was really understanding, and this we didn't, we didn't know going into it, but really realizing how important the community was and managing the community and building out the kind of platform of the different message boards and how to create connections between people. And that is where the sort of explosive, what, you know, sort of the early concept of like a social network, right? How you crowdsource amazing information. And
+
+2 (29m 1s):
+That's where AOL was the perfect training ground for that because the key sort of the gravitational center of all this stuff were in their chat rooms. Right. And you know, these chat rooms, you had to try to turn into these thriving continuous conversations. And we all had to man the chat rooms. We, we had aliases like mine was Anya. And I would sit in this chat room waiting for people to show up and most people tend to just lurk. They wanted to hear and want read other people's conversations. Yeah. And you had to try to figure out a way to get people engaged and get them to participate. And so I always had this one thing that I would write. And to get people started, I would say my fiance ha forced me to buy a dress two sizes too small and said if I can't fit in the dress on the day of the wedding to not show up.
+
+0 (29m 50s):
+Well you would just make this up.
+
+2 (29m 52s):
+I would make this up. You
+
+3 (29m 53s):
+Was the only one. I wanna say that this was unsanctioned,
+
+0 (29m 57s):
+But you to spur a conversation
+
+2 (30m 0s):
+And boy was that the fire starter, the room would explode. Everyone who was lurking would jump in. You were
+
+0 (30m 5s):
+A troll. You weren't
+
+2 (30m 6s):
+Early internet troll. Exactly. Well, and I can then, and I could slow them back away and that room would just keep going for hours and hours and hours. Doubt.
+
+3 (30m 13s):
+Either you drop mother-in-law, mother word, mother-in-law always gets a chat room going and or you know, misbehaving bridesmaids. It's just all about like putting the theme in play.
+
+2 (30m 23s):
+And, but what it did was it taught us to listen to our audience. Yeah,
+
+0 (30m 28s):
+It did. Was it, were you, was the site making money pretty fast through, you know, those AOL subscription dollars?
+
+2 (30m 37s):
+No. Okay. Okay.
+
+0 (30m 38s):
+Right.
+
+3 (30m 38s):
+Well if you think about the internet at the time, which was, I mean, mostly men. Yeah. Even, and AOL was probably the most women of any place on the internet. And still that was mostly men. Yeah. And then people getting married, since there are only 2 million of them in, in America at any given point in time, you're starting to like get down to very small set of people who could even potentially be our customers. But I think in those first week, I remember our, our like monthly visitor account,
+
+2 (31m 6s):
+Like 15,000,
+
+3 (31m 8s):
+Oh I think it was 7,000 and we were like 7,000 out of 2 million Americans. Like we've got a long way to go. Yeah. What we really had to do was go out, our first hire was a salesperson.
+
+0 (31m 18s):
+Yeah. You needed advertising, right?
+
+3 (31m 20s):
+We needed advertising. In
+
+2 (31m 21s):
+Fact, one of our first advertisers, in fact I think she may have been our first advertiser, was Nicole Miller. And she had this bridesmaids dress line that was cute and she wanted to market it as something that you could wear again. And Nicole came to our office and I remember we were showing her the little pieces of art that we had created that were essentially the first banners. You know, they were little buttons that we'd sit on the site and you know, Rob would explain to her, Hey, you know, people can click on this. And she said, well, well what will my buttons do? And we realized that she didn't have a website to link to. And he said very quickly, well, they'll link to a catalog of dresses that we'll build for you.
+
+2 (32m 1s):
+And she was like, oh my God, that's amazing. And you know, we were basically selling links and buttons and clicks that were bleeding to other places that we had to suddenly create for the advertisers.
+
+0 (32m 11s):
+Which, which the advertise, I mean, and for the advertisers was this new shiny thing that they didn't understand. And they were like, well, these guys understand it, but, but I I have to assume that the ad rates at that time weren't that high. Right. They weren't, they weren't paying that much money at that time. Or were they,
+
+2 (32m 25s):
+They weren't. I think our first year total revenues were maybe 70,000.
+
+3 (32m 30s):
+Yeah. $70,000. Remember like 71,000.
+
+0 (32m 33s):
+You could not, I mean the 1.6 million was that money was burning quickly.
+
+2 (32m 37s):
+It was, it was almost gone. We were, we were rapidly running out of money. And what saved us was we had found a amazing book agent Chris Thomasino and our, you know, remember our aspirations was always to create these multi bland branded platform. And she actually managed to get a bidding war from multiple publishers on a three book deal for the
+
+0 (33m 2s):
+Knot. And that money, actually that infusion of cash saved the knot at that time. We,
+
+2 (33m 7s):
+We lived off of that advance for
+
+0 (33m 10s):
+Probably year, what was the advance
+
+2 (33m 11s):
+That $350,000
+
+0 (33m 12s):
+For three books.
+
+2 (33m 14s):
+Yeah.
+
+0 (33m 14s):
+And so you put that back into the company, but then you had to write books. You had to write three too.
+
+2 (33m 19s):
+You're telling me, well, Carly, we, we had just had our first baby. And so Carly literally came back from maternity leave of all of maybe three weeks. And I still, my, the image I still have of her is like breastfeeding our daughter while furiously typing away the computer because we had to deliver the first manuscript at a certain
+
+0 (33m 38s):
+Time. Just sounds miserable. And did,
+
+3 (33m 41s):
+I'm getting hives listening to this, my own story.
+
+0 (33m 43s):
+Did you go to investors? Did you think we need to go to like private equity people or, you know, venture capitalists and try to get some money?
+
+2 (33m 51s):
+We, we, we hadn't thought about it yet. We were trying to think of other ways that we could you could make money. Make money and build the business. Yeah. And we had this idea and we said, you know, the thing that bride seemed to be really vexed about is this whole registry process. Yes. Isn't there a way to like completely reinvent that and create an online gift registry where the
+
+3 (34m 13s):
+Register
+
+2 (34m 13s):
+Imagine
+
+3 (34m 13s):
+Everything
+
+2 (34m 14s):
+They want.
+
+3 (34m 14s):
+You're not picking the gift anyway. Yes. So why couldn't you just like buy it on the internet? Yes.
+
+2 (34m 18s):
+And we said this is gotta be the thing we do. And that actually prompted us to go try to raise money to build the first online gift registry.
+
+3 (34m 27s):
+So remember this is 1997. And so when we,
+
+2 (34m 31s):
+We just lost the website in July,
+
+3 (34m 33s):
+Right? When we act like it's super mind-blowing to think of an online gift registry. You have to remember that like, nobody even really bought anything on the internet yet.
+
+0 (34m 44s):
+And, and so how did you, what did you do? How, how were you gonna make that a
+
+2 (34m 47s):
+Reality? We needed to raise money. Yeah.
+
+3 (34m 49s):
+That's when it became extremely clear because no one had online gift registries yet. Or really? Right. There was no way to do it. We actually realized that to do this, we would have to get the inventory ourself right. At that time, our, our bride count or whatever we called it, our member count was really growing in a very significant way. And word of mouth was our only way we were marketing. We
+
+2 (35m 16s):
+Yeah. We didn't spend any money
+
+3 (35m 17s):
+Advertising. No, but like brides who discovered us and this I think was a lot about our brand and our attitude. Like once you found us, you wanted to tell anyone you knew who was getting married about us. And so we were growing in that way, like wildfire. Yeah. Like people really were very like loyal and excited about the brand, but it still wasn't a way to make money.
+
+0 (35m 37s):
+Money. So when you took the concept of the registry to potential investors, what did they say?
+
+2 (35m 43s):
+It it was a really long slog. I mean, it was hard to raise money for anything that was female centric in the digital space. Hmm. And the fact that a large component of our business would now be predicated on e-commerce, on top of advertising. You know, the first question people said was like, they're not gonna give you a credit card number. It's like, you know, people are too paranoid about that. They're not gonna register, they're not going, you know, and, and I think we probably were marketing for almost a year before we came across venture capitalists out in the west coast that said, you know what, this is really interesting and I think, you know, we're going to take a flyer on this.
+
+0 (36m 22s):
+How much money did you guys raise?
+
+2 (36m 24s):
+3 million. We launched the registry.
+
+0 (36m 27s):
+And was it on the knot? Was it like the knot.com/registry?
+
+2 (36m 30s):
+Yep, exactly. And we, new tab, new tab. And we suddenly saw within I think three or four months, we had close to 150,000 couples registered in our registry. Put that into context. That's more than what Bloomingdale's was registering back then. Wow.
+
+0 (36m 48s):
+So 150,000 people registered within the first few months. How did they even know about, about the registry?
+
+2 (36m 55s):
+This is actually the critical thing where Carly was the, the secret weapon. Carly became the person who when we published our first book, suddenly appeared on the Today Show suddenly and, and became sort of the kind
+
+0 (37m 9s):
+Of the wedding lifestyle kind of guru. Yes. Guru.
+
+2 (37m 12s):
+Exactly.
+
+3 (37m 12s):
+Meanwhile not telling the world word one about my actual wedding day. I remember the first time I was on tv, a friend of mine was like, I was at your wedding
+
+0 (37m 25s):
+And all of a sudden you're a wedding guru. So were you profitable at that point or were you still No,
+
+2 (37m 31s):
+We were bleeding.
+
+0 (37m 32s):
+How were you funding this?
+
+2 (37m 35s):
+The 3 million LA we, we made that last. But we were, we essentially were looking to raise another round and within a year we raised another 15 million
+
+3 (37m 46s):
+Also. No one in our office had air on chairs. Like everything was Ikea or hand-me-down or, I mean, we didn't, we sort of that, that whole culture of the internet companies now
+
+2 (37m 57s):
+Have to ball tables,
+
+3 (37m 58s):
+No foosball tables, no catered snacks, lunches. You know, you were lucky if you got a pizza.
+
+0 (38m 2s):
+Were you guys nervous at all? I mean, you had a kid and, and eventually you'd have two more, but at that point you had a kid, you were not making any money because you were, you were just funding this company. So you guys are probably earning nothing.
+
+3 (38m 16s):
+No, I know. I think we made $35,000 a year, if I remember correctly, which seemed kind of unfair and exorbitant. Like, we shouldn't be taking this money.
+
+0 (38m 24s):
+I mean, did you guys ever have conversations, you know, at night and, and where you were like, I don't know if this is gonna work. Maybe we should just like, I don't, maybe I should go to law school or something. Like, did you ever, or were you totally confident this was going to work out?
+
+2 (38m 36s):
+I don't think we felt we had an option. You know, when we had BFAs, we were, we were unemployable. So we, we had to make this thing work.
+
+0 (38m 45s):
+So, so by this point, you guys, you've got the, the gift registry going and, and things seem to be humming along I guess. And, and then in, in 2000 you decide to, to take the company public on the nasdaq. So I I'm assuming this was to raise more cash?
+
+2 (39m 0s):
+Yes. So in 99 we actually had just raised money to build out and, and flesh out the registry. We raised 15 million and literally a week later we were approached by bankers who said, eh, the window's gonna close. You need to go public. And, and we were, you know, we, we had fresh money in the bank and I, I couldn't understand why there was such urgency, but yeah, we took their advice fortunately and within I think seven months of that meeting we were going public. So that was December 2nd, 1999. We go public, the entire internet world collapses four months later.
+
+3 (39m 37s):
+And we were really lucky to have that additional $35 million.
+
+0 (39m 42s):
+So you, when you went public, it raised 35 million more dollars. Yes. And then four months later, a.com crash. Does that do anything to your stock price?
+
+2 (39m 51s):
+We never had the super spiky jump and we didn't have the super cataclysmic crash. It just, over the course of a year and a half went from $20 and settled down to 26 cents.
+
+0 (40m 4s):
+26 cents. So people lost their shirts on this? Yes. Presumably you guys had a lot of shares too.
+
+2 (40m 12s):
+Oh yeah. We were not allowed to sell. I mean, you know, we, we were locked up and by the time the six month lockup had released, you know, we, and honestly we, we, we were also, we were way too loyal and dedicated. We did not want there to be any indication that the founders had lost faith. And so we were gonna hold onto the
+
+0 (40m 28s):
+Bloody. But I mean, the optics of going from $20 to 26 cents over a year and a half must have been rough. I mean there must have been market analysts and people even in the industry who were saying this, this company's not gonna last.
+
+2 (40m 40s):
+Oh, it was horrific. Well, we had our competitors faxing our stock charts to our advertisers saying, look what's happening? They're going outta business. Wow. Do you really want to give them more money?
+
+0 (40m 49s):
+Wow. And did, did the, did that in any way affect, you know, how much money you had to spend? You you had to, to use, like did you have to, did you have to fire people? Did you have to lay people off at that time? Or, or could you still kind of plug along?
+
+2 (41m 3s):
+We, we never had layoffs. We always, we were able to downsize through attrition, but we never formally had to lay people off in part because we were always running relatively lean and there were people who panicked and, and basically sort of got out.
+
+3 (41m 17s):
+Yeah. I think the biggest challenge was controlling the, like, psychology of your team. I bet. Who they didn't understand. Your advertisers didn't understand the distinction between your growing revenue and how that had nothing to do with your a stock price. I mean it is kind of a logical, most people don't understand it, right? No, exactly. So between your young staff who also is looking like, remember those options that I got? They're underwater by about $9 or, and are and, and advertisers. So there was so much emotion control. I think that was the hardest part to keep people focused and it was exhausting. And also you do go home at night and you were like, remember when we were actually gonna walk away from this business with, you know, 30 million together and now we have like $300,000.
+
+3 (42m 2s):
+It doesn't seem worth it, it doesn't seem where there were definitely moments where you feel like exhausted. Right.
+
+2 (42m 7s):
+The low point was the summer of 2001 where the stock drop below a dollar for over 90 days. You get delisted
+
+0 (42m 15s):
+Nasdaq delisted. You,
+
+2 (42m 17s):
+We get
+
+0 (42m 17s):
+Delisted. You're no longer in the newspaper.
+
+2 (42m 19s):
+No, exactly. And you know, you had to go find concept ofWe and beg Nasdaq to, to reconsider. And they, and I still remember there's a little tribunal, you make your case and then this old gentleman looks over and says, I'm sorry we, you know, we're still gonna have to de-list you, but you have a great little business. Don't let it fair.
+
+0 (42m 38s):
+What does it mean when you get de-listed? You, you still, you're still a stock, right?
+
+2 (42m 42s):
+You're still a stock, you're trading in the bulletin boards. But the key difference is now the major funds are no longer allowed to hold your
+
+0 (42m 51s):
+Stock. If you aren't, you're de-listed. You cannot, big funds are not gonna invest
+
+2 (42m 54s):
+In you. Yeah. The Fidelitys and the, and and unfortunately, you know, that's where a lot of the volume and the support comes from with public stocks. And so the moment we got delisted, 2 million shares just automatically gets ejected into the system. And that's when the stock just really cratered. We went down from like 90 cents to that 26 cents in a matter of minutes.
+
+0 (43m 15s):
+And and to be listed in the Nasdaq, you have to be above a dollar for a certain number of months
+
+2 (43m 20s):
+To get re-listed. You have to be above $5 for 180 days without institutional
+
+0 (43m 26s):
+Sense. And so essentially once you're de-listed, it's almost impossible to presumably to get back on there. Cuz you would have to convince people, individuals to buy shares. Right?
+
+2 (43m 35s):
+Exactly. So in, in fact I spent the next three years going to dentist investor club meetings at the back of the red line in going to small cap, you know, conferences, drumming up retail support to try to get the stock
+
+0 (43m 53s):
+Rebates because that was the only way you could increase the share price. Yeah. So you had to get individual investors to just buy shares.
+
+2 (43m 59s):
+Yeah. You needed exactly needed
+
+3 (44m 2s):
+To. Thank you Dentists of
+
+0 (44m 3s):
+America. That just sounds so grueling.
+
+2 (44m 6s):
+It was. And I think, you know, it
+
+3 (44m 8s):
+It, I think that's when you put on like 25 pounds too.
+
+2 (44m 12s):
+Well I had this one meeting with a competitor and I think it, he said these fatal words that I, that sort of propelled this thing forward. They saw this as an opportunity to acquire us and they said, listen, you, you have a broken ipo, we should just put these companies together, you know, 70 30 their way we can, you know, repackage it and go You
+
+0 (44m 31s):
+Were, you were offered, this was another company offered to buy you out.
+
+2 (44m 34s):
+Yeah. And he said, cuz you're de-listed. Yeah. And getting re-listed is like carrying a gorilla up 30 flights of stairs. It's impossible. It's too hard. And I remember the day we got re-listed in 2005, I was dying to send him a postcard with a big gorilla on it saying 30 flights delivered, take that.
+
+0 (44m 52s):
+So it is four years. You're often Nasdaq. It's a long time. I I'm trying to figure out why you didn't just cut your losses and say we're still young, you know, we can still kind of try something else out. This is not gonna, this is not gonna be the way that we're gonna make a sustainable life.
+
+2 (45m 13s):
+I think it was because we were never doing this for the money.
+
+0 (45m 16s):
+Well, but you had kids, you needed at a certain point you, there's you need to have some money.
+
+2 (45m 22s):
+We Yeah, but I think it was, I think it was the work. I I I we were launching a TV show. We were launching, you know, a national magazine. There was so many really exciting things that we were building. You know, the nest came, the, the bump
+
+0 (45m 36s):
+Came, the nest and the bump were like the next iterations. The Nest obviously about as if anyone knows about your home and the bump about babies, children.
+
+3 (45m 46s):
+Yeah. Our audience had been begging us for years to take them beyond the wedding day. And we, you know, people on our staff who had like, grown beyond the wedding phase and RA had babies, they all wanted to launch it. So it's just seemed incredibly fun. There was so much more to do. We always said to each other like, if this ever becomes like super boring, we should get out. I mean, we're not particularly like planner people anyway. We didn't think about our future. We were just thinking, we
+
+2 (46m 11s):
+Never thought the word exist. Exit wasn't part of our vocabulary.
+
+0 (46m 14s):
+I mean, you, you get re-listed in oh five, you then launch the Nest and the Bump as part of the, the whole sort of media empire. You're working on a bunch of different projects. At what point were you, did you guys feel like, okay, we've turned a corner like we are, we're gonna be okay, not we're gonna be more than Okay.
+
+2 (46m 34s):
+I'm not sure we're there yet.
+
+3 (46m 38s):
+No, I think once we were like profitable in our, that's like Sisyphus, like you keep thinking you're ahead and then all of a sudden the boulder seems really heavy, you're going backwards and you have to keep pushing again.
+
+2 (46m 47s):
+I mean in 2006 and seven we wound up, we, we bought wedding channel. There was unbelievable sort of frothy expectations on what that acquisition was going to net us. And the stock hits $32. We have a billion dollar market cap. And you know, then precipitates the next, you know, minor nuclear winter where the stock starts declining again because you just can't live up to those expectations. And then 2008 happens and it's the great recession.
+
+0 (47m 18s):
+And does, where does the stock price go? At that point,
+
+2 (47m 21s):
+Our stock actually held up relatively well. I think, you know, most media companies were down 20%. Yeah. We grew 5%. You know, we actually grew that year because a lot of the marketers realized that the only people who were gonna continue to spend money during this great recession are, are brides and grooms. You know, weddings were truly recession proof.
+
+0 (47m 42s):
+What do you think it is about, about your personalities that work so well together? Because you, you guys went through such intense emotional highs, highs and lows building this business. So what, what do you think it was about the other person in the, in the relationship that made it work?
+
+3 (47m 58s):
+This is where you declare your love of me and how amazing I am.
+
+0 (48m 1s):
+This is, this is the romance moment.
+
+2 (48m 3s):
+Exactly. You know, I, I think we were ultimately so different as people. I wouldn't say that we necessarily worked well together, but we were incredibly complimentary where there's no overlap, there's less conflict in a and when there was overlap, oh my god, it was like World War
+
+3 (48m 22s):
+Ii. Yeah. Fireworks. Yeah. Like the two of us are both incredibly bullheaded. There are really distinct differences. Like David can kind of look up, look ahead and think of something like really bold and strategic way down the road. And then I can grab that ball really quickly, believe in it. Like I'm not a naysayer. So I'm like, okay, you wanna do that? And then I figure out how to get that thing done.
+
+0 (48m 46s):
+When you think about the fact that you both have bachelor's degrees in fine arts and you met, you met, you know, a long time ago and you, you, you probably were never gonna, had you pursued a traditional path, never really gonna make a whole lot of money. The fact that you built a company that's now, I guess worth close to half a billion dollars. Does it seem like a dream? Does it seem like weird or did now that you look back on it, do you think Yeah. Okay, that makes sense. We we're gonna do this.
+
+2 (49m 14s):
+It's surreal. I mean at one point someone said, do you realize 700 families are gainfully employed because of what you've built and that, you know, they can send their kids to college and buy homes and actually thrive. And there's a great sense of satisfaction to that. I think. I think the, you know, the, the company has always been just the extension of our family and we, there's a great deal of pride in having been able to build something that is sustainable and, and can continue to grow that way.
+
+3 (49m 45s):
+So we never really cared that much about money. Yeah. But I can tell you not being worried about money, it's different. That is the true, like that is what I'm so grateful for.
+
+2 (49m 55s):
+I still panic, but
+
+3 (49m 57s):
+Yeah. But that's like a personality con, you know, disorder. Disorder.
+
+0 (50m 0s):
+You know, out of all the people I've interviewed you, I think more than anybody else, your business really reflects the progression of your adult lives. And what I love about it is you, you clearly did all these very imperfectly, like your wedding was kind of a, a, a disaster. And then you, you know, you kind of struggled with kids because you were busy and you didn't probably do everything that all the perfect parents were doing and all these companies that you started reflect all the things that you've done in your lives.
+
+3 (50m 32s):
+And I think almost even, you know, more to that point, our whole set of brands kind of celebrated the imperfect. Hmm. I think what appealed to people is that we were like, there is no perfect.
+
+0 (50m 47s):
+Although there are some parents who do seem perfect,
+
+3 (50m 50s):
+I'm not friends with any of them.
+
+2 (50m 52s):
+No. In fact, when I picked up Carly from the hospital with our daughter the
+
+3 (50m 57s):
+First time, I really don't want you to tell this. No, go ahead.
+
+2 (51m 0s):
+In our used Honda, we are, our friend had come to help and we had, you know, Havana in the little car seat in the back and as we're driving back from Mount Sinai, our friend asks
+
+3 (51m 12s):
+Yeah, we stop at a stop light and there's like a seat, Dwayne or Dwayne Reed outside the window. She's like, so you have all the things you need. Right. Like diapers. We were like right diapers.
+
+2 (51m 22s):
+We,
+
+3 (51m 22s):
+David, we were about bring
+
+2 (51m 24s):
+Home at newborn, we didn't have anything.
+
+3 (51m 26s):
+There were three diapers in the kit.
+
+0 (51m 28s):
+The hospital, right hospital
+
+3 (51m 29s):
+Were gonna be fine.
+
+2 (51m 31s):
+Oh my
+
+3 (51m 32s):
+God.
+
+2 (51m 33s):
+I think it also made us good business people. Yeah. Because I think we never walked around with a hubris No. And notion that we knew better and that the process of discovery and the process of learning had was constant and
+
+3 (51m 46s):
+And a team effort.
+
+2 (51m 48s):
+Yeah. And I think, you know, we would never be in a position to say, oh my God, we know exactly how things are in weddings should be done or how things in pregnancy should be done. We learned it, you know, by the seat of our pants. And we embrace the people who are courageous enough to do that as well.
+
+0 (52m 1s):
+A a and you didn't, I mean a lot of entrepreneurs will have like a spouse who will, you know, teach music lessons on the side or you know, we'll be a school teacher or a lawyer or have some kind of income coming in. Like you guys did not have a plan B cuz you're both in this
+
+2 (52m 17s):
+Now. This was the highwire
+
+3 (52m 18s):
+Act. Yeah. Although I think back, like I would've hated to be married to an entrepreneur and not be one. One you like never see them. Yeah. And they're just totally stressed out all the time. And I think that it was like super, super stressful and like really dangerous and painful and complicated in so many ways. And it was the most romantic, amazing, exciting, exhilarating thing on the other side. I mean, it was literally both. Like you're building something from scratch and it was like the early days, so it was so exciting and you're in the thick of it and you're hiring these people. I mean, it was something so exciting to be doing it together.
+
+0 (52m 60s):
+That's Carly Rony and David Lou, founders of The Knot. Last year in a $1 billion deal, their parent company merged into a new company called The Knot Worldwide, which includes the Knot, the Bump, the Nest, and a website called How He Asked, which is a marriage proposal planner who knew? Both David and Carly have moved on from the brand and are working on other projects, which hopefully means more time for the kids, for hanging out with friends and never according to Carly ever serving paella. And please do stick around because in just a moment we're gonna hear from you about the things you are building.
+
+6 (53m 40s):
+Life is short and it's full of a lot of interesting questions. What does happiness really mean? How do I get the most out of my time here on earth? And what really is the best cereal? These are the questions I seek to resolve on my weekly podcast. Life is Short with Justin Long. If you're looking for the answer to deep philosophical questions like what is the meaning of life? I, I can't really help you, but I do believe that we really enrich our experience here by learning from others. And that's why in each episode, I like to talk with actors, musicians, artists, scientists, and many more types of people about how they get the most out of life. We explore how they felt during the highs and, and sometimes more importantly, the lows of their careers.
+
+6 (54m 22s):
+We discuss how they've been able to stay happy during some of the harder times. But if I'm being honest, it's, it's mostly just fun chats between friends about the important stuff. Like if you had a sandwich named after you, what would be on it? Follow life is short. Wherever you get your podcasts, you can also listen ad free on the Amazon Music or Wondery app.
+
+7 (54m 45s):
+Hey, it's Mariano, host of NPRs Latino usa. Every week we bring you a mix of reporting diverse voices and coverage of current and emerging issues that impact our lives. Latino USA is one of a kind, featuring stories from the heart, stories that make you think and maybe even inspire you to action. Listen and subscribe now.
+
+0 (55m 13s):
+Hey, thanks for sticking around because it's time now for how you built that. And today we're updating a story that first ran over a year ago. It begins with Tyson Walters, who lives in Los Angeles with his dog, Harley,
+
+8 (55m 26s):
+My Saint Bernard. She was the true inspiration behind the
+
+0 (55m 31s):
+Product. Now, Harley, like a lot of dogs, is lovable, but also like a lot of dogs, she sheds all over the
+
+8 (55m 39s):
+Place. So there was a lot of conversations to people before I brought her over, as in, you're gonna vacuum when she leaves, or even riding in cars. No one wanted to ride with me because they knew they were gonna be full of
+
+0 (55m 51s):
+Of hair. And Tyson started to take this problem very seriously.
+
+8 (55m 54s):
+They researched and researched like, what could I do? And there was no solution. So I kind of started to
+
+0 (56m 1s):
+Create it. Now, this was around 2011 when Tyson just got outta college and moved back in with his parents. And they didn't want Harley shedding all over the house either. So they thought maybe we can design some kind of body suit for
+
+8 (56m 16s):
+Her, you know, something to really get all that hair and keep it in and something that was punchable for the dog too. So, you know, the first idea started from just a blanket and kind of messing around with that and trying to make some leg holes, everything from like more of a net.
+
+0 (56m 33s):
+And you can probably imagine how this all went down. Tyson and his mom worked with an old sewing machine in the living room. They tried a bunch of different designs
+
+8 (56m 44s):
+And we finally kind of came up with it looked, just looked like a baggy shirt that the dog wore,
+
+0 (56m 48s):
+But the shirt was too baggy and the fabric wasn't breathable enough. And so Tyson and his mom had basically hit a wall. So he went on Craigslist and he found a professional seamstress.
+
+8 (57m 0s):
+She could see it in her head better, and then she would recommend different materials too. So that's when she started bringing in the stretchy material, kind of like the Under Armor and Nike Athletic shirts. You see, that's when it finally came together.
+
+0 (57m 13s):
+And what they eventually came up with was this form fitting suit, kind of like body spanks for dogs, different colors, and nine different sizes, Chihuahua to Great Dane.
+
+8 (57m 26s):
+Most dogs are actually okay with it. The fabric's so stretchy, it really doesn't hinder their movement at all. And I would double check with vets and stuff like that, and they would all give it the okay as
+
+0 (57m 36s):
+Well. But remember, the whole point is to keep your dog's hair from winding up all over your house or your car.
+
+8 (57m 42s):
+All the hair is just contained pretty much in a suit. So you just take it off to outside, you can shake it out,
+
+0 (57m 48s):
+And while you're at it, you can shake off all the weird looks you're gonna get from your neighbors.
+
+8 (57m 52s):
+They laugh and say, what is
+
+0 (57m 55s):
+This? And you have to see this to believe me, because when I looked at all the pictures of these dogs in their spanks, I almost wondered whether they were kind of embarrassed. Anyway, Tyson called his dog suit the shed defender. And just a few months after we first ran this story, Tyson made it onto Shark Tank, where one of the sharks invested $250,000 for 25% of the business. And this year, Tyson is expecting to hit over a million dollars in sales. Oh, and by the way, the shed defender is not just an indoor suit. A lot of people use it at the beach or in the woods or wherever to keep their dogs clean.
+
+0 (58m 35s):
+And if the dog needs to go, well, there's a
+
+8 (58m 38s):
+Zipper. The space is wide enough for the dog to use the restroom. And then once they come back in, you can just zip it on up.
+
+0 (58m 47s):
+If you wanna find out more about shed defender or hear previous episodes, head to our podcast page, how I built this.npr.org. And of course, if you wanna tell us your story, go to build.npr.org. And thanks so much for listening to the show this week. You can subscribe at Apple Podcast or wherever you get your podcast. And while you are there, please do give us a review. You can also write to us@ibtnpr.org. And if you wanna send a tweet, it's at How I Built This, or At Gera. Our show is produced this week by Rachel Faulkner with Original music, composed by by Rameen era Bluey. Thanks also to Candace Lim. Julia Kearney, Satur Niva Grant.
+
+0 (59m 27s):
+And Jeff Rogers. Our intern is Sequoia Carillo. I'm Guy Raz, and you've been listening to How I Built This.

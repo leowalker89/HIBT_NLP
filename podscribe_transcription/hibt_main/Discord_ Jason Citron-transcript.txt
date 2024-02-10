@@ -1,0 +1,662 @@
+Guy Raz (0s):
+Let's talk about what is professional today on LinkedIn important conversations are happening around what it means to be a professional. Right now, LinkedIn members are talking about things like needing more flexibility around where we work and how we work, and even taking time away from work, to focus on family or mental health, because those things should not stunt career development and growth. Instead, they should enhance it. As we show up on our own terms, members are even putting what's most important to them, into their job titles, with things like podcast hosts slash activist slash mom, I guess mine would read dad slash short order family cook slash scheduler of children's play dates.
+
+Guy Raz (47s):
+Professional is ours to define in our authentic self is our professional self. So if your LinkedIn doesn't reflect who you really are, update your job title, post your truth, show the world, the authentic professional you and join the conversations redefining professional on LinkedIn, LinkedIn welcome professionals. Hey, really quick, before we start the show, if you happen to be going to Austin for south by Southwest, I will be there on Monday, March 14th, from 10 to 11, and I'll be talking about how I built this, a story of the show and all the things that we're gonna be doing. So if you happened to be in Austin, March 14th at 10:00 AM at the Austin convention center, I hope to see you there.
+
+Jason Citron (1m 32s):
+You know, when I started the company in 2012, the idea was eventually to build a games, distribution business, and so fast forward to 2018, realizing that it wasn't going to work. And isn't what our customers wanted. It kind of was one of those moments where I was like, questioning everything. Like, do I know what I'm doing? You know, how are we gonna build a business? And I actually had this kind of physically ill for a week. Cause I didn't really know what to do because so much of our time and energy was leading up towards building that, that business.
+
+Guy Raz (2m 11s):
+Welcome to how I built this a show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Raz and on the show today, how Jason Semitron gave up on building video games and instead created discord, a social platform for gamers that actually grew into a meeting place for more than 150 million monthly users. When I was in middle school, we had a phone in the kitchen with a very long cord and when a friend would call a, take the phone attached to that cord down the hall and into a closet where I could close the door for privacy every now and again, my mom or dad would pick up the phone in the middle of my conversation.
+
+Guy Raz (3m 3s):
+And I would say, mom, I'm on the phone now, right at the start of the pandemic, a version of this exact scenario played out except this time I was the one intruding on my child and he wasn't even on the phone. He was at his desk on his computer playing Minecraft, wearing a headset. And Mike, I walked into his room, started asking him some questions. When he looked at me in horror and said, dad, I'm talking to my friends and I could hear a little voices coming out of his headset, multiple voices. And he was talking back and talking to the other characters on the screen.
+
+Guy Raz (3m 43s):
+And on top of that, there was a window on the computer screen with a constantly updating text conversation. Oh, and the music to Spotify was playing in the background. Now at the risk of sounding like a very old and out of touch, dad, all of this was made possible by a social media platform that I'd heard of, but didn't know much about discord. And since its launch in 2015, it's become one of the biggest social media platforms in the world. Discord was built for gamers as a way to chat and send messages and talk while playing video games together. And like zoom and slack discord grew at a massive rate during the pandemic because for millions of people, it was a way to socialize.
+
+Guy Raz (4m 29s):
+And in our case, it kind of saved my kids during the almost two years of limited in real life, social interaction. But what's most remarkable about discord is that when it was launched in 2015, social media was dominated by Facebook, Instagram, Twitter, and snap. And you would have been kind of crazy to try and compete with those. But Jason Citron, the founder and creator of discord wasn't competing at all. Instead he entered that crowded social media space through a side door, a door that led to gamers. He built his platform for them designed with their needs in mind.
+
+Guy Raz (5m 9s):
+And in return, they not only adopted discord, they told all their friends to do the same. Now like many of the tech founders we've had on this show, Jason Citron got into computers at an early age, but unlike many of them, he didn't study math or engineering and he didn't attend Stanford or MIT or Berkeley. In fact, Jason got a degree in video game design at a for-profit college in Orlando, Florida called full sail. And with that degree, he moved out west to design video games. But somewhere along the path to building games, he struck out twice as he will hear, he couldn't figure out how to make a game.
+
+Guy Raz (5m 51s):
+People want it to use or pay for, but what he could figure out was how to create a way for gamers to communicate. And he did that also twice in the case of discord, it now has more than 150 million monthly users. And in 2021, it was widely reported that Microsoft offered Jason $10 billion for discord and offer. He turned down, but we'll get there. As I mentioned, Jason got into computers pretty early actually to be more specific. He got into video games and at age 13, his family moved from long island down to south Florida.
+
+Guy Raz (6m 33s):
+And for his future career, that move proved to be,
+
+Jason Citron (6m 38s):
+Yeah, that's a funny story. I actually, so this was shortly after he moved to Florida and this is one of those things where it's like, if my family hadn't moved to Florida, like maybe this would never have happened and my whole life would have been different, but I ended up making a bunch of friends, you know, and in eighth grade when I moved there and had a slumber party for my 13th birthday and they, everybody sort of fell asleep except for me. And, and one, one other guy and we were sitting around talking and he's like, I know how to make video games. And of course I'm like, no, you don't like, you're lying. Like you don't know how to make video games. And he says, no, no, I really know how to make video games. And so we, we installed this thing called Q basic on my computer, which was like a very basic kind of computer programming environment.
+
+Jason Citron (7m 22s):
+And he starts typing in some commands on the computer and starts drawing these little circles on the screen. I mean, imagine like the lamest graphics, you could possibly imagine like a black screen with like a little circle on it. And I just like lost myself. I was like, this is amazing. Like, holy crap, like you can actually make video games and I just became obsessed with computer programming. What was the,
+
+Guy Raz (7m 43s):
+The first thing that you were able to successfully program? I mean, I'm assuming it was pretty rudimentary. What, what do you remember about it?
+
+Jason Citron (7m 51s):
+You know, in high school I built a couple video games, but I also made, you know, learn how to build my pages. And I also, I think part of it, you know, when you think about as a kid, like how you get validation for what you do and how that reinforces your behavior. I learned pretty quickly that I could make money from, from programming and from computers and it, and these things. So that, that was something my dad taught me, you know, early on. It was like, got to have a skill that you can use to make money. So I kind of that all kind of compounded.
+
+Guy Raz (8m 19s):
+How did you, I mean eventually, how are you making money in high school from, from some of the skills that you were learning?
+
+Jason Citron (8m 25s):
+The big part of it was helping people around town and learn to use computers. Right. And then from the programming stuff, it was, you know, I would like meet people on the internet who were in these like programming communities who were like looking for people to help them build websites. And I was like, I can, I can do that. And so I would, I met a bunch of different people who contracted me to build websites for them. And actually I remember the first time that I was trying to get paid, I went and talked to my parents and I was like, Hey, Hey mom and dad, like, I need someone I need to like, be able to accept like a couple thousand bucks from someone on the internet. Like how do I do that? And they actually, they actually thought I was like selling drugs or something. Cause they were like, how are you getting paid online?
+
+Jason Citron (9m 6s):
+I was like, no, no. And like I showed them, I was like, no, look, this is all this computer programming stuff I've been doing. And they're like, oh, that's great. And so they helped me set up like a PayPal account.
+
+Guy Raz (9m 15s):
+And I guess when it came time for you to go to college, you, you stayed in Florida, you went to a place called full sail university. This it's, I guess it's based in Orlando. And it's a, it's a for-profit colleges. It's sort of like a trade school where a lot of people interested in, in video game design go. So you end up at any at a university. That's not, it's not sort of a traditional kind of quote unquote prestigious place, but more practical. And it sounds like you were learning how to do what you wanted to do or like want it to learn.
+
+Jason Citron (9m 49s):
+Yeah. That's exactly what, what happened. You know, I think, you know, higher education is kind of an interesting and interesting part of society because yeah, in reality, you know, I'm now like almost 20 years removed from all of this. And when I, when I work with people, the school they went to like never comes up, right. It's like, what can you do? What do you know?
+
+Guy Raz (10m 11s):
+But that was, but that was a thing, certainly in Silicon valley, 15, 20, and 10 years ago, people were kind of snobby about, you know, they went to Stanford at Caltech or,
+
+Jason Citron (10m 21s):
+I mean, I, I don't know, maybe, maybe, maybe that was the case, but I think at some level, one of the great things about Silicon valley, I think at least from my point of view is that it's kind of really just about what you can do. Yeah. And not really about where you're from. There tends to be some of this, like, you know, if you're from a poor prestigious school, maybe you have like the network that helps you at the end of the day. Like the beauty of Silicon valley is that if you have a great idea and you can show and you can actually bring it to life, you can convince total strangers to give you money, join your project. And so this notion that you have to go to a great school, it didn't end up being a thing for me, you know, at least. And I, a lot of, lots of people that I know didn't go to great schools that they're super sick.
+
+Guy Raz (11m 5s):
+Yeah. And I guess after you graduated, you clearly, you wanted to go and make video games and you ended up, I think, first in, in Southern California at a, at a studio there, but it wasn't quite clicking. And then eventually you landed in Berkeley.
+
+Jason Citron (11m 24s):
+Yeah. The funny story is, so I had, I had moved to Berkeley because I wanted to kind of be in more of a social environment. You know, I was 20 at the time, moved to the bay area, basically didn't know anybody. And after living by myself for nine months or something, I was like, I want to go like be somewhere where I can make more friends. So since I was kind of the same age as like the fourth year students over at Berkeley, I found some house in Berkeley where they were like nine other college kids living. And I got a room in there with them to like make friends. And one of the folks who was living there had an uncle who was starting a tech incubator. And I remember I was like walking to the kitchen to get some cheese or something from the fridge.
+
+Jason Citron (12m 4s):
+And he's sitting and talking with another one of the kids on the couch, you explaining how his uncle's looking for folks who want to start a company. And I just remember stopping and being like, hi, can I meet your uncle? And so we got to talking and, and, and that was kind of how I got into Silicon valley was another one of these like totally accidental situations.
+
+Guy Raz (12m 28s):
+This was a small tech incubator, I think, called the you web that's right. And the guy's name was Peter Raven.
+
+Jason Citron (12m 35s):
+I'm Peter Roland. Yeah. He, he was a technologist himself who had started a company and, and been pretty successful and was looking to do something and had this idea to help up and coming entrepreneurs like programmers, like learn how to build and launch companies. But, but that ended up being, you know, one of the best decisions and fortuitous situations of my
+
+Guy Raz (12m 57s):
+Life. And the idea was you have a year to come up with something.
+
+Jason Citron (13m 0s):
+Yeah. We had a year to come up with something. And so the first idea that I worked on was an online dating site where you could place your rates with people to kind of get to know them like through video chat. Yeah. Yeah. This was like back when like flash was new and like webcams were kind of new. Right. It turns out it's a horrible idea. We actually shut it down the day that we launched it. Like no one wanted to do this. Right.
+
+Guy Raz (13m 24s):
+But you actually started to work on it and create like a, a wire frame for it and an interface.
+
+Jason Citron (13m 31s):
+Yeah. I built it. But I realized that like, there were so many things about that interaction that were just not what people wanted. Right. So we ended up building a kind of multiplayer UNO game where you could match up with folks, play UNO, but it had chat. So like, while you were playing UNO, the point was actually to make friends and you launched this through Facebook. It was on Bebo, which was a different social network at the time. You know, this was back when it wasn't clear, like which social network was going to be the one that everyone
+
+Guy Raz (14m 1s):
+Used. And, and how did that do?
+
+Jason Citron (14m 3s):
+It did pretty well. We had, I think maybe 10,000 people using it and playing UNO with each other. And the interesting thing here is there was, we were working on it for probably a couple months, I think. And then Steve jobs announced the app store. And I remember, you know, watching the keynote, I think that was in early 2008, he announced the app store. And I just remember listening to that going like, holy smokes, this is going to be like a new game console launching. And what I mean by that is like, you know, whenever a new video game console launches, that's the opportunity for a new video game studio to get started because there aren't 200 games available.
+
+Jason Citron (14m 44s):
+Like, you know, when, when the PlayStation three claims that comes out or, you know, one of these new systems, there's just a handful of titles. And so if you can be a launch title, you can get a lot of distribution and cause you'll get a lot of awareness. Cause the console makers will push the games. And so it's a great opportunity to launch a new business. And so I saw the app store and I was like, oh my gosh, this might be the opportunity to launch the video games business. We shut down the UNO game and started packing on an iPhone title before they were even any tools to do it. And we ended up launching a game. The day that apps are opened, about five months later, we were one of the first 50 titles on the app store.
+
+Jason Citron (15m 25s):
+And I remember thinking like if we get a thousand players in the first week, that would be incredible. And we got a thousand in the first hour and I was like, oh, this is, this is something
+
+Guy Raz (15m 36s):
+Th this is this a game that you launched called Aurora faint. And it was, can you describe what it was? So like a puzzle game, right.
+
+Jason Citron (15m 45s):
+For iPhones. Yeah. So the idea was we have a new device in an iPhone and how could we make a game that takes advantage of the device in a fun and interesting way. And so, like, what was unique about an iPhone? Is it had an accelerometer, so you could turn the device sideways and it had contact lists. So you like, your friends were already sort of there. So we decided to build essentially a, a puzzle game effectively imagine Tetris, but with a kind of Lord of the rings aesthetic with some role-playing mechanics. So you could level up and unlock characters and compete against other people. And you could turn the phone sideways to kind of change the direction of how the board moved. And it was pretty popular. We won a bunch of awards for it, but it, it didn't end up becoming, becoming the business that we thought it would be.
+
+Guy Raz (16m 32s):
+Your, you were partnered at the incubator at us with somebody named Danielle Caslow, who you ended up creating this with. Tell me about Danielle. Who, who, who is she?
+
+Jason Citron (16m 43s):
+Yeah, Danielle was another, another entrepreneur at the incubator. And Peter suggested that the two of us team up cause she was working on, on a related game project. And I think he thought that the app store was going to be a big thing. And so Danielle and I ended up teaming up to build a war, a fate together, and we hired some, some really great artists to help us.
+
+Guy Raz (17m 3s):
+All right. So you put this out, out on the app store and you get some interest and by the way was it,
+
+Jason Citron (17m 9s):
+Was it free? Yeah, the game was free. The big brain idea we had at the time was to follow the shareware model. If you can imagine this was before internet purchases free to play video games where like not really a thing. And our idea was let's make it free, get a lot of people to try it. And then in a few months we'll launch like a bigger version. That's like eight bucks and then we'll upsell people from the free version and it didn't work.
+
+Guy Raz (17m 35s):
+Did you make any money off of her aura fade
+
+Jason Citron (17m 37s):
+At all? I think we covered our, our, our spend for maybe one month when we launched the $8 version, I think we made like $30,000 on it. And then the next month we made like $15,000 and the next month we made like $7,000. And you know, by the second month we were like, okay, this isn't working. Like all the other games in the app store are trending towards 99 cents. And so we actually got to a point where we had about three weeks of runway left of money left to spend, to run our business. And I remember very vividly calling up my dad and being like, Hey dad, I think this start-up adventure is coming to an end. Can you get my room ready? I'm going to have to move home before I get my next job.
+
+Jason Citron (18m 18s):
+And he's like, okay. I'm like, all right, great. But it's
+
+Guy Raz (18m 21s):
+Clear that, that there was a desire to figure something out. It sounds like it was, there was a kernel of something there that you had worked on with Danielle and Peter.
+
+Jason Citron (18m 33s):
+Yeah. We ended up Danielle, Peter and I were sitting around and talking about like, you know, is this really the end? Like, what else can we do? And I had the observation that we had built all of this stuff in our game, leaderboards chat rooms, multiplayer capability, and that I thought other developers might want to use the technology in their games. So that's what we ended up. We ended up building that.
+
+Guy Raz (18m 58s):
+He said, Hey, instead of being making video games, let's just sell the technology that we created for this game to other game makers who were making games, rifles. Yeah,
+
+Jason Citron (19m 8s):
+That's right. So we, we ended up setting up a webpage and basically saying like, if you're making a video game and you want to have drop-in multiplayer support, use our system, we call the open faint. And you know, in three days you can take your, your iPhone game and make it multiplayer. And your, your, your people will play it more. You'll get more users and all that kind of stuff. But, you know, th th the thing is that we actually didn't have enough time, enough money in the bank to build all that stuff, because while we had, while we did have it in the game, it wasn't the technology wasn't set up to be used by other, by other titles. Right. So we came up with this kind of wacky idea to basically check and see if people really wanted this.
+
+Jason Citron (19m 50s):
+So we put up a webpage tech crunch covered it, and we got a couple hundred people who signed up on the mailing list. And so we actually took that mailing list and went out and raised a seed round of funding. And then we spent the next three months building and launching to launch the service. Cause you didn't
+
+Guy Raz (20m 5s):
+Actually, you had to extract the technology right from you built it, purpose-built it for the game, but you had to essentially remake it. So it could be generic. It could be
+
+Jason Citron (20m 15s):
+That's right. We had to completely reboot. We basically rebuilt all the technology from scratch to make sure that it could be really easily dropped into any, any iPhone or Android game.
+
+Guy Raz (20m 25s):
+So it was like plug and play technology that it would just save people time that they would not have to code it. The,
+
+Jason Citron (20m 32s):
+Yep. So if you had, you know, a fun, kind of a high score based iPhone game, if you added open, faint in a week, you could turn it into a competitive multiplayer game where you and I can compete for high scores. We could unlock achievements, you had a chat room and it would also go across games. So if you had, if you, if you and I were playing two different games, we would not have to like add each other as friends, again in two different places. And so it really kind of created this social layer across iPhone and Android games. So
+
+Guy Raz (21m 4s):
+You had to start working on us, right. Because you had at least a hundred people who are interested in it and using it. And, and what did that mean? D was it just the two of you back starting from scratch you and Danielle?
+
+Jason Citron (21m 17s):
+Well, there were actually five of us at that, at that point in time, my friend Andy had joined us. And then there were two other folks, but yeah, basically we start, we were starting over, like we went file do and started coding again. And, you know, Danielle and Peter kind of did the business development and went out and started, you know, reaching out to all those people who were on that mailing list and talking to them and pitching the idea. And I was furiously coding and we ended up launching it about three months later with 15 games. It's an
+
+Guy Raz (21m 46s):
+April like April of 29, 2009. Yeah. Probably
+
+Jason Citron (21m 49s):
+March, April, something like that. And we launched it with 15 games. One of them was one of the biggest in sort of independent developer hits at the time, again, Paul pocket God, and having, having a really like cool marquee title kind of really put us on the map for it. And it just kind of took off.
+
+Guy Raz (22m 6s):
+And when you say, put us on the map, I mean, you are, this is backend technology, but, but puts you on the map among developers game, game creators.
+
+Jason Citron (22m 15s):
+Yes. You put us on the map for game developers. But the interesting thing about how we, how we built it was it wasn't just back in technology. A big part of it was that end users would have an open Fein account. You would set up a username. And so when you would go across games, all of your friends and all of that stuff would come with you. So it actually started to generate a lot of end user awareness. Developers would start to like put the logo on their app icons in the corner. So like when you were browsing the app store, you'd be able to see like, oh, this game has open face to like, my friends will be there with me. And it got to a point where, you know, you were scrolling that app store list. Like every other game had had our logo in the corner. It was
+
+Guy Raz (22m 54s):
+Pretty wild. Yeah. Opened faint, became like a brand. Cause it was an app to,
+
+Jason Citron (22m 58s):
+Yeah. It really was like a whole social platform for people to play games with their friends.
+
+Guy Raz (23m 4s):
+How did you, what was the revenue model with the video game come coming? Because presumably they would buy the software that you created and they'd plug it into their system. And then what, and then they paid you subscription. Like how did it work
+
+Jason Citron (23m 20s):
+When we launched open faint? The idea was that it would kind of have like a tiered plan. So like initially it would be free. And then once your game starts to get popular, we would say, okay, now pay us for this, you know, some kind of software as a service fee, but very quickly we actually realized that that was not a great business model. And so we just made it free for initially. And we never really figured out how to make money off of it, frankly.
+
+Guy Raz (23m 45s):
+So essentially you started to raise money, right? You were getting, you were attracting more and more interest from investors. I think you eventually raised like $12 million, but you had no revenue coming in.
+
+Jason Citron (23m 58s):
+I mean, I, I think a few people had paid us, you know, what the initial thing, but, but this was one of the other, I thought was like the growth rate of it was such that like, it was just focused on growing and then we'll, we'll turn our attention to making money later. Right.
+
+Guy Raz (24m 11s):
+And did you, I mean, as you, you know, as you just attracted more and more interest from, from gaming companies or people building games, were investors coming to you or were you guys going out and, and you know, going up and down sand hill road and pitching people?
+
+Jason Citron (24m 27s):
+Yeah, we, we were pitching people like it was actually very hard to raise money. You know, this was 2009. So it was a very odd time in that, in, in this very sort of small place of Silicon valley, focusing on smartphones, it felt like opportunity was endless and that it was just this amazing new thing that was growing. But the world around us, like it was the finding of the financial crisis just was happening. Like it was, it was very difficult to raise money. We raised money from a couple of strategic investors, but actually no Sandhill VCs invested in that, in that company.
+
+Guy Raz (25m 3s):
+How did you find, I mean, you were, I don't know, 23 years old and you know, still relatively new, but how did you find that process of going and pitching for money? Did you, do you remember in the early days, did you, did you, would you get nervous? Did you feel awkward? I mean, or was it, were you comfortable doing it? Was it easy?
+
+Jason Citron (25m 25s):
+It was kind of all of the above. The thing about it is I really knew what I was pitching and I really believed in it, the numbers were just up into the right. And so it was just about finding people who, who believed in that and who understood it. And, you know, the first, the first investment we got was from actually another company that was working on something similar in a different market. And so they really understood it. And then later on, we got a little more traditional venture capital arm of Intel actually invested. Yeah.
+
+Guy Raz (25m 54s):
+I think $3 million. Yeah, that's
+
+Jason Citron (25m 56s):
+Right. But it was just, it was just a difficult time, I think, generally in the market and maybe this was where like not going to Stanford, didn't help, you know, I don't know.
+
+Guy Raz (26m 6s):
+Yeah. Cause you didn't cause he didn't have the network. Yeah. But you, I mean, you had this experience with Peter Raelin who kind of, I'm assuming maybe he kind of mentor you, like, is that where you kind of learn the ropes about, you know, how to value your company and which lawyers to work with and, or, or was it through some other channel? Yeah,
+
+Jason Citron (26m 23s):
+That's right. That's right. Yeah. He really kind of showed me the ropes of Silicon valley and he had a network of some really good folks that kind of, he brought in to support the company. So, and he had some connections to help us get in front of some investors and navigate that a bit.
+
+Guy Raz (26m 40s):
+How did you, how did you do as a leader when you were so young? I mean, you, you started out with five people and I think within a year and a half, it grew to almost a hundred people. So help me understand how you figured out, how to be a leader of a hundred people. I mean, that's, for anybody that's hard for somebody 25, 26 is really bright. It's not, not
+
+Jason Citron (27m 13s):
+So easy. No, it wasn't easy. I made every mistake in the book, but I made a lot of the mistakes in the book. It really was like a business school of hard knocks, kind of an experience for me. I have, I have a very clear memory of like probably around year two. I think, I think we were maybe 70 people at the time. And Andy, you know, my friend who is still working with me, came to me and he said, you know, Jason, it kind of sucks working here, but I'm not leaving. I'm just letting you know, we need to work on making it better to work here because it's not awesome. What was,
+
+Guy Raz (27m 49s):
+What was not awesome? Well, we
+
+Jason Citron (27m 51s):
+Just, you know, because we grew so fast and everything was new. I w we were not focused on building a great culture. Like it was very much just like we have to solve the problems. And we just, we're just trying to stay above water. You know, when you're building software products, like you've gotta be really intentional about paying down technical debt and thinking about how you run the process around building software at scale. Because if you're not thoughtful about tool development and, and building code that is reusable and easily to maintain you find yourself in situations where like, everything is really hard to do. And when things get hard to do people get stressed. And I was, I kind of leaned more towards the like more and more and more like, I have really high expectations.
+
+Jason Citron (28m 36s):
+Like we gotta get this done. So I wasn't getting mad at people. Like I'm, I'm definitely not the guy who gets angry, but I have really high expectations and high expectations combined with lots of technical debt and management debt made it like difficult to make progress. And I would get frustrated.
+
+Guy Raz (28m 52s):
+You didn't know anything about management? You had no management, no training or experience.
+
+Jason Citron (28m 56s):
+I, I didn't, I didn't. And I think, you know, there's, there's also a difference between like leadership and management. They're both skills that can be learned, but I think I was a bit of a natural leader, like something about how I approached my work and approached the problems we were solving for our customers was inspiring to the people we were working with. But my management ability was just like so raw that I really leaned on, on some of the executives that we ended up hiring Peter, you know, certainly helped teach me some things about that. But a lot of it was just trial and error and reading books. And, you know, I, I studied a lot as I did when I was learning programming. I was like, I'm going to learn how to build this business. So I read management books and talk to people and, you know, I, I kind of got some of the basics in place, but, you know, it's, it's really hard to, to do that.
+
+Jason Citron (29m 45s):
+You know, what do they say? Like, you're building the plane as you're falling out of the sky kind of a thing, and you never built a plane before.
+
+Guy Raz (29m 51s):
+Yeah. So I guess open, faint started to, to make a little bit of money by, I think like probably by early 2011. And then basically in April of 2011, the company was sold to a Japanese social networking game maker called gree for like a hundred million dollars, which is unbelievable. Yeah. And, and I think anybody would have done that, but was there any, I just had a curiosity. Was there anybody who said like, don't do this, like we can, we can, we can get bigger or was everyone like, yep, let's do it. Let's do.
+
+Jason Citron (30m 29s):
+It was not clear that we should sell that. The thought process was really kind of a combination of the opportunity we have in front of us and how much risk we felt was in that opportunity. And then the financials that everyone in the team would get, including myself and sort of how that might change people's lives. And ultimately because of where we were with the business, like we had strong user growth, we hadn't quite figured out how to make money. And the market was changing a lot, you know, free to play games. Games were starting to become popular and free to play games, kind of had less of a need for, for open faint. And we were also competing with apple and now Google, at this point, it's a given all of this dynamic.
+
+Jason Citron (31m 11s):
+I sort of felt like it could go either way, like we could keep doing it and it could, we could figure it out or not. And ultimately the reason I chose to sell the company was because, you know, the arrangement we had with, with Greg the acquirer was that we would get more resources to go on and continue building that open Fein and, and, and see where we can take it. But, you know, unfortunately I very quickly realized that we actually didn't see eye to eye and, you know, they wanted to take the business to the left. I wanted to take it to the right. And so after like three or four months, you know, they asked me to, to step aside and basically we're going to take the business in this direction. And so I left,
+
+Guy Raz (31m 53s):
+Well, let me just back up for a sec, when you sell a company, oftentimes part of the deal is you go work for them and they were buying your talent and a talent of your team. And you were not, you, you weren't profitable. You were far from profitable, you were more making much money, but you had tons of users. I think when you sold to GRI, you were like on 30 per read, like 30% of the apps in the app store were using open, faint, so huge penetration in that market. Right. But they had to figure out presumably how to make it a revenue generating product. Is that where the clash of ideas came from?
+
+Jason Citron (32m 29s):
+No, I mean, I was all all supportive. Like how can we build a business around this? Right. But I think that the strategy that they wanted to take to do that I believed would destroy the stuff that we had. And, you know, when you sell a business, you're selling it and they had the right to choose an employee. They could choose what they wanted to do. And so they, they did, but
+
+Guy Raz (32m 51s):
+Was it, was it a, was it a kind of a clash of personalities too?
+
+Jason Citron (32m 54s):
+I think it was, it was just expectation setting. Like it wasn't a clash of personalities, but ultimately there was actually a big language barrier between them and myself. And I think that contributed to some of not seeing eye to eye on it. I was fully intending to stick around for a long time. Like I didn't build this, you know, pour my heart and soul into this company with the expectation that I was going to walk away from it.
+
+Guy Raz (33m 19s):
+I mean, you did well, you came out of that set for life financially. You were 26. So I mean, you could look at it and of course, perspective matters here, but you could look at it from a number of different perspectives. Okay. No big deal. So they ask you to leave, but you're set for life, but I'm assuming you didn't quite see it that simply,
+
+Jason Citron (33m 39s):
+No, I didn't. I didn't. I mean, it's true, you know, like selling a company and having, you know, for, for good economic outcome is phenomenal. It was life-changing for myself. And for a lot of the people at the company, you know, we all recognize that money is important. You know, my, my dad grew up super poor in the projects and, you know, in, in New York city. And so, you know, I think for him, he was really like, wow, this is an incredible conversation to be having, you know, should we sell
+
+Guy Raz (34m 8s):
+This cup amazing.
+
+Jason Citron (34m 11s):
+Right. But, you know, I got into doing this and, and even to this day, like I, I do what I do because I love building things. I love creating experiences for people that make them smile. And at the time when I left, I remember sitting in my car actually crying because I thought maybe I wasn't ever going to have the opportunity to build something that mattered again,
+
+Guy Raz (34m 38s):
+When we come back in just a moment, how Jason finally does what he's always wanted to do, start a video game company and how that idea ultimately fails to meet most successful way possible. Stay with us. I'm guy Roz. And you're listening to how I built this.
+
+Guy Raz (35m 19s):
+Hey, welcome back to how I built this I'm guy Ross. So it's around 2011, 2012, and Jason is taking a bit of a breather after selling his company open, faint. And during this period, he plays a lot of video games. Final fantasy six is a special favorite, and he does a little with his girlfriend, but he's also thinking really hard about what he wants to do next.
+
+Jason Citron (35m 44s):
+Now I was sitting there thinking like, okay, I've always wanted to start a video games company and I can do it now. So like, how do I want to do it? And you know, one of the things that I'd seen over my life is when there are these new distribution channels that get created that's opportunities for new businesses to get, to get launched. You know, I mentioned this earlier with consoles and the app store. And so sitting around in 2012, I was like, okay, where in the world is there kind of a leading edge innovation that may have some new distribution opportunities where there's less competition? So a startup has an opportunity to stand out. And this was around, I think year two or three of the iPad. And early days iPad growth was like a hockey stick.
+
+Jason Citron (36m 27s):
+Yeah. And so I remember thinking, you know, maybe I pads will end up replacing how people use desktop computers and the way that people play games on those devices are quite different than mobile devices. You tend to sit for longer amount of time. You can have deeper experiences. And the idea I had was what if we built the gaming business that was more like traditional kind of video games, but on tablets, as opposed to kind of the mobile games which I had been doing before, which were more kind of bite sized pick up and play ideas.
+
+Guy Raz (37m 2s):
+That was basically your idea to, to start a company where you would do multiplayer games for tablet.
+
+Jason Citron (37m 9s):
+Yeah. And the thesis there was, I studied entertainment businesses, and I realized that the ones that end up being around for a long time tend to have some kind of durable advantage beyond just a single title. It's changing a bit now with games as a service, but, you know, a decade ago, video game businesses that were around for a long time tended to have a distribution mechanism of their own that they could use to kind of buffer the time between making hit titles. Cause it's a very hit-driven industry. Yeah. So I'm talking, you know, Nintendo Sony with their PlayStation, Microsoft Xbox, you know, valve has their steam store.
+
+Jason Citron (37m 50s):
+And so as a technologist, I'm like, I probably can build some kind of distribution mechanism or something. And I had the notion that there's might be an opportunity to build a group communications app for people who play games. And so the idea was build a team-based multiplayer game that had voice chat and text chat kind of built into it kind of similar to how Aurora faint was, except
+
+Guy Raz (38m 12s):
+It would have
+
+Jason Citron (38m 13s):
+Voice chat. Yeah. It'd be team-based real-time gameplay and then use the game to kind of bootstrap the communication network and then use that to launch additional titles and eventually build a distribution business for games. It sounds like the
+
+Guy Raz (38m 29s):
+Idea was to build like, like a media technology company where you would offer this service similar to Aurora feint, but with audio chat component, but also to make games that were designed to be used with this social interactive platform.
+
+Jason Citron (38m 44s):
+Yeah, that's right. But instead of like open faint where it was primarily a service that we sold to developers who then put it in their games for their users this time, I was like, I want to go direct to consumers and have a direct relationship with the game players and then eventually make it into its own app.
+
+Guy Raz (39m 2s):
+So, so you were really thinking about building a social network. Yes. This is around 2012 and you, you, I think you originally called the company Phoenix Guild and then in the change to hammer and chisel and you raised a little bit, a little over a million dollars in seed money to launch it. And when you pitched it to, I mean, I'm assuming at that time, you, lots of people want to throw money, throw money at you. Cause you'd taken a company from zero to a hundred million dollars in two years. But when you explained what you were doing, how did you describe it? Did you describe it as a, as a, we're going to make video games or did you describe it as we're going to create the social network or both?
+
+Jason Citron (39m 43s):
+Yeah. I, I described it as we're going to build a new kind of gaming ecosystem on like the next generation of computing devices. And it's going to be a combination of things. It's going to be games. It's going to be a communication service and then it's going to be a distribution mechanism.
+
+Guy Raz (40m 2s):
+How did you begin to recruit people to join you? Did you, how did you find people to put their people from open faint who came? Was it sort of just a network of people you knew? Where did, how did you start to gather the team?
+
+Jason Citron (40m 15s):
+I mean, the, the, the initial place that I started was I was like, I need to, I need an artist. I was like, I'm a, you know, I'm a software engineer who kind of understands product and game design, but I'm not an artist, so I need an artist to make any progress. And so I, you know, called up some of my friends from the games industry to see like, you know, is anyone interested? What are people doing? And I started looking online to find like great talent. And there was this website, I think it was called CG hub.com like computer graphics, hub.com where artists would like put up their portfolios. So I just kind of started going down these portfolios and sending messages to people who looked like they had really awesome work. And then ultimately really hit it off with one guy who was just incredible.
+
+Jason Citron (40m 58s):
+His name is Brandon. I actually, I flew to Texas to meet with him and he ended up being the first person to join the company. He's actually still with us
+
+Guy Raz (41m 5s):
+Today. It's pretty cool. Did you have an idea, a specific idea of what the game would be, or did you just go to him and say, I'm not really sure what it is, but I want to make a video game and I want to do it together.
+
+Jason Citron (41m 14s):
+Kind of had a hunch of, of the space to explore, but I didn't have a specific idea. You know, I knew that I wanted to build a game that was real-time multiplayer that allowed you to spend time with your friends and have these really fun experiences to like create memories together. And then that would also clamp the right kind of seeds to be able to build that communication service that we wanted to build on top of the game. Right.
+
+Guy Raz (41m 37s):
+So how did you come up with it? The concept would eventually be called fates forever. This was the first game I think that you came up with
+
+Jason Citron (41m 43s):
+Yeah, fates forever is a three versus three real time multiplayer game. The genre's called massively online battle arena or MOBA.
+
+Guy Raz (41m 53s):
+You're fighting other
+
+Jason Citron (41m 54s):
+People. It's kind of like playing soccer, but instead of a ball going into a goal it's like dragons and fireballs and,
+
+Guy Raz (42m 2s):
+And stuff. And the three of you are all kind of on the same team fighting, fighting now.
+
+Jason Citron (42m 6s):
+Yeah. So it, yeah. It's like you and two other friends against three other people, but I have to give credit, like we didn't invent this, this is this game. It was already really popularized on PC by something called league of legends.
+
+Guy Raz (42m 19s):
+And so, yeah, we've done. We talked to the founders of riot games on the show. Great, great. Yeah. They're an amazing story, but keep, keep going. And by the way, I know I sound like a complete bozo when I'm asking these kinds of questions because people who play these games, like, are you kidding me? You don't know how this works. And the answer is no, I don't, even though I've seen it, I've seen my kids play it. I'm like, okay, so it's three of you and you're fighting this guy and the fireballs coming at you and there's a dragon there. And then there's this guy in your fire and sometimes you kill each other. Yeah. Kind of okay. Keep going. Yeah.
+
+Jason Citron (42m 47s):
+There's a lot to learn, but so that's what the game is. So we basically took one of the, the game modes from league of legends and we said, how could we re-imagine this for like a 12 inch piece of glass? You know what you're paying, playing on a tablet. And so we came up with the do kind of touch mechanics. You could like draw, you know, you could draw a squiggly line and like the fire would like follow the line that you drew and cool. So like, we had a lot of interesting interaction design that we did to try and really create like a mobile native experience to offer something different
+
+Guy Raz (43m 17s):
+The way, how long I read that it was an eight person team that made this game. Cause you had, cause you raised some money, I think about two and a half million dollars to make this game and then another 8 million or a little bit more after. But, but I mean, how long does it take for eight people to make a game? I mean, I guess, I guess the answer is a year and a half. Right. But, but it, but it's is it just like crazy intense schedule? Cause it seems so complex and eight people is not a lot of people.
+
+Jason Citron (43m 46s):
+Yeah. It's complicated making games, but it's interesting because for the first six months of the company, we were kind of noodling around on different prototypes and different ideas. We had, we had like a tower defense concept, a couple of different kinds of concepts. And then after about six months, we kind of had this interesting moment where, you know, I decided like we should reinvent this mobile concept on tablets because I believed that it was a real, it's a really great game design. And I thought it would be huge on mobile, but like a couple of the people at the company time didn't agree. And so actually two people ended up quitting and I had to let one person go because they didn't want to work on it. They thought it was, they thought it was a bad idea. I mean, they were kind of right.
+
+Jason Citron (44m 27s):
+But it was a, it was, it was an interesting formative moment for us because there were like three of us left and it was Andy, this fellow that I've mentioned a few times, he ended up joining up and then Brandon, that first guy that I hired and we were sitting around thinking like, do we even want to go do this? Or should we just kind of close up shop and go get jobs, you know, somewhere else. Yeah. And we ended up deciding that we didn't want to go get jobs somewhere else. And we wanted to take a shot at building our own games company because if we could make a great place to work and collaborate with people that we respected, like that would actually be kind of an end in and of itself. And good things would probably happen. You know, we all had difficult experiences working in the games industry.
+
+Jason Citron (45m 9s):
+So that was actually the moment we renamed the company to hammer and chisel to really honor the craft of making something. And so we ended up then hiring actually up to about 18 people to build the game. And it took us about two and a half years I think, because that was early, maybe actually was a year and a half year. Right. Well to build it and launch it, but we worked hard, but we didn't crunch a lot. We had pretty good work-life harmony had a lot of fun doing it, but we just like tried to be smart about it and took a long, a long view on building a great place to work.
+
+Guy Raz (45m 45s):
+You've launched the game and, you know, for wide release in, I think in April or maybe in July of, of 2014, but it didn't do that well. Right. It didn't really take,
+
+Jason Citron (45m 57s):
+Yeah. It was kind of a similar, similar story to what happened with, there were a faint, like, you know, we got iPad editors choice. We got a lot of people downloaded it in that first week. Critics liked it. Critics liked it won a lot of awards, but ultimately it became clear that the genre on tablets was not really going to work. And that tablets generally, while popular were not going to be as big as we thought and not going to be kind of the inflection point around like how people change their relationship with computers and that actually it was going to be smartphones all along. So we started porting our game to smartphones and did that help? Well, we never actually found out because as we were working on that port, you know, one of the engineers at the company, a guy named Stanislav Vishnefski came to me and was like, Hey Jason.
+
+Jason Citron (46m 44s):
+And we've been talking about this gaming communication thing for awhile. And he was like, I have an idea for how we could build a communications app that doesn't require us to bootstrap it with the game. And he actually pitched me the seed of the idea of what discord is today. And so I call Stan a co-founder because of that moment.
+
+Guy Raz (47m 3s):
+W w what was the exact idea that, that sand brought to you? Like, what was the, what was that insight that he had
+
+Jason Citron (47m 9s):
+With the insight that he really had was kind of putting together a couple of dots, which were kind of counterintuitive, which was, we're seeing our customers cobbled together, you know, communication around our own game with all these different apps and also ourselves. Like, we kind of do this when we play games on PC. And like, maybe we just solve that problem directly rather than needing to build a game, to get people, to use something which we can then focus on. And the real counter-intuitive part was, and we should start by doing it on PC, you know, because in 2014, like mobile was exploding. You know, everyone in Silicon valley was focused on, on mobile. And we ended up basically talking about launching a communication service on PC first, our board thought we were kind of nuts, but ultimately to their credit, they believe that we understood our customers.
+
+Jason Citron (47m 60s):
+And as, as individual users, like we would go home and play games on our PCs and consoles all the time. And because they're more powerful, right? Yeah. They're more powerful. It's more comfortable if you're going to sit and play a game for like four hours with your friends, like you want a bigger screen, you want to use a keyboard and a mouse. It just seemed natural to us. So, so while it, wasn't kind of like the top of mind conversation of the day in Silicon valley, as people who play games ourselves, it was, it seemed obvious when Stan like put it on paper, we were like, oh, this should probably work. Let's, let's take a swing at it
+
+Guy Raz (48m 35s):
+When you, I mean, the, the idea of discord initially was a way to communicate while you're playing video games and then to communicate around video games, to talk after, because video games and then a lot of people listening know this, but just bear with me for a moment. Sure. If you know this, because lots of people listening will not know this, which is a lot of people play the games, not because they care about winning the game or they even care that much about the game. It's just a chance to hang out with friends and you happen to be playing a video game, but you're really hanging out. That's the thing. Right? Yeah. And so this tool would just facilitate that. That was your thinking.
+
+Jason Citron (49m 14s):
+Yeah, that's exactly right. You know, growing up video games or the way that I spent time and hung out with my friends, you know, I wasn't the kid going outside playing sports. And so through my whole life, I just have so many amazing memories with my best friends, my wife, my brother playing video games, you know, the video games themselves were not the point. Like you're saying, and half the time we'd be just talking about random stuff, talking about life. And fundamentally discord was about, was creating a place that you and your group of friends could come together to talk and hang out. So it really created almost like a feeling of like having your own private cafe or a dorm room or living room that's for, just for you and your friends, you know, on your computer.
+
+Jason Citron (50m 2s):
+And then very quickly we got, we, you know, in your pocket, on your phone. Yeah.
+
+Guy Raz (50m 5s):
+Here's the thing, here's what I'm trying to say. And I mean, all of these things were available in different formats, right? Like you could just very crudely, like you were playing video games with your friends, you could all just get your iPhones out and do a conference call and just put it on speaker. And you could, you could communicate that way. Right. You could hear each other's voices and talk slack was out there and there were other ways to communicate. So why did you think that people would, was it, was it just that all of those were disparate, then we're all over the place and there just needed to be a simple one-stop shop where you can do all of that in a game. Was that the way you were thinking about it?
+
+Jason Citron (50m 39s):
+Yeah. There were, there were a couple parts, but having an all in one experience was a big part of it because you know, having to coordinate between all these different apps is kind of a pain in the butt. You know, like if you want to talk to your friends while you're playing a game, you know, people would use one set of apps. And then if you weren't in the game, but you wanted to join, you'd be like texting people on a different app, but like they're playing the game. So like, are they checking their phone? Are they checking their, you know, their messages? It's like you're somewhere else. And then when the game is over, if someone leaves, let's say someone drops out of the game, but they want to keep talking. If you're using the built-in voice chat in the game, like the person has to keep the game on their computer, they can't go like browse the web. So like there's all these little like nuanced behaviors that just made it kind of complicated to use.
+
+Jason Citron (51m 24s):
+Whereas with discord, the way that voice chat works is it's like an always on conference call because you invite people into a group space and then create a voice channel. If you and I are talking, you know, our friend can see that we're there and just click the button and hop right in without us having to get interrupted. And as soon as just a magical experience, you can like run into people online in a way that didn't happen in like Skype.
+
+Guy Raz (51m 45s):
+So there was clearly an opportunity here, but, but if you were going to focus on, on building discord that presumably that would mean that you were going to have to abandon the video game part of the company.
+
+Jason Citron (51m 57s):
+Yes. Well, initially it was, it was a little, a little more incremental than that. Initially it was just Stan and a designer who were working on discord, you know, in January, 2015, we kind of went, filed new and started working on that.
+
+Guy Raz (52m 11s):
+And, and did you have
+
+Jason Citron (52m 12s):
+That name by the way? No, we did not have the name discord at that point,
+
+Guy Raz (52m 16s):
+But it was just a side thing inside of hammer and chisel. Yeah, that's
+
+Jason Citron (52m 19s):
+Right. That's right. And within like a couple of weeks, Stan kind of started to stand up a basic app and I was like, this is kind of cool. So like I started coding on it and then a couple of weeks later, like, you know, one other engineer joined and another engineer joined and after like two or three months, we were in a situation where we basically had like all of our engineers working on this chat app and then all of our artists and game designers, building games. And I realized like, this is crazy. Like as an 18 person startup, we can't be betting on these two things at the same time. Yeah. It's too too much risk. And I'm like, I think we could have had a really good small to midsize business if we had focused on that game.
+
+Jason Citron (53m 1s):
+But from the experience I had building open faint, I knew that like we, I had these powers that I could use to have positive impact on like tens or hundreds of millions of people. And I wanted to do something that was really big and important. And I knew that that game in, in that form, wasn't going to get there. So rather than being okay with hitting a single to first base, I was like, okay, how do, how do we change this up? So we can get a triple home run grand slam or whatever.
+
+Guy Raz (53m 29s):
+So when did you make the decision to totally shift your focus to what would become discord?
+
+Jason Citron (53m 35s):
+So it was the beginning of April. I very distinctly remember actually I called Brandon the, the artist that I had, you know, that was leading our art team and told him like, Hey, we're going to focus on, on this app. And so like, I gotta let you go and let, like, all the artists go like, y'all are amazing creatives. Your talent is wasted here. So, you know, we had a long conversation about it and ultimately that's what happened. Like the entire art team left and went and got jobs, making, you know, great, amazing games. So,
+
+Guy Raz (54m 9s):
+So May 13th, I think is what you consider the, so the unofficial launch date of discord, because that was the day where you, you released it widely and, you know, people who weren't, your friends could sign up for it. How did you get an, any attention for, what was your plan?
+
+Jason Citron (54m 25s):
+Yeah. You know, during those first five months as we were building, we would constantly be talking to our friends, showing it to them, getting their input and trying it ourselves to really try and get a sense for how is it resonating with people? How can we make it better? And ultimately from doing that, you know, we ended up getting, you know, a handful of our friends to actually start using the service. And we could tell that it was going to be something, but it wasn't there yet. Like it was buggy, it would, it would crash. Sometimes you couldn't like, you actually really use it quite so much to play. And so come, come April. You know, we were thinking about like, how do we get this thing to grow? And we had this idea to ask a friend of ours who was sort of in the video game community to make a post on Reddit, asking people like what they thought about the app.
+
+Jason Citron (55m 13s):
+And then maybe some folks will try it. And in the comments of that post Stan went in and posted a link to a discord server, which is kind of what we call our communities. Let's call the server. And people were finding this post on Reddit. They click on the link and then people would ask us questions and they'd share their opinion. And most folks thought it was really cool. And from that post, we got, I think a couple hundred sign-ups maybe 50 people really started using it. And that was the day we say we launched. Cause like people we never knew were now coming and inviting their friends. And yeah.
+
+Guy Raz (55m 46s):
+Wow. I wanna, I wanna just pause and talk about this word server for a second because people who aren't familiar with discord might be confused because when you, when, when, when lots of people think of a server, they think of like a rack in an air conditioned basement of a building with lots of servers stacked up against, on top of each other that, you know, function as, as data processing centers. That is not what a server means on discord. And just briefly, can you explain what a server is on discord?
+
+Jason Citron (56m 17s):
+Yeah. On discord, a server is what we call the, the space that you create for your community. And you can make it invite only, or you can make it open to anyone, but it's kind of the place that you go for your, for your community or your friends. So you can name it, whatever you like a club or a group. It's like a super dude, like a super power group chat kind of, you could think of right.
+
+Guy Raz (56m 36s):
+Friends talking about coffee. There you go. And that could be your circle,
+
+Jason Citron (56m 40s):
+The coffee shop, customize it up and it can be your own little private cafe on the internet.
+
+Guy Raz (56m 45s):
+Okay. And then, and then within the server, there are channels which can be like even more specific, just like slack. Like it can be Arabica beans or third wave coffee, right? Like more specifically granular.
+
+Jason Citron (56m 59s):
+Yep. That's right. And it was very, very viral because it's fundamentally a group communication service. So if someone is like, I want to use this to talk with my friends while we play, you know, they make a server, which is free. It takes one click and then they get a link, you know, send it to their friends, using whatever other messaging app they were using. Everyone clicks the link types in their name and boom they're in no download, no app install on desktop. And then people would go, holy crap, this is pretty cool. And then they would tell their friends and then tell their friends. And it just kind of started to grow.
+
+Guy Raz (57m 32s):
+And we come back in just a moment, how Jason comes up with the name discord and how after remembering a certain conversation with a colleague, he sets out to build a workplace culture that does not suck stay with us. I'm guy Ross. And you're listening to how I built this. Hey, welcome back to how I built this guy Roz. So it's 2015 and Jason and his team have decided to go all in on a new social platform for video gamers, basically a comfortable hangout where you can talk to your friends while you play.
+
+Jason Citron (58m 24s):
+Initially the growth was, was good. I mean, it was like big things start small. So, you know, I think on our first day we had maybe a couple hundred people who registered and then the next day was a little bit more than that. And then a little bit more than that. And a little bit more than that, I think by the end of the first nine months or so we had maybe almost a million people who had signed up a couple hundred thousand using it every day. Like it was, it was clearly useful and people were very excited.
+
+Guy Raz (58m 52s):
+I heard about it. And at this point, I mean, by may of 2015, had you completely was hammer and chisel done, was it now?
+
+Jason Citron (59m 1s):
+No, the company was still called hammer and chisel. We didn't change the name until actually I don't remember a year or two later
+
+Guy Raz (59m 7s):
+Called a discord, which we know means is the opposite of Concord or harmony. Why did you give it that name?
+
+Jason Citron (59m 18s):
+Well, this, the story is kind of funny. You know, the name discord actually from like a set of criteria that we came up with for what we wanted the name to be. The original name that I had picked was bonfire. Because a bonfire is a place you gather with your friends, it's cozy, you're hanging out, but there were like 15 other communication apps called bonfire. So we couldn't use it. So the criteria we came up with was basically we had to be able to get the copy, right. We had to be able to get the website, had to be able to get the app name on the app store. And it had to be a word that you could read it and know how to say it. And if you hear it, you know how to spell it.
+
+Jason Citron (59m 58s):
+I wanted it to be one or two syllables. So it was kind of short and snappy and something that had to do with talking to your friends. And so we ended up making a list of like, I dunno, 20 words and discord was the best one that fit all that criteria. And it just kind of felt, it felt right. You know? And, and we choke, can we say, discord is the problem we're solving when you use our service? Like you, cause you win more and you have more harmony with your friends
+
+Guy Raz (1h 0m 22s):
+And Stan became the co-founder of discord with you.
+
+Jason Citron (1h 0m 25s):
+Yes. Yeah. He, he ended up stepping into the role of building and leading our engineering team. And so he took the title of CTO and scaled that, that team up. And today he runs, you know, like 40% of the company.
+
+Guy Raz (1h 0m 39s):
+And was there nothing of note, no competitor at the time? No, no one else who is offering a competitive price.
+
+Jason Citron (1h 0m 46s):
+Oh, we had like a dozen competitors. It was a very competitive market. There were a couple of kind of incumbents, if you will, who had products that were popular, but kind of niche. There were products that were popular, but maybe too simple, like Skype. And then there was a bunch of companies innovating, creating new kinds of gaming chat apps. But I felt like we could do a better job than everybody because I knew that we were just really good at building stuff
+
+Guy Raz (1h 1m 14s):
+And you didn't have to download anything. You could just click a link and then you were there, you were using.
+
+Jason Citron (1h 1m 18s):
+Yeah, that's right. You know, one of the, one of the key innovations we had was making discord work in your web browser in early 2015, this was a time when there was a new capability that was kind of just becoming mainstream in web browsers, something called web RTC, which it's basically video chat and voice chat embedded into a web browser. And so our thought was people aren't going to download another app, but if we can make it just work in the browser, people will click a link. And that was a material driver of our growth because people were willing to try it and they could try it quite easily.
+
+Guy Raz (1h 1m 54s):
+But here's what I understand. I mean, when, when people click that link and then started using it, they didn't, presumably they didn't have to give you an email address. They didn't have to give you any personal information. So how are you, what were you selling? What was the, what was the revenue model at that point? What was their one
+
+Jason Citron (1h 2m 10s):
+At that time? The, we did not actually have a business model implemented. Our plan was, you know, to fund it with venture capital for a little while. And then once we got to scale to build a game's distribution business,
+
+Guy Raz (1h 2m 25s):
+And then the games would finance yes. The company and people would want it. You want the games because the games would enable them to continue to use discord. Yup. Or they learned they were integrated with discord, even though you could use discord with any game, Mikey played world of Warcraft or league of legends and use discord. Yup. That's right. You started to attract more and more money from investors who saw the potential in this. And one of the things that I read about, and this is, this is like a good year, year and a half in is you partnered with Twitch, which is, I think still the biggest streaming platform for gamers. How did you get in with them? How did you get them to partner with,
+
+Jason Citron (1h 3m 7s):
+You know, with, with Twitch early on, we had this hunch that streamers would benefit from, from using discord. Like obviously when they play games with their friends and they're streaming, they can use discord to talk and chat and keep up. But as we began talking to more streamers, what we started hearing was that they would often have these kind of VIP communities of their fans, who they would give access to if they were subscribing to them on Twitch. So if you were a paid subscriber to somebody on Twitch, you would get access to a VIP voice chat experience, usually powered by something called TeamSpeak, which was one of the competitors at the time. And streamers had this interesting problem, which was, if you stop paying them on Twitch, they wanted to like, get you out.
+
+Jason Citron (1h 3m 51s):
+You had to get removed from the VIP club, but the, but the software is in talk to each other. So they would like reset the password and kick everybody out and then send the new password and ask everyone to come back. And basically people weren't doing it. So we built this integration using Twitch's API APIs so that you could, if you subscribe on Twitch, you would get access to a discord server. And if you stop paying after like a grace period, you would just get removed. And it was just automatic and discord ended up kind of going viral around amongst Twitch streamers because it was a really easy and, and meaningful benefit that they could offer their paid subscribers on top of what else they were already offering on.
+
+Guy Raz (1h 4m 31s):
+I just think it's so weird. I got, I'm just going to say this. I know I sound like a grumpy crazy man, but it's so weird to me that there are people who are video game influencers and people will pay money to subscribe, to watch them play video games. And I just, I cannot wrap my head around it. And I'm sorry, I may be in a minority of one here on planet earth. Maybe it's me versus 7 billion people. I just don't get it. Yeah.
+
+Jason Citron (1h 4m 57s):
+Well, I think you might be, I don't know if you're on an island of one, but it's age old human behavior to say, I want to be part of a club that cares about me and make friends by being there. Like that's not new, you know, more and more people are looking to spend time with smaller groups of people that have that share like-minded ideas to find a sense of belonging. And that's fundamentally like what, you know, what games were for me and what discord offers for, for people.
+
+Guy Raz (1h 5m 24s):
+I mean, as one of the things that I, that just fascinates me, there are like YouTube influencers and or YouTube burrs and others who have discord channels of servers. And they, if you want to join one, they charge you for it. You can pay them through Patrion or other ways. And this is a revenue stream for them. They're like, if you want to be in my club and have access to talk to me, you know, you pay me for it. And that makes sense. People's time, isn't free influencers or, or anyone. It's a really interesting business model. Right. And by the way, you guys don't get a cut of that, right?
+
+Jason Citron (1h 6m 3s):
+No, if someone is in those situations, like we don't take a cut of the revenue, but we have begun testing native subscriptions in discord where you can come directly to a server and buy a subscription and then earn money as, as a influencer or a server host. And then, you know, and then we share it in, in a part of that.
+
+Guy Raz (1h 6m 21s):
+Yeah. So, but I want to go back to the growth of it because it really just, at this point, seems like a self-generating just engine and you were still a relatively small by 2017, right? Like I think you, you had 58 or 50, 55 employees or something around that time, but the scale of discord was already really big, you know, billions of messages being sent. And was it just crazy? I mean, how are you managing just the growth of the company with such a small team?
+
+Jason Citron (1h 6m 56s):
+You know, one of our philosophies was small MIT teams. You know, I, I fundamentally believe that you can get a tremendous amount of work done with a small group of really talented people by making smart technology choices that give you a lot of leverage. And also by focusing really clearly and saying no to a lot of stuff. And by staying small and growing slowly, we were really able to lay the foundation and create a great place to work so that when it came time to grow faster, like we had a lot of good stuff in place that I didn't put in place at my last startup. Like, well, for example, we, the first summer, this was, I think we were maybe twenty-five people or something, maybe it's a second summer.
+
+Jason Citron (1h 7m 40s):
+And we were like, okay, we need to hire managers now because we can't have a flat organizational structure where people won't get, you know, career development and career coaching and all this stuff. So rather than bringing in managers from the outside, we created our own manager training program and asked anyone at the company. We said, Hey, does anyone want to try and learn management? So we stopped hiring for a quarter and basically talked about and taught people like, what does good management mean? What's the value of it? And I remember our board was like, you're going to stop hiring for three months. Like, you're crazy. This started to take it off. Why aren't you hiring people? And I'm like, we've got to pause and get our ducks in a row so that we have a good foundation to build on.
+
+Jason Citron (1h 8m 22s):
+And, and we still teach a version of that management training class today to everyone who, who becomes a manager of the company. That's hard
+
+Guy Raz (1h 8m 30s):
+To just pause when you're growing so fast and to do that, but it pays dividends later.
+
+Jason Citron (1h 8m 35s):
+We've, we've done stuff like that. A number of times, you know, I think the experience that I had at open faint where, you know, my friend Andy came to me and said, it sucks to work here, just letting you know, like really stuck with me. And, and I really wanted to be proactive and intentional about building a great place to work at discord because I knew that all of the amazing, great stuff that we're going to create is just going to come from the people in the building. And if we don't really focus on building that great foundation, that great engine, everything's just going to get harder and slow down. As we, as we make more progress.
+
+Guy Raz (1h 9m 12s):
+One of the things that was inevitably going to happen was the platform would be used by people who were not using it in the spirit that it was designed to be used for, which was connection, collaboration, friendship, hanging out with friends, et cetera. And it turns out that in 2017 discord had been used, what was being used. I don't know how many people, but some, some people who were involved in the, in the white supremacist riots in Charlottesville, they organized through discord channel. How did you learn about that? How did you find out that, that, that, that
+
+Jason Citron (1h 9m 46s):
+I actually don't really remember how, but, you know, we had taken privacy and safety very seriously from the first day of building. Discourt, you know, when you, when we launched discord, like back in May, 2015, every server, you know, had moderation capabilities, you could kick people in band people, you could enforce the code of conduct in your space. You could decide who could join and what was okay. But what we didn't quite realize was that we also were going to need to think about moderating the kinds of groups and communities that were on discord themselves. And so when, when the Charlottesville thing happened, this was kind of a wake-up call where we realized we were behind the ball in building tools that allowed us to actually moderate the groups, as opposed to just allowing the groups to moderate themselves.
+
+Jason Citron (1h 10m 35s):
+So we took it as a real learning moment and came up with very clear community guidelines of what's acceptable on our, on our service and built a trust and safety team that relatively in the life cycle of our company was much earlier than most tech companies tend to do it. It's like an important thing for the world that we make sure our technology is used for. Good, but also like people just don't wanna use it if it's, if it, if it doesn't feel safe.
+
+Guy Raz (1h 11m 2s):
+What about, I mean, in terms of data and privacy, I know you say that it's super important and you don't track users. You don't track how they use it or what they talk about or what their interests are. Is that right?
+
+Jason Citron (1h 11m 16s):
+We do track some basic usage data so we can understand like, is the product being actually helping people spend more time with their friends, but we do not track or read people's messages. We do not use any of your actual communication data to do anything other than send it to your friends.
+
+Guy Raz (1h 11m 36s):
+So that means that you can't target ads. You don't have any ads anywhere
+
+Jason Citron (1h 11m 40s):
+And discord, correct. We do not target ads. We do not sell your data for ads.
+
+Guy Raz (1h 11m 45s):
+Will you ever accept ads? We have run ads. We w no, you will never run
+
+Jason Citron (1h 11m 50s):
+Ads. We have no plans to run ads. Right.
+
+Guy Raz (1h 11m 54s):
+You know, it's interesting. Cause you, you sort of started in games, went away to like then went to social, networking for games. Then went back into games, then went back into social networking for games, but you couldn't shake games in 2018. You actually launched a game shop called discord store. And for people don't play games, a lot of people get their games from something called steam. Now where you just download a game, the idea, I guess, for the discord store, like a Netflix for games type of service. But it, it didn't last very long. What, what happened to discord store?
+
+Jason Citron (1h 12m 26s):
+Yeah, we launched the game store in late. It was late 2018. And this, this was actually one of the first moments that we started to realize that people really wanted to use discord for things other than playing games or with their gaming friends or gaming communities. So, you know, we launched this game store and we got a lot of feedback from people that they actually just like wanted us to make our communication service better. And that by making it have like actual, now, now you can get video games in it. It made it even harder for them to convince their friends who maybe didn't play video games to come on to their servers to talk and hang out and maybe study homework or work on an art project or something.
+
+Jason Citron (1h 13m 7s):
+And it also, it ended up not being differentiated enough from the other ways that people buy games. And so we found ourselves in this situation where, well, we had a pretty large user base. We were competing against companies that were like 10 or a hundred times bigger than us in terms of like capital. And in order to be able to get great games in the store, it was starting to become a situation where you would have to spend a lot of money to offer these upfront guarantees, to developers, to get them to list your game. And I realized that like that was a, a war we were not going to win. It was another one of those moments where I just had to kind of embrace the brutal facts of what was happening around us and realize like, this is not going to work.
+
+Jason Citron (1h 13m 51s):
+We've got to listen to what our users want and just lean into that. And so we ended up shutting it down after a couple of months and really doubled down on a subscription service that we had launched a couple of years earlier, but weren't really investing in cult discord, nitro.
+
+Guy Raz (1h 14m 9s):
+This was the, this cause discord is free. If you want a sort of upgraded experiences is the nitro subscription model and their different levels of it. And basically you can have a, an, an avatar, like a cartoon avatar, and you can choose your, I guess, part of your username and your audio is better. Right. For example, and maybe a couple of other things. Yes,
+
+Jason Citron (1h 14m 30s):
+Yes, yes.
+
+Guy Raz (1h 14m 31s):
+But, but you, I mean, you, you shut down the games side, how long did the game store exist?
+
+Jason Citron (1h 14m 38s):
+It took us nine months to build it. And then we shut it down after I think three months.
+
+Guy Raz (1h 14m 44s):
+I mean, was it hard to do that? Oh,
+
+Jason Citron (1h 14m 46s):
+It was very hard. I had been thinking about this for Panadol seven years at that point, you know, when I started the company in 2012, the idea was eventually to build a games, distribution business. And so fast forward to 2018, late 2018, realizing that it wasn't going to work. It kind of was one of those moments where I was like, questioning everything. Like, do I know what I'm doing? You know, how are we gonna build a business? And I actually had this kind of physically ill for a week because I, I didn't really know what to do because so much of our time and energy was leading up towards building that, that business.
+
+Guy Raz (1h 15m 23s):
+And I guess that really kind of began this conversation around focusing discord less on video game players and more on a broader audience of people. Right. I mean, I mean, this was sort of what I guess will, could be described as a rebrand or redesign that you started around 2019.
+
+Jason Citron (1h 15m 42s):
+Yeah. We started in 2019. We went out and ran a bunch of surveys and asked our users to like, answer a bunch of long questions about like, what do you use discord for in your life? And, you know, what, what are the biggest misconceptions that you think people have about it? And we heard things back like biggest misconception is it's only for gamers and like, I want to use it for my study group. And like, could you stop marketing it for gamers? Like please. So in late 2019, we had all this data, you know, so Stan and I kind of did this exercise where we tried to figure out, like, what is our mission? What did our mission really mean to us? And like why was bringing people together around games actually important? Then we realized like, wow, we've built a service that because of how it works, really gives people the sense of belonging and togetherness.
+
+Jason Citron (1h 16m 30s):
+That's a pretty profound opportunity to improve the world. So we kind of expanded our mission. We went more fundamental and said, instead of, instead of bringing people together on games, we're going to help give people the power to create belonging in their lives. All the things we were doing for, for people who play games was still in our mission around communications. But now we can welcome in all these other people. And so in early 2020, we kind of did a small rebrand and then COVID happened and everyone just flocked to discord
+
+Guy Raz (1h 17m 2s):
+Exploded. I mean, yeah, I want to just, just, I want to touch on this idea of like making the world a better place. And, and, you know, because we've, I've had dozens of conversations with tech founders on the show and I've heard the same thing in different iterations, and I'm not trying to push back and sound cynical, but I also want to be clear that techno optimism is also a problem. I would say in your case, it's somewhat different because these servers are not, it's not like a Twitter conversation where anybody can respond. Right. I mean, from what I understand, the vast majority of people on discord are just in a small group with their friends, just a small group of people they know talking that's
+
+Jason Citron (1h 17m 41s):
+Right. That's right.
+
+Guy Raz (1h 17m 43s):
+So, but, but you know that by human nature is not flowers and, and, you know, fields of, of joy and milk and honey, whatever it is, right. I mean, humans are humans. We behave in, in really bad ways sometimes, especially when we get together. Why do you think that that couldn't happen on discord?
+
+Jason Citron (1h 18m 2s):
+Well, I think, I think what's important. At least the way that we think about this is that you have 150 million people, inevitably, like we're not reading everyone's messages. Like you can't write police all of it, but this court is designed in a way that gives each individual a lot of power over their own experience. You know, every conversation on discord is often like people can't just show up at it, out of the air and start pinging you like they cannot, you know, perhaps other other services. And then we give the moderators of those servers, of those spaces, a lot of power to control and enforce, you know, their rules and norms for their space. And then we have very clear community guidelines on what's acceptable.
+
+Jason Citron (1h 18m 45s):
+And we have a trust and safety team that does investigate reports. And while we don't proactively read messages, if a group gets reported to us, we will go and investigate and look, and we ban communities. If they are violating our guidelines, like we just, we do it.
+
+Guy Raz (1h 19m 2s):
+You, this has been widely reported. So I'm not, I'm not saying anything that you don't know, or haven't heard a million times that in March of 2021, Microsoft, you were talking to Microsoft to apparently to be acquired. Apparently the number was $10 billion. You had sold open faint for a hundred million dollars, you know, back in 2011 last track yet. And, and your thinking back then was, Hey, who knows where this is gonna go? Who knows where gaming is, is going to go? Who knows if we're going to be able to compete against other people. And this is probably a safe exit, by the way, does open, faint exist anymore is still
+
+Jason Citron (1h 19m 40s):
+No open, faint shut down, I think in 2013. Right? Wow.
+
+Guy Raz (1h 19m 43s):
+So they've had it for two years and shut it down. So it was a smart move to, to have done that. Now you're obviously much bigger. You are a big player in this space, in, in audio, social media, but Microsoft is bigger. I mean, they're one of the biggest companies in human history. I mean, technology is going to change there. There's no guarantee that you are here forever, right? At the same time, you're now valued at $15 billion. So clearly investors have a lot of faith in you. I mean, I know you probably can't go to the details of Microsoft and what happened there, but there are reasons why it might make sense for you to be acquired one day, but right.
+
+Guy Raz (1h 20m 26s):
+Don't you think? Well,
+
+Jason Citron (1h 20m 27s):
+You know, we have a fiduciary responsibility to our investors and our employees, you know, when people invest in, in a company with their time or their money, you know, they're doing it because they expect to get a reward for that. Eventually that's obvious to me and my myself included too. And so you try to build a business that is durable and can be big and exciting and important. That creates value for folks. And inevitably if you stay focused in that way, like you have to either go public or get acquired, right. That's just sort of how it works. But the interesting thing about the experience we went through earlier this year, you know, I can't comment on any specific companies, but it was a really crystallizing moment because, you know, I was talking to some of the folks on my team about sort of what path we could choose.
+
+Jason Citron (1h 21m 19s):
+And the cool thing was actually that most of the team wanted to keep building, you know, like technology changes so quickly. So we're always thinking about, you know, who's going to launch the thing that might disrupt our business and how do we stay ahead of that. But I think what's fascinating and so exciting about being in technology is that, you know, it's, it's just constantly a game of innovation and what's next. So every year we, we like have plans of like, what is the new thing that we're going to build and how are we going to evolve discord? And, and it's just always this constant forward motion of making new things. So
+
+Guy Raz (1h 21m 55s):
+W w when, I mean, I know, and this is common for tech companies. You are not yet profitable, right. Is there a path to profitability that is clear that you can clearly see? Okay,
+
+Jason Citron (1h 22m 6s):
+We haven't shared our profitability numbers, but we're doing very, very well. Nitro is a very healthy business. It's growing very fast and I'm very excited that we've been able to find real success in building a business by creating more value for our customers so that we can really just focus on making something that people love.
+
+Guy Raz (1h 22m 28s):
+Do you see D I mean, you, you mentioned you either get acquired or go public, so there's a chance you could be running a public company in the next couple of years.
+
+Jason Citron (1h 22m 39s):
+I mean, there's only two ways that this goes,
+
+Guy Raz (1h 22m 43s):
+Yeah. When you think about this journey that you took, you know, you got to, to Berkeley, you were like 20 and the bay area and living with all these people, and you didn't have the best, you know, fanciest degree. And you were so young and here you are, you're still so young and you've built not one, two huge companies. One is massive, $15 billion valuation and social media, which is really hard to, to break, to break into, as we know, the graveyard of social media companies is vast, wide and deep. And here you are, you've done it twice. How much of that do you think has to do with, you know, how hard you work and how smart you are, how much do you think
+
+Jason Citron (1h 23m 27s):
+Let's do it luck? Oh, I think it has a lot to do with luck. I think that, you know, I worked hard and I think I got lucky, you know, like again with, you know, having good, good genes and being able to be smart. But so much of, of my life in hindsight are unplanned situations where I took a leap and things kind of worked out and, you know, those leaps were out of my control. And so I think there was a tremendous amount of luck involved and it keeps me humble because, you know, I I've been successful, but I've also had enough situations where I thought I was gonna make the right call and it ended up not being right.
+
+Jason Citron (1h 24m 9s):
+And, you know, one of the biggest lessons that I've learned over my career is that being right and being wrong, don't feel that different before, you know, the answer. Yeah. So I have an appreciation for, for luck. You know, I grew up by dad was a small business owner and my grandfather was a small business owner. Like I knew that you could build a business in America and, and have a good life by doing it. And that, and that was kind of the path I wanted to take. And I got lucky that I sort of stumbled my way to Silicon valley and all the dots kind of connected, but it's been a wild ride.
+
+Guy Raz (1h 24m 49s):
+That's Jason Citron co-founder and CEO of discord. And by the way, there's something like 4 billion minutes of conversation and 6 billion messages on discord every single day. And some of the biggest discord servers are not surprisingly dedicated to video games, Minecraft, Fortnite, roadblocks, but there are also sites for marble players and snake lovers and Harry Potter fans. And there's also a place called the magnetosphere, which is a special hangout reserved for people named Matt. Hey, thanks for listening to the show this week, please do follow us on your podcast app.
+
+Guy Raz (1h 25m 30s):
+So you always have the latest episode downloaded. If you want to contact the team. Our email address is H ibt@npr.org. If you want to follow us on Twitter, our account is at how I built this. And mine is at guy Ross. This episode was produced by Alex Chung with music composed by Ramtin era bluey. It was edited by Neeva grant with research help from Claremore Ashima. Our production staff also includes Casey Herman, JC Howard, Julia Carney, Carrie Thompson, and Elaine coats. Our intern is Margaret Serena. Jeff Rogers is our executive producer. I'm guy Ross, and you've been listening to how I built this.

@@ -1,0 +1,746 @@
+0 (0s):
+Doing the right thing isn't always easy, and that includes ordering drinks at a restaurant. I recently discovered a new company called Tractor Beverage that's doing things differently. They created a line of delicious, non gmo, certified organic lemonades, aqua frescas craft sodas and teas made with natural sustainably grown ingredients. My favorite flavor is root beer. It's made with ingredients like nutmeg, juniper, and vanilla. It's pretty epic. Chances are you've already seen the tractor bubbler dispenser at places like Chipotle and other restaurants that care about providing you with a better beverage option. To find Tractor, visit drink tractor.com/locations and punch in your zip code.
+
+0 (42s):
+This one's worth the search. How I Built this is pleased to have Slack as our presenting sponsor. Slack, where the future works. Let Slack be your digital hq. It's one digital space that brings together all of your people and all of the tools you need. Having Slack makes collaboration easier and more flexible so you can be a lot more productive. Don't wait to see what you can accomplish with your own digital hq. Head over to slack.com/dhq to get started. Slack where the future works. Don't you hate it when you can't find your phone or your keys in your bag, Or worse when your water bottle leaks all over the bottom of your bag because it was rolling around and the cap got unscrewed.
+
+0 (1m 28s):
+Well, the Performance Bag brand Dagney Dover can help their bags keep up with your busy lifestyle and help you stay organized. I got the Arlo tech organizer from Dagney Dover right before leaving on a family trip. Everything was so practically designed, stylish and a lifesaver for keeping our cords and chargers organized. First time customers get 10% off using code built@dagneydover.com. That's D A G N E D O V E r.com and code built.
+
+2 (2m 5s):
+Not only did I not have a manufacturer for this product, but also I had to make this thing manufactureable as well and
+
+0 (2m 14s):
+Fast
+
+2 (2m 14s):
+Within a few months. So I promised the Kickstarter campaign backers at this stage that hey, it's gonna be there for you in June. Wow. So just six months after the
+
+0 (2m 26s):
+Campaign, I'm imagining like you're starting to call numbers and you're like, Hey, can you make Pete Evans? No, sorry. Can you make Pete Evans? Oh no, sorry. I can't imagine there are many metal fabrication factories in the UK at all.
+
+2 (2m 37s):
+No, there's, it turns out there's not very many that want to talk to you. If you've got a Kickstarter campaign,
+
+0 (2m 50s):
+Welcome to How I Built this, a show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. I'm Guy Raz and on the show today How Christian Tap built a portable Woodfired pizza oven, financed it on Kickstarter and along with his wife, grew Unni into a $200 million a year brand. I don't, I grew up eating what I would now describe as cardboard pizza, you know, your standard home delivery pies made by the usual suspects.
+
+0 (3m 30s):
+But I remember a moment in my late teens, I was in college, I was visiting a friend in New York and she took me to Patsy's and then to Grimaldi's. And it was at those places when I first understood why people are obsessed with pizza. The crust was thin, but not like a cracker. It was crispy and chewy. It was smokey and chard, but not burned. And by the way, it took about 90 seconds for that pizza to cook. The pizzas were Italian Americans. The sauce was a simple combination of crushed tomatoes and salt and on top a few dots of fresh mozzarella and some basal leaves.
+
+0 (4m 11s):
+And from that point on, I joined the legions of people around the world, obsessed, always seeking out the best pizza Wherever I went, even during times of my life when I went gluten free or paleo, I secretly made an exception for good pizza. How can you, not really, but the one challenge I always had was making them at home. For years, I would do what most home cooks do. I'd slip in a pizza stone into the top rack of my oven, I'd crank the oven up to 500 degrees Fahrenheit, and then an hour later I'd slip in a pizza. And while the pizzas were fine, they were never as good as what you could get at a pizza restaurant.
+
+0 (4m 53s):
+And the reason you need really, really high heat to get that char on the crust and home ovens can't get that hot. You need an oven that can get up to 900 degrees Fahrenheit. And to do that, you have to build an outdoor pizza oven, which for most of us is both impractical and prohibitively expensive. And then about six years ago, I came across a product that promised to solve this very problem. At the time it was called the Unni Pizza Oven, spelled U U N I today, it's still called Unni, only spelled O O N I. And the product was created by a man, born and raised in a place no one listening would ever associate with pizza.
+
+0 (5m 41s):
+Unni was invented by Christiane Tapan, who is from Finland and lives in Edinburgh, Scotland. And he came up with this idea to solve the same problem I described a minute ago. He wanted a relatively affordable portable home pizza oven that could reach 500 degrees Celsius or 900 Fahrenheit, a pizza oven that could bring Naples right to your backyard no matter where you live. So in 2012, Christian who at the time ran a small educational consulting firm with his wife Dorina, decided to launch a Kickstarter campaign to raise the funds to build the first uni pizza ovens.
+
+0 (6m 21s):
+A lot would happen over the next decade, but today Christian and Doina have built a massive brand, a company that sells over $200 million worth of pizza ovens a year. Now, if you are trying to figure out how to finance a multimillion dollar idea, but you have no money, you will definitely want to hear this story. Christian, as I mentioned, grew up in Finland. He came to the UK as an art student to study photography and that's where he met his future wife, Dorina, who was also a student at the university for the Creative Arts in Kent, which is just outside London.
+
+3 (6m 59s):
+There wasn't much to do. There was a lot of house parties and I went to a lot of house parties that there was lots of Finn people and Scandinavian people generally. And the first time Christian and I met was at, at one of these parties, like a really tiny chat in the kitchen. I've actually got a paper cut out in our house that was a gift I gave him on our first wedding anniversary, which is paper. And it's the first line that we exchanged where I said, Oh, I like your glasses. To which Christian completely panicked and sort of flirted back, I like your hair. And so that's cut out in paper and as art in our house,
+
+0 (7m 39s):
+Do you remember that Christian saying, I like your hair.
+
+2 (7m 42s):
+I, I do remember the situation, but I, and I think the, I'm no more articulate today than I was back then.
+
+0 (7m 50s):
+Alright, so you guys meet at a party and that's it. You kind of become a couple, I guess.
+
+2 (7m 54s):
+Yeah, I think we became a couple, maybe six months after that we'd kind of see each other at, at different things. And then spring 2004 we got together.
+
+0 (8m 5s):
+That was it.
+
+2 (8m 6s):
+Yeah,
+
+0 (8m 7s):
+So, so the two of you basically stayed around a Kent for, for a while after you graduated. And I guess there was this like a, a British government initiative called Creative Partnerships and I'm, I, I don't know if I've got all the details right on it, but from what I understand, it was this, this initiative to bring all kinds of creative people to schools and to to work with teachers to kind of help them think more creatively about teaching. And and you guys kind of got involved with this somehow?
+
+3 (8m 35s):
+Yeah, we did. It was really an excellent initiative. So you've got it right. It was, I guess the idea is that everyone's inherently creative, but often it's, it's educated out or certainly because of the system and the pressure. Yeah. And so we were trying to empower the teachers to do things differently and we were both creative practitioners, so working as photographers and yeah, you might be paired with a scientist and then a couple of school classes. So it was, yeah, incredibly helpful for us and the foundations of all of our business to, to get to experience this really unique insight into school communities because teachers aren't really used to having other adults in their classroom unless they're being judged, you know, or assessed.
+
+3 (9m 22s):
+So that was a super interesting insight. And then when you could work with them and you were helping them do their stuff, they wanted to do anyway and be invigorate their love of teaching because it is a vocation and it's just really sad when that fun is sort of battered out by, you know, the pressures from external.
+
+0 (9m 42s):
+Yeah. And, and, and I guess this kind of inspired the two of you to, to start a business that focused on doing this kind of work. It was called sla and I guess it was like an educational consultancy that you led for, for quite a while. So tell me some of the things that you that that it did. I mean, you would basically go to a school and and do what?
+
+3 (10m 4s):
+Oh, there was absolutely masses is generally to help people change how they did, did things. So we did a, a classroom project where much like when we ran a workshop, you know, you tend to move the chairs and the tables out of the space and design the room as you'd like for that session. So we had really flexible furniture that the kids could move and put into position based on how they thought the lesson should go or how the teacher would like the lesson to go and basically had whiteboard walls. So we took the budget that the school would have for renovating classrooms anyway, didn't spend any more money, but worked with them to design a really flexible space so that they could genuinely be adaptive.
+
+3 (10m 46s):
+So those kind of things, both practical and and change based.
+
+0 (10m 50s):
+So I imagine many of the groups you would work with are like non-profits, right? And and you would essentially, you would consult with them, but as a business, was it, was it a good business? Was it a sustainable business?
+
+3 (11m 3s):
+Yes, and it's still going. And I think that it's, it's very different from uni today in the sense that the majority or almost everything was based around our time. And yeah, we did projects for Nesta, so the National Endowment for Science Technology in the arts, really big projects that were run for multiple years that were, you know, relatively lucrative from our point of view. And I, I remember we won them over such big organizations and they basically said that they just loved our pitches, which had color and visual and like excitement that that sort of stood out. So it was a good lesson for anyone. Pitching is go hard on the, on the imagery, but yes, it did well, it really washed its face.
+
+3 (11m 45s):
+And so we had good earnings I think for the stage we were at in life.
+
+0 (11m 48s):
+All right, so basically by, you know, from what I gather, because I think the two of you get married in 2010 and SLA is doing well, but your time is really the challenge, right? Because people want you involved and it's hard to scale the two of you.
+
+2 (12m 5s):
+Absolutely. Going a little bit further back on the idea of how much of our time and ourselves are maybe sort of almost not a limiting factor, but it's, it's definitely, I mean it's a service business. Look back to around 2008 or 2009, I remember and I were in in France for, for like a weekend and I remember speaking with her about this, that I'd love to make a product business something that doesn't require the same kind of daily involvement of delivering the work, but actually you could focus on building something that could be, could be scaled out.
+
+0 (12m 42s):
+So, alright, so you've got solo, this business is happening at a certain point from what I, from what I understand what I've read. Shortly after you had your first child, which is around 2011, I think. Yep. You decided that both of you decided you needed to just kind of reduce the amount of hours that you were working cuz you wanted to be with your child.
+
+2 (13m 4s):
+Yeah, it was, it was actually, well that's, it is a good way of looking at it as well. Also childcare is incredibly expensive. Yeah. So, but actually really great things came out of that. We were both doing about three and a half days of working and then spent the rest of the time doing other things as well as spent time with our newborn.
+
+0 (13m 24s):
+And, and you were living in Kent at the time? This
+
+2 (13m 26s):
+Was in London already. So we moved out of Kent quite soon in 2007 and stayed in London all of about eight years in the end.
+
+0 (13m 37s):
+All right. So you're, you've got a baby at home, you've got this consulting business and Christian, I gather, I mean, from what I understand, like you are a baker and, and also cook, like would you do most of the cooking at home?
+
+2 (13m 53s):
+No, I think we, we share cooking quite a lot. Definitely. I think we're quite different types of cooks. I'd say I'm more of the type that I'll get a recipe out and I'll follow it and maybe put in a twist here or there, but I'm, I'm pretty good with kind of going, going with what's suggested, whereas green is incredibly creative and being able to take a number of ingredients and just throwing something really tasty together. But I would also do some baking. My mom used to run the bakery in Finland in the mid, mid nineties for about five years. So baking and, and cooking has always been really massive part of my, my childhood and, and growing up, and I don't know where it came from exactly, but I got into making pizzas at home and just learning the craft of making pizza dough and pizzas by hand.
+
+2 (14m 43s):
+And this is now 12 years ago, and I was just thinking about it, how different of the world was back then with YouTube was really just in such an early stage Yeah. With being able to know you can go in and you can find instruction for every single type of pizza you can ever match in. Yes. But it was quite a different world back then. So it was a lot of trial and error, but really fell in love with making pizza.
+
+0 (15m 5s):
+And you'd have like a, like one of those stones in your oven, like those pizza stones. Yeah.
+
+2 (15m 9s):
+Had a, had a pizza stone finally at some point in the oven. And I, I'd sometimes invite people over for pizza and I'd make a few pizza and realize that, well, the first pizza takes like six minutes, the next pizza is eight minutes, the following pizza is 12 minutes. Then it's like you're waiting for 20 minutes for the fourth pizza. Right.
+
+0 (15m 27s):
+Every time you open the oven, the heat comes out right. You,
+
+2 (15m 30s):
+It all comes out and you build pizza and that, that cools it down. So, so I wasn't really happy with the experience that I was getting with it and started looking into this that is there a better way of cooking, cooking pizza? And at the time Jamie Oliver was cooking with his stone ovens on, on TV and I thought, well, one of those would be really useful, getting up to very high temperatures and I didn't really have the money to invest, we were renting as well at the time, so it wasn't really an option to spend thousands of pounds into, into an event like that.
+
+0 (16m 4s):
+But, and I guess I should, we should pause here to explain something, which is a home oven for very good reasons does not go above 500 because then there'd be just home fires all the time. People, people would just like burn their houses down. So, so it's good. It's a good thing. It is a good thing. But when you go to a pizzeria like that does these Neapolitan south pizzas, they're, they're cooking them in ovens that are like seven, 800 degrees Fahrenheit, 900 degrees fahrenheit, which your home oven can't do. And just that, that heat creates this chemical reaction that builds that charred bubbly, Yeah. Beautiful pizza crust. You just can't, you can't do in your home oven.
+
+2 (16m 42s):
+It is, it's exactly that. You need that incredible heat for the pizza dough to react in a way that actually makes for neopolitan style pizza. You just cannot do it at a lower, lower temperature. The best way that I like to explain this to people who've never made pizza before is that it's a little bit like trying to sear a stake on a medium warm skillet. Yeah. It just doesn't work. It just doesn't, you can't replace the temperature with more time. So it's the same thing with pizza temperature is very, very important.
+
+0 (17m 14s):
+All right. So you're, you're thinking this is annoying, but to install a pizza oven it's thousands of dollars and it's a lot of wood and, and you were renting a place, you, you can't, you can't do that and you didn't have the money, so did you start to look around for like another option? Yeah,
+
+2 (17m 33s):
+I started looking around. I mean, surely someone has made something like this, someone's already thought of this same problem and they've gone and built something and
+
+0 (17m 43s):
+Something cheap that you can make a hot like a trash can oven or something. Yeah. You
+
+2 (17m 47s):
+Know, at the time there's a, there's a guy who had this, it was called Franken Weber. He was kind of hacking a kind of kettle grill, well he called it the Franken Weber. So you can imagine
+
+0 (17m 59s):
+He would take a Weber, like a Weber grill and try to hack and turn to a pizza oven.
+
+2 (18m 3s):
+That's it. That's it. And Right. Okay. So I, I tried a, I tried a kettle grail as well myself and it wasn't really, really there. So
+
+0 (18m 11s):
+Cuz it's cooking the pizza from the bottom right. It's, it's coming from the bottom so it's not the same.
+
+2 (18m 16s):
+And you've gotta get the both, the balance has to be right, you've gotta get it up from the bottom and then also from the top. Yeah. So I started thinking that, well I mean if no one else has made one, I still want one. Yeah. And I start doing some sketches on my iPad. I think I spent probably about four weeks of just kind of quietly doing some sketches and things and it was December, 2011 and I remember this very distinctly sitting down in our, in our living room in London and said, Torina that, can I, can I pitch you this idea that I've got? What about making very small pizzas?
+
+0 (18m 57s):
+Wait, so Dorina, what do you remember about how he told you about this idea?
+
+3 (19m 2s):
+I remember probably having a baby in my arms whilst making pasta whilst with a headset on, you know, running a multi-school project. I was like, oh, okay, cool. Yeah, I like the idea from the beginning, but I was like, yeah, go for it. I think the biggest segue between our first business and this one is that it genuinely, we always talked about creativity being problem solving, you know, and he was truly frustrated. It made sense to me that he wanted to get this better. It was a great challenge. I was positive, but I definitely was a bit distracted, I would say.
+
+0 (19m 44s):
+Yeah. So, so Christian, let me understand how you, what were you sketching?
+
+2 (19m 50s):
+So the problem with this large ovens is that they weigh hundreds and hundreds of kilograms. And with a traditional oven you have to spend a huge amount of energy, first of wood feel logs to get that whole thermal bass to a certain temperature. So very hot. So you spend hours and hours to heat it up. So what I was catching was really just kind of thinking about, well how do we get rid of that thermal mass but still have a great cooking experience? And one of them was really just bring the fire closer to the food that's cooking. So you don't have that sort of a middle man of hundreds of kilos of stone in the oven, but you bring the fire and so it's very energy efficient in that way.
+
+0 (20m 34s):
+I'm trying to understand how you started to figure that out because you didn't have a background in engineering or even physics or chemistry, I mean, yeah. So how did you kind of educate yourself about what, to even begin to sketch the designs? Like the dome shape or, or how the fire would would work? How did you even know how to do that?
+
+2 (20m 58s):
+Part of it is that just the seed as a problem to be solved and the, I think the other side of it, despite, I mean I didn't have education as an engineer or a product designer, but I'd always been really into science and engineering. So I'd subscribe to science magazines when I was 10 or 11 and read those and was really into that. I was making fireworks with my uncle. So actually fireworks, homemade fireworks with is
+
+0 (21m 26s):
+Homemade fireworks with your uncle with an adult? Yes. An adult was supervising this. Okay.
+
+2 (21m 32s):
+An adult was supervising and they were making fireworks that blew up and flew to the sky. Oh my gosh. Wow. This is, this is Finland in the nineties I guess. Yeah.
+
+3 (21m 42s):
+And maybe still now
+
+0 (21m 43s):
+Very permissive environment. Yeah,
+
+2 (21m 45s):
+Absolutely. With, we'd buy the ingredients from, from a drug store and we'd mix the ingredients to make fireworks and, but, and he had an engineering degree and so that sort of influenced me. The other parts of it that I think influenced was that I've always had, ever since I was as far back as I remember, anything that I've really got into, I've always started to kind of try and figure out if there's a problem to solve or is there a business here that could be taken forward or an opportunity that no one's, no one's found yet.
+
+0 (22m 18s):
+So already at the beginning when you were just sketching, you were thinking, is there an opportunity here?
+
+2 (22m 23s):
+Absolutely. So I was really into at the time, listen, there's a podcast called Critical Path and through that I've been introduced to Clayton Christensen.
+
+0 (22m 36s):
+Yeah. Famous Harvard Business School professor is no Longer Alive, but, but wrote the Innovators Dilemma, right? Yes.
+
+2 (22m 42s):
+Dilemma and and Innovator solution. And I was, I was reading those books and really kind of like the same time realizing that, oh, maybe there is a connection here that has repeated itself over years and years and years in other industries that there are these large machines, there used to be mainframes and then there was the personal computer. Yeah. Things happened in between there as well. But what about, what if this is similar situation where we can take a traditional pizza oven and and shrink it down to size of a suitcase.
+
+0 (23m 16s):
+Wow. And so you, so when he talked about this you, you're thinking this is the same kind of analogy with a pizza, obviously the technology is not as complex but still like massive pizza oven, small pizza. I'm
+
+2 (23m 26s):
+Very fortunate that the technology required is, is not to that level.
+
+0 (23m 33s):
+All right, so you start sketching these ideas and thinking, right, I've got this concept, you bring this to Darina and she's supportive right away.
+
+3 (23m 41s):
+Yeah, definitely. I was excited.
+
+0 (23m 44s):
+You're like, go, you're like, I love it. It yeah, but when he came to you, he and he said, I think we can make this. And you're like, Yeah, I'm excited. There's a lot of details to work out at that point. It's not, but you'd be really excited. There's a lot of stuff that now, like that's the easy part. You made the sketch awesome.
+
+3 (23m 58s):
+You're making it sound much neater than it was. It, it was definitely stretched out overall time and oh man, it, we did have time as you said, like we had a baby, we were working compared to now. We had so much time to sort of tinker and to, to mess about with it and and you definitely did that. Yeah.
+
+0 (24m 19s):
+So Christian, once you had these sketches right, and you're working on them, what's the next step?
+
+2 (24m 25s):
+So next step was I, I tested out a few concepts in the first sort of half a year of that. And then I think one of the breakthroughs for it was in the summer of 2012 when my father-in-law During's dad, Dave mentioned wood pellets and that he'd come across these as a heating fuel
+
+0 (24m 47s):
+And wood pellets, which is compressed every, if you use like a Traeger, people know these compressed.
+
+2 (24m 52s):
+Exactly. But yeah, these at the time especially were much bigger in the US weren't really known here in the uk. So I got a hold of some of these and started thinking about this idea that what if we take like a jet engine, but instead of injecting fuel, like liquid fuel into it, we sort of kinda let wood pellets flow into it. So the original only had this little fan at the back of it that blew air through this kind of column of wood pellets that would just gravity feed into the system and then it'd light them up and you'd get this intense flame that then flew over the pizza.
+
+0 (25m 30s):
+Who did you get to fabricate this prototype
+
+2 (25m 33s):
+For you? So there was, I found a small metal workshop down the road from us in an area called Catford in London. And there was, under this railway arches, there was this small metal workshop that predominantly just made like garden fences and things like that. Yeah. And there's this guy there and I said, Hey, would you be able to fabricate something like this? And he was not much more than sort of back of a napkin kind of sketches. I'd use this program called Sketch up. Yeah. On my, on my computer to draw up lines and, and they would then sort of fabricate it based on those and
+
+0 (26m 13s):
+He agreed, he said, Yes, I'll take time away from making garden fences to do this.
+
+2 (26m 17s):
+Yeah, yeah, no, he, I basically just asked him how much would it be? And he was like, well I think the first prototypes were like 40 or 50 quit or something, something silly,
+
+0 (26m 26s):
+40 or 50 pounds. That's it. And it was just, he basically took sheets of steel and like welded them together based on your design.
+
+2 (26m 33s):
+Yeah, that's it.
+
+0 (26m 35s):
+Alright, so four or five days later you go to this welder and he hands you this basically a metal box and there's like a, there's like a hole in the back where you can just put in the, the wood pellets and light 'em up, like describe what it looks like.
+
+2 (26m 51s):
+Yeah, so it was a rectangular metal box at this stage. And this is where this idea of sort of a jet engine, but it's put fired came from. So it was this metal cylinder that sat horizontally at the back of the oven. Yeah. And I'd take a computer fan, sort of PC fan that I'd power with a nine volt battery that just sat at the back of that. And then there's a like a vertical tube that then let pellets into it and you'd get this really cool, quite a long flame that flew into the oven and then the flame would then just come in and cook the pizza from top down.
+
+0 (27m 29s):
+All right. So from the time you brought this home until the time you were able to cook your first pizza at experiment, how many more days was that?
+
+2 (27m 38s):
+It was pretty quickly. I was quite quick to then try it out with, with pizza itself. But a lot of the testing would be actually with just a thermometer in there to see how hot is it getting and kind of trying to get to this. These days we do so much just pizza testing where we just run through new products through like enormous amounts of pizza. But at that point it was just myself doing it, so I'd have to rely on, Yeah, also just kind of measured temperatures and these kind of things.
+
+0 (28m 7s):
+All right. So you knew and you knew how to make pizza dough because we, we know that from the story but, but now you get this thing, you're like, okay, let's go here's here, here goes nothing. Do you, do you remember the first pizzas that you made?
+
+2 (28m 20s):
+I actually gotta say I don't remember too much of the first ever pizzas that I was making. I was so focused on the product itself and getting it better and better at that stage and getting it to a stage that I could actually launch it.
+
+3 (28m 34s):
+I will, I will say I remember them being fantastic, but actually looking back at the video footage now of, of 10 years ago, they're incredibly anemic and they definitely don't look fantastic. Yeah, I think we were just so excited that it worked and it was decent. Yeah.
+
+0 (28m 51s):
+But with that early prototype from the welder, that was the one you were gonna go to Kickstarter with as the demo product?
+
+2 (28m 59s):
+That's right. And that's, that's really the, the next maybe six, seven months of probably the kind of, when I even think about the spirit of time in the honest history, just get, get my palm sweat because it's quite quite risky. I had this prototype that was working and all along this time of developing it, I knew that I wanted to launch this thing on Kickstarter, right? I've just gotta get this off the ground. And I was really keen on being, cuz Kickstarter was launching in the uk so it was truly the kind of the essence of Kickstarter in terms of like, okay, here's an idea, let's get this group of people together to back it and see if we can take this forward
+
+0 (29m 45s):
+When we come back in just a moment, how Christian gets lots of early orders for the oven, but then discovers that the fence maker down the street is not going to be able to fulfill them. Stay with us. I'm Guy Ross and you're listening to How I built This Here at How I built This. We like to feature brands that are doing things so differently. They're changing entire industries. And when it comes to Furniture, Burrow is setting a whole new standard with their beautiful, durable, and easy to assemble designs. Burrow is a new kind of furniture company with its own in-house design studio.
+
+0 (30m 25s):
+They select materials that will stand up to everyday life from stain and scratch resistant fabric to solid hardwood frames. And best of all, every order, no matter how small or large, is delivered directly to your door for free. Now available is Burrow's new union collection. It's their biggest, deepest, plush, widest modular seating design to date, the unique fabric is soft and comfortable, plus it's stain resistant and easy to clean. Listeners can get $75 off their first order at burrow.com/built. That's Burrow b u r r o w.com/built for $75 off burrow.com/built.
+
+0 (31m 12s):
+American Giant chooses to manufacture all of its clothes in the United States with their high quality long lasting goods. They make sure their products stay local and stay out of landfills. American giants clothes have amazing functional details. For example, they craft their classic full zip hoodie with pre shrunk cotton reinforced elbows, structured side panels and custom hardware. It's quality you can feel immediately and you'll wonder why all clothes aren't made this way. In fact, I've been a huge fan of American Giant for a long time. I happen to be wearing a hoodie right now. I love so many of their products and their socks, their t-shirts, their jeans. One of my favorite things about American Giant is how their products are built to last.
+
+0 (31m 55s):
+The high quality makes everything extra comfortable and durable. You can find out more about their story and shop the classic full zip at american-giant.com/built and get 20% off when you use code built at checkout. That's american giant.com/built promo code built. Hey, welcome back to how I built this. I'm Guy Raz, so it's 2012 and Christian has just launched a Kickstarter video for his very first portable Woodfired pizza oven.
+
+0 (32m 39s):
+And the goal for this first campaign is pretty modest. He's looking to raise about $10,000.
+
+2 (32m 46s):
+That's it. Yeah, around $10,000. So the original idea there was that I'd raised just about enough money for this, this metal workshop down the street to be able to produce maybe, I don't know, 50 of these units to fulfill the backers on on Kickstarter and then have a few more to sell.
+
+0 (33m 6s):
+So the idea was you would have that same metal shop that made your prototype, you would just have him do like 50 of 'em
+
+2 (33m 11s):
+At the time. That was, that was the idea. Yeah, Right.
+
+3 (33m 14s):
+It's important distinction because we weren't like, this is the business at this point. It was like, this is cool, well can we test the concept? Christian and I really wanted it and we thought this will be a really nice way to test proof out there in the world. So, and also we were really naive. We worked in education, we weren't used to big budgets or thinking on the kind of global scale we think today.
+
+0 (33m 38s):
+Yeah. All right, I've seen that video. Anybody can go watch it. It's the first Unni video. It's, it's low, low production quality, which is fine. It should be. I mean I hope at that point you didn't have a slick video cuz you didn't have any production budget, didn't, no audio is terrible. Barely could barely hear you. There's like a weird music soundtrack in the background that's kind of there and you're like not sure if it's coming from the video or another part of your house. When I was watching I was like, is that my kid playing music or is that in the video Anyway, it's you
+
+3 (34m 7s):
+And there's planes, there's a plane flying overhead at one point
+
+0 (34m 11s):
+And you don't show the whole oven because you're like, Hey, you know, I'm trying to like protect the IP so I'm not gonna show you the oven. So it's a little sketchy as you're like, who is this guy and this thing and then you kind of make a pizza. And was there part of it, I mean Kickstarter was still so new, but was part of it also like maybe I'll get some media attention from
+
+2 (34m 32s):
+This? Yeah, I was really hoping that there would be something that came on the back of that. And during the campaign there wasn't a ton of press or anything there. Actually, I don't know if there was any press at that time, but what, what was the big driver was that about three or four weeks after the Kickstarter campaign closed one of sort of at the time really big sort of gear website called cool hunting.com, picked it up and noticed it and on the back of that, quite a few other different blocks, including one really big one called uncreate.com picked it up and published a post about it and sent a ton of traffic coming to the website
+
+0 (35m 15s):
+And And you ended up raising 17,000 pounds from that first Kickstarter. Think. Yeah.
+
+2 (35m 21s):
+So the Kickstarter raised 17,000 pounds. Yeah. And this was the kind of funny part of it was that, okay, there was 92 ovens were sold through the campaign, but we sold another 200 on the back of the extra press that happened in the following
+
+0 (35m 38s):
+Month. Wow. But once you have raised the money you gotta deliver and people are like, where's my thing? Yeah, where's my pizza oven? Yep. And now you can go to this guy, this metal shop guy and say, All right, can you make these? And that's presumably what you do.
+
+2 (35m 54s):
+So that was definitely the plan. Now however, what happened was that we kind of outgrew that, that metal workshop really quickly. And this was kind of clear by the end of the campaign that okay well I've gotta make at least a hundred of these to fulfill all the backers. I think I need something else. I need an actual proper manufacturer for this. And so straight after the campaign, I basically started scrolling through the internet and finding different metal workshops all around outside of London and also reached out to a few places in Finland.
+
+0 (36m 27s):
+But were you at all stressed out about this? I mean, hell
+
+2 (36m 30s):
+Yeah.
+
+0 (36m 30s):
+You were promising this to people and you didn't actually have a manufacturer. You were thinking, I'm gonna have this metal shop dude down the block make 'em. And he was like, Are you kidding? I can't make hundred pizza ovens, I'm making yard fences. And and I'm imagining like you're starting to call numbers and you're like, Hey can you make pizza ovens? No, sorry. Can you make pizza ovens? Oh no. Sorry. First of all, I can't imagine there are many metal fabrication factories in the UK at all.
+
+2 (36m 57s):
+No, there's, it turns out there's not very many that want to talk to you if you've got a Kickstarter campaign.
+
+0 (37m 3s):
+No. They're like, yeah, we'll do a million dollar order, not 7,500 pounds. Yeah,
+
+2 (37m 8s):
+It was quite a fast education there. But it was not only did I not have a manufacturer for this product, but also I had to make this thing manufactureable as well so and fast within a few months. So I promised the Kickstarter campaign backers at this stage that hey, it's gonna be there for you in June. So just six months after the campaign. Wow. Yeah, I mean the good thing was that the order had grown because of the extra press on the back of the blocks and these, So I'd actually built up an order book of I think around 300 units this point in terms of orders for a manufacturer.
+
+2 (37m 48s):
+This may be 20 grand or something like that. So not a huge amount, but I actually, I asked my dad as well to do a little bit of searching again in the, in Finland and he found a place in not far about a hour drive from my hometown that was a metal fabricator and had these, they could fold steel in the right way and had the right contacts to do some subcontracting and and that's where I found the first manufacturer.
+
+0 (38m 16s):
+That's actually amazing that in Britain, which is a country of like, I don't know, 60, 70 million people. Yeah. You couldn't find and in Finland a country of what, like four or 5 million people?
+
+2 (38m 26s):
+Five,
+
+0 (38m 27s):
+Yeah. There was a metal factory that could do this.
+
+2 (38m 30s):
+Yeah, yeah. It was, I think there's Finland's like a little bit more isolated, so maybe some things would be made more locally there than flown in or shipped in. Right. But there's a healthy manufacturing industry there still.
+
+0 (38m 45s):
+Christian, when you went to Finland to this factory, I mean you had this crude welded oven, but obviously you wanted to look nicer and did they have like an on staff designer or somebody who could help you kind of smooth it out, make it look a little nicer?
+
+2 (39m 2s):
+No, no they didn't actually, I, I still continue to use SketchUp essentially to draw these cat models and that I would then print out into sheets and they would, they would translate it onto their machines and be able to kind of cut the pieces in the right right way. But one of the defining kind of things of making this and what the spec of it would be was actually the shipping of this product to customers. So, cause I knew I'm shipping this from Finland, at the end of the manufacturing had a hard limit of 10 kilograms that the product would have to go under. And this has a bit of funny kind of reason why there's three legs on an ny, the fourth leg would've taken it over 10 kilograms.
+
+0 (39m 45s):
+Wow. Yeah. Cuz it's got, it's a tripod, right? It's three legs under under it. Yeah.
+
+2 (39m 48s):
+It's a tripod. Yeah. And I mean, turns out it makes a lot of sense of golf course for stability to do that.
+
+0 (39m 54s):
+Yeah. Right. So you get this fabrication place in Finland to start making them, you've got the cash to do it and, and you've gotta fulfill those orders. And by the way, these are orders presumably not just from the UK but from overseas too, from around the world.
+
+2 (40m 11s):
+Yeah, absolutely. So there is a lot from the US I think maybe about 40% were from the US and because I was so desperately keen on getting this into people's hands that summer and not to have this experience of months and months of delay in getting this into people's hands. So I actually decided to ship this by such regular parcel mail from Finland to those packers in the us So Trina and I and my mom and dad would pick them up on a small trailer from the factory, which was like an hour away. Yeah. And then take them to a local post office and just shipped them one by one basically.
+
+0 (40m 52s):
+Oh my god. You just stood in the post office and just slapped all the labels on. Yep. Here you go. Here's one, here's another one, here's another one. Yep. Here's another pizza oven. That's
+
+2 (41m 1s):
+It. Wow.
+
+0 (41m 2s):
+That's it. Do's like holding a baby and slapping the labels on with the other hand. Exactly. Absolutely.
+
+3 (41m 7s):
+Awesome.
+
+0 (41m 8s):
+Very
+
+2 (41m 8s):
+Wholesome. I mean he was over one at this point, so he was working as well.
+
+0 (41m 11s):
+He was like sitting there like slobbing on pizza crusts. He was tester. Yeah, you need teethers, you just had pizza crust.
+
+3 (41m 20s):
+Yeah, that's how he was raised.
+
+0 (41m 22s):
+Alright. Meantime do you are just
+
+3 (41m 26s):
+Paying the
+
+0 (41m 26s):
+Bills. You gotta pay the bills. So what are you doing to pay the bills? I'm working, I mean, are you, you gotta, you gotta do this consulting work, right?
+
+3 (41m 32s):
+Yeah, we're working hard with sit cloud. I think we're mid Nesta projects, so like multi-school projects and doing fine. And during the Kickstarter campaign though, clearly I was excited. Anyone who's ever run a crowdfunding campaign is sees how obsessive they can be over that period.
+
+0 (41m 50s):
+Yeah. Was anybody in your world, in the educational consulting world, like, hey do, what's that pizza oven thing that Christian's doing? Like, wait, what is this?
+
+3 (42m 1s):
+I, I think people were pretty excited. We had like, like I say, we're part of creative partnerships and had all these like hippie very creative friends, you know, so people were generally quite buzzing and yeah, I'm not saying we didn't get some pushback. So we had friends who were in our like baby groups who were just like, what are you doing? Get a proper job that we, we definitely had some people challenge us as as a business.
+
+0 (42m 28s):
+Hmm. All right, so you get these first ovens out and the backers get them and what's the feedback that you're getting? Because you know, again, this is still 2013, there aren't that many YouTube videos on how to make pizza. So what was the feedback?
+
+2 (42m 45s):
+I mean it's, it's hard to say what was the feedback? I mean we never had a return, but I think that's also something about that sort of life arc of a company or that sort of, you start with those early adopters and they are so much more willing to put in a little bit more effort into learning how to use a product and yes, well it doesn't do this, but it actually does this thing really well. So actually I do really like it. And so, so I think that really helped, it really helped that the campaign didn't blow up to be one of these, I don't know, million dollar campaigns, overnight successes that I think at that stage would've invited so many more people that the product just isn't ready yet.
+
+0 (43m 28s):
+But you knew that you were going to continue this and now you were getting just organic orders in from some media. And by 2013, you know, you're getting, orders are trickling in every other day or so
+
+2 (43m 43s):
+Orders are trickling in. I think we did something like in dollars about 170,000 in the first year of operating, which is compared to what we'd been working on previously. It was really, really, really good. Of course, when you're working in a product company, the economics are completely different to working in a service company. So much of it goes into inventory and if you're growing more of that goes into inventory
+
+0 (44m 8s):
+Right now. Meantime it's just you and, and I guess Doina is helping out too, while she's trying to earn, earn money but also helping you out. So you're the product guy, you're the manufacturing guy, you're the customer support guy,
+
+2 (44m 21s):
+Legal team, logistics, everything.
+
+0 (44m 24s):
+And, and Dorina, you're still very much involved in, in, in this other business that you guys have this educational, creative consulting business which starts to mount like events Yeah. And conferences in meantime. Like just tell me how you were managing all that stuff in your personal life. You a child, you get two kids by then maybe?
+
+3 (44m 47s):
+Yes, we were really busy looking back on it though. It was just really fun. It was super fun. It was very fast paced. We're used to, I think some of the, you know, running the festivals and conferences and making things happen was in our DNA from all of the SLA work carrying favors and being agile I guess you would call it today was, was definitely how we operated. And also because we'd sort of been freelancers before and then designed ccla to be a bit like that. We were used to putting on different hats.
+
+0 (45m 21s):
+Hmm. So I guess by your second year in business, which is 2014, you guys are, are already rolling out your next oven. It was the, it was, I guess it was called the Uni two and, and you also decide to make an accessory called the Uni stack. Yep. Which, which is cool. It's, it's, you know, it's like these three like stacking glass bowls that you can put the pizza dough into to rise. Yeah. But I guess this turns out to be a pretty major stumble for you, right? Because I read that shortly after the uni stack came out, you sent a letter to your Kickstarter backers because there was, I guess there was some people were not happy with certain elements of it.
+
+0 (46m 1s):
+In the letter which I've read, it says, you know, we've been going through some growing pains lately. You know, I'm just starved of time. I can't keep on top of everything. Just a few of us are making this happen. And I know, like you even said, the feedback for the first production run hasn't been all good. Yeah. What, what were you hearing?
+
+2 (46m 18s):
+So probably the first really traumatic event that we had was when these first production run of these uni stacks arrived at our South London office. We had this,
+
+0 (46m 31s):
+By the way, where were you manufacturing them?
+
+2 (46m 32s):
+These were made in China. So by this stage I'd moved manufacturing for uni itself as well to southeast China.
+
+0 (46m 40s):
+Right, because you had to, it was scaling, you couldn't, you could not do all this in that place in Finland, presumably
+
+2 (46m 46s):
+Couldn't do it in Finland. You couldn't get the quality and the materials and the parts in any western country really unless you paid a lot. And at the same time we were able to bring the course down to something that was kind of more aligned with the original vision of this being affordable.
+
+0 (47m 5s):
+Yeah.
+
+2 (47m 6s):
+So these tax, Yeah, we had I think two or three or four pallets of them arrive on a back of Alor at our office. I remember Drina was there with both our kids and we were all there. We had two part-time employees at this stage and we'd take these pallets down off the Lori, we'd carry all these stacks inside the small office that we had and we'd opened the first one of them and they didn't fit together. They were all shapes and si sizes. Some were broken already at this stage.
+
+3 (47m 42s):
+Yeah, it was pretty horrible. I would say that like when we saw the samples that we approved, they were perfect. They were, you know, they all sat together, they looked really nice, quality, thick glass. There was not a bubble in sight. And unfortunately when we opened the box it was, you might be lucky if there was kind of one or two that were any goods. And so depressing cuz we've paid for all of this. And they were, the whole concept was that they stack together. Yeah. So we had quite a fun, wasn't fun at all. We had a time kind of putting together could we salvage some or some good enough to stack together and repackage.
+
+2 (48m 20s):
+Yeah. Is there enough here that we can fulfill the packers again, like thinking these packers have put money and the trust in us. Yeah. And we'd open every single box, find the matching pairs and or matching triplets I guess, and back them up and ship them to our customers. And if they'd have any problems, then of course we're trying to be as responsive as possible and, but they vary in the quality at that stage just wasn't right up there.
+
+0 (48m 48s):
+Yeah,
+
+2 (48m 49s):
+They did not look very good
+
+0 (48m 53s):
+When we come back in just a moment, how Christian and Darina start learning how to grow unni gracefully until the pandemic hits. Stay with us. I'm Guy Ross and you're listening to How I Built This. Recently I was in the market for a new mattress and I got mine online from sofa. The process of selecting a mattress was super easy. Sofa has a handy quiz that you can take to find the best fit for you and for us it was super important to have an all natural mattress and sofa had a great option. Delivery was quick and the mattress is super comfortable.
+
+0 (49m 34s):
+Sofa mattresses are just as good as the top retail brands, but they are sold for a fraction of the price. And with factories around the country, sofa can custom make mattresses to order and deliver them super fast. And another thing that's great about Sofa is that they will deliver your mattress directly to you, not just to your doorstep, but to any room you choose. They'll even remove your old mattress for you get $200 off your purchase of a thousand dollars or more at sattva.com/built. That's S A A T V a.com/built.
+
+0 (50m 14s):
+When building a business, there are tons of moving parts. One that's often overlooked is having a network that connects your business. Thankfully with at and t business, you can pick the best wireless plan for your small business and offer your employees the features they need. Plus, at and t business wireless plans include nationwide 5G that's fast, reliable and secure. Wherever business takes you at and t business has the features you need. Visit att.com/get bis unlimited. 5G requires a compatible plan and device. 5G may not be available in your area. Visit att.com/5g for you for more details.
+
+0 (51m 4s):
+Hey, welcome back to How I Built This. I'm Guy Raz, so it's around 2015 and Unni is going through a lot of changes for starters after the disastrous rollout of those glass stacking bowls, Christian finds another manufacturer for them in China and the brand is actually getting some traction to the point where Dorina quits her job at their other business so she can work full time at uny. Also around this time they decide to move their family and the business back to Dina's hometown of Edinburgh.
+
+3 (51m 38s):
+When we came up in 2015, we were instantly able to connect into business groups here. There's one called Scottish Edge and then we became part of this program called Scale Up Scotland. So you know, being over familiar and connecting was, was easy for us here, but actually because we had already shown some success, we were definitely a bigger fish in a smaller pond. We were still tiny in relative terms. But yeah, there's downsides in Scotland in the sense that there are incredible modesty about, you know, there's not that many companies who are yes. Who think they can take on America and I, I don't know why I think that there definitely should be.
+
+3 (52m 18s):
+But yeah, in terms of the support, it was lovely.
+
+0 (52m 21s):
+I think it's a British thing, right? Yeah. Because in America you start a company you're like, we're gonna be the biggest in the world and take it over and we're gonna, you know, and and being ambitious is not something to be ashamed of, but I think in particularly in Britain, it's like keep your head down and it's just culturally different.
+
+3 (52m 37s):
+Definitely. Yeah. It was a good thing for us to move because as soon as we came up we won a Scottish Edge award and
+
+0 (52m 44s):
+You got a grant, right?
+
+3 (52m 46s):
+Yeah. It was 50 grand grant to spend exclusively on ip.
+
+0 (52m 51s):
+Yeah because it's, it's this very unique design and shape and, and once people start to see that it's working then you know, we know what's gonna happen. Yeah. So what's, I mean I'm not the first to point this out, but it is kind of amazing that this incredibly accessible pizza oven that makes Neapolitan style pizzas at home comes from a place that I love Scotland. My wife worked, lived there for the first six years of her life. So no, I'm not dissing Scotland, but it's cold and dark and rainy for a lot of the year. That is true. When you think of outdoor pizza, when you think about like, you know, the Amalfi Coast or Southern Italy, not Scotland, not Edinburgh, not Finland.
+
+0 (53m 32s):
+And yet here it's coming out of Edinburgh. Yeah. I mean were people in the UK buying it or were most of your customers in like warm weather climates outside of the uk?
+
+3 (53m 44s):
+Yeah, we've definitely over indexed in the UK but yeah, comparably in the US where people, they didn't need to be persuaded to cook outdoors. Right. It was just about, do you know about uni? Yeah. So a big sort of shift for us to try and emulate the success we had in the uk. We've always sold into the US and on the point about Scotland and it's always been really interesting. What we love about uni is we can tell this authentic story. You know, our messaging today is about making pizza. Yeah. And when it came to how much should we talk about Scotland and you know, people love Scott accents, does that matter? Or the finish aspect? You know, people talk a lot about Nordic design and that's really thought off highly around the world, but actually when we interviewed most customers, they didn't really know about that.
+
+3 (54m 32s):
+I remember one bit of feedback when I did a consumer interview where he was like, Do you know what if I knew you were Scottish, it would definitely put me off. Which I was laughing about. He's like, Just like that you wouldn't buy, I dunno, a rice cooker from, from somewhere that wasn't known for rice was like, oh, interesting. And we don't hide it. But yeah, I think it is a funny one. It's, it doesn't have a natural home Scotland now. It does,
+
+0 (54m 58s):
+Yeah. Right. So I think in 2017 you launched another crowd funding campaign on Indiegogo. I think this was your third. Yep. I mean by this point you probably could have gone to outside investors and started raising venture money and stuff, but really this was, it was a privately owned company. You were not going out to, you know, all these investors and stakeholders you were really keeping
+
+2 (55m 26s):
+We still are. So we have a cap table is is pretty clean. So Trina and I are on on most of it and we have options and share schemes for some of the exec team and then few friends and family investors from the very, very early days of own. And yeah, early on we came to a realization that actually we've always been sort of fairly fast growing, so let's just continue doing what we're doing. Yeah. We also, none of us came from that sort of startup environment or that sort of VC backed company environment. So it wasn't really a driver for us to have that as a stamp of approval on the door that, hey, this has been packed by this VC company and they, they raised this much money.
+
+2 (56m 11s):
+So it wasn't ever like a desire for us to have that. It was more so that we really wanted to run this company the way we want to run it and not be, not have this kind of clock ticking on that Hey well, you can run this company for now, but at one point we'll have to do something that might mean an exit or an IPO or something that,
+
+3 (56m 33s):
+Yeah. Yeah. I think that's fair. And the first Kickstarter in our subsequent crowdfunding campaigns, we learned a lot. And I think community is absolutely key to any success. And you know, it's incredibly fast. You know, you can cook a Neopolitan in 60 seconds. There's a real wow moment about it these days. It's incredibly Instagrammable, but people get together over food. So by the time we were ready to do our second crowdfunding for an oven, we had this wildly engaged community. We felt confident that that was a, a good business model. And actually it wasn't until another couple of years that we thought, do we blitz scale?
+
+3 (57m 14s):
+This is the right thing to do to truly scale. Yeah. Getting outside investment in, but because of this way we did it, we we really didn't need that. Yeah. So, yeah.
+
+0 (57m 25s):
+And it strikes me as a really interesting approach. I mean, you sort of kind of hinted at this, which is they're so passionate, so they're like force multipliers. You get people contributing to the Kickstarter, then they're talking about it, and then it becomes this like viral product. Like, and, and this is the thing, like we've talked about virality on the show with like Tesla's work that way. People go into someone else's Tesla and they're like, I want this cart. Yeah. It's unbelievable. And I think that's the key to, to the growth of unis is like you're making pizzas and usually you have people over and they're like, This thing is amazing. And they're like, How does this work? And you're like, Yeah, just slide it in. And then soon enough they're making pizzas and then they go out and buy one.
+
+2 (58m 5s):
+Yeah, absolutely.
+
+3 (58m 7s):
+One of the coolest things, especially during the pandemic, we decided to do this mini campaign called Stars Stuck at Home. Everyone was stuck at home. It was quite a miserable time. And we reached out to people that we just thought were epic. It connected to, and if they wanted an oven, we sent them one. Literally everyone from Beyonce to Dolly Parton. Wow. Bruce Willis has one and it's incredibly name droppy. But one of my favorite times was checking the uni Instagram and saying, Jake Gill, who go, Hey, I really like your ovens. How can I get my hands on one? Yeah. So we all, everyone in the team volunteered to help get him and you. And from Christian's point of view, his parents are very supportive and very lovely, but they're, they're finished and they're, they're practical and hard to impress.
+
+3 (58m 54s):
+And they only like really made a show when, when Christian said, you know, Bruce Willis has one. Oh, okay, this is real.
+
+0 (59m 2s):
+You've got a pizza and a Bruce Willis. Okay, we're proud of you. This
+
+3 (59m 5s):
+Was the first time
+
+2 (59m 6s):
+Suddenly, suddenly it's real.
+
+0 (59m 8s):
+That's Bruce Willis, apparently a great pizza Olo. Yeah. I did not
+
+3 (59m 11s):
+Know. Oh well I think, I hope he is.
+
+0 (59m 13s):
+Yeah, I hope he is. I think it was in 2018 that you changed the name from Unni U U N I to Unni. O O N I. Yes. And I should mention Unni means oven in finish. It does. It literally means oven. Cuz my first one I had was A U U N I pizza oven. I remember I was like, wait, did I get the right one? But you guys had a brand and you had recognition and attention and you were growing, but why did you change the name?
+
+3 (59m 38s):
+Yeah, I mean we wouldn't recommend it changing your name if you don't feel the need. Basically. There was a few good reasons, but one of the key things is that U U N I, we knew to pronounce it uni, but not everyone did and or eCommerce was rowing and we wanted people to be able to search for it easily. And when you search for U U N I often it would auto correct to U Uni, like university or U Oh yeah. And so yeah, there was that and people didn't know how to say it. So we knew for a while we wanted to do it. And I think it was Greg who's our COO, who when he started suggested like, why not change it to be sort of the phonetic way you would say it in English.
+
+3 (1h 0m 22s):
+Just turn those use into os. And that's what we did. And it was relatively easy transition obviously took a bit of time.
+
+0 (1h 0m 30s):
+Mm. I wonder as more and more people now you're like 2019, you're selling to people beyond just like pizza fanatics. You're selling to people who are really trying to experiment. And that means that a lot of them are going to suck at it at first. Most people, me too, everybody is gonna burn their pizza. It's gonna get stuck to the, to the pizza peel. And some people are writing like bad reviews of the product saying This sucks, I burned my pizza. But like, yeah, you're gonna burn your pizza cuz it's gonna cook in 90 seconds. Part of what you had to do was to educate people around how to make pizzas right?
+
+3 (1h 1m 5s):
+Yeah. It was a brand new category we created. So people hadn't, they didn't have pizza ovens. There might be a few kind of exclusive people that would have, you know, high end $5,000 or plus installation in their back garden. But even then they're very different because they take hours to heat up beautiful installations, but they're not, you know, uni heats up in 10 minutes and you can cook a pizza in 90 seconds and that was brand new. And uni can cook lots of other things as well. You know, we can put cast iron in and do amazing roast vegetables or salmon or steaks. So we talked a lot about that. So in the first few years we actually called it an uni outdoor oven. We almost shied away from, even though it was invented for pizza, from leaning too heavily into that because we were worried that people would be so scared about it.
+
+3 (1h 1m 52s):
+And then we noticed our retailers going at a pizza and we're like, Oh, come on, why are you doing that? And then we quickly learned that what are we doing? Obviously let's be confident and own that. And we learned that actually the vast majority of our consumers, they already made pizza at home. They didn't need to be told how to do it. In fact, what they loved was the more geeky recipe, so sourdough and you know, 36 hour proves and the salt levels and hydration. And that was such a eye opening thing for us because by sort of designing our marketing content we're actually a bit more technical and owning pizza, it helped us really focus.
+
+0 (1h 2m 33s):
+I wonder when you, I mean you're going into 2020 presumably, you know, you're on this trajectory. You're growing, you now have got an office in Austin, so you, you are, you know, confident, but then Covid hits, right? And yeah, I have to imagine that initially you were expecting like everyone else a significant slowdown.
+
+2 (1h 2m 56s):
+Yeah, it was quite an incredible time. I remember I was in, in the US on a sales store in March of 2020 and I remember this one event that I was in in the morning. People would shake hands and greet you just normally in the afternoon no one would touch you. Yeah. And oh yeah, I remember coming back from, from the US and going on the plane and this was like the day before they stopped all flights between us and and Europe and thinking that I, I have no idea what the world's gonna be like when I land. Some of the first effects of this was our, some of our retailers were canceling orders and we were panicking because we'd have all this, all, all this inventory arriving and at the same time, all our retailers are canceling orders left, right and center.
+
+2 (1h 3m 50s):
+But the one kind of spark of hope right in the middle of it was that our directly consumer sales through our website, which is starting to go up and up and up and up, they were just trickling up up the way we'd suddenly we'd be like, Oh, we're in March and we've just had the best day ever on our website in the uk Wow. Or
+
+0 (1h 4m 10s):
+This and, and this was totally unexpected,
+
+2 (1h 4m 12s):
+Totally unexpected. This was just at the beginning of lockdown. And I think at that point people are just like, okay, what's next? What do I do when I'm not allowed to leave my home? And turns out that a lot of people, especially in in US, UK Europe turned into pizza makers.
+
+0 (1h 4m 33s):
+I read that your growth was like 300% in 2020. Yeah,
+
+2 (1h 4m 38s):
+We went from 13 and a half million in 2019 to 55 in 2020.
+
+0 (1h 4m 45s):
+That's nuts. I mean and that was purely because all of a sudden people were at home and they started to cook at home. How did you deal with the demand? I mean you've got shipping delays, you've got manufacturing delays and massive demand.
+
+3 (1h 5m 1s):
+I mean, I think partly we just thought that the first spike was gonna be a spike and that was it. But it just kept coming. There was lots of reasons that we were able to jump on it though we had invested heavily in our digital marketing team. So in lots of ways we were kind of ready to share the news about uni as well as so much of it being about word of mouth in terms of how we handled it. Our, our operations team really did take a a beating. People were kind of complaining a lot and the only thing they were complaining about is they wanted an uni and they wanted it faster. So, and yeah, you, you know what happened in global logistics during the pandemic?
+
+3 (1h 5m 43s):
+Yeah. We had a huge order on board they ever given on the Swiss canal. That was another challenge.
+
+0 (1h 5m 51s):
+You were on that boat. Yeah.
+
+3 (1h 5m 52s):
+Yeah. Not us personally, but I know you,
+
+0 (1h 5m 54s):
+A lot
+
+3 (1h 5m 54s):
+Of unis,
+
+0 (1h 5m 55s):
+Your unis were on that boat that got trapped in the Suez canal. Oh my god.
+
+2 (1h 5m 59s):
+Yeah. Yeah. We had 14 containers, 1440 foot containers stuck on the, on
+
+3 (1h 6m 4s):
+The ship. So the people had waited so long already and then had preordered them and there was all sorts of challenges around that because we wanted them to have this oven sooner. Yes, it was, it was a
+
+0 (1h 6m 17s):
+Lot. And, and I mean how did you deal with the, just like, cuz you mentioned that before the pandemic you had staffed up around digital marketing, which is a smart thing to do cuz you were expecting, you know, steady growth but you certainly didn't staff up in other areas cuz you no one anticipated covid and what would've happened, But I think you ended 2019 with about 50 employees.
+
+3 (1h 6m 39s):
+Yeah, well in 2020 we were about 45 March, 2020 and then we're about 350 now. Wow. So yeah, epic, epic grow. And what was amazing about it is we weren't hammering people to work hard because people are really empowered to work here. And I think part of that was we learned early on all of our s experience from, you know, all that time being in schools and seeing these little microcosm societies, you'd see some teachers that were incredibly empowered and others that were like depressed and broken and a lot had to do with the leadership and how much they trusted their team and their culture they designed.
+
+3 (1h 7m 19s):
+And so we, when we actively set uni up, we were like, okay, let's make this a brilliant place to work and let's genuinely build it with our team.
+
+0 (1h 7m 28s):
+All right. I read that you said that the pandemic accelerated your growth by like three or four years in one year at least. Yeah. The other thing that began to happen is because you created a category and people were like, I can make awesome pizza at home. A lot of other people who were like, this is a good idea, I'm gonna make a pizza oven too. And now there are probably 30 or 40 competitive brands. I mean even some of these older Italian, you know, pizza makers are making portable pizza ovens. Now you've got, I mean just going on Amazon now you see brands that you know are clearly let's, I'm just gonna be charitable inspired by the design of unni.
+
+0 (1h 8m 10s):
+Yeah. And you know, you could look at it multiple ways. You could say, Hey, I'm flattered, you know, you guys have done the, the tripod bottom. I like that. Or I'm inspired by your dome shape. Or you can say, wait a minute here, this looks really similar to what we've done. So tell me about how you kind of approach competitors in the space.
+
+2 (1h 8m 31s):
+So first of all, we start by focusing on what's really important for us, which is our customers themselves. Yeah. And we have our sites on in the far into the future of really continuing to develop this category and making it really awesome for our customers. There's of course on top of that, when we do feel like our IP is violated, we do do take course of action on those cases.
+
+0 (1h 8m 56s):
+Yeah.
+
+3 (1h 8m 57s):
+There's not actually any key brands that we're concerned about. You know, there, there are definitely a lot of copycats, which isn't great and we're choosing our battles, but we definitely can't be like misdirected to the wrong thing. Yeah, yeah. We've only got, even though we're a small team, we're still such a tiny amount of resource. Right. Isn't that we may as well positively
+
+0 (1h 9m 17s):
+Build. Yeah. One of the coolest things is, I think last year maybe the, basically the Vira Pizza Association of Napoli. This is like the, it's like champagne can only be made in champagne and this organization can only designate true Neapolitan pizzas to be like, Right. You know, double O flour and San Marzano tomatoes and buffalo milk mozzarella and like basil and that's a, Yeah, that is okay. And then they approved your ovens. Yeah. Like they gave it the stamp of approval.
+
+2 (1h 9m 50s):
+It was awesome. I mean we'd, we'd started this by wanting to make an oven inspired by neopolitan style pizza, getting to those high temperatures and cooking pizza there. Now this body that certifies all these restaurants and pizzas and ingredients and professional ovens gave us that seal of approval. It was just the most amazing thing.
+
+0 (1h 10m 15s):
+And I should mention, because there are restaurants all around the world that have this seal, this avpn seal and it's cool. Like, you know that the pizza in there is gonna be pretty great. I think, I mean it's been reported that your revenues are now over 200 million pounds a year. I mean it's, it's pretty remarkable given you start as a Kickstarter,
+
+2 (1h 10m 35s):
+It's completely mind blowing.
+
+0 (1h 10m 37s):
+Crazy. Right. Like a Kickstarter to where you are today. I don't know how often do you just reflect on just that Christian you saw a gap, but that could have really been a niche market. It could have been like just nerds who were really into like their pizza ovens.
+
+2 (1h 10m 50s):
+It really could have been just as niche. But I know really early stages before I had that product ready and knew that how to make this thing work, there was this strong sense that, look, I think we might be onto something here. I think this could be something a little bit bigger than just, hey, let's make a couple of hundred ovens every year and nice living out of it. I think there was this sense that, hey, this could become something really, really substantial and something really, really meaningful. Yeah. And there's a thing about the outsiders coming into an established field that I think they can look at a problem in with new eyes, I guess.
+
+2 (1h 11m 30s):
+And the fact that I'm not Italian, I'm not, I've at that stage actually had never visited Italy, but just had this love for pizza and wanted to make better tools for it. I think it helped in terms of just looking at the problem with fresh pair of ice. And I think you, you often see this in a lot of startup stories is that there's an immigrant coming into a new country and can combine those two cultures and into something new.
+
+0 (1h 11m 58s):
+Yeah. When do you think about this journey? How, how much of your success do you attribute to, to the work you put in and how much do you think has to do with just getting lucky Christian first to you?
+
+2 (1h 12m 10s):
+I mean, it's, so much of it is is luck. It's like, it's a lack of timing coming up with an idea in the first place and lack of both Trina and I being the people who had this idea, there's a, there's a lot of hard work that's gone into it, but I mean, you can't deny the fact that, I mean we have been incredibly lucky with, with the original invention, lucky with the team that we've managed to build around ourselves. So yeah, we do, we do really feel really, really fortunate.
+
+3 (1h 12m 41s):
+Yeah. We didn't have to give up city jobs to make this happen, which I think is a very important thing when you look at kind of entrepreneurs generally. Yeah. We were used to, whilst we did fine, like we had a really nice life on very little money before, so it wasn't that risk really. So we were able to, you know, plow it all into the business for so long and I think that has helped us as well that, that modesty I guess.
+
+0 (1h 13m 7s):
+Yeah. You know, the thing is, I was gonna ask you if you get sick of pizza, but no one gets sick of pizza. You can't. No.
+
+2 (1h 13m 14s):
+I mean, I'm at the office here four days a week and I eat pizza here at least two or three times a week.
+
+0 (1h 13m 20s):
+I look forward to the day when the Italians come after haggis.
+
+3 (1h 13m 24s):
+We have had a haggis pizza, haggis, nips and tar pizza with,
+
+0 (1h 13m 28s):
+I don't know about that stomach pizza, but who knows?
+
+2 (1h 13m 32s):
+I think one thing that connects UK and Finland is that I think Italian ex Prime Minister Berlusconi has been equally as disparaging of the cuisine of these two countries. But
+
+3 (1h 13m 45s):
+There's a pizza company in in Finland called KO Pizza that famously won the Pizza World Champions ship with their Yes. And it was a reindeer pizza and Berlusconi, they, they were so excited that they could sort of chat to Bescon and say, we bet you at your own game. So
+
+2 (1h 14m 2s):
+Yeah, no, they named the Pizza Perone to I little one up on, on the Italians.
+
+3 (1h 14m 8s):
+Ah, so they did.
+
+0 (1h 14m 10s):
+That's Garland and Christian Tap co-founders of Unni.
+
+3 (1h 14m 16s):
+Also, the great thing is there's so many other types. There's, you know, New York and Roman Pizza and Detroit and you know, there's, they're very different.
+
+0 (1h 14m 24s):
+That's true. Detroit pizza are pretty great. All that cheese and pepperoni. It's so good. I always think of m and m when I ate Detroit Pizzas. I don't know why, because he is from Detroit.
+
+3 (1h 14m 34s):
+That's really random. Oh
+
+2 (1h 14m 35s):
+My God, that association's never gonna go away. Now.
+
+0 (1h 14m 40s):
+Hey, thanks so much for listening to the show this week. If you enjoyed it, please help us spread the word. Tell someone about how I built this or post about it on social media. And thanks. If you wanna contact the team, our email address is ibt id.wondery.com. If you wanna follow us on Twitter, our account is at How I Built This and mine is at Guy Roz and on Instagram or at How I built this. And I'm at Guy dot Roz. This episode was produced by Chris Masini with music composed by Run team Arab Louie. It was edited by Neva Grant. Our audio engineer was Gilli Moon. Our production staff also includes JC Howard, Casey Herman, Liz Metzker, Carrie Thompson, Alex Chung, Josh Lash, Sam Paulson, Catherine Cipher, Elaine Coates, John Isabella, and Carla Esteve.
+
+0 (1h 15m 29s):
+Our intern is Susanna Brown. I'm Guy Ross and you've been listening to How I Built This. Hey Prime members, you can listen to how I built this Early and ad free on Amazon Music. Download the Amazon Music app today or you can listen early and add free with Wondery Plus and Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built this merch and gear@wonderyshop.com. Before you go, tell us about yourself by completing a short survey at wondery.com/survey.
+
+5 (1h 16m 15s):
+Hey, I'm JJ Reddick, host of the Old Man in the three. My basketball career has taken me on an incredible ride from playing under Coach K at Duke, A trip to the NBA finals in an NBA career spanning 15 seasons. And now I'm bringing that same passion and insider knowledge to the old man in the three podcast. Each episode I sit down with NBA legends like Grant Hill and Gary Payton and some of the best in the game today, like Luca DCI and Kevin Durant. Nothing is off limits. On my show, we talk player to player, friend to friend and share our personal experiences both on and off the court. We discuss anything and everything from career ending injuries to the psychology of being a good coach and leader. Like when Luca Dich talked about how he needs to grow emotionally as a leader in order to lead the maps to a championship, follow the old man in the three.
+
+5 (1h 17m 1s):
+Wherever you get your podcast, you can listen, add free on the Amazon Music or Wonder App.

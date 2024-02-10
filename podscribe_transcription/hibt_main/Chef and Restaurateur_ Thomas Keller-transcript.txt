@@ -1,0 +1,746 @@
+‎Embedded Podcast (0s):
+Hey Prime members. You can listen to how I built this early and ad free on Amazon Music. Download the app today. One year ago, a white man came to a supermarket in Buffalo, New York. He just walked around and shot all the black people. How do you make sense of something this terrible when you're a kid? I think it was all my fault. Listen now to the latest series from NPRs embedded podcast.
+
+Upwork (30s):
+How I Built This is pleased to have Upwork as our presenting sponsor. Visit upwork.com to get hiring. Upwork has a message for you. Everything you know about business, it was made up by a bunch of guys a hundred years ago. Don't stay bound to their antiquated rules like the nine to five workday commuting to an empty office building, or only hiring full-timers. Embrace a new way of working with Upwork. It's a portal to the future of business, and it's disguised as a website. Go to upwork.com. There you'll see the light. And also find talent for projects of any size. From simple deliverables to complex projects. From short-term help to full-time hires, you can finally let those old business titans and their tired ideas rest in peace. This is how we work now. Visit upwork.com to get hiring talented professionals today.
+
+Capital One (1m 20s):
+The Spark Cash plus card from Capital One helps you earn unlimited 2% cash back on every purchase. And with no preset spending limit, your purchasing power can adapt to meet your business needs. Jorge Guvera, founder of Masi Enda Reinvests his 2% cash back to help grow his business with new products. And I really love the idea behind Masie. It's a supply chain company connecting Mexican heirloom corn farmers with restaurants, chefs, and consumers. And while Masie is connecting more people to the culinary and cultural richness of the Mexican kitchen, it's also elevating traditional heirloom farmers that work in areas that live below the international poverty line. Imagine what the Spark Cash plus card from Capital One, an unlimited 2% cash back on every purchase could do for your business. Capital One, what's in your wallet? Find out more@capitalone.com slash spark. Cash plus terms and conditions apply.
+
+0 (2m 15s):
+You know, we talk a lot on this show about hustle, and recently I spoke to actor Andy Garcia, who shared some amazing stories about starting out in Hollywood where he worked on a loading dock with another newcomer, Brian Cranston. Andy was also a catering waiter at the Beverly Hilton serving dinner to stars like Jane Fonda. But just a few years later, he was literally making dinner and talking about the Corleone family with Francis Ford Coppola. Check out my conversation with Andy Garcia on my other podcast. The Great Creators just search for the Great creators with Guy Roz, wherever you listen to podcasts. And now onto today's show.
+
+5 (3m 2s):
+I am not sure if you ever call people that you don't know and ask them for money.
+
+0 (3m 6s):
+Yes, yes, I have. Yeah,
+
+5 (3m 8s):
+It's a really difficult thing. Yeah. I had drafted a 10 page brief to share with two individuals that I thought would be a good benchmark for investment. I turned to Michael. I said, Michael, what do you think? And he said, it's a horrible idea. It's never gonna work. It's too expensive. People in Napa Valley don't want that kind of restaurant. Forget about it. I was crushed. I was just crushed. I was like, shit, what am I gonna do? I turned to Bob and Bob said, great idea. Let's do it. Hm. That's all I needed.
+
+0 (3m 47s):
+Welcome to how I built this, a show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. I'm Guy Raz, and on the show today how Thomas Keller's love of food and obsession with Detail helped him build a business that includes two of the best restaurants in the world, per se, and the French Laundry. How do you become the best at something? Practice, of course, and commitment and well time.
+
+0 (4m 28s):
+It takes time. And hopefully on that journey to mastering your craft, you've dealt with some setbacks, which almost always makes you better. All of these things and more are part of Thomas Keller's story when it comes to living chefs in America. Thomas Keller is widely acknowledged to be the best in the world of food. Earning a Michelin star is like winning an Oscar. Very difficult and very rare. Earning three Michelin stars is almost impossible. Only around 140 restaurants in the world hold that distinction. Thomas Keller has three Michelin stars at two different restaurants.
+
+0 (5m 10s):
+The French Laundry in Napa Valley and per se in New York. And just to add to that list, he also has a one-star restaurant in Miami that makes him the most decorated American chef of all time. But perhaps more importantly, he's also mentored many of the best chefs working in the US and abroad. People like Grant ETT of Alinea in Chicago, and Renee Redzepi of Noma in Copenhagen. In total, Thomas Keller oversees 10 restaurants and bakeries. He's authored half a dozen cookbooks, and he's created his own brands of olive oil, chocolate, and gluten-free flour. It's a big business, easily worth over a hundred million dollars.
+
+0 (5m 53s):
+But even though his recipes and his restaurants have set the tone, for many who have followed, Thomas Keller was somewhat of a late bloomer. He didn't have his first big success with the French laundry until he was 40 years old. And at the time, he was nearly broke before that. As you will hear, he worked in so many kitchens and in so many places that we won't even have time to mention them all. But in each of those stops, Thomas was learning how to be better, observing other chefs, practicing the same steps over and over, even forcing himself on one occasion to learn exactly where his food was coming from, by slaughtering 12 rabbits, pretty much with his bare hands.
+
+0 (6m 37s):
+And along the way he also had a long string of false starts and all out failures. He knew he could cook, but at times he wondered if he had it in him to be a restaurateur, a businessman. But over time, he learned from his failures, his temper, his poor relationships with management challenges in building the right team. And he really believed deep down that cooking nurturing was his true calling. Thomas Keller was born at Camp Pendleton in Southern California. His dad was in the Marine Corps. And a few years after his birth, his parents split up. Thomas ended up living with his mom who managed restaurants.
+
+0 (7m 18s):
+And by the late 1960s when he was in high school, the family had landed in Palm Beach in South Florida. And there Thomas's mother put him and his older brother Joseph to work in the kitchen that she managed at the Palm Beach Yacht Club.
+
+5 (7m 32s):
+So I washed dishes, you know, I was the dishwasher and Joseph was a prep cook or a line cook. And that's where we, we really kind of began that process of truly understanding what a restaurant was like. I mean, Joseph and I were a specific age where we can actually work in the restaurant. Alright.
+
+0 (7m 49s):
+So tell me a little bit about, I mean, I guess your mom, if she's running a restaurant, she was probably gone all the time, but what was your home life like? Did you kind of have to sort of raise yourselves in, in a sense,
+
+5 (8m 3s):
+More or less? I mean, you know, there wasn't, and that's why people ask me all the time. So what, what was your food culture like at home? I mean, did your mother cook a lot? Did you have these experiences like where you're, you know, sitting on your grandmother's niece during the, the, the blan bolognese? Yeah. Whatever. It's like, no, you know, my, my childhood was, was primarily, you know, I ate whatever my older brothers Right. Or whatever we could to produce for ourselves. And primarily at that time, youth had, you know, Swanson's TV dinners was always, you know, like a night out and then, you know, whatever came hamburger helper or, you know, those kinds of things, which are fairly easy to do. But at the same time, you know, after school or during our homework, we would go to the restaurant.
+
+5 (8m 44s):
+So many nights we would just eat at the restaurant. Yeah.
+
+0 (8m 47s):
+But you were not, I mean, you were not sort of dreaming of, of being a chef. In fact, I think, I guess you didn't really know what you wanted to do, right? I mean, I've heard you describe yourself as a pretty mediocre student, for example, in high school.
+
+5 (8m 59s):
+Exactly. But my mother had great expectations and, and certainly she was very focused on detail work ethic. And so, so even as, as a dishwasher, I mean, my job was to make sure that my job was done at the level that she would've proved whether it was cleaning the restrooms in the morning, or whether it was taking out the garbage at the end of the night and sweeping up. I mean, that was, you know, always based on what my mother's expectations were. And still today. Yeah. You know, I asked myself, you know, would my mother approve of this?
+
+0 (9m 33s):
+The, the restaurant where she, she managed was called the Palm Beach Yacht Club, I believe. Right. And I guess there was a point when you were like 21 or something when she needed a chef because she couldn't find one and kind of pressed you into doing this job with very little experience. Can you help me understand, like, how, was this like a fancy restaurant? Was it just like burgers or fries? What was like a Yeah, what was it?
+
+5 (9m 59s):
+Yeah, well, the P Beach Yacht Club was a small private club and basically catered to local businessmen for lunch and lunch consisted of, you know, for the most part, hamburgers flank steak with oju omelets Right. Eggs benedict. So it wasn't really a struggle for me to understand how to prepare those dishes. And then I had my brother Joseph, who really was my second mentor after my mother, who helped me, helped me learn, taught me how to make a hollande sauce. And so that was really my first understanding of cooking. I mean, it's cooking a steak or doing an omelet. Those things were fairly easy, but the actual intricacy of making a holiday sauce was a little more detailed. A little more was a little more intense.
+
+5 (10m 40s):
+Yeah.
+
+0 (10m 40s):
+Like today, I'm imagining a restaurant like that, 90% of its stuff would just come from the Cisco truck. Right. It would just back in and there'd be stuff that would just be unloaded and, you know, maybe the, the fries would be frozen and the burgers would be pre-made. And was it like that already in the mid seventies?
+
+5 (10m 59s):
+Well, it was interesting cuz I always described it. There were two people I called every night putting my orders in. I called the, the bakery tor the bread for the next day, and then I called Cheney Brothers, which was our local supplier purveyor for everything else. Right. From brooms and mops to chemicals, to silverware to the steaks or the fish or the vegetables. You know, here's your, here's
+
+0 (11m 26s):
+A chlorine bleach and here's your fish.
+
+5 (11m 27s):
+Right, right, right. So everything came on as you point out. Everything came on one truck. I mean, that was it. Hmm.
+
+0 (11m 34s):
+So I, I guess eventually you, you started leaving Florida in the summers to work in kitchens up north and, and I guess you spent a few summers in Rhode Island, and I read that your fir your first job up there was, this was like 1976 at a restaurant called the Clark Cook. Clark Cook House. Is that right? Yep.
+
+5 (11m 52s):
+And the way that we did things there for me was, was very exciting, you know, I mean, to get a leg reveal, seam it out and make scallopini out of it, you know, over a period of the entire day. Right. That's how long it took to do that was fascinating.
+
+0 (12m 6s):
+You were on a, on an alliance, you'd a station, like you would get one job. Exactly. Yeah.
+
+5 (12m 10s):
+Yeah. You have six individuals on the line, all of them with different disciplines. Right. You had your sas, your pae, your, your anier, but focused on one goal Right. Was to get to the chef, what he needed when he needed it so he can give it to the guest. Right. And that really started, kind of started to, for me, mold this idea of, of running a sports franchise. You know, one of the things that I had hoped to do at a young age, and that's in my, my early teens, late tweens, was to play baseball,
+
+0 (12m 40s):
+Like play professionally.
+
+5 (12m 41s):
+Yeah. I mean, you're 12 years old, you're 11 years old. Your your dream is to be, you know, Willy Mays or something like that. And I found that that same kind of environment, that same kind of teamwork, that same kind of focus that are required in a baseball team in a kitchen. Yeah.
+
+0 (12m 56s):
+So I guess the next summer, summer of 77 was really kind of the beginning of your transformation into becoming eventually a chef. Because there was a restaurant in Rhode Island called the Dunes Club, and they had a chef there from Leon, the, the capital, the food capital of the world. Right. I mean, Leon France. And he, this is a guy who you just kind of,
+
+5 (13m 18s):
+He idolized.
+
+0 (13m 19s):
+He idolized, yeah. He became like a mentor. This, his name was Roland Anan. Ean
+
+5 (13m 23s):
+Henan, yes. Henan Henan, yeah. Roland, who was a very intense chef, somewhat intimidating, extremely powerful. It was a chef that you actually felt his presence Hmm. Before he walked into the kitchen. I mean, you, you just knew he was in the building for some reason. Hmm. And he came to me one day and he asked me that he, he said, you know, Thomas, do you know why cooks cook? And I'm trying to answer the question. I don't really know how to answer the question. And he answered it for me. He said, cooks cook to nurture people. At that moment, I realized in my heart that I was a nurturer. That this is what I wanted to do.
+
+5 (14m 4s):
+I wanted to nurture people. And no, there's no better way to nurture people than becoming a chef. Yeah. He was a French chef. He was somebody I admired. And so I followed his path. I wanted to be like Roland Hennon at the end of the day, I wanted to be like him. Hmm. When he suggested that I go to France and do an internship in the great restaurants in France.
+
+0 (14m 26s):
+But you wouldn't do that, you wouldn't do that for a few, another few years, I think.
+
+5 (14m 30s):
+Exactly. But it was by focus. I wanted to go to France from the beginning. It took me three years to get there.
+
+0 (14m 37s):
+Okay. Got it. But, but in the meantime, you, you went back to Florida and you actually helped two investors open a restaurant as the head chef. I think this is your first head chef job, but I think that enterprise failed pretty quickly, like, like maybe even within a year. Right? Yeah.
+
+5 (14m 53s):
+You know, I mean, primarily none of us had the experience of running a restaurant. The, the two gentlemen who actually owned it and, and opened the restaurant and funded it, were not from the hospitality profession, not from the restaurant profession whatsoever. Did
+
+0 (15m 7s):
+Like a carpentry shop. Right. One
+
+5 (15m 9s):
+Of 'em had a carpentry shop, one of them was a flight attendant. Right. And, you know, they always had this dream of opening a restaurant. And of course, you know, everybody thinks opening a restaurant's easy, you get the right chef. Right. You get the right location, you serve the right food, charge the right price, and you're gonna be successful. Done. And we, relatively quickly, I think within a year, you know, we closed the restaurant and it was heartbreak because they, they, the two young men who opened it and financed it, you know, they were relying on me as their chef. Right. To produce a menu. One that they, that they would put us on the map and that just didn't happen.
+
+0 (15m 44s):
+There's a line in, in a book called The Soul of a Chef by Michael Ruman. He writes in his book that after the failure of that restaurant, you, you can imagine like the movie scene with like the tracking shot and the music. And it says Keller returned to his itinerant life, you know, as a itinerant sort of a traveling chef. Right. And, and you did this for a number of years into the early eighties when, and eventually I guess ended up in upstate New York at a, a seasonal restaurant, a French restaurant
+
+5 (16m 13s):
+Yeah. Called Lari. So, right. I went to work for another French chef who just opened his restaurant in Lake Park, Florida, which is, you know, just north of West Palm Beach. And he introduced me to his friend who owned a restaurant in Catskill, New York. I was on the side of a, a small mountain next to a flowing river, and the name of the restaurant was Lari. And so Renee and Paulette, Renee was the husband. Paulette, of course, brought me to Lari. And it was just a wonderful experience for me working with Renee and Paulette and, and Mimi who was Paulette's mother. I was the only person in the kitchen except for a helper and a dishwasher and Paulette's mother who would, who would shuck my hair cove or peel my shallot for me, you know, while she was watching Wheel of Fortune upstairs, which is where they lived.
+
+0 (17m 3s):
+Lisa, you did all the cooking. So you had one prep person to cook for like 50 to hundred meals a night.
+
+5 (17m 11s):
+Exactly. And, and so you had to be really organized, right? I mean, the organization was key. The establishing efficiency in the menu was key. It was really exciting. I mean, trying to develop menus that allowed you as the single culinary in the kitchen to prepare for anywhere from 30 guests to a hundred guests over a period of three or three and a half hours. It was, I was, I was on the baseball field. I mean, this was, you know, we played a baseball game every night. We played the World Series every Saturday. Yeah. And then you started to extend yourself and express yourself in different ways, whether that through a new technique on dessert that you read from Jacque Pepper's LA technique cookbook, or we had a small garden.
+
+5 (17m 57s):
+Was it a time where we smoked our own salmon? I mean, all of this different things that were part of this burgeoning culinary culture in America that was happening everywhere around our country. Right. I was embracing the opportunity at LA and trying to execute it at that high level. Yeah. I mean, the rabbit story, the rabbit story comes from la that was a very important moment in my life. Right. Killing 12 rabbits. What, tell me the story. So I had a butcher. We had a, actually we had a farmer that raised rabbits. And every week I bought 12 rabbits from him. Of course, they would come butchered Right. And dressed. And I asked them one day, I said, would you mind bringing the rabbits living and show me how to slaughter a rabbit?
+
+5 (18m 41s):
+Hm. I thought I was a chef. These are things I should understand. Right. The, the slaughtering of, of an animal, even though it's a very small animal. And he said, okay. He brought 12 rabbits the next week in a cage, and he reached inside and he said, the most important part of this process is make sure that you grab both of their high hen legs at the same time. Right. You wanna make sure that you, you get that secured in your hand. And then he picked it up, cracked its skull Oh. And took his knife out and then gutted it and skin did. And that was it. Wow. He said, there you go. And he left. And he left. I'm like, okay, shit. What am I gonna do with this 12 rabbits?
+
+5 (19m 21s):
+So of course now I'm looking at this and I need to kill 11 rabbits because I needed these for my menu this weekend. And I reached inside the cage and I made the fatal mistake of not having securely, you know, embraced both of the legs in my hand. And by not doing that, the rabbit immediately responded by trying to jump. Right. That's what rabbits doing. Our hin legs are the strongest part of the animal. It's the strongest muscle. And what happens now, because I'm holding one leg and this other leg is loose, and he, his reflexes are jump, it snaps the leg I'm holding, and the rabbits screamed. I mean, it was just, it was, it was one of the most bloodcurdling sounds.
+
+5 (20m 3s):
+Hmm. It was so loud that Renee and Paulette came out of their house, which was probably a hundred yards away to see if there's something that happened to me. And of course, you know, I was, I was traumatized. And now I had to really take mercy on this poor rabbit and, you know, and kill it. And got through that first one. And it took me a while to get through the next one, the next 10. But I did it. And, and what it did for me, yes. I mean, it was brutal, you know, but it's understanding that these animals had, you know, sacrificed their lives to nurture us. And the sense of respect that I garnered from that was immediate and complete to the point where I'm thinking, you know, if I'm burning a piece of bread, there was a farmer who planted the weed, harvested the weed.
+
+5 (20m 53s):
+There was somebody who milled the weed. Yeah. There was somebody who made the bread. It's like, I'm, I'm, I'm, I'm diminishing their life by not taking care of the products that we have in our restaurants, whether it's a live animal or whether it's products that are grown or produced for us. And so this high level of respect for food really en enveloped me. Yeah.
+
+0 (21m 14s):
+All right. So you, you spent three summers at, at Lari, and, and eventually you found your way to New York City, which was definitely the place to be for a young, up and coming chef in the early eighties. And you worked in a, in a bunch of different kitchens there and won't be able to talk about all of them, but, and you cooked at, at the Polo Lounge, which was, which was kind of a proving ground Right. For elite chefs at the time. And then, and you also met a restaurateur in New York named Surge Rule. And I guess he would become a really important partner, and, and eventually he would hire you to be, to be the chef at a restaurant in downtown called Rauls. Right,
+
+5 (21m 49s):
+Exactly. On Prince Street, which was, you know, before soho was soho, Serge had opened Raul with his brother. Gee. And Gee was the chef, and Serge ran the restaurant. And to be able to get a job at Rauls, which is a very, very busy restaurant, French Bistro, classic French dishes, was something that was very exciting for me. And I jumped at that opportunity. I'm gonna go be the chef at Rauls. Yeah. Unfortunately, gee left fairly quickly, so there was no transition. Right. I didn't have the opportunity to learn to be mentored by a previous chef. Yeah. Which really impacted me. And I made sure going forward that that wasn't gonna happen had I ever opened my own restaurant. This idea of transition became really important for me, because that was the biggest failure for me at Raul's.
+
+0 (22m 35s):
+Meantime, you were still thinking or plotting how to get to France, right? Like you were still
+
+5 (22m 40s):
+All the time
+
+0 (22m 41s):
+You were in New York, but you were still trying to figure out, how do I get to France to do asage like a, an apprenticeship?
+
+5 (22m 46s):
+Right. That would be my college, that was my education. That was my finishing, that was my mba.
+
+0 (22m 51s):
+Yeah. You would end up spending about a year, a little over a year there, I think, in working in different restaurants. Yeah. Yeah. And what was it like, I mean, you'd work for some of these incredible kitchens, Michelin, three star kitchens. I mean, and presumably you were the only American in a lot of these kitchens with limited French. Was it, I mean, it sounds like that wouldn't be easy.
+
+5 (23m 13s):
+No, but you know, for me it was, there was never a fear. Right. I just got on the plane and went and ended up in this small kitchen in aoi, which was, which was really horrible. I mean, I come from the polo lounge. Yeah. I mean, this is, this was some of the most cutting edge cuisine in America. And I go to this kitchen where, you know, the lights are still on, on, like, on wires hanging, hanging down from the ceiling. The floor is always wet. And the room, I stayed in the window was covered with what I didn't know at the time, covered with, with soot from coal. And my first job in the morning for the, the only three days I was there, was to fire the ovens with the coal.
+
+5 (23m 56s):
+I mean, this was, I was going back in time, you know, a hundred years. And I'm going, why am I here? I just came from the polo, and within three days, you know, I snuck out the back door and I got on a train and went to Paris. Wow. And, and the rest was history. And I just started calling people. I had this huge file, and I just started asking for help and just sending my resume out and finally getting a job. And once you got your first job and you did a good job, then the chef would help you and refer you to his colleagues. Yeah. And so, you know, going from one to the next just became part of my life through that year. Plus,
+
+0 (24m 30s):
+Thomas, what were you, what in your mind were you chasing, right, as a, you're now getting close to 30 and obviously you're working towards something, and was it to be, presumably to eventually come back and start your own restaurant with your own vision? But was it also to like, learn how to become the best chef ever? I mean, I don't know what Yeah.
+
+5 (24m 53s):
+Education, education, education. That's, that's what I was going for. This was my graduate school. And when I finally got to France, I had amassed, you know, a certain amount of skill, knowledge, experience that really helped me look beyond and learn beyond just the fundamental things that happen in a French kitchen. Right. What are the nuances, right? What are the details? How do they actually make their stock? And why do they make their stock like that? So the refinement of the processes that are executed in, in a true three star mission restaurant, I became privy to. I mean, I would go, you know, after coming back from lunch every day at Talia, you know, I would go upstairs with the pastry chef and make the marqui Charla the most famous dessert of that restaurant at that time, which was one of the most famous restaurants in all of France.
+
+5 (25m 45s):
+And most young sta years. Didn't even get to see the pastry kitchen.
+
+0 (25m 49s):
+Yeah. You know, I mean, you come back to New York, you're 30, almost 30, around 30, and obviously with all of these skills now under your belt. And, and I have to assume you came back to New York with a goal of finding a partner to open a restaurant, and you would, it would take you about two years. But in the meantime, you went to work as the chef to cuisine at a restaurant called La La Reserve. It was a high-end French restaurant. And you were, you were eventually fired. You didn't see eye to eye with the owner. What, what happened there?
+
+5 (26m 25s):
+Well, I came back from France with a certain arrogance, you know, a certain expectation. And it wasn't always aligned with the owner. And my purpose was to bring back to America these techniques, these compositions. Right. The purpose of the modern French cuisine. And he wasn't of that, of that genre. He wanted to have a very classically run restaurant. And so he butted heads. And I didn't realize that I was threatening his position. He was the owner. And he didn't let me do that for very long until he terminated me.
+
+5 (27m 4s):
+Hmm.
+
+0 (27m 6s):
+You at the time had a reputation for being a yeller in the kitchen.
+
+5 (27m 11s):
+Emotional,
+
+0 (27m 12s):
+Emotional. Yeah. And, and that's not uncommon, right? I mean, there's obviously, there's the sort of the caricature of the chef throwing pans at people's heads and stuff, and Marco Pier White and all these sort of stories Sure. Right. Of
+
+5 (27m 24s):
+Our culture.
+
+0 (27m 25s):
+Right. You, you don't have their reputation today, of course. But tell me about where that come from. Was it, was it the pressure to, to be the best? Was it expectations? Was it, I don't know. I mean, because ultimately if your kitchen isn't working well, it's, it's your failure as the leader of the kitchen, right? Yep.
+
+5 (27m 45s):
+Yeah. A hundred percent. So it comes down to your purpose, right? My purpose as a chef is to give the guests this experience. Yeah. And in a restaurant, there are many people that are part of the process from the prep cooks, the Comey, the butcher, everybody that's involved in preparing the food. And then you have all the service staff. So there are a lot of people in between me and my goal. Yeah. And if, if something goes wrong or somebody makes a misstep in that process, then that's where I got upset. And I expressed that, you know, in an emotional way, which is not necessarily a positive way that wasn't gonna get me to where I wanted to be.
+
+5 (28m 26s):
+I mean, if I sit there and yell at you because you've done something wrong, you're not gonna necessarily understand what you've done wrong because you're feel you're feeling insignificant. Yeah. If I whisper in your ear and say, you know, you really disappointed me, and this is what you need to do to do better, then I, I get a better response. So, yeah. But I didn't approach it in the proper way, and so eventually I failed. And that's on my shoulders. Yeah. Right. That's on my shoulders.
+
+0 (28m 50s):
+One of the, one of your, I mean, you finally had the chance to once again open your own restaurant. You did, you had done it in Florida in your twenties, but that doesn't really count. I mean, this was different. This was gonna be a joint venture, a restaurant that you were gonna be a co-owner of. And it was Raquel that you were gonna do with Sergio who, whose restaurant you had worked in a few years earlier. And he was gonna finance this restaurant. The two of you were gonna work together and open it up, and it, it became successful. I mean, it became a quite a, a well reviewed, well regarded restaurant. And this was kind of, I guess, your dream, right? I mean, you, you finally had this opportunity to build the restaurant that you wanted to work in.
+
+5 (29m 31s):
+Absolutely. Debbie and Raquel was that, I mean, it was New York City, SJ and I became very close friends, and we named it Raquel after Raul and Keller, which was gonna be a contemporary American, American French restaurant. Yeah. A bit elegant, refined in a way, but also have a little bit of the downtown sense of casualness to it.
+
+0 (29m 53s):
+Like a lot of people don't, I think a lot of people don't realize is that the sh head chef of a restaurant is, is like, you're like the director of a film. Right. You're essentially overseeing everything and there's a lot of moving parts cuz you're not just cooking in the kitchen. And I have to assume you were cooking in the kitchen every night. You were in that kitchen. I was, yeah. But you're also like, once service ends, you're preparing for the next day. Like, you're not going home until one, two in the morning.
+
+5 (30m 19s):
+Pretty much. I mean, it was, it was your, your consumed commitment. A hundred percent. And my biggest mistake at the time was I, I thought I could do everything. And I realized after the failure of Raquel that I needed to have support, I needed to have people around me.
+
+0 (30m 34s):
+Well, you're, yeah. You've, you've jumped ahead a little bit, but Yeah, Raquel didn't last. But before we get to why, I'm just, I'm curious about the lifestyle, right? Because you're still young at this point. You're in your early thirties, but still it's grueling. Like, I, I read an account at the time that it was like, Keller works six days a week, 12 to 14 hour days. And then on his one day off, he sort of gets some barbecue, picks up some smoked salmon, watches a baseball game, and then collapses by nine. Right. Did you ever get like, I don't know, depressed or sad? Or did you ever have moments where you're like, I can't, I wanna get off this hamster wheel?
+
+5 (31m 12s):
+Not at all. It's what I wanted to do. Hmm. I was all in. I wanted to be one of the best French chefs in America and I wanted to be successful. Was I sad when Raquel closed? Was I disappointed? Was I crushed? Yes.
+
+0 (31m 27s):
+Why did it close? What, what happened? I mean, it got great reviews in the New York Times. I mean, of course there was a financial downturn in the, in the late eighties, early nineties. But that can't be the only reason why. There must have been some failure in the execution or the managing of the restaurant too.
+
+5 (31m 44s):
+No, it was the managing of the restaurant. I mean, there's lots of, there's never one reason that a restaurant or business closes. Yeah. Right. It's a number of different things. So certainly the downturn in 1989, the economic crash, that certainly was part of it. But at the end of the day, it was on my shoulders once again that I didn't understand the structure I needed to operate effectively and, and profitably. And that was making sure there were people who had skill levels that I didn't have that were part of the team. A general manager Right. Who really understood how to run a restaurant. Somebody in the financial side. Right. Somebody who's actually understood the revenue streams, what we were doing, what we were spending. Yeah.
+
+5 (32m 24s):
+So, so how could you not, are you really pissed off in yourself for not realizing this over a period of five years? I mean, you just spent five years of your life, of your career, of your partner's life and career and money. And ultimately it failed. It threw me into a place where I was questioning my, my career choice. I, this is, am I, can I, I'm a really good cook. Right. I may be a good chef, but I'm not necessarily a good businessman.
+
+0 (32m 49s):
+Yeah.
+
+5 (32m 50s):
+Anyway, I I, I didn't really have any, any opportunities that were becoming a parent in New York. So I ran away.
+
+0 (32m 58s):
+Yeah. So you moved to Los Angeles and get a job as a chef, which makes sense cuz you gotta pay the bills and the, the restaurant, the hotel, I remember this hotel, I mean, the hotel's still there. I think it's a Hilton now, but because I grew up in LA and it was a really Yeah, cool hotel called Checkers Hotel. And so tell me about what your charge was at that time.
+
+5 (33m 18s):
+So the Checkers job was just there and became an easy job or an easy opportunity, but not, you know, for long term career choice. Yeah. But to get me a new start,
+
+0 (33m 29s):
+You ended up, I think staying there for about a year and you had a, a conflict again with the new owners. Yep. And they, they fired you. Yep. I'm gonna ask you a question not to pile on here. That's
+
+5 (33m 41s):
+Okay.
+
+0 (33m 42s):
+That's a question that, that I would, I certainly have asked myself at times when I felt like I screwed up. I mean, was there ever a point where you thought, you know, maybe it's me that's the problem. Maybe I'm the problem?
+
+5 (33m 54s):
+Of course, in all honesty, I, there, there's still today where I ask myself that question. Hmm. We make mistakes every single day. Sometimes we learn immediately from those mistakes. Sometimes it takes us a little longer. We continue to ask ourselves the same question.
+
+0 (34m 9s):
+What you knew though, or what was probably becoming clear was that you couldn't work for somebody else. That you, you weren't there to realize somebody else's vision, that you had to probably run it. It had to be your vision.
+
+5 (34m 20s):
+Had to be my vision. Yes. No question about it. I mean, there was, that was, that was, you know, my goal was to own my own restaurant that was successful.
+
+6 (34m 30s):
+When
+
+0 (34m 30s):
+We come back in just a moment, Thomas struggles for nearly a year and a half to pull together the money to buy the French laundry. The restaurant that will change everything for him. Stay with us. You're listening to how I built this.
+
+Squarespace (34m 49s):
+You know, I talk with so many business leaders who use Squarespace as they're all in one platform for building their brand and engaging customers online. Squarespace lets you easily create a dynamic website and sell anything your products and services, even the content you create. Squarespace makes it really easy to get started with best-in-class website templates for all types of businesses that can be customized to fit your specific needs. Squarespace also provides the tools you need to run your business smoothly, including things like inventory management, a simple checkout process, and secure payments. Whatever you sell, Squarespace has merchandising features to make your products look their best online. And with Squarespace email campaigns, you can build a community of email subscribers and customers. Start with an email template and customize it by applying your own brand ingredients like colors and logo. And once you send built-in analytics, measure your email's impact, check out squarespace.com/built for a free trial. And when you're ready to launch, use offer code built to save 10% off your first purchase of a website or domain.
+
+Justworks (35m 58s):
+Hey, small business leaders on how I built this. We hear all about how founders have built their companies from the ground up. And today's sponsor, Justworks makes it easier for you to start, run and grow a business. Let me tell you how Justworks can help your business. Whether you're looking for help with payroll benefits, HR tools or compliance. Justworks has you covered. And Justworks makes it simple to hire and manage remote employees across all 50 states. It's cloud-based platform enables managers and employees alike to quickly and securely access benefits, payroll and other HR functionality from anywhere, anytime. Justworks also believes that it's your right as a customer to have a phenomenal service experience every time. Whether you have a question about setting up benefits, paychecks or anything else, their team of experts is standing by 24 7 ready to guide you. Learn more about Justworks and how they can help you get more done by visiting justworks.com/podcast. That's justworks.com/podcast.
+
+0 (37m 6s):
+One more thing before we get back to the show, please make sure to click the follow button on your podcast app so you never miss a new episode of the show. And it's totally free. Hey, welcome back to how I Built this. I'm Guy Raz, so it's around 1992 and Thomas Keller is living in LA between jobs and kind of at loose ends,
+
+5 (37m 36s):
+You know, and trying to make a living doing whatever I could. Starting an olive oil company called Evo at the time and standing basically at the end of the aisle of like the grocery stores. Gelson's, you were
+
+0 (37m 49s):
+Literally the guy there at the table like pouring olive oil for people. Yeah.
+
+5 (37m 53s):
+Wow. Yeah, I had little pieces of baguettes. Right. And, you know, offering people a taste of the olive oil as they, as they walked by Wow. On their grocery tour.
+
+0 (38m 1s):
+But you were like two years before that on the, on Food and Wines, 10 best Young Chefs in America. And did people, anybody ever be like, wait, aren't you Thomas Keller?
+
+5 (38m 9s):
+I don't know if anybody recognized me at that point. Yeah. You know, you do what you have to do. I mean, you, you still have a, you still have a vision, you still have a goal, you still have your aspirations, you still have your hopes. I just needed to find a way to achieve that. So standing, you know, at the end of the aisle is at Gelson's, you know, on a Sunday afternoon. It wasn't demeaning for me. The purpose behind it was the semi olive oil to semi olive oil meant that I had money. Yeah. Which meant that I can continue pursuing my dreams. Right? Yeah. I wasn't gonna go work for somebody else. I was, I, I was liberated by the work that I had to do to a certain extent, which allowed me to think about what I was gonna do in the future, even though I had no future, had no money and had no prospect of a future.
+
+0 (38m 48s):
+Yeah. Tell me about how you, so you're, you're kind of in this interregnum period where you're doing freelance work as a chef and trying to start an olive oil business. And I guess you hear about a restaurant that is in Napa, in Ville called the French Laundry, and that the owners were looking to sell it. Tell me how you first heard about this restaurant.
+
+5 (39m 14s):
+So I'd heard about the French Laundry, you know, before even when I was in New York City at Raquel, I had heard about the French Laundry. And when I went to Napa, I was dating a, a woman in Los Angeles who was a wine broker who would have to go to Napa Valley. And I was, we were driving up one day and we drove through ya, Phil stopped at the French laundry, walked around the property. It was the day they were, they were closed. And I fell in love with it. I said, this is it. This is my destiny, this is my fate. This is what I wanna do.
+
+0 (39m 44s):
+Right there, right then and there.
+
+5 (39m 46s):
+Right then and there. Right
+
+0 (39m 47s):
+Then and there. Right. And it was not a fine dining restaurant, it was a very good restaurant, but it was like local seasonal cooking.
+
+5 (39m 55s):
+If I could say it was very, very similar to, to what Alice was doing at at Chez
+
+0 (39m 58s):
+Panis. At Chez Panis. Okay. Right. Yep.
+
+5 (39m 60s):
+It was one menu a day,
+
+0 (40m 1s):
+Farm to table. Yeah,
+
+5 (40m 3s):
+Exactly. All of that. But 1992 is when I first discovered it and yeah. You know, fell in love with it and actually called the schmitz, I think when I got back to LA the next week and said, I'd like to come up and meet you and talk to you about buying your restaurant.
+
+0 (40m 18s):
+Hmm. And the Schmitz were Don and Sally Schmidt, the owners who had run this restaurant for like 12 years at that point. Hmm.
+
+5 (40m 25s):
+Yeah, they opened in 1978. Okay. And of course I went back up, we had a nice chat. I remember Sally making me a tongue sandwich in her kitchen next door where her house was. And we agreed that I would be the person to buy the restaurant.
+
+0 (40m 40s):
+Wait, stop. How did you, did they, was it just that there weren't many people like it was for sale, there just weren't that many people interested? I mean, they agreed with you that then and there that they would sell it to you.
+
+5 (40m 50s):
+It's a really remarkable story I brought with me my whole portfolio of, of my career. Right. All the articles have been written about me. Yeah. The ideas that I had, and they embraced them and they said, great. Go raise the money and we're happy to sell you our restaurant.
+
+0 (41m 7s):
+How much did you have to raise?
+
+5 (41m 8s):
+We had to raise 1.2 million. That
+
+0 (41m 11s):
+Was their price.
+
+5 (41m 12s):
+That was their price.
+
+0 (41m 13s):
+And how much did you have in savings?
+
+5 (41m 15s):
+Savings? I didn't have anything in savings. Huh? I was living week to week just trying to make my house payment, or my car payment, or my insurance payments or anything that I needed.
+
+0 (41m 24s):
+So when they said 1.2 million, you didn't flinch at that. You didn't think, how am I gonna do this?
+
+5 (41m 30s):
+I don't know what I was expecting. Maybe I was expecting them to say, here, take the restaurant, you run it, you know, you're Thomas Keller, you've done all these things before then we we're happy to sell you the restaurant, but for the time being you take it, huh? They know I didn't have any money. We went into escrow on a 1.2 million property for $5,000.
+
+0 (41m 48s):
+You gave 'em $5,000 is is a down payment.
+
+5 (41m 51s):
+$5,000 a down payment, which I had to scrape together. But in the meantime, before that, before we went into escrow, I had to now find somebody who was gonna represent me as an attorney to, to actually do a, a business plan. Yeah. A partnership agreement. The escrow agreements and the purchase agreements. And I went to see an attorney in Los Angeles whose name was Bob Sutcliffe. You know, I gave him like this whole pile of information that was my version of my business plan. And he looked at it, he was, he was somewhat impressed. And he said, okay, for $60,000 I will draft these agreements for you.
+
+5 (42m 31s):
+Yeah. And I said, I don't have any money, it's, can you do it on speculation? And I opened up my briefcase and the only thing that was in my briefcase on that day was a bottle of our extra virgin olive oil that I was producing. Hmm. So I put that on the table, I said, this is what I'm doing now. This is how I'm gonna fund this. And he was even more intrigued. He said, okay. He said, if you pay me $5,000, I'll do this on spec. So now I have to raise another $5,000.
+
+0 (42m 60s):
+Yeah.
+
+5 (43m 0s):
+Which came in the form of going to the ATM machines every week and withdrawing as much cash as I could. And then that began the process of drafting all the agreements and the process of me starting to try to raise the money.
+
+0 (43m 15s):
+I think it took you almost two years to raise the money.
+
+5 (43m 20s):
+Yeah. 18 months.
+
+0 (43m 21s):
+And during that time, there was no possibility that some other buyer would swoop in and just offer them cash. And, and that's it. That'd be end of it. I
+
+5 (43m 29s):
+Was that I was terrified every single day. I woke up with that idea in my mind that somebody else with more credibility, with more experience, somebody who was better than I was, was gonna just reach out to the schmitz and buy the restaurant. I woke up every single morning without, on my mind, for 18 months and I had to continue over the period of time to convince Don and Sally that I was the guy. Yeah. Right. That I was actually gonna make this happen.
+
+0 (43m 60s):
+And how did you do that?
+
+5 (44m 1s):
+Well, we built a, a, a strong bond, a strong relationship through just communication. Yeah. They believed in me. And they're counting on Thomas Keller to actually do this. A guy who has certainly a checkered past in his ability to operate restaurants. Right. Yeah. The failures that he is had, but yet they believe that I can do it. And that also motivated me to great ends to do everything I could possibly do to execute this. Not just for myself, but for them. Huh.
+
+0 (44m 34s):
+Did you have a hard time convincing investors to back the project? I mean, because 18 months is a long time. I mean, of course not that long in the grand scheme of things, but still, like it is, restaurants are inherently risky and, you know, what was the, the response you got from people when you called them up with your cup out asking for cash?
+
+5 (44m 54s):
+Yeah. I'm not sure if you've ever called people that you don't know and asked them for money.
+
+0 (44m 59s):
+Yes. Yes I have. Yeah.
+
+5 (45m 0s):
+It's a really difficult thing. Yeah. But in, in many ways it's also, it's also very exciting Right. To convince somebody who you do not know that the project that you're embarking on has, has merit and so much so that they're gonna write you a check. Yeah. But I, I had drafted a 10 page brief to share with two individuals that I thought would be a good benchmark for investment. The these two gentlemen, both owned wineries, both came from financial background and I gave each one of them a copy of this brief. Right. Would explain the French laundry, my vision, how much it was gonna cost.
+
+5 (45m 42s):
+The next day they came down, I turned to Michael. I said, Michael, what do you think? And he said, it's a horrible idea. It's never gonna work. It's too expensive. People in Napa Valley don't want that kind of restaurant. Forget about it. I was crushed. I was just crushed. I was like, shit, what am I gonna do? I turned to Bob and Bob said, great idea. Let's do it. That's all I needed. Wow. That little bit of encouragement that led me, again to really pursue, you know, with the total commitment to buy this restaurant. Yeah.
+
+0 (46m 16s):
+You even had some investors, I guess, who, who offered to back the restaurant, but they wanted control.
+
+5 (46m 21s):
+Yeah. There was one investor who offered to bankroll me all the way, and I was sitting in the garden at the French Laundry with him at the time, and he said, but I want control over everything that you do in, in your future.
+
+0 (46m 35s):
+He wanted a stake in everything you did in your
+
+5 (46m 37s):
+Future. Everything I did in the future.
+
+0 (46m 38s):
+So he would give you the money for this restaurant, but then he owned a part of you forever.
+
+5 (46m 44s):
+Exactly. You know, actually I, I felt I was like talking to the devil for a moment, even though he was a friend. Yeah. And I was fearful because if he was gonna do that for me, would you do it for somebody else? Right. If Thomas Keller said no, would you go out and get another chef? Yeah. So I had to go to Dot and Sally and explain it to them and they said, don't worry about it. We're supporting you. Which was again, you know, a great encouragement and made me feel really safe in my endeavor.
+
+0 (47m 11s):
+I mean, it's stressful cuz you're vulnerable. Right. And this somebody who's got a lot more, you know, means and resources, essentially, you're thinking in your head, okay, this guy's just gonna find another person like me and just replace me and back this thing and that restaurant's gonna go to to him.
+
+5 (47m 25s):
+Yep. So th this was a da this was a daily emotional challenge for me. Yeah. Is is is the feeling of this. There was something, you know, again, there, there's so many stories that are wrapped around purchasing the French Army, but there was, again, significant things that happened. There was a article in the New York Times, and I, I didn't really read the article because the headline of the article became really important to me. And the article, the headline was, having a dream is hard living, it is harder. Hmm. And I, I really, you know, I thought that was me. I cut that out. I still have that in my office today, but I put it on my little makeshift desk in my small apartment Hmm.
+
+5 (48m 5s):
+In Los Angeles. And, and that became, you know, something I read every morning when I started making phone calls to strangers to ask them if I could send my business plan to them, that they would invest in the restaurant. Yeah. And I used to go up ev on weekends to have open houses at the French Laundry. I would invite prospective investors to come. I would make my little coronet. I had slideshows of what the menu looked like.
+
+0 (48m 30s):
+Your cornets were the little mini ice cream cones filled with like salmon and
+
+5 (48m 34s):
+Yeah. Salmon tartar and, and red onion cream. Yeah. I'd have the menus there. You know, I would take people around trying to convince them that this was, this was gonna be a place where they wanted to invest.
+
+0 (48m 46s):
+All right. So May 1st, 1994, you had raised 1.2 million, the money you needed to buy the French laundry. And I think you had like something like 50 or 60 investors, mostly small investors and, and maybe a few loans. Right. So you get the money, you buy it. And when you finally opened up, which was I think a couple months later, how was it? What, like, was there a wait to get in?
+
+5 (49m 11s):
+It was a catastrophe. Wow. Total disaster. July the night of July 6th was, was the day that you wanted to forget. In fact, Ron Siegel, one of our, our chefs at the time, when he won the award for Best New Chefs, he was asked the question, what was, what was the most difficult or what was the most memorable night you had in opening a restaurant? And he said, the night we opened the French laundry.
+
+0 (49m 38s):
+Hmm.
+
+5 (49m 38s):
+It was like the sinking of the Titanic. It wa it was catastrophic, miserable, and last all night long. You know, I had not cooked for close to two and a half years. Hmm. We didn't have the money, you know, to spend a month on development, r and d development, training, all those different things that we do today. We opened the restaurant, I think the day before I was shoveling gravel in the parking lot. Hmm. There were several nights that we worked on producing the food, but actually putting it together in compositions. I knew what I wanted. We talked about it, but we never practiced or we had very little practice. Hmm. But the next night we modified everything.
+
+5 (50m 19s):
+We bought some more equipment, some more tools that we needed. And we opened on July 7th. And John Mariani, who was one of the most significant food critics in that period of time, he wrote for Esquire magazine, Esquire magazine. Every November published their 10 best new restaurants in America. And on the second night, John Mariani came into the French Laundry. Wow. And that November, we were one of the 10 best new restaurants in America. And that was just how dynamic we were. And we became, I mean, that became a cornerstone of what we do and changing the menu every single day. That's where it all began was that second night, that first night.
+
+5 (50m 59s):
+Every night. From that point on, we've changed the menu at French Andre and per se,
+
+0 (51m 3s):
+Tell me about what you were serving and, and what, where did you get your ideas from? I mean, you had a dish I think early on, which is still, I think one of your most famous dishes called Pearls and oysters, which is caviar oysters and tapioca feeders.
+
+5 (51m 21s):
+Oysters and pearls is the name on, on the menu. And I, I'm happy to share where that came from. Sure.
+
+0 (51m 28s):
+Because you still, it's still on your menu to this day. Yeah.
+
+5 (51m 30s):
+It, it's, it's one of those compositions that, you know, you're required to keep on your menu cuz people have read about it so much. You can't disappoint them by not having that dish available to them. It's like going to a Rolling Stone rock concert and not, and them not playing satisfaction. I'm sure they're tired of playing satisfaction, but they played every single time because they know the fans want it. And the same thing with oysters and pearls. The guests really want to have that experience with that. But that was very simple walking down the grocery store aisle with, with a great sense of awareness and seeing a purple box that said pearl tapioca. And, you know, I picked it up and I asked them thinking, where do pearls come from? Where'd they come from? Oysters? And that became the inspiration for that dish. Right. And then you add the caviar to it becomes a complete dish in celebration.
+
+5 (52m 11s):
+Right. You have the, the oysters, you have the caviar, you have a glass of champagne. What better way to begin your meal than that kind of experience. Yeah.
+
+0 (52m 21s):
+I think early, very early on, maybe in like the first few weeks, you had an applicant named Laura Cunningham who would eventually become the general manager. And then your sort of life partner and professional partner and I think is like widely credited with helping you really kind of build this business out to what it is today. How did Laura come to, to your world?
+
+5 (52m 48s):
+Well, Laura grew up in Napa Valley. One of her best friends was one of the Schmidt's daughters. You know, she spent significant amount of time at the French Laundry as a young girl. She had worked for people like Jonathan Waxman. She'd worked for people like Jeremiah Towers. So she was semi in the hospitality profession. And she found her way to the French laundry because I was looking for somebody to help me understand the guest list that the Schmidtz had comprised. Mm. So she began by going through that process of just highlighting people's names and trying to identify who they were for me, she ultimately became the assistant manager at the French Laundry.
+
+5 (53m 28s):
+And then finally, six months later, she became the general manager. And I have to credit Laura with, with so many things. I mean, you're, you're absolutely right. Laura, you know, has been a significant, significant part of the success of the restaurant, but also in changing the way fine dining restaurants operate and the service that they provide. And that has been to casualized service in fine dining restaurants in, in America and around the world. I mean, she was somebody who had a strong belief in not having a formal dining room, but more a dining room that was more accessible between the guest and the service staff. And as our restaurant developed and became a much more intense experience, or much longer experience, that kind of casualness allowed our guests and our service staff to really create bonds and relationships, which has really blossomed into something that the French Laundry is known for and per se is known for.
+
+5 (54m 28s):
+People are surprised when they have dinner at the French Laundry and say how much fun it is.
+
+0 (54m 33s):
+Thomas, what you learned a lot of, a lot from the mistakes and failures that you had had up until that point. And one of the things with the restaurant business, even a great restaurant like Raquel, is the margins can be really thin. The cost of food is high. I mean, really, most restaurants make their money off beverages. If you're lucky, you get people buying very expensive wine. And what did you, I mean, knowing what you knew at that point, now you're, you're 40, you know, when you start the restaurant. What did you do differently that was going to ensure that this was going to work? Because obviously you've got great reviews, but you had had great reviews at Raquel too. So what was gonna be different here? How were you gonna manage it differently?
+
+5 (55m 13s):
+Well, it's, it is what I talked about when I realized the mistakes at Raquel. You know, there needed to be people in the proper positions that were experts in those positions that allowed me to just be a cook. Right? To be a chef. But
+
+0 (55m 27s):
+How did you find those people? I mean, well
+
+5 (55m 29s):
+Laura, Laura was one of the, one of the discoveries, right? I'm the, one of the discoveries of a lifetime. You know, so Laura ran the dining room, she ran the wine program. I mean, I know you think about that in its entirety of a young woman. I think she was 27 or 28 years old, running what was gonna become one of the most significant restaurants in America. And then finding somebody who had the financial capacity. A bookkeeper, right? Yeah. A really good bookkeeper who could keep us on track. And so that was the triad, that was the tripod, that was the three different departments that I needed to, to be able to succeed at running the French Laundry.
+
+0 (56m 8s):
+When we come back in just a moment, Thomas Keller learns how to become a restaurateur and eventually steps away from the daily heat of the kitchen. Stay with us. I'm Guy Raz, and you're listening to How I Built This.
+
+Burrow (56m 28s):
+Once a company knows what they do best, where do they go from there? Well, if you're Burrow the furniture company known for reinventing everything you thought you knew about furniture, you go outside. That's right. Burrow's new outdoor collection just launched with a strong chip resistant, galvanized steel frame and easy to clean fabric bro's. Outdoor collection is built for everyday use and to withstand the elements, the modern, sleek look and quick drying, plush foam cushions bring the comfort and style of indoors outside and the easy to remove cushions make for easy storage when you need to put it away. It's also customizable. Choose from 19 different configurations and purchase individual pieces or bundles to fit your seating needs. And as always, get free shipping on every order, which can save you up to $100 on large items. Like the outdoor furniture in this collection, how I Built This, listeners can get 15% off their first order at burrow.com/built. That's Burrow b u r r o w.com/built for 15% off burrow.com/built.
+
+0 (57m 34s):
+Most entrepreneurs are looking to solve a personal problem, and that's exactly what founder Amanda Bradford did when she created the league. It's a dating app designed to help driven career-oriented singles Meet their equal, both Warren Buffet and Cheryl Sandberg claim. The most important decision you can make for your career is who you marry. So when it's time to settle down, pick a partner who will support your goals and challenge you to dream big. Boasting one of the highest match rates in the industry. The league presents users with a curated batch of prospects each day, rather than an unlimited stream of profiles. Their wait list and vetting system is in place to build a community of people with like-minded standards and ambition committed to finding a relationship.
+
+0 (58m 19s):
+So you can save time, energy, and your swipe thumb ready to find the other half of your power couple. Download the league for free and meet your equal today. Hey, welcome back to How I Built This. So by 1995, just a year after it opens, the French laundry is getting rave reviews and Thomas is able to raise the money to build a new kitchen. I've read, and maybe some of this is apocryphal, but I think it's true stories about your, like perfectionism, just the cleanliness, which is great as a diner and restaurant, I want to be clean, but like things like that vegetables have to be blanched in rapidly boiling water.
+
+0 (59m 8s):
+Or that fish like the fish needs to be held so carefully as in the same position that it swims in order to, to not stress the flesh of the fish. How, why is that important? Why is that stuff important to you?
+
+5 (59m 25s):
+Well, you know, it's important to me because it becomes obvious if you just study it for a moment, right? If you take the fish as an example, right? And for years, right? Fish was laid flat. Yeah. And you're laying fish flat on ice. Yeah.
+
+0 (59m 37s):
+Tell you buy it and the fish and the fish monger,
+
+5 (59m 39s):
+Right? There's ice on the bottom and there's ice on top. Yeah. And so what, what is happening to the fish? You've got pressure, you've got weight on both the bottom filet and the top filet. Yeah.
+
+0 (59m 50s):
+It compresses it.
+
+5 (59m 51s):
+Yeah. So, so the shape of the ice is now affecting the quality of the flesh of the fish. But if you stand it straight up as it swims, there's no pressure on the flesh.
+
+0 (1h 0m 2s):
+What is so important to you about, I mean, I I hear you. And that's the fish I want to eat.
+
+5 (1h 0m 7s):
+So why is it important as your question?
+
+0 (1h 0m 9s):
+Yeah. The, the perf just that whole concept of being perfect because it can be overbearing too sometimes. No, it's
+
+5 (1h 0m 15s):
+Not. We wanna set the example for the next generation, right? Hmm. We wanna elevate the standards, not just of our restaurant. We wanna elevate the standards of our profession so that when people leave our restaurant, they go to some to, to their next, their next post. And they're taking something with them from the French laundry or per se, or wherever they're coming from. And they're helping, right? They're adding value to their next post.
+
+0 (1h 0m 43s):
+Yeah. You know, going back to an earlier question, given how challenging it is to turn a profit or a significant profit at a restaurant, obviously you have this restaurant, it's getting a lot of buzz by, I think within a, a year or two. It's named the most exciting restaurant in America by Ruth Reich, who was the most influential food critic in the United States for sure. But it still means that you've got a, I mean, to keep those margins, to have a big staff. I mean, you had to have a big staff because of all the prep required to produce, you know, like the, you've got an egg with custard in, it's a perfectly, like, I don't even know what the tool is, is that you take the head off the eggshell and it's, this perfectly looks like an Easter egg, but it has like deliciousness inside all these things.
+
+0 (1h 1m 29s):
+Yeah. How do you, I mean, was it, when did you realize that you had to actually expand your business? You needed to grow the business, you had to open up other restaurants.
+
+5 (1h 1m 39s):
+You know, funny enough, I didn't have to. I mean this is where, this is where the modern American chef, right? It's a dilemma. Yes.
+
+0 (1h 1m 48s):
+What
+
+5 (1h 1m 49s):
+Was the example before us in terms of business? We didn't have a path
+
+0 (1h 1m 54s):
+Was a restaurant and that was it. Right?
+
+5 (1h 1m 56s):
+That wasn't a path, right? It's like this is what you do to get to this point. This is what you don't do. You know, we were, we were the explorers. I mean we went out to cut the path. People were looking at us going, okay, that's what Thomas did. That's what Danielle did. That's what Rocco DiSpirito did. That's what you know, but why?
+
+0 (1h 2m 14s):
+But why did you do it? Why did you go, why'd you expand?
+
+5 (1h 2m 17s):
+Well, okay, so we opened the French laundry. Yeah. There were 12 of us in that restaurant total. None of us came from Napa Valley. I mean Laura came from Napa Valley. Yep. But most of us came from urban environments, which meant that we always had a place to go to after service.
+
+0 (1h 2m 32s):
+Hey, go to a bar
+
+5 (1h 2m 33s):
+Or go to a bar, go to a club, go to dinner, whatever. Right. We had opportunities to go somewhere else in Napa Valley when we closed and finished service at 10 o'clock. It's quiet. Everything else is closed at nine o'clock. Yeah. There was no place to go. But then we also realized that everybody in Napa Valley is in the hospitality profession. Yeah. If you work for a winery, you're in hospitality profession. Right. If you're in working for a hotel, you're in hospitality profession. Yeah. So we decided the best thing to do was to open a restaurant that was open until midnight. And as many decisions were made at that restaurant, the French Laundry, where so many decisions were made was sitting around the table at the end of service, not only defining our menu for tomorrow, but what would we do if we could, what would we do if, yeah, that's a very important question that we ask ourselves.
+
+5 (1h 3m 23s):
+And you know, one of the things we wanna do is to have a place to go to eat. And so it was obvious that we needed to open another restaurant and what would that restaurant be? So we all decided that it would be a French bistro because that's what we missed the most.
+
+0 (1h 3m 36s):
+And that became Buchan Buchan Bistro
+
+5 (1h 3m 38s):
+That became Buchan.
+
+0 (1h 3m 40s):
+Was there any, I mean, obviously not everybody can eat a French laundry. It's extremely expensive for most people. It's a huge expense to eat there because the cost to make that food is so high was part of the thinking behind bouchon to create a more affordable restaurant too, where people could try your food.
+
+5 (1h 3m 59s):
+I mean, obviously that that happened, but it wasn't in our thought like, well we need to do a less expensive restaurant. A b show's gonna be a less expensive restaurant anyway just because it's a bistro. Yeah. But I just wanna just comment, cause you said, you know, it's very expensive to make the food. I just wanna qualify that It's also we're buying ingredients which are extremely rare. Yeah. And, and produced or harvested or farmed or caught by extraordinary individuals. And yes, we could buy a cheaper salmon, for example, you know, if I said I wanna only spend $3 and 50 cents a pound for salmon, somebody would sell me salmon for $3 and 50 cents a pound,
+
+0 (1h 4m 35s):
+Get Norwegian salmon farms or whatever. Yeah.
+
+5 (1h 4m 38s):
+Is it gonna be what we want? Is it gonna be what we wanna serve? No. Which means I don't really ask my, I call them my partners, my my purveyors. How much something cost primarily because we've had relationships with them for 30 years or more. Yeah. And they know the standards of what we're trying to achieve. So they're, they're bringing us the best possible ingredients they have. And so is it my job to negotiate a cheaper price with them? Or is it my job to support them in bringing us the best ingredients they can? Yeah. And then actually the, the biggest expense is our, is our labor is our people who work for us. Right. Right. Giving them a wage that they have work life balance, giving them the benefits so they don't have to worry about getting hurt or getting sick.
+
+5 (1h 5m 23s):
+Right. They go to the hospital, they have insurance and they have vacations, and they have, they have opportunities to continue their careers in, in ways that, you know, are going to elevate the standards of, of their lives, their family's lives, their communities in our profession. Yeah.
+
+0 (1h 5m 39s):
+Yeah. No, I mean, I'm just, I'm curious, it, it it, like most people listening to this interview will not have been to the French Laundry. Right. Where whereas when we, you know, have power chits on, most people have had a cup of Starbucks. Right, right. And you know, especially now in this, I'm jumping ahead a little bit here, but yeah, we're sort of living at a time where the restaurant industry is under a lot of scrutiny, especially the fine dining part of the restaurant industry. You know, where people are sort of, you've got critics and you've got even some people inside the industry saying, well, what, who are we serving? You know, what is this ultimately about? And there's kind of been a movement lately in the last few years to democratize fine dining, to make it more accessible, to make it more affordable.
+
+0 (1h 6m 23s):
+What do you make of it?
+
+5 (1h 6m 24s):
+Well, it's fascinating that fine dining is always kind of picked on. Nobody's talking about how much it costs to buy a ticket and sit courtside at the Lakers game. Yeah. I mean,
+
+0 (1h 6m 38s):
+Or even sit in a bleach like not courtside.
+
+5 (1h 6m 41s):
+Right. Whatever, I mean,
+
+0 (1h 6m 41s):
+Just go into a, a football game, an NFL game, you're gonna probably spend 300 bucks on your ticket in parking alone. Right.
+
+5 (1h 6m 48s):
+So, so why is fine dining such a problem? I'm not, I mean, it's, it's a rhetorical question.
+
+0 (1h 6m 53s):
+Yeah. Yeah. I mean, I think the answer is cuz it's perceived to be elite for elitist. Right. For the elite. And, and, and I think it's fine dining restaurants. I mean the impact of those restaurants, what they do has a trickle down effect. It does have an impact on, on what other chefs do and how they think about cooking.
+
+5 (1h 7m 14s):
+Yes. So we run an elite restaurant, right. It's just like an elite athlete. These guys out in the football field or baseball field or the basketball court, they're, they're our elite athletes. They've worked their entire life to achieve what they do. They have god-given gifts. Right. But they've been chosen to do what they do and they're paid to do what they do because they're elite. It has nothing to do with being elitist. They're two different things. Right. We run an elite restaurant or we're not elitist. I mean, we want everybody to come to art restaurant. Yeah. We don't profess that we're gonna, you know, that it's gonna be there for everybody. Or that you can eat there every other week or every other month or every other year.
+
+5 (1h 7m 55s):
+Yeah. But when you are there, we want to give you something, and we talk about this all the time with our team because our team is there every single day. And complacency can become a problem cuz we're there every day. We have to remind ourselves that the guest that's coming tonight has been planning to come there for some time. Yeah. Whether it's a year or 10 years, they've saved their money or not saved their money depending on, on their economic wealth. But they are spending money and we wanna make sure that when they leave that restaurant, they have a wonderful memory for themselves that they take home. And that's memory that, that lasts with them for a long time. I can tell you some of my great experiences around the table in some of the greatest restaurants in the world, I can't tell you how much they cost.
+
+5 (1h 8m 40s):
+I can tell you the stories behind them. And those stories are dear to me and those experiences are dear to me. So what I think about how much I spent and what I receive for that, it's priceless.
+
+0 (1h 8m 54s):
+Thomas is kind of shifting a little bit. I want to ask you about the, just being a businessman, right? So 2003 French LA's named the Best Restaurant in the World by the World's 50 best restaurant list. And that's a controversial list, but still a means something. I mean, I think you were on there three times. I think you can't be on there more than three times and you win the James Beard War. I mean, all of these accolades start to pour in and in 2004 you go back to New York City to open a restaurant again, per se, which is still open, still very successful. Tell me about, you know, we can't get into all the different businesses. You, you have, I think you've got about seven restaurants and several bakeries and Las Vegas and, and New York and, and then you've got a bunch of different businesses and olive oil and flour and wine.
+
+0 (1h 9m 44s):
+I mean, I'm just touching on a few of them, but help me understand, like, as you started to really push out, like per se was the first really big push. It's a, you know, now a Michelin three star restaurant, very famous restaurant in New York City. You couldn't spend as much time in the kitchen and so you had to focus more on the business side of it, which isn't today what, primarily what you focus on. But at what point did you kind of make peace with the idea that you were not gonna be cooking?
+
+5 (1h 10m 14s):
+That's a really good question. But you know, I am in the kitchen every night that I'm home here in Napa Valley. Yeah. And I, and when I go to New York City, I'm in the kitchen every night that I'm in New York, I was just in per se, am I cooking? No, but you have to kind of understand the dynamic of the team. And again, if you use the analogy of a sports franchise, you know, Derek Jeter would love to play shortstop for the New York junkies tomorrow,
+
+0 (1h 10m 40s):
+But he's not gonna be Yeah.
+
+5 (1h 10m 41s):
+He couldn't walk out on the field and be a part of that team. He has to understand that his time is over. Yeah. So he needs to find a different thing. And that's kind of the same thing of my career and, and all cook's careers, right. Is we come in as rookies, we become seasoned players, some of us become franchise players. Yeah. And then eventually in the same way that Derek Jeter or you know, Joe Montana, they can't do it anymore. They have to retire. So it's heartbreaking for them as it as it is for me. But you have to find a different purpose. So again, you know, you find your way into the dugout Right. And you become the field manager. You find your way into, into the ownership and you become the general manager.
+
+5 (1h 11m 22s):
+You become an owner. And that's kind of what I'm doing today. And I do, I miss cooking, of course I do. Do I want to be 25 and, you know, working the the plus and yay station like I did when I was with Danielle Ballou at the Polo. Of course I do. Which is a struggle for me. I mean it just, I I, you know, I talked to my best friend who's one of my closest colleagues and one a renounced chef himself here in America. And we remember our first goal was to open our own restaurant. Yeah. We wanted to own one restaurant. Yeah. And then when we did that, we had more opportunity. We opened a second, a third, a fourth, a fifth or whatever. And now you know what we talk about today, him and I owning one restaurant. Yeah. Wouldn't it be nice to just own one restaurant?
+
+0 (1h 12m 3s):
+I mean, you could, for example, there are certainly many examples of this. You could lend your name to a restaurant chain, right? Yeah. And you know, Wolfgang Puck is an example. You can go to airports and see Wolfgang Puck restaurants, but he's not controlling the quality of those restaurants. And so obviously you can make a lot of money doing that. You could have, you know, Thomas Keller presents, you know, bakeries all around the world. And I wonder whether A, would you be willing to do that? And b do you think you could do that and still control the quality of those places? Because you've got, it's a lot, but you have a relatively manageable number of places now that you can make sure that they are of up to your standards.
+
+5 (1h 12m 45s):
+I, I, it's, that doesn't interest me. I've never been interested in lending my name to, you know, a can of soup or a pizza. I'm god bless Wolfgang. I mean, I don't criticize any of my colleagues for the past. Right. The past that they've chosen. Right.
+
+0 (1h 12m 59s):
+And I'm not either. Sometimes those pizzas are pretty good, especially no hungry.
+
+5 (1h 13m 2s):
+Yeah. But you know, it's, I don't, I've been very successful at one-off restaurants. I mean, we know running restaurants that opening one restaurant, another restaurant is not gonna move the needle, it's not gonna change your life. In other words, it's just gonna be another burden you think about opening restaurants. Very exciting. It's seductive, it's exciting. But then you gotta run it for 20 years. Yeah. You can't just close it. You have to open a restaurant that's gonna be part of a community and it lives on in perpetuity or at least in beyond you. I mean this is the challenge I'm faced with today. Right. I'm 67 years old, what happens to my restaurants? Right. Yeah. I mean the French Laundry needs to be a multi-gen restaurant.
+
+5 (1h 13m 44s):
+How many multi-generational restaurants do we have in America today? You can point to Asia and Europe and they're countless. Yeah. But America are there three or four multi-generational restaurants and the French Laundry is one of those restaurants that
+
+0 (1h 13m 57s):
+It should continue and
+
+5 (1h 13m 58s):
+It should continue. Exactly. So I need to be thinking about that.
+
+0 (1h 14m 4s):
+One of the challenges of being a chef and the hours and the commitment is it's hard to have a family. And I don't believe you've got any kids.
+
+5 (1h 14m 13s):
+We don't. No.
+
+0 (1h 14m 14s):
+So what does that mean? What does succession mean?
+
+5 (1h 14m 17s):
+It means that you are going to find a person or a group of individuals that believe in your culture, in your philosophy, in your vision. You're gonna be able to structure a succession plan that holds everybody to a certain standard into the future. That's it. So the French laundry, I don't know if it can ever really be sold to somebody. Right. So what is the French laundry worth? And this is the other thing we've, we struggle with as chefs. My restaurants aren't named after me yet. They're so entwined with my name. Yeah. So what is the French laundry really worth? What is the French laundry worth with Thomas Keller? What is the French laundry worth without Thomas Keller if I sold the French laundry and I wasn't there anymore, what is the ROI for the new owner?
+
+5 (1h 15m 6s):
+Yeah.
+
+0 (1h 15m 6s):
+So you, I mean, in order to decouple Thomas Keller from per se and French Laundry and, and frankly, you know, you can go to either of those restaurants and it doesn't matter whether you happen to be in the kitchen or not, because they're gonna be outstanding experiences. Like you've created an environment where, you know, at this point the people working in the kitchen are, are probably even more skilled than you because they've just been doing it. Right. And I'm sure you take a lot of pride in that. Yeah. But to decouple yourself from those restaurants to depersonalize 'em, do you need a person, do you think that there has to be one person where the attention is focused on like an upcoming chef or somebody that people can say, oh this is now, you know, so-and-so's restaurant?
+
+5 (1h 15m 52s):
+It's a good question. I mean, you know, so when I, when we opened per se, I wasn't the chef anymore. Yeah. We hired the right person, we trained them and we mentored them. And if you do those three things correctly, what happens is that person is better than you are. Cuz if they're not better than you, then you have not done a good job, then
+
+0 (1h 16m 8s):
+You failed as a leader. Yeah.
+
+5 (1h 16m 9s):
+You failed as a leader. So does it truly matter if it's a person in name or if it's a group in name? You know, you look at the Brooklyn Dodgers 1955 and look at this, yes, there were significant people that were on the Brooklyn Dodgers, but it was the Brooklyn Dodgers who won. Yeah. Right. Then that's what we have to be, that's what we have to be. We have to be better as a team through our individual abilities.
+
+0 (1h 16m 36s):
+Thomas, you, I mean, you became the first American chef and one of the very few chefs in the world to have two Michelin, three star restaurants, you know, for people who know that it's like being in the, at the top of the All-Star league in, in cooking, but it also makes you a target. Right. And you did get a really nasty review, per se did in, in 2016 in the New York Times, Pete Wells, the food critic. I mean he just, it was a really harsh review. Yeah. And I imagine the instinct is to be like, screw you. You're wrong. I hate you. But you actually responded to this saying, okay, we've done something wrong and we need to res we need to actually tell me what ha what was going on.
+
+0 (1h 17m 18s):
+Why, why did you, I mean, was was he right in your view? I mean, was his review fair because it was, was quite a harsh review?
+
+5 (1h 17m 26s):
+Yeah. So a couple things. So every accolade that we receive or anybody receives is for what you did yesterday. Yeah. It's not what you're doing today or what you're gonna do tomorrow. So, you know, we, we appreciate criticism. I mean, that's the one thing we ask like, what didn't you like? I mean, I don't want, I don't wanna know what you liked. I wanna know what you didn't like because that's the only way we can make improvements. So Pete pointed out what he thought we did wrong and I, I took it on as my responsibility to go to all of my restaurants and explain what happened. And so you learn from those experiences, but at the same time, today you have countless, you know, just look at Yelp. I mean, everybody's a critic. So the resources for food and restaurant experience and knowledge is far diverse today than it was before.
+
+5 (1h 18m 11s):
+And so a lot of my staff in who are very young looked at me going like, chef, we don't read the New York Times, so it's okay, don't worry about it.
+
+0 (1h 18m 17s):
+But it did change, it did change things about what you did at the restaurant. Well
+
+5 (1h 18m 22s):
+Here's, here's what I told the team. I said, the only way that we're gonna make a difference with our, with our guests, because they're not coming back the New York Times is not coming back, is to make sure that every guest that leaves this restaurant leaves the restaurant with one thought in their mind. What the hell was Pete Wells talking about? Yeah. Out of that conversation, we coined one of our phrases, one guest at a time. Mm.
+
+0 (1h 18m 51s):
+Thomas, when you think about your, your life and career and you know where you are today, you know, you've kind of sealed your place in, certainly in the history of, of modern American food. You know, so many chefs think of you as like the papa smurf of chefs, if they're all Smurfs. Yeah. How much of your, of your success do you attribute to, to the work you put in? And how much do you think has to do with, with luck?
+
+5 (1h 19m 19s):
+Well, you know, somebody told me a long time ago, very wise man told me a long time ago, luck comes to those who work 24 hours a day, seven days a week. So, you know, you're cast a net wide enough, you're bound to catch a little bit of luck. You know, I'm considered one of the, the best chefs in, in the country, yet I know there are, you know, many chefs out there who are better than I am. And why was I chosen? Like why do I live this life? Why do I sit here with you talking about my career and not another chef? Well, some of that has to do with being in the right place at the right time. But there has to be, you know, the desire and the determination and the commitment to actually go out and try to do what we do in order to actually have that opportunity to be lucky.
+
+0 (1h 20m 3s):
+That chef and respirator Thomas Keller. By the way, one of Thomas' most famous creations is a dish he developed for a rat. Thomas was a consultant on the film Rata Tui, and he came up with the recipe for the stew that's made by Remy and served to the food critic. Anton Ego Thomas even made a cameo appearance in the film on imdb. He's credited as playing Food snob number one. Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app so you never miss a new episode of this show. And it's totally free. This episode was produced by Alex Chung with music composed by Rameen Arab Bluey.
+
+0 (1h 20m 47s):
+It was edited by Neva Grant with technical assistance from Josh Newell. Our production staff also includes JC Howard, Casey Herman, Sam Paulson, Liz Metzger, Carrie Thompson, Elaine Coates, John Isabella, Chris Masini, and Carla Estevez. I'm Guy Raz and you've been listening to How I Built This. Hey, prime members, you can listen to how I built this early and ad free on Amazon Music. Download the Amazon Music app today, or you can listen early and add free with Wondery Plus in Apple Podcasts.
+
+0 (1h 21m 30s):
+If you wanna show your support for our show, be sure to get your How I Built this merch and gear@wonderyshop.com. Before you go, tell us about yourself by completing a short survey at wondery.com/survey.
+
+Wondery (1h 21m 45s):
+From Wondery comes a new series, flipping the Bird, Elon versus Twitter, a story about what happens when the richest man on the planet decides to acquire a powerful social media company in the name of free speech. But does he have what it takes? It started off promising Or is this all just about Elon? He's essentially mad that his tweets aren't performing as well as he would've Expected of two, But really just felt like, okay, this really is just a platform being ruled by a dictator who does things on his own whims And what will be left of Twitter by the time he's done, Basically my entire team was gone. By the end of it, infrastructure was just completely gutted. He'll like tweet a thing and then everyone's like, we gotta work on that now because he tweeted it, I'm supposed to leave. This man is a genius. It just felt like everything, it was kind of descending into chaos. Follow Flipping the Bird wherever you get your podcasts. Hey Prime members. You can listen to episodes add free on Amazon music. Download the Amazon Music app today.

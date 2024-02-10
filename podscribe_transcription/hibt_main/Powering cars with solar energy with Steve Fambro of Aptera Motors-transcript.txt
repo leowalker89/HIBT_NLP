@@ -1,0 +1,350 @@
+Airbnb (0s):
+Maybe you stayed in an Airbnb before and thought to yourself, this actually seems pretty doable. Maybe, my place could be an Airbnb. It could be as simple as starting with a spare room or your whole place when you're away. You could be sitting on an Airbnb and not even know it. Maybe, your kid is heading off to college in the fall and you'll have an empty bedroom. You could Airbnb it and make some extra cash while they're away. Or, if you have a vacation plan for this summer, that could be a good time to Airbnb your entire place. Whether. you could use a little extra money to cover some bills or for something a little more fun, your home or spare room might be worth more than you think. Find out how much at Airbnb dot com slash Host.
+
+Bite (43s):
+Have you been hiding your smile this summer? If you've been wanting a straighter smile, it's time to give Bite a try. Byte offers clear teeth aligners without the high cost of braces or endless trips to the dentist. With bite, you'll be able to transform your smile from the comfort of your home. Their clear aligners are doctor directed and delivered straight to your doorstep. All you need to do is take an impression mold of your mouth, preview your three D smile, and order your all day or at night aligners. It's truly that simple. They even accept insurance and H S A F S A dollars Suns out. Smiles out. Get started on your smile journey this summer by visiting byte.com and use code Wondery at checkout to get your at-home impression kit for only 1495.
+
+Bite (1m 24s):
+That's B Y T e.com code Wondery.
+
+Discover (1m 28s):
+Did you know that Discover is more than a credit card? With discover's online savings account, you earn five times more interest than the national savings average five times. There are no monthly fees, no minimum deposit, and no monthly balance requirements. It's F D I C insured up to the maximum amount allowed by law. Learn more@discover.com and start saving with confidence today. Discover Bank member F D I C.
+
+Angi (1m 56s):
+You can Host the best backyard barbecue when you find a professional on Angie to make your backyard the best around. Connect with skill professionals to get all your home projects done well inside to outside repairs to renovations. Get started on the Angie app or visit angie.com today. You can do this when you, Angie, that,
+
+0 (2m 27s):
+Hello and welcome to How I. Built This Lab. I'm Guy Raz. So when it comes to cars, the internal combustion engine is probably gonna go away over the next 50 years. Every year, electric cars are getting better and going farther, but you still have to plug them in. So imagine a car that can drive without having to plug it in at all a car powered by the sun. It's not a new idea, but it's a massively difficult one in part because you need a lot of energy to power a car. So to solve this problem, a team of engineers in Southern California have designed a solar electric hybrid.
+
+0 (3m 7s):
+It's a car that can travel up to 40 miles simply on sunlight. And the way they've done it is to streamline the design. The car is called the Aptera, and it's already available for pre-order. It has three wheels, two seats, and a massive storage area in the back enough for skis in the surfboard. Steve Fambro is the co-founder. He's been thinking about how to design cars more efficiently for a long time. He actually started his career back in 2005 as an electrical engineer for a San Diego biotech firm called Illumina. And the idea for Aptera actually came to him while sitting in traffic during his daily commute.
+
+3 (3m 45s):
+I was doing what everybody does in, in San Diego that works south. You know, you're sitting on the highway, a freeway driving 10 to 15 miles an hour and stop and go traffic and, and I was one of, I was driving a Ford F one 50 pickup truck. I was one of those people. I'm like, you know,
+
+0 (4m 1s):
+I think it's a bestselling car in the us. It is. Yeah.
+
+3 (4m 4s):
+It's, it's amazing how that is, you know, but it's like, I used the bed of it twice before I sold it, but, so I'm thinking to myself, you know, I I was also a student pilot at the time, so I was, I had an understanding of aerodynamics and I was just thinking about aerodynamics and planes and looking up at the planes and saying, oh, the planes are flying by. I'm staying still, you know, and then look at these vehicles. They're all boxy, even my own, you know, it's just this big, big boxy thing. And so I started doing little things like I would fold my mirrors back and, or, you know, let down my tailgate and try and see on a long trip if I could get more gas mileage. And Hmm. And then, you know, I just did some reading and I said, wait a minute, the, these cars, like they, 60% of the energy is just pushing the air outta the way.
+
+3 (4m 51s):
+And they're right, they're like boxes or fur pieces of furniture pushing air outta the way. Yeah, yeah. They're, they're not made for aerodynamics.
+
+0 (4m 58s):
+So basically you were just a commuter driving a Ford F one 50, and also you happen to be an, an engineer and you were just asking yourself why are cars designed in such a way as to just, you know, increase the drag? Because essentially it means that a Ford F one 50 probably gets like 1720 miles per gallon if that,
+
+3 (5m 23s):
+I mean, I'm sure it's better now. Yeah, I, I, at the time, I think it was around 14 miles per gallon and I could, I could squeeze out 17, you know, if I did all these tips and tricks. Yeah. But you know, you could see, once you ask a question and see it in the following perspective of basically a continuous lineage from sort of Roman carts to horse and carriages to modern cars, you can see that, yeah. Four corners, you know, a a wheel under each corner and just various manifestations of that you, and so it's understandable how none of that would really change. It would just kind of slightly evolve. And I thought what was needed to be the most efficient was a rethink of the platform to have the least weight and the least aerodynamic drag possible.
+
+0 (6m 11s):
+And, and just to be clear, you, you were just doing this as a tinkerer. This was, I mean, you had a full-time job at a biotech company, but, but you started to just like draw designs on paper for fun.
+
+3 (6m 24s):
+Yes. You know, I was, my wife and I at the time, we didn't have any children. And so this meant that, you know, Saturday mornings I could lay out my drawings on the living room floor. I could drink coffee all day, I could work in the garage, you know, without distraction. And it was just a hobby. And at some point I thought, you know, I'm probably not the only person that wants this. I should, I should think about how would I make this and sell it, you know, I have to have a business plan. So I, I worked with someone, I've never written a business plan. I was an entrepreneur. And so I kind of started from there.
+
+0 (7m 1s):
+And, and so I guess around the same time you in San Diego, you meet this guy Chris Anthony and Chris had a, like a, a small business where he made boats.
+
+3 (7m 13s):
+Yes. He had a company called Epic Boats and he, he was using these, you know, computational fluid dynamic tools to make the boat have more drag as so to make a bigger wake so you could have more fun.
+
+0 (7m 26s):
+So he's working on the opposite that Yes, he wanted the boat to be That's right. To opposite more drag. You're working on something with less drag. But but this was for wake boarding, basically a, a specific type of boat designed to make wake boarding more fun or more exciting, I guess. Yes.
+
+3 (7m 42s):
+A apparently it is a thing. I didn't even know it was a thing. You know, I don't, I don't get out much. It's like
+
+0 (7m 46s):
+Water skiing on a, on like a, like a boogie board. It's, I'm Wakeboard is gonna kill me for saying that, but it's sort of like that.
+
+3 (7m 52s):
+Yeah, it's, it's kind of like that you have this, this wake in perpetuity, you know? Yeah. That you can sort of surf behind or even do wakeboard tricks and stuff behind. And in Mission Bay here in San Diego, it's, it's pretty popular. Yeah.
+
+0 (8m 7s):
+Yeah. You hold onto a, a rope or Yeah, like, like when you're, when you're water skiing. That's right. So he was working on that. So you meet, you meet him, he's somebody you feel like, I should get to know this guy because he knows how to design, you know, a boat. So maybe I can talk to him about designing my vehicle, whatever it's gonna be. Yeah.
+
+3 (8m 24s):
+You know, we, we both are, you know, I had my own shop full of tools, you know, welder and mini lathe and you know, I of course could make circuits and things like that as well. So I was pretty handy myself. He was also handy with hand tools and he could, you know, Chris is a bit of a polymath, you know, so he has many different talents. He's a actually a finance guy by training. But I could see, you know, sort of by inspection, I could see the work that he's done. He's able to make things that he can visualize, which is a really unique trait. And as we are talking about some of these problems and how we might, you know, build the structure, how it might need to be shaped to carry the load, you know, he could easily visualize.
+
+3 (9m 10s):
+Whereas maybe I would need to do more math to convince myself of something.
+
+0 (9m 15s):
+Alright. So you start talking to Chris and, and you, and what, what did you have in mind at that, at that time in terms of what you wanted to do? You, you knew you wanted a vehicle that was more energy efficient, and were you thinking like a traditional car? Were you, what, what, what kind of designs were you thinking about?
+
+3 (9m 34s):
+Well, once I, you know, once I saw what was possible and we said, well, let's, let's ask, let's see what the, you know, like in engineering oftentimes you'll set a term to zero, you won't know the answer, but you'll set a term in an equation to zero or infinity to kind of see what the equation does. And so I, I, you know, just sort of asked myself rhetorically, what is, what is a, what is a drag shape with, you know, a frontal area of x and X is just basically two people sitting side by side, but with, with the coefficient of zero, what does that look like and what does that shape look like? And once we determined what that was through our research, you know, we, we believed that with the diesel engine at the time, we could achieve over 300 miles per gallon.
+
+3 (10m 21s):
+And so we just, we built the company around that and we started fundraising and, and got our first investor and, you know, it was off to the races.
+
+0 (10m 30s):
+So, alright. Let's kind of, I'm just curious, I mean, about the decision you made to leave your job and to start a car company. I mean, it was kind of, kind of, let's just be be blunt. It's kind of kind of nuts, right? I mean, did you, when you went to your, your, your partner, I think you were married, your wife at the time, did you say, Hey, I wanna start a car company. and you, I mean, you had a job and you, and this is kind of an ambitious thing to, I mean, it's not like just starting a, you know, a farmer's market stand. I mean, it requires a lot of capital and a lot of, you know, there's a lot, there's a long road to make that work.
+
+0 (11m 10s):
+What, what, what was her reaction?
+
+3 (11m 13s):
+I mean, it's very interesting. It's a, it's a, it's an interesting question and also situation for the reasons you've just said. I had every reason to stay there. I I would, I would've been retired by now from the money I would've made on my stock options had I had, I kept them and not liquidated to start Aptera. My friends at Illumina remind me of that often. But I, I remember once, once I saw that the only way I could do this was, was full-time, raise money full-time and build the company. And I, I went home and I told my wife, I said, I honey, you know, I'm, she was like six months pregnant, by the way, our first child.
+
+3 (11m 53s):
+And wow. I said, I want to quit Illumina and, and start a car company. and you know how some, you know, every woman I think that goes through pregnancy, they have different experiences. Some have, you know, bouts of sickness or, you know, immense joy. And my wife was a ladder. She was just, whatever hormones were in her body because of that made her extremely happy about everything. And so I remember I told her that I'm, I'm quitting to start a car company. She just kinda smiled and said, okay hon, that's that's great. And I was like, what? Like, did she even hear what I just said? You know, I don't, maybe she didn't understand.
+
+3 (12m 33s):
+She's also an electrical engineer. And so she had an, an appreciation of, you know, the challenge ahead.
+
+0 (12m 39s):
+So you and Chris decide to start this car company called it Aptera, which in, in it means a wingless flight. It's the right in, in Greek or
+
+3 (12m 47s):
+I guess more, more simply Wingless like a pterodactyl. If. you say, ah, Tara, it's just without wing,
+
+0 (12m 53s):
+Without wings. Okay. And, and you set out to design and I, I'll, I'll try to try to describe it, but maybe you can do a better job. Basically a three wheeled vehicle, like two wheels in the front, one in the back, and it's like a, it looks like a, the, the fuselage of a small airplane, right? It's like a, like a motorcycle car hybrid kind of thing.
+
+3 (13m 16s):
+Yes. If, you can, you know, since we're on on, on voice and radio or audio rather I'll, I'll describe it, If, you can imagine like a, the shape of a shark, maybe flattened out in the middle, but without the fins. And then with two wheels in the front of where the mouth is and a a wheel in the sort of the back where the tail is. That's, that's kind of what Aptera looks like. And there's, there's actually a lot of biomimicry there because, you know, sharks, other, other fish that swim near the bottom of the, of the ocean or a lake in what they call ground effect, where you're not in the free stream, but you're down very low to the surface.
+
+3 (13m 55s):
+Those creatures also camber their back. Like Aptera is camber and, and that radically reduces the, the, the drag coefficient. Hmm. So it's, it's a, a fundamental discovery that I made early on in the process like this is, this is not the free stream that is, this doesn't need to be a symmetrical, sort of an air foil or a teardrop. This needs to look different 'cause it is in what they call ground effect.
+
+0 (14m 27s):
+So how did, how did you finance building that prototype? Because you had a prototype within two years. I mean, by 2007 you had the first vehicle where, how did you, yeah, how did you finance it? Who, who, who supported you?
+
+3 (14m 46s):
+Well, our first investor was a business incubator in Pasadena called Idea Lab. And they were instrumental in, in getting us off the ground and, and connecting us with, with ongoing funding. And we actually had the first prototype, I think within about six months of funding. And it was really just myself, Chris, and a young engineer. And we were working, you know, 20 hour days we were doing all the work ourself, you know, welding, you know, wiring and everything else. And it was just lots and lots of long hours and, you know, that was just the only way to do it. And then the sort of production intent version, the mark one, we launched September 27th, I think it was 2007.
+
+3 (15m 31s):
+And on, on the day that we said we would, we, around January or so, we, we told, you know, our board and everyone else, this is when we're gonna launch it. And it launched, it launched that day.
+
+0 (15m 42s):
+We're gonna take a quick break, but when we come back more from Steve about Aptera's early rise and fall and how he and his co-founder are making another run at solar powered cars today. Stay with us. You're listening to How I Built This lab.
+
+5 (15m 59s):
+He died and came back. That was the easy part from number one, New York Times bestselling master of suspense, Dean Koontz comes a breathtaking new novel about the absolute powers of good and evil. Michael Mace, head of security at a top secret research facility dies at a tragic event alongside his best friend Shelby. But 24 hours later, he wakes up in a morgue with an extraordinary ability being as elusive as a ghost when he sets out to help Shelby's friend and her son. His actions also evoke the wrath of a member of one of the most violent street gangs in Los Angeles. But an even greater threat is descending. And if Michael dies twice, he will not live a third time. Don't miss after death.
+
+5 (16m 40s):
+The powerful new novel from bestselling author Dean Koontz. Learn more at amazon.com/after death.
+
+6 (16m 47s):
+Hi, I'm Lindsey Graham, Host of Wondery podcast, American Scandal. We bring to life some of the biggest controversies in US history, presidential lies, environmental disasters, and corporate fraud. Our newest series looks at the rise and fall of Spiro Agnew, the former vice president of the United States. Agnew was a firebrand who rose to power on a message of political populism, challenging the media, and those he criticized as cultural elites. His message resonated with a broad array of voters. And in just over a decade, he rose from a position on a local zoning board in Baltimore County to become vice president under Richard Nixon. But at the same time, Nixon's administration was collapsing under the weight of Watergate.
+
+6 (17m 27s):
+Agnew was facing a brewing Scandal himself. Federal prosecutors had begun a wide reaching investigation into political corruption. And when Agnew became a target, the country faced the prospect of a constitutional crisis. Follow American Scandal wherever you get your podcasts and you can listen ad free on the Amazon Music or Wondery app.
+
+0 (17m 47s):
+One more thing before we get back to the show, please make sure to click the follow button on your podcast app so you never miss a new episode of the show. It's usually just at the top of the app and it's totally free. Welcome back to How I Built This Lab. I'm Guy Raz, my guest is Steve Fambro, founder and c e o of the Solar Car Company, Aptera. So it's 2006 way before electric vehicles were mainstream. In fact, there was barely an electric vehicle industry at the time. There were no charging standards, nothing built for the industry, but Steve was certain he was on the right track.
+
+3 (18m 27s):
+We believed that electric was the future. It made all the sense in the world we don't need to be burning, you know, hydrocarbons, even if they're very efficient, there's better ways to power a vehicle. And that was with electricity.
+
+0 (18m 40s):
+I mean, you, I mean essentially you had this electric vehicle, this prototype, and I think you, you unveiled it to the public, a TED conference in 2007 and that really got people excited. You got a lot of interest and you had a lot of people coming to you to make investments and, and people wanted this car. People were really excited about it.
+
+3 (19m 10s):
+Yeah, that was a really big, that conference was a really pivotal event for us because it, it put us on the map. It, it got a lot of press. It introduced us to lots of investors and we went on to raise probably another $40 million or so at the time before, before we left the company.
+
+0 (19m 31s):
+So, alright, so the, this prototype comes out, and by the way, it looks like what the car looks like today. It looks very similar, but there is a lot that happened between then and now. And so let's talk about some of what happened. I mean, there was a, a lot of interest. You, I mean, eventually within a year or so, you had about 4,000 people put down deposits to buy one of these really cool vehicles, two cedars, but with a lot of trunk space. And meantime, you, I guess you and Chris, your co-founder, decided to find a c e o, like a professional c e o who could really kind of take the company to the next, to the next level, but for a variety of reasons that would turn out to be maybe not the right decision.
+
+3 (20m 21s):
+Well, you know, we, it was a tough time for any startup at that time. I, I remember a lot of the, the VCs we were talking to, you know, they were, at that time it was the economic downturn. It was gloom and doom. I still remember Bill Gurley prominent Silicon Valley VC at the time,
+
+0 (20m 39s):
+Vested in Uber and many others. Yep. I remember
+
+3 (20m 41s):
+He had a single slide on a PowerPoint with a sort of a, a piece of ham where all the ham was gone and a knife, you know, on a bone saying cut to the bone. That was his advice to all of the startups at the time. And so, you know, we, we recognized that the, the, the, the team, the professional team that we hired, they, they were working with the Department of Energy to, to get a loan and to bring in a four wheel vehicle. and, you know, with the, with the cutting to the bone mentality, you know, we thought maybe the company would be in in better hands if we left it to the professionals and we would go off and start, you know, another company. And that's what Chris did and that's what I did.
+
+0 (21m 21s):
+And, and basically what, what happened if I'm, I'm just to summarize it, I mean, the company sought out loans from the government, from the Department of Energy, which did give big loans to Tesla and to Fisker and even to Ford. But, but initially because you had a three wheeled vehicle, you weren't eligible for one of these, these loans that were designed to help electric car companies get off the ground. And I guess the, the, the team that you sort of hired to run the company decided that maybe they should move towards a four wheel wheel vehicle, like a, a traditional sedan and that's where they kind of shifted all their energy towards.
+
+3 (21m 59s):
+Yes, that's exactly right. And so, you know, they had used a lot of the same concepts and, and ideas to, to design a four wheel vehicle. And I think that's what they were trying to get through the d o e at the time.
+
+0 (22m 10s):
+So essentially by 2009 you and Chris were on the way out. You, you, you had started this company in 2005, but about four years later there's a professional team, many of whom have had come from the automotive industry running Aptera. And I guess you felt like there wasn't much for you to do at that point in, in the company?
+
+3 (22m 33s):
+Yeah, I mean that's basically it. You know, we, we wanted to make sure if we're there, you know, getting a salary that we're adding value and moving, all moving in the same direction. And I think, you know, the, the direction that the team and the board wanted to move was the, the four wheel and, and the d o e loan. And so we felt that we would probably add more value to something new and something different that the professional team was in place and, you know, sort of left, left in charge.
+
+0 (23m 2s):
+Alright, so you guys leave meantime. Aptera does manage to, to secure a loan, a commitment I should say, but they had to, I guess there was a condition they had to raise money from the private markets, but for a variety of reasons that fell through. And by 2011 the company you founded Aptera it, it, it shut down, it basically liquidated and refunded the depositors' money who wanted people who deposited on the cars and then paid investors back what they could pay them back.
+
+3 (23m 34s):
+That's right.
+
+0 (23m 36s):
+I mean, how did you feel, I mean, so this, this sort of dream that you guys had, that was it, I mean, were you, how did you feel at that time?
+
+3 (23m 47s):
+You know, at, at the time I, I tried to channel all of that grief, like in this, into positive energy and, you know, so I, the, the day I left Aptera originally, you know, I always, maybe two or three weeks before I had, you know, my first signed term sheet for my new company and I, I just tried to put all of that thought and grief into energy, into momentum, into something different. But it, it's, you know, it's analogous to the loss of, of someone that you, you love and you never really get over it.
+
+0 (24m 20s):
+How you, in the meantime you are working on this other company, this vertical farming company that would allow people, I guess to raise their own vegetables inside their homes or,
+
+3 (24m 31s):
+Well, it was, it was more industrial food production, but in indoors. But it was the idea of growing food is densely packed in three dimensions as you could and then only expanding it out at the time of harvest so that you could, in the smallest amount of space with the least amount of energy and least amount of water raise, you know, the highest amount of biomass per, per square, per unit area, per unit time.
+
+0 (24m 59s):
+Wow. Meantime, aptera's just done the, the assets were auctioned off. Apparently there was a, a Chinese company that, you know, at some point tried to spin out another like independent company called Aptera US that sort of would make a gas version of the car. Never, it never really took off. But it, it's, it seems like the, this Chinese company that, that essentially bought the assets never really filed to, to, to take over aptera's ip.
+
+3 (25m 31s):
+Yeah. They, they didn't really do much of anything with it. And I, I think even the, the company that one of the, one of the people that bought the assets of the first auction, they ended up with a bunch of the older vehicles sitting in a warehouse up somewhere in northern California that we've, you know, Chris and I have tried to locate just for sentimental reasons, you know, we'd love to have them as part of our heritage as sort on display or something. But yeah, they were sort of cast to the four corners of the earth and the ip, the products and tools and nothing ever really happened with it. And it just kind of sat as an idea in my mind and Chris's mind and, and Jason, a few others, you know, for basically until we were able to bring it back to life.
+
+0 (26m 15s):
+So tell me how that happened. I mean, 2019 you and Chris joined forces to relaunch Aptera. Like tell me about the conversations you were having to do that because I mean, you started in 2005, it essentially folds in 2011 and probably most of the investors lost money, right? So tell me how, what, I mean how did you guys even start talking? Like, like take me to the conversation. Like let's, let's start this again. Let's, let's go back to this thing.
+
+3 (26m 48s):
+Actually, I, I think it might've started with our lobbyist Dwayne, Dwayne Gibson, who was in town and just, you know, wanted to reconnect.
+
+0 (26m 56s):
+And just to be clear, you had a lobbyist that you, you hired to work in Washington DC to focus on sub like on, on loans and subsidies that the government was offering to electric car makers.
+
+3 (27m 8s):
+Correct. H it help us navigate the waters, you know, it's, it, when you're connected with someone like that, it's not just about sort of lobbying for loans and programs, it's also, you know, making sure you have a seat at the table with Yeah. Different regulatory bodies or that you have the right legal oversight, you know, protection and certain regulatory affairs. And so we were just sort of kicking around the idea saying, look, you know that, who is it? There's just Tesla really, you know, there's no one else and why is that? And and, and everything is just an electrified car. It's not really designed, it doesn't appear to be designed from scratch as an electric vehicle. Right?
+
+3 (27m 48s):
+And, and we, you know, Chris, of course, you know, owning this battery company and us talking about it, the numbers and said, well, you know, with the new technology we could, how many batteries could we fit in, you know, an Aptera anyway. And so we just started doing some back of the napkin calculations and you know, with these new batteries we could fit a hundred kilowatt hours in that vehicle and, and a hundred watt hours per mile, which is what we achieved with the old Aptera about 95 watt per mile, which is extremely efficient. You know, that would be a thousand miles. And so that kind of just, it made our eyes open because we knew from some little bit of research that we had done that range was, wasn't the most, but it was a very important factor in, you know, deciding to buy an electric car, which electric car people wanted to buy.
+
+3 (28m 35s):
+And If you could control the range factor, then you could really control a significant part of the market. And that was our, our premise is how do we, how do we blow up range, how do we own range? And we do that with efficiency and that was really the genesis of the restart.
+
+0 (28m 54s):
+We are gonna take another quick break, but coming up in just a moment more from Steve about his inspiration to go solar, stay with us. I'm Guy Raz and you're listening to How I Built This lab.
+
+8 (29m 8s):
+What makes a person a murderer? Are they born to kill or are they made to kill? I'm Candace DeLong and on my podcast Killer Psyche Daily, which you can find exclusively on Amazon music, I share a quick 10 minute rundown every weekday on the motivations and behaviors of the criminal masterminds you read about in the news. I have decades of experience as a psychiatric nurse, F b I agent and a criminal profiler on Killer Psyche daily. I'll give you my expert perspective on cases like the mysterious New York City druggies, breaking down Lori Vallow, a k a mommy Doomsdays motives and what drove Kaitlyn Armstrong to murder.
+
+8 (29m 50s):
+I'll also bring on expert guests who add even more insight into these criminal minds. I promise you won't regret adding these 10 minutes to your morning routine. Hey, Prime members, listen to the Amazon music exclusive podcast, killer Psyche Daily in the Amazon music app. Download the app today.
+
+0 (30m 13s):
+Welcome back to How I Built This Lab. I'm Guy Raz and my guest is Steve Fambro, the founder of Aptera Motors. So basically you decide, let's make, still make it an electric vehicle, but it'll it'll have solar panels all over it as an additional source of power,
+
+3 (30m 31s):
+Correct? Correct. You plug it in like normal If you want, but most people won't ever have to, 'cause you're in southern California, you'll probably get about 11,000 miles a year of free charge. So
+
+0 (30m 44s):
+Just by sitting it, just by leaving it outside, just by leaving it outside, it's just gonna get powered by the sun. That's right. And that'll give it about up to 40 miles of range just from solar energy. That's right. And that's because this is a small and efficient vehicle. Like, because I, I mean I imagine that the technology around solar just isn't quite there yet to power, you know, a, a one ton vehicle.
+
+3 (31m 12s):
+You're right. It's, it's, you know, you're, you're looking at 25% or so conversion efficiency, you know, once it's all sort of encapsulated in a matrix and If, you try to do this, you know, to any large electric vehicle, it's, it's barely gonna budge, you know, the needle. So the, the advantage of designing for efficiency and being a brand that's really grounded in efficiency above all else is that these kind of things become possible. Mm. And we can use a smaller battery pack, it's gonna, it's gonna mean less cells and less cost for the battery and hopefully a lower, lower cost of the consumer, more range, less charge time, you know, et cetera, et cetera.
+
+3 (31m 55s):
+That's our, that's the direction that we push stuff. It's, it's to push to more and more efficient using, you know, less and less energy along the way. You know, how do we keep reducing the amount of energy that the vehicle uses while expanding the amount that we're producing on the solar panels?
+
+0 (32m 9s):
+So let's talk about the car. I mean obviously now it's the, the landscape is very different from, from 2005 when you started. It's a different environment. You're seeing a lot of, you know, model three Teslas all over the United States. Now you're seeing a lot of the Kias sort of a lower price point. You're seeing, you know, obviously Chevy and then the Ford F one 50 Lightning is out there. You've got the rivian, you've got a lot of, you know, a lot of companies Hyundai are in, in the game now in the electric car game. Who is this for? What is, I mean, what, who is this car going to appeal to? It's a different kind of vehicle. It's a two-seater and it's so what, what part of the market are you targeting?
+
+3 (32m 56s):
+Well a Aptera is a brand and, and the Aptera as a product are gonna appeal to people who want a kind of freedom of, of a freedom of mobility, a freedom to go and, and to, to move without being encumbered either by a charge cord or having to pay for electricity. You know, that that freedom from the old way of doing things is really what Aptera is about. There's, there's lots of electric car choices out there and lots of electrified cars, cars that are just steel boxes with electric components shoved in them. That's, those are all great products or different customers and, and they'll sell lots of them. But that's not what we're about.
+
+3 (33m 36s):
+We're about solar mobility and we're about giving that freedom to people. And the first vehicle that you, you see, of course a two-seater, that's the tip of the sword. But there's, you know, there's a product portfolio and, and vehicles that are coming behind that, that are gonna embody the same ethos and, and double down and triple down on efficiency in solar. So, you know, expect to see a family of vehicles from Aptera where this is a first, but all of them are gonna have the same promise of the kind of solar freedom and solar mobility.
+
+0 (34m 6s):
+So I think the majority of daily commutes are, are under like 40 miles. So in theory, right, if you're just driving a couple miles to the office, maybe the grocery store and home and you know, like solar power alone could power the car. But what, what about parts of the country where it's not as sunny or on days when it's not sunny at all? Does the car store the solar power, the the solar energy?
+
+3 (34m 28s):
+Yes. It'll, it'll still charge. It might, it might only charge, you know, 10 miles worth or 12 miles worth or something like that if it's overcast or in a northern latitude, you know. And so the way to think about it is, you know, are you, are you plugging it in once every six months? Are you plugging it in once every month? You know that that's how it's gonna impact people. It it's whether you get 30 miles a day, 40 miles a day, the launch vehicle is gonna get around 400 miles range. It's really just gonna affect, are you plugging it in monthly or maybe every two weeks or, or something like that. So that, that's how that difference in daily solar charge is gonna manifest.
+
+0 (35m 11s):
+You also are, I mean the, the, the body of the car is, is different. It's a, it's a carbon fiber body. And so, I mean, it kind of looks like, you know, there there are these like velo racing bicycles, right? It it's almost like this aerodynamic, like, I mean teardrop isn't the right description as you as you said earlier, but it's, it's sort of like that. Is that also, I mean, does that also enable it to, does, does that enable the range? I mean the, the the weight of the material, for example?
+
+3 (35m 46s):
+Well, it is a combination of both the, the drag, the low drag, which you know, the shape Yeah. The, the very curvaceous, you know, shark like shape. And the lightweight is both of those are what really enabled the efficiency and the lightweight comes from composites. Now the challenge with composites and the challenge with how we were doing them before and how, how Chris was doing with this boat company, very labor intensive and it doesn't really scale. And so what we wanted was a process that we could stamp them out, like you would stamp out steel pieces and produce them as fast as you would a steel car. And that's, that's what took us to Italy to c p c. Our, our partners have, have devised a, a very high throughput process, which to my knowledge, no one else in the world has this, this capacity and this ability to produce parts every, you know, four to six minutes, just like you were producing a steel part.
+
+3 (36m 38s):
+So it, it's a strong composite thermoplastic, but without, without any of the hand labor and the waste and the cutting and the materials and all that other stuff, it's just produces a nice part that comes right of the mold ready to be vinyl wrapped or, or just used without having to paint. So it's, it's a radically different way of producing the vehicle. There's only six structural pieces. And so being able to, to build the vehicle from six pieces just to order magnitude simplification of tooling, fixtures, et cetera.
+
+0 (37m 12s):
+So the idea is to get these, I know that, that you can now order, you can reserve one, right? I mean there, there's, you, you have I guess up to about 40,000 people have reserved one. And the idea is to start delivering them. When
+
+3 (37m 27s):
+About 43,000 evers reservations, about $1.6 billion worth of vehicles. Wow. We believe we're pretty confident after about nine months of, of closing our series B funding, somewhere between nine and 12 months, we could deliver the first vehicle. You know, we still have lots of big things to do. We have to go through our airbag certification program, for example. We have to go through the, you know, the a b s, the a b s braking system certification. You know, you for those that may not know, you know, you can't just order that part and install it on the vehicle. It has to go through the, the manufacturer's own sort of certification process. So there's some things like that that we still have to do.
+
+3 (38m 7s):
+And that's, that's why we're fundraising the series B.
+
+0 (38m 11s):
+And what about the, the, the sort of the safety of the vehicle? I mean, it is, it's, it's an enclosed vehicle, but it is three wheels and it's a two seater. And, and so, I mean obviously a motorcycle is not the safest mode of transportation, but, but, but this has airbags presumably. I mean, it has all the safety features of a car.
+
+3 (38m 33s):
+Yeah, you can think of it just as a, a modern, modern, a modern car in terms of safety features, you know, the rollover crush strength, airbags, seat belts, interlocks, all that kind of stuff. Same, same stuff. We have designed to the same standards. So not required for a motorcycle, but we're just trying to adhere to as many of the regular automotive standards that we can as we can.
+
+0 (38m 59s):
+And, and the price point starts at about $26,000, I think, right? Yeah.
+
+3 (39m 3s):
+High, high twenties for the, for the 250 mile version, which is the smallest battery pack, 2025 kilowatt hour. And it goes up to, you know, around 50,000 I think for the highest configuration. Thousand mile range, three wheel drive. So the options are basically battery pack size and you want two wheel drive or a three wheel drive. Those are the, the big cost drivers.
+
+0 (39m 29s):
+I mean, what do you like in, in terms of, of solar technology, right? There are some companies including Fisker, which is, is coming back, right? It was sort of went away for a while and it's coming back. They're also, they're also experimenting or will be experimenting with solar high. So I guess you'd call it solar hybrid. Like solar electric hybrid maybe. What kinds of leaps in solar technology have to happen for a car to be fully solar, solar powered?
+
+3 (40m 2s):
+If the solar's gonna be meaningful on the vehicle, if it's gonna add a meaningful range, the vehicle's gonna have to be aerodynamic, right? It can't just be a boxy flat sided vehicle. So if it's gonna be aerodynamic, it means you're gonna have curves in three D. So fundamentally you're gonna be making three D curve panels. So that's number one. How do you bend those cells without cracking or micro cracking, which will lead to a crack and how do you do it repeatedly and consistently? And then also make that panel very lightweight for an automotive application and then also make it affordable and then also make it able to stand up to hail and rocks. That's what's required to make it practical.
+
+3 (40m 42s):
+And that's what we've been doing for the past two years.
+
+0 (40m 45s):
+So, I mean, looking ahead five years from now, and there's lots of aptera's driving down the freeway up and down the freeways, at least in California and maybe beyond from what you know and from your perspective, I mean, are we looking at a, a, a future sooner than we may think of, of electric vehicles going a thousand plus miles on one charge?
+
+3 (41m 8s):
+I definitely think so. I, I think AP Aptera is gonna show the way because of the way technology is right now. It's, there's no other way it's achievable without this extreme obsession with efficiency. There's no other platform out there that could do it. So the, the vehicles, the, the race for the high range, which I think is gonna be the new era that you see unfolding, you know, in EVs, when you look at where the innovations, innovations are, how do we get more range? I think you're going to see some common trends of aerodynamic shapes, lighter weight materials, and hopefully Aptera can maintain its lead in in that position.
+
+0 (41m 45s):
+I have to assume you're gonna be one of the first owners of an, of the Aptera. When will you be striving one around
+
+3 (41m 52s):
+Permanently? I would say early next year. Hmm. Yeah. I, I don't, I don't want to handbuilt, I mean, I, I drive the prototypes here all the time, but I, I wanna drive a production version. Yeah. So I'll have to fight probably Chris and a couple of other investors for the very first one, but, we'll, we'll see. Maybe we'll, you know, spin the, you know, spin the bottle or something so he gets the first one, but I think early next year I'll be driving one of the first ones.
+
+0 (42m 17s):
+Sounds like there's gonna be a little bit of a fight.
+
+3 (42m 19s):
+Yeah, I've, I've learned not to, you know, try and arm wrestle him or fight him. I usually end up, you know, the doctor's office if I do that. So,
+
+0 (42m 29s):
+By the way, I, I noticed that it has rear view mirrors, which presumably affects drag. I think that's a regulatory thing in the us right? Right. Because you can replace rear view mirrors with cameras, but Right. But the us but the regulatory agencies still require a rear view mirror.
+
+3 (42m 45s):
+Yeah. It's, it's vestigial It's like saying, you know, you must have a clip for your, your whip on your buggy. You know, you can't have your whip laying around in the buggy. Like there's no whip, there's no buggy. Yeah. You know, we don't need that, but it is a vestigial requirement, so we have the least amount of size required by law.
+
+0 (43m 4s):
+Got it. And the doors open electronically or what? 'cause they open like wings.
+
+3 (43m 10s):
+Yeah, there's, there's a electric and mechanical release. So there's a, the most common way to do it is with a button that's right there on the armrest, but then there's sort of a, a backup mechanical release underneath it, which many EVs have that, that strategy now.
+
+0 (43m 23s):
+And, and, but you can only fit two people. You can't fit more than that. But it has a lot of cargo space.
+
+3 (43m 29s):
+Yeah. A thousand liters of cargo space, which is like, is a comparison. You know, any modern ev that's out there, you, you fold down the back seats and you get a thousand liters of space or, or more in Aptera. So it, it's a, I mean, you can put surfboards in it and you can put a ladder in there. Tools you can put, you know, if, if you're like a, a Macedonian Army reenactment person, you can put all your spears and stuff in there as well. I mean, it's, it's an amazing amount of space. Hmm.
+
+0 (43m 60s):
+Wow. That's a huge market. Apparently. A lot of Macedonian reenactors out there. So that's a, that's a huge,
+
+3 (44m 8s):
+Huge market. Market.
+
+0 (44m 9s):
+Yeah. We're gonna
+
+3 (44m 9s):
+Be big in that market.
+
+0 (44m 13s):
+That's Steve Fambro, co-founder and co c e o of Aptera Motors, thanks so much for listening to How I Built This Lab. Please make sure to follow the show wherever you listen on any podcast app. Usually there's just a follow button right at the top so you don't miss any new episodes and it is entirely free. If, you wanna contact our team? Our email address is HIBT at id dot Wondery dot com. This episode was produced by Kerry Thompson with editing by John Isabella. Our music was composed by Tine Alu. Our audio engineer was Neal Rauch. Our production team at How I Built This includes Alex Chung, Chris Masini, Elaine Coates, Casey Herman, JC Howard, Carla Estevez, Liz Metzker, and Sam Paulson.
+
+0 (44m 58s):
+Neeva Grant is our supervising editor. I'm Guy Raz and you've been listening to How I Built This
+
+3 (45m 10s):
+Hey Prime members. You can listen to How I Built This early and ad free on Amazon Music. Download the Amazon music app today, or you can listen early and ad free with Wondery Plus in Apple Podcasts. If, you wanna show your support for our show? Be sure to get your How I Built This merch and gear at Wondery shop.com. Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.
+
+Capital One (45m 38s):
+With the Capital One Spark Cash Plus card, you earn Unlimited 2% cash back on every purchase and it has no preset spending limit so your purchasing power can adapt to meet your business needs. The Antonelli's who own Antonelli's Cheese Shop in Austin, Texas use their 2% cash back from their Spark Cash Plus card to help cover their employees' healthcare costs. Imagine what the Spark Cash Plus card from Capital One could do for your business. Capital One, what's in your wallet. Find out more at Capital One dot com slash Spark. Cash plus terms and conditions apply.

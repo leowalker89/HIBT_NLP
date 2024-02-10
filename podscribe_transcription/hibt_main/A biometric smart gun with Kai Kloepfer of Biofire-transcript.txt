@@ -1,0 +1,269 @@
+Black Stories. Black Truths. : NPR (1s):
+Black perspectives haven't always been centered in the telling of America's story. Now, we are taking center stage introducing NPRs Black, Stories Black Truths A, collection of black LED stories from NPRs podcasts, Search NPR r Black, Stories Black Truths, wherever you get your podcasts.
+
+1 (23s):
+Hello and welcome to How I Built This Lab. I'm Guy Raz. So if you've listened to the lab edition of this podcast before, you've probably noticed that I often talk to founders who are working on bold and innovative solutions to big problems that we face as a society. These founders are trying to address issues like unequal access to healthcare pollution, food safety, and of course climate change. And again, on the show today, I'm talking to someone working on a big problem, but it's one that we haven't discussed before in the United States. In 2021, according to the C D C, almost 49,000 people died from gun related injuries. And in 2020, guns surpassed car accidents as the leading cause of death among children and teens.
+
+1 (1m 7s):
+Now, no one thinks this epidemic of gun violence is a good thing, but meaningful ways to reduce gun violence have been really difficult to achieve. Gun policy is a third rail issue in American politics and society. And there are plenty of reasons which we won't go into today. Why many people feel like making progress in this area is almost impossible. But Kai Kloepfer doesn't think so. His startup Biofire is focused on developing a smart gun, a firearm that's impossible to use if it's not unlocked by the owner's biometrics and By the way this idea isn't. New companies have tried versions of it before and totally failed, and Kai thinks that's largely because the technology wasn't good enough or didn't exist.
+
+1 (1m 49s):
+Now, Kai's goal for the Biofire Smart Gun isn't to eliminate gun violence, but he does think that it might reduce accidental gun injuries and deaths as well as gun suicides among adolescents. Kai grew up in Boulder, Colorado and he loved tinkering science and engineering and he started thinking a lot about guns when he was 15 after the mass shooting at a movie theater in the nearby town of Aurora. Before that, his exposure to firearms was pretty minimal.
+
+2 (2m 16s):
+I have a bunch of family in Tennessee. I'd gotten a chance to go skeet shooting and stuff growing up and and experience more of the fun side of firearms. But that was sort of my first encounter where I was 15 at the time. So old enough to actually start to think about, hey, like there, there are some other impacts to kind of what firearm ownership looks like in society and their impacts that You know really nobody is looking for.
+
+1 (2m 36s):
+And you were basically a kid who, I mean you were like winning science competitions and you were a tinkerer. And when that happened in Aurora, your thinking was, wow, is there something that can be done to prevent this essentially? And what was your initial thought? Like what, what were you thinking maybe we could do what?
+
+2 (2m 55s):
+The first step I think of any process and project is to dig into, okay, what's the actual problem? Yeah. I very quickly realized You know while mass shootings and other kind of violent crime like that, obviously something that we hear about a lot in the news, they actually make up a very small percentage of gun deaths. Yeah. Where two thirds of gun deaths in the United States are the result of, of suicides and accidents. And that seemed like to me, an area that would better lend itself towards the kind of technical solution that I was interested in working on. Because it's something where I might be able to work with gun owners, You know to provide better products, better tools as opposed to You know this the more adversarial relationship of trying to prevent a criminal from committing a crime.
+
+1 (3m 31s):
+So essentially you concluded quickly that preventing the Aurora shooting would You know was probably as long as guns are legal, probably almost impossible. 'cause I think that gun, that that shooter acquired the guns legally, and in many cases You know most cases they do. But having looked at the data you saw that You know, for example, last year or most recent You know 2021, there are about 48,000 gun deaths in the US and about close to 60% of those were suicides. You thought, well maybe there's another way to have an impact. Maybe we can prevent things like suicide or accidental deaths from gunfire.
+
+2 (4m 10s):
+Yeah, exactly. I started to think about very much, especially focused on children, teenagers. Those are situations where somebody and a, a kid or a teenager is getting access to a firearm that the owner does not intend for them to have access to. It's unfortunately pretty clear cut with children, teenagers where You know they're not legally allowed to own firearms. That that's almost always a parent's firearm or a relative's firearm or something else. And so the, the obvious solution is, okay, well how do we ensure that kids don't get access to firearms? And this is not a novel question, right? You know you have all sorts of rules and regulations around gun safety and storage and secure. Like here in Colorado, you're required to secure your firearms You know from unauthorized access. That's true in many states as well. But those don't seem to be particularly effective or at least not effective enough to really fully address the challenge.
+
+2 (4m 54s):
+And I think the reason why that is, is it really just boils down to humans make mistakes. And so that really lends itself towards You know well how do you prevent mistakes? Okay, can we provide pieces of technology that start to re remove some of the aspects of human error from at least portions of the equation of, of gun safety.
+
+1 (5m 10s):
+So you're essentially the idea that you decided to tackle was, can we build a gun that is only accessible, can only be used by a person? It recognizes
+
+2 (5m 22s):
+Exactly. A firearm that's always locked by default only ever unlocks when you pick it up and are holding onto it and then instantly re locks, most importantly, instantly re locks as soon as it leaves your control. And it's really that last part. 'cause that's what prevents your kid, your teenager, or anybody else from getting access to it because it's always locked no matter what you do. Right. You don't, there's manual action required to lock it. So
+
+1 (5m 42s):
+Initially, I mean this is, we're going back to 2012. What, how did you start to do that as a, as a 15 year old? What tools did you use to build a prototype?
+
+2 (5m 52s):
+Yeah, it's, I would say in a lot of ways, just like any other engineering problem, you You know, you define your problem statement, you define your hypothesis, then you start breaking it down to pieces. And so I, I ended up actually long story short winning first place in engineering at the Intel International Science Fair that year, which is sort of the, the top of that kind of competition. But they have all sorts of the science technology society that puts on these competitions. That's all sorts of rules and regulations. And You know, one of 'em obviously is You know can't work on weapons. It's also would've been illegal for me to have possession of a firearm at the time. Yeah. And so what I did was I actually went and, and bought a, a starter pistol, something that's not considered to be a firearm. I took it apart and started to look at it like, how does it work internally? How does it work? And then, so basically designed my own version of this, this prototype that lots of three D printed plastics and metal, lots of circuit boards, things like that with this little actuator that basically locked and unlocked the system based on the input of whether or not your fingerprint matched went through You know over the course of that project, a couple hundred different generations in iterations.
+
+2 (6m 46s):
+Again, lots of three D printing and lots of iteration to You know, get to the point where You know it was a good enough to win that final competition.
+
+1 (6m 53s):
+But this was not a, a gun that fired you just demonstrated that a fingerprint could unlock it.
+
+2 (6m 59s):
+Absolutely. Yeah. In fact, there was, it was designed to be deliberately not a gun and something that didn't look too much like a gun, it was like gun esque You know, but they wouldn't let me bring something that looked, even looked like a firearm into the science fair. And so yeah, it was basic, very much just designed to demonstrate how you would integrate with a firearm in concept. And I actually later ended up going on and applying that technology to an actual firearm as a prototype. A a year or two later
+
+1 (7m 20s):
+You won a, a grant in 2014, a $50,000 grant. I mean, you were still in high school in Colorado and, and really started to pursue this. I mean with, with 50,000 bucks, I guess you could like buy a three D printer maybe. So, so what was your plan? Like what did you do next?
+
+2 (7m 36s):
+Yeah, basically I ended up receiving that 50,000 grant from a group called the, the Smart Tech Challenges Foundation, where basically a group of folks in Silicon Valley came together to say, Hey, we should be investing into innovation and technology. There's no real investible companies in this space. Let's try to basically kind of like kickstart some right. To foster some innovation in this space. I had just turned 18 by this point as well, which is quite convenient 'cause I was able to ask my parents to, to buy a handgun for me and transfer it to me legally and used that as a platform. And so I basically ended up building kind of a a, a Glock 22, which is a full-sized handgun based kind of proof of concept prototype that had all this technology built into it. It was fingerprint only, it was a better version, a newer version of fingerprint because that by that point there was starting to be more, a lot more commercial investment into fingerprint technology.
+
+2 (8m 22s):
+Lots of improvements across the board, but it was still based around kinda this fundamental concept of, of using an electromechanical actuator to inhibit the functionality of the gun. Right. What I mean by that is you take a normal mechanical gun and then you electro mechanically prevent it from working in some way, right? You disconnect a piece of it, you put a linkage, You know a pin in some linkage, something like that. And that architecture is something that we later end up moving away from 'cause it's not particularly reliable. But at the time was sort of the only viable approach
+
+1 (8m 48s):
+You started at m i t as a student. And, but eventually you dropped out because this really became your focus and of your, of trying to create a gun that was safer. Let, let's just sort of step back for a moment and talk about this category, right? Because this techno a version of sort of childproof guns as the technology to create something like that goes back to You know the 19th century, obviously not super sophisticated, but this was You know, there were always ideas and designs on how to make guns safer, right? Yeah. And You know there have even been attempts to create and, and have some, have been successful to create technology that prevents unauthorized users from using guns, but it really has never taken off.
+
+1 (9m 36s):
+I mean, I remember back in the nineties and the Clinton administration, they were talking about You know smart locks for guns or sensors on triggers. And there was even a point, I think where Smith and Wesson in the nineties was talking about maybe developing it and it almost destroyed the company. I think the n R A was at the time was like, if you guys do this, we're gonna tell all of our members not to buy Smith and Wesson. And I think it, it forced the c e o at the time to step down. So are those and other rea I mean, what are the reasons why in your view, smart guns have never taken off?
+
+2 (10m 9s):
+It's a good question. There's a couple different factors here. So as you point out, the concept of a smart gun is by no means a new one, right? James Bond has one. Judge Judd has one. It's been a a, a popular science fiction topic for for many years. It's something that there have been a previous attempts at building by both startups as well as incumbents like, like Smith and Wesson. Nobody prior to Biofire has ever sold a commercial smart gun. And what I mean by that, and this is true for every previous attempt at a smart gun, nobody has ever actually solved the fundamental technical challenges required to make something that anybody would want to buy. And that that includes me. I'm a gun owner myself. I own a lot of firearms at this point. And You know, I would certainly not purchase any of the previous Smart gun attempts. And you'll hear this
+
+1 (10m 47s):
+Because, because they weren't, they weren't reliable. They
+
+2 (10m 50s):
+Weren't reliable. I couldn't trust them. If you
+
+1 (10m 51s):
+Needed it at the time of You know a crisis, you couldn't trust that it would work.
+
+2 (10m 55s):
+Absolutely. Right. And, and the product that we are building, it's not designed to be a toy, right? It's not designed to be a fun thing. You take the range and hopefully it works. Like the reason why you'd buy a Biofire Smart Gun or any smart gun is because You know that's the firearm that you want to have quick access to for home defense. And you're gonna one trust that the technology is truly gonna prevent your kid from using it if they should find it. And two, you are gonna trust that the firearm's actually gonna be usable in the unlikely event that you need to actually use it in an emergency. And if either one of those things is not true, it's not a good product and it's not one that you'd wanna invest in. In fact, it's probably much worse than just buying a traditional firearm and putting it in a gun safe. And
+
+1 (11m 30s):
+So, so just, I mean, your sense is the reason why these haven't taken off is entirely because the technology wasn't good enough. Not, not because it, I mean there's obviously other reasons, which is very powerful. Gun lobbies and organizations oppose them have, have been concerned that it's a slippery slope that the minute somebody makes one, they fear that lawmakers will try and make every gun a smart gun. Yeah.
+
+2 (11m 56s):
+Two answers on that one. The n r a as an example, does not oppose the development of smart guns, right? That's their public stance. You can go read it on their website. And when they have pushed back on smart guns in the past, they were pushing back on situations where a basically non-functional firearm would've been mandated for an entire state. But bio fire's approach here is, is really important. We've had lots of conversations with regulators, both at state levels and federal levels to make it very clear that this has to be a choice. Yeah. We are building a product that we think is the best product you can buy for home defense, right. For a certain kind of home defense use case. But there's lots of situations where that firearm is not gonna be the right choice.
+
+1 (12m 33s):
+I'm curious what, I mean, probably many of those people are motivated to buy a handgun for self-protection. Absolutely. But there's really conflicting data around this. I've spent time looking at it, and I'm sure you've seen the same data from the C d C and other places that show wild divergence and how often guns are used to prevent in self-defense situations. Like anything from You know 15,000 times a year to 2 million times a year. The overwhelming evidence shows that most people who actually use a handgun in a self-defense situation, the benefits are outweighed by the risks. So what's your take on it? I mean, do you, do you believe that there are significant examples every year in which people are using handguns to defend themselves, You know, and and protect their lives?
+
+1 (13m 21s):
+And, and had they not had them, they wouldn't be alive?
+
+2 (13m 25s):
+My short answer is yes. I do think there are real environments on a You know regular basis where people are using firearms as a either You know as a deterrent or as an actual way to prevent You know threats to their personal health safety and their family's health and safety. Do I think that is anywhere near as common as, as most people think it is? Absolutely not. I think it's a very unlikely event. But at the same time, I think that kind of even independent of that, people are gonna continue to buy firearms for home defense. Right? And, and that is something that I I is only increasing rapidly year over year. In fact, it is rapidly becoming the primary reason why people buy firearms. And sure some of this is You know covid and, and other sort of You know major political and and cultural things that have happened You know in the United States over the past couple years.
+
+2 (14m 6s):
+But also there's just a lot of reasons why people You know, see that as a potential way to protect themselves, their family.
+
+Mercury (14m 13s):
+We're gonna take a quick break, but when we come back more on the risks and opportunities of smart gun technology like bio fires, stay with us. I'm Guy Raz and you're listening to How I Built This Lab. Hey, it's Guy Raz here. You're about to hear from Gagan Bani entrepreneur and Mercury customer. To learn a little more about why Mercury is the best banking partner for your startup journey. I chose Mercury because I feel like as an entrepreneur, my goal is to try to build a product and a company. And most banks require me to understand a little bit more about how they operate, how they work, and what I need to do to interface with them. Whereas Mercury is the opposite. I don't have to think about anything. I can just log in, send a wire, check my balance, and move on with my life. Join Go and Bani co-founder and c e o of Maven and more than a hundred thousand entrepreneurs like him who choose Mercury for banking, credit cards, and the resources to turn their startups into success stories. Visit mercury.com to learn more. Mercury is a financial technology company, not a bank. Banking services provided by Choice Financial Group and Evolve Bank and trust members F D I C.
+
+2 (15m 31s):
+Hey, while we're taking a little break here, I wanted to take a moment to tell you about an episode of How I Built This that we released a couple of weeks ago. And it's about how one company created a premium skincare brand for men before there was a market for it. In 1998, a former Mary Kay Cosmetics executive Ker and Dan Durand came up with an unorthodox idea, a premium skincare brand for men.
+
+1 (15m 56s):
+But back in the nineties, no one believed that American men would ever wanna moisturize or exfoliate or even care about their skin at all. The biggest companies in skincare had attempted the male market before with very little success, and investors were reluctant to bite at the idea. But Corin and her husband Jeff, forged ahead slowly building one of today's best known and most lucrative men's skincare companies. You can find this episode by following How I, Built This, wherever you listen to podcasts. And scrolling back a little bit to the episode, Jack Black Skincare, one more thing before we get back to the show, please make sure to click the follow button on your podcast app so you never miss a new episode of the show.
+
+1 (16m 40s):
+And it's totally free. Welcome back to How I Built This lab. I'm Guy Roz and I'm talking with the founder of Biofire Kai Kloepfer. He thinks that his company's smart gun technology will reduce gun related accidents, and he's confident that there's a market for that. So guns, people will own them. And that's not gonna change. What you're saying is we wanna offer something that is a little safer, and it's not gonna be for everybody, it might not even be for the vast majority of gun owners, but there is gonna be a sliver of people in the US who might be hesitating to buy a gun because they're worried about You, know their kids getting ahold of it or something like that, but that might feel comfortable with this solution.
+
+2 (17m 28s):
+Absolutely. And I would say I think that sliver is bigger than you think. It's, and and the reason for that is there's basically two kind of primary groups of people that buy firearms. There's what I would call gun enthusiasts. And this is what most people think of when they think of gun owner. Like, I'm a gun enthusiast, I own multiple guns, I care about guns, I follow the latest developments, et cetera. Not just because professionally, but like personally, I think it's interesting that being said, over 50% of gun purchasers, not number of guns sold, but over of gun purchasers do not fit that category at all. It's not part of their community or their hobby or their sport, right? It's more in the category of, of going to Home Depot and buying a power drill. Hmm. And this entry-level community, this group of folks that are, are thinking about buying a firearm for the first time, that community is tend to be the folks that have the least experience with firearms.
+
+2 (18m 11s):
+It tends to be the highest rate of accidents, the highest rate of mistakes, and they tend to be the most concerned about unauthorized access. Alright,
+
+1 (18m 18s):
+Let me talk, let's ask talk about the technology for a moment because a, let's just say a basic You know handgun, like a Glock is a very elegant piece of technology. And I, I mean, I, I hesitate to use that 'cause I know that You know some people listening really don't like to hear about guns, but just sort of looking at it, I mean, it's a very, very unbelievably simple You know series of, of pieces that come, come together to produce this very powerful and deadly weapon. What you guys have is, has tons of technology packed in. So for people who haven't seen the video of Biofire, explain how it works. It, it's a nine millimeter gun.
+
+1 (18m 58s):
+You know your standard kind of handgun and it it uses any nine millimeter ammunition, right?
+
+2 (19m 4s):
+So basically, yeah, so the Biofire Smart Gun is a, is a fully custom novel nine millimeter smart handgun designed from the ground up for this home defense use case. The way that it works is it's always locked by default, right? So anytime that the owner or somebody the owner's chosen is not interacting with the firearm, it's locked and unusable, which means unable to be fired, right? If you were to pick it up, put a round in the chamber, pull the trigger, the gun would not fire. Okay? Again, we're very focused on, on home defense, right? So folks that might be buying a firearm to put in their nightstand drawer to keep accessible in the home, something like that, right?
+
+1 (19m 34s):
+So people who want it available in, in the event, in the unlikely event that their home is broken into, they want to access it quickly. But if it was kept in a safe, you can't access it quickly. If it wasn't loaded, you can't access it quickly. But of course that's the safest way to store it.
+
+2 (19m 50s):
+Correct? And, and one of that's actually one of the main reasons why we're focused on home defense. Not only is it, is it good a good market and there's a lot of people that, that have some unmet need here that we can address, but there is this sort of inherent tension between in practice, again, if you're actually gonna practically own a firearm for armed defense, the situation where you're gonna use it is gonna be the middle of the night. You just woke up, you're groggy, you have no idea what's going on, and you have probably literally seconds to access the firearm at most. And what that means is you have to make a decision of You know, do you optimize for the You know once in a million event You know of somebody breaking in, or do you optimize for the You know the day-to-day event of your kid finding it and you can't really solve for both, right? It, there's no technical solution that allows you to solve for both bio fire's. Product does. Our system is just inherently secure when the owner or some of the owner's chosen picks the firearm up, it automatically wakes up and recognize their biometrics.
+
+2 (20m 37s):
+There's two ways that you can do that and you'll need one of them to work, right? You don't need both. You just need one, which is either a fingerprint sensor that's built into the grip, kind of underneath your middle finger of your dominant hand, or a three d facial recognition system that sits on the back similar to like an Apple face ad.
+
+1 (20m 52s):
+So there's a camera in the gun actually. Yeah, a
+
+2 (20m 55s):
+Little camera. The camera and a, and a full sort of three d infrared structured light solution as well. Sure. But once either one of those recognizes again, the owner or some of the, the owner has chosen to enroll into the firearm, the gun unlocks it then stays unlocked the entire time you're holding onto it. Anytime it's unlocked, it functions basically like a normal firearm. If it's around in the chamber and you pull the trigger, the gun fires on, we can talk about this later under the hood, we've totally reinvented the entire operating concept of how the gun works. It's fire by wire. It's very, very novel, but none of that is visible to the customer. You just pick it up and you pull the trigger. So
+
+1 (21m 25s):
+Un unlike a a standard handgun, there are electronics in it. It is has has a battery.
+
+2 (21m 30s):
+Yep. It has a battery, it has a bunch of different circuit boards, software processing, and that's how we run the biometrics, the electronic fire control. Yeah, there's lots of internal, basically monitoring systems that help ensure reliability. All of those are basically designed to improve You know the reliability and user experience of the system.
+
+1 (21m 45s):
+I wonder, You know there are gonna be people who are, who are listening to this who are gun owners or gun enthusiasts, and of course You know where their head is gonna go to, which is, wait a minute, all of this data, this biometric data you have this You know my face You know my thumbprints, which means you can control my weapon too. I believe that all of the biometric data is, is just kept locally on the gun. How do you guarantee or how do you assure people that it's not kept in a central database that You know that Biofire controls?
+
+2 (22m 21s):
+It's a great question and yes, you're definitely correct. That's, that's a key concern of our customers and one that I think is, is a reasonable concern. The short answer is we do not have any of that data. We have no ability to access it. We have never had any ability to access it. We do not process it. We do not handle it. The
+
+1 (22m 34s):
+Gun has no wifi capability. It doesn't connect to the
+
+2 (22m 37s):
+Internet. Yeah. So, so the way that we do that is the gun itself is, is totally air gap. There's no wifi Bluetooth, G P S I O T RF communications of any kind and all of the biometric data, all the usage data, the maintenance information, every single piece of information that the firearm You know has to collect to be able to perform the function that we're advertising is stored encrypted locally within the firearm. And those encryption keys are generated by the device itself during manufacturing in a secure element. Biofire has never seen the keys. We never process them or handle them in any way. And basically once a, the owner sets that firearm up, Biofire has no ability to, to factory reset it or, or assist the owner really in detail with what's going on in any way. So
+
+1 (23m 13s):
+It basically, if, if the gun owner, if it only recognizes the owner, 'cause I think you can add people to it, right? You can. Yes. But if it just recognizes the owner and the owner just dies that gun is obsolete.
+
+2 (23m 23s):
+Correct? Yeah. And we're looking at ways that might long-term allow people to opt into like a, a kind of password recovery flow or something like that, that still would not involve any servers, but would generate like a backup code or something. But as of right now, the only method that we found that we're comfortable releasing is it is locked the owner's biometrics. And don't get me wrong, the owner has full control, right? So if they want to factory reset that and sell it to somebody else, they can do so. But if it, if there was something unexpected that happened, yes, that firearm would be, would be unusable.
+
+1 (23m 51s):
+How long do you think it'll take people to get comfortable with the idea that it's reliable? Like my iPhone is pretty reliable, right? I mean, it recognizes my face and it's, it, I can't remember a time when it didn't, but guns different, right? Especially if people are thinking about personal safety. I mean, how do you think you're gonna be able to kind of get to a tipping point where skeptics who are gonna be like, there's no way I'm putting my life in the hands of a, of a facial recognition system. How do you think you can kind of create a tipping point where they're gonna be like, huh, okay. I I trust this
+
+2 (24m 24s):
+First step is you have to make it reliable. And I know I've said that before, but like, I think it all really, I am an engineer and it does really come back to this is not a space or an industry or a product where You know we could, we could go do some really amazing job on the marketing perspective and and sell people kind of a, an okay product, right? You have to start off with a really great product and then you still have the challenge of, of how do you actually build that trust with your customers. It's really hands-on experiences, right? And what that means is we wanna have as many smart guns You know, available out to our customers. Our customers tend to show them to their friends and to other people. That also includes getting it in the hands of, of trusted experts and reviewers on, on YouTube and podcasts and things like that. And additionally, You know, I would say we have a lot more orders than we can fulfill You know, we, we have a ton of demand and our focus right now is, is fulfilling that demand.
+
+2 (25m 8s):
+And I think as more and more of those get out in the wild, it'll also mean more and more opportunities for people to have hands-on experiences and and to build that trust with our customers. Do
+
+1 (25m 15s):
+You think that down the road you're gonna need the gun enthusiasts to buy your product also? I mean, I, I think I keep thinking of Rivian and we had r rj sc on the show a couple months ago, and he's brilliant founder and he really, he understood that You know trucks are the number one, two and three bestselling vehicles in the United States. And to really make a dent on trying to clean up the environment, you gotta, you gotta make electric trucks. But Rivian are still purchased mainly by people on the coasts and people who are kind of snowboarder skiers, You know people in, in urban settings. It's still, it, it's iPhone users, right? Technology people, You know. And I, I would imagine at least for now, your product is gonna appeal to those people too.
+
+1 (25m 56s):
+But down the road, do you feel like you need the You know the hunters and people in rural areas? And do you need those customers too to make this a successful product?
+
+2 (26m 7s):
+I think yes. Not necessarily because of the, the number of people there, but because anybody who's thinking about buying a firearm, right? Whether they're super experienced or especially if they're not super experienced, is gonna go ask You know people that they know about You know whether or not this is a good product, right? And this is a big part of how we think about this. I I don't, again, I'm not expecting that every gun enthusiast or every person who owns a firearm in the United States is gonna buy a smart gun, right? 'cause a lot of them You know, don't, don't see the use case, they don't see the value. It's not the right fit for them. It's too expensive. That's great. And like, whatever their decision is, that's why that choice aspect really matters. What I do want You know every gun expert enthusiast to say is yeah, like that's a high quality firearm, right? Like You know. I I, I would trust that, right?
+
+2 (26m 47s):
+I I don't think I personally need one, but I would trust that. And that's why You know we've invested just as much time, energy, and capital into building a really good gun as we have into building a smart gun.
+
+1 (26m 57s):
+We're gonna take a quick break, but when we come back, Kai's vision for the future of this company and maybe even the gun industry. Stay with us. I'm Guy Raz and you're listening to How I Built This Lab. Welcome back to How I Built This Lab. My guest today is the founder of Biofire. It's a company that makes fingerprint enabled smart guns to try and curb firearm related accidents and deaths. SOkay, you've been working on this technology really since you were a teenager and you, you formally launched your company back in 2016, even while you were a student, and then you ended up dropping out of college in 2018 to, to focus on this full-time and with several years of building this full-time under your belt.
+
+1 (27m 49s):
+I wonder, I I'd be curious to sort of get your prediction on this and, and this is pure speculation, but I mean, is there a world in, in which You know, let's say five or 10 years from now where, where the big gun manufacturers see what you're doing and say, You know, huh, there's an opportunity here, and then they start making smart guns.
+
+2 (28m 7s):
+Absolutely. Yeah. And I think in a lot of ways bio fire's objective is we want everybody to making smart guns, right? I think Biofire is never going to be You know, not not dissimilar from a Tesla or Rivian. Like, we're never gonna address the entire market and we have no plans to, right? We want to You know, find good niches and build good products and, and be the best in the industry on that. But there's always gonna be the need for competition and for other brands in the space. And so You know, I I think hopefully yes,
+
+1 (28m 30s):
+Your, I think the, the starting price of pre-order price is like 1500 bucks for the gun. It's like three times the price of just a, a Glock 19. Presumably over time the price will go down. There's a lot of technology and there's gotta be expensive. But I mean, it's kind of tough to compete with. I mean, it it You know, if you're looking to build a You know to attract a a significant number of customers down the road, I'm assuming you're gonna have to bring that price down, make it maybe competitive with a non-smart gun.
+
+2 (28m 60s):
+Yes, definitely. Our product is positioned at, at a premium price point, I will say among folks that are in kind of our core customer demographics, the average basket price, right? If they, when they go buy a firearm, the the amount of money that they spend on average is closer to 12 to $1,300 because they'll buy a biometric gun safe for a couple hundred dollars, they'll buy some accessories, upgrades, things like that. Almost all those features are, are directly built into our product. And so I see my, my initial argument would be it's more like we're competing with a a 12 or 1300 price point, which again, 1500 is still a premium for the product that we're building right now. Yes, definitely our objective You know we're, we're a new company, we're scaling our manufacturing efforts. We definitely don't benefit from the economies of scale of, of the incumbents like Glocke. And that's partially reflected in the pricing.
+
+2 (29m 41s):
+And those will You know as we get more successful and ship more product like those, that pricing will come down and allow us to further reduce the cost. But those are, are little ways down the line.
+
+1 (29m 49s):
+I think you've raised about $30 million total. I know you have some, some very well-known backers, Ron Conway and, and others, but I wonder if you had issues trying to raise money because You know there are so many, so, so there's so much pushback. There's been so much pushback from special interest groups and even gun owners and it's never worked. So I have to imagine you face some skepticism from investors who are like, I You know this is a niche market.
+
+2 (30m 18s):
+Yeah, I would say the easy answer is fundraising is always hard no matter what you're doing. That being said, yes, I think definitely, especially early on fundraising for Biofire was probably more challenging than average. And I would actually mostly pin that on, on two main factors, neither of which is You know special interest groups or the N R A or anything like that. The two main factors is one, we're building hardware and two, we're building complicated deep tech hardware that is technically a weapon. When I was fundraising initially, let's say like You know, eight years ago or so, those two factors alone basically opted out the vast majority of traditional venture investors, right? Either they would not invest in hardware, right? Which was pretty common. There's lots of venture funds that only do software deals, right? Or most venture funds, what would have is known as a L P A restriction basically.
+
+2 (31m 1s):
+Yeah. The agreement that they have with their investors would have a clause in it saying you're not allowed to invest in in vice. So weapons, pornography, drugs, et cetera, right? Yeah. And You know, no matter why we're doing this, no matter that the whole point is to improve safety and, and save lives. You know, oftentimes we would trigger those sort of clauses. I
+
+1 (31m 18s):
+Know the guns are starting to ship out in 2024 Early
+
+2 (31m 21s):
+Next year. Yep. Right.
+
+1 (31m 22s):
+To the first You know. And how many, how many have been ordered so far? Is that public?
+
+2 (31m 27s):
+I can't disclose exact numbers, but thousands is all I can say thousands. Okay. Yeah,
+
+1 (31m 30s):
+Because I know you had, you had two models, you a, a launch edition and then the second edition. So those will start to be sent out and presumably, I mean, you're manufacturing them, so what you can use now, what you've played around with and shot it, is totally reliable. You, you pick it up and it, if it recognizes you, it's like it's a millisecond, it's it's a half a second. It, it's ready to go.
+
+2 (31m 55s):
+Yes. Basically the goal is the system is unlocks faster than you can pick it up off a table. So in a fraction of a second basically. I gotcha. And so part of the reason why there's this much complexity and, and technology built into it is You know we need to deliver very high quality biometrics faster than almost any other application that they're used in. And that's been, I can say quite the engineering challenge for our software teams and, and electrical engineering teams to handle a lot of the complexity required with that. Additionally, I mentioned earlier in the show, You know how with that Glock prototype that we were working on a long time ago, it used an inhibitor, right? It basically took a mechanical system and used that to, to prevent the gun mechanically from working. It turns out that doesn't really work, right? The kind of actuators that you could put in there would add another second or so to the, the process after you had already finished processing all the biometrics and, and software data, right?
+
+2 (32m 43s):
+Biofire, we really went back to the drawing board and pioneered the world's first ever electronic fire control system in a handgun. The trigger mechanically is not connected to the firing pin in any way. There still is a mechanical firing pin because we want to have it support traditional nine millimeter ammunition, which needs a traditional firing pin. Yeah. But the, the connection between the trigger and the firing pin where in a normal gun would just be a mechanical linkage in our system is, is fully electronic. The trigger is really just a, a fancy switch that is an input to that salt state fire control system. One of the important parts about that, not only is it dramatically more reliable because it's solid, say electronics that don't wear out You know within any You know lifetime of the customer and and never need any maintenance. But it also can be armed and disarmed in about five microseconds, not milliseconds microseconds.
+
+2 (33m 25s):
+Which means like for all intents purposes, it's effectively instantaneous.
+
+1 (33m 29s):
+I have to imagine it's gonna take a while for you guys to reach profitability. This is to be a, a cash intensive production. I mean, you are manufacturing, you're man in a manufacturing business, you're not making software. No. And I have to imagine the first You know run of firearms that you've sold. Maybe the costs are higher to you than they are You know for the customer. At what point do you, do you see sort of a path to profitability? I mean, 'cause this this is a multi-billion dollar industry. There's a, there are, I mean for better or worse, and I know again, You know this is a controversial topic for some people, for many people, but fact of the matter is guns. It's a big industry. It's a big market in the us
+
+2 (34m 8s):
+Yeah. So I would say you asked previously like You know why has nobody actually succeeded in building this technology prior to Biofire and You know, my answer was, You know nobody actually actually ever built the technology, thus they couldn't build a product or a company around it. I think one of the, not by any means the only reason, but one of the main reasons why nobody has succeeded prior to Biofire in building technology is nobody succeeded in having the kind of capital required to build the kind of engineering team required to do this. This is not something you can do with a cheap engineering team. Almost the entirety of that $30 million has been spent on r and d right on, on basically paying engineers to do engineering. At the same time, the reason why we've been able to get access to that kind of capital is because we have an actual viable business model. I'm actually not sure that's ever existed in this space before You know, our series A, which we announced last year, that was the first ever venture led investment into a firearms company from Founders Fund.
+
+2 (34m 54s):
+That was a big milestone. And part of that was You know we were able to share a strategy that allowed us to push towards profitability, You know with without insane amounts of additional capital. So I can't share exact timelines, et cetera, of course, because it's always subject to change. But a big part of this from the very beginning has been You know we're not just doing r and d on, on a fictional product that You know we need to build one of, we're doing product development really on a product that is designed to be scaled into the hundreds of thousands or millions of units.
+
+1 (35m 21s):
+Kai looking ahead, where do you want to be in five years or let's say 10 years from now, do you wanna be able to come back on the show and say, You know we've saved X number of lives. I mean obviously there you're, it's inevitable that somebody's gonna use this in in a situation at some point that's gonna cause bad press. It's just a fact of the matter. It's gonna happen, somebody's going to use it and someone's gonna die. But there might be examples of people who You know where people could not commit suicide because they couldn't access this weapon. So in a perfect world, You know it's hard to, to make a gun a feel good story. But let's say, I imagine you'd rather that be the story than not.
+
+1 (36m 1s):
+What do you want Biofire story to be in five or 10 years?
+
+2 (36m 5s):
+I think the biggest thing for me is I want to prove out the technology, the product and, and have it be available as a real option to a widespread of customers. And that includes You know, being able to manufacture at scale. That includes You know, getting really good customer views that includes serving other markets and, and use cases than just You know the initial consumer one that we're talking about here. And really having this be very obviously part of the conversation. And not to overuse the, the Tesla analogy, and I'm not claiming Biofire is Tesla or anything like that, but in a lot of ways You know prior to Tesla electric vehicles were dead. That's true. Right? And you could talk to any car manufacturer and they would tell you that electric vehicles were, were a dead end. Not because they were probably impossible to build You know people built them, but because nobody wanted them. Yeah. And so I think the big metric success for me is really being able to get this in the hand of as many customers that are interested in adopting technologies as possible and have them have a really good experience, right?
+
+2 (36m 54s):
+And have that be a product that they can trust, that they can rely on and that they're excited to tell their friends about.
+
+1 (36m 59s):
+Kai Kloepfer, thank you so much. Thanks
+
+2 (37m 2s):
+For having me. Kai.
+
+1 (37m 3s):
+That's Kai Kloepfer founder and c e o of Biofire. Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app so you never miss an episode of the show. And it's totally free. This episode was produced by Casey Herman, with editing by John Isabella and research by Alex Chung. Our music was composed by Rum Team Arablouei. Our audio engineer was Neil Roush, our production team at How I Built This also includes JC Howard, Kerry Thompson, Elaine Coates, Carla Estevez, Chris Masini, Sam Paulson, and Ramel Wood. Neva Grant is our supervising editor. I'm Guy Raz and you've been listening to How I Built This Lab.
+
+1 (37m 51s):
+Hey Prime members. You can listen to How I Built This early and ad free on Amazon Music. Download the Amazon Music app today, or you can listen early and ad free with Wondery Plus in Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built This merch and gear at Wondery shop.com. Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.

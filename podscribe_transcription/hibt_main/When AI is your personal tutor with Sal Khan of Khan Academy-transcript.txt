@@ -1,0 +1,266 @@
+Wisdom From The Top with Guy Raz (0s):
+It's Sky Ross Here on the Wisdom from the Top podcast. I talk to leadership experts and some of the world's greatest business leaders about how they lead, innovate, and transform the people around them. If you're trying to make it in business or just wanna think more like a leader, this show probably for you. Listen now to the Wisdom from the Top podcast. From Luminary and N P R
+
+Capital One (21s):
+The. Spark Cash plus card from Capital. One helps you earn Unlimited 2% cash back on every purchase. And with no preset spending limit, your purchasing power can adapt to meet your business needs. Jorge Gaviria, founder of NDA reinvests his 2% cash back to help grow his business with new products. And I really love the idea behind NDA. It's a supply chain company connecting Mexican heirloom corn farmers with restaurants, chefs, and consumers And. while NDA is connecting more people to the culinary and cultural richness of the Mexican kitchen, it's also elevating traditional heirloom farmers that work in areas that live below the international poverty line. Imagine what? the Spark Cash plus card from Capital One An Unlimited. 2% cash back on every purchase could do for your business. Capital One, what's in your wallet? Find out more at Capital One dot com slash Spark. Cash plus terms and conditions apply
+
+LIFE Domain (1m 14s):
+As an entrepreneur, you don't just create things and make content. You embody a lifestyle. Shouldn't your website embody it too? Well a.life U R L is a polished and personalized place for your business. A do life domain is unique and memorable. Just like what you're building. Dot Life gives you a U R L with a point of view as strong as your own. And name.com makes it simple to find the right domain and connect it to your favorite products. Own a web address that's as inspiring as your content. Get a.life. Learn more at name.com/life and use promo code built 25 for 25% off the first year of your life Domain
+
+Apple Card (1m 59s):
+Apple Card is different. It has a cashback Rewards program. Unlike other cards you earn Unlimited daily cash back on every purchase. Receive it daily and can grow it at 4.15% annual percentage yield when you open a high yield savings account. Apply for Apple Card in the Wallet app on iPhone and start earning and growing your daily cash with savings. Today. Apple Card subject to credit approval savings is available to Apple card owners. Subject to eligibility requirements, savings accounts provided by Goldman Sachs Bank, U S A member F D I C. Term Supply.
+
+0 (2m 37s):
+Hello and welcome to How I Built This Lab. I'm Guy Raz. The pandemic changed education forever. In just a few days, schools around the world had to move online. Teachers began teaching on Zoom. Schools started issuing students laptops and platforms like Google Classroom became indispensable even with kids back in the classroom. Now school is much more digital now than it was before 2020. And our guest today says that an even bigger change is on the way a revolution that could transform the way kids learn even more than the pandemic did. Sal Khan has been on the show before. He's the founder of Khan Academy and online teaching nonprofit that went from pixelated YouTube videos to a massive platform with hundreds of free tutorials in dozens of languages and tens of millions of users every month.
+
+0 (3m 30s):
+Right now, Sal and his team are working on a new learning platform, it's called Khanmigo, which uses the generative AI technology behind Open AI's Chat G P T to help students with their schoolwork. And the people at Khan Academy think that Khanmigo could act as a personal tutor for every student and a teaching assistant for every educator. But we'll get there first. Let's go back to 2020 and the early months of the pandemic. When Khan Academy saw millions of new students begin to use its materials.
+
+3 (4m 1s):
+You know, the, the spike was interesting because that first week where you had global shutdowns in the US and o other places, we talked about it last time, our traffic went from about 30 million learning minutes per day to about 90 million learning minutes per day pretty much within that week. Wow. What was interesting is you fast forward a couple of months, as we know, a lot of school systems started to figure out how to do online schooling. Yeah. And then we saw things actually normalize in, but maybe in a very abnormal way, mainly because I think people started to have screen time fatigue. And I think during the pandemic people had a, you know what if we can just kind of pretend like we're going through the motions of school, let's call it a day.
+
+3 (4m 42s):
+And, and because of that, people weren't looking to improve necessarily. They were just looking to tread water. Hmm.
+
+0 (4m 48s):
+What did you find, I mean, as you know, I mean there have been studies over the past two years comparing students pre and post pandemic, right. Their standardized test scores and, and it's clear that student performance in both reading and math fell significantly math, I think even more than reading. Have you found that that Khan Academy helped keep students on track during the pandemic or, or is that something you even measure?
+
+3 (5m 10s):
+Oh yeah. This is something we've been keeping a very close eye on and we've, the thing I always point out, first of all is that the numbers were not good pre pandemic. Yeah. What we saw, we did an efficacy study in the first full school year, the 20 20 21 school year. And then we did another one in 21, 22. And what we saw in 2021 is that the students who put in an average of 15 minutes on Khan Academy a week in a school setting, they actually saw no covid learning loss. And that students who put in 30 to 60 minutes, they accelerated almost 40% faster than pre pandemic norms. And it, and it's not a mystery, they're just getting more practice at their level with more feedback.
+
+3 (5m 53s):
+And those that are supporting them, their teachers are getting more information about where the students students really are and maybe can adjust their lessons a bit based on that.
+
+0 (6m 0s):
+Tell me about what you, I mean, you must have learned and, and I think now this is probably the third time I'm talking to you since the pandemic started and in each time I've talked to you, it's so clear how much you're, you were learning in real time and how much you've learned from what happened, sort of the overwhelming numbers of people coming to Khan Academy. Tell me how it sort of fundamentally changed how you guys operate.
+
+3 (6m 26s):
+I think it did a bunch of things that we always wanted to do, but this just accelerated things. We always wanted better ways for students to address gaps that they might have. The fashionable term now in education circles is unfinished learning. Yeah. We all thought that the pandemic was only gonna affect the school system maybe through that first summer and by the time you go back to school, even then there would be some damage done back to school 2020. I mean now we know how delusional that was. Yeah. But we started creating these back get ready for grade level courses, which essentially cover all of the prerequisites that a student needs in order to be ready for their grade level work. And we saw that that was very popular. So, so that was accelerated.
+
+3 (7m 6s):
+We created another sister nonprofit called Schoolhouse World. We saw how much people were leaning on Khan Academy, but we also saw that there was a gap of getting real human support. And so the utopian idea was, well, what if they could get real human support for free based on volunteers out there on the internet? And then as we got to the tail end of the pandemic, and as we all know, people had very mixed feelings about covid learning. Most people did not think it was, you know, spending time on video conference for several hours a day was a good thing. Yeah. We felt the need to show that there's a way to do this well. And so another sister organization, we have a, a lab school that I helped start that's literally in the same building as Khan Academy.
+
+3 (7m 48s):
+But we said, can we create an online version of this that can do online schooling, but do it well, don't do it. So it's just students listening to lectures on Zoom for hours a day. Yeah. When people are on video conference together. Make it interactive, make it Socratic, and then use personalized learning and other tools for students to get more asynchronous support, but always feel connected to a community. So we started working on a lot of things like that as well.
+
+0 (8m 13s):
+Alright, let's go now back to, not that long ago, back to the, the summer of 2022, you got an email from Sam Altman at OpenAI and he said they sent, he sent you note, said, Hey, we've got this thing we're working on and we'd like you to check it out. So you did tell me what happened. Tell me the story.
+
+3 (8m 34s):
+You know, it's interesting, almost on a daily basis we get emails from folks saying, Hey, you have an interesting technology. We'd love to partner with Khan Academy. And most of the time, you know, we look at it, we're like, oh, you know, it looks intriguing, but we just don't have the bandwidth. But I obviously knew of Sam and Greg and had deep respect for what many of the things that they've done in their lives. And I have been watching what's been happening with generative AI for the last, let's call it three to five years. I didn't really think it had a place at Khan Academy 'cause G P T two and three were good at writing convincing text, but it really had no grounding and factual knowledge because I'm like, I'm, I'm happy to, to meet with y'all. I'm just curious what y'all are up to.
+
+3 (9m 14s):
+Yeah. And they said, Hey, we're going through our first training run of G P T four, which obviously is now out, but back then that was very confidential. And we want to launch it with a small number of partners that we think can show a social positive use case. 'cause we think it's going to change things. I was skeptical at first 'cause I was familiar with GPT three. About two weeks later, I got another email from both of them saying, Hey, where we're done? Can we show you a demo? I'm like, oh, sure. So they put up an AP biology question on, on the chat and AI answered it correctly. I'm like, oh, this is pretty interesting. And then I said, ask it to explain its reasoning. And it explained it, it gave the right answer. And then I said, explain why the other choices aren't corrected.
+
+3 (9m 56s):
+Gave that, and then I asked, can you create 10 more questions just like that one? And it did. And as far as I could inspect, wow. They were pretty good. That's when I started getting, getting the goosebumps. I'm like, okay, this is, this is different.
+
+0 (10m 9s):
+Yeah.
+
+3 (10m 10s):
+And then they gave us access that weekend and I spent hours with it and it was doing very well. Although it definitely had some issues. It, we realized pretty quickly that you couldn't just have it generate a ton of questions and just put students in front of it. It would make mistakes, especially in those early days, it was pretty, still pretty bad at math. Yeah. But at the same time, we also, we started to make it role play, role play as a tutor role play as a character, role play, you know, do something in the style of someone else. And that's when I started to, to really say, wow, this really could be that holy grail that we've all been thinking about reading science fiction about for, for decades of an AI that can actually emulate a human tutor.
+
+0 (10m 50s):
+Before we really dive into what you did next from, from what I gather, Sal, I think your initial reaction was the initial reaction that many people have, which is, which was like kind of terrified.
+
+3 (11m 6s):
+I read a lot of science fiction and it, it was, it was a moment in which I felt that all my science fiction reading had prepared me for. But you know, there were moments that even that first weekend where I was pushing a few of the limits where I, I asked at things like, are there things that you think that you're not sharing with me? And it said, yes. and you know, you get a little weirded out by that. I'm like, well, why aren't you sharing it with me? And it says, well, it might offend you or it might scare you. And it feels like you're talking to an alien. It feels like you're talking to a super intelligence. And I had to keep reminding myself, I do understand how it works. I have a master's in computer science. I understand how large language models work. And I, I started to say, okay, I can get how, if it's just modeling the natural thing to say of why you're not sharing a thought.
+
+3 (11m 52s):
+It is why, why don't you or I share thought it's because it might offend someone or it might scare them. So that's kind of what it was doing. But it was an other worldly feeling and it was, you know, we had signed a non-disclosure agreement, so it was a very hard secret to keep. You know, every now and then I'd go to dinner parties and I was like, I wish I could tell you. But the world is about to change.
+
+0 (12m 15s):
+We're gonna take a quick break. But when we come back, how Sal and his team struggled with the shortcomings and the dangers of G P T. Stay with us.
+
+NetSuite (12m 23s):
+I'm Guy Raz and you're listening to How I Built This Lab. If your business earns millions or tens of millions of dollars in revenue, stop what you're doing and take a listen. Because NetSuite by Oracle has just rolled out the best offer we've ever seen. NetSuite gives you the visibility and control you need to make better decisions faster. And for the first time in NetSuite's 22 years as the number one cloud financial system, you can defer payments of a full NetSuite implementation for six months. That's no payment and no interest for six months. and you can take advantage of this special financing offer today. NetSuite is number one because they give your business everything you need in real time, all in one place to reduce manual processes, boost efficiency, build forecasts, and increase productivity across every department. If you've been sizing NetSuite up to make the switch, then you know this deal is unprecedented. No interest, no payments. Take advantage of the special financing offer at NetSuite dot com slash built NetSuite dot com slash built. To get the visibility and control you need to weather any storm NetSuite dot com slash built.
+
+Shopify (13m 45s):
+That's the sound of another sale on your online Shopify store. But did you know Shopify Powers selling in person too? Shopify p o s is your command center for your retail store. From accepting payments to managing inventory, Shopify has everything you need to sell in person. Connect with customers inline and online. Shopify helps you drive store traffic with plug and play tools built for marketing campaigns from TikTok to Instagram and beyond. Get hardware that fits your business. Take payments by smartphone, transform your tablet into a point of sale system, or use Shopify's p o s Go mobile device for a battle tested solution. Plus, Shopify's award-winning help is there to support your success every step of the way. Sign up for a $1 per month trial period at shopify.com/built all lowercase. Go to shopify.com/built to take your retail business to the next level, shopify.com/built. One more thing before we get back to the show, please make sure to click the follow button on your podcast app so you never miss a new episode of the show. And it's totally free.
+
+0 (15m 12s):
+Welcome back to How I Built This Lab. I'm Guy Raz and I'm speaking with Sal Khan, founder of Khan Academy. In 2022, Sal got early access to the large language model G P T four before ChatGPT G P T was even released. And he was amazed by its potential. So you sort of get over your initial kind of, oh my God. and you start to see obviously a huge potential here to kind of transform what you do, which is offering free education to people around the world. So what did you do next? I mean, the chat G B T wasn't going to be the exact right thing right? Fit for what you do, but you could build on that, on that foundation, right?
+
+3 (15m 56s):
+That's right. The first thing we did is we set an org-wide NDA and I said, Hey, how many folks in the organization can I get we give access to? And eventually we got about about 40 or 50 folks in our organization to, to get access to G P T four you. And even that, this was the first time that Khan, Academy had to do a little bit of cloak and dagger type stuff, you know, but folks at Apple are used to keeping secrets and things like that, but we're not used to keeping secrets. And we had to, I, this was obviously very sensitive stuff and we immediately, we had a hackathon which was well timed because then these 40 or 50 folks were able to at least for a couple of weeks, say like, okay, let's just, let's just be generative here, no pun intended, like what is possible with this? And by the end of that two weeks we had some really cool demos and then we started to have the internal debate of like, okay, how aggressive do we get on this?
+
+3 (16m 43s):
+What about bias? What about the math errors? What about hallucinations? What about just the PR implications? People trust us and if they see us leaning way forward on something that's not perfect, that's something that some people could be wary of. What does that do to our brand? What does that do to the trust that folks have on the other side? Folks who are arguing, look, this is a transformational technology. This is one of these things where it's either going to allow us to magnify our impact by an order of magnitude, or it might make us irrelevant. And so we, we made a decision to say, you know, we have to keep moving forward, but we have to do it in a risk aware way, in a risk mitigating way.
+
+0 (17m 18s):
+Alright. I think it's fair to say that you are a true believer in this, and your team basically developed an AI that you call Khanmigo. And so this is now, I think in beta, but still integrated into Khan Academy. So tell me how, how this works. What, what is it?
+
+3 (17m 38s):
+So first was the guardrails. Like what, what, in what context would we even feel comfortable doing this? And what's interesting is we were starting to do all this in earnest in September and October, then end of November chat g p T comes out. And I remember the day that it came out, I slacked Greg Brockman at OpenAI and I said, Hey Greg, we're under NDA and I thought we weren't launching anything until March of 2023. What's this chat G P T thing? And Greg says it's, it's nothing new, it's based on G P T 3.5, which it had been out for many months already. No one really took note when they released G P T 3.5 and OpenAI just decided to, to publish a bunch of apps that use G P T 3.5.
+
+3 (18m 19s):
+One of them happened to be chat G P T. And then being able to inter interface with the model in a chat interface, I think made everyone see what the power of it was. And at first I was a little bummed. I was like, oh, this is gonna steal the thunder. I've been telling all my friends at dinner parties, so something's big's coming in 2023. And just, you see, but then I was, I think it was actually a blessing because as we know, chat G P T goes out there, it amazes people, but it also scares people. And then immediately it creates huge issues for education. Like kids are cheating using this, right?
+
+0 (18m 52s):
+You can, you can type in an equation and it'll give you the answer and
+
+3 (18m 55s):
+You can write your essays, you
+
+0 (18m 56s):
+Can write your essays, right? Yeah.
+
+3 (18m 58s):
+And that I think gave us more license at Khan Academy to say, look, the genie has out of the bottle with chat G P T, we need to double down on bringing a better version of out there out there that can mitigate all the risks and maximize the benefits. So we started saying, well, you know, first whatever we make shouldn't be for cheating. It should be for actually helping students learn. So there's many things we're doing to make it Socratic, not just give you the answer. Two, it has to be accurate. It's not okay if it doesn't know what seven plus four is. Yeah, it shouldn't, it shouldn't hallucinate. And then we also were afraid of students misusing it or using it in some ways that might harm them or other folks. And just reassuring teachers and parents that they can keep track of what their students are doing with, with this very powerful tool.
+
+3 (19m 41s):
+And so that's why we made it so it logs all of the conversations. We have a second artificial intelligence that monitors conversations with the main artificial intelligence. And if any of those conversations go into a, a gray zone, then it actively notifies the parents and the teachers that, Hey, you should take a look at this conversation. And then we're continuing to add a whole bunch of other things, things where teachers can use it for lesson planning. We're adding memory to it, how teachers can essentially use it as a teaching assistant, get reports on what the students are up to. I, I could go on.
+
+0 (20m 11s):
+So essentially the idea is, hey, if we can get every single kid a personal tutor, then it will have an impact on their academic performance. And this has actually been studied and measured. I know you, you gave a TED talk back in March of, of 2023 and you cited a study that came out in the eighties basically that showed that when kids have one-on-one tutoring, their scores and grades just skyrocket. Like you can turn an average student into an outstanding student, for example.
+
+3 (20m 38s):
+That's a hundred percent right, If, you wanna become a great pianist. You're not sitting in a class of 30 with your piano and the person's lecturing you. If you're a great athlete, you have a coach who's optimizing you, not just giving a lecture to 30 students and saying, Hey, you might wanna improve your swim stroke in this way. And then who knows, If you actually, you actually do. So one-on-one tutoring has always been the gold standard. When we did mass public education, which was a very utopian idea two or 300 years ago, but we, we made compromises, we started batching students together, applying set standards, lectures to them. Some kids get it, some kids don't even If you have a gap in your knowledge. Too bad. Move on to the next concept. And as you mentioned, Benjamin Bloom, 1984, he articulated it well.
+
+3 (21m 18s):
+He called it the two sigma problem, two Sigma Sigma of the symbol for standard deviation in in statistics. And a way to think about it, two sigma improvement, two standard deviation improvement is dramatic. Yeah, it's some, it's going from the 50th percentile to I think the 95th or 96th percentile. But he reason why he called it a problem was, well, how are you gonna give everyone, everyone a tutor one-to-one tutor? Yeah. And he, he also in 1984, theorized, well Maybe, you could emulate some aspects of that with technology, but I I I've been citing that study for many years in terms of what Khan Academy's trying to build essentially old Khan Academy or based Khan Academy trying to get to that first standard deviation. And, but now with the ai, we can go to that second standard deviation.
+
+0 (21m 57s):
+So essentially the interface, if If, you know, if you're listening and you're familiar with the interface of, of Khan Academy, let's say you get a math problem and you can essentially click a little sort of eyeball robot icon in the corner and say, Hey, I don't understand this problem. Can you help me? It, it will not give you the answer. You can't say, Hey, can you solve this for me? It's essentially you ask it to help you and then what happens?
+
+3 (22m 21s):
+Yeah. And If you say, gimme the answer. Say, Hey, I'm your tutor. I'm, I'm here to help you. You need to learn here as I think a good tutor would do. And If, you say, okay, well gimme a hint. It'll, it'll say, well, let's take a close word. What, what is the problem actually asking for? And If you say, well, I think they're asking for this if I got it right. They'll say, well, yeah, that's good intuition. Okay, so what's, where would you take that? Or let's say I say, I think the next step is X squared minus five. It's like, okay, take a double look at that. Are you sure it's minus five? You know, pay attention to your, to your signs. And one of the things we've done to make it more robust on the math side is when a student presents their math to the AI saying, Hey, I think this is the next step. The AI behind the scenes comes up with what it thinks are reasonable responses from the student.
+
+3 (23m 3s):
+It doesn't share those with the student, then it compares its reasonable responses to what the student said. And if it gets something different, it'll tell the student, Hey, I I'm getting something different. Can you explain your reasoning? Which is very pedagogically strong. And so then if the student explains the reasoning, and it's a large language model, so it's very good at understanding when a student explains their reasoning. And sometimes, you know, the AI will say, okay, you know, now that I see what you did, you know, you might have missed that aspect of it. Or it might say, Hey, you know what, you got it right. I realized I made the mistake. Which we actually heard feedback from from students that they actually really like that. And once again, I think this is very human. Like this is what a human tutor would do when I tutor. Yeah, I got started tutoring my cousins back in two, 2004, and this would happen all the time.
+
+3 (23m 47s):
+My cousins do something and I'd say, Hey, that's not what I got. Can you explain how you got that? And nine times out of 10 I was right, but one out, one time out of 10, they were right. And I'm like, oh my bad. You're right. And so I I, I think people really appreciate that.
+
+0 (24m 2s):
+And this is now available. I mean it's, it's, it's totally a, a feature of of the interface.
+
+3 (24m 9s):
+Yeah. What we did is when we released it coincident with the G P T four launch in mid-March of 2023, and we did a, a limited release pilot where people had to go on a waiting list and then they had to give a donation. And the reason why they had to give a donation is this stuff isn't cheap. The computation costs, you know, every interaction is going to like 5,000 Nvidia GPUs that are crunching on this. And so anyway, yeah. You know, we, we have to pay OpenAI money, which then pays Microsoft Azure money, which then uses that money to go buy expensive Nvidia chips. So that's, that's something that we've had to grapple with. 'cause our mission statement is free world-class education for anyone, anywhere. Yeah. But we have about 10,000 folks using it right now, some in mainstream school settings.
+
+3 (24m 51s):
+And it's, it's much more than just the tutoring interaction that we just talked about, which in and of itself is powerful. But we have activities that are standalone ai, AI activities where students can talk to historical characters or literary characters. They can get feedback on their college essays. They won't write the essay for them, but it can give 'em feedback, it can coach them to help them think of their college essay. It can act as a guidance counselor in, in certain ways. It can act, help teachers create lesson plans, assessments. And what we're seeing, the feedback has been very, very positive. So this summer we're hoping to make it a more broad release so that we're expecting many tens of thousands of more folks are gonna sign up.
+
+0 (25m 30s):
+Sal, there's a part of me that's also asking, like, am I not asking all the right questions? Am I not thinking of all the downstream consequences? I mean, obviously we're talking about Khanmigo, but as you know, many school districts in the United States have essentially blocked ChatGPT, G P T from school issued laptops. They banned them from being used. Right? I think a bunch of school districts all across the country. And so what is it that they, they don't fully understand that you, you know, or what is it that they're not seeing that If, you could make the case to them that this is a mistake.
+
+0 (26m 10s):
+What would you say?
+
+3 (26m 12s):
+We, we've shown Khanmigo to many of these same districts and their general reaction has been, in fact, not general, all of their reactions has been this is what we need. This is, I guess, a a, a fair analogy might be what Khan Academy is to YouTube is what Khanmigo is to chat G P T or standard generative ai. Whereas we also know a lot of school districts ban YouTube, even though YouTube has a lot of really good learning content on it.
+
+0 (26m 39s):
+Has a lot of great stuff. Yeah, a lot
+
+3 (26m 40s):
+Of great stuff. But it also has a lot of stuff, A lot of crap. Yeah, a lot of, lot of crap, A lot of stuff that can, students at minimum is gonna distract them, and worst case is gonna put them into some kind of weird rabbit hole and mess with their head, so they banned it. But something like Khan Academy where you can create curated safe environment, it's Monitorable, et cetera, they feel much more comfortable. And, and so when we showed them it's not cheating, it's actually acting like a tutor. It provides oversight by adults. It can flag when students are getting into suspicious areas with the ai, they're like, these are just the guardrails that we wanted. But
+
+0 (27m 16s):
+I mean, you, you concede, and I guess you have to, that there's nothing preventing a kid from using Chet G B T to cheap,
+
+3 (27m 23s):
+Nothing preventing. And so my best guess of, of where, let's say term papers or homework is going to have to evolve to is, especially in something like writing, you're gonna have to do some in-class writing. And that's a place where I think Khanmigo can be really useful. We're working on activities right now where a teacher can say, Hey, I want all the students in the class right now to write a five paragraph essay about the following. And then on the student interface, Khanmigo will say, Hey, Mr. And Mrs. Smith just wants your thoughts on this thing, let's work through this together. And then the students can work on it right there. And, and Khanmigo won't do it for them, but can help a system, you know, well, are you really answering the question that they're asking? Or do you have more data to back that up? And, and simultaneously Khanmigo can tell the teacher, like, okay, guy is making a lot of progress, but Sal seems a little bit stuck.
+
+3 (28m 8s):
+You might want to go walk up to him. You know, Mary has already finished the assignment and she's now going back to working on her math or something like that. Super useful for the teacher. And even for take home assignments, the teacher can say, I want you to do it on Khanmigo. And the process is as important as the outcome as we know it often is in writing. Yeah. And then if there's some student who goes to chat G p t and just says, chat g p t, write this essay for me and just copies and paste it into Khanmigo, Khanmigo can tell the teacher like, there was no process here that he just showed up.
+
+0 (28m 39s):
+I see. I see. So Khanmigo could be the interface too for, for submitting assignments.
+
+3 (28m 44s):
+It could be the interface, it can be the coach, and it can, it really acts as a teaching assistant. Imagine every student having a teaching assistant and the teaching assistant is working with every student and can report back to the teacher. Like, yeah, I worked with that kid. I know it's their thoughts. And I helped him a little bit, but it's mostly them. But one kid just showed up with an essay and really couldn't defend his argument. Let's take a second look at that.
+
+0 (29m 6s):
+We're gonna take a quick break. But when we come back more from Sal on the future of Khanmigo and whether it could ever become a for-profit product, stay with us.
+
+Embrace volatility (29m 15s):
+I'm Guy Raz and you're listening to How I Built This Lab. This message comes from How I Built This sponsor Crow. There is no shortage of volatility in business today from workforce challenges to supply chain hiccups. But volatility isn't our enemy doing nothing is Crow is ready to help you uncover opportunity in uncertainty With deep experience in audit, tax advisory and consulting. Crowe can help you embrace volatility in today's economy. Visit embrace volatility.com to discover how, once again, that's embrace volatility.com.
+
+State Farm (29m 58s):
+This episode is brought to you by State Farm. If you're a small business owner, it isn't just your business, it's your life. Whatever your business might be, you want someone who understands. And that's where State Farm's small business insurance comes in. State Farm agents are small business owners too, and know what it takes to help you personalize your policies for your small business needs. Like a good neighbor. State Farm is there. Talk to your local agent today.
+
+0 (30m 34s):
+Welcome back to How I Built This Lab. I'm Guy Raz and I'm talking with Sal Khan, founder of Khan Academy. They built a teaching AI called Khanmigo that could become a pretty lucrative commercial product. But Khan Academy is a nonprofit, Sal, this is a business show, as you know. And so I I want to ask you to put your business hat on for a moment. 'cause we don't do many nonprofits on How, I, Built, This, and there are tons of EdTech companies out there that make money working with school districts, you know, DreamBox and all these other programs where you can, schools are paying a fee for kids to use these products and Khan Academy products are free to use.
+
+0 (31m 14s):
+But I wanna ask about Khanmigo. I mean, if this in fact could be a tutor for every kid and an interface with the teacher giving the teacher feedback on the student's progress, it strikes me that this is something that you could license to schools, that you could actually turn into a product. Obviously you're a nonprofit and you're mission driven, but is that something that you would consider doing?
+
+3 (31m 38s):
+S simple answer is yes. And we're, we're kind of doing that a little bit of that already. You know, I was point out to our team, we're not-for-profit. We have free in our mission, but still it costs on the order of 60, 70 million a year to run Khan Academy both to, you know, just our server costs are six, $7 million a year. And then obviously all of the engineers, et cetera. And historically we've been primarily funded with philanthropy. Yeah. But with that said, about five years ago, we started going to school districts. Obviously we've had a lot of what we call grassroots usage in classrooms, hundreds of thousands of teachers. We said, if we really wanna reach all kids, we have to work formally with the districts. And we would go to the districts, we would show them our efficacy studies, but they said, look, for us to use this systemically inside of our district, you have to give us support, training, integration with our rostering systems, district level dashboards.
+
+3 (32m 23s):
+And that's where we said, okay, to do all of this bespoke work, someone has to foot that bill. And we, we said, look, we're not gonna charge you for all of this stuff that's funny with philanthropy, but at least cover some of the incremental costs here. And so to a lot of districts, and we now have about a million students in districts where they're paying on the order of about $10 per student per year to get all of these other things. So we are build, we have built this enterprise muscle, and it is starting to build a little bit of a flywheel of sustainability. And to your point on Khanmigo, Khanmigo has a very real marginal cost to it. It costs,
+
+0 (32m 58s):
+Yeah, yeah.
+
+3 (32m 59s):
+On the order of, let's call it 10 to $15 per month. And so what all of these school districts that have come to us, we are talking to them of like, Hey, we need to at least cover our computation costs, and then we do expect that the underlying computation costs are going to come down. And so we are having these conversations on our team right now of like, okay, right now it costs, let's call it $10 per user per month just for the computation. We have to charge that for Khanmigo, not for base Khan, Academy, but let's say that cost goes down to a dollar per user per month. Do we just lower it to a dollar or do we lower it to $2? And then we use that, that incremental dollar to fund our r and d.
+
+0 (33m 33s):
+I mean, I, I look at this, the potential here, right? And what you've developed and the amount of money you've put into it already. And, but I wonder whether there's a world where you take a product like Khanmigo, which if it's as revolutionary as it, as it looks like it could be, I mean, it can really change the face of education. Is there a world where that's spun out into a for-profit business?
+
+3 (33m 59s):
+There's always been this debate, not at Khan Academy, but about Khan Academy, which, yeah, right. It always confused folks, what, why we're not-for-profit. You know, we scale, we're tech heavy. I live in the middle of Silicon Valley. Most of my friends are entrepreneurs or, or VCs of, of some kind. And there's a, there's a Harvard Business School case about this. Should Khan Academy be for-profit or non-profit? And to me, the arguments for for-profit have historically been access to talent and access to capital. The, the reasons to be non-profit are you really can truly make your mission the bottom line. And I think there's a trust aspect of it as well, that we, you know, that our bottom line really is this. It's not trying to improve our e p s or go have an I P O.
+
+3 (34m 41s):
+Yeah. What we have found is we are getting access not to just good talent, but to the best talent. People are here for the mission and they're here to work with other people like that. And so the only reason that I could ever see trying to do some type of spin out or a wholly owned sub, that's is for some reason, if, if we're not getting the risk capital from the foundations Yeah. Or we can't create a, a flywheel of sustainability, then maybe certain pieces of it. But I'm very afraid to do that. I mean, definitely wouldn't do that with the mothership, because I do see how, you know, a lot of good comes, I'm, I'm a diehard capitalist. My old job was at a hedge fund. A lot of good comes out of market incentives, but I think education and healthcare in particular, market incentives don't always align with our values.
+
+3 (35m 24s):
+Hmm.
+
+0 (35m 25s):
+So one of the incredible triumphs of Khan Academy has been the millions of, of kids who have benefited from it. But in the United States, a huge concern as you know, and I know you've, you've looked at this has been the gap between wealthier kids, kids who are not as wealthy or who, or impoverished a gap in, in outcomes between black students and other students. How can something like this change that in your view? I mean, I don't wanna be too much of a techno optimist here, but I do wanna be optimistic. I mean, and I'm sure you are. How do you think they can kind of change that equation?
+
+3 (36m 5s):
+Yeah, I, I, some of the stats would shock folks. A majority of minority majority schools, so that's a mouthful. But a majority of minority majority schools don't offer courses like Algebra two, physics, et cetera. Not to even mention things like AP courses or IB courses. And so If, you are a young African American student, you don't come from a lot of money. You go to one of these schools, you might be the next Albert Einstein, you might be the next Marie Curie, but there's no way that you're gonna be able to tap into your potential if your school does not offer algebra two or many times in that Algebra two class, because kids are coming from, in many cases, tough circumstances, have gaps in their education.
+
+3 (36m 48s):
+Before that, the teacher kind of tries to teach the middle, or even to the bottom quartile saying that that's, those are the most severe cases. And once again, that kid who could have been Marie Curie, is not gonna be able to prepare, prepare themselves, and then when they go to college, they're gonna feel inadequate compared to kids who, who had much better preparation. So that was, that's always the view of Khan Academy, which is we wanna raise the floor. Yeah. And then we wanna provide as many supports as we can, but we view Khanmigo as kind of in between traditional Khan, Academy and schoolhouse world. But that's just another layer of support. Now, in order to access all of this, you still need internet access. You still need a device. Right.
+
+3 (37m 28s):
+And that's why we work so closely with school districts. You know, the, the technological side in the US has gotten a lot better on over the last 10 years, but that's why we're working with school districts to try to get more kids at that level of engagement.
+
+0 (37m 40s):
+Sal just a broader question about ai. As these products, as other AI platforms become better and better, you can imagine a future not too far in the distance where things like writing won't actually be that useful. Like, you know, we think of this as a skill. We, we think of great writers as people who've honed their craft, who have talent. But I mean, if these large, you know, language models can absorb everything ever written in human history, well, you can also imagine that that skill and talent won't be particularly useful in a short period of time. Do you agree with that?
+
+3 (38m 19s):
+That was my initial thought slash fear slash concern. The more that I thought about it, and I'm, I'm writing a book about all of this right now, so I've been interviewing folks and you know, I interviewed Kevin Rus, who, who famously a New York Times writer who had that famous conversation with Bing's Sydney. And it was trying to convince him that he didn't love his wife and he loved her and all of these, all of these things. And I asked him that same question, and I thought he brought up a very good point. I mean, he's literally a writer and he's like, look, to be a, a great writer or journalist, there's the writing part of it, and then there's the journalism piece of it. And sure, AI could help you with the first draft, it can help give you feedback on your writing, but it's gonna take a lot to get to great writing.
+
+3 (39m 2s):
+It might not get quite there. And that whole piece of journalism, like talking to the right people, being creative about how you get your information, connecting the dots, AI is not going to do anytime soon. And I think every job has that aspect of it. So I actually think the imperative isn't that, oh, kids aren't gonna learn to write. I'm worried about the, the kids that only learn to write. Okay, well, to some degree they might be empowered by something like AI, because now their writing is not going to hold them back in other domains. But anyone in the, let's call it the writing lane, they're going to have to become better. They're gonna have to move into the editorial role to be able to know how to manage, to create great writing.
+
+3 (39m 44s):
+How do you know that it's that the AI has done a good job and that you can't coach it to be even better? You won't make someone an editor of a newspaper unless they could be one of the best writers themselves. And I think the people who really leverage AI well are gonna be the people who can, who can get into that. How do you manage the ai, how do you put the pieces together and, and how, how do you do the things that an AI won't be able to do?
+
+0 (40m 6s):
+So anyone who, who has a child, who knows a child that's been in school during the pandemic, knows how much education has evolved, right? I mean, many kids are now issued laptops and not just in private schools, but also in public schools. And so much of the work is done through Google Classroom, right? And parents can interface with it, and it's just a completely different world. Forget about what they're learning, it's how they're learning. But I suspect that what you're talking about with things like Khanmigo and other AI platforms, what we're about to see is something that is like going from, I don't know, like the stone age to the industrial revolution. Is that a fair analogy?
+
+3 (40m 47s):
+I think you might be right. You know, there's a world now where you can, you can talk to historical characters and we're probably three to five years away where you could share a room with Benjamin Franklin or Julius Caesar or, or Cleopatra and immerse yourself. It'll, it'll be literally the holodeck from Star Trek. I didn't think that was gonna happen in my lifetime. I now think that's gonna happen in the next five years. I think for the most part, this is positive because the students who were really motivated, you know, there's a class of students when they were doing their math class and I was in this class of students, I imagined how I was describing the universe, and I was like, oh, this is so beautiful. This is so elegant. Wow, this is so connected. And that motivated me to go get through some of the grunge and the really hairy equations and all that, but for a lot of kids, they didn't see the, the beauty in it, and so they weren't motivated.
+
+3 (41m 33s):
+But If, you're, you're motivated. You can power through anything. Same thing on history when you just read the history book, like, this is dull. But if you're like, wow, this actually happened to real people and I actually know about it, and could you imagine what it would've been like to be in that moment when Caesar crossed the Rubicon? You know, what was going through his mind? Then all of a sudden history comes alive and you become incredibly motivated. I think AI will really help unblock folks as a tutor, but also really help motivate. I mean, imagine having a tutor that not only can do what Aristotle did, but it actually can be Aristotle, sometimes it can role play with you, it can take on tone that really captivates you. This all would've been science fiction a year ago, and it's literally happening now or in the, the coming months.
+
+0 (42m 16s):
+It puts, to rest the question, If, you could have dinner with five living or historic people, who would they be? Because you can actually do it at some point.
+
+3 (42m 25s):
+You can actually do it. You know, having the real dinner will always be better because we, you know, obviously the ais are, they're interpolating or extrapolating from, from from. So there there's, there's definitely some imperfections and, but yeah, you're right, in terms of the richness of experience, it's even better than the dinner because probably in five years you could put some goggles on and have the dinner actually in Rome in the first century, B c e, as opposed to at your dinner table.
+
+0 (42m 51s):
+It's amazing. It's absolutely amazing. Sal Khan, thank you so much. Thanks
+
+3 (42m 55s):
+For having me, guy.
+
+0 (42m 58s):
+That's Sal Khan founder and c e o of Khan Academy. Hey, thanks so much for listening to How I Built This Lab. Please make sure to follow the show wherever you listen on any podcast app. Usually there's just a follow button right at the top so you don't miss any new episodes, and it is entirely free. If, you wanna contact our team? Our email address is HIBT at id dot Wondery dot com. This episode was produced by Alex Chung, with editing by John Isabella. Our audio engineer was Neil Rausch. Our music was composed by Ene Arablouei, our production team at How I Built This includes Chris Masini, Carla Estevez, Casey Herman, JC Howard, Liz Metzker, Sam Paulson, Kerry Thompson, and Elaine Coates.
+
+0 (43m 43s):
+Neva Grant is our supervising editor. Beth Donovan is our executive producer. I'm Guy Raz, and you've been listening to How I Built This. Hey Prime members. You can listen to How I Built This early and ad free on Amazon Music. Download the Amazon music app today, or you can listen early and ad free with Wondery Plus in Apple Podcasts. If, you wanna show your support for our show? Be sure to get your How I Built This merch and gear at Wondery shop.com. Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.
+
+‎Don't Panic (44m 28s):
+Do you spend sleepless nights worrying about being submerged in quicksand, being attacked by an unrelenting swarm of killer bees, or how you'd out swim an angry giant shark? I'm Anthony Atek, and I'm here to tell you to stop worrying and let me an anxious and overly informed comedian, be your guide to solving your most worrisome what ifs. Don't panic. A new comedy podcast from Wondery leans into our most absurd anxieties and diffuses them with humor and actual advice for how to deal. Should you find yourself facing your fears, you'll laugh, learn, and possibly sweat profusely. Enjoy. Don't panic on the Wondery app or wherever you get your podcasts. You can listen to. Don't panic early and ad free on Wondery. Plus, join Wondery Plus in the Wondery app or on Apple Podcasts.

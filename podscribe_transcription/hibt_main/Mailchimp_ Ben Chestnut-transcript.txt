@@ -1,0 +1,719 @@
+0 (0s):
+This message comes from NPR sponsor bank of America and their original podcast that made all the difference. What if comedy brought communities together, host Alicia Burke speaks with Yvonne orgy from HBO's insecure. Listen, wherever you get your podcasts,
+
+1 (18s):
+People were raising their hand saying so, so what's the strategy, you know, in my answer, you know, as a startup founders, we don't need no stinking strategy. We've got this, you know, and half the audience which would share and say, yeah, we don't need no strategy. And the other half would say, yeah, we do. And I remember thinking, oh my God, there actually is no strategy. And so the whole meeting just completely flopped. And I remember going back to my office, just sitting there alone, thinking about what in the world just happened to me
+
+0 (56s):
+From NPR. It's how I built this show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Roz and on the show today, how Ben Chestnut and his partners used a monkey logo and guerrilla marketing to build MailChimp, a B2B brand that grew into a big business by focusing on small business. MailChimp is an online marketing platform, probably best known for its email automation.
+
+0 (1m 36s):
+You may have heard their ads on podcasts and you might be familiar with their logo. It's a smiling monkey wearing a postman's hat, but it's also a company that helped usher in the era of SAS businesses, software as a service, the SAS market think Salesforce, Adobe Twilio HubSpot is expected to reach more than $270 billion in global sales this year. Last year, anticipating this gold rush investors poured over $30 billion into SAS startups in the U S alone. But what makes MailChimp stand out from the crowd or a few key differences for starters, the founders never took on any outside investment.
+
+0 (2m 23s):
+The company also grew slowly at first, very slowly as he will hear, but it was profitable from the start. And instead of launching in California or in Seattle, MailChimp was founded in Atlanta in 2001 long before the city became the tech center that it's becoming today. But perhaps most importantly, MailChimp focused on small businesses, which turned out to be a stroke of great luck because small businesses help turn MailChimp into the giant. It is today. Forbes recently estimated that if Ben, his co-founder Dan Curzio has sold the company, now it would fetch at least $4 billion.
+
+0 (3m 6s):
+And initially MailChimp wasn't even the intended product. Ben and Dan had started with a web design company and built MailChimp as a side project, almost as an afterthought, but through a series of smart decisions, especially around cheap and creative marketing. MailChimp has grown into a company that did around $800 million in revenue last year, that Chestnut wasn't a particularly techie kid growing up. He spent hours playing football and basketball and exploring his neighborhood on his bike. He grew up in a small town in Georgia called <inaudible> back in the seventies and early eighties, not too far from a military base.
+
+0 (3m 48s):
+The neighborhood
+
+2 (3m 49s):
+It I was in was just outside of the city limits of Hep Saba. And I don't really know how to describe it as not predominantly anything it's highly diverse, lots and lots of immigrant families lived in our neighborhood, Germans Asians. And when I say Asians, I mean Japanese, Korea and Philippines, Vietnamese all over the board African-Americans as well. How did they end up there? Did that's just military families, you know, marrying into from the Vietnam war. And then they came and they just sort of moved into this neighborhood.
+
+0 (4m 19s):
+Your dad was a or mom, one of your parents was in the military. Yeah, my
+
+2 (4m 23s):
+Dad was in the army. He did a seven tours in Vietnam. Wow. Yeah, he was committed. He was a man of duty, you know, he really loved his duty seven
+
+0 (4m 34s):
+Tours in Vietnam. And was he, from what I understand, he was a Codebreaker. Was that what he did in Vietnam? Do you know? You know,
+
+2 (4m 41s):
+Details are sketchy. He, he, he left with, you know, all of his secrets, but yeah, in general he was a Codebreaker he listened in on the enemy and he cracked codes.
+
+0 (4m 55s):
+Was he in any combat unit? He was, yeah, he was first cab. Wow. So did, did he ever talk much about Vietnam? You know,
+
+2 (5m 2s):
+He, he only talked about it whenever I would watch movies or TV about war. He could see that I was sort of engrossed in it and everything. And he would take me aside and say, you know, it's not always that glorious, you know, he would tell me things like that. And, you know, I could tell he was dissuading me from thinking about joining the military.
+
+0 (5m 27s):
+And I guess he met your mom. Wow. While he was overseas in, in serving and, and sh and she's originally from Thailand. And so what did she do when he brought her back with him to Georgia,
+
+2 (5m 40s):
+She had lots of odds and ends kind of jobs. She worked in some textile factories and that sort of thing, but eventually she just sort of became like a neighborhood nanny. We, we always had kids from the neighborhood running around our house ever since I can remember our house was always full of children from the neighborhood. And then, you know, of course she was an entrepreneur as well. She ran a, she ran a hair salon in our kitchen.
+
+0 (6m 5s):
+Wow. So people would come and get their hair done. Yeah.
+
+2 (6m 7s):
+Yeah. That's where I learned about entrepreneurship watching my mom.
+
+0 (6m 11s):
+Did your mom ever get a brick and mortar salon? No. No.
+
+2 (6m 16s):
+She never did that. She never scaled out of the kitchen. I would have loved to have seen her scale out of the kitchen. Cause I was so proud of her, but that I don't know that that was ever her intention, but she, she did inspire my older sister to start her own salon. That was a non kitchen based one. Like you say, a brick and mortar one. She opened up a real salon that was very successful in the eighties. And boy, she was just an inspiration for me as well. And partly because, you know, she would come home every couple of weekends with toys, toys for me and money for my parents. And I, I just thought, you know, I want to run a business too when I grow up.
+
+2 (6m 58s):
+Cause this is, this is good for the family. And I remember I was too young to understand it at the time, but I, I pieced together the story afterwards talking to my dad and my sister, but she basically had a falling out with her business partners and things got really ugly and she had to file for bankruptcy and that just ruined her life to be blunt. I mean, it just, and that's the sort of thing that, you know, has, has kind of influenced me and Dan, my co-founder, his, his father ran a bakery when he was growing up and he saw that business in Albuquerque. Right. That's right. And Albuquerque and it was thriving and he saw, you know, how proud his father was in the same sort of deal happened.
+
+2 (7m 42s):
+A larger bakery opened down the street and, and put his dad's business out of business.
+
+0 (7m 48s):
+Ben, when you were growing up, I mean, your mom is Thai. Your dad is as a white American, but it sounds like you were around kids who came from different backgrounds too. Is that, is that right? I would
+
+2 (8m 4s):
+Describe my neighborhood that way. You know, I, it was easy to go out and play with friends and you know, my friends were just from all over the place. I think that when I would go to school, it was a different story, you know, in inside the school where, where I was zoned, there were only a handful of Asians there that was a little bit different. That was definitely, it probably influenced my whole outlook on life. Definitely kind of being the misfit.
+
+0 (8m 32s):
+Here's the other thing that's actually quite unusual. You actually met your wife in high school. She was your high school, sweetheart. Teresa. She was
+
+2 (8m 42s):
+My high school. Yeah. I actually did not meet her in high school. We didn't go to the same high school, but we were actually met her at Fort Gordon in karate class. She was another student in our dojo and I remember, you know, couldn't even drive yet. And she was pretty new to America. She was adopted by her uncle and aunt. And I remember after karate class, I would wait for my dad to pick me up and she would wait for her uncle to pick her up. And then we'd say goodbye and go our separate ways. And one day the dojo closed down and everybody was gone except for me and her. And they had to lock the doors. And so we just sat out on the front steps at night talking and your little, this and that.
+
+2 (9m 24s):
+And my dad pulled up and I said, well, there's my ride. I got to go see you later. And I got into the car and I said, Hey, dad, let's go. And then he looked at me and then he looked at her sitting alone on the front steps. He said, what the hell are you doing? Get out and go sit down next to her and wait for her uncle to pick her up. That's what a gentleman does. And I said, oh right, thanks dad. And you know, I got out and I went and sat down next to her and we talked a little bit more. And that's how I really, really got to know her then. And you know, one day she invited me to come over and meet her, her, her parents or uncle and aunt. And I was a little bit nervous.
+
+2 (10m 5s):
+And I didn't know what, what I was going to say to her, to her mother when I met her and I rode my bike over there and I noticed lots of cars in the driveway. I thought this is interesting. This is familiar. And I walk in and sure enough, her mother runs a hair salon in the kitchen. Her mother is a kitchen Titian like my mother. So, you know, we got along real nice. I knew exactly what to do. Grab the broom, help her sweep up some hair. You got to know where all that hair hides right under the chair, right under that rubber gasket on the swivel. So I think we, we hit it off. Well, because I was familiar with this profession. Wow. What about
+
+0 (10m 43s):
+School? Or are you a pretty good student when you were a kid?
+
+2 (10m 47s):
+No, I was an awful student. I think looking back. Yeah. You know, going through my father's belongings, I got a lot of my report cards that he saved. And in high school, in my early years eyes, I was just a poor student. I made horrible grades and he sat me down and he said, I guess my future was looking bleak. And he said, you know, you can always join the army. And that's when I thought, oh my God, even dad is telling me to join the army. Now something must be right. I mean, it was
+
+0 (11m 14s):
+High school. It with school just hard for you. Or did you just not care or what do you, what do you remember? I
+
+2 (11m 20s):
+Remember being bored a lot and what I wanted to do was just get out of habit. Yeah. I see. You didn't go that far mean you went to Atlanta. Well, thanks a lot guys.
+
+3 (11m 32s):
+Yeah, but he did. Okay. I did. Okay.
+
+0 (11m 35s):
+But you couldn't have been a terrible student cause you got into college. You went to university of Georgia.
+
+2 (11m 39s):
+I did. Yeah. I mean, I, I was probably a C going on a D student freshman and sophomore year. And then, you know, my dad had that heart to heart with me and I, and I, I shaped up and I became a, a student for the next years.
+
+0 (11m 55s):
+You would eventually transferred to Georgia tech where you studied industrial design. And did you have sort of like a job in mind that you wanted to do when you, yeah,
+
+2 (12m 5s):
+I mean, I just, I wanted to design cars. I'm a car nut. I love cars. I thought that I would study this and maybe move off to Detroit and be a car designer or something. That, that was the idea. Yeah. But I got an internship at an appliance company one summer in Amana, Iowa. You know, my job as an intern was to scan about a thousand paint chips and they're all variations of white eggshell, white cream, white off-white glossy, white, flat white. So that was my job. And I actually finished that in a couple of weeks. And then I just started, they let me do prototypes. They let me build models of refrigerators and that sort of thing.
+
+2 (12m 49s):
+And I learned that I'm really, really bad at building models. And I guess I was, you know, in retrospect so bad at that, one of the, one of the designers in the studio took me aside and said, you know what, maybe, maybe this isn't for you. You should look into this new thing. It's called web design. It's all the rage look into that as a career. And that was, you know, life-changing advice. I went to the Cedar rapids, Barnes and noble cause there's nothing else to do at that time. I found some books on web design by Linda Weinman, lynda.com. And I learned all about web design
+
+0 (13m 29s):
+And this is the late nineties. So like 96 web design that commanded a premium because it was really like, no one knew how to do it. If you knew how to do it, you could get a lot of work.
+
+2 (13m 39s):
+It'd be a complete goof off, but make a lot of money doing it. Cause it was really, really a rare skill.
+
+0 (13m 44s):
+You eventually got a job working for Cox media group. I think, I think they're still the publisher of the Atlanta journal constitution. That's right. So, so w what was the job they hired you to do?
+
+2 (13m 56s):
+They had a job opening for a web designer for the ajc.com and halfway through the interview, I realized I was in the wrong interview, or my resume ended up in the wrong hands. And I was talking to their director of marketing and she was trying to build her own in-house design agency. And what she was trying to do was build an agency to design all of their banner ads. I remember, you know, feeling horrified like, oh my God, I am not a banner ad designer. I am a web designer. I do not do these silly little, you know, 468 by 60 pixel ads. That's beneath me. And then she told me the pay and the pay was $3,000 more than the web designer.
+
+2 (14m 38s):
+And I said, you know what? I can do these banner ads. If I can build a website, I can build a banner ad. And, you know, at first I just thought, you know, I'll just kind of cruise through this and switch jobs later, but I ended up being really fascinated by the art, like to learn how it within like two seconds to convince someone on the internet to click something, is it became fascinating for me. And I, you know, that skill to like build, build something, an animation really quick and influence people in that way. I believe I carried that that was a great skill for me to carry forward, to ultimately build MailChimp where, you know, I had to build an app that convinced people to buy things from
+
+0 (15m 19s):
+Me. How did you meet Dan courteous? Who would eventually become your co-founder at MailChimp, but how did you, he was also at Cox, right?
+
+2 (15m 28s):
+Yeah. Well, you know, there was this thing that was invented called MP3s with the Napster and everything. And Cox also, in addition to newspapers, they had radio stations everywhere. So they thought, well, you know, we've got all this music, we've got this great distribution channel. What if we teamed up with another startup called mp3.com? Cause they have all of these musicians uploading their music. And they asked me to be their web design manager. And one of the first people that I hired was Dan,
+
+0 (15m 58s):
+I hired him to work on this project. And the idea was you would, you were like building an online music cider or a portal or something. Yeah. At
+
+2 (16m 8s):
+The time the hypothesis was don't build one central music portal, build one for each local market because the hypothesis was that people would actually care about local musicians, you know? And so that was, that was the
+
+0 (16m 24s):
+Idea. A streaming service. Yeah.
+
+2 (16m 27s):
+Yeah. And Dan was into music. He Dan's he's into, he, he was a DJ, he's a music producer, he's into electronic music. And so he interviewed for the job thinking he was interviewing to write content about music and halfway through his interview with he realized that I was interviewing him to be a coder and he had no idea how to code HTML. And so he totally lied, totally lied to me and claimed that he knew how to code. He took the job and then he bought HTML for dummies and he crammed for whatever. It was two weeks before his first day on the job. And then his first day, he was scared to death and his desk was right next to mine.
+
+2 (17m 10s):
+And he, he thought he was going to get busted by me. But he was an amazing coder. I, I used to come back and look at his code. I remember, you know, saying this is remarkable. It's just like the code that you would see in books. Like no one codes this neatly. Now I know it's because he literally crammed from those books. I,
+
+0 (17m 31s):
+I imagine around this time, I mean, this was like the heyday of the.com boom. And imagine a company like Cox, a media company was trying to, you know, plant its flag everywhere and probably spending money everywhere was, was it like that? I think that their
+
+2 (17m 48s):
+Big, their goal was I think, to merge with a search engine and it didn't pan out, you know? And I think that, you know, that was the hay days. Things were, you know, we, this was the time of fast company. What was the other magazine business? 2.0. So I think that this is literally how, how business works that whole.com paradigm. Right? It's all I knew. And this was 1999. And what is it like the next year 2000, April, 2000 is when everything came, crashing down, the whole.com bust happened. And we were all laid off and, you know, like to me, it was like the whole world had turned upside down and everything that I knew to be true was not anymore.
+
+2 (18m 30s):
+You know, you were all
+
+0 (18m 31s):
+Laid off just like he came as a
+
+2 (18m 34s):
+Total shock, you know, Cox being the good company that they are, you know, they, they, they offered a bunch of us jobs back at Cox corporate. And I declined because I felt like if I take the job, I will probably do very well. I will probably eventually become a vice-president, but forever, it will always nag me. What if, what if, you know, what, if I had started my own company, it was just something that I wanted to do, you know, since I was young. And so I just felt like I would regret it was the fear of regret that, that told me do not take the corporate job and instead go my own way.
+
+0 (19m 16s):
+So you knew, you knew that you were going to lose your job and that's right. Did you approach Dan courteous and say, Hey, let's, let's start something.
+
+2 (19m 27s):
+Not quite me and my, my friend mark. We said, Hey, things are shutting down. How about we go into business together? And, and we had this, we had like two weeks lead time to think it, think it all through. And that's where we got the idea to start a web design company.
+
+0 (19m 44s):
+This is Mark Armstrong, right? Yeah.
+
+2 (19m 47s):
+And so I started the business with mark and Dan said, I'm going to hold off. I need to get a job at Cox corporate and a one year after mark and I started, we teamed up with Dan, we convinced him to join us and, and the rest is history.
+
+0 (20m 3s):
+So you and mark start a web design business. And I get you guys. So you guys called it rocket science group, right?
+
+2 (20m 9s):
+Yeah. That's right. Rocket science group.
+
+0 (20m 11s):
+And who did you initially target? Like who are your clients? The idea at the time
+
+2 (20m 17s):
+Was, it was something that we observed at Cox. You know, there was an engineering team, genius, just rocket scientists working on, you know, the Cox servers, doing hard things. We were working in the marketing department and marketers needed, they needed stuff too, but the engineers were always too busy and engineers kind of didn't want to stoop so low to do marketing stuff as well. It was like it was beneath them. And so our, our target was marketing departments where we would help them build little micro-sites websites that basically they didn't have to go to their engineering department to ask for.
+
+2 (20m 59s):
+I guess we were sort of like a rogue team for marketing department.
+
+0 (21m 4s):
+I mean, you were in Atlanta at that time and still are, I mean, Atlanta is the Capitol of headquarters for tons of huge companies could call it ups, CNN, Delta. Did you go after those companies?
+
+2 (21m 16s):
+It was the dream, but it never worked out that way. What we learned pretty fast was it was easier for us to go to ad agencies who were really good at pitching to those big companies. And we would, they would just subcontract with us. Yeah. But yeah, one of the tools that we, that we ended up building was a EA greetings website, like blue mountain.com at the time or hallmark. And we figured out how to send HTML email. And we started sending E greetings and they were, they were really, really cool eat greetings and no one cared about eat greetings anymore. I mean, we thought we were going to get rich because blue mountain was sold for $600 million at the time.
+
+2 (21m 58s):
+And we just thought, oh my God, if we make an eating reading site better than blue mountain, we might get $700 million. That was our business plan. So we build this thing and no one uses it. It's a flop.
+
+0 (22m 10s):
+Well, you were, you were still doing web design. Right. And, and that, that was going pretty well.
+
+2 (22m 16s):
+Yeah, we're doing web design and it turns out a bunch of our small business customers asked us to help them send email newsletters. And they're using like big bloated enterprise software that you have to install with CD ROMs on the server. And, you know, they paid us by the hour to plug in their HTML code and all of their content. And we were making good billable hours, but we just hated using those other company's software. It was so awful. And so we just, we just said, you know, we're so sick of this. Let's just build our own. And we just took the scrap code from the greetings website. Luckily we didn't delete it. And yeah, we use that to build, to build MailChimp.
+
+2 (22m 56s):
+Actually we called it, we mailer because we thought we could make it fun. And at the time,
+
+0 (23m 3s):
+I mean, this is because you built what would become MailChimp early. I mean, you guys started the web design company in 2000 and already by 2001, you had built this email system, right? Yeah. But meantime, the bread and butter of what you were doing was web design. That's right.
+
+2 (23m 17s):
+I mean, we thought, we thought that we mail our might make, you know, enough money to pay for our lunch every day. That that was our wildest fantasy for, you know, what, what kind of success we might get at
+
+0 (23m 29s):
+It. And initially it worked like, from what I understand, you guys were chart, we're billing people by the hour for web design, which probably added up, you were making decent money and you were, it was the same thing with the email product. Like people would say, Hey, we want to send this email out to our clients. They will give you the content and you guys would actually do the emailing for them. Right.
+
+2 (23m 53s):
+Yeah. And then we'd record our time and it might be, you know, a hundred bucks for a couple of hours of work.
+
+0 (23m 59s):
+Wow. So it was really probably you couldn't charge as much for that as you could for web design, right?
+
+2 (24m 5s):
+No, you know what design project might get us anywhere, you know, between 10 to $30,000 a gig and this little email thing, you know, we were, it, we were doing, we were getting like $100 checks, $150 checks over time. The, we started to get like really big piles of $100 checks from our customers for, for we mail. It got so bad. Actually I ran out of check, deposit slip, and I said, I do not want to go inside the bank. We've got to find a way to build our customers online. And that was how we actually installed the credit card system.
+
+2 (24m 46s):
+And that was when MailChimp became an official SAS business software as a service before that acronym was invent,
+
+0 (24m 55s):
+How did you guys come up with a, with a name, lots of
+
+2 (24m 58s):
+Reasons. So, first of all, my parents, when they were in Thailand, they actually had a pet monkey and they would always tell me stories about this pet monkey and the moral of the story was always never, ever have a pet monkey. They're mischievous, they're awful. They make a mess. They get jealous when you leave them to go out on a date, never, ever have a pet monkey man. So I was always fascinated by them, you know, dreaming about what, how cool it would be to have a pet monkey. And then there was a phase that I went through my Jim Henson years where I really, really wanted to be a ventriloquist and I got a monkey. Wow. Muppet. And I carry that thing everywhere.
+
+2 (25m 38s):
+I went and I had like little comedy shows for the family. You could not separate me from my, my monkey. So, you know, I, I I've always loved monkeys and I always brought them into my designs as well. So, you know, we had our EA greeting site and I noticed like the one eager greetings that I had of a monkey was the most popular ingredient greeting that, you know, the few users that we had actually sent to their friends, even like when we, whenever we design websites for our clients and we had three options to show them the one that we love, that we, that we always hope that the client would choose. Whenever we put stock photography in there, we would put monkeys in the one and it would always make them laugh.
+
+2 (26m 22s):
+And they would say, I want the one with the monkeys. You know, we had this little saying, you know, when in doubt insert a monkey. So that was just something that we always said. And probably when we were like, you know, going delirious, working at 2:00 AM, we would just say, just put some monkeys in it. And so we said, Hey, how about a Chimp mail? And so we decided to call it Chimp mail. And then of course the domain was taken.
+
+0 (26m 42s):
+The domain for mail is taken well and
+
+2 (26m 45s):
+Domain was taken. Yeah. So we had to improvise and call it MailChimp instead.
+
+0 (26m 49s):
+But there was a time I remember when people didn't want email, they're getting so many emails. What were people doing with MailChimp? I mean, how were they using it to just contact their customers? Like, how are they using it?
+
+2 (27m 4s):
+Yeah. There was definitely a stigma to email marketing. Like if we, if we went to tech conferences and told people what we did, you know, things would get quiet, they'd walk away. You know, we were, they, they sort of thought of us as sort of like the dark underbelly of the internet. This was a time when spam, there was no solution for spam.
+
+0 (27m 22s):
+Right. People were like, oh shit, you guys are spammers.
+
+2 (27m 24s):
+That's right. That's right. And then I ended up discussion. They'd walk away. I was really popular at parties. Yes, absolutely.
+
+0 (27m 32s):
+But you're, but there were some enough people who wanted the service because they wanted to send a mass email out to their customers and they wanted it to look nice. That's right.
+
+2 (27m 41s):
+I mean, I didn't let it, you know, by the way, you know, I was a spammer and you know, my company had a chimpanzee for its mascot, so they really took me seriously everywhere I went. But yeah. Yeah. I mean, I knew that there was demand, small businesses were constantly signing up. So it, it, I was never dissuaded from
+
+0 (27m 58s):
+It. But by the way, was it just the three of you still, or were you able to hire a few more web designers? We
+
+2 (28m 4s):
+Had interns here and there, but just the three of us, you know, in their early days we would just, we would just chant, you know, cockroaches just, just be a cockroach. And what we meant was like, cockroaches can survive at Thermo nuclear war. And so we just thought, you know, that's, that's, let's just strive. Just let's just survive here. I mean, it was,
+
+0 (28m 25s):
+It was just the three of you kind of hunched over keyboards day in, day out. Just like pounding the keys.
+
+2 (28m 32s):
+Yeah. From morning until sometimes until one, 2:00 AM. I mean, it was a real grind. I mean,
+
+0 (28m 38s):
+Well, how was your revenue and cashflow was
+
+2 (28m 42s):
+No, no, let's see if I can. The best that I remember are our agency business ever doing was something like between two and 300 grand a year. Wow. That was the best we had ever done. And that was through 2005 here, by the way. So we were always just barely scraping
+
+0 (29m 8s):
+By what, what explains that? Did it become more competitive? Was that it, it was just more people doing that kind of,
+
+2 (29m 16s):
+You know, we would, we would get business and then we would get busy doing their work. And while we were doing their work, nobody was pitching for new business. And so when we were done doing the work, there was no new business. And we, it would basically be like hitting the reset button. We'd have to go out and hunt for more business. So it was just like these constant ups and downs and ups and downs that just kept us from, from really breaking through. And I'll never forget, it was like 2000 ish. There was something that totally changed. I, I was working at home in my apartment, coding something for sure. And it was sometime in the afternoon, Theresa, she was a night shift pediatric nurse.
+
+2 (29m 56s):
+Right. So she was
+
+0 (29m 58s):
+Presumably supporting you guys. Or
+
+2 (30m 2s):
+She was, she was yeah. Health insurance and everything from her really stabilize me, which, which, which allowed me to be an entrepreneur. So she's a pediatric nurse. She does the night shift to make extra money, works holidays. I barely see her. Right. So she wakes up around noon around lunchtime or so. So she flips on Oprah and I'm coding and I'm just like, oh great, Oprah. I've got to listen to this, roll my eyes. And there's some episode on with a guy named Robert Kiyosaki and he's, and he has this book called rich dad, poor dad, he's dad. That's right. He's selling this book. And I just remember what I remember was how angry the audience was because he was trying to teach them about if I recall correctly, recurring income, passive income.
+
+2 (30m 49s):
+And, you know, he was telling them in a, you know, almost condescending voice. It was like, and that's why you're not rich. That's the whole point of my book. And I remember getting the book and reading about it and just thinking, wait a minute, you know, we're going paycheck to paycheck, chasing client business with rocket science group. Meanwhile, we have this side thing that we built called, called MailChimp. Now we've renamed it by then. And it's just making this recurring income. And, you know, we were, we were having heart to heart meetings about whether or not we should shut down rocket science group because it was just so gloomy, you know, did just didn't seem like it was ever going to grow. And we started, you know, to put the numbers in Excel, just to look at the numbers we drew graphs for the first time ever. We looked at our revenue over the years and the graph for our consulting business was, you know, pretty flat.
+
+2 (31m 34s):
+And then for the first time ever, we separated MailChimp income from our agency income prior to that MailChimp just dumped money into our bank account. And we used it to pay for lunch. Yeah. So this was the first time we actually looked at the graph of MailChimp revenue and it was growing. We were like, look at that up into the right. What if we actually focused on just MailChimp and that's, that's what got us talking about becoming a software company. Wow.
+
+0 (32m 1s):
+So 2005, you start to see the numbers and, and you know, that that MailChimp is you can see it growing, but, but from what I understand, like it was still a tiny fraction of your overall business. Like most of the revenue was coming in through web design.
+
+2 (32m 17s):
+That's right. That's right. And, and, you know, the web design projects are like $20,000. By this time we had gotten pretty good at sales. And so it was a really hard thing to, to convince my co-founders like, Hey, let's abandon the web design business where we're making 20 grand, sometimes 35 grand a pop. And let's go to this MailChimp thing where we make at that time, $25 or $50 a pop. And that is just a really, really hard sell
+
+0 (32m 45s):
+When we come back in just a moment, how Ben and his team finally went all in on MailChimp and how its accidental twin male, Kim became one of the best mistakes that ever happened to them. Stay with us. I'm guy Ross, and you're listening to, I built it. This message comes from NPR sponsor, GoDaddy, making a different future starts with you. That's why GoDaddy does more than help. You find a name you can create, sell and get found online. So any small business can be a driving force to create change, or build an empire.
+
+0 (33m 30s):
+So whatever it is you have in mind that will help make a different future, find everything you need to get started@godaddy.com because the future isn't decided yet it's up to us to make it happen. Start different@godaddy.com. This message comes from NPR sponsor, better up bringing together coaching AI technology, and behavioral science to achieve transformation for your business. Future proof, your workforce, to be prepared and adaptable for whatever comes their way. Give them the confidence to achieve new goals and the mental fitness tools to reduce burnout and increase resilience, the results, people living more meaningful fiber lives with greater clarity, purpose, and passion, head to better up.com to learn more about building high performing teams.
+
+0 (34m 27s):
+The economy is changing so fast right now. And sometimes it seems like there's something new to worry about every day on the indicator from planet money. We bring you human stories and easy to understand explanations to help you make sense of these crazy times. All in just 10 minutes a day, that's the indicator from planet money. Welcome back to how I built this I'm guy Ross. So it's early 2007 and Ben and his partners finally decide to mothball their web design business and focus full-time on MailChimp.
+
+0 (35m 10s):
+And it's an agonizing decision, partly because they're not sure they'll ever make enough money taking small payments from small businesses, but it turns out they're wrong.
+
+2 (35m 23s):
+When we finally worked up the courage to do it, MailChimp revenue, if I recall correctly, almost tripled overnight. And it was because building up to that sort of day one for MailChimp, we had, we had decided that, oh, we, we had to address a few major bugs that customers had been complaining about for years. And so we did all of these upgrades and fixes. And as soon as we finally invested time fixing problems in MailChimp, people started to pay us money lo and behold go figure. And so we, we, we really kind of hit the ground running. We did not suffer at all from dropping the consulting business. And in fact, I remember I was just thinking we should have done this sooner.
+
+0 (36m 4s):
+Hmm. Did you change your business model when you made the pivot from like, you know, pay per use to a month that
+
+2 (36m 12s):
+Actually took another year? Like it wasn't until later in oh seven, because it sounds so silly now when you look back in hindsight, but at the time there was a movement at the time for micropayments. Yeah. You know, remember that apple was like the most famous version, the 99 cent song. Yeah. I mean, and that was, that was really rare. It was hard to do with the credit card companies for one, but it was just, it was like liberating to not have to pay with your credit card, huge chunks of money, but to just do this little EDBD micro payment. And so we, we kind of like attached to that movement and philosophically, we thought that's what MailChimp stands for. You know, MailChimp is all about low commitment for the small business owner.
+
+2 (36m 53s):
+But you know, over time we started to look at complaints from customers and they were, they were telling us like this is a pain in the butt to constantly have to input our credit card to make these micro payments, just charge us, bill us. By the month we were stubborn about it. We were too philosophical in retrospect. And it took us a whole year to decide, to finally put in those subscription fees. And we did. And that's when business really, really took off for us too, in those
+
+0 (37m 16s):
+Early days, from what I understand you guys, 2007 year full on and into MailChimp, and there was a huge 800 pound gorilla in this space called constant contact, or they were big. Right. They were already huge. And from what I understand, like you guys started to attract investors inquiries to, to fund and scale your business. Yeah. Yeah.
+
+2 (37m 43s):
+I didn't understand really the whole investment world at all. You know, I was just focused on growing the business surviving and suddenly these, you know, fancy pants, people from the west coast started knocking on my door and asking me to go out for lunch. And they would tell me, you know, there's this company called constant contact. They just IPO. They made a lot of money. We think you could be the next IPO. And you know, I talk about our business and I would tell them how we, we help small business. And they say, well, that's, that's cute. That's great. We can help you take our money and we can help you pivot and serve the enterprise because that's where the real business is. And I just thought, you know, there was just, I could do it, but something about it just felt wrong to, to me and Dan, we just, we just wanted to stay.
+
+2 (38m 26s):
+It just felt, it felt really good to serve small businesses. It was just in our DNA.
+
+0 (38m 32s):
+Investors were saying, you can make a lot more money if you focus on the enterprise on the enterprise, big business. I'm curious because constant contact was huge still is. And I'm sure some of the investors that came to, you said, listen, guys, if you don't scale fast, you're just going to get buried. You know, this is going to be, yeah, because the, the, the big guys are out there and they're just going to crush you. Like you need money to scale fast. Like, I I'm surprised. I can't believe that no part of you didn't consider taking that money.
+
+2 (39m 3s):
+You know, for the first two, I started to think about it because I really believe their pitches. And then by the 10th one, I realized they were all saying the same thing. They were all using the same playbook and it was always a scare tactic. Like if you don't take our money, you're, you're just gonna Peter out and die. And so we, we just, I guess more stubbornly than anything just didn't want to take their money because of that. We never liked their approach. But how
+
+0 (39m 27s):
+Are you growing? I mean, you said you sort of doubling your revenue. So I'm assuming in that first year, 2007, you're doing maybe more than half a million dollars in revenue. Yeah. Yeah. That sounds about right. Which is not enough. I mean, it's great, but it's not really enough to, it's not enough to acquire customers at scale. It's not a ton of money. No. And within a year or so of you, you guys making that pivot, your third co-founder Mark Armstrong, he, he, he decided to leave and you guys bought him out. He was, was he just burned out.
+
+2 (39m 60s):
+Yeah. He just, you know, he burned out. He wanted to start a family. He had other life goals. And at that time, you know, we were just the, the needle just wasn't moving. And I think he was just really discouraged
+
+0 (40m 11s):
+After you rejected the overtures. Let's say from investors, from what I have gathered from, from what I've read, that you could have come to the conclusion soon after that they, maybe they were right. Because I, I, I read that as more competitors started to enter that market, your customers are leaving for kind of bigger, better equipped competitors. I
+
+2 (40m 33s):
+Mean, it got, it got rough for a while there that's for sure. We started to get more competitors entering the market, serving different niches. You know, we, we had this idea, you know, blogs were big at the time. And we had this idea to separate MailChimp into two parts into two products. One would be a list collection form, right? You, you put this embedded form on the front page of your blog and collect email addresses to grow your email list. That would be one product. And we would make that free. And you would, the idea was you'd grow your list. And once it got to a certain size and you wanted to finally send them an email, well, then that's when you would have to pay to upgrade and actually use our emailing tool free to compile a list of
+
+0 (41m 18s):
+Contacts. But if you want to send an email out, you'd have to pay. Yeah. That's when I get ya. Right?
+
+2 (41m 25s):
+So we hired this engineer and he works his tail off to get this thing done. And, you know, we want to get this done before the Christmas, before the holiday season hits and we get to the deadline and he says, you know what, guys, this is impossible. I cannot separate this. The code is atrocious. It's a mess. I cannot untangle this code into two products. I'll I'll need another two years to get this done, but I do have a compromise, just keep it one product and just make the whole thing free up until a certain list size.
+
+0 (41m 58s):
+So like, if you had 50 contacts or a hundred con up to a hundred contacts or whatever, what was, what was the number?
+
+2 (42m 3s):
+I think it was 200. And if it passed 200, then you'd have to start paying us. I said, yeah, it's I guess it's an okay compromise. I didn't like the idea at first, but you know, we had a, it, they give away your product. Yeah.
+
+0 (42m 13s):
+You had come from Cox media that had owned the Atlanta journal constitution and their downfall, many newspapers downfall was they gave away their content for free on the web.
+
+2 (42m 22s):
+Right? Yeah. And we had never up until this point, we never even had a free trial for MailChimp, you know? So this was a, a decent compromise. We had to hit our deadline before, before the holiday season started. So I said, okay, let's do it. We'll call it. I don't know the MailChimp free plan, whatever. And I wrote a blog post about it. And instead of publishing it, I decided, let me just save it as a draft. Think about it a little bit more, come back and rewrite it, publish it later. And I guess it might've been the weekend. I came back on a Monday morning and I sit down boot up the computer and somebody had left a book on my desk. It was by Chris Anderson. It was called freemium.
+
+2 (43m 3s):
+Chris Anderson, the former editor of wired that's right. I didn't know who he was at the time, but I pick up this book and it's as freemium the cover. I read the back of it and I'm like, huh, that's what we're doing. Okay. I said, I guess I'll, I'll change my blog post I'll I'll change the title. I won't call it. MailChimp's free plan. I'll I'll call it a MailChimp goes freemium. It's. According to this book, freemium is a movement or something and I publish it. And you know, it gets some traction, but not, not much. And then out of the blue, a guy named Charles Hudson calls me up and he's, and he's a guy that I think he was an ex Googler turning into an investor. And he was starting to hold conferences at the time.
+
+2 (43m 44s):
+Now he's, he's very famous now as an investor, but these were his early years and he calls me up. He says, I'm starting up a conference called a freemium conference. And I'd love for you to come and speak about freemium. And I'm going to have other entrepreneurs. We've got a guy named drew Houseton. He's got this thing called Dropbox, show a guy, some other dude named Phil. He's got this thing called Evernote. A bunch of, a bunch of you can come and talk about this. And I went and I spoke at the freemium conference. My angle was how freemium is great, but it's rife with abuse and you better have some good anti-spam algorithms like MailChimp does.
+
+2 (44m 26s):
+And I went and talked about it and it got on tech crunch. It started to hit the news. And that's when that's when it was the rocket ship ride really started from MailChimp. People found out about it and start signing up. That's right. And, and importantly, you know, if you, if you signed up and sent an email from the freemium plan, the catch was, you know, our logo was in the footer of your emails. And so it went viral. People would click on that sign up as well.
+
+0 (44m 50s):
+So you've got the freemium model going. This is like, what, 2009. I think that was around then. That was a game changer. Because all of a sudden you you've got all these users, but I wonder, I mean, you know, the thing with, with like a Dropbox is they make their money from enterprise users, you know, big businesses that are paying, but something like 90% of their users aren't. So I have to imagine the vast majority of people signing up, we're not paying you anything.
+
+2 (45m 18s):
+Yeah, that's right. In fact, mostly when we had these freemium users, I mean, the overwhelming majority were free, but they started to convert. They started to grow their lists. You know, I think that, you know, when you're a small business, the odds, the odds are against you. 30% die in two years, 50% die in five years. And so they, they need a tool that kind of gives them a shot. And prior to that, I mean, you had to commit to paying 50 bucks a month somewhere, and you didn't even know you were going to make it. So that was the appeal of MailChimp. Like you had this runway to try new things and grow. And we only made money when our, when our customers actually succeed. Hmm. So at
+
+0 (45m 56s):
+This point, how, how quickly did, did you guys start to grow? Like how, how quickly were you, where are you getting more users?
+
+2 (46m 4s):
+Well, you know, and we launched freemium, it just exploded. So you're talking about having, you know, a few hundred thousand customers at the time, after six years of business. And then within one year of launching freemium, we ballooned to a million users and it just kept growing and exponentially after that. And so that was just a really good kind of a funnel for new customers to come in and convert down the road. And it would take them quite a while to convert. I don't think most businesses would have the patience to wait for these customers because you'd see them to come in and start a business, set up a MailChimp account, try to do something with a business. They would fail. They would shut down their business, but they would keep their MailChimp account open.
+
+2 (46m 44s):
+They'd get a job somewhere. They would learn how business actually runs. Then they'd quit again after three years or so, go back to their MailChimp account, start their business again and do well the second time around. So that's what you're talking about. Like a sales pipeline that was like seven to 10 years, who has that kind of patience? Well, Ben Chestnut and Dan currencies have that kind of patients because we had nothing else to do. How are
+
+0 (47m 7s):
+You? I mean, why would a, why would somebody go to a service like MailChimp when they could go to a much bigger competitor that probably, you know, had much bigger staffs and maybe they were more sophisticated? What were you offering that they, that they weren't
+
+2 (47m 24s):
+Personality when you're serving small businesses, you're talking about entrepreneurs with a dream, right? They, they're probably starting a business. That's been started a million times before your ice cream parlor is not a new invention, but they have a dream. They have something unique. Theirs is going to be different because XYZ, there's something unique about them. And so MailChimp, you know, with the chimpanzee mascot, we were weird and offbeat and quirky just like all entrepreneurs. So now we have this sort of internal, internal tagline that we, we, we say we got you because we get you. So that's, I, I believe that that's why they came to us is because our unique brand show that we understood what it was like to be an entrepreneur.
+
+0 (48m 8s):
+You guys had kind of toiled away for six plus years on the web design service, you then pivot to MailChimp. And, you know, you start to see steady growth. Was it pretty soon, like by 2010 where you were, you were like, okay, this is going to work. This is going to be big
+
+2 (48m 26s):
+2010 is when, you know, we're at a million users growing to 2 million fast servers were dying constantly. We were having to constantly move from data center to data center just to keep things alive.
+
+0 (48m 38s):
+And were you making money? Were you pretty profitable?
+
+2 (48m 41s):
+Yeah. Yeah. Yeah. We were making good money. I, I, I wish I could remember the timeline. It's, it's been 20 years, you know, it's, it's all a blur now, but we were making probably 10 million, 15 million at the time we were, we were doing really, really well. Well,
+
+0 (48m 55s):
+And you are able to grow and to Pyre and expand and right. Yeah.
+
+2 (48m 60s):
+We were trying new things like, you know, fun branding stuff, trying this new thing called Twitter in 2008. Yeah. It was, I'd say, you know, 2000 a dash, 2000, 2010, I'd say is when we, we think, yeah, this is real. This is, this is gonna be,
+
+0 (49m 16s):
+And entirely cashflow is, was funding, everything. It was funding that's right. Hiring. It was funding innovation. And, and the engineering, just the cashflow was funding that
+
+2 (49m 27s):
+We were totally self-funded investors still came and, you know, they would say, you know, take our money. And we'd say, we can't, we don't know why we would need it. We were making plenty. But
+
+0 (49m 37s):
+You saw an opportunity there because most businesses in America are small businesses. Right. And that most people, I think in the, in the U S are employed by small businesses. We saw the
+
+2 (49m 45s):
+Opportunity. We saw the inspiration too. It just felt more fulfilling. I mean, we remember we had a taste of serving big business. Right. We knew what that was. Like, we knew that it would fill the wallet, but I'm serving small businesses, serving the underdog was always our thing and it, and it would, it just felt better. And yeah, the volume was there. You know, the, the idea of that long tail, we worked as an agency. We know what it's like when you lose a big client because of nine 11 or a pandemic or something. Yeah. You lose a big anchor client. You can't pay your bills and you have to lay people off. It's horrible. You know, you have to depend on just a handful of customers with the long tail. You know, we're, we're serving, you know, thousands or millions of tiny customers pay small amounts of money.
+
+2 (50m 29s):
+You don't rely on anyone too much such that, you know, they're sort of too big to fail. We cannot survive without them. We, we were actually a very, very much more resilient company serving their long tail. But at
+
+0 (50m 42s):
+The same time, I mean, there were still things you couldn't do, right? Like, like one of the things that's interesting that I read was that there were big companies out there, right. That were doing national ad campaigns that were, you know, our national radio now on cable news. And I'm thinking even with 15 or 20 million in revenue, you probably couldn't do that kind of, of marketing campaign.
+
+2 (51m 5s):
+Yeah. To be, I mean, we had to be super creative. Right. So I remember, I remember one of our biggest competitors announcing that they were opening up an office in San Francisco to be, you know, with all of the other tech companies and show, you know, that they had a presence there. And I just remember being, you know, just like really jealous, you know, just being honest. And I remember telling my team, my marketing team, I want you to get a billboard across the street from their office. And all I want you to do is just put a big, giant winking chimpanzee on it so that when their customers visit, I want them to see MailChimp's logo. I'm not proud to share this story, but, you know, fortunately my staff just said, okay, we're not going to do that.
+
+2 (51m 52s):
+You know, they secretly went off and they said, but, but a billboard is an interesting idea. They're cheap. Nobody uses them anymore. And so they went off and they found one of those media companies in San Francisco who said, you know, we don't have any billboards across the street from this particular office, but we do have one on the top of this building right across from this, this building called Moscone. And we had no idea what that was, but we said, you know what, screw it. Let's just take it. And it turns out, you know, that's, that's a pretty popular building in San Francisco. It's where apple holds used to hold their dubbed up DC events. And so crowds of people would gather outside of the Moscone center up and down the street, they're waiting to get in.
+
+2 (52m 32s):
+And they would use this new app called Instagram to take selfies. And what would they do? They would take a selfie with a winking chimpanzee in the background. So we kind of went viral that way. And then billboards just took off after that. Like we just started to use billboards in all kinds of cities.
+
+0 (52m 50s):
+And you guys did like merge too, right? Like you made t-shirts. I mean, you had the monkey mascot, like all over the place.
+
+2 (52m 56s):
+I, I had, you know, the typical kind of cafe press, you know, stick the logo in the upper left pocket area. And I had a designer said, you know, we can make this really, really cool. We can use these really designer t-shirts that feel really soft and comfortable and make it something that people would want to wear. And so he created these and then we decided, you know, what, if we, what if we just had like a t-shirt giveaway and it went viral, we did a t-shirt giveaway and it just went berserk on Twitter. And, you know, we always had really breakthroughs on new, new media, new channels, new networks, Twitter, Facebook, Instagram. It seems like since we were a constantly tinkering, we were always there when those channels got big.
+
+2 (53m 40s):
+I mean, I still remember the day when someone told me, one of our employees said I listened to this thing called podcasts on my drive to work. And I think we should sponsor a podcast. And I thought it was, you know, just a weird idea. I'd never heard a podcast, but I said, screw it. Here's some money. And go go sponsor podcasts. It was the Joe Rogan podcast. And so like, we were always like really on the cutting edge of all of these new, new inventions at the time. Eventually we did get the budget to do things like TV and, you know, they were okay. But yeah, but they're not all they're cracked up to be.
+
+0 (54m 13s):
+Did you go through a period where you stopped listening to the Atlanta public radio station because you got sick of hearing the constant contact ads? Yeah.
+
+2 (54m 22s):
+Yeah, totally. Absolutely. But I mean, eventually we, we started to do that. We were S we were sponsoring podcasts, public radio shows, and you know, that, that is ultimately what led to us sponsoring series. Yeah. Let's,
+
+0 (54m 42s):
+Let's talk about that because that show totally mainstreamed podcasts. Like it was parodied on Saturday night live. It was like, you know, was on the tonight show. Like it got, it was on, it was in the newspapers got so much attention. People are talking about it everywhere that it actually, it was a rising tide for, for the rest of us who were around at the time.
+
+2 (55m 2s):
+Yeah. And so we were the first sponsor.
+
+0 (55m 5s):
+How did that, how did that sounds like, it sounds like a genius plan, but probably
+
+3 (55m 10s):
+You get given the giving, giving yourself too much credit, right. For being a genius catching onto the,
+
+2 (55m 14s):
+The recurring theme. That is the story of Ben Chestnut, which is, I basically forced gut my way into luck. So yeah, it, it was not a genius business move. We, we sponsored another podcast by the same people. I wish I
+
+0 (55m 27s):
+Could remember their name was this American life. It wasn't
+
+2 (55m 30s):
+Like a big commercial success for us to sponsor it. But I do remember that the producer said that we ran an ad during their podcasts and the ad was really quirky and weird. And it basically said something like, if you need email marketing or hats for cats and dogs go to MailChimp. And that was because we had these funny little knit hats that, you know, they were meant for humans, but people started putting them on their dogs. And then people asked for cat hats. So we made smaller versions for the cats.
+
+0 (55m 59s):
+You sold it on your website. We didn't even sell
+
+2 (56m 1s):
+It. It was just, it was just a gag. And apparently their phone lines were flooded. People kept calling in, asking where they could get those hats for their cats and dogs. And this, this made an impression on the producer, I guess. So when they came up with cereal, they just said, who should we approach to run ads for this? And I said, they said, well, let's just call it MailChimp because I had that quirky ad. And that's how they gave us first day.
+
+0 (56m 27s):
+I know this just from insight information. It was very, I mean, it was shockingly cheap. What you pay for that? It
+
+2 (56m 33s):
+Was shockingly cheap. Yes. And furthermore, they said, you know, what do you want us to say for the, what do you call it? The intro? And we said, you do it, you know, better, you know, your audience better. We believe in your creative process. So we trusted them and they, they did this intro where they interview people on the sidewalks of New York support
+
+4 (56m 52s):
+For serial comes from MailChimp, from MailChimp pain
+
+2 (56m 57s):
+SIM that delightful young woman mispronounced us and called us mail camp. And I, and I remember, you know, mark de Christina, he walked into my office with this recording and he was kind of sheepish about it. She was saying like, and
+
+0 (57m 8s):
+Mark was your, was your marketing manager. Yeah. Yeah. And,
+
+2 (57m 11s):
+And, you know, he's like you remember that thing we agreed to sponsor. They sent the first draft and here's what it sounds like. And we listened to it. And he was like, the thing is, I think it's kind of funny and we should go with it. And, you know, I hesitated for just a second, just thinking, should I demand that they actually pronounce my name correctly? I think I have a right. They have a right. And no, nobody in their right minds would, would agree to this. And I said, you know what, screw it. This could go ahead and do it. And it just was a hit and it just went
+
+0 (57m 41s):
+Viral. Everyone knew what mail camp was.
+
+2 (57m 44s):
+And, and it really like took our brand out of the, the entrepreneurial world and like the tech world. Like for the first time we had people telling us that like their mothers or grandmothers were asking them about MailChimp, like just mainstream America was asking us about MailChimp. And it was so crazy. Like you mentioned, Saturday night live, they did a skit about cereal. And at the end they had a MailChimp ad as well. Yeah. That night, you know, my Facebook messenger just lit up with all of my friends saying, oh my God, you're on Saturday night live.
+
+0 (58m 16s):
+If ever there was a, a comprehensive history of ad campaigns, that's gotta be in there because yeah. It was such a simple ad, but it was also, it was the ad before the show that you were anticipating. Yeah. And everybody was waiting for the next episode of drop. And, and, and it could have just been like that support for serial comes from MailChimp, your email marketing level. And then, and then that would make it, that would be it. That's what it wasn't. They did. They, they really, and they actually, that show created the kind of template for creative podcasts.
+
+2 (58m 48s):
+Yeah. They, they, they, the price went up
+
+3 (58m 52s):
+For the second season
+
+2 (58m 54s):
+For season two. The price went up significantly. They wise up to it, but what a lucky break that was for us. And I, I mean, to this day, we look at our quarter four results and, you know, it's just like a bummer because the cereal, the quarter where we sponsored cereal did so amazing. Well, it's hard to beat it every year. It's like, darn it. That cereal just makes it too hard. Yeah. It's, it's a, it was an amazing,
+
+0 (59m 17s):
+All right. So you're now on the map, I think by 2014 had grown to 300 employees still entirely privately owned self-funded and that's a lot of people. I mean, you, you, you, you'd gone from the three of you kind of working, you know, hunched over keyboards to a company of 300 people in a pretty short period of time. And I imagine like that's odd names to remember.
+
+2 (59m 43s):
+Yeah. I mean, it, for me as a founder, I was really good at that point running like a small squad. But when it got to hundreds of people, it got really hard for me. I, I remember a meeting that we call, we, we, we were doing these like little, little, all hands. We called them coffee hour meetings. They were maybe 20, 40 people. We we'd meet on one floor and talk about everything we had planned. And we had stopped doing them for awhile. And then one day my co-founder Dan and I were like, let's, let's have another coffee hour. We haven't done in, well, let's just get let's, let's get the band back together. We send out an email to everybody saying, Hey, we haven't done this in a while, but we're going to have an all hands this Friday, all 300 and yeah.
+
+2 (1h 0m 25s):
+Yeah. Why not?
+
+0 (1h 0m 27s):
+But in all hands that can set off alarm bells. It
+
+2 (1h 0m 30s):
+Can, we didn't think about that. And then, so like a couple of days go by and we're like, you know, we need to be considerate because the customer service team they've complained in the past that when we hold all hands, they can never quite disconnect from, from serving customers and really be present. So let's tell them that they can shut down chats. So we sent an update saying, furthermore, during this all hands chats will be closed. We think we're doing them a favor, right? Unbeknownst to us rumors are swirling that we're shutting down or something is really awful. Or maybe, maybe somebody is buying MailChimp or something. We had no idea, Dan and I have no idea walking into this all hands that people are basically completely terrified of what we were about to announce.
+
+2 (1h 1m 14s):
+The other thing, you know, just to make things interesting was that day of the all hands was Halloween and we had a costume contest going on. So everybody was in costumes when we, when we all met. And I have, we have some creative people that MailChimp and their costumes are really elaborate and amazing. And the front row, I remember it was just like all murder clowns and they were horrifying. Right. I mean, like, I remember just like constantly looking down at them, just like mortified at them. And they were probably just as terrified of me, whatever I was about to announce,
+
+0 (1h 1m 46s):
+What did you do? Would you, you stood in front of them and said, and said, what
+
+2 (1h 1m 51s):
+Things are great. We're awesome. Who knows? I barely remember. And, and, you know, are there any questions? And we had people, the questions that, that were coming were, you know, totally unexpected. So, you know, we were talking about how successful things were growing. You know, we were on a tear, things were looking like up until the ride. It's amazing. And people were raising their hands saying, so, so what's the strategy, you know, in my answer, you know, as a startup founders, we don't need no stinking strategy. We've got this, you know, and half the audience would, would share and say, yeah, we don't need no strategy. And the other half would say, yeah, we do. And they were just, I remember the person asked me that, you know, raising his hand and saying, why do you feel the need to keep it a secret?
+
+2 (1h 2m 38s):
+And I remember thinking, oh my God, there actually is no strategy. You know, you know what I remember, I remember looking out at this audience and I remember half of it being kind of old guard, you know, sort of like the typical startup pirates and the other half of people like being really concerned, like what, why are you hiding things from us? And so the whole meeting just completely flopped. It was, it was, it was an awful meeting and it, and I was just shell shocked from the whole thing. And I remember going back to my office, just sitting there alone, thinking about what in the world just happened to me.
+
+0 (1h 3m 18s):
+And in fact, you had no strategy. Your strategy was everything's going fine. We've got this email marketing product and we're good to go
+
+2 (1h 3m 25s):
+Going through the roof. What's what do I need to have a strategy for? What do you mean? I might've said the strategy. I might've said the strategy is no strategy. I might've actually foolishly said that, but you know, when I went back to my office, a young woman knocked on the door, came in, sat down in front of me, and very politely said, you know, I think you could use some leadership training. Wow. That was really bold of her to come into my office and say that her name was Kate Lee. She's now our chief comms officer at night. No Chimp.
+
+0 (1h 3m 54s):
+And at the time, I mean, this is like, you'd already been running the company for 14 years. That must've been pretty hard to take. I mean, I'm sure it was true, but, but it's
+
+2 (1h 4m 5s):
+Like an identity crisis sort of like, you don't know who you are anymore. Like I, I thought I was a pretty decent leader. Yeah. And, and I remember subsequent meetings, you know, we would have an event of some sort. And I remember just not being able to talk to anybody anymore. I just remember being, I stopped talking. I would just sit in the corner and I would only talk to people if they came up
+
+0 (1h 4m 26s):
+To me, but otherwise were self-conscious. I was
+
+2 (1h 4m 28s):
+Completely self-conscious and worry that anytime I opened my mouth, I would just make things worse. It was really one of the worst times of my life.
+
+0 (1h 4m 38s):
+Why don't we come back in just a moment, how Ben tried to build a happier work environment and how this year his leadership was tested again, when a bunch of key employees walked off the job, stay with us. I'm guy Roz, and you're listening to how I built this. This message comes from NPR sponsor, the botanist gin from the wild remote island of <inaudible> off the coast of Scotland. The botanist gin is distilled using 22 foraged island botanicals that have been sustainably handpicked order.
+
+0 (1h 5m 23s):
+The botanist for at-home delivery on drizzly. Get $5 off your order with coupon code botanist NPR, the botanist gin, 46% alcohol by volume imported by Remy Quantro USA, New York, New York, please drink responsibly support for this podcast. And the following message come from policy genius.com. Policy genius makes it easy to compare and buy insurance online. Get personalized quotes from over a dozen top insurers in minutes. Then let the policy genius team of licensed experts handle the paperwork and red tape to get you covered for life insurance, home and auto insurance, disability, insurance, and more compare and buy with ease@policygenius.com.
+
+0 (1h 6m 21s):
+Hey, welcome back to how I built this I'm guy Ross. So it's 2014 and Ben is still reeling from a very difficult and awkward all staff meeting and MailChimp, which basically has him questioning everything about the company.
+
+2 (1h 6m 37s):
+And it was so bad. I didn't know it, you know, I guess I was coming home and not really talking much about it. It just weighed very heavily on my mind. I remember my wife sitting down next to me and just saying, you know what? I think I'm going to take the kids and move out for a while, leave you alone. I don't remember looking at her like shocked. I just thinking why in the world would you do that? You know, and I guess it had affected me so much that she thought it had something to do with her. That's how bad it was. And I had no idea that it was like emanating from me, right. Those vibes. And I remember I just, I told her, you know what, it's, it's not about you at all.
+
+2 (1h 7m 18s):
+Let me tell you what's going on at work. And that was for the first time I started to talk to her about everything. Now she's probably sick of hearing me talk about work. But every day I talked to her about work and what I'm thinking of, what problems I'm having. And we, life is just so much better. Now that I've opened up and talked. W what
+
+0 (1h 7m 35s):
+Did the staff want you to? I mean, they wanted a strategy. So what did, what do you, what did you think they wanted to hear
+
+2 (1h 7m 42s):
+At that time? I, I thought that they just wanted me probably, you know, to coddle them. You know what I mean? That was my attitude at the time. Like, what do you want from me? Like, why do you need me to tell you what to do?
+
+0 (1h 7m 56s):
+So how did you resolve it? Did you, when did you seek help? I did.
+
+2 (1h 8m 1s):
+I went searching online and I actually, I remember I was listening to NPR driving around in the country somewhere and Truett Cathy, the founder of Chick-fil-A had passed away. And someone at NPR I believe was doing interviews with people who knew him as a friend. And they were telling stories about Truet Cathy and a guy came on in, and his name was clay Mottiel. And they talked about how he ran his company, sold it. And he started a school for founders.
+
+2 (1h 8m 41s):
+It was in Dayton, Ohio, and this guy he'd sold his business for multiple billions of dollars. And he just wanted a small business leaders to learn the lessons that he learned the hard way and learn how to scale their businesses and become better leaders. So I just thought, you know, let me jot this guy's name down and go look them up. And, and that's what I did. I went to his school and you went to Dayton, Ohio. I went to Dayton, Ohio. Yeah. And it's how long? Maybe two or three days. So it was built this school. I haven't talked to anyone about this. The school is built for the locals. You know, this was his hometown Clementine his hometown. And it was really built for like small family businesses. And, you know, I remember it said like the minimum revenue had to be 2 million in revenue and, and, you know, we were like maybe at 200 million or something, but it's time.
+
+2 (1h 9m 29s):
+And so I, I didn't tell, I didn't tell them that I'd submitted the form. And I said, you know, yes, I make 2 million in revenue. And I went out to Dayton, Ohio, and I learned a lot out there. I, I needed it. You know, it was a lot of humble pie that I ate out there. W how did they describe
+
+0 (1h 9m 45s):
+It? Like a leadership training? Yes.
+
+2 (1h 9m 47s):
+There was a lot of that kind of stuff. Right. So talking about strategy, talking about culture and stuff like that, but the most helpful stuff was like, they, they make you get out of this mode or where it's all about me. And it's really all about the team. It's all a bit, you know, it sounds cheesy, but, you know, you'd have to understand, like, what's going through everyone's minds when they're talking to you, is I am not good enough. That's like the self-conscious thing, that's this tape that's playing through everyone's mind. And you have to remember that as a leader. And you've gotten like, shake that out of them, make them feel confident, make them work as a team. You know, it was, it was more psychological stuff like that. That kind of helped me get out of my rut and think about leadership in different
+
+0 (1h 10m 29s):
+Way. So how did you start to change the culture of, of the company?
+
+2 (1h 10m 33s):
+Yeah, so we, we cared about most was actually our employees who had been with us for so many years. We wanted them to become good managers and progress through leadership at MailChimp. So we started to think about like, what would it be like if we had like a MailChimp school or a MailChimp academy, we started to inquire about that talking to some local professors at Emory university. And they said, you know, we, we can absolutely help you with that. But first we need to know something about your culture. You know, we were like, well, what's that I don't, I don't know what that means. And I said, oh, well, you know, it's, it starts off with your core values. And we said, we don't, what does that? So, yeah, that's, that's how the whole journey began. And we, you know, I hired a chief culture officer to kind of help us maintain that culture.
+
+2 (1h 11m 16s):
+That's how the whole process came to be.
+
+0 (1h 11m 18s):
+And so, as you started to develop a so-called culture, did you also start to develop a strategy of what you want it to be? Eventually
+
+2 (1h 11m 26s):
+It took a few more years after that, actually. I mean, here's the thing about early years of a, of a startup, you, the idea of strategy just gets more sophisticated, the older you get. So in the early years, yes, I think we did have a strategy. In retrospect, it was nothing but a product roadmap. It was just, we will build these three things this year. So yeah, we did eventually have these strategies and we, we made a conscious effort to always keep it simple, no more than three themes. You know, it had to fit on a sticky note was always my philosophy. So many years later, I think 2018 is when things had to get way more sophisticated. And we started to see that we needed to hire eventually what we have now, a chief strategy officer, because man, it is, it's a thing now it's real.
+
+2 (1h 12m 11s):
+I can safely say we do have a strategy now.
+
+0 (1h 12m 14s):
+Yeah. I mean, now, since then, I mean, you guys kind of went on an acquisition tear from 2019 to 2021, and you're no longer an email marketing service. You offer all kinds of things. I mean, including an e-commerce platform like Shopify, I mean, that's one of the first things that can read to you. It's not, Hey, set up an email marketing account. Exactly.
+
+2 (1h 12m 37s):
+And, you know, by the way, you know, when I was out there in Dayton, Ohio at this leadership school, they had a little exercise to make founders think about what is the real essence of their brand. It's not the product it's like, what is the brand all about? And by then, everyone knew that I was the founder of MailChimp. And so they just came to be, and they said, I'll tell you right now what your brand is. And to a tee, every single student in that class told me, you need to get out of email marketing and expand into other channels. So I got the idea from Dayton, Ohio, let it be known. Wow. You know, that was like, I don't know, 2017 ish is when I came back until the company, we, we have permission, you know, our brand has earned the right and the permission from customers to expand beyond just email.
+
+2 (1h 13m 18s):
+So yeah, we have been since 2017 adding social media channels, we also started MailChimp presents where we produce video content for people to, because YouTube is like, it's now like the world's number two search engine after Google, we're out there producing documentaries and movies as well about what entrepreneurial-ism, sometimes it's not even about entrepreneurial-ism, it's about, you know, a parent having, you know, some kind of an argument with a son who really wants to be a musician. I mean, it's like interwoven in, there are stories of entrepreneurial though. Tell
+
+0 (1h 13m 51s):
+Me about last year, because I can't imagine that it was as I'm sure it was, there were lots of challenges, but MailChimp seems like the kind of company that can easily move to a distributed model without too much disruption. So, I mean, is the future a hybrid model or is a future work from home? What do you think back to the office?
+
+2 (1h 14m 10s):
+Can I say, I don't sure it's all over the board. Right. And when I talk to our employees, it's very clear that they do not want things to go all the way back to normal. They want that, that hybrid approach. So we're calling it flex. So it's going to be, you know, a scenario where people can choose, do you want to be primarily office and sometimes home or primarily home, sometimes office or all home or all office you have to choose. And then it stays that way for, I think like six months I think is how we're going to pilot this thing. That way we can actually make space planning decisions, you know, right before the pandemic hit, we had signed a contract to open up a new headquarters.
+
+2 (1h 14m 50s):
+So I think we're still going to need physical space. Maybe not as much as we thought originally, but the, the nature of the space I think, is going to change where I think, I think people will work at home more often kind of doing their deep thought work. And then they're still gonna want connection with each other where they can kind of brainstorm together and collaborate and, and just socialize. And so the office space that they come to should probably be built for them. That
+
+0 (1h 15m 19s):
+Part of the challenge for many companies last year was, you know, it was tough on morale, but just tell me about, about last year and about your team. I mean, you've got how many people are more than a thousand. Yeah. About 1200. And how, how did you have to assume, like in any, any company there were people, you know, were, were feeling low. It was a tough year. How did you guys handle that? I tried
+
+2 (1h 15m 44s):
+Everything under the sun, you know, for the first few weeks we tried to post videos, you know, every day. And then that, you know, that was just too much and overbearing. It was weird, you know, in some ways we were more productive, we got a lot more done than we did when we were in the office. So it was encouraging in some ways and you want it to be optimistic and you could almost get confident about that. Right. But then just the morale just dragged everything down as well. Like you, you couldn't really celebrate anything either. It was a tough, tough, you
+
+0 (1h 16m 13s):
+Are not going to be surprised about what I'm going to ask you next, because it was covered by a few publications, but there was an article that came out earlier this year about what was described as a, an exit office of mainly women and women of color, senior women at the company, like seven or eight, or maybe more than that, I'm sure you read the articles and are aware of it. And one, one of them said, I dealt with sexism and, and bullying there. And at male champion, I wouldn't recommend my female friends to work there. What did you think? I mean, first of all, were you surprised by seeing that?
+
+0 (1h 16m 53s):
+Yeah. Yeah.
+
+2 (1h 16m 53s):
+You know, when, when you're a founder and something like that comes out, it it's a real, it's a real gut punch. We learned a lot from that. And I, I am grateful for what we learned from it. And, you know, in retrospect, I think we were always intentional about our culture at MailChimp, right? I mean, we got people to help us codify it. I mean, we hired a chief culture officer. I would say that we were really good with our culture and what can happen to a founder? You know, this is, this is my warning to other entrepreneurs out there is when you're good at culture in the early years, sometimes you can kind of lull into like an autopilot, right?
+
+2 (1h 17m 35s):
+Like we were good. And we were attracting people because of our culture. People were doing stories about our culture. So as a founder, you know, you can kind of just think, well, we've got that down. I don't have to worry about that right now. Let me just focus on growing the business. And so that's what I did. I just focused on growth and not enough on nurturing the culture. I mean, you can be fooled into thinking growth and strategy is your only job as a CEO, but no, it's it's culture as well. Cause that, that that's what drives everything else.
+
+0 (1h 18m 9s):
+People you can't know everything happening, right? You can't have your finger on the pulse at all times, but you are expected to, in a sense, cause you are, you know, the leader at the helm, what did you do? Or what, what are you going to do to respond?
+
+2 (1h 18m 24s):
+Well, we, we made our response public, you know, we have our six big commitments. We have a whole strategy on it's called our culture reset plan. So we, we actually published that, but it came from the very first thing we did was I just held constant office hours where I just listened to anybody who wanted to talk to me. And I just took notes and people from every department, every rank, they came and just told me what they were experiencing. And it was heartbreaking to hear that some people weren't feeling, you know, that MailChimp was what I thought it was, you know, and I listened to it all. And I came back to the, to my leadership team and they were holding office hours too. And we compared notes and we put together a plan to change the culture.
+
+2 (1h 19m 6s):
+And the thing that we said was like one year from now, what do we want the headline to be? We have this awful headline that's out now, right? That we're dealing with. But one year from now, what do we want the headline to be? That was how we started our meeting. And someone said, the headline should be MailChimp leaned in. We didn't shy away. We leaned in and we changed the culture for the better. When
+
+0 (1h 19m 31s):
+You, the company today easily, if you wanted to, you could easily sell it and probably had been offered lots of money for it mean you own half of it. Would you ever consider doing that? Selling it
+
+2 (1h 19m 46s):
+I've had offers. The thing is I love what I do. And I find that I am happiest when I have a really tough problem to solve when my eyebrows are like, my, my forehead is all furrowed and wrinkled. Cause I'm just like struggling to figure out, oh, this is a new challenge. How do I conquer this? And never ends when you run a business? I mean, it's just, it's never ending problems to solve. And so I just feel like every day I always have some new challenge and I love that. I really do. And I, and I just can't see myself retiring. I don't know. I it's one of those things. I, you know, you learn over time after 20 years of running a business, you learn, never say never.
+
+2 (1h 20m 30s):
+Right? I think I have an open mind about it, but I can say really honestly, and truly like having meaningful work is just the most important thing I think.
+
+0 (1h 20m 40s):
+And I mean, down the road, you may decide that you don't want to be the CEO and you hire somebody else to do that
+
+2 (1h 20m 47s):
+As possible as possible. You know, we, the other thing is like early on, we talked about VCs knocking on my door, just saying, take my money. We can help you flip to enterprise auto, yada, yada. But nowadays, you know, the tone has changed. I get private equity companies coming in and they don't ask me to take their money and grow it. They, the first thing they ask me is how's your health? It feels like they're just waiting for me to keel over. They're like, well here, just the whole by business card, just in case, you know, in case you, you keel over and your wife needs to contact us, here you go. Yeah. Right. Exactly. It's, it's creepy.
+
+2 (1h 21m 27s):
+So it, it, it makes me think, you know, like, oh maybe, maybe there, there is going to be, there is going to be a time where, you know, I need to step back and maybe have a succession plan and have someone take over running it day to day. I do see that as a possibility. But right now I'm just so happy running this thing.
+
+0 (1h 21m 44s):
+Do you, I mean, obviously worked extremely hard making this happen, but I think you did have some incredibly fortunate breaks that you'd like, you couldn't control like male camp. Do you, are, are you a believer in luck or do you think that what happened really has to do with just how strategic and smart you guys were?
+
+2 (1h 22m 6s):
+I totally believe in luck. I mean, but I think it comes from constantly striving and looking for that silver bullet. And when I look back on my 20 years, it felt like I was always looking for the answer, always looking for what is the playbook that I'm missing? You know, it's constantly searching. And then all along the way, stumbling upon something that actually does better than my wildest dreams. I don't know. It, it, I, I, I always had in my mind that I was just a bumbling idiot from of a Georgia who stumbled into business. And somewhere out there, someone knew the right answer of how to run my business. Right. And these days, these days, you know, MailChimp is much bigger.
+
+2 (1h 22m 49s):
+And I get invited to ritzy events with some really great business leaders. And I remember being in one recently where a head of one of Microsoft's cloud units, he was, he was speaking about his, how he hosts executive leadership meetings. And he says, we're still winging it. We have no idea. You know, he didn't say it that way, but he's like, we're still experimenting. You know? And this is Microsoft. And they've been around a very, very long time and they know what they're doing. So, you know, it was that moment. I realized, oh my God, nobody has the answer. We're all just winging it. Every one of us is just winging it. I don't know if that's hopeful or horrifying, but that's what I've learned.
+
+0 (1h 23m 31s):
+That's Ben Chestnut co-founder and CEO of MailChimp. By the way, back in 2015, when people were still talking about their viral ad, I'm serial, the podcast producer, Julie Snyder revealed the identity of the person behind male Kemp. It turned out to be a 14 year old girl from Norway, waiting in line outside the apple store to buy an iPhone six. That famous mispronunciation was also, and probably inevitably remixed by a fan and posted to SoundCloud
+
+5 (1h 24m 6s):
+Male, male, male.
+
+0 (1h 24m 12s):
+Hey, thanks so much for listening to the show this week. If you're not yet a subscriber, please do subscribe wherever you get your podcasts. If you want to write to us, our email address is H ibt@npr.org. If you want to follow us on Twitter at how I built this, or at guy Roz, you can find us on Instagram at how I built this NPR or me at guy dot Ross. This episode was produced by Liz Metzger and JC Howard with music composed by Ramtin Arablouei. It was edited by Neeva grant. Our production staff includes Casey Herman, Rachel Faulkner James DeLuise, Julia Carney, Faris safari, Janet oo, John Lee and Annalise Ober. Our intern is Harrison BJ Choi, and Jeff Rogers is our executive producer.
+
+0 (1h 24m 56s):
+I'm guy Ross. And you've been listening to how I built this. This is NPR.

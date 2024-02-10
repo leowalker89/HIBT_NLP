@@ -1,0 +1,260 @@
+0 (1s):
+Hey really quickly before the show starts, we are super excited about a live, how I built this recording happening right here in Washington, DC on November 30th, supported by American express open. My guest will be Robert Johnson, the founder of bet, black entertainment, television, and tickets are on sale right now for that event, you can find them@nprpresents.org. And now here's one of our favorites from the archive. It's the story of Instagram enjoy.
+
+2 (33s):
+It was nothing more exhilarating than seeing all those people stream in and nothing more crushing than then seeing, you know, people posting on Twitter or on their blogs and saying like, oh, another startup that doesn't know how to scale. Like, ah, like so clowny, we were both, I mean, at that point, like running on zero sleep for two days devastated and I was like, this is it. We've built this great thing. And we totally messed it up
+
+0 (1m 1s):
+From NPR. It's how I built this a show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. They show how a walk along the beach sparked an idea that turned all of us into good photographers and made Instagram one of the fastest growing apps of all time. Okay. It's 2009. And Kevin Systrom is just a few years out of Stanford and doing the Silicon valley thing. He's working at a travel startup by day and teaching himself to code at night.
+
+0 (1m 42s):
+And a friend from college, Mike Krieger is also in the area pretty much doing the same thing. And after a few months of experimenting, Kevin builds an app. He calls it bourbon. And it's a check-in app where you can tell your friends you're at a coffee shop or a bar or wherever. And Kevin thinks this app has, you know, some potential.
+
+3 (2m 1s):
+I mean, at that time there were so many check-in apps, there was four square, there was go Walla and there were a bunch of others trying to make it. And of course, following, you know, kind of the trend, I was like, there's something here about the devices in everyone's pockets, being available to share new types of information. And I was like, location is, is the type of information people are gonna want to share. I think the insight Mike and I had along the way was that actually there were more types of information. The fact that like these devices had a camera that would lead to our visual communication revolution where like all of a sudden people aren't just communicating with text and voice, but they had the chance to communicate with an image.
+
+3 (2m 41s):
+But initially our bet was on location. And I'm frankly, just very happy that we discovered the image thing along the way.
+
+0 (2m 49s):
+So people were using this app.
+
+3 (2m 51s):
+Yeah. And you know, it was just compelling enough to get like a handful of beta users. But I would basically come home at night and just tinker with this idea. And you know, along the way I prototyped it enough that I was willing to give it to a handful of friends and those friends give it to a handful of friends. And before you knew it, we had, I dunno, maybe 80, 90 people using it. And only at that moment, did I decide that like, Hey, maybe this thing could be a company. If we actually tried
+
+0 (3m 21s):
+Then like at what point did you say we, we should try to like raise some money for this.
+
+3 (3m 26s):
+I went to a bar where a bunch of investors were getting together and like, I kind of mingled around the room and, you know, people were kind of showing their prototypes on their phones to different investors. And I showed it to this one investor, his name's Steve Anderson, who was one of our first investors. And he was like, this is pretty cool. Let's set up coffee, you know, we can meet up and you can tell me more about the app. And that was like the biggest accomplishment today. I was like, oh my God, there's an investor. Who's willing to talk to us. And yeah, so I went and I had that coffee and I sat down and as, as we were talking, actually I had an alert that would alert on my phone every time someone signed up, because I was really excited when we went from 80 users to 85 users, to 90 users.
+
+3 (4m 10s):
+And as I'm sitting there with him, like a bunch of people are signing up and I wasn't entirely sure why, but he looked at me and was like, did you plan this like that? You would have a bunch of people sign up while you were demoing to me. And I said, no, I honestly don't know who these people are. And he looks at me. He was like, all right, count me in. But he actually said one thing to me, he goes, before I do this, you have to find a co-founder, that's willing to do this with you. And at that moment, I was like, all right, got to find someone awesome to kind of partner with and make this all happen.
+
+0 (4m 39s):
+So, Mike, how did you guys, like, I mean, how did this happen? Like you came to Kevin, you were like, I like this thing. It's cool. I want to work with you. I mean, did you, was there more formal than that?
+
+2 (4m 48s):
+I think where it came from was we had a kind of shared kindred spirit of tinkering. So on the weekends, a lot of times I would be at coffee bar, which is a great coffee shop here in San Francisco. And I'd be working on iPhone apps, just for fun and bourbon. The, the check-in in itself, I didn't find as compelling, but having a sort of visual status was really compelling. So I got excited enough that I think I, yeah, I came up with Kevin. I was like, look, if you ever do this for real, like, let's have a conversation. And I think that first meeting we had about it, actually, I was like, count me interested. Like I'm, I'm excited enough to do it. And you know how like the, the cliche of your life flashing before your eyes, like my future flash before my eyes, we're talking to Kevin, right. Then I just imagined myself working one-on-one with him on something that I was really excited about in San Francisco and just trying to make something of it.
+
+2 (5m 37s):
+And I was like, I, there was something in me that just stirred at that thought. Mm.
+
+0 (5m 40s):
+So just go on my first sec, when you met that investor, he just, he was just like a, here's a bunch of money. Well,
+
+3 (5m 47s):
+He was like, okay, I'm willing to give you $50,000 to do this. And that's more money than I had ever heard of in my entire life for a business getting at the time. But the second someone shows any interest in you in Silicon valley, all of a sudden you have a bunch of other people that really want to invest as well. Nobody
+
+0 (6m 4s):
+Wants to miss the miss the bucks, right? No one
+
+3 (6m 5s):
+Wants to miss the next Google, the next whatever. And that initial check went from 50,000 to 250,000. And then there was another investor, Andreessen Horowitz who came in and put $250,000. And so here are two guys with like basically a prototype and a couple of computers, no office who raised a half, a million dollars. And we're looking at each other, like, we think we can make this last. I mean, we were, we were living on peanut butter and jelly sandwiches at the time. So,
+
+0 (6m 33s):
+So how did you guys pivot? I mean, what, what, how did you turn bourbon into what became Instagram? What was, what was the Genesis of that?
+
+3 (6m 44s):
+I think the best thing for any entrepreneur is failure. And for us, it was the lack of momentum. We, I mentioned, we got to, we got to about a hundred users using this app and
+
+0 (6m 55s):
+A hundred, a hundred,
+
+3 (6m 57s):
+No, no, no, no. A hundred. Like you can fit them in a room. And Eric Reese is the sky and Silicon valley likes to talk about the lean startup method. And one of his, one of his lines is like, don't ask why people don't use your startup, ask why the people who continue to use your startup keep using it. And when we looked at our user base, our whole hundred people, each of them loved the photo aspect. So that's why we ended up focusing on photos,
+
+0 (7m 25s):
+But there were already a bunch of photo websites and even photo apps. So, so how were you able to come up with an idea that that would make your thing different?
+
+3 (7m 35s):
+We were both kind of burned out. We had decided that bourbon wasn't going to do anything. We had, you know, $495,000 left in the bank because $5,000 to buy a couple of computers. Right. And, and we were like, all right, it's okay. If this idea doesn't work out, we can really string this half a million dollars out for a long time. So we're going to come up with a new idea. So we started focusing on photos and we were both burned out and I was like, all right, Mike, I gotta take, I gotta take a break. So when my now wife and I, Nicole went to Mexico and we were working on this idea of photos. So Mike was like, all right, I'm going to prototype this thing while you're on break, you come back. And then we'll like reconvene.
+
+3 (8m 16s):
+So Mike started prototyping this app. And as I'm away, I'm walking down the beach with Nicole in Mexico, we were in this little surfing town called todo Santos. And I'm like, you know, Nicole, I think we're going to focus on photos. And she goes, oh yeah, that sounds like a great idea. I love all the pho photo posts on bourbon, but she goes, I don't think I'm going to post that much. And I go, well, why not? And she goes, well, my photos aren't that good? And I said, well, they're great. And she goes, well, they're not as good as your friend, Greg. And I was like, well, Greg uses a bunch of filter apps to like, make them look nice. And she goes, oh, you should probably add filters. And I was like, ah, that's it. Like, we, we just need to be able to make people feel like their photos are worthy of sharing.
+
+3 (9m 3s):
+And I remember going back right from the beach. I sat in the room with a little dial up connection that the little Hacienda had. And I literally just like researched how to make the first filter, which ended up being called X pro two. And if you scroll all the way back on my account to the very first photo there's Nicole's foot and a little stray dog in Mexico, and that's because that day I made expert too. And I went out to a taco stand for lunch to test it. And I took that picture and posted it on the prototype that Mike had given me. So that was kind of the intersection of the ideas of photos and filters. And it all came through consumer insights. It was just like, what problem are we solving?
+
+3 (9m 43s):
+Share something that people love and make sure that they feel great sharing it.
+
+0 (9m 48s):
+So, so how long did, did it take from the time you decided to move away from bourbon and then launch Instagram?
+
+3 (9m 55s):
+It was only eight weeks from the time we had basically sketched it out to when we put it into the apple store, we press launch on October 10th, 2010. And it was like about midnight and people just started streaming it, it was crazy. It was like, like
+
+0 (10m 14s):
+How fast were people
+
+3 (10m 14s):
+Joining it? The first 24 hours, we had 25,000 people sign up around the world, which sounded big to us at the time. Yeah.
+
+0 (10m 21s):
+That's incredible. What were you expecting
+
+3 (10m 23s):
+That? No, I mean, a couple of things that showed how naive we were at the time, number one midnight in San Francisco, it's 9:00 AM somewhere. And we didn't quite realize how global our business could be. So it turns out everyone who was signing up at the beginning actually lived overseas. So when we looked into the database and we were like, who are these people? They all had, you know, email addresses from Germany and Hong Kong and various places around the world. And before you knew it, we actually had overloaded our system. And it was a very small naive system. It was a single computer in a co-location space, somewhere in LA,
+
+0 (10m 57s):
+Everything was on one,
+
+2 (10m 59s):
+Peter. Yeah. It was, it was nothing more exhilarating than seeing all those people stream in and nothing more crushing than then seeing people posting on Twitter or on their blogs and saying like, oh, another startup that doesn't know how to scale. Like, ah, like, so clowny, we were both, I mean, at that point, like running on zero sleep for two days devastated and I was like, this is it. We built this great thing and we totally messed it up.
+
+3 (11m 23s):
+And to be clear, there's no reason we should have succeeded. Like, I mean, the server was just like, it was down every other hour and like people just kind of forgave us and they would come back and they would share their photos. And at the time mobile networks weren't that great either. So people would actually blame their connection and not us, which was great. But those initial weeks, I mean, it was just like trial by fire. And we had to learn everything on the job and we had so many chances to fail, but we just kept at it and kept working and pulled a bunch of all nighters and the amount we learned in that first year, it was crazy. It was like five years of college, all in one. And yeah, it was pretty exciting and tiring.
+
+0 (12m 3s):
+How did people even find out about it Instagram? Like how did they know that they should download this like this app?
+
+2 (12m 9s):
+So we had this intuition that if you're going to throw a party, which is kind of what an app launch really is, as people are streaming to the door, you want them to sort of know how they should act and who else is there? So one of the things we did was we have, you have a hundred sort of invites that you can have before you launch your app to the app, apple store, where you can invite people to, to try it out. And we're like, how are we going to use these hundred people? And we use them a combination of some journalists that we'd gotten to know over the last couple of, of years in San Francisco in the valley. And we also went on the site called dribble.com, which is sort of like a place where designers go and show off their best work. And we figured photographers might not instantly take to Instagram because like they want like super high resolution or they have other constraints, but designers love photography, but it's not their main sort of job.
+
+2 (12m 57s):
+So we picked basically the 10 top designers on Dribbble and we emailed them and some ignored us, which is fine. And some wrote back and said, sure, I'll try your app. And it was great. Cause coming in day, one people who, who would explore things that we had a popular page at the time that showed the most popular photos across the whole community, we'd be like, wow, you can take that on a phone. Like we take this for granted a little bit now, you know, cameras have improved every year. But I think part of what we showed to people back in 2010 was that there was something really amazing you could do with just the phone in your pocket.
+
+0 (13m 36s):
+When we come back, cow president Obama, Snoop dog, and about 500 million other people started to use Instagram. And what happened after Facebook bought it for a billion dollars. I'm guy Ross. You're listening to how I built this from NPR Support for this podcast and the following message come from. Klayvio the email and text marketing platform that puts creators in control. If you're the creator of an e-commerce brand, you need a platform that hustles as hard as you do, Klayvio unlocks the power of your e-commerce data.
+
+0 (14m 16s):
+So you can personalize and automate messages that keep customers coming back. Creators communicate with Klaviyo, get started for free@klaviyo.com slash NPR. It's how I built this from NPR I'm guy Ross. So it's about a year after Instagram's launch and it's grown to 10 million users at this point. And Mike Krieger and Kevin Systrom are expanding their staff very, very quickly. And at this point, did you guys have like investors banging on your door? Yeah,
+
+3 (14m 50s):
+We actually had investors up in our office. We'd be like trying to keep the servers up and someone would like tap on our saloon and they'd be like, hi, I'm, so-and-so from so-and-so investment partners. And I'd like to take you out for lunch. And we're like, we're trying to keep the site up. We'll use. But we met, you know, a bunch of people along the way. And the ones we did make time for were the ones who are most respectful of that time and knew what we were going through and could help.
+
+0 (15m 16s):
+So very shortly after you launched this thing, it's like it's valued at, in like more than $20 million or something, right?
+
+3 (15m 24s):
+Yeah. Yeah. It was, I think our first round was like, I don't remember. It was like, we took $8 million of financing on like a 20 pre, so like roughly a $30 million evaluation or something. And I mean, again at that stage in life, it's like, wow, I've never heard of a company that's worth this much. I mean, this is crazy. I didn't really think much of it. I just wanted to get back to work. And I think Mike felt the same way. We were just like so focused on building what we're building. It just like it kept growing. And the question was, again, Mike and I, every single day, we're thinking how, what scale can this get to? And I think it really started to hit us when we would be out and see people using it in the real world.
+
+3 (16m 7s):
+It was kind of surreal over time.
+
+0 (16m 9s):
+I mean, the, the sort of the like from the outside of the story just seems like a, just a clear linear, like jumping from success to success. Like it was super easy. You put it up there and then you raise all this money and then the valuations just in the stratosphere, but were there moments in the beginning, even, even after that initial 24 hour period and beyond where you thought this could fail, this could easily just fail.
+
+2 (16m 32s):
+I mean, all the time, I like three weeks in Kevin turned to me and he said, Mike, I don't know how big this is going to be, but I think we're onto something. And I was like, oh, we'll see. And every morning I would wake up expecting that that was the morning that growth would stall. And that was it. And if I knew what I know now about metrics and how to measure that, whether people are coming back over a one day, seven day, 30 day period, I would actually have been, I think, a lot calmer because I think it would have shown as it shows now that people who join Instagram tend to stick around and become more active. And that's really exciting. But at the time I didn't know that I was like, oh, they're signing up. Are they going to come back tomorrow? Like, is it all going to change? And that was sort of an internal worry.
+
+2 (17m 12s):
+And then externally, as we launched and grew, it became a very competitive space. And we would see companies get announced that had tens of millions of dollars in investments even before launching. And we're like, man, like these guys have so much money. They're going to come in and, you know, attack us and it's going to be really hard. And that's the other lesson learned, which is, you know, your valuation and the amount you raise, it can be helpful in building your product, but it does absolutely nothing. People, your end users don't care at all, how much money you've raised. They care if you're providing some kind of value in the product. And again, lesson learned over time that, you know, you, you have to earn it every day for,
+
+0 (17m 50s):
+I'm curious to sort of get your, your take on why it continued to grow. I mean, there are a lot of cool apps that you and I both know of that launched five, six years ago that were amazing that people use that, that are, that no one uses anymore, that that are just gone. And there are lots of people who work really hard who are really creative, a really smart, have amazing ideas and put out a really cool product. So why, why do you think Instagram survived and thrived?
+
+3 (18m 19s):
+I think there was this opportunity that we spoke of that back in the day that people had cameras in their pockets with them for the first time ever. And digital photography was clearly going to be a thing, but the second that camera got added to the phone and man, you had it with you at all times. And that doesn't mean that you're going to take photos on it. Obviously the quality has to be high enough, but we started the company right at the moment where like the quality of those cameras just kind of met up with point and shoots. And because of that, everyone started taking photos on their phone, but they had no place to put them or if they did, it was hard. I mean, they would look at Facebook and they'd be like, well, you know, like I have to upload them like on the desktop or on Twitter, like it doesn't really show in the timeline.
+
+3 (19m 5s):
+So they had this problem. Like there's no place to easily share all these photos that I'm taking all the time. And we just happened to be the right tool for that job at the right moment. And we created, I believe the thing that kept it growing was we created an open network. We sat down very early on in the product design process and asked ourselves, okay, do we want to be a place where you send a friend request and you have to accept it in order to see those photos? Or do we want to be open where anyone can follow anyone? And I'm so glad we ended up choosing the open model because now you can follow someone from Japan, you can follow, you know, a chef from New York city, you can follow your favorite celebrity or you can follow your friends.
+
+3 (19m 47s):
+And that like hadn't really been done before in photos. If you look at every photo service before then it was basically a closed, only friends, only network. And we were the first ones to really open that up.
+
+0 (19m 59s):
+You know, if there was a moment in my other radio show, the Ted radio hour, where I think we all realized how big the show became, when, when pink, the pop singer tweeted about the show, we were like, holy, she looks like she's listened to the show. Did you guys have a moment where you were like, Jesus, like they're using this thing that we built in, like our basement?
+
+2 (20m 20s):
+I think for me the biggest one was the white house or Obama. I think it was a Bama joined first. And I think it was part of the campaign that he was running. And I remember like the president of United States like knows what Instagram is and knows how to use it. And I remember, you know, every, I, you know, every time somebody is using our app and I either see or hear about it, I'm like, I hope it doesn't crash. I hope it works perfectly that I hope they like don't have any questions that keep them from using it. So that was, I think, a big inflection moment. And I think the other one was I noticed that the New York times when they would cover his head, stopped saying Instagram comma, the photo sharing app. And then it was just Instagram. I'm like, oh, we are, we have now reached the point where they, they can assume that most of their readers know what we are.
+
+0 (21m 3s):
+I am, I am old enough to remember when NPR set would say Google the search engine,
+
+3 (21m 9s):
+But for me, so I feel embarrassed because you had a really good example about like the president using, for me, it was like our first celebrity of Snoop dog. Do you remember Snoop dog signing up? And we were like, is this actually Snoop dog? And then I got an email that was like, Snoop Dogg's people want to meet you guys? And I was like, oh my gosh, I don't even know what does it mean? People like Snoop dog has people. And I remember Justin Bieber signing up and the world going kind of bonkers for that as well. And by world, I mean, teenage girls and they basically started using the app incessantly and it kind of took off with like a bunch of really young people as well.
+
+0 (21m 45s):
+Yeah. You obviously, everybody knows that eventually you sold Instagram to Facebook for a billion dollars. I mean, it's just incredible that two years after you create this thing that happens, you couldn't have planned for that. You couldn't have, they couldn't even have been an ambition.
+
+3 (22m 4s):
+Yeah. I mean the first day that we went home after pulling that all-nighter to launch Instagram, there was a guy sitting on the muni here in San Francisco, which is the subway system and he was using Instagram. And I was like, oh my God, like we did it. Like someone in the world is using this thing out in the wild, that feeling. And that moment is the currency that you maximize when you're an entrepreneur. It's like seeing someone using your product and loving it is like way more rewarding than any amount of money in the world.
+
+0 (22m 40s):
+You guys now are within the Facebook family. Right? I mean, you're an independent company, but you are part of Facebook. How has that changed the way you operate? Obviously.
+
+3 (22m 51s):
+Yeah, initially that was actually pretty awesome because we had all these problems scaling our services and like the Facebook infrastructure team would come over and be like, oh yeah, we've seen that before here. This is what you do. So it made our lives actually a lot better. And we were able to hire some of the best people in the world and share to,
+
+2 (23m 8s):
+I like to call ourselves the older brother or the older sibling where we're the, we're the first company that Facebook acquired and sort of kept running. And then since then you've seen Oculus and WhatsApp. And I think there are a lot of things that we figured out early on in terms of the relationship, the office space hiring. And I think we all, from both sides of the, of the table, approached it from a spirit of, Hey, how can we make Instagram better through these integrations rather than how can you make Instagram more like Facebook, you know, or try to adapt it to be exactly the same.
+
+0 (23m 39s):
+There was this, like this controversy that happened with Instagram, where you change your terms of service and people were under the impression that their photos were going to be your property. And a lot of people like left Instagram at that moment. Presumably that, I mean, that's, that was a learning lesson for you, for you guys,
+
+3 (24m 0s):
+Huge lesson, number one, people read the docs that, you know, you put out and you should care about them as a founder. So your terms of service, basically what happened? We had these terms of service that we had, I think effectively copied from some other site way back in the day and just find and replace their name with Instagram because we were a startup and we didn't know what we were doing, but we eventually got to a place where when we joined Facebook, Facebook was like, Hey, you actually need a real one that like fits with the way you guys work. And we're going to make all these changes. And we went through it and I was like, okay, great. This makes sense. And I didn't really read it all that carefully. And one of the sections reading it again today, if I look at it can be interpreted that we were going to take user photos and somehow use them in advertising.
+
+3 (24m 46s):
+That was definitely not our intention. And like no one in the company had even thought of that idea. It just, if you read the sentence that way you could see that maybe it would worry people. So immediately, you know, we had this big protest and people were, you know, leaving the service. I mean, we have a graph of account deletions at that time and it was skyrocketing and Mike and I sat down and we were like, what do we do? And, and we felt helpless. I mean, it was like all over. That was that first day all over again. It's like, we've screwed this up. How do we make sure that people know? And I went back in my head, I was like, why don't we just apologize and say, we're wrong? And I posted this blog post on our blog. You can probably still find it online.
+
+3 (25m 27s):
+And I was like, we're sorry, we didn't mean this. That's absolutely not what we're trying to do. And we tweeted about it. And actually the graph of deletions at that moment drops to zero. And sometimes you just have to say, sorry, sometimes you just have to say you were wrong and reassert what you're actually trying to do. And that interaction with the community still sticks in my mind as something that we try to do every single day, which is be really transparent with people, put our community first, because like at the end of the day, without them, we're a photo sharing app.
+
+0 (25m 58s):
+How much of what happened to you guys to Instagram and, and this whole story? How much of it was luck?
+
+3 (26m 5s):
+I'd say 50%, actually I have this thesis that the world runs on luck. The question is what you do with it. Everyone gets lucky for some amount in their life. And the question is, are you, are you alert enough to know you're being lucky or you're, you're becoming lucky. Are you talented enough to take that advantage and run with it? And do you have enough grit? Do you have enough like resilience to stay with it when it gets hard? Because everyone gets lucky in minimal ways every week. I mean, you find a dollar on the ground or, you know, you get a break at work to work on a cool project, or you meet someone interesting. The, the difference between people, I think who succeed in the long run and the people who don't is frankly, that optimism that like you got lucky and now it's yours to yours to make awesome.
+
+3 (26m 55s):
+And that first day, I think we got lucky by having the right ideas, the right time in the right place. And we were lucky to have met each other. I mean, there were a lot of co-founding pairs in tech who have not worked out. And Mike and I are like great friends, at least I think so. Right, Mike. And the question is, can you take that luck and capitalize on it?
+
+0 (27m 22s):
+Instagram co-founders Kevin Systrom and Mike Krieger, by the way, after the sale of Instagram to Facebook for a billion dollars, those two became very, very rich. But today Instagram, according to Forbes is worth more than $50 billion, which makes Instagram bigger in dollar terms. Then places like Alaska, Maine, Rhode Island, Latvia, and the goal. And please do stick around because in just a moment, we're going to hear from you about the things you're building, but first, a quick, thanks to one of our sponsors, Delta airlines.
+
+0 (28m 3s):
+Now you can enjoy free mobile messaging while flying on Delta. You can use iMessage, WhatsApp and Facebook messenger simply by logging into the inflight wifi. Hey, thanks for sticking around because it's time now for how you built that. And today we're updating a story. We first ran in January featuring Dave Wiener from New York city
+
+4 (28m 26s):
+People that you're leaving your successful software career to start a bike company, you get two types of reactions you get, wow, that's amazing. Let me hear more. And then you get the, oh, okay.
+
+0 (28m 39s):
+But about three years ago, Dave was willing to take that leap because, because he loves bicycles. He basically grew up fixing them, building them. But a lot of times when he wanted to go out for a ride with friends, he run into
+
+4 (28m 53s):
+And he'd always say my bike has flat tires and needs a tune-up. And then of course, me as the ex mechanic, I'd either have to go over early and tune up their bike, or we wouldn't go for a ride. So,
+
+0 (29m 5s):
+So Dave decided to design the kind of bike where that type of thing would not happen.
+
+4 (29m 11s):
+We really reinvented the bicycles going through every little nut bolt piece component on the bikes with the focus of Loomis.
+
+0 (29m 20s):
+And so in a basement workshop in Manhattan, Dave designed his first bike made of aluminum and stainless steel with internal gears and disc brakes. But he says, what really set his bike apart is that instead of a greasy chain, it's got a belt drive made from carbon fiber. That feels more like rubber. So there's no
+
+4 (29m 42s):
+Grease. There's nothing to rust. There's no way to suck in your pants and leave you on the side of the road. And it lasts three times longer.
+
+0 (29m 50s):
+Now you might think a bike like this would cost like thousands of dollars, but they figured out a way to do it for a lot cheaper, more like $400. And his concept was so popular that he raised half a million bucks on Kickstarter and then found two factories in Asia to make the bikes. But about two years ago, when it was time to deliver the first thousand bikes, he got into a jam,
+
+4 (30m 14s):
+Our bikes produced and they were on the water on their way over from Taiwan. When customs took our containers and held them for an undetermined amount of time while they inspected them
+
+0 (30m 26s):
+Even worse. This was in December. Then we started to get
+
+4 (30m 30s):
+Emails from our customers saying you're going to ruin Christmas. I bought this for my spouse, for my son, for my daughter, for Christmas. It needs to be under the tree
+
+0 (30m 39s):
+And all this almost offended the whole company. But about a week before Christmas customs finally let the bikes through. I was
+
+4 (30m 48s):
+Lucky. We made it on the very last day.
+
+0 (30m 52s):
+That's Dave Wiener of priority bicycles. When we first spoke to him in January, Dave was working on opening his first retail location in New York city. And right now he has a showroom it's downtown in Tribeca and things are going really well. Priority. Bicycles now has partnerships with more than 200 hotels resorts and college campuses around the world. And they're launching a line of accessories, including some bike bags that just came out this week. And in August wired magazine called his bicycles, the ideal city bike. If you want to find out more about Dave's priority bicycles, head to our Facebook page. And of course, if you want to tell us your story, go to build.npr.org.
+
+0 (31m 34s):
+We love hearing what you were up to. Our show was produced this week by REM teen Arab, Louie who also composed the music. Thanks also to Neva grant sent us Michigan, poor Claire Breen and Jeff Rogers. Our intern is Diana Mustafa. If you want to find out more or hear previous episodes, you can go to how I built this.npr.org. Please also subscribe to our podcast at apple podcasts or however you get your podcasts. You can write us. That's H ibt@npr.org and on Twitter. It's at how I built this I'm guy, Ross. And you've been listening to how I built this from NPR
+
+5 (32m 24s):
+Where can we debate? Today's big issues without getting attacked for speaking our minds. One a provides a safe, smart place for tough conversations, every weekday and the Friday news Roundup breaks down the week's top stories. I'm Joshua Johnson, check out the one a on the NPR, one app or wherever you listen to podcasts.
+
+6 (32m 49s):
+The news is about more than what just happened. You need to know why it happened. Who made it happen, how it's felt in the communities you care about. NPR is daily news podcast. Consider this gives you all of that. With context backstory in analysis on a single topic. Every weekday, it's not just information. It's what the news means. Consider this from NPR.

@@ -1,0 +1,893 @@
+2 (0s):
+Support for how I built this and the following message come from American Express. You want to build your business? They can help build your business with financing solutions for eligible business customers the powerful backing of American Express don't do business without it terms apply visit American Express.com business. Hey, it's guy here. And today we have a brand new live episode of How I built this featuring Kurt Richardson of Otter Products. But before we start the show just a quick thing a lot of people ask How can I support how I built this and really the best way to support what we do is by supporting your local public radio station, which broadcast the show on there are waves here at NPR.
+
+2 (41s):
+We're launching our annual fundraising Campaign, which runs all the way to December 31st. So if you want to support your local public radio station, please consider donating by going to donate. Npr.org / built and thanks.
+
+1 (58s):
+This is a great story. So I remember being at CES and
+
+2 (1m 2s):
+in Las Vegas in Vegas and
+
+1 (1m 5s):
+Michael Cowan who was the head guy for stuff at AT&T came by and showed him the case and he said well, how much is it? I said well retails for 4995. It's like you're crazy
+
+2 (1m 17s):
+4095 raised by a case for all cases were like 5 bucks. It's nuts. Yeah,
+
+1 (1m 22s):
+so he said but we'll do a test. So they they did a test and they were going to do a three-month test. But I think they did a three-day test because they all sold out. Well, they sold like crazy and it was like that UPS commercial, you know, it's like dick dick dick dick dick and we're going well crap.
+
+2 (1m 46s):
+From NPR it's how I built this show about innovators entrepreneurs idealists and the stories behind the movements. They built I'm guy rosin on the show today how Kurt Richardson went from Apprentice at a plastic molding Workshop to building OtterBox a company that today sells more than a billion dollars worth of mobile phone cases each year. So in a gold rush as you've probably heard it's better to sell pickaxes and shovels then to mine for the actual gold. That's why you know, the name Levi Strauss or ghiradelli or Wells Fargo.
+
+2 (2m 28s):
+These are the companies that made lots of money by offering clothing and chocolate and banking services to the people who came out to California to mine for gold in 18-49. And today some of the most successful companies are doing More or less the same thing around Tech. Toby lepke saw lots of people starting e-commerce businesses in the mid-2000s. So he developed software to make it easy to launch an online store and called it Shopify check Pipkin created Belkin in the 1980s because as personal computers and printers started to get more popular. He realized people needed cables to connect all their equipment and Kurt Richardson watched the rise of expensive personal handheld devices.
+
+2 (3m 13s):
+He realized that people might want to protect them that Insight was what turned OtterBox from a company that literally made waterproof box has four people on fishing trips into a brand that now dominates the market for smartphone cases. Not only that but the company is still privately owned by Kurt himself a company now valued at more than a billion dollars, but getting to this point involved a few bankruptcies several lean years of almost no, Avenue and almost two decades of tinkering with plastic to figure out that phone cases were going to be big but before all of that happened Kurt was mainly just making plastic parts for other companies mostly in his garage and Fort Collins, Colorado last month.
+
+2 (4m 1s):
+I sat down with Kurt at the Paramount Theater in Denver in front of a live audience to hear how he built OtterBox. Mutters here tonight curves a
+
+1 (4m 12s):
+couple. Yeah feels like it is like a company meeting
+
+2 (4m 16s):
+gosh. Thank you for being here. You bet tell me a little about about where you grew up and and your childhood because you grew up like on the southern border right with of Colorado,
+
+1 (4m 28s):
+right? I grew up in a small town called Bond. Carbo, Colorado down by Trinidad, Colorado. So anybody here from bunk Harbor?
+
+2 (4m 37s):
+Yeah. Yeah, right. There's a yeah. Maybe up there. I
+
+1 (4m 41s):
+think there was two people in that
+
+2 (4m 43s):
+town. Yeah, that was it. And what was life like as a kid? I mean, I mean were you Outdoors a lot? Where are you you up in mountains? Were
+
+1 (4m 52s):
+you? Yeah, we lived in the mountains. We lived at the base of the Spanish Peaks on the south side of the Spanish Peak. So we were in upper borough Canyon. My dad's a minister and we moved up there the middle of nowhere and he started a church
+
+2 (5m 7s):
+there. So given that you were The Minister's son. Does that mean you were? Were you know pretty well behaved pretty good student good listener.
+
+1 (5m 14s):
+No. No, I was I was probably the problem child. I was definitely a see student bordering on Addie,
+
+2 (5m 21s):
+huh? Yeah, and I mean, I'm trying to trying to figure out like what I mean did your parents sort of expect you for example to go to college and and sort of pursue that kind of professional
+
+1 (5m 36s):
+life. They wanted me to I know my mom did, you know, I She wanted me to be an engineer and but I really had no desire to go to college. It was it was all about work working with my hands and that really was formed from high school experiences.
+
+2 (5m 56s):
+You got really into like metalworking. I read write like you'd go to a little shop in high school. Yeah our
+
+1 (5m 60s):
+school had a vocational program and you got exposed to four different classes and the one that struck me right away was machine shop. So I walked into machine shop. I knew what I wanted to do. I wanted to own my shop my own
+
+2 (6m 13s):
+shop. And and so you finish high school and you go right into this line of work like you look for a job that
+
+1 (6m 21s):
+right. I had heard about a program in Fort Collins Woodward Governor had an academy there where they taught you Machining and eventually you could get your engineering degree that didn't happen because only lasted three months there.
+
+2 (6m 35s):
+So yeah, and when we're Woodward Governor, which was a program in Fort Collins, And you were doing what we are working on Plastics of the time or metal. So I was just pulling a handle. I was a
+
+1 (6m 47s):
+robot, right? Yeah, and that was that pretty much turned me off from that experience right
+
+2 (6m 53s):
+away. And so what did you do? I mean, you're like 18 19 years old. You don't have any formal education Beyond high school and I have to assume you weren't a technically probably great as a metal worker or
+
+1 (7m 6s):
+Planet. Oh, no, I wasn't there yet. So I heard about small company in Collins technical molded products and they had a opening for an apprentice and and the guy luckily hired me on what are they make Plastic Products just for about anything whether it was garden tools. They were making a lot of parts for cougars at the time so plastic
+
+2 (7m 29s):
+parts and so you were an apprentice and you were kind of learning how to do this had a
+
+1 (7m 34s):
+toolmaker as learn how to be a 2 in diner
+
+2 (7m 36s):
+people. You don't really understand how this works right injection molding. Uh is basically that right you inject right right injection. I built the injection
+
+1 (7m 46s):
+mold. So the large and even the first business I bought was that just building injection mold steel injection
+
+2 (7m 52s):
+mold. So they're like a imagine like a steel brick almost right and and you inject the plastic in that brick for maybe a little part that would appear in a camera right or medical device.
+
+1 (8m 3s):
+Right just to give you an idea, you know a cup like this that mold might make four of those every 45 seconds. That mold probably weighs close to ton. Wow.
+
+2 (8m 15s):
+All right. So you do this for a couple years. We're still super young and I guess like in the early 80s you decide that you want to go off on your own. You want your own Plastics Company and you actually bought a small little company called Genie plastic tooling. It sounds like a big deal. You bought your own business. I mean, wow, I'm doing it wasn't that big a
+
+1 (8m 36s):
+deal. The guy I bought it from had been kicked in the head by a horse. So so he financed it for me, you know. Great guy, but
+
+2 (8m 49s):
+who knew that a horse Kick In The Head was going to change
+
+1 (8m 52s):
+history at changed everybody's
+
+2 (8m 54s):
+trajectory. So you see you take over this business and what kind of products was Jeanne plastic tooling making
+
+1 (9m 1s):
+there again, they were making custom parts for just about anybody that was out
+
+2 (9m 5s):
+there and you are like your mid-20s at this point some 2121 and and was it just you was the business just courage Orton just me. Yeah were you making A decent amount of money no, no, right? Okay.
+
+1 (9m 21s):
+Yeah. I mean I was I bought a job. Okay. I mean really that's what I did I was making a decent living but I wasn't making I probably in the end of the day wasn't making any more than if I was working for somebody else, right?
+
+2 (9m 33s):
+So you do this and I mean you are manufacturing the dyes or are you a tooling them? Right and then you were trying to Cobble business from local local folks and for And then and then and then how did how long did that go? Do they
+
+1 (9m 48s):
+continue it continued off and on for years. I was always building injection molds business was always up and down, you know, it went up it went down but I was always in the Plastics part of business whether I was importing molds or building molds. It was all around injection
+
+2 (10m 6s):
+molds. Yeah, and I guess like at around this, you know in your 20s. You also would meet in your early twenties you'd also meet Your future wife who is still your wife to this day Nancy? Yeah, she's here. I don't know where she
+
+1 (10m 19s):
+is. You you put up with a lot. Yeah,
+
+2 (10m 28s):
+you get married and pretty soon have a couple of kids and you were running this plastic tooling company and then you kind of we're sort of around this time creating other businesses around Plastics and molding and tools right? What was your plan? What was your idea of what you thought you would do plan?
+
+1 (10m 53s):
+Yeah, I did not have a plan that was part of the problem. The plan was just do the next thing maybe I mean, that's the how many of us entrepreneurs are in the early days. I believe and then we grow up. So a big part of it was really as the business grew and matured to a certain point it would fail and you'd go back
+
+2 (11m 17s):
+and what about what wait, what do you mean it would fail like you have this business? Sounds like it was pretty stable you'd make these pretty complex parts for plastic injections. Not a lot of people could do that how would it fail
+
+1 (11m 31s):
+it would scale so far as a business as far as Revenue as far as employees and then for whatever reason it would
+
+2 (11m 41s):
+collapse like orders wouldn't come through
+
+1 (11m 43s):
+or something would happen within the economy and the business was so frail that it wouldn't survive it and I had to back up and start over.
+
+2 (11m 51s):
+When did you have? What did you experience your first bankruptcy?
+
+1 (11m 56s):
+I didn't go bankrupt. I just went back to the garage
+
+2 (11m 59s):
+you go back into the move back into the garage when a business wasn't working or you weren't well
+
+1 (12m 5s):
+you didn't scale so it's go. Okay, I'm gonna back up. I'm going to go back to just me or me and one other guy and build it up again. Try something a little different a little different slant on the business.
+
+2 (12m 15s):
+Yeah. It was I mean in and we're talking about the 80s here and the 90s was was money ever
+
+1 (12m 22s):
+Tight money was always tight. Yeah, it was payroll was always an issue and cash flow is what kept me awake if anything kept me awake and the so it was you had to get Scrappy. We were very Scrappy in those days.
+
+2 (12m 35s):
+I'm curious because most of what you were making in the early days were like a little component part right rear something that would be inside of a device or tool that you would never even know. How did you start to think about, you know, maybe we should make like something Else like what I guess boxes waterproof
+
+1 (12m 54s):
+jinxes, what what drove that way of thinking early on was the fact that I was making things for other people and I was counting on their ability to run a business and be successful with their products. So my My Success very much depended on their sixth you
+
+2 (13m 10s):
+were part of a supply chain. I was
+
+1 (13m 12s):
+yeah. I was just part of their cycle really I was part of the beginning of it and then the production of it and the Hope was that they would sell millions of these things. Wow. Well, they didn't
+
+2 (13m 23s):
+and a millions of these things could be a
+
+1 (13m 25s):
+could be a small component could be a small case for a duck call. I mean one of our products this was a good one was the loosey-goosey toilet paper holder. You see that a lot today, don't you wait,
+
+2 (13m 41s):
+this was something you were you were making a you're making a component part for somebody else
+
+1 (13m 45s):
+made the whole thing and the guy came to me with the idea. We drew it up. We told it, you know, it hangs on your tree while you're at the camping site keeps your toilet paper
+
+2 (13m 53s):
+drives like this is a toilet paper roll for when you're camping. Yeah. It wouldn't have done well on QVC even why do you need a toilet paper roll on your camping? I mean couldn't you just get the toilet
+
+1 (14m 2s):
+paper? I don't know. It was his idea what my idea
+
+2 (14m 7s):
+that's so he comes to you. So and these are the kinds of things that people come to you and say yeah, I got this idea. What would you remember anything else? Oh,
+
+1 (14m 14s):
+yeah. I remember one. You know remember the oil cans before you twist it off the top here you had to open them with a can opener. Well, that's how old I am, you know, so it was basically a spout you stuck into the top of the oil can and was plastic on the top had a metal stamped piece that and it punctured real. Can you pull your oil it worked great.
+
+2 (14m 33s):
+Yeah,
+
+1 (14m 33s):
+but he didn't sell any
+
+2 (14m 35s):
+nobody bought it
+
+1 (14m 37s):
+real. But again, we spent a lot of time and energy developing the tooling, you know getting we had the machines to produce these we did one run. It's a one-run wonder, you know, we had a lot of
+
+2 (14m 48s):
+those but that that sort of limitation started to prompt you to think. How do I take control over this instead of being dependent on someone's product taking off you were like, what can I make and bring to Market? Is that what you
+
+1 (15m 2s):
+started there in? Much so and I had a partner at the time that was going finally said why don't you do your idea
+
+2 (15m 9s):
+which was which was
+
+1 (15m 11s):
+which was a waterproof box.
+
+2 (15m 12s):
+How did that idea even
+
+1 (15m 14s):
+start? You know, I'm an outdoors guy like gadgets. So, you know, there was Pelican Products out there that made the big box. Yes, but nobody had small boxes. It's like I don't need a box this big so
+
+2 (15m 29s):
+for like a
+
+1 (15m 30s):
+wallet for a wallet for a pack of cigarettes. Sub your cigars. You need to keep
+
+2 (15m 35s):
+your cigarettes and cigars try right? Right, you're going down. The river is in the 80s and 90s.
+
+1 (15m 41s):
+Yeah, whatever your car keys your night. Right so
+
+2 (15m 45s):
+and and and was this like the idea was that people would bring this on rafting trips and fishing
+
+1 (15m 50s):
+trips, right? It was an outdoor products and and I always loved the outdoors. So for me, I always had a passion for that still do today. And so we started with just a very small 1000 series box and it grew from
+
+2 (16m 3s):
+There and how did you even get the word out? This is like pre e-commerce pre-internet. You were just selling it locally at
+
+1 (16m 9s):
+first we started with a dive the Dive World and we went to trade shows. We went to trade shows with our boxes and pedaled them tried to get dealers. We also had a phone bank a guys who we call the Dialing for Dollars they get on there and they call all the different scuba shops. And yeah, we had about six or seven different sizes with way too many bad colors. Yeah,
+
+2 (16m 32s):
+and and did you I think I mean did you think that this was going to be the business like this thing? I'll all you needed was for a big store to carry it bigger distribution at this was was like when you say we're going to trade shows that's a big commitment to a lot of travel. You've got two kids. You're married It's a Grind. You know, what was the problem? Everything is staying at bad hotels motels. You'll probably trying to save money. I mean did you think I've only we can just get this in front of the right people. This can really take
+
+1 (17m 0s):
+off. Well, I don't think I ever really thought The Box itself would take off but we started to get people I call it progressive revelation. Okay, so people would come to the trade show booth and go. I've got a PDA but I really want to use this PDA through the box
+
+2 (17m 16s):
+the pump -
+
+1 (17m 17s):
+pilot typically was a Palm Pilot and aipac handspring handspring those different
+
+2 (17m 23s):
+devices mid-90s.
+
+1 (17m 24s):
+Yeah good times bad clothes. So
+
+2 (17m 29s):
+because this is because people were coming up a trade shows and Sanjeev anything for
+
+1 (17m 32s):
+pdas and you like
+
+2 (17m 33s):
+Use through the box and that was really what sort of sparked this idea. May I maybe I can come up with something.
+
+1 (17m 38s):
+So he came up with a way to do that. We worked on that and we did it for all these different pdas and then it grew into some different tablets for medical things like that. There were they wanted waterproof as well or waterproofer clean
+
+2 (17m 53s):
+proof and where the case is rigid and hard like the the boxes that the Bottom by we
+
+1 (18m 0s):
+just took our standard box basically cut a hole in the front and put a membrane on it. So it was nothing
+
+2 (18m 5s):
+pretty about it. That was it was a birthday. It was like a hard plastic shell around the PDA and some of them fit the Palm pilots and some of them fit
+
+1 (18m 12s):
+together through a different membranes for different different devices.
+
+2 (18m 15s):
+And how did people find out about them.
+
+1 (18m 19s):
+Well, the internet was just starting I can always remember the first we were in Florida and we just had put their first PDA cases online and we started selling one two three, and we want man we're doing Dollars a month online. We thought we were we're killing it.
+
+2 (18m 36s):
+Yeah, and just just to get back to your your home life for a moment. I mean, what was the conversation you were having with your wife? Was she ever saying? Hey, you know what tell me what's going on with this this speech which time
+
+1 (18m 52s):
+know we talked about the business a lot. I mean, it was part of our Lives whether it was in the garage or it was growing somewhere. It was a it was a big part of our Lives. I mean the kids When it was in the garage the kids would pick plastic parts in front of TV. The machines would screw up the TV because they make static over the TV and there is always metal chips in the carpet. So yeah, it didn't go over
+
+2 (19m 14s):
+good. Did you have an ambition to be a huge manufacturer of a product were you thinking one day? I want to be this. I want to make this huge significant thing. Like was that even part of your thought process?
+
+1 (19m 28s):
+No, it really wasn't I never discounted it, but I never I didn't throw it out. Like that was what was going to happen till later on now, I did do that later.
+
+2 (19m 37s):
+I mean in your mind. Were you sir constantly searching for new ideas and new products because it sounds like you went from the waterproof boxes to the PDA cases. And those are doing well. That was
+
+1 (19m 46s):
+that was part of the problem early on was I had too many ideas. So we had way too many products.
+
+2 (19m 53s):
+So alright. So this is in in the mid to late 90s. So I mean, how are you thinking about business? It sounds like you know by this point you're almost 40 you got almost 20 years of experience running a small business or small businesses some that failed in some that we're doing okay and we're semi sustainable.
+
+1 (20m 14s):
+Yeah. I was I was still of what I call a firefighter. I mean I got all of my Kudos out of putting out the fire the day and a lot of people do I mean you if there's a bunch of small business people in here you realize that there is a fire a day some days it's bigger than others. And so That's what I did. I put out fires but I soon realized I was the problem you
+
+2 (20m 37s):
+put out fires because that was interesting to you. It was fun. So some crisis or something that
+
+1 (20m 42s):
+I got to say the problem fix it. I'm the hero Rara.
+
+2 (20m 45s):
+When did you discover that this was not actually the way to run a
+
+1 (20m 48s):
+business when I had to keep doing it. I got pretty old. I got pretty tired of doing it. It wasn't paying the bills anymore and I was getting tired of doing it and I was getting to the point where where's this going? I mean, I'm just doing the same thing over and over. It's Insanity
+
+2 (21m 4s):
+I guess you came across a book that became extremely influential to you called. Emeth. What was the story what was going on in your personal in your business life that in that kind of LED you to read this book
+
+1 (21m 16s):
+at that time? We were making otter boxes and I was flying back and forth to China building tools bringing the molds back manufacturing the parts here in the US and it was just a struggle. It just felt like I was running in mud and somebody gave me the book e-myth. I didn't read it on the way to I know but I read it all on the way back. You know, that's about a 15 hour flight. I got off the plane. I went to the pay phone and and I called e-myth and said I need help it was I whatever you got a 12-step program for entrepreneurs. I need to sign up and and I did I got a business coach and her name was Donny zoellick with e-myth and I'll start crying here because she made such a difference in that business.
+
+1 (22m 6s):
+I mean she changed the whole way. I think the whole way I went about doing business,
+
+2 (22m 13s):
+by the way. This was not face-to-face. She was she was assigned to
+
+1 (22m 16s):
+me so they gave me they gave
+
+2 (22m 17s):
+me Dom and you paid the fee or
+
+1 (22m 19s):
+whatever. But yeah, it was expensive education. Yeah, there was It was a it was a it was 500 bucks an
+
+2 (22m 25s):
+hour. What was the what was the basic way? I miss it. So that's a huge investment. Oh, yeah when you're because no money adds a lot kind of crazy. You must there must have been something about this book that just like resonated with you. What what was it what you read this book and you like I've gotta change something. What was
+
+1 (22m 46s):
+it? Well, if any of you have read that book, it's a story about it lady that makes pies, you know, No, and so was her hobby she loved making pie she went into business and making pies like I went into business making molds and it kind of turned into a nightmare. Well, my wife it kind of turned into a nightmare and it and so it resonated with me that I had to do something different and what struck me in the book was one of the things that he said this is it systems run the business and people run the systems. Now, what does that mean? It doesn't mean you turn people into robots, right? Okay, but it Does mean that people don't recreate their job every day and and that allows them to be more creative and more fulfilled and I wasn't doing that.
+
+1 (23m 36s):
+I mean everybody that worked me had to recreate their job every day and I was just it was Newton's law everywhere and it wasn't always a good reaction.
+
+2 (23m 45s):
+So you decide to get a coach to help you out right really expensive at the time still in today is expensive five hundred dollars an hour is like a Lawyer and what they're more than that, they're more than that. It's a cheap lawyer. You're a cheap lawyer. Lawyer my God, that's that's right out of school. I'm in public radio. Yeah, what did so what do you start this process of talking to a person by phone? And what could they possibly how could they possibly help you? What was she telling you?
+
+1 (24m 16s):
+Well the first revelation to me with e-myth was one of the first things you had to do. That they forced you to do and I talk about this all the time is to really figure out what you want. So before you can create a vision before you can create a company you really have to get to the heart of who you are. And and and that was really I mean that was not an easy process for me that really it took me about a month. I mean she called BS on me A lot of times, you know, just trying to figure out what that really is when we can all comes up with kind of fluffy things, but But to get to the heart of the matter to get to the heart of what really matters to you deep inside who you are that's critical.
+
+1 (25m 1s):
+That's really
+
+2 (25m 1s):
+critical. It sounds like a glamorous like
+
+1 (25m 3s):
+therapy. Well, yeah, it was therapy. Yeah, there was a lot of times it was big-time therapy. Yeah, that's all she was doing. I would talk to her every week. Okay, and so it was two grand a month, but they had a whole program of books that you went through. So you were actually getting an MBA in your business while you're working in your
+
+2 (25m 21s):
+business interesting because You you had considerable experience by this time like at least 15 years, maybe almost 20 years running small businesses and just you know failing and succeeding with experience, but you really I guess at the age of 40 kind of must have come to the conclusion that like, I don't know what I'm doing. Well, yeah, absolutely. It's kind of amazing. Oh
+
+1 (25m 43s):
+it was it was it was a rude awakening. I mean I knew how to do it, but I didn't know how to really do it. And that was that was the problem. I was the problem and that was It's tough to come to that realization, but I had to come to that realization and basically go. Okay, I gotta start over as it was a big do over I was always reading books. I mean my idea of a vacation was seven books on a beach, you know, so it was reading business books trying to figure out what are the best ways to connect the dots even today. I would say there's so many people that influence my life and the people's lives at otter that we took their ideas and put them together.
+
+1 (26m 26s):
+Gather to really create that
+
+2 (26m 29s):
+business now honor really began as a kind of a spin off a side project of another one of these other kind of plastic injection businesses that you knew you were running and it was a partnership initially, right? Yeah. I had a partnership and you decide that I guess around 2001 because you're manufacturing all of your boxes and your PDA cases in Fort Collins. And you decide this was not an efficient way to run your business. What did you What did you
+
+1 (26m 57s):
+do? Well, it wasn't first of all wasn't scalable. You couldn't you couldn't really grow if all your time is spent out on the manufacturing floor. You're not designing new products. You're out not out marketing your products. You're not building a brand. You're not you don't have time to do any of that. So I started looking through email with where's my time being spent right? That was just part of the process and there was so much of my time consumed there that I had to say. I got to quit everything. I know how to do and do something. Friend, and that's that was a huge turning
+
+2 (27m 29s):
+point. And you said we're going to focus on design and and Market marketing year rails and we will have it made overseas
+
+1 (27m 37s):
+overseas. Yeah, and that that time that's what we did. We did mold some in the United States as much as we could. Yeah.
+
+2 (27m 43s):
+So 2002 you have a partner you by your partner out the cost you I've read $350,000
+
+1 (27m 51s):
+right? I bought him out for 350 and and I still owed the bank about a half million
+
+2 (27m 56s):
+bucks good. Half a million dollars in bank loans that you took out to buy
+
+1 (27m 60s):
+equipment. Well the yeah that was left over debt because right then you know.com had gone down the toilet and and all the a lot of Motors along the Front Range went out of
+
+2 (28m 11s):
+business and I have to imagine 2002 OtterBox whoo 350 to buy your partner. I mean it was that's that's a lot of money. I can't imagine that OtterBox valuation was proportionate to three jobs. I don't
+
+1 (28m 24s):
+try to get evaluation. There was no value it was Gut at that point that you
+
+2 (28m 28s):
+wanted to buy your partner out because you wanted this to be your own business right why
+
+1 (28m 33s):
+I didn't want to have I wanted to either sink or swim on my own and I think Nancy felt the same way that that we needed to do this on our own and give it that kind of shot.
+
+2 (28m 45s):
+How did you come up with the
+
+1 (28m 45s):
+money? Well, there was a lot of local people that I knew and Matt and word spread. I mean we're carter was getting a reputation in Fort Collins and People were interested in it. And there was people that were not making that much interest on their money and I said, well, I'll give you a 15% every
+
+2 (29m 5s):
+month. If you give me a loan that was a loss you're taking 50 years a
+
+1 (29m 10s):
+pawnshop deal. Yeah. I was learning as
+
+2 (29m 12s):
+I mean what a they were the pawn shop. I was the pain wasn't incredibly incredibly prescient to decision you made at the time but like you would go to people say look, I'll give you 15 percent interest. I need $10,000 and $20,000 here and there.
+
+1 (29m 26s):
+I had a minimum of like a hundred grand. So I mean we borrowed up to three and a half to four million dollars. I think somewhere in that and we were paying that much interest but we needed that to build the tooling to build the products to go to the show's to build the brand. We had a
+
+2 (29m 43s):
+plan so between 2000 and and let's say 2005 when you were going to people borrowing money if somebody has said to you at the time. Hey Kurt, I'll give you $100,000, but I want five percent of OtterBox. What would you have said?
+
+1 (29m 57s):
+No, no. No, I want it done it
+
+2 (29m 60s):
+even though you needed that money to make this work.
+
+1 (30m 3s):
+Yeah, I felt that strong. I think at that point just based on experience over the years with Partnerships and and people not not that they're none of them are bad. They were friends, but it just was I was not ready for that. I didn't feel like leadership Could Happen very well through a partnership leadership really needed to come from One
+
+2 (30m 26s):
+person. So you start to raise the money through loans to buy the equipment that you need to create that by the tool in tooling equipment. Should I was to be able to go to trade shows but why would somebody I'm just curious what was the argument you would make a trade shows or two people and they say well, why do I need a case for my iPod?
+
+1 (30m 48s):
+Well, if you're going to swim with
+
+2 (30m 49s):
+it, if you can swim with it, you want to water prove your tight case that was really
+
+1 (30m 53s):
+or even I mean I can remember a Blackberry skiing with a Blackberry and sweating on it and it right croaked, you know, so didn't take much to kill a Blackberry or any of those phones back in the day.
+
+2 (31m 4s):
+So but that was pretty much your business. It was like any device. I came out iPods any MP3 players whatever we were trying to kill you do the Microsoft's Zune. Did you make cases for that? Yeah. We did WOW who has a zoom? Yeah, Wu zun sell it on eBay. You'll get a lot of money person who left the zoo. All right, so you you know, you're making these cases sounds like by 2005 2006 pre iPhone. You've got a pretty good business going. Yeah.
+
+1 (31m 35s):
+Well the Blackberry really was I mean, that
+
+2 (31m 37s):
+was our last Ferry was the game the
+
+1 (31m 38s):
+Blackberry was a game changer. I remember getting our first million-dollar Po from AT&T for the Blackberry. Yeah. I read this is a great story. So I remember being at CES
+
+2 (31m 48s):
+And in Las Vegas
+
+1 (31m 50s):
+in Vegas and Michael Cowan who was the head guy for stuff at AT&T came by and showed him the case and he said well, how much is it? I said well retails for 4995. He's like you're crazy 49 if I'm raising the by a case for locations were like 5
+
+2 (32m 7s):
+bucks. It's nuts. Yeah,
+
+1 (32m 9s):
+so he said but we'll do a test. So they did a test and they were going to do a three-month test, but I think they did a three-day test because cuz they all sold out. Wow, it's all like crazy. I mean it was like that UPS commercial, you know, it's like dick dick dick did the job and we're going well crap.
+
+2 (32m 29s):
+When we come back in just a moment how Kurt navigated those early days of cell phone cases while just around the corner. There was something that would change everything the iPhone stay with us. I'm guy Roz and you're listening to how I built this from NPR. Support for this podcast comes from American Express director of global sales strategy Chase Hines explains how American Express works with their customers to find the right Financial solution for their business. It's a lot like solving a puzzle. Each customer is different. Each business is different.
+
+2 (33m 10s):
+We really want to understand what your goals are for the year for three years out and what would extra financing do to help you achieve those
+
+1 (33m 18s):
+aspirations?
+
+2 (33m 19s):
+One of our customers is a long-standing family-run restaurant. And the sons dream was to open up a second location finances are a little bit tough as they were just running the business and we were able to
+
+1 (33m 31s):
+partner with him understand exactly what he needed and help
+
+2 (33m 34s):
+them open up that second location and now
+
+1 (33m 36s):
+they're on to their third.
+
+2 (33m 37s):
+So whether it's a need to open a second location or fulfill a big New Order, we want to make sure that we're there for you along that Journey American Express wants to help you move your business forward with flexible financing Solutions chat with them today to see if you're eligible. Or visit American Express.com business to learn more terms apply. Hey really quick before we get back to the show. If you know of a kid between the ages of say 4 and 12 who is curious about the world and the world of science. You have to check out my kids podcast. Wow in the world me and my co-host Mindy Thomas travel around the world backwards and forwards and time inside the human body and deep into Interstellar space for a show that will take you and the kids, you know on an incredible journey all new episodes begin December 2nd.
+
+2 (34m 29s):
+So check out wow. In the world wherever you get your podcasts. Hey, welcome back to how I built this I'm guy Roz. So it's the mid-2000s and OtterBox is still a young brand making bulky waterproof cases for devices like Palm pilots and blackberries, but things were starting to grow and suddenly Kurt was in charge of a much larger company than he had ever managed before by the way. How did how did you get the name OtterBox as a cool name? Obviously now, you know everyone knows it but how did that Nancy Nancy came up with it? Yeah.
+
+1 (35m 9s):
+Auntie Kim again
+
+2 (35m 15s):
+Hope she got paid for that.
+
+1 (35m 18s):
+Oh, yeah, she's rude. She's doing really well.
+
+2 (35m 19s):
+Okay. So what was the story? I mean what because because you had all these like I think originally like your companies were called like Richardson diecast Richardson walls Richard a game of business after yourself.
+
+1 (35m 33s):
+That is yeah.
+
+2 (35m 34s):
+Don't do that. Like would anybody buy a Richardson smartphone case today? And I wouldn't know so OtterBox is a cool name. How did that happen?
+
+1 (35m 43s):
+So we were we were looking for names. I mean Pelican was the big animal in the room and they still make great products. But we were looking for a name. We you know, we we had a walrus, you know seal cases and we're driving to Denver. I remember the specifically in the answer is like well, how about Otter Otter? It's playful. It's fun. It's around the water OtterBox. It had a great ring. That was it. We actually the guy who designed our logo was a t-shirt manufactured just down the way from
+
+2 (36m 12s):
+the logo of
+
+1 (36m 13s):
+the yeah, the they'll OtterBox. Logo is still the original logo from day one.
+
+2 (36m 19s):
+Yeah. Alright, so you've got the name, you've got this, you know you making these cool products, you know, but but I I mean it this is still pretty iPhone, right 2007 iPhone comes out. Now, this is I think I think it's not controversial to say probably the most transformational consumer electronics products. Absolutely in the last 20 years, maybe 40 year. I mean a hugely important influential When it came out, I mean there are some people who say I knew it right away when I saw Steve Jobs the Cow Palace in San Francisco with his turtleneck. I knew right away that profit was going to change the world. I mean did you did you just see that? It's another thing to make a case
+
+1 (36m 58s):
+for you pretty much. Yeah. It was just another was it just another guy trying to make a phone, you know, but I will remind you the Blackberry was really are
+
+2 (37m 10s):
+testing wisdom going down with
+
+1 (37m 12s):
+that. We I give you another story when we did. First Home Depot came to us and said hey, we need a case to protect our blackberries. I don't even remember what
+
+2 (37m 22s):
+model these are Home Depot Home Depot for their employees are out on the floor. I said
+
+1 (37m 26s):
+Associates are out on the floor and they're dropping these things and they're breaking them. Yeah management said, can you make us a case? So we designed a case? Well, this case was you know, it was like a little kid in a snow suit walks out in the yard and falls in the snow. So it was a big fat case it just it it worked, but it didn't really work. So management loved it. They thought. Oh great. We're never going to break another Blackberry. Then we give it to the guy on the floor because I'm not using this damn thing. This is huge. I just thing is piece of junk, you know, he was right. And so we said but it's waterproof. He says I'm in a store. I don't need a waterproof
+
+2 (38m 2s):
+case. Yeah because at that point to that point most of what you were making was waterproof. So,
+
+1 (38m 7s):
+uh, I need to listen to the customer. There's a big aha big big
+
+2 (38m 12s):
+moment. I wasn't going to listen to the customers not Buddy needs a waterproof
+
+1 (38m 16s):
+case, right? So out of that came The Defender case. The defender was really what launched otter and that was the first case for the iPhone as well. So we were we had figured out at the time that it didn't need to be a waterproof
+
+2 (38m 31s):
+case. So you say that when the iPhone came out to you, it's just another device to make a case for it wasn't going to be this you are looking at this and thinking this is going to transform my business. No. No, I knew we were getting
+
+1 (38m 45s):
+traction with the Blackberry and other devices. So I knew we were Growing and we were growing at a significant Pace at the time but we didn't I mean iPhone 3 was you know, we are on the launch pad. That's when it took off but it was also I mean growth can be just as tough as no money. Yeah, you
+
+2 (39m 4s):
+gotta hire you've got a more
+
+1 (39m 6s):
+people you got systems. So I thought supply chain. I didn't know what supply chain was. I mean today I would say otter probably does supply chain better than just about any business the United States, but I didn't even know what Supply Jane was but yeah, I mean I was one lady in a closet ordering parts. I mean that was that was
+
+2 (39m 26s):
+it. I mean, you didn't not go to business school. You didn't go to college. Yeah, I was heard.
+
+1 (39m 30s):
+I was building the airplane in flight pretty much and that was what it felt. Like
+
+2 (39m 34s):
+wow now I'm curious because when the iPhone came out apparently Steve Jobs did not like cases. He his iPhone was perfect and beautiful and he wanted you to look at this beautiful perfect product didn't want to be encumbered by some obnoxious.
+
+1 (39m 50s):
+Case right right. So Beauty was he built it out of
+
+2 (39m 54s):
+glass. So look really good for a while. And and where where where people buy I mean was OtterBox by that point by 2007 when the iPhone came out 2008 was it did it? Did you have like a pretty good market like
+
+1 (40m 12s):
+right we were in all the carriers.
+
+2 (40m 14s):
+So new your brand by that point or
+
+1 (40m 16s):
+was yeah, I was becoming
+
+2 (40m 17s):
+pretty well-known and I mean, how do you remember how long it took you from the time that first iPhone came out to the time you were able to deliver those to store?
+
+1 (40m 27s):
+From here from the first one or that it probably took us 12 14 weeks, right? That's how long it took us to get to the stores from the time. We got the first phone in our hands we would be literally had people waiting in line to go buy the phone and we buy 12 phones and start dropping
+
+2 (40m 44s):
+them DPI phone. I mean did the iPhone could you see the iPhone dramatically and radically changing your business? They absolutely did that
+
+1 (40m 54s):
+product that product ID. And how
+
+2 (40m 56s):
+long do you think it took before you started to notice that
+
+1 (40m 59s):
+pretty quick when the order started coming in? Wow. Yeah. I mean we wore out our molds we had to build a whole new set of molds because the molds were out. That's how many we made now. I'm
+
+2 (41m 9s):
+really interested in this idea because as you know, some of you may know chip can has been on the show he founded Belkin and Belkin's are Interesting product a lot of parallels with what you do obviously because they began with peripherals. So apple back in the 80s. If you had an Epson computer, you couldn't connect to another printer, you know, you can only connect to the Epson printer because of the peripherals that they sent you so he started soldering them, right? Yeah, and that's really the story of Belkin is they saw this gold rush into PCS and they figured out a sort of a side door entry sort of like Levi Strauss selling. Canvas and jeans to to the gold rushers with the gold miners, right?
+
+2 (41m 51s):
+This is a similar story. I mean you see this right Steve Jobs predicted that smartphones were and tablets are going to replace desktop computers and he's right. That's what that's what you sort of built. I mean you kind of way
+
+1 (42m 7s):
+we always I was compare ourselves to the little fish that's on the side of the shark, you know, and it I don't care which shark or how big the shark is, but we're going to be that fish. On that shark we're going to we're going to ride that shark as long as we need to ride that shark. And and and that's really it doesn't matter who's building the phone or what device if that device is popular if it's a if it's a hit we want to be there with it. Now, we cover a lot of devices today we cover just about every model almost
+
+2 (42m 37s):
+globally. I mean one of the things about Apple that I would just be so stressed out about you know, so freaked out about is they release products on their terms when they and and does that stress you out every time a new thing comes. Oh, yeah came out you had to like get it. Oh, yeah thing made and you didn't even have access to it until maybe that day
+
+1 (42m 57s):
+came in. This is a fire drill. It was a fire drill, you
+
+2 (43m 1s):
+know, what was the thing that worried you is that were you worried that your competitors would get in there faster and people would go to like a competitor's case. Um,
+
+1 (43m 9s):
+you know, I never worried too much about competitors. I'm always I want to know what they're doing. I think competition makes you better I like competition. I mean today otter owns 40% of the case Market the United States insane. So, you know, I think if you give you focus on the competition, you're focusing on the wrong thing,
+
+2 (43m 30s):
+but everybody's focused a little bit about on that right like know what they're doing. If a competitor got in there faster and people like that case,
+
+1 (43m 38s):
+you know, I better do it faster next time then
+
+2 (43m 41s):
+I'm curious and maybe you don't have the answer to this. I'm just curious about your thoughts on this. Why you know, why do you think Apple and Samsung and all these other companies? Why do you think they kind of embrace the the cases? I mean you could imagine a world where apples like wait a minute. This could be a big Revenue generator for us. Let's make the cases and packaged them with the iPhones and just raise the price and then people don't have to buy it the OtterBox or Samsung could do that or why do you think they didn't try to like block you at every step of the way or did they
+
+1 (44m 15s):
+know they never did they? Never they never really objected. I mean we were out in the market people are buying our cases. I mean Apple makes cases Samsung make a tax cases but different kinds of right but they really that's not their core competency. And I think they realize that and that is
+
+2 (44m 32s):
+ours iPads come out I think around 2010 and instantly again, you're thinking here's the next device. Yeah, and so for you, it's like you're agnostic you don't care which Each what the product is you just want to go for it, right? I want him to be
+
+1 (44m 50s):
+successful because if they're successful were successful because we would attach to those new devices, you know, we've always got a percentage of sales based on their revenue. So if they're if they're device flopped, we didn't sell nearly the amount of cases.
+
+2 (45m 3s):
+So take me in into your process a little bit, you know, they announced a new product. It's all over the Internet what's going on at in Fort Collins? Like if people are freaking out like let's go.
+
+1 (45m 14s):
+Well we get is we get as much information as Anybody else would get right we still were waiting in line with everybody else back in the day here and we would make we would make tools at risk. We would make parts at risk.
+
+2 (45m 26s):
+We knew they basically make molds that you thought might fit the new phone, but you really lost weight in the
+
+1 (45m 33s):
+early days. Definitely we did
+
+2 (45m 34s):
+that we would actually manufactured manufactured
+
+1 (45m 37s):
+some parts and means you remember there was other competition even made the made the iPhone Mini Mini was like this big it's like, I don't know how that got on the internet, but they
+
+2 (45m 46s):
+made me some people they thought there was going to be I
+
+1 (45m 48s):
+thought there was gonna be a miniature iPhone is
+
+2 (45m 50s):
+so you were following the rumors just like everybody else do you have
+
+1 (45m 53s):
+yeah, that's only but all you could
+
+2 (45m 55s):
+do which probably meant that you were throwing away a lot of cases in those early days because you would make a
+
+1 (45m 60s):
+we see we made a lot of changes. I mean the tools some tools got scrapped some parts got scrapped. But so we were we were manufacturing at risk to try to get to Market as quick as we could.
+
+2 (46m 12s):
+So here's here's what's interesting to me about this product. Right your your manufacturing it in different plants around the world. You have to be really careful with your IP. And we did a story We did an episode of on TRX with Randy hetrick the TRX straps and gyms and he spent years and years fighting against counterfeiters. How did I know that you had a counterfeiting you had counterfeiters pretty much early on which can take up a lot of bandwidth, right?
+
+1 (46m 40s):
+We have a whole Whole I have a whole building full of lawyers.
+
+2 (46m 47s):
+Yeah,
+
+1 (46m 48s):
+we have we have we have a whole brand control group. And actually it's funny. We have worked with border with the border security and all the customs and help train them on showing what's fraudulent OtterBox soon and act we get they pull over containers full of Goo chiko-chan daughter boxes.
+
+2 (47m 10s):
+But but but it must be a Wacom. All right, like I still do this all the time. You must still kind of quash
+
+1 (47m 16s):
+counterfeit. Well we go out we go. It's still today where you go after him all the time
+
+2 (47m 20s):
+and but you have such a huge market share that it probably doesn't really make much of a difference
+
+1 (47m 24s):
+now. Well, you know where it makes a difference is, it makes a difference with our customers and our consumers. I mean, we they're driving the price down with counterfeit product. It's going to reflect on us so we have to we get very aggressive.
+
+2 (47m 37s):
+Alright, so here's the to me. This is Let's try not going to be crazy the Otters In This Crowd, but I think it's going to be crazy to other people here and people listening you start this. I mean 2002 you struggle. You're getting bank loans you're struggling to like buy out, you know pay back loans 2012, you're doing almost half a billion dollars in Revenue selling plastic cases.
+
+1 (48m 1s):
+Yeah. I mean,
+
+2 (48m 7s):
+I mean did you think that was did you even have ties
+
+1 (48m 10s):
+dream that that was going to happen? No, it happened. So fast it I mean literally was a rocket ride. I mean, we grew eleven hundred percent in five years. We went from five million to 575 million in five years in revenue and that's just crazy
+
+2 (48m 31s):
+2012 that same year you hit almost or more than Two billion Revenue you decide to step down companies doing great you step down and you move on to kind of do other things why I mean was it just it was it was on autopilot. What was bored? You got
+
+1 (48m 49s):
+bored. I got bored. Yeah, so early days. I'm doing everything right? I mean, I'm supply chain on finance. I'm design. I'm involved in everything. Well when you hit A half million and on your way to a billion believe it or not. You get rattled and I got I'm like
+
+2 (49m 12s):
+rattled I got
+
+1 (49m 13s):
+rattled. It's like well, here's what you do
+
+2 (49m 15s):
+rat hole drat hold so I'm like rat in a hole of a rat in a hole, you know, and that's why I felt like a rat, you know, I was I was
+
+1 (49m 23s):
+I was bored, you know, I wanted to go create. So for me I needed to go and create and it didn't go over well very well with my wife because I didn't really tell her that I was going to quit. Yeah. and I still hear about that but that was a whole nother learning for me too. That was that was another one where I didn't pass the Baton very well. I mean a lot of the I don't want to ever knock anybody because there are a lot of people had a lot of good things to do with otter and growing otter and and there was a lot of people that aren't with us today that I give them credit for helping us build that company, you know, they were but a lot of times a company outgrows people as well and in some ways it
+
+2 (50m 9s):
+outgrew me So you step away. I think for about four years other grows a lot in those four years. You're still the owner of the company, but you kind of step aside and there was even talk of a certain point and I think 2014-2015 that you were going to sell the company and you actually were looking to to sell it for somebody to acquire it and I have to assume you had a lot of potential suitors which could have given you and your family a windfall. I think there are many arguments to be made that you know, you should do it you should cash in and
+
+1 (50m 45s):
+why don't you sell I gotta tell you that was not a fun experience looking to sell something you love so much but and even going through the process was very disruptive and you know, we worked with Goldman and we worked with the I still remember talking to an old guy at Bain Capital and his name was Josh. So Josh if you're listening, he said he said well, I Nowhere case will be in five years. Well, it's five years Josh.
+
+2 (51m 19s):
+So you feel fortunate that you didn't sell it. Yeah, very glad we didn't
+
+1 (51m 23s):
+sell I well I think for for us in our family, it would fundamentally change things in Fort Collins. Otter is one of the top for Employers in Fort Collins, and it's part of the culture. You know, it's part of the fabric of Fort Collins now, you know, if If Jeff Bezos called you tomorrow, I'll take the call, but I
+
+2 (51m 49s):
+don't.
+
+1 (51m 51s):
+I don't you know, I don't know that we get a deal we talk we talk Jeff
+
+2 (51m 60s):
+you come back to the company and take an active role in 2016. There's some turnover and Leadership and why I mean from what I have read you were hearing that the company that employs were not happy. There was discontent. Is that why you decided to come
+
+1 (52m 20s):
+back? Yeah, absolutely. I had a lot of otters come to me and my boys coming to me because a lot of their friends worked it out undergone Dad. You need to you need to go figure out what's going on over there and a lot of people that were really upset and they were upset. Why. Because it had been destroyed from culturally culturally the place had completely changed and that was a huge issue. I mean, they were really upset with just how people were being treated how the business was running. And again, I don't want to rip on leadership back then they were just doing what they brought from where they came from and it wasn't it wasn't what my intention and my philosophy on how to run.
+
+2 (53m 9s):
+Business, did you feel like you because you had stepped aside. I've let them down.
+
+1 (53m 15s):
+Oh, yeah. Yeah, I definitely I had I definitely had
+
+2 (53m 20s):
+in that you had to return to restore that
+
+1 (53m 24s):
+I had to get clarity on what was going on. And once I got Clarity on what was going on. I knew I had to go back now. I knew I wasn't going to go back as the CEO. I did not want to do that, but I had some other great people are CEO today Jim Park is basically I can remember he was running one of our other companies and we were in a meeting trying to figure out what to do and we started writing on the board who's going to do what and they put my name as CEO. I went up there and erased it and put Jim's name. Yeah, he was he was a little
+
+2 (53m 59s):
+shocked. It's interesting because there are parallels right like Howard Schultz left Starbucks for eight years. He felt like the company lost this way. He came back too. For the culture Gary Erickson kid are Gary and his wife Kate Crawford came back to Clif Bar. They left and come back and sounds like you had to you felt compelled to restore a culture that
+
+1 (54m 24s):
+you now now I'm not there every day anymore. I'm not I mean Jim and here we have an amazing executive team, but we have an amazing leadership team there and I think with any business any business we have today the biggest thing is Has leadership whether it's our Distillery or one of our other businesses, we're going to put great leadership there and and without that the business is not going to not going to flourish and it has to carry out the vision my job. Is that of the the Visionary but even today that's that's not my primary role
+
+2 (54m 59s):
+when I say the word culture. What does that mean? Does that mean? What does that mean in terms of you know,
+
+1 (55m 6s):
+it's here. We're going to relate to each other here. It's how we're going to treat each other. There it's how we're going to do business. That's the culture. You know for us. The golden rule is number one you violate that At Otter you're in trouble, you know, we're going to treat each other as we'd want to be treated as you'd want to be treated and to me that yeah, I mean that you do that. It makes a lot of wrong things, right?
+
+2 (55m 33s):
+Kurt you be there and I think it's a very valid parallel, I mean you came to Fort Collins like as a kid, you know, no one would have taken you seriously. You mean seriously a little bit but nobody would have like looked at you maybe when you were 18, you know as an apprentice and thought this guy is gonna be like Levi Strauss like you got to for Collins and you own a company that if you sold it will make you one of the richest people in the United. I mean that's that's a kind of a crazy story. I mean do you do you mean what what did you ever imagine that when you got there 18 that
+
+1 (56m 14s):
+you'd you would be that person? Nope? No, I really I really didn't I and even today it's like I really don't think that way. Yeah, it's not. It's not about the money. I mean otters mission is we grow to give so it really is about giving back mean week. If we make more money we can give more money away. We can make a difference in community. We can make difference in people's lives and that's what otters really about.
+
+2 (56m 50s):
+I want to I want to push you on that a little bit because as you know, I interview a lot of really rich people because based are big companies. I mean with that kind of wealth comes responsibility, right? I don't want to sound like a Marvel character. I mean,
+
+1 (57m 5s):
+we've always been the answer. I always say to whom much is given much is expected. Now, we didn't say that, you know, a guy named Jesus came up with that. So, you know, it's pretty good. Yeah, so, I mean, we really try to live by And we've really tried to instill that in our culture
+
+2 (57m 21s):
+your when you think about your legacy and maybe it may not matter to you. Maybe you don't care if people remember you in a hundred years, you know in San Francisco. There's Levi Strauss square and maybe you don't care but not be dead you'd be dead but you're going to leave behind your family going to leave behind a lot of money. Yeah more money than you will ever need or many generations after you what do you want to happen to that money?
+
+1 (57m 45s):
+I would like to see it bottom line changed people's lives make a difference in people's lives be able to educate youth to be able to make a difference in the world. If we can if we can help young people start to understand giving to become part of their fabric much like recycling has become part of much of people's lives today. It's it was ingrained in them. Very young. We feel like if we can influence them to be entrepreneurs and philanthropist. Now that becomes part of their DNA and think how that multiplies think what a difference that makes in the world.
+
+1 (58m 27s):
+If we create a bunch of people that want to give back not just money, but because not everybody's going to make a ton of money, but they have talents. They have experiences. They can share they can mentor kids if that becomes part of their Fabric and that's what we've tried to do at otter is really all a heart of giving I mean for one day a year we shut down the whole company and everybody goes out and volunteers. I mean, that's one thing we give away 24 hours of we pay them 24 hours of time to go out and give back in the community to give to the nonprofit of their choice to spend but we're what we're really trying to put in their heart is to give back
+
+2 (59m 11s):
+one of the things that is really interesting to me is You actually encourage people who come to you employees who come to you and say hey, you know, I have this idea. I want to leave. I think I want to leave in his my business idea. You actually have given loans like you don't always I think most of the time you don't take equity in their companies you give them loans and their Malone's getting started and and then I love you back and that's
+
+1 (59m 33s):
+right right. Now one thing we do for every otter that's been at OtterBox or any of our other companies. We give them a life plan after a year so much like a strat up they get to did spend two days with a life planner and really discover what they
+
+2 (59m 50s):
+want after a year of work. They get set up with a life planner and the life planner says so what do you wanna do with your life?
+
+1 (59m 55s):
+Some of them quit someone quit? I don't wanna be an honor and that's okay. Yeah because that's for me for me. My primary aim is really to be able to help people understand their talents that God has given them and help them be the best. They can be and really discover that and go out and do that. I want them to do what they want to do. I want people to discover that. I mean how many people in life get to 50 60 and go my job really sucks a lot a lot a lot. Well, why don't we why aren't we teaching people to ask that question early on what do I really want? What do I want to do? What's in my heart?
+
+2 (1h 0m 35s):
+So even if the most valuable employees you have say, you know Kurt. I want to move on do my own thing. You say I'm going to cheer you on go
+
+1 (1h 0m 43s):
+to It Go Do It Go Do it. Absolutely
+
+2 (1h 0m 47s):
+when you think about your story because I think it's totally implausible. I mean High School get their machine tooling to a company that is who knows how much it's worth billions of dollars. I mean in the revenues over a billion dollars how much of of this story your journey do you think has to do with your hard work and intelligence and skill and how much just because you got lucky
+
+1 (1h 1m 11s):
+A lot had to be with being in the right place the right time. So there's definitely some luck there. I think there's also Did it did take some skill it took some skill, but it took a lot of failure and it took a lot of learning from that failure. We call it failing forward. It wasn't just me that built. You know, it says, how did you build? I don't want to say I built it. I want to say we built it and so is it luck? Yeah some of it. Thank you, Steve Jobs. No, really. I mean man, the guy hit it out of the park. I just followed the ball over the wall, you know.
+
+1 (1h 1m 55s):
+You know, so a lot of it is luck, but it is is learning from those mistakes. It's the e-myth. That's the the strata process. It's all those systems and it's all those people they came into a culture that have come together to create something special
+
+2 (1h 2m 12s):
+Kurt for all the people building something. I'm curious like if you are sitting in this audience, you know when you were let's say when you really mean you already are in your early 20s, and you really have this ambition of being entrepreneur which clearly Didn't it just happened? But but if you were if you were sitting in this audience, you know back in the early days. What do you wish you knew then that you know now that that has helped you
+
+1 (1h 2m 37s):
+a lot. Yeah. I think I touched on it right guys. I mean I talked about really understanding what you want. Now whether you're an entrepreneur whether you have a job, I would hope for every one of you that you really discover. Inside who I am and what I want and what's my purpose and when I breathe my last breath, will it be good? Will you go that was great. I lived a great life. But you got to ask yourself that question now. You're going to do it now. It's not like a savings account. You can't start saving when you're 70, you know, the most important thing is to discover what you want because then you can build a business.
+
+1 (1h 3m 25s):
+You can build a life on that. I mean, it's something you can share with your family. It's something you can build those bonds with you can build a culture on that
+
+2 (1h 3m 34s):
+curve Richardson founder of OtterBox. I spoke with Kurt Richardson at the Paramount Theater in Denver last month, by the way, the company's best-selling case is still the defender and Kurt says this year outer-box will make 39 million cases in total or more than a hundred thousand every single
+
+1 (1h 3m 59s):
+day.
+
+2 (1h 4m 6s):
+Hey, thanks so much for listening to this live episode of How I built this our show is produced this week, but Rachel Falkner with music composed by routine Arab Louis our Live Events team includes Jessica Goldstein Ellie Prescott L mannion Ellen Jorgensen Joshua new land Marcia called. Well. Thanks. Also to Julia car Nissan has Mexican Port never Grant and Jeff Rogers. Our intern is Sequoia Carrillo. And before you go I just wanna remind you to please consider donating to Local public radio station by December 31st because your gift helps bring Public Radio 2 listeners like you donate to your public radio station at donate dot npr.org built. I'm guy Roz and you've been listening to how I built this.
+
+2 (1h 4m 49s):
+This is NPR.

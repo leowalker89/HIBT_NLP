@@ -1,0 +1,488 @@
+0 (0s):
+Sometimes the economy can be a scary place. The market's down further right now after
+
+1 (5s):
+Skyrocketing costs, instantly share interest rates.
+
+0 (9s):
+That is where planet money. Summer school comes in. We are tackling the big questions every Wednesday, till labor day on the planet money podcast from NPR.
+
+3 (19s):
+Do you remember the first time you got into a go-kart and drove and controlled the car for the first time? Do you remember how thrilling that was? Well, I recently had a similar experience when I got to test drive the all electric BMW IX. It was an absolute blast. I loaded my family into the car with our dog and all of our stuff. And we headed off to a farm to pick up a big hall of vegetables and then to do a Costco run. And this car holds a ton of stuff and still it manages to ride so smoothly and comfortably. And when you're inside, it's clear that there's been meticulous attention paid to every detail in the BMW IX.
+
+3 (1m 1s):
+It is beautiful and practical and so carefully engineered. They thought of everything from the comfortable cabin and spacious storage to its impressive proportions. The IX has room for everything. You can learn more about the BMW IX today@bmwusa.com slash IX. Ready to turn your small eCommerce business into the next big thing. Clavio can help. It's the easy to use email and SMS platform that gives you everything you need to build genuine relationships with your customers. And even if you're new to marketing Clavio can help you become an email expert with drag and drop design templates, simple insights, and made for eCommerce reports and recommendations.
+
+3 (1m 46s):
+Give it a try with a free account at clavio.com/built. That's K L a V I Y o.com/built.
+
+4 (1m 57s):
+We had some people play it, but we knew within a week, oh my gosh, this is not gonna go viral. We have a lot more work to do. And Eric and I had to say, okay, we've got another nine months where we're gonna have to buckle down. I mean, at times this has been the hardest thing I could ever imagine. There has been times when we've all thought, oh my gosh, this is the hardest thing we've ever done.
+
+3 (2m 31s):
+Welcome to how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built. I'm guy Ross. And on the show today, how David Baki pivoted from making physics software, into creating Roblox a virtual gaming platform with more than 200 million monthly users. A few months, months ago, I was going through emails on my laptop, a nosy 11 year old. Also my youngest son was looking over my shoulder. When he shrieked out daddy, you have an email from David Zuki.
+
+3 (3m 13s):
+How do you know who David Zuki is? I asked daddy, he replied, everyone knows David Zuki. He's the founder of Roblox. Needless to say a few weeks later, when I interview David Zuki, I had an ins studio guest by my side.
+
+5 (3m 30s):
+Hi,
+
+4 (3m 30s):
+How are
+
+5 (3m 31s):
+You? Good. How are you?
+
+4 (3m 32s):
+I'm David and I'm in Roblox headquarters right now. This
+
+3 (3m 37s):
+Is a, okay. It turns out lots of kids know who David Zuki is because he created a world that so many of them are part of. It's estimated that in the United States, three out of four children between nine and 12 years old play Roblox. I know insane. Right?
+
+5 (3m 56s):
+I just wanted to ask, who is your favorite character out of them? All like builder man, Mr. Robot, who are the others? Kenneth.
+
+4 (4m 8s):
+Yeah, we've kind of taken this approach. It's almost as if I don't have a million children, but if I had a million children, I would love them all. And we've, we've
+
+3 (4m 20s):
+Taken Roblox platform where it, you can play millions of different games that are set in virtual worlds, or you can create your own games. Now, if you've never seen it, the characters or avatars look a little like Lego figures running through an infinite number of worlds, many of which look like cities. In some games, for example, you have to escape from jail or you can adopt a pet and even take care of it. And inside these worlds you can spend and even earn money using a currency called Robux to buy Robux. You have to use real currency dollars, euros, yen, whatever. And it's how David Bai's company has grown into a publicly traded company with a market cap of over 25 billion Roblox was actually launched in 2006 and by 2016, about 10 to 15 million people were playing on the platform each month, but then came COVID and millions of children had no way to play with their friends or interact except on Roblox they could.
+
+3 (5m 28s):
+And the company saw a massive spike in growth starting in March of 2020, today. Hundreds of brands like Nike, Gucci and Chipotle have built out worlds within Roblox, where they even sell virtual products and world famous artists like little NAS, X have even held live concerts inside a Roblox virtual world. It's a taste of what the larger metaverse may one day look like a world that like it or not, most of us will take part in, in some way, but when David Zuki first set out to start a business, he wasn't thinking about game playing for entertainment. His first company was in educational software and more specifically it was software for physics students.
+
+3 (6m 15s):
+The concept wasn't scalable. So David and his business partner, Eric castle shifted their focus towards a different concept. One that would eventually morph into Roblox. David grew up in Chicago and in rural Minnesota, he always loved math and science. And in particular, he loved building simple computer games.
+
+4 (6m 37s):
+I built asteroid type games and there was a way to, in a primitive way, go to radio shack and buy these knob potential geometers and wire them up to the apple two and build a primitive game controller. And I, I can remember having my siblings come down and play this cheesy space invader game I made, but have these, you know, Nobby controllers, it really was inspirational to me.
+
+3 (7m 3s):
+And how did you, I mean, this is a, this is obviously there's no internet or Wikipedia. I mean, there were physical manuals that you could buy, like sort of trade publications, I guess. Is, is that how you learned how to write the language?
+
+4 (7m 16s):
+Yeah. This was a really early formative time. You would go down to your local PC store. They would have a lot of plastic envelopes with what is the current cool programs of the day, and then buy a bunch of magazines by the apple two manuals and that collection of information, none of it online was enough to figure it out there were in, in that time, there were magazines that would list a program. And if you, if you wanted to, you would read the magazine and type the whole program in to learn things as well. I was primarily trying to write an assembly language, but through all these manuals and stuff, I figured it out.
+
+3 (7m 57s):
+Wow. So it's not, not surprising that you, you decided to study computer science when you went to Stanford in the early eighties. What did that, what did that mean? I mean, I mean, presumably getting to Stanford, there were computer labs and it was probably a, a million times more sophisticated than what you had access to in Minnesota.
+
+4 (8m 17s):
+Yeah. In the early eighties, this was when the early Fairchild and Texas instruments and all of these Intel type companies were just getting going. Yeah. And as part of the core electrical engineering curriculum at Stanford, there was actually a course on how a transistor works, the smallest component of these ICS at the time that were, you know, the early 65 0 2 or Intel, 80, 88 ship at the time you would go into a facility called lots at Stanford. These were all time shared, very primitive, black and white terminals programming in past scale, really very early in kind of how you would learn computer science.
+
+3 (9m 1s):
+All right. So it sounds like you were, you, you were committed to, to doing something around this emerging technology, right? I mean, you, you graduated in 1985, it's still unu still, you know, not unusual but less common, right. For people to have PCs in their homes, although it's starting out and this is sort of the beginning of the cl PC clone wars, you get the compacts and the yeah. HPS and the other brands that are starting to emerge. And so people are starting to have them in their homes, but it's still pre windows. Right. So it's still like dos and you had, you had that, of course apple Mac, which made things easier. But, but for people who had PCs, it was still complicated.
+
+3 (9m 41s):
+Right. That's right. And the big floppy discs, what was your thinking in 1985? What do you remember when you graduated thinking, all right, this is what I'm gonna do.
+
+4 (9m 50s):
+I remember thinking the Mac is cooler than the PC, cuz it had that windows operating system. And by 1985, the very earliest versions of the Mac were coming out with everything on floppy drive. And we can remember those times when using a Mac was listening to that drive, you know, woo. All that kind of stuff.
+
+3 (10m 15s):
+Yeah.
+
+4 (10m 15s):
+Also though I was kind of unsophisticated in how to find my career. And so I think I ended up having a couple jobs that were not super fun.
+
+3 (10m 30s):
+All local local jobs.
+
+4 (10m 31s):
+Yeah. Local jobs. I spent the first three years after school really. You know, I can remember. And this is maybe career advice for a lot of people when you're 22, 23, 24, 25, your, your career is not over. If your first few jobs, aren't that fun and exciting, like life is long and there's a lot of good things to, to learn. But you know, I kind of spent that first two or three years saying this, this isn't, it I'm still not doing what is super interesting to me.
+
+3 (11m 3s):
+Do you remember what, what they were, I mean, were they, were they engineering jobs?
+
+4 (11m 7s):
+They were both engineering jobs. One was at a company that made telephone equipment and I was a digital line card designer. And I was very frustrated that I was not getting to design as much as I want. I, I wanted to build stuff and I was get very frustrated.
+
+3 (11m 26s):
+Right. Because when you're in your early twenties, you want to rush into things. It's natural. I, I, I remember feeling like I was in a hurry and, and it's a natural feeling. Yeah. A
+
+4 (11m 36s):
+Absolutely. I felt, you know, I can remember calling my dad and in, in the second job just saying, oh my gosh, my like, oh my gosh, it's all terrible. My career's over. What am I gonna do? And I can remember to my dad saying, Hey, you're pretty young. You got a lot ahead of you. So just, you know, don't get so upset about all this.
+
+3 (11m 57s):
+So I guess around 1989, you, you were probably 26, 27. You decide to start your own business, a software company, which I will get into with your brother, Greg. It was you called it knowledge revolution, which is I'm, I'm not, not judging you at all, but it's kind of a boring name, little bit boring. I'm not no judgment, but is, but, but what was it? What, what was the idea that you had?
+
+4 (12m 26s):
+I was gonna take two or three months off and decompress after my two difficult jobs. And we were right in the hardcore educational computing transition from apple two to Macintosh. A lot of schools still had apple. Two S a lot of schools were starting to get max. And I, I immerse myself in the educational software market, physics, math history played with everything. And it it's interesting when you immerse in something from the outside, it always looks shiny and mature. But as I got into it, I started looking at the physics software market.
+
+4 (13m 8s):
+And at that time, the physics software market, even very awesome, a lot of stuff going on, but typically 10 50 pre-made simulations to help animate and visualize classic physics things. And I started going, oh my gosh, wouldn't this be cool if instead of these things being pre-canned, this is more like a physics set and wouldn't it be cool if you could build all of these things from one simple system, students could do it. You could model textbook experiments. That was the Genesis of the idea for this product called interactive physics and the company knowledge revolution.
+
+3 (13m 51s):
+So this is 1989 and I'm thinking, God, ed tech, I mean, this is like a nascent space, but I guess schools probably were right. They were among the first to invest in computers and software because they had to prepare students for the future. I'm trying to remember what, what, what educational software was in 19 89, 19 90, cuz this is pretty CD rom.
+
+4 (14m 14s):
+It's pretty primitive. Yeah, it was Oregon trail. It was learning typing it. It was at a time when schools all around the world were, were putting in computer labs. A lot of students didn't have them at home. It was kind of this Genesis time, both for educational software and apple as well.
+
+3 (14m 36s):
+So you were, I mean, you were so young 26, 27, but, but did you see, I mean, were you looking at this as like, this is a big opportunity or were you looking at it like, you know, I know how to make software and I like physics and I think I can make something cool.
+
+4 (14m 51s):
+I think it's the latter. It is kind of interesting. I, I can remember hanging out with various people and my dad and sharing this idea. I was very unsophisticated from a business or a market size. I just wanted to build this physics stuff. I think I remember this pivotal meeting where one of my dad's friends said, okay, let's look at interactive physics. These are number of schools, blah, blah, blah. I think the annual market for this is a million dollars a year. And that was kind of depressing to me cuz I thought the idea was so big and so creative and, and I went forward regardless.
+
+4 (15m 33s):
+What's interesting is maybe five or six years later, the market for interactive physics was about a million dollars a year.
+
+3 (15m 40s):
+So there's nothing. Yeah.
+
+4 (15m 41s):
+But we had to do some fundamental work to get a physics simulator running on a, a Macintosh plus this is collision detection. This is Newtonian physics. This is all of that. If we wanted to fire a cannon ball, 500 yards away at a certain angle and velocity be any student would do that in interactive physics they'd draw, it they'd track it they'd watch it. And so the utility was really broad, but as we got that figured out that interactive physics product, even though a small market really swept through the physics education market and got to the point where all the physics textbooks were linked to it, they had a lot of example sets.
+
+4 (16m 30s):
+It was being used very widely really. And so the order started coming in, we would fulfill them. We had people that helped fulfill them and we, we essentially cash flowed that business.
+
+3 (16m 43s):
+Hmm. And, and I guess you, you know, at this point it was, it was pretty much just you and, and Greg who were working on it. But, but then from what I understand, there was a guy named Eric castle who reached out to you and, and wound up joining your team. And, and he was apparently a really good programmer, right. Just out of college. That's
+
+4 (17m 3s):
+Right.
+
+3 (17m 4s):
+But, but how did, how did he find you guys? How did he know who you were?
+
+4 (17m 7s):
+He saw us and knowledge revolution in all. There was a big community of Macintosh magazines. So Mac plus Mac user, and we want a bunch of awards, best educational software, best teaching software. So that's where he heard about us.
+
+3 (17m 27s):
+Eric will feature prominently in the founding of Roblox. And we'll talk about that in a bit, but between you and Eric and your brother, Greg, what were you all doing? Was Eric focused on, on sort of the, the, the technology side. And did you kind of move away and focus more on the business side? Or was it your brother or were you all doing all those things?
+
+4 (17m 47s):
+Eric and I predominantly coding Greg predominantly marketing and selling. When it was time to go to all of these shows or work with the community. At that point we would drive or fly and, you know, go to all of these conventions. I, I can remember one national association of science teacher shows where we had a booth, there was an apple booth and it was really hard work. I think this was a four day show where my brother and I ran both of those booths pretty much eight hours a day for four days, but that's kind of how we got the word out, demoing live to people.
+
+3 (18m 27s):
+Hmm. But this was, I mean, you were going after a very, very specific slice of people, like a tribe of, of people, physics teachers. That's right. And so I, I, I guess I read at a certain point, you sort of realized that, that if you wanted to grow that business, you would have to pivot. Right. And I, and I guess that pivot was you, you sort of built a 3d computer assisted like design product for, for like engineers and mechanical engineers, people who wanted to, to see how something's gonna work before it's built
+
+4 (19m 1s):
+That's right. And we entered a whole new market, a whole new type of customer Kodak, Xerox Ford people, making mechanical things where our product, which was called working model, which I, I love that name. It, it really described what we were trying to do way back then, when this wasn't widely available, you could simulate how that elliptical trainer would work. You could simulate the camera shutter mechanism. And so we built a pretty substantial business around that. We were partners with all of the 3d design software at the time.
+
+4 (19m 44s):
+And that's how we, that's how we ultimately built knowledge revolution to the point where it was acquired by another company.
+
+3 (19m 52s):
+All right. So 10 years, a little less than 10 years after you founded it, the company was acquired by the way at its peak. How many employees did you have?
+
+4 (20m 1s):
+We were in downtown San Mateo at our peak. We probably had 40 employees and we were, I think we were doing 6 million a year when we were acquired.
+
+3 (20m 13s):
+So, and, and did you ever hit profitability?
+
+4 (20m 15s):
+We were profitable the whole time because we were bootstrapping the company as we went.
+
+3 (20m 20s):
+All right. So acquired by another company reportedly for about 20 million. That's right. Yeah. In, in 1998, so great outcome for everyone. And, and in this company that acquired you, it was called MSC software. So presumably under that deal, you went to go work for them for little, for some time.
+
+4 (20m 41s):
+Yes. I went to work for them for two years.
+
+3 (20m 44s):
+And, and, and could you have, I mean, at that point, were you, did, did you feel like you could retire? I mean, were you, I, I don't, I mean, were you at that point financially sort of independent?
+
+4 (20m 56s):
+I think I was right on the edge and I think, you know, if we were conservative and managed our money properly, I think we, for sure could've. And so I, I, I was for a while thinking maybe I will be retired, but at the same time, I, I think as I kind of, after that was sold and after the two years working there, I went into a two year sabbatical mode, which more over time, more and more got me itchy to do something else.
+
+3 (21m 35s):
+And I guess you should mentioned that at this point you were married. In fact, I think you, you also had kids, right? You had cuz you, you had kids in pretty close succession. Right. You had like three kids all under the age of four at that point, right?
+
+4 (21m 47s):
+Yeah. After I left MSC software and started thinking what we were gonna do, we rented a motor home for three months and went on around the USA trip for three months with those three little kids. It was an awesome break after all of that stuff really well remembered and then came back and did a few other things. But I started getting itchy about a year into this.
+
+3 (22m 17s):
+Right. Okay. So you knew that really ultimately you had to start something to, you had to start something again. That's right. That was what, what you kind of landed on. And, and when you, when you kind of came to that conclusion, had you already been talking to, to Eric castle and, and your brother, Greg or, and others who had worked with you at knowledge revolution about what you could do? Like did you start to like call people up and say, Hey, let's get the band back together. Do, do you remember what, what you were doing?
+
+4 (22m 45s):
+Yeah. There was an early experimentation phase where I had a rough idea of what I was interested in. I was interested in the idea of a simulation on top of which people could build puzzles or scenarios and the idea of unlike a knowledge revolution, where we had to be really accurate in what we built, cuz people were designing stuff. I was very interested in the notion. Could we make something that's very scalable? So it can do a lot of things, but not be perfectly accurate. And I started down the, the root of making this simulator more as a puzzle experience rather than an immersive avatar type experience.
+
+4 (23m 31s):
+And that's where Eric joined me and we started working on this together.
+
+3 (23m 37s):
+All right. So let's go back to 2004, cuz this is really the early outlines of what would become Roblox. But you know, at the time I'm thinking there were some, I mean this is still, you know, early internet and most people had dial up and there were things like, I think like second life in SIM city, right? Tho those were already out there at the time.
+
+4 (23m 59s):
+That's right. They had all to some extent built these systems that would, you know, bring people together in immersive 3d environments. Well, we were in the midst of the very early phases of what we were doing, which was more this super scalable physics puzzle system. We had some people play it, but we knew within a week, oh my gosh, this is not gonna go viral. We have a lot more work to do. And Eric and I had to say, okay, we've got another nine months or 10 months where we're gonna have to buckle down, really make this multi-player avatar based, you know, co reality.
+
+4 (24m 44s):
+If we want to get the, that virality, which was really our vision all along, it was just almost a realization. There were no shortcuts to doing that. So we shut that puzzle down and went back to work again for another nine months.
+
+3 (25m 1s):
+When we come back in just a moment, how David and Eric create the virtual world of their dreams, but how it doesn't take off until they add one irresistible feature, virtual money, stay with us. I'm Guyz and you're listening to how I built this. Have you ever wanted to learn how to write a screenplay, to communicate better with your boss or to make a dinner worthy of a Michelin star? Whatever you are interested in. There's a masterclass for you with masterclass, you can learn from the world's best minds, anytime, anywhere, and at your own pace, you can learn about economics from Paul Krugman, improve your negotiating skills with Chris Vos or learn about the power of personal branding from Chris Jenner with over a hundred classes, from a range of world class instructors.
+
+3 (26m 1s):
+That thing you've always wanted to do is closer than you think. I recently checked out a class about cooking from the famed chef Thomas Keller, and it was eye opening at how many things you learn in those videos. I highly recommend you check it out, get unlimited access to every masterclass. And as a how I built this listener, you get 15% off an annual membership go to masterclass.com/built that's masterclass.com/built for 15% off masterclass. I'm pretty much always on the go. So I don't have a ton of time to do the things I wanna do like reading, which is why I love audible.
+
+3 (26m 44s):
+As an audible member, you can choose one title a month to keep from their entire catalog, including the latest best sellers and new releases. All audible members get access to a growing selection of audiobooks, audible, originals, and podcasts that are included with every membership. You can listen to all you want plus more get added every month. In fact, you can even listen to my book. I know shameless plug, but you can listen to how I built this read by me right now on audible. Let audible help you discover new ways to laugh. Be inspired or be entertained. New members can try it for free for 30 days. Visit audible.com/built or text B U I LT to 500, 500 that's audible.com/built or text built to 500, 500 to try audible free for 30 days, audible.com/built.
+
+3 (27m 47s):
+Hey, welcome back to how I built this I'm guy Raz. So it's around 2003 and David realizes he's working on an idea that has no legs. People are not going to flock to his site where they just get to solve a bunch of puzzles. So he and Eric spend about a year working on something much more interactive with multiple players and avatars and cool spaces to hang out and they start with a name Dyna blocks, but eventually call it Roblox.
+
+4 (28m 19s):
+When you sign up, you're gonna join one specific place where there may be six to 20 people rolling around, bumping into each other in a place called crossroads, which was our very first 3d place.
+
+3 (28m 35s):
+And what did that look like? It was like a, it was like a street or town.
+
+4 (28m 38s):
+Yeah, it was imagine maybe a space, the size of two football fields side by side. And then in each of the four quadrants, imagine in one, there was a castle in one, there was a little area where you could put things together in one, there was a little cave that you could go into. And that was the very first version of Roblox that started this virality.
+
+3 (29m 5s):
+So the idea it was you'd log in and then you'd have a character maybe. And then, and then you would see other characters moving around, which were actually connected to real humans through the internet that's right. Somewhere else. And you could, and, and initially it was not, it was just like, it was, you could talk to them and, and chat with them. But, but really it was still about building structures.
+
+4 (29m 28s):
+It was really about hanging out with people, chatting right with people, the fun of feeling as if we're in a physical environment. So, oh, let's go over here and stack some blocks up and see what we can build. Ooh, let's put a fun little time bomb over here and watch this thing fall down on us. But it was actually really social and Eric and I, and then soon John, and then soon Matt and then Keith, we'd spend a lot of time hanging out, meeting these people and chatting with them. And in those early days we probably knew half of the two or 300 people on roadblocks. And we were in there every day, chatting with them.
+
+4 (30m 9s):
+What would you like to see? What can we make better?
+
+3 (30m 12s):
+So it's interesting to me because you were, I mean, you were committed to creating like physics, this sort of physics software, and then these kind of puzzles and games. So clearly there was this kind of educational component to what you sort of were passionate about, but it seems like early on you were kind of moving in a different direction saying, you know, actually let's just make a place where people could hang out.
+
+4 (30m 39s):
+That's right. We, we carried the theme of the physics forward in that we wanted the world where people would hang out as much as possible to be like the real world, because then interesting, cool things would happen if a building was leaning over and we pulled out one of the supports, the building would fall down or the early cars on Roblox. If those were really had axles and motors. So if we pulled the wheel off the car, it would scrape along on the ground that simulate the real world became this foundation on top of which we said, okay, now let's get more social avatar hangout on top of that foundation.
+
+3 (31m 22s):
+So I'm, I'm, I'm curious, I mean, in, in that first kind of year, year and a half, and it was just you and Eric kind of designing this, coding it, by the way, did either of you have a, a background in like design because you were creating a world with graphics and characters and
+
+4 (31m 39s):
+We didn't, there were a lot of people we met in those days that is too primitive, too crude, not gonna be fun games have to be this and that, that we really gently ignored respectfully. There, there was also a notion that function and making this work so well is so important to us that we're comfortable leaning in on programmer art to the point that the blocky Roblox, avatar that is now just one of many, many avatar shapes, right? If you analyze it is actually very one by two by one on the arms, the torso is two by two by one thick, the legs are one by one by one.
+
+4 (32m 29s):
+So that classic Roblox avatar is really just an extension of us putting some simple blocks together to get that going.
+
+3 (32m 38s):
+I know this might be a very sensitive question, but I've checked and you've never been sued by Lego, but I know that people must have said, Hey, they kind of like Lego characters.
+
+4 (32m 46s):
+Yeah. I think in the early days we, we stayed away from the exact Lego form factor. We, we just said, let's go simple one by two by one. But there was for sure, some sensitivity when using, for example, yellow in the avatars, which is this classic Lego look, they were very gracious with us though. And, and I think we were able to work out. Okay. Yeah. We'll, we'll make the defaults this way. We will try to remove any confusion whatsoever that this has anything to do with Lego
+
+3 (33m 20s):
+Here. Here's what I'm wondering about too, which is you were already in your early forties. And I think Eric was not too far behind. And when I think of like video game developers, I think of younger people. Yeah. I think of people in their twenties and thirties not, and, and I'm, I'm trying to be careful to say this, cuz there's nothing wrong with being in your forties, but, but were any, any of your friends or colleagues or people you knew, you know, from Stanford, was anyone like you're doing what you're making cartoons.
+
+4 (33m 51s):
+It's interesting. I think you're doing what thing maybe lasted for 15 years, because I think because Roblox has always been under the radar a bit and been used by younger people. It hasn't really surfaced into pop culture, you know, maybe in the last two to three years. Yeah. So I do think a lot of friends thought that I actually thought in a beneficial way, my kids might have thought that as well, up until the last two or three years or it's oh yeah, dad's working on this video game thing. What I think it gave us was the notion that we're really building platform and system and technology.
+
+4 (34m 33s):
+We're really not building the game. And it gave us a little bit of the humility that we, we very early on knew that this has to be about the creators on the platform, not us. We, we want them to be famous, not us. And so I think that that mirrored more to Eric and my, you know, specialty was just, let's just build great technology.
+
+3 (34m 57s):
+Right? So as you were kind of testing this out, right, and as it became clear that it was going to be this kind of social platform with avatars where you could, you know, buildings would collapse. If you pulled out a brick or you could build things. I mean, did you see it as, as an educational tool? Did you see it as something that, I mean, did you see it as something that could be, you know, turned into a tool like that? How were you thinking? Did you see it as a game, a video game, a massive online, you know, multiplayer game,
+
+4 (35m 33s):
+Even, even early on, there was a bit of a thesis that if we could mirror and really couple raw 3d cloud base, we, we used to call it digital stuff, simulated stuff in the cloud, that this is such a fundamental technology that on top of it, people would play someday, they'd go to school or do simulations. They might work together. It was the notion that this was gonna be a universal type technology that happened really early on. And then we released Roblox studio. And the second we released Roblox studio, it was one of those days where you go, oh my gosh, this is gonna be absolutely amazing.
+
+4 (36m 19s):
+We cannot believe in a couple days this early community at that time of 500 or a thousand people have all downloaded Roblox studio and we're seeing creations better than anything we can do is just such a fun experience. When, when you think that that's gonna happen and then you see it actually happen.
+
+3 (36m 42s):
+Cause Roblox studio basically allowed users to, to create their own games on and sort of experiences on the platform. That's right. And, and I think you, this, this is in like 2006 when you, when you launch that. But, and you, you know, you, as you say, you attracted users think within five or six months, you had about 15,000 users, which is pretty good, probably not enough yet to, you know, hang up your cleats, so to speak, but, but pretty good. You're, you're sort of getting some adoption. Did you start to notice early on that most of the people who were using it were kids,
+
+4 (37m 19s):
+The, the early Roblox demographic was going viral amongst kids and we re reintroduced Roblox studio within a month. We were all working on our very first safety civility system. We could see that everyone, you know, from a range from 12 to 18 on the platform. So, so we did know that cuz we were hanging out with all of them.
+
+3 (37m 47s):
+One of the, one of the things that I know about cuz I've got a, a children's media company that I'm a partner in and we make a kid's podcast called wow in the world, including other shows is there's something called copper, which is a, a law that requires companies. It's an online privacy act. You, you basically have to protect the privacy of kids who are, I think under the age of 13, you can't, can't collect information about them. And, and you had to kind of become cop compliant right away, I guess. Was that in response to this, to the fact that you, you were attracting so many young users or was it, did you know you were gonna have to do that even before that happened,
+
+4 (38m 30s):
+We knew very early on that to be cop compliant, we would have to under optimize our advertising, which is actually the first monetization thing we ever did. What COPPA means is part of it is you're not tracking kids. And in those days the revenue you would make on advertising was much higher. If you would use advertising sources that were tracking the user and doing all kinds of backend stuff. So yeah, so very early on, we were crimping our revenue on that first advertising model.
+
+3 (39m 7s):
+I mean, I wonder what your, I know you RA you only went to raise money in 2009. It wasn't much, you raised a little over 2 million, but before that time in the sort of four or five years before you even raised that amount of money, what were your biggest expenses? Presumably you didn't have to spend money on developers cuz it was you and Eric, but you'd office rent, but you'd server space. I mean, how were you financing it?
+
+4 (39m 33s):
+We financed by a range of an angel investors, friend and family did the first round friends of myself, friend of my brother, friend of my dad's. They got in at a really interesting time in the company relative to where we are right now. And that took us through to our first VC round with Altos ventures a while later. But yeah, we got pretty far on a small angel round.
+
+3 (40m 4s):
+So, and, and I mean, am I right, two about $2 million? Is that what you raised?
+
+4 (40m 10s):
+I don't remember exactly, but I, I think we got very far with 2 million. We then went on for a couple VC rounds, but ultimately the total amount of money that went into the company to get to the point of profit was about 9 million. Wow. And everything we've raised since then is either cash. And it's sitting on our balance sheet or it's been used for very early employees to offer some small amount of liquidity. But yeah, we got to where we are in 9 million bucks.
+
+3 (40m 41s):
+When, when were you and Eric able to hire some people,
+
+4 (40m 45s):
+We were in an office in Menlo park and right around this time when Roblox studio was going live, we hired our first two employees, John and Matt. And then I can remember moving to Redwood city. We had 10 to 12 to 14 people that went up to 16. Then we went moved to downtown San Mateo. So from then on, it was, you know, build out the team.
+
+3 (41m 9s):
+Right. So, I mean, let's talk about the business model at this point in 2006, 2007, how were you going to make money? What was the business model?
+
+4 (41m 18s):
+We had to really figure that out. And we went through multiple iterations. We started putting just a few advertisements that were kid compliant on the Roblox homepage. We did not feel good about that. We then moved to a club membership. It was called builders club, which was, you know, if you're in builders club, you get some extra cool stuff, you get multiple places to build on. Yeah. But we quickly realized, well, not quickly, but over time realized that wasn't gonna scale. And then that led ultimately to our virtual economy, which is Roblox and developer exchange and, and that engine that powers everything.
+
+4 (42m 3s):
+But we, we did go through multiple iterations of trying to figure out what's really the system that's gonna power Roblox as it grows.
+
+3 (42m 11s):
+Right. Because as you, you know, sort of be began to think about this model that would eventually become your model, which was Roblox where basically people could buy this virtual currency. Yeah. If someone were to ask you at the time, Hey, you know, Dave, what can I do with these Rob robots? What can I buy with it? What would you have said?
+
+4 (42m 31s):
+I would say that what you can buy as almost anything the creators on the platform can imagine. So, you know, work at a pizza place, you can go buy a cool scooter. If you go into bird simulator, you could say, Hey, I wanna be an Eagle sooner than, you know, living my life as a Sparrow, in some experiences, they would have their own coins that you could buy clothing. It, it was really a full on economy and it is to this day of whatever the creators in their experience can think of.
+
+3 (43m 4s):
+So basically it was from the, from once the studio was created, it became a platform like for people to kind of, I guess, for lack of a better word, to become their own entrepreneurs. I mean, they would, they could offer products for sale virtual products and, and then the, the model would be that you guys would get a percentage, you get a cut of every sale.
+
+4 (43m 29s):
+That's right. And the more flexibility we gave them, the more we were just as with the content were really creatively inspired by their, their inventions on how to monetize as well. And, and all of our creators were always balancing. They wanted bigger crowds on their platform. So if there's too much friction that would slow down their growth. So they all figured out how to make immersive things that the vast majority of people use without spending any virtual currency. And, and even to this day, you know, it's only a small portion of the people on our platform who buy Robux every month.
+
+4 (44m 11s):
+And we do quite well on that even early on, the developers figured that out and have always balanced kind of growth and engagement with monetization.
+
+3 (44m 22s):
+Right. I remember we interviewed the founders of riot games about a year ago or so on the show. And, you know, they did a, they had a similar model where you could buy things in league of legends. And at that time in 2007, eight, I mean, was it hard? Was it hard? Like the, was it hard to kind of make that argument to people like, Hey, you can buy things in the game. I mean, were people at that time saying, but it's not real. It's not real stock. What am I buying? I mean, was that I, I would think that would've been the, the pushback.
+
+4 (44m 56s):
+We, there, there was a time in Roblox history where we were growing very rapidly on users and hours and all of that was good, but we had a really, it was kind of a difficult time where users were growing, but monetization was going the other direction. And we, we did maybe the first wave of our response is, did we break something? Did we, do we need to tune something? What's a spreadsheet of the 50 little tuneups that we can do. And those were not successful. And it was, is a little bit scary. We knew in the back of our minds that, well, there's this really big system thing.
+
+4 (45m 40s):
+And what that would mean is we have, we take our virtual currency, the developers themselves can bring it into their experience in any way they want, we will then cash out those developers. And so we said, okay, all hands on deck, we're gonna build this system. Not knowing whether it would work or not, but having a lot of intuition that it felt right. And that we, we sure think it's gonna work and everyone, we talk to think it's really cool. And then we had a day similar to Rob when we launched Roblox studio where we turned this on and within two or three days, we had that same feeling just, oh my gosh, problem solved.
+
+4 (46m 26s):
+So those are the big things that are hard to build that, that power, these types of systems,
+
+3 (46m 31s):
+When you, I mean, one of the, one of the best things about, about having kids, you know, as, as customers is that they talk to other kids about it, right? And, and they're at school or, you know, on sports teams or whatever. And they talk about things and this is, this is how this is our toys get popular or pop patrol or that's right. Like these huge kind of generational brands become huge because, or even brands that aren't generational, but just get huge for a year or two it's because kids are playing with them. Bakugan name, you, name it, whatever it might be. Is that what was happening? I mean, were you spending money on marketing at that point on advertising?
+
+4 (47m 15s):
+We had some interesting learnings along the way. And we, we received some really good advice from many people that paid acquisition is a great way to test things, but there's a third way that some platforms grow, which is creative virality. And I think in the mid two thousands, this was all about, well, invite a friend or push this link here. Right? We tried some of that stuff and spent some engineering on it, but we quickly saw the, the raw virality from product quality was stronger than that. So we had to develop that muscle really of viral growth.
+
+4 (47m 57s):
+We we've done experiments along the way with paid acquisition to maybe accelerate here or there, but by and large, everything on Roblox has been viral.
+
+3 (48m 9s):
+It was kids talking to other kids. That's talking to other teens
+
+4 (48m 13s):
+On the playground Metcalf's law. When the more people in the network, the more powerful the network, then we always wondered if that's, wow, there's a few people in the classroom. They're chatting about it now, we're now they're gonna invite more people.
+
+3 (48m 28s):
+When we come back in just a moment how Roblox continues to grow, but how the team is suddenly tested in a way that nobody could have predicted stay with us. I'm guy Raz. And you're listening to how I built this Hit the road this month with an award-winning electric bike from north America's largest e-bike brand rad power bikes. There are so many reasons to ride a rad bike. They're better for the planet help you save money on gas and with bike racks in front of every store, it's pretty much a VIP parking everywhere you go.
+
+3 (49m 9s):
+Plus, they're so fun. They make getting around the best part of your day. You just pedal when you want and throttle, when you don't, if you've had July on an e-bike, there's never been a better time to buy right now, you can take advantage of rad power bike's biggest sale of the season. Take up to 400 off select e-bike models and up to 30% off select e-bike accessories. And with a 14 day free trial and flexible financing options, you can start riding for less than a tank of gas. They'll even cover the shipping, change your ride for good take advantage of this limited time offer@radpowerbikes.com.
+
+3 (49m 49s):
+No one is slowing down in this hiring race for the best talent in offering the right benefits may help you reward and retain your team, helping them feel valued, motivated, and ready for the future. And that can make all the difference for your business. Principle offers retirement and group benefits plans customized to help you meet your goals. Your company's future depends on its people. Show them they are valued and give them the tools they need to succeed. Talk to your financial professional today about the right benefits and retirement plans from principle and visit them at principle.com/business. This message was brought to you by principal financial group, but it's important to their wonderful lawyers that we share their legal name, which is the principal life insurance company, Des Moines, Iowa, for important information about their products visit principal.com/disclosures.
+
+3 (50m 52s):
+Hey, welcome back to how I built this I'm guy Raz. So it's early 2013 and Roblox has grown to about 7 million users a month. And as it gains popularity, it has to contend with the not so pleasant behavior of some of those users. So before we go on, I'm just gonna bring my son bra back into the mix here for just a moment, because he's a regular on Roblox and David Bram has a quick, another quick question for you.
+
+5 (51m 20s):
+I just wanted to ask, well, not really ask, just say, I think in the games there should be like a monitor because there are so many people who say really weird stuff in the game.
+
+4 (51m 36s):
+Yeah. It, it's kind of interesting cuz we have a lot of filters and you see the hashtags and all of those kind of things. When we block those people, cuz we really try to keep this as safe and civil environment, but more and more the, that monitoring is getting really, really good and really, really automated. So it's something we're working on all the time. Right now. We just end up blocking a lot of words.
+
+3 (52m 3s):
+Mm can I just, can I just piggyback on that for a sec, David, because when you first started to, to like do this kind of monitoring right early on, it, it, it must have been more like a cat and mouse game, right? Like people doing things that were not what you intended them to do. I mean, you put a bunch of kids in, in a room together and, and eventually some of those kids are gonna start beating the heck out of each other. You know,
+
+4 (52m 28s):
+That that's exactly right. There was. I remember when it was the four of us, we all ran the moderation system. So we were on the front lines acting as moderators. And as we went, we were constantly building in, you know, any image that's ever uploaded, any sound that's ever uploaded needs to go by human moderators, the tension that for many creative developers who are very brilliant, very smart and very creative. It's actually fun to push on Roblox and see, oh my gosh, what can I get away with? And it's, it's an area where we continue to, you know, go even further and get even better to this day.
+
+4 (53m 12s):
+But it, it really started in that first month.
+
+3 (53m 15s):
+How did you and Eric work together? Was it, I mean, you know, your partner's in this, but, but I mean, I'm assuming he had a probably strong views and you had strong views and there were things that maybe you wanna try or things that he would you, did you argue or, or was it, was it just easy,
+
+4 (53m 36s):
+Some areas super easy. And some of the core areas of even inside Roblox today, the way we run the in memory database, the way we do networking, these are, these are still foundational things that Eric put together. Other areas we did disagree on. And one was that very first Roblox avatar, which became the Roblox blocky classic avatar. We had a lot of debate Eric thought, oh my gosh, this is still too rough. We need better looking avatars. But we came together with the notion it's better to sh you know, get this live and get it in user's hands, as long as it's safe and robust and see what the feedback is rather than spend, you know, another five or six months getting better avatars that has that's something we always came together.
+
+4 (54m 30s):
+And I think in general, we were very aligned on this initial architecture. We would, we were probably white boarding an hour a day as we would go. So we were able to build things very quickly. You know, generally the alignment was really high.
+
+3 (54m 47s):
+So the, the, the business is growing clearly and it, and you could see where it's, it's headed. And meantime, Eric had been battling cancer and quite an aggressive cancer for a few years and, and, and unfortunately succumb to it in, in early 2013 when that happened. I mean, he was the main, I mean, he had, he had sort of built the back end of, of this thing, aside from I'm sure everybody being devastated. What did it mean for, for Roblox?
+
+4 (55m 26s):
+You know, he had a cancer that was basically not curable. He knew he had, you know, between one and three years, I think at the time I forget exactly. It was just like, oh my goodness. So what was interesting with Eric was in the midst of that, he took a few weeks off and with his family, but then didn't change anything. It, it was almost a Testament to what we were doing together was his optimal lifestyle, which made me really open my eyes a bit. So Eric kept working for quite a while.
+
+4 (56m 9s):
+We all knew he was battling cancer. I tried to make it very easy, you know, Hey, Eric, if you want to chill out, we got this. He's like, no, no, no, like I, this I'm enjoying this, but it was a little, little scary. I'm very, you know, so thankful for Eric because he was almost a template for our values. He really helped me in my understanding of what great technical talent looks like, just working so closely with him and seeing solving problems from a vision standpoint rather than a tactical standpoint was absolutely amazing.
+
+4 (56m 51s):
+And in a way there was also a, a motivation to me in that after Eric had passed, maybe in addition to other things that would motivate me, I, I had a huge motivation to want to make Roblox true to his vision almost, but it was very powerful.
+
+3 (57m 17s):
+All right. So you've got this game, you've got a lot of users, or you've got this, this world, this platform, a lot of users and pandemic hits. Yeah. And, and you begin to see very rapidly, this explosive growth, like, like triple digit growth. Right. Were you anticipating that? I mean, did you, in March of 2020, when the world kind of shut down that the w H O declared a pandemic, did you know that that was gonna happen?
+
+4 (57m 47s):
+No, No, it was, it was really kind of a week or two in, we were so busy. Okay. How are we gonna work remotely? And then as we started settling into remote work on things settled down, I think it was April. And we looked at our numbers and it was almost like, oh my gosh, this is a interesting byproduct of this pandemic. Look at these user numbers. We gotta figure out how to scale and start making sure we have enough servers and all of that kind of stuff, because this might go in a weird direction that we weren't expecting, but all in all, I, I think we did really well during that last two years, probably, you know, I want to guess half the company has been hired in that last year or two, which is amazing.
+
+4 (58m 38s):
+Hmm. And, and as we're starting to come back to our office, it's, it's great to meet all of these people.
+
+3 (58m 43s):
+So as you, you know, you, you become this massive gathering place for kids at home, stuck at home during the pandemic predictably. And, and, and I think, I think predictably is the right word. What, what comes with that is more scrutiny. Rightfully so. And, and also more challenges around some of the content that is, is being discovered. It's is it, you know, I think there's an assumption that many of us have that like a company that has user generated content can really control it. Like you can just build in algorithms or systems that can automatically eliminate it because, you know, you're smart people and you've developed this system.
+
+3 (59m 32s):
+And, and so you should be able to automatically eliminate content that's objectionable or offensive or scary or dangerous for kids. First of all, is that, is that possible?
+
+4 (59m 45s):
+I think that we're always balancing, you know, when a new creator comes on the platform and they're at a computer tech camp, can they share that creation immediately with their friend? We're always balancing, does the average person on Roblox ever run across any bad content? And so we're always balancing the, kind of the control we put on that user generated thing with yes, our ability to make sure there's virtually no bad content on the platform. So it is a balance. We, we have made the decision not to filter every single Roblox creation through a day of moderation.
+
+4 (1h 0m 34s):
+And at the same time, we constantly get better through algorithmic, social human review. And, and right now where we're at is it's very, very, very infrequent that anyone on our platform runs into intentionally bad content.
+
+3 (1h 0m 52s):
+So I wanna, I mean, this is sort of a, a question that you might think is, is weird or puzzling or, or, or, you know, or maybe not, but I'm, I'm, I, I don't think anyone listening to the show will be surprised to know that I'm not a gamer. I don't play games and I, and I don't watch a lot of stuff. Right. And I think part of it is I, well, not part of it is I need to be outside cause I'm in the studio a lot, you know, and there's a lot of con you know, there's a lot of talk around the metaverse that we're, we're, we're moving into this future where that is how social interaction will be, and that it will feel more and more real.
+
+3 (1h 1m 33s):
+And I've, I've even seen you sort of quoted saying things like that. And I don't know, I, I read some of that stuff and not, not picking on you, but I read it. And I think really is, is that really where we're headed? And is that healthy for us? It doesn't seem like we were, we were emerged from the Savannahs of Africa to, to live in a virtual world. I just, I just don't think it's, it's where we were supposed to be headed.
+
+4 (1h 2m 2s):
+Yeah. I share your sentiments. And at the same time, I tend to be pretty optimistic. I'm optimistic that people over time will balance texting and phone and video and 3d as ways to connect. And I'm, I'm, I'm optimistic, you know, in schools there'll be a balanced amount of reading about history or using immersive 3d technology to go to ancient history. And I'm, I'm, I'm kind of optimistic that the dystopian matrix in the VA type that's your world is hopefully a long, long way off.
+
+4 (1h 2m 44s):
+And we'll see a, a really lovely, more balanced use of this technology that we would use as a utility and society will come up with a good balance on
+
+3 (1h 2m 55s):
+You. Took the company public in 2021. So now a publicly traded company, you are on, you do quarterly earnings reports and your financials are open to scrutiny. The company, if you, you know, one measure of, of, of valuing a company is a market cap. It's not the best, but right now it's about $22 billion. It's amazing, right? It's made several people very wealthy, including you, but you also have to contend with a stock price that sometimes is really high and is really low. And as, as of this recording, it's, it's close to its 52 week low. And I know it's just a stock price, but, you know, does that stress you out to get, I mean, you know, you are running a public company, do you and everybody says, no, don't worry about the stock price, of course, but I mean, how can you not worry about it when there are millions of shareholders out there, does it, doesn't it stress you out at all?
+
+4 (1h 3m 53s):
+It's this interesting mix where we, we have these shareholders, we used to have our VCs, then our employees and our angels, right? And now we have people all around the world. So we have this amazing responsibility for them at the same time. We, I mean, it's pretty fun to run this company. We have 3 billion of cash in the bank. We generate cash, we have strong values and amazing people. And so we, we keep coming back to, for our shareholders, we have to keep having this vision of the future. And just so we did five years and 10 years ago have those five or six or seven really hard platforms, strategic things that we've got that this, this funny feeling that if we do this, they're gonna amplify and multiply and multiple ways.
+
+4 (1h 4m 46s):
+And that's just really fun.
+
+3 (1h 4m 49s):
+Dave, when you think about where you, where you are and where you started and where you are, I mean, you know, you, you were gonna do okay. You were a really good engineering student. You were into programming really early and, and went to Stanford and, and were in the Silicon valley area sort of before the, the kind of the internet explosion. So you were at the right place at the right time and you were probably gonna, I mean, I would've bet on you when you were 18. I would've been like, oh, thank you. He's gonna do appreciate fine. But, but I wonder how much of what did happen, you know, 23 billion company and, you know, maybe even more in the future, how much of, of that do you attribute to just how hard you worked and, and, and, you know, your skill and intelligence and how much do you think has to do with luck?
+
+4 (1h 5m 39s):
+Yeah, I think there was some luck in having the capability both financially and where I was to be able to go with my intuition. I think, you know, my intuition pulled me towards the interactive physics and when we were running knowledge revolution, we would always chat about what's the next thing. So I'm, I'm pretty fortunate in having that time to take that time off and to start hacking around. And then I would say at the same time, I mean, at times this has been the hardest thing I could ever imagine. This is, there has been times when we've all thought, oh my gosh, this is the hardest thing we've ever done.
+
+4 (1h 6m 21s):
+This is really difficult. So it's been a balance. We've seen both sides of that. Really.
+
+3 (1h 6m 30s):
+That's David Zuki, founder and CEO of Roblox. David, thanks so much for your time.
+
+4 (1h 6m 35s):
+Hey, thank you for just such a thoughtful, wonderful framing of the questions it's been. It's time has flown right by, and I've really enjoyed being with you.
+
+3 (1h 6m 46s):
+Graham, do you have any, any last question for David before we go?
+
+5 (1h 6m 52s):
+If somebody told you like 25 years ago, that Dyna blocks would turn into like one of the biggest games in the world.
+
+4 (1h 7m 4s):
+Oh my gosh. When we started Roblox, we, we had both a really big vision of what we were gonna try to build, but we never had such an imagination. We never thought that when we started,
+
+3 (1h 7m 20s):
+Hey, thanks so much for listening to the show. This week, this episode was produced by Carrie Thompson, with music composed by Ramera Louey. It was edited by Neva grant with research help for Margaret Sarno. Our production staff also includes JC Howard, Casey Herman, Liz Metzker, Alex Chung, Josh lash, Sam Paulson, Catherine cipher, Elaine Coates, John Isabella Cini and Carla EST. I'm guy Raz. And you've been listening to how I built this.
+
+3 (1h 7m 60s):
+Hey, everyone. So I wanna make sure you know, all of the different ways you can listen to how I built this. As you probably know, you can follow the show on Amazon music, apple podcasts, or wherever you're listening right now. But I wanna let you know that you can actually listen to the next episode of how I built this today. One week early on Amazon music, you can also listen to it early and add free by subscribing to Wondery plus and apple podcasts or on the Wondery app. Please do follow us on your podcast app. So you always have the latest episode downloaded in another way to support the show is by filling out a survey wondery.com/survey. And thanks.
+
+7 (1h 8m 40s):
+Hi, I'm Lindsay Graham, the host of Wondery show Americans scandal. We bring live some of the biggest controversies in us history, presidential lies, environmental disasters, corporate fraud. In our newest series, we look at the story of Edward Snowden, a whistleblower who changed the national conversation about privacy on the internet. As a contractor for the NSA Snowden had access to a range of top secret government programs. But as he learned more about these clandestine operations, he came to understand a devastating secret. The government was conducting mass surveillance on its own citizens. Snowden would go on to leak more classified documents than any whistleblower in American history. He became the subject of an international manhunt, and as he fought to expose the truth, he would risk his own freedom and his family's wellbeing follow American scandal on apple podcasts, Amazon music, the wonder app or wherever you're listening.
+
+7 (1h 9m 30s):
+Now, listen one week early and add free by joining wonder plus.

@@ -1,0 +1,344 @@
+0 (0s):
+Wondery Plus subscribers can listen to How I, Built This Early, and ad free Right. now join Wondery Plus in the Wondery app or on Apple podcasts.
+
+Snappy Gifts (10s):
+Let's be honest, picking holiday gifts for your employees is stressful. Instead of choosing something generic or impersonal like a gift card, let your team pick their own gifts with Snappy. Snappy is an award-winning gifting platform that lets companies of all sizes send gift choices to employees and customers in seconds. Snappy's Expert curated gift collections contain thousands of gifts from all your favorite brands, and you can even send custom swag. Everyone gets what they want, you only pay for what they pick. With Snappy, you can ship gifts to 30 plus countries, and there's no need to remember addresses gift recipients, type it in themselves. Visit snappy.com/built to sign up for free and get $20 off your first gift send. First gift send. Only Expires 90 days after. Signup
+
+Rails (1m 2s):
+Rails is a California-based men and women's clothing brand. Blending the casual California lifestyle with a sophisticated European approach to fashion. Rails focuses on crafting incredibly soft fabrics that feel more luxurious than anything you've ever worn. You may know rails from its celebrity, loved shirting, but Rails now offers a full range of effortless dresses, cozy sweaters, versatile outerwear, and its new Must-have Denim Collection. The Men's Collection features everything for the man on the move, from classic button-downs and travel ready tees to heritage inspired outerwear and all season trousers. The collection focuses on versatility, quality, and comfort. Whether you are looking to add something incredible to your wardrobe or for the perfect holiday gift rails offers versatile clothes that can take you anywhere. Shop rails@rails.com or at one of its 12 global stores. Or at Nordstrom, Neiman Marcus Sachs, fifth Avenue and Shopbop. Enjoy 10% off your first order on rails.com when you sign up for emails. That's RAIL s.com.
+
+Vuori (2m 7s):
+Today's sponsor RI offers a whole new perspective on performance apparel. Everything is designed to work out in, but doesn't look or feel like it. If you know me or you hang out with me, you probably know that that's pretty much all I wear. Their clothing is incredibly versatile and comfortable. It's designed to look great in everyday life, and I can do anything in them. I can work out, which I do. I can hang out. I can even go out to dinner in them, which I do all the time. vori is an investment in your happiness. And for our listeners, they're offering 20% off your first purchase. Get yourself some of the most comfortable and versatile clothing on the planet at vori.com/built. That's VUOR i.com/built. Not only will you receive 20% off your first purchase, you'll also enjoy free shipping on any US orders over $75 and free returns. Go to ri.com/built and discover the versatility of RI clothing.
+
+0 (3m 9s):
+Hello and welcome to How I Built This Lab Boom. I'm Guy Raz. There's no driver. How crazy is this? That's crazy. This is your first time ever. You're gonna look at this as an adult. When all cars are driverless, you're gonna be like, yep, I did this driverless drive with Eddie. So it's probably hard to tell from the sound alone, but what you're hearing is audio from a ride. I recently took in a Waymo autonomous taxi. My son and I were in San Francisco heading across the city. These taxis are now all over San Francisco and Phoenix. And yes, there is no human driver, there's no human in the car at all, unless you count me and my son who were passengers, it's a ghost driver.
+
+0 (3m 50s):
+And if I'm being totally honest, they're amazing. The Waymo Taxi is now available 24 7 in San Francisco and Phoenix, and it operates similar to Uber or Lyft. Pull out your phone, you fire up the app, order the car, and it magically appears within minutes, except it's fully autonomous. Waymo was spun out of Google a few years ago, but the project to build autonomous vehicles at Google actually goes back to 2009. One of the engineers on that project was Dmitri Dolgov. He's been with Waymo from the very beginning, and today he's the company's Co. CEO Dmitri was born in Russia, a child of two physics professors.
+
+0 (4m 31s):
+He went to high school in the US and eventually returned to Russia to attend the Moscow Institute of Physics and Technology. Dmitri then came back to the US to get his PhD, and in 2006 he took part in a competition called The Urban Challenge, which was sponsored by darpa, the US Defense Agency. The idea was to build an Autonomous vehicle that could make it through a series of obstacle courses
+
+1 (4m 57s):
+In the Grand Challenge. The the grand challenge was to drive, you know, 150 miles through a desert in a completely static environment. But, you know, until then, robots were not capable of doing that. So it took two tries in 2004 and 2005 to accomplish that. So the next step was, let's make it a little bit more interesting. Let's make the environment dynamic, right? Let's add, you know, some rules of the road, you know, stop signs other vehicles, but you know, do it in a controlled environment in that mock city. So that, that was the challenge. And we, we built a car to do exactly that. We equipped it with a bunch of sensors, you know, lidars, lasers, radars, cameras, you know, a computer and then road software that, you know, would allow it to follow the rule, understand and follow the rules of the road, and interact with other, you know, dynamic actors, whether, you know, human or other robots.
+
+0 (5m 42s):
+So I, I'm looking at one of the vehicles that you were, that you helped put together. It's called the, the junior, and it's a Volkswagen Passat, I think, and I think came in in second place. This is like 2007. And, and was was the, the, the underlying technology, basically what we're talking about today, was it pretty similar or was it like a crude version?
+
+1 (6m 9s):
+You know, yes and no. It depends, depends on how you talk about like, you know, big car plus sensors, plus computers, plus software, you know, that stays right. But of course, you know, it's what, almost 18 years and then everything has changed, right? The, the sensing technology has gone a very, very long way. Computers, you know, have evolved software, right? All the breakthroughs, especially in ai. So, you know, that, that led to many, many breakthroughs in the area of software. So now the system we have kind of has the same components, but, you know, all of the components and how they work together is, you know, qualitatively drastically different.
+
+0 (6m 49s):
+Yeah, it, it's amazing how many, you know, these DARPA challenges, how many sort of self-driving car companies? They, they spawned, I mean, we, we've talked to Kyle Vot of Cruz. He was in, he competed in the 2004 and 2005 challenges. Dave Ferguson of Neuro, which is another company. He was part of the Carnegie Mellon team. Chris Ibsen, who also was obviously worked with you at Waymo. He was, he's now with Aurora, was, was also a part of Carnegie Mellon team. It's amazing how many, like you knew all of these people, and this is, as you say, it was a small community of people working on this huge challenge to basically create vehicles that could be fully autonomous. That's
+
+1 (7m 28s):
+Right, that's right. And of, of course, I, you know, worked very closely with, for many years with, you know, Dave and Chris and, you know, they're, they're great friends. So yeah, it's a lot of innovation and a lot of companies and, you know, progress came out of those early days of the upper gen grand challenges.
+
+0 (7m 46s):
+You and Sebastian Throne and Chris Sen, you all went to go work for Google and, and you were part of that founding team, which was at the time a secret project. Google's self-driving car project. And at that time, it's amazing to think 2009, 'cause it seems like ancient history now, you were given a charge by Larry Page and Sergey Brin, the co-founders of Google. You had two years to, you had two years to essentially accomplish two things. Do you remember what they were?
+
+1 (8m 20s):
+Yeah, I remember them very well. The first one was to drive a hundred thousand miles in autonomous mode. That was okay, you know, way more than orders of managing, more than, you know, what anybody has done at that time. And the second one, and you know, actually that one turned out to be more interesting and much more challenging was to drive 10 routes. Each one was about a hundred miles long. And, you know, they were, you know, very carefully selected, I think by, you know, by Larry and Sergey personally. And they were, you know, fairly devious in how they created them to make it interesting. And the goal was to drive each one from beginning to end in full autonomy.
+
+1 (9m 2s):
+So with no human intervention, which at that time, you know, seemed, you know, almost impossible. I remember we had a lot of people, you know, even experts in the field kind of, you know, laugh at us when we attempted it.
+
+0 (9m 15s):
+You had two years to accomplish this. I think you guys finished it with three months left. Like you actually, I mean, going into this project, do you remember thinking, we're never gonna do this in two years?
+
+1 (9m 26s):
+I was actually, you know, maybe naively, but fairly optimistic. Right, right. And it was hard. And they're all different and, you know, yes, there are many moments where we would, you know, finish one route and we would think ahead of like, what would it take to do the next one? And, you know, we would write some software, you know, we would, you know, collect some data and test it, and then we'd actually try it and have, then we would, you know, hit a bunch of oh crap moments of like, okay, wow, this is way more difficult than we expected in even those early days.
+
+0 (9m 60s):
+So, so when you did finally accomplish it, did you, were you guys able to have a party and celebrate, or was it just like, nice job, now we gotta we gotta keep it quiet?
+
+1 (10m 10s):
+Yes, both. We celebrated and, you know, it felt like it was a big accomplishment. And, but yeah, we kept it quiet. But you, you know, like, that's what made it so incredibly fun. I goes, you know, that, that phase was, you know, one of my favorite, you know, phases of the whole project. It's like you, the early days of a startup, you're up against what might seem like an impossible goal, but it's very clearly defined, right? You have a very clear milestone, a very clear goal. You are singularly focused on it. You have a small team, you know, everybody's working around the clock 24 7 and you know, sprinting together.
+
+1 (10m 49s):
+And every day and every hour you are like, you're prototyping, right? You're learning. So you can move incredibly fast. And like every day of every hour you're making amazing progress and you're learning new things. So that was, you know, was a, that was a total, that was a blast.
+
+0 (11m 2s):
+And every day probably presented a new series of challenges. Do you remember what was one of the hardest challenges that you had to figure out? Like something that just took longer than you thought that you just, it just didn't, it wasn't coming together quickly on working on, on trying to make this happen. Do you, do you remember something you worked on that you just, it was like such a hard problem to solve?
+
+1 (11m 25s):
+There's one, I mean, we had, we had, we had a number. Some were more fundamentally challenging. Some were kind of even comical setbacks where, you know, you would do, I remember 1, 1, 1 of the routes was driving on all of the freeways and crossing all the bridges in the Bay area. And you know, it's about a hundred miles. And you go through all of the challenges and you know, we're, we're tempting this, this drive and you know, the car is doing a good job, you know, it's handling merges and, you know,
+
+0 (11m 54s):
+Construc and you were, you or somebody else was sitting in the driver's in behind the wheel just in case.
+
+1 (11m 58s):
+That's right. That's exactly right. Yeah, that's exactly right. And that was kinda what, what, what made those early days a lot of fun is that you would, if you do everything right, you would be, you know, putting some hardware in the car, you would be calibrating the hardware. Then, you know, the next hour you're writing some software, you know, whether it's tools or something for the car to actually make decisions. And then, you know, you get in the car and you, you, you, you give it a try. So anyways, on this route, we are driving along, is doing a job. We get almost to the very end, right? So at this point you are, you know, holding your breath. You are, you are waiting for, you know, the last, you know, mile or so of that, you know, a hundred mile. And the way that particular run was supposed to finish is that we're coming down the Golden Gate bridge, you know, into the city.
+
+1 (12m 42s):
+And there's a set of tall booth at the, you know, when you go through the bridge
+
+0 (12m 46s):
+Yes. As you, as you go into the city that's right at the end of the Golden Gate bridge. And they're, they're narrow. 'cause I go use them almost every day.
+
+1 (12m 54s):
+That's exactly right. And you know, the one that our car wanted to go through was closed at the time, and it's just not something that we ever encountered and we thought about and Oh,
+
+0 (13m 6s):
+Right. 'cause it didn't, it couldn't figure out like the x the red X or the, the air, the green arrow. Like it didn't, it couldn't recognize what those meant.
+
+1 (13m 13s):
+That that's right. There was actually a gate, so, you know, would, would stop, but it was like, it would not change lanes and pick a different one. Like, oh, you know, my god, you know, now back to square one
+
+0 (13m 21s):
+Because probably every, you know, this impossible to imagine every eventuality, but something's gonna come up.
+
+1 (13m 28s):
+That's exactly, that's exactly right. And, you know, we had to deal with, you know, high speed traffic on freeways. You know, we had one route that went and kind of took this windy road from, you know, the area to highway one, you know, through the mountains. And, you know, we were driving along and then a bicycle fell off the truck in front of us. So, you know, that's not something that, that time the car could deal with. We had another route that went through downtown San Francisco and, you know, famous Lombard Street that's very narrow, very windy, and has, you know, some of the most adventurous, you know, pedestrians and tourists in the world. Yeah. So, you know, challenges like that, like, right. So that, that's what made it so challenging and so interesting that it was the kind of the breadth of the experience.
+
+0 (14m 13s):
+And probably every single ride posed a new series of challenges. Like I I like for example, you know, some lanes are shoulder lanes, but then during heavy traffic that are open for driving, but the lines are painted on them in such a way that it doesn't seem like a lane, like a human could figure that out. But an autonomous vehicle probably at that time was like, wait, this doesn't make sense. The the lines don't make sense. They don't align. Maybe the car was confused.
+
+1 (14m 38s):
+That's right. That's right. And that would be, you know, not the kind of situation or condition that at that time we would, you know, we were able to solve robustly. Right? Yeah. It was, you know, the goal there was to learn and do, like, we had to do the route once, right? So if you fail at something, you would go, you know, improve the system and you would try it again. So there was, you know, a very well scoped milestone because you, it a hundred miles is nothing if you want to build a production system, right? But it, and those early days, it was long enough that it actually forces you to very deeply think and tackle in some of the most fundamental, most important, you know, challenges that exist.
+
+0 (15m 19s):
+We're gonna take a quick break, but when we come back more from Dmitri Dolgov on how the engineers at Waymo decided to go after the big win and create a fully autonomous vehicle, stay with us. I'm Guy Raz and you're listening to How I Built This Lab
+
+Oracle (15m 37s):
+AI might be the most important new computer technology ever. It's storming every industry and literally billions of dollars are being invested. So buckle up. The problem is that AI needs a lot of speed and processing power. So how do you compete without costs spiraling out of control? It's time to upgrade to the next generation of the cloud. Oracle Cloud infrastructure, or O-C-I-O-C-I is a single platform for all your infrastructure, database, application development, and AI needs. OCI has four to eight times the bandwidth of other clouds offers one consistent price instead of variable regional pricing. And of course, nobody does data better than Oracle. So now you can train your AI models at twice the speed and less than half the cost of other clouds. If you wanna do more and spend less like Uber eight by eight and Databricks Mosaic, take a free test drive of OCI at oracle.com/built. That's oracle.com/built oracle.com/built.
+
+Trustonomy (16m 48s):
+This episode is supported by truston, an original podcast from One Trust. Every good relationship you have, personal or business involves trust. Sharing a secret with a friend, using an app, or getting a vehicle. In each of those scenarios, you're trusting that you and your information are gonna be safe and protected. But we all know that doesn't always happen. We've all lost trust in a friend, a brand, or a product. Trust Automate is a new podcast that looks at true stories from the past to understand how trust works, what makes it stronger, and how to rebuild it when it's broken. Search for Truston in your podcast player. My thanks to OneTrust for their support.
+
+3 (17m 32s):
+Hey, Guy, Raz and HIBT listeners. My name is Richard Crowdy and my favorite episode as a business professor is the founding of BET because it summarizes business school's perfectly and keeping revenues up and keeping costs down. It also shows that a complex company, like a media company, can be founded by an individual that bootstraps it with the proper type of innovation. Bob Johnson is also a legend and he is hilarious. I've actually been listening to my top 15 to try to come up with a list for my business students. So thank you Guy Raz, and cheers.
+
+0 (17m 60s):
+If you wanna share your favorite episode of How I, Built This record a short voice memo on your phone telling us your name, where you're from, your favorite episode is, and why a lot like the voice memo you just heard. And email it to us at HIBT at id dot Wondery dot com and we'll share your favorites right here in the ad breaks in future episodes. And thanks so much. We love you guys. You are the best. And now back to the show. Welcome back to How I Built This Lab. I'm Guy Raz. My guest today is Dmitri Dolgov, the Co CEO of the Autonomous Vehicle Company.
+
+0 (18m 40s):
+Waymo, I guess in those early days the, the Google strategy was really on creating driver assist technologies, not necessarily fully autonomous cars, but cars that could make it easier for drivers to navigate basically what you've got in, you know, in like a Tesla now or some other cars that have driver assist technologies. But I guess around 2013 there was a conscious decision to pivot the focus 'cause most of your testing was done on freeways. That's
+
+1 (19m 11s):
+Right.
+
+0 (19m 11s):
+But what I think you guys and most people involved in this space realize is that to really create complexity, you've gotta test these in cities. They've gotta navigate city centers and stoplights and left turns at intersections. And so what happened in 2013 to kind of get you guys to focus, to shift your focus on building a fully autonomous vehicle instead of just driver assist technology? Right.
+
+1 (19m 37s):
+I would say there, you know, a number of things, you know, as you mentioned the first phase was, you know, just learning and understanding the complexity of the problem. Then we said, let's try to build a product. And that was the driver assist system. You know, we tried it, that was actually reasonably successful. We had ran a pilot where we gave these cars to about, you know, a hundred Google employees and they could, you know, use them to commute and, you know, take them around on, on their daily trips. So that was, you know, around 2011, 2012. So then in, you know, 2013 we looked at the whole thing and we made this decision to go after full autonomy. So the reasons were, you know, several, one was what we learned from people using the driver as assist system.
+
+1 (20m 18s):
+They would overtrust it. Yeah. They, you know, would put on makeup and, you know, text and, you know, one guy actually fell asleep, you know, the car handled everything fine, but that, that is, you know, not what we wanted to see. Yeah. So that was you. One of the reasons, another one was that, you know, we actually made progress on the core, you know, most difficult aspects of this driving task in on surface streets. So that, you know, gave us a bit more optimism of, you know, going after like the, the big prize. And this also at the same time the field was moving forward, right? And so if we wanted to really make an impact in, you know, make, you know, improve transportation, you know, globally, we thought okay, you know, the, the field, you know, driver systems, you know, we'll develop their, you know, other companies, you know, we'll be, you know, pushing in that direction, but let's play to our strength, right?
+
+1 (21m 5s):
+Yeah. And let's go after the kind of uncompromising, you know, big win and, you know, big unlock in the space, which is full autonomy and actually building, you know, what we now call the Waymo driver that's responsible. Yeah. For the whole task of driving beginning end to end with, you know, no human behind the wheel.
+
+0 (21m 23s):
+What do, what do you remember about the conversations and the ambitions? Was it like, hey, you know, let's build the technology for fully autonomous vehicles that we can then maybe one day license? Or was it no, let's basically become a car company. Let's like make fully autonomous technology and purpose-built vehicles and, you know, and eventually sell these to consumers that they can have for themselves. WW was it one of either of those ambitions discussed?
+
+1 (21m 55s):
+I don't think we ever seriously entertained building a car. Like did, did just never made sense. You know, to me, you or others to, you know, do that. Like we're not a car company building cars hard. Yeah, right. There's many companies that, you know, spend a hundred years getting very, very good at it. You know, we did in the early days have design a low speed vehicle, you know, that we called the Firefly because we needed to take that, you know, first that was our zero to one moment of full autonomy.
+
+0 (22m 23s):
+It was a prototype, it was exactly right that you showed, you showed publicly should display it in 2014. But that wasn't the goal. It wasn't That's right. We're not gonna build cars. It was, but we're gonna build the technology that can power any car to become autonomous.
+
+1 (22m 36s):
+That's exactly right. That's exactly right. And that's, you know, it was the evolution of the thinking then, then, then crystallized in, you know, the Waymo mission, which is you to build the Waymo driver and then, you know, over time deploy it in different products and you know, different commercial applications, you know, whether Right. Healing trucking deliveries and eventually, you know, personally owned vehicles. And that, that's the, that's the path that we, you know, set for ourselves and the path that we've been on since that, that pivot in 2013.
+
+0 (23m 8s):
+Now, in some ways, the real work begins because between 2013 and let's say 2023, right, which we're gonna get to, 'cause it's incredibly exciting what is going on now in San Francisco and Phoenix and, you know, a couple other places. But that 10 year period, it probably all of a sudden you're back to kind of startup mode because you've gotta get these cars, this technology to be absolutely foolproof. Perfect. But in complex environments like San Francisco, which I think is next to New York, is one of the most complex driving environments in the United States.
+
+0 (23m 50s):
+Tell me a little bit about the process that then began. Was, is that what happened? Was it a shift to like, okay, let's see what these can do in cities?
+
+1 (23m 59s):
+That's exactly right. You know, we didn't start with the full complexity of San Francisco in those early days. So we can kind of think of, you know, that 10 years as maybe three phases and kind of that correspond to three generations of our technology, that three generations of the, you know, of the, of our driver, you know, that first one was on that low speed vehicle, you know, that the, the firefly and that's what we call the third generation of our driver. And
+
+0 (24m 27s):
+By the way, just to clarify, the Firefly probably was designed to be like a campus type of vehicle, right? Like in a university or an office park? Not necessarily in the city. That's exactly
+
+1 (24m 38s):
+Right. Am I right? I mean, it was a low speed vehicle at you can only move up to 25 miles an hour. So we're thinking, you know, maybe large retirement communities or campuses a you know, like a shuttle. That's exactly
+
+0 (24m 49s):
+Right. That would just, you would get off and on. Yeah, that's
+
+1 (24m 50s):
+Exactly right. And in that first phase and that third generation of our driver, the goal was to actually build something that can take, you know, a fully autonomous trip. Right. And we actually did that in 2015. And, you know, we put a, a friend of our project, his name was, is Steve Mann happens to be blind. And in 2015 he took the first autonomous ride in Austin, Texas.
+
+0 (25m 15s):
+He was the first person, the first public person that outside of Google That's right. To take a ride. I remember this, this is in, because this is a YouTube video of it. And, and yeah, it was in Austin. And yeah, I mean that was kind of a big deal.
+
+1 (25m 31s):
+Yeah, it was. So it was a huge moment when we're able to do this first ride in 2015. It was a, you know, a a a big celebration after that.
+
+0 (25m 39s):
+Yeah, I can imagine. Okay. So at that point, you and your team had built this, this third generation version of the Waymo driver that could actually take a fully Autonomous trip, which is, is a big deal. And you were essentially betting that this vehicle would keep passengers safe on a real, on real city streets, right? Like what, what went into the safety design?
+
+1 (26m 3s):
+That's right. That's right. It was also that early phase is what kind of forced us to start thinking about this very fundamental question. Like of what does it mean for a self-driving fully autonomous vehicle to be ready? I convinced it out on this path in 2013, right? I said, okay, you know, we're gonna, you know, we are gonna need a car. It needs to have, you know, a bunch of safety systems. Does that exist? No. Okay, well let's design one and work, you know, with partners to manufacture it. So we put a lot of thought and work into making it safe. It had like a foam, you know, front it had a plexiglass window, the sensor codes, you know, were attached with magnets so they, you know, could detach if something were to happen.
+
+1 (26m 44s):
+And then we, the sensors at that time and didn't have the level of reliability or capability that we would need that we would trust, you know, to go to full autonomy. So we build, you know, at that generation had our own lighters and, you know, custom sensor suite, and then of course the software that we had to build like that, that none of that existed.
+
+0 (27m 5s):
+So let's, let's talk about the technology for a moment, because you mentioned lidar and radar and, and some of these things we, we know what they are. Lidar for example, uses basically light lasers to measure distance, and you've got radar technology cameras all over, all over the car. Can you just kind of break down how they work? I mean, a lot of people who drive Teslas, for example, I have one, they, if we, if you use the what, what, what Tesla calls full self-driving, which is not really full self-driving, but they rely primarily on cameras. They don't use lidar or radar technology. Tesla argues that that is, the other ones are just redundancies that are unnecessary.
+
+0 (27m 49s):
+Tell me how your technology works and, and why you think it's better. Well,
+
+1 (27m 53s):
+These sensors are, they kind of have fundamentally different and complimentary physical properties, right? You know, so cameras give you, you know, the high resolution and you know, the richness of color that
+
+0 (28m 11s):
+And how many cameras, by the way, on a Waymo vehicle. Now on
+
+1 (28m 14s):
+The current generation, we have kind of all of them, including internals. We have 29
+
+0 (28m 19s):
+Cameras. 29 cameras, okay.
+
+1 (28m 20s):
+Yeah. And, you know, but they're passive sensors, right? Because you know, somebody else has to bring the light, whether it's your headlights or the sun radars and lidars and contrast our active sensors. So, you know, they blast, you know, their own energy on the wall and then they, you know, get returns and from that they can make sense of the environment and they use, you know, different wavelengths so they like can kind of punch through fog or rain much better than yeah. A LIDAR or camera, right? So you can as a, you know, a human driver, sure you can, you know, really tell how difficult they drive due to drive at night, right? For example, at night, if you have, you know, somebody yeah. You know, an oncoming car with their headlights on, you know, high beams, it kind of blinds you, right?
+
+1 (29m 1s):
+It's very hard to see. Yeah. It doesn't affect, you know, radar or lighter or similarly, you know, driving in, you know, dense rain or fog. So this is why, you know, we think kind of using all of the sensors and you fussing them in our, you know, AI and ML models, you know, so that you can kind of extract the best signal and see the world in the best possible way gives us an advantage. And, you know, really you can build, you know, a prototype or can, you know, build a driver system, you know, without needing all of that, you know, extra capability, extra redundancy. But if you really wanna take the driver out and go for full autonomy, you know, it, it gives you a boost.
+
+0 (29m 38s):
+Alright. So, so just to to to clarify like ba basically you have the first successful ride with a third generation vehicle in 2015, and then in 2016 you way much it spins out of Google as, as an independent company. And then the next year you become the first company to start like regularly operating these, these avs in Chandler, Arizona. These are even more advanced than the previous version. What was was the idea of like, Hey, let's get these in really good shape and then, you know, we'll, we'll turn them into like, like Ubers.
+
+1 (30m 16s):
+That's right. That's right. That, you know, at that point we were, you know, pretty clear that that was going to be our first deployment, our first product. And that, that's actually, that's what we launched in Chandler. You know, that that's when we created the Waymo one product and the, the Waymo one application. And in 2018 in Chandler, we started offering the service to external writers. And then in 2020 in Chandler, Arizona, we launched, you know, the first fully autonomous right healing service that was open to the public. You know, just anybody could just download the app and call a car that was our fourth generation, you know, Pacifica minivan, the empty car would go show up and take anywhere. So then we made this, you know, decision that it was not the best path forward to kind of incrementally grow and scale that system.
+
+1 (31m 4s):
+I made the decision to make a hop to what we call the fifth generation of our driver that's in the JLRI pieces, pacificas and a whole new this, the,
+
+0 (31m 12s):
+The Jaguar.
+
+1 (31m 13s):
+That's right. That's right, that's right. And, you know, we said, Hey, you, let's, let's take a big step. It's gonna be, you know, a different car. It's gonna be a new generation of hardware, it's gonna be very different software with, you know, big betts on any state-of-the-art ai, and okay, let's go after the full complexity of the problem, including the full density of downtown Phoenix and downtown San Francisco. So that's what we were working on, you know, in that timeframe to then on that new generation of our, the Waymo driver to launch the Waymo one service.
+
+0 (31m 43s):
+We're gonna take a quick break, but when we come back, how Waymo Juan works today and Dmitri's take on the future of autonomous vehicles. Stay with us. I'm Guy Raz and you're listening to How I Built This Lab.
+
+Vital Farms (31m 58s):
+This episode is brought to you by Vital Farms. No matter how you like your eggs scrambled over easy or sunny side up, the people at Vital Farms believe in one thing, keeping it bull free. That's why their pasture raised eggs come from hens who each have over 108 square feet of space to Rome and forage all year round so you can spend less time questioning your food and more time enjoying it. I love Vital Farms eggs. I buy them every time I'm at Whole Foods or at another store. And it also gives me peace of mind knowing that the hens are treated ethically. Look for the Black Vital Farms carton in your grocery store and learn more@vitalfarms.com. Vital Farms, keeping it bull free.
+
+0 (32m 51s):
+Welcome back to How I Built This Lab. I'm Guy Raz, my guest is Dmitri Dolgov, the Co CEO of the Autonomous Vehicle Company, Waymo, which has started to roll out Waymo one, its autonomous ride hailing service in San Francisco. The city gave you permission to to be a ride hailing service for 24 hours a day. And I, I've, I've used them probably a dozen times now. They're Jaguar SUVs, all Electric, and they driving around the city and you just order it like an Uber. You just go out and you, you know, go on your app and it comes, and then you unlock the door with your, your phone and you get in and you hit start and it goes.
+
+0 (33m 34s):
+And I, I can, I can, I can't even tell you how many times the first question I get from people is, aren't you scared? Aren't you terrified when you get in one of these things? And so I have my answer. So what's your answer when people say that to you? Like, this just seems terrifying for a machine to drive you around a city. Like it seems so scary, like it could, you know, it could just go haywire and and, and drive off a bridge or something. What do you, what do you say to people when they ask you that?
+
+1 (34m 6s):
+Oh, you know, I, I, at this point I think I'm much more anxious about human drivers than I am about the Waymo driver. So I have, you know, full confidence. But of course, you know, I've been in those cars, you know, many, many times, you know, hundreds, thousands times over the years. But what we see with other people, like, it's very natural to have that anxiety. It's a very different, very new system and new product, but we, what we very consistently see, and I, I guess I would love if to hear if that matches your experience, but once people get in the car, just, you know, after a couple of minutes they get very comfortable and they go back to, you know, doing whatever they wanna be doing, like, you know, on phone.
+
+1 (34m 50s):
+Yeah, exactly. I know,
+
+0 (34m 51s):
+I know. I went, I took my son in it and drove across San Francisco and yeah, within like 30 seconds or 45 seconds the first time ever he is in there, he's like back looking at his phone and it's true. It, it's, you get in it and then it goes, and it's really cool. You're looking out, looking at the steering wheel turn for the first 45 seconds and then you're done. And then you're just like going back to what you were doing, answering emails or whatever. But it is, it is amazing that it, you know, how sort of bizarrely ordinary it feels after you after a couple seconds.
+
+1 (35m 27s):
+Yeah, but this that's great. Yeah. Right? I mean that, that's, that, that's incredibly exciting. And I think, you know, some people kind of draw this parallel that you kind of, your brain switches to passenger mode. Yeah. And yeah, you do get all of these benefits of, you know, Privacy, whether you wanna have a conversation with somebody in the car that you're in the car with or you wanna make a, you know, phone call and I mean, yeah, that's exactly, you know, why we are, why we're so excited about this product.
+
+0 (35m 55s):
+Alright, so Dmitri in general, right? It, I'm, I'm optimistic when it comes to technology, but I have to also admit that it healthy skepticism is important, right? I mean, we've been promised technologies that are gonna make our lives better and change the world only to be, you know, sorely disappointed by them. I think it's really amazing what's, what's happening with autonomous vehicles. But I, I, I guess I wonder, you know, do you understand some of the cause for concern or some of the skepticism around it?
+
+1 (36m 30s):
+Yes, I think it's very natural that it's very mutual new technology. It's, you know, very different. So I think if you look back in history, it's very common that when a new thing comes around, there is skepticism. Yep. There are lots of questions. There is, you know, excitement, but there's also, you know, a lot of sensitivity.
+
+0 (36m 56s):
+But I wonder, I mean, you know, it's one thing to, to say, Hey, you know, don't worry this is gonna be okay, but how can you guarantee or convince people that the technology couldn't be misused, couldn't be, you know, manipulated in a way that endangers human life?
+
+1 (37m 16s):
+Well, I guess, you know, the, we should start, I would start with the status quo, right? We are not okay. Right. If you look at just how many lives are lost to the transportation system that we have today. Yeah. I'm sure you've, you've heard these numbers before, but you know, well known that in the US alone, more than 40,000 people die every year. I just need to take a step back. This is, it's kind of insane. Yeah, right. Imagine, you know, if we were to invent cars today or transportation system, like no way we would allow this. Right? And I think we over time, which just kind of slowly boiled ourselves society to, you know, accept that.
+
+1 (37m 58s):
+Right. And I think as a first order impact of this technology, you know, we can, we can do better. We can do much better. And we are, you know, we are seeing that today we have driven, you know, well north of 5 million fully Autonomous miles today. Yeah. And we've shared some data from the safety impact that our cars have. And I think at this point we have a fairly robust body of evidence that shows that, you know, our cars actually have very clear safety benefits where they operate.
+
+0 (38m 30s):
+How do we think about, and there's no easy answer right now 'cause it's all both an ethical and a legal question. But how do we think about liability, right? I mean, if, let's say I own a car that is fully autonomous with Waymo's technology, let's say in 10 years from now and I'm in the back and I'm just doing my work or I'm asleep, you know, which I iactually I'd rather be doing, and I, I just go to sleep and let it drive me from San Francisco to la which would be great, but it gets in an accident just a very, a fluke accident. Maybe another car hits it or something. How do we account for liability? I mean, who's responsible?
+
+0 (39m 10s):
+Is the owner of the car? Is Waymo's technology? Like how is that gonna work
+
+1 (39m 15s):
+For the actions of, you know, the Waymo driver? Yeah. The responsibility, you know, lies, you know, with Waymo, if it was, you know, the fault of another actor, another driver, then you kind of follow the established, you know, processes that are, you know, well understood and well studied by, for example, insurance companies that that's, you know, they have, you know, decades of experience of kind of evaluating exactly that, right? You know, that, that question, and this is where, and that study that Swiss has done was very encouraging that when they looked at, you know, almost four millimeter miles of, you know, our fully autonomous operation, they found that massive reduction in, you know, a hundred percent reduction in the, you know, bodily injury claims and, you know, four x reduction and property damage, right?
+
+1 (40m 5s):
+So that then you can apply, like you can marry the two and you're starting to see the benefits.
+
+0 (40m 11s):
+So if Waymo is, I mean basically if, if in in a future scenario somebody's in a Waymo car, the Waymo vehicle crashes and it's, there's a, some kind of fluke and Waymo is responsible. I mean, you guys have to accept that liability, but I guess in order to get to that position, you have to be rock solid confident that that will never happen.
+
+1 (40m 33s):
+Well that's what we, we spend, that's one of the hardest questions that we spend, you know, more than a decade working on. We have, we've developed very robust multifaceted readiness and safety framework. And actually that's something we shared publicly. And it's that what we see in all of those methodologies as we improve and validate our system, that at the end of the day is what gives us confidence in the performance of the system.
+
+0 (40m 60s):
+How many cars do you have on the streets of San Francisco now?
+
+1 (41m 3s):
+We have a fleet in San Francisco of about 250 vehicles. You know, they're not all out at the same time, but it gives you an approximate order of magnitude
+
+0 (41m 11s):
+And Phoenix
+
+1 (41m 13s):
+About the same, I wanna say about a couple hundred cars as well.
+
+0 (41m 17s):
+So here's a question. I mean is is the part of the business model right now for Waymo to become like a ride hailing service? Like, you know, I'm sure, I know you've got a partnership that you announced with Uber, but I mean, is the idea that, you know, in 10 years time this is gonna be the primary, your primary business or, or a part of what you do or gimme a sense of, of like, are, is Waymo going to be a ride hailing service or is it gonna be a technology company that licenses its technology to both ride hailing services and auto, you know, automobile manufacturers and, and others?
+
+1 (41m 55s):
+Well, we think of ourselves as, you know, building a generalizable Waymo driver and the business model is to deploy it in different product lines, different commercial applications. There's three main ones, right? Healing, that's what we call way more one. Yep. Then there's, you know, trucking and deliveries, moving goods. And then the third one is personally owned vehicles. So that's the long-term vision. Like we want, you know, the driver, there's trillions of miles being, you know, traveled. I think, you know, almost 3 trillion in the US alone, you know, much more in the across the world. So we want to have, you know, a positive impact on, you know, some meaningful fraction of all of those miles.
+
+1 (42m 36s):
+So, you know, the first business and the first product is Waymo one and you know Right. Hailing, but we're exploring, you know, different, you know, other different partnerships like you just mentioned that the Uber partnership that we just launched think where it
+
+0 (42m 50s):
+Is and, and that partnership by the way, is what is that gonna look like? It's gonna be, the Uber app will also hail Waymo cars. That's
+
+1 (42m 57s):
+Right. That's right. You can use the Uber app and get a fully Autonomous vehicle.
+
+0 (43m 4s):
+This is not a a, a money making operation for, for Waymo right now. I mean the, the ride hailing service is still in its infancy, but you know, there's been billions of dollars invested in, in into Waymo. And I have to imagine ride hailing is not where you're gonna make your money. It's gonna be from selling this technology. So what, tell me, just from the business perspective, when do you see a path to profitability?
+
+1 (43m 31s):
+Well, you know, challenge a little bit that, you know, right? Hailing is a massive opportunity. Yeah, it is, you know, a very big market today, but you, you know, there, it's, it's growing. There's expectations that it's gonna be significantly bigger by, you know, the end of the decade. But if, if on top of that, if you factor in, you know, the, you know, the benefits and the, you know, positive economics that full autonomous vehicles can bring to the table, it, there's potential for that to, you know, expand quite a bit. So, you know, we are very, you know, laser focused on, on that as our primary business line, you know, beyond that, you know, we want to pursue trucking and deliveries and then eventually personally owned vehicles, but Right.
+
+1 (44m 15s):
+Healing, like, let's, I would not dismiss that at all.
+
+0 (44m 19s):
+So probably unrealistic to say that within 10 years ordinary people could buy a fully autonomous vehicle for themselves, but probably not. Unrealistic to say that in 10 years from now in most major urban centers in the US there will be autonomous taxis available for anybody to use.
+
+1 (44m 39s):
+I definitely agree with the latter and I would not dismiss the former 10 years is a, you know, reasonably long time and, you know, things can happen non nearly.
+
+0 (44m 46s):
+So final question for you. So I mean, if the future is autonomous and I think it is, I think I really do, I'm convinced, I think anybody who uses one of these taxis will see it. It's, it's so clear, at least to me, you know, you go in it and it, it's a cleaning car. It's a very good driver, it's a defensive driver, but it's also not overly defensive. So it's not timid. It's like a very good, you know, taxi driver better. So that I think is, is the future. So Dmitri, I, I know that, you know, there are plenty of people who love driving, right? Who love the experience of controlling their car.
+
+0 (45m 27s):
+And those people will continue to want to have that ability and they will. But in your view is, are we looking at a future where most people are gonna be driven by their cars
+
+1 (45m 41s):
+In the long-term future? I think yes. I think that that's where, you know, we we're heading maybe, you know, taking your car in the future to a racetrack and driving it manually. That's gonna be the kind of the novel and, and a and an exciting thing rather than the mundane kind of boring task of driving, commuting. And if you imagine a future where, you know, a large fraction of your cars in the road are, you know, fully autonomous or at least smart enough, then you can start doing things where you are optimizing, you know, more globally. Like they can coordinate, you know, their speed. You can, you know, connect them to smarter and infrastructure and actually overall increase the throughput of your roads.
+
+1 (46m 25s):
+It could, you know, kind of increase the throughput of your transportation system. And you know, farther out in the future, if you look they're today personally owned vehicles are, can sit around for 90% of their, you know, their lifetime. Right. You know, you take 'em, you know, home or work and then you park it and then yeah, nine out of 10 hours is just sitting there. So if that changes, right? If you no longer have to have your, you know, car just sitting there for you, it just opens up. There's a lot more space that can be, you know, used in cities for other more interesting things.
+
+0 (46m 55s):
+Dmitri, thank you so much.
+
+1 (46m 57s):
+It was a pleasure. Thank you guy.
+
+0 (46m 59s):
+That's Dmitri Dolgov Co, CEO of Waymo. Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show. And as always, it's free. This episode was produced by Kerry Thompson, with editing by John Isabella and research help from Chris Maccini. Our music was composed by Rum Arablouei, our audio engineer was Neil Rauch, our production team at How I Built This includes Alex Chung, Carla Estevez, Casey Herman, Chris Maccini, Elaine Coates, JC Howard, Malia, AGA Neva Grant, Sam Paulson, and Catherine Cipher. I'm Guy Raz and you've been listening to How I Built This Lab.
+
+0 (47m 43s):
+If you like How I Built This, you can listen early and ad free Right now by joining Wondery Plus in the Wondery app or on Apple podcasts. Prime members can listen ad free on Amazon Music. Before you go, tell us about yourself by filling out a short survey at Wondery dot com slash survey.
+
+Capital One (48m 2s):
+Here's a little tip for your growing business. Get the new Venture X business card from Capital One and start earning Unlimited double miles on every purchase. That's one of the reasons Jennifer Garner has one for her business. That's right. Jennifer Garner is a business owner and the co-founder of Once Upon a Farm, providers of organic snacks and meals loved by little ones and their parents with Unlimited double miles. The more once upon a farm spends the more miles they earn. Plus the Venture X business card has no preset spending limit, so their purchasing power can adapt to meet their business needs. The card also gets their team access to over 1300 airport lounges. Just imagine where the Venture X business card from Capital One can take your business. Capital One, what's in your wallet, terms and conditions apply. Find out more@capitalone.com slash Venture X business.

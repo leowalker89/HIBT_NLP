@@ -1,0 +1,821 @@
+NPR Podcast (0s):
+What's happening with NPR podcasts, more shows, issues, ideas, stories, flavors, and personalities, and you can shake a stick. We whisper the more the world that you hear, the more you hear the world as it really is. So come experience more neighborhoods or identities or species, more perspectives, NPR, podcasts, more voices, all ears. Find NPR wherever you get your podcasts.
+
+Priceline (30s):
+Summer is finally here and let's face it. We all could use a break it's time to get out of the office or home office for a change of scenery. Priceline has great deals on your next trip. Priceline can save you up to 60% on your favorite hotels. Plus they offer exclusive deals on flights and rental cars. When you save more, you can do more. That means more beautiful views and more new experiences. So check out priceline.com for the easiest way to get more out of your next summer getaway,
+
+ButcherBox (1m 6s):
+Nothing goes better with the 4th of July weekend, then quality grilled time. Keep things sizzling all summer with a flash sale from butcher box. Now through July 4th, new members get two 10 ounce ribeye steaks in every order for a whole year free ButcherBox delivers high quality meat to your door packed, fresh shipped frozen. Choose from grassfed beef free range, organic chicken humanely raised pork and wild caught seafood all with no antibiotics or added hormones. Sign up now for ButcherBox is best deal to 10 ounce ribeye steaks for free in every order for a year, savor and save. It puts your box.com/wondery. Hurry. Sale ends July 4th. That's free rib-eyes for a year. When you sign up at butcherbox.com/wondery.
+
+1 (1m 53s):
+There are lots of people are saying who would want to watch other people play video games on the internet? I mean, how many times do people say that to you?
+
+3 (2m 2s):
+I mean, I used to get that question every interview then it usually what I would do actually is I'd ask them, well, first of all, they'll just tell me, what do you watch TV? Oh, well what do you watch? Oh, you like watching the NFL? You like watching football. Oh, interesting. Well, it turns out people who like video games through the same thing. Right? But the best news fundamentally is I don't need them to understand it because I got it. And the people watching God will streaming got it for the people who loved it. It was self-evident the instant. They saw it. Like they were like, oh, this is, yes, this is what I want. This is what I've been waiting for.
+
+1 (2m 42s):
+Welcome to how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Roz. And on the show today, how Emmett shear turned a 24 7 live of his best friend into a billion dollar gaming platform. Twitch. What if I told you, you could make money, a lot of money by taking fruit and arranging it like a flower bouquet. You might say, wait, doesn't edible arrangements already do that.
+
+1 (3m 25s):
+And the answer is yes, except back in the early 1990s, before edible arrangements was created, the founder Tariq Fareed would tell people about this idea. And most people thought it was ridiculous. I mean, who would want a bunch of shish kebab like fruit skewers delivered to their door? Well, it turns out a lot of people, edible arrangements would go on to become a half a billion dollar business. It took Tariq for Reed's foresight to see that opportunity. Now say I had another idea about 15 years ago around video games, my idea to create a website where you could watch other people play video games.
+
+1 (4m 7s):
+You might think that's a cool idea, but very few people at the time would have agreed. A wise investor might've asked who is going to spend hours watching other people play video games. Well, we know the rest of this story because today video gaming is a multi-billion dollar industry and watching other people play is a huge part of that. And Emmett shear, the co-founder of Twitch had the foresight to build a streaming platform for those fans. Last year, gamers and viewers spent 1 trillion minutes on Twitch. And today it's the biggest streaming video game platform in the world with over 30 million daily users.
+
+1 (4m 53s):
+But the idea for Twitch was at the time a gamble Emmett and his co-founders had already built a live stream website called Justin TV. And they were starting to turn it into a social media platform, but a small, tiny number of users happen to be gamers and Emmett believe that the future of the business depended on serving them. So in 2011, he started focusing the platform on gaming and change the name to Twitch. The bet paid off just three years later, Twitch was bought by Amazon for almost a billion dollars. And Emmett is still running the company. Now Twitch has had its share of controversy, but Emmett has always seen it as a community warts and all which we'll talk about.
+
+1 (5m 40s):
+Emmett grew up in Seattle and his best childhood friend was actually the person. He would eventually create a multimillion dollar business with Justin Kahn.
+
+3 (5m 52s):
+We, we actually grew up three blocks away from each other, like, like right now, almost next door, but I didn't know him until I was eight when I switched to evergreen elementary where, where he was already attending. And yeah, we met in second grade and became friends almost immediately.
+
+1 (6m 10s):
+That's amazing. Cause cause you would later go on to, to found a huge companies together and you were like met in second grade.
+
+3 (6m 18s):
+W we were, we were like, we, you know, reasonably close, like not, maybe not in second grade, but certainly by third, fourth, fifth grade, we'd be over at each other's houses pretty often. I think I went over to his house more often, the two brothers and more importantly, he had a, a video game system, which my parents would not buy for me.
+
+1 (6m 39s):
+What did he, what did he have?
+
+3 (6m 40s):
+I, if I recall correctly, it was a super Nintendo with when, when we were, you know, and then later other stuff. So his house was the superior house for hanging out because there was more, there was more video games.
+
+1 (6m 51s):
+Got it. Okay. So you guys went to the same elementary school into middle school, and then you went to different high schools and then you, you go off to college to Yale and he does too. You both go to the same university, your childhood friend, like your closest friend had mill elementary, middle school, and then you both ended up at Yale.
+
+3 (7m 9s):
+Yeah.
+
+1 (7m 10s):
+Was that just coincidental?
+
+3 (7m 12s):
+Totally coincidental, no planning there at all. I should, Justin had been planning to go to Wharton and, and kinda changed his mind at the last minute. And so that was real happenstance. And in college, I think, you know, surely reconnected with Justin in a deeper way. One of the really interesting things was I just, I found, I liked his dorm, just had a collection of people that I really connected with more deeply, more easily. And so I just wound up spending a ton of time with Justin, but also with all of his roommates, I was kind of an unofficial, you know, fifth member of the, of the room.
+
+1 (7m 47s):
+And when you got to college, did you, I know you studied computer science at Yale. Did you have a sense of what you thought you were going to do? Like did you figure, okay, you know, I'll get this degree, then I'll go work for tech company.
+
+3 (7m 59s):
+I actually purposely didn't take any computer science because I loved programming already. Like I enjoyed programming a lot as a hobby and I kind of didn't want to ruin it by making it a profession or a career. And then it got to be junior year and I spent freshman and sophomore year taking entirely electives, whatever I wanted. And I was like, I have nothing that resembles a major, what am I going to take? You know, another 11 courses in, in the next two years. And I was like, well, I know I'm good at programming. I know it's something I love. Maybe I'll try taking computer science. And I almost immediately was like, oh, well this, this is silly.
+
+3 (8m 39s):
+Like I'm not only am I do I, am I good at this? But like, I really, really enjoy the part. Like the work is fun. And so then I just took, you know, took 80% computer science for the next two years and finish the major.
+
+1 (8m 51s):
+And while you were an under undergraduate and you sort got in with Justin's kind of cohort, there was a guy named Matt Fon. And from, from what I understand at, at a certain point in college, he, he said to you and Justin, maybe others, Hey, we should start a business. Was, is that, is that what happened?
+
+3 (9m 11s):
+Yeah, Matt, that's a really good friend. He was on Justin's roommates freshman year. Matt is my most like finance oriented of my friends. And I don't mean that he's interested in money. I mean, like he looks at the entire world in terms of like what's under priced and what's overpriced and what should I be doing based on that today? And he looked around in college and he said specifically, not that we should start a company, but we have better access to intellectual capital today than we ever will in the future at a lower opportunity cost. And so we should take advantage of that, which means we should start a company.
+
+1 (9m 44s):
+I mean, he just any, I mean, did he have an, an idea of what you no. Wow. So when he was like a 20 year old at Yale, he was like, Hey, we're at Yale, we're surrounded by all these, like world-class professors. We have access to these amazing libraries and, and resources. And they're just part of our tuition. Let's use it and start a business. Yeah. Wow. I mean, just to think about that in this is like 2004, 2005, like that's, that's pretty, you know, pretty precious.
+
+3 (10m 13s):
+Oh, he absolutely. I mean, Matt is Matt always been a few years ahead of everyone else. I think.
+
+1 (10m 18s):
+And while you're at college hanging out with these guys, presumably you all played a lot of video games together. Oh
+
+3 (10m 23s):
+Yeah. A lot.
+
+1 (10m 25s):
+What, what was your game
+
+3 (10m 26s):
+During college? Mostly world of Warcraft, which came out my freshman year and is, you know, incredible game that I played for the duration of college and then had to get Justin when we were starting our company right after he graduated. He, he had a real talk conversation with me and I think it was very fair, which is ed. But I think you're going to have to choose the video game or the start-up, which, which, which is, which is at world of Warcraft for the startup. And I chose the startup and, and quit world of Warcraft, which I think we here, I think he was right.
+
+1 (10m 51s):
+All right. So Matt had this idea that you guys should, should start a company, why you're in college and what was the next step? It was like, okay, let's start a company. Yes. That sounds great. What should we, what should we do?
+
+3 (11m 2s):
+So Gmail had just come out, you know, summer fills in for, so like right before our senior year, I think we all looked at Gmail and we said, this is the future of like, software. Like everything's going to be like Gmail in the future. I think we could all just see that it's it's it was like, like having desktop software but better. And what we did was we're like, oh, well, Gmail is missing a calendar. Like, it should be like, outlook has a calendar. There should be a calendar that goes with a email client. And so we, we just started building it. Cause that seemed like the right thing to do. And I looked back at it and there are so many things wrong with the thought process we were going through there.
+
+3 (11m 42s):
+We didn't know who we were building it for. We didn't use calendars. We didn't talk to anyone who use the calendar. We, we really didn't have any idea what would make a good calendar. We weren't, we weren't heavy users. Yeah. And so there's a lot of reasons why I don't think we were going to be successful. But the thing we did that that was super important is we just kept grinding on it that we can, we have to working and trying things, even though it was clearly not working.
+
+1 (12m 9s):
+Okay. So you, so you, you saw in Gmail, this kind of new thing, you knew, you realize that this was going to be the next thing. And so a calendar integration would be cool. And just out of curiosity, was the idea that, that you all had, like, let's build this calendar and I think you guys called it Kiko, right?
+
+3 (12m 28s):
+That's right.
+
+1 (12m 29s):
+What did you think the problem people had was that you were solving
+
+3 (12m 34s):
+Their calendar isn't on the internet and it would be better if it was on the internet. I mean, the biggest thing that Google calendar does and that Calendly does is it lets you run collaborative joint calendars with anyone around the world without having to be on the same exchange server, the way that outlook requires. And that, that was the big one. Basically we built Google calendar roughly a year before Google calendar was released
+
+1 (12m 55s):
+And it was going to be a sort of a software company. But the idea was let's start with a calendar. Was the idea that you guys had, was it sort of like let's build it and then Google will buy it from us?
+
+3 (13m 6s):
+Oh no, not really. I don't think we were that sophisticated. It was more like we wanted to do a startup. We didn't really know what that meant or how to go about it. You, we saw this like missing piece of the universe. Like there is a, there is a mail application that runs on the internet. There should be a calendar application that runs on the internet. Let's go make that. And we just made our own separate calendar that worked like Gmail. And if you asked me what our, what was our long range plan, I actually think if I recall, we were going to sell advertising based on the better targeting data of knowing what events were open in your schedule, what times are open for you at night?
+
+3 (13m 48s):
+And you'd be able to opt in basically to like, oh like, are you interested in finding something for Friday night? Like click here, you know, to add it to, to, to search right from your calendar for cool events, you could go to which there's a bunch of reasons why that's a colossally terrible way to monetize a calendar, which I did not realize at the time, because I wasn't a calendar user, but I'm pretty sure that was our plan.
+
+1 (14m 13s):
+Got it. Okay. So while you were at, at building this and students at Yale and presumably like doing your coursework, you, you hear about this new thing called Y Combinator, which was headed up by Paul Graham and was one of the really kind of early influential incubators. And this is now of course, world famous. And you applied for, to be part of Y Combinator, I guess we shouldn't, they would give you a little bit of money and some support. And what was the, I mean, this was the product that you were, you were pitching them, this calendar product.
+
+3 (14m 49s):
+Yeah. I'd been a, I've been a Paul Graham. I don't know. It's like a Paul Graham fan boy through college. I'd been reading, reading his essays. I know I loved his writing when I heard like, oh man, he's doing a incubator. So this is perfect. This guy's really smart. He's had a successful startup before. And we had no idea how we would like how to raise money or like what we would do. We're going to start the company. And what that actually meant in terms of doing things was just other than makeup product and put it on the internet. We weren't really sure. And so it seemed like it was this, what a, what an amazing, positive, lucky coincidence that this thing exists now. So we applied, we applied with, with Kigo calendar, the thing we were building, the original YC was heavy on like show us a demo.
+
+3 (15m 35s):
+And the interviews are now 10 minutes at the time you got 40 minutes per, per interview.
+
+1 (15m 40s):
+I don't remember about the interview. Was it w I mean, Paul Graham sort of is famous for asking like, well, what's your monetization strategy and, you know, and, and how, but he also has an incredible instinct, obviously. Right. Were you getting hard questions or, or did they seem encouraging?
+
+3 (15m 58s):
+The YC interview always goes kind of the same. It's funny, even then you had more time, but it's always the same thing, which is what is it you do again? Oh, how are you going to get customers? Could this be PA? Yeah. Yeah. How are you gonna make money? Like how, how will this make money eventually? And they're not looking to see that you have the right answer because there is no right answer. And I think one thing YC really deeply knows is that it's going to change. But do you, do you, have you thought about this? Do you, do you have an answer? Does your answer make sense, at least in theory. And, and then how do you respond to being challenged? I think what YC is looking for is people who can communicate clearly. But most of all, people who, when they're challenged, they neither rebel nor acquiesce.
+
+3 (16m 41s):
+I think that's, that's one of the most important traits in startup founders actually. Hm.
+
+1 (16m 44s):
+And you guys actually get accepted to this program. You get into, into Y Combinator, which I guess was in Cambridge, Massachusetts at the time. And so you and Justin are working on this thing. And, and I guess w at the end of your time there were, were you able to get some real investment?
+
+3 (17m 3s):
+Yeah. We managed to convince two, two of Paul's friends had worked with him at Yahoo. We, we convinced them to invest in us and give us, I don't know, like a tote between the two of them. I think like a hundred thousand dollars, which was enough to keep running the business for a year effectively.
+
+1 (17m 18s):
+So, as you were working on Kiko calendar, at what point did you have, like something you could actually launch and put out into the world because you started in, in 2005 or 2004, when, when was it ready for people to test it out and try it?
+
+3 (17m 33s):
+We started working on it during college, sort of at the, you know, early part of 2005. We didn't really start working until we graduated. And like, you know, had, could do it full time. We probably launched it three or four months later, something like that.
+
+1 (17m 46s):
+And how did you make people aware of it in the S in sort of the fall of 2005? I mean, most people are still on dial up at that point.
+
+3 (17m 55s):
+We got a, we got coverage on tech crunch. We got like, that was, which was the, which was sort of getting started on that time and was basically known for doing start-up coverage. We'd try to get other press sometimes, but honestly, that's a really good question that we would, we would've, it would've been, the answer is mostly, we didn't mostly, we didn't get very many users. I think in the year and a half we used it. We had 90,000 people sign up for an account, which, you know, isn't tiny, but over a year and a half on the internet, it's actually not that many. And most of them didn't obviously didn't keep using it. And I think we had some good core instincts on how to design a calendar that worked the problem was we didn't have any instincts about finding an actual customer who might want it.
+
+3 (18m 39s):
+Yeah.
+
+1 (18m 40s):
+Yeah. You didn't, you, you didn't fully understand like the user acquisition side. Right. Cause that's, I mean, building it's hard, but getting people to adopt and use it is arguably harder.
+
+3 (18m 51s):
+I would say even, yes, we kind of imagined what we thought people whose calendars were like, and then tried to solve that imaginary person's problem. But at no point, did we go talk to actual calendar users, but fundamentally we were completely right. Gmail should have a calendar. Well, it turns out Google built the, did the falling off a log obvious thing and created Google calendar. Of course they were going to create Google calendar. Right?
+
+1 (19m 15s):
+At what point did you come to the conclusion that you ingest and come to the conclusion that it was not viable? This was not going to, this was not going to become a sustainable business.
+
+3 (19m 25s):
+About two months after Google calendar came out, we finally admitted to ourselves. We have no ideas for how to make our calendar better than Google calendar. Right. And Google has a massive, massive engineering, distribution resource, everything brand advantage over us. And we, we don't even have any ideas for how to make our thing better and we're way behind. And we should give up and we had to, we were faced them with like, well, okay, what do we do with it?
+
+1 (19m 53s):
+Yeah. I mean, cause you worked hard on it. I mean, you could just kill it. You could presumably look for maybe somebody to buy it, but maybe nobody was going to buy it. So did you kind of start to go down that road?
+
+3 (20m 6s):
+Yeah, we are. Our thought process was, well, we don't want to do this anymore. We've built this thing. And like the code's fine. Like it it's, it works. It is a calendar, it's a web calendar that exists. Someone must want this, where could we sell our startup? And we decided, well, the obvious place to sell it would be on, on eBay because eBay is famous for hosting, you know, selling weird stuff at the time still today, I guess it is. And so we created an eBay auction to sell our startup. We just, we just made a listing that said, you know, for sale Kiko calendar, asset sale, all of the assets of the startup, including the domain name, the logo, all the, you know, software, all the customer relationships, we will sell you the whole thing.
+
+3 (20m 51s):
+And two cows in Toronto bought
+
+1 (20m 54s):
+It as a Safra company.
+
+3 (20m 56s):
+Yeah. It's it's they want a domain registrar. Okay.
+
+0 (20m 59s):
+So this, this company was basically buying the domain name, the underlying software, you know, and, and, and, and the, you know, the, the code, everything and the domain name was kiko.com. Yep. Kiko.com.
+
+1 (21m 11s):
+How, how, how much did they pay you for it? Or would they buy it on eBay? For,
+
+3 (21m 15s):
+It was on eBay of, I believe $265,000 was the winning pitch. Wow. 13 bitters. And once you, it was an asset sale. So once you pay taxes on it, paid off the investors and, and you, you dividend it out all the money. Justin and I walked away each with, I think about 65 grand. Wow.
+
+1 (21m 33s):
+That's pretty great. Yeah.
+
+3 (21m 34s):
+It was pretty good. I felt like that, given that we take the, taken this huge risk and like started a startup, I felt great about that.
+
+1 (21m 41s):
+W are there other examples of this, of, of other tech startups selling their companies on eBay?
+
+3 (21m 46s):
+No, no one else, no one,
+
+1 (21m 47s):
+If you're selling old baseball cards or,
+
+3 (21m 50s):
+Yeah, totally. Which is why it was genius because it meant we got all this press coverage, which meant that everyone heard about it. Like the biggest part about selling an asset, like this is getting the buyers to hear it, if it's even happening. Right, right. Right. And so it was a very clever way to basically generate a bunch of publicity, which I think was a lesson that really, we took with us to Justin TV.
+
+1 (22m 8s):
+Yeah. All right. So it's, it's 2006. You've sold a Kiko for, then you guys each have about 65 grand. And did you both immediately know that you were going to together? Once again, start something new?
+
+3 (22m 25s):
+We didn't even talk about it. It was just assumed like, like, I, I can't remember. I don't remember a conversation. I don't think we were like, oh, should we start another startup together? It was like, what startup will we start together? What's next was the only question. Yeah. I think the other thing we did during Kiko, that's super important to remember is like every two or three weeks, we'd get, I dunno, board to spirited it, wasn't taking off and we'd have some other great idea. Like we had this idea, we're going to build a social network for families where we were going to build YouTube, but for audio and we would then go build and launch these products in like, we'd like to spend three weeks and we do a sprint and we just build this product from scratch and we'd launch it.
+
+3 (23m 8s):
+And then it wouldn't take off immediately. And we get the spirited. It would go back to working on Kiko calendar. And so we probably built six startups in 18 months. I think we had this mental model that the way you had success in startups is you have this great idea and you build it and then you launch it. And you're like, wow, this is amazing. And they just like, immediately, it starts working. That was our mental model for like what success looked like. And so we just, you know, we'll just take more shots. So we just, we took like six shots on goal on having something that would instantly take off. And of course that is not how it works and none of them worked. But through that process, we learned so much about how to build things, how people react when you launch something.
+
+3 (23m 52s):
+And it was this real, it was like grad school for, for building a software company.
+
+1 (23m 58s):
+Well, so, so after you guys sold Kiko, and by the way, at this point you graduated college. Right. And you're, I think you're still in the Boston area. W w were you still getting advice from Paul Graham?
+
+3 (24m 12s):
+Oh yeah. Paul was super encouraging. Paul superpower is you talk to him about what you're working on or what you might work on and you walk away feeling like you could, you're not only could you take over the world, but like you're onto something. And like, you're going to, like, this is, this is bigger than you think. And I really, really appreciated that. And so basically what happened was we, we were like, okay, Paul, we figured it out. We want to go do this company. And he's like, all right, hit me with the idea. And the idea we brought to him was we were going to make a service, let you print a blog or a, you know, a flicker website as a coffee table book, which was a terrible idea.
+
+3 (24m 53s):
+And he was like, that's not a good idea, basically. What, what else do you have? Maybe you have a second idea. That's better than that one. Right? Okay. Well, we do have this other idea. We'd had this idea. Basically our conversations are really interesting. People would love to listen to us talk, which I don't know if that was true, but we, we had the delusion, but we should just record all of our conversations and then upload them. Oh, well, that's, that's, that's too much work. We should just record all of our conversations and stream them live all the time. Cause we're not going to bother to cut them and upload them. Okay. Well, if we're just going to stream our audio live all the time, why don't we just like stream everything, audio and video live all the time. And we're like, sort of thought that was funny and then left it there. And then we started telling people like that was our startup idea.
+
+3 (25m 36s):
+And I remember Chuck format ended up at a YC, a little YC, like AF after Pappy hour thing told Justin, like you you're full of shit. You're never going to work on that. And I think, I honestly think in some ways that was the deciding moment where like, yeah, we will we'll show you. But Paul saw that this was bigger than we thought it was. It wasn't just us streaming. He was like, oh, you could let anyone do this. That could be a new form of entertainment. And we were like, yeah, totally. We could let anybody do this. And he's like, great. And we got a $50,000 check to go start our next thing.
+
+1 (26m 8s):
+So it was basically just on the strength of this idea that Paul Graham was like, get, I believe in you guys. And I want to put 50, $50,000 into this idea.
+
+3 (26m 20s):
+This is actually just how I would say a lot of angel investing in, in Silicon valley or in this case in Cambridge. But like tech angel investing works in the beginning. The investible asset is not the idea and it's not the execution and it's not the research or whatever the investible asset is the founders. Yeah. And you're much better off investing in a good, that has no idea what they're doing or they're with a bad idea than a bad team, with a good idea, or even a, even a okay team with a good idea. And Paul thought we were a good team, which I think in retrospect, he was right. We were a good team. And so on the strength of the team, we got, we got 50 grand to start. Our next thing,
+
+1 (27m 4s):
+When we come back in just a moment, how Emmett and Justin use that money to launch a livestream of Justin's life capturing every minute of his day, including sleeping and bathroom breaks and how that experiment eventually turns into Twitch, stay with us. I'm guy Ross. And you're listening to how I built this
+
+Audible (27m 32s):
+With my schedule. I don't have a ton of time to do the things I want to do like breathing, which is why I love audible. Audible offers an incredible selection of audio books across every genre from bestsellers and new releases to mysteries and thrillers business and more all audible members get access to a growing selection of audio books, audible, originals, and podcasts that are included with membership. This summer, I've been super busy between work and trying to spend time with my family. So it's been nice to catch up on some reading with audible. In fact, I just finished listening to barbarians at the gate, which was really good by the way, let audible help you discover new ways to laugh, be inspired or be entertained. New members can try it for free for 30 days, visit audible.com/built or text B U I L T 2 500, 500 that's audible.com/built or text built to 500, 500 to try audible free for 30 days. audible.com/built
+
+Scamfluencers (28m 41s):
+The world has had its share of con artists when lawyers and scammers and social media is just their latest megaphone scammed. Fluent SIRS is a podcast from Wondery that tells the shocking stories behind infamous influencers and the scans that define them. The latest season dives into the real estate scheme of Serina shy. When Serena arrived in the Coachella valley home to the famous music festival, she immediately fit in shy, was in town to fundraise for her dream project, a 350 room lifestyle resort. The kind of place where each room comes with complimentary Botox, but after raising a staggering amount of money, her investors grew weary with progress reports, featuring doctored photos of a construction site before long, they would learn. There was no construction site, no blueprints, no room service Botox listened to scam influencers on apple podcasts, Amazon music, or wherever you get your podcasts. You can listen one week early and add free by joining Wondery plus in the Wondery app.
+
+1 (29m 48s):
+Hey, welcome back to how I built this I'm guy Ross. So it's around 2006, 2007, and Justin and Emmett are kicking around an idea for their next business and idea that at the time seems kind of bizarre turning a camera on themselves and streaming it.
+
+3 (30m 7s):
+The first idea was just we should do a live stream Justin's life EVD oh modem cards, which were the very first generation of sort of on the go internet had just become available. So you could, you could get broadband video streaming, capable internet anywhere there was cell coverage, like literally six months before that. So it had just become tactically possible
+
+1 (30m 31s):
+And explain how this would work. Like he would wear a webcam or there would be a videographer following him around or, or what.
+
+3 (30m 43s):
+Yeah, well, we couldn't afford a videographer to follow them around 24, 7 that's expensive. So he's just going to have to wear the webcam and be the camera man also, which in retrospect, having someone be the camera man, and also the talent doesn't make any sense, but we couldn't afford to do it expensive. So that, that, that was the solution. Hmm.
+
+1 (31m 1s):
+But I think you, you, you were able to build out the team a little bit, right? Because I think around this time you brought on somebody new named Michael Seibel, who, who was a friend of Justin's
+
+3 (31m 12s):
+That's right. Justin reflected and noticed correctly that we kind of had a highly distractible way of engaging with our startup where we wouldn't stay on target. And we wouldn't, we would, we would jump at the new shiny thing we got, we got overly inspired too quickly. And he basically thought we needed adult supervision, not like an older person, but someone who would like be a little more reasonable and, and steady. And Michael's a very steady, calm, also very smart person. And Jess was like, I think we need Michael on the team. And retrospect, he was totally right. Michael was an incredible addition.
+
+1 (31m 51s):
+And I guess you guys decide to launch Justin TV, not in, in Boston, but, but to go to San Francisco to launch it.
+
+3 (31m 58s):
+Yeah. Because if you're going to start a tech company, San Francisco is like the place to do. I mean, it's still now, but especially then Silicon valley. And so we, we piled all of our stuff into my Honda civic, all of our worldly, possessions, me, Justin, Michael, and all of our stuff. And we drove across the country at like a Sprint's pace, took us four days from New York to San Francisco because we were convinced that like we taking two extra days to go, you know, stop along the way was too much time we need to get started right away. And in retrospect, that was crazy. Like of course we could have taken a data stop, but I think the sense of urgency was, was important.
+
+3 (32m 44s):
+Like it was w it was silly for us not to stop driving across the country. And if we'd been the kind of people who would've stopped driving across the country, maybe we wouldn't have succeeded because you kind of have to have this feeling like it's really important. And we got to go like we to go fast.
+
+1 (32m 57s):
+Yeah. So you, so when you arrive to San Francisco, I think you launched it in around March of 2007. Does that sound right? Yep. Okay. And the idea was, all right, we're going to 20, 24 hour live stream of this guy. Justin's life, this totally unknown person. And it wasn't that. And I'm trying to understand this cause, cause it wasn't that it was, Justin was like this sort of this exhibitionist, it was more like he was, he was the Guinea pig. That would essentially be the test case for what this could be is. Or, or is he an exhibitionist? I don't know.
+
+3 (33m 36s):
+Yeah. I'd say it's a little bit of both. Like I don't exhibitionist, isn't maybe the word I'd use. Justin's always wanted a little bit to be famous. There's a reason why he's, you know, runs a Snapchat channel and he has a YouTube channel now. Right. He has all these Twitter followers, like he's always wanting to be famous. And so I think it was both an opportunity for him to go become a little famous, you know, in a minor way. And also he, we were Guinea pigs for the system we wanted to build at the same time. So it was a good fit.
+
+1 (34m 0s):
+And it was his perspective, right? The camera was what would be mounted on his head, but also there'd be cameras inside the apartment.
+
+3 (34m 8s):
+Mostly. It was just from his perspective all the time. Right. And sometimes he'd take the camera off and pointed at himself while he was doing something. But it was his perspective. Most of the time walking around, actually one of the big things we discovered was almost immediately. People liked him taking off the camera and talking to them more than they liked almost anything he could be doing. If he was doing something really interesting, like he's taking a trapeze lesson or something, then the point of view camera could be interesting, but 98% of the time, you actually would rather have him just be sitting at the computer, talking to chat, which is in fact how everyone does it today, because that was actually just more compelling as content.
+
+1 (34m 47s):
+Was it? I mean, he would walk into a restaurant or, or a bar or a store or something. And, and I guess this people probably didn't know what was going on. Like, people didn't know that they were on this video stream. Right.
+
+3 (35m 4s):
+It's interesting. Right. It was a stunt. I think we learned something from the eBay experience, which was, if you do something that's a little bit provocative and crazy that people want to talk about, people will talk about you. Yeah. So there's, that definitely worked. When we were walking around San Francisco, people might not have understood that they were on a live stream, but they definitely understood there was a camera. It was novel. I think now everything, everyone, well, first of all, everyone's being recorded all the time. He has a smartphone. Yeah. But it's, there's a whole culture around it at the time. It was like, oh cool. Am I on camera? Like what's what are you we're filming. Well, what's going on?
+
+1 (35m 37s):
+What you doing? He slept,
+
+3 (35m 39s):
+We, we put the camera on a tripod and pointed it at him as he slept, watched Justin sleep. Yep.
+
+1 (35m 44s):
+What about when he took a, what about when took a shower?
+
+3 (35m 47s):
+24 7. Even in the bathroom, in the bathroom, we pointed it like the wall or like a shower curtain or something. But
+
+1 (35m 54s):
+You could hear here if you want P
+
+3 (35m 57s):
+You're here going pee. That's right. Wow. There was a whole thing. Once I made he neglected to wash his hands and there became this whole meme and chat of, then people making fun of him and reminding him to wash his hands every time he went to the bathroom from that point forward.
+
+1 (36m 9s):
+And what about, I mean, I hesitate to say this, cause this is like not, I, you know, I don't really go there and only, but what about like, cause you know, romantic life, I mean, w D did, was it just, how did he handle that?
+
+3 (36m 23s):
+He went on some dates. I mean, he was upfront with, you know, what he was doing. I don't think any of them went that well most of the time. Cause like, you know, it's, it's a awkward experience, but there was an incredible experience after you went on one of the dates where it just felt, felt like it went well and he was walking home and people start streaming out of the buildings. All of our friends lived here on there and they ever started streaming out of the building and coming up to him and congratulating him on having had a good date. And you S you, you watched the date and then you're watching that. And that was a really interesting, like that was a cool experience. Like there was a, you could see this like glimmer of something happening there that was kind of dynamic and interesting.
+
+1 (37m 3s):
+And I mean, people knew where, where you lived, like you were getting, people were sending like hundreds of pizzas to your door and like calling 9 1 1 and the police would show up. Cause they, they, there was a report of like a robbery or right. I mean, all kinds of things were happening in your apartment.
+
+3 (37m 20s):
+All the harassment that streamers deal with today, we got in spades cause we were the one, the one target. I had a gun pulled on me. There's a, they got a, they reported a stabbing in our apartment and the police came in weapons drawn. And you know, I had pistol pulled on me by the police. They, they pretty quickly realized, wait, this is a bunch of engineers like in their underwear programming, like this is not a stabbing, but that was a really scary moment. And you know, we had, we had the firetrucks called and even if the firetrucks had showed up, we would deal with it an off-camera. So that either wasn't a reward for the person doing it. And that it definitely over time cut down on the amount of harassment we experienced.
+
+1 (38m 5s):
+Did you having launch, I mean, when you launched justin.tv, did, did that attract investors? Were there investors who were like, Hey, this there's something here. Did you start to get interested in how,
+
+3 (38m 18s):
+But a hundred thousand people watched it in the first month and our CDN bells just started piling up CDNs, like for the content delivery network for the video. And yeah, we went up with just these huge bandwidth pills and we like were, we were like, oh crap, we have to raise money stat. So then we went out hat in hand trying to raise money and really struggled
+
+1 (38m 37s):
+Because they thought it was a gimmick. They just said were like, well, what is this? This is like, tabloidy. I mean, is that what the response was?
+
+3 (38m 43s):
+I think it was more like, how is this going to get 10 times bigger? Right? Like what's the pathway for this to get really big. But some number of investors believed we got, we raised, I think from about, from like five investors, we raised like maybe $350,000 total, which was enough to pair ban with bells for a little bit and keep us going. And once we launched to let anyone stream that started driving more growth for us.
+
+1 (39m 7s):
+But, but the first nine months, I think it was just Justin's life. Right in real time, maybe
+
+3 (39m 11s):
+For six, I think
+
+1 (39m 13s):
+Six months. I mean, it sounds really boring. I mean, 24 hours a day of anyone's life. I don't care if you're like, I don't know, like a Marvel superhero, like eat even parts of your day are going to be boring.
+
+3 (39m 27s):
+Every everyone sleeps like eight hours a day, roughly. Right? Like that's definitionally one third of the time. If you are the most interesting, possible human, you're still not interesting. No, no, no. This was a terrible idea. Like fundamentally terrible. A 24 7 live stream is a gimmick. It was a good gimmick. It got us a lot of attention. And then the other people who are streaming on Justin TV using the technology, didn't do 24 7 streams. They did, they did three hour streams of something. Interesting. Right. And I think Justin TV worked to some degree because our actual customer was the streamer. And because we were trying to build something that worked for us as a streamer, we built link actually worked because we deeply understood the needs of our customers because we were the customer.
+
+3 (40m 14s):
+Right. We discovered actually very early on, although we didn't, I don't think we fully realized that at the time people found community hanging out watching Justin. And I think that was the, that was a really big insight. And we did a lot of things, right. Leaning into that, making chat, good, making moderation. Good.
+
+1 (40m 35s):
+And how many people as you, as you made it available to anyone, did you, was there like a flood of people coming in,
+
+3 (40m 41s):
+You had a pretty long beta list. You know, a few hundred people signed up for the beta in the first month of the beta. We had probably 80 people streaming. And then as we opened it up, we had hundreds, thousands of people stream eventually tens of thousands.
+
+1 (40m 53s):
+And what were they streaming, but were people doing on it,
+
+3 (40m 56s):
+All kinds of stuff. One, once someone guided street art and streamed himself, like do you know, doing sidewalk art and stuff like that? I just seen how to show, we had talk shows. We had, we had some gaming, we did some of the very early gaming streams. We hooked up our X-Box and we streamed up ourselves playing call of duty.
+
+1 (41m 16s):
+And how, how, what were your biggest expenses at the time? I mean, I'm assuming you guys were not paying yourselves much, but still you had to pay for servers. And what else, what, what, what were your, what were your expenses
+
+3 (41m 31s):
+Rent? 500 bucks a month, each spending money and then infinite bandwidth bills forever that were constantly crushing us. It was so expensive. Those delivering the video was, was really expensive.
+
+1 (41m 44s):
+And, and so how did you finance it with just a few hundred thousand dollars?
+
+3 (41m 49s):
+We went and we raised, we raised more money. So about six months later, I can remember. I'm trying to remember exactly when we raised our series a, we raised $2 million and $2 million is enough for us to, you know, continue. We could hire some employees, we could continue paying our bandwidth bills. And then we were like running out of money again, at this point we'd grown quite a bit, which was great, except we weren't, we had still made no money. We had not turned on any monetization,
+
+1 (42m 19s):
+But how did you, as you start to acquire or as you started getting more, more, more users, you were not monetizing it, the idea had been, Hey, we'll eventually just have, have advertising around this.
+
+3 (42m 29s):
+Yeah. It's literally just like YouTube. The idea had been well, we'll sell ads eventually. And I think everyone else looks at us and they're like, you're going to get crushed by YouTube more or less what they thought.
+
+1 (42m 40s):
+Right. Cause YouTube, I mean, the idea was that YouTube would just become a live streaming platform and you could, that, that would be the end of Justin TV.
+
+3 (42m 47s):
+Right. And they did actually eventually launch a YouTube live like five years later, but it took them awhile. Right. And so then we, we raise, we raised, we raised an additional, I think $4 million, $6 million plus 2 million in venture debt, something like that.
+
+1 (43m 3s):
+Yeah.
+
+3 (43m 3s):
+And then the 2008 crash happened and thank God we raised that money when we did, because
+
+1 (43m 8s):
+He would have been in trouble.
+
+3 (43m 10s):
+We would have been dead.
+
+1 (43m 12s):
+Nobody was, nobody was giving money out. No, no one was, was you could not raise money after the financial crisis,
+
+3 (43m 18s):
+Especially not for a money losing business. That's whole, that's like, don't worry, we'll figure out monetization later. And so immediately after the crash we can, we're kind of like, oh man, we we've got to get profitable.
+
+1 (43m 30s):
+So, so what'd you do? How did you do that?
+
+3 (43m 33s):
+Well, the first thing we did was you just through Google ad words on the site, because that was the fastest way to get some money immediately. Right. We sold our, we made our mobile apps, cost money. It's funny like that. That sounds so ridiculous. Now, like of course the Twitch app is free, but we were just pulling every lever we could to try to make, make money.
+
+1 (43m 52s):
+Okay. So, so one of the ideas was, was a mobile app and mobile was new. I mean, 2008, 2009. This is like early, early days.
+
+3 (44m 1s):
+Yeah. We were, we were pretty early to making mobile apps. It was, that was another thing where it was very clear. Mobile was the future.
+
+1 (44m 7s):
+All right. So some money's coming in, but I, I have to assume it's not quite enough yet
+
+3 (44m 12s):
+Actually over the course of the year by relentlessly cutting every cost, we could cut putting, advertising everywhere. We could think to put an ad and charging money for the mobile apps and the, I can't remember. There's probably other lists of other things we did too, that I'm forgetting. Now we got to profitability. We had a doomsday clock on the wall where we S we had a weekly, all hands with the employees and every, every all hands were like, we are eight months from bankruptcy. We are seven months from bankruptcy. We are six months. And at first it was falling. It like, you know, we're at 14 and then the next month we'd be at 12. It was like accelerating because as we grew, it was costing more money every month. And then, but then as we started to bring monetization online, we started to pull out of the dive.
+
+3 (44m 57s):
+And the worst all hands was, we are eight weeks from running out of money. And then we were 10 weeks from running out of money. And then we were, you know, 20 weeks from running out of money and then we were, we'd hit profitability.
+
+1 (45m 11s):
+And, but it wasn't, I'm assuming it wasn't massive profitability.
+
+3 (45m 15s):
+We set a goal for the company that we get. We wanted to make a million dollars. We didn't want it to run rid of a million dollars a year of profit
+
+1 (45m 22s):
+Of profit. Wow.
+
+3 (45m 23s):
+Yeah. A profit because we, once we got going, it was fun. We were good at it. And we said, we take the whole company to Hawaii. If we got to a million dollars in profit, which at the time we were making like $10,000 of profit, we thought it was impossible. And six months later, we'd, we'd gotten to a million dollars a year, runners, you know, a hundred thousand dollars a month of profit.
+
+1 (45m 41s):
+Well, and that was purely through that triple strategy or that strategy of cutting costs, just advertising wherever you could get ads and the mobile app,
+
+3 (45m 51s):
+The, the, those were the tactics. But like the underlying thing we did was sit down every month and ask our set, like go through the whole P and L every cost, every, every line of revenue, line it up and ask, how could we make this bigger? What else could we do? What else could we cut? Wow. And just, it's just relentless focus on, on those lists.
+
+1 (46m 10s):
+And how many people did you have working for you in 2009? 10?
+
+3 (46m 15s):
+The start, maybe like 40 by the end, I think like 24. Cause we had, we did a, we had to do a layoff cause we just, we couldn't
+
+1 (46m 23s):
+Couldn't afford all those people
+
+3 (46m 24s):
+Couldn't afford all those people.
+
+1 (46m 25s):
+Yeah. And how many users do you do? Do you remember how many users did you have around 2010?
+
+3 (46m 33s):
+I think 50, 60 million a month.
+
+1 (46m 35s):
+Wow. So that's a lot.
+
+3 (46m 36s):
+Yeah, no, it was, it was, it was big.
+
+1 (46m 38s):
+Yeah. So it was, it was already pretty, it was pretty big. Okay. I guess, I guess around this time, you start to think about, you know, the kind of taking this to the next level and you guys started to talk about maybe trying out different strategies, different products. Tell me about the conversation. Where did you start to think about doing
+
+3 (46m 58s):
+So we had succeeded at getting profitable, but then in doing so we'd entirely killed our growth and we were no longer growing. And we, we started trying to reignite growth and we had all these ideas for these products we'd build and they pretty much all failed in a variety of different ways. And so we were kind of bumbling around and a God, who was it? This guy from, who'd been like at YouTube, it's like a VC. So he came by and he told us like, you're like you reigniting gross, almost impossible once it stops. And, and if you're not growing on the internet, you're dying.
+
+1 (47m 39s):
+And why weren't you growing understand that you cut costs? But what, what, how explain how that connects to, to S to the slow, slowing down, if the growth
+
+3 (47m 47s):
+We'd been, we've been adding advertising, which makes it a worse experience. We'd been adding paywalls at a bunch of places. And more to the point, I think we'd kind of like hit the natural size of the people using the thing we were doing without improving the product further. Right. And so we, we kind of had this moment, the founding team is just to be like, no, he's right. We gotta, we gotta, we gotta have a second act. What are we going to do? And we started having these conversations about that.
+
+1 (48m 17s):
+Like what, what do we do? How do we actually reignite growth?
+
+3 (48m 21s):
+What should we focus on? What is the, what is the next thing we should do? And I think we all said, well, it's pretty clear that the biggest thing in live video based on what we've built so far and look looking around is actually a corporate, you know, webinars and, and video conferences. And we could go build that business. And we were all like, yeah, that's probably a big multi-billion dollar business. Does it, does anyone want to work on that? No. Okay. We're not doing that. Like we just didn't want to do enterprise software. That would have been, I mean, look at how successful she is now. Right. But that would have been, I think we were right. But instead we, we were just not interested in enterprise.
+
+1 (48m 60s):
+You were not interested in, cause it was boring. It was boring.
+
+3 (49m 3s):
+It was boring. We just, we didn't want to do enterprise sales. We knew what that was. We had friends doing enterprise companies and we knew what that was going to get us into. It's not building great, beautiful software to win. It's building good enough software and great sales. And we just, that, wasn't what we got into the game to do. I don't think, I mean, consumer's offers like buying lottery tickets. You have no idea. Like when it's really successful, the biggest consumer oriented companies are incredibly successful. Right. Enterprise offers a little more rational, maybe more boring, but like yeah. The pathway to success is more controllable. We decided we'd like to buy more lottery tickets instead.
+
+1 (49m 40s):
+Yeah. Right. I mean, it's, it's why everyone knows what Facebook and Google is. Right. But not everyone knows what like SAP is, even though it's a huge company. That's
+
+3 (49m 50s):
+Right. Exactly.
+
+1 (49m 51s):
+All right. Okay. All right. So you guys are, at this point, you're kind of at a crossroad, right? And from, from what I understand, you got a couple of different ideas about where you wanted to take the company, like, like Michael Seibel, who was running Justin TV at this point, he, he had one idea. You had another idea. So what was yours? What did you want to do?
+
+3 (50m 13s):
+The StarCraft two beta had just come out and StarCraft two. It was a sequel to a game. I played as a child, still original StarCraft. And I was so excited cause I like, I, I couldn't believe they'd finally made a SQL after like, you know, 10 years.
+
+1 (50m 27s):
+Can you just describe what StarCraft is? I mean, I know we've had, we've done riot games on the show and others. So I know league of legends and roll recovery. I don't know. I can't picture StarCraft.
+
+3 (50m 36s):
+StarCraft is think of like Starship troopers. If you've seen the movie, it's like, you know, bug aliens versus Terran space Marines. So you're, you're looking at the battlefield from the top down, but you're building an army and you're commanding it versus other players.
+
+1 (50m 50s):
+I see. Okay. I got you. So, and, and you love playing this game and this game had been, there was a streaming element to this game already.
+
+3 (50m 59s):
+Yeah. So the original StarCraft is a very deep multiplayer competitive game. Think of it playing it. It's kind of like playing real time chess plus poker at the same time, it's has a very high skill cap. It's possible to get very, very good at it. And so in South Korea, particularly it really took off and there were basically, you know, e-sports stars became like, you know, StarCraft stars became like celebrities and they had a cable TV channel devoted to, you know, the matches and it became a whole, a whole league. And there was a whole culture around watching the very best StarCraft players.
+
+1 (51m 37s):
+And was anybody putting that content onto Justin TV when it became available?
+
+3 (51m 43s):
+Yeah. Yeah. I mean, that was, that was how I got interested in the idea in the first place people started, Justin TV always had a smaller, small amount, one, 2% of gaming content. I mean, so the StarCraft two beta came out. A bunch of people started streaming. It they'd run some screen capture software. Like, you know, when you're out on a zoom call and you like, you like share your screen. Yep. So they, they do screen share with the video game. Plus their webcam sort of overlaid on top, so you could see their face,
+
+1 (52m 7s):
+But this was a tiny number of people who are consuming this content. Yeah.
+
+3 (52m 11s):
+It's maybe it was maybe 50 streamers and like maybe in total 500,000 people a month.
+
+1 (52m 19s):
+Okay. But you liked this as just, even though you worked for Justin TV as a consumer, you liked that
+
+3 (52m 25s):
+It was the first time I'd ever actually enjoyed watching my own product. Like we've been running an entertainment product for like four years at this point. And I was like, this is fun. I like watching this live. This is great. I can ask the pro questions. I'm hanging out with other people who also like the same thing I do. And I know that if other gamers who I know understood what I had, the experience I'm having and understood it, they like it too. And so I was like, I think there's something here. I think we could focus on this. We could grow something really big. I think gaming is the vertical for us to work on,
+
+1 (52m 59s):
+Even though it was just one or 2%. So tiny, tiny subset of people who were, who were doing gaming, but you thought, you know, this is really, I think, I think people want to watch other people play video games.
+
+3 (53m 11s):
+Yeah. I mean, I don't just think I didn't, I, I wanted to do it and I was like, I don't think I'm alone.
+
+1 (53m 17s):
+Okay. But again, at the time, Michael who's a CEO had a very different idea of where he wanted to take the company. So yeah. What was his idea?
+
+3 (53m 27s):
+Michael's insight was it was obvious mobile apps were going to be massive. There's going to be a wave of social media, mobile stuff. And we should focus on being video for mobile. No one had done great video for mobile yet. There's a lot of photo apps, but not a lot of video.
+
+1 (53m 42s):
+Right. This was before this was before like mere cat and Periscope came out.
+
+3 (53m 47s):
+It was before Instagram had videos. This was before, before Snapchat, like this was, there is no, there was no video recording stuff on mobile yet. Really? And so we had these two ideas and we're like, we don't know which one is. Right. Hmm. I felt pretty strongly. Mine seemed good. Michael felt pretty strong, like his fingers. We've got, we both thought the other person's made sense. So we got together as the founders and be like a four-hour meeting to figure out what to go do. And the conclusion was, well, they're both likely to fail. Yeah. Like doing anything new and risky is likely to fail. So let's fund two skunkworks initiatives internally. We'll take resources away from Justin TV. We'll give each of them, you know, two or three employees, plus a founder who were going to go focus on doing that thing.
+
+3 (54m 33s):
+And Justin will sort of continue to run the core business in the meantime. And we set these basically growth bars and whichever one exceeds the growth targets we hit for the first three months, we will pivot the company to do that. Right. And, and so I sort of grabbed all of the Justin TV infrastructure and focused it on sort of customizing Justin TV, building Justin TV, to be better for gamers.
+
+1 (54m 58s):
+Why don't we come back in just a moment, how Emmett is warned that gaming will never be more than a niche business and how that niche grows to tens of millions of users stay with us. I'm guy Raz and you're listening to how I built this. Hey, welcome back to how I built this I'm guy Ross.
+
+1 (55m 38s):
+So it's early 2011 and Justin TV has basically split into two separate businesses, a mobile video service and the gaming platform that will soon become Twitch.
+
+3 (55m 51s):
+The first thing I did was I asked myself, I had had this realization, I need to actually know who I'm building for. I need like, I'm, I'm tired. I CA I was, I was sick of failing at product. Yeah. And I was like, I need to know what the actual problems are. And the first thing I asked myself was who's more important here. Do I need to do I need to build stuff to make it better for the viewers? Or do I need to build builds up to make it better for the streamers? And obviously they impact each other, but like, who is my focus? And I realized there were about 200 who are streaming video games across every service, including ours, who garnered maybe 80% of the total audience at the time. And I was like, oh, I just need to make them happy.
+
+3 (56m 34s):
+I can talk to those 200 people. Right.
+
+1 (56m 36s):
+So just to be clear, there were other competing services that, that were doing something like this.
+
+3 (56m 42s):
+Oh yeah. I mean, and, and bigger than us too, it's like Ustream was a live-streaming competitor. They had more gaming and they were bigger than us livestream.com. There was a European startup owned 3d that was, I think, already functioning at this point. Those were the primary competitors in the beginning. And so we did these little customizations to Justin TV. We, we promoted the gaming content more. We made the front page promote a lot of gaming content more. And I just went out and I talked to a ton of streamers. And I just wanted to understand, like, how did you get started streaming? And what do you like about it? What do you get out of this? And the biggest surprise for me was how much they want it to make money and not because they wanted to make a living.
+
+3 (57m 26s):
+Like they knew they would be mad. I was like, you're gonna know you're going to be making like $17 a month. And given how big your audience is and how much money we can make you. And the streamers would say like, yeah, totally. I know that that would be amazing. I would love to make $17 a month streaming video games. And I was like, okay, like I believe you. And so one of the very first things we did is we started this partner program where you could press a button and we would roll a mid-roll on your channel. And we would give you half the money
+
+1 (57m 54s):
+And advertisement
+
+3 (57m 55s):
+And advertisement, a mid-roll advertisement, the middle of your stream, press button run, ad get money. And it was, we invited like 50 people and they loved it. It was super popular, even though they weren't making that much money in the beginning.
+
+1 (58m 7s):
+Right. I think by, by June of that year of 2011, you, you essentially moved Justin TV gaming to a different site called Twitch Twitch at that point. And that name Twitch w where did that come from?
+
+3 (58m 23s):
+So we had been calling it Justin TV gaming. We decided it needed its own brand and its own home over time for a variety of reasons. And all the names we had for the product were bad at the time. And I literally like locked myself in a conference room. And just for two days, just like went through, looked for domain names. I could buy looked for stuff that was available. And eventually I found Twitch through just free associating words associated with gaming and Twitch gaming as a kind of like, you know, fast reaction gaming.
+
+1 (58m 53s):
+Yeah. Well, it's a muscle, right? It's your Twitch muscles.
+
+3 (58m 56s):
+Yeah. Fast Twitch muscles, right? Yeah. Yeah. And you kind of had a correlation with like the liveliness of the streaming and in addition to gaming. And so I was like, okay, that kind of makes sense. And I can, most importantly, I could get the domain and we told everyone it was Twitch and Twitch. It was. And Jacob, our, our, our designer made a logo in like two hours. And we, we launched it.
+
+1 (59m 17s):
+I mean, you, look, you look at it now and you think, oh, that's a no brainer. People want to. I mean, this is a huge, massive growing industry, right? Creators, gamers, et cetera. But I mean, in 2011, I, I would think that there were lots of people. Cause there still are people today who say this, but there are lots of people were saying who would want to watch other people play video games on the internet? I mean, total, how many times do people say that to you?
+
+3 (59m 46s):
+I mean, I used to get that question every interview. Now I'd say it's only half of all interviews. Then it, usually what I would do actually is I'd ask them, well, first of all, just tell me, what do you watch TV? Oh, well what do you watch? Oh, you, you like, you like watching the NFL, you like watching football. Oh, interesting. So you like watching someone else throw a ball around rather than you throwing the ball? Fascinating. Well, it turns out people who like video games do the same thing. People like watching other people do stuff. It's a core human desire. Right. But it never works. Nobody, nobody gets it. You can't explain it that way
+
+1 (1h 0m 20s):
+Because they would say people would, people would have said, yeah, but I mean, come on. I mean, Tom Brady is, he's a, he's an athlete and he's, or they would say, you know, watching, you know, LeBron James play is, is, is there's a superhuman. I mean a video gamer, like people would say right. They would say that to you. Yeah.
+
+3 (1h 0m 37s):
+Boxer is, is, was perhaps potentially the most famous Korean StarCraft player. If you've, if you've never watched boxer execute a three site drop tank attack at the same time, you don't understand the level of dark African. We played it. It is a thing of art, but the best news fundamentally is you don't need, I don't need them to understand it because I got it. And the people watching got it. People streaming got it. Because for the people who loved it, it was self-evident the incident. They saw it. Like, they were like, oh, this is, yes, this is what I want.
+
+3 (1h 1m 17s):
+This is what I've been waiting for.
+
+1 (1h 1m 19s):
+Yeah. I mean, that's the thing, like when you finally launch it as a standalone site, what they, they just, all of a sudden this community kind of began to coalesce and, and just start, they just started walking into the front door of, of, of Twitch.
+
+3 (1h 1m 33s):
+No. So what's interesting is we'd been growing at 25%, 30% a month for almost nine months before we ever launched Twitch. Like I, I, it was, it was fully validated by the time that we were launching a new domain name.
+
+1 (1h 1m 46s):
+And that was simply because you were improving Justin TV gaming for gamers.
+
+3 (1h 1m 51s):
+We had, we had a very simple, closed loop growth strategy. We would make the product better for, for game streaming. We would go out to all the game streamers and say, we've made the product better. You should try it out. Hey, we'll pay you a thousand dollars to like switch services, you know, for the larger streamers or some of them would tell us, no, you don't do this. You don't do that. And that would become our feature request list. And we would go, we wouldn't always build the thing they suggested, but we would go, we would go solve the, they were pointing out and we'd make the service a little better. And then we'd go out and we'd recruit more streamers. And every time a streamer came on, they would onboard all of their audience. They would tell everyone who followed them online. Hey, come check me out on Twitch.
+
+3 (1h 2m 32s):
+And then those people would watch the stream where they came to watch, but also spread out and watch other streamers. And it became this cascading, like exponential growth process where the bigger we were, the easier it was to recruit more streamers who could then bring across more of an audience, which would then let us grew more streamers, et cetera, et cetera.
+
+1 (1h 2m 52s):
+And what could the viewer do initially? And he could, it was it, was it passive or you were watching somebody play a game and you would see their face talking into a microphone about what they were doing or, or was there a chat already integrated into, or you could, you could actually, you know, write your comments
+
+3 (1h 3m 14s):
+From the very beginning and just TV gaming all the way through when we launched Twitch. And through the whole time, there was always a web cam of the person's face over the, over the video talking to the audience because you're, you're there you come for the video, you come for the, for the entertainment and the gaming content, but you actually stay for the relationship and for the chat and for the connection, that's been a core part that was grew up out of the Justin show is a core part of Justin TV. You can talk to the people, making it and they can react to you and you can impact what is happening on the stream. In real time,
+
+1 (1h 3m 48s):
+You make this available, right? And, and of course this exists, there are other streaming services, but I wonder, I mean, I'm thinking of like streaming movies. Like if you started, if, if, if somebody went on Justin TV and started to just like play a Disney movie, I mean, Disney would go nuts. Right? And that you would shut. It would be shut down instantly. Why weren't the video game companies similarly irritated by this? Because essentially they could have said, Hey, somebody monetized of these, like making money off this thing that is ours. And we sell this product, did, did any of the video game companies push back on it?
+
+3 (1h 4m 25s):
+We got, we got some incoming requests where people were like, Hey, you're monetizing our IP. And our response is always the same. You're totally right. And that's certainly your IP. And if you don't want us to do it, just tell us, well, we'll turn it off. We'll tell every streamer, stop streaming your game. And the reaction to that was universally the same, whoa, whoa, whoa. Let's not be hasty because they recognize the truth that watching a movie on for free on a service, instead of buying the movie to watch it is a substitution for what you're doing. But watching someone else play a game is actually marketing for
+
+1 (1h 4m 58s):
+Cause then you want to buy the game. Then
+
+3 (1h 4m 60s):
+You want to buy the game or you want to play the game more unit by the SQL. And like, it's just good for you. You can't pay for that kind of advertising. If anything, they should be paying us. Which in fact, mostly they do, they buy advertising with us. So if anything, game companies would like even more exposure rather than less. Yeah. And that was actually, that was one of the reasons I was so excited about gaming. It's pushed us to go into gaming. Cause I was like, this is the only category where we have this great IP and the people who own the IP are excited about us using it.
+
+1 (1h 5m 29s):
+So, all right, this, this is really taking off like me, I think within a year and a half, it's got 20 million users. And was it, I mean, we're, we're in, at that point, were investors just like banging down your door to get involved in this thing? Nope. Huh?
+
+3 (1h 5m 52s):
+We talked to 40 VCs. Everyone turned us down. Wow.
+
+1 (1h 5m 55s):
+What, what were they saying? The same thing. Who's going to watch people play video games.
+
+3 (1h 5m 58s):
+It's a niche. It's great. You've found something cool. It's a niche. It's not going to get you that you're going to you're you're, you're nearly saturated the market already. You're going to run out of people who want to do this. It's not going to be back.
+
+1 (1h 6m 8s):
+I mean, they were right. It wasn't niche except except only a massive niche.
+
+3 (1h 6m 12s):
+Right. It turned out that nitrous. I mean, to be honest, I, one of the properties that had couple of raising money, is it VCs go off of your own confidence. And I'm not very good at convincing myself of things that I, where I feel it's truly unknown. Like I thought it could be big, but I didn't know how big it could get. And honestly, I've been surprised at how big it has gotten. I've like, I, if you'd asked me, you know, five years ago, how big can Twitch get? I don't think I would have believed it could be as big as it is today, but I knew for sure we were onto something. And it really, it felt like between Justin TV and Twitch, it felt like I'd been bumbling around in the dark trying to like, you know, solve a, solve a puzzle with the lights off.
+
+3 (1h 6m 58s):
+And I just turned the lights on. I was like, oh, this is, this is much easier. And, and that was a really powerful experience.
+
+1 (1h 7m 5s):
+Yeah. And, and by the way, I should, I should just mention that you were at, at this point you were the CEO of Twitch. Justin was still there, but you were in charge. What, what, what was that like for you? Did you, did you like managing people or are you good at it?
+
+3 (1h 7m 22s):
+I was not a good manager.
+
+1 (1h 7m 24s):
+W why not?
+
+3 (1h 7m 25s):
+It was at a difficult conversations and giving hard feedback, bad at bad at praising people when they did well bad at delegating effectively micromanaging when I shouldn't be micromanaging, but then being completely disconnected on things I needed to look at. Like just, there's a whole craft, some management. And I was you name the thing that a manager's supposed to do? I did it poorly. Huh. And I remember at the beginning, our point of view on management was actually, it was kind of common in the valley at the time. Why do we need managers? Anyway, Google had like, you know, every manager has 40 reports because like what a manager is do anyways, people should just like self manage and do their thing. What do you need? Managers is pointless middle there.
+
+3 (1h 8m 4s):
+And that's not true. Managers serve a very important function in any kind of organization. That's bigger than about 10 people, but that was sort of our attitude and the result we, we didn't value the coordination function. It didn't really even understand it. And so it was this process, both of getting better at it, but also just coming to appreciate what is the point of having a manager in an organization at all? Like what does that person do for you and do for employees? Yeah. It was a big personal growth thing for me. I think becoming a manager was really helped me grow emotionally, grow socially. I really I'm really glad I got to got the opportunity to do it.
+
+1 (1h 8m 43s):
+Yeah. So when you launched it, right, when, when Twitch was like the thing it was free, right. It still is it's free. I can go on now and watch stuff, but how was Twitch going to make money?
+
+3 (1h 8m 56s):
+I was pretty clear. I going to be advertising driven and I was very excited about the idea of, you know, getting to scale with a gaming video product and selling video advertising. And so my original plan was just, just advertising. And then this streamer day nine, there was a StarCraft streamer. It was at an event we were talking and he was, he was saying how I have these people who really just love my stream, who come and hang out in the comments. And I think if we, if you made a fan club for them, like a subscription where they could pay $5 a month and get a badge, just so they could be a member of the club and be a supporter, I bet you get, you'd sell a lot of those. Like I think, I think we could sell a lot of those. I think you should build that. And I said, you know, that makes a lot of sense.
+
+3 (1h 9m 37s):
+I, I, I believe you let's, let's try it. So we, we built up a beta version of it for him. And boy did that work. It works way better than we expected
+
+1 (1h 9m 47s):
+Where people were, were willing to pay money, to join like a club that got what extra features, extra access.
+
+3 (1h 9m 54s):
+No, you got a badge next to your name and chat. And when you subscribed a notification happened in chat and he said, thank you.
+
+1 (1h 10m 1s):
+Right. And that would S and that suggests that maybe he would pay more attention to your comments.
+
+3 (1h 10m 5s):
+Yeah. Sometimes there was a promise of that, but yeah, you, you, you, you sort of a sense you might pay more attention to the comments. We pretty quickly added special emotes. So you got to use special like emoji that were only for subscribers that you
+
+1 (1h 10m 17s):
+Would pay. You pay money to buy a bunch of them.
+
+3 (1h 10m 19s):
+You can, while you're a subscriber for $5 a month, you gain access to all the subscriber, emotes it's, it's, it's micro patronage. You are getting the positive glow of supporting someone whose content you like and their gratitude for your help. And some of them really leaned into it. And I could see someone was making, I think, like a thousand dollars a month and pretty quickly I was like, oh, this is going to be a thing, because if they can make a thousand dollars a month doing it part time, they're going to go full time. And now we, we, yeah, we have many thousands, if not, tens of thousands of people who are in there living on Twitch. What's interesting about Twitch is we actually have this very thriving middle class because big streams monetize much more poorly per viewer than medium-sized streams do.
+
+3 (1h 11m 7s):
+And so there's this, most of the money actually gets made, not in the top tier of streamers, not the people with many thousands years, but in the people with hundreds of years, that's actually where the bulk of revenue habits. It is that middle-class of streamer who can have the more personal connection who has a more intimate community where subscriptions really work great and where community gifts work. And there's this whole set of dynamics around that community, supporting that streamer. That really that's what powers the jobs on Twitch effectively for streamers.
+
+1 (1h 11m 42s):
+I'm going to put myself out there and people are gonna hate this. And, but I'm doing it because I, I like to have my mind changed. This is why I do what I do. I, I love hearing from smart people about what they do when I'm skeptical. And I I've talked about this on the show before I am, you know, I've got two kids who play video games. Okay. And they, and they love playing video games, but I'm, I'm a little bit more like your parents were, which is, I don't love it. You know, like your parents didn't buy a console cause they didn't want you sitting in front of a television set. Right. Like I want my kids outside, jumping on the trampoline, going on hikes with me. I want them out doing things. But I understand like the, the, the world of people 20 and under today is, is much more of a virtual world.
+
+1 (1h 12m 30s):
+I get it. But I've watched a bunch of Twitch streams. And of course they're all different, different in different ways. But, you know, I see a lot of like shooter games, just blood bloodied aliens are humans and, you know, young guys and be like, whoa. Yeah, no way. Yeah. And I mean, I'm not saying that's, I know I'm being a bit stereotypical, but I don't know. Part of me is just like some of these really well-known gamers too. I'm sure they're really nice people. But sometimes I, I don't know. I, there there's a, There's, there's a part of it that feels not so nice.
+
+3 (1h 13m 12s):
+Yeah. I think there's a lot in there. I think there's a bunch that really, they're all really important. Really good questions. I'm trying to just take it to take apart the various piece of it. So the first part is a screen. It's the screen time question, right? I'll know that's not a new problem. Right? TV people watch eight hours of TV a day. He'll come home and they have the kids plopped in front of the boob tube. Right? And like the electronic babysitter, that's like, this is, this is not entirely a new problem for digital entertainment. Although I will admit phones, make it more omnipresent, right. More, it's easy for it to take over more and more time. There's a, there's another thing which is a video games themselves.
+
+3 (1h 13m 55s):
+And while I admit there are shooters and violent games, I've learned so much from video games, video games are incredible teachers. I've learned teamwork. I've learned analysis. I've learned critical thinking. I've learned, I've learned how I've learned socialization skills. I've, I've learned so much from video games. And when we ask people, why do you use Twitch? Not new people, but people who have used Twitch for years who are core users, who, who love it, who come back day after day is always the same. They don't mention entertainment for our core users. We are not an entertainment product. We are a community product I am here because it makes me less feel less alone
+
+1 (1h 14m 35s):
+Because they're together
+
+3 (1h 14m 36s):
+Because they're together because they're lossy. People say they have community, but community is not a collection of people who all like the same thing. Watching the same thing together. Community is fundamentally about communication between two people being witnessed by a third in that community.
+
+1 (1h 14m 56s):
+I get that. Totally get that. And, and you know, and I, I appreciate that because people who listen to the show feel part of a community in a different way. And I've met people who say, if I go on a date and the person likes high belt desk, then we're, I know we're the right fit like that's happened. But here's the thing you gave a Ted talk, which I saw and was really good, but a real part of it may be so mad. Part of it may be so mad because you talked about video games, a new campfire. And I heard you tell a story that I really related to, which is when you were a kid, you'd go to friend's houses and you'd play video games. And I remember doing that, and I'm a little older than you, but I remember doing that. And you were in someone's room and you were playing a video game and watching somebody else, but you were in physically the same room.
+
+1 (1h 15m 41s):
+That's very different than everybody being in their own space, on their own computer, connected virtually. I get it. That's still a community, but it is different.
+
+3 (1h 15m 51s):
+I agree that it's deeply impoverished versus coming together in person. But I kind of think of if you think of social, social stuff as nutrition, which I kind of think it is. I think it's an essential for us. Social connection and community cohesion is essential for us. The same way food is. And we can, we can provide, like, not everyone uses Twitch feels as nice for some people it's supplementary. There's other reasons, but there's a set of people for whom Twitch. It is. The, the vitamin supplement they need socially. And it's, I think it's one of the most important functions we, we offer. And it's a stepping stone. It shouldn't be that you get all your socialization from Twitch. That's terrible. It's like getting all your nutrition from a multivitamin. Like that's, that's not how you should live.
+
+1 (1h 16m 32s):
+I think that's a great analogy because you're right. You can't get all your nutrition from a multivitamin. Yep.
+
+3 (1h 16m 38s):
+How do we help you
+
+1 (1h 16m 39s):
+Go to the salad bar?
+
+3 (1h 16m 40s):
+Yeah. How do we help you go to the salad bar and take, take one more incremental step? And I will say that there's a lot of incremental steps there because when I was a kid, what I realized was I wasn't capable of handling the intimacy of real human connection in a lot of ways, which is why, instead of actually looking at my friends and talking to them about them, I looked at a video screen and not at my friends' faces because my friends faces were too overload. I couldn't handle it.
+
+1 (1h 17m 4s):
+How long did it take you to, I mean, cause it's very self-aware thing to say, but you probably didn't come to that penalization until later on
+
+3 (1h 17m 13s):
+I realized this, I, there was a jury basically the last 10 years I've been really like focused on a lot of emotional growth stuff. And I, I probably realized this maybe six years ago I realized seven years ago I realized like, oh, that's why I needed to play games so much as a kid. And like, I still play games, but way less now. And the reason was I couldn't handle actual social connection. Yeah. And this was the scaffolding that caught me there. And I, I think there's a role for it. I think it's great to get on and play games with your friends and maybe that hopefully for, for what, for me it was. And I think for hopefully for many people, it can be a step towards eventually having deeper, more emotional connections.
+
+3 (1h 17m 52s):
+I view trying to help build community in this way. Sort of my like life mission. It's like the most important thing I do at Twitch, but it's beyond Twitch. It's the most important thing I think I can, I can work on in a lot of ways.
+
+1 (1h 18m 3s):
+It's a really interesting, I think it's really interesting. Well, one thing that you've said very explicitly is that we're not a free speech platform. Don't expect to come onto the platform and say, or do whatever you want. We'll, we'll just take you down. And so that's very, it's a very different response than say, you know, some other tech companies, but, but in general, that's your position. You're like we, we decide what people are allowed to say, what games they're allowed to play. And, and how do you, how do you sort of tell me how you kind of think about standards and, and, and, and what's allowed and what's not allowed.
+
+3 (1h 18m 38s):
+So first and foremost, I think of Twitch as being it's about community and about connection. And part of being part in a community is, is being willing to join that community standards. And it is not easy to set standards that work globally. That makes sense. Right now we tend to have one global standard, which I think is a good, safe place to start, but we could, we can do better. And we're fortunate that unlike most social media, you can't really go viral on Twitch. It's almost because, because it's live, it can't go. You can't get to, oh my God. Look at this millions of people. See it it's like whoever people saw it saw it, that's it it's over.
+
+1 (1h 19m 18s):
+It's, real-time, it's a femoral. Yeah.
+
+3 (1h 19m 21s):
+And my, my hope is to engage our community more and more deeply over time and helping set rules for itself. I really believe that ultimately, as communities grow up, they need, they, you know, that there's a sense in which communities should become self-governing and I don't think the right there's a sense in which that could be an abdication of responsibility. Oh, not our problem. We'll let our, everyone just govern themselves. We're not if bad things happen, not our fault. I don't want that. But I, I want to, in a way that is levels up the level of nuance levels up the level of a buy-in have our community over time, help substandard for itself, more and more. And we're just at the very start of that journey right now. We're just trying to make the simpler centralized system work.
+
+3 (1h 20m 4s):
+But I, I would like to get there over time.
+
+1 (1h 20m 7s):
+Alright. So I want to ask you about the sale of Twitch to Amazon. And we've done this in the show before where we've had many companies that were sold and acquired and in most cases was the right decision. Right. And one that always comes back as Instagram. You know, people talk about Instagram and, and, you know, Instagram was bought for like a billion dollars by Facebook and people, you know, people think of that as like, or, or even YouTube acquisition by Google to like people call those like the bargains of the century. Now that's sort of in, in, in hindsight, but of course, you know, you look at a company like Twitch, you look at a brand like Twitch and you think, oh my God, it's just so valuable today.
+
+1 (1h 20m 49s):
+And in 2014 you were acquired by Amazon for a little under a billion dollars amazing outcome because it was mostly cash, but still, I don't know. I mean, do you think, you know, tell me about the thinking in your head about this.
+
+3 (1h 21m 4s):
+So we got paid a pretty good premium over like the last round we raised it been in a a hundred million dollar valuation, not that long ago, right. A year ago.
+
+1 (1h 21m 12s):
+Right. And I think your revenue at your report revenue at the time was like $70 million. Yeah.
+
+3 (1h 21m 17s):
+We weren't, we weren't, we weren't that big yet. Now we were growing fast as it was clearly a winner. There's a reason they were paying us a premium, but we, you know, we got, we got the Ford valuation that I think makes the, if, if you look at it in an economic sense, yes, yes. Twitch is much more valuable today. But I think from an economic perspective, I didn't ever, I never really worried, like, oh, I didn't make as much money as I should have made. Well, first of all, I made plenty of money to the point where it doesn't really matter. But also I just, I feel like when you let you do the math, it was a good deal. The real question for me was like, what's the best home for Twitch? What's the best job for me. I mean, to a selfishly, like, am I going to enjoy doing this? And I hated raising money. And I really don't like investor relations.
+
+3 (1h 21m 58s):
+I like building the product. I like working with my team. I like working with the streamers now. I really, I think the fact that I'm still, I went to edge and sell at Amazon shows. I think we, we chose the right buyer. I get to basically really actually be the CEO of Twitch.
+
+1 (1h 22m 12s):
+Right. As it's been almost eight years, you've been an Amazon employee for seven years. Yeah. That's right. Cause you can leave, you got your payday and you can work up
+
+3 (1h 22m 21s):
+We're well, after the vesting period at this point, I'm doing it. Cause I love to watch. Yeah.
+
+1 (1h 22m 24s):
+And that, when you think about this journey that you've taken from, you know, starting out Kiko and then Justin TV, and then, and then this kind of gamble, this kind of pivot towards, towards streaming games, which became Twitch TV to the Amazon acquisition, to where you are now seven years in, you're an Amazon CEO. I mean a CEO of an Amazon portfolio company. How much of what you've accomplished, you attribute to your skills, your intelligence, how hard you worked and how much do you think has to do with being lucky
+
+3 (1h 22m 58s):
+As the, as the famous quote goes, 50% luck, 50% skill, a hundred percent concentrated power of will. Yeah. I don't know if like that, that that's, you know, it's sort of a joke. It's sort of not a joke. I was very smart. I was very hardworking. I was very persistent in the face of a lot of failure. And then I was also very lucky and for something to be as big and successful as Twitch, you kind of got to do all four. I guess more luck can make up for less of the other three. But the best you're going to do is like 50% luck. And I've now been around the valley for 15 years. And I came here with a bunch of people who started making companies.
+
+3 (1h 23m 38s):
+And I don't know anyone who persisted and try it again and then try it and then try the new thing and then try it again. Who has had some level of success. Eventually you do get lucky. Now. Now was it, was, was it going to be Twitch sized lucky? No, no, no. And there's a lot of lower levels of lucky that are still success. Absolutely. And so I think at some level that I was successful, I at all, I attribute to some combination of hard work persistence intelligence that I was successful in. Anything resembling the scale of Twitch. That's the, there's a huge portion of luck there. That is, that is undeniable.
+
+1 (1h 24m 20s):
+That's Emmett Scheer co-founder and CEO of Twitch. By the way, remember when Emmett and Justin sold their first business Kiko for like $250,000 on eBay. Well, whoever bought it, didn't do much with it because the domain name, kiko.com, it's just kind of sitting there.
+
+3 (1h 24m 40s):
+Th they never used it. They've never used it. They've they've, they've sat on it for years. They've never used it in a results. Anyone it's actually, I have a, I have a fantasy someday. I'll buy back Kiko, but I just don't. I, I think they'll want more money than it's been. That's like a nostalgic purchase. It's not like a, I don't want, I don't want to spend like the, what the a four letter pronounceable domain name probably costs these days.
+
+1 (1h 25m 3s):
+Hey, thanks so much for listening to the show this week. If you want to contact our team, our email address is H I B t@iddotwondery.com. If you want to follow us on Twitter or Instagram, our account is at how I built this. And mine is at guy Ross on Twitter and on Instagram at guy dot Roz. This episode was produced by Josh lash with music composed by from teen era bluey, it was edited by Neeva grant with research help from Claremore Ashima. Our production staff also includes JC Howard, Liz Metzger, Alex Chung, Carrie Thompson, Catherine cipher, Elaine coats, John Isabella Christmasy, and Carla estimates.
+
+1 (1h 25m 45s):
+I'm guy Roz. And you've been listening to how I built this Hey, everyone. So I want to make sure you know, all of the different ways you can listen to how I built this. As you probably know, you can follow the show on Amazon music, apple podcasts, or wherever you're listening right now, but a one let you know that you can actually listen to the next episode of how I built this today.
+
+1 (1h 26m 25s):
+One week early on Amazon music, you can also listen to it early and ad free by subscribing to Wondery plus an apple podcasts or on the Wondery app. Please do follow us on your podcast app. So you always have the latest episode downloaded. And another way to support the show is by filling out a survey at wondery.com/survey. And thanks.

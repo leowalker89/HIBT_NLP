@@ -1,0 +1,281 @@
+0 (0s):
+It's Sky Ross. Here on the Wisdom from the Top podcast. I talk to leadership experts and some of the world's greatest business leaders about how they lead, innovate, and transform the people around them. If you're trying to make it in business or just wanna think more like a leader, this show probably for you. Listen now to the Wisdom from the Top podcast, From, Luminary, and npr. Maybe you've stayed in an Airbnb before and thought to yourself, this actually seems pretty doable. Maybe my place could be an Airbnb. It could be as simple as starting with a spare room, or your whole place when you're away. You could be sitting on an Airbnb and not even know it. Maybe your kid is heading off to college in the fall and you'll have an empty bedroom.
+
+0 (41s):
+You could Airbnb it and make some extra cash while they're away. Or, if you have a vacation plan for this summer, that could be a good time to Airbnb your entire place. Whether you could use a little extra money to cover some bills or for something a little more fun, your home or spare room might be worth more than you think. Find out how much at Airbnb dot ca slash Host are you an entrepreneur or a startup owner? Starting a new business is an exciting journey, but it also comes with its fair share of risks and uncertainties. As a new business owner, you invest significant time, effort, and capital into building your venture business.
+
+0 (1m 23s):
+Insurance safeguards your hard work by protecting your personal assets. Without it, A substantial liability claim could put your personal finances like your savings or your home at risk. Liability insurance also gives you a competitive edge in the market. Many clients and partners require proof of insurance before engaging in business relationships. So visit zen insurance.com/save 35 to get a free quote for the low cost insurance protection you need so you can focus on growing your business. Worry free.
+
+1 (1m 60s):
+We can't see tomorrow, but we can hear it. and it sounds like a renewable natural gas bus Replacing conventional fleets, we are bridging to a sustainable energy future. Working today to ensure tomorrow is on Enbridge life takes energy.
+
+0 (2m 18s):
+Welcome to How I Built This Lab. I'm Guy Raz. So, most people who live in cities have relatively easy access to emergency medicine, and most hospitals and cities can get the supplies they need quickly. But in rural areas with fewer roads or with challenging terrain, it's a different story. In some parts of the world, it can take an entire day to get medicine or blood plasma to a distant medical facility. So a few years ago, an entrepreneur named Keller, Renado Clifton decided to take on this challenge, and he's doing it with drones, drones that are Delivering critical supplies to hospitals and remote areas around the world.
+
+0 (2m 59s):
+But before Keller launched Zipline, he started another business called Remotive, a robotics business that would eventually pivot into drones. The company basically built an application on an iPhone that turned it into a mini robot.
+
+2 (3m 15s):
+The more we saw smartphone scaling, the more we felt like, Hey, a lot of the components and and supply chains behind these phones are gonna enable a new kind of robotics company to be built. And so we were asking ourselves, what would the apple of robotics look like? Is there an opportunity here to build really the first global robotics company? And so we didn't have much money. You know, my, my co-founders and I, we were all unemployed, which is a, you know, a great motivation for entrepreneurship. And we started building these little, we called them smartphone robots, and they literally used an iPhone as the brain of the robot. You would connect an iPhone to the robot and it could run around on the floor and do telepresence.
+
+2 (3m 59s):
+And that was, that was the first thing that we started selling as a company.
+
+0 (4m 3s):
+And, and just to describe them for, for people who don't, don't know what they look like, they're, they're sort of like, it was like a translucent plastic platform with like a motorized track wheel on each side. Yep. So it could, it would sort of look like, it looks like a toy and, but you would mount the iPhone vertically on it, like a, like you would do on one of those speakers that you find in hotel rooms. And that would essentially would turn into like a little robot, like a, with a smiley face Yeah. On, on the screen. On the iPhone screen. Yeah,
+
+2 (4m 30s):
+Exactly. You know, we, we started selling them. We didn't, we didn't have product market fit figured out. I wouldn't say, you know, we, we, it was half a toy, half a telepresence solution, half a way of teaching kids to program. I think we were, we were circling around this intuition that it was a good time to be building a robotics company that, you know, knew things were possible. And also we needed something that we could sell in a, a month or two, because again, we had no credibility. No investor was gonna give us money. And so we needed to be able to build and sell a very simple product very fast if we wanted to keep the company alive. And so that was the very first thing that we ever built.
+
+0 (5m 7s):
+Alright. So the idea was to build this into something of course, bigger. And I guess you got in touch with the late Tony Shay, the founder of Zappos, who, who was on our show many years ago. An incredible person, incredible entrepreneur. But you had read his book and you got in touch with him. Why Tell, tell me the story.
+
+2 (5m 28s):
+Tony was someone who super inspired me. You know, when I graduated from college, I didn't know what I wanted to do with my life. And frankly, you know, school didn't do much to teach you about entrepreneurship. It wasn't even really, it was never clear to me that that was actually an option, like something that you can do. And when I read Delivering Happiness Tony's book about building Zappos, he had totally blew my mind. It was also inspiring because Tony had gone to the same school and it, in fact had lived in the same dorm that I lived in. And so it was, he, you know, he was just 10 years ahead of me. And so when I was in Las Vegas, I emailed him and said, Hey, I'm, I'm, I'm here. I am deeply inspired by, you know, your book and we're building this robotics company, and I wanna meet.
+
+2 (6m 8s):
+And I think this is one of the things that's special about Tony, and maybe also just special about certain circles, you know, of technology and entrepreneurs, which is someone like Tony was happy to meet me even though, you know, I was a nobody.
+
+0 (6m 21s):
+He, he was so impressed with these robot iPhones or these iPhones mounted on, on these robotic platforms, like instantly when you showed it to him.
+
+2 (6m 29s):
+I don't know if anybody could have been that impressed by what we were building. It wasn't, it wasn't very impressive on its face, I don't think. Perhaps, you know, I think maybe he believed more in us. We were very nerdy, we were very hopeful, we were certainly very naive. So I think maybe he, he was interested in the bigger vision of trying to build a new kind of robotics company, and he was willing to take a bet on three nerds who had no credibility and no money.
+
+0 (6m 59s):
+Hmm. He made it an investment. And you guys, as you say, you set up shop in Las Vegas and the project lasted, I think a little over about three years. And I guess you sort of wound it down. What happened? Did you come to sort of a, I mean, did you come to a realization that maybe this wasn't, wasn't gonna work?
+
+2 (7m 24s):
+That exact same company is what became Zipline. So we actually, you know, we didn't, we didn't necessarily wind it down. We did kind of o over the course of a year, we realized that, you know, building a new kind of robotics company meant that we had to focus on a really big, bold vision. And, and I also kind of realized we did not wanna focus on operating in the home. We wanted to focus on a more controlled environment and something where automation would just be a more natural fit. And that's sort of the reason we became obsessed with logistics. Yeah. But you know, the crazy thing is that that same company that Tony invested in 12 years later has now become Zipline.
+
+0 (8m 0s):
+Yeah. So, alright. So the, initially it started out as, as like, let's use the iPhone to be the brains of a little toy robot. But what, I mean, you sort of came to this, this realization that maybe you need to focus on something like, as you say, like logistics. Something that, that could have a, a larger impact and where, where there could be a bigger market. And when you were thinking of logistics, were you initially thinking maybe we can create robots that can deliver things, or that can work in a warehouse or something like that?
+
+2 (8m 32s):
+I think there was, there were a couple aha moments. You know, one is that I met a guy named Mick, who had founded a company called Kiva. And probably most people won't know what Kiva Robotics, but they, they had just been acquired by Amazon and they built these amazing orange robots that could run around inside a warehouse and basically go to a shelf, pick up the shelf, and then bring it to a human packer to pack something into a box. Mm. And If, you saw one of those warehouses, you would see all of these autonomous orange robots just running all over the place, moving things. Mm. And I remember seeing that thinking, wow, what an incredible company. And somebody is gonna build that for outside the warehouse and whoever builds that, I, I just remember thinking that is gonna be a world changing company.
+
+0 (9m 18s):
+Hmm. Alright. So it's round 2014 and you're kind of trying to figure out what is, what can I do in this area of logistics? You, you know, that you sort of have, have some experience with robotics. How did you get to drones to, to aircraft?
+
+2 (9m 35s):
+I mean, our backgrounds when we started building Zipline, were already in automation, robotics, and autonomy. Yeah. We had this sense that it was probably gonna be possible to build an automated instant logistics system for the Planet, but there were so many things standing in our way, and to be honest, like every expert that we spoke to told us that this idea was stupid. It was never gonna work. We were wasting our time. So
+
+0 (9m 59s):
+What was the idea that you would talk to people about?
+
+2 (10m 2s):
+We had this sense that If, you wanted to deliver something very quickly over a distance of anywhere from, you know, say 10 to 50 miles. You wanted to do that with a vehicle that was 10 times as fast as traditional logistics, half the cost and zero emission. And so we had a sense just reasoning from first principles that what you really needed was a vehicle that was electric, that was autonomous, that weighed more like 50 pounds rather than 4,000 pounds. And if we wanted to go really fast, we knew we probably needed to fly rather than drive.
+
+0 (10m 33s):
+Wow. So so you're thinking like a Jetson's world.
+
+2 (10m 36s):
+I had grown up reading all of this great kind of hopeful, optimistic science fiction. And the funny thing is, you know, this is totally normal in most science fiction books. Yeah. And so I think I had this sense that if technology had advanced to a point where we thought it was possible to build this product, we were pretty confident that it was something that people would want.
+
+0 (10m 52s):
+So you guys start to do the research into the world of logistics. And presumably you spent quite a lot of time just digging into this world for a while to figure out where you could kind of get in, where you could sort of start to work on something.
+
+2 (11m 7s):
+I mean, it's, it's totally fair. When we started building this, our backgrounds were not in healthcare. They were not in aerospace. And we didn't even know that much about logistics. So a lot of investors who were looking at us, or even experts were saying, what do you guys know about this space? You're, you're totally clueless. you don't know what you're talking about. The reality is, I think the, the one thing that I had experienced is that, you know, graduating from school, I had been rock climbing full time for nine months and got a chance to travel to a lot of different countries in the world. I had seen, I at least had this sense that logistics, the kind of logistics that we take for granted in the United States is not broadly available globally.
+
+2 (11m 48s):
+And I think that that was a kind of important insight. It was that logistics does a good job of serving the golden billion people on earth. But for the 7 billion people who don't fall into that category, your access either sucks or is non-existent. And we've been pretending for a hundred years, like, this problem is somehow excusable. Yeah. Or unavoidable. And we felt like it was not either of those things,
+
+0 (12m 10s):
+But how did you, how did you come across that that information real, I mean, it's obviously it's available to, to know, but where did you first hear about this issue?
+
+2 (12m 19s):
+I was spending some time, you know, in 2013, we were already starting to think, okay, if we're gonna build a new kind of logistics system, we're gonna need to find a public healthcare system we can integrate with. So that already meant we needed to be looking outside the us We were focused on countries where we thought this sort of technology would have a really outsized impact in terms of healthcare access. And so I was in Tanzania, I, I actually met a, a researcher in Tanzania who had built this really cool early warning alert system using cell phones, unsurprisingly. And so he had several hundred primary care facilities and hospitals using the system. Each of them had a cell phone and they would text into a database when they had a patient who was having a medical emergency and needed something specific in order to save their lives.
+
+2 (13m 6s):
+And so he had this real time database of all of the medical emergencies that were occurring across these 300 health facilities and hospitals. And I remember seeing that database and realizing that it was basically a database of death because half of the system had been built, but it, you know, they were receiving all of these emergency requests and it was like, okay, thanks for letting us know. Good luck. Hmm. And there was no other half of the system that could deliver what was needed quickly. It, so these network solutions that advance to the point where we have the information we need, we know that there is a medical emergency occurring, and we know exactly the product that is needed to save that person's life.
+
+2 (13m 47s):
+But logistics has not advanced enough to actually solve the problem.
+
+0 (13m 53s):
+We're gonna take a quick break, but when we come back, how Keller shifted from rolling iPhones to flying couriers. Stay with us. I'm Guy Raz and you're listening to How I Built This Lab. One more thing before we get back to the show, please make sure to click the follow button on your podcast app so you never miss a new episode of the show. It's usually just at the top of the app and it's totally free.
+
+4 (14m 23s):
+Officially one hour until my favorite show premieres time to get snacks delivered through Instacart. Let's get some popcorn, soda, chocolate covered almonds and, oh wait, did they release the whole season? Better Cart some ice cream for the two part finale. Visit instacart.ca to get free delivery on your first three orders. Offer valid for a limited time, minimum $10 per order. Additional terms apply Instacart, add life to cart.
+
+0 (14m 53s):
+Racing kids can be one of the greatest rewards of a parent's life. But let's be real. Some days parenting can be relentless. I love my kid, but is a new parenting podcast from Wondery that shares a refreshingly honest and insightful take on parenting. Hosted by comedians, Megan Gailey, Chris Garcia, and Kurt Brown Oler. They'll be your resident, not so expert experts. Each week they'll share a parenting story that'll have you laughing, nodding, and thinking, yes, I have absolutely been there. They'll talk about what went right and wrong and what they would do differently. And the next time you step on yet another stray Lego in the middle of the night, you'll feel less alone.
+
+0 (15m 37s):
+So if you'd like to laugh while listening to Comedians Vent about the hardest job in the world, listen to I Love My Kid, but where wherever you get your podcasts, you can listen ad free on the Amazon Music or Wondery app. Welcome back to How I Built This Lab. I'm Guy Raz. My guest today is Keller Renado Clifton, the co-founder and CEO of Zipline. It's a company that uses drones to deliver medical supplies and other consumer goods on demand. Alright, so before the break you had talked about how, you know, because the infrastructure challenges getting medical supplies to rural hospitals in, in Tanzanias, obviously a huge challenge.
+
+0 (16m 22s):
+And it's interesting because it's, it's a similar story in Africa with cell phones, right? Like, like a lot of people didn't have access to telephones because there weren't telephone lines installed all over the country. And then all of a sudden cell phones come and they essentially solve that problem. And so sort of a sim similar idea, right? Which is the infrastructure of roads aren't there and you're but, but you knew that If, you could somehow fly, you could basically bypass that problem.
+
+2 (16m 51s):
+Exactly. And that kind of infrastructure is often referred to as leapfrogging infrastructure. You know, the first people who said that they were gonna build cell phone networks in Africa were widely, you know, called idiots. People thought that was totally unrealistic because landlines hadn't really succeeded in taking off in Africa. Right. And obviously now, you know, a lot of the countries we operate in have better cell service than the United States does. Yeah. You've seen this incredible leapfrogging technology where you sort of get the technology, the use case, right? and it can actually grow in these developing economies faster than anybody really appreciated.
+
+0 (17m 24s):
+Let's, let's now sort of break down how you did this because you land on this idea, and there are a lot of things you've gotta do. You've gotta find a country with a regulatory en you know, environment that is willing to work with you to allow you to fly these drones and deliver medication. The other thing, he's gotta build the, the, the planes. You gotta build the infrastructure, the hardware to create these, you know, safe autonomous planes that can, I guess drop a a parachute of medical supplies. So let's start with that. How did you, how did you start to develop the technology? I mean, drone technology was around, has been around for a while, so was it, did you start with off the shelf equipment?
+
+2 (18m 7s):
+When we initially had this idea, you know, we started talking to a lot of different customers to try to figure out what exactly did this need to do. Like what was the actual problem we were defining and, and what needed to be the, the specifications of, of the thing that we were gonna go build. We started to understand that If, you could deliver something really quickly over a range of say 80 to a hundred kilometers. So 50 plus miles that could have a massive impact. You know, we would be able to serve hundreds of hospitals and health facilities from a single distribution center. You could keep more medicine centralized, you could send things just when it was needed. It would save a lot of lives. This is what we were hearing. And so we started building the first product in 2013.
+
+2 (18m 48s):
+By 2015 we were flying nonstop at our test facility, which was in Half Moon Bay. And around that time we were about 15 people. I started spending a lot of time talking to governments, trying to find someone who would be our first customer. And that was when we ended up having this conversation with the government of Rwanda. And I actually remember, you know, in that conversation we were saying, Hey, we have this cool technology we can do, you know, teleportation to any hospital or health facility. We can deliver any medical product to any hospital or health facility instantly. And I remember the Minister of Health looking at this at us at the time, and she, she basically looked at us like we were goofballs and said, look, shut up, just do blood.
+
+2 (19m 28s):
+And as she was explaining it to us, you know, she was, she was someone who was a true expert and, and you know, in running this kind of national healthcare system and she was explaining that blood transfusions, 50% of them were going toward moms with postpartum hemorrhaging. 30% are going toward kids. It's a total logistics nightmare because you have packed red blood cells, platelets, plasma, each of those has different shelf lives and different storage requirements. Plus you have all the different types of blood A, B A, B and O. So getting the right thing to the right place at the right time to save someone's life was really hard and there was a lot of waste in the system. And this was a product that was absolutely crucial for family health. And so she ended up saying, look, just here, deliver blood to these 21 hospitals and prove that it can be done.
+
+2 (20m 10s):
+Hmm. And so we ended up signing a $200,000 contract with the government of Rwanda to deliver blood to those 21 hospitals. And that was how we got started.
+
+0 (20m 19s):
+Wow. And why Rwanda? I mean, I'm just curious. I mean, probably a lot of people are like Rwanda, huh? But, but actually Rwanda's quite innovative around, around taking risks like this and, and trying new things, right? A lot
+
+2 (20m 31s):
+Of people may find it surprising, but the reality is Rwanda, you know, is really modeled itself on Singapore. It is a small, highly efficient technocratic, fast moving innovative country in East Africa and, you know, run by a lot of very visionary leaders who believe in technology. And, you know, they often talk about being a proof of concept country. They want to be the first adopter of new technologies and show how it works and then, you know, let other countries follow in their footsteps. And so they're unique for a lot of reasons. I also have to say, you know, when we were signing that initial contract, when we were launching during that first year, we would be on constant calls with executives and, and government leaders.
+
+2 (21m 12s):
+Saturday, Sunday, you know, Sunday, early morning, Sunday, late at night. And I just remember thinking, no US government official would be talking to us at this time. I think that by virtue of what that country has been through over the last 30 years, it is extraordinarily entrepreneurial and willing to work hard to, to move the country forward.
+
+0 (21m 34s):
+All right, so the initially the idea is let's figure out a way to get medical supplies to people in rural parts of Rwanda and eventually we'll expand beyond Rwanda. But, but really you start with blood, blood supplies, right? And, and blood, you know, has to be refrigerated, right? It has to be kept at a certain temperature. It has to be delivered fairly quickly. You could do all of these things in, in the, in in the plane, right?
+
+2 (22m 1s):
+Well, we thought we could, okay,
+
+0 (22m 3s):
+But
+
+2 (22m 3s):
+We were wrong. I mean I, you know, I, I joke because we were, we were very naive when we were launching in 2016 in Rwanda. We thought that we had a system that was gonna be reliable. We thought we had it figured out. We thought we knew how to integrate with a national healthcare system. We thought we knew how to work with a national airspace regulator. We were basically wrong about all those things. We had no idea what we were doing. Honestly, it reminds me, I saw this flag in a gymnasium recently. It's like a big flag, you know, like an inspirational flag. And, and the slogan on it is, we do this not because it is easy, but because we thought that it would be easy.
+
+2 (22m 44s):
+And when I, when I saw it, I was like, this is a perfect description of Zipline in 2017. You know, like full of optimism, thinking that we had this figured out there. We, we had signed this contract to deliver just blood, right? A very narrow part of the overall healthcare system to just 21 hospitals. And we thought, oh that's great, we'll just knock that out and then we can expand to other things. But for the first nine months we only served one hospital because everything that could go wrong did go wrong. We were really struggling to get the system to work reliably. The technology wasn't as reliable as, as we thought it would be. We didn't have a lot of the integrating software that we needed to really make the system integrate with the overall health system built.
+
+2 (23m 24s):
+So we had to be building that. And the team was pulling constant all-nighters working through the weekend. I mean, it was, it was a really painful time and it was not clear that the company was gonna survive those nine months. We were desperately, desperately trying to get it to work reliably for just one hospital. And meanwhile we were lucky that the government was patient enough to say, Hey, we know this is hard. We know you're trying to do something for the first time ever. So, you know, figure it out for that one hospital and then you can expand to the other 20.
+
+0 (23m 48s):
+And how did you, I mean, how did you work with the hospitals? Because I mean, these planes would, would, would be launched right from a, I think a central facility in Rwanda where, you know, the blood deliveries would arrive and then they'd be launched and they could travel up to what, one like round trip up to
+
+2 (24m 6s):
+About 300 kilometers.
+
+0 (24m 8s):
+300 kilometers. Wow. That's a long distance. And and they could carry that, this, this payload drop it like it would just come down parachute down in a designated spot like outside the hospital. Yeah,
+
+2 (24m 20s):
+We, we had, when we started building the first system, it was lucky that we were talking to a lot of customers cuz we were, we were considering, oh we need more complicated versions of the technology. We need, you know, to build a vertical takeoff and landing hybrid that can fly like an airplane but hover like a helicopter. We need different ways of Delivering. But the more we spoke to customers, the more we really understood all the customers really cared about was range and price. It was, you know, how do we make sure we can cover the maximum number of hospitals and health facilities by having a lot of range on the system and how do we make sure that the cost of a delivery is as low as humanly possible? Cuz it's probably not that surprising, you know, working with health systems in these parts of the world, they don't have a lot of extra money sitting around. So you have, if you're gonna solve the problem, it has to be really cost effective.
+
+2 (25m 2s):
+So that led us to build, we, we wanted to build like as simple of a system as possible. So we built a fixed wing system that really looks like a small airplane. It's, it's a small electric airplane that has a wingspan of about 10 feet. And, and we started building these distribution centers where we would launch the aircraft and recover the aircraft and where we held inventory and we would load that inventory into, into a zip, which is what we call the vehicles. Mm. Loaded into a zip when we received an order launch it, the vehicle would fly out to that maximum. You know, we guarantee a service radius of a hundred kilometers around our distribution centers and the vehicle can fly 300 kilometers on a single battery charge cause we have to go there and back.
+
+2 (25m 42s):
+Wow. But you know, from there, each distribution center was capable of serving anywhere from 200 to 400 primary care facilities and hospitals. and it really was meant to just be that other half of the system we were talking about earlier. You know, we said, Hey, if telepresence is working, then teleportation is the other half of that system. If we know that a patient needs something, we should be able to have a doctor or a nurse at that hospital, press a button on a phone and we can teleport the product that's needed to save that patient's life in just a few minutes to the GPS coordinates of that phone.
+
+0 (26m 12s):
+You are obviously in Rwanda and have expanded to Ghana and, and several other countries in Africa, co dewar, ivory Coast, Kenya, Nigeria, and, and even have some operations here in the us. But initially this, this was about Delivering, you know, medical supplies, so essentially to, presumably to medical facilities. But earlier in this year, in 2023, you announced a new, i, I guess it's a platform, but it's a new aircraft or plane. That drone that can deliver to homes essentially to, you know, to to you and me and, and, and would not just medical supplies but like could deliver food or packages.
+
+0 (26m 55s):
+Could, can you tell me about, about that sort of, I mean is it, was, was that part of the plan originally
+
+2 (27m 2s):
+Over the first year, we actually ended up serving all 21 of those original hospitals that the government had asked us to serve. And hmm. We ended up expanding from that to about 300 5400 hospitals and primary care facilities throughout the country. Wow. Then we expanded from just blood to all medical products. Today we've delivered 2 million doses of Covid 19 vaccine, 5 million plus doses of traditional vaccine. We deliver 75% of the national blood supply of Rwanda outside of Kigali, fully autonomously. Wow. And then we went from about 400 hospitals and health facilities in Rwanda to well over 3000 today across, you know, seven different countries. The system grew a lot. We, you know, we've now crossed 40 million commercial autonomous miles. It's become the largest commercial autonomous system of any kind ground or air on earth.
+
+2 (27m 47s):
+So we definitely never really expected it growing in that way. One of the most interesting things that we've heard from customers again and again and again, both healthcare customers, but also a lot of the governments we work with, is that, you know, home delivery is really the holy grail. So many of these health systems want to be able to deliver directly to a patient at home because there are a lot of cases where you can actually keep someone at home. It's much better for the patient and its more cost effective for the health system if the patient doesn't have to come into a hospital. And so a lot of the health systems that we started working with in the US for example, that are betting on Zipline, are adopting Zipline's Next Generation technology, which you were just mentioning, which is really our, our home delivery service.
+
+2 (28m 28s):
+And so we, we heard from so many of these different customers that ultimately what's needed is teleportation from a central point from any hospital or store or warehouse directly to a home.
+
+0 (28m 38s):
+We're gonna take another short break, but when we come back, how drones could eventually deliver everything. Stay with us. You're listening to How I Built This lab.
+
+6 (28m 48s):
+We
+
+1 (28m 50s):
+Can't see tomorrow, but we can hear it. and it sounds like a wind farm powering homes across the country. We are bridging to a sustainable energy future. Working today to ensure tomorrow is on Enbridge life takes energy.
+
+0 (29m 13s):
+Welcome back to How I Built This Lab. I'm Guy Raz. Here's more for my conversation with Keller Renado Clifton, co-founder and c e o of Zipline. Alright, let's, let's talk about how this would work in, in the United States because obviously it's a different regulatory environment. The FAA oversee airspace and f first of all, the, these planes would fly at fairly low altitudes, like below a thousand feet.
+
+2 (29m 41s):
+A across all of our global operations, we always fly under 500 feet. That's, that's basically the commercial aviation floor in most countries. And so it's a way of us just fully de conflicting from commercial aviation.
+
+0 (29m 53s):
+Right. Okay. So they fly low. And what, I mean, what kind of hurdles do you have to get passed before you can start to deploy these in the United States?
+
+2 (30m 5s):
+Well, we launched in the US in 2021 and the pandemic was really the thing I think that drove a lot of the urgency around that. We were seeing a lot of healthcare logistics systems struggle in the US during that time. People weren't showing up to work or humans weren't allowed to show up to work. And so a lot of logistic systems that were depending on large numbers of humans weren't working the way we hoped they would. We launched with Novant Healthcare in Charlotte under emergency circumstances. But once we started flying in Charlotte, the FAA started looking through a lot of the data that Zipline had. You know, we had tens of millions of commercial autonomous miles with zero human safety incidents.
+
+2 (30m 46s):
+And so, you know, I I think that was really this moment where the US started to realize that this was a key area of economic and technology growth where we didn't want the country to fall fundamentally behind the rest of the world. And so we've worked closely with the FAA over the last four years. The, the neat thing is, you know, today Zipline operates three distribution centers in the US that's expanding dramatically this year and next year. So the good news is, you know, although the US has been a bit of a fast follower here, they're, you know, we're, the US isn't falling far behind and, and If you live in some of the cities that we serve today, you know, homes are already receiving deliveries day in and day out via this autonomous delivery service.
+
+2 (31m 27s):
+I think it, it reminds me sometimes when people talk about science fiction, they say, you know, the, the, the future is here. It's just not evenly distributed. I think that a lot of people who hear about this sort of thing say, oh well it must not be working cuz it isn't serving me in San Francisco or in Manhattan. Mm. And the reality is, it's almost twofold. One is, well it didn't start in the us it started in, you know, rural parts of developing economies. And two, now that it's coming to the us it's starting in places like Bentonville, not San Francisco,
+
+0 (31m 56s):
+Obviously Amazon, you know, sort of famously Jeff Bezos went on 60 Minutes a couple years ago to talk about this idea, this dream of Delivering packages via drones. Right. And he makes this point too, which is that huge percent, 80, 85% of of their deliveries are under five pounds. Which is great for a drone to, to be able to deliver by parachute to somebody's home. But, but that still hasn't happened. It's been a tough nut to crack. Well, why do you think so? Why do you think that, that that's the case?
+
+2 (32m 26s):
+I think like a lot of, you know, fundamentally new and disruptive technology, the idea is easy and the execution is hard. I think, you know, we always knew, I mean, Zipline, we were a much smaller team. We were not the best funded team. You know, these big companies had been investing billions of dollars in drone delivery trying to make it work. And we never even necessarily thought of ourselves as the smartest team. But we were definitely by far the most practical that was in our dna. We were practical problem solvers. We were willing to go anywhere in the world where we could scale a service, where we could get regulatory permission and where we could operate a service that would ha have a fundamentally positive impact on the world where it could save a lot of lives.
+
+2 (33m 6s):
+But I, I would point out, I mean, the first four years of operating at scale were incredibly painful. The technology was way harder than when we, we realized, I think a fundamental realization was that we were very obsessed with building a good vehicle, building a good drone. It turns out the drone is 15% of the complexity of the problem. There is so much auxiliary software and systems that have to be built around it because none of our customers care about drones. All our customers care about is teleportation. They want something to go from point A to point B fast enough to save someone's life or create a really big economic opportunity. Hmm. And there's a lot of software and systems that have to be built in the background, whether that's, you know, communications architecture or data logging or air traffic control software, or even just the software that we use to run our little mini fulfillment centers.
+
+2 (33m 55s):
+Yeah. Customer ordering interfaces. All of this had to be built out. And I think it's a little easy probably to look at the problem and discount how challenging it is to build essentially that whole new kind of logistics system from scratch. And so that's what was really hard about the first four or five years of operation for Zipline. But luckily we weren't sitting in an ivory tower. We weren't just working, you know, doing research and development in a fancy lab, trying to build the perfect version of the product. We assumed that the first version of the product we built wasn't gonna be very good and that assumption was correct and the team had to spend four years desperately iterating and working nights and weekends in order to improve the product over time. So hopefully that gives other small groups of nerds without a lot of money and a lot of resources.
+
+2 (34m 40s):
+Some hope. Because the reality is If, you think that, you know, these big ultra wealthy technology corporations are gonna build the thing. I mean, had we been worried about what they were doing, we never would've started Zipline. And so I really think it shows, you know, money is not the rate limiting factor with these kinds of new technologies. I actually think that practical problem solving, you know, un fanciness and, you know, willingness to ship product quickly and learn from customers is actually the rate limiting factor.
+
+0 (35m 10s):
+So tell me about this new drone. I mean, it, it basically is a, also an electric drone also launched in the same way, like sort of catapulted, but it has like a rover drone inside that then is sent off to complete the delivery.
+
+2 (35m 26s):
+We sort of build on everything that we've perfected over the last seven years with regard to our enterprise service, which sometimes we call internally platform one the next generation product. We, we knew that we needed to be able to deliver with dinner plate level accuracy and deliver silently to a home. That's really what we think is required to unlock automated delivery for homes across the world. Dinner
+
+0 (35m 50s):
+Plate accuracy means it could land on under dinner plate. Yeah.
+
+2 (35m 53s):
+It means like If, you give us a dinner plate, we can deliver a package onto that dinner plate every single time. Gotcha. So that means that we can deliver to a front doorstep. It means we can deliver to a table on, you know, on the side of your house. We can deliver to a driveway for apartment buildings. We can either deliver to a little shared space right out the front door, or we can even for apartments that have roof access, we can deliver onto the roof. But we, we, we know we need to be hyper precise and we think that their sound is incredibly important when it comes to these kinds of systems. I mean, anybody who's heard a drone knows it sounds incredibly annoying. We think it's gonna be important for this overall delivery experience to be essentially silent for you as well as for your neighbors when we're making a delivery.
+
+2 (36m 36s):
+And so there's, we've invested a huge amount of time, effort, money in, in designing new kinds of hardware that, that essentially enable that kind of a delivery experience that will be very magical for someone ordering something at home.
+
+0 (36m 53s):
+So when, I mean, I know you've partnered with Walmart, for example. Let's just talk about Walmart for a moment. I mean, tell me what, what that could mean in, I don't know, let's say 10 years from now. I mean Walmart or you know, Amazon or whatever. I mean a lot of those things are coming to us via trucks and many of those trucks are electric and many of them, and there are many companies as you know, some who we featured on this show who are developing autonomous technology to essentially develop, you know, these autonomous electric delivery vehicles that will efficiently, you know, make their way through the streets of our cities and towns. But in 10 years from now, is there a world where their Walmart distribution, you know, fulfillment centers that are just like sending your drones out to make deliveries like every 30 seconds?
+
+2 (37m 45s):
+Yeah, I mean, and the, the funny thing is, again, even with that question that's already happening in the US in certain, in certain towns, you know, one of the, to, to even give a little more context to your question, one of the most interesting things we've found is that a lot of the earliest customers that we work with are already kind of going on this journey. So If, you look at Rwanda for example, we started by Delivering just blood. Then we expanded to deliver essentially all medical products to every hospital in the health facility in the country. And then the, you know, the government immediately started saying, okay, what about our other national priorities? What about agriculture and agriculture productivity? Can you deliver animal healthcare products? Can you deliver artificial insemination for cattle? It's like, okay, we'll do that. So, you know, now, now Zipline does deliver a lot of agricultural products and it was like, can we do childhood malnutrition products?
+
+2 (38m 30s):
+Now we do that. And it's like, okay, what about economic growth? Can we start Delivering e-commerce products? Can we build a new national postal service on top of the system? Now Zipline's in the process of doing that, and so similarly in the us you know, a lot of our early customers in the US were big healthcare systems like Intermountain or, or MultiCare. But as we've grown, you know, folks like Walmart have, have, have looked at the technology and said, Hey, this is gonna be really, really strategic. You know, having the ability to build a magical portal in the wall of any store where we can now just pass products through the magical portal and teleport them directly to a home in a way that is 10 times as fast, half the cost and zero emission compared to how instant delivery works today is pretty strategic.
+
+2 (39m 14s):
+And so we launched with them about a year and a half ago and interestingly for the, you know, for the homes that Zipline serves day in and day out, I mean the service went from being like sci-fi to totally boring in about seven days. So it turns out people really love teleportation and once they have access to it, they use it a lot. And so I think that, you know, the question of how long is it gonna take to expand from the, you know, thousands of homes that are served today to the hundreds of millions of homes that we ultimately need to serve. I think that that process will probably take something like five years.
+
+0 (39m 45s):
+Yeah. Yeah. It's amazing. Well hopefully it'll come sooner rather than later. Cuz I, I look forward to just clicking a button and watching a drone drop my, my lunch or my salad or my burger off.
+
+2 (40m 0s):
+Yeah.
+
+0 (40m 1s):
+On my dinner plate.
+
+2 (40m 2s):
+Or, or, or you know, something that your kid, you know, If you kid's sick in the middle of the night. You need something, something can be delivered in five minutes to your, you know, to your front doorstep. And, and keep in mind, like we think we've seen this massive acceleration of instant delivery, it's clear that the demand is there right During the pandemic. A lot of these instant delivery companies grew by an order of magnitude. But using three to 4,000 pound gas combustion vehicles to deliver something that weighs five pounds is really bad for the Planet. So we think that we kind of convinced ourselves that we were innovating while in fact we were using technology that's like a hundred years old, which is a human driving a car. Yeah. And the reality is, you know, new kinds of technology can solve these problems and weighs that are good for the Planet 10 times as fast, less expensive, and a way better customer experience to boot
+
+0 (40m 49s):
+Keller. Thank you so much.
+
+2 (40m 50s):
+Of course. Thanks for having me.
+
+0 (40m 52s):
+That's Keller Renado Clifton, co-founder and CEO of Zipline. Hey, thanks so much for listening to this show this week. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show. And it's totally free. This episode was produced by Carla Estevez, with editing by John Isabella. Our music was composed by RT Arablouei. Our audio engineer was Josh Newell. Our production team at How I Built This includes Alex Chung, Chris Masini, Elaine Coates, JC Howard, Liz Metzger, Sam Paulson, and Carrie Thompson. Neeva Grant is our supervising editor. Beth Donovan is our executive producer. I'm Guy Raz and you've been listening to How I Built This Hey Prime members You can listen to how I built this early and ad free on Amazon music.
+
+0 (42m 45s):
+Download the Amazon music app today. Or you can listen early and ad free with Wondery Plus and Apple Podcasts. If, you wanna show your support for our show? Be sure to get your How I Built This merch and gear at Wondery shop.com. Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.

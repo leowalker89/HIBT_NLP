@@ -1,0 +1,896 @@
+The Indicator from Planet Money (1s):
+Reveal the economic patterns all around us while you swipe right and left, understand money better with the indicator. One of NPR, daily podcasts, more voices, all ears, NPR podcasts.
+
+Merrill & Bank of America (15s):
+How I built this is sponsored by Merrill bank of America company. Did you know that people spend five hours a day on their phones? No surprise, right? That's how you're listening to me right now. But while you're on your phone, why not make your money work harder for you? Merrill helps you pursue your goals, whether it's buying a home, securing your child's future or your own retirement, digital investing tools. So impressive, your money never stops working for you with Merrill a bank of America company. What would you like the power to do? Learn more@bankofamerica.com slash Merrill. Wondery investing involves risk Merrill Lynch, Pierce, Fenner, and Smith incorporated a registered broker dealer, registered investment advisor member. SIPC a wholly owned subsidiary of bank of America. Corp investment products are not FDAC. Insured are not bank guaranteed and may lose value.
+
+Zola (1m 8s):
+The best weddings are always filled with unforgettable moments and personal thoughtful touches. Like my friend's Sicily's wedding, where the groom toss the bouquet for any kind of wedding you want. There's one place to start. Zola. Zola has everything you need all in one place. They've thought of everything. Venues, invites, registry and more, and they'll be with you every step of your wedding planning journey, whatever your style or budget Sola has you covered with venues, photographers, florists, and more to make your wedding happen. Once you've set the date, you can send your, save the dates and invitations, right on Zola too. There's so many great designs to choose from, and you can get a matching wedding website for free wedding planning. Shouldn't take over your life. And Zola has thought of everything. So you can plan the celebration. That's right. For the two of you start planning the wedding you want@zola.com. That's Z O L a.com.
+
+4 (2m 1s):
+You know, back then we thought you could actually, this is being naive. You could actually go to a bank, bring a business plan and they lend you money.
+
+1 (2m 8s):
+Here's my plan. I need a a hundred thousand dollars. Yeah. And I thought they'd give it to you in this a great plan. It was a great idea. And did you do that?
+
+4 (2m 18s):
+Yeah. Yeah. Yeah. Like we bought a couple of cheap suits and, and went to office Depot and bought boxy briefcases with a brass combination locks. You remember those? Yep. Yep. We went and we went, saw every bank in town. I had a briefcase, Craig had a briefcase and we would put on their desks sitting across from them in our chairs. And we would open the brass combination lock, like somebody was going to steal our chicken finger business plan.
+
+1 (2m 50s):
+Welcome to how I built this. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Raz. And on the show today, how Todd graves built one of the most popular, fast food chains in the U S by ignoring the advice of almost everyone by going through hell and high water, almost literally to raise the money. When you have an idea for something interesting, say a business or a product or an initiative inside of your workplace, you will, at some point get asked the following question.
+
+1 (3m 34s):
+How is it different from what's already out there? It's a perfectly fair question. And a question many of us are trained to automatically ask because we humans naturally assume that if the idea you're coming up with isn't totally original, well, then it's probably not worth pursuing, except that being different or original isn't necessarily a recipe for success. Just look at Google glass or Heinz blue catch-up or the short-lived short form, video service. Quimbee all of these were very different and very original and very much failures, which must mean at this point, in my introduction, I'm obligated to quote Ecclesiastes.
+
+1 (4m 19s):
+He is chapter one, verse nine. There is nothing new under the sun, even some of the biggest companies in the world like Google and Facebook were originally improvements on existing technology. So in some ways, the right question to ask isn't how is it different? But rather, how is it better? Because that is the question Todd graves could easily answer in 1996, his idea was not revolutionary. He wanted to sell fried chicken fingers, but his execution is what would make his restaurant raising. Cane's one of the most successful fast food chains in the United States on a per restaurant basis, raising Cane's earns more money than any other major fast food chain with the exception of Chick-fil-A.
+
+1 (5m 8s):
+And the entire menu is for simple items, chicken fingers, crinkle, cut, fries, Texas toast, and coleslaw. You can get a fountain, drink ketchup and a container of canes, special dipping sauce as well. That's it. And what that means is that if you only have four things on your menu, you better be pretty confident that those four things are exceptional because raising canes doesn't have burgers or frosty shakes or hot dogs or tacos to lean on if the rest of the menu sucks, but Todd's vision. At least at the beginning, wasn't to build an empire of restaurants that now numbers more than 600.
+
+1 (5m 49s):
+He simply wanted a place in Baton Rouge where students at Louisiana state university could hang out after football games or after a night of partying. And while lots of people suggested that Todd introduced classic Louisiana, Cajun spices, or even healthy options like salad, he stayed laser focused on his short, simple and efficient menu, but going from one restaurant to 600, wasn't a seamless journey. In fact, getting the money to finance his first restaurant required to dangerous detours to an oil refinery and an Alaskan salmon fishing boat. But before that happened, Todd graves grew up in Baton Rouge in a family of five.
+
+1 (6m 34s):
+His dad sold warranties for car dealerships and his mom helped his dad with the business. Todd's dad was actually a former professional football player to alignment for the new Orleans saints back in the 1970s. And Todd grew up with dreams of playing college football, just like his dad.
+
+4 (6m 52s):
+I was six, one weighed almost 200 pounds in high school playing football. Right. And so I was a quarterback and then the defensive end, you know, go in both ways. And, you know, I didn't realize at the time, but pat really made for me having a smooth childhood, you know, I was just really fortunate. You know, I was just one of the better kids, you know, or have the best kids playing sports, which also, you know, at younger ages, you know, makes you more popular. Right. And so, yeah, I was a reasonably smart kid and I worked hard in my classes. So I was part of all the honors classes. And then I liked drama. So I did, you know, plays
+
+1 (7m 30s):
+Theater.
+
+4 (7m 31s):
+Yeah. I would say I had different groups of friends. You know, I had the real smart kids that were friends, you know, and then sometimes they complained about the jocks, you know, that being friendly to them and I'd kind of bridge those together. Then you had the artistic kids and, you know, I would kind of bridge all those along and, and, and I didn't really think that was my role, but later in life, I kind of understood that it was, you know, when I look back and, you know, I think that made me more well-rounded and made me more empathetic to people being around different people in different backgrounds, different interests, but also seeing their challenges with the other groups.
+
+1 (8m 7s):
+So you were, you were the high school quarterback and a pretty good athlete. I think I'm in Louisiana. I would say Louisiana, Texas, big football and Louisiana, also baseball states. Did you ever, ever like have dreams of playing at the college level? Did you ever think, well, maybe I can, I can play college.
+
+4 (8m 25s):
+I did. And I wanted to, I just wasn't good enough to play division one. I wanted to play major college football. So we're talking LSU, you know, a big Southeastern conference school. And so I wasn't that good. I actually got offers from smaller schools to go play, but I realized I really wanted that college experience. You know, I wanted the big school I wanted the, I wanted to, I wanted the party, you know, I wanted to have fun. You know, I'm a kid of the seventies and eighties, man. We grew up with, with the movies of college being just the ultimate, you know, so I wanted to be able to do that.
+
+1 (8m 57s):
+So you actually wound up going to the university of Georgia in Athens. And I, I read that you, you majored in telecommunications and I guess started working at a bunch of different restaurants around campus while you were there. Right?
+
+4 (9m 11s):
+I did. I did. I worked at a lot of different, different restaurants and bars, so everything for more quick service types of restaurants to like, you know, mom and pop grills and bars, you know, it's a great college job. And that's really where I fell in love with the restaurant business. I was always in love with cooking and, and everything around food.
+
+1 (9m 30s):
+Did you know how to cook when you were in college?
+
+4 (9m 32s):
+Yeah, I did. You know, I just growing up in south Louisiana food is so much a part of our culture and you know, I grew up cooking in my mother's kitchen and I was always interested in it. So I learned to make intricate Cajun meals when I was young. So, but we make a gumbo and you know, that gumbo really could be made in a couple hours, but you know, you want that thing to stretch out all day and why you want it to, because you're spending time cooking with somebody and then your family and friends are coming through the kitchen. They're, they're coming in. They're checking on the progress, the gumbo they want to come in and stir that pot. It's a way to spend time together. It's a way to connect as a way to say, I love you.
+
+1 (10m 7s):
+You are doing ruse for the, for the gumbo,
+
+4 (10m 9s):
+Absolutely roots for gumbo.
+
+1 (10m 12s):
+What's the color you're looking for in that room?
+
+4 (10m 14s):
+Dark, dark, dark, dark, dark room. I have to tell you now, most of the time I cheat and I use Savala's Rue in a jar, which, which is almost as good.
+
+1 (10m 24s):
+Yeah, that's fine. No, no shame, no shame. You're a busy guy.
+
+4 (10m 28s):
+Yeah. I didn't like it's fun too. Cause I cook with my kids today, especially my son. He loves it. It's the way we spend time together. Like my mother not spent time together, but all those Cajun dishes, the crawfish ate two phase, even things just like look steak and potatoes. Like I was a junior high kids grilled in the stakes for my parents making gin and tonics for them. You know what I mean? I don't know many other kids in seventh grade that are doing that
+
+1 (10m 47s):
+Gin and tonic sun. I love that. Where was your first restaurant job?
+
+4 (10m 52s):
+The first restaurant job I had was actually I functioned as a kitchen steward for our fraternity and that gave me great experience. I just signed up to do it, you know, my freshman year. And from there we had a chef. Her name was Martha and she was man. She was an amazing cook. She cooked, you know, just great Southern food. We're talking Mac and cheese and collard greens and fried chicken. And I mean, she could cook. Great. So I spent my time in the kitchen with her going over the food, the food quality and learning that way. And then the, the owner of the business that did this for a lot of fraternities. He taught me things because I asked about food costs. You know, what is your food cost? And he had the real simple answers of, you know, it's a third of what you, of what you should sell something for.
+
+4 (11m 38s):
+So, you know, if you're going to sell something for a dollar, your food costs should be 33 cents. And from there we just went, looked at the different, I can't even remember all the names of them, just different college bars that other people worked out that I could jump onto and working for these entrepreneurs and learning, learning about food, you realize, you know, how hard of a business it is. And you also realize you have to love it. And you know, I loved it. I loved, loved the restaurant business and it was like, I love the, the teamwork. I love the immediate gratification of cooking something and serving something to somebody and them smiling, you know, and saying when, and that was good.
+
+1 (12m 16s):
+So you are one of these. I mean, I worked in restaurants when I was in high school and I liked it too. You know, worked at a pizzeria and even worked at a gas station, making the burgers and chopping the onions. And actually I think, I think that's why not a cook today. Cause I did it back then, but I can't say I loved it, but it was, there was something about restaurants and the intensity of working in a restaurant that you just loved, that you just, just connected with you.
+
+4 (12m 42s):
+It's two things. One is my mind's always rolling. It's always thinking of ideas. It's always these sayings and it's therapeutic to me. If I'm on a fry line and cook, I can focus on fry, the chicken, you know, do the fries, deliver the box. So it's immediate gratification. It's like some people why they like to cut their grass. Right? Yeah. But then too, when you're slammed and busy, you're working with a team and everybody's high stress, but that teamwork and when you're just cranking together, you know, servers like we're, we're slammed, we're behind tables, upset, no problem. We'll get it right to you. That intensity is good. And maybe that came from, you know, that's why sports is right.
+
+4 (13m 23s):
+You know, sports is high intensity. You gotta make quick decisions. You gotta roll. And dude, if you mess up, make up for it, keep going. And I think, you know, when you get done with your day, you know, you don't have a problem going to sleep that night
+
+1 (13m 33s):
+And you accomplish something
+
+4 (13m 35s):
+You accomplish.
+
+1 (13m 37s):
+Was there a point in college where you thought, I think I want to do this. I think I want to, I want to start a restaurant or run a restaurant professionally because you were studying telecommunications. It seems to me that you already in college were thinking, I think this is where this is where I'm headed restaurants.
+
+4 (13m 54s):
+Yeah, absolutely was, you know, it was, it was something I knew I could do. And I also, I wanted to, what I wanted to do was open a restaurant, the north gates of LSU, I wanted to be home. You know, I loved LSU and I was a college student that was familiar to me. I knew what college students wanted to eat. I knew it's how much college students could spend. I knew what environment college students wanted to come to. I knew hours of operation. I knew I'd have a late night restaurant because they were up late, either studying or going to the bars. And so I knew all this. And so I looked at concepts and you know, what kind of restaurant I want to start. And at that time, boneless chicken was becoming incredibly popular.
+
+4 (14m 35s):
+It was just really becoming popular. Like back in the eighties, people started saying that red meat was terrible for you. All these studies came out, right? A lot of people were saying, look chicken as an alternative. But you know, not just bone in chicken, which is what I grew up on. You started getting boneless chicken, you know, white meat, boneless strips or fingers or nuggets. And you were seeing them on menus from every war delight, national chains like Chili's would have it on the menu with a great dipping sauce. Our mom and pops would have it. Like I saw it everywhere and we ate it like crazy. And you know, I started seeing, I'm like, man, this trend is going. And you had people that specialized in it, like Guthrie's chicken fingers throughout the south Zaxby's chicken fingers and Buffalo wings and you know, different concepts like that were opening and doing well with it.
+
+4 (15m 21s):
+And so I thought that was a really good concept to start. So I called my buddy Craig Silvey, dear friends still today and told him what I wanted to do in the restaurants. And I talked to him and I said, Hey, look, this sounds pretty good. You know, let's, let's go and do this. And I said, are you serious? I said,
+
+1 (15m 37s):
+Yeah. And Craig, by the way, Craig was at LSU.
+
+4 (15m 40s):
+Craig was at LSU. Yeah. Greg
+
+1 (15m 42s):
+Was a high school friend of yours
+
+4 (15m 44s):
+And yeah, actually Craig and I had had gone to school since, since middle school, you know, or just best of friends and plus, you know, I just knew I could rely on him. He has got that kind of guy that always has your back. He's one of those, wasn't one of those kinds of friends. So
+
+1 (15m 57s):
+The, when you, when you reached out to Craig with your idea, what, what was the idea you told him you had, what did you want to do?
+
+4 (16m 4s):
+Yeah. I told him I want to do a college restaurant at north gates of LSU. I mean, I knew where the area I wanted to be, but you know, back then too, is you got to realize, I was thinking about just one location. That was my dream. I wanted everybody to say, man, that's the coolest restaurant. That's a greatest place.
+
+1 (16m 19s):
+That's where we eat. That's our hangout. That's where we get our chicken fingers and knew that it was going to be chicken fingers, fries, and drinks.
+
+4 (16m 29s):
+Absolutely. Absolutely. You know, I mean, if you look at it, our menu is like, what Guthrie's originally came back up with, like in the late sixties, you know, is that chicken finger meal with the sauce and the fries and the Cole slaw and the, and the Texas toast. I wanted to take that to another level and I wanted to make it better. And I wanted to make, you know, not only the menu better, but the operations better and, and have a little more character,
+
+1 (16m 56s):
+But I I'm curious cause you're 22 and you're thinking let's focus on one thing and that's a really smart thing to think. Okay. That's like a really sophisticated way to think about a business, but, but usually that doesn't come until many years later of just trying and failing and trying and failing. But already at the outset, you came to the realization that focusing on one thing is the way to go. And I wonder, I mean, did you come to that realization purely out of working for other restaurants and seeing the way they were doing it, wasn't working or was there another influence that led you to that belief? And that view?
+
+4 (17m 35s):
+I think a lot, it was just instincts and just part of me. And so I just always been a focus person, you know, and also too is, you know, I had worked at different types of restaurants, right. You know, restaurants that served large menu, Mexican restaurants that had so many different menu items, all that, that intimidated me doing all those different items and doing it well, it is, it is very, very, very hard, you know, cause the restaurant business hard enough by doing it. But if you focus on doing one thing that I knew I could handle at my young age, it looked without having management experience in restaurants, I'd never managed a restaurant it's work there, you know, at these different restaurants.
+
+4 (18m 19s):
+So that was less intimidating to me saying, I can, I can execute on this.
+
+1 (18m 24s):
+All right. So you reach out to Craig with this idea and he says, Hey, that seems pretty good. He's still at LSU. Right? He's and, and, and about to graduate too, same time. You're about to graduate.
+
+4 (18m 36s):
+Well, so no Craig had, cause he changed majors had another year of college, which actually was great because I was able to graduate and come back to Baton Rouge and Craig was able to enroll in business classes, which he hadn't had before, but to change his major to general studies and get a minor in business and you know, Craig and I went through the classes he could take and he enrolled in a business planning class, which was great because neither of us had a clue on how to write a business plan. And we use that semester of his class at LSU to write the business plan.
+
+1 (19m 9s):
+And just to be clear, you had just graduated from university of Georgia. So you're back in your hometown of Baton Rouge. And what, w w what were you actually doing? Were you working in town?
+
+4 (19m 20s):
+I bartended at night and while Craig was taking these business planning classes, I was going to use other resources in Baton Rouge area. So the small business development center, service Corps of retired executives, these are retired executives that help aspiring entrepreneurs or people in startup businesses all while Craig's going to class and learning about writing the business plan. And we're applying all this stuff during the day when he wasn't in class, but at night I had to bartend look, I had to live and I had to pay my rent and I had to eat and I had drink a few beers.
+
+1 (19m 51s):
+So you were going to these like free, you know, programs that are exist in cities, all over the country, the retired executives, mentors, and so on. And you were saying, have this idea for a chicken restaurant.
+
+4 (20m 1s):
+Yeah, absolutely. You know, I regretted not taking a business planning class, but I was doing a crash course, you know, and used every resource I could. I, you know, not only were these professional organizations, I went to, I went to every smart business person. I knew that started their own business in Baton Rouge. And they were always willing to sit down with me and give me their advice and
+
+1 (20m 20s):
+What
+
+4 (20m 21s):
+I should do.
+
+1 (20m 21s):
+I'm curious when you were, when, cause that's the most, one of the most exciting times of starting a business when the, the ideas in your head and it just consumes you and you're so excited. And, but what happens sometimes oftentimes is you tell people your idea and then you get enough people saying, ah, it's not going to work. Or, you know, you may not want to go into that industry. And, and oftentimes that quashes the dream and people move on. I have to imagine that you, you went to some of these business executives and they said, Todd, don't get into the food industry. It's, it's a death trap. You're, you're, you're not going to survive it.
+
+4 (20m 54s):
+Yeah. You know, unfortunately when you have an idea, you know, good or bad, but that you're passionate about, most people are negative towards that good idea. You know, it's not, and it's not because they're ill intentioned people. It's just, they want to
+
+1 (21m 10s):
+Help you
+
+4 (21m 11s):
+Protect you. They want to protect you. You're exactly right. You know, I got encouragement from the, you know, the small business development center, people, the service Corps, retired executive people and actually the entrepreneurs that started their own businesses. I got a lot of encouragement for them and great advice where I got all the negativity, which was pretty much overwhelming negativity was telling all the other people about my dream,
+
+1 (21m 35s):
+Who were, who are all the other people?
+
+4 (21m 37s):
+Well, I mean, just, just people I knew in Baton Rouge. Right? And so friends of my parents. So, you know, they would say, Hey, what do you do? And I'm like, oh man, you know, Craig and I are going to open this chicken finger restaurant and imagine hearing that. And they're like, you know, common responsibility, didn't you just graduate, don't you don't, you have a, a degree. And I'm like, yeah. They're like, well, why don't you just go get a job, get yourself a real job. And then if you still want to do this 10 years later, then you'll have that money. And then you can start your little chicken finger as
+
+1 (22m 6s):
+Sound advice, by the way, very sound advice.
+
+4 (22m 9s):
+But with every, you shouldn't do that, I used as fuel. You know, you tell an entrepreneur, they can't do it and they're going to go and work harder to prove to you that they can.
+
+1 (22m 19s):
+But if you're coming to me and you're 22 and you say guy, I want some advice. I want to start a chicken place, chicken fingers. I'm thinking. Okay. Interesting. But I would say, all right, what Todd? I mean, well, what makes you think you can make better chicken now, you know, with, with such limited experience in the industry and what would you have said?
+
+4 (22m 38s):
+Well, I mean, I did get that and dug got that a lot. You don't, you don't have management experience. You, you didn't learn a lot of these things and say, well, I was paying attention, you know? And also as my kitchen steward at the fraternity house, you don't give out to help funny that it sounded like that's my experience that, you know, what I would tell them is is that no, it's now two years is too long. You're like, I know
+
+1 (22m 57s):
+What I'm
+
+4 (22m 58s):
+Doing
+
+1 (22m 58s):
+Right now.
+
+4 (22m 59s):
+I don't have time. I'm going to figure this out. I want to do this now. And they would go, okay, okay. I got you. I got you. Well, here's some advice. If you want to do this, you know, you need to write a business plan and you need to take it to the banks because you need money to open. And that's the hardest part. And they were right.
+
+1 (23m 13s):
+It's a Craigslist class. And you say to him, let's do this as our business plan because there's a professional business school professor who can evaluate it. And by the way, I've seen an image of this business plan online. And there's some, there's some names on there that I thought they were made up names, but they're real names are like these two Swedish guys. Like where are they from? Sweden, Sweden, Swedish guys at LSU.
+
+4 (23m 36s):
+Yeah. Yeah. These guys were brilliant. It was three of them. It was Casper
+
+1 (23m 41s):
+Odd Crist, Frederick Norton. And man's home grant. I thought it was, I thought there made up names. Now these are real. Would they like exchange students?
+
+4 (23m 49s):
+Yeah, they were. So they were like NBA level Ford exchange students or LSU. I happened to get paired with Craig for this project,
+
+1 (23m 58s):
+But I'm just wondering, was it was Casper or Frederick or man's were they like, wait, who's this guy pointing at you? Like, how did that, how was he, how was he in the picture? He's not even in the class
+
+4 (24m 9s):
+Exactly. Right. You know, but I mean, that's the brilliance of like being a college student, you're just more accepting this stuff. They're like, okay, this is cool. Plus they knew they had, you know, a guy that's so motivated about this. Plus I knew the restaurant business, you know, I mean, I knew it. I, and I knew food. For example, I knew exactly what an apron would cost per shift for each crew member. Right. And I knew that because I met with a sales rep. And so nobody had that level of detail, their business plan. Cause it's more about ideas and what they want to do. We were going to start this thing, man. So I needed to know every detail of the business, you know? So I basically took my time and were the days when they were in classes I met with, I met with sales reps, I called businesses companies and got an idea of everything. So our business plan was really spot on.
+
+4 (24m 51s):
+Plus I'm a little mildly excessive compulsive, you know? So the details were just really over the top.
+
+1 (24m 57s):
+I mean, you were like literally going to like chicken suppliers and, and sort of working out those numbers, like sourcing the potatoes or, or would you, would you, were you gonna use like flash frozen fry? Like did you, did you figure all the details out around the food?
+
+4 (25m 11s):
+Yeah. So around we went, yeah, I got general numbers. Right. I knew I wanted to crinkle cut fries. Right. Does a really Poplar Southern fry. Plus my bomb cooked us, arrived at crinkle cut fries. And so let's say I wanted to do Texas toast. Right. You know, meeting with its vendors. I'm like, but I want a better Texas toast. Right. You know, raising canes has this just amazing bread. Right. But like other concepts that have Texas toast, they use slice bread. Right. And so it's just take a loaf, it goes through a slicer and then they either stick it through a toaster or they do like, we do griddle.
+
+1 (25m 42s):
+It's basically a fat piece of white bread.
+
+4 (25m 44s):
+Right. Right. Exactly. But I'm like, I want it to be more moist. I want it to be more dense and you know, what are ways we could do that to where it's not a slice bread? Well, they're like, well, we can put dough balls together and put them together. Small dobles, it'll bake together as a loaf, but it's pull apart bread versus slice, which means it stays more moist. It's more dense. Right. That's how you work with your vendors. And so when I was getting information and getting these things, I started initial talks. Right. And then it was like, okay, these are things that are in my head. I can Lola over. Right.
+
+1 (26m 16s):
+So you, you build a business plan and by the way, how many pages was it?
+
+4 (26m 21s):
+Man? I can't remember
+
+1 (26m 22s):
+40, 20.
+
+4 (26m 24s):
+Oh no, probably a hunter. We had all kinds of different, you know, financial scenarios, researching wages and different things. You know, all the information in the industry I could find about why we would be successful. Right. You know, articles like I can remember, you know, we're becoming a nation of chicken eaters and finding articles on boneless chicken popularity and going to places and stealing menus, you know? So I can go back and copy them on the thing to show, look, Chili's a serving this, you know, things like that. And it would be very hard to talk bankers into a concept that was very foreign to south Louisiana. Right. You know, very foreign.
+
+1 (27m 4s):
+What was the name of the restaurant and the plan?
+
+4 (27m 6s):
+Well, we started off with a name called Follies chicken face, Follies,
+
+1 (27m 10s):
+Follies, chicken fingers. Great name. Yeah.
+
+4 (27m 13s):
+Craig, Craig, Craig worked construction one summer. He had a guy who worked with the call to everybody folly. He's like, Hey folly, Hey by that. So we call each other folly. And, and so that's what we thought the first name would be other risk
+
+1 (27m 23s):
+Falling mean.
+
+4 (27m 25s):
+That's a good question. He just called everybody folly. Hey folly. He's a really nice guy. You know, funny guy, older guy, you know?
+
+1 (27m 31s):
+So you guys, so you, so you, you help them write this proposal and your name is not on it because you're not in the class, but obviously you're intimately part of this business plan and they submit it to the professor and what happens.
+
+4 (27m 46s):
+Well, they went to present it. So we were up all night. We, you know, finishing the details and the plan, you know, I'm a perfectionist. So it's like, wait one more time. They're like, Todd, it's good. And I'm like, no, no, no, no, no, no. And we're rehearsing it. And you know, if finished the last pot of coffee, you know, early morning, whatever time it was mid morning and they went to go present the class and I waited, I literally waited. And, and they did, they went and they did it. And then we all met right afterwards. I said, you know, how did it go? And they're a little bit discouraged. They're like, ah, you know, I don't think he was that crazy about the concept. And when I was like, what do you mean?
+
+4 (28m 27s):
+You know, what, what on earth? And he said, well, you know, they said, good, good business plan, you know, incredible detail. But concept serving just chicken fingers and south Louisiana, that's known for its Cajun and Creole foods, you know, plate lunches. It doesn't sound like something that's regionally what the tastes are of the people to start a restaurant that was for one, you know, and I'm in my head going over all the reasons that's wrong. Right. And they said, secondarily, he said that, you know that the quick service restaurant environment, you know, fast food restaurants, you know, they're, they're, they're going a different way than you're going. You want to do just one, basically one product, one meal.
+
+4 (29m 8s):
+Yeah. And do just that. And look where McDonald's is
+
+1 (29m 12s):
+Going with salad, apple slices.
+
+4 (29m 15s):
+It was, it was two things. It was variety is what they were doing. They were saying, variety gets as much variety as you can. All the quick service menu. So you don't get a veto vote. Like meaning somebody in the family says, I veto you. And then also just healthy items, grilled items, salads, all those things were becoming, that was the major trend during that point. And we were basically bucking that. And then, you know, a couple of days later we got the grade back and it was actually the worst grade, the class, but he was only a, B minus. It was only a BMR.
+
+1 (29m 45s):
+The legend goes,
+
+4 (29m 47s):
+It was devastating to me. I mean, as far as like, I was like the worst grade in the class, we put all this into it. This is gonna work. You know, you're just like, you know, you're emotional in that. And like I said, it just fired me up, but he was an easy grader. And I think he gave us a lot of credit because the plan was so comprehensive. He just had to dig it because the concept and you know, to be honest with you, you know, like we talk about faith, you know, it's like questioning that belief is, is good. Cause I was like, I was like, you know, he brings up these good points, but I'm going to buck that trip. We're going to make it work. That's why it's going to work.
+
+1 (30m 23s):
+When we come back again, just a moment. How Todd sets out to fund his B minus business plan by doing some of the most dangerous jobs in the world, stay with us. I'm guy Roz. And you're listening to how I built this.
+
+Vrbo (30m 43s):
+There's power in getting together with the people you love. And today your family, isn't just about people with shared DNA. It's also about the chosen family you found, who like what you like and know what you've been through. Maybe getting together with your people means reconnecting with your childhood friends or watching the game with your college teammates or seeing your new baby meet your best friend's baby for the first time. Or maybe it's about reuniting with the whole crew or laughing until you can't breathe or big sister real talk, or just sitting in silence with someone who truly understands you. One thing is clear. Today's families don't often live in the same city, let alone have a single place to come home to VRBO knows the best places with your people. With millions of vacation homes, your place can be anything from a charming mountain cabin or Lakeside lodge to a city apartment or luxury home with private pools, hot tubs, full kitchens and extra bedrooms. VRBO homes provide the space and comfort. You need to focus on the people who matter. Visit vrbo.com or download the VRBO app to find the perfect vacation home for your people, VRBO a place for together.
+
+ZipRecruiter (31m 56s):
+I think it's a pretty great idea to keep learning new skills, skills that are big or small, like learning how to save more money or head on a plant without killing it or how to speak Spanish or how to make a perfect pizza crust. If you're always learning, it keeps you sharp like ZipRecruiter. Their AI is always learning. So if you're hiring their AI gets better and faster at finding the right candidates for all of your roles. And right now you can try it for free at ziprecruiter.com/built. ZipRecruiter uses its powerful technology to find and match the right candidates up with your job. Then it proactively presents these candidates to you. You can easily review recommended candidates and invite your top choices to apply for your job. And now you can try ZipRecruiter for free at this exclusive web address, ziprecruiter.com/built that's ziprecruiter.com/b U I L T ZipRecruiter. The smartest way to hire,
+
+4 (33m 6s):
+Hey, welcome back to how I built this I'm guy Ross. So it's 1995 and Todd and Craig are mulling over the comments that Craig's business professor made about their business plan.
+
+1 (33m 18s):
+You know, about how fast food restaurants need to offer healthy options like fruits, slices and salad. And after carefully going over that critique, they decide basically to ignore it.
+
+4 (33m 30s):
+I didn't want to lose focus, right? I could have easily said, Hey, what's added chicken finger salad, you know, but I knew customers didn't want that. If I make the best chicken finger meal, why would you get a salad? You know, go get a salad the next day, somewhere else for some places, greatest salad, you know like, like, and I do, you know, like I'll eat my food one day and
+
+1 (33m 51s):
+I agree,
+
+4 (33m 52s):
+You know, and, and you know, hearing that from a smart professor, it made me think for a second. Then I was like, no, you know, we're gonna, we're gonna stick with our, our menu. And if we add healthy items, people aren't gonna order that anyway. And it's just going to complicate our system. Meaning lettuce produce produce goes bad quickly. That's going to complicate what we're trying to do. And it's not going to equate to sales. And I, and I knew this.
+
+1 (34m 15s):
+So now you were determined to make this happen. You've got a business plan B minus business plan, but you've got a plan. There's a slight obstacle that you've got to overcome, which is money. You need money to start a restaurant. So where did you go? What'd you? What did you do?
+
+4 (34m 32s):
+Well, we knew the next step was to take that business plan and go see the banks. You know, we needed, we needed the money. We didn't have any,
+
+1 (34m 40s):
+And you guys didn't have any, any family money or anything?
+
+4 (34m 43s):
+No, no. We had no family money. I mean, our families both did pretty well were middle-class and you know, they did well, but you know, we were raised with the belief that, you know, once you're done with college, you're on your own. And so, you know, back then we thought you could actually, this just be a naive, you could actually go to a bank to bring a business plan and they'd lend you money.
+
+1 (35m 1s):
+Here's my plan. I need a a hundred thousand dollars.
+
+4 (35m 5s):
+Yeah. And I thought, they'd give it to you in this, a great plan in this great idea. Oh, goodness gracious. Yeah, yeah. Yeah. Like we bought a couple of cheap suits and, and went to office Depot, true story, and bought briefcases because, you know, we had seen business men and women with briefcases that looked official. Right. So, you know, they had those cheesy, fake leather boxy briefcases with the brass combination locks. Do you remember those? Oh man, they were, I got it. You know? And so we went and we, and saw every bank in town, you know, we'd walk in and you know, there'd be a loan officer there, you know, he or she, and they were nice enough, you know?
+
+4 (35m 45s):
+And so we walked in with our suits and I had a briefcase. Craig had a pre case and we would put it on their desk, sitting across from him in our chairs. And we would open the brass combination lock, like somebody was going to steal our chicken finger business plan and look, they were all nice enough to us. You know, they were, they were nice. We went through it. But the common answer was, you know, this is not something that our bank would lend towards. You know, the restaurant business is, you know, it's 90% failure rate and you know, you know, franchises are the things that work because they're proven systems. You both have college degrees. Why don't you go work in the industry and get some management experience and, and save some money and, and then come back and see if you really want to do this and really want to start your own, your own business.
+
+1 (36m 35s):
+In the meantime, were you like experimenting with chicken finger recipes in your apartment where you like frying up chicken for friends and, and trying out different spices and cause you had the idea for the sauce and the chicken and the fries are another thing that's critical. But the, I mean, where are you doing that?
+
+4 (36m 53s):
+No, not really. My focus was getting the money, get the money at that point, work with the vendors to tweak the recipes, to, to get a better product. Can do that. For example, like doing the business plan, I asked about spices. I thought it'd be just simple. Right? I need poultry seasoning. I thought it'd be simple. It's like, well, there's six grades of poultry, seasonings. And one costs, you know, a hundred bucks a box and one costs 500 bucks a box. And I was like, oh my goodness. You know, I didn't know this, you know? Right. So I knew I'd have to come back later to be able to tweak with the vendors which I did.
+
+1 (37m 23s):
+So the idea was you would have this kind of recipe that you would come up with or you'd have the flavor that you liked. The third party vendor could make it and then deliver frozen or something like that. And then you would fry it onsite.
+
+4 (37m 36s):
+No, no, no, no, no. I knew all I wanted to do everything that I could from scratch in the restaurant. Yeah. A hundred percent, a hundred percent. So I wanted to get the raw chicken. Right. But I need my vendors to tell me why that chicken Tenderloin was the absolute best part of the chicken. Right. I needed my vendors. I knew I wanted to crinkle cut fries, but I need my vendors to tell me the difference between, you know, a great AAA versus a great day because I grew up cooking, but I didn't know the fundamentals outside of Cajun cooking, you know, as far as other restaurants.
+
+1 (38m 5s):
+No, but there was no point when, when you were building the business plan where you were just like frying up chicken fingers for friends to say, Hey, you got to try my chicken fingers. They're amazing.
+
+4 (38m 13s):
+So a friend reminded me, you know, a couple of years ago, you remember when you were doing different sauces that came up Cain sauce and you had us all tried the Kane sauce because yet you had a bunch of us in there. And we were trying the different ways of, of the cane sauce. And so what I remember going over was not wanted a flavorful sauce, but I didn't want a Cajun sauce. Right. I didn't want this to be a regional Cajun thing.
+
+1 (38m 40s):
+Cajun sauce was going to have cayenne pepper for sure. Right?
+
+4 (38m 44s):
+Exactly. We would have cayenne pepper in it. And everybody was like, you're going to put some kind in that. And I'm like, no, no, no black pepper is, and that's no secret. Cause you can see the black pepper fakes in there. And they said, you know, black pepper is going to be that day. So on that, I don't want this to be caged. I need this. This is a chicken finger restaurant. And they're like, well man, it's cage. I said, well, look you don't when you order your pepperoni pizza, it doesn't come with, you know, with a cayenne pepper and, and you know, and doing that doesn't really have good point.
+
+1 (39m 11s):
+Okay. So the banks are saying, you're not going to get the loan from the banks. You don't have access to family money. So you have to come up with some money to make this happen. How much did you, did you think you needed to raise?
+
+4 (39m 25s):
+Ballpark was a hundred, $150,000. What's what, in my mind, I thought we could start at four and that's without knowing the location, right? Craig still has one semester left in college. I'm bartending. We have a business plan, but we just got turned down by every bank in town. And so I'd put the word out there by my friend group. I have to raise a bunch of money to open my chicken finger restaurant and do y'all know how to make some quick money fast. I'm willing to work hard and do anything. Luckily through a friend of a friend, you know, I got to meet a guy. I didn't carry Travis, who was a foreman for Louisiana crews doing turnaround shift, work and refineries. And he said, well, that's great.
+
+4 (40m 6s):
+That's great. You go for your dream. Are you, you know, you're willing to do some hard work. Yes sir. You know, are you willing to work 90 to a hundred hour weeks? Absolutely. Seven days a week. Absolutely. Okay. You seem excited. It seemed like a hard worker. We can teach you that business. It just, it takes a certain person that wants to work that hard. And those conditions in their finery and luck would have it. I got work doing turnaround ship work. The title was boilermaker and refineries in Los Angeles.
+
+1 (40m 35s):
+Wow. So what did you do? I mean, you had no idea what this man, I mean, you grew up in Louisiana, it's an oil state, but it doesn't mean, you know, anything about oil. What did the job actually mean? What did you do?
+
+4 (40m 45s):
+Yeah. So, you know, I had to learn all of it. I had no idea what being a boilermaker was. All I knew is you were going to make a bunch of money in a quick period of time and worked my butt off. You know, that was it. And a little bit dangerous. So what happens is when, you know, when they shut down a certain section of the finery to bring it up to date, right. You know, these things have been running for many years. And so there'll be to be safety, upgrades, technology, upgrades, just replacing and doing preventative maintenance. So they bring in boilermakers, which I love that term, bolder makers. I thought that was cool. Cool, cool term. You go in and do this work and it, look, I learned great things like, you know, cutting things with a torch, you know, you have this hot rod you're holding with basic battery cable.
+
+4 (41m 28s):
+It's going to do a lot of juice and you can slice the metal like butter, you know, and we cut these things out in pieces and then bring them out the tower it's
+
+1 (41m 37s):
+Hot. Right. Hot
+
+4 (41m 38s):
+As all get out. Cause you're wearing these complete jumpsuits. Right? You got your hard hat on, you've got your goggles on. And if you were getting there, like I picture and you lit the whole thing on fire and you're walking through, that's kind of what hell would look like. It's just, it's a pretty hard work environment. But at 90 hours a week, you get quite a bit of overtime.
+
+1 (41m 56s):
+This is 1995. How long did you do work as a boilermaker?
+
+4 (42m 3s):
+Yeah, it was probably about a four month period of time.
+
+1 (42m 6s):
+And presumably, while you were working in Southern California, this is when you first encountered in and out burger.
+
+4 (42m 12s):
+Absolutely. You know, when I went to in and out burger for the first time, I had never even heard of in and out burger. Cause you know, it's a west coast thing. Yeah. I'm a Louisiana boy. And when I went out, people talked about, you know, man, you got to go buy in and out burger. Great. What do they have? Oh, burgers. Great. What else fries? Is that all? No, they got shakes. And I'm like, oh my goodness. That's, that's what I'm trying to do at Cane's. And Amanda and I see all the lines, the lines and tastes that burger and ah, it was amazing and they could serve it quickly and then learn the company history since 1948. They've been doing this. So if you imagine as all the other burger competitors, you know, they all opened around them and they added everything and did everything.
+
+4 (42m 53s):
+But since 1948 in and out burgers, but doing the same thing and doing an extremely well, and it gave me just a lot more confidence on,
+
+1 (43m 4s):
+On your condo,
+
+4 (43m 4s):
+In that my concept would work. Yeah. And I wish I had, as an example, I was just cut to said, Hey, look at it. Now it's 1948 and they're still doing great.
+
+1 (43m 11s):
+So you, you spent about four or five months working in refineries. And do you remember how much money you, you, you earned over that five month period?
+
+4 (43m 18s):
+You know, I want to say going out, working in the refineries as a boiler maker, I think I made around 25, 30 grand, right. Is what I made, which is big money for a 23 year old kid.
+
+1 (43m 31s):
+And so I guess after four or five months of doing this, from what I understand, there was a fellow boiler maker who, who said to, Hey, if you want to make big money, you should go to Alaska and go to a fishing boat. Is that, is that the story?
+
+4 (43m 44s):
+Yeah. You know, everybody Butler makers give each other nicknames. It's actually, there's great comradery among the group. This was the first group of people that believed in my dream. They were encouraging. You
+
+1 (43m 56s):
+Would talk about it with everybody.
+
+4 (43m 58s):
+Yeah. Everybody, they all knew all these Buller makers work in his spotter. He knew I was out working these jobs then because I had this chicken finger dream and they were all encouraging and you know, and everybody gives each other nicknames. And so the group said, Hey, have you met while bill Toler yet? And you know, like I said, everybody's got a nickname. I'm like, no, which one's wild bill and why should I talk to him? He said, well, he's the big guy over there. And he does Alaskan fishing and you can make more money there anywhere else. And so I went and talked to wild bill and told him what I wanted to do. And he had heard my story, but he's like, look, this is real dangerous. It's a commercial fishing for Sockeye salmon gillnetting in that Nick, Alaska.
+
+4 (44m 38s):
+So about the point when I was wrapping up my Buller, making a career, Craig was graduating from college and I called him on the road. I said, Hey man, I met this guy, wild bill. He's like, wait, what? And I'm like, yeah, yeah, I'll tell you about him later. But he spends his summers commercial fishing in Alaska and he says, we can make a bunch of money real quick, but it's going to be a really hard work. And it's very dangerous. And Craig said, okay, let's, let's do that. And so we flew into Anchorage, Alaska. Then we flew to king salmon, Alaska, and a little plane. We hitchhiked to Naknek Alaska. And we went to tent city where they had a little area where you can there's on the Tundra where you could put your tit and then proceeded to go and talk to every boat captain in the whole fishery to get a job as a green horn, which is a rookie, which is very hard to do.
+
+1 (45m 31s):
+Yeah. But you guys both do wind up getting jobs to work on fishing boats at some are not. I mean, I should mention this is super dangerous work, right. I, I actually looked this up because that summer that you were actually on a fishing boat in Alaska, there were six deaths, six deaths, you know, among salmon fishermen that summer of 1995. And it's like nonstop work. Right? It's like, you are all, you are fishing all the time.
+
+4 (45m 57s):
+Yeah. You know, this it's the same efficient trade at this point too was just incredibly lucrative. And what we are efficient for Sockeye salmon, which the Japanese bought, I want to say like 95% of it because the quality of the meat, so stakes are high and, and it's very competitive. So what captains motivated captains would do is they play chicken. And I don't know if it's still okay to do that, but man, he was back there and man
+
+1 (46m 22s):
+Hit other boats.
+
+4 (46m 23s):
+Ray, I saw other boats Ram other boats, you saw their boats sink. Actually the boat Craig was on the captain, rammed a boat. And it did say, wow. And it's, it's, it's mostly dangerous because you're so tired. You're so tired. So you get, you get careless, right? So someone gets thrown out with a net or someone doesn't get their footing when they're in CS and they break their arm. Or, you know, we're getting these reports. If someone gets scalped because the net thing broke off and went over or someone rammed your boat or, you know, I mean I saw two boats get nets caught up and someone threw a can of pork and beans and hit a guy with a boat. I mean just crazy stuff.
+
+1 (46m 60s):
+It's totally nuts. But it clearly, you, you had a single track mind here. You knew that this is what you can do. That's using ends. And you've got around, I guess, around $50,000, right. That you've saved A lot of money and you go back to Baton Rouge and presumably was this, it's still not enough to launch the business though, right?
+
+4 (47m 22s):
+No, we didn't have enough. And we knew, we knew we wouldn't have enough coming back, but we knew it would be a great start. And before we went to Alaska, we had located a great piece of property. I mean, absolutely perfect for our business at the north gates of LSU, where I always wanted to open up actually a good friend had told me this place came open and we met with a realtor, a guy named red Reynolds, rest his soul. I mean, what a great guy. And he bought into our more than anything. He bought into our passion. And so he said, Hey, I know you, boys will work as hard as you can to make this place work. And the place had turned over so many different times because he's different college entrepreneurs would start something and then it wouldn't work.
+
+4 (48m 7s):
+And then the last 10, it was a bike shop. That's actually still in business, but they moved next door. Right? So we had that. We had the place. And so after I finished the commercial fishing, Alaska Craig had went back and I got a job real quickly working as a sport fishing guide, which was just amazing work. You know, it was, Alaska was incredible. The salmon run taking fishermen out there and Fisher women or women out there was bears and Eagles. And it was amazing. And actually Craig called me and said, Hey, Mr. Red says, you need to get your ass home. And I was like, are you kidding me? He goes, he goes, yeah. I said, tell him, I'm making money. He goes, no, you're not making the same money you did when we were commercial fishing. So he said, get on back and open this thing up. Right. So I got on the plane that day and flew home.
+
+1 (48m 47s):
+So this, this location became, becomes available. It's it's I guess presumably the fall of 95, right? Or early, early winter, maybe when you're back in, in Baton Rouge.
+
+4 (48m 58s):
+Absolutely. And I knew this site, we had it, but we didn't have the money to get it yet. And so what we did have the, we had a year into this project and I had originally talking to business people, you know about it. Would you ever be interested in investing in this? And people started to listen. Now it's been a year. It's been a whole year and you've stayed with it. And now, you know, you went to bowler, make and refinery issue. Craig went commercial fishing, Alaska, like I think maybe you'll make this thing work. Two of my investors were boiler makers that I had worked with. Right. They literally just like $10,000 investors, $5,000 investors. One was Mr. Red Reynolds are a realtor.
+
+4 (49m 39s):
+Another one was a high school friend that actually worked Buller making with me out there. He said, he said, you're going to make this thing work. And then my bookie of all things, my college bookie, he paid cash.
+
+1 (49m 49s):
+So did they get equity?
+
+4 (49m 51s):
+Yeah, absolutely. The preferred shareholders got equity into that first location actually, as we continue to grow, they wanted to be along for the ride. So we, so we carry them over in a, in a capacity and still have most of the original shareholders. A lot of them got out different points of growth, but we still have still have a handful of the original investors. And then we were able to talk to an SBA lender. And I didn't know what that was originally when we went to the banks, you know? And they're like, if you raise $90,000, we'll give you a $50,000 loan. And you remember that number? I had about one 50 in my head and, you know, I had spent a bunch of the money to live on. I was like, bingo.
+
+1 (50m 29s):
+Wow. All right. So you, you raise the money, you get the SBA loan, you've got the location. And I think it was, it was, it had been like a former bike shop. Is that, is that right?
+
+4 (50m 40s):
+Yeah. They look, this location was ideal and cheaper and I think it was like 1500 bucks a month. And I ended up getting like, after options, like 50 years on the deal, it even had a billboard on the location. It was just ideal. And, and, but it was a good deal for the landlords because the old building was dilapidated. The old parking lot was dilapidated. And look, we were, we were going in and do it all these improvements and seek a 50
+
+1 (51m 1s):
+Year lease
+
+4 (51m 2s):
+With options. Yeah, absolutely.
+
+1 (51m 4s):
+All right. So you get a bike shop. How do you convert that into a chicken finger restaurant? We got our fryers. You've got to have a counter. You've got a drive-through window. You've got to have that, that much stuff, but you still need a bunch of stuff. You to turn into a restaurant and you've got 140 grand, was that enough money to convert into a restaurant and also like separate drive-through
+
+4 (51m 24s):
+Barely, barely, barely, barely, but this was great. This is the best part about it because, you know, I didn't know anything about construction, but I could learn. Right. And I could do it cheap. I think we originally got a contractor and got a bid and it was like over $200,000. Well, we don't have that. And so I finally met a really nice man who said, look, I'll help you. And you can do the work. You can, I can pull in experts when you need it. I knew a little bit about, you know, industrial construction with working as a boilermaker, but nothing about regular carpentry, electric, you know, plumbing, all that good stuff. But I learned, and I learned it. And so, you know, we got a jackhammer and jackhammer and off the bad concrete, we learned how to do plumbing.
+
+4 (52m 5s):
+We learn how to help out electricians. You know, we could save, save money and get actually a real electrician to do things, but we could be the helper, putting the pipes in doing this stuff.
+
+1 (52m 13s):
+I mean, so you're like complete gutting and an opening trying to open this restaurant. And by the way, the name was going still, this moment was going to be Follies chicken restaurant.
+
+4 (52m 23s):
+So we kind of got all Follies and we kicked around the idea of calling it sockeyes chicken fingers because of the salmon that we fished for at Alaska. Luckily we were telling a group of friends and one of them told us, Hey, we think that's a terrible name,
+
+1 (52m 40s):
+Sockeyes chicken fingers. Yeah.
+
+4 (52m 41s):
+They're like, it makes
+
+1 (52m 42s):
+No sense. Salmon, salmon, chicken fingers.
+
+4 (52m 45s):
+Exactly. Right.
+
+1 (52m 46s):
+Like
+
+4 (52m 47s):
+That. And I'm like, well, look, we gotta get some signs made for this place. And so, you know, that's a cracker that got, you got a better idea. And I had a yellow lab then as raising cane, the first
+
+1 (52m 57s):
+Your dog was called raising cane the first.
+
+4 (52m 59s):
+Yeah, he, well, he was just raising cane. He was, he was the first
+
+1 (53m 2s):
+Was he named after the Brian de Palma film, raising cane, The horror film.
+
+4 (53m 7s):
+I know about sister named him.
+
+1 (53m 9s):
+I see, I didn't know this until I did research, but raising cane is an expression. It means like to cause trouble.
+
+4 (53m 14s):
+Yeah. You know, raise a little hill having a little fun. And so she thought that was a good day and the name stuck and, you know, anyway, so when we were doing construction, I would have Kane out there knocking around people in the neighborhood, knew the, you know, and brought around. But you know, we, all of a sudden we have, we have a not only a good name, we got a good mascot for the restaurant and people, the neighborhood knew the dog. And so that stuck,
+
+1 (53m 35s):
+All right, 1996, he finished the renovations. I mean, I'm just curious, you knew you were going to make everything in house. So you were going to have the chicken, you know, marinading in buttermilk or tenderizing, and then you're going to hand batter it and fry it in the restaurant.
+
+4 (53m 50s):
+No, we, we wanted to start with some raw product. So number one, being chicken and knowing that the absolute best and most tender white meat part of the chicken is the chicken Tenderloin
+
+1 (54m 0s):
+Under the breast. He can cut it off, right? Yep. Yeah.
+
+4 (54m 2s):
+You literally put it in. It's a whole muscle product. And so it's perfect. And we knew what size we wanted. And then they'll talk about what size bird that comes from. And I always went for the highest quality and that paid off because people will pay for quality. Now I didn't price my menu accordingly, and I didn't make much money until I finally adjusted our pricing, but always went for the higher quality in what we could do in house. So like our sauce, I knew we could make that in-house our garlic butter. And we could make that in-house and that freshness of making your sauce in-house, you know, we, we evaluated that versus having to place, make it for us and putting in a, you know, in a little packet, that's vacuum sealed that you have a peel off was night and data us.
+
+1 (54m 44s):
+And by the way, I think right around this time, you also started to date the woman who would become your wife, Gwen. And, and what I, what I love about this story is that, from what I read, she was actually a McDonald's franchisee. Is that right?
+
+4 (55m 1s):
+Yeah, she sure was. You know, I met Gwen out, although we went to high school together, we didn't really know each other, but I met Gwen and I told her the story about, you know, I'm gonna open this chicken finger restaurant. And she lived by LSU too. She goes, oh, you're the guy that's doing that. She's like, good luck. And I'm like, what do you mean? And she was like playing with me. She goes, look, I've grown up. My parents have been McDonald's franchisee my whole life. She goes, I'm going to franchise McDonald's. I mean, she grew up flipping burgers, right. And she's like, and I go with the shirt thing, the McDonald's franchise, she goes, you're crazy. You're totally diff you know, different than me. You're an entrepreneur with this crazy idea of a good luck to you. And so I asked her out that night, but I said, I don't know, we're not going to actually take you out on a date because
+
+1 (55m 38s):
+You're busy. You're working all the time.
+
+4 (55m 40s):
+Exactly. And, and so anyway, I eventually was able to take her out one night and, and we really hit it off. And, and it was fun because I tell you this, cause like, we got to talk about things like, how do you salt your fries? You know, you know, how do you, how do you motivate your crew members? And, and we also, she understood the business and appreciate how hard it was, you know? And so, so there was never a, why are you working so much or things like that. I mean, look, she would open up for breakfast and we would cross paths when, because I closed down for late night, you know, there'd be weeks. We wouldn't see each other. But yeah, she, she individually opened her, her franchise in brulee, Louisiana across the river here in Baton Rouge and was a really successful franchisee for McDonald's.
+
+1 (56m 21s):
+All right. So you got this restaurant, you've got the name, you've got all the things in place. It's 1996. He built it out. You're ready to open. Do you remember what was the date that you opened?
+
+4 (56m 32s):
+Yeah, August 28th, 1996.
+
+1 (56m 35s):
+All right. So hot day in a hot summer and hot sticky, humid Baton Rouge, Louisiana,
+
+4 (56m 43s):
+Cut it with a
+
+1 (56m 44s):
+Knife and you're serving hot chicken fingers and hot French fries, but cold drinks. And you open the door and I'm sure friends and family know. And was it crazy? Was it a mad rush?
+
+4 (56m 55s):
+Oh, I actually quite the opposite because we'd had all our friends and family come, you know, the days before opening because we needed the practice. Right. We needed to practice come in and do tweaking final recipes. Okay. Try this sauce, Debbie chicken with this sauce, you know, that sort of thing. And so they've already tried it. They're, they're actually, they've had their chicken finger fill for awhile. And I couldn't tell, you know, the LSU community when we're going to open because yeah. I didn't know when we were gonna get the rope, a registered program. So literally I'm like all day, they're working on these things and I know, Hey, I got the friars ready. Drive-thru's working, you know, when are we gonna open? And so finally, sometime at night it might've been 10 o'clock whatever it was like, we opened,
+
+1 (57m 35s):
+You opened at 10 at night. Yeah,
+
+4 (57m 37s):
+Yeah. Yeah.
+
+1 (57m 38s):
+One day we were just like, let's open
+
+4 (57m 40s):
+Because we finally got the registered,
+
+1 (57m 41s):
+No flyers, no like advertisements, nothing, no grand opening, no ribbon cutting ceremony,
+
+4 (57m 48s):
+Nothing. And you know how we got people, I walked out front and you know, it's a bustling college area and started waving customers in, Hey, we're open, we're open. So a few customers started kind of trickling in, but when the bar crowd got done at two o'clock,
+
+1 (58m 5s):
+Oh yeah.
+
+4 (58m 6s):
+Then people started coming
+
+1 (58m 8s):
+Out
+
+4 (58m 8s):
+Of their hugs.
+
+1 (58m 9s):
+So you had to be open late. Cause cause that there they want, they want fried chicken. Yeah.
+
+4 (58m 14s):
+So they started coming and, you know, mostly died in cause there's people walking from bars and they wanted to continue their night, but a couple of people in drive-thru and then word started spreading. And then we started picking up and I couldn't get at physically get out of the restaurant because I had to be fried chicken. You know, we, we were
+
+1 (58m 33s):
+Chicken and Craig was at the register
+
+4 (58m 35s):
+And vice versa. We would just kind of, you know, work wherever we worked. And we were open from 10 30 in the morning until three 30 at night, you know, seven days a week. And so we had hired only, you know, about a dozen crew members. We were really understaffed. We didn't really know what we're doing. And, and they were all working just crazy loads. And we had a nap schedule, actually got an apartment right behind the original canes upstairs. It, luckily it came open right before we opened and we would just take different breaks and go nap. And you know, by the time you closed the restaurant at three 30 and you cleaned everything up, you'd be about five 30 and they need to get their back about eight 30 in the morning to open up again. And so, so I couldn't get out there and do advertising and things like that.
+
+4 (59m 16s):
+But luckily it spread around LSU and our story got out about, about we were and what we're trying to do.
+
+1 (59m 24s):
+You achieved your dream. You, you got your restaurant, you got your college hangout late night, post partying restaurant. This was your dream. You're like 24. You've achieved it. You're done. But of course that was not the end of the story. There was going to be a second store. And when did you, when did you come to the realization that actually this was not a one-off one location, business,
+
+4 (59m 51s):
+You know, seeing the popularity with the students didn't surprise me. I knew they loved the concept. I know they'd love it. I was excited and actually surprised on how quickly that first semester we were open of our volumes. You know, we really did well. I mean, look, our first month we made 30 bucks
+
+1 (1h 0m 12s):
+In
+
+4 (1h 0m 13s):
+Profit, 30 bucks in profit. And, and when I told people, they were like, oh, I'm sorry. That's all. I'm like, that's all. I mean, that means I'm positive. I mean, I could pay my crew. I could pay my rent. You know, I could pay my vendors. Like that's amazing, like yellow, understand this doesn't happen in startups. You know what I mean? And from there the next month we made more money. We made more money and you know, this went on for me. It was that first semester. And I just really got the bug all sudden, I'm sorry, realizing how to be a better leader, a better manager. And I started hiring more people and I'm like, wow, we can do one on the other side of campus. It's a different traffic flow and it's there. And I started thinking of that, that second semester, it is now 1997.
+
+4 (1h 0m 57s):
+Early in that year, we had been opened three, four months. And then I started thinking about growth.
+
+1 (1h 1m 1s):
+Here's the question I have about the quick service restaurant business. If, from what I understand, if you open up a one location, so-called fast food restaurant, you know, mom pop kind of place. It's really hard to make significant money from just one location. You actually have to have more and multiple locations to really begin to create an economy of scale and make money. Is that right?
+
+4 (1h 1m 26s):
+That is, that is so right. Yes, absolutely. You know, I mean it's quick service restaurants make tiny margins on large volumes. It's just what it is. And look, you can have a whole family work in a restaurant and I don't know a lot of great family restaurants that do that. So you lower your labor cost and everybody kind of lives out of it and you expense things out of it, but it's not the way to garner wealth. When you open multiple locations, you actually get buying power. Right. You get a, you know, you get your you're ordering more product, so your prices go down, your margins get better. It's a really tight margin business.
+
+1 (1h 1m 58s):
+All right. So you decide to start a second location. And, and how were you able to do that? I mean, did you, did you have to get another loan to open that up or did you have enough cashflow to take that money and, and open the next location?
+
+4 (1h 2m 11s):
+Well, you know, I knew I wanted to design a building and do it. And so I went back to those original SBA lenders that lend us that $50,000. And I told them, Hey, I want to do a location on side of campus. The numbers were good. And we were able to actually go in and get an SBA loan for the same lenders and actually buy the piece of property, build a building from ground up and open up just 18 months, just 18 months after we opened the first location. Wow. Yeah. I mean, you could imagine just in short order, I mean, I opened the first restaurant when I was 24 years old and now here I am out, open it up when, before I turned 26 years old.
+
+4 (1h 2m 52s):
+Wow. And look brand spanking new equipment and you know, brand-spanking new furniture and nice landscaping and everything. I mean, you talk about, you know, feel like the Taj Mahal to be.
+
+1 (1h 3m 3s):
+Here's the thing that I did not know until I started doing this show seven years ago, which is, it sounds amazing when you go from one location to the second in the food business, but actually oftentimes that's the death knell. That's what kills businesses when they opened the second restaurant, because they get in over their heads and then it takes the entire enterprise down
+
+4 (1h 3m 23s):
+Then it's, it's so true. There has never been a harder growth period at raising canes over the past 25 years.
+
+1 (1h 3m 30s):
+Then going from one to two,
+
+4 (1h 3m 32s):
+Go into one to two, never been a hard growth period. They're raising, Cane's go from one to two. What was
+
+1 (1h 3m 36s):
+So hard about it?
+
+4 (1h 3m 37s):
+Well, you know, you get excited about it and you're like, wow, we're going to grow. And then, then you, then you grow and then you realize, wait a minute. You know, I can't be at two places at once. And so I lived at that first restaurant. Now I got a second location and I have to split my time. I literally were like, holy cow. Now I've got people and I got new managers. They're not trained well enough. Then all of a sudden I have double, double the workload. And when I opened that second restaurant, man, it was, it was, it was really busy. You know, it got frantic, it got really frantic because you know, my manager would quit. That means, wait a minute, I don't really have any more time on my day, but I have to cover all those shifts until we can hire a new manager or train a new manager.
+
+4 (1h 4m 18s):
+And I want to say, I learned my lesson, but it took me years to really learn it to not stress myself through growth. But I think that's what happens when people grow one to two, you know, it's not like the problems double it, like it, it multiplies, you know, exponentially
+
+1 (1h 4m 35s):
+When we come back in just a moment how Todd deals with yet another blow just as he's adding that second restaurant, he loses one of his most important assets. His partner crack stay with us. I'm guy Raz. And you're listening to how I built this.
+
+SimpliSafe (1h 5m 0s):
+Us news and world report named simply safe, the best overall home security of 20 22, 8 third year in a row. In fact, I'm using it right now in this studio where I work out of simply safe is a comprehensive security system with sensors and HD cameras. That guard not only against break-ins and theft, but other at-home threats, including fires, flooding, and frozen pipes, monitoring plans cost less than a dollar a day. A fraction of what the leading brands charge with the simply save app control of your home and system is always within reach arm or disarm your system. Unlock your smart lock for a guest access, your video doorbell, or camera feeds or adjust system settings anywhere. Anytime you can customize the perfect system for your home in just a few minutes@simplysafe.com slash built go today and claim a free indoor security camera. Plus 20% off with interactive monitoring go to simply safe.com/built.
+
+Audible (1h 6m 5s):
+This episode is sponsored by audible 2022 is all about celebrating our newfound self-awareness and making positive change. Audible helps make space for what matters to you. It's a destination for your wellness. Whether you're looking to soul search, be inspired, work towards new goals, unwind or simply be entertained. Audible offers an incredible selection of audio books across every genre from bestsellers to new releases, to celebrity memoirs, mysteries, and thrillers, motivation, wellness business, and more plus new members can try audible free for 30 days. Visit audible.com/listening or texts listening to 500, 500 that's audible.com/listening or text listening to 5 0 0 5 0 0.
+
+1 (1h 6m 54s):
+Hey, welcome back to how I built this guy, Raj. So it's 18 months after the first raising canes is opened and Todd is dealing with the growing pains from doubling the business. He now has two restaurants located at opposite ends of the LSU campus.
+
+4 (1h 7m 11s):
+We are very busy at the second restaurant and the first restaurant was busy. So sales were there. Profitability was there. It was just in the, in the under-staffing and with people quitting and not showing up, I would burn out more crew members who would quit and it was a cycle, you know, of what was going on. And that's when Craig came to me and said, Hey man, you know, whenever you can, I want you to buy me out of the business, which was, you know, it hit me as a shock and I'm like, Craig, Yeah, this is working like, like we worked so hard. I mean, you fished in Alaska for this, you from one to two, you put in all this work and effort and it's actually working, we're cash flowing.
+
+4 (1h 7m 52s):
+And he said, no, no, I know that. And I'm very proud of that. But he says the restaurant business, isn't my dream. He was burned out. It's not my deal. He is burnout. And he S he said, look, it's it's, it's just, it's not what makes me happy. He said, I love the starting of the business and all the business side of that. And he said like, for example, Todd, if I get a night off, I'll go home and read like the wall street journal. Yeah. He goes, you'll go home. And on better ways to train crew members are better ways to do the schedule. And he says, you're, this is what you love. And crisis. One of those people doesn't measure his success by the thickness of his wallet. You know what I mean? He's like, he's like, I want to go do something else. And he stayed with me because he said, I know it might be your while because we're so understaffed and we got to get it right.
+
+4 (1h 8m 36s):
+But I mean, for months, for months. And then when I got stabbed, but he went back and got his MBA. I was actually able to hire Craig back later years later to do a, to help us be like CFO and then technology and all kinds of other parts of the business. He liked
+
+1 (1h 8m 51s):
+1999 to two and a half years in. He, he steps up. He steps away. You buy him out and you're on your own without your partner and friend to run this thing. I think at that point you had at least two locations and we're looking to open a few more in and around Baton Rouge.
+
+4 (1h 9m 10s):
+When Craig left the business, I went through a period and I don't know if it was depression. It was Rob it's a fog or how to really describe it. It felt like I had a bucket over my head full of water. It was just this, wait a minute. It's just me now. And it's my lasted a couple of months. And it was like a fog and I go to work, but I was just not really there. And all of a sudden I popped out of it. You know, it was a couple of months in, and then I popped out of it and I was like, you know what? I love this business and I want to grow it. And the reason I wanted to grow outside of just, you know, seeing B grow teams and what we could do in the community, it was the fact that the south gates of LSU location, it wasn't just students that were coming in.
+
+4 (1h 9m 54s):
+I mean, they'd come in, you know, late night, late lunch and things like that. I was having business women and men come here during lunch. I had like T-ball teams on Saturdays. I had church goers on Sundays. I mean, I was like, wait a minute. This concept I thought was just a college concept. Everybody's liking it. I mean, this thing can grow. I can be on different corners. You know, I can be like, McDonald's, you know, and as luck would have it again, there was a man Dr. Hill in Baton Rouge, one of my good mentors. And he had started like a double drive through burger chain, like rallies and checkers,
+
+1 (1h 10m 29s):
+Double drive through meaning you pull up and they come out.
+
+4 (1h 10m 33s):
+Yeah, no dine in. It's no dine. And it's just like two lanes of, through going different directions, either side, these little tiny buildings. And then they had like four locations left with their best and with their best crews. And they said, Hey, look, we want to be in the rental business. You know, we want to be a mailbox money. We're not restaurant operators. You've got a great concept. You want to take over these four locations. And at first I was like, wait a minute. Like that looks to me, like, it's a, like, if you, we did a movie making fun of fast food, you know, it'd be these little buildings, right? Yeah. That's like, that's not my crew. That's not our culture. But then I was like, wait a minute. Like, it absolutely is a great way to grow. So I talked to my team and we did it.
+
+4 (1h 11m 13s):
+And then we opened four restaurants in four months. We'd gone from wow. To restaurants for us in four months. And then the next month on the fifth month, we opened them all food court in Baton Rouge at the mall, Louisiana, because I wanted to prove that we could work in mall food courts as well. So that was five restaurants in five months.
+
+1 (1h 11m 31s):
+So once you're in and around, you're all over Baton Rouge. Now, at some point, you know, within that sort of first three, four year period, did you get people coming up to you saying, Hey, I'd like to, can I franchise this thing? Can I start a location?
+
+4 (1h 11m 46s):
+Yeah. Like crazy. Right? Because we could see the lines, the restaurants, they love the product. So people love the concept and they wanted to franchise. He wanted to bring it back to different areas. But look, this is my baby. You know, it was absolutely my baby. So I'm like, man, I absolutely don't want to franchise to people that aren't operators. Like if you're not an operator, if you're not, if you're not in this business, you don't realize how hard it is. But I did see franchising is a great way to expand the concept with experienced operators.
+
+1 (1h 12m 13s):
+Yeah. When, when did that happen? I mean, we've, we've done, you know, many interviews with different industries in the past five guys who did five guys on the show a few years ago, that model, the franchising model really is the sort of clearest way to scale a business rather than, than try to own and operate every single business. Every single location.
+
+4 (1h 12m 35s):
+Yeah. That'd be, that's what I thought. I thought that too, that was my original plan, you know, and a couple of things happen and they searched some hard lessons to learn when I started all this. So my first expansion, you know, out of the state of Louisiana was around 2004, 2005, so
+
+1 (1h 12m 53s):
+Right.
+
+4 (1h 12m 53s):
+Yeah. Yeah. Dallas and Houston. And as this is 8, 8, 9 years into it and we got our butt kicked.
+
+1 (1h 12m 58s):
+You get your butt kicked in Texas.
+
+4 (1h 13m 0s):
+Oh yeah, absolutely. Because look, I just, I just thought, and this was being cocky that, you know, Willis open a location like we do in Louisiana and everybody will come, you know, and not the case, not the case. Louisiana had that original LSU start. And so people around the state are all fans. They knew about it. Right? Well, you open in Dallas and Houston and I might've opened by the campuses there. I'm open up in Lewisville and off of Westheimer, inexpensive leases and also putting inexperienced managers. They never opened a new markets and I put them there. I didn't support them. I didn't have a conference marketing plan. And man, we lost some money. I mean, we really lost some money. Yeah, absolutely. Okay.
+
+1 (1h 13m 39s):
+People just didn't know what it was. It was just another thing. And cars drive by people pass it. They had no idea what this was.
+
+4 (1h 13m 45s):
+Yeah. They saw a big fancy building. I mean, we're building nice facilities now with a sign that says raising Cane's chicken fingers and they're like, huh. And those were some hard lessons learned at that point because, you know, I basically got to competent and then we had restart over and I had to go into those communities, help the management better actually replace some management cause they're different skillsets. Bring it back to over the restaurant, bill conference of marketing plans and really go after getting those restaurants to where they actually could cash flow and stop losing us a lot of money.
+
+1 (1h 14m 16s):
+Once, once you started to franchise to sort of pursue the franchise model and you've got people right. Paying your franchise fee and then they open a raising cane shop. There there's a risk there where you do start to potentially lose control over how they're going to operate the business. I mean, there must've been some tension early on with operators owners of some of the locations who weren't doing it to your specifications.
+
+4 (1h 14m 47s):
+Yeah. You know, franchisees, it's tough because look, they're putting their money into it, their belief, this is their business that you're franchising to them. And you know, they have a lot of say and, and, and, you know, talk about the entrepreneur that built this from the ground up, who wants it to be done. Perfect. I mean, I'm a perfectionist on the, dealer's going to be tension, but yet we had some knock down drag outs, right. And they saw some things different ways, done, not on standards, not on quality of food or taking care of our crew and giving back communities. But look, no, we don't need to do it that way. We don't need to be open those hours. And you only have so much say, if you say, we recommend this price for your meal, but they're like, no, I like this price better.
+
+4 (1h 15m 28s):
+You can't make them do that. And, and that's actually good laws in place, you know, to protect franchisees. But it, it didn't bode well with me. I loved all our franchisees. We've, we've since bought most of them out. But anyway, I had a lot of challenges, you know, with not being able to maintain the control that I like and not being able to go fix their problems for them. And so, you know, it didn't take that long for me to realize that franchising was not the way that I personally wanted to grow, who I wanted to grow with. I realized at that point was I wanted to grow with our internal, which we call general managers. And I'm like, those are the people I want to partner with. And those are the people I want to grow with.
+
+1 (1h 16m 8s):
+Just out of curiosity, what percentage of your restaurants today are owned by the raising canes? Corporate?
+
+4 (1h 16m 14s):
+Yeah, by me, I'm at like 90, I would say 95% is
+
+1 (1h 16m 18s):
+You really are. It's not, this is not a traditional franchise model at all.
+
+4 (1h 16m 24s):
+No, no, this is, this is a company owned model. It started off because of all the obvious reasons to do franchising, it just didn't fit with my personality.
+
+1 (1h 16m 32s):
+So as you kind of transitioned from, you know, these few restaurants in Baton Rouge, then to Dallas and further out, I have to assume it wasn't banks that were financing this anymore. You had to become you to go raise capital. You have to go kind of look for investors, bigger investors.
+
+4 (1h 16m 48s):
+Yeah. You know, I had to get clever. Right? Yeah. So, you know, this is a long time ago and banks were different. And so this is when Craig was CFO of the business. And I was, I was like, Craig, how about this concept? We had some angel investors, you know, namely the Scott, Dr. Hill came a mentor of mine that had those original, fast tracks. But I went to Dr. Hill. I'm like, look, doc, for this location we're going to do, I don't want any other owners in the business. I don't want to give equity, but I'll give you a 15% guaranteed interest rate, simple loan, one pager, that's going to be subordinated to the bank. So if you lend me $250,000 and subordinate to the bank, I'll personally sign a note to you, subordinated loan at 15% and I'll sign it, you know, and you'll have everything I have and it worked great for doc.
+
+4 (1h 17m 41s):
+He thought it was a great investment. Now what I would do with that $250,000 for that subordinated note, Craig would then take it to the bank. And we go to these community banks. And basically that subordinated debt was considered equity. Yeah. So I would do a location. We'd start off this way and we'd have immediate cashflow because why sales were in, but I didn't have to pay my rent for 30 days. I didn't have to pay my food vendors for two weeks, my crew for two weeks. So we got an, a rapid growth. I was creating cash and generating cash to put in the locations. I keep going back to these angel investors, spore, dated loans, and using, we had a network of so many different community banks all over that we were doing.
+
+4 (1h 18m 23s):
+They wanted that business. Now that is not the proper way to leverage your company. But I was in my twenties and I was stupid.
+
+1 (1h 18m 31s):
+You were stupid. You were stupid. But the flip side is you maintained your, your equity stake. You didn't have to give up too much of your ownership.
+
+4 (1h 18m 39s):
+I didn't give up any. Yeah, absolutely. Wow. But I got the ultimate lesson on financial security when hurricane Katrina hit and we had 21 of 28 late locations go down in the area and that cashflow stopped
+
+1 (1h 18m 52s):
+And you owned them all.
+
+4 (1h 18m 53s):
+And we own them all. And that cashflow I was doing that came all the expenses came and we had zero sales. Now, luckily we formed as a team and we were able to reopen quickly and we got out of that crisis. But if I couldn't have, I could have really, really hard our company.
+
+1 (1h 19m 10s):
+You could, as you basically took out all these different loans. And so you owed lots of people, lots of money.
+
+4 (1h 19m 16s):
+I owed banks and ODA owed angel investors that subordinated loan, you mean debt to equity. You know, you should have proper balances in your business. And that helps you get through tough times, like a major hurricane. Right. But I levered everything. Now, interestingly enough, I didn't have to go get any capital per se. I didn't have to get any partners. Right. Luckily I lived through that, but that's when I really learned to balance risk.
+
+1 (1h 19m 40s):
+All right. So about 10 years in 2006, you've got about, I think a, roughly 150 locations in the U S mainly I think in the south and Midwest at that point, I want to ask you about chicken for a moment here, because you had seen 10 years earlier, that chicken was going to be this thing that was going to explode that people are going to kind of move away from burgers to chicken. That didn't entirely happen though. You get the five guys, so nomina and their burger places all over. But I wonder did the sort of Chick-Filet Popeye's phenomenon that really began in the two thousands also have that same impact on your business.
+
+4 (1h 20m 19s):
+Yeah, I think so. You know, it's, you know, it rises all ships. So when Popeye's went crazy, the chicken sandwich wars, right. We're not known for our chicken sandwich, but our sales went up 10 and 15% because people were talking about chicken sandwiches and they were coming in by our chicken tenders. A bay people think more about chicken
+
+1 (1h 20m 36s):
+And the chicken sandwich wars was that was really like KFC Popeye's right.
+
+4 (1h 20m 40s):
+It was a Chick-fil-A. And, and Popeye's when it started, then, then everybody jumped in.
+
+1 (1h 20m 45s):
+That's what I'm wondering. I mean, 10 years in, you know, you're, you are currently locations and 10 years amazing. Right. But at the same time, you're watching all of these other competitors introduce new products on their menus. I'm sure people are saying, Hey, just do a Cajun chicken version. Just do just roll it in Cajun spice. It's an offer that or offer, you know, Cajun fries like five guys does. I mean, I'm sure people said that to you all the time. And how are you able to resist doing those things?
+
+4 (1h 21m 13s):
+Golly, if I could, if I could have a dollar for every time someone said, add ranch, add barbecue, add spicy. Yeah. Everything grilled, everything else. And you know, these companies keep adding and changing and different ideas. They lose their identity, they lose who they are. And, and, you know, I like to say, if you try to be all things to all people, you're nothing to none, you know, it's just, it's, it's you, you, you spread yourself then. And so, you know, one thing too, that's, that's sad. My industry, it's not used to be founder driven, you know, it used to be, you know, all the founders, it was, you know, of their businesses. And there's very few now, you know? And so when you're a founder, you know, and, and this is a family business and you care about your crew.
+
+4 (1h 21m 54s):
+Like it's a lot of integrity. And so many of these, these, these people in the rest of the restaurant industry in general founders get bought up by private equity, right? And then it becomes a business transaction and CEOs come and go and CFOs come and go, and marketing comes and goes, and everybody's got new ideas and new things and sales this quarter and this, you know, I mean, and all those things, and it's not really built for longevity. It's built for profit profits and five-year turnarounds and selling and all that stuff is. And so if the reason why I never gave in was I knew it was the right thing for us. You know, it's our one love what makes us successful and we're going to stick to it. And it holds true. We have we're we're the second highest average unit volume in all of quick service.
+
+1 (1h 22m 35s):
+Wow. It's like, I ripped some like three and a half million dollars per restaurant.
+
+4 (1h 22m 39s):
+Yeah. Or over a 4 billion average,
+
+1 (1h 22m 42s):
+I guess, to put that into context. I think number one is Chick-fil-A
+
+4 (1h 22m 46s):
+Number one is Chick-fil-A
+
+1 (1h 22m 47s):
+And by comparison McDonald's is like two and a half to $3 million per location.
+
+4 (1h 22m 52s):
+Right. Right.
+
+1 (1h 22m 53s):
+I know that you've got something like at the time of this recording, something like five hundred and sixty five seventy locations, maybe more.
+
+4 (1h 23m 3s):
+Yeah. I think we're at 613. We actually opened seven restaurants yesterday
+
+1 (1h 23m 7s):
+And growing quickly, like in an average year, how many restaurants do you, do you plan to open now?
+
+4 (1h 23m 12s):
+Yeah. We planned to open a hundred to 110 restaurants in the next 12 months and then increase that
+
+1 (1h 23m 18s):
+Number. And now when you open them, people know what they are.
+
+4 (1h 23m 22s):
+Absolutely.
+
+1 (1h 23m 22s):
+Yup.
+
+4 (1h 23m 22s):
+It's, it's nice having that. You know, we've been a business now for 25 years. So you have people that have actually been to canes somewhere, you know, we're in like 33 states and they're just fanatical about
+
+1 (1h 23m 32s):
+Yeah. Well, when you think about this journey, I mean, I know you were so motivated and you were confident this was going to work, but when you now see what you built, I mean, how much of that do you attribute to, to luck and how much to the work you put into it?
+
+4 (1h 23m 48s):
+So when you got to have a great concept and then two, you got to work your butt off to do it, but you need help along the way and you need luck. So you need people that help you. These angels come about help you, and I'll have things come along with that that's luck. And you take advantage of it, right? I mean, naming the dog, right? That was luck. You know, our, our, our logo comes off a mural and covered in the first location, renovating it that's they, that was luck to see that. And these are rich things in Cain's history and lore.
+
+1 (1h 24m 13s):
+I mean, looking back at your story, I'm not surprised at your tenacity and you know, all the things that you did and your commitment and all the people said, don't do this. And you were just committed to this. But on the other hand, it is quite amazing. I mean, it is a theory, straightforward, simple concept, chicken fingers, fries, toast, coleslaw into a billion dollar business. It's quite an amazing thing. I mean, do you ever sort of step back and just think, wow, how did that happen?
+
+4 (1h 24m 47s):
+Yeah, pretty much every morning when I wake up, you know, I'm so blessed that the restaurant was so hard to start. So when you have that, you don't take anything for granted our projections this year, we'll do about $3 billion in sales, right. In opening another hundred, hundred restaurants. And these are all great things, but it still gives me that little bit in my gut, that little scared feeling in your gut, that little feeling that keeps me, you know, waking up and working late and working hard and doing this. So I'm always blown away by it. I mean, I think the day this doesn't cease to amaze me would be the day I'd have to get out of it, you know? And that day will never come. What's a great quote. When you think you've arrived, it's time to show you the door.
+
+4 (1h 25m 27s):
+Like, I feel like we're just getting warmed up.
+
+1 (1h 25m 32s):
+That's Todd graves, founder and CEO of raising canes. The graves family still owns a majority of the company and Todd's wife and kids are all involved in the business. And the family still has a pet yellow Labrador retriever. The current dog is raising cane. The third and every year for Mardi Gras came the third, like her predecessor came. The second serves as grand Marshall of the crew of Mudd's parade in Baton Rouge. Todd, I'm going to give you, I'm going to give you my secret ingredient for my fried chicken. I'm going to tell you, I don't think I've ever told anybody. I would tell you right now.
+
+1 (1h 26m 12s):
+Okay. Wait to hear it. My secret ingredient for my fried chicken ground fenugreek. No kidding. So now that I've told you my secret ingredient, what's in the, what's in the Cain sauce.
+
+4 (1h 26m 24s):
+I knew this was coming well. You know, the old adage I would, you know, I could tell you, but then, you know, then you know what happens, what I'd have to do.
+
+1 (1h 26m 30s):
+Fair enough.
+
+4 (1h 26m 31s):
+Only me and the dog actually know everything that goes into it.
+
+1 (1h 26m 35s):
+Hey, thanks for listening to the show this week. If you want to hear the next episode of every show, one week early, check out Amazon music. If you want to listen one week early in add free subscribed to Wondery plus in apple podcasts or on the Wondery app, please do follow us on your podcast app. So you always have the latest episode downloaded. And another way to support the show is by filling out a survey at wondery.com/survey. If you want to follow us on Twitter or Instagram, our account is at how I built this on Twitter. Mine is at guy Roz and on Instagram it's at guy dot rods. This episode was produced by Liz Metzger with music composed by Tina or bluey.
+
+1 (1h 27m 16s):
+It was edited by an Eva grant with research help from Claire Ashima. Our production staff also includes Casey Herman, JC Howard, Alex Chung, Carrie Thompson, Sam Paulson, Elena coats, and Josh lash. Our intern is Margaret Serino. I'm guy Roz. And you've been listening to how I built this
+
+Wondery: Call Me Curious (1h 27m 45s):
+From wondering, call me curious as a podcast hosted by Nikki Boyer. That finally gives you definitive answers to life's burning questions. We're all on 24 7 information overload on our newsfeeds in our inboxes on Tik TOK. It's so hard to know what is real and what isn't. When it comes to health, pop culture and relationships. That's why Nikki is bringing you call me curious every week on call me curious, Nikki dives into all the things you've heard about, but don't really know about that's right? No more nodding along at parties or running to the bathroom to Google. What is cryptocurrency you'll learn and laugh along the way as she explores life's little mysteries and the internet hottest topics like does intermittent fasting work or is it true? You can't die in your dreams. You'll find out with Nikki and some of her hilarious friends on her podcast. Call me curious, listen, to call me curious on apple podcasts, Amazon music, or wherever you listen. You can listen early in ad free by subscribing to one repless in apple podcasts or on the Wondery app.

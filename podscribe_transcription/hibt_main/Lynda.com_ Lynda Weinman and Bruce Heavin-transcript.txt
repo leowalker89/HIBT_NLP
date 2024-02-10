@@ -1,0 +1,656 @@
+0 (0s):
+This message comes from NPR sponsor, Samsung with the Samsung galaxy Z flip three 5g unfold. Your screens are your best angle shoes. What you wants to capture, set it down, stand back and shoot 5g connection and availability may vary check with carrier.
+
+1 (18s):
+I cannot imagine that in 2001, the online videos really took off because people had dial up. It was really hard to see videos on the internet. Am I wrong about that? But no, you
+
+2 (29s):
+Were totally right. We were way too early. And the first year, I mean, I remember we took a poll among the office, like in a jar people put the number of subscribers that they thought in our first month that we would get no one guests low enough. <inaudible>
+
+3 (53s):
+From NPR. It's
+
+1 (54s):
+How I built this a show about innovators, entrepreneurs, idealists,
+
+3 (58s):
+And the stories behind the movements. <inaudible>
+
+1 (1m 4s):
+I'm guy Roz. And on the show today, how the wine men turned her fascination for the first back computer into lynda.com publishing powerhouse that produced thousands of how to videos and sold for a billion and a half dollars. One of the lessons I've learned from interviewing hundreds of entrepreneurs is that there are often three very distinct phases in the journey toward turning an idea into something bigger and not to shamelessly plug my book. But if you've read it, Neil's Parker, my coauthor and I write about this insight in the first chapter, basically in phase one, the entrepreneur is a hobbyist.
+
+1 (1m 50s):
+They have a passion for something. And that leads to an idea. If that passion also solves a problem that the person has, they become a tinkerer. But if that passion turns into an idea that solves a problem for lots of people, well, then you become an entrepreneur. This is the story plays out again and again, and again, like a good romcom. The basic outline is the same, but the nuances, the details, the trials and tribulations are always different. And Linda Wineman, she started out as a hobbyist. She bought the first model of the apple Mac and loved it.
+
+1 (2m 32s):
+She learned everything she could about it. And soon what she learned about the Mac solved a problem she had, which was how to create better graphic designs. And with that, Linda transitioned into becoming a tinkerer. And because it turned out that the lots of other people she knew needed to solve that same problem, they asked Linda for help and paid her to do it. And at that moment she became entrepreneur. This is an oversimplification, of course, but it's the rough outline of how Linda and her husband, Bruce Haven turned a passion for teaching computer assisted graphic design into an online learning platform called lynda.com a platform that would go on to produce tens of thousands of videos on everything from how to build websites, to how to manage your finances.
+
+1 (3m 24s):
+But they started all of this as a class. Literally they rented space in OHI, California during spring break and taught eight dozen or so students how to build websites. And that evolved into videos that they sold on VHS and DVD, and eventually into streaming videos with a subscription. And by the way, now might be a good time to mention that like so many people we've had on the show, Linda and Bruce had no business background. Linda was a teacher and Bruce was an illustrator and painter. And as you'll hear, they made many of their most important decisions by instinct or by accident.
+
+1 (4m 7s):
+But as the internet grew up, lynda.com grew too. And gradually it became so successful that in 2015, it caught the eye of LinkedIn, which bought it for one and a half billion dollars. It's a story that would have been unimaginable to both Bruce and Linda when they were growing up. We'll bring in Bruce in a few minutes, but for now, you'll hear from Linda who grew up in the middle-class neighborhoods around LA and in the San Fernando valley, her early life wasn't easy. She doesn't really remember what it was like when her parents were married.
+
+2 (4m 41s):
+My parents split up when I was three and I lived with my mom from the time that I was three until six. And then I lived with my grandparents for a year when my mom remarried and my dad had remarried and neither of their respected spouses quite signed up for kids. So there was a, a year long period where I lived with my grandparents.
+
+1 (5m 8s):
+You had a brother and sister growing up. Right? Correct. And so the three of you, little kids just constantly being shuffled from one parent to another parent to grandparents to yep. So that, I mean, to say the least sounds like a pretty unstable childhood.
+
+2 (5m 27s):
+It was, and I was the oldest. So it kind of started a lifelong sense of responsibility in me because I felt responsible for my siblings. And I felt that at a very, very young age and I also am kind of a serious person. I can be a very hyper-focused person with a lot of seriousness. And I think it's from that early childhood experience of going from different households to different household and also the feeling of not really being fully wanted and, and needing to protect or feeling that I needed to protect my siblings.
+
+1 (6m 7s):
+Hmm. I mean, God, that thing you just said, just like, it was like a dagger. Cause I think about my own kids and to imagine being a little kid and feeling like you're not wanted, I mean,
+
+2 (6m 19s):
+Yeah, it was a pretty powerful, you know, it was, it was not a positive childhood, but there were positive things about it. You know? I mean, our memories are so selective and I do have positive memories, many, you know, I love both my parents. I think we'd love our parents no matter what their flaws are and what their problems are. And I loved my grandparents and I loved my siblings and there was a lot of love. I have to say, even though there were many problems, I have never felt unloved. I felt unwanted, but I've not felt unloved. If that makes
+
+1 (6m 55s):
+Sense. How are you in school? Were you a good student?
+
+2 (6m 59s):
+Well, in the beginning I was a straight a student, you know, in, when I went to first grade, they actually skipped me up to second grade and you know, my strengths were in my verbal skills. And so I had perfect handwriting. I was really good at art. I was, I was at a goody two-shoes. I like to, you know, do what the teacher asked me to do. I wasn't a troublemaker. I was just, you know, trying hard to succeed with the air quotes. And that was, I think also part of the beginning of another trait that I have that is not always a positive trait, that I'm a people pleaser and it carried into business life into romantic life, into friendship life.
+
+2 (7m 42s):
+It's just who I am. I'm this Uber responsible person. And that's just been one of my coping mechanisms is, you know, I had to count on myself. Yeah. And I had to have other people count on me.
+
+1 (7m 56s):
+I read that for high school. You, you went to an experimental school in, in Hollywood called Sherwood Oaks. What did you study there? Was it like just kind of an environment where you learn by, by being around the people who choose to also be in that environment?
+
+2 (8m 11s):
+We did have some formal classes. You just had the choice whether to attend or not. And so I remember taking native American history. I don't remember any science or math. I'm sure I didn't do any of that, which is so funny that I ended up in tech, but you know, I took yoga. I remember that. I mean, it's very funny because we had a reunion maybe about five years ago and all of us had romanticized this high school education that we had had. And when we got together in this reunion, we just all discovered that we were raised by wolves and it was terrible. And you know, we would've never put our own children in that situation. And it was not quite, you know, animal house, but there was a lot to it that was questionable.
+
+2 (8m 58s):
+But you know, I credit this for, so I think this is something in me that so many people envy that I have, that I possess, which is this ability to find what I'm interested in and really dive deep and take no prisoners and unapologetically just, you know, go at something new, teach myself. And it rewarded that that was what was rewarded, not doing well on a test or memorization or getting into an Ivy league school. None of that to me was important.
+
+1 (9m 33s):
+So for college, you go to evergreen college in Washington state and you studied museum studies. You intended to become a museum curator. You graduate, I think in, in late 70, 76, but you could not find a job in museum curation. And so you had to figure out what to do. Did you come back to LA? Yeah.
+
+2 (9m 57s):
+I moved back to LA and I had gone into a gallery to apply, but that they didn't have a job at the man also owned a gift store and he said, I need a manager for my gift store. And he hired me with no gift store management experience, but I became the buyer and the manager for his gift store. And that opened up another career possibility to me, which
+
+1 (10m 18s):
+Was retail. From what I saw
+
+2 (10m 20s):
+Was to own a store. I talked my grandfather into loaning me the money to open a store when I was 23,
+
+1 (10m 30s):
+Your grandfather lent you some money to open up a store. And from him, from what I understand, it was a, a new wave and punk outfitter's retail store called vertigo. Am I describing that correctly? Yes. And it was on, on the sunset strip. One was
+
+2 (10m 43s):
+On seven. I said strip and I opened another one on, on Melrose in the early days of Melrose.
+
+1 (10m 48s):
+So this is like the height. This is 78, the height of the punk scene. I mean, yeah. Sounds like a great idea. It was like, you know, new wave punk. I mean all that music's coming out. Were you into that music?
+
+2 (10m 60s):
+Yeah, I was. And I was also, I wouldn't say that I was punk. I was, I was much more new wave and electronic and I was a little more mild than some of my more punky friends. So
+
+1 (11m 12s):
+You had the store and you, you get what like bracelets and things for your hair and accessories, your clothing. And like, I don't know, safety pins. Well, a lot
+
+2 (11m 23s):
+Of celebrities who shopped in both areas, both on Melrose and on the sunset strip. So like, one story I love to tell is I was in the store and there was this really small kind of dark skinned man who was draping leopard leggings over his arm. Like he was gonna, you know, open his own store without my inventory. And I was just sort of like clearing the racks, who is this person? And then he came up and he gave me his credit card and it was prince. Yeah. You know, and I had ZZ top by like a thousand Ray-Ban sunglasses for me, one time to give out a concerts, just stuff like that, you know? Well,
+
+1 (12m 2s):
+What a thing to do, but it, it failed. It
+
+4 (12m 7s):
+Did not what happened, you
+
+2 (12m 10s):
+Know, what happened was I was 23 owning a store and I didn't really know what I was doing. And I, I had a lot of, you know, there was shoplifting and there were employees who were stealing and I was giving stuff away to friends. And, you know, I just, I didn't understand the mechanics of business. You
+
+1 (12m 27s):
+Ran it for four years. So what was the point? Trust me, w w what was the point where you realized it was not going to survive? Do you remember, like you were looking at your books and
+
+2 (12m 38s):
+There was just no more money. And, and I was miserable and I had had an enormous failure, and I did feel that I just was never going to stick my neck out like that again. And it was awful. And I, you know, I felt like it was the biggest thing I'd ever done in my life. And the last thing I could ever do that was big. Like I was relieved to get out of the store and I was happy to just go back to just only having to worry about me.
+
+1 (13m 6s):
+So, so this is, this is around 1982. And what do you do at that point?
+
+2 (13m 11s):
+Well, I was living with my boyfriend, Chris Cassie at the time, and he was an animator. And so I just started helping him out and learning how to be his helper. He
+
+1 (13m 21s):
+Was an animator on, on films. He
+
+2 (13m 23s):
+Had his own company get worked on the original star wars, and he was doing rodeo effects, which just, it basically like the light sabers in star wars were, rotoscoped where they had to, they had to trace where the, you know, it looked like the light was going to come out of the sword. And then the sword effect was put in through photographic, special effects. And so that process was called rotoscoping. And I was, I learned how to be a rotoscope artist. I learned how to run the camera and animation and lots and lots of other skills from Chris, just because I was his girlfriend. And, and so it was sort of, I fell into it
+
+1 (14m 2s):
+And I read that, I guess it was 1984. And, and you happen to buy one of the early apple Mac computers, and you just like, became obsessed with it. Yeah.
+
+2 (14m 15s):
+And I saw the map on display and I just, I couldn't believe it I'd never seen anything like it, it was so revolutionary at the time as we all now know, but the visual, you know, user interface and the fact that, you know, it had fonts and you could draw on it. And it was just so exciting to me that I just had to have one, even though I couldn't afford it, I, I bought it at a, with my may company credit card for $2,500 for the very first Mac, which if I had saved it, it would be worth, you know, and this was,
+
+1 (14m 47s):
+I mean, for people to remember this, this was totally revolutionary because it was like icons, like little pictures. It wasn't the command lines. She saw pictures and you had a mouse. And for me, it was just way more exciting.
+
+2 (15m 4s):
+I think for some people they were horrified, you know, if you're in, if you're in the business world, you're looking at it going, well, it's a little toy, you know, and for me, it's like, wow, this is a really fun toy. So
+
+1 (15m 14s):
+I guess pretty soon after you got that Mack and, and started to kind of really understand it and play around with it, people asked you to help them learn it, right? Like just informally people say, Linda, can you show me how to use this? Yeah.
+
+2 (15m 26s):
+And, you know, they were willing to pay me what I was earning, doing special effects. And it was like, I felt like I was getting away with murder. I was getting to learn something new. Do my hobby be part of this, you know, really fun group of people who are all learning the computer together and get paid to me. What was really well at the time. I mean, I think it was something like $15 an hour, something that today wouldn't be a lot of money. But to me it was, it was just amazing.
+
+1 (15m 52s):
+I'm trying to figure out how you, how you figure this out. Because the manuals at the time, from what I understand were super technical and really designed for people with engineering backgrounds, they were not accessible. And yet you were figuring out how to do things that most people didn't know how to do. Was it well, how do you explain that to yourself? Did it, did it just come easy to you or
+
+2 (16m 13s):
+What, no, it doesn't come easy to me at all. It's it's like, I feel, you know, like I'm a complete idiot as I'm doing it. You know, I think because it was this more friendly user interface on the Mac and there were menus and you could just try everything and you're not going to break it. And I think the other thing that I would do is I asked a lot of people for help. I've never been shy about asking for help. I'd get an assignment. I had an assignment to do animatics, an animated storyboard on a Mac. And I worked directly with William Shatner on one of the star Trek movies. And I had never done anything like that. And I had to build the Starship enterprise and I had no idea how to build the whole, the whole is a very complex shape.
+
+2 (16m 58s):
+And I was using all this sort of Macintosh, really early 3d software. And so I just started asking people, you know, how to do it, going to use a group meeting, met all these amazing people. And I was doggedly persistent and stubborn about wanting to learn it. So,
+
+1 (17m 16s):
+Yeah, you were, so you were doing more consulting around animation and how to use max. And from what I understand, I think around 1989, you were invited to give a guest lecture at an art school in Pasadena and, and that eventually led to a full-time teaching gig.
+
+2 (17m 33s):
+Yeah. While I was there, I taught Photoshop, illustrator, painter, multimedia, interactive design, and ultimately web design. When I, when I taught myself how to do graphics for
+
+1 (17m 46s):
+The way, this is the late eighties, early nineties. So this is really, most people started to use the internet the by web. And I've read that, like, you actually bought a domain name, you bought lynda.com and initially to communicate with your students.
+
+2 (18m 2s):
+Yeah. While, okay. So I had wanted to assign a web design book to my students. Once I realized that you could put graphics on the web. And I had maybe the realization before a lot of other people that this is going to change graphic design forever. And so I went to the bookstore to find a book and all the books, there were only HTML books teaching how to do the coding for the web, but not barely a mention of how to do the graphics. So I, I decided in the bookstore, I'm going to write this book because I've already been writing curriculum for my students. And I wrote the book proposal and it was rejected. And so I submitted the idea to a magazine publisher, and I wrote the chapters of my books as monthly magazine installations.
+
+2 (18m 51s):
+And while I was researching my magazine column, I came across debbie@debbie.com and she wrote me an email and she said, hi, I'm Debbie. And I have a webpage with all the Debbies who are on the web. It was
+
+4 (19m 5s):
+So awful. Debbie's on
+
+1 (19m 8s):
+The web. How many Debbies were that in, in the early nineties, her webpage
+
+2 (19m 11s):
+Looked like a single page with just 20 links to different deputies who are currently on the web that she could find. And I thought, you know, wow, I wonder if linda.com is available and sure enough, it was for $35. So I bought it. And then as I eventually, I not only got a publisher interested in the book idea, but I had two publishers competing against me for the contract. And I ended up, you know, really using lynda.com as my sandbox to teach myself web design. And also at the time, oddly, it was a division of McMillan that had published my first book. They did not have a website.
+
+1 (19m 50s):
+Wow. And this was a book on web design, web
+
+2 (19m 54s):
+Design, but no one has a website, my publisher doesn't art center doesn't but I do so I'm so lucky. There's no social media. There's no way to really go viral. But because I had had lynda.com for so long, and it was in my book as the URL and it was where all my arts center students go, it just, you know, it got more and more and more popular. And it was, you know, there were times where we would look at where we ranked in the world in terms of traffic. And we would be in the top 100 websites in the world, you know, because we're just so early
+
+1 (20m 25s):
+Because there was nothing else out there. Yeah. Yeah.
+
+2 (20m 27s):
+I mean, people, you know, when I did write that book and it was at the time, the best selling web design book in the world used at every college. I still have people to this day who tell me your book is why I had a business, how I got my first website, how I got my first job, because my idea was different. Every other publishers idea, they were focused on the techie side and the programming side, and mine was more for the visual artists and the mere mortals who want to use technology. And, and nobody else kind of took that angle until, until I did. I'm sure they would have, I just was there before anybody else, you know? Yeah, yeah.
+
+1 (21m 7s):
+Yeah. Let Linda, I want to pause for a moment and go to Bruce for a sec. Yes. Because this is roughly the period. I think where the two of you met and then went on to become partners. And as I understand it, Bruce, you met back in like 89, 19 90 at the art center where, or Linda was teaching and you were actually a student in one of her classes, right?
+
+5 (21m 32s):
+Yes. I was in her class and she taught Photoshop. She taught painter and she taught illustrator. And I still remember things being in black and white. I'm not sure if those color that. And I remember the, see things in gray scale, I'd have to send it to a printer and it would spool and take about 45 minutes, the
+
+1 (21m 58s):
+Printout and Linda, you, at that point had been divorced from your husband, from your first husband. And did you, I mean, did you notice Bruce? I mean, I'm sorry, it's a little awkward, but did you sort of like stick out to you and you thought, oh, he's, he seems like an interesting guy or was he just another student? Well, he has stuck out to me because
+
+2 (22m 20s):
+He fell asleep in the class. The number of Sims, his eyes were always really bloodshot and I thought he might be on drugs. He never made eye contact. Great. First impression, Bruce, he never made eye contact. And I wasn't aware that he was turning in any homework. So yeah, after, you know, they make you as a teacher halfway through, you have to let anybody who's in danger of failing the class, kind of know, give them a warning. And that was the first time that we ever talked was when I gave her that
+
+4 (22m 51s):
+Warning. Wow. So he was failing
+
+1 (22m 53s):
+In your class. There was any kind of relationship between the two of you was not anywhere near on the horizon. He was just a failing student in your class.
+
+2 (23m 2s):
+Well, he was a really, what I learned later was he was an incredibly shy person. Right. He didn't really make eye contact with very many people period, including me. What I learned was his eyes were bloodshot. Cause he'd stay up all night painting. You know, he was just a possessed painter who, you know, just painted constantly. Like I remember, you know, being in a faculty meeting and they were just going on and on about students and how we have to hold them to certain standards. And I think I even said, you know, what would it be like if you had van Gogh in your class? Like what kind of student would he have been? And I was actually thinking of, fruit's not that he was like, not that he was van, his work looked like van Gogh, but he was like a socially, wow, shut down person who was doing this astonishing work.
+
+1 (23m 50s):
+Bruce, what do you, what do you remember about how the relationship began? I mean, what, what was it about Linda that made you want to spend more time with her? You
+
+5 (23m 60s):
+Know, we, we didn't spend a lot of time together in school when I was there at all. I would see her during class and, or I'd get a little finger wagon at me at the end of the class about maybe not getting something done.
+
+2 (24m 17s):
+I mean, it was really after he graduated that I got to know him and fall in love with him very unexpectedly, but it was never on my radar to fall in love with a student or, you know, somebody younger than me or somebody, you know, I mean just the differences in our personalities and our experience levels. And, you know, I already had a child and you know, I'd been a hippie and you know, I mean, it was just like, we were so different.
+
+5 (24m 45s):
+You know, we, we really reconnected a couple of years after school, after I graduated, we connected actually in New York city, we were somehow at the same place at the same time. And we met there and then we just talked about, you know, I think she has got to throw a party back at her place in LA and she had a party and she had all of her friends. And I just remember I met her daughter for the first time and she handed me an empty case of chapstick and the countless coat covered and lipstick and
+
+1 (25m 17s):
+The cat was covered in lipstick,
+
+0 (25m 20s):
+Chopstick, chapstick.
+
+5 (25m 21s):
+This was my introduction to Linda's daughter. She handed me the empty chapstick and said, Hey, I'm out. Can you get me more chops? So that's,
+
+1 (25m 29s):
+That's, that's how it all began. That's how it began. Eventually. Of course you did. You would, you would get married because today you are together now. Yes. But I guess around this time, when the two of you got together, you, you sort of came up with this idea for, for lynda.com. I mean, you had this, this domain, right. And you were using it right, Linda, but, but really it, it was sort of the, the Genesis, the beginning of what it would become started when you and Bruce started to date.
+
+2 (26m 3s):
+Yeah. I mean, where it really became a business was when we were married and we were living in Ohio, we had moved to the small town outside of Los Angeles. You know, I'd already had the success of my first book and Bruce and I had written a second book together about color. And, you know, I was being asked to constantly teach all over the country internationally, everywhere
+
+1 (26m 32s):
+About graphic design and web design. Yeah.
+
+2 (26m 35s):
+And Bruce had this idea, you know, if they'll pay for you to teach a workshop in Peoria, Illinois, why wouldn't they pay for you to have workshop in Ohio, California? And why don't we produce our own workshops and just give it a shot. But I think Bruce was sort of kicking and screaming almost, you know, to expand the idea of lynda.com because I was afraid to ever have a business again, because I didn't think I was a very good business person
+
+5 (27m 0s):
+And we had arguments and I don't think she believed me, but I think she was willing to give me the shot to say, let's go find a place to do this. And we, we found a school that we could do it at during a spring break when they had no student,
+
+2 (27m 17s):
+Can we put an ad on our website, which was lynda.com, which was known because of my book. It had people looking for instruction on web design already. And we put an ad that we were offering a workshop, web design
+
+1 (27m 32s):
+And workshop. Did, did people sign up?
+
+2 (27m 35s):
+I mean, it sold out. It sold out and somebody came from Vienna, Austria,
+
+4 (27m 40s):
+Austria. They came
+
+1 (27m 41s):
+To Ohio, California for one week. This is in 1996, I guess. Presumably there were just, weren't many opportunities for web design courses. If somebody came from Vienna, Ohio to take this class, I mean, maybe they, they, they knew about your book, but like people really were like, this is, Hey, I can learn web design.
+
+2 (28m 1s):
+They definitely knew about the book. I mean, that was the only way they could have found us. There was no social media. We didn't even have high speed internet. It was dial
+
+4 (28m 10s):
+Up. It was, it was early. So
+
+1 (28m 14s):
+You had already known how to do this. Cause you would talk, you were a professor.
+
+2 (28m 18s):
+Yeah. I was very established name in a very small field. And so I also did have a style of teaching that I coined as being approachable and where I would try to break everything down into little bites. And I think it was why my classes were successful. Why my books were successful was because I was a really good communicator when it came to breaking down complex ideas.
+
+1 (28m 47s):
+So you, you basically had that playbook, these students showed up and what they had to like figure out their accommodations in Ohio. And they came every day
+
+2 (28m 55s):
+In Ohio resort towns and there's beautiful places to stay. And it's a beautiful place. I have to tell you, everybody loved the fact that we were no. Hi. Hmm.
+
+1 (29m 4s):
+And I guess once you, you had that first, like once you, you sort of realized that there was a model there, you guys decided to open a permanent brick and mortar school, you know, high, right.
+
+2 (29m 16s):
+Yeah. And then we started hiring other teachers and that was another Bruce idea. I feel that I was very resistant to most of his ideas at first. It's like the story of our relationship, I think. But he had this idea that, you know, well, you can't be the only teacher I'm going to teach some classes. Why don't you hire some of your other friends who are on the speaking circuit with you and just see if anybody wants to take their classes. And sure enough, every single person who advertised the class pretty much sold out, including all these other teachers. And we are
+
+5 (29m 51s):
+Going seven days a week with weekend and weekday classes. Wow. And it's sold out every single time, every single class. And we're having Adobe, sending their employees to us, Martha Stewart was sending employees to us. We were just getting, and we had people from every country coming, at least one person from another country in every class,
+
+2 (30m 17s):
+There was so much demand. It was, we were in the first year, our revenue was $1.7 million, which to us was just, you know, we'd never, yeah, I imagine. And you were, and you were profitable and we were profitable. Well, and we had, you know, we had a staff of people. We, you know, we had probably had 20, 30 employees.
+
+1 (30m 36s):
+What I'm trying to figure out Linda is, I mean, you are teaching in-person classes. Right. And that can be pretty hard to scale. So when, like how, how did you get the idea to start making videos and, and did you even have the money to make them?
+
+2 (30m 52s):
+So we didn't have the funding to S to fund our video expansion, because my idea was that I wanted to make videos as an alternative to writing books so that I could publish some of the topics that my book publisher wouldn't want me to publish. And so I spoke to my book agent and told him about this desire. And he said, why don't you let me approach at the time that he approached Macromedia? And he said, if you will fund this idea for $20,000, she will only produce videos for the first year on Macromedia products.
+
+2 (31m 32s):
+After that she can do whatever she wants with the important,
+
+5 (31m 35s):
+Hey, Linda, I remember the number is 40,000.
+
+2 (31m 38s):
+Okay. Maybe it was 40,000. Yeah. It was, it was more money than we really had to put towards it. Is it?
+
+1 (31m 43s):
+And this was for Macromedia, which I think at the time was making a software like Dreamweaver, I think they were making flash. Right? Yeah. Yeah. And so would those videos be like, like what, like in front of a wipe? No, I could record the screen. Just
+
+2 (31m 60s):
+My voice. Just the computer screen. It was convoluted back then. It was hard actually. It's easy today, but I edited everything. I mean, I don't think Bruce ever heard me curse as much as when I was editing that very first video that I made because every time I would move the play head, it would spin. And I just was so frustrated
+
+4 (32m 23s):
+And it was so, oh my gosh, it was
+
+2 (32m 26s):
+Torture. But you know, little by little, we figured out how to do it. So for a year we only made videos for Macromedia products. And then the next year we started expanding into all kinds of video.
+
+1 (32m 40s):
+You were presumably offering VHS tapes. People still would use VHS back then. Is it hard to believe because it's only 20 years ago, VHS CDs DVDs were just kind of starting out around then and were people ordering, I mean, were you making money from these videos? People were ordering them
+
+2 (32m 60s):
+And oh gosh, yes. I mean, poor Prius. He was the one who would go to pick up the tea, the videos, the actual product. And at the time where we were getting our videos made, that was also like they were making all this pornography. So he'd have to go to like this really seedy part of town and pick up all these, all of our videos. But no, it was a mail order business.
+
+1 (33m 22s):
+And who was sending out the videos? Were you guys physically putting it? Yeah,
+
+2 (33m 25s):
+We had a, we had a mail room. My daughter, her very first email address was pro shrink wrap.
+
+5 (33m 33s):
+You know, you think of like people that do well on the internet, you know, it's all e-commerce, but we were actually really pathetic. We had no e-commerce we had a thing on the website that said center check and money order to heal a box in OHI, California. And then we had notify them by email when we got their payment. So people were sending their checks and money orders to our PO box. No, know-how
+
+1 (34m 0s):
+All right. So clearly neither of you guys are MBAs. I know this, it sounds like really, you know, you know, after you moved to OHI, this is just taking off, you've got people coming to your courses, you've got videos, you know, available and DVDs available to sell and things are, I mean, I, I guess by, by 2001, you're looking at ed like throughout, from what I was saying, like three and a half million dollars in revenue, like more than 30 employees. And then September 11th happens. What, what happens to your business? I mean, it relies on people traveling physically coming to the classes.
+
+1 (34m 42s):
+Did it have an impact?
+
+2 (34m 44s):
+Devastating? I mean, not only did it mark, you know, the stop of air travel for several weeks, if people, you know, remember back then, so all of our classes had to be canceled. And also at the same time, we were having an economic, you know, sort of reckoning with the whole.com boom. And so a lot of people who had been paying to come to our workshops had been doing it with funding, money,
+
+1 (35m 14s):
+Money from the.com bubble, which crashed
+
+2 (35m 16s):
+The burst. Correct. We had never taken investor money at all. It never, we never even that word startup just wasn't in the vernacular at that point. I mean, we were really old school. This was a bootstrapped business, 100%. And you know, suddenly people could not fly to see us. They didn't have money to take our, and it was devastating to the school part of the business, which had been the most lucrative part of our company when we had to, you know, kind of look at laying people off. We had to lay off more than half our people. It was, you know, it was devastating and, and didn't make us popular in that people, pleaser side of myself, couldn't please those people.
+
+2 (36m 0s):
+And I think that is a very hard lesson in business for a lot of people who hit hard times, you know, and there's that question, do we, you know, how do we scale back and what do we cut and who do we cut? Our staff was really upset with us, but it was, it was sort of like, we either have to do this or we'll die.
+
+1 (36m 22s):
+Why don't we come back in just a moment, how Linda and Bruce decided to branch out from VHS and launched classes online and how that decision almost wiped them out. Stay with us. I'm guy Roz. And you're listening to how I built this PR support for NPR and the following message come from first Republic bank. Now more than ever first Republic's priority is serving their clients and communities.
+
+1 (37m 4s):
+Their personalized banking solutions go deeper than just a transaction. No matter what your financial needs or goals are, your dedicated first Republic banker can help guide you every step of the way. Visit first republic.com today to learn more number FTI C equal housing lender. This message comes
+
+0 (37m 23s):
+From NPR sponsor, Samsung with the Samsung galaxy Z flipped three 5g flip your galaxy Z flip three 5g to flex mode for hands-free pigs and group selfies without the need for an outdated selfie stick with hands-free chatting your phone stands on its own without sliding around or leaving your friends, talking to the ceiling, just flip your phone, open halfway, set it down and do your thing. 5g connection and availability may vary check with carrier
+
+6 (37m 53s):
+Or EJJ Gibbs decided to teach himself to be grateful. It doesn't come to me. Naturally. My default mood is more Larry David than Mr. Rogers. The ideas that help from grouchy to grateful that's on the Ted radio hour from NPR.
+
+1 (38m 14s):
+Hey, welcome back to how I built this I'm guy Ross. So it's 2001 and with the bursting of the.com bubble and people being less willing to travel after nine 11, Bruce and Linda's business is in a slow free fall and their brick and mortar school, which had been doing so well is running out of students.
+
+2 (38m 34s):
+Yes, we are very worried that we were going to go out of business and we started to do more in-person training, where we were promoting the idea that we would go and train people at their companies. And, and so we added that, but it was still really, you know, just standing on our tippy toes with our head, right above the water gasping for air.
+
+1 (38m 58s):
+But I think at the same time, like right around this period, in addition to mailing out videos, you started to post the classes on your website, right? Was that because of the 2001 crash? Was that like, Hey, you know, let's put it out there and see if we can do this.
+
+5 (39m 15s):
+Yes. I thought this could be a bigger distribution system. There's only so much you could do with a couple of kids in the shipping room and taking physical checks from the post office.
+
+2 (39m 28s):
+A lot of these things we didn't invent, like we didn't invent writing computer books or giving computer lectures or workshops or, you know, making VHS tapes. We had a lot of competitors who are way bigger than us who were making VHS tapes. There was one competitor who had an online library at the time and we were watching them grow and we thought our instructional videos were better, but we liked that they, we liked their subscription model. We liked that they had it and, and it seemed to be growing. And
+
+1 (40m 3s):
+Is that how, how you started to with, with a subscription model? Like you weren't posting videos for free,
+
+2 (40m 10s):
+No, YouTube, there was no free ever. You know, we sort of felt that free was the enemy of, of a successful business. I mean, as everybody, you know, moved towards free, especially with social networking and stuff like that, it was baffling to me and Bruce, you know, because we didn't understand the startup culture. It was never our culture of you get investors and you, you know, run on their money cause you don't make any, and you offer things for free to attract people. And it was never our business model ever. So,
+
+1 (40m 45s):
+So in 2001, if you can remember go back then when you started to put these videos online, probably they weren't more than what, 10, 15 videos or, or the more than that. I think there were more than that.
+
+5 (40m 56s):
+I think there's probably 24 courses at the time. Okay.
+
+1 (41m 1s):
+And they was like Macromedia products or how to do web design and Adobe, Adobe. Okay.
+
+2 (41m 7s):
+Same things we'd been teaching and writing about. We didn't go outside of our comfort zone in terms of topic.
+
+1 (41m 13s):
+I cannot imagine that in 2001 on the online videos really took off because people had dial up, it was really hard to see videos on the internet. Am I wrong about that?
+
+2 (41m 24s):
+We're totally right. We were way too early. And the first year, I mean, I remember we took a poll among the office, like in a jar people put the number of subscribers that they thought in our first month that we would get and no one guessed low enough. Absolutely. Nobody. We all thought it was going to just be so much more successful than it was by the end of the first year. I think we had a thousand people who had signed up. And what was the fee? How much was the fee was $25 a month. Yeah. I mean, it was cannibalizing the VHS sales and the book sales, because you could extensively, if you wanted to learn a subject, say you were just coming in for one title, you could just pay for one month, get the information and leave and spend less than you would on a book or workshop or anything else.
+
+2 (42m 14s):
+And it was actually cannibalizing the sale of our more expensive product lines. How much was a video? A video was $150. I have
+
+1 (42m 23s):
+One video of one course is 150 bucks, but you were selling everything digitally online streaming, correct for 25 bucks a month.
+
+5 (42m 31s):
+Right? I mean the loss of sales and income from physical product and DVDs and VHS cassettes, it hurts.
+
+1 (42m 42s):
+Didn't anybody say this is nuts. We are, we're undermining our whole business model of the via of the physical tapes. Yes, absolutely.
+
+2 (42m 50s):
+I mean, I pretty much gave up on the online library. I thought it was a good idea. There's no reason to not let it run in the background, but it's just this, you know, thing that we did that kind of failed. And it took five years in my memory for us to replace, you know, get back up to where we had even been. So, you know, we started for nine 11 before nine 11 when we were at the three and a half million dollars a year in revenue and we had 35 employees, it was another, you know, four to five years before we got that big again. And it had that kind of revenue, but it wasn't the end of the world. I mean, we were still even even saying that even the year, I think our worst year, we did a little over $1 million in the year and we had like nine employees.
+
+2 (43m 37s):
+We weren't rich, but we just wanted to be able to kind of own our own destiny and own our own intellectual property and own our own brand and not have to report to other people and do things the way other people were telling us they wanted it done. I mean, that was super important to us. Yeah.
+
+1 (43m 56s):
+And so what was the turning point in this, in the video subscription service? I mean, what was it like people, more people started getting broadband. Was it like, like 2004, 2005? Was that what started to, to, to see an increase in subscriptions?
+
+5 (44m 13s):
+I, I think it was a number of factors, you know, but people are, we're, we're able to deliver better screen recording direct from the computer at pixel, the pixel accuracy. And that was all in line. I do think we could attribute the speed of broadband coming more into play, but are actually compressing our early videos that only needed one Meg per minute to be able to play.
+
+1 (44m 38s):
+And was the grow, I mean, were, were you just taking the money, the, the revenue and the cashflow and, and were you marketing with that money? Were you advertising?
+
+5 (44m 49s):
+I think this is really word of mouth. I mean, we, we had ambitions of marketing and even when we had money, the throat marketing, I could look at the uptick on subscriptions and I could see almost nothing, you know, no matter how much we spent on marketing radio or television, even at the end, it was always the word of mouth. And I remember one day Howard stern started talking about our company on his radio show and we saw no uptick in subscriptions because
+
+1 (45m 23s):
+You paid, you paid for an ad on his show. No, no, we did
+
+2 (45m 27s):
+It himself. And he loved it. He was talking about,
+
+1 (45m 29s):
+Oh my God. And you saw no uptick from, from him.
+
+5 (45m 32s):
+No uptick. Wow. So I think what happened was a lot of people who taught web design and Photoshop were using our courses and they were bringing it into their schools and into their companies. But we'd be installed in all of apple, all of Adobe, all of Microsoft, all of Google and the employees were starting to demand companies, bring it in. And it just was a word of mouth thing, no matter what we spent, it just didn't make that much of a difference. I think some things that made better differences were SEO and SEM and dealing with things like close captioning of the content, which provided better contextual searches for searching on how the learn, believe it or not.
+
+5 (46m 23s):
+It, the, the close captioning was a very beneficial thing to us, more so than any marketing. Yeah.
+
+1 (46m 29s):
+And, and so it was mainly like, so it was people who were either in that field and wanted to, you know, deepen their knowledge, people who wanted to get into it, maybe students and, and I guess it was just, wasn't a whole lot of competition. I
+
+2 (46m 43s):
+Mean, I'd like to believe that we were doing something differently. And I, I really do believe that I think we had a teaching pedagogy that other training companies did not use. And it was about making the information, very approachable, breaking things into bits. And it's freedom. You're not in a classroom. You're not getting a grade, you're not completing something and getting a degree. It's really tapping into this beautiful learning philosophy that I've been living my entire life.
+
+2 (47m 24s):
+That is just curiosity, like curiosity drive, you learn interesting things, things that give you joy, don't just stay stuck, doing the same thing over and over. I think that was part of the secret sauce. And other part of it was that we didn't compete with colleges and teachers and other universities and learning centers. We really saw ourselves as a compliment. And I used to just love the idea that, you know, in a classroom, if you've ever talked, you never really know if everybody's keeping up with you. You have people at all different levels. And the beautiful thing about the library is, you know, so many people can be taking the same course. They can be at all different sections of it.
+
+2 (48m 6s):
+They, they can go really slow. They can slow it down. They can watch it over and over. Nobody's judging them. Nobody's telling them you're stupid or you can't get it, or you don't, oh, what? You don't know how to do, blah, blah, blah. So I think there was like a certain amount of brand recognition that we started to build because of the quality and the way that we were presenting our material within,
+
+1 (48m 32s):
+I think, five years of really focusing on the online model, you hit a hundred thousand subscribers. I'm assuming by then you kind of gave up on the DVDs and VHS
+
+2 (48m 45s):
+Too. Yeah. I mean, we had sort of this moment of recommending right around 2005, 2006, and it was, it was, what do we do? That's different from all the competitors in the field. What's our differentiator. And we, we made the decision. It's the fact that we're delivering online and that's our competitive advantage. That's our sweet spot. Let's stop in person classes. Let's stop doing books. Let's stop making DVDs and just go all in on this idea. And it was the right decision.
+
+1 (49m 19s):
+So this is really taking off. I mean, this is a really now becoming a major business. I think you guys are starting to hit, probably get close to the eight figures in revenue. I mean, maybe, maybe more, I guess, around 2007, the two of you decided to bring in an outside CEO, Eric Robson. Did you, did you feel like the business was just growing at a pace that neither of you had the sort of the interest or maybe skills or interests I don't know, to, to take to the next level that you needed somebody with an MBA? What was the thinking behind that?
+
+5 (49m 58s):
+I think we are fumbling with the success. We were having success come at us so fast. We didn't know what the do with it. I mean, here I am an art student and lender's a teacher. We have no business background. I think we have the right ingredients there. The, this rocket fuel it's there. It's just, we didn't have the wherewithal to understand what we needed to do to go to the next level.
+
+2 (50m 26s):
+I remember when we hit this sort of magic number 10 million in revenue, that the phone started ringing off the hook with people wanting to invest in us and Bruce. And I just thought, you know, why would we want to have an investor? Because, you know, we wouldn't want anybody to metal in the way we're doing it. And we didn't really need money. We were doing just fine. And so I had a friend who suggested Eric Robinson, as he could be a consultant to us, and we took him out to dinner. And that was kind of our question was, should we, why would we want to accept this money? We know all these people want to invest in us, but what would be the benefit of it?
+
+2 (51m 6s):
+And he said at that dinner, I've literally looked at thousands of businesses and I've never seen one with as much potential as what you have. Well, do not take the money. If you're not ready, it's not time. What you do need is more professional management. And I would be willing to quit what I'm doing and become your CEO. If you'll have me and help you do this. And it was based on like one dinner and we agreed and, you know, Eric was with us until we sold the company.
+
+1 (51m 43s):
+So, I mean, that's a very lucky decision that could have been a disaster, totally
+
+2 (51m 48s):
+Could have been a disaster, but I think we also were smart enough to know what we didn't know. And we definitely felt like, you know, we had never talked to an investor in our life, had no idea, even didn't understand the language. I mean, to be honest, I didn't even understand the language of what's the difference between a president, a vice president, a director, a manager, you know, we didn't have MBAs. We didn't ever steady business.
+
+5 (52m 16s):
+We didn't really have business ambitions. We had teaching ambitions and learning ambitions. And I think our plans were more about how do we break in the new areas? Should we go into programming? Should we go into, you know, business courses? So, you know, we, we kind of, I think part of our success is really focusing on what matters most to the people at the other end of the stick that they're, they're receiving the education and the learning. And I think that just drove everything.
+
+1 (52m 51s):
+And so you brought this team on over time, you brought different executives on to help you run it. And I mean, they were sounds like things, they did a pretty good job. And within two or three years of this transition, I guess by 2010, you had like over 50 million revenue, 140 employees. You must have been one of the fastest growing easily, the fastest growing business in Ohio, but maybe even one of the biggest employers in Ohio, because Ohio has, you know, a lot of orange groves. I'm not, I'm just exaggerating, but, but right. I mean, he must've been one of the big athletes
+
+2 (53m 21s):
+Leaves Ohio, much smaller. We were already in Ventura and the Orien Venter and yeah, but we were still definitely one of the biggest employers and fastest growing companies. No doubt.
+
+5 (53m 31s):
+One of our problems is every time we moved in the building, we are already outgrowing it. And we know
+
+2 (53m 37s):
+Eventually we moved into an 88,000 square foot property in Carpentaria and we built incredible recording booths and, you know, have had a whole team. And we were literally producing hundreds of hours of video a month, more than most, you know, feature film companies or anything. Yeah.
+
+1 (53m 59s):
+And I mean, you all eventually expanded the classes and we started adding like, like all kinds of subjects, not just Photoshop and final cut pro and stuff like that, but like business skills and interviewing skills and finance skills, how did you find the teachers to do all that?
+
+2 (54m 16s):
+So what you do is you find another, me, you find somebody who is an industry insider at the top of their field, who knows everybody. And then they were empowered to curate who they were going to invite to come in as teachers and oversee the quality of what was being done. Because I think what a lot of other online platforms have done and did there, there just was no real quality bar. So like YouTube is the wild west. There's fantastic stuff on YouTube. There's horrible stuff on YouTube. If you're going to charge for something, it has to be worth the money or no one will pay for it.
+
+1 (55m 1s):
+Interesting because you, I think by 2012 you were bringing in like a hundred million dollars in revenue, you had more than a million subscribers. And yet there was another company that was the quote unquote industry leaders called Skillsoft's to surround. And they were bigger in part because they were better at marketing and just getting Greg, I mean, you guys, the, the, the story is that you guys are producing better quality, higher quality videos. And they were just producing a lot of stuff that was okay, but they was at, is that your sense that they were just better at like marketing and running a business?
+
+2 (55m 40s):
+I, I never really thought about them as a competitor, to be honest, they weren't even really on my, on my radar. I did, they didn't have my respect. They didn't have my envy. They didn't have my attention. I think ultimately we surpassed the mic. I could be wrong, but I'm pretty sure that we did in terms of penetration into,
+
+7 (55m 59s):
+You know, we, we, we kind of had this funny
+
+5 (56m 2s):
+Thought that, you know, you can't do all this based on data analytics to understand what you need to do for programming of content, for learning. But I kind of always had this belief. You have to be a little bit of a bookie and a fortune teller. And the data analytics is very important, but it's not the main, it only tells you where if you bend and what you've done with the stuff you have, but the be that futurist that, that bookie, that fortune teller, you have to know where the industry is going and what the teach and what are the trends. And most companies didn't think that way, they just kind of picked whatever is doing best at the time.
+
+5 (56m 45s):
+And they were very proud of being driven purely by data.
+
+1 (56m 49s):
+Tell me what the decision was. I mean, by, by 2013, you went out and raised money from venture capital firms for the first time ever of ticket media. Now you're in business really over, you know, 15 years, 16 years bootstrapped the whole thing, and you have great cash and revenue. Why did you decide to go to investors? Was that, what did you conclude that that was the only way to actually really expand? No,
+
+2 (57m 17s):
+That wasn't the reason. So, so Y this was a huge disagreement between the two of us, probably the biggest rift we've ever had. Wow. I was, you know, I am older. I was getting really tired of the day to day. We had investors really banging our door down. It was almost like, you know, our hands were just twisted into raising money because the phone would not stop ringing. People would not stop trying. So for many people on the senior team, myself included a weird thing happens when your company becomes more valuable than what you're earning just this rabid feeding frenzy almost.
+
+2 (58m 3s):
+And I'm part of it because I saw the fact that we could sell the company and we could have another chapter in our life. It's, you know, it's hard to run a company for 20 years like we did. And it was a lot of sacrifice. You know, things, we didn't do trips. We didn't take parties. We didn't go to friends. We didn't see there came a point where it wasn't as fun at all. And I knew consciously that if we accept this money, we are saying we're going to exit at some point, because that's, they're not giving us money out of the kindness of their heart. It's very clear. They want to return.
+
+2 (58m 44s):
+They want to have a sale or go public.
+
+1 (58m 46s):
+So just to clarify, you felt like if we take on outside investment, it's going to lead to a path of either acquisition or going public, something. There are people in the team who are asking, Hey, you know, the company is worth a lot. You're tired. So you wanted, you actually, you wanted the investment.
+
+2 (59m 7s):
+I did much more than Bruce. Like to me, my, my thing was, look, the company is worth all this money. This is sort of the moment. It's just the universe is telling us this. You know, Bruce
+
+5 (59m 19s):
+Personally, I saw this as a changer and the diff the business and, and I was afraid of it. To be honest, I knew the second you take a dime, we're starting a clock. We're starting expectations. It kind of changes the nature of people when they even come for a job interview. You know, the question is how much stock do I get? You know, I mean, Bruce
+
+2 (59m 42s):
+Is a very long-term thinker and he knew that, you know, this was a deal in a way with the devil, like, you know, this is, this is like plotting your own demise in a way to take
+
+7 (59m 55s):
+This money. That is what it is.
+
+1 (59m 59s):
+When we come back in just a moment, how the decision to take the money totally changed the power dynamic at the company and not in Bruce and Linda's view for the better stay with us. I'm guy Raz. And you're listening to how I built this support for this podcast. And the following message come from Upwork. The world's largest remote talent platform. Here we are. The world of work has evolved. We can either go back and work the way we used to, or we can keep moving forward and work the way that we can Upwork the world's work marketplace is where independent talent and game changing companies come together to share opportunities, to make great work and to build the relationships that inspire Upwork up.
+
+1 (1h 0m 51s):
+We go support for this podcast and the following message come from ring. Ring alarm provides protection and peace of mind. It's a powerful, affordable home security system that you can easily install yourself. Ring alarm, work seamlessly with other ring products to protect every corner of your home inside and out. Best of all, it all works together. In one simple app, you can keep an eye on your home from anywhere, right from your phone. Go to ring.com/h IBT for a special offer on a ring alarm security kit today.
+
+1 (1h 1m 32s):
+Hey, welcome back to how I built this I'm guy Roz. So it's 2013 and for the first time, and it's nearly 20 year history, lynda.com takes on some investment, just over a hundred million dollars from a few venture firms. You
+
+2 (1h 1m 48s):
+Know, when we first took on the investors and they're fabulous people, I mean, I really like all of our investors as people, they had the best interest air quotes at heart for the company, which really means they want to get the best return. And they think they know better because we're just the founders. We're just, you know, a teacher and an artist is basically who we are.
+
+1 (1h 2m 15s):
+How did it practically change the day to day? I mean, you guys were still the founders and still had most of the power, or did the investors start to come in and sort of put pressure on you to make certain decisions
+
+2 (1h 2m 26s):
+How it changed was, you know, even though at the very first time we took on money, we owned more than 50% of the company. So we felt that we were still in control and we had always felt in control before we took investors, even though we had a CEO because, you know, we were clearly the owners, but what happened was the power shifted and the pressure that our CEO and all of our senior staff felt to perform to the investors, not to Linda and Bruce's value system, but to the value system of how will we get the most amount of money for this company was a very different drum than they had ever marched to before.
+
+2 (1h 3m 7s):
+And so there started to be a real conflict in terms of how, who to listen to, and who's in charge and who makes decisions. And I realized very late in the game that the CEO had more power than I did. And more power than Bruce did. This is a CEO that you had hired a CEO that we'd put in place, and we've gotten along with all these carrots, you know, just great. I mean, I think there were hurt feelings in every which direction of course, you know, but I don't think it was personal. I think he was doing what he saw his job. And so he had the prerogative to act on those, you know, different directions that he wanted to go in. What did it mean
+
+1 (1h 3m 45s):
+Though, practically, that the leadership of the company was trying to sort of sideline you guys and
+
+2 (1h 3m 51s):
+Oh, definitely. I mean, it was like, it, it was, it was, it got really unpleasant. I actually
+
+5 (1h 3m 58s):
+Had the CEO put a lot of pressure on me and he didn't really want me around for the day-to-day. And I think my fear was realized because it took away our passion and focus on education and it drove it down just a pure business path and decisions were merciless. It was just about how to gain EBITDA and it made working there a lot less fun. It made working there a lot less interesting. And I could tell you, I could count on one hand, how many people chose to leave before we took money, but after we took money and the business started changing because of investors, because of this pressure, we had more employees leaving than ever.
+
+2 (1h 4m 52s):
+And I don't think anybody, you know, who was there at the time knew how miserable Bruce and I were, but we just got progressively more and more and more miserable so that when the second round of money was offered, where we would lose control and more than 50%, for me, it didn't matter because I didn't have it anyway. And I just, I just was like, I have to stop. This is so painful to watch this thing that we've built. And it's not to say that anybody did anything wrong. They just did things differently than we would have done.
+
+1 (1h 5m 24s):
+But when that second one, that second round of money came in, I think it was in January of 2015. You guys still had more than 50% of the company. Couldn't you have said, we don't want to raise this money. Or by that point, the investors and other people wanted to do another round and they were going to make that happen.
+
+2 (1h 5m 40s):
+I don't know if we could have said we don't want to. I mean, probably. Yeah. And I actually, even at the time, you know, talk to some council about what do I do? Do I just take the company back because I still have power. And, but I was just so burned out and so demoralized and so tired of the fighting and the, the unhappiness really. I, I almost, you know, I don't know how long I could have stayed on. So you were
+
+1 (1h 6m 8s):
+59, 60 years old. Yeah. Understandably also like wanting to maybe move on after 20 years of just really, because you started, this really started in earnest in, in your, in your forties. And by the way, there's nothing wrong with people wanting to make money. There's nothing wrong with people wanting to run an efficient business, but it does change a dynamic, especially when it's a community that you build. And then it becomes this billion dollar money shame that everybody wants a piece of. Of course, nobody is going to cry
+
+2 (1h 6m 42s):
+As a river. You know, trust me. I mean, I'm not saying we lost control by accident or mad at anybody else about it, but it is, it's hard to stand by and watch. And it was, and it's painful
+
+1 (1h 6m 54s):
+In, in March of 2015, you was a pretty low time for the two of you, correct? LinkedIn approached lynda.com with an acquisition offer. And this came out of the blue, totally, totally out of the blue. They came to you and they said, Hey, we want to acquire this business. And from what I understand that acquisition from the time that they made the offer to the time it closed was three months, which is like record time, too much acquisitions take nine months, years. Sometimes it's happened in, in record time, which is amazing. So it's public, what they paid. It was a billion and a half dollars, a huge amount of money.
+
+1 (1h 7m 35s):
+You guys also had to be silent about it. You could not. I mean, this is how acquisition offers are. You cannot talk about it totally to pretend like nothing's going on.
+
+5 (1h 7m 45s):
+I mean, you have a room just filled with lawyers and not even our employees know this is happening, right. And LinkedIn lawyers are going at full speed and it's just a lot of tension. Yeah. You don't even know if it's even really happened. I didn't even think lynda.com would sell, you know, when we're talking about under two months, I think the deals were happening to a 4:00 AM. The morning is supposed to be announced. And we didn't know it was going to sell until maybe four or five in the morning. Wow. Pacific time.
+
+1 (1h 8m 22s):
+Here's the thing. It sounds like on the one hand, you, you regretted losing control over the business. But on the other hand, this LinkedIn offer was almost like an act of, of the gods or something. Right. Because in a sense, it really did align with what LinkedIn was trying to expand towards because totally LinkedIn wanted to be a one-stop shop for how to connect how to get jobs, but also how to get training. So it was almost like the perfect place. Like you could have gone public and maybe it was perfect.
+
+2 (1h 8m 57s):
+It was not, it didn't feel perfect at the time, but it was the perfect Cedar with the perfect business and the perfect time. And even though, you know, they've done something different with it than what we were doing. I know it's been super successful for them and that they made the right decision. And a lot of our employees who worked for us still work for them and love working for them and everything worked out. You know, I can't say it was without casualties, but nothing in life is you,
+
+1 (1h 9m 31s):
+I think the two of you really just stayed on for like a month or so after the acquisition was complete. Right. In 2015.
+
+2 (1h 9m 39s):
+Yeah. I mean, they had a consulting agreement with me, not with Bruce. I think it was for three months. They never once called me.
+
+1 (1h 9m 45s):
+And, and that was it. And then, and then it became a LinkedIn company today it's called LinkedIn learning. It's no longer called Linda dot product, but it's the same content. I mean, they've obviously added to it, but, but the library is, is lynda.com. Yes. And how did that, I mean, in a sense, I'm trying to think about how I would feel in that, in that, I mean, of course it's bittersweet because it's not, of course there's a lot of money, which sounds great. Cause most people hear and they're like, oh my God, you guys are loaded. Your life is great. Everything's wonderful. It's more complicated than that because it's a family, it's a community, it's friends, it's people you've known for years. It's the thing you built.
+
+1 (1h 10m 26s):
+Like it's, it's like a child.
+
+5 (1h 10m 28s):
+Yeah. I mean, we S we spent our days in there. I mean, all the people we talk to are there. So the day we made the sale and I couldn't walk back in the doors, I just sat on the couch and I just like, oh my gosh, my entire social network, I can't talk to anymore. Wow. And that was a weird thing. You know, the people I worked with closely, I can't work with and I wasn't prepared for that. What did you guys
+
+1 (1h 10m 57s):
+Do after? What did you start to do? I mean, how did you, all of a sudden, you've gone from 90 miles an hour to things slow down. I mean, you guys were so busy. Did you immediately start to think, okay, now I'm going to focus on this or that, what was it? I don't think
+
+2 (1h 11m 14s):
+It was immediate. There was definitely a moment, you know, like a period of uncertainty, definitely discomfort. I think, you know, for me personally, I got invited to Sundance to become a film investor in documentaries and features. And that was really exciting because I felt there the kind of community that I'd felt@lynda.com, but it just wasn't anything like building your own thing.
+
+1 (1h 11m 43s):
+I I'm curious. And I've, I've asked lots of people on the show, this question, cause, you know, look, and you probably remember this. If you were listening to the show 25 years ago, you'd probably be wondering the same thing, which is how substantially has money changed the quality of your lives? Is it significant or not really that significant?
+
+2 (1h 12m 4s):
+I think it's significant for, I mean, I'll answer and I don't know what Bruce would say, but I mean, even before we sold the company, Bruce and I were fairly wealthy because the company did quite well. So we had gotten involved in philanthropy long ago and we've continued with that. It's been, you know, Bruce said he wants her to an interview. I think it was Wellsmith who just said wealth is, is an accelerant. It's like, if you're a really gritty person, it makes you more greedy. If you're a really generous person makes you more generous. But I don't think as people we've, we've really changed. I don't think I'm that different. I don't know.
+
+5 (1h 12m 45s):
+You know, I think I am a person who I am happy when I am doing things. When I am creating things. If it's a house, if it's documenting with videos, if it's working on a company that works alongside with creatives, I think there's something in me and a drive that I have to contribute something to be happy and that's independent of money, but the money could be the thing that could enable you to go further.
+
+1 (1h 13m 14s):
+Do you feel so both of you, I mean, when you think about the, the journey you've taken, I mean, it's pretty amazing that, you know, it just kind of, you went from, you kind of followed your curiosity, Linda, you loved that Mack and you just thought it was amazing and you start teaching people and, and then it grew into consulting business and, and, and Bruce, you did some, some design work. And then the two of you got together and started teaching and then this business and then the nine 11 happens. And then you put the videos online. Then the video is take, takes a couple of years for that to kind of take off and then, and then sells for a billion and a half dollars, an overnight success story in 20 plus years.
+
+1 (1h 13m 54s):
+Right. But when you really think about that, how much of, what happened to you? Do you attribute to just luck Linda?
+
+2 (1h 14m 4s):
+I would say maybe 25%. I don't know why all this happened to me and Bruce. Like, I feel really lucky to be born at the time I was born to have the interests that I had to be, to meet Bruce, to, you know, to have taught at art center, to have, you know, been interested in capable of, of writing and teaching and all these things. I mean, some of that is luck, but it's what you do with that luck. And we're all responsible for our own ship and, and we have to steer it or else somebody else will steer it for us, somebody else or something else.
+
+5 (1h 14m 42s):
+I, I think a lot of it was timing. You know, Linda, you always talk about the time you're born, the time of the technology and the time of all this exposure, your ideas had that right alignment. And this is kind of the story of no, there's no place to teach. So we had to make our own there's no, our publisher didn't want to publish titles. So she wanted to make them herself and make her own. Every time we hit a barrier, every time we heard the word, no, we had to figure out how the do it ourselves. So all these things that started our business, we're a direct result of people telling us, no, we can't do that.
+
+5 (1h 15m 24s):
+And I think we are so headstrong saying we are going to do that, that we figured away. And our naivete of not knowing how hard it is to do the things we did and being foolish enough to actually attempt it.
+
+1 (1h 15m 43s):
+That's Bruce Haven and Lynda Weinman co-founders of lynda.com, by the way, outside of philanthropy work and supporting the local art scene, Bruce and Linda are still creating and still building. Bruce is actually finishing, designing their new house, which will be underground and covered with soil. And Linda is working in a clay printing studio, one of her favorite recent creations, a six foot tall 3d printed cactus. This episode was produced by Liz Metzker with music composed by rum teen Arab Louis. It was edited by NEBA grant with research help from Claire Maura Sheba.
+
+1 (1h 16m 23s):
+Our production staff includes JC Howard, Casey Herman, James DeLuise, Rachel Faulkner, Julia Carney, Ferris safari, Elaine coats, and Ali sober and Harrison BJ Choi. Jeff Rogers is our executive producer and guy Roz, and been listening to how I built this.
+
+0 (1h 16m 50s):
+This is NPR. This message comes from NPR sponsor, IBM safe or sporty, modern or reliable. We want both. We want a hybrid. Well, so do banks and that's why they're going hybrid with IBM. A hybrid cloud approach helps them personalize experiences with Watson AI while helping keep data secure from banking to manufacturing, businesses are going with a smarter hybrid cloud using the tools, platform and expertise of IBM. The world is going hybrid with IBM visit ibm.com/hybrid cloud.

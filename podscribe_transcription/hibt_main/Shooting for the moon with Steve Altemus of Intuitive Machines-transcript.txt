@@ -1,0 +1,314 @@
+wondery Plus (0s):
+Wondery Plus subscribers can listen to How I, Built This Early, and ad free Right. now join Wondery Plus in the Wondery app or on Apple podcasts.
+
+1 (10s):
+Think of all the things you can do in 10 minutes or less. Scroll through social media. Check your bank balance. make a sandwich or learn about the surprising economics behind all these things. The Indicator for Plan of Money is a quick hit of insight into the economics of business, work, and everyday life. Every weekday in less than 10 minutes. Listen now to the Indicator podcast from NPR R.
+
+Indeed (31s):
+What's better than finding quality candidates? Finding them fast. With indeed, you can attract talent interview candidates, and hire all in one place. As soon as you sponsor a post on Indeed, you get a short list of quality candidates whose CVS match your job description. Boom. Just like that. So start hiring now with a 100 pound sponsored job credit for your job. Post at indeed.com/how I built Offer good for a limited time claim your 100 pound credit now at indeed.com/how I built. Just go to indeed.com/how I built and support this show by saying you heard about it on this podcast indeed.com/how I built terms and conditions apply. Need to hire you need indeed.
+
+MATANGI / MAYA / M.I.A.Documentary (1m 19s):
+Ready, set Sale. The big one has landed online at Matan. There's up to 50% off thousands of lines across women's, men's kids and home shop online@matan.co.uk and buy the app now or in store on Boxing Day. Don't miss out selected lines, only teas and CSS apply.
+
+0 (1m 42s):
+Hello and welcome to How I Built This Lab. I'm Guy Raz. So December 7th, 1972, that was the last time humans landed on the moon. The Apollo 17 mission. Among the reasons astronauts haven't returned is because we thought we discovered most of what we needed to. And the second is that it's really, really expensive. But it turns out neither of these things is as true today. The moon may contain vast deposits of important minerals, and getting to the moon could cost a fraction of the amount it did adjusted for inflation, of course, back in 1972.
+
+0 (2m 22s):
+Steve Altemus is an entrepreneur who wants to make all of this happen. He founded a company called Intuitive Machines that plans to commercialize space exploration, particularly on the moon. Steve spent most of his career at nasa and while he loved it, he was also frustrated by the bureaucracy and what he felt was the lack of ambition.
+
+3 (2m 45s):
+And I was just getting frustrated because here I was in charge of an organization that was essentially the NFL of engineering. Right. Imagine just the premier engineering organization. Yeah.
+
+0 (2m 56s):
+The best.
+
+3 (2m 56s):
+Yeah. So we're like a Ferrari running at idle. Yeah. And I really wanted to step on the gas and, and see what we could do. Yeah. And not be, you know, entangled in a bureaucracy that was forced through legislative direction to, to kind of dither and, and, and just study capabilities.
+
+0 (3m 19s):
+Yeah. Th this was during, this was 2013, I think you left and not, and again, not in any way to to blame any particular administration because NASA budgets were just like cut, you know, progressively cut over, over over years. But I think during that, this time, the Obama administration really cut down on NASA's budget significantly. And so presumably, I mean, you had all these highly talented engineers, but there wasn't really, you were limited with what you could do.
+
+3 (3m 47s):
+Exactly. Right. The moon was a four letter word at the time. Yeah. We've been there in Apollo, we don't need to go back. And so, you know, I came home for dinner one Friday evening and I told my son, you know, I'm just, NASA is just not going anywhere. And, and he said, dad, you never talk bad about nasa. What's the matter? And I, I told him and he said, well, what are you gonna do about it? And so he and I came up with an idea to put a walking robot on the moon in a thousand days.
+
+0 (4m 20s):
+Your, you and your son did? Yeah.
+
+3 (4m 22s):
+So we, he went upstairs, made a video of a robot on the moon looking back at earth saying, you know, I see you and sign language.
+
+0 (4m 31s):
+Like a animated video.
+
+3 (4m 32s):
+Yeah. An animated video. And so I took it to work on Monday and showed my divisions and said, let's go do something amazing, Unleash our minds from these imposed constraints, and do something that just shocks everybody and put a walking robot on the moon in a thousand days. We went ahead and built a lunar lander test bed for, to flying on earth. And we built a walking robot. We flew the walking robot to Space Station, and we flew the lander by itself about 37 times, successfully launched it from Earth and landed it on a simulated lunar landscape at Kennedy Space Center at the, at the shuttle landing facility.
+
+0 (5m 13s):
+Right. And just to be clear, you didn't, you did not land a robot on, on the moon, just to be clear.
+
+3 (5m 19s):
+No, the farthest we got with that robot was to deliver it to International Space Station, where it walked up and down the Space station cleaning the duct work.
+
+0 (5m 27s):
+Yeah. PR still pretty cool. Yeah.
+
+3 (5m 31s):
+And that was the beginning of Intuitive Machines. That was where a true sense of entrepreneurship came from. And I subsequently left the agency to form in Intuitive Machines in 2013, realizing that you had to take control of your environment to make an impact. And one person was absolutely capable of changing the world.
+
+0 (5m 55s):
+So what was the idea of Intuitive Machines? I mean, at that point, SpaceX was formed and certainly successful, and you got Blue Origin, a bunch of other private companies. What was Intuitive Machines place in, in, in, in what was beginning to be a crowded environment.
+
+3 (6m 15s):
+So the agency was still, and the, and the executive branch and the legislature were still about a capabilities driven architecture with no plan to go back to the moon. Right. And so there was no real thirst to go after NASA work or to do space flight work. So we formed ourselves kind of as a think tank. And what we did was we stepped outside the gate of Johnson Space Center, which is here in Houston. And we said, what are the industries in and around us? Well, it's mainly oil and gas.
+
+0 (6m 48s):
+Oil and gas. Yep. Healthcare.
+
+3 (6m 50s):
+Well, the Texas, Texas Medical Center is one of the largest medical centers in the world. Yep. And aerospace, right outside of Johnson Space Center. So let's solve intractable problems in those three industries using our human space flight engineering techniques and methodologies and practices, which are, you know, highly refined. And that was the genesis. That's all I had was like that idea. And I struck a deal with my co-founder Cam Gaff, and we shook hands over a dinner meeting and he says, Steve, it would be shame if the music in your head was never played.
+
+3 (7m 31s):
+Let's go do this. I'll support you. I'll invest in you. Let's go build this company.
+
+0 (7m 37s):
+Hmm. Alright. So the idea, the idea was to develop capabilities to land material or, or humans specifically on the moon. Was that, is that what you were, were aiming to do
+
+3 (7m 53s):
+At the time? No, it actually wasn't. What we were trying to do was to provide solutions for those industries. And so we were inventing, we had 24 inventions in the first five years of the company. We had four ventures that were spinning out of the company. We were just producing things. One of them was a long range over the horizon. Fixed wing drone, a 55 pound class drone that could avoid traffic in the airspace and, and fly over the horizon for pipeline inspections. Well, that all was well and good. And we were kind of, you know, bouncing on the bottom somewhat, you know, single digit millions revenue, not really gaining traction with any of the inventions.
+
+3 (8m 44s):
+We found it difficult to work in the healthcare industry and to provide medical devices in that institutional bureaucracy of, of, you know, healthcare. We had trouble breaking into oil and gas and, and the drones were restricted by the FAA, the regulations weren't allowing them to fly in the airspace. Where it turned guy was in 2018, the National Security Council in a National Space Council declared that the moon was now of strategic interest. Yeah. China was coming on strong and they, the US needed to set the norms and behaviors of how we live in, and work in space to be more peaceful and more civilian focused.
+
+3 (9m 30s):
+And so they created a directive that said, let's return humans to the moon in a sustainable way. And that was in 2018,
+
+0 (9m 40s):
+What you're talking about is the, you know, the United States government, obviously looking at what China was doing, they did eventually land a spacecraft on the moon in 2019. India would would follow suit in a couple years after that. So presumably the US government is thinking, you know, we can't, you know, if, if other countries are gonna start making claims on the moon here, we better get back back in, into this space.
+
+3 (10m 6s):
+Yeah, exactly. They, the, the Chinese were, were ramping up their program and having success after success after success orbiting the moon, landing on the far side of the moon, roving on the moon, returning a sample from the moon, those kinds of things.
+
+0 (10m 21s):
+So you at this point now start to shift your focus on figuring out how to get a, a lander onto the moon. Let, let's, let's kind of talk a little bit about, there's so many things to talk about, the, the cost, the associated costs, the complexity. But, but I want to just go right to the, you know, the jugular here. Why, what, what is it about? I mean, we've been to the moon. I, you know, anyone who's go goes to the Air and Space Museum can touch that moon rock. It's amazing and inspiring. But from what, from what I gathered even going to the Air and Space Museum, is that we've gathered pretty much everything we need to gather. We've gathered the rock samples, we know what the atmosphere is like, and there really isn't that much left to learn about the moon.
+
+0 (11m 7s):
+Is that wrong?
+
+3 (11m 9s):
+You know, think about trying to describe what the Planet earth looks like from those handful of missions where you have just small, small excursions away from your lander. You know nothing about the Planet earth at that point. You don't know oceans, you don't know terrain, you don't know mountains and desert. You know where you landed from a very, like, looking through a straw. Very small amount of knowledge. Right. I think that's where we are now. You know, for all of the moon rocks that we brought back in the history of humanity, there's only 360 kilograms of material. There are so many unknowns about the moon, how much water, ice is entrained in the soil.
+
+3 (11m 52s):
+Yeah. Where are the rare metals and minerals that are, have bombarded the moon for
+
+0 (11m 58s):
+Four and a half billion years, billion
+
+3 (11m 59s):
+Years, right? Yeah. So four and a half billion years. What are those and what are the constituents of the moon? Is it a source of rare materials for us back on earth?
+
+0 (12m 9s):
+And, and that information ha you, you have to gather that by, by having a physical presence there in some capacity, you can't gather that through, you know, satellites or, or, or other, other or orbiting equipment.
+
+3 (12m 26s):
+Well, certainly from earth and from satellites in around the vicinity of the moon, you can gather imagery data that can, yeah. That can tell you, Hey, let's go to the South Pole. The South Pole looks like it has incredible amount of water, ice intrain in the soil. Let's go see if it's actually there. How much water is there? Can we make drinking water from that? Can we make propellants liquid oxygen from that? Can we make consumables for humans from that? And so you can get some idea. Then the question is, do you wanna take the next step and actually go explore on the surface?
+
+0 (13m 5s):
+We're gonna take a quick break, but when we come back more on why going to the moon is worth it and how collaboration with SpaceX is making it all possible. Stay with us. I'm Guy Raz and you're listening to How I Built This Lab.
+
+Hero Bread (13m 25s):
+It's the holiday season. And while that usually means more time with family and friends, it also means more food. And for a lot of people, that means more bread, more carbs, and a price to pay after the holidays are over. But if you're looking to up your protein and fiber and lower your carbs, look no further than hero bread. Hero makes sliced breads, buns and tortillas that are high in fiber, ultra low in net carbs. And with zero grams of sugar, the taste and texture of hero bread won't make you feel like you're missing out. It's fluffy and flavorful, and it's always available on hero.co and on Amazon. That means you can order ahead of time and save yourself a trip to the grocery store. Right now, hero Bread is offering my listeners 10% off their first order. Just go to hero.co and use my code built to save on hero bread today. That's HER o.co to save 10% today.
+
+Miro (14m 25s):
+Hey everyone. So I've been working with Miro, that's MIRO over the last year to help me get a better sense of what you, my listeners are thinking. They've sponsored quite a few episodes of this show and it's just an amazing tool for collaboration and working with teams. And so far we've been really happy with what we're seeing. If you haven't heard of it, Miro is this incredible online workspace. Our team uses Miro for a lot of our own brainstorms and processes. And I think it's super useful to try it out if you wanna build something great with your team. Now I wanna talk about a part of Miro that many of you probably have never heard of before. It's called the Miro verse. Sometimes starting work on an online visual workspace can feel overwhelming, but with Miro verse, you can select pre-made boards for pretty much any use case. It saves you the hassle of building from scratch. And what's really cool is that a new template has just been added this time for me. We partnered with the folks over at Miro to create a how to build a podcast Miro verse template. To help kickstart your journey to making a podcast, go to miro.com/ HIBT to check out our Miro verse template for yourself. That's MIR o.com/ HIBT and I'm excited to hear what you think.
+
+0 (15m 50s):
+Welcome back to How I Built This lab. I'm Guy Raz. Here's more for my conversation with Steve Altemus, co-founder and CEO of Intuitive Machines. I guess my question is, and I'm I'm, I'm not pushing back to be difficult, I'm just really curious, like, because, 'cause part of me is like, well if this was really critical, you would think that these missions wouldn't have stopped in 1972, that they would continue on. I mean, they're very expensive, you know, maybe a hundred billion dollars. That's what NASA es estimated to, to put a, a man or a woman back on the moon today. But so do we know there are rare earth minerals? I mean, you mentioned this idea of the moon being bombarded for, for billions of years, which makes sense, but at the same time, like so has earth, the moon is much smaller than the Earth.
+
+0 (16m 34s):
+So like, I mean, how often does it get hit by stuff?
+
+3 (16m 37s):
+Well, it's, you know, you could see all the pockmarks on the moon with a naked eye. Right. And then with a telescope it's just Swiss cheese. Yeah. But you know, if we think about mining at the rate that we consume rare earth minerals and materials, we now have pristine areas that would have to be stripped mined to find the last bastion of materials that we're looking for. Mm. We don't wanna do that. We don't wanna destroy our earth. So if there's an alternate source, mining on the moon can become a real source of commerce for, for us as a Planet.
+
+0 (17m 15s):
+And again, you're working on this, it hasn't happened yet. 'cause I think the only countries that have landed besides the the US and Russia are India and China. And I don't, I think they're the only India and China, the only countries have landed anything on the moon. This since the year 2000, if I'm not mistaken. No,
+
+3 (17m 31s):
+You're correct. The, it it very recent history. It's only been India and China. Yeah. India being the latest and the, and you saw the recent Russian mission to the moon failed on the way
+
+0 (17m 42s):
+That failed. Yeah. And, and I read something like 45% of attempts crash and burn. So why is it so hard? I mean, if we, if if the United States did it, you know, multiple times in the sixties and late sixties and early seventies, we know the terrain. I mean, why is it so hard to land something successfully on the moon? Why do they crash so, so often?
+
+3 (18m 8s):
+It's an incredible challenge to go to the moon when you transition from flying highly dynamic environment of flying from earth. Yep. Through the atmosphere Yep. Into space. And then capturing into the moon, orbiting the moon, descending down to a surface that's not defined by sea level. Ah, it's a very mountainous terrain with craters and, and there's no navigation. And so what you have to do with no pilot in command have the ability to navigate on your own, to carry everything with you. You need to sort out where the surface is. We have kind of a, a mean surface of the moon.
+
+3 (18m 51s):
+A general idea of what the surface of the moon reference line is. Yeah. But if you land on a crater,
+
+0 (18m 60s):
+You're den you're toes
+
+3 (19m 1s):
+If you either a rock a slope. Yeah. So that's, that's part of the challenge.
+
+0 (19m 6s):
+So, alright. In 2019, NASA awarded three companies, private companies contracts to build robotic lunar landers. Your company Intuitive was one of them. And you obviously have been building it and testing it. First of all, where do you test it? Do you, do you like to, I don't know, like, like Hawaii? Like where, what, where do you just, what kind of rocky surface do you look for?
+
+3 (19m 33s):
+So what we do is, right here in Houston, we have been building the novae lunar lander, which is about 2000 kilograms, stands about 14 feet high, maybe six or seven feet diameter. And we make everything basically vertically integrated as a company. There's a few items that we purchase, but a bulk of them we manufacture in house. We actually additively manufacture or 3D print our own engines, and then we test them right here. We're on Spaceport Houston, the Ellington Airport.
+
+0 (20m 8s):
+I'm looking at a, a photo of the Novo scene. It may be an old photo, but it's, it's interesting 'cause it doesn't look that different from, you know, lunar landers of the, the sixties and seventies. I mean, it has sort of the same shape, sort of a vertical kind of, you know, cylinder with like tent pole legs and I'm sure it's much more sophisticated. But in terms of the design, are there reasons why that that design is not that different?
+
+3 (20m 37s):
+Yeah, so you want to have the lightest weight lander that you can because it takes so much energy to get out of the gravity well of earth to the moon and then descend it softly to the surface of the moon inside its gravity. Well, so all of that is energy management. You know, our business economics for the lander are to sell payloads at a price per kilogram. So every kilogram of land or mass is a one less kilogram of payload mass that we could sell to make the business profitable.
+
+0 (21m 14s):
+Yeah. Let's talk about about the, the, the business model. I mean, obviously you had to raise a ton of money just to get, just to do the research and to build prototypes. But tell me a little bit about the model. I mean, you will basically, you will sell material that, that is gathered from the moon that returns to earth. Like how is that initially how you're gonna make money?
+
+3 (21m 38s):
+We've actually diversified to, to the point where our business model is really to install the infrastructure in and around the moon to support sustained human presence. So if you think about it like an expeditionary force, the first thing you need to do is land. Yeah. Then you establish communications, then you establish navigation to move further away from your lander, and then you start bringing up heavier and heavier cargo. So we built an entire mini Apollo program, if you will, one that you could operate the mission from a mission control, and then you need a rocket to get you off earth. And we contract with SpaceX to buy their Falcon nine rockets.
+
+0 (22m 21s):
+You go on the rocket. Yeah.
+
+3 (22m 23s):
+And, and they take us through that first phase out of the earth's atmosphere and into space. So now we have the infrastructure to launch and transport our lander to the moon. And the first lander takes about 130 kilograms of payload to the surface
+
+0 (22m 40s):
+And what's on there.
+
+3 (22m 41s):
+So we put scientific instruments, right,
+
+0 (22m 44s):
+Because look, these are unmanned. I should, we should be clear
+
+3 (22m 46s):
+Totally robotic autonomous missions at this point, they're really precursors to the human missions.
+
+0 (22m 52s):
+So like rover type type things that can basically leave the, the, the, the lander and start to poke around. Yeah.
+
+3 (22m 60s):
+We have rovers hoppers, which is a drone rockelle drone that oh, can fly 25 kilometers away from the lander. All kinds of items that extend from scientific instruments to commercial sponsorships, to art projects, to telescopes that stare at the Milky Way. Yeah. All of those are payloads that we fly and we can charge roughly a million dollars a kilogram to take those payloads to the moon, whether that's a government payload or commercial payload. Hmm. So if you can do that, that's roughly a hundred million dollars plus of revenue that you can generate with each mission to the moon.
+
+3 (23m 43s):
+Now you say, okay, how do you fly fixed price to the moon for less than a hundred million dollars?
+
+0 (23m 49s):
+And you have to figure that out.
+
+3 (23m 51s):
+Yeah. And that I think is a disruption. Mm. The disruption of, you said it earlier that it costs a hundred billion dollars for Apollo missions and we're trying to land on the moon for a hundred million dollars. It's orders of magnitude cheaper. Yeah. Launch access has become affordable again. And SpaceX caused that disruption and it's, and it's fantastic for us.
+
+0 (24m 16s):
+I I understand the, the need to commercialize this because obviously taxpayers cannot finance these, these missions in perpetuity. So it makes sense that you've got private companies doing it. But I, I imagine you mentioned, you know, you're operating out of Houston obviously important oil and gas center of the United States, of the world, really imagine there's an incentive from some of these companies to, you know, to be in, to, to have some equipment, you know, as part of the payload in order to, to use it as a way to explore potential for extracting minerals. How does, how does like, and how would it work in terms of like, you know, claiming a, a part of the moon to, you know, to extract material?
+
+0 (25m 0s):
+Like who, who owns, how do we figure out who owns what? I mean, I know that there are international treaties, but what happens if, you know, your lander discovers like some rare earth mineral in that area? Who can claim that?
+
+3 (25m 14s):
+That's a great question and there's very little policy and governance, but there is some framework. So the outer space treaty governs how we live and work in space, but how do we live and work on the moon? The United States offered to the world an agreement called the Artemis Accords. And it's very friendly to, to allowing commercialization rights of the moon. So if you land on the moon, you can bring back samples and own those samples per the Artemis Accords. It's not where they belong to the sovereign governments.
+
+3 (25m 56s):
+They can belong to commercial companies. And I think that's important for the future of building a space economy centered around the moon. And we're, I'm sure there'll be a lot of legal opinions when the first samples come back. Yeah. But technically you don't own the real estate if you land. It's not the, the frontier days of the, of the wild wild west. Yeah. Where you went out and did
+
+0 (26m 23s):
+Plant a flag and it's yours. Yeah. Plant
+
+3 (26m 25s):
+A flag and you own the, the, the land, the property, the stake stake did out you land. You own what they call a heritage site. And that means other countries or other co companies that wanna fly near you, if you're declared as a heritage site, need to coordinate with you before they land and damage any of the equipment that you have there. But you don't own the, the land or the mineral rights because you've landed there. But what you cash on the surface and what you bring back can be yours.
+
+0 (26m 57s):
+We're gonna take another quick break, but when we come back, why Steve is embracing the possibility of failure as his first lunar launch approaches. Stay with us. I'm Guy Raz and you're listening to How I Built This Lab.
+
+Wondery (27m 17s):
+As the host and creator of How I Built This, I get the opportunity to share inspiring stories about companies creating amazing innovations. What you might not know is that I also co-host another podcast also about innovation, but designed for the curious kids in your life on wow in the world. My co-host, Mindy Thomas and I dive into scientific innovations that wow both kids and their grownups. Like about how a shade of white paint could help fight climate change, or how spider silk could be a key component to reducing plastic consumption. Invite the curious kids in your life to experience the wows of innovation and new technologies with wow in the world. The number one podcast for curious kids and their grownups Listen to Wow in the world early and ad free Right now on Wondery Plus,
+
+0 (28m 19s):
+welcome back to How I Built This Lab. I'm Guy Raz. Here's more from my conversation with Steve Altemus, whose company is planning to send its first lunar lander to the South Pole of the moon early next year. Okay. Let's talk about your, your launch. I know there've been some scheduled launches that had been nix There are a variety of reasons. Weather and other challenges In your next window is, I think is January of 2024, right?
+
+3 (28m 48s):
+Yes. We had a launch window in November, but you know, there's priorities going off the launchpad all the time. And so we have to fit within the manifest of what's going off of launchpad a at Kennedy Space Center. So SpaceX has given us a, a launch date for January 12th, 2024. We have a five day window to get off. There's only a certain amount of days per month that you can fly to the moon where it's in the right position to where we can land at our designated landing site. So we're very excited about it. The lander has been ready for some time now, since the end of September, and we will ship it later this month to the Cape for processing.
+
+3 (29m 32s):
+We'll take Christmas off and get it find, find touches to it, and get it on its spacecraft adapter and get it encapsulated on the Falcon nine and get it out to the launchpad, do a rehearsal and launch it on, I think the launch window opens at 11:59 PM on January 12th.
+
+0 (29m 56s):
+So, you know, when humans were trying to figure out flight, there were a lot of accidents. Yeah. The Wright brothers had a lot of crashes, but over time they figured out how to successfully land aircraft. You know, as we know, there've been not an insignificant amount of attempts to land on the moon, but what is the sort of the holy grail? Like what is the thing that, that humans have to figure out to make it foolproof?
+
+3 (30m 23s):
+Well, it's time. It's time in the seat, it's time, it's flying missions. So I like the idea of a number of shots on goal. Right. Right. The more shots on goal, the more attempts, the more the, the learning you learn. We're at the edge of an envelope of eking out the performance of a system. You know, think about the early days of of, of Ferrari and racing and how they're on the, on the edge and the limit and the failures they've had and how they've recovered and how the automotive company has, has, has come a automotive industry has come a long way in reliability the aircraft industry and a long way in reliability you're seeing through commercial endeavor and innovation.
+
+3 (31m 9s):
+SpaceX come a long way in terms of reliability Yeah. Of, of the rockets and frequency of flight. It's almost becoming routine as they aim for a hundred missions in a single year. So the moon, we're at our infancy. We've had a handful, like you said, of missions to the moon. And so intu Machines, as we build our lands, we're building the same lander over and over and over again to make sure it's right and practiced and learning from every attempt. And so every attempt we try and we have three on the books and adding a fourth here shortly, those missions will help us understand the performance of the systems and we can adjust and tweak and redesign and fly another one and adjust and tweak and design and fly another one before we change to another model of lander or another category.
+
+3 (31m 58s):
+And so I hope that that will help improve reliability as we go over and over again to the moon.
+
+0 (32m 5s):
+So what, I mean, you know, you're, you're talking about moving material to and from the moon, and we've had, and this is not a perfect analogy, but we've had companies on the show that make autonomous vehicles and some of them aren't interested in moving around humans. They just wanna move around equipment, you know, or, or be delivery vehicles. Do you, do you think that that that, I mean, you wanna be the first private company to land, you know, to have a lander successfully land on the moon. Do you also want to move human beings to the moon one day? Is that, is that part of your plan?
+
+3 (32m 42s):
+Yes, we actually are in the competition today. We submitted a, a proposal to NASA to build their lunar terrain vehicle, which is the F-150 pickup truck that would take astronauts around the surface of the moon. And the, it's a very interesting and very disruptive kind of procurement that NASA's doing, where we would own the rover and we would use it autonomously and commercially to move things around the surface of the moon. But NASA would buy it from us as a service when the astronauts are present. So they would take control of it, they would operate it with astronauts on board, and when the astronauts leave, we would operate it and we would move material and we would move logistics and we would do assembly with the robotic arm and, and make a business out of it.
+
+3 (33m 35s):
+I think it's really exciting to see the kind of partnerships that we're creating with the government to, who is now embracing the commercial model and seeing how we blend the federal dollar with the investment dollar to stretch the capabilities of this country and, and, and to our, our speed and execution of moving out into space. And Intuitive Machines bid that to develop that. And so we will deliver it to the surface if we win, and then we'll defer to NASA when they wanna put their astronauts in it. So it's a really exciting model and I I I think that's a, a breakthrough in business and you know what it does, it makes us more globally competitive where we no longer have these government run monolithic programs that take decades to deploy.
+
+3 (34m 27s):
+We now have an ability to move with the speed and agility of the US economy, and that's a competitive edge for the United States all day long.
+
+0 (34m 34s):
+I, predictions are dangerous, but what's your best prediction for when we're gonna have another human on the moon? I know Blue Origin was selected to lead that mission with nasa, but you know, who knows what, what, what that will mean. What's your prediction? 10 years, 20 years, 30 years faster than that?
+
+3 (34m 51s):
+Well, SpaceX and Blue Origin both have Mission SpaceX, mission one and, and Blue Origin Mission two, they want those procurements to land humans on the moon. I was up on Capitol Hill talking to the appropriators and authorizers and different committees about Artemis. And, you know, optimistically, NASA tends to be optimistic about when it can fly and maybe over promises, and then the, the dollars don't materialize and the hardware doesn't cooperate, and they tend to underdeliver and the programs cost more and take a lot longer. And so being realistic as a business, as a, certainly as a public company, we have to factor in our anticipated best guess of delays that are gonna come associated with the Artemis program.
+
+3 (35m 39s):
+And so I think it's 2030 before we see boots on the moon.
+
+0 (35m 42s):
+Hmm. It's exciting,
+
+3 (35m 45s):
+Exciting. It's incredibly exciting to be, you know, people as aerospace engineers used to say, man, it was, it would've been a great time to be alive during the Apollo program.
+
+0 (35m 53s):
+Yeah.
+
+3 (35m 54s):
+And yet today, I think it's the best time to be alive as an aerospace engineer working on returning the United States to the moon for the first time in 52 years as a commercial company and the first ever mission to the South Pole of the moon. That's our first one.
+
+0 (36m 12s):
+Okay. So if in fact, okay, it launches the, the, the, the statistics, and again, I don't want, I'm saying this to make you nervous, but the statistics aren't on your side. Right? I mean, the, I think there hasn't been a single private space company that has landed anything on the moon this since 2000. Right. Or in a long time.
+
+3 (36m 36s):
+There has never been a commercial landing on the moon in history. Never. So Intuitive Machines is aiming to be the first, and you're right, 40 to 45% of the missions fail going to the moons. Yeah, well aware of that. You know, imagine building a business where you put everything on the line at the moment, you like the rocket and you Yeah. Right. But there's some thoughts here. I have, if you'll indulge me, please. We have three missions to the moon. Failure is likely, like you indicated, we have now three shots at the moon. So we are not a company that builds one lander, and if it succeeds, we're, we're successful.
+
+3 (37m 19s):
+If it fails, we go under. Right. We have diversified revenue streams, we have revenue from other business lines. The lander is something that we've taken great care to build with a lot of knowhow from our days in NASA and in aerospace. And we've been able to go look at all of the people who have stood before us and tried to la land on the moon. And we've in fact looked at every failure that's occurred and thought about that when we built our lander architecture. We've added redundancy in the systems, whether it's dissimilar redundancy or it's multiple strings of, of redundant things.
+
+3 (37m 59s):
+We've looked at simplicity, we've looked at areas to provide more robustness where there seems to be a, a number of failures. And so in my mind, I've taken our failure probability to a 75% success rate. So there is still a significant opportunity to fail. But if you think about it, all the work that we've done today, the propulsion testing, the software testing, and then you get to the launchpad and you light the engine and then you separate from the launch vehicle, then you commission your engines and fire it for the first time. The further we get towards the moon, the more success we have.
+
+3 (38m 41s):
+So if we've retire 95% of the risk on our way to the moon, that's a wild success for us. Even if we don't touch down softly and return NASA's data to 'em or the commercial data, we have retired significant risk. And we've proven the economic model of trying to build the lowest cost lander and land on the moon for less than a hundred million dollars and build that in four years is a proven theory then. And it's, it shows that you can execute. And so that's kind of the way I look at it. You know, embrace the chance of failure and stand in the arena and, and give it a try.
+
+0 (39m 20s):
+Awesome. Steve, thanks so much.
+
+3 (39m 22s):
+Appreciate it.
+
+0 (39m 23s):
+Good luck on the launches. We'll be watching.
+
+3 (39m 25s):
+I hope you and all your constituents tune in and hopefully we give you an exciting ride to the moon.
+
+0 (39m 33s):
+That's Steve Altemus, co-founder and CEO of Intuitive Machines. Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show. And as always, it's free. This episode was produced by Carla Estevez, with music composed by INE Arablouei. It was edited by John Isabella, with research by Carla Esteves. Our audio engineer was Neil Rouch. Our production staff also includes Alex Chung, Casey Herman, Chris Sini, JC Howard, Katherine Cipher, Carrie Thompson, Malia Aga, Neva Grant, and Sam Paulson. I'm Guy Raz and you've been listening to How I Built This Lab.
+
+0 (40m 25s):
+If you like How I Built This, you can listen early and ad free Right now by joining Wondery Plus in the Wondery app or on Apple Podcasts. Prime members can listen ad free on Amazon Music. Before you go, tell us about yourself by filling out a short survey at Wondery dot com slash survey.

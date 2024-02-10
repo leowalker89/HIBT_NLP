@@ -1,0 +1,659 @@
+0 (0s):
+Everyone's morning rituals are unique and whatever your favorite part of getting ready is level up your routine with Harry's Harry's is giving their best offer to listeners of this podcast. First-time Harry's customers can redeem a starter set for just $3 at harrys.com/wondery. That includes a five blade cartridge, a weighted handle foaming shave gel, and a travel cover to protect your blades on the go a $13 value all for just $3. New look, same incredible offer. There's really never been a better time to give Harry's a try, just go to harrys.com/wondery today to get your starter set for just $3. That's harrys.com/wondery.
+
+1 (40s):
+You started a small business because you had a passion for pottery, a skill for software or a mind for manufacturing and not necessarily for your know-how of the business side of running a small business. Thankfully, that's what QuickBooks is all about. Providing new small business owners with the tools they need to feel confident from day one, because with QuickBooks, you can get paid, run payroll and know where your business stands from the start. So while you may not know everything, when it comes to the business side of things with QuickBooks, you can still get everything done for your business. New business. No problem. Success starts with Intuit, QuickBooks, QuickBooks, payroll, QuickBooks payments, and QuickBooks online account required.
+
+2 (1m 20s):
+Hey, it's guy here. So Katrina lake still holds the record as the youngest female founder in the U S to ever take a company. Public StitchFix is also one of a recent crop of female founded companies now worth over a billion dollars. The story of how Katrina built it is pretty incredible. This episode first ran in April of last year, but it's so good. We think it's worth hearing again, enjoy
+
+4 (1m 49s):
+At that seed stage. Like it was a hundred percent just an idea I would come in and I'd say like, you know, here's the beta that I did with like 20 people. And here's how I think the business model will shape up and then probably talk to 30 angel investors who said no. And when you're doing something that nobody else is doing, you are either the smartest or the stupidest person in the room.
+
+2 (2m 20s):
+From NPR. It's how I built this a show about innovators, entrepreneurs, idealists, and the stories behind the movements. They built I'm guy Raz and on today's show how Katrina lake defied the investment world to build a tech company that transformed clothes shopping online. So every year it seems, there's always that one buzzword or idea that everyone in Silicon valley seems to be talking about couple of years ago. It was cryptocurrency recently it's been blockchain, but there's also a widely held idea in the tech world that the days of retail stores are numbered.
+
+2 (3m 7s):
+Now, of course, this is a combination of wishful thinking and hyperbole, but there is something to it, especially with big retailers. Macy's is struggling Bon-Ton and toys R us filed for bankruptcy. And in October of 2017, Lord and Taylor sold its flagship building in Manhattan to we work that amazing Italian Renaissance building on fifth avenue is now worth more as a, we work then as a department store. And the main reason why of course, is that people just aren't going into big department stores. They're buying a lot more stuff online. Now convenience is a major reason of course, but so is time.
+
+2 (3m 51s):
+Time is increasingly limited. And that's really where Katrina Lake's idea begins because she got older and busier with work. She found that she had less time to go shopping for clothes and only rich people could afford personal shopper. So she thought, Hey, why not figure out a way to make that more affordable and less time consuming. That was the Genesis of stitch fix and online, personal shopping service, but it wasn't necessarily going to be a slam dunk business. And in fact, Katrina had a hard time raising money in the beginning, but we'll get there. She actually grew up in San Francisco in a bi-cultural home. Mom is Japanese. Dad is American.
+
+2 (4m 32s):
+And at the age of 15, her parents decided to move the family from the bay area to Minnesota, which if you've seen inside out is the exact opposite of what happens in that movie
+
+4 (4m 45s):
+Like to go from in San Francisco, it's a more diverse city. And like the high school that I went to was probably 70% Asian. And then to go to a school in Minneapolis where I think there were three Asian people and three and a half, if you include me in my class and we were a very bilingual bi-cultural household. And so we, my mom, My mom spoke only Japanese to me still does. And my dad obviously spoke only English and we celebrated a lot of Japanese holidays. And when we would bring lunch to school, I think it was, we had kind of like a schedule and three days a week, it would be on you get giddy, which is rice balls that have something in the middle. And then two days a week it was sandwiches.
+
+4 (5m 26s):
+So it was kind of a blend.
+
+2 (5m 28s):
+Katrina went to Stanford for college, and initially thought she was going to be a doctor like her dad, but she ended up majoring in economics. And after she graduated, she ended up working at a consulting firm, advising other businesses. She was 22 years old and still not really sure what she wanted to do.
+
+4 (5m 47s):
+You know, honestly, at that point, I wasn't thinking that I wanted to do something entrepreneurial, but like I had all these ideas on what these businesses could do better. You know, this should be personalized. Like this is just a transaction. It should be an experience. And like, okay,
+
+2 (6m 0s):
+If he is in your head or ideas that you actually told people about both.
+
+4 (6m 5s):
+Yeah. Like there's an example. We were working with a large retailer and they actually said that they wanted ideas of what's the future going to be like, and this was in 2006 and it was literally before the iPhone. And like, I had this idea where I was like, why, you know, in a store, why do you have to have every single size and skew on the floor? It seems silly that is that a person has to walk in and like find the size and skew and then take it themselves to a fitting room. And like I was like, how about this idea where you like have to half of the store is a warehouse, a distribution center. And the other half is like a museum you walk around and you see all these beautifully merchandised things and you log in when you come in and you get a wand and then you can just put the wand in front of the outfits that you think you like, and then you walk into the back and it's like, hi guy, like here's your fitting room and all of the things that you wanted or whatever would be stacked up there.
+
+4 (6m 56s):
+And then there would also be recommendations. And, you know, you could have one size up in one size down and, you know, it could just be like a much better experience and like going and weeding through racks to try to find your thing. And like, people looked at me like I had seven heads. And so like, you know, in retrospect I'm like, that was crazy. Like if I was a CEO of that retailer, I feel like interesting idea, totally impractical.
+
+2 (7m 19s):
+It was this like 23 year old. Tell him telling me about this idea.
+
+4 (7m 24s):
+And so, you know, I mean, I didn't share all the ideas and I wouldn't say that all of the ideas that I shared were well received, but like I had tons of ideas about how things could be done better.
+
+2 (7m 33s):
+So you work for this consulting firm, I guess, for like two years. And then you decided to go work for a venture capital company. W Y
+
+4 (7m 44s):
+You know, I look back on that and I really laughed because I was just like, really unhappy with the amount of work. And so I took this job at a VC fund, which like, I didn't actually want to be a venture capitalist. And I, you know, I didn't, it wasn't that industry that was appealing to me, but I was like, if I'm going to work at a place, that's going to be the crazy retail idea of the future. Like, this is a way I can meet the next thing. Oh, wow.
+
+2 (8m 5s):
+Oh, so you actually thought if I'm working here, I'm going to hear all these pitches and maybe I'll find a cool company and join it.
+
+4 (8m 11s):
+Exactly. That was exactly what I thought. Yes. And so, and I did, and I met hundreds of entrepreneurs and
+
+2 (8m 18s):
+Interrupt where you a, like a money person. Were you managing money or were you on the analysis side, were you in a room where these people would come and pitch and you would throw like shark tank questions at them?
+
+4 (8m 29s):
+I, I was in that room, but I was more like the note taker. I'm like, I took the notes and I would create investment memos that were like a summary of the opportunity. And I could have my opinion on those things for sure. But I wasn't an investor. Yeah. It was also, it was a weird time to be in venture because I was there from oh seven to oh nine. You know, we had a little bit of a recession. It was a weird time to be in venture. And I didn't ultimately find the company.
+
+2 (9m 0s):
+You must have heard tons of ideas though.
+
+4 (9m 2s):
+Totally. I probably met over a hundred entrepreneurs in the time that I was there. And the most important learning actually was that all of these people were just like super unqualified, normal people with lots of ideas, just like I was,
+
+2 (9m 17s):
+They weren't like these superheroes with like, they were just really good at, I guess, the kind of like, you know, making the case for their idea.
+
+4 (9m 26s):
+And so I think it was actually the more powerful thing was that I realized that if I have all these ideas about what should be happening, like I don't need to be in the peanut gallery, lobbying my ideas that people like, I should just do it myself and that I could do it myself, but it still wasn't my like first choice. Like my first choice would have still been, like if I had met an entrepreneur who was amazing and compelling and creating the retail of a future, like, it was probably still my first choice to join somebody than to start it myself. But now all of a sudden I had this other plan, which was like, well, I guess if I don't find that, maybe there's a way that I could do it.
+
+2 (10m 0s):
+So when you come to that conclusion that maybe you can do this yourself, what did you do?
+
+4 (10m 9s):
+I don't know that it was like a moment. I think it just entered my mind as like, this is another possibility. And I actually ultimately applied to business school, which
+
+2 (10m 17s):
+You decided to do that instead of just leaping into starting a business.
+
+4 (10m 22s):
+Yeah. And that wasn't even a choice. Like it wasn't like I can start a business or go to business school.
+
+2 (10m 25s):
+What do you mean? It wasn't a choice.
+
+4 (10m 27s):
+I was like my risk profile. I was never going to like, quit my job and take all this risk and have a gap on my resume. Like that was just, that was never a choice in my mind. And so I was like, I can take these two years. I can be a mediocre student. And you know, my end goal by the end of the two years is I, if I can have a company funded, if I can be paying myself a salary, if I can be paying back my student loans, the day I graduate, then the risk profile of entrepreneurship was tenable to me. And then my plan B would be, well, if I can't do that, I'll have this MBA from Harvard and I'll be able to join a great company and a great founder and do something interesting.
+
+2 (11m 2s):
+She gets to Harvard as a business student in 2009. And did you like it?
+
+4 (11m 10s):
+I did. It
+
+2 (11m 11s):
+Was kind of an intense place, right?
+
+4 (11m 14s):
+It was very different from maybe all of the experiences I had had.
+
+2 (11m 18s):
+I mean, we've heard these stories from, especially from professors there, particularly women who've talked about how in the classroom, the discussions tend to be, you know, the hands that go up are men to the voices that you hear mostly are men. Did you find that? And was it a place where you felt comfortable raising your hand and talking?
+
+4 (11m 36s):
+I did. I mean, I did, you know, I think that stereotype is probably probably was true, but I did feel comfortable talking. I think, you know, and I had a hard time disentangling, you know, is it gender? Is it being from California and saying like, like, what were the things that created this to be true? But like, I did feel a little bit underestimated and I really tried to actively strip like out of my vocabulary. You know, people say that even like a Southern accent makes people think a certain thing. And I felt sounding like I was from California also did the same thing. And so, you know, I didn't feel like I was the, I don't know, most likely to succeed in the classroom.
+
+2 (12m 17s):
+Yeah. Tell me, have the idea for what would become StitchFix social. We'll talk about obviously, but what's the early idea that came to you. How did it even begin? Were you given an assignment? Were you told to analyze a problem? Like w w w w what's the beginning of this?
+
+4 (12m 33s):
+So I had a bunch of, I kind of collected a bunch of theses and ideas in my head. If you look at industries and I had probably had like a little bit of an academic approach and how I looked at these things, but like the hunting and fishing industry, it's I know it's crazy. It's a huge industry. It's massive. People are super passionate about it. It's really fragmented, but also concentrated where it's like really mom and pops are else there's like Orvis. And anyway, it's a super interesting industry because it's massive and there's elements of fashion actually, where it's like, whether it's technology or actual fashion things go out of style. And so I rented a car and I drove to New Hampshire and like visited like two gun shops.
+
+4 (13m 15s):
+And like the second by the second one, I was like, I just, you know,
+
+2 (13m 19s):
+Like disrupt the whole gun industry. I,
+
+4 (13m 22s):
+I just was like, I don't care how big of an industry. This is. Like, I'm just not super passionate about it. And also like, I am not the person to like, disrupt this industry.
+
+2 (13m 30s):
+So new, there, there, there must still be an opportunity to, you know, disrupt the hunting and fishing industry.
+
+4 (13m 35s):
+I think there probably is, but this is all to say, like, I was actively exploring a couple of ideas that I'm like, this is a real thing. And it has a reason to belong in the world. And the idea of stitch fix was one that I also tested and explored. And the way I did that was
+
+2 (13m 50s):
+What was your idea?
+
+4 (13m 52s):
+The idea was, how can you, I mean, there are a couple of different theses. So one thesis overall was just like more and more dollars are moving to e-commerce stores. Like this was the math that I found was super compelling for my time in consulting was dollars are leaving stores and going to e-commerce as dollars gradually leave. Every one of those dollars is hugely hurtful to a store as it loses it, because all of a sudden you can't pay your rent. You can't pay your people. And so, you know, like a 10%, 15% decline in your store volume can kill a store and 10 or 15% doesn't seem like all that much. And so there's this kind of like death spiral that I kind of anticipated would happen with stores and Netflix and blockbuster is kind of like the best example of it.
+
+4 (14m 33s):
+It's like even if 30% of the people in your town are using Netflix and 70% of the people in your town are going to blockbuster like that blockbuster probably can't make money.
+
+2 (14m 41s):
+I mean, the writing's on the wall at that
+
+4 (14m 42s):
+Point, right. And the death spiral component of it is like that one blockbuster closes. And now the 70% of the people who lived in that town have to decide, do I drive 10 miles to another blockbuster? Or do I try this Netflix thing that 30%, the minority of people in my town are, are doing?
+
+2 (14m 57s):
+And that was a, probably a big conversation at that time because Netflix was killing blockbusters at that time. Right?
+
+4 (15m 3s):
+Yes, it's fascinating. So I expected that would happen in retail apparel stores. And then on top of that, I felt like there was this massive, deep personalization of retail that was happening, which when you're buying toilet paper or iPhone chargers or diapers is fine, you don't need that to be personal, but that totally ignored this category of apparel, which is like deeply personal and deeply nuanced and our product categories that are super emotional. Like you're not kind of emotionally buying a box of Kleenex, but like, you are very emotionally buying that blazer. Right. And so I felt like all of the emotion and nuance had been stripped out and e-commerce, and that, that wasn't the right approach.
+
+4 (15m 46s):
+So the idea was how can you deliver a really, actually personal experience in apparel and use data and technology to make that scalable and to make that better.
+
+2 (15m 58s):
+But why, I mean, why wouldn't you just, you know, offer up a bunch of options and just let people kind of scroll through? I mean, I guess the, the, the beauty of online shopping, and certainly at that time was, you know, just infinite choices, right? You could just scroll through and find the thing you like.
+
+4 (16m 15s):
+Yeah. And, you know, I think for some customers, you know, that's a way that they want to shop, but like I'm five foot two. And so there's a whole world of apparel. That's like, literally not relevant to me just simply because they're not going to fit me because I'm the wrong height. And there are things that, you know, if you're living in California, you can go on a homepage and they're trying to sell you cashmere mittens. And it's like, that's totally irrelevant to me. So if you peel back, like what stitch fix does, it's like, yes, like if you could, instead of going to a mall all day, or instead of spending, you know, your entire evening with 30 browser tabs open to try to compare and contrast different jeans, you want to buy, if you could get a box sent to you that had two pairs of jeans or even better one pair of jeans and they fit you great.
+
+4 (16m 59s):
+That is an infinitely better experience than the other alternatives out there.
+
+2 (17m 4s):
+Okay. So you have this, this idea about like a business where I guess you would send a subscription box of clothes to people, but how did you, like, how'd you even begin to think of about how it's going to work?
+
+4 (17m 16s):
+So the way it worked was basically I would have friends or friends fill out a survey and you would let me know what size and style, what things you like, what brands you like, all that kinda stuff,
+
+2 (17m 24s):
+Just experimenting at this point, or had you already formed a company and named it.
+
+4 (17m 28s):
+This was in 2010. I was experimenting
+
+2 (17m 30s):
+As a student, essentially writing to other friends and students in,
+
+4 (17m 35s):
+In Boston. And that, and that was the benefit of being in Boston too, was like, I didn't really have that many friends in Boston. And so it was easy to meet strangers. And so one of the things that I needed to prove to myself was like, it, wasn't going to be scalable for you to tell me, okay, on these are the seven things I want. And then for me to go buy those things, like the math doesn't work for that to be scalable. And so you need to have a set of inventory you're working from. And so I was buying inventory at retail, from boutiques in Boston. And I would keep track of like, do they have a 14 day return policy or a 30 day return policy? And then I would use that I wasn't making any money doing this, but I would use that as my inventory so that when somebody would fill out their profile, I would then put together a box of things that were relevant based on what they shared in their profile.
+
+4 (18m 21s):
+And then they would try things on. And then if they wanted to buy things, they would write me a personal check and I would sell it to them. And if they didn't want to keep it, and if I ultimately didn't sell it within my 14 day return window, I'd go and return it to the boutique. By
+
+2 (18m 35s):
+The way, how did you buy all that stuff?
+
+4 (18m 36s):
+I had a credit card at the $6,000 limit on it.
+
+2 (18m 39s):
+Oh, nice. And you would buy them and then sell them at a markup?
+
+4 (18m 43s):
+No, I was just selling 'em at the price that I wasn't making any money. I just wanted to see if it would work. Okay.
+
+2 (18m 48s):
+Yeah. Wow. And how many friends were in on at the beginning? I did not.
+
+4 (18m 53s):
+I don't know. 20, 20. Oh,
+
+2 (18m 55s):
+Wow. What did you find from this group of 20 people? Where did you discover?
+
+4 (19m 0s):
+I discovered that, that you actually could learn a lot from somebody. I think there's just this thesis around, like, do I have to like, be with you in person to understand your style and who you are? Or can I do that through a survey? And like, I felt pretty confident. Like you could do it through a survey. There was a number of items thing. I started out with 10 items and the reality was like, people weren't going to try on 10 items. It's a lot, it's a lot of work and you're just looking at something and you're like, no, there's no way I'm going to like that. And you just don't try everything on. And so 10 was too many. What else did I learn? I think I learned the brand thing of like, it didn't, you know, people were actually surprisingly very open to buying from brands that they weren't aware of.
+
+4 (19m 41s):
+And in fact, found some value in finding brands that they wouldn't have normally have found on their own.
+
+2 (19m 46s):
+So when did you pull the trigger and say, all right, let's, let's let me form a business. Let's, let's get an LLC go. And let's like, make this real,
+
+5 (19m 56s):
+It was,
+
+4 (19m 58s):
+We didn't actually, the company wasn't formed until February of 2011, but I kind of became all in on this and not other concepts, I would say like late 2010.
+
+2 (20m 11s):
+So when you, when you really kinda like, got this going, and at that time it was not just you, right? It wasn't, you were not the only one involved.
+
+4 (20m 18s):
+Yeah. I had a co-founder at the time, she was the wife of my friend from college.
+
+2 (20m 21s):
+And so how are you growing this business? And also being a student?
+
+4 (20m 27s):
+I scheduled my classes so that they were a lot, they were all lumped together in the middle, either in the middle or the end of the week. I did something with my scheduling that enabled me to be able to spend almost a week in California. And so in January, and then again in February, I spent almost a full week out here. And what I would do out here was meet with angel investors. And on Valentine's day of 2011, we got a term sheet from Steve Anderson.
+
+2 (20m 53s):
+Steve Anderson is an investor that you met through other people, and he gave you how much money to give you.
+
+4 (20m 58s):
+He gave a term sheet for half million dollars and then said, now go talk to other angel investors and try to find others to join the round. Yeah. And then probably talk to 30 other people who said no. Ultimately, even though he had already said yes. Yeah.
+
+2 (21m 14s):
+I mean, in that, in the sort of winter and spring of 2011, when you, you took the research that you gathered from these 20 people and you went to meet with investors and the Silicon valley, did you just, you showed them this data and you said, see ya. I tried this on 20 friends, and this is what we found. Right. I mean, you can understand, you can understand, I guess, why they might've been skeptical.
+
+4 (21m 35s):
+Totally. Yeah, no, I would come in and I'd say like, you know, here's the beta that I did with like 20 people. And here's how I think the business model will shape up. And like, I would bring a box in and I'd say like, here's an example of a box with like laminated cards and you know, the box, wasn't like all that nice looking like, it's not like I had spent any money on branding or anything. And at that seed stage, like it was a hundred percent just an idea.
+
+2 (21m 58s):
+And explain how you explained what the business model was at that time. Because just to clarify, stitch fix today, you sign up, you pay 20 bucks a month, you get five items sent to you every month, depending on your subscription. And if you buy them all, you get a discount. And if you return them all, that's fine. It's free. But it's $20 a month essentially for a personal stylist. Right?
+
+4 (22m 20s):
+Yeah. And it's $20. And to be very clear, like you don't have to do it on a monthly basis, you could do it quarterly. You can do it all a cart. Like you don't, you know, you don't need to commit to any timeframe, but it is every time you get a fixed, you pay a $20 styling fee. The $20 is credit towards anything that you choose to buy. But the heart of it was really this. Like, we're going to buy inventory, we're going to get to know you, we're going to become experts on you clients. And we're going to become experts on the products. And then we're going to generate really great recommendations at the intersection of those two things.
+
+2 (22m 49s):
+But buying inventory, that's, that's, that's a big investment, right,
+
+4 (22m 53s):
+Right. At suspects, like what we did and what we did then, and what we do now is like, we are like a department store. We buy a wholesale,
+
+2 (22m 58s):
+You
+
+4 (22m 59s):
+Have the, yeah, exactly. And so when I would go and raise a half million dollars from Steve Anderson, like half of that was literally going to buy dresses and clothes and venture investors hated that.
+
+2 (23m 10s):
+But, and not only would, they've hated that, but you, if, if in your business model, you said, we're going to personalize this. We're going to have human beings involved in picking stuff. I mean, venture people, they don't like to pay people. Like they like companies that are like, they like user generated content or they like, they like stuff that's free. They don't like to pay for human resources. Right.
+
+4 (23m 30s):
+Yeah. People said like, this is going to be an inventory nightmare. Like, and it was good feedback because ultimately inventory, like, we are very good at managing inventory and we have to be in our model. And, you know, people saw that and people were skeptical that you'd be able to execute
+
+2 (23m 47s):
+Over that period of time when you're trying to raise money. And all everybody essentially, except for Steve said, no, was that demoralizing? Was it disheartening? Or were you just like, yeah, whatever, you know, water off a Duck's back.
+
+4 (24m 0s):
+Peter knows both. I'm like, you just, you had to be able to have reason for confidence in what you were doing, regardless of what venture investors thought at the moment. And so like, you did have to have thick skin about it and you did have to let it be water on a Duck's back. But at the same time, well, we were doing like, nobody else was really doing it for like a very long time. And when you're doing something that nobody else is doing, you are either the smartest or the stupidest person in the room.
+
+2 (24m 34s):
+When we come back. Why despite early growth, the money man in Silicon valley didn't want to give StitchFix the valuation because Trina thought it deserved and how she fought back, stay with us. I'm guy Raz. And you're listening to how I built this from NPR.
+
+1 (24m 56s):
+If you're looking for something new to watch, check out, slow horses on apple TV. Plus it's a thrilling spy series, starring Gary Oldman and Kristin Scott, Thomas you'll be taken inside slouch house, a dead end division of the British counterintelligence and security agency. <inaudible> here. Once elite agents pay for the mistakes in the field by whittling away on trivial tasks. But all of that changes when a heinous crime forces <inaudible> to enlist the services of slouch house and investigation that goes deeper than anyone could have predicted stream, slow horses, exclusively on the apple TV plus
+
+6 (25m 27s):
+On a cold February morning in Indianapolis, Tony <inaudible> woke up, got dressed, loaded his sawed-off shotgun and drove to his bank. After entering the office, he quickly found his investment banker and wired the muzzle of a shotgun to the back of the man's head. Tony wasn't there to steal anything. He was there to take his life back. And his plan was so well calculated that for the next 63 hours, the Indianapolis police department couldn't stop it. And so outrageous and potentially catastrophic, but the entire nation couldn't turn away from it. American hostage as a new podcast, starring me, John Hamm, that tells the true story of one man who channeled the rage of a nation and took justice into his own hands.
+
+6 (26m 8s):
+And as the nation watched live, Tony would become a hero to millions to hear the story, follow American hostage, wherever you get your podcasts, or you can binge all eight episodes right now on Amazon music or wonder he plus,
+
+2 (26m 27s):
+Hey, welcome back to how I built this from NPR I'm guy Ross. So it's the spring of 2011. And with the seed money she got from just one single investor, Katrina lake got a small office in San Francisco and got to work.
+
+4 (26m 43s):
+Yeah. In February, we got the term sheet in April at funded in may. I graduated. And then in June moved out to San Francisco and 1100
+
+2 (26m 52s):
+And San Francisco was important to do it because this is where you want it to live or because of the tech industry, or
+
+4 (26m 59s):
+Honestly, you know, the smart way to talk about it is the tech industry. But honestly, like when I first started in the company, I was like, okay, we have to be in New York city fashion fashion. Right. And then like a couple months in, I realized there's no reason we have to be in New York. Lots of brands are in LA. Lots of, you know, lots of companies are here. Like I think it would have been really hard to do what we did anywhere else, because we have many, many data scientists and many, many engineers. And, you know, in retrospect it was not just about me being comfortable. But if we wanted to fulfill on the vision of using technology to deliver our service, like it would have been very difficult to do it elsewhere.
+
+2 (27m 34s):
+Were you able to build a website without money?
+
+4 (27m 36s):
+No. Or not yet? Yeah. So the first seven months of stitch fix, like we didn't have a website, actually. The first name was rack habit, which lasted for about three months before we got, it was very clear that nor'easter would have sued us for it Last. Exactly. Yeah. The lawyer took like five seconds of looking at, it was like this, like, you gotta change your name, which was fine. I hated the name. It was a terrorist.
+
+2 (27m 60s):
+Okay. So you, you start to call it a stitch fix. You don't have a fully formed website yet. And what is your first page look like? Like how, how are they using
+
+4 (28m 7s):
+And go to stitchfix.com? And it said coming soon, do you want to be part of the beta? And then it said, if you, if you clicked on, yes, I wanna be part of the beta. It would click you over to, I forget if it was a Google doc or a survey monkey, but as something, and then you fill out all your information and you say, you're interested. And we actually had a wait list for a long time because we didn't have clothes to send to you that were relevant and demand out paced kind of what we had for a long time. And so once I was ready for you, I would send you a link that said like, you know, stitch fix is ready for you. And then I would, I would send you a PayPal request for $20. And so the history of the styling fee that we have was that I was worried that you could be a bot or somebody who's going to steal money or steal my clothes.
+
+4 (28m 54s):
+And so I felt like if you are willing to PayPal me $20 before I've even sent you anything, you were probably a legitimate human being who wasn't going to steal my clothes,
+
+2 (29m 3s):
+Take the risk.
+
+4 (29m 3s):
+Right. And so I would pay pal request you for $20. You'd give me $20. And then I would send you a shipment of five items. And inside there was like a paper return survey, cause we still didn't have a website. And so it was a piece of paper that was like an Excel thing that had all the items. And then you would fill out with words, what you were going to keep, what you, weren't going to keep in, explaining why. And then we would have task rabbits who had typed that into Excel so that we have
+
+2 (29m 29s):
+The task, grab it within an hourly basis.
+
+4 (29m 32s):
+Yep. Who would like type in that information so that we had it. And then based on what you were keeping and not keeping a net of your $20 styling fee, I would send you a PayPal invoice for the net. And that was kind of how it worked in the beginning.
+
+2 (29m 43s):
+Where were you getting the clothes from?
+
+4 (29m 46s):
+And we were buying it wholesale. And so we were buying six items at a time. How did
+
+2 (29m 50s):
+You find the wholesalers?
+
+4 (29m 52s):
+We would go to like third to these shows you can go to, and you can go introduce yourself to brands. And you know, most of the brands weren't that interested in working with us, but you know, some would give us a shot and say like, I don't know, that's an interesting thing. Sure. You can buy six items from us and literally would buy six of one thing at a time.
+
+2 (30m 9s):
+So initially your brands were not well-known.
+
+4 (30m 12s):
+Yeah, definitely.
+
+2 (30m 12s):
+And who was staff who was picking the clothes? How did you, I mean, you obviously, you know how to dress well, you are well dressed right here, but I mean, that's a big responsibility to like be the personal stylist of, you know, even a hundred people, even 30 people.
+
+4 (30m 29s):
+Yeah. And I mean, it was all right. We hired our first stylist in trying to think when she would like February of 2012
+
+2 (30m 39s):
+First like year it's just, it's like,
+
+4 (30m 41s):
+It was probably me.
+
+2 (30m 42s):
+Yeah.
+
+4 (30m 44s):
+My co-founder at the time. And it was when we were the ones packing the boxes to
+
+2 (30m 46s):
+Boxes. So you are in San Francisco and it's, you know, you're essentially doing everything and you've got this website and how are you getting the word out?
+
+4 (30m 57s):
+It was literally just people telling other people. And so it was 29, then it was 35, then it was 110. Then it was 235. And then it just like
+
+2 (31m 7s):
+Over that summer of 2011. Yeah.
+
+4 (31m 9s):
+Yeah. Those are the actual cohort numbers for each month. And then I think after that, it started getting the attention of what I would call like small to medium-sized influencers. And so
+
+2 (31m 19s):
+It wasn't Vogue yet.
+
+4 (31m 20s):
+Right. It certainly wasn't in Vogue and it wasn't like the bloggers that have like millions of followers, but it was people who have like 50,000 followers or a hundred thousand followers
+
+2 (31m 30s):
+About it.
+
+4 (31m 30s):
+Yeah. I would. I mean, if I would, and that was a really big driver for us for a long time.
+
+2 (31m 36s):
+So now you're starting to get some momentum and obviously you're growing, you need more money. You need millions of dollars when you would show up seeking money was a challenging. I mean, let's be honest. I mean the vast majority of, of people in tech are men and in this space, you know, going to VCs, they're probably used to seeing mostly men was a gender dynamic, ever, something that was present that you felt that you felt worked against you that made it harder to, to raise money or generate interest.
+
+4 (32m 13s):
+Raising money was really hard. And I think there were a lot of factors that contributed to it. I mean, certainly the inventory side, like that's real like Silicon valley venture investors want to buy software engineers or they want to buy apps. Like they don't want to buy clothes. The gender dynamic was real also, you know, 94% of venture investors are men and probably the majority of men don't feel passionate about dressing women.
+
+2 (32m 39s):
+I'm curious, you know, with respect to your experience with, with venture capitalists, because there's a mythology about them and the genius of venture capitalists and you know, how they take great risks, but you know, they can invest in hundreds or thousands of failures and they just need one or two to like come out and look like geniuses. Yeah. There's a, there's this like this mythology of the Oracle, you know, like this Oracle venture capitalist, who's just a, you know, gifted and can just pick winners. But I don't think that really matches with reality.
+
+4 (33m 12s):
+Yeah. And it is like, it creates another dynamic to where, and I don't think I realized this at the time, but you're right. Like they want billion dollar businesses and they would either rather they want you to be a zero or a billion and everything in the middle is not that attractive. And so people were like, this is a real business and it's really working, but you know, I don't know if it can be more than a $30 million revenue or more than like a hundred million dollars in revenue. Like I just don't think it's that big and like, to a normal person, $30 million or a hundred million dollars is insane. But like, but from a venture capitalist perspective, like they make the most money when it's a billion or zero.
+
+4 (33m 52s):
+And so, you know, there were a lot of people who are like, Hey, what you're doing is traction and it's real and it's working, but like, I don't think it can be big enough for me to be interested.
+
+2 (33m 60s):
+Yeah. But, but I mean, you still raised a fair amount of money. I mean, like $42 million in, you know, in the beginning. Which, which sounds pretty good, but I guess you still needed to, to keep at it.
+
+4 (34m 13s):
+Yeah. I mean, I, once we had a little bit of traction in some weird ways, it made it harder because now all of a sudden people are like, you know, trying to put that billion dollar price tag on you and trying to figure out like, you know, is this big enough? Yeah. And so in the middle, it was really hard. And
+
+2 (34m 31s):
+In the middle to raise money in
+
+4 (34m 32s):
+The middle yeah. The, to raise money, it was really,
+
+2 (34m 35s):
+Even though you were profitable or on the way that profitability. Yeah.
+
+4 (34m 39s):
+And I hated it. Like I hated raising money. I didn't feel good at it. Like it wasn't my intention when I started the company, let me do this with as little capital as I can. But after a couple of experiences with fundraising, I was like, I want to do this as little as I possibly can.
+
+2 (34m 56s):
+But meanwhile, the company is growing and I guess we should, we should mention here that you guys employ a lot of data scientists, like a huge number. Yeah. So at what point did you just sort of become like a, like a data company, a data tech company? Not just a fashion company.
+
+4 (35m 13s):
+Yeah. I mean, honestly from day zero, which we were always a data company, like even like those returns surveys that I described, like even when we were physically shipping the fixes out of our office and we didn't even have a website, we were collecting the data about the product, the attributes of the product. And we were collecting physically with pen and paper, your feedback about what you liked and what you didn't like, what you thought of the price and how it fit. And so the data element was always super important, but you know, I don't think we were employing true data science, I would say until, I mean, I don't know if that's fair though. Cause Eric who Eric joined us in 2012, Eric and Eric Colson, who
+
+2 (35m 56s):
+In Netflix before
+
+4 (35m 57s):
+He isn't Netflix.
+
+2 (35m 58s):
+And he was a data guy had Netflix and you're thinking, wow, I mean that doesn't get better than Netflix. Like, know what you want to watch before you even grabbed the remote control.
+
+4 (36m 7s):
+Right. And especially at the time it was before they were doing original content, like their whole thing was algorithms and recommendations. And he was like, at Netflix, we show you like a hundred recommendations at once. And he was like, we were just having this conversation where like, if we were really bold, we would only show you five or three. Or if we were really bold, when you open Netflix, we would just start playing the content that you would want to play. And he was like, that's kind of what you're doing here with clothes. And so he was very attracted to the fact that recommendations were like, actually at the core of what we were doing.
+
+2 (36m 37s):
+What are you able to describe your company in shorthand? Or did you ever describe it as sort of like the Netflix for clothes?
+
+4 (36m 43s):
+I, I don't know that I've really used that honestly, but you know, I think there are elements. Like we were a hundred percent of our revenue is tied to recommendations. Like that's a very compelling thing to a data scientist who loves recommendations, feeling like that's going to be at the core of what we're doing.
+
+2 (36m 60s):
+H w at what point did you become profitable?
+
+4 (37m 4s):
+We turned profitable. We had a profitable quarter, I think, in 2014.
+
+2 (37m 8s):
+So it took you three years to actually become profitable, which is super fast. Yeah. How much do you think about competition? Right. Because they're, I mean, they're all kinds of potential competitors out there. The obvious one being Amazon just it's massive. Right. And they, they, their fingers in every pie, you know, what's the sort of the, like the killer app or like the thing that you guys have that makes you sustainable and resistant to two big challenges.
+
+4 (37m 43s):
+Yeah. I mean, we, I would say that we pay attention to, but don't obsess over competition. And I think when we think about what's special about stitch fix, it's the one-to-one human connections and the, and the recommendations at the heart of it. And so, you know, some of the things that are really hard in today's e-commerce are like, if you want to find a pair of jeans that fit you, like it's not a great user experience to have literally a million pairs of jeans to choose from and try to filter and sort through those. And, you know, that's an example of a place where like the human element of like, you know, these jeans have strapped, or these jeans don't have stretch. And these are great for people who are your height. And we know that with data, like all of those attributes are hugely important in helping you find which one of those millions of pairs of jeans are the right ones for you.
+
+4 (38m 30s):
+And so, you know, there's a transacting part of e-commerce, but before the transaction, there's the discovery of like, what is the thing that you're going to love? And that is a really hard problem to solve in today's e-commerce. And one that I think we are uniquely good at solving
+
+2 (38m 43s):
+How many people, by the way, work for stitch fix today,
+
+4 (38m 46s):
+We have over 5,000. Wow.
+
+2 (38m 48s):
+Wow. And how did the stylists work? Because you've got a sort of hybrid model, right? Where all these humans are kind of collaborating with algorithms, right?
+
+4 (38m 57s):
+Yeah. We have over 3000 stylists and the way stitch fix works is the integration of humans and data is that they're both very kind of richly combined. And, and we see it as like, they both are uniquely good at different things. And so like a stylist should never have to worry about like, do you hate yellow or love yellow? Like the data can take care of that. And so the,
+
+2 (39m 19s):
+I answered, I hate yellow, by the way, in my StitchFix yellow and salmon, I'm not going to work salmon. Well,
+
+4 (39m 26s):
+I mean, the styles can see that, but the data is going to exclude that from being able to be even available to your stylist. And so the stylist will layer on his or her own judgment over those recommendations to choose the right things for you. And so, in some cases, the data science is going to be really accurate and like trying to figure out which genes are best for you. For example, is a place where data science is enormously helpful. And then there are other times when I'm, the stylist is layering on human judgment,
+
+2 (39m 53s):
+You took this company public last November. Yeah. And again like everyone, you know, people were talking about the first right. Youngest, female CEO to ever take a company public, you know, probably this year, you will appear on Forbes list of wealthiest self-made women, as you became more and more prominent, and the company became more profitable and you started getting more attention. All of a sudden you were sort of a successful woman and tech kind of symbol. Did that irritate you or, or did you embrace it initially or did, how did you feel about that?
+
+4 (40m 38s):
+You know, that's an interesting one where I think my mind has changed maybe even in the last year or two years at first, I was really resistant to it. Like, I really didn't like being a successful female CEO. Like I was like, I just want to be a successful CEO. And, you know, I think what's changed about it now is that when I wrote my application essay to HBS, like I wrote about Meg Whitman, a female CEO, and like, there were so few people, like, I, I still very much admire her and I did admire her then, but there were very few people for me to choose from and saying like, who I want to be like, and now the being able to be part of what opens people's lens of possibility more, I think is really powerful.
+
+4 (41m 27s):
+And so I think now, like, I'm, I don't know, kind of proud to be able to be part of that. And like, I'm very happy to wear that label. And I'm very, you know, I think it's good for people to be able to see more examples of what success can look like that maybe are different from what it's looked like in the past.
+
+2 (41m 48s):
+There was a story, I don't know when it came out maybe a year or so ago that at a certain point in your journey to raise money, you experienced harassment from a prominent partner at a prominent venture capital firm. They release a statement eventually saying something like, you know, we should have done better. Something like that. W was that a common experience for you?
+
+4 (42m 9s):
+Well, I can't speak to that specific example, but you know, I think that there were real challenges with the power dynamic. I think of, you know, who has the power and who has the money and who doesn't,
+
+2 (42m 22s):
+Was it mostly you standing in front of a room of men?
+
+4 (42m 26s):
+Yeah. That's mostly true. Yeah. And I think that there are elements of it that just feels structurally unfair, that I don't think get solved unless you change the proportion of men and women that are in leadership roles in venture capital. And so, you know, I mean, there are examples where like I was, I was at a conference and Chris Saka was on stage. Like there, hundreds of people in the room, like this isn't a secret. He was saying this publicly.
+
+2 (42m 50s):
+And Chris hockey's a, he's a venture capitalist. Right?
+
+4 (42m 52s):
+Yeah. And like, one of the things he was saying was he was like, look like I'm, you know, I'm not a typical venture capitalist. Like I don't have an office in San Francisco. Like I just, I live up in Tahoe and like, you know, entrepreneurs, they come to me and like, they come and hang out with me and Tahoe and they like drink beers in my hot tub. And like, I get to know them and their businesses. And like, you know, there's part of that, that you're like, oh, cool. Like that's different. But like, if you think about it, like I'm sitting in the audience and like, I think I was pregnant at the time. And I'm like sitting in the audience, I'm pregnant. I'm like, I'm not going to come meet you in a bikini. And I can't even come into your hot tub because I'm pregnant and I can't drink your beer is because I'm pregnant. And like, you know, there's just all of these structural elements that like, just make it harder and more challenging. And like, you know, you just realize like, well, I guess I'm never going to be able to be in his pipeline and like, that's okay.
+
+4 (43m 37s):
+But like, it's just, they're fewer. And it's just challenging,
+
+2 (43m 40s):
+You know? And there's like a tone deafness. Right. And, and I, I'm wondering if, since, you know, more and more of this stuff is coming out and more people are talking about it and we've had Jen Hyman on the show and she's talked about her experiences with, with rent, the runway weather. Some of that is trickling down in a way that's starting to change behavior. I don't know. Do you, are you hearing that in any way?
+
+4 (44m 6s):
+I certainly hope it is. And I don't want to make it seem like everything is super unfair and that everybody's a creep, but like, that's, that's really not the case. I've had great partnerships with venture investors and by and large, I think people have good intentions. I do genuinely hope that it's, it's getting better and that people are at least more aware. And so, you know, my hope is at least being able to see the success stories creates another pattern recognition for venture investors.
+
+2 (44m 32s):
+I just want to get back to something that you alluded to earlier, which is that in the midst of all this, like in the midst of building this company, you got married and had a child too. You became a mom. And how has your kid now? He
+
+4 (44m 45s):
+Is 17 months.
+
+2 (44m 48s):
+I mean, that's a lot to balance.
+
+4 (44m 50s):
+Yeah, it's a lot. And it is, I don't know that I ever actively was thinking like I have this company and like, I also need to have my life and, you know, I, but it was like, I, in the time of the company, I met my husband, I got married. I had a baby, like, you know, I've gone through a lot of life transitions through the company. And, and I think it's really healthy because I think, you know, in a lot of ways your company feels like you're kind of baby and your only thing. And, you know, I think I was, I don't know, lucky, fortunate, like, you know, whatever it is to be able to have had the space in my life to also be able to do, you know, to have those miles
+
+2 (45m 28s):
+To be a mom. Yeah. So I should admit that I get knocked sometimes from some of our listeners, particularly women who listen, who say, you know, you, you, you don't ask men about their children as much as you ask women. And so I've been more mindful about doing that. I think the one difference though, is that, you know, as a woman, you are carrying the child for nine months and running the company. I mean, that's, that's very different. That is a, that's a really, that's a challenge. I mean, physically it's challenging. And then you also have to put your emotional energy into your business.
+
+4 (46m 0s):
+Yeah. Right. No, it's, and it's different, you know, like you show up at meetings and you're like eight months pregnant. And like, you know, people didn't really know how to react to that. And like had a hard time navigating it. And I don't blame them because it's like, it's different. And like I took a 16 week maternity leave. I was out of the office for 16 weeks. Wow.
+
+2 (46m 20s):
+And my unplugged.
+
+4 (46m 21s):
+Yeah. I mean, I, there were a couple of things that I did. I did some recruiting things. Like there are some things that a CEO, like only I could do, but like I pretty much didn't set foot in the office for 16 weeks. And, you know, that's the example that I, I have a very female employee base. Like, you know, if I'm not honoring the maternity leave policy that we have, like, how are people gonna feel comfortable? Like, you know, feeling like it's the right thing to do to take 16 weeks,
+
+2 (46m 45s):
+You know, there's something that I want to ask you about, which is that pretty early on in building this company? You, you parted ways with your co-founder, what's the story. I mean, did you guys just have a different sense of what you wanted to do with the company?
+
+4 (47m 2s):
+Yeah. So my co-founder and I, we parted ways in the summer of 2012 and it was, I mean, I, you know, there's probably not a lot of specifics I can share on it, but like, it was really hard and it like in a divorce, you talk about like irreconcilable differences. And like, I feel like through that, I really understood what that meant. I was like, if you can be in a place where you really deeply care for somebody, and at the same time, you see things so differently and you can't, you just can't see the future in the same way.
+
+2 (47m 36s):
+Do you think that would, that people who start up businesses are better off doing it on their own?
+
+4 (47m 43s):
+No, I don't know. I mean, starting a company is such a team sport and, you know, I look back and I could not have done it without the many employees who believed in it. The many clients who believed in it, the like my friends who I didn't go to their wedding because I was too poor and too busy at the time. And like, you know, I mean, there's just like, it's such a team sport and you have to surround yourself with people who help you to achieve those goals. And, you know, does that mean you have to have a co-founder or not? Like, I don't know, but like, I couldn't imagine having done it without having a network of people who believe
+
+2 (48m 21s):
+How much of the success of the company. Cause you're still new and it's still early days. Right. But obviously incredible amount of success in a short period of time. How much of that do you think is because of your skill and how much because of luck
+
+4 (48m 35s):
+It's I mean, it's, it's both there. This wasn't easy and it wasn't handed to me on a platter and it wasn't obvious. And, and, you know, you had to find faith from somewhere of like, this is going to work. And, and, you know, I think in the skill category, it's like I hired an amazing team, you know, to be able to identify amazing people and somehow convince them to join this crazy company and 1100 square feet in San Francisco. I mean, there's luck and skill in, in both of those things. But, you know, I think in general, like this was not, this is an idea many people had, and it was actually executing the idea well that wasn't done before.
+
+4 (49m 18s):
+And it couldn't have been a hundred percent luck,
+
+2 (49m 25s):
+Katrina lake, the founder of stitch fix today, the company has about 3 million clients. And this year they're expecting to make about one and a half billion dollars. And by the way, when the company went public back in 2017, Katrina went to NASDAQ to ring the bell. And in her arms was her one-year-old.
+
+4 (49m 43s):
+I was kind of like, all right, we're going to do it this way he's going to be up here and this are going to do it and
+
+2 (49m 49s):
+Say he spit up all over me in the dress rehearsal.
+
+4 (49m 52s):
+I mean, that, that's the funny thing is like, if I had planned to have him up there, there's no way it would've worked. Like he was, he wasn't going to cooperate, but the stars aligned and it worked.
+
+7 (50m 9s):
+I'm Dan Jones. And I grew up in a small town called Jackson, Tennessee. And when I grew up, it was totally normal for people to have friends who were politically different from them. In fact, one of my best friends in high school, he was a white guy who was conservative. This guy loved Ronald Reagan. I hated Ronald Reagan. And, you know, we would just debate and argue about it all the time. But we were friends. I miss that feeling that you could just debate and disagree without distrusting somebody without disrespecting each other. And I just want to bring that back. And that is the point of the uncommon ground podcast. You probably got some people in your life who you used to be able to talk to.
+
+7 (50m 50s):
+Now you can't, everything is just too polarized. I think there is still a chance to have a better conversation in America. I'll bring special guests into the conversation like Megan McCain, Sarah Silverman, Deepak Chopra, and others. Our goal is to find common ground. Join me every Wednesday by following uncommon ground on Amazon music or wherever you get your podcasts.
+
+2 (51m 20s):
+Hey, thanks so much for sticking around because it's time now for how you built that. And today we're updating a story that first began about eight years ago, outside San Diego, literally on a manhunt,
+
+8 (51m 32s):
+We were searching for an armed suspect. The mission was tough. The suspect was even tougher.
+
+2 (51m 39s):
+This is Justin Lee. He was a Sheriff's deputy at the time. And he was one of the people chasing that suspect in the California desert.
+
+8 (51m 46s):
+It was incredibly hot. A hundred degrees is really hot. If you're in San Diego and we were sweating, we carried about 40 pounds of gear.
+
+2 (51m 55s):
+And Justin kept thinking, there has to be a better way to stay cool out here. Now he didn't know much about design or engineering, but after he got home, he called up a friend who did,
+
+8 (52m 6s):
+Oh, yes. J D is a management, science and engineering major from Stanford,
+
+2 (52m 10s):
+JD. And Justin started to bat around a bunch of different ideas. And after a few years, they eventually designed a piece of clothing that could keep someone comfortable in hot or cold weather.
+
+8 (52m 23s):
+It's just a compression base layer shirt that would look a lot like a Nike or an under Armour shirt that somebody might buy a Dick's sporting goods, but it had unique pockets that could hold heating or cooling elements.
+
+2 (52m 34s):
+So they took this idea and put it up on Kickstarter. And a few weeks later, the phone rang and it was actually the U S army. The army had been looking for a way to keep soldiers cool. And they said to Justin, Hey, we love the shirt, but can you make it stay cooler for longer?
+
+8 (52m 51s):
+One way that we w we put it as we built a scalpel for athletes, and they asked us to build a sledgehammer for soldiers.
+
+2 (52m 57s):
+How are they going to build that sledgehammer? Well, Justin and JD were stuck for several weeks. And then
+
+8 (53m 4s):
+I was having drinks with a few friends that had just come home from Afghanistan. They had remarked that our shirt that was on Kickstarter reminded them of how they tried to stay cool overseas, which was they freeze bottled water. And then they jam it in their body armor. And that is when I had the light bulb moment of, oh,
+
+2 (53m 24s):
+Justin's light bulb moment was maybe I could create a frozen water bottle that you could strap directly to your body.
+
+8 (53m 32s):
+The way it works is you fill it with drinking water. You freeze it overnight, and then you wear it. And as your body heat melts the ice, you have cold water to drink
+
+2 (53m 43s):
+JD and Justin called it the ice plate and they made it so it could stay cold for like two to four hours. They took it back to the army to pitch it, but, okay, this is the army, right? So it turned out. It was going to take years to deal with all the military red tape before Justin and D could actually get a contract.
+
+8 (54m 3s):
+And we just couldn't do that. We were going to basically go broke. So we took it to the commercial market in August of 2016,
+
+2 (54m 10s):
+But they started to get some pushback,
+
+8 (54m 12s):
+Negative pushback from the market. Oh, it'll never work. That's a dumb idea. There was every objection to some people just didn't get it right away. And we were just like, oh my gosh. If we just made the biggest mistake of our lives
+
+2 (54m 26s):
+Just a few weeks after they launched the ice plate, their luck completely changed.
+
+8 (54m 31s):
+September, 2016, we got a live chat from a gentleman named Kevin Frye who worked for Chick-fil-A at the time
+
+2 (54m 39s):
+Filet happened to be looking for a better way to keep their outdoor employees cool on hot summer days. So Chick-fil-A now uses the ice plates at about 200 of their stores.
+
+8 (54m 51s):
+So, yeah, we we've been busy.
+
+2 (54m 53s):
+And since they launched their company, about three years ago, Justin and JD have sold about 30,000 total units to law enforcement, construction workers, even the secret service. And they're on track to bring an almost $2 million in revenue this year.
+
+8 (55m 8s):
+This is the most fun I could have ever dreamed of having it's nerdy engineering stuff. It's helping the men and women who protect our country and our communities. It is so much fun. I couldn't have designed a job this much fun. If I tried
+
+2 (55m 25s):
+Justin Lee, his company is called core performance. It's based in McLean, Virginia. And if you want to find out more about it or hear previous episodes, head to our podcast page, how I built this.npr.org. And of course, if you want to tell us your story, go to build that npr.org. And thanks so much for listening to the show this week, you can subscribe wherever you get your podcasts, and while you're there, please do give us a review. You can also write to us@hivtatnpr.org. And if you want to send a tweet, it's how I built this. Or at guy Ross, our show is produced this week by <inaudible> music composed by Ramtin Arab Louis. Thanks also to Julia Carney, Nima grant Meshkinpour and Jeff Rogers.
+
+2 (56m 7s):
+Our intern is David job. I'm guy Ross, and you've been listening to how I built this.

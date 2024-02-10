@@ -1,0 +1,326 @@
+wondery Plus (0s):
+Wondery Plus subscribers can listen to How I, Built This Early, and ad free Right. now join Wondery Plus in the Wondery app or on Apple Podcasts
+
+Peloton (11s):
+When. you find something you love, you stick with it. Like this podcast and like working out with Peloton and with up to $950 off Peloton purchases this holiday. Bring home a Peloton bike Bike plus, or Tread and Workout like nobody's watching. Unleash Yourself Ride run box or freak the hit out. It's your workout, your rules I, always find myself looking forward to my next ride with Peloton. For Pelotons best offers of the season now extended through December 5th. head to www dot one peloton dot ca slash offers all access membership Separate terms apply.
+
+Airbnb (49s):
+Hello listeners, this is Mike Cory of Against The Odds. You might know that I adventure around the world while recording this podcast. And over the years I've learned that where I stay when I travel can make all the difference. Airbnb has been my go-to place for finding the perfect accommodations because with hotels, you often don't have the luxury of extra space or Privacy. Recently I had a bunch of friends come down to visit in Mexico. We found this large house and the place had a pool, a barbecue, a kitchen, and a great big living room to play cards, watch movies, and just chill out. It honestly made all the difference in the trip. It felt like we were all roommates again. The next time you're planning a trip, whether it's with friends, family, or yourself, check out Airbnb to find something you won't forget.
+
+NPR (1m 38s):
+Think of all the things you can do in 10 minutes or less. Scroll through social media, check your bank balance, make a sandwich or learn about the surprising economics behind all these things. The indicator from Plan of Money is a quick hit of insight into the economics of business work and everyday life. Every weekday in less than 10 minutes. Listen now to The Indicator Podcast from NPR.
+
+0 (1m 60s):
+Hello and welcome to How I Built This Lab. I'm Guy Raz. So When, it comes to carbon emissions. There are, you know, the usual suspects we hear about all the time, fossil fuels, livestock, transportation, but there are other sources of carbon emissions that are less flashy, but just as impactful on our climate, including a material you might be standing on right now, which is cement. Yes cement. We use it to glue together just about everything we build. But the production of cement worldwide actually emits almost as much carbon as cars do. The majority of that carbon comes from one of the main ingredients in cement, which is limestone.
+
+0 (2m 40s):
+To make cement, you basically cook limestone at high temperatures, but limestone is actually a carbon sink. It contains a lot of carbon, and when you heat it up to make cement, that carbon is released into the atmosphere. Well, my guest today says there's another way to make this critical building material. Cody Finke discovered the concrete problem when he was studying chemistry at Caltech. He realized there was a different rock that could replace limestone in concrete production. It's a rock that really doesn't emit any carbon when heated. And so Cody co-founded a company called Brimstone that could become the future of construction materials. Cody spent his time at Caltech looking for a climate issue to solve, and he started with solar powered toilets.
+
+4 (3m 27s):
+I wanted to work on problems that were massively underworked on, had environmental and social implications and, and wastewater treatment for applications in low income countries was an obvious choice. And that was something that one of the labs at Caltech was working on. So I, you know, enthusiastically joined that lab. I dozen travel in India and seen that firsthand and how it impacted people. And the idea was we'd build a system that didn't need a sewer, didn't need a grid, was just fully independent and treated wastewater on site. But through that project I also learned that deploying these sort of do good technologies is not trivial because people don't just buy them and install them out of the goodness of their heart, or at least not enough.
+
+4 (4m 14s):
+There needs to be a compelling economic case. Hmm. And after three or four years of working on that solar powered toilet system, I realized that there just wasn't a compelling economic case. And therefore no matter how well the technology worked, it was not gonna make an impact.
+
+0 (4m 28s):
+This couldn't be a sustainable business. As you kind of, you kind of got to that conclusion.
+
+4 (4m 33s):
+That's right. And, and if, if it's not a sustainable business, then it's also not gonna have the environmental impact I want it to have because there just isn't gonna achieve the scale.
+
+0 (4m 42s):
+This project that you worked on, I mean, it won a, an award from Bill and Melinda Gates Foundation. So I mean, it was no joke. I mean it was just a serious, and, and essentially it was a, it worked, right? I mean, which you put together worked.
+
+4 (4m 53s):
+Yeah. I spent a long time, a lot of time in India, sort of wallowing around in human wastewater as I was working on that project. And yeah, it worked.
+
+0 (5m 1s):
+So you, you ended up continuing your studies at Caltech and you did your PhD there. Yeah. And I guess while you were there, you, after that project you decided to, to tackle another project around water electrolysis. Can you tell me a little bit about what that project was?
+
+4 (5m 18s):
+Yeah, so after this solar powered toilet situation, I was looking around for what else to do. And a lot of folks at Caltech were working on splitting water in order to replace fossil fuels. And the idea was we could use clean renewable electricity, split water into hydrogen and oxygen, and then use that hydrogen as a fuel to fuel everything we do today. And we wouldn't have to use any fossil fuels. And the scale of that solution was really compelling to me. That's 70% of greenhouse gas emissions. But I realized that the technology had been around for over a hundred years and we don't make hydrogen by splitting water today. We make hydrogen a different way from a fossil fuel actually.
+
+4 (5m 59s):
+And we do that because it's the lowest cost way to make hydrogen. And I didn't see a route for hydrogen production to become lower cost than the production from fossil fuels. And therefore, ultimately I didn't see a chance for there to be a big impact. So I ultimately stopped working on that project too.
+
+0 (6m 19s):
+But clearly you were thinking of a project that you could get behind. I guess the question you were asking yourself is what are the things that create carbon emissions? It's, it's interesting 'cause it's a similar question that, like Pat Brown asked himself before he started Impossible Foods and his, his realization was, you know, raising livestock, right? Clearing forest to create grazing spaces and raising livestock for, for human consumption. You know, accounts are 15% of global carbon emissions. Presumably you're asking yourself the same questions. What are the things that cause the most pollution that I might be able to fix? So what kinds of industries or materials are you looking at?
+
+4 (7m 1s):
+Yeah, so I found this really interesting graph from the IPCC report. I think it was, this
+
+0 (7m 8s):
+Is the, obviously the UN panel on climate change climate,
+
+4 (7m 11s):
+Exactly. The intergovernmental panel and climate change, the IPCC and this graph kind of broke down emissions by sector. What really attracted me were the chemistry problems because I, I have a chemist and there are several categories that have these things called process emissions, where the chemical reaction we use to make the thing actually emits a greenhouse gas. It's not just energy, it's the chemical reaction. And the four big ones are production of steel, production of aluminum production of hydrogen actually, and then production of cement. This is a huge problem. I then looked at the amount of funding, right.
+
+4 (7m 52s):
+And one metric that was really interesting to me was the dollars invested in decarbonizing the product per ton of greenhouse gas emissions. And I couldn't really find anything lower than cement.
+
+0 (8m 3s):
+It's interesting 'cause I, I guess concrete and cement are, they're slightly different. That's right. Concrete is a product that comes from cement. That's right. But together, they're, they count for like 8%. I read of global CO two emissions, which is the same amount as all the cars around the world.
+
+4 (8m 17s):
+Yeah. Just about the same. Yeah. And just to clarify, the cement and concrete, concrete is the building material and cement is the binder, the glue, yeah. Yeah. And about 90% of the emissions come from cement.
+
+0 (8m 29s):
+Yeah. And I mean, it's amazing because like cement is critical. Like we need this building material to build on planet earth. And so it seems like a kind of intractable problem, right? It's not like, I mean, even fossil fuels, there's, there's a backup, right, with renewables, but with cement there's no easy backup. I mean, this is what you're sort of discovering I guess in 20 15, 20 16 when you're looking into it.
+
+4 (8m 54s):
+That's right. And I actually, I really liked that because it made the solution space really simple. And I think you need to simplify the solution space in order for a human brain to be able to think about it creatively. So yeah, that was one of the things that attracted to me how simple the solution space was. Alright,
+
+0 (9m 11s):
+So let's break down the problem. Why does cement create so much carbon emissions?
+
+4 (9m 17s):
+Yeah, so the emissions associated with cement production come from two places. The first is you need to burn a lot of fuel. 'cause you need to use a lot of energy to make cement. And that's about 40% of the emissions in cement production.
+
+0 (9m 32s):
+To heat it up very
+
+4 (9m 33s):
+High, oh yeah. You, you have to do a chemical transformation. And that chemical reaction requires heat or requires energy.
+
+0 (9m 38s):
+And by the way, the, the main component is limestone.
+
+4 (9m 42s):
+That's right. So that's where the majority of the emissions come from. So, so in order to make cement, you need a source of calcium. And the current way we make cement that source of calcium is limestone.
+
+0 (9m 53s):
+Because why? Because
+
+4 (9m 54s):
+At the time that cement was invented, it was the lowest cost source of calcium.
+
+0 (9m 60s):
+And this isn't like the 17 hundreds. I think
+
+4 (10m 2s):
+Different people have different timelines, but yes, like the first poly calcium silicate cement was in the 17 hundreds. Right.
+
+0 (10m 9s):
+And so limestone was used because it was readily available and relatively cheap. And now that's just the standard.
+
+4 (10m 16s):
+That's right. And in order to get the calcium outta the limestone, you use all that heat to do a chemical transformation, which removes the CO two from the limestone. And if you use heat, all that CO two will go up into the atmosphere and you'll be left with the calcium that you can then turn into Portland cement.
+
+0 (10m 33s):
+Wow. So basically it's like a double whammy. You're using heat to heat it up, and the heat just that energy alone is emitting carbon, but then there's also carbon dioxide in limestone. So when you heat the limestone to break it down, you're, you're releasing all that carbon into the atmosphere.
+
+4 (10m 50s):
+That's right. And, and the majority of the CO two emissions from cement come from that chemistry for releasing the, the CO two from the rock.
+
+0 (10m 56s):
+So limestone is a, is a carbon sink, basically.
+
+4 (10m 59s):
+That's right. Yeah. So in the global carbon cycle, an enormous amount of earth's carbon is stored in limestone.
+
+0 (11m 5s):
+Wow. So this is, it's like you hear about the tundra, you know the tundra that's defrosting and Yeah. The arctic. And that's a carbon sink. And obviously when it defrost, it releases carbon. So this is a deliberate process to make cement, but it's essentially just releasing all this carbon and which, which is a huge problem.
+
+4 (11m 23s):
+That's right. Yeah. It, it's just another way that humans are perturbing the global carbon cycle in a normal environmental carbon cycle, CO two would be released from volcanoes and would react with calcium that's been dissolved in the ocean and precipitate limestone. And then that limestone would sit around forever. Yeah. Or for several billion years until it was subducted down to the earth's crust again, and then decomposed under the earth. And the CO two was released through a volcano. And humans have by digging up limestone and heating it up to volcano type temperatures. Right. We release that CO two prematurely, which perturbs the carbon cycle, just like with fossil fuels.
+
+0 (12m 1s):
+Wow. Alright, so when you came across this realization, you, I presumably you thought, this is the thing, maybe this is the thing that I can, I can try and fix.
+
+4 (12m 12s):
+Yeah. It was quite interesting. I, it, it had all the attributes, right? It was the, the giant problem, basically. Nobody was working on it. And it was tract seemed tractable to me because it was a chemistry problem. The chemistry problem was most of the CO two emissions have nothing to do with energy. They have to do with the chemistry of making cement. So can I change the chemistry such that it doesn't make CO two emissions?
+
+0 (12m 32s):
+We're gonna take a quick break, but when we come back, Cody finds a solution to that chemistry problem right beneath his feet. Stay with us. I'm Guy Raz and you're listening to How I Built This Lab.
+
+Miro (12m 47s):
+Hello everyone. I've been working with Miro, that's MIRO over the last year to help me get a better sense of what you, our incredible listeners are thinking. Miro has sponsored quite a few of our episodes and it's just an amazing tool for collaboration and working with teams. If you haven't heard of it, Miro is this incredible online workspace and I think it's super useful to try it out if you wanna build something great with your team. Now I wanna talk about a part of Miro that many of you probably have never heard of before. It's called the Miro verse. Sometimes starting work on an online visual workspace can feel overwhelming, but with Miro verse, you can select pre-made boards for pretty much any use case. It saves you the hassle of building from scratch. And what's really cool is that a new template has just been added this time for me. We partnered with the folks over at Miro to create a how to build a podcast Miro verse template to help kickstart your journey to making a podcast. So check it out and let me know what you think. Head on over to miro.com/ HIBT. That's MIR o.com/ HIBT To check out our Miro verse template for yourself.
+
+BioFire (13m 60s):
+Hey, while we're taking a little break here, I wanted to tell you about an episode of How I. Built This we released a couple of weeks ago about the company BioFire. After looking into the data engineer and founder, Kai Klopfer discovered that two-thirds of gun deaths in America are due to accidents and unauthorized use by children and teens. Now, his company, BioFire, has created the world's first handgun with an electronic firing system that unlocks instantaneously upon fingerprint or facial verification, and then most importantly, re locks once the user Lets go of it. The idea is by no means new. So in this episode, I spoke with Kai about what makes his technology so groundbreaking and a little bit about the evolving US gun market. You can find this episode by following How I Built This in your podcast app. And scrolling back a little bit to the episode, A biometric smart Gun with Kai Klopfer of BioFire or by searching How I Built This BioFire, that's B-I-O-F-I-R-E, wherever you listen to podcasts.
+
+6 (15m 1s):
+Hi, my name is Jesus Alba. I'm the owner of Paper Tacos Greeting Cards, and my favorite episode of How I Built This is May of Chesapeake Bay Candles. I could really relate to her, especially when she talks about going to trade shows and people just passing her by trying to reach out to buyers of several department stores and hoping to get an order scaling, trying to create manufacturing and all the struggles that she faced. There are things that I'm currently trying to overcome. So I really resonate with her story and really appreciate that you all shared it with us.
+
+0 (15m 33s):
+If you wanna share your favorite episode of How I Built This record a short voice memo on your phone telling us your name, where you're from, what your favorite episode is, and why a lot like the voice memo you just heard. And email it to us at HIBT at id dot Wondery dot com and we'll share your favorites right here in the ad breaks in future episodes. And thanks so much. We love you guys. You are the best. And now back to the show. Welcome to How I Built This Lab. I'm Guy Raz. My guest today is Cody Finke co-founder and CEO of Brimstone.
+
+0 (16m 14s):
+His company has found a way to produce cement that eliminates carbon emissions, which could have a big impact on our climate. But back in the late 2000 tens, Cody had just started exploring the idea at Caltech.
+
+4 (16m 28s):
+We looked around at the existing solutions and we saw that most folks were working on making a novel material, not Portland cement. Which makes a lot of sense because if you make a novel material then you don't have to use limestone and you therefore you don't have to make the CO two.
+
+0 (16m 44s):
+And Portland cement, we should mention, is like the most common type of cement used around the world that's probably in your home or on your sidewalk. It's basically just the, the term for cement. It's not from Portland, Oregon or Portland, England, it's just, it's, that's what it's called.
+
+4 (16m 59s):
+That's right. Alright.
+
+0 (17m 0s):
+So you, you initially thought, okay, let's just take the same materials. The limestone, I think it's like aluminum and there are a few other components that go into making cement. Let's use these components, but just change the chemistry and see what happens.
+
+4 (17m 16s):
+Yeah. Or, or you know, maybe even use some different components. Maybe we could just make a different material that still works like Portland Cement, but is not Portland Cement. And one of my early mentors was the, one of the women at Caltech who was leading the entrepreneurship program. Her name's Stephanie Hinky. And she was like, well, you should go talk to customers. And we learned that it'd be very hard to enter the market with a novel cement.
+
+0 (17m 40s):
+And when you say a novel cement a cement, that was not Portland cement. That's
+
+4 (17m 44s):
+Right. Yeah. Yeah. And the reason for that was, is basically it's just risk. If you're a structural engineer or a builder or a concrete provider, then you want your material insured in case there's a problem with it. And you also don't want construction delays. You wanna make sure that everyone who's building the building knows how to work with the material. Yeah. Because both structural failures and construction delays are way more expensive than the cement like 10 to a hundred times more expensive. And because of those things, we basically found that no one that we talked to was excited about using a novel material that's, it seemed just too structurally hard. And that was actually the big aha moment, which, which really simplified the problem.
+
+4 (18m 24s):
+We realized that, okay, if we want rapid adoption, which is important for climate, but we wanna solve the problem quickly, then you need to produce ordinary Portland cement. Yeah. So we said, okay, great, where's all the calcium in the world? And we found that the calcium was in three places. There's limestone, which cement is made out of today. There's gypsum, which cement has been made out of in the past. And then there's calcium silicate, which no one had ever made cement out of.
+
+0 (18m 54s):
+Huh. And, and from what I understand, these calcium silicate rocks are abundant. Right? Like I think you're talking about rocks made out of silicon materials that, that also have calcium in them. So I guess like, like basalt would be an example. Yeah. Well but I mean, presumably there's a reason why limestone is still used. I mean, I know that maybe an answer could be, well it's just been tradition or it's just what people are used to. But there must be some reason. Is it stronger, is it cheaper to get to, like why if these other natural resources exist that have the necessary components to make cement, why weren't they used in the past?
+
+4 (19m 36s):
+Yeah. The thing that that we have to realize is that the production of Portland cement has been around for at least 150 years. Right. And the reality is, is the production of commodity chemicals, the like production method tends to change every 50 or a hundred years. You know, It takes a long time. The global economy really has to change in order to make a new system more economical. Right. So, for over a century limestone was the most economical way to make cement. But there's been some massive structural changes in the economy that have made the, a pretty recent phenomenon that we no longer think limestone is the most economical way to make cement. The current production of cement deck super lies on the production of electricity and steel from coal.
+
+4 (20m 20s):
+And both of those industries growth have slowed. And that is leading to a domino effect where the price of cement has been rising. So why was cement made from limestone? Because it's the cheapest way, or it was, the economy has now changed over the last 150 years and it's, we believe that it's no longer the cheapest way.
+
+0 (20m 38s):
+So is it more expensive to make it from calcium silicone
+
+4 (20m 41s):
+In the modern economy? We think that we'll be lower cost at scale. And that's core to our philosophy because we don't think that the technology will scale globally if it's not lower cost. And if it doesn't scale globally, it doesn't have a big impact. And if it doesn't have a big impact, then I'm not interested.
+
+0 (20m 56s):
+So what about the strength of the end product? I mean, is it a, is it as good as Portland cement?
+
+4 (21m 2s):
+So it is Portland cement. It is, yeah. It is Portland cement. So that's the key, the key thing. Right. We don't think global adoption will happen if it's not Portland cement. Right. Or at least won't happen quickly. Alright.
+
+0 (21m 14s):
+So you basically say calcium silicate, which is a type of rock that, that's abundant. It's available around the world. It has all the, basically the same essential properties is limestone that, you know, make it a great material for making Portland cement. And essentially it's not a carbon sink. Right. Carbon is not stored inside of calcium silicate.
+
+4 (21m 34s):
+That's right. So calcium silicate rocks, they don't have any CO two in them.
+
+0 (21m 38s):
+So you, how does your process eliminate carbon emissions? I mean, when the rocks are heated, I understand they don't release carbon like limestone, but there still are emissions in the process, right?
+
+4 (21m 52s):
+So there could be emissions in the process if you use a dirty fuel for producing the heat. Right. Heat can be produced via clean electricity or fossil fuel or anything else. But the beauty of our process is that actually could be substantially lower carbon or even carbon negative under a wide range of, of energy sources, including the use of those dirtier fuels. And the reason that is, is because the calcium silicate rock A does not contain any CO two. So we eliminate 60% of the emissions just by using a different rock. And then b, it produces a magnesium based waste product. And that magnesium based waste product will passively sequester CO two, just sitting on the ground. It will react with CO two in the air to permanently sequester CO two.
+
+4 (22m 34s):
+So
+
+0 (22m 34s):
+The bypro, so when you, essentially what you're saying is when you make the cement, the byproduct of it actually sequesters carbon in this magnesium byproduct, which you can then do what with you bury it underground, what do you do with it?
+
+4 (22m 48s):
+Yes. There's a lot of things you could do with it. Basically the, the simplest thing to do with it is just put it in our tailing spiral and then backfill our quarry with it at end of life.
+
+0 (22m 55s):
+So when you've got a, an empty quarry, oftentimes they get filled up with water. Right. But you would just, you just fill it up with this material. Yeah. And there's no like risk of it leaching or anything. It's just basically a carbon store.
+
+4 (23m 7s):
+That's right. This is like, this is a normal rock.
+
+0 (23m 10s):
+Hmm. Essentially, if you can do this at scale, what you're saying is not only can you eliminate carbon emissions from the production of cement, but you can actually remove carbon from the atmosphere by sequestering it in this byproduct that comes out of the process. This, this magnesium.
+
+4 (23m 28s):
+That's right. And, and you know, magnesium carbonate is baby powder. So we ba basically make synthetic baby powder passively that removes CO two.
+
+0 (23m 37s):
+So, alright. So you founded a business co-founded a business with, I think with a, a partner that you'd worked on at graduate school on, on this water project. That's right. Hugo Leandre, I think is is his name. Yes,
+
+4 (23m 49s):
+That's right.
+
+0 (23m 50s):
+And together you've basically founded the company called Brimstone. Yes. And the idea of the company is to what is to become a cement company. Like, you know, some of these huge massive legacy cement companies. Many of them are in China and Mexico. There's some in the United States. Is that the idea here?
+
+4 (24m 9s):
+Yeah. So the idea is to develop the processes to make the building materials of the future in a more economically appropriate and most importantly to us, zero carbon way and cement is the material that we are starting with because it's the most obvious output of our process. But ultimately our process actually produces aluminum and iron. So we hope to really decarbonize all of the major emissions producing, building materials in a more efficient way.
+
+0 (24m 40s):
+We're gonna take another short break, but when we come back, Cody looks to the future of Brimstone and faces a big expensive challenge scaling. Stay with us. You're listening to How I Built This Lab. Welcome back to How I Built This Lab. I'm Guy Raz. Here's more from my conversation with Cody Finke co-founder and CEO of Brimstone. They've developed a carbon negative process for manufacturing cement, which could have a massive impact in reducing carbon emissions around the world. I know you've started to raise a lot of money.
+
+0 (25m 21s):
+You've raised over $60 million. Tell me how far along you are in proving that this this works.
+
+4 (25m 28s):
+Yeah, so just this last July we got a third party certification that we, the cement that we made passed the existing standard for, or airport and cement showing that it's chemically and physically identical to the conventionally produced product. So we have now developed a process that is the third ever process to make ordinary Portland cement. Wow. And now we're working on scaling up to a pilot scale version of that process that is optimized such that we are confident that it'll be lower cost at scale.
+
+0 (25m 57s):
+So right now I think you're based in Oakland. That's right. And I think you might have a, another facility in Idaho. And so I guess in terms of your business model, 'cause obviously you have a mission, but you're also a business with investors. That's right. I mean, I know for example, here in California where I live and where you're based, I think by, maybe by 2035, I think the cement sector in California has to, has to achieve emissions 40% below baseline levels, right?
+
+4 (26m 27s):
+That's right.
+
+0 (26m 28s):
+So that's significant. And then by, by 2045 has to be net zero. That's right. So that's good for a business like yours because developers in California will have to use your product. But that being said, what's to prevent Cmex, which is a Mexican multinational, or Alamo, which is a big US-based company, or Cal Portland, another US-based cement company from just doing the same thing. Is your process so hard to replicate or is it patented or what?
+
+4 (26m 57s):
+Yeah, so the process is patented and the utilization of this rock to produce Portland cement is also patented. So another company would need to license or joint venture with us in order to make cement via this process.
+
+0 (27m 10s):
+Wow. So essentially what you're saying is, unless they can come up with a different method, this is gonna be the standard way to make Portland cement, at least in places like California and other countries with stricter laws in the next 10 to 20 years.
+
+4 (27m 24s):
+That's right. And, and there are no other major sources of calcium besides these silicate rocks. So the other two right, are limestone and gypsum, those produce CO two or sulfuric acid as byproducts. So this is the beauty of our product.
+
+0 (27m 37s):
+So tell me about conversations you are having, if at all, with some of these legacy, big legacy cement manufacturer, these massive companies that produce cement.
+
+4 (27m 47s):
+Yeah, so we are trying to understand the right way to work with these companies. We've had many, many conversations with them and basically we kind of decided that, you know, the right time to work together is when we have a process working at scale. If we were to work together earlier, then we would potentially jeopardize our intellectual property, which is the only thing that, you know, basically how Brimstone maintains its investability is by keeping its intellectual property a gear. But once we have the process at scale and we have, we're at cost parity or better, then we're basically eager to joint venture or license to these existing cement companies so that we can get the process out into the world as fast as possible and decarbonize cement as much as possible and as fast as possible.
+
+0 (28m 33s):
+So sort of walk me through the next five years, I mean, presumably it's gonna be a while before you guys are bringing in revenue.
+
+4 (28m 42s):
+That's right. Yeah. So next five years, what we'll be working on is scaling up the process, right? So the next step is building a pilot plant. And that pilot plant we're being very careful to build it so it actually, it actually represents a plant that would be lower cost at scale. And then from there we will work on building our first commercial plant, you know, a commercial cement plant that's been built 3000 times before It takes two or three years to build. So in the next five years we will be working on building our first commercial plant. I think it's probably unlikely that it's, you know, fully operational
+
+0 (29m 13s):
+Within five years.
+
+4 (29m 14s):
+Yeah.
+
+0 (29m 16s):
+And who do you think your initial customers will be? Like, a lot of these huge construction companies are probably have massive contracts with massive cement manufacturers. So what do you think your approach is gonna be?
+
+4 (29m 29s):
+So it's a pretty complex market where normally a real estate developer will put out a request for proposal for a building, and then someone will answer that request for proposal, typically an architecture firm or an engineering firm or both. And they'll designate a builder or a general contractor, and agel contractor will then buy concrete from a concrete company. And in order to make the concrete, that concrete company buys cement from a cement company. And usually the cement company and concrete company are the same parent company. So the only companies that ever buy cement are concrete companies, which are typically owned by cement companies, but the folks that ultimately pay for it are like two or three steps down the value chain, right? They're, they're the real estate developers. So we see as our early customers, like real estate developers that are highly motivated to decarbonize because the, you know, the first plants, the cement is quite likely to be higher cost than to produce cement.
+
+4 (30m 19s):
+So you need some environmental motivation later. Once we're at scale and potentially joint venturing with existing companies or you know, building our own plants or licensing and we're not more expensive, right? Where cost par are better, then the solution is obvious. It's, does a company want to buy something that's the same cost or lower that is also better for the environment? The answer is, it's obviously yes.
+
+0 (30m 42s):
+It seems like a no-brainer, right? That if 8% of carbon emissions come from cement and the technology is there to do it and to do it cheaply, that the challenge now is that existing cement factories are essentially at, at limestone quarries. So there is a cost associated with transforming this, this system. It's gonna take a lot of money and time to do it.
+
+4 (31m 4s):
+That's right. As just like it's taking money and time to transform, you know, a coal and natural gas based electricity generation system into a, you know, renewable one. It'll be the same for the cement industry. Like I don't think there's a silver bullet in, in anything. Right. You know, there's gonna be some, some cost to doing that and that's gonna create some, some delays. Unfortunately, unless there's massive regulation at the global scale, which I think also is hard to imagine, just
+
+0 (31m 29s):
+Put your business head on again for a moment. To do this a scale, you're gonna have to raise a lot more money, presumably.
+
+4 (31m 36s):
+That's right.
+
+0 (31m 37s):
+I mean, hundreds of millions of dollars over time.
+
+4 (31m 39s):
+So we want to see Brimm Stone's technology deployed to produce the world's cement. So let's say a cement plant, a modern cement plant costs around a billion dollars and there are 3000 of them today. Wow. And there probably will be 5,000 by the end of the century because we'll need to develop the rapidly developing world as well as transition to, you know, making new ways to make energy and everything else that's required for the green transition, which all of that takes cement. So at a billion dollars per plant and 5,000 plants, that's ultimately $5 trillion. So it's, it's quite a bit, but it fundamentally will make money.
+
+4 (32m 20s):
+So that's a attractive investment solution. So once we can demonstrate the technology works and get down the cost curve by getting to scale, I don't think that financing will be an issue. I think that the challenging part is raising money for the early plants, but luckily we live in a world where there are lots of people that are thinking about those problems and so I, I think that the future is actually quite bright.
+
+0 (32m 45s):
+Awesome. Cody, thank you so much.
+
+4 (32m 47s):
+Yeah, thanks guy.
+
+0 (32m 49s):
+That's Cody Finke co-founder and CEO of Brimstone. Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show. And it's always it's free. This episode was produced by Alex Chung, with editing by John Isabella and research help from JC Howard. Our music was composed by Rum. Edward Louis Our audio engineer was Patrick Murray. Our production team at How I Built This includes Carla Estevez, Casey Herman, Chris Masini, Elaine Coates, Malia Aguello, Neva Grant, Sam Paulson, and Carrie Thompson. I'm Guy Raz and you've been listening to How I Built This Lab.
+
+wondery Plus (33m 33s):
+If you like How I Built This, you can listen early and ad free Right now by joining Wondery Plus in the Wondery app or on Apple. Podcasts Prime members can listen ad free on Amazon Music. Before you go, tell us about yourself by filling out a short survey at Wondery dot com slash survey.

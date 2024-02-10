@@ -1,0 +1,140 @@
+2 (0s):
+Support for how I built this and the following message come from American Express. You want to build your business? They can help build your business with financing solutions for eligible business customers the powerful backing of American Express don't do business without it terms apply visit American Express.com business. Hey, so for the past few weeks. I've been asking you to consider a donation to your public radio station, and the idea behind it isn't just ask for money but to ask for your support because public radio stations depend on your contributions, and it's how they can Broadcast News programs and shows like this one on there are waves.
+
+2 (42s):
+So if you can please consider donating by going to donate dot npr.org / built and thanks. Hey, it's guy here. So today we're releasing another live interview from this year's how I built this Summit which happened this past October in San Francisco. And this one's my conversation with Kevin Systrom and Mike Krieger the cofounders of Instagram. And if you haven't heard their original podcast episode, you should definitely go back and give it a listen in that episode they talk about and they kind of stumbled on the idea of using filters for photo sharing and how in just two years. They got nearly 30 million followers and sold to Facebook for a billion dollars.
+
+2 (1m 26s):
+They spent six more years there and then both of them stepped down and 2018. And so when we sat down together at the summit, here's the question that was thinking of after you launch one of the most successful apps in the world. What do you do next? Let's talk about the last year. It's been about a year since you left. Has it been a little bit weird? I mean because you had a staff in this team and it's company in you were coming into work every day. And then there's a day where you don't do that.
+
+3 (1m 55s):
+Yeah. I think the first Readjustment is all of a sudden like you do have a weight off your shoulders because like the site isn't down. There isn't a decision to be made every single second and you're able to sort of step back and reflect but what you touched on is really true as well, which is one you missed the people you work with right? Like that's the thing that is really notable as well. But also Your Leverage is totally gone. So if we have an idea now, or we want to get something done like we go and do and by ourselves, which is also an exciting like, you know, Hands-On kind of moment as well. But that's I think the most notable sort of. Oh, okay. Now we're now in a different place now.
+
+1 (2m 28s):
+Yeah, I think if you look at companies that have been around now for a while in Silicon Valley you run it and and and there are people running it and you look around and like there's this system that supports everything. It just goes every day. You've got your your monthly. Check-ins, you've got your weekly staff meetings and you just know what your schedule is going to be and everything has this enormous momentum or inertia. I don't know which one is which but you know what? I mean? It's got a lot and and then you get out of it and you realize that life no longer has that inertia or that momentum will look this up later and but would you but would you realize is like, oh my God.
+
+1 (3m 13s):
+I have to be a beginner again. That's thrilling. It's but it can be scary depending on like your personality type. It can be either terrifying or it can be thrilling and I decided I was going to learn to fly that was going to be my thing when I left work. I just I wanted to take like a few months which it turns out is not enough time to learn to fly. I did it though we can get into that. So I took a few months I said I wanted to learn to fly and I was so frustrated by the fact that I like sucked like I just saw. Duct it's like at work. I knew exactly what I needed to do. And I mean it's not that I was great at all the time. But like I knew what to do. But like when you do something new for the first time, you're like wait, I have to like read a book again.
+
+1 (3m 58s):
+I have to go through all this and it's it was thrilling to know that life is going to be full of a lot of these chapters. If we do it right there, you're going to be a beginner over and over and over again and what's great is if you're a beginner and you have a partner while you're a beginner because then when you make a mistake, You know someone can pick you up from it and be like yeah, that was a mistake but let's keep
+
+2 (4m 18s):
+going. You know, I remember you telling this sort of the origin story of Instagram. It started as bourbon as a check-in app. And then I think and your girlfriend then that wife was you know, you were on vacation and he took the photo and then this sort of light bulb moment where you guys thought well, maybe this is the thing it should be and you built it into this huge platform and and your identities who are so wrapped into it, right? Right, and we've had stories of the show where Founders have sold their companies or David Neelam in was pushed out of JetBlue. He was here earlier today. I was hard. I mean even if you're paid well and you get the payout it's it's a thing that you mate.
+
+2 (5m 2s):
+It's yours. Is a part of it the part of that hard
+
+3 (5m 7s):
+I thought about this a ton in like say like the year before our departure. He start thinking about I should tell the team very openly like every year, you know, I would sit down and like sort of recommit to Instagram and so like am I still learning as a still exciting I still feel like I can have impact or is it time for the next chapter? And the question that I would often get from friends would be like, aren't you worried? Like you're not like going to be important after Instagram like in not so many words, but basically asking that question and you realize a couple of things One is the Legacy lives on and like the fact that I get to use the product and people still come up to me and are like, oh you built this is awesome. And I realized like I'd gotten attached to being co-founder and CTO and I will always get to be co-founder and that feels really good and starting conversations and having people be excited about something that we built.
+
+3 (5m 50s):
+So I think that part of the identity feels solid and the other part is you kind of realized like who's excited to spend time with you for you know, what you've built and what you're interested in and the people who just want to get verified or whatever. They are like never request. That they had kind of half these
+
+1 (6m 6s):
+people just got really disappointed
+
+3 (6m 9s):
+judging from my Instagram Direct inbox people have not gotten the message that we've left. But you know, it's a it's that transition moment was actually like a you're jumping off the cliffs Edge and you're trusting that like, there's something on the other side that will feel really good. But I was also kind of scared of like waking up and I was like, oh, yeah, you're like you're not important anymore. You're not there.
+
+2 (6m 27s):
+Kevin you were quote at the time last year. You said you don't leave a job because everything is awesome, right? And I'm curious why why'd you
+
+1 (6m 37s):
+leave? Because the you know, I you don't leave because everything's awesome. Sorry, I'm just I'm reflecting on that line. Okay, so a couple of things one is we sold the company in 2012. Yeah, and everyone thought that we were done like I remember seeing people on the street and they were like, what are you up to now? I was like running Instagram. They're like why you sold the company and I was like, yeah, but like, we really love it. Here's what most people don't realize once you sell a company like if you still love it, you still want to run it. So it was six years. Grinding to get this thing off the ground, you know, we sold it and was how many million users maybe 30 or 40 million users and we got it to over a billion.
+
+1 (7m 26s):
+Yeah, it took lots of time and that is like so I was just in Hawaii the other day. I guess this is what you do when you don't have a job. But I'm so I'm standing there on the side of the road. I was on the big island and I'm watching The Iron Man happen and these throngs of people are coming by on their bikes and their wetsuits and everything in their Speedy bikes and and they have to bike. I don't even know how many miles I think it's like over a hundred miles and they have to do a marathon and then they have to do swim or I guess it's Swim Bike Run, so I got the order wrong, but that's what Instagrams like but in business and you get to the end you the proverbial.
+
+1 (8m 8s):
+And you say to yourself? Wow, we've been through a lot but do I want to go more know like like I'm done. I just did a marathon and I just did a hundred whatever miles that's why I think we ended up leaving because you want a little break and recovery time and then my personality is such that I'm excited about doing something new like I'm just like I'm always on to some new idea and I don't know probably won't be as big as Instagram, but it'll be just as exciting to me and that's why you end up leaving not just because of the bad stuff, but because it's really hard and you need this regeneration time to do something new.
+
+2 (8m 46s):
+There was a really interesting quote and wired about the two of you basically said social media properties can be like nightclubs. They're cool while the cool people are there and they disappear without leaving a trace Kevin and Mike are smart enough and cool enough to know you should never be the last person to leave the party now essentially what this article was saying is that you sort of saw the social media landscape and maybe you thought you know, this isn't really We signed up for is there any truth to that?
+
+3 (9m 21s):
+I don't that was not a big factor for me. Like I think in facts like it was weighing on me in the opposite direction. Like I remember when early last year. So before we really thinking seriously about leaving I sat down with some folks in there like I hope you stay for a long time because I can tell you really care about kindness you really care about building a positive Network like and we really need that. So please stay which added this like whole guilt factor for me for the next like a few months as we started thinking about leaving. So I saw it less like, you know, the tide is changing. Our for it's time for us to leave. And in fact, it was like the other side like oh like maybe not to sound conceited. But maybe this is one we could be most needed and I was definitely like a factor that I weighed and think about the departure.
+
+1 (10m 3s):
+There's absolutely a moment in time right now a reckoning for social media a reckoning for Tech, right? And because we've discovered all these amazing tools like machine learning and and we can scale these sites to over a billion people like when's the last time a company Was able to touch over two billion people every month like it's it's unprecedented. So now that we're really good at learning because of data, we're really good at learning because of machine learning and we can touch so many people you start to ask yourself. Like what is the responsibility of this company any company with that power? It doesn't matter which company and there are many of them. How did they act going forward what things are allowed what things aren't allowed and I agree with Mike that it wasn't.
+
+1 (10m 51s):
+Actor in leaving but it was certainly the most interesting thing that I think we were facing towards the end, which was like, what is our responsibility as co-founders of this thing in the world. You know, I have I have a young daughter and one of the reasons why we decided to focus on kindness as a big theme at Instagram and our community was because we realize like what Legacy did we want to leave in the world? Yeah. So if anything it had the opposite effect, that's this Reckoning of tact was like something that made us want to stay even longer to participate and make it great because I think these things can go one of two ways. They either they either implode under their own weight or you have great leaders who care deeply about their mission and think that the thing that they created in the world can be this amazing Force for good and you can make that happen.
+
+1 (11m 42s):
+Just out of curiosity. Do you use Instagram? Yeah everyday use it every day. I was in The Green Room that I was Instagram. Yeah,
+
+2 (11m 49s):
+do you I mean do you think in general social media is right now a force for
+
+1 (11m 56s):
+kindness? Is social media in general a force for kindness no are their leaders and teams within social media who are doing their best to make it a force for kindness. Absolutely. I mean one of the most interesting technical projects Mike and I ever worked on was this machine learned filter for bullying basically like okay, you all have spam filters in your inboxes and everything and that keeps ma'am generally from reaching you but like what if you could train that on bullying and what If you could actually keep young children online from having that experience right with someone else that's like one little project that we were working on that turned out to do very very well.
+
+1 (12m 39s):
+But like think about all the projects you can do when you control a platform of that scale to keep people safe and to encourage kindness. I absolutely think that there are people working very very hard on that. I just, you know at large social media, I think think it's very difficult to control how kind it can be because of how massive it is. Sure.
+
+2 (13m 5s):
+Was there any way to anticipate that when you guys were sitting in you know at Stanford and when you met
+
+3 (13m 9s):
+there and you're lucky early on because the community itself selects for people that are excited about something new it's rare to get like a troll is when you're first hundred you're very unlucky if like some jerk joins in your first, you know, a hundred hundred users and but as we grew, you know, all of a sudden you go beyond friends and family to Friends of Friends of Friends. And you know, I remember actually I distinctly remember the first person that we ever had a problem with on Instagram. I think we were like a month in or even less than that and it was somebody who had been stalked by another person and they're like, hey, can you please build a block feature? Like we didn't launch with the block future because we didn't need it at the beginning. I didn't think we needed it. No, like I don't want this guy on my Instagram and we're like, oh yeah, that makes sense. And I think we had that out in like two or three days.
+
+3 (13m 51s):
+It was amazing like back in the early days like building something is like pretty easy to do and we launched it and over time you start adding. These safeguards in whether that's like be able to mute comments and in some ways that means you're you know more of a reactive side, but I think it's also just the reality that as like every order of magnitude you scale to I think it introduces a new set of problems like all these different sort of things happen. I think what's important is like when you do react like you don't build things you don't try to solve it for the exact problem you have so for example, we first wanted to put a roadblock for negative self harm hashtag. So if you go to a hashtag That was either discussing or promoting or you know, sort of touching upon self-harm we would talk about like this is how you can get in touch with national crisis center and what we found, you know, we you did you do the simple thing and uses implemented based on words, but you realize they start like slightly altering its overtime.
+
+3 (14m 46s):
+We actually do use machine learning to say no, it's this whole cluster of tags that we should put this protection around so not sitting on your laurels or saying I fixed the problem like this will never be a problem again, but having the humility to realize that the community involves A single day.
+
+2 (14m 59s):
+I'm curious. I mean I sort of hesitate to ask this question because it's sort of an irritating question. I'm sure you get a version this question a lot. But I'm curious I mean both of you built this
+
+1 (15m 9s):
+instrument take a selfie. It's not the question.
+
+2 (15m 11s):
+Yeah, take a selfie. We should do that after you know you built this intersect
+
+1 (15m 19s):
+the question. We don't want to hear.
+
+2 (15m 22s):
+You built this incredible company and brand and and have this amazing Legacy connected to it. Both of you obviously are you know financially secure beyond your wildest dreams and beyond for possibly Generations. There's a lot you can do. I know that probably both of you wanted to take some time to just reflect and just kind of get out of the day the day grind and you probably had assistance and people who always we needed your time and there was a you know team Meetings and now, you know all of a sudden you go from a hundred miles an hour to like 5 miles an hour, right? Are you starting to think about the next chapter? And what does that look like for you?
+
+3 (16m 0s):
+Mike think the first chapter of the next chapter if you will was me trying to be way to strategic you're like I did this thing. It had an impact. Like I had this whole company around it. I need to go through and like do a chart and like maybe like a matrix around like areas of impact and ideas and somebody actually said to Kevin recently thing that really resonated with me as well, which is Did you put that much work into starting Instagram? Like were you super strategic and thoughtful and like no we were interested in helping people tell their stories. We loved photography. I was excited about iPhone development. It was like 2009. It was like all these things were much more like inner sources of joy and excitement and interest in learning and I think it took probably six or seven months for me to let go of the idea that I had to be, you know perfectly aimed in terms of the next direction to instead reconnect with what True early on which is like I love learning.
+
+3 (16m 54s):
+I love hard technical problems. And I love working with people who really pushed me and vice versa. And once I let go of those things in the last two months when we've actually been spending a ton of time together again have been the most fun because all of a sudden you're like, oh like we don't have to figure this out tomorrow and if we'd had that pressure for instant, we never would have done anything.
+
+1 (17m 12s):
+Yeah the next chapter whatever it is will be based on what we're most passionate about and the skills we have and what the world needs though, like if you take those Three and intersect them. Hopefully at the intersection is what will become when you're inside of a large company that has grown from you know, 13 people at the acquisition to you know, we were probably over a thousand towards the end you get wired in a certain way to think a certain way and talk a certain way and that on wiring takes a little bit and for me, it probably took a good six months to really unwire to realize that I had to again be a Again, I had to suck at stuff when I had to install a piece of software and I couldn't figure it out.
+
+1 (17m 57s):
+I had to call up Mike and Mike had to be my tech support over Zoom like and like that that was thrilling because I was like man, I forgot how great it felt to be bad again and moving through that you start to realize that you're going to make mistakes and they're going to be false starts. But listen, you have no choice but to have a journey. What am I going to do? I'm not going to sit on a beach. Although yes, I was in Hawaii come on, but I'm not going to sit on a beach. Like I'm too energetic the world's to interesting. There are so many unsolved problems out in the world. That is the most motivating force in the entire world. And if you can do that with a partner that you
+
+2 (18m 37s):
+trust. Yeah, the world's your oyster before we go, you know, the theme of this conference is kindness and collaboration. This is this this was a collaboration the two of you got together. What's amazing is we've done stories about businesses with co-founders and They fall apart of the relationship breaks down you guys are closer than ever. I mean, what is it about the other guy that works for you
+
+3 (18m 58s):
+Mike? I think every almost every action every kind of I feel like makes me smarter and like pushes me in some interesting way like either something that you know, I built that he looks at his like, oh could this be different or why did it work this way? I'm ever like early on Instagram. We had like some outage and I fixed it and I was like that's fixed and Kevin's like yeah, but what happened was like, I don't know does it matter like it's fixed. He's like no. No, we need to understand and it sounds simple but actually that approach to like actually understanding the problem you're facing and really like understanding that the solution makes sense and not just taking things for granted as I think a pretty Court part of your personality that I deeply appreciate it because I think it ended up pushing me to become a better engineer and a better leader. So I know it's exciting to work with somebody that you just trust implicitly which is a hard thing to quantify but like there's very few people in the industry who I feel like have like the integrity and have been shown, you know over now 10 years of working together.
+
+3 (19m 49s):
+I'm like, yeah, like I trusted him to fly me. Playing which I do not trust all's any other person. I'm
+
+1 (19m 55s):
+very long bumpy flight but it worked with Kevin. What about Mike? I like that. He'll come on a flight with her. So trust I think is number one, which is in this world. Especially the business world. You never know who you can trust. But when someone's there with you in the trenches from day one and you go through everything together and I literally mean everything. You go through really hard stuff you grow super close together and I don't connect with many people at that level and Mike is on a very very short list of people I connect with on that level but maybe the final story. I'll say here is towards the end of Instagram.
+
+1 (20m 36s):
+We took some personality test because we're getting to like that level of management where we all wanted to know what everyone's personality is were and how we can work together. But listen you guys are laughing but it was really important and here's here's why it turned out that actually like All of our product managers that worked with me because I was on the product side all roughly had the same personality type which I thought was kind of interesting and then Mike had a slightly different personality type that on paper interacted very well with mine. Like it was almost like a yin and yang and that's the only way I can explain like a succinctly my relationship with Mike. Is that like if I'm a sprinter and I get really frustrated really quickly with a problem.
+
+1 (21m 19s):
+Mike is the even killed like happy. Leader who just hit we'll get through it Kev and that that yin and yang I think keeps you it keeps you grounded and it keeps you moving and fun fact, it turns out my wife has the exact same personality type is Mike. It's a
+
+2 (21m 36s):
+marriage it is. It's a marriage Kevin Systrom Mike Krieger co-founders Instagram. Thank you so much for being here. That's Kevin Systrom and Mike Krieger the cofounders of Instagram. They join me live on stage at the 2019 how I built this Summit happened in October hierba Buena Center for the Arts in San Francisco. We're going to be running more conversations from the summit on Thursdays through the New Year next week. We've got Tariq Farid Edible Arrangements. Thanks to Canada slim who produce this episode and I'm team are blue who wrote the music. I'm Gyros and you're listening to how I built
+
+1 (22m 14s):
+this. this
+
+2 (22m 23s):
+this is NPR.

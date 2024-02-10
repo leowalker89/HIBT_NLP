@@ -1,0 +1,293 @@
+0 (0s):
+Wondery Plus subscribers can listen to How I, Built This Early, and ad free Right. now join Wondery Plus in the Wondery app or on Apple podcasts.
+
+Peloton (11s):
+When you find something you love, you stick with it. Like this podcast and like working out with Peloton this holiday season, bring home a Peloton bike, bike plus or tread and work out your way. I always look forward to a ride on my Peloton bike. Unleash Yourself Ride, run box, or freak the hit out. It's your workout. Your rules for Pelotons December offer. Head to www.one peloton.ca/deals All access membership. Separate terms apply.
+
+Airbnb (43s):
+Hello listeners. This is Mike Corey of Against The Odds. You might know that I adventure around the world while recording this podcast. And over the years I've learned that where I stay when I travel can make all the difference. Airbnb has been my go-to place for finding the perfect accommodations because with hotels, you often don't have the luxury of extra space or Privacy. Recently, I had a bunch of friends come down to visit in Mexico. We found this large house and the place had a pool, a barbecue, a kitchen, and a great big living room to play cards, watch movies, and just chill out. It honestly made all the difference in the trip. It felt like we were all roommates again. The next time you're planning a trip, whether it's with friends, family, or yourself, check out Airbnb to find something you won't forget. Hello listeners. This is Mike Corey of Against The Odds. You might know that I adventure around the world while recording this podcast. And over the years I've learned that where I stay when I travel can make all the difference. Airbnb has been my go-to place for finding the perfect accommodations because with hotels, you often don't have the luxury of extra space or Privacy. Recently I had a bunch of friends come down to visit in Mexico. We found this large house and the place had a pool, a barbecue, a kitchen, and a great big living room to play cards, watch movies, and just chill out. It honestly made all the difference in the trip. It felt like we were all roommates again. The next time you're planning a trip, whether it's with friends, family, or yourself, check out Airbnb to find something you won't forget.
+
+0 (2m 24s):
+Hello and welcome to How I. Built This Lab. I'm Guy Raz. Rivian Trucks and SUVs are some of the most in demand electric vehicles on the market. This is both a good and a bad problem to have Good well, because lots of people want a Rivian bad because there's a backlog supply for the time being can't meet demand. Now, back in 2022, we told the story of Rivian and its founder RJ RJ and his team spent almost a decade in stealth mode working on building an electric pickup truck. And if you haven't heard that episode, it's really great. Just go Scroll back in the podcast queue to find it or do a search for Rivian and How I Built This in your podcast app.
+
+0 (3m 9s):
+Anyway, we wanted to invite RJ back for an update because the company has big plans, not just to increase production, but also to build an all electric mid-size SUV in 2026. One that will be significantly less expensive than its current models. But even with all of the success, Rivian has faced many challenges over the past 18 months, including the aforementioned backlog. Much of that has to do with a supply chain squeeze that is really affecting some electric vehicles.
+
+3 (3m 45s):
+We just started production in late 2021, and we launched our truck, our R one T, its sibling variant, the R one Ss, and then a commercial van where Amazon is the lead customer. Yeah. Essentially all within very close proximity of each other. So within six months we launched those three different products, and with a product as complex as a vehicle, there's thousands and thousands of things that can stop production. You have, you know, a supply chain with hundreds of suppliers providing thousands of parts, and if any single one of those components is missing or delayed, the whole system comes to a halt. You can't build a car if it's missing a bolt kind of thing. Yeah. So we, we ended up being very challenged as we were not only ramping one vehicle, but the three, and then managing three supply chains just led to it being, you know, I would argue probably the hardest imaginable year you could pick to be ramping a supply chain, particularly ramping it for the first time and then ramping it across three different vehicles was just, it was a challenge.
+
+3 (4m 43s):
+It was a challenge.
+
+0 (4m 45s):
+Your primary factory is a normal Illinois and large part because that's where the supply chain kind of meets up, but there are also parts that come from overseas, like, like the semiconductors and Yeah. Yeah, because there's so much technology in these vehicles, there's also a lot of competition for those, for those chips, for those parts, for
+
+3 (5m 4s):
+Sure. We didn't anticipate the supply chain challenges, but we also we're fighting a battle with a lot of these suppliers where we had no existing sort of purchasing relationship or history. Yeah. And so a lot of the decisions on who was allocated chips or who was allocated components was built around, you know, buyers and purchasers that had years and years of experience knowing the person on the other side of the line, so to speak. Yeah, and I think the thing that we probably talked about less, but was also a challenge was it's not as if, if you're missing one part, the only challenge is just that you're not building vehicles, it's that all the other parts still continue to come. So you have this ballooning challenge of inventory where you, gosh, and it's not just the cash, you also have to have to have a place to put all these parts.
+
+3 (5m 49s):
+If the plant shut down for let's say a week Yeah. Because you're missing a handful of components, the rest of the supply chain keeps coming in. So managing all of the suppliers to not only be pushing really hard to get as many of the constrained parts as possible, but then also be managing down production supply of some of the parts that were being produced as expected, just meant that it was a full court press. I mean, I spent hours and hours every day on the phone or in person with supplier CEOs managing all aspects of this.
+
+0 (6m 21s):
+I mean, it must have been so incredibly frustrating. There's a wonderful video that I've seen that shows the factory in normal Illinois, and it's a, a really high tech facility that you built there, but at the time we spoke, it was only running 25 to 30 hours a week, which must've been incredibly frustrating knowing what it can do, but you couldn't do that in meantime. All of these supplies that you were getting in were just piling up. What could you do? I mean, you mentioned that you were on the phone and you were even going to meet with CEOs of these suppliers. I mean, were you, were you pleading with them? Were you, what, what leverage did you have?
+
+3 (6m 59s):
+Yeah, I mean, it was all of the above. Pleading with them, painting the broader picture of why it was disproportionately important for us as a company to gain access to supply relative to other companies that might have multiple product lines or multiple suppliers providing the same component. But at the end of the day, the only way to get through it was sort of swallowed this painful pill and just get through it.
+
+0 (7m 20s):
+You had, I think at the time we spoke in, in the summer of 2022, there were about a hundred thousand pre-orders, people waiting for their vehicles and Yeah. That year, you know, you, you would produce a fraction of that. How did you manage frustration? You know, I'm sure a lot of people were angry. They're saying, I put the deposit down, where's my car? I've seen one in the wild. Yeah. Where's mine?
+
+3 (7m 46s):
+Yeah. I mean, that was a real, and, and that was a real challenge. I, I would say it continues to be a challenge we're we have the great fortune of, of a product that is
+
+0 (7m 54s):
+In high demand.
+
+3 (7m 55s):
+Yeah. It's really resonated with consumers and as a result, we still have a pretty significant backlog and some backlog is helpful, but we need to of course, make sure that that backlog doesn't create a glass ceiling to interest in the brand because we, what we don't wanna be known as, as Rivian is the brand for which you place an order and you wait years. Right. So we are trying very hard to carry some backlog, but to of course, shrink that to a much more reasonable level. A challenge in terms of the customer experience is that there is still a wait time and there are still people that have been waiting for the vehicle for, for years, and that that certainly isn't lost on us.
+
+0 (8m 29s):
+I know that you're on track, I think to build 50,000 Yeah. Vehicles this year, this calendar year.
+
+3 (8m 34s):
+Yeah. We're actually, we're, we've guided to say we're gonna exceed 50,000. So yeah, we're, we're, we're doing well this year, and I would say we're in a far better situation than we were in 2022. Yeah. That's not to say there aren't supply chain hiccups with such a large complex supply chain there, there's always going to be that, that's just the natural course of doing business with this type of a product.
+
+0 (8m 54s):
+I wanna ask you about the R two in a a moment. This is a, a mid-size, sort of lower priced vehicle that you plan to, I I think release in 2026. But I I wanna ask you about the general market around EVs, right? Because there's, there's been a lot of chatter that the EV market has slowed down. I think there's, there's some truth to that. We've seen Ford and GM and even Tesla report a slowdown in sales. Yeah. You know, what's your, what's your take on it? I mean, I think we can probably agree that in 25 years no one's gonna be driving. I mean, except for enthusiasts, no one's gonna be driving a combustion engine. Yeah.
+
+3 (9m 27s):
+Hopefully, hopefully sooner, but yeah. Yeah. But
+
+0 (9m 29s):
+Right now there seems to be a slowdown which may be connected to sort of macroeconomic factors. Yeah. Are you seeing that in things like pre-orders?
+
+3 (9m 39s):
+I'm so glad you asked this question because I, I think often in really complex systems, we try to oversimplify the dynamics of a system, and there's a few big drivers. So first I'd say broadly in looking across all manufacturers, combustion vehicles and electric vehicles, interest rates being where they are creates pressure on purchasing expensive assets. So things like vehicles that have a high percentage of financing, you're just gonna start to feel that and you're gonna see it manifest with people being more price sensitive than they historically would've been. The second thing is there's actually very limited supply of great EV products.
+
+3 (10m 19s):
+And that, that may seem surprising when I say that because there's a number of manufacturers have launched products. But when I say great ev products, products that are truly represent a meaningful step forward in terms of Yeah. Features, attributes, a cohesive brand story and product story. And so I, I think we have a gap as an industry where we need a lot more choices at affordable price points. And so competition is the ultimate way to get there. And we need to have multiple highly successful car companies that are capable first conceiving of, and then developing products that strike a chord that are interesting.
+
+3 (10m 59s):
+Yeah. And then building them at scale and building them at, at a, at cost. I, I don't think we're gonna end up in a world where there's one or two electric vehicles that we produce 70, 80 million of a year that the whole world buys. Exactly. Those two or three products, I think the world needs, you know, lots of products, hundreds of different types of vehicles. Yeah. But today there's like a handful.
+
+0 (11m 21s):
+We're gonna take a quick break, but when we come back more on r j's work to create more choice in the EV market, including where to Power Up, stay with us. I'm Guy Raz and you're listening to How I Built This Lab.
+
+Eight Sleep (11m 42s):
+This episode is brought to you by eight sleep. Sleep science shows that in order to sleep our best, our body temperature needs to drop in the early and middle part of sleep and rise in the morning. The pod cover will improve your sleep by automatically adjusting your bed's temperature based on your individual needs. The cover can be added to any bed, like a fitted sheet, and allows you and your partner to warm or cool your side of the bed as low as 55 degrees and up to 110 degrees. I've been sleeping on the pod cover by eight sleep for a few months now, and it is a game changer. Seriously, I've been tracking my sleep for years, and in the past few months, I've slept deeper, longer, and more sound than at almost any time in my life. It's amazing. The last few months of the year can be stressful, but I rest easy knowing that I'm sleeping on the most sophisticated sleep tech in the world. Invest in the rest you deserve with the eight sleep pod. Go to eight sleep.com/built and save $150 on the pod cover by eight Sleep. Eight sleep currently ships within the USA Canada, the UK select countries in the EU and Australia.
+
+I Love My Kid, But... (12m 54s):
+Even if you read all the books, there's very little that can prepare you for parenthood, but sometimes you can find something that gives you a little insight from Wondery, I love my kid, but shares hilarious stories and anecdotes about parenting that are actually relatable. Like when a friend asks you to do something at 6:00 PM on a weeknight, here's A clip from an episode, Is dinner three hours at your House? I noticed that when I have company over and we have a dinner party that is about the time. Oh. And, and I, and, and I really want everyone to leave no later than six 30 or seven. And I'm so, and only the people without kids are like kind of clueless and I'm No, you don't understand. Like, it's bedtime now and it is, you don't wanna see this, You don't want to see this and I don't want you to see this. It's, Yes. Some horrors are about to happen.Yeah. They're the boss. She is the boss of us. And I don't want you to see that. Listen to I love my kid, but on the Wondery app or wherever you get your podcasts, you can listen to I Love My Kid, but early and ad free on Wondery Plus,
+
+0 (14m 1s):
+Welcome back to How I Built This Lab. I'm guy Roz. My guest today is Rivian founder and CEO RJ Senge. Over the next few years, his company plans to expand their line of all electric vehicles. So RJ, the R two, this is gonna be your mid-priced sort of crossover that you plan to release in 2026. And it'll, as you say, retail for between 40 and $50,000. It, it reminds me a little bit of how Tesla rolled out its car. It started with a Roadster, if you remember right? In like 2010. And then it went to the Model S, which was a Yep. Yeah. Premium priced vehicle out of range for most people. Yep. And then they introduced the model three, and that was really how Tesla achieved profitability.
+
+0 (14m 44s):
+It seems like a similar kind of approach, right? You've got the R one T, which is a pickup truck, and then you've got the SUV version. They are sort of on the higher end of the EV scale. Yeah. Yeah. And so this R two that you'll release 2026, that essentially is kind of your version of a model three.
+
+3 (15m 3s):
+Yeah. It's, I mean, in terms of like, strategically, it's very similar. You, we started with what we think is like our flagship products, the R one, they're intentionally designed to be positioned at a higher price point. The performance, the capability of the feature set is set up for that. And then we're taking the essence of the brand that's represented by those products, and then building that into something that we're achieving lower price points through really intentional and thoughtful trade offs you make on content and features. Yeah. And of course innovations we're driving around cost to manufacture.
+
+0 (15m 33s):
+Your two visible consumer products are the truck and the SUV, but you're also developing delivery vehicles vans. Yeah. Yeah. Which will be used by, you know, businesses. Yeah.
+
+3 (15m 44s):
+There's well over 10,000 of on the road right now.
+
+0 (15m 47s):
+On the road. Yeah. And how much of your business, I mean, do you, do you imagine in the future that is actually gonna be the biggest part of your business?
+
+3 (15m 54s):
+No, the, the consumer side will always be quite a bit larger just because the, the addressable market on consumer vehicles is, is so much larger. But the, the commercial van, you know, is important for us when we launched, decided to go into that business to have a core anchor customer, a flagship customer, if you will. And, you know, Amazon is a great first customer. One of the things I always talk about in the context of that product is even for customers that haven't yet decided to buy an electric vehicle, if you buy a package through Amazon is delivered with an electric vehicle, you're an electric vehicle customer without even knowing. Yeah. And so I think that's a really exciting manifestation of our mission to see it come to life through the, through the lens of a van.
+
+0 (16m 36s):
+And that van, as you say, they're, they're on the road. I've seen them. It's got the round Rivian lights in the front.
+
+3 (16m 42s):
+Yep. It's very friendly looking. Yeah.
+
+0 (16m 45s):
+The other thing that you're, you did was you signed an agreement with Tesla to allow Rivian vehicles to charge a Tesla Charging stations. It's obviously the biggest network in the world, which presumably will be an incentive. A lot of people are freaked out about charging. Yeah. Yeah. This question I get asked all the time about when people see me in in my car, they'll say, well, you know what, if you run outta charge Yeah. Which never happens, but presumably that will later rest some of those concerns. How how's it gonna work? Are, I mean, are Tesla still gonna have priority at those chargers?
+
+3 (17m 17s):
+Well, there won't be any prioritizations. So starting early part of next year, will Rivian will be able to access the Tesla Charging network. And in the beginning it'll be through an adapter. And then over time our vehicle's charging port will move to what's called the North American charging standard, which is the, was previously the Tesla standard, but they've now made an open standard. Yeah. I think the thing to recognize is, even as big as Tesla's network is we still need to build a lot more charging infrastructure. And so we're continuing to invest in our own network, what we call the Rivian Venture Network. Today we have around 60 sites live. So we have, you know, hundreds of sites to build. But we really believe that having robust charging infrastructure, a few different suppliers or providers of that charging is going to become really important.
+
+3 (18m 4s):
+And part of the agreement with Tesla is also to allow Teslas, and for that matter, other vehicles, other brands to use our network when we open our network up. And we think that will be important, both for us to make sure our network's a profitable part of our business, but also to give, again, customers of all brands access to a lower risk and high confidence, high uptime charging infrastructure.
+
+0 (18m 26s):
+You know, what I really appreciate about, about your story is how hard it is. It's just, it's not a cookie brand. And for years you had a team that was working on something in stealth, they couldn't talk about it. There was no product. It took, you know, seven years before you actually could show something at, at a and people were like, what is this brand where to come from? And I know that there's so much sort of obsessive thought put into every detail. I mean, the cars have flashlights that you pop out of the door and an air compressor inside a, a compartment in the car. And I mean, just all these things that are really, really cool, but the cost of building these cars is high.
+
+0 (19m 7s):
+I mean, I believe that effectively Rivian is subsidizing Yeah, yeah. Every vehicle. Right. 'cause it costs more money than you actually are making from the sale. You lose money on every vehicle. Yeah. So how do you cut costs on every car Mm. But still maintain that obsessive kind of, you know, those quirky details and, and the things that make the car appealing to the customers you're going after?
+
+3 (19m 30s):
+Well, in the case of R one, you know, today the product is not gross margin positive. So today is in like, middle of Q4, 2023. But there's a very clear roadmap for that to achieve very healthy margins. And the two big elements of that are, one, we have to ramp production. So when you have a large scale plant, as you talked about before, that's running, you know, a 10% of its capacity, which is about where we were a year ago, it's just widely inefficient. So you get no fixed cost absorption. So that ramp is what we're experiencing now, and we're starting to see significant improvement in the cost structure as a result of just much better fixed cost absorption. The other is the material cost side.
+
+3 (20m 11s):
+So what is, what are all the components that we purchase that go into the vehicle? What do we pay for those? And it's worth calling out that when we negotiated a lot of these original contracts for our bill of materials, it was in like 20 18, 20 19. So our leverage was, was essentially zero. We had to beg the suppliers to work with us. Right. And the expectation was always that when we launched, we would be able to then negotiate savings based upon the success. Yeah. What we didn't anticipate was just how hard 2022 was. We couldn't negotiate savings. We were begging just to get supply. That's changed a lot. We're now in a position where suppliers want to see us successful. They're extremely excited about R two and it's allowing us to make very significant reductions in the overall cost structure.
+
+3 (20m 56s):
+So
+
+0 (20m 56s):
+Sort of like how airlines buy fuel in advance, you can, you're now in a position to negotiate better rates Yeah. For your supplies, which will drive the cost of each vehicle down.
+
+3 (21m 6s):
+Exactly. Now that's on R one. So R one has inherent costs built into it. Things like the speaker that pulls outta this center console or this, you know, this flashlight in the door. Yeah. Some of those unique features will make their way into R two. But R two's also been, you know, with us as a, a more mature organization and having a lot more engineering resources than we had when we were developing a lot of the core features in R one. We are optimizing heavily around cost for R two to maintain as, again, as much of the what makes a Rivian Rivian, but at a smaller footprint. So it's a smaller vehicle and with simplified architecture and with a completely different supply chain relationship where the level of leverage we have today is night and day.
+
+3 (21m 49s):
+And, and probably the best, the best way to anecdotally explain this is on a lot of the sourcing decisions for R one on sort of the bigger components, I would have to fly to go meet a supplier at one of their offices. The person I'd be meeting was maybe a vice president, but very often like a senior manager. And we would be begging to get them to say, yes, we'll supply you. This
+
+0 (22m 13s):
+Is before you produced the first,
+
+3 (22m 15s):
+This is in like 2019. Yeah.
+
+0 (22m 17s):
+'cause they were like, who are you? And what, what do you Yeah.
+
+3 (22m 19s):
+Yeah. So they with like a PowerPoint explaining who is Rivian, here's what this thing's gonna look like. Yeah. Not a single customer yet today, those very same suppliers have their CEOs flying to normal Illinois or to California to sit down and meet with our team and spend a whole day talking about how they can work with us as part of a broader relationship. So it's just like a completely different backdrop for how these contracts are being built for the supply chain for R two versus what we had originally put in place for, for R one,
+
+0 (22m 51s):
+You are an engineer. I mean, that's your background, but I think in the last couple years you've had to focus more on the public markets and being the, you know, face of a public company and raising money and managing a growing business. I know recently you assumed responsibility for product development. What does that mean? Why did you take that portfolio on in addition to the other things you're doing?
+
+3 (23m 14s):
+Since the very, very beginning, I've been deeply involved in product. It's, you know, it's the reason I started the company. It's, it's my core area
+
+0 (23m 22s):
+Of, it's interesting too. It's more interesting than raising money. Yeah.
+
+3 (23m 26s):
+It's, it's a different part of your brain for sure. Although they both take some creativity. I, I, it's sort of why I feel like I could create unique and distinct value for the business. And as the company has evolved, I've maintained half of the product team for a long time, and for a while the current head of product and I have been working together to transition those responsible directly to me and essentially have the full product organization. So vehicle engineering, propulsion engineering, electronics, software, and then autonomy report up through me. And it allows me to be very close to the product. Yeah. But of course, it means I also need to have across the rest of the business, a very strong team that allows me and enables me to be so product focused.
+
+0 (24m 14s):
+I wonder, RJ, you know, you've got this product that obviously you're really proud of and you've seen customer satisfaction right. Through the roof. And at the same time, there's an external narrative, right? In the newspapers and, and on TV of Rivian challenges, Vivian's problems, Ford, which is a big investor in Rivian stocks, sold nearly all of its shares. Amazon wrote down their shares. I mean, there's a, there there has been this other narrative of like, of Rivian struggling to keep up with orders and struggling to keep its head above water. How do you keep the internal team motivated and excited when they're getting these external messages of like doom and gloom?
+
+3 (24m 54s):
+So we do a, a company all hands every two weeks, and it gives me a chance to talk about things relatively real time to what's happening, whether it be externally and very visible, or things that are big milestones or challenges internally. And one of the things I've said multiple times to the team, and we've talked about quite a bit, is just the reality that building something like this, like Rivian Yeah. It's a very visible company. It's not like we're building sort of obscure enterprise software. This is this, you see it in your neighborhood. It's a
+
+0 (25m 23s):
+Car. Yeah. It's a car.
+
+3 (25m 25s):
+And the market shifted following our IPO to looking at high growth, high capital businesses like ours very differently. So we've seen a lot of volatility in our share price. And at the end of the day, if we continue to make products that customers absolutely adore and for which there's growing and continually excited awareness along with driving our cost structure to a point where we have a very profitable business and then launching new products, all of that takes care of itself. And it's like that classic line of, in, in the short term, the stock market can be a bit of a sort of voting machine. Yeah. But in the long term, it's a weighing machine. It captures the, the weight of the value that you create.
+
+3 (26m 6s):
+It's a classic Warren Buffett line. But I mean, the, the reality is, is we have to take the longer term view. And so we, yeah. We spend a lot of time making sure people recognize that. Now. Look, there's not a lot of like super clear scoreboards that exist in the corporate world, and the public stock market is certainly one of those. So it's hard not to glance at the scoreboard and say, boy, that doesn't feel appropriate to what we're building. Yeah. But you know, it's the job of myself and the rest of the leaders across the business to make sure we celebrate the wins, make sure we call out, you know, the excitement that we're seeing and with customers, make sure we call out the awards we're receiving and keep our head down and just continue to execute. And I will say this, there's an element, and this is sort of, I think, implicit and embedded often in entrepreneurial companies or startups where it's more fun to be the underdog.
+
+3 (26m 55s):
+So yeah. When you have these types of things happening, it's sort of like, well, great, let's go show 'em, you know, let's go, we know what we're building is great. And so that, that percolates throughout the organization's culture. Yeah. I can't tell you how many supplier visits I had in 2017 or 2018 where they said, you wanna build an electric truck? Who the heck wants to buy one of those? Yeah. So it's, I I think the organization is more resilient to that than you might think just because of it's how we grew up. We grew up around people doubting the likelihood of success. And we're seeing it translate into, you hop on the drive home from work and you see 10 Rivian the way home. It's, it's pretty clear that the product's, product's doing well.
+
+0 (27m 37s):
+We're gonna take another quick break, but when we come back more from RJ on the future of Rivian, stay with us. I'm Guy Raz and you're listening to How I Built This Lab.
+
+Wondery: American Scandal (27m 53s):
+Hi, I'm Lindsey Graham, the host of Wondery podcast, American Scandal. We bring to life some of the biggest controversies in US history. Presidential lies, corruption in sports, corporate fraud. Our newest season looks at Aaron Hernandez, a rising pro football star who shocked the sports world when he was arrested for a brutal murder in 2013. Fans media and Hernandez's own family couldn't understand how a beloved and respected player for the New England Patriots with a $40 million contract could commit such a heinous crime. But there had been warning signs all along the way, and they pointed to a much larger health crisis among current and former NFL players. Follow American Scandal on the Wonder App or wherever you get your podcasts, you can binge American scandal. Aaron Hernandez early and ad free Right now on Wondery Plus.
+
+0 (28m 40s):
+Hey there, it's Guy Raz. And while we take a quick break, I wanted to tell you about a recent episode of How I Built This that you will not wanna miss. It's about Dave Wiener and his journey to build his company priority bicycles. Dave left his job as the CEO of a software company to pursue his passion for bikes. He wanted to create a low maintenance, high quality bike at an affordable price. So he designed a bike with puncture resistant tires, a carbon fiber belt drive, and other innovative features. Now, I actually talked to Dave back in 2017 when his company was only three years old. And at that time we talked briefly about what he was building and what differentiated his bikes from others in the market. But now, almost six years later, priority has become a formidable brand.
+
+0 (29m 23s):
+So we decided to bring Dave back onto the show to explore his whole journey to success since we last spoke to him. You can find this episode by following How I Built This, and scrolling back a little bit to the episode, priority Bicycles or by searching priority bicycles wherever you listen to podcasts. Welcome back to How I Built This Lab. I'm Guy Raz. Here's more from my conversation with RJ Scarin founder and CEO of Rivian. We've had founders in the show who built products and were surprised when they discovered who was buying them.
+
+0 (30m 3s):
+The R one vehicles are really positioned for adventure seekers, right? And there are all kinds of components in the car that make it really easy to go surfing or skiing or drive into the mountains. Are you finding that that is your typical customer or are you finding like a suburban family wants the SUV because they can use it to take the kids to school?
+
+3 (30m 26s):
+It's been, for me, just a remarkably fulfilling journey of seeing what we just very much decisively said we want to target in terms of our type of customer, you know, will, will pull in to what's been achieved. And, and there were a few core aspects of what we were targeting. Number one, and perhaps most importantly is we wanted to make sure that the customers that were attracted to our brand were new EV customers. Meaning we wouldn't be accomplishing anything towards our sustainability objectives if our brand just simply slid customers from a Tesla over to Rivian. Yeah. So it needs to be pulling people out of ice and therefore out of a much broader cross section of vehicles, those
+
+0 (31m 5s):
+Internal combustion engines.
+
+3 (31m 6s):
+Yeah. Out of internal, sorry, internal combustion engine vehicles. Yeah. And so around 80% of our customers have never before owned an ev, which is awesome. The second thing we, we really wanted to achieve as a brand is to have a diverse set of customers, both in terms of background, demographic, even like political orientation. And the reason for that Yeah. Is your early customers can often become defining for the brand. And it, it's, it's a dangerous thing to have a sort of, if you think of almost like a monoculture of customers that then embody or become emblematic for what the brand stands for, it's much better to have a melting pot of consumers that are coming from all different angles and aligning around something bigger Yeah.
+
+3 (31m 50s):
+Than just their own existing perspectives. Which really brings me to the last point, which is the, something bigger for us was the desire as a brand to inspire consumers to be adventurous. When I say adventurous, it, it doesn't mean simply like climbing or mountain biking, but, but the idea of, of having a curious mindset to want to accumulate new experiences, that adventurous mindset we think is, is one of the most remarkable human characteristics, is our desire to explore. It's our desire to try new things. And so that's been the one that's been for me the most fulfilling to see that we're really connecting with that. So I, I get all kinds of customer emails, but a couple weeks ago got an email from a customer that said, starts off, thank you.
+
+3 (32m 34s):
+And it was like, okay, good. This is gonna be a friendly email. That's good. Yeah. But it goes on to describe how this person used to be very active. They used to enjoy skiing, they used to enjoy exploring and life sort of got in the way and they found themselves like having a life that was not very adventurous. And they then said, I connected with the Rene brand and I'm now I've lost 80 pounds. Wow. I'm walking around my neighborhood, I'm going for jogs, I'm, and all this stuff that's like, they connected it back to our brand, which was awesome because, you know, we're building vehicles, but if the brand that our vehicles represent is inspiring people to live a, a more full and a more inspired version of life, like that's incredible.
+
+3 (33m 22s):
+And so the echoes of that, what we see is the groups that are forming and the groups, they're very diverse sets of customers. So politically as diverse as you can be, you know, different ages Yeah. Different everything. And what they're aligning around is this excitement for new experiences.
+
+0 (33m 45s):
+Yeah. I I think it's, it's important to note that the three states with the most EVs are California, Texas, and Florida, not surprisingly the most populous, but still, I mean, Texas and Florida are not as sort of politically liberal as California. I think, I think people, when they drive an an ev they realize it's just a better experience Totally. As a driver.
+
+3 (34m 5s):
+Yeah. And, and I think we've, and and that's an important point you bring up. It's a lot of our customers are buying the product because they see it as a better product, not just simply because they're focused on
+
+0 (34m 19s):
+The environment. Carbon
+
+3 (34m 20s):
+Neutrality. Yeah. But what we've been able to do is we've been able to make that path to carbon neutrality, something that's exciting and interesting, and I think that's really important for large scale adoption.
+
+0 (34m 29s):
+I recent read an article about Jensen Wong, the founder of Nvidia, and apparently he opens every meeting with a line that goes back to the early days where he says, we're 30 days out from going bankrupt. And it was true in 1997 when they bet the company on one product. But I think it, it tells you something about how they think, even though it's worth the $1.2 trillion, there's this mentality there that they are just a, a step away from, from it all going up at a puff of smoke. I know that when we last spoke, you had a lot of cash on hand in the bank and you can see a path towards greater revenue growth, but you still are losing money.
+
+0 (35m 9s):
+Do you bring some of that urgency? And maybe fear isn't the right word, but Yeah. But fear to the table when you, when you're thinking about and talking to your team about how to grow and how to hit sustainability.
+
+3 (35m 24s):
+Yeah. It's, it's sort of implicit for us of how important it's to not only re continue to reduce cost, but also to continue to grow revenue and therefore achieve healthy positive gross margin and then ultimately be a profitable business. I think the important point is making the urgency to continue driving that progress. Part of the culture is part of my role, it's part of the rest of the leadership team's role, but it's also making sure that it's, that translates into useful actions. And what I mean by useful actions is the time skills need to be recognized that in, in a business as complex as this, it's not as if like tomorrow we can work harder Yeah.
+
+3 (36m 7s):
+And drive costs and we need to think strategically. So it's like balancing the short term, medium term and long term and being really intentional around that. And building trust between functions that our supply chain team is doing their job, our delivery team is doing their job and creating the visible accountability across those different functions.
+
+0 (36m 27s):
+How do you personally deal with that level of stress? I mean, you're an engineer, so I imagine maybe you take a more methodical approach to things and you're just looking at the data and you're saying, well, this is the way it is, but maybe not. I mean, I I I can imagine if I was running your company, I wouldn't sleep. I would just be so stressed out all the time. There's
+
+3 (36m 46s):
+Certainly days that are more stressful than others. If you're looking at our company today and look at all the challenges that we have, I, I would look at it and say, this is the lowest risk moment in Vivian's history. Hmm. We have clear line of sight to profitability. The brand is, has connected in a way that we could have only dreamed of, you know, a few years ago. And so relative to what it looked like in 2018 or 2019, or for that matter, 2015 or 2014, I've only known a version of Rivian where there's always risk. And, and you, you referenced Jenssen's line, but it's, I think with Rivian, when the company started, it was one employee. Me starting a car company, the, the likelihood of success is, I don't know, one in a million, something like that.
+
+3 (37m 27s):
+And so from a probabilistic point of view, there's a lot of challenges, but the sort of height of the clipse we have to climb is, is far more understood and reasonable than what it looked like in years past.
+
+0 (37m 39s):
+What do you do to just personally cope with that stress? I mean, do you run every day? Do you, do you have a routine or something that you do to make sure you, you know, you are healthy and managing that?
+
+3 (37m 52s):
+I, I try to exercise frequently. For me, if I miss exercising or some sort of outdoor activity too many days in a row, it, I'd notice the quality of my thinking starts to degrade and quality of my attitude. Yeah. Or if you will, or if my, my like mood isn't necessarily as optimistic or positive. So for me that's a big part of it. I think the other thing that's often underappreciated is like building the resilience to block out some of the noise and all the idioms of like glass half empty, glass half full. But the reality is, is there's any business is gonna have lots of challenges and it's really easy when you're on the outside to look at this and say, boy, how, how are they gonna overcome those challenges? And I, and I just have the benefit of having gone through a lot.
+
+3 (38m 33s):
+So reminding ourselves of what we've achieved and what we've overcome and keeping that front of mind as we look at the challenges in front of us, I think is really important. And the other thing is, I do really believe it's, it's a mindset. I, I read a letter every year to the whole company, and this year actually the sort of core focus of the letter was on mindset. And it's amazing. It's, it's like remarkable what an impact your attitude can have on the exact same set of variables. So the exact same situation with a level of optimism, and I'm not saying blind optimism, but optimism with realism has versus a cynical or defeatist or negative attitude. And it's, it like the outcomes are so different for the exact same situation.
+
+3 (39m 15s):
+Yeah. And it's much more fun to operate with that mindset. And so I bring that with me into everything that I'm working on. And it, it's fortunately, you know, become an embedded part of the culture as well.
+
+0 (39m 27s):
+RJ cringe. Thanks so much for coming back on the show. Yeah.
+
+3 (39m 29s):
+Well thank you.
+
+0 (39m 31s):
+That's RJ s Scaringe founder and CEO of Rivian. Hey, thanks so much for listening to the show this week. Please be sure to click the follow button on your podcast app so you never miss a new episode of the show. And as always, it's free. This episode was researched and produced by Katherine Cipher with music composed by Rum Arablouei. It was edited by John Isabella, our audio engineer was Neil Roush. Our production staff also includes Alex Chung, Carla Estevez, Casey Herman, Chris Masini, JC Howard, Kerry Thompson, Malia Aguello, Neva Grant, and Sam Paulson. I'm Guy Raz and you've been listening to How I Built This Lab.
+
+0 (40m 15s):
+I sent you a feedback email a couple months ago, and I think this is a huge innovation that could happen in vehicles, which is when you honk your horn to somebody, they think you're angry, but sometimes just warning them, you're just saying, Hey, you know, heads up, you know, I'm in the, you're like in the grocery parking lot and somebody's looking at their iPhone. I think there should be another horn. Yeah. Like a
+
+3 (40m 36s):
+Second.
+
+0 (40m 36s):
+A friendly horn friendly horn button. Yeah.
+
+3 (40m 39s):
+I think it's a great idea. So I, as I said to you, email, we're, we're looking at that. A friendly horn,
+
+0 (40m 45s):
+Maybe it'll make it, it could be my voice. I can say, excuse me, pardon me.
+
+3 (40m 50s):
+If you like How I Built This, you can listen early and ad free Right. Now by joining Wondery Plus in the Wondery app or on Apple Podcasts, Prime members can listen ad free on Amazon music.
+
+0 (41m 2s):
+Before you go, tell us about yourself by filling out a short survey at Wondery dot com slash survey.
+
+Wow In The World (41m 9s):
+As the host and creator of How I Built This, I get the opportunity to share inspiring stories about companies creating amazing innovations. What you might not know is that I also co-host another podcast also about innovation, but designed for the curious kids in your life on wow in the world. My co-host, Mindy Thomas and I dive into scientific innovations that wow both kids and their grownups. Like about how a shade of white paint could help fight climate change, or how spider silk could be a key component to reducing plastic consumption. Invite the curious kids in your life to experience the wows of innovation and new technologies with wow in the world. The number one podcast for curious kids and their grownups Listen to wow in the world early and ad free Right now on Wondery Plus.

@@ -1,0 +1,335 @@
+Wondery (0s):
+Wondery Plus subscribers can listen to How I, Built This Early, and ad free Right. now join Wondery Plus in the Wondery app or on Apple podcasts.
+
+The Indicator from Planet Money (10s):
+Think, of all the things you can do in 10 minutes or less. Scroll through social media, Check your bank balance. make a sandwich or learn about the surprising economics behind all these things. The Indicator for Plan of Money is a quick hit of insight into the economics of business, work and everyday life. Every weekday in less than 10 minutes. Listen now to the Indicator podcast from NPR.
+
+Capital One (31s):
+Here's A little tip for your growing business. Get the new Venture X business card from Capital One and start earning Unlimited double miles on every purchase. That's one of the reasons Jennifer Garner has one for her business. That's right. Jennifer Garner is a business owner and the co-founder of Once Upon a Farm, providers of organic snacks and meals loved by little ones and their parents with Unlimited double miles, the more once upon a farm spends the more miles they earn. Plus the Venture X business card has no preset spending limit so their purchasing power can adapt to meet their business needs. The card also gets their team access to over 1300 airport lounges. Just, imagine where the Venture X business card from Capital One can take your business. Capital One, what's in your wallet, terms and conditions apply. Find out more at Capital One dot com slash venture
+
+0 (1m 18s):
+X
+
+Corient (1m 18s):
+business support for this podcast and the following message come from Corient. Corient provides wealth management services centered around you. They focus on exceeding expectations, simplifying lives, and establishing legacies that last four generations. Leverage their exclusive network of experts to help achieve your personal and professional financial goals. As one of the largest integrated fee-only registered investment advisors in the us, Corient has experienced teams who can craft custom solutions designed to help you reach your financial goals. No matter how complex real wealth requires real solutions, connect with a wealth advisor today at Corient dot
+
+0 (2m 3s):
+com. Hello and welcome to How I Built This Lab. I'm Guy Raz. So most of the time you go and see a doctor when you have a symptom, right? A cough, an ache, a fever, and usually you get treated for that symptom. But over the past few years, the concept of preventative medicine has really started to reshape how medical care is administered. Preventative healthcare is now a $250 billion industry and growing, and the idea of course is to identify potential problems before they blow up into something bigger. Now, a few years ago, if you wanted to get a comprehensive blood test or an MRI, it had to be ordered by a doctor.
+
+0 (2m 45s):
+But today several startups are offering these services and right now the fees are high, but over time they're likely to decrease. One of these startups is called Prenuvo. They offer full body scans using MRI machines, and these scans can reveal a lot of information about your health. The service Prenuvo offers is a little controversial in the medical community because many doctors believe these scans aren't necessary for most people. But despite the pushback, Prenuvo is thriving. They built MRI centers in cities across the US with plans to expand even more. The company was co-founded by Andrew Lacey.
+
+0 (3m 25s):
+He's a serial entrepreneur who grew up in Australia Earlier in his career, Andrew launched an iPhone app that got acquired. He then started a search engine for travel recommendations and eventually became upon an idea that would turn into Prenuvo.
+
+2 (3m 42s):
+I did what a lot of entrepreneurs do, which is I sat down and thought what I was passionate about and I realized that there are a lot of things I'm passionate about that don't necessarily make great businesses. And so when I came back to Silicon Valley, I had one rule and that was that I would not form a company that was based on my own idea. I would talk to as many people as possible, put myself out there in the universe and see what came up. And I wanted to do that in the field of health because I wanted to not just build a great company, but also build a great company that could help people.
+
+0 (4m 17s):
+Alright, let's talk about the world of health because I guess there's this doctor in Canada named Rajpaul Attariwala, and he like, already in like 2010, he started experimenting with, he bought, he took a loan, he bought an an MRI machine to offer MRIs to people who wanted them. Just voluntary, you know, MRIs, who, who, who were willing to pay for them. How did you hear about this guy? How did you come across him?
+
+2 (4m 50s):
+Well, in my own explorations in the field of health, I was doing a lot of self-reflection on my own health. And I was doing what a lot of people do, which is we work hard today in order for a payoff in the future. And I had been working seven days a week for many years, not exercising, not eating as well as I should. And I was doing that because I believed that myself or the world or someone could benefit from sort of the fruits of those efforts. Yeah. But I never really understood the other part of that equation. And so really it started with this journey to figure out, well, what's actually happening underneath my skin is this bargain that I'm making worthwhile, a worthwhile investment.
+
+2 (5m 32s):
+And, and, and that's when I met Dr. Ari Walla. And
+
+0 (5m 35s):
+How did you meet him?
+
+2 (5m 37s):
+A friend of mine introduced me to him.
+
+0 (5m 38s):
+They said, Hey, there's this guy in Vancouver who does full body MRIs. He should go do one.
+
+2 (5m 44s):
+Correct. And being the entrepreneur, I sort of jumped on a plane and, and rocked up to his clinic and I did one of these scans.
+
+0 (5m 53s):
+And and what did you think?
+
+2 (5m 55s):
+I mean, I thought it was incredible. I had learned more about my health after one hour inside this machine than the health system had told me my entire life. I was nervous going in. I learned thankfully that there was nothing crazy and life-threatening going on. And I would say the thing that had the most profound impact on why I wanted to work hard to bring this scan to as many people as possible was the incredible peace of mind I got. And I felt like I was bouncing off the walls for weeks afterwards. I knew something about my health that no one else that I passed in the street really knew. And that gave me tremendous happiness to know that if I had headache, it was because I didn't sleep enough. Or if I had some pain in my stomach, maybe I ate something bad.
+
+2 (6m 36s):
+But it was nothing more serious than this. And, and in and in that moment I really realized that there was this potential screening use case for MRI machines that was a thousand times bigger than the diagnostic use case. So I had that iPhone moment again, but in an entirely different field. And, and I knew from that moment that this is what I wanted to devote my time on.
+
+0 (7m 0s):
+And and this guy Rajpaul is a, a radiologist, right? Correct. And he had this clinic called the Aim Medical Imaging Clinic in Vancouver. It's a one-off clinic where he was offering the service Marty at that point for maybe a decade. What did you say to him? Did you say, Hey, there's something bigger here. Like do you wanna talk about partnering up?
+
+2 (7m 25s):
+Yeah, I mean like most sort of scientists, Raj really enjoys and was great at fundamental research and really understanding the physics of MRI. And he had a small, I guess like side business in doing these scans for people. I heard about it from word of mouth, but it was clear that the opportunity was much bigger and he needed someone obviously to partner with that understood or had experience in scaling up businesses.
+
+0 (7m 50s):
+In other words, he was probably mainly doing cancer patients, but occasionally private people who were not cancer patients just wanted scans would come in. And that was sort of a side business,
+
+2 (8m 0s):
+Correct? Yeah.
+
+0 (8m 1s):
+Okay. And it's interesting 'cause I think of products that are designed for people with conditions like continuous glucose monitors are designed for people with diabetes to manage and to monitor their glucose levels. But in the last five or six years, companies that make these products have figured out that you can actually market them to people who are not diabetic, who are healthy, who, who also wanna monitor their glucose levels. 'cause glucose levels are connected to metabolic health. You're looking at this machine and you're thinking there's a second use for this. It's not just for people who are diagnosed with cancer or you know, maybe have a a a fracture or, you know, an injury. You can actually maybe just use it as a diagnostic tool for anyone.
+
+2 (8m 44s):
+Correct. And, and in fact, there's two really interesting and impactful use cases. The first is to understand if there's anything going on under the skin that might be life-threatening. Yep. And then the second, which is less obvious, but in some ways way more powerful is to have very detailed pictures of the inside of your body so that we all as individuals can understand the impact of the way we're living our lives on what's happening under the skin. And as humans, we are really bad at making decisions today for some sort of theoretical payoff in the future. And this is why, for example, on cigarette packets, they have pictures of sort of ugly disease lungs is, you know, they hope to shock us into making changes to our lifestyle.
+
+2 (9m 30s):
+We scan every employee in our company and we've had a few people that were smokers. And there's nothing that encourages people to quit more than seeing actual pictures of their own lungs and the inflammation that smoking's causing. And so we do that writ large across the entire body.
+
+0 (9m 46s):
+So 2018, I guess you, the two of you co-founded Prenuvo and it began as one office in Vancouver. And so initially, I mean, I have to imagine this was a small business in part because I mean the machines are expensive, but also you need radiologists to be part of this process. So tell me about the plan, like when you went to Raz, you say, look, let's start here in Vancouver, but eventually we can build a whole series of clinics around the country, around the Ute North America, maybe beyond where we can make this work. Was that how you kind of pitched it to him? Yeah,
+
+2 (10m 24s):
+I think there was really two big challenges in building the company. The first was operational, which is to say the single biggest assumption underpinning all radiology today is that you only ever look at one part of the body at a time. Okay. Yeah. And this is a throwback from 150 years ago when we just had x-ray, an X-ray plate that they put behind your body to take a picture of what was happening inside. And so there's a huge operational challenge in overcoming that. And there's many things that needed to get built from the ground up. And that involved a lot of time, money. And as you mentioned, radiologists who believed in what we were doing. The second challenge was really a mine set challenge. We went out to investors and we really struggled to raise money to start executing on this vision.
+
+0 (11m 10s):
+You struggled to raise money at the beginning. Why? Because you, I mean, you're, I'm thinking this is a no brainer. You're going to a bunch of investors and you're saying, Hey, people are gonna do this. They're gonna want MRIs. These machines are expensive, they cost, you know, millions of dollars, but they're gonna pay for themselves in, in a matter of months. 'cause you're going to have people get scanned their full body scans. Why was their skepticism? What did the investors say to you initially?
+
+2 (11m 36s):
+Well, the primary reason is because people had tried doing screening in the past 20 or 30 years ago. You could go to a shopping mall and there were businesses that had CT machines. Oh yeah.
+
+0 (11m 47s):
+But that's different. That's radiation
+
+2 (11m 49s):
+100% a completely different business. But in some ways it's soured in the minds of many physicians, the potential for screening asymptomatic patients. And so every VC fund either had an MD as a partner or had a personal physician that they would ask for advice. And universally, I imagine at the time these physicians were saying, this makes no sense.
+
+0 (12m 13s):
+You eventually were able to raise about a million, a little over a million dollars to, to get this off the ground. And I guess the idea was to open the first office real office in the Bay Area. Is is that right?
+
+2 (12m 29s):
+Correct. I, I put money in and then we raised some money from a bank actually, believe it or not. Oh. In order to bootstrap this clinic in Silicon Valley. Now of course when we're in the Silicon Valley, a lot of VCs who were interested in the field of health came in for scans. And there's something about seeing the technology firsthand that's really, really hard to communicate through a pitch deck.
+
+0 (12m 53s):
+We're gonna take a quick break, but when we come back more from Andrew on Prenuvo growth and the criticism from the medical establishment that's come along with it, stay with us. I'm Guy Raz and you're listening to How I Built This lab.
+
+Hero (13m 14s):
+It is the holiday season and while that usually means more time with family and friends, it also means more food. And for a lot of people that means more bread, more carbs, and a price to pay after the holidays are over. But if you're looking to up your protein and fiber and lower your carbs, look no further than hero bread. Hero makes sliced breads, buns and tortillas that are high in fiber, ultra low in net carbs. And with zero grams of sugar, the taste and texture of hero bread won't make you feel like you're missing out. It's fluffy and flavorful and it's always available on hero.co and on Amazon. That means you can order ahead of time and save yourself a trip to the grocery store. Right now Hero Bread is offering my listeners 10% off their first order. Just go to hero.co and use my code built to save on hero bread today. That's HER o.co to save 10% today.
+
+Miro (14m 15s):
+Hey everyone. So I've been working with Miro, that's MIRO over the last year to help me get a better sense of what you, my listeners are thinking. They've sponsored quite a few episodes of this show and it's just an amazing tool for collaboration and working with teams. And so far we've been really happy with what we're seeing. If you haven't heard of it, Miro is this incredible online workspace. Our team uses Miro for a lot of our own brainstorms and processes and I think it's super useful to try it out if you wanna build something great with your team. Now I wanna talk about a part of Miro that many of you probably have never heard of before. It's called the Miro verse. Sometimes starting work on an online visual workspace can feel overwhelming, but with Miro verse you can select pre-made boards for pretty much any use case. It saves you the hassle of building from scratch. And what's really cool is that a new template has just been added this time for me. We partnered with the folks over at Miro to create a how to build a podcast Miro verse template. To help kickstart your journey to making a podcast, go to miro.com/ HIBT to check out our Miro verse template for yourself. That's MIR o.com/ HIBT and I'm excited to hear what you think.
+
+4 (15m 32s):
+This is Thomas Silver from St. Petersburg, Florida. My favorite How I Built This has got to be Tate's Bake Shop. Kathleen King is every entrepreneur's dream. Her whole story of starting with a roadside stand, also her perseverance in times of almost complete failure, she rebuilt her business and continued even in rough times. Thank you so much for your show. It is awe inspiring and keeps me motivated.
+
+0 (16m 5s):
+If you wanna share your favorite episode of How I Built This record a short voice memo on your phone telling us your name, where you're from, what your favorite episode is, and why a lot like the voice memo you just heard. And email it to us at HIBT at id.wondery.com and we'll share your favorites right here in the ad breaks in future episodes. And thanks so much. We love you guys. You are the best. And now back to the show. Welcome back to How I Built This Lab. I'm Guy Roz. So my guest today is Andrew Lacey Co-founder and CEO of Prenuvo.
+
+0 (16m 46s):
+It's a company that's using full body MRI scans to help patients catch chronic conditions early before symptoms even appear. Let's talk about the technology for a moment. 'cause you mentioned that traditionally people get an MRI in a certain part of their body, right? And I believe full body MRI scans can take three, four hours. You basically have machines that are, you know, I don't, can't imagine too many companies make these machines GE and others make these MRI machines. But you are promising a full body scan in an hour. So how were you able to do that e especially given that you had a bank loan and, and a little bit of money that you put in?
+
+2 (17m 28s):
+Well, the time has got a lot faster. So the initial scan we did was an hour and a half, which was still much quicker than three or four hours, but not quick enough for people to do this routinely. Yeah, we do this really through a couple of things. First, we have hardware that's custom built for fast whole body diagnostic quality imaging. So the field strength that we use is a 1.5 Tesla magnet, but we put in a sort of a Ferrari engine so that it can run a lot faster. The second is that we really understand the physics of MRI and we've spent a lot of time tailoring our acquisition protocols to balance speed and image quality and heat that we put into the body during the scan.
+
+0 (18m 11s):
+Alright, so you start this clinic and, and the idea, the promise is, and we know this by the way, this is not your, what you're saying, we, we know this from science, that the earlier you catch cancer, the more likely, like cancer is an early detection problem. If we can detect all cancers in stage one, you can cure most of them. The challenge is that most of the time cancer is not detected until it's symptomatic. And by that point you're in stage three or four. The idea here is that, is that a full body scan could possibly detect diseases in their early phases and and that will enable a patient to to, to deal with them earlier. Is that, is that right?
+
+2 (18m 52s):
+Correct. And what's really unique about these scans is when you come in for a scan, we scan your liver, something like 13 or 14 types and we're actually filtering for different tissue composition for filled in for blood fat protius tissue. And there's one really, really special filter that you need to have very, very good hardware to do, which is a filter for hardness. And what we know about cancer is, well, not everything that feels hard is a cancer. All solid tumors are harder than the surrounding tissue. And so it enables us to be a lot more sensitive for very early stage cancer. And that's why the vast majority of the cancer that we catch is actually stage one or localized to the organ of origin. So we're, so we're able to do what women do for their breasts, which is feel for lumps.
+
+2 (19m 33s):
+We can do that digitally with these machines through the entire body, including the parts that you can't feel very well yourself and be able to do that at a quality that enables us to detect these lesions very, very early.
+
+0 (19m 44s):
+Once you open the clinic in San Francisco, you begin to attract interest and then funding. So let let, let's kind of dive into what you got here. And full disclosure, I did one, I, I paid for it, I did it a couple months ago and I thought it was a actually incredible, but I'm not here to endorse it. I'm here to ask you about the science behind it and also the criticism behind it. This is a voluntary thing that people can do. It ranges in costs. I think it starts in the $500 range or you know, a little bit more for a part of your body all the way to almost $3,000 if you want a full body scan. So it's not cheap, but you get this very comprehensive look inside your body.
+
+0 (20m 28s):
+Let's start with the opposition. There is a, an overwhelming amount of opposition to what you're doing from the medical establishment. I have not found really any official endorsement of what you're doing. And in fact many public health experts are like, this is not good. People should not be doing this. It's very expensive. Your regular physical with your doctor, you know, cancer screening through blood tests and stuff can find out most of this stuff. These kinds of scans only lead to unnecessary procedures when there's false positives. So let's talk about this.
+
+0 (21m 9s):
+I mean over, you know, this overwhelmingly doctors, the American College of Radiology, they oppose this lock, stock and barrel friends of mine who are doctors who are like, why are you wasting your money? Why are you doing this? So I mean there there have to be so has to be something to these are experts, these are, these are board certified experts.
+
+2 (21m 28s):
+W well I think it's a bit disappointing and, and actually I don't think you've fairly characterized what they say and this is, IM this is an important point, so,
+
+0 (21m 36s):
+Okay, fine. Please.
+
+2 (21m 37s):
+So most of those statements are along the following lines. There is not sufficient evidence to show that these are ready for population wide screen. Right. And the problem is that these statements are being made, this is a scientifically accurate statement that's being made in a consumer forum where it is misunderstood the way that you did, which is that this is not helpful for the individual. And that's not, not true. You know, a lack of comprehensive large scale long-term evidence is not,
+
+0 (22m 10s):
+It's not the absence of data. You're just saying there is no data.
+
+2 (22m 13s):
+Exactly. And I think these statements that were made actually have also been made about pap smear between when it was invented and when it was adopted mammograms. So this is a very, very natural point in the journey from a potentially breakthrough screening technology to the point at which it inevitably is adopted. And I hope it won't take 30 years.
+
+0 (22m 33s):
+I, I I, and I wanna point out some, some important distinctions, which is a lot of radiologists oppose this, certainly around CT scans, which is, this is not CT scans, that's radiation. You're exposed to radiation MRIs, it's just magnets, you're not exposed to any radiation. So it's, it's totally safe for the human body. I should just point out the distinction, right? I mean, just to make that clear.
+
+2 (22m 57s):
+100%. Yeah. And oftentimes when we hear criticism, we're not even a hundred percent certain that the physician is referring to CT screening or referring to something that they might have seen elsewhere. These are very new techniques that we're using on highly specialized hardware. It's very different to what might be available out there. And you really need firsthand knowledge to be able to form an opinion that is informed. Yeah. And there's no one that's really spoken out against these technologies that actually has experienced it firsthand. In fact, most of those people bring their family members in and then start referring their patients.
+
+0 (23m 30s):
+So it's interesting, there's a, a, a very good New York Times article about, about this. I dunno if you would say it was very, it was very interesting a couple months ago and in that article, a woman, a doctor, Rebecca Smith Binman, the director of radiology at UCSF, so she must be no joke, a major radiologist. She's quoted as saying, I have a family history of cancer and I would not consider getting a full body scan like Prenuvo. And I was, I was surprised, maybe surprised to hear that. But at the same time, I mean when you ask people like that 'cause you must encounter them and you say, why do you understand their reasoning?
+
+0 (24m 10s):
+Do you do, do you understand their point of view?
+
+2 (24m 13s):
+I I don't fundamentally understand it. Oftentimes we reach out and ask for them to come in and visit a clinic and or meet with our radiologists, but unfortunately they don't, people don't always take us up on those offers. We've made thousands of potentially life-saving early cancer diagnoses or aneurysm diagnoses. We've provided a lot of clarity into very early stages of chronic disease that if caught later significantly affect both outcomes and costs for the health system. So I guess I'm a little bit surprised that there isn't more enthusiasm and inquisitiveness by the health system at large when I think everyone would acknowledge that we have a health system that is just tremendously reactive and is not really meeting our needs.
+
+0 (24m 56s):
+I guess my question is, do you care? I mean, I mean the, the the, to get an appointment, it, you know, you can is hard now, right? There's your, your scan, your scanner beds are probably just full all day. There's massive demand. So do you really care what the medical establishment thinks?
+
+2 (25m 13s):
+Absolutely. I care because patients trust their physicians. And if you are interested in getting one of these scans and you go to a physician and your physician provides an uninformed opinion that discourages you from doing it, then you have potentially missed out on an early diagnosis or greater insights into your health. That's why we invest so much time in educating physicians.
+
+0 (25m 34s):
+That makes sense. 'cause I have to admit, when I, before I got one I told my doctor and friends or doctors and they were all like rolling their eyes and I kind of felt like an idiot. You know, like, is this just a waste of money and time? But I went through it and so that makes sense. You need to convince them that this is worth worthwhile for people who, who can, you know, who wanna do it.
+
+2 (25m 59s):
+Sure. And I think there's kind of two levels of evidence. Level one is, is there enough evidence to inform that this is a helpful technique for a given patient? And here we can talk to the types of things we see and how early we see them and the sorts of risks and how impactful they may might be on a given patient. The second level of evidence is can we show that there is a reduction all causes mortality over the long run for people doing these screen screenings routinely. And we're working to collect that evidence. But it's implicit in the nature of the question that that's gonna take a long time to prove.
+
+0 (26m 33s):
+There have been a lot of, you know, back and forth recommendations over the years about early, you know, colonoscopies for example, what age to get them or mammograms, et cetera, and how often to do them. It's gone back and forth. Sometimes it's do it, sometimes it's don't every five years, every three years stop, you know, wait until you're 60 in part because sometimes when there are is cancer detected, there's major interventions that can, you know, render people, you know, double mastectomies or you know, prostate cancer. Things that are, sometimes the argument is the interventions are too aggressive and unnecessary. And you know, the same doctor Dr. Smith Binman in this article said, look, the problem is is that these screenings will find early cancers, but not all of those instances of cancer will develop into a devastating disease.
+
+0 (27m 22s):
+And she, she, she goes on to say, look, you know, for a small number of patients detecting and treating early cancer will have a profound benefit, but the number of benign tumors in our bodies so outnumber the number of aggressive tumors. And so the concern is, is that it's gonna result in overly aggressive treatment when none is necessary. And that's, that's a, you know what, I don't think that's an illegitimate criticism.
+
+2 (27m 47s):
+I I mean I think it's an opinion. I'm not aware of any clinical evidence cataloging this vast quantity of benign tumors that we have in our bodies. But it it's also an argument that makes sense when you start to consider these interventions at a population level. Because at a population level we're all a statistic, but at the individual level we only have one life. You know, if we lose that one, we don't get a do-over. And so the way we might make decisions as individuals is fundamentally different because of that fact.
+
+0 (28m 18s):
+We're gonna take another quick break. But when we come back, Andrew shares his vision for Prenuvo future and its potential to reshape American healthcare as we know it. Stay with us. I'm Guy Raz and you're listening to How I Built This Lab.
+
+Microsoft (28m 39s):
+AI isn't coming. It's here now and it's radically transforming the way we work. How can leaders stay ahead of the curve and make sure their employees and organizations are using AI to its fullest potential? By listening to the Work Lab podcast from Microsoft, hosted by veteran technology and business journalist Molly Wood, join her as she explores the biggest questions about AI and work from what it is to what it is not to well why it all matters. Follow Work Lab on Apple Podcasts, Spotify, or wherever you listen.
+
+Nissan (29m 13s):
+This episode is sponsored by Nissan. Nissan has a car for everyone, every driver who wants more, more fun, more freedom, more action, more electric, more head turning style from sports cars to sedans to EVs, pickups and crossovers. With Nissan, there is no compromising on your next adventure. Whether you are taking a detour or going way off the grid. Nissans like the frontier, Pathfinder or Rogue have various forms of four-wheel drive that are built to take on off-Road challenge with a suite of capabilities that make them truly fun to drive on and off-Road. Learn more@nissanusa.com.
+
+0 (29m 58s):
+Welcome back to How I Built This lab. I'm Guy Raz. So earlier this year I actually had my very own Prenuvo body scan and just to be clear, I paid for it. I didn't get it for free. And my guest today is the co-founder and CEO of the company, Andrew Lacey, I'll talk to you about my result 'cause I got it done. Knock on wood, no cancers found. No, but what they found in my case was some degradation of my cervical spine. So in my neck. And that that's, I think more and more of this is being found 'cause of iPhones, people leaning over reading their iPhones. It's, it's screwing with our necks even sitting here in my, in my studio.
+
+0 (30m 40s):
+And that actually prompted me to go to physical therapy and to start a new regimen to try and deal with this. 'cause I don't want to have compressed nerves in my neck. 'cause you know, it can affect your mobility. You can start to feel it in your arms and I'm, I'm not an old guy so that was super helpful. It actually, I actually loved that.
+
+2 (30m 58s):
+I think one of the really fascinating things that we have discovered as we started to image more and more patients is we can see oftentimes at very early stages of chronic disease, 10, 20 years before you might ever feel symptoms. And spine is a really good example of this. When we open in Silicon Valley and we got patients that were in their twenties coming in for a scan, we could show the spine to a radiologist and ask them to guess the age of that person. Yeah. And they might guess that they're in their forties. And longevity is so closely linked to mobility. Once you lose your mobility, you don't live much longer. And so this is a life-changing insight to get early on when you can do something about it. That's as simple as just changing your
+
+0 (31m 39s):
+Lifestyle. Yeah, I mean, as I say, you know, seeing, seeing changes in my cervical spine le has led me to go to physical therapy and also to take mobility exercises really seriously because I've been so focused on cardio strength training that I've neglected stretching and, and but seeing this early, I can see where this will go.
+
+2 (32m 1s):
+And oftentimes what a physician might say, especially might say is well, you know, a lot of people might have these problems and never experience pain and that's actually true. But we can still figure this out by looking at your spine. Some people have what's called a congenitally narrow spinal canal. That means there's not a lot of extra room Yeah. In a spinal canal for anything other than the spinal cord. And those people, when they start getting these slippages, they're the people that will experience pain, you know, 10, 15 years down the track.
+
+0 (32m 27s):
+Yeah, no. So I loved it from that perspective. And I have to imagine that in most cases it's not detecting cancer, the scans are not detecting cancer.
+
+2 (32m 36s):
+That's correct. There's, we just had cancer aneurysms in maybe one in 20 to one in 25 people depending on the location.
+
+0 (32m 45s):
+So, alright, let's talk about Price point. Okay. I mean, it's not cheap, but if you think about it, you know, from a holistic perspective, it's, it's a pretty good deal. You can get a full body scan for under 3000 bucks and, and if you were to do this and you had cancer, like God, who the costs are astronomically higher, how can you, one of the questions I had from a friend of mine who is a, you know, very prominent doctor in the Bay Area is like, I don't understand how they can do this at this price point. Just the radiologist, the cost, the radiologist to read these scans is gonna be so high. Are they using radiologists in, you know, in the Philippines or in countries where the costs are just so much lower?
+
+0 (33m 29s):
+How do you do that?
+
+2 (33m 31s):
+We built a highly optimized business for a whole body screening. So we have one radiologist that looks at the entire body, they're trained in identifying what they see in, in every single organ. And then we have subspecialties that can chime in if there's something abnormal and they need help. And that importantly we believe can yield much more useful insights because our bodies are not a collection of parts. They're a system. Yeah. And we can learn a lot about how, for example, your heart is working by looking at your brain. We can tell a lot about even things that we can't see with MRI like blood pressure or diabetes by looking at the effect on the liver.
+
+2 (34m 13s):
+And so by looking at you as a system, we believe that we can provide a more accurate picture of your overall health.
+
+0 (34m 19s):
+And are the machines, I mean, you know, there are now, I mean you guys really have pioneered this now there are competitors, presumably the machines aren't that different, but what differentiates what you guys offer? Is it, is it that there's different technology?
+
+2 (34m 34s):
+Well the machines are different. So you can't do this on regular imaging. You do really need special hardware and software and that's what makes it unique.
+
+0 (34m 42s):
+And you have proprietary machines or the machines also sold to other clinics.
+
+2 (34m 46s):
+The machines are custom built for us. We don't build them. Yeah. We're not MRI manufacturers, as you mentioned, there's only a few companies that do this. So we partner with two companies to produce the machines that we use.
+
+0 (34m 57s):
+Alright, let's talk about access. Right? And this is not your job. You, you are a, you are in business, you're not, you're not running a charity. But ultimately, you know, and you know, one of the critiques of this is that this is only for wealthy elites who can afford to pay, you know, a thousand to $3,000 to get this done. And so it's not accessible to most people, presumably. I mean, it's not in your business interest to keep this expensive that it's in your interest in the long term to make this cheaper.
+
+2 (35m 30s):
+Well let's talk about who's using the service and then how we're working on costs. So Sure. So there's a incorrect assumption that most people make, which is the types of people that are really attracted to this are sort of the health and lifestyle optimizers,
+
+0 (35m 44s):
+The biohackers of the, of the Silicon Valley.
+
+2 (35m 47s):
+And for sure most anyone that considers themselves a biohacker has done one of these scans. Yep. But the single biggest category are people that might have had cancer and worried that it's coming back or they have a strong family history of cancer or aneurysm or disease. And for them not being screened is obviously affecting their quality of life. The second biggest category are people that have actual symptoms but they're indeterminate. They might have headaches or abdominal pain, particularly women that might have abdominal or pelvic pain and they don't know what's causing it. And the health system is not doing a good enough job diagnosing the condition. And as a result they're sort of without peace of mind and they come to us to get peace of mind or to get treatment a lot earlier by diagnosing the condition faster.
+
+0 (36m 33s):
+So when you think about this business and where it's going, where do you wanna get the price point down to?
+
+2 (36m 40s):
+Our goal as a company is one day that these are a sub $500 scan, it takes probably about half an hour or less and they're available most everywhere. Do
+
+0 (36m 51s):
+Do you think that that once somebody gets a full body scan, it's worthwhile for them to al also get a, a second read by by their maybe a, a radiologist they may know? Or is the information from your radiologist so good that that's not necessary?
+
+2 (37m 7s):
+Well we, we built the service in a way that that's an option. So it's really important that the images that we take are clinical diagnostic quality and recognizable to any radiologist who specializes in a certain part of the body. So our head images are equivalent to what you would get if you had a dedicated head MRI and that enables the potential for a second or third opinion. And if you have something that's very concerning, I don't see why you may not wanna get a second or third opinion because now you are, we are no longer looking at you through a screening context. We're looking at you, your body through a diagnostic lens. Previous attempts to do this with MRI used what, what we call non-diagnostic imaging, which was poor quality fuzzy pictures.
+
+2 (37m 54s):
+And it was, most radiologists didn't wanna read it in the first place and certainly didn't wanna provide a second opinion.
+
+0 (37m 60s):
+So Andrew, I mean it sounds like from your perspective, obviously I can, I know I can hear the frustration in your voice about the pushback from the medical establishment. Right? But when you're sort of going up at 35,000 feet and looking down at this, are you telling yourself this happens with every medical technology, it's always happened and we know in the end we're gonna be vindicated because this is gonna help people discover diseases way out in advance and it will be, it will be embraced over time.
+
+2 (38m 34s):
+Yeah, I think my enthusiasm is informed by the patients that I meet every day where we have a positive impact on their lives In some ways, although what we're doing is very innovative, we have a really, really simple approach to marketing, which is let's just provide the most accurate clinical diagnostic screening exam. And if we do that, people will tell other people and then the business will grow. And I'm sure your listeners will have probably heard about us from perhaps celebrities that might have talked about us. Yeah. Now a lot of this came about just because we opened in LA and we were doing a great job and you know, eventually someone told someone who has, who is a celebrity and has a big social voice and they come in and then they'll tell their friends that also happen to be celebrities or people with a large reach.
+
+2 (39m 20s):
+And that's a large part of the reason why awareness of these scans has really taken off this year.
+
+0 (39m 25s):
+Yeah. Kim Kardashian famously did one earlier this year and posted on it. Have you ever had a bad review? I mean, I, I'll just say I went, everyone was so nice and the snacks were gray and the coffee was good and it was a very easy experience. But have you had people, 'cause look, I mean, doctor's offices are stressful for the people who work there and, and look, you know, some oftentimes I I'm sure people have experienced this, that they're just unfriendly when you go there. But have you guys emphasized like be friendly, be courteous, all those things to your, to the people who work at the front desk?
+
+2 (39m 56s):
+Absolutely. And it's not just because that's how I would like to be treated actually. It's because of something that's very fundamental to our healthcare system, which is going to a healthcare facility is scary. Yeah. And it's scary because we have a healthcare system that's very reactive and if we're gonna get diagnosed with anything, it's gonna be by definition advanced. Yeah. And scary. Yeah. And we are building a business where we want to diagnose things early. We sort of, we want to be like the routine dental checkup, but for the rest of your body. And if you go to the dentist every six months, most of those people are not afraid to go because Yeah. You know, they know just getting
+
+0 (40m 31s):
+A clean and hopefully
+
+2 (40m 32s):
+They're get a clean, maybe they need a filling, but, but the chances of needing a root canal is pretty, pretty remote. Yeah. And so we have to, we exist in this ecosystem where disease is defined in such a scary way that we go out of our way to make sure that the visit itself does not trigger any of that fear. So our facilities don't have any white walls. We don't have anyone wearing, you know, lab coats or medical outfits. And all of this is frankly because of the fact that, you know, we operate in this ecosystem where disease is scary.
+
+0 (41m 5s):
+You can watch Netflix while you're getting your MRI literally.
+
+2 (41m 9s):
+That's correct. And you know, to give you an example of how that helps the average MRI procedure, about 10 to 15% of people can't get through it without pulling the escape hatch because
+
+0 (41m 21s):
+It's just, you have to be still for an hour.
+
+2 (41m 23s):
+Correct. And at Prenuvo we have about 1% of people that can't get through a scan.
+
+0 (41m 29s):
+Alright, you guys raised $70 million in October of 2022. You, your growth has been exponential. Tell me about the plan. I mean, when you, when we talk in 10 years, Andrew Prenuvo is gonna be all over the United States, all over the world, in every city. What do you, what do you imagine?
+
+2 (41m 48s):
+I have hundreds of people outta working hard. So that one day, this is standard of care everywhere. That means that there's a facility down the road for you, just like there might be a Starbucks and you turn up, you get maybe a 10, 15 minute scan and probably by the end of the scan we already know if you have something that we have to walk you through or not. And, and if not, then you go about your life for another year. And that's a world where we've redefined the definition of disease from scary to maintenance and people don't ever have to suffer through their lives not knowing what's going on under the skin.
+
+0 (42m 23s):
+How big do you think this industry can get?
+
+2 (42m 26s):
+I don't see a reason why not every single adult in America shouldn't do one of these scans every year or two. In fact, to just screen for cancer in the US using the techniques that we use probably to scan every person in the US every two years will cost something like $60 billion. We spend $130 billion on late stage cancer drugs every year, let alone the obviously huge impact of people passing away from this horrible disease. So the economics already there for these types of preventative screening interventions to be hopefully adopted everywhere in the US and not only will save lives, but should save money for the healthcare system.
+
+0 (43m 11s):
+That's Andrew Lacey co-founder and CEO of Prenuvo. By the way, pro tip for anyone listening 'cause I just had a scan British Baking show. That's what you wanna watch. Everybody's happy and it's a, it's, it's a world that I wanna live in. So that's my pro tip.
+
+2 (43m 26s):
+We have some people that play play comedy and we've learned actually that that's not a great choice because they start laughing and then the images of the head are not quite as clear.
+
+0 (43m 36s):
+Hey, thanks for listening to the show this week. Please make sure to click the follow button on your podcast app so you never miss an episode of the show. And as always, it's free. This episode was produced by J C Howard, with music composed by Ene Arablouei. It was edited by John Isabella with research help from Alex Chung. Our audio engineer was Neal Rauch, our production team and How I. Built This includes Carla Estevez, Casey Herman, Chris Masini, Catherine Cipher, Kerry Thompson, Malia aud, Neva Grant, and Sam Paulson. I'm Guy Raz and you've been listening to How I Built This Lab.
+
+Wondery (44m 16s):
+If you like How I Built This, you can listen early and ad free Right now by joining wondery Plus in the Wondery app or on Apple Podcasts.
+
+0 (44m 25s):
+Prime members can listen ad free on Amazon Music. Before you go, tell us about yourself by filling out a short survey at wondery.com/survey.
+
+Wondery - Over the Top (44m 36s):
+Hey, I'm Michelle Beetle. And I'm Peter Rosenberg. Hey Peter. Tell the people about our new podcast, Right? It's called Over the Top and we cover the biggest topics in sports and pop culture using Royal Rumble rules. That means we'll start with two stories, toss one out on its ass and dive into the other stories with ruthless aggression. Oh, but it never stops because every 90 seconds after that, By God whose music is that. Another story comes down to the ring, rinse and repeat until we arrive at the one most important thing on Planet Earth that week. Follow over the top on the Wondery app or wherever you get your podcast, you can listen to over the top, early and ad free Right. Now by joining wondery Plus. For the record, this is not a wrestling podcast. No, No. But it is inspired by wrestling. Isn't everything inspired by wrestling Beetle? Fair point. Yeah.

@@ -1,0 +1,1085 @@
+Indeed (0s):
+What's better than finding quality candidates? Finding them fast. With Indeed. you can attract talent interview candidates, and hire all in one place. As. soon as you sponsor a post on Indeed, you get a short list of quality candidates whose CVS match your job description. Boom. Just. like that. So. start hiring now with a 100 pound sponsored job. credit for your job. Post at Indeed dot com slash how I built Offer good for a limited time claim your 100 pound credit now at Indeed dot com slash how I built Just. go to Indeed dot com slash how I built and support this show by saying you heard about it on this podcast, Indeed dot com slash how IBU terms and conditions apply Need to hire you need indeed,
+
+NPR (48s):
+Did You know you are physically adapting to all your swiping Scrolling and tapping. We are changing our bodies and what they're able to do through our NPRs Body Electric, a special interactive series investigating how to fix the relationship between our tech and our health. Listen in the TED Radio hour feed wherever you get your podcasts.
+
+0 (1m 12s):
+Hey, before we start the show, you know we hear a lot about pivots on How I, Built This, how a simple change in perspective can create a whole new opportunity. This made me think of a conversation I recently had with Seth Meyers. He told me about the moment he realized that he could find success and fulfillment on Saturday Night Live, not as a performer, but as a writer. Check out my interview with Seth Myers over on my other podcast. It's called the Great Creators. just search for the great creators with Guy Raz wherever you listen to podcasts. Or go to the great Creators dot com and now onto today's show.
+
+5 (1m 49s):
+20 11, 20 12, 20 13. We were only ketchup. Yeah, but it's super hard to sell to restaurants. You know, grocery stores are saying, okay, what do we do with that? People would ask us, you know, are you gonna go into other condiments? Are you gonna make mustard? Are you gonna make mayonnaise? And we said, oh, you know, the market structure isn't quite there. We just have to keep cracking this nut.
+
+6 (2m 16s):
+If we had not been able to raise money, we would've long since been out of business. We were trying to figure out where to go to save the company.
+
+7 (2m 31s):
+Welcome
+
+0 (2m 31s):
+To How I. Built This. A show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. I'm Guy Raz and on the show today how Scott Norton and Mark Ramadan two guys with no experience in food, took on Heinz and made their own ketchup brand called Sir Kensington's. The term storytelling has become a little tiresome in recent years. Every brand, every start seems to bend and stretch in infinite ways to tell you a story about its authentic and humble beginnings.
+
+0 (3m 16s):
+Sometimes it works, sometimes no one caress. But what if your story, or rather the story of your brand, is intentionally made up? What if the story you tell is so absurd, so ridiculous, so silly that people who encounter it don't care if it's true or not. Well, today's episode is that story. It's about two friends from college who decided to take on one of the most dominant products in a very narrow category, ketchup. And you can guess which product dominates ketchup. Heinz. Back in the early two thousands, Malcolm Gladwell wrote a now famous article about why that is.
+
+0 (3m 58s):
+Gladwell argued that Heinz had figured out how to perfect the balance of flavors, sweet, salty, sour, and umami. And he also said that their recipe was pretty hard to beat. Anyway, in 2010, the year Mark Ramadan and Scott Norton decided to start a ketchup brand. Heinz sold 10 and a half billion dollars of this stuff. Can you imagine? We humans consume more than $20 billion worth of ketchup a year and half of it Heinz. Anyways, Scott and Mark were inspired in part by Malcolm Gladwell's article, and they wondered, could you actually take on Hines? and more importantly, is there a story We can tell around ketchup?
+
+0 (4m 42s):
+Well, the story they came up with was about an aristocrat who happened to serve as a colonial officer for Imperial Britain. His name was Sir Kensington. He wore a monocle and top Hat. He graduated with a double first from both Oxford and Cambridge. And he was a renaissance man with extensive travel experience. He also happened to invent his own ketchup one night while dining with Catherine. The great so inspired by Sir Kensington. Scott and Mark put his cartoon image on their bottles of ketchup and named the brand after him. But what they didn't tell you, although it wasn't hard to figure out, was that the whole story was made up, designed to let you, the consumer in on the joke.
+
+0 (5m 26s):
+And guess what? It worked. The story was so weird and the packaging so intriguing that people tried it. And by 2015, the two founders had sold over two and a half million jars of product growth was so good that by 2017 Unilever came knocking. But we'll get there. Before that sale, there was quite a bit of drama and many, many challenges. At one point, Scott and Mark's relationship as co-founders almost unraveled. Mark was born in France, but grew up in Southern California. His mom is British and his dad is Lebanese. Mark's dad ran a hospitality business and the family loved travel cooking and Michelin starred restaurants.
+
+6 (6m 11s):
+To me, food felt like something that was special and sacred and we always sat down for dinner together.
+
+0 (6m 16s):
+Scott grew up in Northern California and his parents were also entrepreneurs, TV journalists who started a corporate communications firm.
+
+5 (6m 24s):
+I grew up around the art really, of commercial storytelling. Scott
+
+0 (6m 29s):
+And Mark first met in college at Brand University in the mid two thousands. Mark was bookish and interested in earth science and Scott. Well, he was all about getting to Hollywood. In fact, Scott jokes about how different they were.
+
+5 (6m 43s):
+I like that. You know, a an aspiring filmmaker and a geophysicist walk into a bar and now comes a condiment company. Yeah,
+
+0 (6m 50s):
+Right. Exactly. Yeah. Yeah, exactly. How did you guys meet?
+
+5 (6m 56s):
+Well, we, we first met Mark and I first met in a financial institutions class where I felt really behind. And there was this guy, like two rows behind me who would put his hand up when every question was, was asked and knew all the answers to the questions. And my first recollection of Mark was, oh wow, this guy is, is really sharp. Hmm.
+
+6 (7m 15s):
+I'll also never forget Scott in the middle of class would show me the latest issue of Monocle Magazine, which was mind-blowingly interesting to me at the time. 'cause I just, my whole world was like school and study and Scott was this worldly person who, I don't know, he, we were just so different. but it just, it was the beginning of a friendship.
+
+5 (7m 33s):
+And I think what was interesting about our friendship was we didn't really like party together so much. I mean, we probably did a little bit, but I think a lot of our, our meetings, you know, were lunches where we would discuss ideas, definitely talk about kind of our career plans. Mm. but it was more almost like we were sort of co-conspirators.
+
+6 (7m 53s):
+Much like Scott. I ended up becoming an econ major and the path that was most obvious to most econ majors at Brown was you either go into banking or you go into consulting. So Scott picked one and I picked the other.
+
+0 (8m 4s):
+Yeah. Before you guys graduated your senior year of college, Scott, you came across a, another friend of yours who's talking to you about, about catch up. Tell me what happened.
+
+5 (8m 15s):
+Yeah, so Brown has a very long winter break and it was in January that I went down to visit a very good friend of mine from high school at U S C. And we were in his old car, we're listening to Afrobeat, we had our shirts off, and at this point I was ta-ing a class in entrepreneurship at Brown. Hmm. And so he said, dude, I have to tell you about something. I have an idea that's gonna be huge. And I've kind of looked at him and I'm like, oh, gimme a break. Like I, I hear ideas all the time, like I, I grade papers and final projects and entrepreneurship. Like, what, what do you got for me? And he, he goes, gourmet ketchup.
+
+5 (8m 58s):
+And I'm like, what? Gourmet ketchup? Like, I don't know about that. You know, Americans don't even know what's in ketchup. It's sort of this commodity product. It's totally dominated by Heinz. And he is like, well exactly, think about it, there's 10 different types of mustards, right? There's like Dijon mustard and spicy brown mustard and yellow mustard, but there's only one type of ketchup. Like why not? Why not create something with that's better, with better ingredients?
+
+0 (9m 26s):
+This was in the winter of 2007. Eight. 2008. So it would've been early 2008. 2008, yeah. When you had a conversation. Yeah. But you go back to college and Mark, do you remember when Scott first started to talk to you about this?
+
+6 (9m 41s):
+Absolutely. Scott invited me to a lunch at the local Creary in Providence, Rhode Island, which was not a place that we frequented often, but I figured it was something special. Scott sits me down and he says, I have this idea and I think we should work on it together. And it's gourmet ketchup. And I don't know, there's something about Scott. He has an infectious positive energy about everything and it just felt like an incredible opportunity to say yes. Just to say yes to the idea and to explore it. And I, I basically said, yeah, hell yeah, let's do it. That sounds cool.
+
+5 (10m 13s):
+What was beautiful about this is we had this wonderful time bound experiment our second semester senior year. We both had jobs that we knew we were going to, and I think that's what started the momentum at the beginning was not even having these big expectations for like changing the world. And so in the middle of that, that crepe lunch, what he said was, we should make it like we should actually make the ketchup with our own two hands.
+
+0 (10m 39s):
+But what was the, the proposition was hey, let's see if We can make a business or, or what?
+
+6 (10m 44s):
+I think the way that, the way that I was seduced was just, it is a crazy idea, but it's also a really intuitive one. This idea that food was changing. You know, Greek yogurt's becoming a thing and I think this was around the time that Chobani was just becoming big and yes, this famous entrepreneurship pair in Tom and Tom who started Nantucket nectars. And so we were thinking about like, where's the next disruption coming from? And So, you know, when he said gourmet ketchup, it felt like this really tantalizing David versus Goliath disruption story that we could write. Yeah,
+
+5 (11m 17s):
+Yeah. There had been no innovation in ketchup in 70 years. Yeah. And every other category of culture and of food had change. And so really it was, we saw this open space as an invitation to create something.
+
+0 (11m 31s):
+This conversation that you're having at this moment is happening just a few years after an article that I thought was groundbreaking. I think other people did too. It was an amazing article that a lot of people remember reading in the New Yorker in like 2004. A story about why Heinz ketchup totally dominated ketchup, had like 60% market share or something like that. Basically the premise was that Heinz had kind of nailed the perfect ketchup. It had everything had salty, sweet, sour, bitter umami. You couldn't challenge it. And so I have to imagine that both of you at the time had read this article or, or maybe that article was connected to Scott, to your friend even saying, you know, somebody should do ketchup.
+
+5 (12m 12s):
+Definitely. This article was in the air and it had come out a couple of years prior this excellent article by Malcolm Gladwell. But one of the first things we did actually, mark and I was reread this article,
+
+0 (12m 24s):
+So, you know, you wouldn't think, well then let me see if I can challenge this premise, right? Because it's Malcolm Gladwell, he's written an article that basically it's the defining article about ketchup and that's it, end of story. But both of you saw this as a possible challenge.
+
+6 (12m 41s):
+I, well, I think when we read this as food people, it didn't make sense to us that the only thing that matters to market dominance is the formula of a product. of course it's not. That takes zero account of how people think about brand, how people discover brands, how people shop in grocery stores, how people consume food in restaurants, how people think about pairing different types of brands and foods with different types of experiences in emotion.
+
+0 (13m 5s):
+Alright. So, you guys took this on as a, as a project your senior year of college, a last semester. But I guess even before you started to experiment, you were thinking about, well, how are we gonna differentiate this? Like how are we gonna make this into something that a brand, an idea.
+
+5 (13m 21s):
+Exactly. It was a recognition that people have tried and failed to introduce other ketchups to compete with Heinz. Yeah. of course they differentiated based on the ingredients and the flavor. But every other ketchup out there would copy Heinz the market leader on the packaging, the materials, the brand positioning. It looked like a copycat, right? It was Heinz, but less so. We said, okay, what would it look like to be the exact opposite of Heinz? Like how could we be dramatically different from any other ketchup that's come before? Well, okay, if most ketchup comes in plastic than we should be glass.
+
+5 (14m 6s):
+If most ketchup is squeezing, well let's use the language of a, a European preserve and have a wide mouth jar and be scooping. And if most ketchup is Americana and you know, synonymous with the roadside diner and fast food and what's kind of the cultural opposite of that, ketchup is kind of English, so let's make it English. And if we're gonna be English and we're gonna be fancy and upper crust and go on high teas and and beef wellington's, well we should have a character that embodies that attitude. And that's how we came up with the idea of, of creating this fictitious night.
+
+0 (14m 48s):
+Sir Kensington,
+
+6 (14m 50s):
+In order to get someone to break a habit, you've gotta spark some kind of emotion. Food is so subjective, but we knew that if we could create something character or a brand, a package that made people smile, then it would stand out a little bit. But
+
+5 (15m 5s):
+We were just having fun. Right. I mean, we're looking backwards now. Like we were just riffing, we were just having fun. Yeah. So no, we're not sitting there like with a bunch of spreadsheets thinking, okay, well exactly how do we position this or the modern consumer, you know, purchase at a higher velocity. We're just like creating this character of Sir Kensington's and like yelling at each other and like spilling ketchup all over my apartment. But
+
+0 (15m 26s):
+You were sure you were sure that you weren't gonna call it Scott's ketchup or Mark's ketchup or Scott and Mark's ketchup.
+
+5 (15m 31s):
+We were totally sure we were not gonna call it Scott and Mark's ketchup. Yeah. Like to us, that was totally boring. We wanted to come up with something that was so radically interesting and different and was a world that people couldn't inhabit. Okay. How can we create a jar of something that's like an object? And you can imagine an entire film set around that object. You can imagine an entire Cast of characters at a dinner party surrounding that object.
+
+0 (16m 0s):
+The idea was to create a story and the story was through this character Sir Kensington. And he's like a, he's sort of a caricature of what non Britts think of like as a posh English gentleman. Right.
+
+5 (16m 13s):
+He's even a caricature of what Britts think of as a posh English gentleman. Right,
+
+0 (16m 17s):
+Right. This guy who, who has a monocle and a fancy mustache and a top Hat. Yeah. Alright, so Scott, you kind of came up with this backstory of this guy Sir Kensington. Can you tell me the backstory? Who, who was he?
+
+5 (16m 30s):
+So Sir Kensington went to Cambridge undergrad Oxford for graduate school. And then he in service of the Queen transferred to Constantinople, now known as as Istanbul. But at the time he wrote a treatise on Ionian chutneys and other spiced sauces from the region. The condiment hearing was his true love, but for practical reasons, he also went into finance and invented reinsurance. Ah,
+
+0 (16m 57s):
+Okay. Very, very British. Okay. He thought
+
+5 (17m 1s):
+Who was insuring the insurance companies? Right. And it turned out at the time no one had thought of that before. And so he started insuring insurance companies. And of course from that he made a fortune. But his true love of condiment hearing shown through when he was hosting a salon back in England at his manor house and at the, at the time, this particular one, he was hosting Catherine the great of Russia as well as wow the emperor of Japan who had brought a very special sample of Kobe beef Catherine. The great said, oh, I'd love to try this with some ketchup, Kinzie, do you have any ketchup? And he went into the kitchen to look for ketchup and he realized the only thing he had had high fructose corn syrup in it, which of course you can't actually serve to a zaris of Russia.
+
+0 (17m 42s):
+I didn't know they had high fructose corn syrup in the 18th century, but sorry, keep going
+
+5 (17m 46s):
+That that's power of industry for you. And in that moment he thought, well, let me create my own ketchup. And he took some tomatoes and some organic raw sugar and whipped up right there, sir Kensington's ketchup for Catherine. Wow. The great to try on this Kobe beef. And of course she, you know, took a, took a bite and loved it. That's
+
+0 (18m 5s):
+Amazing. And all this happened in a salon and some European salon in like now 1780 or something like that?
+
+5 (18m 11s):
+Yeah, the, the year is lost to history. Yeah. But a long, long time ago.
+
+0 (18m 17s):
+Got it. All right. So, you have this character now. Let's talk about just making ketchup. Where did you start? I mean, what was it, did, did you just find a recipe on the internet?
+
+5 (18m 27s):
+Neither of us had true culinary chops. Right. We didn't have culinary training. And so that, that was what began the process was Googling and looking for cookbook recipes for what's in ketchup and then creating variations of those ketchups.
+
+0 (18m 45s):
+And so tell me how you started, I mean, what did you just buy a bunch of like tomato paste and some spices and you know, just simmer it down. You
+
+6 (18m 55s):
+Know, the way ketchup is made industrially is pretty difficult to replicate at home 'cause it's essentially a rehydrated paste. But if you wanna make it at home, you start with whole tomatoes, much like you're making a pasta sauce and you just reduce, reduce, reduce. So we found these recipes and, and we bought a bunch of ingredients and you know, we were just throwing stuff into the shopping cart partly because we knew we wanted to make a bunch of different classic ketchup formulas to test, but also we wanted to test some flavors, some spicy ones. We had a misguided idea around a blonde ketchup. And we went back to Scott's apartment and we cooked them all there and we just, we just spent days cooking ketchup.
+
+5 (19m 32s):
+What we learned pretty quickly was that when ketchup is reducing and the steam is coming off, there will be air bubbles that form in the ketchup and they'll essentially pop and they'll spray the tomato all over the, the kitchen and they'll spray it all over you too. And it's hitting our skin and burning us and we start dubbing those Kensington kisses. By the end of our prototyping process, we had covered my, the entire interior of my kitchen with cut up trash bags so that the walls wouldn't get stained and the cabinets wouldn't get stained. I was wearing sunglasses as we were reducing this ketchup.
+
+0 (20m 11s):
+And the idea was you would sell those around providence. I mean, 'cause you're still students at the time.
+
+5 (20m 17s):
+So we wanted people to tell us what they liked. And kind of by accident we developed a community fan base. And so traditional companies Right. Consumer food companies would host a focus group. Sure. And we said, well, why don't we throw a tasting party? And so we designed these invitations that said, Sir Kensington invites you to a ketchup tasting. And we slipped them in people's college mailboxes and we said jacket required as the dress code. And that's, that's how we first got people introduced to the idea.
+
+0 (20m 54s):
+Where did you have the party?
+
+5 (20m 55s):
+We had it at at my apartment.
+
+0 (20m 56s):
+Okay. I gotcha. Okay. And you had this sort of affect, like you were all speaking with these, these sort of,
+
+5 (21m 3s):
+I'd imagine throughout the night at the more wine that was consumed, the stronger our accents got.
+
+0 (21m 9s):
+Right.
+
+6 (21m 9s):
+What was interesting is we, it was the night of a blizzard, but much to our surprise people did show up. And I think to their surprise, we did take the tasting very seriously. So, you know, of course it was fun. But we gave everyone rating cards and we asked them go around the room and taste each of the ketchups. And they were all laid out in bowls around the apartment alongside various eating instruments, you know, different types of fries and different types of chicken nuggets and all sorts of different foods.
+
+0 (21m 42s):
+And the response was, what, what did people say? I mean, you had Heinz ketchup there, I imagine as a, as like a control, right?
+
+5 (21m 49s):
+Yep. We saw that there were two recipes that rose to the top one, which we would then call our classic ketchup and one that we would then call our spiced ketchup. What,
+
+0 (21m 60s):
+What was it like then? What, what did it feel like and taste like?
+
+6 (22m 3s):
+It was pretty chunky and pretty flavored. I think our perspective was make it more like a homemade sauce rather than an industrial product. So it had texture, it had the flavor of lime juice and cilantro and other spices that you wouldn't typically find in a, in a ketchup. The spiced one in particular had Chipotle and, you know, a little bit of heat. And when it first launched in that very first tasting party in spring of 2008, it was the most different from Heinz that it ever was.
+
+0 (22m 32s):
+Heinz was and is a squeezable plastic bottle. Although I think, of course you can still get the glass in restaurants, Heinz bottles and restaurants and they're lovely, they're iconic, but you're like, let's make it different. So what were you gonna do? You weren't gonna do a squeeze bottle, you were gonna do a glass jar.
+
+6 (22m 48s):
+Exactly.
+
+0 (22m 49s):
+Sir Kensington's was something you were gonna scoop a scooping condiment, like Yeah,
+
+5 (22m 53s):
+A high-end European preserve, not something that just be indiscriminately, you know, squeezed in high quantities, but e each teaspoon doled out delicately and savored. Yeah. And for some reason we thought it would be cool to use a square jar. You know, we basically, again started like Googling and we found a glass manufacturer in Springfield, Massachusetts, probably 150 miles away. Yeah. Oh,
+
+6 (23m 20s):
+It was kind of a nightmare because we, we called them, we were like, can we order some jars please? And they said, how many cases do you want? And we said, how many are in a case? I think it was like 196 or something in a case. We were like, can we just get 40 please? Yeah. And they're like, absolutely not. You can get one case, but you have to come pick it up. So we went and picked it up and they were all looking at us like we had eight eyes. And as we were leaving, we were like, are there lids in here for the jars? And they said, what are you talking about? This is a glass factory, not a lid factory. So we had to get the lids from a separate place. I mean, we had no idea what we were doing. And we also had to funnel the ketchup into the jars in the first place. And we had no funnel. So we used a Gatorade bottle that we had cleaned and we had cut off the bottom and we could just quite fit the top into the jar.
+
+6 (24m 7s):
+So we poured the boiling hot catch. It wasn't, it was slightly risky, but you know, you gotta do what you gotta do.
+
+5 (24m 13s):
+And then the next goal for us was, okay, well how would we actually sell these jars? And we thought, well let's go to that same group of people and maybe a bigger group of people and throw a another ketchup tasting party. And along with a, with buying a ticket to the party, you would get two jars of ketchup. And for that we did that in a restaurant in downtown Providence and we hired a friend of mine who is a DJ and put together this event.
+
+0 (24m 40s):
+And all of this was done with probably very little money. I mean, you bought some glass jars, you printed out labels on a laser printer. Right. This was not expensive. Almost no
+
+6 (24m 51s):
+Money.
+
+5 (24m 51s):
+Yeah, yeah. A couple hundred bucks. Right. And then we, you know what, whatever we invested in the inventory and in renting the restaurant for a night, we basically just made back and broke. Even on the, the ticket sales and the ketchup sales,
+
+6 (25m 5s):
+The party was a little bit like a wrap up party, you know? Right, I gotcha. It didn't feel like the beginning of something. It felt like the end. Yeah.
+
+0 (25m 12s):
+But I mean, I, I gotta ask why, why you didn't run with it. I mean, I, I know you both had, you know, great jobs lined up, but, but you made money. I mean, you broke even you, you had a, a catch up with a brand. So why didn't you take the leap and and do sir Kensington's for real? At that point,
+
+5 (25m 29s):
+We never thought this would be a viable business because everybody starting companies around us. If they were starting companies, it was like Facebook and social networks, right? Like we didn't think that a physical products business was like a viable startup idea. Yeah. I, you know, was friendly with one of the founders of Airbnb that was at RISD right down the hill. But again, like that was a technology enabled business, not a tomato concentrate enabled business.
+
+0 (25m 58s):
+When we come back in just a moment, how a prank and another lucky class connection at Brown convinced Scott and Mark to stick with Sir Kensington's, stay with us. I'm Guy Roz and you're listening to How. I. Built This. Every business needs a great website. If you're building something, Squarespace has the tools you need to easily create a dynamic website, engage with your audience and sell anything. Get started with a best in class website template and customize it to fit your needs. Whether you're a content creator or a brick and mortar store, you can browse by the category of your business to find the perfect starting place.
+
+0 (26m 42s):
+Then sell your products in an online store from physical goods to personalized services. Whatever you're selling, Squarespace has the tools you need to do business online and use insights to grow your business. Squarespace can help you learn where your site visits and sales are coming from and analyze which channels are most effective, improve your website and build a marketing strategy based on what works best for your business. Go to squarespace.com/built for a free trial and when you are ready to launch, use offer code built to save 10% off your first purchase of a website or domain. Okay, I may low carb type of person and so I have very little time often to eat snacks.
+
+0 (27m 26s):
+But between juggling school drop-offs and sports practices and doing this show, I often grab a chomp snacks stick. Chomps makes snacking simple. Each delicious chomps meats stick has the protein your body needs over nine grams per stick. They're low carb, keto friendly, allergy friendly, and don't contain any fillers. Chomps are simply made with natural ingredients you can feel good about. With thousands of five star reviews, snackers around the world have satisfied their hunger cravings. With Chomps even better, you can order online and have them delivered straight to your door. Right now Chomps is offering our listeners 20% off your first order and free shipping when you go to chomps.com/built.
+
+0 (28m 10s):
+Go to chomps.com/built for 20% off your first order and free shipping. That's C H O M ps.com/built. Don't forget to use our link so they know we sent you. Hey everyone, you know, every time I run into a How, I, Built This fan, the first thing they wanna do is tell me about their favorite episode, which is so awesome. So now I wanna share your favorite episode with the millions of people who listen to this show episodes they might not have heard or might wanna hear again. So here's what I want you to do. Grab your smartphone and record a short memo short like less than 30 seconds and tell us your name, where you live and which episode is your favorite and why you loved it.
+
+0 (28m 57s):
+So for example, I might say, Hey, it's Guy Raz here in San Francisco and my favorite episode of the show is the one about Hamdy, Lakay and Chobani because I learned so much about how to just push through and nothing seems to be working out and it gave me a whole new perspective on being resilient. So that's it. Something like that, you know, and by the way, that's not my favorite episode. I love them all equally. Anyway, once you're done with the recording email or message it to us at HIBT at id dot Wondery dot com and we'll share your favorites right here in the ad breaks in future episodes. Thanks so much. You guys are the best.
+
+0 (29m 42s):
+Hey, welcome back to How I. Built This. I'm Guy Raz. So it's 2008 and Scott and Mark are just about to graduate from college, head off to corporate jobs and leaves. Sir Kensington's behind when well inspiration of a sort hits them. I
+
+5 (29m 59s):
+Don't know exactly what prompted this, but we used fake letterhead for the law firm, Skadden Arps. And we wrote a letter to the Brown Daly Herald, the campus newspaper accusing them of stealing Sir Kensington's recipe as a way to get the, the newspaper's attention after this party. And we happened to be both friends with the editor-in-chief of the paper and she basically responded being like, ha ha, that's funny and weird. And also we could write a story about this. And then I got a phone call from someone who had read that article and he said, Hey, you might not know me but I know you 'cause we're in a class together, I don't talk that much.
+
+5 (30m 43s):
+You talk all the time and my family's in the food business and I think what you're doing is really interesting. Like maybe I could carry this forward so it doesn't wrap up. Hmm. Can we meet
+
+0 (30m 53s):
+Who was that
+
+5 (30m 53s):
+And well, and so that's how we met Wynn Bennett, who, you know, he shared with us that his family is part of a very large agricultural business called Cargill, which is actually one of the biggest privately owned in the world
+
+0 (31m 8s):
+Food
+
+5 (31m 9s):
+Businesses in the world. And we thought, okay, that's really interesting. Like this person has the understanding and the resources and the network and like we were total noobs in this space. Like Mark and I didn't know anything about the food business. And also very importantly, win was a junior and we were seniors, right? So we were, we were leaving and he had another year in college that he could kind of work on this and carry it forward.
+
+0 (31m 31s):
+So, you guys really, you, you're gonna wrap it up. But this guy, Wynn Bennett sees the article and contacts you and says, Hey, I think you guys may be onto something. Yeah.
+
+5 (31m 40s):
+So we go to Wicken Pub and, and we end up writing for him like a couple of page word document of like the annals of what we had done. And we sort of bulleted out like, well what would be next? Like you could explore what would be a manufacturer that could make this for us, right? Like how would we go about like getting our first customers, you know, the sort of the next steps and we kind of, we left it with him temporarily.
+
+0 (32m 4s):
+In meantime you guys are leaving for your job. So I think Mark, you went to New York, right? Yeah. To go work for McKinsey and Scott. You went straight to Tokyo to start working at Lehman Brothers.
+
+5 (32m 15s):
+I landed in Japan in at the end of August.
+
+0 (32m 18s):
+That's unbelievable.
+
+5 (32m 19s):
+Unbelievable.
+
+0 (32m 20s):
+You were going to go work at Lehman Brothers in August of 2008. Yeah, I think
+
+5 (32m 25s):
+I spent literally four weeks there
+
+0 (32m 28s):
+Before it all came crashing down. Yeah,
+
+5 (32m 30s):
+Before it went bankrupt. Okay. So much for stability.
+
+0 (32m 34s):
+So much for stability. But Scott, I'll get back to you in a sec because Mark, you spent two years at McKinsey Consulting, eventually I think working on some consumer products and then even food. But you were also devoting time and brain power to Sir Kensington's at that time too, right? Yeah. And you were in New York and Scott was in Asia So, you were like meeting on Skype or
+
+6 (32m 59s):
+It was Skype, yeah,
+
+5 (33m 1s):
+FaceTime, pre Zoom.
+
+6 (33m 2s):
+Yeah, the tech didn't always work perfectly, you know, and they were always super inconvenient times. 'cause Scott was, I guess it was like 12, 14 hours ahead. Eventually Wynn found a, a company called Stonewall Kitchen based in Maine that would end up becoming our first co-packer.
+
+0 (33m 16s):
+Yeah.
+
+5 (33m 17s):
+Mark would FedEx me, you know, a package of different ketchup samples to taste halfway around the world. And it was about this time when we started, you know, thinking about like incorporating the business. So this
+
+0 (33m 31s):
+Was serious. I mean this was a series of conversations you were having over I guess a year and a half, two year period. And Mark first to you, when did you decide, let me do this, let me like jump into this.
+
+6 (33m 44s):
+I think by early spring of 2010 it was becoming clear that we were gonna hit a point where there were no more steps to take without someone committing themselves full-time.
+
+0 (33m 56s):
+Meantime Scott, when Lehman Brothers collapsed, what did you do? Where did you go work?
+
+5 (34m 0s):
+My group and I went to another Japanese bank until I then decided to quit that. And I traveled around Asia on a folding bicycle for 10 months.
+
+0 (34m 11s):
+So, you knew that you were gonna come back to the US and do something.
+
+5 (34m 16s):
+Yes. But again, I didn't really expect it to be the catch up until I got a phone call from Mark and I remember being absolutely shocked that he had decided to go whole hog and to go full-time on Sir Kensington's because I had known Mark as some, as someone that was so intelligent and so logical and I almost interpreted that as being risk averse. And I thought, wow, you know, if this guy's one of the smartest people I know is gonna do it, like I should probably do it too.
+
+0 (34m 51s):
+Let me, let me ask about the two of you because you clearly had very different interests and skill sets around this. Like Scott, it sounds like you were a lot more interested in sort of the branding and the backstory and Mark, it sounds like you, I guess you were more focused on like operations and sales and distribution and in the sort of the, the nuts and bolts business challenges. Is that, is that right?
+
+6 (35m 14s):
+Yeah, I mean we both did a little bit of everything, but certainly we, we gravitated towards where we were more comfortable.
+
+5 (35m 20s):
+Yeah.
+
+0 (35m 21s):
+Alright, so Scott, you come back to the us this is 2010 after Mark decides to jump into this full time and you guys had to raise some money to get this going because now it, this had to be a professional operation. So where did you go to seek out money? 'cause I can't imagine that private investors or you know, VCs were, were gonna back a food company, you know, two guys with no experience.
+
+6 (35m 46s):
+Well, so actually by the time Scott arrived, we had already raised a bit of the money. You know, like we had found Stonewall Kitchen, we had done all this r and d with them. They were ready to do the first run and they said you need to order the minimum order and this is like lessons and minimum runs 2.0. We didn't have the capital to do it because it was gonna cost us $50,000. Right. So that's when we had finished this business plan in the spring of 2010 and I went out to raise money and I think the very first check into the business was my parents and then Scott's parents and a few other people who were very close to, and that allowed us to order this minimum run, but the minimum run was one pallet of each flavor and we didn't really know what a pallet was.
+
+6 (36m 29s):
+Oh. So this stuff was produced in Maine and then shipped all the way across the country to northern California to this fulfillment center called Lalu who absolutely does not specialize in food. And then the other pallet came to my apartment in New York because I thought I'll just store the pallet here. Why not? Why pay for storage when I have an apartment? Yeah,
+
+0 (36m 50s):
+Yeah.
+
+6 (36m 51s):
+I happened to be traveling for McKinsey the day that the pallet arrived and I got a super angry call from my doorman saying, what the hell did you get shipped here? And I was like, oh, it's just some ketchup. Can you I'll explain when I'm home, can you just, can you just bring it inside? He's like, there's a pallet on the sidewalk, what am I supposed to do with this?
+
+0 (37m 8s):
+How many jars of ketchup were on the pallet?
+
+6 (37m 10s):
+I think it was like 200 cases of 12 jars each. Wow. So I, well over a thousand jars of ketchup.
+
+0 (37m 16s):
+It was like a plastic wrapped pallet. Yeah.
+
+6 (37m 19s):
+I mean the truck, this 18 wheeler just dropped it on the sidewalk. Yeah. So much to my fortune. They were kind enough to using the, like the, the carts that the building had. They moved it all inside. And when I got back that night, I moved all of this stuff like case by case into the elevator and then up to the apartment where it lived for months.
+
+0 (37m 38s):
+I hope you gave him a good tip.
+
+6 (37m 40s):
+Oh, very much. That was part of the initial Fundrise was the tip to the doorman.
+
+0 (37m 44s):
+Yeah. So you had 200 cases of ketchup stacked in your apartment.
+
+6 (37m 50s):
+Yeah. Wow. And then that summer, you know, we launched at the Fancy Food Show, which is a big specialty food trade show at the Jat Center. Yeah. Scott, I think at the time you were doing your bike trip? I was still traveling in Asia. Yeah. You were still traveling. I launched with my sister actually at the Fancy Food Show in New York. And we, you know, we, this was like the early days of Sir Kensington's. Everything was in the style of Sir Kensington. So I wore a three piece suit, my sister wore a nice dress and we stood behind this very small little folding table asking people to give us a shot, asking people to try this gourmet ketchup. And it was like 110 degrees. It was insanely hot. I remember just sweating through the undershirt, the shirt, the vest, the jacket stifling.
+
+6 (38m 35s):
+But then that summer I really, I spent as much time as I could going door to door to every high-end cheese shop or specialty shop I could think of. And kind of telling a version of the story that we're telling here, which is ketchup deserves choice.
+
+5 (38m 48s):
+Yeah. And I remember there was a, there was a woman who Mark met at that first fancy food show named Maggie, who was essentially a scout for,
+
+6 (38m 59s):
+It was Dina DeLuca.
+
+5 (39m 0s):
+Hmm. And she said, I love this and I believed in this and I want to take it to Dina DeLuca.
+
+0 (39m 6s):
+Wow. Which is obviously one of the most influential at the time certainly was one of the most influential kind of food boutiques in New York.
+
+5 (39m 13s):
+And Exactly.
+
+0 (39m 14s):
+New York is one of the few places in the world where this is a really good place to start a small food business just 'cause there's so many influential stores like Dean and DeLuca, Marie's Cheese Shop and Right. I mean, don't you think that New York also just gave you a slightly unfair advantage at that time?
+
+6 (39m 32s):
+A hundred percent. A hundred percent. Yeah. And part of that is the presence of these restaurants that were globally influential, which became a big part of the business later.
+
+0 (39m 41s):
+Yeah. And by the way, in that seed round, you guys raised like, I think about 200, $250,000. Right. And what was the valuation?
+
+5 (39m 49s):
+Two and a half million.
+
+0 (39m 50s):
+Two and a half million. Yeah.
+
+6 (39m 51s):
+It was some like extremely complicated discounted cash flow model
+
+5 (39m 55s):
+We were gonna raise at 1 million a valuation. And then I met with someone who said, you should raise at 10 million. And I said 10 million seems crazy. And so Mark and I agreed on two and a half.
+
+0 (40m 3s):
+Right. Fair enough. So here's, I mean, and this is, this is a, I think a really important conversation that co-founders have to have, right? But it's how do you divide up the business? Sometimes it's easy, sometimes co-founders are like, oh, is it easy? Just 50 50 you guys, it was the two of you, you had Brandon and Win who were also part of this. You had investors, family and friends. Tell me how you guys split it up.
+
+6 (40m 27s):
+In the beginning it was easy because it wasn't anyone's business full-time. Yeah, right. So when we first incorporated the business, none of us were full-time. I believe it was 2009. And so I say it was easy in the sense that there were four of us, so it was, you know, 25% all around. And then it became hard when I decided to go full-time because it, it felt to me like an opportunity to renegotiate and to ensure that the person who's doing this or the people who were doing this full-time would have a greater stake in the business. Right. Because
+
+0 (40m 60s):
+You were doing most of the work at that point. Right.
+
+6 (41m 2s):
+So we, there was a, i I would say a fairly painful renegotiation where, you know, they say the hallmark of a good negotiation is that everyone leaves unhappy. I think there was a bit of that, you know, everyone left a little unhappy.
+
+0 (41m 14s):
+Yeah. Yeah. And
+
+5 (41m 15s):
+We, it was, it was rejiggered, you know, multiple times, you know, mark emailing me being like, you know, if I go full time how the equity splits would change. And I was basically like, yeah, this, this makes sense. And then probably three months later, you know, he then kind of re-proposed it to make it real and to actually ink it. And I'm like, oh, well no, I, I think, think this makes a little more sense. He is like, but three months ago you said this made sense. And I was like, yeah, it makes sense in concept. Like not, not the actual numbers right to the decimal point, but like in concept. And I think we learned a very important lesson, which is once you give someone something, you cannot take it away. The experience of having it being taken away is a very difficult emotional experience at that point.
+
+6 (41m 56s):
+I mean, it was very stressful. Yeah. Because as the first person to go do this full time, it felt like were it not for me, this absolutely will continue to be worth zero because when you're in the founder's seat, it's really easy to think like, I am the only one doing anything. Yeah. Even though that's certainly not true. Right.
+
+0 (42m 15s):
+So, alright, so now Mark, you, you are full-time in this. Slowly but surely Scott is gonna gonna join. And what about when and Brandon, did they ever jump in full-time? They
+
+6 (42m 27s):
+Didn't. No, no,
+
+0 (42m 29s):
+No. You know, one of the, the, the beauties of the product that you chose to, to focus on is that it's not that hard to make or am I wrong?
+
+5 (42m 38s):
+You still have a lot of trial and error on the manufacturing side. I'll give you an example. So we meet with a co-packer, you know, we went through a long list of their capabilities. Okay. Can you do these shape of glass jars? Yes. Okay. Can you put the label on what type of cooking and processing capabilities do you have? Can you be kosher certified? You know? Yes, yes, yes, yes, yes. And so we design all these, these labels for our first run with Williams Sonoma. And of course we had talked to 'em about being kosher certified. So we put the kosher logo on the, on the package and you know, we overnight at like a Holiday Inn, we show up, I think at six in the morning for the first run.
+
+5 (43m 18s):
+Everything's gearing up and the lead of the manufacturing plant is looking at our labels. And he is like talking to his colleague. He is like, Hey, is this run kosher? And then he is like, oh, what are you talking about? No, this isn't, you know, this isn't a kosher run, this isn't a kosher line. And like they had answered this question of like, yeah, We can conceptually be kosher or you know, we have done kosher before, which we took to assume like, oh, like you can just put kosher on the label. So we sat there with a Sharpie and we put a dot over every single kosher logo on every single label for that first run that we had for Williams Smith. Wow.
+
+6 (43m 55s):
+I think it was 5,000 jars.
+
+5 (43m 57s):
+And so people would have gotten a mysterious indelible black dot over. Wow. You know, some sort of a, a sim symbol of rabbinical approval that we didn't deserve at the time.
+
+0 (44m 9s):
+He, he's the other. So by the way, how much was it Mark? How much was a jar of ketchup at the time when you launched?
+
+6 (44m 15s):
+When we launched in stores, they hit the shelf at $9.
+
+0 (44m 18s):
+So $9 ketchup. Like if I'm in Williams Sonoma or Dean DeLuca, I'm one of those people that I would see a $9 drive ketchup and I would say, you know what, I'm gonna buy it. Even if it's just once, I've gotta know what $9 ketchup tastes like. So in a weird way, even though it's a super high price point, was that actually an advantage?
+
+6 (44m 39s):
+Yes and no. Yes. Yes. For the reasons you just said. And also, yes, because to a retailer, that's an interesting proposition because if they only sell one jar of Sir Kensington's for every five jars of Heinz they sell, they come out on top. Right. So if the price is higher, it can offset a lower rate of sale. But I say no because you know, the, these first months we spent so much time behind the demo table. I mean, I personally did hundreds of demos
+
+0 (45m 7s):
+At Dina DeLuca all
+
+6 (45m 9s):
+Over Dina DeLuca, the Chelsea Market, Murray's Cheese. So we would do these demos and I'd say, you know, amongst some they got it, they'd love it. But then there were others who they'd say $9 is outrageous. No way am I gonna spend that for ketchup is a buck. Yeah. At Walmart. And even now, I think there are certain things people are willing to pay more for and certain things they are not. Sometimes that's logical, sometimes it's not. I mean, in this time, 2010, 2011, this was like when juices were getting really big, like if you remember Soja or Blueprint Friends Sure.
+
+0 (45m 42s):
+It was like seven $8 juice bottles.
+
+6 (45m 45s):
+Yeah. No more 10 bucks. Yeah,
+
+0 (45m 47s):
+10
+
+6 (45m 47s):
+Bucks. And we would see people in Dina DeLuca, they'd pull up to our demo table with a shopping cart with like 27 bottles of Soja in there and they'd taste the ketchup and say, it's too expensive.
+
+0 (45m 58s):
+Mark, I read that one of the mistakes that you made early on was that you didn't focus enough on distribution what you were selling directly to stores and instead of going through distributors, is that, is that what you were doing
+
+6 (46m 11s):
+In many cases? Yeah. Which sounds good, but when you're smaller it can introduce all sorts of additional costs and complexity and distractions. It's not really your core, it wasn't our core competency to be figuring out the logistics of getting jars to every Williams Sonoma in the country. Yeah. I think the other part of distribution is we picked early on the specialty channel as the one that we wanted to really be big in and specialty is like the cheese shops that you're talking about, the Dina DeLucas and the Murray's cheeses of the world. And it wasn't until much later, maybe a year or two in that we realized the much better way in for the business we're trying to build. And the brand story we're trying to tell is more in the natural grocery stores like the Berkeley Bowls of the world or the Whole Foods.
+
+6 (46m 56s):
+And when you become a specialty brand, it can be really hard to change people's perceptions into you're a natural brand.
+
+0 (47m 4s):
+So there's a huge differentiation in the minds of consumer students specialty and organic. Like if they see something in Williams Sonoma, they don't think of it as a Whole Foods product.
+
+6 (47m 14s):
+My takeaway is that there are things that are everyday food items and there are things that are specialty food items. The specialty food items come out three, four times a year for special occasions. That's what you buy in Williams Sonoma. It's not your everyday staple. And we knew that for a certain group of people, we wanted to be their everyday staple ketchup. And the path to do that we eventually figured out was more through grocery than it was through specialty. So
+
+0 (47m 39s):
+I'm assuming that you really wanted to crack Whole Foods. That was probably the the first big Yeah. Partner you were trying to, to, to get into. How did you even get a, a meeting with them?
+
+5 (47m 51s):
+Well, we were very fortunate that a Whole Foods invest the time in finding and pioneering local brands especially. And so luckily it really, it was at the, at the end of our first year in business that we were accepted into Whole Foods. And we launched at the beginning of 2011 in the, just the New York region of those stores.
+
+0 (48m 14s):
+How did you do at Whole Foods? I mean it's Whole Foods is a different beast in Williams Sonoma. Yeah.
+
+5 (48m 20s):
+Undoubtedly it was slow going at first. Yeah. We had to work on the relationships, we had to work on the merchandising, we had to put the time into the demos. We had to lower the price point over time and we needed to show improvement over that year.
+
+0 (48m 33s):
+What were some of the things that you, I mean, 'cause you didn't have a whole lot of money to market this, so how did you get the word out?
+
+6 (48m 40s):
+We had like basically three pillars of marketing. We had food service, we had influencer digital marketing, and we had field marketing basically demos in stores. But the food service strategy was very much actually a part of the business strategy from the beginning because our insight was 70% of ketchup by volume is consumed on premise in the US at
+
+0 (49m 1s):
+Restaurants. So
+
+6 (49m 2s):
+It's restaurants, it's sports stadiums, it's airplanes, it's trains, schools, anywhere where you don't have to buy it. Where it's like free to you as a consumer. Yep. That's food service.
+
+0 (49m 12s):
+But it's mostly in packets. Right?
+
+6 (49m 14s):
+Packets and pumps. Okay. Yeah. But then there's also in the higher end space, it's a lot of branded Heinz. And this is a cornerstone of their strategy, which is be omnipresent, be everywhere. Yes. And our thinking was going back to the Malcolm Gladwell article, no one really has challenged Heinz, at least not in the premium space in food service seemingly ever. Yeah. And so if we could be the first ones to really break through, not everywhere, but at some select very famous in the spotlight restaurants, hotels, this is an opportunity to have a revenue channel that actually serves also as a marketing channel. Okay. And this is another reason why being in New York was so crucial because by day we could be pitching to Dina DeLuca, whole Foods and so on.
+
+6 (49m 60s):
+And then by night we are going to these restaurant kitchens, these world renowned chefs making world renowned burgers and begging and pleading with them to take a meeting with us and then eventually to serve it. I mean, this is a channel that's hard to penetrate for a reason. Everyone's so busy. Everyone has super thin margins and everyone hates change. Yeah.
+
+0 (50m 18s):
+So essentially when people would see it at one restaurant and then eventually others eventually get to into the Spotted Pig, which for a time was a hugely influential gastro pub in New York. Like Bono would go there and, you know, and
+
+5 (50m 31s):
+Jay-Z would famously throw parties on the top floor. Yeah,
+
+0 (50m 35s):
+Yeah. Before it all collapsed in the last few years. But I mean, it was there, it was PJ Clark's, a b C kitchen, some really important restaurants in New York where people would Yes. And they would see Sir Kensington's, it wasn't white labeled, it was your brand.
+
+5 (50m 51s):
+In as many places as possible, we would do whatever it took to present the brand there. So for instance, for people that didn't wanna put the jars on the table, we designed these custom ramekins, which were little dishes that were in the shape of a tiny top Hat and that had the Sir Kensington's logo on them.
+
+0 (51m 10s):
+And, and Mark, was your insight about restaurant food services was that, did that pan out with Sir Kensington? So it, did it soon become clear that that was the majority, majority of your revenue was, was coming from that part of your business?
+
+6 (51m 23s):
+It was never the majority of our revenue, in part because it was so difficult. It was not a scaled strategy. Like this was me and Scott and other members of the team just going day after day to the same restaurants, these super cramped basement kitchens and just hamming it up at the chefs and begging them to give us a shot begging. Yeah.
+
+5 (51m 44s):
+And you know, we had this other side of the business, right? We were in more and more grocery stores every year. We, we went from one region of Whole Foods to two to four to national than we were in, you know, bigger grocery stores. And the fundamental difference of the business of a retailer and a restaurant is that for a retailer, when they buy a product, if it's more expensive, then that actually means that there's more profit for them when they sell it. The opposite is really true with a restaurant because with a ketchup like Heinz, they're giving it away. Right? No one's charging you for ketchup packets. And so if we go in and say, we have a better ketchup, it's premium, and oh by the way, it's 5 cents more expensive.
+
+5 (52m 25s):
+Well that means that for every time they serve it, they're losing, they're losing money, losing 5 cents. Sure. Right. And ultimately it was really hard to crack big national chains and, and restaurants that were really of any scale just because it's such a hard business and because they're so, so tight on, on profit margins. Yeah. That at the end of the day, they're not really willing to reprice their products for a better catch up.
+
+0 (52m 48s):
+Mark, how did you guys in, in the first few years, right? In the first two or three years, as you were getting more and more orders and getting into more retailers, how are you financing that and also growing your, your staff? How, I mean, presumably you had to hire people. So how did you finance all of the costs? 'cause you, I have to imagine you were far from profitable.
+
+6 (53m 8s):
+Yeah, we were not profitable and we raised more money. That 250,000 that we had raised upfront lasted us probably about a year until we needed to raise again. And then we raised, I think it was maybe just shy of a million in the second round. And I think we did three rounds over the course of three, the first three-ish years.
+
+0 (53m 26s):
+All from the same, pretty much the same investors or maybe a few other new ones who would come in, new
+
+6 (53m 31s):
+Ones but the same type of investors, like high net worths individuals and or maybe people who ran funds, but it wasn't from a fund.
+
+0 (53m 38s):
+I'm curious, like, as you started to get more exposure and there was some buzz around this product, right. Certainly by 2014, were there any other brands coming into the space that you started to see, or not quite yet
+
+5 (53m 54s):
+At that point? Not really quite yet. Anyone of any scale, but I think there was something really important that happened in 2013 because for the first two and a half years of the business we're only ketchup. Yep. We were, we talked about ketchup, we talked about revolutionizing ketchup. We called ourselves Sir Kensington's ketchup. But 20 11, 20 12, 20 13. It's super hard to sell to restaurants. You know, grocery stores are saying, okay, you're a two skew, a two item ketchup brand. Like, what do we do with that? How do we merchandise you? Where's this going? People would ask us, you know, are you gonna go into other condiments? Are you gonna make mustard? Are you gonna make mayonnaise?
+
+5 (54m 35s):
+And we said, oh, you know, the market structure isn't quite there. The opportunity isn't there. The market is big enough for ketchup. Right. We, we just have to keep cracking this nut. And ultimately we said we need to make a change here. We either need to do something really wild. Right. And we actually experimented with should we create, you know, canned coffee that would be sold in vending machines and in grocery stores like they have in other countries? Or should we do something a little bit more predictable and make mayonnaise? And we actually really partnered with Whole Foods on creating a mayonnaise that we, we knew that they would be excited about. And they said, can you create something that is really the highest goodness grade mayo that's on the market in America?
+
+5 (55m 18s):
+And we did that and launching the mayonnaise transformed our business nearly overnight. Now 50% of our sales are mayonnaise. Now 60% of our sales are mayonnaise. And then pretty quickly we realized that we are Indeed a condiment brand. And that mayonnaise had the frequency of how often people eat it because it goes on sandwiches, which is something that people eat daily. It goes in salad dressings, it goes in deli salads. But for some reason, historically in America, mayonnaise is demonized, mayonnaise is high, fat mayonnaise is gonna go bad. Yeah. If you leave it in the sun. And so all of a sudden having a mayonnaise that was even premium, people were willing to pay that premium and, and they were excited to eat it over and over again.
+
+0 (56m 5s):
+And mayonnaise to me is like one of those products that just is confounding to me. 'cause like ketchup, I get that you'd buy it, right? Because if you wanted to make it, you're gonna have to cook it and find the spices. It's gonna take some time. But mayonnaise you can literally make in 25 seconds with a food processor, like you crack an egg and squeeze some lemon juice and just pour oil into it and just run the food processor.
+
+6 (56m 27s):
+I You are com more comfortable than most.
+
+5 (56m 30s):
+Yeah. Most Americans aren't as are as enterprising as you. Maybe we should put a Mayo recipe in the show notes guy I gave
+
+0 (56m 36s):
+Re I gave it away.
+
+6 (56m 38s):
+But I think actually what you're saying, guy, it's a real insight that we had when coming up with the, the recipe for the mayonnaise. We wanted it to be the first charred mayo that tasted more like a homemade mayo. And the reason that our mayo tastes thick and creamy and dense and, and like a culinary mayo is we don't pump air or nitrogen into it. And we use almost double the amount of egg yolk that it a more industrial Mayo would use. Because that's all we could do at our scale. It's, it was almost like the restrictions we had bred the innovation
+
+0 (57m 7s):
+And mayonnaise was like ketchup. I mean it was like best foods, right? It's on the east coast, it's Hellman's, right? like that really had a huge share of the market.
+
+5 (57m 15s):
+It's exactly right. It's very similar market structure as ketchup.
+
+6 (57m 20s):
+But people, our experience pretty quickly was that, especially the natural food shoppers, they weren't really buying Hellmans and Best Foods anyway because they perceived it to be gross for whatever reason. And so it was an opportunity to actually say, well, here's a huge category that We can sort of clean up in Hawaii. And because there wasn't that diehard brand loyalty in the same way that there was for Heinz, it, people just had lower barriers to trying something new.
+
+5 (57m 46s):
+And because mayonnaise carries flavors so well, all of a sudden we were making a sriracha mayo and we were making a Chipotle mayo. And so we really created in Whole Foods and in grocery stores the first successful flavored mayonnaises. So now what we were doing was we were actually growing the category, we were expanding what the merchandising assortment could be for these retailers. And that was a winning strategy because it invited the partnership for us to grow with these grocery stores.
+
+0 (58m 17s):
+Yeah. So now that you had mayonnaise, you were no longer a ketchup business, you were a condiments business, really. And that, it's interesting because you would think, right, like from the very beginning when you were going out to people's as sort of talk about it, you say, it's just, we're gonna start with ketchup, but you know, it's gonna be everything sriracha and salsa, and we're gonna do mustard and we're gonna do sandal and everything. But really that wasn't the vision. It was gonna be ketchup until you decided to expand. Well,
+
+5 (58m 46s):
+We, we only wanted to get into categories where we felt like we could really disrupt them and be additive to them and bring something totally new. The reason why to this day we don't make a hot sauce is because there's plenty of delicious, flavorful, wonderful, hot, unique, authentic hot sauces. We to this day haven't felt like We can improve on it.
+
+0 (59m 10s):
+How fast before the mayonnaise began to eclipse the ketchup as your leading product?
+
+6 (59m 15s):
+Like within a quarter? Almost immediately. Within
+
+0 (59m 18s):
+A quarter.
+
+5 (59m 19s):
+Yeah. Yeah. And, and it was the, the business business would obviously not exist without that lifeline because it's amazing now. We had product market fit, we had growth, we had a reason for retailers to take more products. We had a bigger base of business to finance everything else. Well,
+
+6 (59m 34s):
+We also, I mean, it's probably worth saying the ketchup wasn't really working. If we had not been able to raise money, we would've long since been out of business. We were trying to figure out where to go to save the company.
+
+0 (59m 46s):
+So the ketchup business really wasn't, it wasn't catching on. Yes.
+
+5 (59m 50s):
+The other thing I think that is really important to talk about here in the evolution of the ketchup, the other thing that we did over and over again with the ketchup is think about, well, how can we make it more palatable? How can we make it more attainable? Yeah. We got feedback from people, Hey, it's too chunky, it's too acidic. It's too earthy. Alright, let's take out the apple cider vinegar. Let's mill the onions, you know, and the tomatoes more finely. This
+
+0 (1h 0m 15s):
+Is in, in 2013 when you reformulated the ketchup, I think, right? Yeah.
+
+5 (1h 0m 19s):
+And then the other thing that, that we did that year was that up to that point, we still had these short squat little scooping jars that were highly impractical. If I'm out of barbecue and I've got literally a hotdog in one hand and a jar of ketchup in the other hand, I need a third hand to scoop it with. Yeah. But then we moved to these taller glass bottles and sales went up, and then eventually we went to squeeze bottles and sales went up. And so one of the things that ultimately, you know, we eat humble pie on this, is that the closer that we got to category convention and ketchup, the more it would sell.
+
+0 (1h 0m 53s):
+So everything you'd been doing was in opposition to Heinz. No, we're not gonna do squeeze bottles. No, we're not gonna do bottles. No, we're right.
+
+5 (1h 1m 1s):
+We make a lot of noise. Right. We're gonna prove Malcolm Gladwell wrong. You know? Yeah. Like the Heinz doesn't belong here or there. Yeah.
+
+0 (1h 1m 6s):
+It's interesting.
+
+5 (1h 1m 7s):
+But in mayonnaise all of a sudden, oh well now let's make it with avocado oil mayo. Yeah. Let's make it even more different than Hellman's or Best Foods. Sales went up bizarrely, right? The market is communicating to us. Hey, like I know that you got your starting ketchup gentleman, but mayonnaise is really where you can let your freak flag fly
+
+0 (1h 1m 29s):
+When we come back in just a moment, sir. Kensington's business finally clicks into place, but trouble starts to brew between Scott and Mark. Stay with us. I'm Guy Raz and you're listening to How I. Built This.
+
+Eight Sleep (1h 1m 48s):
+This episode is brought to you by eight Sleep. I sleep on an eight sleep every single night, and it is completely transformed the quality and the amount of sleep I get. The eight sleep tracks my sleep. It adjusts the temperature in the mattress automatically, and it tells me the quality of my sleep every single morning so I can get better and better at it. It's an incredible product. The pod cover improves your sleep by automatically adjusting your bed's temperature based on your individual needs. The cover can be added to any bed, like a fitted sheet, and it allows you and your partner to cool or warm. Your side of the bed as low as 55 degrees and up to 110 degrees the last few months of the year can be stressful, but I rest easy knowing that I am sleeping on the most sophisticated sleep tech in the world. Invest in the rest you deserve with the eight Sleep Pod. Go to eight sleep.com/built and save $150 on the pod. Cover by eight Sleep eight Sleep. Currently ships within the U S A Canada, the UK Select countries. In the EU and Australia,
+
+Rocket Money (1h 2m 56s):
+there are subscriptions for everything These days from streaming services to fitness programs. And sometimes it feels impossible to keep tabs on what you're paying for every month. So to help keep track of all those subscriptions you need Rocket Money. Rocket Money is a personal finance app that finds and cancels your unwanted subscriptions. It monitors your spending and helps you lower your bills all in one place. With Rocket Money, you keep track of all your monthly spending and you can even cancel subscriptions you don't want with just the press of a button. No more long hold times or annoying emails with customer service. Rocket Money does all the work for you. With over 3 million users and counting Rocket Money, customers have saved an average of $720 a year. Stop wasting money on things you don't use. Cancel your unwanted subscriptions and manage your money the easy way by going to rocket money.com/built. That's rocket money.com/built rocket money.com/built.
+
+5 (1h 4m 5s):
+Hey, welcome back to How I. Built This. I'm Guy Raz. So by 2014 Sir, Kensington's revenue is around three and a half million dollars, but its new mayonnaise and mustard lines are helping to double even triple sales.
+
+0 (1h 4m 19s):
+And this in turn helps the company raise another eight and a half million dollars just a year later. And one of the things they did that worked really well, plain old fashioned in-person marketing,
+
+5 (1h 4m 31s):
+You know, there's so much hullabaloo about digital marketing and about, you know, scalable tactics and targeting. And this was just at the time where a lot of these direct to consumer business were starting to get spun up. But we didn't have a product that really worked direct to consumer because of the price point. And it was a glass product and it was expensive to ship. And so we had a member of the team on named Pat Jamay, who had built the field marketing program for the legendary honest tea company. And so what what he did with us was spin up a plan to start doing hundreds and then ultimately thousands of in-store demos that wouldn't really scale on their own.
+
+5 (1h 5m 16s):
+But when you get these down to a science and people can really try it in the store and they buy a jar or two right there, then they'll come back three months later, six months later and buy more and more. And so what we, we, we ended up creating was very low tech and very offline. But we could go to these grocery stores and say, Hey, we know that we sell best when you put us in a special display. Yep. And they would say, well, that's a ton of inventory and you're not a beverage, you don't move very fast. You move pretty slowly. So it's gonna sit there for months. And we would say, okay, well we'll guarantee you that. We'll sell through it because we'll keep doing demos in your store until that inventory is gone. Huh.
+
+0 (1h 5m 56s):
+So that's really how you spent probably a, a huge chunk of that money that you raised. Instead of going to like internet ads or, or another strategy, you really put a lot of eggs in the ba in that basket of going doing in-store demos. 'cause that was gonna cost a lot of money to hire Oh yeah. To run these demos. Yeah.
+
+5 (1h 6m 12s):
+Unlike so many of our peers, you know, Facebook didn't see a cent from that $8 million raise.
+
+0 (1h 6m 17s):
+Yeah. Wow.
+
+6 (1h 6m 18s):
+I mean, the thinking was, ketchup is one of those things that, and mayonnaise and mustard, they're all habitual products. People are not looking at impulse by a new mayo. Yeah. And So, you know, we could run a Facebook ad, we could run a a physical ad in a newspaper, but there's nothing that is a substitute for the taste. And we really believed in the taste. So our, our theory was if we could just get more people to taste this, they'll see what we see. And then the other part was, there was no possible way we could effectively spend to support sales all across the country from Whole Foods to Kroger, to Target, to everyone in between. So our thinking was if we could just prove we could become the number one condiment brand in Whole Foods, that'll be something that we could show to Kroger.
+
+6 (1h 7m 2s):
+Yeah. Or show to investors. Or show to an acquirer. Yeah. And we were able to eventually do that. And I think in 2015, actually we were the brand that did the most number of demos in all of Whole Foods,
+
+0 (1h 7m 14s):
+The most number of demos
+
+6 (1h 7m 16s):
+In any category. We
+
+5 (1h 7m 17s):
+Pushed it as far as we could. And so this is where we started to recognize that in order to really grow a brand in this industry, you need a strong air game and a strong ground game. And so this was our ground game. But what about the air game too? And it was about this time that we had basically arranged an investment and did kind of a special deal with a, a really fantastic award-winning ad agency called Mother New York, where they would invest and they would get shares in the company, but they would get a discount because they would deliver for us also an advertising campaign. Now the catch was when we sat down to brief them, we said, oh, by the way, we of course have no budget for this campaign.
+
+5 (1h 8m 1s):
+And they said, well, you gotta give us some number. Like, and we said, okay, We can spend $50,000 on this campaign. And so what that meant was we weren't buying any billboards, we weren't buying any TV slots. We said this campaign is gonna have to earn media. And so let's do something that's really inexpensive, but that people can't help but talk about. Yeah. And what they ended up coming up with was the idea of creating a museum of french fries. We were going to create in New York City an exhibit about french fries, just as the way that the Museum of Natural History would do a show on butterflies or dinosaurs.
+
+0 (1h 8m 40s):
+So they said, rent a space and let's set up a french fry museum.
+
+5 (1h 8m 45s):
+Yes. Let's get a hundred different restaurants to give us a single french fry and we will put those french fries on display and we'll, we'll figure, figure out a way to preserve them, to coat them in resin. We'll tell the history of condiments, we'll tell the history of french fries. And what we thought was that we would basically be hanging out in this beautiful gallery for the three days on the weekend that the pop-up was open. And we'd be lucky if we got some press around it. And it turned out to be just a wild success. So from the, the minute it was open to the minute it was closed, it was full of people, like there were points where you had to limit the capacity in there. It
+
+0 (1h 9m 23s):
+Was free to get in. It
+
+5 (1h 9m 24s):
+Was free to get in. And we had little signs in front of the exhibits that say, please do not eat this specimen. I
+
+6 (1h 9m 30s):
+Mean, in front of each fry, under a glass display case, there was a little card and there was a little note from each chef that was about why they chose this shape of French fry. Why they prepare it this way. It
+
+0 (1h 9m 41s):
+Would say like, this is a Jean George Fry, or this is a Joe Rubicon fry. Or like a, like this french fry was made by this chef or this restaurant.
+
+5 (1h 9m 50s):
+Yes. And it would have an artist statement. And we developed a taxonomy. Right. Because there's only so many different sort of mother shapes of fry. Yeah. There's the allume, which is kind of like a, a standard fry. There is the waffle fry, there's the elusive palm souffle that maybe two or three very
+
+0 (1h 10m 6s):
+Hard to do. Very
+
+5 (1h 10m 7s):
+Difficult,
+
+0 (1h 10m 8s):
+Very technically mandolin slices. And then it puffs up
+
+5 (1h 10m 10s):
+Exactly very hard to perfect temperature of oil.
+
+0 (1h 10m 13s):
+Very hard. Yeah.
+
+5 (1h 10m 14s):
+Guy I, next time I'm in Northern California, I'm stopping by your
+
+0 (1h 10m 17s):
+Place. You come to my house for dinner,
+
+5 (1h 10m 18s):
+I'm cook for you. Yeah, let's make some mayo.
+
+0 (1h 10m 19s):
+Let's do it. I mean, that got covered in the New Yorker in other places. Like it was a significant article in the New Yorker. Yeah,
+
+5 (1h 10m 27s):
+It was. It was in the talk of the town. Yeah. It was in, you know, the Guardian, it was in the New York Times. It was on like Chinese television. Yeah.
+
+0 (1h 10m 36s):
+How, how much do you think that cost you? Like 50,000 bucks to, to put
+
+5 (1h 10m 39s):
+Up Yeah, we went over budget. The whole thing cost 75,000. Yeah. but it was
+
+0 (1h 10m 43s):
+Worth it. I mean,
+
+5 (1h 10m 44s):
+Yeah. Which is definitely the best marketing money alongside the demo funds that we've ever spent.
+
+0 (1h 10m 49s):
+Yeah. So I, I mean, back to that, that eight and a half million dollars for a second that you raised in 2015, what did it mean for the bottom line, right? Because you were still growing steadily. You were in, you know, like 5,000 stores. I mean, were you getting closer to becoming profitable? Well,
+
+5 (1h 11m 6s):
+It's funny, right? When you raise money and you have money to spend, actually the opposite thing happens. The bottom line, which you spend it, right? Yeah. Yeah. And I think that we started to really ask the question of who do we need to bring on to scale this business and professionalize this business?
+
+6 (1h 11m 24s):
+I think 2015 was the pivotal year where a lot of good things clicked into place and a lot of bad things happened. You know, the good things that clicked into place were that we finally had a product portfolio that seemed to be working. We had legitimacy in capital. And that also created a, our first formal board of directors, good and bad. But we needed it. But this is also when Scott and I started to hit some co-founder issues, some rough patches in the road.
+
+0 (1h 11m 51s):
+Tell me what those rough patches were.
+
+6 (1h 11m 53s):
+Do Scott, do you want me to start or you you wanna start? Yeah, I
+
+5 (1h 11m 56s):
+Think, yeah. What I think it's, I think it's good for you to Yeah. Share your perspective.
+
+6 (1h 12m 0s):
+So at the time, Scott and I effectively ran the business together. I was the C E O and I think at the time Scott, your title was C M O C
+
+5 (1h 12m 9s):
+M O. Yeah.
+
+6 (1h 12m 10s):
+Mo most business decisions ran through both of us. So we were in almost every meeting together, all the investors were familiar with both of us. And the team wasn't very big. I think the team was maybe, I don't know, 10, 15 people. But when you're a one, a two person company, me and Scott, and you have zero sales, whether your title is C M O or c o o or c e o, it doesn't really matter. Right? Everyone's doing a bit of everything. And what marketing looks like when you're a zero person company is also very different than what it looks like when you're a $5 million business with 15 employees. Yeah. And so we had started to get to the point where through the, the growth of the business and the needs on the field marketing side, the needs of the C M O role were outstripping Scott's, I think, experience in that role.
+
+6 (1h 12m 55s):
+Right. Neither of us had ever done any of this before. Yeah. And then a simultaneous but separate issue was that what we were hearing from the team was that the two of us were becoming a bit of a two-headed hydra as bosses of the business. Which again, when you're three people, it doesn't matter, but when you're 15, it really does.
+
+0 (1h 13m 10s):
+In other words, some people would say, oh, well Scott's saying this and you're saying that. Exactly.
+
+6 (1h 13m 15s):
+Yeah, exactly. Who's the final word?
+
+5 (1h 13m 16s):
+And you're both the boss. Yeah. Yeah.
+
+6 (1h 13m 18s):
+It felt like it was getting to be toxic. So I felt like I was up against the wall where I had Scott, my close friend, co-founder, someone who was valuable to the business on one side and the team on the other side saying, this isn't working. Yeah. And I went and asked for so much advice. I went to the board, I went to investors, I went to people who were not involved in the business, just friends. And pretty shockingly, the advice I mostly got was, number one, this happens to every co-founder set. Yep. It always happens. Co-founders have falling outs or fights. And then number two, the only solution is to remove Scott from the business. That's your path forward. Almost universally, that was the advice.
+
+6 (1h 13m 59s):
+And the advice wasn't specific to Scott per se. It was, this is how you solve these problems. You know? Yeah. Co, there can only be one c e o and now your business is at a point where you need a professional C M O. So what role does that leave for Scott? And it didn't feel like that was the only path available. Honestly, I felt like Scott had given too much and odd, too much still to offer to the business and to me as a co-founder and a friend. And so I didn't accept that as the answer. And I ended up, I wouldn't say fighting with the board, but informing the board that that wasn't the path I was gonna take, but that we would go down a slightly different path, which is that I would ask Scott to step away from the business for a little bit for a few months, and that we would redesign a new role for him to come back into.
+
+6 (1h 14m 44s):
+Which I didn't know what it was gonna be at the time, or
+
+5 (1h 14m 46s):
+I would leave
+
+6 (1h 14m 47s):
+Or you would leave.
+
+5 (1h 14m 48s):
+Right. It was, if if we can't get there, then I would leave.
+
+0 (1h 14m 53s):
+Well, how did you respond to it?
+
+5 (1h 14m 55s):
+Yeah, I was, we had this restaurant that was two blocks from our office that we would fire people at, so we wouldn't fire people in the office. We'd fire people at this restaurant and Mark was like, I wanna have a meeting with you at this restaurant. And I was like, that's weird. And look, I, I knew that I wasn't the perfect person for the job, but I understood that none of us were the perfect person for the job because we were all trying to figure this out as we went along. And I have a very strong sense of personal responsibility that I wasn't really able to put my hand up and be like, oh, I can't own this, or I can't get better enough at this, or I wanna seed more responsibility to you because I felt like it was my job to take that responsibility and own it.
+
+5 (1h 15m 40s):
+You know, I love putting on fries of New York, but the idea of constructing a national field marketing enterprise for me is, is mind numbing. And I, at the time I was gutted, you know, I was shocked. I was, so much of my identity was tied up in this, I was very confused. And I remember talking to my dad and he said, you know, you're probably really angry right now and you're probably kind of pissed at Mark, but you know, a year from now you might be writing him a thank you note no matter what happens. And I said, you know, I hope that's true.
+
+6 (1h 16m 13s):
+I mean, this was like, certainly this was the hardest thing I ever had to do up to this point in business. Certainly harder for Scott to hear it than for me to say it. But you know, I didn't sleep for weeks leading up to this. I bet. And then rehearse my speech over and over and over and over again. And I could barely get it out when the restaurant, because it wasn't always obvious to me whether Scott would want to re, you know, to return and trust me again. Yeah. But the crazy part is this was on, I think it was either a Thursday or a Friday, we left the restaurant and then my son was born that Monday. So I immediately went out on paternity leave
+
+5 (1h 16m 49s):
+And I wasn't allowed to come into the office. Yeah.
+
+0 (1h 16m 52s):
+Wow.
+
+6 (1h 16m 53s):
+So on Wednesday, the company has both a C E O and A C M O. And by Monday we're both gone for months. So I mean credit where it's due to the team who kept the lights on while we were gone. Hmm.
+
+5 (1h 17m 5s):
+And so I spent a month and a half in, in what I'll call the desert, like conceptually the desert. Literally. I went to a cabin in the woods for three days after I had talked to a whole bunch of different entrepreneurs, our team members, some of our investors. And I posed this question to them, which is like, what is Sir Kensington need now? Right. Because if I can figure out the overlap between what's holding us back from Greatness and the way that I'm actually suited to contribute, then there might be a path forward.
+
+6 (1h 17m 35s):
+You know, Scott came to visit me. I was living in Westchester at the time. So Scott would come up and we would have all day sessions thinking about all this. And we had space to really think this through in a way that we maybe wouldn't have if I was in the business full-time day to day.
+
+0 (1h 17m 47s):
+Yeah.
+
+5 (1h 17m 48s):
+And before this point, you know, we would talk about having a good culture as a company, but we didn't actually have any words to describe that culture. Like we didn't have a list of values, we didn't have a mission. We knew that we had like less sugar. Right. And we knew that we were non G M o verified. but it was kind of this collection of things that had emerged over time rather than a, a coherent system. And one of the things that I then brought back to Mark and that we really volleyed on together was, well, what would that actually look like to formalize this kind of stuff? And I came back to the business with Mark's support and with a renewed sense of fire and a renewed sense of, of fierceness about this.
+
+5 (1h 18m 34s):
+And we started to create this story about who we were.
+
+6 (1h 18m 38s):
+The business benefited tremendously from Scott coming back. And, you know, one of the concerns that I had was, what is that reintegration process back into the business gonna be? And it could not, from my perspective, it couldn't have gone better. But that's a testament to Scott's focus on the people in the business and the mission that we had. And it's, it's really a testament to him.
+
+0 (1h 18m 59s):
+Yeah. Alright. So 2016 was a really transitional year for you. You're growing and I think you got up to about 25, 30 people. Meantime, mark, I guess you get approached by an executive at Unilever just to, just to talk, just to get to know you. What, how did that happen?
+
+6 (1h 19m 23s):
+It was actually fall of, I think it was around Thanksgiving of 20 16, 1 of our earliest investors, a gentleman named near, he was at an event and he's like, I've just met this guy, case Cro Tough, who at the time was president of Unilever North America, telling him about Sir Kensington's, he loves the brand, he buys it, he wants to meet you guys. So we were like, well, we're not, I mean, this is not at all on our radar an acquisition at this point. We're still so small, we're still so young. But sure, we'll meet him.
+
+5 (1h 19m 53s):
+Our board would've told us not to take the meeting. Your board
+
+0 (1h 19m 56s):
+Orders said don't take the meeting. Yeah. Why would they have said that?
+
+5 (1h 19m 59s):
+Put your head down. Grow the business. It's just distractions. Distractions. It's too early. Yep.
+
+6 (1h 20m 4s):
+Yeah. But as anyone who's met Case can tell you, you, he has a magnetic personality. But also by this point, we had really started to think about more broadly, what positive impact can we create with the business? And Unilever at the time, in case in particular, was a big believer in B Corp, which is essentially like the marker of your commitment to social equity and environmental justice among other things. Yeah. And we really liked what he was talking about. And so we stayed in touch until many months later when more happened,
+
+5 (1h 20m 34s):
+Kraft Heinz had actually made this unsolicited takeover offer Yeah. For Unilever, like,
+
+0 (1h 20m 39s):
+Almost like a hostile bid. Yeah. It was kind of a, a perfect storm because Kraft Heinz had to, o offered like $143 billion for Unilever a lot of money. And Unilever had to, to prove to its investors, it had to make some serious strategic decisions. And one of them was to shed some of its lines like Country Crock, I can't believe it's not butter. Yep. And then focus on other things. Like they had Hellmans, they owneds that Manny's
+
+5 (1h 21m 6s):
+Brand they had, but they needed, they needed brands and businesses that spoke to a younger generation Yeah. And supported their mission around good food and healthy food and businesses that were growing. And growth was something that we had. Yeah. And at this point, I had just had my first child, and so it was early February of 2017 and I was gonna go on a trail run. And I remember at the beginning of this trail run, I get a call from Mark and he is like, Unilever wants to buy us and I think they're serious. And I'm like, okay. I I, I'll, that's very interesting. But like, you know, I'll talk to him when I get back. And I had just read Shoe Dog by Phil Knight and Yep. Had all this on my mind about like the legacy and like my newborn son and like, what were we doing?
+
+5 (1h 21m 51s):
+And, and you know, what would Unilever be able to offer us? And by the end of that trail run, I was like, it's time. This makes sense. Like, if We can do this, we should do this.
+
+0 (1h 22m 0s):
+So they started to talk to you, right. And you just come about 2016. Do you, are you able to talk about what your revenue was in 2016? I,
+
+6 (1h 22m 7s):
+I think it was probably about 20 million ish. Okay. So we were small. Yeah.
+
+0 (1h 22m 14s):
+You were still small
+
+6 (1h 22m 15s):
+And I mean, this was a really tough time for us because we first had to ask ourselves the question, is now the right time to be acquired? Period. Yeah. We had just started to feel things clicking into place. Right. But then the truth is we weren't profitable. And so when you're not profitable, you have an end date to your cash and you can either keep raising money, you can find a way to make your business profitable, or you can sell it. We definitely had to face that very real decision of are we such a believer in the long-term potential of this business that we'll roll the dice. 'cause who knows if Unilever will come knocking Again, this might be a once in a lifetime moment where they're feeling this pressure from Kraft Heinz, we're in the right place at the right time.
+
+6 (1h 22m 59s):
+And we were also thinking Unilever is a great acquirer. They know the condiment space. They have brands that we aspire to, you know, then, and now we put Ben and Jerry's in the same League as Patagonia. And so yeah, as we had conversations with the board, there was some amount of conflict and disagreement about valuation and other terms, but eventually everyone agreed that this was the right time, the right place. So the
+
+0 (1h 23m 21s):
+Deal went through, it was reportedly for 140 million, I don't know if it ever, if it was ever made public, was it made public
+
+6 (1h 23m 27s):
+That number is what was made
+
+5 (1h 23m 28s):
+Public. Yeah. Not, not by our parties.
+
+0 (1h 23m 30s):
+Yeah. I gotcha. Okay. Yeah. So both of you now become employees of Unilever. What was that like to go from a small scrappy group of like 25, 30 people to now running a Unilever portfolio company? I mean, yeah.
+
+5 (1h 23m 45s):
+What's really interesting in these cases is that you're not really dealing with like a single board of like four people. You're starting to now work with something that was pretty honestly like foreign to Mark and I, which is like a whole swath of, you know, a multinational company and everybody has all these different assumptions of exactly what things are gonna be like. Right. So yeah. Oh, okay. Great. You've joined and Oh, so it's just gonna be like the seventh generation integration. Oh no. It's gonna be more like Ben and Jerry's or Oh no, it's gonna be, oh, but you're part of the Helman's, you know, sales organization. And so really, you know what started out as pretty clean, ultimately it gets complicated and things start to fold in in unexpected ways.
+
+6 (1h 24m 29s):
+The reality of any deal is there is a big difference between your deal champions who acquire your business and the on the ground people who you have to work with day to day. Yeah. There's just, they're just very different teams and different people. Right. And sometimes you learn that the team who has to work with you didn't even know anything about the deal until the day the deal was announced. So Oh, yeah. Because
+
+5 (1h 24m 49s):
+It's all confidential.
+
+6 (1h 24m 50s):
+Yeah. So all of a sudden they go from having some work to even more work and you are that work, right? Yeah. And it's nothing against them, but it just, it does get hard on people.
+
+0 (1h 24m 59s):
+Just the bureaucracy changes dramatically.
+
+5 (1h 25m 2s):
+Yeah. I mean, you know, in our case it was very interesting because no doubt there are so many benefits that we, that we saw and we, we said, Hey, you know, we went from having a retail sales team of four people to Unilever's sales team of 400 people spread across these 50 states. Yeah. And so together with the team and with Unilever's, fantastic team, the size of Sir Kensington's tripled, right?
+
+0 (1h 25m 25s):
+'cause they could get you into Costco, they could get you, I mean, they had massive, right?
+
+5 (1h 25m 29s):
+We hadn't worked with Costco at the time. We hadn't worked with Walmart, we hadn't worked with Target right now all of a sudden.
+
+0 (1h 25m 34s):
+And they had massive leverage. Unilever can move industry, they can go to Kroger or Walmart and all these places and say, we want it there. Well,
+
+6 (1h 25m 43s):
+You know, case himself would call up Publix and say that they should meet with us. But I think the I culture that we had built was one of startup people. Like it's a type of fast moving, you know, risk taking, adventurous kind of team member who is very different than the style of person who joins a, you know, a Unilever or a General Mills. Yeah. And so inevitably there's a culture mismatch.
+
+5 (1h 26m 9s):
+And so Mark and my job changed from sort of piloting this independent ship together to all of a sudden it's more about broken these relationships and like the level of diplomacy and helping people simultaneously feel psychological safety, but also treating them like adults and recognizing that we are living in change, right? Yeah. And change is our business.
+
+6 (1h 26m 31s):
+Yeah. One huge mistake that we, that I made is post-acquisition. We wrongfully and maybe naively painted a picture of there won't be change, or the change will only be good, right? They're gonna grow our sales and everything else will stay the same. And so we, in an attempt to create psychological safety, we created a false expectation of stability, which then ironically destroyed any psychological safety that the team had. Because when change came, not only was the change hard, but then we lost their trust. So that, I think it was that fall, that November, maybe six months after we were acquired, we took two days off of working the whole team to do like a, in the city retreat, to take a step back and say like, let's talk about these problems.
+
+6 (1h 27m 19s):
+And it was a really cathartic time for people. And it, it's what allowed us to start an honest conversation about, okay, change will happen. Yeah. It's it that's true. So now how do we deal with it rather than how do we pretend it won't
+
+0 (1h 27m 32s):
+You eventually both of you would leave Mark, you eventually left in 2019. Yeah. And we'll get to what you did in a moment. And then Scott, you took over as c e o for about another year, a year and a half, and then you left to become an investor to basically start your own fund. Mark, I know that you were recruited by the founders of another brand when you were out in California for the trade show, the expo west show founders of this brand called Hue, which is, it's like paleo chocolate, but all made with no refined sugars. Again, sort of like you guys with Sir Kensington's, they were looking to eventually get acquired, but they needed, I guess they needed help.
+
+0 (1h 28m 13s):
+Yeah. Is that more or less what happened?
+
+6 (1h 28m 15s):
+Yeah, exactly. Yeah. They, well, what had happened was at that same expo, west Scott and I, we were meeting with our boss at the time and we had a, we had breakfast at one of the Disneyland, like themed restaurants. There were like Disney characters dressed up and singing at seven or 8:00 AM And that was, that was actually the moment where I delivered the news that I was officially leaving. Mickey
+
+5 (1h 28m 38s):
+Mouse was literally coming over to take pictures with us. Yeah. While Mark was breaking the news to the, the North American food. Yeah, yeah,
+
+6 (1h 28m 46s):
+Yeah. No regard that Mickey Mouse. But I met the Hue team and it, you know, very similar to Sir Kensington's in a sense, right? Yeah. Yeah. The timing worked out for me to join them in the fall of that year as the c e o
+
+0 (1h 28m 58s):
+And with Hugh, you did eventually help them go get acquired. They were acquired by Mondelez and that was a massive acquisition. I mean, they, they, that was almost twice as big as the acquisition of Yeah, sir Kensington's,
+
+6 (1h 29m 12s):
+The nature of snacks and chocolate during the pandemic. It gave such incredible tailwinds to the business. Talk about luck in all of this. You know, I mean, I think a common story probably in all the acquisition stories you hear is the timing's gotta be right. In addition to everything else.
+
+0 (1h 29m 30s):
+You guys, one of the sort of factors in starting the business was that article by Malcolm Gladwell, which, you know, you wanted to show, maybe you could challenge at this premise that that Heinz didn't need to be the dominant ketchup. And then in 2023, Unilever parent company of Sir Kensington decided to stop making Sir Kensington's ketchup and focus on the other condiments. And I wonder what you guys thought when you found out about that decision.
+
+5 (1h 30m 1s):
+Well, aside from, you know, having our hopes dash that we would one day best Malcolm Gladwell in that, in that argument, we, we felt really sad. Look, business is hard. Companies serve a lot of masters. And, and at the same time too, we had gone through inflation pandemic's, international war that impacted the food system. But, you know, ultimately, you know, it's sad to see this original baby that we had created and we'd concept and we put so much time in ultimately get snuffed out. When that that news came out that the product was being discontinued, I felt ashamed that I had 10 years to get this product right, to get it to scale, to prove that it could succeed and prove that it could be better.
+
+5 (1h 30m 48s):
+And we had almost like squandered that opportunity. Right. And that it was somehow on, on me. And I remember posting what I called this ketchup eulogy to LinkedIn that Mark and I had worked on together. And what I heard and what I felt from people wasn't Oh yeah. Like you tried and you failed, but it was instead like all this outpouring of passion for the product, for the brand, for the, for the other products. And it helped me realize that the ketchup served its purpose. Yeah. It doesn't exist anymore. But you know, what does exist is the culture that we had created and all now the team members that we had that have gone to start their own food companies, right.
+
+5 (1h 31m 30s):
+Or become leaders in other food companies or, or leaders in other industries, the ketchup served its purpose, right? It was the seed that was planted and all the flowers that have bloomed from there.
+
+0 (1h 31m 41s):
+Yeah.
+
+6 (1h 31m 42s):
+I think I had a really, I had a tough time with this hearing the news. Hmm. but it was at this, or I guess it was a year ago at Expo West when I reconnected with one of our old Sir Kensington team members whose name is Elliot. And we were kinda lamenting this and he's like, like, I gotta show you something. And he pulls up his sleeve of his shirt and on his arm is a tattoo of the Sir Kensington's bottle. And I was like, why would you get a ketchup bottle tattooed on your arm? And he said, because prior to working at Sir Kensington's, I had not felt connected in any real way to a workplace before.
+
+6 (1h 32m 22s):
+Hmm. And he wanted to get this tattoo to sort of mark what Sir Kensington's meant to him. And it wasn't the ketchup or the mayonnaise, it was the team and the people.
+
+0 (1h 32m 32s):
+Do you think in the end, Malcolm Gladwell's premise stands that actually Heinz does make the best ketchup or, or a, a ketchup that appeals to the wide, the widest number of people's tastes. And ultimately that is why will continue to dominate its category
+
+5 (1h 32m 51s):
+Deeply in my bones. I could never agree with that sentiment. And my official on the record statement is that it just hasn't been sufficiently challenged yet. Exactly. So I await the next generation of ketchup entrepreneurs to fulfill the mission that we could not fully fulfill.
+
+0 (1h 33m 8s):
+Mark,
+
+6 (1h 33m 8s):
+My answer is no, because the premise itself is kind of ridiculous, right? Like, no one makes the perfect food, no one makes the perfect soda, no one makes the perfect ketchup. I think any disruption to habit takes a lot of time, takes a lot of blood, sweat and tears, takes a lot of capital, and we ran out of all three. And someone at some point will challenge that monopoly in a way that breaks through. And maybe we were just too early. Maybe we had the wrong product, maybe we weren't the right people. But I firmly believe that change is inevitable.
+
+0 (1h 33m 40s):
+When you guys think about this journey you took and where you are, both of you are still young and you've got, I'm sure a lot more product innovation businesses, ideas in you, how much of, of what you did and where you are to attribute to luck, and how much, how much do you think is just because of how hard you worked in your, your skill and your, your smarts? First Tee Scott,
+
+5 (1h 34m 3s):
+I attribute a large amount of what we have accomplished to luck. Most definitely. I also believe that we have worked very hard and that we've been focused and that we've put a lot of effort into what we do. But we are extremely fortunate. I mean, like Mark said, so much of what we did was right place, right time. This is like in the changing taste of America. It was the proclivities of, of our ultimate acquirer and the fact that we've both come, you know, from some, some means, right? We had a little bit of a, a leg up, just socioeconomically all that is very much luck. But I always go back to again, my dad, he has this great saying, which is the harder I work, the luckier I get.
+
+5 (1h 34m 43s):
+But I do feel like I'm a lucky guy,
+
+0 (1h 34m 46s):
+Mark,
+
+6 (1h 34m 47s):
+It's all talent. No luck. No, I'm kidding. Maybe the only different thing I would say is there's being lucky and then there's knowing what to do with the fortune. The fortune when it's handed to you. You know, I think it was lucky that Scott came back to the business in a role that was so beautiful, but it took work to integrate that role into the business on both of our parts. And I think we've had a ton of luck from beginning to end. But you know, I think we've also put in a lot of time to be self-aware of our faults and our deficiencies to keep our egos pretty low. To recognize that I don't think I know anything about being a C E O. Honestly. I think I'm at the very beginning of figuring out how to do this job.
+
+6 (1h 35m 28s):
+And I approach every day thinking like, what is the luck that I'm gonna turn into opportunity today?
+
+0 (1h 35m 34s):
+That's Scott Norton and Mark Ramadan co-founders of Sir Kensington's. Be honest with me now that you can't get Sir Kensington's ketchup anymore. Are you just going to use Heinz?
+
+6 (1h 35m 46s):
+I don't know. like that brand loyalty goes pretty deep to be honest. I mean, yes, it's gone, but it's not gone in my heart. That's true.
+
+5 (1h 35m 52s):
+I don't know about you, mark, but when the announcement was made, I bought as much ketchup as I could. Same on Amazon. I still have a stockpile, so
+
+6 (1h 36m 1s):
+I'm still going through it.
+
+0 (1h 36m 2s):
+We'll see what happens. But right now you've got like an Armageddons case, like room in your house, A garage full of
+
+5 (1h 36m 8s):
+Ketchup. Yeah. A safe room. A safe room of ketchup. Yeah.
+
+0 (1h 36m 11s):
+So at the end of the world, like when we're all like living the road, you'll just have a lot of Sir Kensingtons. Yeah.
+
+5 (1h 36m 17s):
+Yeah. You bring the potable water and I'll bring the gourmet ketchup guy. Perfect.
+
+0 (1h 36m 20s):
+I'll bring the ammo and ketchup. Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app. So you never miss a new episode of the show. It supports our show and it's totally free. This episode was produced by Alex Chung, with music composed by Tine Arablouei. It was Edited by Andrea Bruce. Our audio engineers were Gilly Moon and Maggie Luthar. Our production staff also includes Casey Herman, JC Howard, Sam Paulson, Ramel Wood, Kerry Thompson, Malia Aga, John Isabella Neva Grant, Chris Masini, and Carla Estevez. I'm Guy Raz and you've been listening to How I Built This.
+
+0 (1h 37m 7s):
+Hey Prime members. You can listen to How I Built This early and ad free on Amazon Music Download, the Amazon Music app today. Or you can listen early and ad free with Wondery Plus in Apple Podcasts. If you wanna show your support for our show, be sure to get your How I Built This merch and gear at Wondery shop.com. Before you go, tell us about yourself by completing a short survey at Wondery dot com slash survey.
+
+8 (1h 37m 35s):
+Deep in the enchanted forest from the whimsical world of Disney Frozen, something is wrong. Aaron De is in danger once again from dark Forces, threatening to disrupt the peace and tranquility. And it's up to Anna and Elsa to stop the villains before it's too late. For the last 10 years, Frozen has mesmerized millions around the world. Now, Wondery presents Disney Frozen Forces of Nature podcast, which extends the storytelling of the beloved animated series as an audio first original story, complete with new characters and a standalone adventure set. After the events of Frozen two, reunite with the whole crew, Anna, Elsa, Olaf, and Christophe, for an action packed adventure of fun, imagination, and mystery.
+
+8 (1h 38m 24s):
+Follow along as the gang enlist the help of old friends and new as they venture deep into the forest. And discover the mysterious copper machines behind the chaos, and count yourself amongst the allies as they investigate the strange happenings in the enchanted forest. The only question is, are Anna and Elsa able to save their peaceful kingdom? Listen early and add free to the entire season of Disney Frozen Forces of Nature podcast, along with exclusive bonus content on Wondery. Plus, join Wondery Plus in the Wondery app or Wondery plus kits on Apple Podcasts.
