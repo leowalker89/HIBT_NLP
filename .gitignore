@@ -1,5 +1,7 @@
 .env
+.DS_Store
 
+*/raw_audio
 */hibt_lab
 */hibt_main_cleaned
 */hibt_test
