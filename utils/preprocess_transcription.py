@@ -33,7 +33,7 @@ def remove_ads(transcript: str) -> str:
     cleaned_transcript = '\n'.join(content_lines)
     return cleaned_transcript
 
-def identify_host(transcript: str) -> str:
+def identify_host(transcript: str) -> (str, bool):
     # Split the transcript into lines
     lines = transcript.split('\n')
 
@@ -77,7 +77,7 @@ def identify_host(transcript: str) -> str:
         host_speaker = welcome_speaker
         welcome_questions_match = False
 
-    return host_speaker, welcome_questions_match
+    return (host_speaker, welcome_questions_match)
 
 def insert_marker_before_host(transcript: str, host_speaker: int) -> str:
     # Split the transcript into lines
@@ -95,7 +95,7 @@ def insert_marker_before_host(transcript: str, host_speaker: int) -> str:
             current_speaker = speaker_match.group(1)
             # If the current speaker is the host, insert the marker before adding the line
             if current_speaker == host_speaker:
-                modified_lines.append("###")  # Insert marker
+                modified_lines.append(";;;")  # Insert marker
             modified_lines.append(line)
         else:
             modified_lines.append(line)
