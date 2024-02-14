@@ -1,6 +1,7 @@
 .env
 .DS_Store
 
+*.pyc
 */raw_audio
 */hibt_lab
 */hibt_main_cleaned
