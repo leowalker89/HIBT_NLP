@@ -95,7 +95,7 @@ def insert_marker_before_host(transcript: str, host_speaker: int) -> str:
             current_speaker = speaker_match.group(1)
             # If the current speaker is the host, insert the marker before adding the line
             if current_speaker == host_speaker:
-                modified_lines.append(";;;")  # Insert marker
+                modified_lines.append("###")  # Insert marker
             modified_lines.append(line)
         else:
             modified_lines.append(line)
