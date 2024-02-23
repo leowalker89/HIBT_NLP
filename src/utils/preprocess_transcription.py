@@ -1,6 +1,7 @@
 import os
 import re
 from collections import defaultdict
+from typing import Tuple
 
 def remove_ads(transcript: str) -> str:
     # Split the transcript into lines
@@ -33,8 +34,8 @@ def remove_ads(transcript: str) -> str:
     cleaned_transcript = '\n'.join(content_lines)
     return cleaned_transcript
 
-def identify_host(transcript: str) -> (str, bool):
-    # Split the transcript into lines
+def identify_host(transcript: str) -> Tuple[str, bool]:
+    ### identifies the host by assuming they're who says 'welcome to', 'welcome back', and asks the most questions.
     lines = transcript.split('\n')
 
     # Dictionaries to hold counts
@@ -103,4 +104,37 @@ def insert_marker_before_host(transcript: str, host_speaker: int) -> str:
     # Join the modified lines back into a single string
     modified_transcript = '\n'.join(modified_lines)
     return modified_transcript
+
+# Podscribe does a decent job labeling ads with the advertisers name, we'll remove these from the transcripts
+
+def remove_ads(transcript):
+    # Split the transcript into lines
+    lines = transcript.split('\n')
+
+    # List to hold lines that are part of the main content, including speaker identifiers
+    content_lines = []
+
+    # Adjusted regular expression to match speaker identifiers with hours, minutes, and seconds
+    speaker_regex = r'^\d+ \((\d+h )?(\d+m )?\d+s\):'
+
+    # Loop through the lines with an index so we can look ahead
+    i = 0
+    while i < len(lines):
+        # Check if the line matches the pattern for a speaker
+        if re.match(speaker_regex, lines[i]):
+            # Include this line (speaker identifier)
+            content_lines.append(lines[i])
+            
+            # Check and include the next line if it exists
+            if i + 1 < len(lines):
+                content_lines.append(lines[i + 1])  # Include the next line (content)
+                content_lines.append("")  # Add an empty line for separation
+                
+            i += 2  # Move past the next line since we've included it
+        else:
+            i += 1  # Increment to check the next line if this isn't a speaker
+
+    # Join the content lines back into a single string, ensuring separation
+    cleaned_transcript = '\n'.join(content_lines)
+    return cleaned_transcript
 

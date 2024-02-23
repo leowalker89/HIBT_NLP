@@ -38,8 +38,8 @@ class comp_guest(BaseModel):
     guest: List[str]
 
 
-def extract_comp_guest(file_string: str) -> comp_guest:
-
+def llm_extract_comp_guest(file_string: str) -> comp_guest:
+    # Extracts Company and Guest from the file name using an LLM
     parser = PydanticOutputParser(pydantic_object=comp_guest)
     parser.get_format_instructions()
 
@@ -57,6 +57,7 @@ def extract_comp_guest(file_string: str) -> comp_guest:
     return parsed_output
 
 def re_extract_comp_guest(file_string: str) -> comp_guest:
+    # Extracts Company and Guest from the file name using regex
     if ' with ' in file_string and ' of ' in file_string:
         match = re.match(r'.* with (.*?) of (.*?)-transcript\.txt', file_string)
         guest = match.group(1)
