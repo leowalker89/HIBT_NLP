@@ -12,7 +12,7 @@ from langchain_community.chat_models import ChatAnthropic
 from langchain_openai import ChatOpenAI, OpenAI
 from langchain_mistralai.chat_models import ChatMistralAI
 
-from typing import Annotated, Dict, TypedDict
+from typing import Annotated, Dict, TypedDict, Optional
 
 from langchain_core.messages import BaseMessage
 
@@ -33,11 +33,12 @@ class GraphState(TypedDict):
 
     Attributes:
         keys: A dictionary where each key is a string
+        retries: An optional integer representing the number of retries (default: 0)
+        document_count: An optional integer representing the document count (default: 0)
     """
     keys: Dict[str, any]
-    retries: int
-    document_count: int
-    company: str
+    retries: Optional[int] = 1
+    doc_pull_limit: Optional[int] = 4
 
 workflow = StateGraph(GraphState)
 
@@ -68,9 +69,15 @@ app = workflow.compile()
 if __name__ == "__main__":
     inputs = {
         "keys": {
-            "company": "Audible",
-            "question": "In reflecting on your path to success, how do you view the contributions of diligence, intellect, and fortuitous events? Are there particular moments or decisions that highlight the importance of these elements?"
-        }
+            "company": "Chipotle",
+            "question": """
+            How much of your success do you think is because of luck and, and how much because of Either a hardworking skill.
+            """
+        },
+        "doc_pull_limit": 8,
+        "retries": 1,
+        
     }
 
     answer = app.invoke(inputs)
+    print(answer['keys']['generation'])
