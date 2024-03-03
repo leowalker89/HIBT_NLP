@@ -16,7 +16,7 @@ from typing import Annotated, Dict, TypedDict, Optional
 
 from langchain_core.messages import BaseMessage
 
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 # from langchain.output_parsers import PydanticOutputParser
 from langchain_core.output_parsers import JsonOutputParser, StrOutputParser, PydanticOutputParser
 import os
