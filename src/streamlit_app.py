@@ -5,7 +5,7 @@ import plotly.express as px
 # Set page to wide mode
 st.set_page_config(layout="wide")
 
-df = pd.read_csv("../answers/company_answers_cleaned.csv")
+df = pd.read_csv("answers/company_answers_cleaned.csv")
 
 df = df.drop(columns=['summary'])
 
@@ -18,7 +18,6 @@ def create_histogram(column_name):
                        title=f"Distribution of {column_name.capitalize()}")
     fig.update_layout(bargap=0.1)
     return fig
-
 
 
 # Sidebar for filters and sorting options
@@ -61,7 +60,7 @@ col1, col2 = st.columns([3, 1])  # You may not need to change the ratio for wide
 with col1:
     st.title('Entrepreneurs Answers')
     for index, row in filtered_df.iterrows():
-        st.markdown(f'"{row["answer"]}"\n\n - {row["guest"]}, {row["company"]}\n\nLuck: {row["luck"]}, Work: {row["work"]}, People: {row["people"]}')
+        st.markdown(f'{row["guest"]}, {row["company"]}\n\nLuck: {row["luck"]}, Work: {row["work"]}, People: {row["people"]},\n\n "{row["answer"]}"\n\n')
         st.divider()
 
 # Display histograms in the right column (col2)
